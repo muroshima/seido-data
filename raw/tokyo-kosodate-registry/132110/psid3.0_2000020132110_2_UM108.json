@@ -1,0 +1,143 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "小平市立小川町二丁目児童館",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+2+UM108"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市小川町2-1154",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "小平市立小川町二丁目児童館",
+    "contactPhone": "042-345-6454",
+    "contactUrl": null,
+    "zipCode": "1870032"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "小川町二丁目児童館\n児童館は子どもたちが遊びを通して人とのつながりや心を豊かにし、いろいろな体験をしていく広場です。\n\n小川町二丁目児童館\n\n館内図\n児童館だより\n児童館からの案内を掲載しています。\n\n詳しくは、児童館だよりのページ;https://www.city.kodaira.tokyo.jp/kurashi/083/083769.htmlをご覧ください。\n\n住所\n小平市小川町2－1154\n\n交通機関\n西武国分寺線たかの台駅から徒歩10分\n\nJR武蔵野線新小平駅から徒歩7分\n\n児童館までの地図は、添付ファイルをご覧ください。\n\n電話\n042－345－6454\n\n開館時間\n平日：午前9時～午後7時（乳幼児・小学生は午後6時まで）\n\n土曜,日曜,祝日：午前9時～午後6時\n\n休館日\n第1・第3火曜日（当日が祝祭日のときはその翌日）\n\n年末年始（12月28日～1月4日）\n\n利用対象者\n保護者が付き添う乳幼児、小学生、中学生、高校生\n\n利用について\nはじめての方は、来館の際に登録をしてください。\n\n体調不良の方は、利用をお控えください。また、幼稚園や学校等で学級閉鎖となったお子さんについては感染拡大防止の観点から利用をお控えください。\n\n添付ファイル\n児童館までの地図（PDF 60.1KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/182/000182/att_0000003.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "第1・第3火曜日（当日が祝祭日のときはその翌日）\n\n年末年始（12月28日～1月4日）",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "小平市小川町2－1154",
+    "implementationName": "小川町二丁目児童館"
+  },
+  "institutionName": {
+    "canonicalName": "児童館",
+    "shortName": "小川町二丁目児童館"
+  },
+  "localGovernmentLink": {
+    "title": "小川町二丁目児童館",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/000/000182.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "小平市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "花小金井南児童館",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/000/000180.html"
+    },
+    {
+      "title": "児童館（じどうかん）トップへ",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/003/003829.html"
+    },
+    {
+      "title": "児童館だよりのページ",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/083/083769.html"
+    },
+    {
+      "title": "児童館までの地図（PDF 60.1KB）",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/182/000182/att_0000003.pdf"
+    },
+    {
+      "title": "小川町一丁目児童館",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/032/032282.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童館は、18歳未満のお子さんに健全な遊びを提供し、健康増進を図るとともに、豊かな情操を育むことを目的としています。\n小平市の児童館には、小学校就学前のお子さんが安心して遊べるスペースがあり、またお子さんの年齢に応じた各種イベントなども行っています。\n（イベントの詳細については、小平市サイトや市報などでお知らせしています。）",
+  "support": {
+    "description": "児童館は子どもたちが遊びを通して人とのつながりや心を豊かにし、いろいろな体験をしていく広場です。",
+    "materiallySupport": "児童館は子どもたちが遊びを通して人とのつながりや心を豊かにし、いろいろな体験をしていく広場です。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "保護者が付き添う乳幼児、小学生、中学生、高校生"
+  },
+  "updateDate": "2023-05-08",
+  "useConsiderationFlag": false,
+  "utilization": "はじめての方は、来館の際に登録をしてください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "平日：午前9時～午後7時（乳幼児・小学生は午後6時まで）\n\n土曜,日曜,祝日：午前9時～午後6時",
+    "fromHM": null,
+    "toHM": null
+  }
+}

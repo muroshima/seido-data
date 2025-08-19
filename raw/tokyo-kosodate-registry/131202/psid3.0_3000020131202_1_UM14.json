@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "131202;練馬区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健相談所",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020131202",
+    "psid": "psid3.0+3000020131202+1+UM14"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健相談所",
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "赤ちゃんが生まれたすべてのご家庭を助産師・保健師が訪問します。赤ちゃんの体重測定や健康状態の確認、育児や産後のママの体調の相談、子育て支援サービスの紹介などを行います。出産後に郵送していただくはがき「赤ちゃん訪問連絡票（出生通知票）」をもとに訪問します。訪問を受けていただいた方には、子育て応援ギフトの申込みに必要なご案内をお渡しします。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "家庭"
+  },
+  "institutionName": {
+    "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+    "shortName": "こんにちは赤ちゃん訪問"
+  },
+  "localGovernmentLink": {
+    "title": "こんにちは赤ちゃん訪問",
+    "uri": "https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/sukoyaka/homon.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/03/07",
+    "updater": "練馬区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "出産後、赤ちゃん訪問連絡票（出生通知票）を郵送してください。\n担当の保健相談所から電話（※）が入ります。（訪問日時の相談の連絡）",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第21条の10の２・第11条と第13条",
+    "regulationName": "児童福祉法・母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "練馬区出産・子育て応援事業",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/shussan/20230110.html"
+    },
+    {
+      "title": "赤ちゃん訪問連絡票（出生通知票）(見本）",
+      "uri": "https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/sukoyaka/homon.files/SKM_654e15082409280.pdf"
+    },
+    {
+      "title": "保健相談所",
+      "uri": "https://www.city.nerima.tokyo.jp/shisetsu/hokenfuku/hokensodan/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "生後4か月を迎えるまでの乳児がいるご家庭に助産師・保健師が訪問し、親子の心身の健康状態や養育環境等の状況を伺い、子育て支援に関する情報提供、不安や悩みの相談や助言を行います。支援が必要な場合は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+  "support": {
+    "description": "訪問を受けていただいた方には、子育て応援ギフトの申込みに必要なご案内をお渡しします。",
+    "materiallySupport": null,
+    "monetarySupport": "子育て応援ギフト"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 4
+    },
+    "targetPersons": "対象\n生後4か月までの乳児のいる全世帯\n※里帰りで練馬区へ滞在中の方も、ご希望により訪問できます。"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": "お約束した日時に訪問します。（こんにちは赤ちゃん訪問）",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

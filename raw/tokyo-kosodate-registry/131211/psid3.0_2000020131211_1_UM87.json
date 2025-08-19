@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131211;足立区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "（福）足立区社会福祉協議会あいあいサービスセンター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020131211",
+    "psid": "psid3.0+2000020131211+1+UM87"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "足立区西新井二丁目11番4号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "（福）足立区社会福祉協議会あいあいサービスセンター",
+    "contactPhone": "03-3856-0274",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "利用料金（報酬）\n|区分|利用料金|\n|:----|:----|\n|平日の午前8時から午後6時|1時間500円|\n|平日の午前6時から午前8時<br>平日の午後6時から午後10時<br>土日祝の午前6時から午後10時|1時間800円|\n|送迎のみ（区内・1時間以内）<br>曜日・時間にかかわらず|1回500円|\n\n送迎交通費等の実費は、利用会員が負担",
+  "description": "あだちファミリー・サポート・センター事業\n【お願い】\n・風邪症状（発熱等）のある方や、体調に不安がある方におかれましては、ご利用をお控えいただきますようお願いします。\n子育ての援助を受けたい方に利用会員になっていただき、子育ての応援をしてくださる方に提供会員となっていただいて保育施設等への送迎や保護者外出時に提供会員宅でお預かりします。地域住民の皆様が主体となって子育てを応援するしくみです。\n\nこの事業は仕事と家庭の両立を支援するため足立区社会福祉協議会に委託し実施しています。\n\n利用会員\n生後6か月から12歳までのお子さんがいる区内在住もしくは在勤の方。\n\n登録に際しては、利用会員募集説明会（1時間程度）の参加が必要です。\n説明会の日程は足立区社会福祉協議会（外部サイトへリンク）;http://adachisyakyo.jp/のホームページをご確認ください。\n\n利用料金（報酬）\n|区分|利用料金|\n|:----|:----|\n|平日の午前8時から午後6時|1時間500円|\n|平日の午前6時から午前8時<br>平日の午後6時から午後10時<br>土日祝の午前6時から午後10時|1時間800円|\n|送迎のみ（区内・1時間以内）<br>曜日・時間にかかわらず|1回500円|\n\n送迎交通費等の実費は、利用会員が負担\n\nお問合せ\n（福）足立区社会福祉協議会あいあいサービスセンター\n住所：足立区西新井二丁目11番4号\n電話：3856-0274\n\n関連情報\n足立区社会福祉協議会（外部サイトへリンク）;http://adachisyakyo.jp/\n子ども預かり・送迎支援事業;https://www.city.adachi.tokyo.jp/kodomokate/k-kyoiku/kosodate/ichiji-oen-home-s.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "ファミリー・サポート・センター",
+    "shortName": "あだちファミリー・サポート・センター事業"
+  },
+  "localGovernmentLink": {
+    "title": "あだちファミリー・サポート・センター事業",
+    "uri": "https://www.city.adachi.tokyo.jp/kodomokate/k-kyoiku/kosodate/ichiji-oen-family-s.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-25",
+    "updater": "足立区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第14項、第21条の9、第59条第12号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "足立区社会福祉協議会（外部サイトへリンク）",
+      "uri": "https://adachisyakyo.jp/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "足立区のファミリー・サポート・センターは、子育ての援助を受けたい人と援助を行いたい人が会員登録をし、提供会員が利用会員に対してさまざまな育児の手助けをする事業です。",
+  "support": {
+    "description": "子育ての援助を受けたい方に利用会員になっていただき、子育ての応援をしてくださる方に提供会員となっていただいて保育施設等への送迎や保護者外出時に提供会員宅でお預かりします。",
+    "materiallySupport": "子育ての援助を受けたい方に利用会員になっていただき、子育ての応援をしてくださる方に提供会員となっていただいて保育施設等への送迎や保護者外出時に提供会員宅でお預かりします。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後6か月から12歳までのお子さんがいる区内在住もしくは在勤の方。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 6
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 12,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "利用会員\n生後6か月から12歳までのお子さんがいる区内在住もしくは在勤の方。"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "登録に際しては、利用会員募集説明会（1時間程度）の参加が必要です。\n説明会の日程は足立区社会福祉協議会（外部サイトへリンク）;https://adachisyakyo.jp/のホームページをご確認ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

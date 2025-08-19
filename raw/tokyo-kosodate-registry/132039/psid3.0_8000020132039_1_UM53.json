@@ -1,0 +1,133 @@
+{
+  "area": {
+    "areaCode": "132039;武蔵野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部 健康課 母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132039",
+    "psid": "psid3.0+8000020132039+1+UM53"
+  },
+  "belongings": "母子健康手帳;健康課窓口",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都武蔵野市吉祥寺北町4‐8‐10　武蔵野市立保健センター1階",
+    "contactComment": "ファクス番号：0422-51-9297",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康福祉部 健康課 母子保健係",
+    "contactPhone": "0422-51-0700",
+    "contactUrl": "https://www.city.musashino.lg.jp/cgi-crm/CRM030/CRM030_001/G00700500/1035954",
+    "zipCode": "1800001"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "武蔵野市以外の自治体でで乳幼児健康診査（3～4カ月児健診、1歳6カ月児健診、3歳児健診）を希望される場合、武蔵野市が発行する「依頼書」の提出を求められます。以下の「確認事項」について受診を希望する区市町村の乳幼児健診担当部署に確認後、健康課に依頼書の交付申請を行ってください。申請方法は、(1)Web申請 (2)郵送での申請 (3)窓口での申請がございます。\n依頼書の作成には1週間ほどかかるため、余裕をもって申請していただきますようお願いいたします。市外で健診を受けられた際の費用は、武蔵野市では負担いたしませんので、予めご承知おきください。\n\n確認事項\n対象年齢\n実施方法（集団検診、個別医療機関での実施など）\n受診費用の有無\n依頼書の送付先（区市町村乳幼児健診担当部署宛など）\n依頼書の宛名（区市町村長・保健所長・実施医療機関の長など）\n(1)Web申請\n以下のフォームよりお申し込みください。\n\n乳幼児健康診査 依頼書交付申請フォーム（外部リンク）;https://logoform.jp/form/SK8e/391923\n(2)郵送での申請\n下記リンクより申請書をダウンロードし、必要事項を記入してください。\n\n申請に必要なもの\n記入済みの申請書\n母子健康手帳の「3～4カ月児健診」のページの写し\n送付先\n〒180-0001 武蔵野市吉祥寺北町4-8-10 武蔵野市立保健センター内 武蔵野市健康福祉部健康課 乳幼児健康診査担当\n\n(3)窓口での申請\n母子健康手帳をお持ちのうえ、健康課（保健センター）窓口にて申請をお願いいたします。（申請書は健康課窓口にあります）\n\n乳幼児健康診査依頼書交付申請書 （PDF 102.9KB）;https://www.city.musashino.lg.jp/_res/projects/default_project/_page_/001/028/828/shinseisyo-0111.pdf",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "乳幼児健康診査 依頼書交付申請フォーム（外部リンク）",
+      "uri": "https://logoform.jp/form/SK8e/391923"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の乳幼児健診",
+    "shortName": "他自治体で乳幼児健康診査を受けるまでの流れ"
+  },
+  "localGovernmentLink": {
+    "title": "3～4カ月児健康診査",
+    "uri": "https://www.city.musashino.lg.jp/shussan_kodomo_kyoiku/ninshin_shussan_boshihoken/kodomo_kenkoshinsa/1028828.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "武蔵野市"
+  },
+  "procedureCounter": "健康課（保健センター）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "(1)Web申請\n以下のフォームよりお申し込みください。\n\n乳幼児健康診査 依頼書交付申請フォーム（外部リンク）;https://logoform.jp/form/SK8e/391923\n(2)郵送での申請\n下記リンクより申請書をダウンロードし、必要事項を記入してください。\n\n申請に必要なもの\n記入済みの申請書\n母子健康手帳の「3～4カ月児健診」のページの写し\n送付先\n〒180-0001 武蔵野市吉祥寺北町4-8-10 武蔵野市立保健センター内 武蔵野市健康福祉部健康課 乳幼児健康診査担当\n\n(3)窓口での申請\n母子健康手帳をお持ちのうえ、健康課（保健センター）窓口にて申請をお願いいたします。（申請書は健康課窓口にあります）\n\n乳幼児健康診査依頼書交付申請書 （PDF 102.9KB）;https://www.city.musashino.lg.jp/_res/projects/default_project/_page_/001/028/828/shinseisyo-0111.pdf",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第12条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "乳幼児健康診査依頼書交付申請書 （PDF 102.9KB）",
+      "uri": "https://www.city.musashino.lg.jp/_res/projects/default_project/_page_/001/028/828/shinseisyo-0111.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "武蔵野市以外の自治体で乳幼児健康診査（3～4カ月児健診、1歳6カ月児健診、3歳児健診）を希望される場合、武蔵野市が発行する「依頼書」の提出を求められます。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 3
+    },
+    "lessThan": {
+      "targetAge": 4,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "武蔵野市以外の自治体でで乳幼児健康診査（3～4カ月児健診、1歳6カ月児健診、3歳児健診）を希望されるかた"
+  },
+  "updateDate": "2024-01-17",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

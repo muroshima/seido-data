@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131075;墨田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども施設課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131075",
+    "psid": "psid3.0+6000020131075+1+UM780"
+  },
+  "belongings": "休日保育利用申込書・休日保育用勤務証明書（当年度に初めて休日保育を申し込む場合は、「児童票」・「今までの生活状況」もあわせてご提出ください。）",
+  "capacity": "あおやぎ保育園（東向島4丁目37番17号）　各日20人\n亀沢保育園（亀沢1丁目27番5号）　各日12人\n※1日の定員を超えた場合、選考となります。",
+  "class": 1,
+  "contact": {
+    "contactAddress": "墨田区吾妻橋一丁目23番20号　区役所4階",
+    "contactComment": null,
+    "contactEmail": "KODOMO@city.sumida.lg.jp",
+    "contactEx": null,
+    "contactName": "子ども施設課入園係",
+    "contactPhone": "03-5608-6152,03-5608-6712",
+    "contactUrl": null,
+    "zipCode": "1308640"
+  },
+  "cost": "2500",
+  "costConditions": "1日 2,500円\nただし、生活保護受給者及び区民税非課税の方は、減額制度があります。\n区内の認可保育施設に在園中の方は、保育料がかかりません。",
+  "description": "休日保育\n\n休日に保護者が仕事で保育できない場合に、お子さんを保育園でお預かりします。\n\n実施園・所在地・定員\nあおやぎ保育園（東向島4丁目37番17号）　各日20人\n亀沢保育園（亀沢1丁目27番5号）　各日12人\n※1日の定員を超えた場合、選考となります。\n\n対象\n区内在住または区内認可保育施設に在園する生後6ヶ月以上の就学前の児童\n\n費用\n1日 2,500円\nただし、生活保護受給者及び区民税非課税の方は、減額制度があります。\n区内の認可保育施設に在園中の方は、保育料がかかりません。\n\n申込み\n利用日の前月20日までに、子ども施設課入園係（区役所4階）にお申込みください。\n（電話等による申込みはできませんのでご注意ください。）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "東向島4丁目37番17号,亀沢1丁目27番5号",
+    "implementationName": "あおやぎ保育園,亀沢保育園"
+  },
+  "institutionName": {
+    "canonicalName": "休日保育",
+    "shortName": "休日保育"
+  },
+  "localGovernmentLink": {
+    "title": "休日保育",
+    "uri": "https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/azukeru/hoiku_service/itizi_hoiku.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-01",
+    "updater": "墨田区"
+  },
+  "procedureCounter": "子ども施設課入園係（区役所4階）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "利用日の前月20日までに、子ども施設課入園係（区役所4階）にお申込みください。\n（電話等による申込みはできませんのでご注意ください。）",
+  "procedurePeriod": {
+    "conditions": "利用日の前月20日までに、子ども施設課入園係（区役所4階）にお申込みください。\n（電話等による申込みはできませんのでご注意ください。）",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2条第4号",
+    "regulationName": "墨田区特別保育の利用に関する条例"
+  },
+  "relatedLink": [
+    {
+      "title": "休日保育利用申込書・休日保育用勤務証明書",
+      "uri": "https://www.city.sumida.lg.jp/online_service/sinsei/fukusi/hoikuei/kyuujitu-mousikomi.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者が就労により、日曜や祝日にご家庭でお子さんの保育ができないとき、保育園などでお子さんをお預かりする「休日保育」を実施しています。",
+  "support": {
+    "description": "休日に保護者が仕事で保育できない場合に、お子さんを保育園でお預かりします。",
+    "materiallySupport": "休日に保護者が仕事で保育できない場合に、お子さんを保育園でお預かりします。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後6ヶ月以上の就学前の児童",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 6
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住または区内認可保育施設に在園する生後6ヶ月以上の就学前の児童"
+  },
+  "updateDate": "2019-08-05",
+  "useConsiderationFlag": false,
+  "utilization": "利用日の前月20日までに、子ども施設課入園係（区役所4階）にお申込みください。\n（電話等による申込みはできませんのでご注意ください。）",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "7:15～18:15のうち保護者の勤務の拘束時間と通勤時間",
+    "fromHM": "07:15",
+    "toHM": "18:15"
+  }
+}

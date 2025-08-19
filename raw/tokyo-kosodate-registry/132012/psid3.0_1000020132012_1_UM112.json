@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132012;八王子市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子どもの教育・保育推進課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132012",
+    "psid": "psid3.0+1000020132012+1+UM112"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "八王子市元本郷町3-24-1（本庁舎事務棟4階）",
+    "contactComment": "ファックス：042-621-2711",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部子どもの教育・保育推進課",
+    "contactPhone": "042-620-7447",
+    "contactUrl": "https://www.city.hachioji.tokyo.jp/inquiry/mailform470800.html",
+    "zipCode": "1928501"
+  },
+  "cost": "0",
+  "costConditions": null,
+  "description": "子育てひろば（子どもの教育・保育推進課）\n更新日：2024年07月16日\n公立保育園ではホール等でひろばを開催しています。\n遊具やおもちゃで遊びながら、お子さんや保護者間の交流を図っています。また、月に1回程度子育てに関する講座の開催をしています。\n詳細は、下記リンク先をご覧ください。\n\n公立保育園の子育てひろば;https://kosodate.city.hachioji.tokyo.jp/scene/oyakodeodekake/kosodatehiroba/koritsuhoikuennokosodatehiroba/index.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育て広場",
+    "shortName": "子育てひろば（子どもの教育・保育推進課）"
+  },
+  "localGovernmentLink": {
+    "title": "子育てひろば（子どもの教育・保育推進課）",
+    "uri": "https://kosodate.city.hachioji.tokyo.jp/scene/oyakodeodekake/kosodatehiroba/koritsuhoikuennokosodatehiroba/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/03/19",
+    "updater": "八王子市子どもの教育・保育推進課　椛澤"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "初めてのご利用時には利用登録をしていただきます。\n(利用登録票に住所、氏名等を記入していただきますので、ご了承ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第6項",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "公立保育園の子育てひろば",
+      "uri": "https://kosodate.city.hachioji.tokyo.jp/scene/oyakodeodekake/kosodatehiroba/koritsuhoikuennokosodatehiroba/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "公立保育園の子育てひろばは、0歳から就学前までのお子さんが安心して遊べるスペースがあり、子育て講座の開催、八王子市の子育てに関する情報提供や相談もお受けしています。",
+  "support": {
+    "description": "子育て講座の開催や八王子市の子育て情報の提供、子育てに関する相談もお受けしています。在宅子育て家庭の遊び場として活用していただける親子の居場所です。",
+    "materiallySupport": "子育て講座の開催や八王子市の子育て情報の提供、子育てに関する相談もお受けしています。在宅子育て家庭の遊び場として活用していただける親子の居場所です。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "・0歳から就学前までのお子さんとその保護者\n・妊娠中の方とパートナーの方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "・0歳から就学前までのお子さんとその保護者\n・妊娠中の方とパートナーの方"
+  },
+  "updateDate": "2025/03/19",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "132292;西東京市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "みどり公園課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132292",
+    "psid": "psid3.0+1000020132292+4+UM576"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "西東京市泉町三丁目12番35号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "みどり公園課",
+    "contactPhone": "042-438-4045",
+    "contactUrl": null,
+    "zipCode": "2020011"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "南町第四児童遊園\n\n田無庁舎東側の向台東通りを南へ下り、石神井川沿いに位置する公園です。園内に遊具などはありませんが、子供たちが多人数でいろいろな遊びを考えながら遊べる公園です。\n\n写真：南町第四児童遊園;https://www.city.nishitokyo.lg.jp/sisetu/koen_ryokuti/minamityou4.images/minamityoudaiyonnjidou.JPG\n地図情報へ（外部リンク）;http://www.city.nishitokyo.lg.jp/Gmaps/citymap_index.html?lat=35.734669008006456&lng=139.54181671142578&zoom=14&mk=%E5%8D%97%E7%94%BA%E7%AC%AC%E5%9B%9B%E5%85%90%E7%AB%A5%E9%81%8A%E5%9C%92&ctgr=%E5%85%AC%E5%9C%92%E3%83%BB%E7%B7%91%E5%9C%B0\n|所在地|南町四丁目22番地|\n|面積|1,336.90平方メートル|\n|開園年月日|昭和58年4月1日|\n|遊具|なし|\n|水道|なし|\n|トイレ|なし|\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "児童遊園",
+    "shortName": "南町第四児童遊園"
+  },
+  "localGovernmentLink": {
+    "title": "南町第四児童遊園",
+    "uri": "https://www.city.nishitokyo.lg.jp/sisetu/koen_ryokuti/minamityou4.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-11",
+    "updater": "西東京市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "写真：南町第四児童遊園",
+      "uri": "https://www.city.nishitokyo.lg.jp/sisetu/koen_ryokuti/minamityou4.images/minamityoudaiyonnjidou.JPG"
+    },
+    {
+      "title": "地図情報へ（外部リンク）",
+      "uri": "http://www.city.nishitokyo.lg.jp/Gmaps/citymap_index.html?lat=35.734669008006456&lng=139.54181671142578&zoom=14&mk=%E5%8D%97%E7%94%BA%E7%AC%AC%E5%9B%9B%E5%85%90%E7%AB%A5%E9%81%8A%E5%9C%92&ctgr=%E5%85%AC%E5%9C%92%E3%83%BB%E7%B7%91%E5%9C%B0"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童遊園は、屋外にある公園に類似した施設です。18歳未満のお子さんに健全な遊びを提供し、健康増進を図るとともに、豊かな情操を育むことを目的としています。\n西東京市の児童遊園の一覧は、西東京市サイトなどでお知らせしています。",
+  "support": {
+    "description": "田無庁舎東側の向台東通りを南へ下り、石神井川沿いに位置する公園です。園内に遊具などはありませんが、子供たちが多人数でいろいろな遊びを考えながら遊べる公園です。\n\n|所在地|南町四丁目22番地|\n|面積|1,336.90平方メートル|\n|開園年月日|昭和58年4月1日|\n|遊具|なし|\n|水道|なし|\n|トイレ|なし|\n",
+    "materiallySupport": "|所在地|南町四丁目22番地|\n|面積|1,336.90平方メートル|\n|開園年月日|昭和58年4月1日|\n|遊具|なし|\n|水道|なし|\n|トイレ|なし|\n",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087",
+      "092"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2007-02-09",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

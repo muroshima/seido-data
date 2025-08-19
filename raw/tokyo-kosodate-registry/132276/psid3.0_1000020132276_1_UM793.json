@@ -1,0 +1,140 @@
+{
+  "area": {
+    "areaCode": "132276;羽村市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "市民部市民課（高齢医療・年金係）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132276",
+    "psid": "psid3.0+1000020132276+1+UM793"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "（企画政策担当）内線312",
+    "contactName": "市民部市民課（高齢医療・年金係）",
+    "contactPhone": "042-555-1111",
+    "contactUrl": "https://www.city.hamura.tokyo.jp/mailform/inquiry.cgi?so=b7f0491d3f4df4c87fccbe4eff1b0412a5dd4cf2&ref=https://www.city.hamura.tokyo.jp/0000013255.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "市役所等での主な手続き　窓口のほか、コンビニ交付、電話予約・郵送利用などができる手続きもあります\n初版公開日:[2021年12月23日]更新日：[2023年11月9日]ID:13255\n\n市役所での手続きは、窓口に来庁しなくても、証明書のコンビニ交付や、電話予約による夜間交付や郵送での手続ができるものがあります。\n\n妊娠・出産した時の主な手続き\n|手続き|担当窓口（窓口番号）|土曜日窓口|郵送受付・交付|注意・必要なもの|\n|:----|:----|:----|:----|:----|\n|母子健康手帳の交付|子育て相談課; https://www.city.hamura.tokyo.jp/soshiki/6-4-0-0-0_3.html（保健センター）|〇（市民課）|×|土曜日開庁日は市役所市民課で交付します。|\n|出生届|市民課受付係; https://www.city.hamura.tokyo.jp/soshiki/3-1-0-0-0_10.html（1階2番）|〇|〇|受付のみ。証明発行不可。|\n|国民健康保険（加入希望の方）|市民課保険係; https://www.city.hamura.tokyo.jp/soshiki/3-5-0-0-0_1.html（1階3番）|〇|〇||\n|出産育児一時金支給申請|^|〇|〇|・「世帯主」と「手続きの対象となる方」のマイナンバー（個人番号）のわかる書類<br>・領収書、出産費用明細書・直接支払制度の利用に関する書類<br>・世帯主の印鑑・世帯主の振込口座のわかるもの<br>・海外や米軍基地内での出産の場合は出生証明書（和訳が必要）<br>・死産、流産の場合は医師の証明書|\n|国民年金保険料の産前産後期間の免除|市民課高齢医療・年金係; https://www.city.hamura.tokyo.jp/soshiki/3-6-0-0-0_1.html（1階3番）|〇|〇|・基礎年金番号のわかる書類・母子健康手帳|\n|妊婦健康診査受診票発行の申請|子育て相談課; https://www.city.hamura.tokyo.jp/soshiki/6-4-0-0-0_3.html（保健センター）|－|×|東京都外から転入した方|\n|未熟児養育医療費助成|^|^|×||\n|新生児聴覚検査費助成|^|^|×||\n|児童手当、（乳）（子）医療費助成の届出|子育て支援課; https://www.city.hamura.tokyo.jp/soshiki/6-2-0-0-0_1.html（2階3-1番）|^|×|出生後15日以内の手続きが必要。|\n|児童扶養手当、児童育成手当、（親）医療費助成の届出|^|^|×|^|\n|特別児童扶養手当、児童育成手当（障害手当）の届出|^|^|×||\n|保育園の届出|子育て支援課（2階3-2番）; https://www.city.hamura.tokyo.jp/soshiki/6-2-0-0-0_1.html|^|×||",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "産前産後期間の国民年金保険料免除",
+    "shortName": "国民年金保険料の産前産後期間の免除"
+  },
+  "localGovernmentLink": {
+    "title": "市役所等での主な手続き　窓口のほか、コンビニ交付、電話予約・郵送利用などができる手続きもあります",
+    "uri": "https://www.city.hamura.tokyo.jp/0000013255.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "羽村市"
+  },
+  "procedureCounter": "市民課高齢医療・年金係（1階3番）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "|手続き|担当窓口（窓口番号）|土曜日窓口|郵送受付・交付|注意・必要なもの|\n|:----|:----|:----|:----|:----|\n|国民年金保険料の産前産後期間の免除|市民課高齢医療・年金係; https://www.city.hamura.tokyo.jp/soshiki/3-6-0-0-0_1.html（1階3番）|〇|〇|・基礎年金番号のわかる書類・母子健康手帳|",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第88条の2（保険料の納付義務）",
+    "regulationName": "国民年金法"
+  },
+  "relatedLink": [
+    {
+      "title": "市民課高齢医療・年金係",
+      "uri": "https://www.city.hamura.tokyo.jp/soshiki/3-6-0-0-0_1.html"
+    },
+    {
+      "title": "市民課受付係",
+      "uri": "https://www.city.hamura.tokyo.jp/soshiki/3-1-0-0-0_10.html"
+    },
+    {
+      "title": "子育て相談課",
+      "uri": "https://www.city.hamura.tokyo.jp/soshiki/6-4-0-0-0_3.htm"
+    },
+    {
+      "title": "市民課保険係",
+      "uri": "https://www.city.hamura.tokyo.jp/soshiki/3-5-0-0-0_1.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民年金の第1号被保険者が出産した場合には、出産前後の一定期間の国民年金保険料が免除されます。\n免除期間は年金額を計算する際、保険料を納めた期間として扱われます。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "016"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2023-11-09",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

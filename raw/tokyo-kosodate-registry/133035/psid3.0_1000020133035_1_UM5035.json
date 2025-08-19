@@ -1,0 +1,130 @@
+{
+  "area": {
+    "areaCode": "133035;瑞穂町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "住民部 税務課 住民税係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133035",
+    "psid": "psid3.0+1000020133035+1+UM5035"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡瑞穂町大字箱根ケ崎2335番地",
+    "contactComment": "受付時間 平日の午前8時30分から午後5時まで（毎週木曜日は一部の業務について窓口時間を延長しています）",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "住民部 税務課 住民税係",
+    "contactPhone": "042-557-7519",
+    "contactUrl": "http://www.town.mizuho.tokyo.jp/inquiry/mailform120201.html?PAGE_NO=9710",
+    "zipCode": "1901292"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "令和6年1月1日より、産前産後期間の国民健康保険税の減額制度が始まります。\n対象となる方\n町の国民健康保険に加入している出産予定日または出産日が令和5年11月1日以降の方\n\n※出産とは、妊娠85日以上の分娩をいい、死産・流産・早産・人工妊娠中絶された場合も含みます。\n\n減額期間\n出産予定日または出産日の属する月の前月から4か月\n\n多胎妊娠の場合は、出産予定日または出産日の属する月の3か月前から6か月\n\n※下記の図の水色部分が減額期間です\n\n単胎の方\n|3ヶ月前|2ヶ月前|1ヶ月前|出産予定月または出産月|1ヶ月後|2ヶ月後|3ヶ月後|\n|:----|:----|:----|:----|:----|:----|:----|\n| | |減額期間|減額期間|減額期間|減額期間| |\n\n多胎の方\n|3ヶ月前|2ヶ月前|1ヶ月前|出産予定月または出産月|1ヶ月後|2ヶ月後|3ヶ月後|\n|:----|:----|:----|:----|:----|:----|:----|\n|減額期間|減額期間|減額期間|減額期間|減額期間|減額期間| |\n\n令和5年度においては、制度開始が令和6年1月からのため、産前産後期間のうち、令和6年1月以降の期間の分だけ、国民健康保険税が減額されます。\n|令和5年8月|9月|10月|出産予定月または出産月|12月|令和6年1月|2月|\n|:----|:----|:----|:----|:----|:----|:----|\n| | | | | |減額期間| |\n\n令和5年11月に出産した場合は、令和6年1月分相当分の国民健康保険税が減額されます。令和6年1月より前の期間は対象とはなりません。\n\n減額申請が必要な方\n減額対象期間中（単胎妊娠の場合は、出産日または予定日の属する月の前月から4か月間、多胎妊娠の場合は、出産日または予定日の属する月の3か月前から6か月間）に瑞穂町国民健康保険に加入している方\n\nその他、事情により瑞穂町に妊娠・出産の届け出をしていない方",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "国民健康保険料の免除（産前産後期間）",
+    "shortName": "産前産後期間に係る保険料の減額について"
+  },
+  "localGovernmentLink": {
+    "title": "国民健康保険税の産前産後期間の減額について",
+    "uri": "https://www.town.mizuho.tokyo.jp/kurashi/002/007/p009710.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-10-24",
+    "updater": "瑞穂町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "窓口の場合\n以下の3点をご用意のうえ、税務課住民税係の窓口までお越しください。\n\n（1）世帯主・出産被保険者のマイナンバーがわかるもの\n\n（2）母子健康手帳\n\n（3）申請者の身分確認ができるもの（マイナンバーカード、運転免許証、パスポート等）\n\n郵送の場合\n以下の書類を、税務課住民税係までお送りください。\n\n（1）産前産後期間に係る国民健康保険税軽減届出書（下記からダウンロードできます。）\n\n（2）母子健康手帳の出産予定日が確認できる書類のページの写し\n\n（出産後に申請される場合は、必要ありません。）\n\n（3）母子健康手帳の表紙の写し\n\n多胎妊娠の場合は、全員分の母子健康手帳の表紙の写し\n\n（4）世帯主および出産被保険者のマイナンバーが確認できる書類の写し",
+  "procedurePeriod": {
+    "conditions": "出産予定日の6か月から届け出ができます。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "産前産後期間に係る国民健康保険税軽減届出書 ",
+      "uri": "https://www.town.mizuho.tokyo.jp/kurashi/002/007/p009710_d/fil/sanzensango.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民健康保険の出産する被保険者に係る産前産後期間相当分（４ヶ月分）の均等割保険税と所得割保険税が免除されます。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003",
+      "015"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "町の国民健康保険に加入している出産予定日または出産日が令和5年11月1日以降の方\n\n※出産とは、妊娠85日以上の分娩をいい、死産・流産・早産・人工妊娠中絶された場合も含みます。\n\n"
+  },
+  "updateDate": "2024-01-05",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

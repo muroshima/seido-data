@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131121;世田谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "世田谷保健所健康推進課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131121",
+    "psid": "psid3.0+1000020131121+1+UM8"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "世田谷保健所　健康推進課",
+    "contactPhone": "03-5432-2442",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "妊娠中に1回\n出産日から1年以内に1回",
+  "description": "妊娠中や産後は、むし歯や歯周病が進行しやすくなります。また、お母さんのお口の状態は赤ちゃんにも影響するため、この時期の歯科健診はとても大切です。ぜひ地域の歯科医院で産前・産後歯科健康診査を受けましょう。¥n赤ちゃんのために今できることのヒントが載っています。\n公益社団法人日本小児歯科学会作成「プレママのデンタルケア」をご覧ください。\n「プレママのデンタルケア」リーフレット【表】;https://www.jspd.or.jp/common/pdf/dental_care_front.pdf\n「プレママのデンタルケア」リーフレット【裏】;https://www.jspd.or.jp/common/pdf/dental_care_back.pdf¥n産前・産後歯科健康診査のご案内\n対象\n世田谷区内に住所のある妊婦および、出産後1年以内の産婦の方¥n自己負担金\n無料\n・ただし、この健診以外の治療や歯石除去等は、有料扱いになります。¥n受診期限\n産前・産後に各1回受診できます。下記の期間内に受診してください。¥n産前歯科健康診査\n妊娠中に1回\n・安定期に入ったら、なるべく早めに受診することをお勧めします。¥n産後歯科健康診査\n出産日から1年以内に1回\n・それ以降は受診できません。¥n受診場所\n実施医療機関\n世田谷区歯科健診等実施医療機関;https://www.city.setagaya.lg.jp/mokuji/kodomo/001/001/d00022541_d/fil/231101_sanzensango.pdf\n（注意）名簿に記載のない医療機関ではこの受診券は使用できません。¥n受診方法\n実施医療機関に予約のうえ、受診券をご持参ください。¥n健診内容\n歯・歯周組織の状況、口腔清掃状態等¥n申込方法・申込先\n・母子健康手帳発行時に配布の母と子の保健バッグに受診券が入っています。\n・転入等で受診券をお持ちでない方は、世田谷保健所健康推進課またはお住まいの地域の保健福祉センター健康づくり課にお問い合わせください。\n電話\n世田谷保健所健康推進課03-5432-2442\n各総合支所保健福祉センター健康づくり課;https://www.city.setagaya.lg.jp/mokuji/kusei/011/002/d00007373.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊産婦の歯科健診",
+    "shortName": "産前・産後歯科健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "産前・産後歯科健康診査",
+    "uri": "https://www.city.setagaya.lg.jp/mokuji/kodomo/001/001/d00022541.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "世田谷区"
+  },
+  "procedureCounter": "実施医療機関",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "受診場所\n実施医療機関\n世田谷区歯科健診等実施医療機関;https://www.city.setagaya.lg.jp/mokuji/kodomo/001/001/d00022541_d/fil/231101_sanzensango.pdf\n（注意）名簿に記載のない医療機関ではこの受診券は使用できません。¥n受診方法\n実施医療機関に予約のうえ、受診券をご持参ください。　¥n申込方法・申込先\n・母子健康手帳発行時に配布の母と子の保健バッグに受診券が入っています。\n・転入等で受診券をお持ちでない方は、世田谷保健所健康推進課またはお住まいの地域の保健福祉センター健康づくり課にお問い合わせください。\n電話\n世田谷保健所健康推進課03-5432-2442\n各総合支所保健福祉センター健康づくり課;https://www.city.setagaya.lg.jp/mokuji/kusei/011/002/d00007373.html",
+  "procedurePeriod": {
+    "conditions": "妊娠中に1回\n出産日から1年以内に1回",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "世田谷区内に住所のある妊婦および、出産後1年以内の産婦の方",
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "世田谷区歯科健診等実施医療機関",
+      "uri": "https://www.city.setagaya.lg.jp/mokuji/kodomo/001/001/d00022541_d/fil/231101_sanzensango.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠中や産後は、むし歯や歯周病が進行しやすくなります。また、お母さんのお口の状態は赤ちゃんにも影響するため、この時期の歯科健診はとても大切です。ぜひ地域の歯科医院で産前・産後歯科健康診査を受けましょう。",
+  "support": {
+    "description": "産前・産後に各1回受診できます。\n産前歯科健康診査１回分\n産後歯科健康診査１回分",
+    "materiallySupport": "母子健康手帳発行時に配布の母と子の保健バッグに受診券が入っています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "世田谷区内に住所のある妊婦および、出産後1年以内の産婦の方"
+  },
+  "updateDate": "2024-05-27",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

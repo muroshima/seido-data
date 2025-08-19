@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "131067;台東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て・若者支援課給付担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131067",
+    "psid": "psid3.0+6000020131067+2+UM67"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て・若者支援課庶務担当",
+    "contactPhone": "03-5246-1237",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "健康保険の給付により作成した弱視等治療用眼鏡を、更新・修理した費用の一部を助成します。\n※9歳未満の児童が対象です。\n\n弱視等治療用眼鏡助成の対象となるもの\n（1）更新\n健康保険の適用となった治療用眼鏡等を、下記の期間内に、度数を変更して買い換える場合が対象。\n5歳未満の児童は、1年未満\n5歳から9歳未満の児童は、2年未満\n（2）修理\n健康保険の適用となった治療用眼鏡等を、度数を変更せずに買い換える場合と、フレームなどを修理する場合が対象。\n費用の二分の一を助成します。\n\n助成上限額\n（1）更新\n眼鏡 40,492円\nコンタクトレンズ　一枚につき　13,780円\n（2）修理\n眼鏡 20,246円\nコンタクトレンズ　一枚につき　6,890円\n\n助成の手続き\n健康保険の給付を受けた眼鏡等であることが条件で、 所要費用の確認書類が必要です。\nなお、助成の申請は代金の支払いが終了した日より1年以内に行ってください。\n\n申請に必要なもの\n（1）健康保険の給付を受けたことを確認できるもの（健康保険給付決定通知等）\n　　　※台東区で確認が取れる場合は省略可\n（2）治療用眼鏡等の処方箋または指示書等の写し\n（3）処方箋等に基づき購入した眼鏡等の領収書\n（4）印鑑（スタンプ印を除く）\n（5）対象児童の子ども医療証\n（6）医療証に記載されている保護者名義の預金通帳\n\n申請・問合せ先\n〒110-8615\n台東区東上野4丁目5番6号\n台東区役所　子育て・若者支援課　給付担当\n電話：03-5246-1232（直通）　ファクス：03-5246-1289",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の障がいのあるお子さんなどへの金銭的支援",
+    "shortName": "弱視等治療用眼鏡助成"
+  },
+  "localGovernmentLink": {
+    "title": "弱視等治療用眼鏡助成",
+    "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/teate_josei/iryohijosei/megane.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "台東区"
+  },
+  "procedureCounter": "子育て・若者支援課　給付担当",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "助成の手続き\n健康保険の給付を受けた眼鏡等であることが条件で、 所要費用の確認書類が必要です。\nなお、助成の申請は代金の支払いが終了した日より1年以内に行ってください。\n\n申請に必要なもの\n（1）健康保険の給付を受けたことを確認できるもの（健康保険給付決定通知等）\n　　　※台東区で確認が取れる場合は省略可\n（2）治療用眼鏡等の処方箋または指示書等の写し\n（3）処方箋等に基づき購入した眼鏡等の領収書\n（4）印鑑（スタンプ印を除く）\n（5）対象児童の子ども医療証\n（6）医療証に記載されている保護者名義の預金通帳\n\n申請・問合せ先\n〒110-8615\n台東区東上野4丁目5番6号\n台東区役所　子育て・若者支援課　給付担当\n電話：03-5246-1232（直通）　ファクス：03-5246-1289",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "台東区弱視等治療用眼鏡助成事業実施要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "9歳未満の児童を対象に、健康保険の給付により作成した治療用眼鏡等の更新・修理費用の一部を助成します。",
+  "support": {
+    "description": "弱視等治療用眼鏡助成の対象となるもの\n（1）更新\n健康保険の適用となった治療用眼鏡等を、下記の期間内に、度数を変更して買い換える場合が対象。\n5歳未満の児童は、1年未満\n5歳から9歳未満の児童は、2年未満\n（2）修理\n健康保険の適用となった治療用眼鏡等を、度数を変更せずに買い換える場合と、フレームなどを修理する場合が対象。\n費用の二分の一を助成します。\n\n助成上限額\n（1）更新\n眼鏡 40,492円\nコンタクトレンズ　一枚につき　13,780円\n（2）修理\n眼鏡 20,246円\nコンタクトレンズ　一枚につき　6,890円",
+    "materiallySupport": null,
+    "monetarySupport": "更新・修理費用の全額、一部を助成"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 9,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "9歳未満の児童"
+  },
+  "updateDate": "2024-07-18",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

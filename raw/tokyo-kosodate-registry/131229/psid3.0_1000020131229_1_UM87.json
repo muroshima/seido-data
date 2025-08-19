@@ -1,0 +1,168 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て応援課子育て応援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+1+UM87"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区立石5-13-1　葛飾区役所4階　401番子育て支援窓口",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て応援課子育て応援係",
+    "contactPhone": "03-5654-6357",
+    "contactUrl": null,
+    "zipCode": "1248555"
+  },
+  "cost": "1100",
+  "costConditions": "子ども1人あたり、1時間",
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": "07:00",
+    "fromYMD": null,
+    "toHM": "22:00",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "ファミリー・サポート・センター",
+    "shortName": "かつしかファミリー・サポート・センター"
+  },
+  "localGovernmentLink": {
+    "title": "かつしかファミリー・サポート・センター",
+    "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1002333/1002378.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": "かつしかファミリー・サポート・センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "事前に会員登録が必要になりますので、下記の「かつしかファミリー・サポートセンター」までお申込みください。\n〒124-0006　葛飾区堀切3-34-1　地域福祉・障害者センター3階\n社会福祉法人　　葛飾区社会福祉協議会\nかつしかファミリー・サポート・センター\n電話　03-5698-4151　　ファクス　03-5698-2513",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第14項、第21条の9",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "ファミリーサポートセンターの援助内容を教えて下さい。",
+      "uri": "https://www.city.katsushika.lg.jp/faq/1030278/1007663/1008615/1008780.html"
+    },
+    {
+      "title": "ファミリーサポートセンターのサービスを受けたいのですが。",
+      "uri": "https://www.city.katsushika.lg.jp/faq/1030278/1007663/1008615/1008781.html"
+    },
+    {
+      "title": "ファミリー・サポート・センターの登録方法等について（外部リンク）",
+      "uri": "https://www.katsushika-shakyo.com/service/problem/fsc/"
+    },
+    {
+      "title": "ファミリーサポートセンターの協力会員になりたいのですが、どのような手続きが必要ですか。",
+      "uri": "https://www.city.katsushika.lg.jp/faq/1030278/1007663/1008615/1008778.html"
+    },
+    {
+      "title": "ファミリーサポートセンターはめったに利用しないのですが、入会できますか。",
+      "uri": "https://www.city.katsushika.lg.jp/faq/1030278/1007663/1008615/1008773.html"
+    },
+    {
+      "title": "ファミリーサポートセンターの協力会員になりたいのですが、活動内容について教えて下さい。",
+      "uri": "https://www.city.katsushika.lg.jp/faq/1030278/1007663/1008615/1008777.html"
+    },
+    {
+      "title": "ファミリーサポートセンターの協力会員になりたいのですが、協力会員の条件について教えて下さい。",
+      "uri": "https://www.city.katsushika.lg.jp/faq/1030278/1007663/1008615/1008776.html"
+    },
+    {
+      "title": "ファミリーサポートセンターの利用料金はいくらですか。",
+      "uri": "https://www.city.katsushika.lg.jp/faq/1030278/1007663/1008615/1008774.html"
+    },
+    {
+      "title": "ファミリーサポートセンターの利用対象者は。",
+      "uri": "https://www.city.katsushika.lg.jp/faq/1030278/1007663/1008615/1008775.html"
+    },
+    {
+      "title": "ファミリーサポートセンターの協力会員さんはどんな方ですか。",
+      "uri": "https://www.city.katsushika.lg.jp/faq/1030278/1007663/1008615/1008779.html"
+    },
+    {
+      "title": "幼児教育・保育の無償化について（子育て支援サービス）",
+      "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1030197/1021308/1021371/1021551.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "葛飾区のファミリー・サポート・センターは、子育ての援助を受けたい人と援助を行いたい人が会員登録をし、サポート会員がファミリー会員に対してさまざまな育児の手助けをする事業です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後6か月から小学校6年生まで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 6
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 12,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "仕事や家庭の事情などの理由で一時的に子ども（6ヶ月から小学6年生まで）の面倒が見られない時に、子どもを預けたい方"
+  },
+  "updateDate": "2024-03-22",
+  "useConsiderationFlag": false,
+  "utilization": "預かりができるかどうかのご相談は、利用申込先（葛飾区社会福祉協議会）までお願いいたします。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

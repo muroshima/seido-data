@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "131059;文京区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部障害福祉課障害者在宅サービス係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131059",
+    "psid": "psid3.0+6000020131059+6+UM67"
+  },
+  "belongings": "身体障害者手帳又は愛の手帳\n印鑑\nマイナンバー制度にともなう本人確認書類（申請書にマイナンバーの記入が必要です。）\n(1)窓口に対象者本人が来られる場合\n(ア）対象者本人のマイナンバーがわかるもの・・・個人番号カードなど\n（イ）対象者本人の身分が確認できるもの\n1点で確認可能なもの・・・身体障害者手帳・愛の手帳・運転免許証・パスポートなど\n2点で確認可能なもの(上記の提示が出来ない場合)\n・・・健康保険証・介護保険証・年金手帳、年金証書など\n(2)窓口に代理人等が来られる場合\n上記の他に、別途書類が必要となりますので、事前に担当へお問い合わせください",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都文京区春日1丁目16番21号\n文京シビックセンター9階北側",
+    "contactComment": "ファクス番号：03-5803-1352",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部障害福祉課障害者在宅サービス係",
+    "contactPhone": "03-5803-1212",
+    "contactUrl": "https://logoform.jp/form/6KSu/553271",
+    "zipCode": "1128555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "重度心身障害者手当(都制度)\n対象者と手当額\n対象者\n介護者が常に目が離せず、かつ介護に特別な配慮が必要で、次のいずれかに該当する方\n\n重度の四肢すべての機能障害のため、座っていることが困難な方\n重度の知的障害と重度の身体障害が重複している方\n重度の知的障害で、かつ著しい精神症状の方（ただし、精神障害及び認知症は除く。）\n手当月額\n60,000円\n\n支給できない方\n新規申請時に65歳以上の方\n施設に入所している方\n病院又は診療所(介護老人保健施設含む。)に継続して3か月を超えて入院している方\n本人（20歳未満は、配偶者又は扶養義務者）の所得が基準額を超えている方\n申請手続\n次のものをお持ちのうえ、申請してください。\n\n身体障害者手帳又は愛の手帳\n印鑑\nマイナンバー制度にともなう本人確認書類（申請書にマイナンバーの記入が必要です。）\n(1)窓口に対象者本人が来られる場合\n(ア）対象者本人のマイナンバーがわかるもの・・・個人番号カードなど\n（イ）対象者本人の身分が確認できるもの\n1点で確認可能なもの・・・身体障害者手帳・愛の手帳・運転免許証・パスポートなど\n2点で確認可能なもの(上記の提示が出来ない場合)\n・・・健康保険証・介護保険証・年金手帳、年金証書など\n(2)窓口に代理人等が来られる場合\n上記の他に、別途書類が必要となりますので、事前に担当へお問い合わせください\n申請後、東京都心身障害者福祉センターで診察（判定）を受けていただき、後日、東京都が受給資格の有無を決定します。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の障がいのあるお子さんなどへの金銭的支援",
+    "shortName": "重度心身障害者手当(都制度)"
+  },
+  "localGovernmentLink": {
+    "title": "重度心身障害者手当(都制度)",
+    "uri": "https://www.city.bunkyo.lg.jp/b018/p003415.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "文京区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "次のものをお持ちのうえ、申請してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "対象者本人,代理人等",
+  "regulation": {
+    "regulationArticle": "全条",
+    "regulationName": "東京都重度心身障害者手当条例"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "20歳未満の障害のあるお子さんの保護者を対象に、重度心身障害者手当を支給しています。",
+  "support": {
+    "description": "手当月額\n60,000円",
+    "materiallySupport": null,
+    "monetarySupport": "60,000円"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象者\n介護者が常に目が離せず、かつ介護に特別な配慮が必要で、次のいずれかに該当する方\n\n重度の四肢すべての機能障害のため、座っていることが困難な方\n重度の知的障害と重度の身体障害が重複している方\n重度の知的障害で、かつ著しい精神症状の方（ただし、精神障害及び認知症は除く。）\n支給できない方\n新規申請時に65歳以上の方\n施設に入所している方\n病院又は診療所(介護老人保健施設含む。)に継続して3か月を超えて入院している方\n本人（20歳未満は、配偶者又は扶養義務者）の所得が基準額を超えている方"
+  },
+  "updateDate": "2024-03-08",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

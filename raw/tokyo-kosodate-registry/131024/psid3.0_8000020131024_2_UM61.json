@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131024;中央区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉保健部子育て支援課子育て支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131024",
+    "psid": "psid3.0+8000020131024+2+UM61"
+  },
+  "belongings": "対象者全員分の領収書原本またはチケットの半券（演目等の名称、実施年月日、金額がわかるもの）\n申請者名義の銀行口座番号がわかるもの\n本人確認ができるもの（児童扶養手当証書、ひとり親医療証、運転免許証など）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "築地一丁目1番1号　本庁舎6階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉保健部子育て支援課子育て支援係\n",
+    "contactPhone": "03-3546-5350",
+    "contactUrl": null,
+    "zipCode": "1048404"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ひとり親家庭観劇・スポーツ観戦等利用助成\nひとり親家庭の皆さんが観劇やスポーツ観戦をする際、料金の助成が受けられます。\n\n対象者\n中央区児童育成手当を受給している方（児童の障害により障害手当を受給している方は除きます。）および手当の支給対象児童\n\n注記：児童育成手当受給者であっても、申請日時点で、児童育成手当の所得制限内であることが確認できる方に限ります。（前年の所得で判定します。未申告等で所得が確認できない方はご利用できません。）\n注記:ご家族でご利用いただくものなので、親のみ、児童のみの利用はできません。\n\n利用できる回数・助成額\n7月1日から8月31日までの間で1回\n\n1人3,000円\n\n助成対象\n毎年度7月および8月中に実施された演目等\n\n(1)観劇費用\n\n演劇、ミュージカル、オペラ、バレエ、歌舞伎、寄席、演芸、音楽コンサートなど\n\n(2)スポーツ観戦費用\n\n野球、サッカー、ゴルフ、テニス、バスケットボール、ラグビー、格闘技など\n\n注記1: 1人あたり3,000円未満の演目等は、助成対象外になります。\n\n注記2: オンライン配信は、助成対象外になります。\n\n申請方法\n次の書類を持参のうえ、区役所6階の子育て支援課窓口で申請をしてください。\n\n対象者全員分の領収書原本またはチケットの半券（演目等の名称、実施年月日、金額がわかるもの）\n申請者名義の銀行口座番号がわかるもの\n本人確認ができるもの（児童扶養手当証書、ひとり親医療証、運転免許証など）\n申請期間\n観劇やスポーツ観戦をした年度の7月1日から9月30日まで",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自のひとり親の方への金銭的支援",
+    "shortName": "ひとり親家庭観劇・スポーツ観戦等利用助成"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親家庭観劇・スポーツ観戦等利用助成",
+    "uri": "https://www.city.chuo.lg.jp/a0020/kosodate/kosodate/hitorioya/kashitsuke/kangekizyosei.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "中央区"
+  },
+  "procedureCounter": "区役所6階の子育て支援課窓口",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "次の書類を持参のうえ、区役所6階の子育て支援課窓口で申請をしてください。\n\n対象者全員分の領収書原本またはチケットの半券（演目等の名称、実施年月日、金額がわかるもの）\n申請者名義の銀行口座番号がわかるもの\n本人確認ができるもの（児童扶養手当証書、ひとり親医療証、運転免許証など）",
+  "procedurePeriod": {
+    "conditions": "観劇やスポーツ観戦をした年度の7月1日から9月30日まで",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "休養ホーム事業実施要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": "7月1日から8月31日までの間で1回",
+  "summary": "ひとり親家庭の皆さんが観劇やスポーツ観戦をする際、料金の助成が受けられます。",
+  "support": {
+    "description": "利用できる回数・助成額\n7月1日から8月31日までの間で1回\n\n1人3,000円\n\n助成対象\n毎年度7月および8月中に実施された演目等\n\n(1)観劇費用\n\n演劇、ミュージカル、オペラ、バレエ、歌舞伎、寄席、演芸、音楽コンサートなど\n\n(2)スポーツ観戦費用\n\n野球、サッカー、ゴルフ、テニス、バスケットボール、ラグビー、格闘技など\n\n注記1: 1人あたり3,000円未満の演目等は、助成対象外になります。\n\n注記2: オンライン配信は、助成対象外になります。",
+    "materiallySupport": null,
+    "monetarySupport": "7月1日から8月31日までの間で1回\n1人3,000円"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "中央区児童育成手当を受給している方（児童の障害により障害手当を受給している方は除きます。）および手当の支給対象児童\n\n注記：児童育成手当受給者であっても、申請日時点で、児童育成手当の所得制限内であることが確認できる方に限ります。（前年の所得で判定します。未申告等で所得が確認できない方はご利用できません。）\n注記:ご家族でご利用いただくものなので、親のみ、児童のみの利用はできません。"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

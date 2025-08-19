@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保育課巡回指導グループ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+4+UM115"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保育課巡回指導グループ",
+    "contactPhone": "03-4566-2498",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "保育所等の職員による入所児童への虐待等の不適切な保育に関する相談は、以下の連絡先にご連絡ください。\n\n・区立保育園\n電話：03-3981-2028\n・私立認可保育所、地域型保育事業\n電話：03-4566-2498\n・認定こども園・私立幼稚園\n電話：03-4566-2481\n\n不適切保育の具体的な行為類型としては、例えば、次のようなものが考えられます。\n\n・子ども一人一人の人格を尊重しない関わり\n・物事を強要するような関わり、脅迫的な言葉がけ\n・罰を与える、乱暴な関わり\n・子ども一人一人の育ちや家庭環境への配慮に欠ける関わり\n・差別的な関わり\n\n(引用：不適切な保育の未然防止及び発生時の対応についての手引き)",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "保育課公立・地域型保育グループ,保育課巡回指導グループ,保育支援担当課幼稚園グループ"
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関する相談窓口一覧",
+    "shortName": "保育所等における不適切な保育の相談窓口"
+  },
+  "localGovernmentLink": {
+    "title": "保育所等における不適切な保育の相談窓口",
+    "uri": "https://www.city.toshima.lg.jp/506/2301191131.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": "保育課公立・地域型保育グループ,保育課巡回指導グループ,保育支援担当課幼稚園グループ",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第30条の4第2項",
+    "regulationName": "医療法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "豊島区内の子育てに関する相談窓口の一覧です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "004"
+    ],
+    "contentsCode": [
+      "082"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-05-08",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

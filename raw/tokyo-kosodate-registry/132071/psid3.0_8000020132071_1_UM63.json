@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132071;昭島市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "障害福祉課障害福祉係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132071",
+    "psid": "psid3.0+8000020132071+1+UM63"
+  },
+  "belongings": "申込みに必要なもの\n認定請求書\n所得状況届\n認定診断書（指定用紙）\n課税（非課税）証明書（転入のかたでマイナンバーによる書類の省略を希望されないかた）\n前年（1月から6月までに行う申請については、前々年のもの）の年金受給の状況を証明する書類（障害を理由とする公的年金を受けているかた）（注：マイナンバー利用により、書類の提出を省略できる場合があります）\n本人の口座番号のわかるもの（注：ゆうちょ銀行の場合は、振込用の店名と預金種目および7桁の口座番号が必要となります）\nマイナンバー記載に伴うマイナンバー・本人（身元）確認ができるもの",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファックス番号：042-546-8855",
+    "contactEmail": null,
+    "contactEx": "2132から2135",
+    "contactName": "障害福祉課障害福祉係",
+    "contactPhone": "042-544-5111 ",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "対象\n重度の障害の状態にあるため、日常生活において常時の介護を必要とする20歳未満のかた\n\n給付制限\n施設に入所している場合\n障害者年金などを受給している場合\n認定請求者本人または配偶者、及び生計を一にする扶養義務者の所得が一定額を超える場合\n手当の額\n月額15,220円（令和5年4月分から）\n\n支給方法\n5月・8月・11月・2月の10日（土・日曜、休日の場合はその前日）にそれぞれ前月までを指定された認定請求者本人の口座に振り込みます。\n支給開始は認定請求をした月の翌月分から対象となります。\n\n申請について\nマイナンバーの記入と本人確認について\n申請には、マイナンバーの記入と本人確認が必要になります。以下の「マイナンバーを確認できる書類等」と「本人確認できる書類等」;https://www.city.akishima.lg.jp/s008/010/040/010/20151210111027.htmlを持参してください。本人確認について、詳しくはこちらの昭島市でマイナンバーを利用する事務（手続き等）と本人確認についてを確認してください。\n\n| マイナンバーを確認できる書類等（次の1から3のいずれか）|<| 本人確認できる書類等（次のaからcのいずれか）|<|\n|:----|:----|:----|:----|\n|1|マイナンバーカード|a|マイナンバーカード|\n|2|通知カード|b|次の書類のうち1点<br>運転免許証、旅券（パスポート）、身体障害者手帳など|\n|3|住民票の写し又は住民票記載事項証明書（マイナンバーが記載されたものに限る。）|c|次の書類のうち2点<br>健康保険証、介護保険証又は後期高齢者医療の被保険者証、年金手帳など| \n\nマイナンバーにより提出を省略できる書類\n情報連携の開始に伴い、以下の書類の提出が不要になります。情報連携;https://www.city.akishima.lg.jp/li/010/010/015/020/010/について、詳しくはこちらの情報連携についてを確認してください。\n\n住民票の写し\n課税（非課税）証明書\n注：課税（非課税）証明書の提出を省略するためには、認定請求者本人または配偶者、及び生計を一にする扶養義務者の同意が必要です。提出の省略を希望される場合には、認定請求書等の署名欄に署名してください。\n\n申込みに必要なもの\n認定請求書\n所得状況届\n認定診断書（指定用紙）\n課税（非課税）証明書（転入のかたでマイナンバーによる書類の省略を希望されないかた）\n前年（1月から6月までに行う申請については、前々年のもの）の年金受給の状況を証明する書類（障害を理由とする公的年金を受けているかた）\n（注：マイナンバー利用により、書類の提出を省略できる場合があります）\n本人の口座番号のわかるもの\n（注：ゆうちょ銀行の場合は、振込用の店名と預金種目および7桁の口座番号が必要となります）\nマイナンバー記載に伴うマイナンバー・本人（身元）確認ができるもの\n手続き及び問い合わせ先\n障害福祉課障害福祉係（市役所1階13番窓口）\n電話番号：042-544-5111 、内線：2132から2135\nファックス番号：042-546-8855\n\n注：申請の手続きは東部出張所、保健福祉センター（あいぽっく）でも行うことができます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "障害児福祉手当",
+    "shortName": "障害児福祉手当（国制度）"
+  },
+  "localGovernmentLink": {
+    "title": "障害児福祉手当（国制度）",
+    "uri": "https://www.city.akishima.lg.jp/s047/010/010/030/060/20140919161412.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "昭島市"
+  },
+  "procedureCounter": "手続き及び問い合わせ先\n障害福祉課障害福祉係（市役所1階13番窓口）\n電話番号：042-544-5111 、内線：2132から2135\n注：申請の手続きは東部出張所、保健福祉センター（あいぽっく）でも行うことができます。\nファックス番号：042-546-8855",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申込みに必要なもの\n認定請求書\n所得状況届\n認定診断書（指定用紙）\n課税（非課税）証明書（転入のかたでマイナンバーによる書類の省略を希望されないかた）\n前年（1月から6月までに行う申請については、前々年のもの）の年金受給の状況を証明する書類（障害を理由とする公的年金を受けているかた）（注：マイナンバー利用により、書類の提出を省略できる場合があります）\n本人の口座番号のわかるもの（注：ゆうちょ銀行の場合は、振込用の店名と預金種目および7桁の口座番号が必要となります）\nマイナンバー記載に伴うマイナンバー・本人（身元）確認ができるもの",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第3章",
+    "regulationName": "特別児童扶養手当等の支給に関する法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "身体または精神に重度の障がいのある20歳未満の方で、日常生活において常時介護を必要とする方に対し、手当が支給されます。",
+  "support": {
+    "description": "給付制限\n施設に入所している場合\n障害者年金などを受給している場合\n認定請求者本人または配偶者、及び生計を一にする扶養義務者の所得が一定額を超える場合\n手当の額\n月額15,220円（令和5年4月分から）",
+    "materiallySupport": null,
+    "monetarySupport": "給付制限\n施設に入所している場合\n障害者年金などを受給している場合\n認定請求者本人または配偶者、及び生計を一にする扶養義務者の所得が一定額を超える場合\n手当の額\n月額15,220円（令和5年4月分から）"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "重度の障害の状態にあるため、日常生活において常時の介護を必要とする20歳未満のかた",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "重度の障害の状態にあるため、日常生活において常時の介護を必要とする20歳未満のかた"
+  },
+  "updateDate": "2023-06-13",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

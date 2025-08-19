@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "131075;墨田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "生活福祉課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131075",
+    "psid": "psid3.0+6000020131075+1+UM5027"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "墨田区吾妻橋一丁目23番20号　区役所３階",
+    "contactComment": null,
+    "contactEmail": "seikatuhukusi@city.sumida.lg.jp",
+    "contactEx": null,
+    "contactName": "生活福祉課",
+    "contactPhone": "03-5608-1295",
+    "contactUrl": null,
+    "zipCode": "1308640"
+  },
+  "cost": "相談費用は無料です。",
+  "costConditions": null,
+  "description": "就職や転職で生活を安定させたい方に、それぞれの方の状況に合わせて自立支援プログラムを作成し、目標達成に向けて支援を行っています。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "母子家庭等就業・自立支援センター",
+    "shortName": "ひとり親家庭就業・自立支援事業"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親家庭の就業支援",
+    "uri": "https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/teate_jyosei_shien/hitori_oya/ta802000202203111541.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/03/03",
+    "updater": "墨田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "ひとり親家庭の就業支援",
+      "uri": "https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/teate_jyosei_shien/hitori_oya/ta802000202203111541.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "就職や転職で生活を安定させたい方に、それぞれの方の状況に合わせて自立支援プログラムを作成し、目標達成に向けて支援を行っています。",
+  "support": {
+    "description": "就労支援相談員が、就職・転職・資格取得に関するご相談を個別にお受けします",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内に住所のあるひとり親家庭の父または母で、次の要件をすべて満たす方\n・20歳未満のお子さんを扶養している\n・生活保護を受給していない"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

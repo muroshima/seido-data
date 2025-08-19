@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保育課幼稚園・認可外保育施設担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+1+UM80"
+  },
+  "belongings": null,
+  "capacity": "https://www.city.kodaira.tokyo.jp/kurashi/000/000340.html",
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市小川町2-1333　市役所2階",
+    "contactComment": "FAX：042-346-9200",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保育課幼稚園・認可外保育施設担当",
+    "contactPhone": "042-346-9645",
+    "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+    "zipCode": "1878701"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "私立幼稚園\n市内には私立幼稚園が15園あります。\n\n預かり保育は、下表のとおり実施しています。\n\n・表中の「預かり保育」の欄の表記の意味は次のとおりです。\n\n『幼ア』\n\n幼稚園アットホーム事業等実施園。早朝（午前7時30分から幼稚園開始時間）および夕方（幼稚園終了時間から午後6時30分）に実施。春・夏・冬休業期間も実施。\n\n『認こ』\n\n認定こども園。早朝（午前7時30分から幼稚園開始時間）及び夕方（幼稚園終了時間から午後6時30分）に実施。春・夏・冬休業期間も実施。\n\n『預かり』\n\n幼稚園の定める時間に実施。\n\n・表中の「設置区分」の欄の表記の意味は次のとおりです。\n\n（学）は学校法人、（宗）は宗教法人、（個）は個人立を意味します。\n\n・入園申込みについては各幼稚園にお問い合わせください。また、表中の「定員」は各園の規模にあわせた収容定員であり、実際の受入可能人数とは異なる場合があります。\n\nただし、認定こども園で教育・保育認定の2号認定（教育部分および保育部分）を希望の場合は、市役所へお問い合わせください。\n\n小平市私立幼稚園\nhttps://www.city.kodaira.tokyo.jp/kurashi/000/000340.html\n\nその他　私立幼稚園の行う事業\n多様な他者との関わりの機会の創出事業;https://www.city.kodaira.tokyo.jp/kurashi/110/110642.html\n\n添付ファイル\n私立幼稚園案内図（PDF 161.6KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/340/000340/att_0000001.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "https://www.city.kodaira.tokyo.jp/kurashi/000/000340.html",
+    "implementationName": "https://www.city.kodaira.tokyo.jp/kurashi/000/000340.html"
+  },
+  "institutionName": {
+    "canonicalName": "幼稚園の利用について",
+    "shortName": "私立幼稚園"
+  },
+  "localGovernmentLink": {
+    "title": "私立幼稚園",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/000/000340.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "小平市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "入園申込みについては各幼稚園にお問い合わせください。また、表中の「定員」は各園の規模にあわせた収容定員であり、実際の受入可能人数とは異なる場合があります。\n\n　ただし、認定こども園で教育・保育認定の2号認定（教育部分および保育部分）を希望の場合は、市役所へお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第26条",
+    "regulationName": "学校教育法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "幼稚園とは、学校教育法に基づき、満3歳から小学校就学前までのお子さんに幼児教育を提供する施設（学校）です。1日4時間の教育を標準とし、小学校や中学校のように夏休みや春休みなどもありますが、多くの園で教育時間終了後や長期休暇中の預かりも行っています。",
+  "support": {
+    "description": "市内には私立幼稚園が15園あります。",
+    "materiallySupport": "市内には私立幼稚園が15園あります。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "3・4・5歳児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 5,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "3・4・5歳児"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "『幼ア』\n\n幼稚園アットホーム事業等実施園。早朝（午前7時30分から幼稚園開始時間）および夕方（幼稚園終了時間から午後6時30分）に実施。春・夏・冬休業期間も実施。\n\n『認こ』\n\n　認定こども園。早朝（午前7時30分から幼稚園開始時間）及び夕方（幼稚園終了時間から午後6時30分）に実施。春・夏・冬休業期間も実施。\n\n『預かり』\n\n幼稚園の定める時間に実施。",
+    "fromHM": null,
+    "toHM": null
+  }
+}

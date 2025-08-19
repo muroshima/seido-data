@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "132047;三鷹市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども政策部子ども育成課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132047",
+    "psid": "psid3.0+8000020132047+3+UM73"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三鷹市野崎一丁目1番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども政策部 子ども育成課",
+    "contactPhone": "0422-29-9672,0422-29-9673",
+    "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomo/index.html",
+    "zipCode": "1818555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "市内の公私立保育園では、地域にお住まいの親子を行事に招待したり、体験保育や園庭の開放、図書の貸し出しなどを行っています。\n子育て中の心配事や悩み、子どもの健康や食事のことなど、子育てについての相談にもご利用ください。\n\n毎月の行事予定は「三鷹市ホームページ」の「イベント・講座」;https://www.city.mitaka.lg.jp/cgi-bin/event/index.cgiに掲載していますので、ご覧ください。\n園庭の開放や図書の貸し出しなどは随時行っています。詳しくは最寄の保育園にお尋ねください。\n市内の公私立保育園については「みたかきっずナビ（外部リンク）;https://kosodate-mitaka.mchh.jp/」の「イベント情報カレンダー（外部リンク）;https://kosodate-mitaka.mchh.jp/EventReservation/List?dateTimeComparisonType=1&dateString」からご覧いただけます。\n\n関連リンク\nみたかきっずナビ　イベント情報カレンダー（外部リンク）;https://kosodate-mitaka.mchh.jp/EventReservation/List?dateTimeComparisonType=1&dateString",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "認可保育所（保育園）の利用について",
+    "shortName": "保育園の地域開放（保育園であそびましょ）"
+  },
+  "localGovernmentLink": {
+    "title": "保育園の地域開放（保育園であそびましょ）",
+    "uri": "https://www.city.mitaka.lg.jp/c_service/001/001069.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "三鷹市"
+  },
+  "procedureCounter": "最寄の保育園",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "毎月の行事予定は「三鷹市ホームページ」の「イベント・講座」;https://www.city.mitaka.lg.jp/cgi-bin/event/index.cgiに掲載していますので、ご覧ください。\n園庭の開放や図書の貸し出しなどは随時行っています。詳しくは最寄の保育園にお尋ねください。\n市内の公私立保育園については「みたかきっずナビ（外部リンク）;https://kosodate-mitaka.mchh.jp/」の「イベント情報カレンダー（外部リンク）;https://kosodate-mitaka.mchh.jp/EventReservation/List?dateTimeComparisonType=1&dateString」からご覧いただけます。\n\n関連リンク\nみたかきっずナビ　イベント情報カレンダー（外部リンク）;https://kosodate-mitaka.mchh.jp/EventReservation/List?dateTimeComparisonType=1&dateString",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第24条",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "「三鷹市ホームページ」の「イベント・講座」",
+      "uri": "https://www.city.mitaka.lg.jp/cgi-bin/event/index.cgi"
+    },
+    {
+      "title": "みたかきっずナビ　イベント情報カレンダー（外部リンク）",
+      "uri": "https://kosodate-mitaka.mchh.jp/EventReservation/List?dateTimeComparisonType=1&dateString"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育園とは、保護者が共に働いていたり病気などの理由で、昼間家庭において保育を受けられないお子さんを、保護者に代わって保育する児童福祉施設で、法的には「保育所」といいます。\n保育所（保育園）には、国が定めた設置基準をクリアし、都道府県知事に認可された保育所と、それ以外の保育所がありますが、ここでは認可された保育所についてご案内します。\n\n保育園では在園児を対象とした「延長保育」のほか、「一時預かり」や「病児保育」、「障害児保育」などを行っている園もあります。",
+  "support": {
+    "description": "行事に招待したり、体験保育や園庭の開放、図書の貸し出しなどを行っています。\n子育て中の心配事や悩み、子どもの健康や食事のことなど、子育てについての相談にもご利用ください。",
+    "materiallySupport": "行事に招待したり、体験保育や園庭の開放、図書の貸し出しなどを行っています。\n子育て中の心配事や悩み、子どもの健康や食事のことなど、子育てについての相談にもご利用ください。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "地域にお住まいの親子"
+  },
+  "updateDate": "2019-12-20",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

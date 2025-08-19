@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "133086;奥多摩町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健福祉センター　母子保健担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020133086",
+    "psid": "psid3.0+8000020133086+1+UM791"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "奥多摩町氷川1111",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健福祉センター 母子保健担当",
+    "contactPhone": "0428-83-2777",
+    "contactUrl": null,
+    "zipCode": "1980212"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "赤ちゃんが生まれたら\n●出生通知票\n　母子健康手帳交付の時にお渡しした、出生通知票を保健福祉センターへ提出してください。\n\n◆受付の窓口◆ 保健福祉センター　母子保健担当 直通電話　83 － 2777",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出生連絡票・低体重児出生届",
+    "shortName": "出生通知票"
+  },
+  "localGovernmentLink": {
+    "title": "奥多摩町の福祉サービス（母子・子育て編）2024年度版 (PDFファイル: 1.4MB)",
+    "uri": "https://www.town.okutama.tokyo.jp/material/files/group/7/fukushikosodate2024.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-12",
+    "updater": "奥多摩町"
+  },
+  "procedureCounter": "保健福祉センター　母子保健担当",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "出生通知票を保健福祉センターへ提出してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第18条（低体重児の届出）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "母子健康手帳交付の時にお渡しした、出生通知票を保健福祉センターへ提出してください。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": "赤ちゃんが生まれたら",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "赤ちゃんが生まれたら"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

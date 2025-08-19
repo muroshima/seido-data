@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども生活部保育・幼稚園課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+1+UM84"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども生活部保育・幼稚園課",
+    "contactPhone": "042-724-2138,042-724-2137",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/8?page_no=320",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "就労等により児童の保育が出来ない場合に、一定程度継続的に保育園等に児童を預けることができる制度です。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "一時保育の定期利用（特定保育・非定型保育など）",
+    "shortName": "定期利用保育"
+  },
+  "localGovernmentLink": {
+    "title": "定期利用保育について",
+    "uri": "https://kosodate-machida.tokyo.jp/soshiki/4/3/11/320.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申し込みについて\n1.利用登録\n利用したい定期利用保育実施園へ行き、保育内容、保育時間、保育料、お子さんの体質などについて、話し合った上、直接登録。（保育認定を受けている方は支給認定証を持参して下さい。）\n2.申し込み\n保育園等と直接契約し、利用日を予約。\n（予約時期、予約方法は園によって異なります。）\n3.定期利用保育の開始\n保育認定を受けている方は、月初の利用時に支給認定証を提示して下さい。\n4.利用料の支払",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "町田市定期利用保育多子世帯支援補助金（第2子以降無償化）",
+      "uri": "https://kosodate-machida.tokyo.jp/soshiki/4/1/2/11923.html"
+    },
+    {
+      "title": "一時保育のご案内",
+      "uri": "https://kosodate-machida.tokyo.jp/soshiki/4/3/11/318.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "就労等により児童の保育が出来ない場合に、一定程度継続的に保育園等に児童を預けることができる制度です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": null,
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": null
+  },
+  "target": {
+    "conditions": "生後8週間～就学前まで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 6,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象となる児童\n1.市内在住であること\n2.生後8週間～就学前までであること（各施設によって異なります）\n3.認可保育園・認定こども園に入園していないこと\n保護者の就労の有無は問いません。"
+  },
+  "updateDate": "2023-09-15",
+  "useConsiderationFlag": false,
+  "utilization": "利用形態の種類\n以下の形態で利用できます。\n1.週5日1日4時間未満利用（3歳未満は6時間まで）\n2.週1日利用\n3.週2日利用\n4.週3～5日利用（保育認定を受けている方のみ）\n各園の利用状況により、受入れが難しい場合がありますのでご了承下さい。\n全て月単位での利用となります。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

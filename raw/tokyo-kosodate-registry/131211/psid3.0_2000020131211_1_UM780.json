@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131211;足立区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局子ども家庭部幼稚園・地域保育課認証・認可外保育係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020131211",
+    "psid": "psid3.0+2000020131211+1+UM780"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "教育委員会事務局子ども家庭部幼稚園・地域保育課認証・認可外保育係",
+    "contactPhone": "03-3880-8013",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": "2500",
+  "costConditions": "1日（基本保育時間）2,500円\n※2,500円のうち1000円を予約料またはキャンセル料として事前に収めていただく場合があります。また延長料金、給食費、間食費は別にかかります。",
+  "description": "休日保育\n各施設での休日保育をご案内します。\n\n実施日、申込期限等については、施設にお問い合わせください。\n\n東京都認証保育所での休日保育\n保育を必要とする理由は問いません。区内に在住するお子さんはどなたでもご利用できます。\n\n対象となる方\n区内に在住する、0歳から就学前までの健康なお子さん\n\n※施設によって異なりますので、直接、施設にお問い合わせください。\n\n手続の方法\n下表の施設に「休日保育」希望の旨を伝え、直接お申し込みください。\n\n保育日\n日曜日、国民の祝日に関する法律に定める休日\n\n基本保育時間\n午前8時から午後5時まで\n（時間の延長については施設にお問い合わせください）\n\n利用料金\n1日（基本保育時間）2,500円\n※2,500円のうち1000円を予約料またはキャンセル料として事前に収めていただく場合があります。また延長料金、給食費、間食費は別にかかります。\n予約制です。利用したい方は下表の施設に直接連絡のうえ事前に予約をしてください。利用当日の飛び込み利用はできません。\n\n実施施設\n|地域|施設名|所在地|電話番号|\n|:----|:----|:----|:----|\n|竹の塚|ぱんだ保育園|伊興本町一丁目4番3号|03-3857-1805|\n|西新井|なのはな共同保育所|栗原三丁目9番2-102号|03-3887-2441|\n|千住|千住あさひ共同保育園|千住旭町4番31号|03-3879-7101|",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "日曜日、国民の祝日に関する法律に定める休日",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "|地域|施設名|所在地|電話番号|\n|:----|:----|:----|:----|\n|竹の塚|ぱんだ保育園|伊興本町一丁目4番3号|03-3857-1805|\n|西新井|なのはな共同保育所|栗原三丁目9番2-102号|03-3887-2441|\n|千住|千住あさひ共同保育園|千住旭町4番31号|03-3879-7101|　",
+    "implementationName": "|地域|施設名|所在地|電話番号|\n|:----|:----|:----|:----|\n|竹の塚|ぱんだ保育園|伊興本町一丁目4番3号|03-3857-1805|\n|西新井|なのはな共同保育所|栗原三丁目9番2-102号|03-3887-2441|\n|千住|千住あさひ共同保育園|千住旭町4番31号|03-3879-7101|　"
+  },
+  "institutionName": {
+    "canonicalName": "休日保育",
+    "shortName": "休日保育"
+  },
+  "localGovernmentLink": {
+    "title": "休日保育",
+    "uri": "https://www.city.adachi.tokyo.jp/kodomo-nyuuen/k-kyoiku/kosodate/ichiji-kyujitsu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-25",
+    "updater": "足立区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "下表の施設に「休日保育」希望の旨を伝え、直接お申し込みください。\n\n保育日\n日曜日、国民の祝日に関する法律に定める休日\n\n基本保育時間\n午前8時から午後5時まで\n（時間の延長については施設にお問い合わせください）\n\n利用料金\n1日（基本保育時間）2,500円\n※2,500円のうち1000円を予約料またはキャンセル料として事前に収めていただく場合があります。また延長料金、給食費、間食費は別にかかります。\n予約制です。利用したい方は下表の施設に直接連絡のうえ事前に予約をしてください。利用当日の飛び込み利用はできません。\n\n実施施設\n|地域|施設名|所在地|電話番号|\n|:----|:----|:----|:----|\n|竹の塚|ぱんだ保育園|伊興本町一丁目4番3号|03-3857-1805|\n|西新井|なのはな共同保育所|栗原三丁目9番2-102号|03-3887-2441|\n|千住|千住あさひ共同保育園|千住旭町4番31号|03-3879-7101|",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "足立区認証保育所特別保育事業制度要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者が就労や病気等により、日曜や祝日にご家庭でお子さんの保育ができないとき、保育園などでお子さんをお預かりする「休日保育」を実施しています。",
+  "support": {
+    "description": "休日保育",
+    "materiallySupport": "休日保育",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0歳から就学前までの健康なお子さん",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内に在住する、0歳から就学前までの健康なお子さん\n\n※施設によって異なりますので、直接、施設にお問い合わせください。"
+  },
+  "updateDate": "2024-03-26",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "午前8時から午後5時まで\n（時間の延長については施設にお問い合わせください）",
+    "fromHM": "08:00",
+    "toHM": "17:00"
+  }
+}

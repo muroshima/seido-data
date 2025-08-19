@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132144;国分寺市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子育て相談室　母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132144",
+    "psid": "psid3.0+1000020132144+5+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-320-1181",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子育て相談室　母子保健係",
+    "contactPhone": "042-321-1801",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "体重測定¥n\n各種相談（内容は会場により異なります。相談時間の目安は10～15分ほどになります。¥n\n・保健相談（保健師にママの体・心のこと、子育てやお子さんの発達のことなど相談できます）¥n\n・栄養相談（管理栄養士にママやパパの食事のこと、お子さんのミルク・離乳食・食事のことなど土相談できます）¥n\n・母性相談（助産師に妊娠出産に関わること、授乳・卒乳のことなど相談できます）¥n\n・はみがき相談（歯科衛生士に歯みがきの始め方、始める準備、歯みがきの仕方など相談できます）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "令和7年4月14日（月）北町親子ひろば（北町地域センター内）¥n\n令和7年4月23日（水）東部地区拠点親子ひろば「あすなろひろば」\n\n令和7年5月22日（木）戸倉親子ひろば（第十小学校内　第一戸倉学童尾保育所内）\n\n令和7年5月27日（火）にしまち児童館\n\n令和7年6月17日（火）いずみ児童館\n\n令和7年6月20日（金）日吉町親子ひろば（第五小学校内　第二・第三日吉町学童保育所内）\n\n令和7年6月30日（月）しんまち児童館\n\n令和7年7月7日（月）本多親子ひろば（本多児童館内）\n\n令和7年7月15日（火）プレイステーション親子ひろば「BOUKENどんどこ」（国分寺市プレイステーション内）\n\n令和7年9月18日（木）ひかり児童館\n\n令和7年10月16日（木）もとまち児童館\n\n令和7年10月24日（金）北町親子ひろば（北町地域センター内）\n\n令和7年10月29日（水）ひがしこいがくぼ３丁目よくこう親子ひろば（住宅複合施設あじさい苑内）\n\n令和7年11月10日（月）市民室内プール内親子ひろば「コアラッコ」（市民室内プール内）\n\n令和7年11月20日（木）戸倉親子ひろば（第十小学校内第一戸倉学童保育所内）\n\n令和7年12月8日（月）東恋ヶ窪親子ひろば（第三小学校内第一・第に・第三東恋ヶ窪学童保育所内）\n\n令和8年１月27日（火）西町親子ひろば（にしまち児童館内）\n\n令和8年2月19日（木）日吉町親子ひろば（第五小学校内　第二・第三日吉町学童保育所内）\n\n令和8年3月17日（火）本多児童館",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "国分寺市の子育てに関する相談",
+    "shortName": "親子ひろば等ミニ相談会"
+  },
+  "localGovernmentLink": {
+    "title": "親子ひろば等ミニ相談会",
+    "uri": "https://www.city.kokubunji.tokyo.jp/kurashi/kodomo/kenkou/1012505/1013783.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025ｰ06ｰ20",
+    "updater": "国分寺市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第３条及び第９条の２",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "親子ひろば・児童館等を会場として、こども家庭センターの職員が出張ミニ相談会を行います。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "妊婦及び未就学児を育てる家庭",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊産婦・乳幼児と保護者"
+  },
+  "updateDate": "2025/06/12",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": "10:00",
+    "toHM": "11:45"
+  }
+}

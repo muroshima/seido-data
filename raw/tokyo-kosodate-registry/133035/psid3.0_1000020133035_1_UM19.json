@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "133035;瑞穂町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "住民部 住民課 国保年金係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133035",
+    "psid": "psid3.0+1000020133035+1+UM19"
+  },
+  "belongings": "健康保険被保険者証、印鑑、預金通帳,母子健康手帳、死産・流産の場合は医師の証明書",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡瑞穂町大字箱根ケ崎2335番地",
+    "contactComment": "受付時間 平日の午前8時30分から午後5時まで",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "住民部 住民課 国保年金係",
+    "contactPhone": "042-557-7578",
+    "contactUrl": "https://www.town.mizuho.tokyo.jp/inquiry/mailform120102.html?PAGE_NO=1509",
+    "zipCode": "1901292"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "そのほかに受けられる給付\n\n次のような場合、国保年金係窓口で申請していただければ給付が受けられます。\n申請に必要なもの\n健康保険被保険者証、印鑑、預金通帳は必ず持参してください。\nそのほかに受けられる給付\n|状況|受給条件|健康保険被保険者証、印鑑、預金通帳以外に必要なもの<br>（すべて原本）|\n|:----|:----|:----|\n|出産したとき（出産育児一時金）|国民健康保険に加入している人が出産したときに50万円が支給されます。妊娠12週（85日）以降であれば、死産・流産でも支給されます。<br>（但し、産科医療補償制度に加入していない分娩機関での出産は48万8,000円。）<br>（補足）国民健康保険加入前に会社等の健康保険に加入していた人の場合、健康保険に1年以上続けて加入しており、かつ健康保険の資格喪失から6か月以内に出産した場合は、健康保険組合から支給されます。|母子健康手帳、死産・流産の場合は医師の証明書|\n|被保険者が亡くなったとき（葬祭費）|被保険者が亡くなったとき、葬祭を行った人（施主）に5万円が支給されます。|葬祭を行ったことがわかる書類（会葬礼状、葬儀の領収書等）|\n|移送の費用がかかったとき（移送費）|負傷、疾病等により移動が困難な患者が、医師の指示により一時的または緊急的な必要があり、やむを得ないと認められて移送された場合に限り支給されます。|医師の意見書、領収書|\n\n\n国民健康保険に加入している人が出産したときに50万円が支給されます。妊娠12週（85日）以降であれば、死産・流産でも支給されます。\n（但し、産科医療補償制度に加入していない分娩機関での出産は48万8,000円。）\n（補足）国民健康保険加入前に会社等の健康保険に加入していた人の場合、健康保険に1年以上続けて加入しており、かつ健康保険の資格喪失から6か月以内に出産した場合は、健康保険組合から支給されます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出産育児一時金",
+    "shortName": "出産したとき（出産育児一時金）"
+  },
+  "localGovernmentLink": {
+    "title": "出産したとき（出産育児一時金）",
+    "uri": "https://www.town.mizuho.tokyo.jp/kurashi/003/002/p001509.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "瑞穂町"
+  },
+  "procedureCounter": "国保年金係窓口",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条(第二節　その他の給付)",
+    "regulationName": "国民健康保険法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民健康保険に加入している方が出産したときは、その世帯主からの申請により、出産育児一時金を支給します。原則として直接支払制度により、医療機関に直接お支払いします。なお、直接支払制度に対応していない医療機関などで出産された場合も、「受取代理制度」や出産後の申請により、出産育児一時金の支給を受けることができます。",
+  "support": {
+    "description": "国民健康保険に加入している人が出産したときに50万円が支給されます。妊娠12週（85日）以降であれば、死産・流産でも支給されます。\n（但し、産科医療補償制度に加入していない分娩機関での出産は48万8,000円。）",
+    "materiallySupport": null,
+    "monetarySupport": "国民健康保険に加入している人が出産したときに50万円が支給されます。妊娠12週（85日）以降であれば、死産・流産でも支給されます。\n（但し、産科医療補償制度に加入していない分娩機関での出産は48万8,000円。）"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": "妊娠12週（85日）以降であれば、死産・流産でも支給されます。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "国民健康保険に加入している人が出産したとき"
+  },
+  "updateDate": "2024-01-09",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

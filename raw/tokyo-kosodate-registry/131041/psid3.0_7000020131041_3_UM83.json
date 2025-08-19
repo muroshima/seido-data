@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131041;新宿区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子ども総合センター 子ども家庭支援課 子育て支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020131041",
+    "psid": "psid3.0+7000020131041+3+UM83"
+  },
+  "belongings": "母子手帳、健康保険証、乳幼児医療証、送迎者のお写真",
+  "capacity": "利用時間内で、最大4時間まで利用できます。\n同時間帯に利用できる人数は、3施設とも5人までです。",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 子ども総合センター 子ども家庭支援課 子育て支援係",
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "最初の1時間は「950 円」、以後 30 分ごとに「350 円」（30 分未満切り上げ）\n【利用時間数\t利用料】\n　1 時間：950 円\n　1 時間半：1，300 円\n   2 時間：1，650 円\n   2 時間半：2，000 円\n   3 時間：2，350 円\n   3 時間半：2，700 円\n   4 時間：3，050 円",
+  "description": "「ひろば型一時保育」は、子ども総合センター、榎町子ども家庭支援センター、中落合子ども家庭支援センター、地域子育て支援センター二葉で行っております。お子さんが普段から遊んでいる、身近な施設で行う一時保育です。ご利用には事前の登録が必要です。\nひろば型一時保育は9時～17時までの利用時間で行っております。また、食事やおやつの持参も可能です。\n詳細は各施設にお問い合わせ下さい。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "土日・祝日および12月29日～1月3日",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "子ども総合センター,榎町子ども家庭支援センター,中落合子ども家庭支援センター\t"
+  },
+  "institutionName": {
+    "canonicalName": "一時預かり（一時保育）",
+    "shortName": "ひろば型一時保育"
+  },
+  "localGovernmentLink": {
+    "title": "ひろば型一時保育",
+    "uri": "https://www.city.shinjuku.lg.jp/kodomo/file03_02_00005.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "新宿区"
+  },
+  "procedureCounter": "子ども総合センター,榎町子ども家庭支援センター,中落合子ども家庭支援センター\t",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "事前に登録が必要です。\n(1) 電話で登録の予約\n登録手続きの前に、電話で登録予約をしてください。\n子ども総合センター：03-3232-0695\n榎町子ども家庭支援センター：03‐3269-7304\n中落合子ども家庭支援センター：03-3952-7751\n(2) 登録受付\n各施設で、利用するお子さんの簡単な面接と説明および登録手続きを行いますので、一緒にいらしてください。　　　　　　　　　 　　　　　　　　 　　　　　　　　\n受付日：月曜日～金曜日（祝日を除く）\n時間：午前 9 時30分～午後 5 時\n持ち物：母子手帳、健康保険証、乳幼児医療証、送迎者のお写真",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第7項、第21条の9、第59条第10号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "地域子育て支援センター二葉のページ",
+      "uri": "http://www.futaba-yuka.or.jp/int_nyu/int_huh/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ご家庭において一時的に保育が必要な時に、理由を問わずお子さんをお預かりします。",
+  "support": {
+    "description": "○利用できる日・時間\n【子ども総合センター】\n　\t月曜日～金曜日　\t午前9時～午後5時\n【榎町子ども家庭支援センター\t・中落合子ども家庭支援センター】\n　\t同上\n※3施設とも、祝日および12月29日～1月3日を除く。\n○1 日に利用できる時間と人数\n　上記の利用時間内で、最大4時間まで利用できます。\n　同時間帯に利用できる人数は、3施設とも5人までです。",
+    "materiallySupport": "○利用できる日・時間\n【子ども総合センター】\n　\t月曜日～金曜日　\t午前9時～午後5時\n【榎町子ども家庭支援センター\t・中落合子ども家庭支援センター】\n　\t同上\n※3施設とも、祝日および12月29日～1月3日を除く。\n○1 日に利用できる時間と人数\n　上記の利用時間内で、最大4時間まで利用できます。\n　同時間帯に利用できる人数は、3施設とも5人までです。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後 6 ヶ月から就学前",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 6
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住で、生後 6 ヶ月から就学前の健康なお子さん。（発熱や下痢、病気感染の時は、お預かりできません。）"
+  },
+  "updateDate": "2024-05-07",
+  "useConsiderationFlag": false,
+  "utilization": "事前に登録が必要です。\n(1) 電話で登録の予約\n登録手続きの前に、電話で登録予約をしてください。\n子ども総合センター：03-3232-0695\n榎町子ども家庭支援センター：03‐3269-7304\n中落合子ども家庭支援センター：03-3952-7751\n(2) 登録受付\n各施設で、利用するお子さんの簡単な面接と説明および登録手続きを行いますので、一緒にいらしてください。　　　　　　　　　 　　　　　　　　 　　　　　　　　\n受付日：月曜日～金曜日（祝日を除く）\n時間：午前 9 時30分～午後 5 時\n持ち物：母子手帳、健康保険証、乳幼児医療証、送迎者のお写真",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日～金曜日\t　午前9時～午後5時\n※祝日および12月29日～1月3日を除く。",
+    "fromHM": "09:00",
+    "toHM": "17:00"
+  }
+}

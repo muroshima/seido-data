@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部健康サービス課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+14+UM66"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部健康サービス課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "18歳未満で骨関節結核その他の結核にかかっている方が、指定医療機関へ入院し医療を受け、あわせて学習用品の支給を受ける制度です。保護者の収入により費用の一部または全部を給付します。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の医療費助成制度（ぜん息など）",
+    "shortName": "療育給付"
+  },
+  "localGovernmentLink": {
+    "title": "療育給付について",
+    "uri": "https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kodomo/iryohi/ryouikuiryou.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "各健康サポートセンター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第20条",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "18歳未満で骨関節結核その他の結核にかかっている方が、指定医療機関へ入院し医療を受け、あわせて学習用品の支給を受ける制度です。保護者の収入により費用の一部または全部を給付します。",
+  "support": {
+    "description": "18歳未満で骨関節結核その他の結核にかかっている方が、指定医療機関へ入院し医療を受け、あわせて学習用品の支給を受ける制度です。保護者の収入により費用の一部または全部を給付します。",
+    "materiallySupport": "18歳未満で骨関節結核その他の結核にかかっている方が、指定医療機関へ入院し医療を受け、あわせて学習用品の支給を受ける制度です。保護者の収入により費用の一部または全部を給付します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "18歳未満で骨関節結核その他の結核にかかっている方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "18歳未満で骨関節結核その他の結核にかかっている方"
+  },
+  "updateDate": "2023-03-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

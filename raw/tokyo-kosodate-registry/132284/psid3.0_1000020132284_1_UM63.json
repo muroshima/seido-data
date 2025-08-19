@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132284;あきる野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部 障がい者支援課 障がい者相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132284",
+    "psid": "psid3.0+1000020132284+1+UM63"
+  },
+  "belongings": "手続きに必要なもの\n障害児福祉手当認定請求書\n障害児福祉手当の診断書\n障害児福祉手当所得状況届\n振込先金融機関の口座番号（本人名義）\n区市町村民税課税（非課税）証明書（毎年8月1日更新）※申請者、配偶者及び扶養義務者のマイナンバーが確認できる書類があれば省略可能です。\n身体障害者手帳または愛の手帳（お持ちの方）\n申請者、配偶者及び扶養義務者のマイナンバーが確認できる書類（マイナンバーカード等）※代理人が年金受給額のわかる書類を提出する場合は委任状等の代理権の確認書類と代理人の身元確認ができる書類（運転免許証等）が必要です。\n受付窓口で申請書を提出される方の身元確認ができる書類",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "内線2617、2618、2619",
+    "contactName": "健康福祉部 障がい者支援課 障がい者相談係",
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "障害児福祉手当\n\n対象者\n20歳未満で、身体または精神に著しく重度の障がいがあるため、日常生活に常時介護を必要とする状態（身障手帳1級及び2級の一部若しくは愛の手帳1度及び2度程度またはこれらと同等の疾病または精神の障がい）にある方\n\n対象除外\n施設入所者、障がいを事由とする公的年金を受けている方は対象になりません。本人または扶養義務者の所得が一定の額以上であるときは、支給停止になります。\n\n手当額と支給月\n月額　15，690円（令和6年4月から）\n\n支給月　2月、5月、8月、11月\n\n※ただし、障害者手帳の等級は参考であり、医師診断書の内容により適否を判断されます。\n\n手続きに必要なもの\n障害児福祉手当認定請求書\n障害児福祉手当の診断書\n障害児福祉手当所得状況届\n振込先金融機関の口座番号（本人名義）\n区市町村民税課税（非課税）証明書（毎年8月1日更新）※申請者、配偶者及び扶養義務者のマイナンバーが確認できる書類があれば省略可能です。\n身体障害者手帳または愛の手帳（お持ちの方）\n申請者、配偶者及び扶養義務者のマイナンバーが確認できる書類（マイナンバーカード等）※代理人が年金受給額のわかる書類を提出する場合は委任状等の代理権の確認書類と代理人の身元確認ができる書類（運転免許証等）が必要です。\n受付窓口で申請書を提出される方の身元確認ができる書類",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "障害児福祉手当",
+    "shortName": "障害児福祉手当"
+  },
+  "localGovernmentLink": {
+    "title": "障がいのある方への手当について",
+    "uri": "https://www.city.akiruno.tokyo.jp/0000003532.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "あきる野市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "身体または精神に重度の障がいのある20歳未満の方で、日常生活において常時介護を必要とする方に対し、手当が支給されます。",
+  "support": {
+    "description": "月額　15,690円（令和6年4月から）",
+    "materiallySupport": null,
+    "monetarySupport": "月額　15,690円（令和6年4月から）"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "20歳未満で、法令により定められた程度の障害の状態にある児童を監護する父母または養育者\n\n※所得制限があります。\n\n※受給資格に該当する障がいの目安（所定の診断書などの判定により、受給できない場合があります。）\n\n・身体障害\nおおむね身体障害者手帳　1級～3級程度（下肢障害については4級の一部を含む）\n疾患により長期にわたる安静を必要とする程度の状態にあるものなど\n・知的障害\nおおむね愛の手帳　1～3度程度\n・精神障害\n上記と同程度の障害（自閉症スペクトラム症等により日常生活に著しい制限を受ける方等）\n・重複障害\n複数の障害がある場合は、個々の障害の程度が上記より軽度な場合でも該当となることがあります。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "20歳未満で、身体または精神に著しく重度の障がいがあるため、日常生活に常時介護を必要とする状態（身障手帳1級及び2級の一部若しくは愛の手帳1度及び2度程度またはこれらと同等の疾病または精神の障がい）にある方"
+  },
+  "updateDate": "2024-06-07",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

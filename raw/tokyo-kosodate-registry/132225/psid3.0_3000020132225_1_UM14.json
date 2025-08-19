@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132225;東久留米市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉保健部　健康課　保健サービス係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132225",
+    "psid": "psid3.0+3000020132225+1+UM14"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都東久留米市滝山4-3-14",
+    "contactComment": "FAX：042-477-0033",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉保健部　健康課　保健サービス係",
+    "contactPhone": "042-477-0022",
+    "contactUrl": "https://www.city.higashikurume.lg.jp/cgi-bin/contacts/g060702",
+    "zipCode": "2030033"
+  },
+  "cost": "無料",
+  "costConditions": null,
+  "description": "ご出産おめでとうございます。\nご自宅に赤ちゃんがいる生活やお母さんの体調はいかがでしょうか？\n赤ちゃんのかわいさや子育ての楽しさを感じることも多い反面、産後の体調によっては不安になったり、初めての育児の場合は戸惑う場面も多いかと思います。\n東久留米市では、赤ちゃんの成長や産後のお母さんの体調確認のため、生後4カ月未満のお子さんがいるすべてのご家庭に保健師・助産師が訪問します。ご自宅で赤ちゃんの体重をはかったり、育児等のご相談をお受けします。\n産婦・赤ちゃん訪問のQ＆A\nQ3.どんな人がくるの？\nA3.母子保健に詳しい保健師や助産師がお伺いします。\nQ4.二人目だけど利用できますか？\nA4.ご利用いただけます。\n何人目のお子さまでも、赤ちゃんがお生まれになったすべてのご家庭にお伺いします。\nQ5.里帰りしたら利用できないの？\nA5.里帰り先でも新生児訪問を受けられる場合があります。\n里帰り先での訪問をご希望される場合、まずは、里帰り先の市区町村へ直接お問い合わせください。\n東久留米市へお帰りになってからも、ご希望があれば訪問させていただきます（生後4か月未満まで）。里帰り先からお戻りの際には、健康課（保健サービス係　042-477-0022）までご連絡ください。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "出生通知票（電子申請）（外部リンク）",
+      "uri": "https://logoform.jp/form/985h/407389"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+    "shortName": "産婦・赤ちゃん訪問"
+  },
+  "localGovernmentLink": {
+    "title": "産婦・赤ちゃん訪問",
+    "uri": "https://www.city.higashikurume.lg.jp/kurashi/kenko/boshi/1000405.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/07",
+    "updater": "東久留米市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "赤ちゃんがお生まれになりましたら、出生通知票（電子申請）を早めにご提出ください。\n出生通知票は下記URLよりご申請いただけます。\n妊娠届出時にお渡しした母子バッグの中にも、ご案内を同封しております。紙面の二次元コードからもアクセスできますのでご利用ください。\n出生通知票（電子申請）（外部リンク）;https://logoform.jp/form/985h/407389",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第21条の10の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "生後4か月を迎えるまでの乳児がいるご家庭に助産師・保健師が訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+  "support": {
+    "description": "お子さんの体重をはかったり、母乳・ミルクのことや日頃気になる育児のこと、産婦さんやご家族のことなどの相談をお受けします。",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "※必要に応じて４か月以降でも訪問する場合があります。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": 4
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生後4か月未満の乳児を養育する家庭"
+  },
+  "updateDate": "2024/10/01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

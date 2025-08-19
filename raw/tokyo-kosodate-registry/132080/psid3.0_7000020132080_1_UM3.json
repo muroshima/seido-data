@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132080;調布市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "市民部市民課 ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020132080",
+    "psid": "psid3.0+7000020132080+1+UM3"
+  },
+  "belongings": "出生届書1通(医師または助産師の証明が必要です。)\n母子健康手帳\n国民健康保険証(加入者のみ)",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-440-7211",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "市民部市民課",
+    "contactPhone": "042-481-7044,042-481-7045",
+    "contactUrl": "https://www.city.chofu.lg.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "出生届の提出方法\n赤ちゃんが生まれたときは、生まれた日から起算して14日以内に、本籍地、または届出人の所在地、出生地のうちいずれかの市区町村役場へ、必ず届けてください。\n届出人\n1.父親または母親\n2.父母が婚姻届を出していないときは、母親になります。\n3.届出人が署名をした後、届書を持参する方は、親族の方でも構いません。\n届出に必要なもの\n1.出生届書1通(医師または助産師の証明が必要です。)\n2.母子健康手帳\n3.国民健康保険証(加入者のみ)\n(注)夜間・休日に出生届のみを提出される方は、下記をご参照ください。\n関連リンク\n夜間・休日でも取り扱う市民課の業務(戸籍届出のお預り等);https://www.city.chofu.lg.jp/030040/p017003.html\n(注)夜間・休日の受付は、出生届のみの提出となります。手当・助成などそのほかの出生にかかわる手続きはできませんので、ご注意ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "赤ちゃんが生まれたときは、生まれた日から起算して14日以内に、本籍地、または届出人の所在地、出生地のうちいずれかの市区町村役場へ、必ず届けてください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "市民部市民課"
+  },
+  "institutionName": {
+    "canonicalName": "出生届",
+    "shortName": "出生届の提出方法"
+  },
+  "localGovernmentLink": {
+    "title": "出生届の提出方法",
+    "uri": "https://www.city.chofu.lg.jp/030040/p017089.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "調布市"
+  },
+  "procedureCounter": "市民部市民課 ",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "届出に必要なもの\n出生届書1通(医師または助産師の証明が必要です。)\n母子健康手帳\n国民健康保険証(加入者のみ)\n(注)夜間・休日に出生届のみを提出される方は、下記をご参照ください。\n\n関連リンク\n夜間・休日でも取り扱う市民課の業務(戸籍届出のお預り等);https://www.city.chofu.lg.jp/030040/p017003.html\n(注)夜間・休日の受付は、出生届のみの提出となります。手当・助成などそのほかの出生にかかわる手続きはできませんので、ご注意ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "父親または母親\n父母が婚姻届を出していないときは、母親になります。\n届出人が署名をした後、届書を持参する方は、親族の方でも構いません。",
+  "regulation": {
+    "regulationArticle": "第49条、第52条",
+    "regulationName": "戸籍法"
+  },
+  "relatedLink": [
+    {
+      "title": "夜間・休日でも取り扱う市民課の業務(戸籍届出のお預り等)",
+      "uri": "https://www.city.chofu.lg.jp/030040/p017003.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "出生届とは、生まれてきたお子さんの氏名等を戸籍に記載するための手続きです。\n戸籍に記載されることで、生まれてきたお子さんの親族関係が公的に証明されます。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "父親または母親\n父母が婚姻届を出していないときは、母親になります。\n届出人が署名をした後、届書を持参する方は、親族の方でも構いません。"
+  },
+  "updateDate": "2023-06-29",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

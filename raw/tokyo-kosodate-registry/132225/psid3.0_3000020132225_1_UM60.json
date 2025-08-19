@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132225;東久留米市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　児童青少年課　助成支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132225",
+    "psid": "psid3.0+3000020132225+1+UM60"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都東久留米市本町3-3-1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　児童青少年課　助成支援係",
+    "contactPhone": "042-470-7736",
+    "contactUrl": "https://www.city.higashikurume.lg.jp/kurashi/kosodate/teate/1000462.html",
+    "zipCode": "2038555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "母子家庭の母または父子家庭の父が、就業に結びつきやすい資格を取得するために養成機関で受講する際に、修業期間中の一定期間について生活の負担軽減を図るため、高等職業訓練促進給付金を支給します。また、修了時には高等職業訓練促進修了給付金を支給することで、資格取得を促進し、母子家庭又は父子家庭の経済的自立を図ることを目的とします。\n\n対象となる方\n20歳未満の子を扶養している母子家庭の母または父子家庭の父で、次のすべての要件を満たす方。\n\n・児童扶養手当の支給（全部支給または一部支給）を受けているか、児童扶養手当の支給要件と同様の所得水準の方\n・修業年限が6月以上の養成機関において修業しており、対象資格の取得が見込まれる方\n・就業または育児と修業の両立が困難な状況であると認められる方\n・訓練促進給付金については、原則として、過去に訓練促進給付金の支給を受けていない方\n・修了支援給付金については、原則として、過去に修了支援給付金の支給を受けていない方\n講座の申し込み前に支援員と面談が必要となります。その際に支給が可能であるか確認をさせていただきます。\n\n支給対象資格\n看護師、准看護師、介護福祉士、保育士、理学療法士、作業療法士、保健師、助産師、理容師、美容師、歯科衛生士、社会福祉士、製菓衛生師、調理師、シスコシステムズ認定資格、LPI認定資格、その他上記に準じ市長が地域の実情に応じて定める資格\n\n支給期間\n修業する期間に相当する期間（その期間が48月を超えるときは、48月）を超えない期間\n\n支給額\n・住民税非課税世帯（民法第877条第1項に定める扶養義務者で当該対象者と生計を同じくする方を含む）。\n　訓練促進給付金：月額100,000円（修了までの期間の最後の12月については、月額140,000円。）\n　修了支援給付金：50,000円\n・上記以外\n　訓練促進給付金：月額70,500円（修了までの期間の最後の12月については、月額110,500円）\n　修了支援給付金：25,000円\n申請方法\n講座の申し込み前に窓口へご相談ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "高等職業訓練促進給付金",
+    "shortName": "母子家庭及び父子家庭高等職業訓練促進給付金"
+  },
+  "localGovernmentLink": {
+    "title": "母子家庭及び父子家庭高等職業訓練促進給付金",
+    "uri": "https://www.city.higashikurume.lg.jp/kurashi/kosodate/teate/1000462.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "東久留米市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "講座の申し込み前に支援員と面談が必要となります。その際に支給が可能であるか確認をさせていただきます。\n\n支給対象資格\n看護師、准看護師、介護福祉士、保育士、理学療法士、作業療法士、保健師、助産師、理容師、美容師、歯科衛生士、社会福祉士、製菓衛生師、調理師、シスコシステムズ認定資格、LPI認定資格、その他上記に準じ市長が地域の実情に応じて定める資格\n\n支給期間\n修業する期間に相当する期間（その期間が48月を超えるときは、48月）を超えない期間\n\n申請方法\n講座の申し込み前に窓口へご相談ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "20歳未満の子を扶養している母子家庭の母または父子家庭の父で、次のすべての要件を満たす方。\n\n・児童扶養手当の支給（全部支給または一部支給）を受けているか、児童扶養手当の支給要件と同様の所得水準の方\n・修業年限が6月以上の養成機関において修業しており、対象資格の取得が見込まれる方\n・就業または育児と修業の両立が困難な状況であると認められる方\n・訓練促進給付金については、原則として、過去に訓練促進給付金の支給を受けていない方\n・修了支援給付金については、原則として、過去に修了支援給付金の支給を受けていない方",
+  "regulation": {
+    "regulationArticle": "第31条（母子家庭自立支援給付金）、第31条の10（父子家庭自立支援給付金）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭の母または父が、就業に結びつきやすい対象資格（看護師や介護福祉士など）を取得するため1年以上（令和3年4月1日から令和4年3月31日までに修業を開始する場合には6月以上）、養成機関で修業する場合に、修業期間中の生活の負担軽減のために高等職業訓練促進給付金を、また修業終了時に高等職業訓練修了支援給付金を支給します。",
+  "support": {
+    "description": "支給額\n・住民税非課税世帯（民法第877条第1項に定める扶養義務者で当該対象者と生計を同じくする方を含む）。\n　訓練促進給付金：月額100,000円（修了までの期間の最後の12月については、月額140,000円。）\n　修了支援給付金：50,000円\n・上記以外\n　訓練促進給付金：月額70,500円（修了までの期間の最後の12月については、月額110,500円）\n　修了支援給付金：25,000円",
+    "materiallySupport": null,
+    "monetarySupport": "支給額\n・住民税非課税世帯（民法第877条第1項に定める扶養義務者で当該対象者と生計を同じくする方を含む）。\n　訓練促進給付金：月額100,000円（修了までの期間の最後の12月については、月額140,000円。）\n　修了支援給付金：50,000円\n・上記以外\n　訓練促進給付金：月額70,500円（修了までの期間の最後の12月については、月額110,500円）\n　修了支援給付金：25,000円"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "20歳未満の子",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "20歳未満の子を扶養している母子家庭の母または父子家庭の父で、次のすべての要件を満たす方。\n\n・児童扶養手当の支給（全部支給または一部支給）を受けているか、児童扶養手当の支給要件と同様の所得水準の方\n・修業年限が6月以上の養成機関において修業しており、対象資格の取得が見込まれる方\n・就業または育児と修業の両立が困難な状況であると認められる方\n・訓練促進給付金については、原則として、過去に訓練促進給付金の支給を受けていない方\n・修了支援給付金については、原則として、過去に修了支援給付金の支給を受けていない方"
+  },
+  "updateDate": "2024-06-11",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

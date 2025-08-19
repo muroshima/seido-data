@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども生活部子ども家庭支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+2+UM61"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども生活部子ども家庭支援センター",
+    "contactPhone": "042-724-4419",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/9",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "費用\n世帯の所得に応じて、費用の負担があります。\nほかに、派遣中の駐車料金、買い物や送迎にかかる交通費等サービスにかかる経費は実費負担となります。",
+  "description": "サービス内容\n育児や育児にともなう家事で、必要と認められた支援。\nなお、外出作業のみの派遣は対象となりません。\nまた、ご自宅の鍵を預かることはできません。\n\n医療行為や入院加療を要する場合、ご家族含めて伝染性疾患等を患っている場合などは派遣できません。\n\nなお、地域や時間帯によっては、ヘルパーの確保ができないことがあります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "派遣時間帯と派遣回数\n派遣時間帯は午前5時から午後10時までの間で、派遣単位は1時間です。\n1日8時間、月12日間を上限のめやすとします。",
+    "fromHM": "05:00",
+    "fromYMD": null,
+    "toHM": "22:00",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自のひとり親の方への金銭的支援",
+    "shortName": "ひとり親家庭のホームヘルプサービス"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親家庭のホームヘルプサービス",
+    "uri": "https://kosodate-machida.tokyo.jp/soshiki/4/5/7/1173.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第31条（母子家庭自立支援給付金）、第31条の10（父子家庭自立支援給付金）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "サービス内容\n育児や育児にともなう家事で、必要と認められた支援。なお、外出作業のみの派遣は対象となりません。また、ご自宅の鍵を預かることはできません。医療行為や入院加療を要する場合、ご家族含めて伝染性疾患等を患っている場合などは派遣できません。なお、地域や時間帯によっては、ヘルパーの確保ができないことがあります。",
+  "support": {
+    "description": "一定期間ホームヘルパーを派遣して、世帯の自立を支援します。",
+    "materiallySupport": "一定期間ホームヘルパーを派遣して、世帯の自立を支援します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "078"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "市内在住のひとり親家庭で、次のいずれかに該当する方\n\nひとり親家庭となってから2年以内で、日常生活に支障が生じており、支援が必要な場合\n技能習得のため、職業能力開発センター等に通学している場合\n就職活動及び母子自立支援プログラムに基づいた活動を行う等、自立促進に必要と認められる場合\n疾病・出産・看護・事故・災害・冠婚葬祭・失踪・残業・転勤・出張・学校等の公的行事の参加等、社会通念上必要と認められる事由により、一時的に生活援助や子育て支援が必要な場合\n小学生以下の児童がいて、就業上の理由により保護者の帰宅が遅くなる場合",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象\n市内在住のひとり親家庭で、次のいずれかに該当する方\n\nひとり親家庭となってから2年以内で、日常生活に支障が生じており、支援が必要な場合\n技能習得のため、職業能力開発センター等に通学している場合\n就職活動及び母子自立支援プログラムに基づいた活動を行う等、自立促進に必要と認められる場合\n疾病・出産・看護・事故・災害・冠婚葬祭・失踪・残業・転勤・出張・学校等の公的行事の参加等、社会通念上必要と認められる事由により、一時的に生活援助や子育て支援が必要な場合\n小学生以下の児童がいて、就業上の理由により保護者の帰宅が遅くなる場合"
+  },
+  "updateDate": "2022-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "利用方法\n前月の20日頃までに派遣申請をしてください。\n初回利用時は市や事業所がご自宅を訪問したうえで派遣手配をします。\n初回以降も状況確認のため随時ご自宅を訪問することがあります。\n\n派遣の辞退については、利用日前日の午後5時までに事業所と町田市子ども家庭支援センターに申し出る必要があります。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

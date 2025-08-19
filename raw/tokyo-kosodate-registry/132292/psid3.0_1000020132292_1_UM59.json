@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132292;西東京市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132292",
+    "psid": "psid3.0+1000020132292+1+UM59"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "西東京市南町五丁目6番13号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て支援課",
+    "contactPhone": "042-460-9840",
+    "contactUrl": null,
+    "zipCode": "1888666"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "教育訓練給付金の支給\n\n母子家庭のお母さん、父子家庭のお父さんが就職に有利な資格を取得し、今より向上した生活を目指すための制度です。\n厚生労働大臣が指定した教育訓練講座（外部リンク）;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/kyouiku.htmlを受講し、修了した場合に費用の一部を支給します。\n一般教育訓練のほか特定一般教育訓練、専門実践教育訓練の対象講座が該当します。お子さんの年齢は20歳までです。\n受講開始日前に申請してください。受講開始後の申請はできません。\n\n対象となるのは\n\n児童扶養手当を受給しているか同等の所得水準の方で過去にこの給付金を受給したことがない方\n就業経験、技能又は資格の取得状況、労働市場の状況等から判断して、教育訓練講座を受講することが適職に就くために必要であると認められる方\nです。\n\n講座の受講修了後に支給申請が必要です。\n\n支給金額は、入学料及び授業料の6割で20万円まで。入学料及び授業料の6割が12,000円を超える場合に支給となります。\n専門実践教育訓練講座を受講した場合は支給額の上限は修業年数×40万円となります。\n\n雇用保険の資格がない方は、支給申請をしたのち請求いただいてから指定された口座に上の金額が振り込まれます。\n雇用保険の資格のある方は、ハローワークで支給の手続きをして、決定を受けたのち上の金額との差額を市で申請していただきます。\n資格取得後の就労報告を提出いただいています。\n\n詳細はお問い合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援教育訓練給付金",
+    "shortName": "教育訓練給付金"
+  },
+  "localGovernmentLink": {
+    "title": "教育訓練給付金",
+    "uri": "https://www.city.nishitokyo.lg.jp/kosodate/hitorioyakatei/kyouikukunrenkyuuhukin.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "西東京市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "講座の受講修了後に支給申請が必要です。\n\n支給金額は、入学料及び授業料の6割で20万円まで。入学料及び授業料の6割が12,000円を超える場合に支給となります。\n専門実践教育訓練講座を受講した場合は支給額の上限は修業年数×40万円となります。\n\n雇用保険の資格がない方は、支給申請をしたのち請求いただいてから指定された口座に上の金額が振り込まれます。\n雇用保険の資格のある方は、ハローワークで支給の手続きをして、決定を受けたのち上の金額との差額を市で申請していただきます。\n資格取得後の就労報告を提出いただいています。\n\n詳細はお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第31条（母子家庭自立支援給付金）、第31条の10（父子家庭自立支援給付金）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "厚生労働大臣が指定した教育訓練講座（外部リンク）",
+      "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/kyouiku.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭の母または父が、就職やキャリアアップのために指定された教育訓練講座を受講し、修了した場合、受講に要した費用の一部が支給されます。\n※受講開始前に必ず事前相談を受けてください。",
+  "support": {
+    "description": "厚生労働大臣が指定した教育訓練講座（外部リンク）;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/kyouiku.htmlを受講し、修了した場合に費用の一部を支給します。\n一般教育訓練のほか特定一般教育訓練、専門実践教育訓練の対象講座が該当します。\n\n支給金額は、入学料及び授業料の6割で20万円まで。入学料及び授業料の6割が12,000円を超える場合に支給となります。\n\n専門実践教育訓練講座を受講した場合は支給額の上限は修業年数×40万円となります。",
+    "materiallySupport": null,
+    "monetarySupport": "支給金額は、入学料及び授業料の6割で20万円まで。入学料及び授業料の6割が12,000円を超える場合に支給となります。\n\n専門実践教育訓練講座を受講した場合は支給額の上限は修業年数×40万円となります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "お子さんの年齢は20歳まで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "お子さんの年齢は20歳までです。\n\n対象となるのは\n\n・児童扶養手当を受給しているか同等の所得水準の方で過去にこの給付金を受給したことがない方\n・就業経験、技能又は資格の取得状況、労働市場の状況等から判断して、教育訓練講座を受講することが適職に就くために必要であると認められる方\n\nです。"
+  },
+  "updateDate": "2022-11-09",
+  "useConsiderationFlag": false,
+  "utilization": "受講開始日前に申請してください。受講開始後の申請はできません。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

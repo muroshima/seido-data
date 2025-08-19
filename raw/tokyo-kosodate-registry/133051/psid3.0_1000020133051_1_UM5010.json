@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "133051;日の出町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センター　相談係（母子保健担当）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133051",
+    "psid": "psid3.0+1000020133051+1+UM5010"
+  },
+  "belongings": "母子手帳・新生児聴覚検査受診票",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡日の出町大字平井2780番地",
+    "contactComment": "ファクス: 042-597-0628",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭センター　相談係（母子保健担当）",
+    "contactPhone": "042-588-4310",
+    "contactUrl": null,
+    "zipCode": "1900192"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "新生児聴覚検査¥n日の出町では、新生児聴覚検査をすべての赤ちゃんに安心してお受けいただくために、検査にかかった費用の一部を助成します。助成を受けるためには、新生児聴覚検査受診票が必要です。¥n¥n受診方法¥n・生後1か月以内に受診。（有効期限：生後50日に達する日まで）¥n・新生児聴覚検査受診票は、東京都内のみで利用できます。¥n・都内委託医療機関は、東京都ホームページ（赤ちゃんの耳のきこえについて）（別ウインドウで開く）;http://www.fukushihoken.metro.tokyo.jp/kodomo/shussan/kenkou/baby_ear.htmlをご覧ください¥n・里帰り出産等により都外の医療機関で受診、または新生児聴覚検査受診票を使わずに都内委託医療機関以外で検査を受けた場合、下記のとおり費用の一部を助成します。¥n¥n支給上限額¥n3，000円　1回のみ　（※実費額が左記金額を下回る場合は、実費額の助成となります）¥n申請方法¥n所定の申請書に必要事項を記入のうえ押印し、必要書類等をご持参ください。¥n（1）母子健康手帳の写し¥n（2）新生児聴覚検査結果の写し¥n（3）未使用の新生児聴覚検査受診票¥n（4）助成対象者が自己負担で検査を受診したことを証する書類¥n（5）その他町長が必要と認める書類¥n申請期間¥n里帰り出産：対象となるお子さんの1歳の誕生日の前日まで¥n¥n注意事項¥n・新生児聴覚検査受診票は、受診日現在、住民登録のある自治体で受け取ってください¥n・受診票をお持ちでない方（転入、出産超過等）は、母子手帳を持参して、日の出町保健センターまでお越しください",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "新生児聴覚検査",
+    "shortName": "新生児聴覚検査"
+  },
+  "localGovernmentLink": {
+    "title": "新生児聴覚検査",
+    "uri": "https://www.town.hinode.tokyo.jp/0000001949.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "日の出町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "通知全体",
+    "regulationName": "「新生児聴覚検査の実施について」（平成19年1月29日雇児母発第0129002号厚生労働省雇用均等・児童家庭局母子保健課長通知）"
+  },
+  "relatedLink": [
+    {
+      "title": "東京都ホームページ（赤ちゃんの耳のきこえについて）（別ウインドウで開く）",
+      "uri": "http://www.fukushihoken.metro.tokyo.jp/kodomo/shussan/kenkou/baby_ear.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "聴覚障害は、早期発見・治療により言葉の発達などへの影響が最小限に抑えられることが分かっていることから、生まれたばかりの赤ちゃんに聴覚障害の疑いがないかを調べる新生児聴覚検査の費用の一部を助成しています。",
+  "support": {
+    "description": "3，000円　1回のみ　（※実費額が左記金額を下回る場合は、実費額の助成となります）",
+    "materiallySupport": null,
+    "monetarySupport": "3，000円　1回のみ（※実費額が左記金額を下回る場合は、実費額の助成となります）"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後1か月以内に受診。（有効期限：生後50日に達する日まで）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 1
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "134015;八丈町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉健康課保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020134015",
+    "psid": "psid3.0+3000020134015+7+UM54"
+  },
+  "belongings": "・母子手帳\n・予診票\n・診察券（町立八丈病院）※令和３年４月～",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉健康課保健係",
+    "contactPhone": "04996-2-5570",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "基本は無料ですが、定期予防接種期間から外れた場合は任意予防接種（有料）になります",
+  "description": "八丈町における定期予防接種（小児）について\n\n【接種会場】\n町立八丈病院小児科\n\n【集団接種実施時間】\n13時30分～15時30分 （予防接種の種類、接種予定者数によって変更することがあります）\n【予防接種に必要なもの】\n・母子手帳 ・予診票 ・診察券（町立八丈病院）※令和３年４月～\n【接種費用について】\n無料（保護者負担なし） （基本は無料ですが、定期予防接種期間から外れた場合は任意予防接種（有料）になります）\n【予約制個別予防接種について】\n八丈町では、集団予防接種の機会を逃してしまった方のために予約制の個別予防接種を毎月2回設けています。\n・実施日時\n　毎月、第2・第4木曜日 14時～16時　※集団接種と同時実施\n　（祝日等により変更あり、詳しくは毎月発行の広報をご覧ください）\n・予約締切日\n　予防接種実施日の1週間前の17時15分まで\n・予約、問い合わせ先\n　福祉健康課保健係　 ℡ ０４９９６－２－５５７０\n【通知方法について】\n１歳までのお子様には予防接種担当者が個別にスケジュールを作成し、お渡しします。\n１歳以降の定期予防接種対象となっているお子様には事前に個別通知します。\nなお、１歳以降のお子様でも希望される方には予防接種担当者がスケジュールのご相談に応じます。\n下記問い合わせ先までお問い合わせください。\n【定期予防接種問い合わせ先】\n福祉健康課保健係　 ℡ ０４９９６－２－５５７０\n【任意予防接種問い合わせ先】\n町立八丈病院 ℡ ０４９９６－２－１１８８\n\n麻しん風しん混合（ＭＲ）で予防できる感染症とは？\n【麻しん（はしか）】\n麻しんは麻しんウイルスの空気感染によっておこり、感染力が強く予防接種を受けないと多くの人がかかる病気です。麻しんにかかると３９～４０℃の\n高熱と発しんがみられ、ときに肺炎・中耳炎・気管支炎・脳炎などの合併症を併発し死亡することもあります。麻しんにかかった人は数千人に１人の割\n合で死亡します。予防はワクチン接種以外ありません。日本は平成２７年までに国内から麻しん排除を目指しています。\n【風しん】\n風しんは風しんウイルスの飛沫感染によっておこり、発しん、発熱、後頸部リンパ節腫脹を主な症状とする感染症です。風しんにかかると、ときに関節\n痛・血小板減少性紫斑病・脳炎などの合併を併発することがあります。また、免疫のない妊婦が妊娠初期にかかると白内障・心疾患・難聴等の症状をも\nつ先天性風疹症候群児を出生することがあります。予防はワクチン接種以外にありません。\n・接種回数と間隔\n１歳になったら第１期接種を１回、小学校入学前１年間（保育園年長相当）に第２期接種を１回。合計２回接種",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "【集団接種実施時間】\n13時30分～15時30分（予防接種の種類、接種予定者数によって変更することがあります）",
+    "fromHM": "13:30",
+    "fromYMD": null,
+    "toHM": "15:30",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "町立八丈病院小児科"
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "定期予防接種（麻しん・風しん混合（ＭＲ））"
+  },
+  "localGovernmentLink": {
+    "title": "八丈町小児予防接種スケジュール一覧表（令和５年度～）",
+    "uri": "https://www.town.hachijo.tokyo.jp/kakuka/kenkou/vaccination.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-13",
+    "updater": "八丈町"
+  },
+  "procedureCounter": "福祉健康課保健係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "１歳までのお子様には予防接種担当者が個別にスケジュールを作成し、お渡しします。\n１歳以降の定期予防接種対象となっているお子様には事前に個別通知します。\nなお、１歳以降のお子様でも希望される方には予防接種担当者がスケジュールのご相談に応じます。",
+  "procedurePeriod": {
+    "conditions": "・接種回数と間隔\n１歳になったら第１期接種を１回、小学校入学前１年間（保育園年長相当）に第２期接種を１回。合計２回接種",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）",
+    "regulationName": "予防接種法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+  "support": {
+    "description": "予防接種",
+    "materiallySupport": "予防接種",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "１歳になったら",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "１歳になったら第１期接種を１回、小学校入学前１年間（保育園年長相当）に第２期接種を１回。合計２回接種"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

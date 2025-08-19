@@ -1,0 +1,171 @@
+{
+  "area": {
+    "areaCode": "132080;調布市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども生活部保育課 ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020132080",
+    "psid": "psid3.0+7000020132080+1+UM91"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-499-6101",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども生活部保育課",
+    "contactPhone": "042-481-7132,042-481-7133,042-481-7134,042-481-7758",
+    "contactUrl": "https://www.city.chofu.lg.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "https://www.city.chofu.lg.jp/050020/p028090.html#hoikujo/hoikuen",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "認可外保育施設一覧",
+    "shortName": "東京都認証保育所"
+  },
+  "localGovernmentLink": {
+    "title": "東京都認証保育所",
+    "uri": "https://www.city.chofu.lg.jp/050020/p028090.html#hoikujo/hoikuen"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "調布市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "東京都認証保育所一覧(東京都福祉局ホームページ)（外部リンク）",
+      "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/hoiku/ninsyo/ichiran.html"
+    },
+    {
+      "title": "ゆらりん仙川保育園ホームページ（外部リンク）",
+      "uri": "https://hoiku.lifesupport.co.jp/yurarin-sengawa/"
+    },
+    {
+      "title": "福祉サービス第三者評価受審結果(とうきょう福祉ナビゲーション)（外部リンク）",
+      "uri": "https://www.fukunavi.or.jp/fukunavi/hyoka/hyokatop.htm"
+    },
+    {
+      "title": "ポピンズのホームページ（外部リンク）",
+      "uri": "https://www.poppins.co.jp/educare/room-search/tutuji/"
+    },
+    {
+      "title": "認可保育所と認証保育所の違い(とうきょう福祉ナビゲーション)（外部リンク）",
+      "uri": "https://www.fukunavi.or.jp/fukunavi/contents/tokushu/ninsyo/ninsyo_02.html"
+    },
+    {
+      "title": "木下の保育園つつじヶ丘のホームページ（外部リンク）",
+      "uri": "https://www.kinoshita-hoiku.com/"
+    },
+    {
+      "title": "あいあい保育園調布乳幼児園ホームページ（外部リンク）",
+      "uri": "https://chofu.child-land.jp/"
+    },
+    {
+      "title": "木下の保育園国領のホームページ（外部リンク）",
+      "uri": "https://www.kinoshita-hoiku.com/"
+    },
+    {
+      "title": "ぽけっとランドホームページ（外部リンク）",
+      "uri": "https://www.pocket-land.jp/"
+    },
+    {
+      "title": "都市型保育園ポポラー東京調布園（外部リンク）",
+      "uri": "https://rabi-popo.com/"
+    },
+    {
+      "title": "ベルーガのホームページ（外部リンク）",
+      "uri": "https://belugaen.jp/"
+    },
+    {
+      "title": "ヒューマンアカデミー西調布保育園（外部リンク）",
+      "uri": "https://hoiku.human-lifecare.jp/facilities/nishichofu"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "認可外保育施設とは、公的助成の有無や事業規模などにかかわらず、児童福祉法、もしくは認定こども園法に基づく認可を受けていない、お子さんを預かる施設・サービスの総称で、保育の内容や料金設定などは施設によりさまざまです。\n下記は、調布市内にある「幼児教育・保育の無償化」の対象となる認可外保育施設の一覧です。",
+  "support": {
+    "description": "市内認証保育所一覧(全10施設)\n|保育所名|認証類型|最寄駅|所在地|\n|:----|:----|:----|:----|\n|あいあい保育園調布乳幼児園;https://www.city.chofu.lg.jp/050020/p028090.html#aiai|A型|調布|小島町3-69-14第2荒井麗峰ビル301（外部リンク）;https://www2.wagmap.jp/chofu/Map?mid=1&fid=827-1|\n|都市型保育園ポポラー東京調布園;https://www.city.chofu.lg.jp/050020/p028090.html#rabi-popo|A型|調布|布田4-2-9スペランサ2階（外部リンク）;https://www2.wagmap.jp/chofu/Map?mid=1&fid=1040-1|\n|KNベルーガ園;https://www.city.chofu.lg.jp/050020/p028090.html#belugaen|A型|調布|布田1-50-1マートルコート調布第3　1階（外部リンク）;https://www2.wagmap.jp/chofu/Map?mid=1&fid=1011-1|\n|ぽけっとランド国領;https://www.city.chofu.lg.jp/050020/p028090.html#pocket-land|A型|国領|国領町4-8-1グランドール武戸野1階（外部リンク）;https://www2.wagmap.jp/chofu/Map?mid=1&fid=1012-1|\n|木下の保育園国領;https://www.city.chofu.lg.jp/050020/p028090.html#kinoshita-kokuryo|A型|国領|国領町1-45-2ジェルソミーナ1階（外部リンク）;https://www2.wagmap.jp/chofu/Map?mid=1&fid=1041-1|\n|木下の保育園つつじヶ丘;https://www.city.chofu.lg.jp/050020/p028090.html#kinoshita-tsutsuji|A型|つつじケ丘|東つつじケ丘2-9-2フレアつつじケ丘1階（外部リンク）;https://www2.wagmap.jp/chofu/Map?mid=1&fid=984-1|\n|ポピンズナーサリースクール京王つつじヶ丘;https://www.city.chofu.lg.jp/050020/p028090.html#poppins|A型|つつじケ丘|西つつじヶ丘 3-35-29（外部リンク）;https://www2.wagmap.jp/chofu/Map?mid=1&fid=826-1|\n|藤ウェルネス保育園;https://www.city.chofu.lg.jp/050020/p028090.html#wellness|B型|つつじケ丘|西つつじケ丘1-47-4（外部リンク）;https://www2.wagmap.jp/chofu/Map?mid=1&fid=829-1|\n|ヒューマンアカデミー西調布保育園;https://www.city.chofu.lg.jp/050020/p028090.html#human-lifecare|A型|西調布|上石原1-37-2（外部リンク）;https://www2.wagmap.jp/chofu/Map?mid=1&fid=1075-1|\n|ゆらりん仙川保育園;https://www.city.chofu.lg.jp/050020/p028090.html#yurarin|A型|仙川|仙川町2-5-7仙川キユーポート（外部リンク）;https://www2.wagmap.jp/chofu/Map?mid=1&mpx=139%2E58427354898578&mpy=35%2E65819773487354|",
+    "materiallySupport": "市内認証保育所一覧(全10施設)\n|保育所名|認証類型|最寄駅|所在地|\n|:----|:----|:----|:----|\n|あいあい保育園調布乳幼児園;https://www.city.chofu.lg.jp/050020/p028090.html#aiai|A型|調布|小島町3-69-14第2荒井麗峰ビル301（外部リンク）;https://www2.wagmap.jp/chofu/Map?mid=1&fid=827-1|\n|都市型保育園ポポラー東京調布園;https://www.city.chofu.lg.jp/050020/p028090.html#rabi-popo|A型|調布|布田4-2-9スペランサ2階（外部リンク）;https://www2.wagmap.jp/chofu/Map?mid=1&fid=1040-1|\n|KNベルーガ園;https://www.city.chofu.lg.jp/050020/p028090.html#belugaen|A型|調布|布田1-50-1マートルコート調布第3　1階（外部リンク）;https://www2.wagmap.jp/chofu/Map?mid=1&fid=1011-1|\n|ぽけっとランド国領;https://www.city.chofu.lg.jp/050020/p028090.html#pocket-land|A型|国領|国領町4-8-1グランドール武戸野1階（外部リンク）;https://www2.wagmap.jp/chofu/Map?mid=1&fid=1012-1|\n|木下の保育園国領;https://www.city.chofu.lg.jp/050020/p028090.html#kinoshita-kokuryo|A型|国領|国領町1-45-2ジェルソミーナ1階（外部リンク）;https://www2.wagmap.jp/chofu/Map?mid=1&fid=1041-1|\n|木下の保育園つつじヶ丘;https://www.city.chofu.lg.jp/050020/p028090.html#kinoshita-tsutsuji|A型|つつじケ丘|東つつじケ丘2-9-2フレアつつじケ丘1階（外部リンク）;https://www2.wagmap.jp/chofu/Map?mid=1&fid=984-1|\n|ポピンズナーサリースクール京王つつじヶ丘;https://www.city.chofu.lg.jp/050020/p028090.html#poppins|A型|つつじケ丘|西つつじヶ丘 3-35-29（外部リンク）;https://www2.wagmap.jp/chofu/Map?mid=1&fid=826-1|\n|藤ウェルネス保育園;https://www.city.chofu.lg.jp/050020/p028090.html#wellness|B型|つつじケ丘|西つつじケ丘1-47-4（外部リンク）;https://www2.wagmap.jp/chofu/Map?mid=1&fid=829-1|\n|ヒューマンアカデミー西調布保育園;https://www.city.chofu.lg.jp/050020/p028090.html#human-lifecare|A型|西調布|上石原1-37-2（外部リンク）;https://www2.wagmap.jp/chofu/Map?mid=1&fid=1075-1|\n|ゆらりん仙川保育園;https://www.city.chofu.lg.jp/050020/p028090.html#yurarin|A型|仙川|仙川町2-5-7仙川キユーポート（外部リンク）;https://www2.wagmap.jp/chofu/Map?mid=1&mpx=139%2E58427354898578&mpy=35%2E65819773487354|",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "利用できるのは、月120時間以上の保育を必要とする方などです。入園の手続きや保育料などは直接施設にお問い合わせください。"
+  },
+  "updateDate": "2024-02-09",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

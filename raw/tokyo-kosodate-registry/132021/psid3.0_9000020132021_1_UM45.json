@@ -1,0 +1,130 @@
+{
+  "area": {
+    "areaCode": "132021;立川市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健医療部健康推進課業務係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020132021",
+    "psid": "psid3.0+9000020132021+1+UM45"
+  },
+  "belongings": "健康保険証等",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "立川市高松町3-22-9 健康会館内",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健医療部 健康推進課 業務係",
+    "contactPhone": "042-527-3632",
+    "contactUrl": null,
+    "zipCode": "1900011"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "市では、健康会館において、休日と年末年始に内科・小児科の急患診療所と歯科の応急診療所を開設しています。休日に病気や歯痛になった際は、健康保険証等を持参のうえお越しください。詳しくは下記をご覧ください。\nお越しの際は、マスク着用にご協力をお願いします。\nなお、休日急患診療所はマイナンバーカードによる資格確認に対応していますが、必ず従来の健康保険証や受給者証等も一緒にお持ちいただくようお願いします。\n\n住所：〒190-0011立川市高松町3丁目22番9号\n休日急患診療所(内科・小児科)\n健康会館1階(電話：042-526-2004)\n日曜日・祝日・年末年始（12月29日から1月3日）の午前9時から午後8時45分（受付時間）\n※お支払いは現金のみになります。\n\n歯科休日応急診療所\n健康会館2階(電話：042-527-1900)\n日曜日・祝日・年末年始（12月29日から1月3日）・1月4日の午前9時から午後4時45分（受付時間）\n※お支払いは現金のみになります。\n\n交通アクセス\n徒歩\nJR立川駅北口を直進し、そのまま立川通りを直進。信号「健康会館西」を右折し、直進約180メートル右側です。徒歩13分。\n\nバス\n立川駅北口より\n立川バス\n3番のりば（立14）「松中団地操車場」行き\n4番のりば（立22）「村山団地」行きほか\n西武バス\n6番のりば（立45）「芝中団地」行き\n7番のりば（立34）「久米川駅」行きほか\nともに「立川駅北口」から1つ目のバス停「高松町3丁目」下車。進行方向に80メートルほど進み、信号「健康会館西」を右折し、直進約180メートル右側です。\n\n駐車場\n8台。満車になる場合も多いため、できるだけ公共交通機関等でのご来館にご協力をお願いいたします。\n\n平日夜間・土曜日診療医療機関テレホンサービス\n電話：042-526-2004\n月曜日から土曜日の午後5時から9時\n録音テープによる市内救急医療機関などのご案内です。\n東京都医療機関テレホンサービス（24時間対応）\n「ひまわり」03-5272-0303\n今診療中の医療機関や自宅付近の医療機関などを探せます。\n「救急相談センター」042-521-2323　携帯・プッシュ回線からは短縮♯7119\n救急かどうか等のアドバイスや医療機関案内を受けられます。\nお問い合せ先\n休日急患診療所(内科・小児科)\n日曜日・祝日・年末年始の午前9時から午後9時\n健康会館1階\n電話：042-526-2004\n\n歯科休日応急診療所\n日曜日・祝日・年末年始・1月4日の午前9時から午後5時\n健康会館2階\n電話：042-527-1900",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "休日急患診療所(内科・小児科)\n健康会館1階(電話：042-526-2004)\n日曜日・祝日・年末年始（12月29日から1月3日）の午前9時から午後8時45分（受付時間）\n※お支払いは現金のみになります。\n\n歯科休日応急診療所\n健康会館2階(電話：042-527-1900)\n日曜日・祝日・年末年始（12月29日から1月3日）・1月4日の午前9時から午後4時45分（受付時間）\n※お支払いは現金のみになります。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "住所：〒190-0011立川市高松町3丁目22番9号",
+    "implementationName": "休日急患診療所(内科・小児科)\n健康会館1階(電話：042-526-2004)\n日曜日・祝日・年末年始（12月29日から1月3日）の午前9時から午後8時45分（受付時間）\n※お支払いは現金のみになります。\n\n歯科休日応急診療所\n健康会館2階(電話：042-527-1900)\n日曜日・祝日・年末年始（12月29日から1月3日）・1月4日の午前9時から午後4時45分（受付時間）\n※お支払いは現金のみになります。"
+  },
+  "institutionName": {
+    "canonicalName": "夜間・休日急病診療所",
+    "shortName": "休日急患診療所"
+  },
+  "localGovernmentLink": {
+    "title": "休日急患診療所",
+    "uri": "https://www.city.tachikawa.lg.jp/kenkosuishin/kenko/iryo/byoin/kyujitsu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "立川市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "お子さんの急な発熱などでお困りのときに",
+      "uri": "https://www.city.tachikawa.lg.jp/kosodate/m-kosodate/1004945/1005078.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "立川市では、夜間や日曜・祝日、年末年始に、市内の医療機関の協力のもと、当番制で診療を行っています。",
+  "support": {
+    "description": "市では、健康会館において、休日と年末年始に内科・小児科の急患診療所と歯科の応急診療所を開設しています。",
+    "materiallySupport": "市では、健康会館において、休日と年末年始に内科・小児科の急患診療所と歯科の応急診療所を開設しています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-04-22",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "休日急患診療所(内科・小児科)\n健康会館1階(電話：042-526-2004)\n日曜日・祝日・年末年始（12月29日から1月3日）の午前9時から午後8時45分（受付時間）\n※お支払いは現金のみになります。\n\n歯科休日応急診療所\n健康会館2階(電話：042-527-1900)\n日曜日・祝日・年末年始（12月29日から1月3日）・1月4日の午前9時から午後4時45分（受付時間）\n※お支払いは現金のみになります。",
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "131172;北区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "区民部国保年金課国保給付係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131172",
+    "psid": "psid3.0+8000020131172+1+UM19"
+  },
+  "belongings": "直接支払制度を利用しない場合（海外で出産した場合も含む）\n1.保険証\n2.母子健康手帳\n3.世帯主の口座番号\n4.出産費用明細書（直接支払制度対象外がわかるもの）\n5.医療機関等と交わす合意文書\n（直接支払制度を利用しないという内容のもの）\n\n海外で出産した場合は、1.から3.に加え以下のものが必要です。\n4.医療機関発行の出生証明書\n5.公的機関発行の出生証明書\n(4.、5.は日本語訳と翻訳者の署名が必要)\n6.パスポート\n(母・子※子も日本に帰国している場合)\n7.調査に係る同意書（窓口で記入）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都北区王子本町1-15-22 北区役所第一庁舎2階22番",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "区民部国保年金課国保給付係",
+    "contactPhone": "03-3908-1132",
+    "contactUrl": null,
+    "zipCode": "1148508"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "出産育児一時金\n国保に加入している方が出産したとき、出産育児一時金として出産年月日が令和5年3月31日までは42万円、令和5年4月1日以降は50万円が、世帯主に支給されます。\n妊娠85日以上の死産、流産（医師の証明が必要）も支給されます。\n申請が、出産日の翌日から2年を経過すると時効となり支給されませんのでご注意ください。\n\n直接支払制度を利用する場合\n国保から出産育児一時金を直接医療機関等に支払う制度です。\n医療機関で制度利用の手続きをしてください。\nなお、出産する方が他の健康保険に本人として1年以上加入しており、資格を喪失してから6か月以内の出産の場合は、前の健康保険から支給される場合があります。この場合は、国保から支給されません。\n出産費用が出産育児一時金の支給金額が満額未満の場合は、世帯主に対し差額分を支給します。\n出産から2～3か月後に、世帯主あてに差額分の支給申請書を送ります。\n\n直接支払制度を利用しない場合（海外で出産した場合も含む）\n出産後、国保給付係へ申請してください。\n\n申請に必要なもの\n1.保険証\n2.母子健康手帳\n3.世帯主の口座番号\n4.出産費用明細書（直接支払制度対象外がわかるもの）\n5.医療機関等と交わす合意文書\n（直接支払制度を利用しないという内容のもの）\n\n海外で出産した場合は、1.から4.に加え以下のものが必要です。\n6.医療機関発行の出生証明書\n7.公的機関発行の出生証明書\n（6、7は日本語訳と翻訳者の署名が必要）\n8.パスポート\n（母・子※子も日本に帰国している場合）\n9.調査票に係る同意書（窓口で記入）\n出産した方が日本に帰国してから申請してください。\n\n関連リンク\n入院時の給付（限度額適用認定証等の交付）;https://www.city.kita.tokyo.jp/kokuhonenkin/kurashi/hoken/kokuminnhoken/kyufu/nyuin.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出産育児一時金",
+    "shortName": "出産育児一時金"
+  },
+  "localGovernmentLink": {
+    "title": "出産育児一時金",
+    "uri": "https://www.city.kita.tokyo.jp/kokuhonenkin/kurashi/hoken/kokuminnhoken/kyufu/shussan.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-28",
+    "updater": "北区"
+  },
+  "procedureCounter": "直接支払制度を利用する場合\n医療機関で制度利用の手続きをしてください。\n\n直接支払制度を利用しない場合（海外で出産した場合も含む）\n出産後、国保給付係へ申請してください。",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "直接支払制度を利用する場合\n国保から出産育児一時金を直接医療機関等に支払う制度です。\n医療機関で制度利用の手続きをしてください。\nなお、出産する方が他の健康保険に本人として1年以上加入しており、資格を喪失してから6か月以内の出産の場合は、前の健康保険から支給される場合があります。この場合は、国保から支給されません。\n出産費用が出産育児一時金の支給金額が満額未満の場合は、世帯主に対し差額分を支給します。\n出産から2～3か月後に、世帯主あてに差額分の支給申請書を送ります。\n\n直接支払制度を利用しない場合（海外で出産した場合も含む）\n出産後、国保給付係へ申請してください。",
+  "procedurePeriod": {
+    "conditions": "申請が、出産日の翌日から2年を経過すると時効となり支給されませんのでご注意ください。\n海外で出産した場合は、出産した方が日本に帰国してから申請してください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条(第二節　その他の給付)",
+    "regulationName": "国民健康保険法"
+  },
+  "relatedLink": [
+    {
+      "title": "入院時の給付（限度額適用認定証等の交付）",
+      "uri": "https://www.city.kita.tokyo.jp/kokuhonenkin/kurashi/hoken/kokuminnhoken/kyufu/nyuin.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民健康保険に加入している方が出産したときは、その世帯主からの申請により、出産育児一時金を支給します。原則として直接支払制度により、医療機関に直接お支払いします。\nなお、直接支払制度に対応していない医療機関などで出産された場合も、「受取代理制度」や出産後の申請により、出産育児一時金の支給を受けることができます。",
+  "support": {
+    "description": "出産育児一時金として出産年月日が令和5年3月31日までは42万円、令和5年4月1日以降は50万円が、世帯主に支給されます。\n妊娠85日以上の死産、流産（医師の証明が必要）も支給されます。",
+    "materiallySupport": null,
+    "monetarySupport": "出産育児一時金として出産年月日が令和5年3月31日までは42万円、令和5年4月1日以降は50万円が、世帯主に支給されます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003",
+      "015"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "国保に加入している方が出産したとき"
+  },
+  "updateDate": "2024-06-28",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

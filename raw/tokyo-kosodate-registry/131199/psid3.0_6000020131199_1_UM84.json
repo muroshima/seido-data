@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131199;板橋区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 保育サービス課 民間保育第二係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131199",
+    "psid": "psid3.0+6000020131199+1+UM84"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都板橋区板橋二丁目66番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 保育サービス課 民間保育第二係",
+    "contactPhone": "03-3579-2494",
+    "contactUrl": "https://www.city.itabashi.tokyo.jp/cgi-crm/CRM030/CRM030_001/G5004000000/1004452",
+    "zipCode": "1738501"
+  },
+  "cost": null,
+  "costConditions": "|対象児童|補助基準額|\n|:----|:----|\n|0～2歳児クラス（住民税非課税世帯）|月額42,000円上限|\n|0～2歳児クラス（住民税課税世帯）の第2子以降　|月額42,000円上限|\n|3～5歳児クラス|月額37,000円上限|\n注意点\n・上表の金額は、月額上限額となります。実際にお支払いになった利用料と比較して、低い方の額を助成します。\n・上表の「課税」「非課税」の区分については、世帯（父母その他扶養義務者）の住民税により判定いたします。4月から8月分は令和4年度の住民税、9月から3月分は令和5年度の住民税を基準とします。そのため、年度途中から、月額上限額が変わる場合があります。",
+  "description": "定期利用保育事業について\n\n定期利用保育事業は、パートタイム勤務や短時間就労等で保育が必要なご家庭を対象に、継続して短時間お子さんをお預かりする制度です。保護者の方が施設と直接保育契約を結んでいただきます。下記の施設で行っています。詳しくは、各施設にお問い合わせください。\n\n1　実施施設\n平和保育園（一時保育一体型）\n対象：板橋区内に住所がある1歳～就学前の保育に欠ける健康なお子さんで、板橋区内認可保育園・認定こども園・地域型保育施設に入所不承諾となったお子さん\n開設日：月曜日～金曜日\n開設時間：午前9時～午後5時\n場所：\n板橋区富士見町13番6号\n都営三田線『板橋本町』駅より徒歩10分\n東武東上線『中板橋』駅より徒歩10分\n電話：03-3964-6074\n\n2　保育料助成\n|対象児童|補助基準額|\n|:----|:----|\n|0～2歳児クラス（住民税非課税世帯）|月額42,000円上限|\n|0～2歳児クラス（住民税課税世帯）の第2子以降　※1|月額42,000円上限|\n|3～5歳児クラス|月額37,000円上限|\n\n※1　令和5年10月から助成対象となります（令和5年9月以前は助成対象外）。 \n\n注意点\n・上表の金額は、月額上限額となります。実際にお支払いになった利用料と比較して、低い方の額を助成します。\n・上表の「課税」「非課税」の区分については、世帯（父母その他扶養義務者）の住民税により判定いたします。4月から8月分は令和4年度の住民税、9月から3月分は令和5年度の住民税を基準とします。そのため、年度途中から、月額上限額が変わる場合があります。\n・一時保育一体型（平和保育園）における0～2歳児クラス（住民税非課税世帯）及び3～5歳児クラスは、「保育の必要性の認定」を受ける必要があります。なお、「保育の必要性の認定」は申請日以降となります。日付を遡っての認定はできませんので、必ず施設利用開始前にご申請ください。\n\n申請方法\n例年2月頃に、施設経由にて当年度分（4月～3月）の申請書類をお配りする予定です。\n2月時点で定期利用保育の利用がない場合は、本ページから申請書類をダウンロードいただくようお願いいたします。\n※申請書類は2月頃にアップロードいたします。\n\n3　空き保育室活用型定期利用保育\n詳しくは、以下をご覧ください。\n令和6年度空き保育室活用型定期利用保育について; https://www.city.itabashi.tokyo.jp/kosodate/azukeru/ichiji/1004447.html\n\n4　多様な他者との関わりの機会の創出事業\n令和5年度まで定期利用保育事業を実施していた「おやこ舎あやとり」は令和6年4月1日付にて多様な他者との関わりの機会の創出事業へ移行しました。\n詳しくは、以下をご覧ください。\n多様な他者との関わりの機会の創出事業について; https://www.city.itabashi.tokyo.jp/kosodate/azukeru/ichiji/1052417.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "板橋区富士見町13番6号",
+    "implementationName": "平和保育園"
+  },
+  "institutionName": {
+    "canonicalName": "一時保育の定期利用（特定保育・非定型保育など）",
+    "shortName": "定期利用保育事業"
+  },
+  "localGovernmentLink": {
+    "title": "定期利用保育事業について",
+    "uri": "https://www.city.itabashi.tokyo.jp/kosodate/azukeru/ichiji/1004452.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "板橋区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "例年2月頃に、施設経由にて当年度分（4月～3月）の申請書類をお配りする予定です。\n2月時点で定期利用保育の利用がない場合は、本ページから申請書類をダウンロードいただくようお願いいたします。\n※申請書類は2月頃にアップロードいたします。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第7項、第21条の9、第59条第10号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "板橋区内の認可保育園では、同居の家族がパート就労などで、入園基準には満たないものの、断続的に保育が困難となるお子さんを対象に、お預かりを行っています。",
+  "support": {
+    "description": "定期利用保育事業は、パートタイム勤務や短時間就労等で保育が必要なご家庭を対象に、継続して短時間お子さんをお預かりする制度です。保護者の方が施設と直接保育契約を結んでいただきます。下記の施設で行っています。詳しくは、各施設にお問い合わせください。\n平和保育園（一時保育一体型）\n対象：板橋区内に住所がある1歳～就学前の保育に欠ける健康なお子さんで、板橋区内認可保育園・認定こども園・地域型保育施設に入所不承諾となったお子さん\n開設日：月曜日～金曜日\n開設時間：午前9時～午後5時\n場所：\n板橋区富士見町13番6号\n都営三田線『板橋本町』駅より徒歩10分\n東武東上線『中板橋』駅より徒歩10分\n電話：03-3964-6074",
+    "materiallySupport": "定期利用保育事業は、パートタイム勤務や短時間就労等で保育が必要なご家庭を対象に、継続して短時間お子さんをお預かりする制度です。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "1歳～就学前",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": 0
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "板橋区内に住所がある1歳～就学前の保育に欠ける健康なお子さんで、板橋区内認可保育園・認定こども園・地域型保育施設に入所不承諾となったお子さん"
+  },
+  "updateDate": "2024-07-08",
+  "useConsiderationFlag": true,
+  "utilization": "・一時保育一体型（平和保育園）における0～2歳児クラス（住民税非課税世帯）及び3～5歳児クラスは、「保育の必要性の認定」を受ける必要があります。なお、「保育の必要性の認定」は申請日以降となります。日付を遡っての認定はできませんので、必ず施設利用開始前にご申請ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

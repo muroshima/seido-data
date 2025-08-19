@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "131083;江東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局 学務課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131083",
+    "psid": "psid3.0+6000020131083+2+UM2368"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都江東区東陽 4-11-28",
+    "contactComment": "ファックス：03-3647-9053",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "教育委員会事務局 学務課 幼稚園係 窓口：区役所6階2番",
+    "contactPhone": "03-3647-9703",
+    "contactUrl": "https://www.city.koto.lg.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": "1358383"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "幼稚園等における幼児教育・保育の無償化について\n幼稚園等（幼稚園及び認定こども園の1号認定（幼稚園として利用する園児））における満3歳児から5歳児を対象とした無償化の内容（概要）は以下のとおりとなります。\n\n満3歳児については、お子様が3歳になった誕生日から対象となります。\n\n1　保育料の無償化\n|対象施設、事業|無償化の適用を受けるために必要な認定手続き|無償化の内容|\n|:----|:----|:----|\n|私立幼稚園（新制度）<br>認定こども園（幼稚園部分）<br>区立幼稚園|教育・保育給付認定（1号）|保育料は無料|\n|私立幼稚園（私学助成幼稚園）|施設等利用給付認定（新1号)|月額25,700円に、東京都及び江東区の補助金を上乗せした額を給付（注釈）補助金額一覧表（PDF：121KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/581111/kodomo/gakko/shuen/shiritsu/documents/r510shiritu.pdf|\n|幼稚園類似の幼児施設|園での手続き|東京都と江東区により、国の無償化相当額（月額25,700円）と、東京都及び江東区の補助金を上乗せした額を給付（注釈）補助金額一覧表（PDF：93KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/581111/kodomo/gakko/shuen/shiritsu/documents/r510youziruizi.pdf|\n|国立大学附属幼稚園<br>国立大学附属特別支援学校幼稚部|施設等利用給付認定（新1号）|国立大学附属幼稚園の場合は月額8,700円、国立大学附属特別支援学校幼稚部の場合は月額400円を上限に給付|\n\n区内私立幼稚園の施設類型の確認についてはこちらをクリックして下さい。→私立幼稚園等の入園; https://www.city.koto.lg.jp/581111/kodomo/gakko/shuen/shiritsu/5938.html\n\n入園料及び保育料以外に園が徴収する費用（上乗せ徴収費用や実費徴収費用）は、保護者負担となります。\n\n2　幼稚園等が実施する預かり保育に係る無償化の内容\n\n満3歳児から5歳児で、保育の必要性認定（施設等利用給付新2号又は新3号認定、教育・保育給付2号認定）を受けた方が対象となります。\n\n|対象者|無償化の適用を受けるために必要な認定手続き|無償化の内容|\n|:----|:----|:----|\n|3歳児から5歳児|施設等利用給付認定（新2号）|月額11,300円を上限とし、日額450円×利用日数で算出した額と保護者が幼稚園に支払った利用料額を比較して低い方の額を給付|\n|満3歳児（区市町村民税非課税世帯のみ対象）|施設等利用給付認定（新3号）|月額16,300円を上限とし、日額450円×利用日数で算出した額と保護者が幼稚園に支払った利用料額を比較して低い方の額を給付|\n|満3歳児（区市町村民税課税世帯の第2子以降の満3歳児）|教育・保育給付認定（2号）|^|\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "幼児教育・保育の無償化",
+    "shortName": "幼稚園等における幼児教育・保育の無償化"
+  },
+  "localGovernmentLink": {
+    "title": "幼稚園等における幼児教育・保育の無償化について",
+    "uri": "https://www.city.koto.lg.jp/581111/kodomo/gakko/shuen/shiritsu/010516.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-20",
+    "updater": "江東区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第27条～第30条（第二章 第三節 第三款 施設型給付費及び地域型保育給付費等の支給）、第30条の2(子育てのための施設等利用給付）)",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "私立幼稚園等の入園",
+      "uri": "https://www.city.koto.lg.jp/581111/kodomo/gakko/shuen/shiritsu/5938.html"
+    },
+    {
+      "title": "（注釈）補助金額一覧表（PDF：121KB）",
+      "uri": "https://www.city.koto.lg.jp/581111/kodomo/gakko/shuen/shiritsu/documents/r510shiritu.pdf"
+    },
+    {
+      "title": "（注釈）補助金額一覧表（PDF：93KB）",
+      "uri": "https://www.city.koto.lg.jp/581111/kodomo/gakko/shuen/shiritsu/documents/r510youziruizi.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "幼児教育・保育の重要性や、子育てや教育にかかる費用負担の軽減を図る少子化対策の観点などから、3歳児クラス（年少）から5歳児クラス（年長）のお子さん、および住民税非課税世帯の0歳児クラスから2歳児クラスのお子さんを対象に、幼児教育・保育の無償化を実施しています。\n無償化の内容は、利用する施設・サービスごとに異なります。",
+  "support": {
+    "description": "1　保育料の無償化\n|対象施設、事業|無償化の適用を受けるために必要な認定手続き|無償化の内容|\n|:----|:----|:----|\n|私立幼稚園（新制度）<br>認定こども園（幼稚園部分）<br>区立幼稚園|教育・保育給付認定（1号）|保育料は無料|\n|私立幼稚園（私学助成幼稚園）|施設等利用給付認定（新1号)|月額25,700円に、東京都及び江東区の補助金を上乗せした額を給付（注釈）補助金額一覧表（PDF：121KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/581111/kodomo/gakko/shuen/shiritsu/documents/r510shiritu.pdf|\n|幼稚園類似の幼児施設|園での手続き|東京都と江東区により、国の無償化相当額（月額25,700円）と、東京都及び江東区の補助金を上乗せした額を給付（注釈）補助金額一覧表（PDF：93KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/581111/kodomo/gakko/shuen/shiritsu/documents/r510youziruizi.pdf|\n|国立大学附属幼稚園<br>国立大学附属特別支援学校幼稚部|施設等利用給付認定（新1号）|国立大学附属幼稚園の場合は月額8,700円、国立大学附属特別支援学校幼稚部の場合は月額400円を上限に給付|\n\n区内私立幼稚園の施設類型の確認についてはこちらをクリックして下さい。→私立幼稚園等の入園; https://www.city.koto.lg.jp/581111/kodomo/gakko/shuen/shiritsu/5938.html\n\n入園料及び保育料以外に園が徴収する費用（上乗せ徴収費用や実費徴収費用）は、保護者負担となります。\n\n2　幼稚園等が実施する預かり保育に係る無償化の内容\n\n満3歳児から5歳児で、保育の必要性認定（施設等利用給付新2号又は新3号認定、教育・保育給付2号認定）を受けた方が対象となります。\n\n|対象者|無償化の適用を受けるために必要な認定手続き|無償化の内容|\n|:----|:----|:----|\n|3歳児から5歳児|施設等利用給付認定（新2号）|月額11,300円を上限とし、日額450円×利用日数で算出した額と保護者が幼稚園に支払った利用料額を比較して低い方の額を給付|\n|満3歳児（区市町村民税非課税世帯のみ対象）|施設等利用給付認定（新3号）|月額16,300円を上限とし、日額450円×利用日数で算出した額と保護者が幼稚園に支払った利用料額を比較して低い方の額を給付|\n|満3歳児（区市町村民税課税世帯の第2子以降の満3歳児）|教育・保育給付認定（2号）|^|\n",
+    "materiallySupport": null,
+    "monetarySupport": "1　保育料の無償化\n|対象施設、事業|無償化の適用を受けるために必要な認定手続き|無償化の内容|\n|:----|:----|:----|\n|私立幼稚園（新制度）<br>認定こども園（幼稚園部分）<br>区立幼稚園|教育・保育給付認定（1号）|保育料は無料|\n|私立幼稚園（私学助成幼稚園）|施設等利用給付認定（新1号)|月額25,700円に、東京都及び江東区の補助金を上乗せした額を給付（注釈）補助金額一覧表（PDF：121KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/581111/kodomo/gakko/shuen/shiritsu/documents/r510shiritu.pdf|\n|幼稚園類似の幼児施設|園での手続き|東京都と江東区により、国の無償化相当額（月額25,700円）と、東京都及び江東区の補助金を上乗せした額を給付（注釈）補助金額一覧表（PDF：93KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/581111/kodomo/gakko/shuen/shiritsu/documents/r510youziruizi.pdf|\n|国立大学附属幼稚園<br>国立大学附属特別支援学校幼稚部|施設等利用給付認定（新1号）|国立大学附属幼稚園の場合は月額8,700円、国立大学附属特別支援学校幼稚部の場合は月額400円を上限に給付|\n\n区内私立幼稚園の施設類型の確認についてはこちらをクリックして下さい。→私立幼稚園等の入園; https://www.city.koto.lg.jp/581111/kodomo/gakko/shuen/shiritsu/5938.html\n\n入園料及び保育料以外に園が徴収する費用（上乗せ徴収費用や実費徴収費用）は、保護者負担となります。\n\n2　幼稚園等が実施する預かり保育に係る無償化の内容\n\n満3歳児から5歳児で、保育の必要性認定（施設等利用給付新2号又は新3号認定、教育・保育給付2号認定）を受けた方が対象となります。\n\n|対象者|無償化の適用を受けるために必要な認定手続き|無償化の内容|\n|:----|:----|:----|\n|3歳児から5歳児|施設等利用給付認定（新2号）|月額11,300円を上限とし、日額450円×利用日数で算出した額と保護者が幼稚園に支払った利用料額を比較して低い方の額を給付|\n|満3歳児（区市町村民税非課税世帯のみ対象）|施設等利用給付認定（新3号）|月額16,300円を上限とし、日額450円×利用日数で算出した額と保護者が幼稚園に支払った利用料額を比較して低い方の額を給付|\n|満3歳児（区市町村民税課税世帯の第2子以降の満3歳児）|教育・保育給付認定（2号）|^|\n"
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "満3歳児から5歳児で、保育の必要性認定（施設等利用給付新2号又は新3号認定、教育・保育給付2号認定）を受けた方が対象となります。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 5,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "満3歳児から5歳児"
+  },
+  "updateDate": "2024-05-10",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

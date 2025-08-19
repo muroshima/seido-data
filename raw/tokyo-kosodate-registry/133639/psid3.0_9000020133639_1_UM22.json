@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "133639;新島村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "さわやか健康センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020133639",
+    "psid": "psid3.0+9000020133639+1+UM22"
+  },
+  "belongings": "母子健康手帳・印鑑・ご本人の振込先通帳又はキャッシュカードをご持参ください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都新島村本村3丁目12番8号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "新島村さわやか健康センター",
+    "contactPhone": "04992-5-1856",
+    "contactUrl": null,
+    "zipCode": "1000402"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "母子健康手帳交付・母子保健サービス\nホーム > 施設案内 > 保健センター・診療所等 > さわやか健康センター > 母子保健サービス > 母子健康手帳交付・母子保健サービス\n\n母子健康手帳交付・母子保健サービス\n母子健康手帳交付\n\n新島村にお住まいの方で、医療機関で医師から妊娠の診断を受け、母子健康手帳の交付を受けるようにお話があったら、さわやか健康センターに妊娠届出をしてください。母子健康手帳と、妊婦健康診査受診票等を交付します。\n\n妊娠届出は、母子の健康のためにも、できれば妊娠満11週以内までにお願いします。\n\n交付の際は保健師が対応し、30分程度妊婦さんの健康状態などをお伺いする面談を行います。事前にお電話でご連絡ください。\n\nなお、以下の母子保健サービスのご利用は母子健康手帳交付後となります。\n\n母子保健サービス\n\n（1）【出産に係る交通費の助成】\n\n・1回25,000円×8回を助成します。\n\n・母子健康手帳・印鑑・ご本人の振込先通帳又はキャッシュカードをご持参ください。\n\n（2）【出産前後支援事業助成】\n\n・出産等に係る宿泊費：1回5,000円を上限×8回を助成します。\n\n・産後、帰島せずに1か月健診までの宿泊費：1泊2,000円を上限×30日を助成します。\n\n・母子健康手帳・印鑑・宿泊機関の領収書・ご本人の振込先通帳又はキャッシュカードをご持参ください。\n\n（3）【妊婦健康診査等の健診費助成】\n\n・都内等で受診した場合、母子健康手帳と同時に交付される受診票の提示により各健診の規定の額までを助成します。\n\n　・都外等で受診した場合、後日申請により既定の額までを償還払いします。\n\n・都外等受診の場合、母子健康手帳・印鑑・妊婦健診などの領収書等・ご本人の振込先通帳又はキャッシュカードをご持参ください。\n\n（4）【新生児聴覚検査費用助成】\n\n・都内等で受診した場合、受診票の提示により3,000円を助成します。\n\n・都外等で受診した場合、後日申請により3,000円を上限に償還払いします。\n\n・都外等受診の場合、母子健康手帳・印鑑・検査の領収書・申請者の振込先通帳又はキャッシュカードをご持参ください。\n\n※その他詳細は、母子健康手帳交付時にご案内いたします。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関する金銭的支援",
+    "shortName": "出産に係る交通費の助成"
+  },
+  "localGovernmentLink": {
+    "title": "母子健康手帳交付・母子保健サービス",
+    "uri": "https://www.niijima.com/facility/health-center_clinic/sawayakakenkou-center/boshihoken-service/boshikenkoutechou.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "新島村"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "母子健康手帳・印鑑・ご本人の振込先通帳又はキャッシュカードをご持参ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "新島村では、妊娠中の体への負担と経済的な負担を軽減し、健やかな出産を支援するために、出産等に係る健診時の、新島村から島外の往復交通費を助成します。",
+  "support": {
+    "description": "・1回25,000円×8回を助成します。",
+    "materiallySupport": null,
+    "monetarySupport": "・1回25,000円×8回を助成します。\n"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊産婦等"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

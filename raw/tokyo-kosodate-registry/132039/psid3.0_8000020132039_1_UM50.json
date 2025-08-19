@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132039;武蔵野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部 健康課 母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132039",
+    "psid": "psid3.0+8000020132039+1+UM50"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都武蔵野市吉祥寺北町4‐8‐10　武蔵野市立保健センター1階",
+    "contactComment": "ファクス番号：0422-51-9297",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康福祉部 健康課 母子保健係",
+    "contactPhone": "0422-51-0700",
+    "contactUrl": "https://www.city.musashino.lg.jp/cgi-crm/CRM030/CRM030_001/G00700500/1035954",
+    "zipCode": "1800001"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "対象\n6カ月～7カ月の乳児（8カ月になる前日まで）\n9カ月～10カ月の乳児（11カ月になる前日まで）\n\n（注意）対象者には5カ月になる月末に、詳細の案内とそれぞれの健診票を個別に郵送します。（それ以降に転入されたかたについては下記参照）\n\n内容\n計測、内科健診、保健指導など\n\n場所\n都内の指定医療機関\n\n6カ月～7カ月児、9カ月～10カ月児健康診査市内指定医療機関 （PDF 113.6KB）\n（注意）予約受付時間、診療受付時間については各医療機関のホームページをご確認ください。\n\n都内から転入されたかた\n都内の自治体で交付された受診票をそのまま使用できます。\n\n都外から転入されたかた\nお手続きが必要になりますので、健康課までお問い合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "https://www.city.musashino.lg.jp/_res/projects/default_project/_page_/001/006/695/r6ichiran.pdf",
+    "implementationName": "https://www.city.musashino.lg.jp/_res/projects/default_project/_page_/001/006/695/r6ichiran.pdf"
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+    "shortName": "6カ月～7カ月児健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "6カ月～7カ月児、9カ月～10カ月児健康診査",
+    "uri": "https://www.city.musashino.lg.jp/shussan_kodomo_kyoiku/ninshin_shussan_boshihoken/kodomo_kenkoshinsa/1006695.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "武蔵野市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "対象者には5カ月になる月末に、詳細の案内とそれぞれの健診票を個別に郵送します。\n\n都内から転入されたかた\n都内の自治体で交付された受診票をそのまま使用できます。\n\n都外から転入されたかた\nお手続きが必要になりますので、健康課までお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": "予約受付時間、診療受付時間については各医療機関のホームページをご確認ください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "6カ月～7カ月児、9カ月～10カ月児健康診査市内指定医療機関 （PDF 113.6KB）",
+      "uri": "https://www.city.musashino.lg.jp/_res/projects/default_project/_page_/001/006/695/r6ichiran.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として乳幼児健康診査6か月から7か月児を実施しています。",
+  "support": {
+    "description": "計測、内科健診、保健指導など",
+    "materiallySupport": "計測、内科健診、保健指導など",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 6
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 7
+    },
+    "targetPersons": "6カ月～7カ月の乳児（8カ月になる前日まで）"
+  },
+  "updateDate": "2024-03-12",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "予約受付時間、診療受付時間については各医療機関のホームページをご確認ください。",
+    "fromHM": null,
+    "toHM": null
+  }
+}

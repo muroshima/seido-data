@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部保育課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM73"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部保育課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e048/kuseijoho/gaiyo/soshiki/kodomo/hoiku.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "認可保育施設への申し込み\n\n認可保育施設（私立・区立）への入園の申し込みは、随時受け付けています。期日までに必要書類をそろえてお申し込みください。\n入園は毎月1日からです。区で申し込みができる保育施設は、認可保育園（区立・私立）、認定こども園（保育園部分）、小規模保育所、事業所内保育所（地域枠）です。\nhttps://www.city.edogawa.tokyo.jp/e047/kuseijoho/gaiyo/shisetsuguide/bunya/kosodate/hoikuen/index.html\nhttps://www.city.edogawa.tokyo.jp/e047/kuseijoho/gaiyo/shisetsuguide/bunya/kosodate/ninteikodomo.html\nhttps://www.city.edogawa.tokyo.jp/e047/kuseijoho/gaiyo/shisetsuguide/bunya/kosodate/shokibo.html\nhttps://www.city.edogawa.tokyo.jp/e047/kuseijoho/gaiyo/shisetsuguide/bunya/kosodate/jigyoshonai.html\n\nなお、4月入園の申し込みについては、募集数の公表日・申し込み締切日・申込書の提出先・結果通知日等が通常と異なりますので、必ず入園案内をご確認ください。\n\n（注）入園に関してよくあるご質問は、認可保育施設のページからご覧ください。\n（注）私立保育園、認定こども園(保育園部分)、小規模保育所、事業所内保育所（地域枠）は、私立の保育施設になります。\nhttps://www.city.edogawa.tokyo.jp/qa/kosodate/kosodate/hoiku/index.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "入園申込締切日\n入園希望月の前月10日（土曜・日曜日、祝日の場合は前倒し）\n申込締切日一覧（令和5年度）\n|入園希望月|募集数公表日|申込受付期間|\n|:----|:----|:----|\n|令和5年5月|令和5年4月1日（土曜日）|令和5年3月1日（水曜日）～4月10日（月曜日）|\n|令和5年6月|令和5年5月1日（月曜日）|令和5年4月11日（火曜日）～5月10日（水曜日）|\n|令和5年7月|令和5年6月1日（木曜日）|令和5年5月11日（木曜日）～6月9日（金曜日）|\n|令和5年8月|令和5年7月1日（土曜日）|令和5年6月12日（月曜日）～7月10日（月曜日）|\n|令和5年9月|令和5年8月1日（火曜日）|令和5年7月11日（火曜日）～8月10日（木曜日）|\n|令和5年10月|令和5年9月1日（金曜日）|令和5年8月14日（月曜日）～9月8日（金曜日）|\n|令和5年11月|令和5年10月1日（日曜日）|令和5年9月11日（月曜日）～10月10日（火曜日）|\n|令和5年12月|令和5年11月1日（水曜日）|令和5年10月11日（水曜日）～11月10日（金曜日）|\n|令和6年1月|令和5年12月1日（金曜日）|令和5年11月13日（月曜日）～12月8日（金曜日）|\n|令和6年2月|令和6年1月1日（月曜日）|令和5年12月11日（月曜日）～令和6年1月10日（水曜日）|\n|令和6年3月|令和6年2月1日（木曜日）|令和6年1月11日（木曜日）～2月9日（金曜日）|\n\n申込締切日一覧（令和6年度）\n|入園希望月|募集数公表日|申込受付期間|\n|:----|:----|:----|\n|令和6年5月|令和6年4月1日（月曜日）|令和6年3月1日（金曜日）～4月10日（水曜日）|\n|令和6年6月|令和6年5月1日（水曜日）|令和6年4月11日（木曜日）～5月10日（金曜日）|\n|令和6年7月|令和6年6月1日（土曜日）|令和6年5月13日（月曜日）～6月10日（月曜日）|\n|令和6年8月|令和6年7月1日（月曜日）|令和6年6月11日（火曜日）～7月10日（水曜日）|\n|令和6年9月|令和6年8月1日（木曜日）|令和6年7月11日（木曜日）～8月9日（金曜日）|\n|令和6年10月|令和6年9月1日（日曜日）|令和6年8月13日（火曜日）～9月10日（火曜日）|\n|令和6年11月|令和6年10月1日（火曜日）|令和6年9月11日（水曜日）～10月10日（木曜日）|\n|令和6年12月|令和6年11月1日（金曜日）|令和6年10月11日（金曜日）～11月8日（金曜日）|\n|令和7年1月|令和6年12月1日（日曜日）|令和6年11月11日（月曜日）～12月10日（火曜日）|\n|令和7年2月|令和7年1月1日（水曜日）|令和6年12月11日（水曜日）～令和7年1月10日（金曜日）|\n|令和7年3月|令和7年2月1日（土曜日）|令和7年1月14日（火曜日）～2月10日（月曜日）|",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "認可保育所（保育園）の利用について",
+    "shortName": "認可保育施設への入園申し込み"
+  },
+  "localGovernmentLink": {
+    "title": "認可保育施設への入園申し込み",
+    "uri": "https://www.city.edogawa.tokyo.jp/e048/kosodate/kosodate/hoiku/nitijou/hoikuen/31nyuuen.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申し込み書類の提出先\n窓口での申し込み\n\n区役所保育課保育係（午前8時30分から午後5時。土曜日、日曜日、祝日、年末年始を除く）、または第一希望の保育施設へ申し込み書類一式を提出してください。\n（注）保育施設に提出する場合、受付時間については各施設にお問い合わせください。\n\nなお、窓口周辺の通路等の混雑回避や、新型コロナウイルス感染症拡大防止のため、最小限の人数での来庁に、ご協力をお願いいたします。\n\n郵送での申し込み\n\n送付先：〒132-8501 江戸川区中央1丁目4番1号「江戸川区役所保育課保育係」宛\n\n封筒に朱書きで「保育園入園申し込み書類在中」とご記入ください。\n\n郵送受付の注意事項\n1.郵送受付締切日に間に合うように余裕をもって提出してください。個人情報を多く含むため、簡易書留やレターパック等の追跡可能な郵便方法を推奨します。\n2.消印有効ではありません。保育課への到着をもって受付日の取扱いとなります。また、FAXやメールでの受付はできません。\n3.「認可保育施設入園のご案内」をよく読み、必要書類をすべて揃えたうえで申し込みしてください。\n4.必要書類が提出締切日までに未提出の場合や書類の内容に不備がある場合は、認定ができないため利用調整(選考)の対象になりません。\n5.郵便事故等による遅れや不着、紛失について、区では一切責任を負いかねます。予めご了承ください。\n6.電話での到着確認のお問い合わせには対応いたしかねます。\n7.江戸川区外にお住まいの方は郵送での申し込みはお受けできません。\n\n利用調整の方法\n・私立保育園と区立保育園の利用調整方法\n・申込時の注意点（転職の際の注意点）\n\n申込結果・支給認定証通知予定日\n入園希望月の前月22日頃\n支給認定証の交付は、原則として申請日から30日以内とされていますが、保育の必要性の調査や申請数の関係で日時を要することがあり、交付までに30日を超える期間をいただくことがあります。\n（注）郵便法の改正により、令和3年10月以降は、従来より通知類の到着に時間がかかることがあります。予めご了承ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "保護者が以下の状況で、家庭で子どもを保育することができない場合に利用申し込みができます。\n（1）就労している（通勤・休憩時間を除き、月48時間以上）\n （注）育児休業・出産休暇が終了し、復職するときも含む\n（2）病気、負傷、心身に障害があるために保育が困難なとき\n（3）同居している病気の方や障害者を常時介護・看護しているとき\n（4）災害の復旧にあたっているとき\n（5）求職活動中または（1）の時間に満たない勤務をしているとき\n（6）学校教育法に規定する学校や、職業能力開発促進法に規定される職業訓練校等に就学しているとき\n（7）出産で準備・休養が必要なとき（出産予定月とその前後2か月に限る）\n（8）その他、明らかに家庭での保育が困難であると認められるとき",
+  "regulation": {
+    "regulationArticle": "第24条",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育所（保育園）には、国が定めた設置基準をクリアし、都道府県知事に認可された保育所と、それ以外の保育所がありますが、ここでは認可された保育所についてご案内します。保育園では在園児を対象とした「延長保育」のほか、「一時預かり」や「病児保育」、「障害児保育」などを行っている園もあります。",
+  "support": {
+    "description": "認可保育施設への入園申し込み",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "集団保育が可能で、保護者の就労や病気のため、家庭で保育が困難な乳幼児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "集団保育が可能で、保護者の就労や病気のため、家庭で保育が困難な乳幼児"
+  },
+  "updateDate": "2023-10-13",
+  "useConsiderationFlag": false,
+  "utilization": "区外の保育施設を希望するかた、区外から江戸川区の保育施設を希望するかた\n区外の保育施設を希望するかた\n\n転居予定や勤務地があるなどの条件で、区外の保育施設も申し込むことができます。\n締め切りや必要書類、手続きの方法などが各自治体ごとに異なりますので、事前に申込先の自治体へご相談ください。\n申し込みは江戸川区の保育課保育係の窓口で行います。\n区外から江戸川区の保育施設を希望するかた\n\n現在お住まいの自治体を通して申し込みをしてください。申し込みにあたっては条件がありますので、詳しくはお問い合わせください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "私立幼稚園の長時間保育（例：午前9時から午後6時）\n\n区内の私立幼稚園では、正規の教育時間に加え、朝夕の時間帯もお子さんをお預かりしています。夏休み期間中も多くの園が保育を実施しています。\n実施概要については下記の一覧表をご覧ください。\nまた、表中の幼稚園以外にも預かり保育を実施している園があります。詳しくは幼稚園に直接お問い合わせください。\n\n・預かり保育の実施概要（令和元年度）（PDF：88KB）（別ウィンドウで開きます）\nhttps://www.city.edogawa.tokyo.jp/documents/7343/azukarihoiku.pdf\n・江戸川区私立幼稚園協会ホームページ（外部サイトへリンク）（別ウィンドウで開きます）\nhttp://www.eshiyo.com/",
+    "fromHM": null,
+    "toHM": null
+  }
+}

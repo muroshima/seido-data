@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132063;府中市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子育て応援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132063",
+    "psid": "psid3.0+8000020132063+3+UM61"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部子育て応援課育成係",
+    "contactPhone": "042-335-4100",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "自転車駐車場利用料助成\n最終更新日：2020年12月4日\n概要説明\n対象\n児童育成手当（育成手当）を受けているひとり親家庭の世帯の方\n\n内容\n市内10駅（府中駅、分倍河原駅、中河原駅、東府中駅、多磨霊園駅、武蔵野台駅、府中本町駅、北府中駅、多磨駅、西府駅）の周辺に設置されている有料自転車駐車場の月ぎめ利用料（1か月・3か月・6か月）を助成します。\n対象施設については自転車駐車場使用料の減額・利用料の助成;https://www.city.fuchu.tokyo.jp/kurashi/sekatu/hochijitensha/jitenshagenngaku.htmlをご覧ください。　\n\n助成額\n利用料金の一部（月額800円）を助成\n注記1：申込みがあった方には児童育成手当認定月以降月分の助成券を発行します。\n注記2：12月から6月に申込みをする場合は、6月分までの助成券を発行します。（対象児童が18歳年度末を迎えることにより児童育成手当の資格が3月で消滅になる方は3月分までの発行となります。）7月から12月分の助成券につきましては新年度の現況届認定後に発送します。\n注記3：7月から11月に申込みをする場合は、12月分までの助成券を発行します。1月から6月分（対象児童が18歳年度末を迎えることにより児童育成手当の資格が3月で消滅になる方は3月分まで）の助成券につきましては、手当の受給資格を確認後、12月中旬頃に発送します。\n\n申込み方法\n必要書類\n自転車駐車場使用料減額申込書(第10号様式) （PDF：61KB）;https://www.city.fuchu.tokyo.jp/kosodate/shussan/hitorioya-sekatushien/jitensha.files/10gou.pdf\n\n府中駅北、東府中駅南、多磨霊園駅北、西府駅南、西府駅北自転車駐車場を利用する方は第10号様式の申込書をご提出ください。\n\n自転車駐車場利用料助成申込書(第1号様式) （PDF：93KB）;https://www.city.fuchu.tokyo.jp/kosodate/shussan/hitorioya-sekatushien/jitensha.files/1gou.pdf\n\n上記以外の自転車駐車場を利用する方は第1号様式の申込書をご提出ください。\n\n駐輪場の変更がある場合\n助成券発行後に利用する自転車駐輪場を変更する場合は、変更届をご提出ください。\n\n府中市自転車駐場利用料助成（割引）券ひとり親家庭変更届 （PDF：57KB）;https://www.city.fuchu.tokyo.jp/kosodate/shussan/hitorioya-sekatushien/jitensha.files/henkou.pdf\n\n自転車駐車場を利用しなくなった場合\n自転車駐車場を定期利用しなくなった場合は、辞退届をご提出ください。\n\n府中市自転車駐場利用料助成（割引）券ひとり親家庭辞退届 （PDF：53KB）;https://www.city.fuchu.tokyo.jp/kosodate/shussan/hitorioya-sekatushien/jitensha.files/jitai.pdf\n\n提出先・問合せ先\n子ども家庭部子育て応援課育成係\n電話：042-335-4100",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "注記1：申込みがあった方には児童育成手当認定月以降月分の助成券を発行します。\n注記2：12月から6月に申込みをする場合は、6月分までの助成券を発行します。（対象児童が18歳年度末を迎えることにより児童育成手当の資格が3月で消滅になる方は3月分までの発行となります。）7月から12月分の助成券につきましては新年度の現況届認定後に発送します。\n注記3：7月から11月に申込みをする場合は、12月分までの助成券を発行します。1月から6月分（対象児童が18歳年度末を迎えることにより児童育成手当の資格が3月で消滅になる方は3月分まで）の助成券につきましては、手当の受給資格を確認後、12月中旬頃に発送します。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "市内10駅（府中駅、分倍河原駅、中河原駅、東府中駅、多磨霊園駅、武蔵野台駅、府中本町駅、北府中駅、多磨駅、西府駅）の周辺に設置されている有料自転車駐車場\n対象施設については自転車駐車場使用料の減額・利用料の助成;https://www.city.fuchu.tokyo.jp/kurashi/sekatu/hochijitensha/jitenshagenngaku.htmlをご覧ください。"
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自のひとり親の方への金銭的支援",
+    "shortName": "自転車駐車場利用料助成"
+  },
+  "localGovernmentLink": {
+    "title": "自転車駐車場利用料助成",
+    "uri": "https://www.city.fuchu.tokyo.jp/kosodate/shussan/hitorioya-sekatushien/jitensha.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "府中市"
+  },
+  "procedureCounter": "子ども家庭部子育て応援課育成係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申込み方法\n必要書類\n自転車駐車場使用料減額申込書(第10号様式) （PDF：61KB）;https://www.city.fuchu.tokyo.jp/kosodate/shussan/hitorioya-sekatushien/jitensha.files/10gou.pdf\n\n府中駅北、東府中駅南、多磨霊園駅北、西府駅南、西府駅北自転車駐車場を利用する方は第10号様式の申込書をご提出ください。\n\n自転車駐車場利用料助成申込書(第1号様式) （PDF：93KB）;https://www.city.fuchu.tokyo.jp/kosodate/shussan/hitorioya-sekatushien/jitensha.files/1gou.pdf\n\n上記以外の自転車駐車場を利用する方は第1号様式の申込書をご提出ください。\n\n駐輪場の変更がある場合\n助成券発行後に利用する自転車駐輪場を変更する場合は、変更届をご提出ください。\n\n府中市自転車駐場利用料助成（割引）券ひとり親家庭変更届 （PDF：57KB）;https://www.city.fuchu.tokyo.jp/kosodate/shussan/hitorioya-sekatushien/jitensha.files/henkou.pdf\n\n自転車駐車場を利用しなくなった場合\n自転車駐車場を定期利用しなくなった場合は、辞退届をご提出ください。\n\n府中市自転車駐場利用料助成（割引）券ひとり親家庭辞退届 （PDF：53KB）;https://www.city.fuchu.tokyo.jp/kosodate/shussan/hitorioya-sekatushien/jitensha.files/jitai.pdf",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "自転車駐車場使用料の減額・利用料の助成",
+      "uri": "https://www.city.fuchu.tokyo.jp/kurashi/sekatu/hochijitensha/jitenshagenngaku.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童育成手当（育成手当）を受けているひとり親家庭の世帯の方に対し、府中市内の10駅の周辺に設置されている有料自転車駐車場の月ぎめ利用料金の一部（月額800円）を助成します。",
+  "support": {
+    "description": "内容\n市内10駅（府中駅、分倍河原駅、中河原駅、東府中駅、多磨霊園駅、武蔵野台駅、府中本町駅、北府中駅、多磨駅、西府駅）の周辺に設置されている有料自転車駐車場の月ぎめ利用料（1か月・3か月・6か月）を助成します。\n対象施設については自転車駐車場使用料の減額・利用料の助成;https://www.city.fuchu.tokyo.jp/kurashi/sekatu/hochijitensha/jitenshagenngaku.htmlをご覧ください。　\n\n助成額\n利用料金の一部（月額800円）を助成",
+    "materiallySupport": null,
+    "monetarySupport": "内容\n市内10駅（府中駅、分倍河原駅、中河原駅、東府中駅、多磨霊園駅、武蔵野台駅、府中本町駅、北府中駅、多磨駅、西府駅）の周辺に設置されている有料自転車駐車場の月ぎめ利用料（1か月・3か月・6か月）を助成します。\n対象施設については自転車駐車場使用料の減額・利用料の助成;https://www.city.fuchu.tokyo.jp/kurashi/sekatu/hochijitensha/jitenshagenngaku.htmlをご覧ください。　\n\n助成額\n利用料金の一部（月額800円）を助成"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "児童育成手当（育成手当）を受けているひとり親家庭の世帯の方"
+  },
+  "updateDate": "2020-12-04",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

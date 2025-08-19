@@ -1,0 +1,136 @@
+{
+  "area": {
+    "areaCode": "131121;世田谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保育認定・調整課入園担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131121",
+    "psid": "psid3.0+1000020131121+1+UM73"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "お問合わせ先 各総合支所の子ども家庭支援課\n世田谷 03-5432-2915\n北沢 03-6804-7525\n玉川 03-3702-1189\n砧 03-3482-5271\n烏山 03-3326-6155",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "お問合わせ先 各総合支所の子ども家庭支援課\n世田谷 03-5432-2915\n北沢 03-6804-7525\n玉川 03-3702-1189\n砧 03-3482-5271\n烏山 03-3326-6155",
+    "contactPhone": "03-5432-2915,03-6804-7525,03-3702-1189,03-3482-5271,03-3326-6155",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "認可保育園への入園申込みに関する相談は、お住まいの地域を管轄する子ども家庭支援課で受け付けています。¥n電話相談・窓口相談\n平日の午前8時30分から午後5時¥n注意事項\n・あらかじめ「保育のごあんない」の冊子をお読みいただき質問事項をまとめてからご相談ください。最新版の「保育のごあんない（令和5年9月発行）」は、子ども家庭支援課窓口等で配布しています。\n・お住まいの地域を管轄する子ども家庭支援課へご相談ください。¥n子ども家庭支援課での窓口相談予約について\n区公式LINEで「保育などの窓口相談予約」ができます\n子ども家庭支援課では、「保育などの窓口相談」について予約枠を設けました。\n認可保育園等の申請方法や、子育てに関するご相談など、子育て応援相談員がお話を伺います。（引き続き、予約なしでもご相談は可能です）\n相談時間は1回30分（時間に限りがありますので、質問事項をまとめてご相談ください）\n区公式LINE;http://line.me/R/ti/p/@setagayacityの「予約」メニューからご予約ください。\n区公式LINE;https://www.city.setagaya.lg.jp/mokuji/kodomo/003/003/002/d00187005_d/img/002_s.png\n二次元コードはこちら\n（区公式LINEアカウント「世田谷区」）\nお住いの地域の子ども家庭支援課でのご相談をお勧めします。¥nご確認ください\n審査・選考は子ども家庭支援課ではなく保育認定・調整課入園担当で行います。各ご家庭の指数や保育料の金額については、お申し込み後に保育認定・調整課入園担当へお問合せください。\n※窓口での保育園申込（申請）受付については、予約は不要です。\n・お問合わせ先 各総合支所の子ども家庭支援課\n　世田谷 03-5432-2915\n　北沢 03-6804-7525\n　玉川 03-3702-1189\n　砧 03-3482-5271\n　烏山 03-3326-6155¥n関連リンク\n「保育のごあんない」の発行について;https://www.city.setagaya.lg.jp/mokuji/kodomo/003/001/001/d00005724.html\n世田谷区公式LINEアカウント;https://line.me/r/ti/p/@setagayacity",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "区公式LINEアカウント「世田谷区」",
+      "uri": "https://page.line.me/setagayacity?openQrModal=true"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "認可保育所（保育園）の利用について",
+    "shortName": "入園の窓口相談予約"
+  },
+  "localGovernmentLink": {
+    "title": "入園のご相談および申込み方法",
+    "uri": "https://www.city.setagaya.lg.jp/mokuji/kodomo/003/003/002/d00187005.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "世田谷区"
+  },
+  "procedureCounter": "お問合わせ先 各総合支所の子ども家庭支援課\n世田谷 03-5432-2915\n北沢 03-6804-7525\n玉川 03-3702-1189\n砧 03-3482-5271\n烏山 03-3326-6155",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "子ども家庭支援課での窓口相談予約について\n区公式LINEで「保育などの窓口相談予約」ができます。\n子ども家庭支援課では、「保育などの窓口相談」について予約枠を設けました。\n認可保育園等の申請方法や、子育てに関するご相談など、子育て応援相談員がお話を伺います。（引き続き、予約なしでもご相談は可能です）\n相談時間は1回30分（時間に限りがありますので、質問事項をまとめてご相談ください）\n区公式LINE;https://page.line.me/setagayacity?openQrModal=trueの「予約」メニューからご予約ください。¥n区公式LINE;https://www.city.setagaya.lg.jp/mokuji/kodomo/003/003/002/d00187005_d/img/002.png\n二次元コードはこちら\n（区公式LINEアカウント「世田谷区」）\nお住いの地域の子ども家庭支援課でのご相談をお勧めします。¥nご確認ください\n審査・選考は子ども家庭支援課ではなく保育認定・調整課入園担当で行います。各ご家庭の指数や保育料の金額については、お申し込み後に保育認定・調整課入園担当へお問合せください。\n※窓口での保育園申込（申請）受付については、予約は不要です。\n・お問合わせ先 各総合支所の子ども家庭支援課\n世田谷 03-5432-2915\n北沢 03-6804-7525\n玉川 03-3702-1189\n砧 03-3482-5271\n烏山 03-3326-6155",
+  "procedurePeriod": {
+    "conditions": "平日の午前8時30分から午後5時",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第24条",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "「保育のごあんない」の発行について",
+      "uri": "https://www.city.setagaya.lg.jp/mokuji/kodomo/003/001/001/d00005724.html"
+    },
+    {
+      "title": "世田谷区公式LINEアカウント",
+      "uri": "https://line.me/r/ti/p/@setagayacity"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育園とは、保護者が共に働いていたり病気などの理由で、昼間家庭において保育を受けられないお子さんを、保護者に代わって保育する児童福祉施設で、法的には「保育所」といいます。\n保育所（保育園）には、国が定めた設置基準をクリアし、都道府県知事に認可された保育所と、それ以外の保育所がありますが、ここでは認可された保育所についてご案内します。¥n保育園では在園児を対象とした「延長保育」のほか、「一時預かり」や「病児保育」、「障害児保育」などを行っている園もあります。",
+  "support": {
+    "description": "認可保育園への入園申込みに関する相談は、お住まいの地域を管轄する子ども家庭支援課で受け付けています。",
+    "materiallySupport": "認可保育園への入園申込みに関する相談は、お住まいの地域を管轄する子ども家庭支援課で受け付けています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "認可保育園への入園申込み希望者"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "相談時間は1回30分（時間に限りがありますので、質問事項をまとめてご相談ください）",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "平日の午前8時30分から午後5時",
+    "fromHM": "08:30",
+    "toHM": "17:00"
+  }
+}

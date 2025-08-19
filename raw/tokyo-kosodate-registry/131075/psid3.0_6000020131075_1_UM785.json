@@ -1,0 +1,141 @@
+{
+  "area": {
+    "areaCode": "131075;墨田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援総合センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131075",
+    "psid": "psid3.0+6000020131075+1+UM785"
+  },
+  "belongings": "本人確認書類（健康保険証等）\n派遣要件を確認できる書類（診断書、親子健康手帳等）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "京島一丁目35番9-103号　マーク・ゼロワン曳舟タワー棟",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て支援総合センター",
+    "contactPhone": "03-5630-6351",
+    "contactUrl": null,
+    "zipCode": "1310046"
+  },
+  "cost": null,
+  "costConditions": "利用料金（自己負担金）\n下表に定める区分に応じた自己負担金がかかります。\n\n自己負担金\n|階層区分|通常時間内単価|通常時間外単価|\n|:----|:----|:----|\n|Ａ：生活保護世帯等・区民税非課税世帯|1時間あたり0円|1時間あたり0円|\n|Ｂ：区民税均等割のみ課税世帯|1時間あたり450円|1時間あたり500円|\n|Ｃ：その他の世帯|1時間あたり900円|1時間あたり1000円|\n\n※通常時間内は、平日の午前9時から午後5時まで\n※通常時間外は、平日の午前9時以前および午後5時以降、土曜日",
+  "description": "家事が困難なとき（児童養育家庭ホームヘルプサービス）\n\n児童を養育している家庭で、家事を行うことが困難となった場合に、一定の期間、ホームヘルパーを派遣して家事支援を行います。\n※児童の保育や送迎等の育児支援は行いません。育児支援をご希望の方は、すみだ子育て支援ネット「はぐ」や、すみだファミリー・サポート・センターなどのご利用をご検討ください。\n※産前・産後の期間は「家事・育児サポーター事業」をご利用ください。\n\n対象となる方\n墨田区に住所があり、義務教育終了前の児童を養育している家庭の保護者の方で、次のいずれかに該当する方\n\n一時的疾病（けがを含む）\n親族等の冠婚葬祭に出席するとき\nひとり親家庭\n※妊娠中、0歳から2歳までの児童を養育されている方は家事・育児サポーター事業をご利用ください。\n家事・育児サポーター事業　墨田区公式ウェブサイト (sumida.lg.jp);https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/sodan/kajiikuji.html\n\n支援内容\n食事の準備や片付け、居室の掃除・整理整頓整とん、衣類の洗濯、その他必要な家事\n\n派遣期間\n申請のあった日の翌日から3か月以内（日曜日、祝日、年末年始は除く）\n派遣時間\n午前7時から午後7時までの間で、1回につき2時間以内\n\n利用料金（自己負担金）\n下表に定める区分に応じた自己負担金がかかります。\n\n自己負担金\n|階層区分|通常時間内単価|通常時間外単価|\n|:----|:----|:----|\n|Ａ：生活保護世帯等・区民税非課税世帯|1時間あたり0円|1時間あたり0円|\n|Ｂ：区民税均等割のみ課税世帯|1時間あたり450円|1時間あたり500円|\n|Ｃ：その他の世帯|1時間あたり900円|1時間あたり1000円|\n\n※通常時間内は、平日の午前9時から午後5時まで\n※通常時間外は、平日の午前9時以前および午後5時以降、土曜日\n\n申請方法\n利用開始希望日の1か月前から、申請を受け付けます。子育て支援総合センターへ電話で来所の予約を入れ、必要書類を持ってお越しください。\n\n申請時に必要なもの\n本人確認書類（健康保険証等）\n派遣要件を確認できる書類（診断書、親子健康手帳等）\n申請書類はこちらからダウンロードできます。;https://www.city.sumida.lg.jp/online_service/sinsei/fukusi/homehelp.html\n\n申込み・問合せ先\n子育て支援総合センター\n〒131-0046　京島一丁目35番9-103号　マーク・ゼロワン曳舟タワー棟\n電話：03-5630-6351\nファックス：03-5630-6352\nEメール：KOSODATESOGOCENT@city.sumida.lg.jp\n\n関連書類・リンク\n児童養育家庭ホームヘルプサービスチラシ（PDF：94KB）;https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/sodan/konnan.files/R5homehelp.pdf\n\nすみだハート・ライン21（会員制有料在宅福祉サービス）（外部サイト）;http://www.sumida-shakyo.or.jp/service/cate03/heartline21",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "産前産後ヘルパーの派遣",
+    "shortName": "児童養育家庭ホームヘルプサービス"
+  },
+  "localGovernmentLink": {
+    "title": "家事が困難なとき（児童養育家庭ホームヘルプサービス）",
+    "uri": "https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/sodan/konnan.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "墨田区"
+  },
+  "procedureCounter": "子育て支援総合センター\n〒131-0046　京島一丁目35番9-103号　マーク・ゼロワン曳舟タワー棟\n電話：03-5630-6351\nファックス：03-5630-6352\nEメール：KOSODATESOGOCENT@city.sumida.lg.jp",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "利用開始希望日の1か月前から、申請を受け付けます。子育て支援総合センターへ電話で来所の予約を入れ、必要書類を持ってお越しください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "墨田区児童養育家庭ホームヘルプサービス事業要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "すみだハート・ライン21（会員制有料在宅福祉サービス）（外部サイト）",
+      "uri": "http://www.sumida-shakyo.or.jp/service/cate03/heartline21"
+    },
+    {
+      "title": "申請書類はこちらからダウンロードできます。",
+      "uri": "https://www.city.sumida.lg.jp/online_service/sinsei/fukusi/homehelp.html"
+    },
+    {
+      "title": "児童養育家庭ホームヘルプサービスチラシ（PDF：94KB）",
+      "uri": "https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/sodan/konnan.files/R5homehelp.pdf"
+    },
+    {
+      "title": "家事・育児サポーター事業　墨田区公式ウェブサイト (sumida.lg.jp)",
+      "uri": "https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/sodan/kajiikuji.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "一時的疾病の体調不良やひとり親家庭などにより、家事が困難なご家庭に、日常的な掃除・洗濯・食事の支度などの家事を手伝うホームヘルパーを派遣します。",
+  "support": {
+    "description": "食事の準備や片付け、居室の掃除・整理整頓整とん、衣類の洗濯、その他必要な家事",
+    "materiallySupport": "食事の準備や片付け、居室の掃除・整理整頓整とん、衣類の洗濯、その他必要な家事",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "墨田区に住所があり、義務教育終了前の児童を養育している家庭の保護者の方で、次のいずれかに該当する方\n\n一時的疾病（けがを含む）\n親族等の冠婚葬祭に出席するとき\nひとり親家庭\n\n※妊娠中、0歳から2歳までの児童を養育されている方は家事・育児サポーター事業をご利用ください。\n家事・育児サポーター事業　墨田区公式ウェブサイト (sumida.lg.jp);https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/sodan/kajiikuji.html"
+  },
+  "updateDate": "2023-08-02",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "派遣期間\n申請のあった日の翌日から3か月以内（日曜日、祝日、年末年始は除く）\n派遣時間\n午前7時から午後7時までの間で、1回につき2時間以内",
+    "fromHM": "07:00",
+    "toHM": "19:00"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康推進課管理・事業グループ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+1+UM10"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康推進課管理・事業グループ",
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "生後5日ごろから7日目（生まれた日を１日とする）の赤ちゃん（新生児）の足の裏からごく少量の血液を取って検査します。\n都内の医療機関（助産所・自宅出産を含む）で出産し、検査をお受けになる場合は、検査料は東京都が負担しておりますので無料となります。ただし医療機関で行う採血にかかる費用（採血料）は保護者の方の負担になります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "先天性代謝異常等検査",
+    "shortName": "先天性代謝異常等検査"
+  },
+  "localGovernmentLink": {
+    "title": "先天性代謝異常等検査について",
+    "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/shussan/taisyaijou.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "東京都ではフェニルケトン尿症等の先天性代謝異常や先天性甲状腺機能低下症（クレチン症）などの内分泌疾患を早期に発見するために、先天性代謝異常等検査を行っています。\nこれらの疾患を放っておくと、生まれた時は健康に見えても、身体障害や知的障害が発生したり、時には生命の危険にさらされたりする場合もあります。しかし、疾患を早期に発見し、適切な治療を続けることで、障害などの発生を未然に防ぐことができます。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生後5日ごろから7日目（生まれた日を１日とする）の赤ちゃん（新生児）"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": "都内で出産し、検査をお受けになる場合は、出産された病院に用意してある「先天性代謝異常等検査申込書」に必要事項を記入の上、出産した医療機関へ提出してください。\n採血は出産された医療機関で行い、検査は専門の検査機関で行います。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

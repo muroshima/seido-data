@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て応援課ひとり親家庭相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+1+UM59"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区立石5-13-1　葛飾区役所4階　401番子育て支援窓口",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て応援課ひとり親家庭相談係",
+    "contactPhone": "03-5654-8276",
+    "contactUrl": null,
+    "zipCode": "1248555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援教育訓練給付金",
+    "shortName": "ひとり親家庭自立支援教育訓練給付金"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親家庭自立支援給付金事業",
+    "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1002341/1002470.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請にあたっては、あらかじめ対象講座の指定が必要となります。希望される講座が就業のため必要と認められるかなどを審査のうえ決定します。受講後の申請はできませんので、受講開始日まで余裕を持ってご相談ください。雇用保険法による一般教育訓練給付金の受給資格がある方は、ハローワーク墨田でも手続きが必要になりますので、詳しくはハローワーク墨田にお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第31条（母子家庭自立支援給付金）、第31条の10（父子家庭自立支援給付金）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "厚生労働大臣指定教育訓練講座　ホームページ",
+      "uri": "http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000062986.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭の母又は父が、就職やキャリアアップのために指定訓練講座を受講し、修了した場合、受講に要した費用の一部を支給する制度です。\n※必ず事前相談を受けてください。",
+  "support": {
+    "description": "・講座の種類　一般教育訓練と特定一般教育訓練　教育訓練経費（入学料・受講料）の80パーセント相当額（上限20万円。16,000円以下は支給不可）を受講修了後に支給。\n・講座の種類　専門実践教育訓練及びこれに準じ区長が必要と認める講座（専門資格の取得を目的とする講座に限る。）①教育訓練経費の60%相当額（上限40万円×修学年数　　160万円を超える場合は160万円まで）を、受講修了後又は受講中、半年ごとの分割支給をします。　※ただし、受講開始日現在、雇用保険法の教育訓練給付金(ハローワーク）制度の受給資格のある方は、半年ごとの分割支給はできません。　\n②追加支給　教育訓練経費の85%相当額（上限60万円×修学年数　240万円を超える場合は240万円まで）から前記①の給付額を差し引いた額を、受講修了後1年以内に資格取得し、就職等した後に支給します。",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象となる方（以下の要件をすべて満たす方）\n・葛飾区内に居住し、20歳未満の児童を扶養している方\nひとり親家庭の母又は父で,母子及び父子自立支援プログラムの策定などの支援を受けている方\n講座を受講することが就業するために必要と認められる方\n過去にこの制度を利用していない方"
+  },
+  "updateDate": "2023-07-20",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132217;清瀬市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "市民課戸籍係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132217",
+    "psid": "psid3.0+3000020132217+1+UM3"
+  },
+  "belongings": "出生証明書を添付し、戸籍法に定められた様式「出生届」により届出してください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都清瀬市中里5-842　清瀬市役所1階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "市民課戸籍係",
+    "contactPhone": "042-497-2038",
+    "contactUrl": null,
+    "zipCode": "2048511"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "申請書申込み\n用途\n日本国籍のお子さまが生まれたとき、および外国籍のお子さまが日本国内で生まれたときに、区市町村へ報告するための届出です。\n内容\n日本国内での出生の場合は、生まれた日から数え14日以内に届出してください。\n対象者\n届出をするかた\n生まれた子の父または母親族以外の同居者\n出産に立ち会った医師などの順\n手数料\n届出は無料\n届け出・申請先\nつぎのいずれかに清瀬市が該当するときは、市民課戸籍係へ届出することができます。\n生まれた子の父母の本籍地\n届出人の所在地\n出生地\n受付時間\n市民課での受領時間\\開庁日の午前8時30分から午後5時\n※正午～午後1時は、受付のみ行い、午後1時以降に審査しますので、お待ち頂くことになります。\n可能な限り、正午～午後1時の時間帯を避けてお越しください。\n上記以外の時間帯および祝日\n市役所1階の宿日直窓口でお預かりします。\n申請方法（ご用意いただくものなど）\n生証明書を添付し、戸籍法に定められた様式「出生届」により届出してください。\n標準処理時間\n開庁時に市民課で受領したとき\n審査上本籍地へ確認の間お待ちいただきます。\nお待ちいただく時間は届書の内容により異なりますので、個別におたずねください。\n上記以外の時間帯および祝日\n宿日直窓口では、届書のお預かりのみ行います。\n翌開庁日に審査を行うため、届書の不備等ある場合には後日届書の訂正に来ていただくことがあります。\n備考\n出生届の受理決定に伴い母子健康手帳に届出証明を記載しています。\n平日開庁時に戸籍係へ出生届出をされる方は、母子健康手帳もお持ちください。\n届出当日に母子健康手帳を持参できない方や土曜・日曜窓口、宿日直窓口への出生届出をされる方は、後日平日開庁日に市民課戸籍係までお持ちください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出生届",
+    "shortName": "出生届"
+  },
+  "localGovernmentLink": {
+    "title": "出生届",
+    "uri": "https://www.city.kiyose.lg.jp/kurashi/todoke_shoumei/koseki/1003466.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "清瀬市"
+  },
+  "procedureCounter": "市民課での受領時間\\開庁日の午前8時30分から午後5時\n※正午～午後1時は、受付のみ行い、午後1時以降に審査しますので、お待ち頂くことになります。\n可能な限り、正午～午後1時の時間帯を避けてお越しください。\n上記以外の時間帯および祝日\n市役所1階の宿日直窓口でお預かりします。",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "つぎのいずれかに清瀬市が該当するときは、市民課戸籍係へ届出することができます。\n\n生まれた子の父母の本籍地\n届出人の所在地\n出生地",
+  "procedurePeriod": {
+    "conditions": "日本国内での出生の場合は、生まれた日から数え14日以内に届出してください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "届出をするかた\n\n1生まれた子の父または母\n2親族以外の同居者\n3出産に立ち会った医師\nなどの順",
+  "regulation": {
+    "regulationArticle": "第49条～第52条",
+    "regulationName": "戸籍法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "出生届とは、生まれてきたお子さんの氏名等を戸籍に記載するための手続きです。\n戸籍に記載されることで、生まれてきたお子さんの親族関係が公的に証明されます。",
+  "support": {
+    "description": "出生届の受理決定に伴い母子健康手帳に届出証明を記載しています。",
+    "materiallySupport": "出生届の受理決定に伴い母子健康手帳に届出証明を記載しています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "届出をするかた\n\n1生まれた子の父または母\n2親族以外の同居者\n3出産に立ち会った医師\nなどの順"
+  },
+  "updateDate": "2024-03-25",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

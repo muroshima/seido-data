@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132284;あきる野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭部 こども家庭センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132284",
+    "psid": "psid3.0+1000020132284+1+UM13"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭部 こども家庭センター母子保健係",
+    "contactPhone": "042-550-3340",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "新生児訪問指導\n\n[初版公開日：2018年4月3日]　[更新日：2024年4月4日]　ID:5096\n\nおおよそ生後60日までに、助産師・保健師が訪問し、\n保護者の方と\n・赤ちゃんの体重を測って成長を確認します。\n・母乳やミルクの相談をします。\n・赤ちゃんのお世話の仕方について相談します。\nまた、3～4か月児健診までの子育て支援情報などもお伝えしています。お気軽にご利用ください。\n\n※第1子の赤ちゃんについては、原則、全戸訪問を実施します。第2子以降の赤ちゃんで訪問希望の方は、出生通知票に希望の有無を確認する個所がありますので、「希望する」に〇（マル）をしてご提出願います。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "新生児訪問",
+    "shortName": "新生児訪問指導"
+  },
+  "localGovernmentLink": {
+    "title": "新生児訪問指導",
+    "uri": "https://www.city.akiruno.tokyo.jp/0000005096.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "あきる野市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第11条（新生児の訪問指導）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "新生児を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、健康や育児に関する相談などを行います。",
+  "support": {
+    "description": "・赤ちゃんの体重を測って成長を確認します。\n・母乳やミルクの相談をします。\n・赤ちゃんのお世話の仕方について相談します。\nまた、3～4か月児健診までの子育て支援情報などもお伝えしています。",
+    "materiallySupport": "・赤ちゃんの体重を測って成長を確認します。\n・母乳やミルクの相談をします。\n・赤ちゃんのお世話の仕方について相談します。\nまた、3～4か月児健診までの子育て支援情報などもお伝えしています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "第1子の赤ちゃんについては、原則、全戸訪問を実施します。第2子以降の赤ちゃんで訪問希望の方は、出生通知票に希望の有無を確認する個所がありますので、「希望する」に〇（マル）をしてご提出願います。"
+  },
+  "updateDate": "2024-04-04",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

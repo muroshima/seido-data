@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132187;福生市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　こども家庭センター課　母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132187",
+    "psid": "psid3.0+8000020132187+1+UM798"
+  },
+  "belongings": "母子健康手帳、筆記用具",
+  "capacity": "先着12組",
+  "class": 1,
+  "contact": {
+    "contactAddress": "福生市福生2125-3（福生市保健センター2階）",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　こども家庭センター課　母子保健係",
+    "contactPhone": "042-552-0312",
+    "contactUrl": null,
+    "zipCode": "1970011"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "離乳食教室を初期・中期と中期・後期にわけて開催しています。\n\n離乳食の作り方、進め方などを、調理のデモンストレーションをしながら学べる教室です。\n\n（注意）\n\n　　事前に予約が必要です。\n\n　　毎月15日号の「広報ふっさ」で募集をするので、受付開始日を確認して予約フォームより予約してください。\n\n令和７年度母子保健事業日程表 （PDF 432.2KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/019/905/b.pdf\n\n初期・中期食　（先着12組）\n【対象】4か月から6か月の乳児\n\n【持ち物】母子健康手帳、筆記用具\n\n【時間】午前10時から11時30分\n\n【場所】こども家庭センター（保健センター）\n\n※原則、お一人でのご参加をお願いしています（赤ちゃんは可）。ご事情のある方はご相談ください。\n\n※赤ちゃんと一緒の場合、抱っこしながら聞いていただきますので、抱っこ紐等お持ちください。\n\n「福が生まれる子育て動画（2）-離乳食編-」でも、離乳食教室（前・中期食）の内容の一部を紹介してますので、ぜひご覧ください。\n\n離乳食教室（初期・中期食）予約はこちらから！\n下記URL・QRコードを読み取り、予約フォームよりお申し込みください。\n\n※予約申し込み開始は、開催前月の18日ごろからです。\n\n離乳食教室予約フォーム;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/014/557/rinyuusyokuyoyaku.jpg\n離乳食教室（初期・中期食）予約フォーム（外部リンク）;https://logoform.jp/form/dHoV/205621",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "離乳食教室（初期・中期食）予約フォーム（外部リンク）",
+      "uri": "https://logoform.jp/form/dHoV/205621"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "午前10時から11時30分",
+    "fromHM": "10:00",
+    "fromYMD": null,
+    "toHM": "11:30",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "こども家庭センター（保健センター）"
+  },
+  "institutionName": {
+    "canonicalName": "離乳食教室",
+    "shortName": "離乳食教室"
+  },
+  "localGovernmentLink": {
+    "title": "離乳食教室",
+    "uri": "https://www.city.fussa.tokyo.jp/life/child/1010112/1014557.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024/07/16",
+    "updater": "福生市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "下記URL・QRコードを読み取り、予約フォームよりお申し込みください。\n\n※予約申し込み開始は、開催前月の18日ごろからです。\n\n離乳食教室予約フォーム;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/014/557/rinyuusyokuyoyaku.jpg\n離乳食教室（初期・中期食）予約フォーム（外部リンク）;https://logoform.jp/form/dHoV/205621",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第3条（乳幼児の健康の保持増進）、9条（知識の普及）、法第5条（子どもの食育における保護者、教育関係者等の役割）、21条 （地域における食生活の改善のための取組の推進）",
+    "regulationName": "母子保健法、食育基本法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "生後4か月から6か月のお子さんとその保護者を対象に、離乳食を始める時のポイントやすすめ方についての講座を開催しています。離乳食のいろいろな悩みに栄養士がお答えします。また、離乳食の作り方の実演や試食もあります。",
+  "support": {
+    "description": "離乳食の作り方、進め方などを、調理のデモンストレーションをしながら学べる教室です。",
+    "materiallySupport": "離乳食の作り方、進め方などを、調理のデモンストレーションをしながら学べる教室です。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "4か月から6か月の乳児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 4
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 6
+    },
+    "targetPersons": "4か月から6か月の乳児"
+  },
+  "updateDate": "2025/04/01",
+  "useConsiderationFlag": false,
+  "utilization": "※原則、お一人でのご参加をお願いしています（赤ちゃんは可）。ご事情のある方はご相談ください。\n\n※赤ちゃんと一緒の場合、抱っこしながら聞いていただきますので、抱っこ紐等お持ちください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "午前10時から11時30分",
+    "fromHM": "10:00",
+    "toHM": "11:30"
+  }
+}

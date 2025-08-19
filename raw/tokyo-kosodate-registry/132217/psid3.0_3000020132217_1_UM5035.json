@@ -1,0 +1,130 @@
+{
+  "area": {
+    "areaCode": "132217;清瀬市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": null,
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132217",
+    "psid": "psid3.0+3000020132217+1+UM5035"
+  },
+  "belongings": "母子手帳など出産予定日または出産日を確認することができる書類・多胎妊娠の方はその確認ができる書類\nマイナンバーカード\nお持ちでない方は、マイナンバーが確認できる書類と、運転免許証やパスワード、在留カードなど、顔つきの本人確認書類",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "産前産後期間の国民健康保険税免除制度\nページ番号1013106\n令和6年1月から出産される国民健康保険加入者の保険税が免除されます。\n子育て世帯の負担軽減、次世代育成支援等の観点から、国民健康保険の被保険者が出産される際に、産前産後の保険税を免除する制度が創設されます。\n\n申請受付開始日\n令和6年1月4日（木曜日）\n\n開始日以降は、出産予定日の6か月前から申請できます。\n\n減免制度の内容\n対象者と免除内容\n清瀬市国保被保険者で令和5年11月1日以降に出産された方、または出産予定の方が対象です。\n\n出産する方の所得割額と均等割額を出産予定日または出産日の属する月の前月から4か月間が減額されます。\n\n※双子など多胎妊娠（出産）の場合は、出産日の属する月の3か月前から6か月間\n\n※出産とは妊娠85日以上の分娩をさします（早産・流産・死産・人工中絶等を含みます）。\n\n制度開始直後については下記の通りとなります。\n\n※令和5年11月出産の方は1か月分のみ、12月出産の方は2か月分のみ、令和6年1月出産の方は3か月分が減額対象となります。\n\n一覧表\n|出産（予定）月|免除該当月|<|<|<|<|\n|^|令和5年12月以前|令和6年1月|令和6年2月|令和6年3月|令和6年4月|\n|:----|:----|:----|:----|:----|:----|\n|令和5年11月|開始前|免除||||\n|令和5年12月|開始前|免除|免除|||\n|令和6年1月|開始前|免除|免除|免除||\n|令和6年2月|-|免除|免除|免除|免除|\n\n免除後の保険税\n原則申請を受け付けた翌月に減額後の更正通知を送付します。納期未到来分で調整しますので、申請月までの納期限の納付書は納めてください。\n\n※申請時点で免除期間を確定するため、出産月が変更になった場合でも免除額は変更しません。\n\n※免除該当月の納期限分が減額されるとは限りませんのでご注意ください。\n\n年度をまたいで免除期間が発生する世帯は2年度分が減額対象となります。\n\n例）令和6年3月出産の場合\n\n令和5年度分は2～3月分が免除対象、令和6年度分は4～5月分が免除対象となります。令和6年度納税通知書はすでに免除後の金額で課税となります（7月中旬発送予定）。\n\n申請に必要な書類\n1.産前産後期間に係る国民健康保険税免除措置届出書\n\n2.母子手帳など出産予定日または出産日を確認することができる書類・多胎妊娠の方はその確認ができる書類\n\n（※出産前に郵送で申請の場合は、母子手帳の表紙と出産予定日を記載したページ、または直近の妊婦健康診査受診票（乙）のコピーなどを添付してください。出産後に届け出る方は母子手帳の出産届出済証明のページなど、子との身分関係が確認できる書類のコピーを添付してください。）\n\n3.マイナンバーカード\n\nお持ちでない方は、マイナンバーが確認できる書類と、運転免許証やパスワード、在留カードなど、顔つきの本人確認書類\n\n産前産後期間の国民健康保険税免除チラシ （PPT 68.5KB）;https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/013/106/sannzennsanngo.pptx\n産前産後期間の国民健康保険税免除届出書 （PDF 106.9KB）;https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/013/106/sannzennsanngo.todokedesyo.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "国民健康保険における産前産後期間保険料（税）免除",
+    "shortName": "産前産後期間の国民健康保険税免除制度"
+  },
+  "localGovernmentLink": {
+    "title": "産前産後期間の国民健康保険税免除制度",
+    "uri": "https://www.city.kiyose.lg.jp/kurashi/kokuhonenkin/kokuminkenkouhoken/1003675/1013106/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-23",
+    "updater": "清瀬市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "産前産後期間に係る国民健康保険税免除措置届出書",
+  "procedurePeriod": {
+    "conditions": "出産予定日の6か月前から申請できます。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "清瀬市国保被保険者で令和5年11月1日以降に出産された方、または出産予定の方",
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "産前産後期間の国民健康保険税免除届出書 （PDF 106.9KB）",
+      "uri": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/013/106/sannzennsanngo.todokedesyo.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民健康保険の出産する被保険者に係る産前産後期間相当分（４ヶ月分）の均等割保険料と所得割保険料が免除されます。",
+  "support": {
+    "description": "出産する方の所得割額と均等割額を出産予定日または出産日の属する月の前月から4か月間が減額されます。",
+    "materiallySupport": null,
+    "monetarySupport": "出産する方の所得割額と均等割額を出産予定日または出産日の属する月の前月から4か月間が減額されます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003",
+      "015"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "清瀬市国保被保険者で令和5年11月1日以降に出産された方、または出産予定の方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "清瀬市国保被保険者で令和5年11月1日以降に出産された方、または出産予定の方"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": "産前産後期間に係る国民健康保険税免除措置届出書",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

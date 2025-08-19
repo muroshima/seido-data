@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131156;杉並区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "各子どもセンター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131156",
+    "psid": "psid3.0+8000020131156+1+UM110"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "杉並区荻窪5丁目20番1号,杉並区高井戸東3丁目20番3号,杉並区高円寺南3丁目31番3号 1階,杉並区上井草3丁目8番19号,杉並区和泉4丁目50番6号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "荻窪子どもセンター,高井戸子どもセンター,高円寺子どもセンター,上井草子どもセンター,和泉子どもセンター",
+    "contactPhone": "03-5347-2081,03-5941-3839,03-3312-2811,03-3399-1131,03-3312-3671",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "https://www.city.suginami.tokyo.jp/s054/1818.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "土曜日、日曜日、祝日、年末年始（12月29日から1月3日まで）",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "区内５か所の子どもセンター"
+  },
+  "institutionName": {
+    "canonicalName": "子育て支援拠点・地域子育て支援センター",
+    "shortName": "子どもセンター"
+  },
+  "localGovernmentLink": {
+    "title": "子どもセンター",
+    "uri": "https://www.city.suginami.tokyo.jp/s054/1818.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025-03-13",
+    "updater": "杉並区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": "開設時間\n午前8時30分から午後5時まで\n\n休業日\n土曜日、日曜日、祝日、年末年始（12月29日から1月3日まで）",
+    "fromHM": "08:30",
+    "fromYMD": null,
+    "toHM": "17:00",
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第59条第1号",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子どもセンターは、子育て支援サービスの利用相談・情報提供や保育施設等の利用相談・申請受付を行う窓口です。各家庭のニーズに応じて、サービスの内容や利用方法など、きめ細やかにサポートします。",
+  "support": {
+    "description": "子育て支援サービス（全般）の利用相談\n産前・産後支援ヘルパー、多胎児家庭家事・育児支援ヘルパー、産後ケアの利用相談・申請受付\n一時的にお子さんを預かる事業や子育て応援券などの利用相談\n保育施設等の利用相談・申請受付\n親子で遊べる場の紹介　など",
+    "materiallySupport": "子育て支援サービス（全般）の利用相談\n産前・産後支援ヘルパー、多胎児家庭家事・育児支援ヘルパー、産後ケアの利用相談・申請受付\n一時的にお子さんを預かる事業や子育て応援券などの利用相談\n保育施設等の利用相談・申請受付\n親子で遊べる場の紹介　など",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-05-23",
+  "useConsiderationFlag": false,
+  "utilization": "予約は不要ですが、利用日の１カ月前から予約することもできます。保育施設の利用相談や申請の受付で混雑が予想される10月・11月は、予約制になります。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": "08:30",
+    "toHM": "17:00"
+  }
+}

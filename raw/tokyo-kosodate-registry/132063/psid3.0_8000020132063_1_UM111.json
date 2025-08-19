@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132063;府中市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子ども家庭支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132063",
+    "psid": "psid3.0+8000020132063+1+UM111"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "府中市宮町1丁目50番地　くるる3階",
+    "contactComment": null,
+    "contactEmail": "kosodate03@city.fuchu.tokyo.jp",
+    "contactEx": null,
+    "contactName": "子ども家庭部子ども家庭支援課",
+    "contactPhone": "042-354-8700",
+    "contactUrl": null,
+    "zipCode": "1830023"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子ども食堂実施団体\n最終更新日：2024年4月15日\n市で把握している子ども食堂実施団体は次表のとおりです。\n注記：子ども食堂は地域の市民団体等の自主的な活動です。\n　　　市が運営管理や実施許可などを行っているものではありません。\n　　　場所・開催日時は変更になる場合もありますので、各団体にご確認ください。\n\n府中市こども食堂ネットワーク「100人こども食堂」（外部サイト）;https://fuchuks100.jimdofree.com/\n\n子ども食堂実施団体\nhttps://www.city.fuchu.tokyo.jp/kosodate/shussan/oyako/kodomo_shokudo.html\nこども食堂MAP （PDF：3,454KB）;https://www.city.fuchu.tokyo.jp/kosodate/shussan/oyako/kodomo_shokudo.files/202309kodomosyokudomap.pdf\n\n地域子ども・子育て応援事業費補助金について\n　市では、月1回以上、地域で子ども食堂を行う団体に対し、費用の一部を補助しています。\n　子ども食堂事業に係る補助金については、お問い合わせください。\n\n問合せ先\n子ども家庭部子ども家庭支援課子ども家庭サービス担当\n電話　042-354-8700",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関する各種コミュニティ・団体一覧",
+    "shortName": "子ども食堂実施団体"
+  },
+  "localGovernmentLink": {
+    "title": "子ども食堂実施団体",
+    "uri": "https://www.city.fuchu.tokyo.jp/kosodate/shussan/oyako/kodomo_shokudo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "府中市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "府中市こども食堂ネットワーク「100人こども食堂」（外部サイト）",
+      "uri": "https://fuchuks100.jimdofree.com/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "府中市内で子育てに関する活動を行う、コミュニティやサークル、各種団体のうち、こども食堂を実施している団体のご案内です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-04-15",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

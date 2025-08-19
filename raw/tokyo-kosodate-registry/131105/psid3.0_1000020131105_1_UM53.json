@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131105;目黒区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健予防課 保健サービス係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131105",
+    "psid": "psid3.0+1000020131105+1+UM53"
+  },
+  "belongings": "母子健康手帳、受診票",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都目黒区上目黒二丁目19番15号",
+    "contactComment": "ファクス：03-5722-9508",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健予防課 保健サービス係",
+    "contactPhone": "03-5722-9503",
+    "contactUrl": null,
+    "zipCode": "1538573"
+  },
+  "cost": null,
+  "costConditions": "無料です。ただし、受診票に書かれている診査項目以外の検査、治療を行った場合は、料金をお支払いください。",
+  "description": "4・5歳児健診\n目次\n\n対象者;https://www.city.meguro.tokyo.jp/hokenyobou/kosodatekyouiku/kosodate/4-5sai.html#p1\n受診方法;https://www.city.meguro.tokyo.jp/hokenyobou/kosodatekyouiku/kosodate/4-5sai.html#p2\n健診内容;https://www.city.meguro.tokyo.jp/hokenyobou/kosodatekyouiku/kosodate/4-5sai.html#p3\n受診期間;https://www.city.meguro.tokyo.jp/hokenyobou/kosodatekyouiku/kosodate/4-5sai.html#p4\n費用;https://www.city.meguro.tokyo.jp/hokenyobou/kosodatekyouiku/kosodate/4-5sai.html#p5\n関連するページ;https://www.city.meguro.tokyo.jp/hokenyobou/kosodatekyouiku/kosodate/4-5sai.html#p6\n4・5歳児は基本的な生活習慣が確立し、社会性を身につける重要な時期です。そのため、目黒区では精神・情緒及び運動機能の顕著な発達期にある4・5歳児の健康診査を実施しております。\n\n対象者\n区内在住で、当該年度（4月から翌年3月まで）に5歳になる幼児\n\n受診方法\n対象者には6月下旬に「4・5歳児健康診査受診票」をお送りしますので、目黒区内指定医療機関で受診してください。\n\n4・5歳児健診実施医療機関名簿（令和6年1月1日現在）（PDF：140KB）;https://www.city.meguro.tokyo.jp/documents/3979/060101iryoukikanmeibo.pdf\n\n健診内容\n身体の発達状況、疾病の有無\n尿検査\n保健等の指導\n受診期間\n令和5年7月1日から令和6年1月31日まで\n指定の受診期間を過ぎますと受診ができませんのでご注意ください。\n\n費用\n無料です。ただし、受診票に書かれている診査項目以外の検査、治療を行った場合は、料金をお支払いください。\n\n関連するページ\n乳幼児健康診査のご案内;https://www.city.meguro.tokyo.jp/hokenyobou/kosodatekyouiku/ninshin/goannai.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "当年度の7月1日から1月31日の間",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "https://www.city.meguro.tokyo.jp/documents/3979/iryoukikanmeibo0701.pdf",
+    "implementationName": "https://www.city.meguro.tokyo.jp/documents/3979/iryoukikanmeibo0701.pdf"
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の乳幼児健診",
+    "shortName": "乳幼児健康診査のご案内(4・5歳児健診)"
+  },
+  "localGovernmentLink": {
+    "title": "4・5歳児健診",
+    "uri": "https://www.city.meguro.tokyo.jp/hokenyobou/kosodatekyouiku/kosodate/4-5sai.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "目黒区"
+  },
+  "procedureCounter": "保健予防課保健サービス係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "対象者には6月下旬に「4・5歳児健康診査受診票」をお送りしますので、目黒区内指定医療機関で受診してください。\n\n",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "対象者には6月下旬に「4・5歳児健康診査受診票」をお送りしますので、目黒区内指定医療機関で受診してください。",
+  "regulation": {
+    "regulationArticle": "第13条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "乳幼児健康診査のご案内",
+      "uri": "https://www.city.meguro.tokyo.jp/hokenyobou/kosodatekyouiku/ninshin/goannai.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "4・5歳児は基本的な生活習慣が確立し、社会性を身につける重要な時期です。そのため、目黒区では精神・情緒及び運動機能の顕著な発達期にある4・5歳児の健康診査を実施しております。",
+  "support": {
+    "description": "身体の発達状況、疾病の有無\n尿検査\n保健等の指導",
+    "materiallySupport": "身体の発達状況、疾病の有無\n尿検査\n保健等の指導",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 4,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 5,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住で、当該年度（4月から翌年3月まで）に5歳になる幼児"
+  },
+  "updateDate": "2024-01-01",
+  "useConsiderationFlag": false,
+  "utilization": "対象者には6月下旬に「4・5歳児健康診査受診票」をお送りしますので、目黒区内指定医療機関で受診してください。\n\n",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "通知に記載された受付時間または予約時間にお越しください。",
+    "fromHM": null,
+    "toHM": null
+  }
+}

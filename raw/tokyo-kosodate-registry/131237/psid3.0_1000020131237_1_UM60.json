@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "総務部人権・男女共同参画推進センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM60"
+  },
+  "belongings": "・事前相談票（PDF：152KB）;https://www.city.edogawa.tokyo.jp/documents/42175/zizennsoudannhyou-202208.pdf\n・生活費収支内訳書（PDF：45KB）別ウィンドウで開きます（養成機関に修業する間の生活収支を記入してください。）;https://www.city.edogawa.tokyo.jp/documents/42175/syusiutiwake.pdf",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "総務部人権・男女共同参画推進センター",
+    "contactPhone": "03-6231-8150",
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e090/kuseijoho/gaiyo/soshiki/soumu/jinken.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "事前相談が必要です。\n就労状況、生活状況、すでにお持ちの資格、資格取得への意欲や能力等をお聞きしたうえで、必要性について判断いたします。",
+  "description": "ひとり親家庭の母または父が、就業に結びつきやすい対象資格（看護師や介護福祉士など）を取得するため6月以上養成機関で修業する場合に、修業期間中の生活の負担軽減のために高等職業訓練促進給付金を、また修業終了時に高等職業訓練修了支援給付金を支給します。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "修学に必要な期間（上限4年間）",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "高等職業訓練促進給付金",
+    "shortName": "ひとり親家庭高等職業訓練促進給付金"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親家庭高等職業訓練促進給付金",
+    "uri": "https://www.city.edogawa.tokyo.jp/e090/kosodate/kosodate/teateshien/shisaku/koutoukyuuhu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "人権・男女共同参画推進センター\n住所：江戸川区瑞江2丁目9番15号（人権・男女共同参画推進センター）\n電話：03-6231-8150（直通）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "1.まずは人権・男女共同参画推進センターへお電話にてご相談ください。\n2.来所していただき、就業や生活の状況をお聞きして必要性を判断いたします。下記2点を印刷して記入し、来所時にお持ちください。\n事前相談票（PDF：152KB）（別ウィンドウで開きます）\nhttps://www.city.edogawa.tokyo.jp/documents/42175/zizennsoudannhyou-202208.pdf\n生活費収支内訳書（PDF：45KB）（別ウィンドウで開きます）\nhttps://www.city.edogawa.tokyo.jp/documents/42175/syusiutiwake.pdf\n（養成機関に修業する間の生活収支を記入してください。）\n3.面談の結果、必要性があると判断されたら、修業開始日以降に申請をします。給付金は申請のあった日の属する月から支給となります。\n4.養成機関（学校）を修了したら30日以内に修了支援給付金の申請を行います。修了支援給付金は出ない場合があります。\n（注釈）それぞれの詳しい手続き方法は、ご相談の時に説明します。支給期間中に申請資格がなくなった時は、14日以内に届け出が必要です。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第31条（母子家庭自立支援給付金）、第31条の10（父子家庭自立支援給付金）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭の母または父が、就業に結びつきやすい対象資格（看護師や介護福祉士など）を取得するため6月以上養成機関で修業する場合に、修業期間中の生活の負担軽減のために高等職業訓練促進給付金を、また修業終了時に高等職業訓練修了支援給付金を支給します。",
+  "support": {
+    "description": "・【支給額】住民税非課税世帯は月額100,000円、課税世帯は70,500円（修学最終年次は、それぞれ40,000円の増額）",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "078"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "20歳未満の児童を扶養していること",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内に住所を有するひとり親家庭の母又は父で、次の要件に全て該当している方。\n\n1.20歳未満の児童を扶養していること。\n2.児童扶養手当を受けていること。又は同様の所得水準にあること。\n3.対象資格を取得する養成機関（学校）で、6月以上の課程を修業し、資格の取得が見込まれること。（原則、夜間・通信は除く。）\n4.就業または育児と修業との両立が困難であると認められること。\n5.過去にこの給付金を受給していないこと。\n6.当該事業と趣旨を同じくする給付（求職者支援制度における職業訓練受講給付金、雇用保険法第24条に定める訓練延長給付金、雇用保険法附則第11条の2に定める教育訓練支援給付金等）を受給していないこと。\n（注釈）既に他の国家資格をお持ちの方は、その資格を活かせない理由や、収入アップに繋がるか、安定した就労に繋がるか等をお聞きしたうえで必要性について判断いたします。既に常勤で就労している方は対象とならない場合があります。"
+  },
+  "updateDate": "2023-01-23",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

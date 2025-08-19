@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "131148;中野区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部障害福祉課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131148",
+    "psid": "psid3.0+8000020131148+1+UM63"
+  },
+  "belongings": "手続に必要なもの\n1.診断書（所定の用紙は窓口にあります。東京都重度心身障害者手当受給者は不要）\n2.本人名義の口座番号\n3.転入の場合は課税証明書または、申請書に記載する方全員の個人番号確認書類（マイナンバーカードなど）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス03-3228-5662,03-3367-7811,03-5942-5802,03-5340-7880,03-6265-5772",
+    "contactEmail": "shogaihukusi＠city.tokyo-nakano.lg.jp,chubusukoyaka@city.tokyo-nakano.lg.jp,hokubusukoyaka@city.tokyo-nakano.lg.jp,nanbusukoyaka@city.tokyo-nakano.lg.jp,saginomiyasukoyaka@city.tokyo-nakano.lg.jp",
+    "contactEx": null,
+    "contactName": "障害者等の相談窓口（区役所3階）,中部すこやか福祉センター　障害者相談支援事業所,北部すこやか福祉センター　障害者相談支援事業所,南部すこやか福祉センター　障害者相談支援事業所,鷺宮すこやか福祉センター　障害者相談支援事業所",
+    "contactPhone": "03-3228-8953,03-3367-7810,03-5942-5800,03-5340-7888,03-6265-5770",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "障害児福祉手当（国制度）\n令和6年度からの変更点\n1．手当額の変更について　変更後手当額：月額15,690円（令和6年4月分から）\n令和6年4月分からの手当額が変更となります。\n手当額については物価変動に応じて毎年見直ししています。\n\n対象\n精神または身体に重度の障害があり、日常生活において常時介護を要するかたで、次の要件に該当する20歳未満のかた。\n・身障手帳1級または2級(一部)程度のかた。\n・愛の手帳1度または2度(一部)程度のかた。\n・上記に準ずる疾病及び精神障害をお持ちのかた。\n\n支給制限\n次の場合、対象から除きます。\n・本人所得および世帯の生計中心者の所得が限度額を越えるかた\n・施設入所者\n・障害を理由とする公的年金を受けている時\n\n手当額および支払月\n月額15,690円（令和6年4月分から）\n2月、5月、8月、11月支払い\n\n手続に必要なもの\n1.診断書（所定の用紙は窓口にあります。東京都重度心身障害者手当受給者は不要）\n2.本人名義の口座番号\n3.転入の場合は課税証明書または、申請書に記載する方全員の個人番号確認書類（マイナンバーカードなど）\n\n手当の所得限度額\n障害児福祉手当の所得限度額（令和5年8月1日～令和6年7月31日適用）\n|扶養人数|本人の令和4年中の所得|配偶者・扶養義務者の令和4年中の所得|\n|:----|:----|:----|\n|なし|360万4千円|628万7千円|\n|1人|398万4千円|653万6千円|\n|2人|436万4千円|674万9千円|\n|3人|474万4千円|696万2千円|\n|4人以上|1人増すごとに38万円加算|1人増すごとに21万3千円加算|\n|その他|老人控除対象の配偶者または老人扶養親族1人につき10万円加算、特定扶養親族1人につき25万円加算|扶養親族2人以上の場合老人扶養1人につき6万円加算|\n手当の所得限度額＝［都道府県民税の非課税所得以外の所得］-［各種控除額］\n\n窓口\n部署名　障害者等の相談窓口（区役所3階）\n電話番号 03-3228-8953\nファクス 03-3228-5662\nEメール shogaihukusi＠city.tokyo-nakano.lg.jp\n部署名　中部すこやか福祉センター　障害者相談支援事業所\n電話番号 03-3367-7810\nファクス 03-3367-7811\nEメール chubusukoyaka@city.tokyo-nakano.lg.jp\n部署名　北部すこやか福祉センター　障害者相談支援事業所\n電話番号 03-5942-5800\nファクス 03-5942-5802\nEメール hokubusukoyaka@city.tokyo-nakano.lg.jp\n部署名　南部すこやか福祉センター　障害者相談支援事業所\n電話番号 03-5340-7888\nファクス 03-5340-7880\nEメール nanbusukoyaka@city.tokyo-nakano.lg.jp\n部署名　鷺宮すこやか福祉センター　障害者相談支援事業所\n電話番号 03-6265-5770\nファクス 03-6265-5772\nEメール saginomiyasukoyaka@city.tokyo-nakano.lg.jp",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "障害児福祉手当",
+    "shortName": "障害児福祉手当（国制度）"
+  },
+  "localGovernmentLink": {
+    "title": "障害児福祉手当（国制度）",
+    "uri": "https://www.city.tokyo-nakano.lg.jp/kenko_hukushi/syogai/tecyo-teate-nenkin/syogaijifukushiteate.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "中野区"
+  },
+  "procedureCounter": "部署名　障害者等の相談窓口（区役所3階）\n電話番号 03-3228-8953\nファクス 03-3228-5662\nEメール shogaihukusi@city.tokyo-nakano.lg.jp\n部署名　中部すこやか福祉センター　障害者相談支援事業所\n電話番号 03-3367-7810\nファクス 03-3367-7811\nEメール chubusukoyaka@city.tokyo-nakano.lg.jp\n部署名　北部すこやか福祉センター　障害者相談支援事業所\n電話番号 03-5942-5800\nファクス 03-5942-5802\nEメール hokubusukoyaka@city.tokyo-nakano.lg.jp\n部署名　南部すこやか福祉センター　障害者相談支援事業所\n電話番号 03-5340-7888\nファクス 03-5340-7880\nEメール hokubusukoyaka@city.tokyo-nakano.lg.jp\n部署名　鷺宮すこやか福祉センター　障害者相談支援事業所\n電話番号 03-6265-5770\nファクス 03-6265-5772\nEメール saginomiyasukoyaka@city.tokyo-nakano.lg.jp",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "手続に必要なもの\n1.診断書（所定の用紙は窓口にあります。東京都重度心身障害者手当受給者は不要）\n2.本人名義の口座番号\n3.転入の場合は課税証明書または、申請書に記載する方全員の個人番号確認書類（マイナンバーカードなど）\n\n手当の所得限度額\n障害児福祉手当の所得限度額（令和5年8月1日～令和6年7月31日適用）\n|扶養人数|本人の令和4年中の所得|配偶者・扶養義務者の令和4年中の所得|\n|:----|:----|:----|\n|なし|360万4千円|628万7千円|\n|1人|398万4千円|653万6千円|\n|2人|436万4千円|674万9千円|\n|3人|474万4千円|696万2千円|\n|4人以上|1人増すごとに38万円加算|1人増すごとに21万3千円加算|\n|その他|老人控除対象の配偶者または老人扶養親族1人につき10万円加算、特定扶養親族1人につき25万円加算|扶養親族2人以上の場合老人扶養1人につき6万円加算|\n手当の所得限度額＝［都道府県民税の非課税所得以外の所得］-［各種控除額］\n\n窓口\n部署名　障害者等の相談窓口（区役所3階）\n電話番号 03-3228-8953\nファクス 03-3228-5662\nEメール shogaihukusi@city.tokyo-nakano.lg.jp\n部署名　中部すこやか福祉センター　障害者相談支援事業所\n電話番号 03-3367-7810\nファクス 03-3367-7811\nEメール chubusukoyaka@city.tokyo-nakano.lg.jp\n部署名　北部すこやか福祉センター　障害者相談支援事業所\n電話番号 03-5942-5800\nファクス 03-5942-5802\nEメール hokubusukoyaka@city.tokyo-nakano.lg.jp\n部署名　南部すこやか福祉センター　障害者相談支援事業所\n電話番号 03-5340-7888\nファクス 03-5340-7880\nEメール hokubusukoyaka@city.tokyo-nakano.lg.jp\n部署名　鷺宮すこやか福祉センター　障害者相談支援事業所\n電話番号 03-6265-5770\nファクス 03-6265-5772\nEメール saginomiyasukoyaka@city.tokyo-nakano.lg.jp",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第3章",
+    "regulationName": "特別児童扶養手当等の支給に関する法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "身体または精神に重度の障がいのある20歳未満の方で、日常生活において常時介護を必要とする方に対し、手当が支給されます。",
+  "support": {
+    "description": "手当額および支払月\n月額15,690円（令和6年4月分から）\n2月、5月、8月、11月支払い",
+    "materiallySupport": null,
+    "monetarySupport": "手当額および支払月\n月額15,690円（令和6年4月分から）\n2月、5月、8月、11月支払い"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "20歳未満のかた",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "精神または身体に重度の障害があり、日常生活において常時介護を要するかたで、次の要件に該当する20歳未満のかた。\n・身障手帳1級または2級(一部)程度のかた。\n・愛の手帳1度または2度(一部)程度のかた。\n・上記に準ずる疾病及び精神障害をお持ちのかた。\n\n支給制限\n次の場合、対象から除きます。\n・本人所得および世帯の生計中心者の所得が限度額を越えるかた\n・施設入所者\n・障害を理由とする公的年金を受けている時"
+  },
+  "updateDate": "2024-05-07",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

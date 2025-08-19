@@ -1,0 +1,126 @@
+{
+  "area": {
+    "areaCode": "133035;瑞穂町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部 子ども家庭センター課 母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133036",
+    "psid": "psid3.0+1000020133035+2+UM34"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡瑞穂町大字石畑1970番地",
+    "contactComment": "受付時間 平日の午前8時30分から午後5時まで",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部子ども家庭センター課 母子保健係",
+    "contactPhone": "042-557-5098",
+    "contactUrl": "https://www.town.mizuho.tokyo.jp/inquiry/mailform130302.html?PAGE_NO=9629",
+    "zipCode": "1901211"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "1歳前後のお子さんは、行動範囲が広がるとともに、自己主張が強くなるなどの変化もあり、育児の悩みも多くなる時期です。そこで、1歳のお子さんのいるご家庭に子育てに関するアンケートを実施し、子育て支援情報の提供や相談支援、家事・育児パッケージの贈呈を行います。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関するサポート",
+    "shortName": "バースデーサポート事業"
+  },
+  "localGovernmentLink": {
+    "title": "バースデーサポート事業",
+    "uri": "https://www.town.mizuho.tokyo.jp/kosodate/002/p009629.html"
+  },
+  "odInformation": {
+    "content": "所管部署名称を変更",
+    "updateDate": "2024-09-13",
+    "updater": "瑞穂町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "アンケートにご回答",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "瑞穂町では、令和5年度から1歳のお誕生日を迎えたお子さんの育児を応援するため、バースデーサポート事業を開始しました。",
+  "support": {
+    "description": "アンケートにご回答いただいたご家庭には、家事・育児パッケージのギフトカード（商品やサービスと交換できるカタログギフト）を贈呈させていただきます。\nなお、対象のお子さんの出生順によりによりギフトカードの利用できる金額が違います（第1子は6万円相当、第2子は7万円相当、第3子以降は8万円相当です。）。",
+    "materiallySupport": "ギフトカード（商品やサービスと交換できるカタログギフト）を贈呈",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088",
+      "089",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "町内在住の1歳の誕生日を迎えたお子さんの保護者",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "町内在住の1歳の誕生日を迎えたお子さんの保護者\n対象の方にはアンケートを郵送します。"
+  },
+  "updateDate": "2023-10-23",
+  "useConsiderationFlag": false,
+  "utilization": "対象の方にはアンケートを郵送します。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "132241;多摩市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども・若者政策課 幼児教育・保育担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132241",
+    "psid": "psid3.0+3000020132241+3+UM72"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都多摩市関戸六丁目12番地1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども・若者政策課 幼児教育・保育担当",
+    "contactPhone": "042-338-6850",
+    "contactUrl": null,
+    "zipCode": "2068666"
+  },
+  "cost": null,
+  "costConditions": "〈利用料金(月額)〉\n\n|区分|週3日利用|週4日利用|週5日利用|\n|:----|:----|:----|:----|\n|4時間未満|9,600円|12,800円|16,000円|\n|4時間以上|19,200円|25,600円|32,000円|\n\nその他食費、雑費、延長料金等別途料金がかかりますので、詳しくは以下のリンク「定期利用保育」をご参照いただき、実施施設へお問い合わせください。\n\n定期利用保育事業;https://www.city.tama.lg.jp/kosodate/1008019/1008030/1003520.html",
+  "description": "【令和5年10月から】保育料等の第二子無償化について\n東京都の補助金を活用した補助制度となるため、東京都の補助内容に変更があった場合は補助金額等が変更になることがあります。\n\n【令和5年10月から】定期利用保育の利用料の第二子無償化について\n定期利用保育とは、保護者の多様な就労形態と保育需要に対応することを目的として、一時保育を複数月にわたって利用できる制度です。\n\n〈利用料金(月額)〉\n\n|区分|週3日利用|週4日利用|週5日利用|\n|:----|:----|:----|:----|\n|4時間未満|9,600円|12,800円|16,000円|\n|4時間以上|19,200円|25,600円|32,000円|\n\nその他食費、雑費、延長料金等別途料金がかかりますので、詳しくは以下のリンク「定期利用保育」をご参照いただき、実施施設へお問い合わせください。\n\n定期利用保育事業;https://www.city.tama.lg.jp/kosodate/1008019/1008030/1003520.html\n補助内容\n\n令和5年10月以降、課税世帯の第二子以降を対象に、補助上限額42,000円(月額)と実際の利用料金、延長料金、雑費等を比較して、いずれか低い額を補助します。\n※食費は補助の対象外となります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "多子世帯・ひとり親世帯・在宅障がい児（者）のいる世帯の保育料軽減",
+    "shortName": "定期利用保育の利用料の第二子無償化"
+  },
+  "localGovernmentLink": {
+    "title": "【令和5年10月から】保育料等の第二子無償化について",
+    "uri": "https://www.city.tama.lg.jp/kosodate/1008019/1008034/1012819.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "多摩市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第３条～第６条",
+    "regulationName": "多摩市定期利用保育多子世帯負担軽減事業補助金交付要綱 "
+  },
+  "relatedLink": [
+    {
+      "title": "認証保育所・企業主導型保育所(地域枠)に対する多子世帯支援補助について",
+      "uri": "https://www.city.tama.lg.jp/kosodate/1008019/1008034/1003551.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子ども・子育て支援新制度による給付を受ける幼稚園や保育園などを利用するお子さんのうち、多子世帯やひとり親世帯、在宅障がい児（障がい者）のいる世帯などの保育料を軽減しています。",
+  "support": {
+    "description": "令和5年10月以降、課税世帯の第二子以降を対象に、補助上限額42,000円(月額)と実際の利用料金、延長料金、雑費等を比較して、いずれか低い額を補助します。\n※食費は補助の対象外となります。",
+    "materiallySupport": null,
+    "monetarySupport": "令和5年10月以降、課税世帯の第二子以降を対象に、補助上限額42,000円(月額)と実際の利用料金、延長料金、雑費等を比較して、いずれか低い額を補助します。\n※食費は補助の対象外となります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "課税世帯の第二子以降"
+  },
+  "updateDate": "2024-06-12",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

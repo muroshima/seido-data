@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132101;小金井市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課手当助成係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132101",
+    "psid": "psid3.0+3000020132101+2+UM24"
+  },
+  "belongings": "児童手当制度について\nhttps://www.city.koganei.lg.jp/smph/kosodatekyoiku/N84/kakusyuteate/jidoteate/jidouteateseido1.html",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": "s050599(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+    "contactEx": null,
+    "contactName": "子育て支援課手当助成係",
+    "contactPhone": "042-387-9839",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "児童手当制度について\n更新日：2024年6月24日\n〇児童手当の令和６年度制度改正について\n〇児童手当制度について（改正前）\n\n児童手当法の一部改正により制度の入部が変更されます\nhttps://www.city.koganei.lg.jp/smph/kosodatekyoiku/N84/kakusyuteate/jidoteate/teatekaisei.html\n〇制度の変更点　〇申請案内の送付　〇手当の受給に必要となる申請等",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "児童手当",
+    "shortName": "児童手当"
+  },
+  "localGovernmentLink": {
+    "title": "児童手当制度概要",
+    "uri": "https://www.city.koganei.lg.jp/smph/kosodatekyoiku/N84/kakusyuteate/jidoteate/jidouteateseidogaiyo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "小金井市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "児童手当制度について\nhttps://www.city.koganei.lg.jp/smph/kosodatekyoiku/N84/kakusyuteate/jidoteate/jidouteateseido1.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "児童手当法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "家庭における生活の安定と、これからの社会を担うお子さんの健やかな成長のために、高校生年代までの児童（0歳から18歳に達する日以後の最初の3月31日までの間にある子）を養育している人に、児童手当を支給します。",
+  "support": {
+    "description": "手当は、偶数月に、前月までの2か月分をまとめて支給します。\n支給額は、支給対象となるお子さんの年齢や、養育するお子さんの人数により異なります。\n※養育するお子さんの人数は、大学生年代（22歳に達する日以降の最初の3月31日）までのお子さんのうち、年長者から第1子、第2子と数えます。\nお子さんの年齢や出生順位に応じて、以下の金額を支給します。\n＜3歳から18歳（18歳に達する日以降の最初の3月31日）＞\n第1子、第2子：月額1万円\n第3子以降：月額3万円",
+    "materiallySupport": null,
+    "monetarySupport": "第1子、第2子：月額1万円\n第3子以降：月額3万円"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "3歳から18歳（18歳に達する日以降の最初の3月31日）まで\n\n第3子以降は養育する22歳（22歳に達する日以降の最初の3月31日）までの児童の人数により判定します。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "高校生年代（18歳に達する日以後の最初の3月31日）までのお子さんを養育している方が対象です。\nお子さんを養育している父母、または未成年後見人の場合:原則として、お子さんが日本国内に住んでいる場合に手当を支給します。\nお子さんが留学を理由に海外に住んでおり、以下の要件を満たしている場合は、例外として、そのお子さんの分の手当を受け取ることができます。\n1.日本国内に住所を有しなくなった前日までに日本国内に継続して3年を超えて住所を有していたこと\n2.教育を受けることを目的として海外に居住しており、父母（未成年後見人がいる場合はその未成年後見人）と同居していないこと\n3.日本国内に住所を有しなくなった日から3年以内であること\n※その他、短期間留学していて日本に帰国し、再び3年以内に留学する場合などは、上記の要件を満たしていなくても、手当を受け取れる場合があります。\n両親が離婚協議中で別居している場合:父母が、離婚協議中で別居している場合は、お子さんと同居している方を優先して支給する場合があります。\n父母等が海外に住んでいる場合:父母等が海外に住んでいる場合、その父母が、日本国内に住むお子さんを養育している人を指定すれば、指定された方に手当を支給します。お子さんの住所のある市区町村に「父母指定者指定届」を提出して、認定を受けてください。\n※ただし、単身赴任の場合は、これまでどおり、お子さんの生活費を主に負担している方に支給します。\n未成年後見人がいる場合:お子さんを養育している未成年後見人がいる場合は、未成年後見人に手当を支給します。\nお子さんが施設に入所している場合や里親などに委託されている場合:お子さんが施設に入所している場合や里親などに委託されている（預けられている）場合は、原則として、その施設の設置者や里親などに手当を支給します。"
+  },
+  "updateDate": "2012-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

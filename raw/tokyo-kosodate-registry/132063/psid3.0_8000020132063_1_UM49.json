@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132063;府中市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子ども家庭支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132063",
+    "psid": "psid3.0+8000020132063+1+UM49"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援課母子保健係",
+    "contactPhone": "042-368-5333",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "3・4か月児健康診査・産婦健康診査のお知らせ\n最終更新日：2024年4月1日\nお子さんとお母さんの健康診査を次のとおり行います。対象者には個別に通知します。\n・対象者への通知は原則、住民登録に基づきお子さんが2か月に達する月の20日ころに発送します。\n・健診はお子さんが3か月になってから5か月になる前日の健診日まで受診できます。\n・健診を希望されない方や指定の月に来所が難しい場合、また転入などにより通知が届かない場合は、子ども家庭支援課母子保健係までご連絡ください。\n・スムーズな健診実施のために、会場内へはお子様1名につき原則付き添い者1名でのご入場にご協力をお願いいたします。\n\n会場\n子育て世代包括支援センター「みらい」;https://www.city.fuchu.tokyo.jp/shisetu/kosodate/houkatsushien-mirai/mirai.html\n\n受付時間\n午後1時10分から午後2時20分まで（予約時間にお越しください。）\n\n内容\n診察\n身長・体重測定\n相談（保健、栄養、歯科衛生等）\nお母さんは必要に応じて産婦健康診査（問診、血圧測定、尿検査）\n問合せ\n子ども家庭支援課母子保健係（電話：042-368-5333）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "子育て世代包括支援センター「みらい」"
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児健康診査（6か月未満児）",
+    "shortName": "3・4か月児健康診査・産婦健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "3・4か月児健康診査・産婦健康診査のお知らせ",
+    "uri": "https://www.city.fuchu.tokyo.jp/kosodate/shussan/boshinokenko/kakushukenshin/kenko.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-01",
+    "updater": "府中市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "対象者には個別に通知します。\n・対象者への通知は原則、住民登録に基づきお子さんが2か月に達する月の20日ころに発送します。\n\n・健診を希望されない方や指定の月に来所が難しい場合、また転入などにより通知が届かない場合は、子ども家庭支援課母子保健係までご連絡ください。",
+  "procedurePeriod": {
+    "conditions": "受付時間\n午後1時10分から午後2時20分まで（予約時間にお越しください。）",
+    "fromHM": "13:10",
+    "fromYMD": null,
+    "toHM": "14:20",
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "子育て世代包括支援センター「みらい」",
+      "uri": "https://www.city.fuchu.tokyo.jp/shisetu/kosodate/houkatsushien-mirai/mirai.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として3・4か月児健康診査を実施しています。",
+  "support": {
+    "description": "・診察\n・身長・体重測定\n・相談（保健、栄養、歯科衛生等）\n・お母さんは必要に応じて産婦健康診査（問診、血圧測定、尿検査）\n\n・スムーズな健診実施のために、会場内へはお子様1名につき原則付き添い者1名でのご入場にご協力をお願いいたします。",
+    "materiallySupport": "・診察\n・身長・体重測定\n・相談（保健、栄養、歯科衛生等）\n・お母さんは必要に応じて産婦健康診査（問診、血圧測定、尿検査）\n\n・スムーズな健診実施のために、会場内へはお子様1名につき原則付き添い者1名でのご入場にご協力をお願いいたします。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "お子さんが3か月になってから5か月になる前日の健診日",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 3
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": 5
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "お子さんとお母さん\n・健診はお子さんが3か月になってから5か月になる前日の健診日まで受診できます。"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "対象者には個別に通知します。\n・対象者への通知は原則、住民登録に基づきお子さんが2か月に達する月の20日ころに発送します。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

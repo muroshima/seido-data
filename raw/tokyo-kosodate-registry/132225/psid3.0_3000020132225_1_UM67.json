@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132225;東久留米市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉保健部　障害福祉課　管理係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132225",
+    "psid": "psid3.0+3000020132225+1+UM67"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都東久留米市本町3-3-1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉保健部　障害福祉課　管理係",
+    "contactPhone": "042-470-7747",
+    "contactUrl": "https://www.city.higashikurume.lg.jp/kurashi/fukushi/shogai/1000434.html",
+    "zipCode": "2038555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "対象\n身体障害者手帳1級から4級（20歳未満は3、4級）、愛の手帳1度から4度（20歳未満は4度）、国の難病医療費助成の受給者、脳性マヒ、進行性筋萎縮症の方で、施設に入所していない方。\n受給制限\n・65歳以上の新規申請は行えません（転入者を除く）\n・本人（20歳未満は扶養義務者）の所得制限あり\n内容\n月額 15,500円（身体障害者手帳1、2級、愛の手帳1度から3度、脳性マヒ、進行性筋萎縮症）\n\n月額   4,000円（身体障害者手帳3、4級、愛の手帳4度、国の難病医療費助成の受給者）\n\n住宅加算\n下記条件をすべて満たす方には、月額3,500円の住宅加算が適用されます。\n\n・身体障害者手帳1、2級、愛の手帳1度から3度、脳性マヒ、進行性筋萎縮症の方\n・市内の民間アパート、借家等にお住まいの方\n・住民税非課税世帯の方\n・市より他の住宅扶助を受けていない方\n問い合わせ\n障害福祉課　電話：042-470-7747",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の障がいのあるお子さんなどへの金銭的支援",
+    "shortName": "心身障害者福祉手当"
+  },
+  "localGovernmentLink": {
+    "title": "障害者のための手当",
+    "uri": "https://www.city.higashikurume.lg.jp/kurashi/fukushi/shogai/1000434.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "東久留米市"
+  },
+  "procedureCounter": "障害福祉課　電話：042-470-7747",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "心身障害者福祉手当認定申請書を提出してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "規則全体で制度を規定しています。",
+    "regulationName": "東久留米市心身障害者福祉手当条例"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "20歳未満の障害のあるお子さんの保護者を対象に、心身障害者福祉手当を支給しています。",
+  "support": {
+    "description": "月額4,000円",
+    "materiallySupport": null,
+    "monetarySupport": "月額4,000円"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "20歳未満",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "20歳未満の身体障害者手帳3、4級、愛の手帳4度、国の難病医療費助成の受給者で、施設に入所していない方"
+  },
+  "updateDate": "2024-05-29",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

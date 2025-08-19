@@ -1,0 +1,147 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援課 母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+2+UM6"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区青戸4-15-14　子ども総合センター内",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援課 母子保健係",
+    "contactPhone": "03-3602-1387",
+    "contactUrl": null,
+    "zipCode": "1250062"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊婦健康診査",
+    "shortName": "妊婦健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "妊婦健康診査のご案内",
+    "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1002072.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": "東京都内の契約医療機関等",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "妊婦健康診査受診票は東京都以外の医療機関で使えますか。",
+      "uri": "https://www.city.katsushika.lg.jp/faq/1030271/1007657/1008235/1008379.html"
+    },
+    {
+      "title": "助産院での健診でも、妊婦健康診査受診票は利用できますか。",
+      "uri": "https://www.city.katsushika.lg.jp/faq/1030271/1007657/1008235/1008371.html"
+    },
+    {
+      "title": "住民税非課税の世帯ですが、妊婦健康診査等について何か助成がありますか。",
+      "uri": "https://www.city.katsushika.lg.jp/faq/1030271/1007657/1008235/1008372.html"
+    },
+    {
+      "title": "妊婦健康診査を受けたいのですが、助成はありますか。",
+      "uri": "https://www.city.katsushika.lg.jp/faq/1030271/1007657/1008235/1008378.html"
+    },
+    {
+      "title": "転入してきた場合、母子健康手帳・妊婦健康診査受診票の手続きはどうすればいいですか。",
+      "uri": "https://www.city.katsushika.lg.jp/faq/1030271/1007657/1008235/1008380.html"
+    },
+    {
+      "title": "葛飾区から妊婦健康診査受診票をもらいましたが、転出します。受診票はどうしたらよいですか。",
+      "uri": "https://www.city.katsushika.lg.jp/faq/1030271/1007657/1008235/1008370.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊婦さんやお腹の赤ちゃんの健康状態を定期的に確認するのが妊婦健康診査です。健診を受ける際の経済的な負担を軽くするため、母子健康手帳交付後に受診する妊婦健康診査費用の一部を助成します。",
+  "support": {
+    "description": "妊娠中の定期的な健康診査費用の一部を14回助成します。\n（注釈）受診票は、これらの検査項目を実施した場合に、一定額を限度に助成するものです。\n各健診等の助成限度額は以下のとおりです。\n\n|各健診等名称|令和4年度受診分|令和5年度受診分|令和6年度受診分|\n|:----|:----|:----|:----|\n|妊婦健康診査1回目|10,850円|10,880円|10,980円|\n|妊婦健康診査2～14回目|5,070円|5,090円|5,140円|\n|妊婦超音波検査（1回につき）|5,300円|5,300円|5,300円|\n|妊婦子宮頸がん検診|3,400円|3,400円|3,400円|",
+    "materiallySupport": null,
+    "monetarySupport": "妊娠中の定期的な健康診査費用の一部を14回助成します。\n（注釈）受診票は、これらの検査項目を実施した場合に、一定額を限度に助成するものです。\n各健診等の助成限度額は以下のとおりです。\n\n|各健診等名称|令和4年度受診分|令和5年度受診分|令和6年度受診分|\n|:----|:----|:----|:----|\n|妊婦健康診査1回目|10,850円|10,880円|10,980円|\n|妊婦健康診査2～14回目|5,070円|5,090円|5,140円|\n|妊婦超音波検査（1回につき）|5,300円|5,300円|5,300円|\n|妊婦子宮頸がん検診|3,400円|3,400円|3,400円|"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

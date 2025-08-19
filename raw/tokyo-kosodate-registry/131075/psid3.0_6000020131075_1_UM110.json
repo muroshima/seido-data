@@ -1,0 +1,136 @@
+{
+  "area": {
+    "areaCode": "131075;墨田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援総合センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131075",
+    "psid": "psid3.0+6000020131075+1+UM110"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "京島一丁目35番9号103号室　マーク・ゼロワン曳舟タワー棟1階",
+    "contactComment": null,
+    "contactEmail": "KOSODATESOGOCENT@city.sumida.lg.jp",
+    "contactEx": null,
+    "contactName": "墨田区子育て支援総合センター",
+    "contactPhone": "03-5630-6351",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "墨田区子育て支援総合センター\n\n子育てに関する相談やサービスの受付\n利用時間\n月曜日から金曜日、午前9時から午後6時まで\n\n休業日\n土曜日、日曜日、祝日、年末年始\n\n所在地、問合せ先、交通案内\n子育て支援総合センター地図;https://www.city.sumida.lg.jp/sisetu_info/kosodate/kosodate_sougouc/index.images/map_kosodate.gif\n住所\n京島一丁目35番9号103号室　マーク・ゼロワン曳舟タワー棟1階\nすみだマップ;https://www.city.sumida.lg.jp/web/citymap_index.html?lat=35.720174&lng=139.818813&zoom=14&k=%E5%AD%90%E8%82%B2%E3%81%A6%E6%94%AF%E6%8F%B4%E7%B7%8F%E5%90%88%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC&ctgr=%E5%AD%90%E3%81%A9%E3%82%82%E3%83%BB%E5%AD%90%E8%82%B2%E3%81%A6%E6%96%BD%E8%A8%AD&mk=%E5%AD%90%E8%82%B2%E3%81%A6%E6%94%AF%E6%8F%B4%E7%B7%8F%E5%90%88%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nバリアフリーマップ（外部サイト）;http://www.machi-info.jp/machikado/sumida_city/index.jsp?&lon=139.8229327&lat=35.713482&scale=2500&mode=1\n\n問い合わせ先\n電話：03-5630-6351\nファクス：03-5630-6352\nメール：KOSODATESOGOCENT@city.sumida.lg.jp\n\n交通案内\n京成線「京成曳舟駅」3分、東武線「曳舟駅」6分",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "土曜日、日曜日、祝日、年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "京島一丁目35番9号103号室　マーク・ゼロワン曳舟タワー棟1階",
+    "implementationName": "墨田区子育て支援総合センター"
+  },
+  "institutionName": {
+    "canonicalName": "子育て支援拠点・地域子育て支援センター",
+    "shortName": "墨田区子育て支援総合センター"
+  },
+  "localGovernmentLink": {
+    "title": "墨田区子育て支援総合センター",
+    "uri": "https://www.city.sumida.lg.jp/sisetu_info/kosodate/kosodate_sougouc/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "墨田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第6項、第21条の9、第59条第9号",
+    "regulationName": "児童福祉法、子ども・子育て支援法、墨田区子育て支援総合センター条例、墨田区子育て支援総合センター条例施行規則"
+  },
+  "relatedLink": [
+    {
+      "title": "バリアフリーマップ（外部サイト）",
+      "uri": "http://www.machi-info.jp/machikado/sumida_city/index.jsp?&lon=139.8229327&lat=35.713482&scale=2500&mode=1"
+    },
+    {
+      "title": "すみだマップ",
+      "uri": "https://www.city.sumida.lg.jp/web/citymap_index.html?lat=35.720174&lng=139.818813&zoom=14&k=%E5%AD%90%E8%82%B2%E3%81%A6%E6%94%AF%E6%8F%B4%E7%B7%8F%E5%90%88%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC&ctgr=%E5%AD%90%E3%81%A9%E3%82%82%E3%83%BB%E5%AD%90%E8%82%B2%E3%81%A6%E6%96%BD%E8%A8%AD&mk=%E5%AD%90%E8%82%B2%E3%81%A6%E6%94%AF%E6%8F%B4%E7%B7%8F%E5%90%88%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+    },
+    {
+      "title": "子育て支援総合センター地図",
+      "uri": "https://www.city.sumida.lg.jp/sisetu_info/kosodate/kosodate_sougouc/index.images/map_kosodate.gif"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "墨田区では区内の子育て支援総合センターなどを子育て支援拠点として、子育て中の親子が気軽に集い、相互交流や子育ての不安・悩みを相談できる場を提供しています。また、地域の子育て関連情報の提供や、子育て支援に関する講習なども実施しています。",
+  "support": {
+    "description": "子育てに関する相談やサービスの受付",
+    "materiallySupport": "子育てに関する相談やサービスの受付",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日から金曜日、午前9時から午後6時まで",
+    "fromHM": "09:00",
+    "toHM": "18:00"
+  }
+}

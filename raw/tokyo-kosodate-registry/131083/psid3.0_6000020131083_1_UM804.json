@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131083;江東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども未来部 保育支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131083",
+    "psid": "psid3.0+6000020131083+1+UM804"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "小規模保育事業実施施設\nキッズフィールド住吉駅前園; https://www.city.koto.lg.jp/280307/shisetsuannai/kosodate/hoikujigyo/kizzufirudosumiyoshiekimae.html\nキッズフィールド東大島駅前園; https://www.city.koto.lg.jp/280307/shisetsuannai/kosodate/hoikujigyo/kizzufirudohigashioojimaekimae.html\nサンライズキッズ保育園亀戸園; https://www.city.koto.lg.jp/280307/shisetsuannai/kosodate/hoikujigyo/sanraizukizzukameido.html\nかめのこ保育園; https://www.city.koto.lg.jp/280307/shisetsuannai/kosodate/hoikujigyo/kamenoko.html\nたかもり保育園; https://www.city.koto.lg.jp/280307/shisetsuannai/kosodate/hoikujigyo/takamori.html\nもりのなかま保育園北砂園; https://www.city.koto.lg.jp/280307/shisetsuannai/kosodate/hoikujigyo/morinonakamakitasuna.html\nKid's Patio 江東おひさま園; https://www.city.koto.lg.jp/280307/shisetsuannai/kyoiku/ninka/hoikujigyo/13962.html\nスマイルクラブナーサリー住吉; https://www.city.koto.lg.jp/280307/shisetsuannai/kyoiku/ninka/hoikujigyo/92802.html\nキャリー保育園にしおおじま; https://www.city.koto.lg.jp/280307/shisetsuannai/kyoiku/ninka/hoikujigyo/89643.html\nおうち保育園門前仲町; https://www.city.koto.lg.jp/280307/shisetsuannai/kyoiku/ninka/hoikujigyo/89624.html\nおうち保育園とよす; https://www.city.koto.lg.jp/280307/shisetsuannai/kyoiku/ninka/hoikujigyo/89625.html\nおうち保育園しののめ; https://www.city.koto.lg.jp/280307/shisetsuannai/kyoiku/ninka/hoikujigyo/89642.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "小規模保育施設一覧",
+    "shortName": "小規模保育事業実施施設"
+  },
+  "localGovernmentLink": {
+    "title": "小規模保育事業実施施設",
+    "uri": "https://www.city.koto.lg.jp/shisetsuannai/kyoiku/ninka/hoikujigyo/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "江東区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第三章 小規模保育事業",
+    "regulationName": "家庭的保育事業等の設備及び運営に関する基準"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "市区町村の認可事業として行われる小規模保育では、3歳未満の保育が必要なお子さんを、比較的小規模（定員6人以上19人以下）で、家庭的保育に近い雰囲気のもとで、きめ細かな保育を実施しています。\n保育所分園に近いA型、家庭的保育（グループ型小規模保育）に近いC型と、その中間的なB型の3タイプがあります。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

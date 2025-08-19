@@ -1,0 +1,133 @@
+{
+  "area": {
+    "areaCode": "131121;世田谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "世田谷区予防接種コールセンター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131121",
+    "psid": "psid3.0+1000020131121+2+UM54"
+  },
+  "belongings": "予診票、母子健康手帳、健康保険証、医療証など（詳しくは医療機関にご確認ください）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "世田谷区予防接種コールセンター",
+    "contactPhone": "03-5432-2437",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "接種対象者\n生後2か月以上生後60月に至るまでの間にある方\n（生後2か月になった日から満5歳の誕生日の前日まで）\n※生後1か月になった月の月末に接種予診票をお送りします。¥n接種回数\n・接種開始が生後2か月～7か月\n　標準的には27日以上の間隔で3回接種 ＋ 初回3回目接種から60日以上あけて1回接種\n　肺1; ¥n・接種開始が生後7か月～1歳\n　標準的には27日以上の間隔で2回接種 ＋ 初回2回目接種から60日以上あけて1回接種\n　肺2; ¥n・接種開始が1歳～2歳\n　60日以上の間隔で2回接種\n　肺3; ¥n・接種開始が2歳～5歳\n　1回接種\n　肺4 ¥n小児の肺炎球菌について\n肺炎球菌は、子どもの大半が鼻の奥に保菌しています。\n保菌者のすべてが重症の感染症を発症するわけではありませんが、ときに中耳炎や副鼻腔炎、肺炎、髄膜炎、敗血症といった病気を起こし、重症になることがあります。¥n副反応について\n小児用肺炎球菌ワクチンは不活化ワクチンです。副反応は、発熱や発赤、接種部位の腫れ、しこり、発疹などが認められます。\n副反応は、発熱や発赤、接種部位の腫れ、しこり、発疹などがあります。通常、数日以内に自然に治ります\n万が一、ひどい腫れ、高熱が続く、ひきつけなどの症状があった場合は、医師の診察を受けてください。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "Logoフォーム",
+      "uri": "https://logoform.jp/form/JqMJ/908131"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "生後2か月になった日から満5歳の誕生日の前日まで",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "区内の指定医療機関にて実施しています。記載内容は変更になることがありますので、予防接種を受ける際は、事前に実施医療機関へご確認ください。\nなお、世田谷区以外の都内22区・狛江市・調布市・三鷹市の指定医療機関にて接種することもできます。希望される場合は、当該医療機関の所在地の保健所か医療機関へ直接お問い合わせください。",
+    "implementationName": "区内の指定医療機関にて実施しています。記載内容は変更になることがありますので、予防接種を受ける際は、事前に実施医療機関へご確認ください。\nなお、世田谷区以外の都内22区・狛江市・調布市・三鷹市の指定医療機関にて接種することもできます。希望される場合は、当該医療機関の所在地の保健所か医療機関へ直接お問い合わせください。"
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "小児の肺炎球菌"
+  },
+  "localGovernmentLink": {
+    "title": "小児の肺炎球菌",
+    "uri": "https://www.city.setagaya.lg.jp/mokuji/fukushi/003/004/d00158774.html"
+  },
+  "odInformation": {
+    "content": "変更",
+    "updateDate": "2025/03/04",
+    "updater": "世田谷区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）",
+    "regulationName": "予防接種法"
+  },
+  "relatedLink": [
+    {
+      "title": "お子さまの予防接種について",
+      "uri": "https://www.city.setagaya.lg.jp/02015/3076.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+  "support": {
+    "description": "生後1か月になった月の月末に接種予診票をお送りします。\n接種回数\n・接種開始が生後2か月～7か月\n　標準的には27日以上の間隔で3回接種 ＋ 初回3回目接種から60日以上あけて1回接種\n・接種開始が生後7か月～1歳\n　標準的には27日以上の間隔で2回接種 ＋ 初回2回目接種から60日以上あけて1回接種\n・接種開始が1歳～2歳\n　60日以上の間隔で2回接種\n・接種開始が2歳～5歳\n　1回接種",
+    "materiallySupport": "生後1か月になった月の月末に接種予診票をお送りします。\n接種回数\n・接種開始が生後2か月～7か月\n　標準的には27日以上の間隔で3回接種 ＋ 初回3回目接種から60日以上あけて1回接種\n・接種開始が生後7か月～1歳\n　標準的には27日以上の間隔で2回接種 ＋ 初回2回目接種から60日以上あけて1回接種\n・接種開始が1歳～2歳\n　60日以上の間隔で2回接種\n・接種開始が2歳～5歳\n　1回接種",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後2か月以上生後60月に至るまでの間にある方\n（生後2か月になった日から満5歳の誕生日の前日まで）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 2
+    },
+    "lessThan": {
+      "targetAge": 5,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生後2か月以上生後60月に至るまでの間にある方\n（生後2か月になった日から満5歳の誕生日の前日まで）"
+  },
+  "updateDate": "2024/04/01",
+  "useConsiderationFlag": false,
+  "utilization": "生後1か月になった月の月末に接種予診票をお送りします。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

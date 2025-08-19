@@ -1,0 +1,130 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "みなと保健所保健予防課保健予防係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+2+UM45"
+  },
+  "belongings": "健康保険証、乳幼児・子ども医療証等の医療証",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "港区三田一丁目4番10号",
+    "contactComment": "ファックス番号：03-3455-4460\n\n外国語対応が必要な人、通訳オペレーター、区の職員の3人で会話ができます。\n\n多言語対応三者通話サービス;https://www.multilingualinterpretercallservice.city.minato.tokyo.jp/kokusai",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "みなと保健所保健予防課保健予防係",
+    "contactPhone": "03-6400-0080",
+    "contactUrl": null,
+    "zipCode": "1088315"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "平日と土曜日の夜間、子どもの急病患者を対象に、発熱など外来で対応できる比較的症状が軽い場合に対応します。\n\n対象者\n中学生まで（おおむね15歳未満の小児）の外来軽症患者\n\n診療場所\n社会福祉法人恩賜財団母子愛育会総合母子保健センター\n愛育病院1階「みなと子ども救急診療室」\n港区芝浦一丁目16番10号\n電話03-6453-7302\n愛育病院の場所（外部サイトへリンク）;https://www.aiiku.net/about/access.php\n診療日\n月曜から土曜（祝日、年末年始を除く）\n診療時間\n＜月曜から金曜＞午後7時から午後10時まで（受付時間は午後7時から午後9時30分まで）\n＜土曜＞午後５時から午後10時まで（受付時間は午後５時から午後９時30分まで）\n\nご利用にあたって\n来院するときは、健康保険証、乳幼児・子ども医療証等の医療証をお持ちください。\n薬を処方する場合は、原則、翌日かかりつけ医等を受診されるまでの1日分を処方します。\n入院や血液検査、エックス線撮影等の検査はできません。\n証明書等の発行はいたしません。\n予防接種や通常の診療時間内に受診ができる場合は、かかりつけ医等で診療を受けてください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "〈月曜から金曜〉午後7時から午後10時まで（受付時間は午後7時から午後9時30分まで）\n〈土曜〉午後5時から午後10時まで（受付時間は午後5時から午後9時30分まで）\n※祝日・年末年始を除く",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "港区芝浦一丁目16番10号",
+    "implementationName": "社会福祉法人恩賜財団母子愛育会総合母子保健センター\n愛育病院1階「みなと子ども救急診療室」"
+  },
+  "institutionName": {
+    "canonicalName": "夜間・休日急病診療所",
+    "shortName": "小児初期救急診療　みなと子ども救急診療室"
+  },
+  "localGovernmentLink": {
+    "title": "休日診療・小児初期救急診療",
+    "uri": "https://www.city.minato.tokyo.jp/hokenyobou/kenko/kenko/kyujitsu.html#shonishoki"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "港区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "愛育病院の場所（外部サイトへリンク）",
+      "uri": "https://www.aiiku.net/about/access.php"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "港区では、平日と土曜日の夜間、小児（おおむね15歳未満）の急病患者を対象に、発熱など外来で対応できる比較的症状が軽い場合に初期救急診療を実施しています。\n「みなと子ども救急診療室」https://www.city.minato.tokyo.jp/hokenyobou/kenko/kenko/kyujitsu.html",
+  "support": {
+    "description": "平日と土曜日の夜間、子どもの急病患者を対象に、発熱など外来で対応できる比較的症状が軽い場合に対応します。",
+    "materiallySupport": "平日と土曜日の夜間、子どもの急病患者を対象に、発熱など外来で対応できる比較的症状が軽い場合に対応します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "中学生まで（おおむね15歳未満の小児）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "中学生まで（おおむね15歳未満の小児）の外来軽症患者"
+  },
+  "updateDate": "2024-06-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

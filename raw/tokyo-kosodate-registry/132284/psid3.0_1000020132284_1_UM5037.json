@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "132284;あきる野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部障がい者支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132284",
+    "psid": "psid3.0+1000020132284+1+UM5037"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "2617",
+    "contactName": "健康福祉部 障がい者支援課",
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "所得に応じて費用負担があります。",
+  "description": "医療費の助成\n[公開日：2019年1月23日][更新日：2023年11月9日]ID:831\n心身障害者医療費の助成（マル障）\n重度の心身障がい者の方に東京都が医療費（保険診療分）の自己負担額の一部を助成します。\n対象者\n身体障害者手帳1級・2級（内部障がいの場合は3級まで）または愛の手帳1度・2度、精神障害者保健福祉手帳1級の方で各種健康保険に加入している方\n\n対象除外\n健康保険未加入者、生活保護受給者、所得が一定額を超える方、65歳以上の新規申請者、住民税が課税されている後期高齢者医療受給者等は対象になりません。\n助成の内容\n保険診療で受診した医療費の自己負担分から、下記の「自己負担額」を差し引いた額を助成します。\n自己負担額\n住民税が課税されている方\n外来のみの場合\n医療費の1割（限度額は、1か月14，000円）\n\n入院を含む場合\n医療費の1割（限度額は、1か月57,600円）、食事療養費標準負担額\n\n住民税が非課税の方\n外来のみの場合\n一部負担はありません。\n\n入院を含む場合\n食事療養費標準負担額\n\n※所得の状況などによっては軽減されることがあります。軽減手続きについては、加入する医療保険に問い合わせてください。\n\n自立支援医療（更生医療）の給付\n職業能力を増進、あるいは日常生活の便宜を図るために障がいの程度を軽くしたり、取り除いたりする医療を給付します。対象は、身体障害者手帳の交付を受けている18歳以上の方で、医療の給付が必要と認められた方です。（所得に応じて費用負担があります。）\n\n自立支援医療（育成医療）の給付\n身体に障がいのある、またはそのまま放置すると将来障がいを残すと認められる疾患がある児童（18歳未満）で確実な治療効果が期待できる方が対象となります。（所得に応じて費用負担があります。）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度",
+    "shortName": "自立支援医療（育成医療）の給付"
+  },
+  "localGovernmentLink": {
+    "title": "医療費の助成",
+    "uri": "https://www.city.akiruno.tokyo.jp/0000000831.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "あきる野市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "身体に障がいのある、またはそのまま放置すると将来障がいを残すと認められる疾患がある児童（18歳未満）で確実な治療効果が期待できる方",
+  "regulation": {
+    "regulationArticle": "第58条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+  "support": {
+    "description": "所得に応じて費用負担があります。",
+    "materiallySupport": null,
+    "monetarySupport": "所得に応じて費用負担があります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "身体に障がいのある、またはそのまま放置すると将来障がいを残すと認められる疾患がある児童（18歳未満）で確実な治療効果が期待できる方が対象となります。（所得に応じて費用負担があります。）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "身体に障がいのある、またはそのまま放置すると将来障がいを残すと認められる疾患がある児童（18歳未満）で確実な治療効果が期待できる方"
+  },
+  "updateDate": "2023-11-09",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

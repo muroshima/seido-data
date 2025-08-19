@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132225;東久留米市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉保健部　健康課　保健サービス係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132225",
+    "psid": "psid3.0+3000020132225+1+UM11"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都東久留米市滝山4-3-14",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉保健部　健康課　保健サービス係",
+    "contactPhone": "042-477-0022",
+    "contactUrl": "https://www.city.higashikurume.lg.jp/kurashi/kenko/boshi/1000404.html",
+    "zipCode": "2030033"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊婦訪問\n安心して赤ちゃんを迎えられるように、妊婦さんのいるご家庭を保健師・助産師が訪問します。妊娠・出産・育児に関するご相談をお受けしています。都合の良い時に訪問させていただきますので、お気軽にご利用ください。\n\n赤ちゃん・産婦訪問\n健やかな赤ちゃんの成長を願い、生後4カ月未満の赤ちゃんのいるすべてのご家庭を保健師・助産師が訪問します。赤ちゃんの体重を計ったり、お母さんの体調や育児の相談などをお受けします。赤ちゃんがお生まれになりましたら、母子手帳の中に入っている出生通知票（ハガキ）を記入し、できるだけ早めにお出しください。\n\n都合の良い時に訪問させていただきますので、お気軽にご利用ください。なお、お急ぎの場合は健康課に直接ご連絡ください。\n\n赤ちゃん訪問について;https://www.city.higashikurume.lg.jp/kurashi/kenko/boshi/1000405.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊産婦訪問",
+    "shortName": "妊婦訪問"
+  },
+  "localGovernmentLink": {
+    "title": "妊婦訪問",
+    "uri": "https://www.city.higashikurume.lg.jp/kurashi/kenko/boshi/1000404.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-01",
+    "updater": "東久留米市"
+  },
+  "procedureCounter": "福祉保健部　健康課　保健サービス係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第17条（妊産婦の訪問指導等）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠中の方を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、妊娠期間中や出産後の不安や悩みについての相談等を行います。",
+  "support": {
+    "description": "安心して赤ちゃんを迎えられるように、妊婦さんのいるご家庭を保健師・助産師が訪問します。妊娠・出産・育児に関するご相談をお受けしています。",
+    "materiallySupport": "妊婦さんのいるご家庭を保健師・助産師が訪問",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊婦さんのいるご家庭"
+  },
+  "updateDate": "2015-03-21",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

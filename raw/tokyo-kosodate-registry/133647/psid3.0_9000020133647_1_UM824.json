@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "133647;神津島村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020133647",
+    "psid": "psid3.0+9000020133647+1+UM824"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健センター",
+    "contactPhone": "04992-8-0010",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "自立支援医療（精神通院医療）\n精神科の病気のために、継続的に治療を受ける方の外来通院の治療費を、申請により一部助成します。\n精神通院医療の治療費のほか、薬代及びデイケア・訪問看護・往診・てんかんの診療も制度の対象です。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度",
+    "shortName": "自立支援医療（精神通院医療）"
+  },
+  "localGovernmentLink": {
+    "title": "障害のある子どもへの支援",
+    "uri": "https://www.vill.kouzushima.tokyo.jp/images/2023/03/20210318-sien.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-08-19",
+    "updater": "神津島村"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請により一部助成します。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+  "support": {
+    "description": "精神科の病気のために、継続的に治療を受ける方の外来通院の治療費を、申請により一部助成します。",
+    "materiallySupport": null,
+    "monetarySupport": "精神科の病気のために、継続的に治療を受ける方の外来通院の治療費を、申請により一部助成します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "精神科の病気のために、継続的に治療を受ける方"
+  },
+  "updateDate": "2021-03-18",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

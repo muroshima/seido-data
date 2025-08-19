@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "133612;大島町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "住民課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020133612",
+    "psid": "psid3.0+2000020133612+1+UM19"
+  },
+  "belongings": "国保被保険者証\n母子健康手帳（死産、流産の場合は医師の証明書）\n印鑑\n振込先口座番号等のわかるもの（通帳等）\n医療機関等が発行する領収書・明細書（出産費用が記載されたもの）\n医療機関等との合意文書（※直接支払い制度の利用について）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都大島町元町１－１－１４",
+    "contactComment": "Fax：04992-2-4430",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "住民課国保年金係",
+    "contactPhone": "04992-2-1462",
+    "contactUrl": "https://www.town.oshima.tokyo.jp/soshiki/jumin/shussannikujiitijikin.html",
+    "zipCode": "1000101"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子供が生まれたとき\n国保被保険者が出産した場合に支給されます。また、妊娠８５日（１２週）以上の死産・流産でも支給されます。\nなお、国保から医療機関等へ直接支払い（直接支払制度）が利用できます。\nただし、他の健康保険から支給される場合、国保からは支給されません。\n\n支給金額\n出生児１児につき５０万円　（※「産科医療補償制度」の対象でない場合は４８万８千円）。\n\n直接支払制度について\n出産に必要な費用について、国保が直接医療機関に支払うことにより、退院時に窓口で出産費用を全額支払う必要がなくなります。\n制度の利用を希望される場合は、出産予定の医療機関等へご相談ください。\n\n窓口受付（直接支払制度未利用または差額支給）\n直接支払制度を利用しなかった場合や、直接支払制度を利用し出産費用が支給金額を下回った場合（差額支給）は、窓口へ申請してください。\n\n申請に必要なもの\n国保被保険者証\n母子健康手帳（死産、流産の場合は医師の証明書）\n印鑑\n振込先口座番号等のわかるもの（通帳等）\n医療機関等が発行する領収書・明細書（出産費用が記載されたもの）\n医療機関等との合意文書（※直接支払い制度の利用について）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "土曜・日曜・祝日・年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出産育児一時金",
+    "shortName": "出産育児一時金"
+  },
+  "localGovernmentLink": {
+    "title": "出産育児一時金",
+    "uri": "https://www.town.oshima.tokyo.jp/soshiki/jumin/shussannikujiitijikin.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-30",
+    "updater": "大島町"
+  },
+  "procedureCounter": "住民課国保年金係窓口",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "直接支払制度について\n出産に必要な費用について、国保が直接医療機関に支払うことにより、退院時に窓口で出産費用を全額支払う必要がなくなります。\n制度の利用を希望される場合は、出産予定の医療機関等へご相談ください。\n\n窓口受付（直接支払制度未利用または差額支給）\n直接支払制度を利用しなかった場合や、直接支払制度を利用し出産費用が支給金額を下回った場合（差額支給）は、窓口へ申請してください。\n\n申請に必要なもの\n国保被保険者証\n母子健康手帳（死産、流産の場合は医師の証明書）\n印鑑\n振込先口座番号等のわかるもの（通帳等）\n医療機関等が発行する領収書・明細書（出産費用が記載されたもの）\n医療機関等との合意文書（※直接支払い制度の利用について）",
+  "procedurePeriod": {
+    "conditions": "平日の午前8時30分から午後5時15分まで（土曜・日曜・祝日・年末年始を除く）",
+    "fromHM": "08:30",
+    "fromYMD": null,
+    "toHM": "17:15",
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条(第二節　その他の給付)",
+    "regulationName": "国民健康保険法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民健康保険に加入している方が出産したときは、その世帯主からの申請により、出産育児一時金を支給します。原則として直接支払制度により、医療機関に直接お支払いします。\nなお、直接支払制度に対応していない医療機関などで出産された場合も、「受取代理制度」や出産後の申請により、出産育児一時金の支給を受けることができます。",
+  "support": {
+    "description": "出生児１児につき５０万円　（※「産科医療補償制度」の対象でない場合は４８万８千円）。",
+    "materiallySupport": null,
+    "monetarySupport": "出生児１児につき５０万円　（※「産科医療補償制度」の対象でない場合は４８万８千円）。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003",
+      "015"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": "国保被保険者が出産した場合に支給されます。また、妊娠８５日（１２週）以上の死産・流産でも支給されます。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "国保被保険者が出産した場合"
+  },
+  "updateDate": "2023-04-01",
+  "useConsiderationFlag": true,
+  "utilization": "直接支払制度について\n出産に必要な費用について、国保が直接医療機関に支払うことにより、退院時に窓口で出産費用を全額支払う必要がなくなります。\n制度の利用を希望される場合は、出産予定の医療機関等へご相談ください。\n\n窓口受付（直接支払制度未利用または差額支給）\n直接支払制度を利用しなかった場合や、直接支払制度を利用し出産費用が支給金額を下回った場合（差額支給）は、窓口へ申請してください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

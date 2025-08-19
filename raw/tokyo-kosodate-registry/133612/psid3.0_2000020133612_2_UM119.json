@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "133612;大島町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉けんこう課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020133612",
+    "psid": "psid3.0+2000020133612+2+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都大島町元町１－１－１４",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉けんこう課　けんこう係",
+    "contactPhone": "04992-2-1482",
+    "contactUrl": "https://www.town.oshima.tokyo.jp/form/detail.php?sec_sec1=7&inq=03&lif_id=720",
+    "zipCode": "1000101"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "福祉けんこう課けんこう係では、保健師、栄養士、歯科衛生士の専門スタッフが、町民の皆さんの健康保持および健康づくりを推進するため、さまざまな事業を実施しています。\n心や身体の健康について知りたいことや悩んでいることなど、ご相談に応じますのでお気軽にお問い合わせください。\n\n※予約制となりますので、電話でご連絡ください。\n\n主な相談内容\n生活習慣病の予防、治療について\nがん検診、予防、治療について\n健診・検診の結果について\nおとなの食生活改善について\nベビーの離乳食について\n口臭、虫歯、歯周病の予防やお手入れについて\n歯や歯ぐき、入れ歯などお口に関することについて\n妊娠・出産・子育てについて\n子どもの発達について\nさまざまな年代のこころの相談について",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "大島町の子育てに関する相談",
+    "shortName": "けんこう相談"
+  },
+  "localGovernmentLink": {
+    "title": "けんこう相談",
+    "uri": "https://www.town.oshima.tokyo.jp/soshiki/kenkou/kenkou-soudan.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-30",
+    "updater": "大島町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "福祉けんこう課けんこう係では、保健師、栄養士、歯科衛生士の専門スタッフが、町民の皆さんの健康保持および健康づくりを推進するため、さまざまな事業を実施しています。\n心や身体の健康について知りたいことや悩んでいることなど、ご相談に応じますのでお気軽にお問い合わせください。",
+  "support": {
+    "description": "主な相談内容\n生活習慣病の予防、治療について\nがん検診、予防、治療について\n健診・検診の結果について\nおとなの食生活改善について\nベビーの離乳食について\n口臭、虫歯、歯周病の予防やお手入れについて\n歯や歯ぐき、入れ歯などお口に関することについて\n妊娠・出産・子育てについて\n子どもの発達について\nさまざまな年代のこころの相談について",
+    "materiallySupport": "主な相談内容\n生活習慣病の予防、治療について\nがん検診、予防、治療について\n健診・検診の結果について\nおとなの食生活改善について\nベビーの離乳食について\n口臭、虫歯、歯周病の予防やお手入れについて\n歯や歯ぐき、入れ歯などお口に関することについて\n妊娠・出産・子育てについて\n子どもの発達について\nさまざまな年代のこころの相談について",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2015-11-26",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

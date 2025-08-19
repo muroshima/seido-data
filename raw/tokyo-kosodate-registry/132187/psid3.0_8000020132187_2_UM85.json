@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132187;福生市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子ども育成課　保育・幼稚園係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132187",
+    "psid": "psid3.0+8000020132187+2+UM85"
+  },
+  "belongings": "必ず持参するもの\n□利用料金（お釣りのないようにお持ちください）\n□薬剤情報\n□着替え一式3組（嘔吐、下痢の場合は多めに）\n□パンツ2～3枚又は紙おむつ5～6枚\n□プラスチックコップ\n□バスタオル2枚（お昼寝時に使用しますので大きめのもの）\n□タオル1枚\n□スーパーのビニール袋4～5枚\n\n必要に応じて持参するもの\n□薬（薬剤情報がない場合、飲ませることができません）\n□ミルク（1回分ずつ小分けして飲む回数分お持ちください）及び哺乳瓶\n□ガーゼ2～3枚\n□よだれかけ\n□食事用エプロン2～3枚\n□おしゃぶりやタオルなど、あると安心できるもの",
+  "capacity": "1日4名",
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都福生市本町5",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子ども育成課　保育・幼稚園係",
+    "contactPhone": "042-551-1780",
+    "contactUrl": null,
+    "zipCode": "1978501"
+  },
+  "cost": "1000",
+  "costConditions": "1日1,000円\n（注意）昼食・おやつ代は別途350円\n市民以外の方の利用について\n市民の方の利用を優先しますが、空きがある場合には市民以外の方も利用できます。\n1日2,000円（当日、病後児保育室にお支払いください。）\n（注意）昼食・おやつ代は別途350円",
+  "description": "事業の案内\n月曜日から金曜日（祝日・年末年始を除く。）\n午前8時から午後6時\n利用料金　1日1,000円（都内で1番低い利用料金です！！）\n（注意）昼食・おやつ代は別途350円\n\n実施施設\n福生保育園\n所在地：福生市福生1058-11\n電話：042-530-2072（病後児保育室）\n詳しくは、リーフレットをご覧ください。\n\n登録書・申込書\nPDFバージョンは印刷後に手書き用として使用できます。\n便利なEXCELバージョンはダウンロード後に直接入力して印刷することができます。\nただし、開くのに若干時間がかかり、パソコン環境により印刷の際に余白調整が必要となる場合があります。\n（注意）登録書・申込書は、福生保育園病後児保育室、市役所保育・幼稚園係にもあります。\nリーフレット （PDF 2.8MB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/598/thirashi06.pdf\n登録書 （PDF 193.5KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/598/tourokusho06.pdf\n申込書 （PDF 181.2KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/598/mousikomisyo06.pdf\n登録書・申込書 （Excel 532.4KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/598/tourokuriyou06.xlsx\n\n市民以外の方の利用について\n市民の方の利用を優先しますが、空きがある場合には市民以外の方も利用できます。\n1日2,000円（当日、病後児保育室にお支払いください。）\n（注意）昼食・おやつ代は別途350円\n\n関連情報\n保育園;https://www.city.fussa.tokyo.jp/map/hoikuen/index.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "祝日、年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "福生市福生1058-11",
+    "implementationName": "福生保育園"
+  },
+  "institutionName": {
+    "canonicalName": "病児・病後児保育",
+    "shortName": "病後児保育"
+  },
+  "localGovernmentLink": {
+    "title": "病後児保育",
+    "uri": "https://www.city.fussa.tokyo.jp/kofukunavi/1012676/1012864.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "福生市"
+  },
+  "procedureCounter": "福生保育園",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "➀防護児保育室に直接又は電話で事前予約\n➁当日、病後児保育室に申込書を提出\n",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第13項、第21条の9、第59条第11号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "保育園",
+      "uri": "https://www.city.fussa.tokyo.jp/map/hoikuen/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育所などに通所しているお子さんが病気や病気の回復期にあることから保育所での集団保育が困難で、かつ、保護者の就労などにより家庭で保育を行うことができない場合、病児・病後児保育を行っている施設で一時的に預かります。",
+  "support": {
+    "description": "子どもが病気の回復期にあり、まだ集団生活に戻るには心配だけど、あと何日かどこかで預かってほしい、そんなときに病後児保育室でお預かりします。",
+    "materiallySupport": "子どもが病気の回復期にあり、まだ集団生活に戻るには心配だけど、あと何日かどこかで預かってほしい、そんなときに病後児保育室でお預かりします。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後6ヶ月～小学6年生",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "➀生後6ヶ月～小学6年生\n➁病気の回復期にある子どもで医師の診察を受けている"
+  },
+  "updateDate": "2024-04-03",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日から金曜日（祝日・年末年始を除く。）\n午前8時から午後6時",
+    "fromHM": "08:00",
+    "toHM": "18:00"
+  }
+}

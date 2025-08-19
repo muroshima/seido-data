@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131024;中央区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉保健部子育て支援課子育て支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131024",
+    "psid": "psid3.0+8000020131024+1+UM60"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "築地一丁目1番1号　本庁舎6階",
+    "contactComment": "FAX：03-3546-2129",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉保健部子育て支援課子育て支援係",
+    "contactPhone": "03-6278-8403,03-6278-8421",
+    "contactUrl": null,
+    "zipCode": "1048404"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ひとり親家庭高等職業訓練促進給付金\n看護師や介護福祉士などの資格取得のため一定期間以上養成機関で修業する場合に、高等職業訓練促進給付金を支給することで、生活の負担の軽減を図り、資格取得を容易にするものです。\nまた、平成20年度以降に養成機関に入学し、カリキュラムを修了した方には、修了支援給付金を支給します。\n\n支給対象者\n区在住の母子家庭の母又は父子家庭の父で次の4つの条件に該当する方。\n\n児童扶養手当の支給を受けている者と同等の所得水準にある方（対象となるのは本人の所得のみ）で、20歳未満の児童を扶養している方。\n養成機関において一定期間以上のカリキュラムを修業し、対象資格の取得が見込まれること。\n就業又は育児と修業の両立が困難であると認められること。\n過去にこの訓練促進給付金を受給していないこと。\n対象資格\n看護師（准看護師含む）、介護福祉士、保育士、理学療法士、作業療法士、製菓衛生師、調理師など\n\n支給期間\n修業に要する全期間（ただし、支給は申請のあった月からとなります。）\n\n事前相談\n資格の種類、入学予定の養成機関などについて、あらかじめお知らせいただく必要がありますので、事前にご相談ください。\n\n申請手続\n高等職業訓練促進給付金は養成機関入学後、修了支援給付金はカリキュラム修了後に申請してください。\n\n支給額\n|| |高等職業訓練促進給付金<br>（月額）|修了支援給付金<br>（修了後に支給）|\n|:----|:----|:----|\n|区市町村民税<br>課税世帯|70,500円<br>(最後の12か月は\n110,500円）|25,000円|\n|区市町村民税<br>非課税世帯|141,000円|50,000円|\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "高等職業訓練促進給付金",
+    "shortName": "ひとり親家庭高等職業訓練促進給付金"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親家庭高等職業訓練促進給付金",
+    "uri": "https://www.city.chuo.lg.jp/a0020/kosodate/kosodate/hitorioya/shuurou/fkoso_20090327160053151.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "中央区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "高等職業訓練促進給付金は養成機関入学後、修了支援給付金はカリキュラム修了後に申請してください。",
+  "procedurePeriod": {
+    "conditions": "高等職業訓練促進給付金は養成機関入学後、修了支援給付金はカリキュラム修了後に申請してください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第31条（母子家庭自立支援給付金）、第31条の10（父子家庭自立支援給付金）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭の母または父が、就業に結びつきやすい対象資格（看護師や介護福祉士など）を取得するため1年以上（令和3年4月1日から令和4年3月31日までに修業を開始する場合には6月以上）、養成機関で修業する場合に、修業期間中の生活の負担軽減のために高等職業訓練促進給付金を、また修業終了時に高等職業訓練修了支援給付金を支給します。",
+  "support": {
+    "description": "支給額\n |高等職業訓練促進給付金\n（月額）|修了支援給付金\n（修了後に支給）|\n|:----|:----|:----|\n|区市町村民税\n課税世帯|70,500円\n(最後の12か月は\n110,500円）|25,000円|\n|区市町村民税\n非課税世帯|141,000円|50,000円|\n",
+    "materiallySupport": null,
+    "monetarySupport": "支給額\n |高等職業訓練促進給付金\n（月額）|修了支援給付金\n（修了後に支給）|\n|:----|:----|:----|\n|区市町村民税\n課税世帯|70,500円\n(最後の12か月は\n110,500円）|25,000円|\n|区市町村民税\n非課税世帯|141,000円|50,000円|\n"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "区在住の母子家庭の母又は父子家庭の父で次の4つの条件に該当する方。\n\n児童扶養手当の支給を受けている者と同等の所得水準にある方（対象となるのは本人の所得のみ）で、20歳未満の児童を扶養している方。\n養成機関において一定期間以上のカリキュラムを修業し、対象資格の取得が見込まれること。\n就業又は育児と修業の両立が困難であると認められること。\n過去にこの訓練促進給付金を受給していないこと。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区在住の母子家庭の母又は父子家庭の父で次の4つの条件に該当する方。\n\n児童扶養手当の支給を受けている者と同等の所得水準にある方（対象となるのは本人の所得のみ）で、20歳未満の児童を扶養している方。\n養成機関において一定期間以上のカリキュラムを修業し、対象資格の取得が見込まれること。\n就業又は育児と修業の両立が困難であると認められること。\n過去にこの訓練促進給付金を受給していないこと。"
+  },
+  "updateDate": "2023-10-02",
+  "useConsiderationFlag": false,
+  "utilization": "資格の種類、入学予定の養成機関などについて、あらかじめお知らせいただく必要がありますので、事前にご相談ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

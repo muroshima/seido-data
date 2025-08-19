@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "132063;府中市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "担当課：子ども家庭部子ども家庭支援課（みらい）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020342084",
+    "psid": "psid3.0+7000020342084+1+UM14"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援課母子保健係",
+    "contactPhone": "電話：042-368-5333",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": "無料",
+  "costConditions": null,
+  "description": "出生通知票・新生児訪問（こんにちは赤ちゃん訪問事業）\nこのページの情報をツイッターでシェアします\n\nこのページの情報をラインでシェアします\n\n新生児訪問（こんにちは赤ちゃん訪問事業）\n府中市では、生後4か月未満の赤ちゃんがいる全ての家庭に、保健師・助産師が訪問し、赤ちゃんの体重測定、育児やお母さんの健康に関する相談、府中市の母子保健サービスについて案内しています。\n\n注記：第2子以降も利用できます。\n\n費用\n\n出産・子育て応援事業\n注記：府中市に里帰りをされる方で、滞在中に新生児訪問（こんにちは赤ちゃん訪問事業）を利用される場合は、子ども家庭支援課母子保健係（電話：042-368-5333）へご連絡ください。\n\n画像　にわとりのイラスト;https://www.city.fuchu.tokyo.jp/kosodate/shussan/boshinokenko/shusseituuchi.images/A53.jpg\n画像　新生児訪問;https://www.city.fuchu.tokyo.jp/kosodate/shussan/boshinokenko/shusseituuchi.images/P1000876.JPG\n「どのくらい大きくなったかな。」\n画像　新生児訪問2;https://www.city.fuchu.tokyo.jp/kosodate/shussan/boshinokenko/shusseituuchi.images/P1000874.JPG\n「お母さんの体調はいかがですか。」",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "「出生通知票（こんにちは赤ちゃん訪問連絡票）」",
+      "uri": "https://logoform.jp/form/6ibw/300019"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "自宅"
+  },
+  "institutionName": {
+    "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+    "shortName": "こんにちは赤ちゃん訪問事業"
+  },
+  "localGovernmentLink": {
+    "title": "出生通知票・新生児訪問（こんにちは赤ちゃん訪問事業）",
+    "uri": "https://www.city.fuchu.tokyo.jp/kosodate/shussan/boshinokenko/shusseituuchi.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/19",
+    "updater": "府中市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "お申し込み方法\n　オンライン申請\nオンライン申請フォーム外部サイトへリンク　新規ウインドウで開きます。「出生通知票（こんにちは赤ちゃん訪問連絡票）」（外部サイト）でご申請ください。\n\n　はがき\n妊娠届出書提出（母子健康手帳交付）時にお渡しした出生通知票のはがきに必要事項をご記入のうえ、ご郵送ください。\n\n　電話\n子ども家庭支援課母子保健係（電話：042-368-5333）までお問合せください。\n\n　その他\n子ども医療費助成の申請の際にも、簡易型の書式の出生通知票への記入をお願いしています。",
+  "procedurePeriod": {
+    "conditions": "お子様が生まれましたら、お早めに出生通知票のご提出をお願いいたします。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第21条の10の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "出産・子育て応援事業",
+      "uri": "https://www.city.fuchu.tokyo.jp/kosodate/shussan/boshinokenko/syussannkosodateouennkyuuhukinn.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "生後4か月を迎えるまでの乳児がいるご家庭には専門職のほか、研修を受けたスタッフが訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+  "support": {
+    "description": "新生児訪問（こんにちは赤ちゃん訪問事業）をお受けになった方には、10万円（国・都分）のギフトを贈呈します。",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": 4
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象\n生後4か月未満の赤ちゃんのいる全てのご家庭"
+  },
+  "updateDate": "2024/04/01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

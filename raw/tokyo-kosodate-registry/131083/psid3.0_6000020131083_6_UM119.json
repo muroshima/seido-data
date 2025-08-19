@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "131083;江東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部 保健予防課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131083",
+    "psid": "psid3.0+6000020131083+6+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子育て相談・ママのためのホッとタイム\n子育て中の保護者の方のための相談（予約制）\n子育て中の悩みやつらさ、家族、友達との関係など、秘密を守る約束の中でお話ししていただく場所です。心理相談員の一緒にお話ししてみませんか。\n\nお子さんは別室でお預かりします。\n\n詳細はお問い合わせください。\n\n〇子育て相談（個別相談・予約制）\n\n〇ママのためのホッとタイム（グループ・予約制）\n\n問合先\nお住まいの地域を担当する保健相談所へご相談ください。;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html\n関連ページ\n保健相談所担当地域一覧;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html\n関連リンク\n子ども家庭（東京都福祉保健局）（外部サイトへリンク）（別ウィンドウで開きます）;http://www.fukushihoken.metro.tokyo.jp/kodomo/index.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "江東区の子育てに関する相談",
+    "shortName": "子育て相談・ママのためのホッとタイム"
+  },
+  "localGovernmentLink": {
+    "title": "子育て相談・ママのためのホッとタイム",
+    "uri": "https://www.city.koto.lg.jp/260552/kodomo/kosodate/sodan/6901.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-20",
+    "updater": "江東区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "〇子育て相談（個別相談・予約制）\n\n〇ママのためのホッとタイム（グループ・予約制）",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "子ども家庭（東京都保健福祉局）（外部サイトへリンク）（別ウィンドウで開きます）",
+      "uri": "http://www.fukushihoken.metro.tokyo.jp/kodomo/index.html"
+    },
+    {
+      "title": "保健相談所",
+      "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html"
+    },
+    {
+      "title": "保健相談所担当地域一覧",
+      "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子育て中の悩みやつらさ、家族、友達との関係など、秘密を守る約束の中でお話ししていただく場所です。心理相談員の一緒にお話ししてみませんか。",
+  "support": {
+    "description": "子育て中の悩みやつらさ、家族、友達との関係など、秘密を守る約束の中でお話ししていただく場所です。心理相談員の一緒にお話ししてみませんか。\n\nお子さんは別室でお預かりします。\n\n詳細はお問い合わせください。\n\n〇子育て相談（個別相談・予約制）\n\n〇ママのためのホッとタイム（グループ・予約制）",
+    "materiallySupport": "子育て中の悩みやつらさ、家族、友達との関係など、秘密を守る約束の中でお話ししていただく場所です。心理相談員の一緒にお話ししてみませんか。\n\nお子さんは別室でお預かりします。\n\n詳細はお問い合わせください。\n\n〇子育て相談（個別相談・予約制）\n\n〇ママのためのホッとタイム（グループ・予約制）",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2022-01-06",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

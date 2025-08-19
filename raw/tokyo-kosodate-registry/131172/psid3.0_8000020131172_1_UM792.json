@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131172;北区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部保健サービス課王子健康支援センター,健康部保健サービス課赤羽健康支援センター,健康部保健サービス課滝野川健康支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131172",
+    "psid": "psid3.0+8000020131172+1+UM792"
+  },
+  "belongings": "◎母子健康手帳",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都北区東十条2-7-3　北区保健所1階,東京都北区赤羽南1-13-1　赤羽会館6階,東京都北区西ヶ原1-19-12",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部保健サービス課王子健康支援センター,健康部保健サービス課赤羽健康支援センター,健康部保健サービス課滝野川健康支援センター",
+    "contactPhone": "03-3919-7588,03-3903-6481,03-3915-0184",
+    "contactUrl": null,
+    "zipCode": "1140001,1150044,1140024"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "2歳のお口の健康を守りましょう\n\n定期的に歯科健診を受け、家庭でのフッ化物配合歯みがき剤の使用に加え、\n歯科医師・歯科衛生士による、定期的な高濃度フッ化物塗布を行って効果的にむし歯予防をしましょう。\n\n２歳児歯科健康診査（予約制）\n歯科健康診査の実施について\n〇感染症対策のため、人数や時間等を調整して実施します。\n〇来所される方や、同居のご家族に発熱などの体調不良があった場合には、受講をお控えいただけますようお願いします。\n〇受付等で手指のアルコール消毒、受講中のマスクの着用のご協力をお願いします\n\n対象者\n区内在住の2歳児\n※３歳のお誕生日前日までに受診してください。\n\n内容\n◎歯科健康診査\n◎歯科相談\n\n持ち物\n◎母子健康手帳\n\n申込方法\n◎予約制　\n　※各健康支援センターにお電話でお申込みください。\n\n日時・会場・予約、問合せ先\n《受付時間》\n（1）午後1時30分から1時45分　　（2）午後1時45分から2時\n（3）午後2時から2時15分　　　　 （4）午後2時15分から2時30分\n　※滝野川健康支援センターは、4月1日より受付時間が変更になります。\n　　（1）午後1時から1時30分　　　　 （2）午後1時30分から2時\n《日程・会場・予約、問合せ先》\nhttps://www.city.kita.tokyo.jp/k-suishin/kosodate/nayami/shika/shikakenshin/shikakenshin.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "《受付時間》\n（1）午後1時30分から1時45分　　（2）午後1時45分から2時\n（3）午後2時から2時15分　　　　 （4）午後2時15分から2時30分\n　※滝野川健康支援センターは、4月1日より受付時間が変更になります。\n　　（1）午後1時から1時30分　　　　 （2）午後1時30分から2時\n《日程・会場・予約、問合せ先》;https://www.city.kita.tokyo.jp/k-suishin/kosodate/nayami/shika/shikakenshin/shikakenshin.html",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "東京都北区東十条2-7-3　北区保健所1階,東京都北区赤羽南1-13-1　赤羽会館6階,東京都北区西ヶ原1-19-12",
+    "implementationName": "王子健康支援センター,赤羽健康支援センター,滝野川健康支援センター"
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児の歯の健康診査（▲歳児歯科健康診査）",
+    "shortName": "２歳児歯科健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "2歳のお口の健康を守りましょう",
+    "uri": "https://www.city.kita.tokyo.jp/k-suishin/kosodate/nayami/shika/shikakenshin/shikakenshin.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "北区"
+  },
+  "procedureCounter": "王子健康支援センター,赤羽健康支援センター,滝野川健康支援センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "◎予約制\n\n※各健康支援センターにお電話でお申込みください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "乳歯が生えそろうこの時期は、むし歯が急増する時期でもあります。2歳児歯科健康診査を受けて、むし歯の予防と早期発見をめざしましょう。",
+  "support": {
+    "description": "◎歯科健康診査\n\n◎歯科相談",
+    "materiallySupport": "◎歯科健康診査\n\n◎歯科相談",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "2歳児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住の2歳児\n\n※３歳のお誕生日前日までに受診してください。"
+  },
+  "updateDate": "2024-03-31",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

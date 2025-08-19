@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "132217;清瀬市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132217",
+    "psid": "psid3.0+3000020132217+2+UM798"
+  },
+  "belongings": "母子健康手帳、お子さんのお出かけグッズ",
+  "capacity": "各時間帯5組",
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都清瀬市中里5-842　しあわせ未来センター1階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て支援課母子保健係",
+    "contactPhone": "042-497-2077",
+    "contactUrl": null,
+    "zipCode": "2048511"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "カンタンワンポイント離乳食\n\nページ番号1012384　 更新日 2024年7月10日\n印刷　大きな文字で印刷\nイベントカテゴリ： 講座・教室\n\nirasuto\n\n開催日　2024年9月11日（水曜日）\n\n時間　6か月から8か月児　午前9時45分から午前11時\n9か月から11か月児　午前11時から午後0時15分\n\n場所　しあわせ未来センター　2階　クッキングスタジオ\n\n対象6か月から11か月の乳児とその保護者\n\n定員　各時間帯5組（保護者の方のみの参加も可）\n\n費用　無料\n\n持ち物　母子健康手帳、お子さんのお出かけグッズ\n\n申込　申込みフォーム(9月1日より)\n\n管理栄養士による離乳食の調理実演と試食・相談を行います。\n※久しぶりに離乳食を作る方もご相談ください。\n\n申込みフォーム(9月分)（外部リンク）;https://logoform.jp/form/QzsJ/611528\n\n関連ファイル\n令和6年度　カンタンワンポイント離乳食　日程表 （PDF 171.1KB）;https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/012/141/r6kanntann.pdf\n\nイベント情報をiPhone・iPad端末のカレンダーに取り込めます。\n\nカレンダーへの取り込みについて説明を読む;https://www.city.kiyose.lg.jp/about/site/eventinput/index.html\n\n",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "申込みフォーム(9月分)（外部リンク）",
+      "uri": "https://logoform.jp/form/QzsJ/611528"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "6か月から8か月児　午前9時45分から午前11時\n9か月から11か月児　午前11時から午後0時15分",
+    "fromHM": null,
+    "fromYMD": "2024-09-11",
+    "toHM": null,
+    "toYMD": "2024-09-11"
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "しあわせ未来センター　2階　クッキングスタジオ"
+  },
+  "institutionName": {
+    "canonicalName": "離乳食教室",
+    "shortName": "カンタンワンポイント離乳食"
+  },
+  "localGovernmentLink": {
+    "title": "カンタンワンポイント離乳食",
+    "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/mokuteki/1012383/1012384.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "清瀬市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申込みフォーム(9月1日より)",
+  "procedurePeriod": {
+    "conditions": "申込みフォーム(9月1日より)",
+    "fromHM": null,
+    "fromYMD": "2024-09-01",
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第3条（乳幼児の健康の保持増進）、9条（知識の普及）、法第5条（子どもの食育における保護者、教育関係者等の役割）、21条 （地域における食生活の改善のための取組の推進）",
+    "regulationName": "母子保健法、食育基本法"
+  },
+  "relatedLink": [
+    {
+      "title": "令和6年度　カンタンワンポイント離乳食　日程表 （PDF 171.1KB）",
+      "uri": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/012/141/r6kanntann.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "離乳食２回食が始まった６か月～１１か月くらいまでのお子さんと保護者が対象です。保護者同士や栄養士と離乳食の悩みや不安について気軽に話してみませんか？お友達づくりのきっかけにもなります。離乳食のデモンストレーションとすすめ方のお話をします。 ",
+  "support": {
+    "description": "管理栄養士による離乳食の調理実演と相談を行います。",
+    "materiallySupport": "管理栄養士による離乳食の調理実演と相談",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "6か月から11か月の乳児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 6
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 11
+    },
+    "targetPersons": "6か月から11か月の乳児とその保護者"
+  },
+  "updateDate": "2024-04-17",
+  "useConsiderationFlag": false,
+  "utilization": "申込みフォーム(9月1日より)",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "132195;狛江市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子ども家庭課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132195",
+    "psid": "psid3.0+8000020132195+1+UM47"
+  },
+  "belongings": "母子健康手帳・母と子の保健バッグ",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子ども家庭課母子保健係（あいとぴあセンター）",
+    "contactPhone": "03-5761-9200,03-5761-7990",
+    "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,132750,html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "無料",
+  "description": "ゆりかご狛江（妊婦面談）\nご妊娠中の方を対象とした面談事業です。赤ちゃんが生まれると楽しいことはたくさん！ですが、育児で忙しい毎日がやってきます。\n妊娠中の今、保健師と話をし、赤ちゃんを迎える準備を始めませんか。\n\nゆりかご狛江（妊婦面談）をご利用の方に、出産応援給付金、育児パッケージ（こども商品券）をお渡ししています。\n\n対象\n　狛江市内にお住いの妊婦の方\n\n内容\n　妊娠・出産・育児に関する相談、子育て支援サービスや担当窓口のご案内\n\n日程（※予約制）\n月～金曜日（祝日を除く）\n土曜日（月1回）\n（令和6年4月27日、5月25日、6月29日、7月27日、8月31日、9月28日、10月26日、11月30日、12月14日、令和7年1月25日、2月22日、3月22日）\n時間\n午前9時～午後5時\n\n会場\nあいとぴあセンター\n※1階子ども家庭課窓口にお越しください。担当者がご案内します。\nhttps://www.city.komae.tokyo.jp/images/content/100444/20160307-153604.jpg\n持ち物\n　母子健康手帳・母と子の保健バッグ\n\n費用\n　無料\n\nオンライン妊婦面談\n　狛江市では対面での妊婦面談を実施しています。ただし、来所での面談が難しい妊婦の方を中心に、オンラインによる妊婦面談を行っています。\n\n　オンライン妊婦面談をご希望の方は、オンライン面談確認事項 [103KB pdfファイル]を確認の上、ご了承いただけましたらお電話でご予約ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "祝日",
+  "implementationPeriod": {
+    "conditions": "日程（※予約制）\n月～金曜日（祝日を除く）\n土曜日（月1回）\n（令和6年4月27日、5月25日、6月29日、7月27日、8月31日、9月28日、10月26日、11月30日、12月14日、令和7年1月25日、2月22日、3月22日）\n時間\n午前9時～午後5時",
+    "fromHM": "09:00",
+    "fromYMD": null,
+    "toHM": "17:00",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "あいとぴあセンター"
+  },
+  "institutionName": {
+    "canonicalName": "狛江市の妊娠・出産に関する相談",
+    "shortName": "ゆりかご狛江"
+  },
+  "localGovernmentLink": {
+    "title": "ゆりかご狛江",
+    "uri": "https://www.city.komae.tokyo.jp/index.cfm/43,100444,330,html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "狛江市"
+  },
+  "procedureCounter": "子ども家庭部　子ども家庭課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "予約制",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "オンライン妊婦面談",
+      "uri": "https://www.city.komae.tokyo.jp/index.cfm/43"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ご妊娠中の方を対象とした面談事業です。赤ちゃんが生まれると楽しいことはたくさん！ですが、育児で忙しい毎日がやってきます。\n妊娠中の今、保健師と話をし、赤ちゃんを迎える準備を始めませんか。",
+  "support": {
+    "description": "妊娠・出産・育児に関する相談、子育て支援サービスや担当窓口のご案内\nゆりかご狛江（妊婦面談）をご利用の方に、出産応援給付金、育児パッケージ（こども商品券）をお渡ししています。",
+    "materiallySupport": "妊娠・出産・育児に関する相談、子育て支援サービスや担当窓口のご案内",
+    "monetarySupport": "出産応援給付金、育児パッケージ（こども商品券）をお渡ししています。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "狛江市内にお住いの妊婦の方"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

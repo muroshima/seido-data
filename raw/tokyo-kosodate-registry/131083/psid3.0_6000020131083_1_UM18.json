@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131083;江東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部 保健予防課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131083",
+    "psid": "psid3.0+6000020131083+1+UM18"
+  },
+  "belongings": "1.医療費助成申請書\n2.診断書（申請日前3か月以内に発行されたもの。）\n3.世帯調書\n4.所得税額証明書等\n5.被保険者証の写し",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊娠高血圧症候群等医療費助成\n対象者\n下記の病気にかかっている方で、医療機関に入院して治療を受ける必要があり、次のいずれかに該当する方が対象です。\n\n1.前年分の所得税額が30,000円以下の世帯に属する方\n2.1以外の方で、入院期間が26日以上の方\n対象となる病気\n妊娠により入院医療を必要とする次の疾病およびその続発症が対象です。症状により、対象とならない場合もあります。\n\n1.妊娠高血圧症候群およびその関連疾患\n2.糖尿病\n3.貧血\n4.産科出血\n5.心疾患\n手続方法\nお住まいの地区を担当する保健相談所に申請します。（下記の関連ページをご覧下さい）\n有効期間は入院見込期間ですが、手続きが遅れた場合は医療費の助成が受けられないことがありますので、ご注意ください。\n\n必要書類（1から3の書類は保健相談所に置いてあります。）\n1.医療費助成申請書\n2.診断書（申請日前3か月以内に発行されたもの。）\n3.世帯調書\n4.所得税額証明書等\n5.被保険者証の写し\n寡婦（夫）控除のみなし適用を申請する場合は、必要書類等を下記の問合せ先へお尋ねください。\n\n公費負担額\n医療保険を使って入院治療した場合の自己負担額が助成されます。（ただし、入院時食事療養費の標準負担額は、自己負担となります。）\n\n問合せ先\nお住いの地域を担当する保健相談所（下記の関連ページをご覧ください。）\n\n関連ページ\n保健相談所担当地域一覧;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊娠高血圧症候群（妊娠中毒症）に関する助成",
+    "shortName": "妊娠高血圧症候群等医療費助成"
+  },
+  "localGovernmentLink": {
+    "title": "妊娠高血圧症候群等医療費助成",
+    "uri": "https://www.city.koto.lg.jp/260501/kodomo/ninshinshussan/ninshin/6886.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "江東区"
+  },
+  "procedureCounter": "お住まいの地区を担当する保健相談所",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "お住まいの地区を担当する保健相談所に申請します。（下記の関連ページをご覧下さい）\n有効期間は入院見込期間ですが、手続きが遅れた場合は医療費の助成が受けられないことがありますので、ご注意ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "妊娠高血圧症候群等医療費助成実施要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "保健相談所担当地域一覧",
+      "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠高血圧症候群（妊娠中毒症）などにより、7日以上入院が必要な妊産婦の方を対象に入院医療費を助成します。",
+  "support": {
+    "description": "医療保険を使って入院治療した場合の自己負担額が助成されます。（ただし、入院時食事療養費の標準負担額は、自己負担となります。）",
+    "materiallySupport": null,
+    "monetarySupport": "医療保険を使って入院治療した場合の自己負担額が助成されます。（ただし、入院時食事療養費の標準負担額は、自己負担となります。）"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "1.前年分の所得税額が30,000円以下の世帯に属する方\n2.1以外の方で、入院期間が26日以上の方\n対象となる病気\n妊娠により入院医療を必要とする次の疾病およびその続発症が対象です。症状により、対象とならない場合もあります。\n\n１.妊娠高血圧症候群およびその関連疾患\n2.糖尿病\n3.貧血\n4.産科出血\n5.心疾患"
+  },
+  "updateDate": "2021-09-21",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

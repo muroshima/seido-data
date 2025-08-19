@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131059;文京区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子育て支援課児童給付係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131059",
+    "psid": "psid3.0+6000020131059+2+UM23"
+  },
+  "belongings": "支給申請書\n領収書原本\n朱肉をつけるタイプの印鑑（シャチハタ等の浸透印は不可）\n振込先金融機関の口座情報\n印鑑及び口座情報は、支給申請書に直接押印及び記入してください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都文京区春日1丁目16番21号\n文京シビックセンター5階南側",
+    "contactComment": "ファクス番号：03-5803-1345",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部子育て支援課児童給付係",
+    "contactPhone": "03-5803-1288",
+    "contactUrl": "https://logoform.jp/form/6KSu/553764",
+    "zipCode": "1128555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "医療機関等の窓口でいったん自己負担分をお支払いになった場合、後日「支給申請」をしてください。（郵送可）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児医療費（子ども医療費）の助成",
+    "shortName": "子ども医療費助成"
+  },
+  "localGovernmentLink": {
+    "title": "子ども医療費助成",
+    "uri": "https://www.city.bunkyo.lg.jp/b022/p001459/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "文京区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "以下の事由等により医療機関等の窓口でいったん自己負担分をお支払いになった場合、後日「支給申請」をしてください。（郵送可）\n\n医療証交付前に保険診療を受けた場合\n東京都外の医療機関等で保険診療を受けた場合\n医療機関等に医療証を持参しないで保険診療を受けた場合\n東京都以外の国民健康保険組合に加入している場合\n（東京都以外の国民健康保険組合（例：各県の医師国民健康保険組合、歯科医師国民健康保険組合など、保険証の保険者番号が「13」以外から始まる国民健康保険組合）に加入されている場合は、医療機関等の窓口で子ども医療証を使用することができません。\n医療機関等の窓口では健康保険証のみをご提示いただき、いったん自己負担額（医療費総額の2割もしくは3割）をお支払ください。上述の「医療証交付前に保険診療を受けたときは」と同様に、「支給申請」の手続きをいただければ、領収証にもとづいて自己負担分の還付を行います。）\n\n健康保険証ができる前に医療機関等にかかったり、治療用眼鏡や補装具を作った場合は、いったん10割を医療機関等の窓口にてお支払いただくことになります。子ども医療証対象分を助成するためには、先に保険診療費(総医療費の7割または8割)の支給が決定している必要があります。\n\n領収書のコピーをお手元に保管のうえ、加入健康保険に領収書原本を添えて請求してください。請求についての詳細は加入健康保険にお問い合わせください。後日、加入健康保険から発行される支給決定通知書と領収書のコピーで、「支給申請」をしてください。（文京区国民健康保険加入の場合、支給決定通知書と領収書のコピーは不要です。）\n\n手続きの概要については、下記ファイルをご参照ください。\n\n保険診療分の医療費を10割支払った場合の手続きについて（PDF：89KB）;https://www.city.bunkyo.lg.jp/documents/1462/juuwari_1.pdf",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "条例第5条、条例第6条2項、規則第8条",
+    "regulationName": "文京区子どもの医療費の助成に関する条例、条例施行規則"
+  },
+  "relatedLink": [
+    {
+      "title": "保険診療分の医療費を10割支払った場合の手続きについて（PDF：89KB）",
+      "uri": "https://www.city.bunkyo.lg.jp/documents/1462/juuwari_1.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子どもの保健対策を充実し、子育て世帯の経済的負担を軽減するため、お子さんが病気やけがなどにより健康保険を使って医療機関で受診した場合、保険診療の自己負担分（2割または3割）の一部を助成しています。",
+  "support": {
+    "description": "次の場合は、子ども医療証の取り扱いができません。医療機関等の窓口でいったん自己負担分をお支払いになり、後日「支給申請」をしてください。（郵送可）\n\n医療証交付前に保険診療を受けた場合\n東京都外の医療機関等で保険診療を受けた場合\n医療機関等に医療証を持参しないで保険診療を受けた場合",
+    "materiallySupport": null,
+    "monetarySupport": "次の場合は、子ども医療証の取り扱いができません。医療機関等の窓口でいったん自己負担分をお支払いになり、後日「支給申請」をしてください。（郵送可）\n\n医療証交付前に保険診療を受けた場合\n東京都外の医療機関等で保険診療を受けた場合\n医療機関等に医療証を持参しないで保険診療を受けた場合"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-05-13",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健予防課感染症対策係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+4+UM55"
+  },
+  "belongings": "予防接種予診票、母子健康手帳ほか",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区青戸4-15-14　健康プラザかつしか内",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "葛飾区予防接種コールセンター",
+    "contactPhone": "03-4446-3534",
+    "contactUrl": null,
+    "zipCode": "1250062"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "任意予防接種",
+    "shortName": "水痘（水ぼうそう）任意予防接種の費用助成"
+  },
+  "localGovernmentLink": {
+    "title": "水痘（水ぼうそう）任意予防接種の費用助成",
+    "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001800/1033030.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "接種希望の方は、予診票の発行手続きをお願いします。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "お子さんの予防接種に保護者以外の方が同伴する場合",
+      "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001800/1002038.html"
+    },
+    {
+      "title": "葛飾区で実施している子どもの予防接種",
+      "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001800/1002033.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。葛飾区では、MR、おたふくかぜ、水痘（水ぼうそう）、インフルエンザ、男性向けHPV（ヒトパピローマウイルス）の任意予防接種に対して、接種費用を助成しています。接種するかどうかについては、かかりつけ医とご相談のうえ、保護者の判断により決めてください。",
+  "support": {
+    "description": "接種費用と同額を助成（無料）",
+    "materiallySupport": null,
+    "monetarySupport": "接種費用と同額を助成（無料）"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 6,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "法定接種期間に水痘ワクチンを2回受けていない、3歳から就学前の6歳の区民\nただし、以下に該当する場合は、対象とはなりません。\n（1）既に水痘（水ぼうそう）にかかったことがある方\n（2）既に水痘（水ぼうそう）ワクチンを2回接種された方"
+  },
+  "updateDate": "2024-04-12",
+  "useConsiderationFlag": false,
+  "utilization": "予防接種予診票\n接種をご希望の方は、下記までご連絡ください。予防接種予診票を送付します。\n【予防接種予診票発行受付】03-3602-1312\n接種の際は必ず予診票をご持参ください。\n\n※予防接種予診票は区内実施医療機関でのみ使用できます。\n\n接種方法\n予防接種予診票をご持参のうえ、区内実施医療機関にて予防接種を受けてください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

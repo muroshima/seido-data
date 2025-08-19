@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132047;三鷹市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども政策部 子ども家庭課 母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132047",
+    "psid": "psid3.0+8000020132047+1+UM10"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三鷹市新川六丁目37番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども政策部 子ども家庭課 母子保健係",
+    "contactPhone": "0422-46-3254",
+    "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+    "zipCode": "1810004"
+  },
+  "cost": null,
+  "costConditions": "検査の費用は公費負担となりますが、採血料等は保護者のかたの負担となります。",
+  "description": "東京都では、赤ちやんの病気の早期発見のために、先天性代謝異常等の病気の検査を行っています\n都内で出産されるかた\n先天性代謝異常等検査申し込み書は医療機関に置いてあります。\n保護者のかたは、出産された病院に用意されている申し込み書に記入の上、検査を受けることができます\n検査の費用は公費負担となりますが、採血料等は保護者のかたの負担となります。\n東京都外で出産されるかた\n申し込み方法や費用については、出産予定の医療機関、または各道府県庁等の母子保健事業担当係に直接お問い合わせください\n関連リンク\n東京都福祉局　先天性代謝異常等検査（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/shussan/taisyaijou.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "先天性代謝異常等検査",
+    "shortName": "先天性代謝異常の健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "先天性代謝異常の健康診査",
+    "uri": "https://www.city.mitaka.lg.jp/c_service/001/001048.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-12",
+    "updater": "三鷹市"
+  },
+  "procedureCounter": "都内で出産されるかた\n医療機関\n東京都外で出産されるかた\n申し込み方法や費用については、出産予定の医療機関、または各道府県庁等の母子保健事業担当係に直接お問い合わせください",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "都内で出産されるかた\n先天性代謝異常等検査申し込み書は医療機関に置いてあります。\n保護者のかたは、出産された病院に用意されている申し込み書に記入の上、検査を受けることができます\n検査の費用は公費負担となりますが、採血料等は保護者のかたの負担となります。\n東京都外で出産されるかた\n申し込み方法や費用については、出産予定の医療機関、または各道府県庁等の母子保健事業担当係に直接お問い合わせください\n関連リンク\n東京都福祉局　先天性代謝異常等検査（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/shussan/taisyaijou.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "保護者のかた",
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "東京都福祉局　先天性代謝異常等検査（外部リンク）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/shussan/taisyaijou.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "東京都ではフェニルケトン尿症等の先天性代謝異常や先天性甲状腺機能低下症（クレチン症）などの内分泌疾患を早期に発見するために、先天性代謝異常等検査を行っています。\nこれらの疾患を放っておくと、生まれた時は健康に見えても、身体障害や知的障害が発生したり、時には生命の危険にさらされたりする場合もあります。しかし、疾患を早期に発見し、適切な治療を続けることで、障害などの発生を未然に防ぐことができます。",
+  "support": {
+    "description": "検査の費用は公費負担となります",
+    "materiallySupport": null,
+    "monetarySupport": "検査の費用は公費負担となります"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "保護者のかた"
+  },
+  "updateDate": "2023-07-28",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

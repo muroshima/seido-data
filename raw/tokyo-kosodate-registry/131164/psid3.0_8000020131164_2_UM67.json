@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康推進課医療費助成グループ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+2+UM67"
+  },
+  "belongings": "下記1.2.3の書類は、池袋保健所健康推進課または長崎健康相談所に置いてあります。\n\n1.自立支援医療費（育成医療）支給認定申請書（所定の様式）\n2.自立支援医療（育成医療）意見書（所定の書式）\n3.自立支援医療（育成医療）世帯調書（所定の書式）\n4.住民税課税証明書等\n5.健康保険証の写し\n6.その他申請の要件により必要な書類があります。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康推進課医療費助成グループ",
+    "contactPhone": "03-3987-4172",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "身体に障害のある18歳未満のお子さんで、手術などにより確実な治療効果が期待できるかたに、医療の給付をします。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の障がいのあるお子さんなどへの金銭的支援",
+    "shortName": "自立支援医療（育成医療）"
+  },
+  "localGovernmentLink": {
+    "title": "身体に障害のあるお子さんに自立支援医療（育成医療）",
+    "uri": "https://www.city.toshima.lg.jp/489/kenko/kenko/iryojose/001426.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": "健康推進課　医療費助成グループ（池袋保健所内）\n電話番号03-3987-4172\n\n長崎健康相談所　管理・事業グループ\n電話番号03-3957-1191",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "区役所4階の池袋保健所出張窓口・池袋保健所は、ご申請されるかたが多く、時間帯によっては多くの待ち時間が生じております。\n\n特に、月曜日や祝日明けの開所日及び夕方の時間帯などは、長時間お待たせする場合がありますので、時間に余裕をもってお越しください。\n\n長崎健康相談所（長崎3-6-24 1階）でも受け付け可能です。お近くの方はご利用ください。\n\n休日窓口は開設しておりません。\n\n郵送での申請を希望する場合は、池袋保健所または長崎健康相談所に、電話で申請方法をご相談ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "身体に障害のある18歳未満のお子さんで、手術などにより確実な治療効果が期待できるかたに、医療の給付をします。",
+  "support": {
+    "description": "認定された疾病の治療について、健康保険の適用となる医療費の一部を助成します。\n\nただし、入院時の食事療養費、健康保険が適用とならない治療や投薬、診断書料、差額ベッド代等は助成対象外となります。\n\n原則として、医療費の一割が自己負担となります。世帯の住民税額等により月額自己負担上限額が設定されています。",
+    "materiallySupport": null,
+    "monetarySupport": "認定された疾病の治療について、健康保険の適用となる医療費の一部を助成します。\n\nただし、入院時の食事療養費、健康保険が適用とならない治療や投薬、診断書料、差額ベッド代等は助成対象外となります。\n\n原則として、医療費の一割が自己負担となります。世帯の住民税額等により月額自己負担上限額が設定されています。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次のすべての要件に該当するかたが対象となります。\n\n1.保護者が豊島区に住所を有し、対象児童が18歳未満であること\n2.身体に障害があるかた、またはこれを放置すると将来において障害を残すと認められるかた\n3.手術等により確実な治療の効果期待できること\n4.指定された育成医療機関で治療していること\n5.世帯の特別区民税の所得割額が23万5千円未満であること\nただし、「重度かつ継続」に該当する場合は、世帯の特別区民税所得割額が23万5千円以上でも公費負担の対象になります。\nなお、この場合の世帯とは、「対象児童と同じ健康保険に加入しているかた」が単位となります。\n\n経過的特例対象者の方へお知らせ\n令和6年3月31日までとされていた経過的特例は、令和6年3月29日に公布された障害者総合支援法施行令の改正により、令和9年3月31日まで延長されました。\n対象者のかたは、下記のお知らせをご確認ください。\n\n【経過的特例対象者】\n区市町村民税額23万5千円未満(中間所得層)に該当する方。\n\n・お知らせ（経過的特例について）（PDF：181KB）;chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.city.toshima.lg.jp/489/kenko/kenko/iryojose/documents/99_r6keikatokurei_tokyo.pdf\n\n対象となる障害・疾病\n対象となる障害や疾病は次のとおりです。\n\n1.肢体不自由\n2.視覚障害\n3.聴覚・平衡機能障害\n4.音声・言語・そしゃく機能障害\n5.心臓機能障害\n6.腎臓機能障害\n7.小腸機能障害\n8.肝臓機能障害\n9.その他の内臓障害\n10.免疫の機能障害"
+  },
+  "updateDate": "2024-05-31",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

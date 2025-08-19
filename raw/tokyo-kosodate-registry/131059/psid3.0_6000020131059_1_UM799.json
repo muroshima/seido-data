@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "131059;文京区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子ども家庭支援センター家庭支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131059",
+    "psid": "psid3.0+6000020131059+1+UM799"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都文京区春日1丁目16番21号 文京シビックセンター5階南側",
+    "contactComment": "FAX：03-5803-1345",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部子ども家庭支援センター家庭支援係",
+    "contactPhone": "03-5803-1894",
+    "contactUrl": null,
+    "zipCode": "1128555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子どもと家庭の総合相談、子ども応援サポート室、子どもの最善の利益を守る法律専門相談、児童虐待防止啓発活動、ヤングケアラー支援、親子ひろば事業（ぴよぴよひろば）、ショートステイ・トワイライトステイ事業、子育て講座・講演会、離婚等に伴う養育費確保支援事業　等\n主な担当コンテンツ\n○子どもと家庭の総合相談;https://www.city.bunkyo.lg.jp/b024/p001832.html\n○子ども応援サポート室;https://www.city.bunkyo.lg.jp/b024/p001834.html\n○子どもの最善の利益を守る法律専門相談;https://www.city.bunkyo.lg.jp/b024/p001833.html\n○児童虐待防止について;https://www.city.bunkyo.lg.jp/b024/p001829.html\n○ぴよぴよひろば（親子ひろば）;https://www.city.bunkyo.lg.jp/b024/p001441/index.html\n○ショートステイ・トワイライトステイ事業;https://www.city.bunkyo.lg.jp/b024/p001695.html\n\n○子育て講座・講演会;https://www.city.bunkyo.lg.jp/b024/p001848.html\n○離婚等に伴う養育費確保支援事業;https://www.city.bunkyo.lg.jp/b024/p001835.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "こども家庭センター",
+    "shortName": "子ども家庭支援センター"
+  },
+  "localGovernmentLink": {
+    "title": "子ども家庭支援センター",
+    "uri": "https://www.city.bunkyo.lg.jp/b024/p005336/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/03/12",
+    "updater": "文京区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "文京区の【子ども家庭支援センター】では、全ての妊産婦・子育て家庭に対する相談等への対応、サポートプランに基づく妊産婦の健康やこどもの養育に関する支援などを行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2025/04/01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

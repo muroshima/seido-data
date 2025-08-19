@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131130;渋谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "地域保健課地域医療係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020131130",
+    "psid": "psid3.0+9000020131130+2+UM66"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "FAX03-5458-4937",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "地域保健課地域医療係",
+    "contactPhone": "03-3463-2433",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "療育医療による医療費助成\n結核にかかった18歳未満の児童で、医師が長期入院の必要を認めた場合に入院時の医療費などを助成します。\n\n更新日\n\n2023年3月17日\n\n対象者\n助成内容\n申請書類の配布・提出先\n対象者\n次の2つに該当していること\n\n区指定医療機関において、医師が結核による長期入院の必要を認めていること\n保護者が渋谷区に住民登録がある18歳未満の児童\n助成内容\n入院時の保険内診療の自己負担額\n対象者のみ、療養に必要な日用品や学用品の一部を支給\n（注）ご家族の収入に応じて費用の一部負担あり\n\n申請書類の配布・提出先\n渋谷区保健所地域保健課地域医療係　区役所本庁舎7階",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の医療費助成制度",
+    "shortName": "療育医療による医療費助成"
+  },
+  "localGovernmentLink": {
+    "title": "療育医療による医療費助成",
+    "uri": "https://www.city.shibuya.tokyo.jp/kodomo/kodomo-teate-josei/iryo-josei/ryoiku_j.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "渋谷区"
+  },
+  "procedureCounter": "渋谷区保健所地域保健課地域医療係　区役所本庁舎7階",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "結核にかかった18歳未満の児童で、医師が長期入院の必要を認めた場合に入院時の医療費などを助成します。",
+  "support": {
+    "description": "入院時の保険内診療の自己負担額\n対象者のみ、療養に必要な日用品や学用品の一部を支給\n（注）ご家族の収入に応じて費用の一部負担あり",
+    "materiallySupport": "入院時に必要な日用品や学用品",
+    "monetarySupport": "入院時の保険内診療の自己負担額\n対象者のみ、療養に必要な日用品や学用品の一部を支給\n（注）ご家族の収入に応じて費用の一部負担あり"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "18歳未満の児童",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次の2つに該当していること\n\n区指定医療機関において、医師が結核による長期入院の必要を認めていること\n保護者が渋谷区に住民登録がある18歳未満の児童"
+  },
+  "updateDate": "2023-03-17",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

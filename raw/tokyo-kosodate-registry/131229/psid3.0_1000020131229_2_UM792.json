@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部健康推進課　歯科保健担当係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+2+UM792"
+  },
+  "belongings": "◆親子健康手帳（母子健康手帳）\n◆ご案内用紙（アンケートを記入してご持参ください。）\n◆お子さんの歯ブラシ（普段使用しているものがあれば）\n◆バスタオル（歯科健診時にお子さんの背中に敷きます。）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区青戸4-15-14　健康プラザかつしか内",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部健康推進課　歯科保健担当係",
+    "contactPhone": "03-3602-1268",
+    "contactUrl": null,
+    "zipCode": "1250062"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "◆各保健センター（青戸・新小岩・金町・水元）\n◆南綾瀬地区センター\n◆子ども未来プラザ鎌倉\n◆子ども未来プラザ東四つ木"
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児の歯の健康診査（1歳児歯科健康診査）",
+    "shortName": "ハッピーバースデイすくすく歯科健診（1歳児 歯科健診）"
+  },
+  "localGovernmentLink": {
+    "title": "ハッピーバースデイすくすく歯科健診（1歳児 歯科健診）",
+    "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001804/1023756.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "歯科保健",
+      "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1019946/index.html"
+    },
+    {
+      "title": "2.乳幼児期の口の健康",
+      "uri": "https://www.city.katsushika.lg.jp/kenkou/1030183/1001793/1001896.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "乳幼児期は「かむ・飲み込む」などの口の機能の基礎が作られる重要な時期です。\n歯が生え始め離乳食も進んでくるこの時期に、歯科健診、歯科保健指導を行いむし歯予防などのポイントをアドバイスし子どもの健やかな歯と口を育てます。また、希望者には育児相談を行い、育児不安などを解消します。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": 5
+    },
+    "targetPersons": "1歳児"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "対象者全員にご案内を郵送します。（発送：1歳の誕生月）\n詳しくは、ご案内をご確認ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

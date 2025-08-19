@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "133825;御蔵島村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": null,
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "4000020133825",
+    "psid": "psid3.0+4000020133825+1+UM71"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都御蔵島村字入かねが沢",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "総務課民生係",
+    "contactPhone": "04994-8-2121",
+    "contactUrl": null,
+    "zipCode": "1001301"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子どものための教育・保育給付認定（1号・2号・3号）",
+    "shortName": "子どものための教育・保育給付認定（1号・2号・3号）"
+  },
+  "localGovernmentLink": {
+    "title": null,
+    "uri": "http://mikurasima.jp/"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "御蔵島村"
+  },
+  "procedureCounter": "御蔵島村役場",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子ども・子育て支援新制度による給付を受ける幼稚園や認可保育園、認定こども園、地域型保育事業（小規模保育・家庭的保育・居宅訪問型保育・事業所内保育）を利用するには、お子さんの年齢や保育の必要性の有無、保育の必要量に応じた認定を受ける必要があります。\nまた、企業主導型保育（地域枠）については、お住まいの自治体から教育・保育給付認定を受けることで、「幼児教育・保育の無償化」による助成を受けることができます。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

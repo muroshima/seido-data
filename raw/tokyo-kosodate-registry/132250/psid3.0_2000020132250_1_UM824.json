@@ -1,0 +1,130 @@
+{
+  "area": {
+    "areaCode": "132250;稲城市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "稲城市　福祉部　障害福祉課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132250",
+    "psid": "psid3.0+2000020132250+1+UM824"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "稲城市東長沼2111番地（市役所2階南側）",
+    "contactComment": "FAX：042-378-5677",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "稲城市　福祉部　障害福祉課",
+    "contactPhone": "042-378-2111",
+    "contactUrl": "https://www.city.inagi.tokyo.jp/kenko/syougaifukushi/1003530/1003531.html",
+    "zipCode": "2068601"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "精神疾患のため通院による継続的な治療を受ける場合の医療費を助成する制度です。自己負担は原則1割となります。ただし、本人の収入、保険世帯の所得、疾患等に応じて月額自己負担上限額が設定されたり、自己負担額全額が免除になることもあります。\n精神通院医療にかかる往診・デイケア・訪問看護・てんかんの診療及び薬代等も対象となります。入院にかかる医療費は対象外です。\nその他\n・申請に基づき東京都で審査を行い、認定された場合は自立支援医療（精神通院）受給者証が交付されます。\n・受給者証が交付されるまで3ヶ月程度かかります。\n・受給者証に記載された指定医療機関のみでご利用可能です。\n・病状及び治療方針の変更がない場合、自立支援医療診断書の提出は2年に1度となります。ただし、有効期間を過ぎてしまってからの申請は再開申請となり、診断書の提出等が必要となります。\n・自立支援医療（精神通院）と精神障害者保健福祉手帳を同時に申請するときは、手帳用診断書のみで申請が可能な場合があります。\n・更新、医療機関の変更、健康保険の変更、住所の変更、氏名の変更、紛失や破損による再交付等は手続きが必要です。\n・手帳用の診断書に基づいて交付された精神障害者保健福祉手帳をお持ちの方は、診断書の代わりに手帳の写しを添付して申請できる場合があります。詳しくはお問い合わせください。\n精神障害者保健福祉手帳について;https://www.city.inagi.tokyo.jp/smph/kenko/syougaifukushi/shyougaisya_tetyou/seishinsyougaisyahokenfukushitetyou.html",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "申請に必要な書類の送付を希望する方は下記フォームより申し込みいただけます。申し込みからお手元に届くまで2週間程度かかりますので、お急ぎの方は障害福祉課窓口まで直接お越しください。\n申請書類申し込みフォーム",
+      "uri": "https://www.city.inagi.tokyo.jp/kenko/syougaifukushi/1003530/1003531.html"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度（精神通院医療）",
+    "shortName": "自立支援医療（精神通院）"
+  },
+  "localGovernmentLink": {
+    "title": "自立支援医療（精神通院）",
+    "uri": "https://www.city.inagi.tokyo.jp/kenko/syougaifukushi/1003530/1003531.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/21",
+    "updater": "稲城市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "下記のものを持って障害福祉課窓口もしくは郵送にて申請してください。\n（1）申請書\n（2）診断書（東京都立中部総合精神保健福祉センターホームページからもダウンロードできます。）\n注釈：医師が作成後3か月以内のもの。\n注釈：2年に1度提出のため、更新時は不要な場合もあり。\n（3）下記いずれかの保険情報確認書類（稲城市国民健康保険、後期高齢者医療制度の方は不要です。）\n1．健康保険証のコピー\n2．医療保険者から交付された「資格確認書」のコピー\n3．マイナポータルから確認できる「資格情報画面」のコピー\n注釈：受診者ご本人が国民健康保険組合（全国土木建築国民健康保険組合、東京理容国民健康保険組合\\等）に加入の場合、受診者と同じ保険に加入している世帯全員分の保険情報確認書類が必要です。\n（4）世帯所得調書兼同意書\n（5）自立支援医療（精神通院）受給者証（更新の場合）\n（6）課税（非課税）証明書（転入の方は必要な場合があります。事前にお問い合わせください。）\n（7）医療機関・薬局の名称や所在地が確認できるもの（診察券や薬の袋等）\n（8）マイナンバーに関する書類\n（9）返信用封筒（郵送申請の場合のみ。110円切手を貼付）\n東京都立中部総合精神保健福祉センター申請手続きについて（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/shisetsu/jigyosyo/chusou/jiritsushieniryo/jiritsu_tomin\n東京都立中部総合精神保健福祉センター診断書について（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/shisetsu/jigyosyo/chusou/jiritsushieniryo/jiritsu_iryokikan",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "精神疾患のため通院治療を受けてる方に医療費の一部を助成する制度です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024/11/11",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "更新に関する注意点\n有効期間は原則1年です。\n更新申請は有効期間満了の3ヶ月前より手続きいただけます。\n更新のお知らせを毎月稲城市メール配信サービスにて行っております。\n稲城市メール配信サービス登録方法;https://www.city.inagi.tokyo.jp/smph/haishin/haishin.html",
+    "fromHM": null,
+    "toHM": null
+  }
+}

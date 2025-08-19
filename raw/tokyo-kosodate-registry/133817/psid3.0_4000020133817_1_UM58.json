@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "133817;三宅村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉健康課 福祉係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "4000020133817",
+    "psid": "psid3.0+4000020133817+1+UM58"
+  },
+  "belongings": "印鑑",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三宅島三宅村阿古497",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "三宅村役場臨時庁舎 福祉健康課 福祉係",
+    "contactPhone": "04994-5-0902",
+    "contactUrl": null,
+    "zipCode": "1001212"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子育て応援手当\n三宅村では出産から子育てまで切れ目なく継続的に支援する「子育て応援手当」を支給いたします。手当は、出産を支援する「出産応援手当」、小学校・中学校・高等学校入学時に子育てを支援する「入学応援手当」の2つの手当があります。いずれの手当も平成31年4月1日以降に出生したお子さんが対象となります。\n\n※申請する方の世帯に、村税、使用料等に滞納がある方がいる場合は支給できません。\n\n□出産応援手当\n\n新生児の保護者で、出産日前及び出産日以降を通じて1年以上引き続き三宅村の住民基本台帳に登録され、現に居住している方が対象となります。\n\n・手当の額　80,000円\n\n□入学応援手当\n\n村内の小学校・中学校・高等学校のそれぞれ1学年に入学する児童及び生徒の保護者で、入学時の1年以上前から引き続き三宅村の住民基本台帳に登録され、現に居住されている方が対象となります。\n\n・手当の額\n\n|種別|居住期間<br>（住民となった年数）|支給額|\n|:----|:----|:----|\n|出産応援手当|出産日及び出産日以降を通じて1年以上|80,000円|\n|入学応援手当<br>（小学校・中学校・高等学校）|1年以上2年未満|10,000円|\n|^|2年以上3年未満|20,000円|\n|^|3年以上5年未満|30,000円|\n|^|5年以上|50,000円|\n□申請手続き\n\n次の書類等を用意し、三宅村役場窓口で手続きをしてください。\n\n1　申請書（出産応援手当又は入学応援手当）\n\n2　印鑑",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の育児に関する金銭的支援",
+    "shortName": "子育て応援手当"
+  },
+  "localGovernmentLink": {
+    "title": "赤ちゃんが生まれた方",
+    "uri": "https://www.vill.miyake.tokyo.jp/kurashi/seikatsu_kankyou/ikuji_kyouiku/ninpu_nyuuyouji/akachan.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-19",
+    "updater": "三宅村"
+  },
+  "procedureCounter": "三宅村役場窓口",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請手続き\n\n次の書類等を用意し、三宅村役場窓口で手続きをしてください。\n\n1　申請書（出産応援手当又は入学応援手当）\n\n2　印鑑",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": "平成31年4月1日以降に出生したお子さんが対象",
+  "summary": "三宅村では出産から子育てまで切れ目なく継続的に支援する「子育て応援手当」を支給いたします。手当は、出産を支援する「出産応援手当」、小学校・中学校・高等学校入学時に子育てを支援する「入学応援手当」の2つの手当があります。",
+  "support": {
+    "description": "・手当の額\n\n|種別|居住期間<br>（住民となった年数）|支給額|\n|:----|:----|:----|\n|出産応援手当|出産日及び出産日以降を通じて1年以上|80,000円|\n|入学応援手当<br>（小学校・中学校・高等学校）|1年以上2年未満|10,000円|\n|^|2年以上3年未満|20,000円|\n|^|3年以上5年未満|30,000円|\n|^|5年以上|50,000円|\n",
+    "materiallySupport": null,
+    "monetarySupport": "・手当の額\n\n|種別|居住期間<br>（住民となった年数）|支給額|\n|:----|:----|:----|\n|出産応援手当|出産日及び出産日以降を通じて1年以上|80,000円|\n|入学応援手当<br>（小学校・中学校・高等学校）|1年以上2年未満|10,000円|\n|^|2年以上3年未満|20,000円|\n|^|3年以上5年未満|30,000円|\n|^|5年以上|50,000円|\n"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "村内の小学校・中学校・高等学校のそれぞれ1学年に入学する児童及び生徒の保護者",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "手当は、出産を支援する「出産応援手当」、小学校・中学校・高等学校入学時に子育てを支援する「入学応援手当」の2つの手当があります。いずれの手当も平成31年4月1日以降に出生したお子さんが対象となります。\n\n※申請する方の世帯に、村税、使用料等に滞納がある方がいる場合は支給できません。\n\n□入学応援手当\n\n村内の小学校・中学校・高等学校のそれぞれ1学年に入学する児童及び生徒の保護者で、入学時の1年以上前から引き続き三宅村の住民基本台帳に登録され、現に居住されている方が対象となります。"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

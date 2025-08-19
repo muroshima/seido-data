@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131067;台東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "台東保健所　保健予防課予防担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131067",
+    "psid": "psid3.0+6000020131067+3+UM55"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "台東保健所　保健予防課予防担当",
+    "contactPhone": "03-3847-9471",
+    "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080600",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "小児インフルエンザ予防接種は、任意予防接種であり、義務付けはありません。\n接種を希望される方は、医師とよく相談のうえ、接種してください。\n\n一部助成について\n1回2,300円助成\n\n接種の方法\n生後6か月以上中学校3年生まで（令和5年度12月31日時点）\n13歳未満2回（2～4週間間隔）\n13歳以上1回\n\n対象の方には9月末に予診票を送付いたしました。\n予診票の紛失、再発行については下記までお問い合わせください。\n\n接種時期\n令和5年10月1日～令和6年2月29日\n\nワクチンの同時接種について\n　複数の予防接種を同時に同一の者に対して行う同時接種は、医師がその必要性を認め保護者が同意した場合に実施できます。なお、インフルエンザワクチンと新型コロナワクチンについては、接種間隔に関する規定が変更され、接種間隔の制限が無くなり、同時に接種することが可能になりました。\n\n接種場所\n接種できる医療機関は、「令和5年度台東区小児インフルエンザ予防接種実施協力医療機関一覧」でご確認ください。\n医療機関によっては予約が必要な場合もございますので、あらかじめお問い合わせください。\n令和5年度台東区小児インフルエンザ予防接種実施協力医療機関一覧（令和5年12月5日時点）（PDF：310KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/ninni/shouni_influenza.files/influ_junior__20231205.pdf\n\n※台東区独自の制度ですので、区外の医療機関では接種できません。\n\nお問い合わせ\n台東保健所　保健予防課予防担当\n\n電話：03-3847-9471\nファクス：03-3847-9424\n\nよくある質問\nメールによるお問い合わせ\n電子申請\n※台東区に転入された方や紛失等により予防接種予診票がお手元にない方は、予診票の交付受付を実施します。\n\n予防接種予診票の交付受付;https://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?govCode=13106&procCode=11002598",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "予防接種予診票の交付受付",
+      "uri": "https://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?govCode=13106&procCode=11002598"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "令和6年10月1日～令和7年2月28日",
+    "fromHM": null,
+    "fromYMD": "2024-10-01",
+    "toHM": null,
+    "toYMD": "2025-02-28"
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "任意予防接種",
+    "shortName": "小児インフルエンザワクチン（一部助成しています）"
+  },
+  "localGovernmentLink": {
+    "title": "小児インフルエンザワクチン（一部助成しています）",
+    "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/ninni/shouni_influenza.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "台東区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "接種できる医療機関は、「令和5年度台東区小児インフルエンザ予防接種実施協力医療機関一覧」でご確認ください。\n医療機関によっては予約が必要な場合もございますので、あらかじめお問い合わせください。\n\n令和5年度台東区小児インフルエンザ予防接種実施協力医療機関一覧（令和5年12月5日時点）（PDF：310KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/ninni/shouni_influenza.files/influ_junior__20231205.pdf\n\n※台東区独自の制度ですので、区外の医療機関では接種できません。",
+  "procedurePeriod": {
+    "conditions": "接種時期\n令和6年10月1日～令和7年2月28日",
+    "fromHM": null,
+    "fromYMD": "2024-10-01",
+    "toHM": null,
+    "toYMD": "2025-02-28"
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "小児任意予防接種費助成要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。現在、定期接種以外で小学校就学前のお子さんが接種できるワクチンとしては、おたふくかぜ、インフルエンザなどがあります。\nこのうち台東区では、次の任意予防接種に対して、接種費用を助成しています。接種するかどうかについては、かかりつけ医とご相談のうえ、保護者の判断により決めてください。",
+  "support": {
+    "description": "1回2,300円助成",
+    "materiallySupport": null,
+    "monetarySupport": "2,300円"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後6か月以上中学校3年生まで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 6
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生後6か月以上中学校3年生まで（令和6年度12月31日時点）"
+  },
+  "updateDate": "2023-12-07",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

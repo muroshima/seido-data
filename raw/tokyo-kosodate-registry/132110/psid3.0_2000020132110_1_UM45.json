@@ -1,0 +1,154 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康推進課予防担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+1+UM45"
+  },
+  "belongings": "保険証（マイナ保険証、資格確認書等）,各種医療費受給者証,おくすり手帳",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市学園東町1-19-12　健康センター1階",
+    "contactComment": "FAX：042-346-3705",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康推進課予防担当",
+    "contactPhone": "042-346-3700",
+    "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+    "zipCode": "1870043"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "休日応急診療と救急病院\n緊急時に受診できる医療機関を紹介します。\n\n休日応急診療について\n休日応急診療は小平市健康センター1階で実施しています。\n新型コロナウイルス感染症等の予防のため基本的な感染防止対策を徹底したうえで実施しており、施設の都合上、令和4年12月から当面の間は完全予約制で実施しています。\n・診療科目は内科、小児科となります。\n・予約方法は電話のみとなります。必ず事前に予約の上、来院をお願いします。（電話番号：042-346-3706）\n(注)事前の予約なしに直接来院されても、窓口での受付はできません。\n・受診の際は発熱や風邪症状の有無を問わず、マスクの着用にご協力をお願いします。\n・予約枠の都合上、受診をお断りすることもありますのであらかじめご了承ください。\n・応急診療所では無症状の方に関する検査は行っていません。発熱やのどの痛み等の症状があり医師の診療が必要な方のみとなります。\n・受診当日は診断を迅速に行うため、必要最低限の検査・投薬のみとなります。\n\n休日応急診療　\t日曜日、祝日\t、年末年始\n診療時間　午前9時～午後5時\n予約受付時間　午前8時45分～午後4時30分　電話予約のみ。\n電話予約のみ。\n\n診療場所\n一般社団法人小平市医師会 応急診療所\n(注)小平市医師会ホームページ（外部リンク）;http://www.kodaira-med.or.jp/でもご案内しています。\n\n所在地　小平市学園東町1-19-12　小平市健康センター内\n\n電話番号　042-346-3706\n完全予約制のため必ず事前に電話の上、予約してください。\n受診方法等については、電話でお伝えします。お伝えした内容に従い、受診をお願いします。\n(注)お問い合わせの状況により、電話がつながりにくい場合があります。\n（特に受付開始後1時間程度は電話が混み合います。）\n呼吸困難や強い倦怠感など、命にかかわるような場合は、迷わずに救急車（電話119）を呼んでください。\n発熱、風邪症状で受診される方へ\n・保険証（マイナ保険証、資格確認書等）、各種医療費受給者証、おくすり手帳を忘れずにお持ちください。\n・高校生以下の受診は、保護者の同伴が必要です。\n・PCR検査は実施しておりません。医師の判断により、新型コロナウイルス感染症とインフルエンザを同時に検査できる抗原定性検査等を実施します。\n・診察医の判断により、受診された方を救急病院等へ紹介、転送する場合があります。\n\n＜マイナンバーカードの健康保険証利用について＞\n・応急診療所は、マイナンバーカードを用いて医療情報を取得できる体制を整備しています。\n・受診者ご自身にマイナンバーカードを使用した受付の認証操作をお願いしています。\n・マイナンバーカードの健康保険証利用を通じて正確な情報（薬剤情報、特定健診情報及びその他必要な情報等）を取得、活用するために、マイナンバーカードの健康保険証利用についてご理解とご協力をお願いします。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "小平市学園東町1-19-12　小平市健康センター内",
+    "implementationName": "一般社団法人小平市医師会 応急診療所"
+  },
+  "institutionName": {
+    "canonicalName": "夜間・休日急病診療所",
+    "shortName": "休日応急診療"
+  },
+  "localGovernmentLink": {
+    "title": "休日・準夜応急診療と救急病院",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/017/017073.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025-03-25",
+    "updater": "小平市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "042-346-3706\n\n完全予約制のため必ず事前に電話の上、予約してください。\n受診方法等については、電話でお伝えします。お伝えした内容に従い、受診をお願いします。\n(注)お問い合わせの状況により、電話がつながりにくい場合があります。\n（特に受付開始後1時間程度は電話が混み合います。）\n呼吸困難や強い倦怠感など、命にかかわるような場合は、迷わずに救急車（電話119）を呼んでください。",
+  "procedurePeriod": {
+    "conditions": "||日程|診療時間|予約受付時間|\n|:----|:----|:----|:----|\n|休日応急診療|日曜日、祝日、<br>年末年始|午前9時～<br>午後5時|午前8時45分～<br>午後4時30分<br>電話予約のみ。|\n|準夜応急診療|月曜～日曜日<br>（年中無休）|午後7時30分～<br>午後10時30分|午後7時～<br>午後10時<br>電話予約のみ。|\n\n（注）12月29日から1月3日までの年末年始の診療時間は、午後6時30分から午後10時30分まで",
+    "fromHM": "08:45",
+    "fromYMD": null,
+    "toHM": "16:30",
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "公立昭和病院（外部リンク）",
+      "uri": "https://www.kouritu-showa.jp/"
+    },
+    {
+      "title": "小平市歯科医師会ホームページの当番医の検索ページ（外部リンク）",
+      "uri": "http://www.kodaira-dent.org/emergency.html"
+    },
+    {
+      "title": "小平市医師会ホームページ（外部リンク）",
+      "uri": "http://www.kodaira-med.or.jp/"
+    },
+    {
+      "title": "東京版救急受診ガイドのページ（外部リンク）",
+      "uri": "http://www.tfd.metro.tokyo.jp/hp-kyuuimuka/guide/main/index.html"
+    },
+    {
+      "title": "一橋病院（外部リンク）",
+      "uri": "https://www.hitotsubashi-hp.or.jp/"
+    },
+    {
+      "title": "医療情報ネットのページ（外部リンク）",
+      "uri": "https://www.iryou.teikyouseido.mhlw.go.jp/"
+    },
+    {
+      "title": "公益社団法人日本小児科学会こどもの救急のページ（外部リンク）",
+      "uri": "http://kodomo-qq.jp/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "小平市では、夜間や日曜・祝日、年末年始に、市内の医療機関の協力のもと、当番制で診療を行っています。\nなお、小児（15歳以下）のお子さんの救急の時は、小児科救急当番医をご利用ください。\n「小児科救急」https://www.city.kodaira.tokyo.jp/kurashi/017/017073.html",
+  "support": {
+    "description": "休日応急診療は小平市健康センター1階で実施しています。\n新型コロナウイルス感染症等の予防のため基本的な感染防止対策を徹底したうえで実施しており、施設の都合上、令和4年12月から当面の間は完全予約制で実施しています。\n\n・診療科目は内科、小児科となります。\n・予約方法は電話のみとなります。必ず事前に予約の上、来院をお願いします。\n（電話番号：042-346-3706）\n(注)事前の予約なしに直接来院されても、窓口での受付はできません。\n・受診の際は発熱や風邪症状の有無を問わず、マスクの着用にご協力をお願いします。\n・予約枠の都合上、受診をお断りすることもありますのであらかじめご了承ください。\n・応急診療所では無症状の方に関する検査は行っていません。発熱やのどの痛み等の症状があり医師の診療が必要な方のみとなります。\n・受診当日は診断を迅速に行うため、必要最低限の検査・投薬のみとなります。",
+    "materiallySupport": "休日応急診療は小平市健康センター1階で実施しています。\n新型コロナウイルス感染症等の予防のため基本的な感染防止対策を徹底したうえで実施しており、施設の都合上、令和4年12月から当面の間は完全予約制で実施しています。\n\n・診療科目は内科、小児科となります。\n・予約方法は電話のみとなります。必ず事前に予約の上、来院をお願いします。\n（電話番号：042-346-3706）\n(注)事前の予約なしに直接来院されても、窓口での受付はできません。\n・受診の際は発熱や風邪症状の有無を問わず、マスクの着用にご協力をお願いします。\n・予約枠の都合上、受診をお断りすることもありますのであらかじめご了承ください。\n・応急診療所では無症状の方に関する検査は行っていません。発熱やのどの痛み等の症状があり医師の診療が必要な方のみとなります。\n・受診当日は診断を迅速に行うため、必要最低限の検査・投薬のみとなります。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2025-02-20",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "||日程|診療時間|予約受付時間|\n|:----|:----|:----|:----|\n|休日応急診療|日曜日、祝日、<br>年末年始|午前9時～<br>午後5時|午前8時45分～<br>午後4時30分<br>電話予約のみ。|\n|準夜応急診療|月曜～日曜日<br>（年中無休）|午後7時30分～<br>午後10時30分|午後7時～<br>午後10時<br>電話予約のみ。|\n\n（注）12月29日から1月3日までの年末年始の診療時間は、午後6時30分から午後10時30分まで",
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部相談課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM799"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "江戸川区児童相談所 はあとポート",
+    "contactPhone": "03-5678-1810",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "令和4年6月の児童福祉法等の改正に伴い、令和6年4月以降、各区市町村においては、妊娠期から子育て期まで切れ目のない支援を行う「こども家庭センター」を設置することとされています。\n区では、これまで児童相談所内の児童福祉部門と区内8か所の健康サポートセンターにおける母子保健部門とが連携して、様々な相談に応じて支援を行ってきました。\n令和6年4月からは、これまでの両部門の役割を活かしながら、児童相談所内に新たな係を設けることで両部門の連携を更に促進し、各家庭の状況に応じた切れ目のない支援を行っていきます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "こども家庭センター",
+    "shortName": "江戸川区児童相談所 はあとポート"
+  },
+  "localGovernmentLink": {
+    "title": "児童相談所ってどんなところ？",
+    "uri": "https://www.city.edogawa.tokyo.jp/jiso/donnatokoro.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/17",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "江戸川区児童相談所 はあとポート～江戸川区の子どもは江戸川区で守る～",
+      "uri": "https://youtu.be/0kkKfHLNZTI"
+    },
+    {
+      "title": "オンライン相談予約ページ（令和6年9月9日以降の実施日希望の場合）",
+      "uri": "http://edogawa-yoyaku.livecall.net/"
+    },
+    {
+      "title": "健康サポートセンター所管区域一覧",
+      "uri": "https://www.city.edogawa.tokyo.jp/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/index.html"
+    },
+    {
+      "title": "オンライン相談予約ページ（令和6年9月6日までの実施日希望の場合）",
+      "uri": "http://edogawa-yoyaku.livecall.jp/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "こども家庭センターでは、全ての妊産婦・子育て家庭の相談支援や、個別に支援が必要な妊産婦や子育て家庭へサポートプランに基づく妊産婦の健康やこどもの養育に関する支援などを行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024/10/31",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

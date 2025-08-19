@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "133035;瑞穂町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部 子育て応援課 子育て支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133035",
+    "psid": "psid3.0+1000020133035+5+UM61"
+  },
+  "belongings": "印鑑",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡瑞穂町大字箱根ケ崎2335番地",
+    "contactComment": "受付時間 平日の午前8時30分から午後5時まで",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部 子育て応援課 子育て支援係",
+    "contactPhone": "042-557-7624",
+    "contactUrl": "https://www.town.mizuho.tokyo.jp/dept/130000/130150/130151/index.html",
+    "zipCode": "1901292"
+  },
+  "cost": null,
+  "costConditions": "費用\n一定額以上の所得がある方は、費用負担があります。",
+  "description": "ひとり親家庭のお母さん・お父さんが、就業や一時的な病気などで、お子さんの見守りや家事が困難となってしまったときにホームヘルパーを派遣します。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自のひとり親の方への金銭的支援",
+    "shortName": "ひとり親家庭ホームヘルプサービス"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親家庭ホームヘルプサービス",
+    "uri": "https://www.town.mizuho.tokyo.jp/kosodate/011/p007000.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "瑞穂町"
+  },
+  "procedureCounter": "子育て応援課子育て支援係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請は、子育て応援課子育て支援係で受付けます。利用を希望される方は、印鑑をお持ちになり、窓口にお越しください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第31条（母子家庭自立支援給付金）、第31条の10（父子家庭自立支援給付金）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "ＨＨサービス案内チラシ (PDF形式 264KB)",
+      "uri": "https://www.town.mizuho.tokyo.jp/kosodate/011/p007000_d/fil/homehelp.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭ホームヘルプサービスでは、ひとり親家庭のお母さん・お父さんが、就業や一時的な病気などで、お子さんの見守りや家事が困難となってしまったときにホームヘルパーを派遣します。",
+  "support": {
+    "description": "派遣回数・時間\n派遣回数　1日1回、月12回まで\n午前7時から午後10時の間で、2時間以上8時間以内\n\n内容\n食事の世話\n住居の掃除および清掃\n被服の洗濯\n居宅内での子どもの見守り（外出はできません。）",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "町に住所があり、義務教育終了前の児童がいるひとり親家庭の方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "町に住所があり、義務教育終了前の児童がいるひとり親家庭の方で、次のいずれかに該当するため、家事や育児などの日常生活に支障をきたしている場合。\n\n1.ひとり親家庭となって2年以内で、支援が必要と認められた場合。\n2.小学校3年生以下の児童がいるひとり親が就業している場合。\n3.ひとり親家庭の親が技能習得のため通学している場合。\n4.ひとり親家庭の親が就職活動を行う場合。\n5.疾病・看護・事故・災害・冠婚葬祭・学校等の公的行事の参加等により、一時的に援助が必要な場合。\n※保育園や学童保育クラブを利用できる場合は、そちらが優先となります。"
+  },
+  "updateDate": "2019-10-21",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131199;板橋区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康生きがい部 板橋健康福祉センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131199",
+    "psid": "psid3.0+6000020131199+3+UM31"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都板橋区大山東町32番15号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康生きがい部 板橋健康福祉センター",
+    "contactPhone": "03-3579-2333",
+    "contactUrl": "https://www.city.itabashi.tokyo.jp/kosodate/ninshin/ninshin/1004072.html",
+    "zipCode": "1730014"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "1日目：講義「産前産後の体の変化と心の変化」、体験「赤ちゃんのお世話」\n2日目：講義・試食「妊産婦さんのための栄養と食事」、講義「母と子のお口の健康」",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "平日、午後",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "区内健康福祉センター"
+  },
+  "institutionName": {
+    "canonicalName": "両親学級・妊婦学級",
+    "shortName": "母親学級"
+  },
+  "localGovernmentLink": {
+    "title": "母親学級",
+    "uri": "https://www.city.itabashi.tokyo.jp/kosodate/ninshin/ninshin/1004072.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-28",
+    "updater": "板橋区"
+  },
+  "procedureCounter": "各健康福祉センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "各健康福祉センターへ電話で申込",
+  "procedurePeriod": {
+    "conditions": "受付開始日の午前9時から",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "母子及び父子並びに寡婦福祉法",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "令和６年度 母親学級のご案内",
+      "uri": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/004/072/hahagaku319.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠・出産・赤ちゃんのお世話などについての基本的な知識や情報をお伝えします。赤ちゃんのいる生活をイメージし、安心して子育てができることを目的に開催しています。",
+  "support": {
+    "description": "保健師、助産師、歯科衛生士、管理栄養士が妊娠中・産後に大切なことや必要なことをわかりやすくお話します。",
+    "materiallySupport": "保健師、助産師、歯科衛生士、管理栄養士が妊娠中・産後に大切なことや必要なことをわかりやすくお話します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "概ね妊娠20週以降の初産の方（妊婦さんのみ）"
+  },
+  "updateDate": "2024-04-09",
+  "useConsiderationFlag": false,
+  "utilization": "要予約",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

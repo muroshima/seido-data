@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131130;渋谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども青少年課子ども青少年育成係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020131130",
+    "psid": "psid3.0+9000020131130+2+UM108"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "FAX03-5458-4942",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども青少年課子ども青少年育成係",
+    "contactPhone": "03-3463-2578",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "無料\n（注）アートスクールの参加は材料費がかかります。",
+  "description": "クリエイティブなワークショップを日々開催し、子どもたちが新たな価値観と出会い、自分の可能性、将来の夢を描くための興味と関心を持つきっかけになる機会を提供している児童館です。\n防音設備のある部屋は、音楽やダンス、演劇などの活動に利用できます。\n\n【施設内容】\n・4階　創作活動室1・2、集会室、図書コーナー\n・地下1階　多目的室\n\n【プログラム】\n　・アートスクール\n　　　さまざまな分野の第一線で活躍するクリエイターや企業等が講師をつとめる、週末の特別講座です。講座型から体験型まで、個性豊かなワークショップを通じ、興味のある分野に触れることで、自分の世界を広げ深めることを目的としています。年間５０回程度開催しています。（要予約、要材料費）\n　・ミート・ザ・クリエイターズ\n　　　毎日日替わりでさまざまな分野のクリエイターに出会える、平日のワークショッププログラムです。クリエイターとの交流を通して、興味のある分野を体験し、会話を楽しみながら、さまざまな表現にふれることで、未来の自分に出会うきっかけが生まれることを目的としています。（当日受付・先着順、講座時間内は出入自由、無料）\n　・ミート・ザ・おやつ\n講師の料理家と子どもたちとが一緒におやつを作って食べるプログラムです。渋谷区こどもテーブルの活動の一環として実施しています。（当日受付・先着順、無料）\n\n（注）アートスクールへの参加は予約が必要です。詳細は、代官山ティーンズ・クリエイティブ\n専用サイト（外部サイト）;http://www.daikanyama-tc.com/をご覧になるか、代官山ティーンズ・クリエイティブ（電話03-3780-0816）へお問い合わせください。\n\n【交通】\n・東急東横線「代官山駅」徒歩5分\n・ハチ公バス恵比寿・代官山循環夕やけこやけルート「代官山保育園」すぐ",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "火曜日、第3日曜日、年末年始（12月29日〜1月3日）",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "渋谷区代官山町7-9",
+    "implementationName": "代官山ティーンズ・クリエイティブ"
+  },
+  "institutionName": {
+    "canonicalName": "児童館",
+    "shortName": "代官山ティーンズ・クリエイティブ"
+  },
+  "localGovernmentLink": {
+    "title": "代官山ティーンズ・クリエイティブ",
+    "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/kosodate/seinen/daikan_cr.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-20",
+    "updater": "渋谷区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "予約方法や内容などは、代官山ティーンズ・クリエイティブ専用サイト（外部サイト）;http://www.daikanyama-tc.com/をご覧になるか、代官山ティーンズ・クリエイティブ（電話：03-3780-0816）へお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第2項、第7条の第4項、第40条",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "代官山ティーンズ・クリエイティブ（外部サイト）",
+      "uri": "https://daikanyama-tc.com/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": "土曜日：10時30分〜20時\n日曜日、祝・休日：10時30分〜18時\n区立学校夏季休業期間：10時〜18時（曜日に関係なく）",
+  "summary": "児童館は、18歳未満のお子さんに健全な遊びを提供し、健康増進を図るとともに、豊かな情操を育むことを目的としています。\n渋谷区の児童館には、小学校就学前のお子さんが安心して遊べるスペースがあり、またお子さんの年齢に応じた各種イベントなども行っています。\n（イベントの詳細については、渋谷区サイトや区報などでお知らせしています。）",
+  "support": {
+    "description": "クリエイティブなワークショップを日々開催し、子どもたちが新たな価値観と出会い、自分の可能性、将来の夢を描くための興味と関心を持つきっかけになる機会を提供している児童館です。\n防音設備のある部屋は、音楽やダンス、演劇などの活動に利用できます。",
+    "materiallySupport": "【施設内容】\n・4階　創作活動室1・2、集会室、図書コーナー\n・地下1階　多目的室",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0歳児～25歳",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 0
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "原則、渋谷区在住または在学の18歳以下で高校生までの人及びその保護者\n（注）当日の状況により渋谷区在住または在学でない人、また概ね25歳以下の人もご利用いただけます。 \n（注）保護者のみの使用はできません"
+  },
+  "updateDate": "2023-03-17",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "小学生のみの利用は18時まで",
+    "fromHM": "13:00",
+    "toHM": "20:00"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健所保健予防課母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+1+UM52"
+  },
+  "belongings": "母子健康手帳、問診票（3種類）、目と耳のアンケート、尿（取れた方のみ）、返信用封筒（通知に同封されています）、健康保険証、タオルかハンカチ",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健所保健予防課母子保健係",
+    "contactPhone": "042-725-5471",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+    "zipCode": null
+  },
+  "cost": "0",
+  "costConditions": null,
+  "description": "お子さんの発育や発達、歯の状況の確認、育児の相談などを行う健診です。",
+  "electronicSubmission": true,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "健康福祉会館,鶴川保健センター,小山市民センター,忠生保健センター,成瀬コミュニティセンター"
+  },
+  "institutionName": {
+    "canonicalName": "3歳児健康診査",
+    "shortName": "3歳児健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "3歳児健康診査",
+    "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/7/1150.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第12条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "健康福祉会館",
+      "uri": "https://www.city.machida.tokyo.jp/iryo/iryo/kenkoufukushi/kennkouhukusikaikan.html"
+    },
+    {
+      "title": "集団健診日の確認・予約変更がLINEでできるようになりました",
+      "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/7/4448.html"
+    },
+    {
+      "title": "鶴川保健センター",
+      "uri": "https://www.city.machida.tokyo.jp/iryo/iryo/kenkoufukushi/health03.html"
+    },
+    {
+      "title": "小山市民センター",
+      "uri": "https://www.city.machida.tokyo.jp/kurashi/touroku/shisetsu/06/accessmap.html"
+    },
+    {
+      "title": "忠生保健センター",
+      "uri": "https://www.city.machida.tokyo.jp/iryo/iryo/kenkoufukushi/kennhukutadaobunnkann.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "お子さんの病気の予防や早期発見、健康保持と増進を目的として3歳児健康診査を実施しています。集団健診で医科・歯科とも実施します。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "3歳になった日から4歳になる前まで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 4,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "3歳児（4歳になる前まで）"
+  },
+  "updateDate": "2024-03-04",
+  "useConsiderationFlag": false,
+  "utilization": "お子さんが3歳になる月の末頃に通知いたします。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

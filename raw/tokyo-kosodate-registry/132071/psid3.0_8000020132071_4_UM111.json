@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132071;昭島市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子ども家庭センター担当 子ども家庭支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132071",
+    "psid": "psid3.0+8000020132071+4+UM111"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "昭島市つつじが丘3-3-15",
+    "contactComment": "ファックス番号：042-519-2803",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 子ども家庭センター担当 統括支援係",
+    "contactPhone": "042-543-9046",
+    "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000068.html",
+    "zipCode": "1960012"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子育てグループネットワーク連絡会参加団体をご紹介します。\n\n活動時間等に変更がある場合があります。詳しくは各団体へ問い合わせをお願いします。\n\nママRing\n児童センターぱれっとにおいて月1回ペースで、音楽遊びやぺープサート・大布を使用して聞く・観る・触る・体で感じ表現する時間を提供しています。また、子育て応援歌という事で、子育て中のママの思いを詩にしてお届けしています。幼稚園・保育園・子育てセミナーなどの出張公演もしています。\n\n対象\n主に未就園児とその保護者\n活動日\n不定期 （児童センターぱれっとでの活動は月に1回程度）\n活動場所\n主に児童センター\n連絡先\n電話番号：042-544-8693・電話番号：080-3515-0319（長谷川）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関する各種コミュニティ・団体一覧",
+    "shortName": "ママRing"
+  },
+  "localGovernmentLink": {
+    "title": "子育てグループ",
+    "uri": "https://www.city.akishima.lg.jp/s064/010/010/010/020/010/20180402144630.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "昭島市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第6項、第21条の9",
+    "regulationName": "児童福祉法、児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "昭島市内で子育てに関する活動を行う、コミュニティやサークル、各種団体のご案内です。",
+  "support": {
+    "description": "児童センターぱれっとにおいて月1回ペースで、音楽遊びやぺープサート・大布を使用して聞く・観る・触る・体で感じ表現する時間を提供しています。また、子育て応援歌という事で、子育て中のママの思いを詩にしてお届けしています。幼稚園・保育園・子育てセミナーなどの出張公演もしています。",
+    "materiallySupport": "児童センターぱれっとにおいて月1回ペースで、音楽遊びやぺープサート・大布を使用して聞く・観る・触る・体で感じ表現する時間を提供しています。また、子育て応援歌という事で、子育て中のママの思いを詩にしてお届けしています。幼稚園・保育園・子育てセミナーなどの出張公演もしています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "主に未就園児とその保護者",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "主に未就園児とその保護者"
+  },
+  "updateDate": "2023-12-08",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

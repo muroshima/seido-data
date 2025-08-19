@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "千代田保健所保健サービス課保健サービス係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+1+UM64"
+  },
+  "belongings": "平成28年1月1日から手続きに個人番号（マイナンバー）が必要です。\n次の1、3、8、9は千代田保健所に用意してある所定の用紙にご記入ください。\n1.小児慢性特定疾病申請書兼同意書\n2.小児慢性特定疾病医療意見書（ヒト成長ホルモン治療を行う場合は、成長ホルモン治療用意見書を添付してください）\n3.世帯調書\n4.住民票\n5.健康保険証の写し\n6.区市町村民税課税証明書\n7.マイナンバーを確認する書類\n8.同意書\n9.委任状など",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区九段北1-2-14",
+    "contactComment": null,
+    "contactEmail": "hoken-service@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "千代田保健所保健サービス課保健サービス係",
+    "contactPhone": "03-6380-8552",
+    "contactUrl": null,
+    "zipCode": "1020073"
+  },
+  "cost": null,
+  "costConditions": "助成の対象となる費用は次のとおりです。\n1.支給認定を受けた小児慢性特定疾病の治療に要する医療費\n2.入院時食事療養費標準負担額（原則、2分の1）\n2.支給認定を受けた小児慢性特定疾病の治療に要する訪問看護療養費",
+  "description": "平成28年1月1日から手続きに個人番号（マイナンバー）が必要です。\n小児慢性特定疾病の治療が必要な児童等の医療費の自己負担分の一部を助成します。東京都の制度ですが、申請窓口は千代田保健所となります。\n\n助成制度の概要について、詳しくは東京都福祉保健局のホームページ（外部サイトへリンク）をご覧ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "小児慢性特定疾病医療費の助成",
+    "shortName": "小児慢性疾患医療費助成"
+  },
+  "localGovernmentLink": {
+    "title": "小児慢性疾患医療費助成",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/ko-shogai/goriyo/shonimanse.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": "千代田保健所",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請される場合は、事前に千代田保健所保健サービス課（電話番号：03-6380-8552）にご連絡ください。千代田保健所を通じて東京都知事に申請します。\n\n都知事は、申請書類に基づいて審査会に諮り、医療費の助成の認定・非認定を決定します。認定・非認定の決定後、都が申請者に通知します。\n\n医療費等の助成は、原則として都が現物を指定医療機関に支払うことによって行います。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第19条の2～第19条の8",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "東京都福祉保健局のホームページ（外部サイトへリンク）",
+      "uri": "http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/josei/syoman/top.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子どもの慢性疾病のうち、治療期間が長く、医療費負担が高額となる疾病について、治療方法の確立と普及、患者家庭の医療費の負担軽減につながるよう、医療費の自己負担分を補助しています。",
+  "support": {
+    "description": "小児慢性特定疾病の治療が必要な児童等の医療費の自己負担分の一部を助成します。\n助成の対象となる費用は次のとおりです。\n1.支給認定を受けた小児慢性特定疾病の治療に要する医療費\n2.入院時食事療養費標準負担額（原則、2分の1）\n3.支給認定を受けた小児慢性特定疾病の治療に要する訪問看護療養費",
+    "materiallySupport": null,
+    "monetarySupport": "小児慢性特定疾病の治療が必要な児童等の医療費の自己負担分の一部を助成します。\n助成の対象となる費用は次のとおりです。\n1.支給認定を受けた小児慢性特定疾病の治療に要する医療費\n2.入院時食事療養費標準負担額（原則、2分の1）\n3.支給認定を受けた小児慢性特定疾病の治療に要する訪問看護療養費"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "千代田区に住所を有する18歳未満で、小児慢性特定疾病の対象疾病にり患している児童\nただし18歳に達した時点で小児慢性特定疾病の医療券を有し、引き続き医療を受ける必要がある場合に限り、20歳未満の者も対象とします。"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

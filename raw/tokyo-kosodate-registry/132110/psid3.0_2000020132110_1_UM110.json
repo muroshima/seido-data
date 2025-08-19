@@ -1,0 +1,140 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "小平市子ども家庭支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+1+UM110"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市小川東町4-2-1　小平元気村おがわ東２階",
+    "contactComment": "FAX：042-348-2101",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "小平市子ども家庭支援センター",
+    "contactPhone": "042-348-2100",
+    "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+    "zipCode": "1870031"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ままごとコーナー、絵本コーナー、制作コーナー、赤ちゃんコーナーなどいろいろなコーナーとおもちゃを用意しています。授乳ができる場所もあります。\nまた、子どもの発達講座をはじめとした多くの講座や季節の行事などのイベントを行っています。詳しくは、小平市子ども家庭支援センターホームページ（外部リンク）;http://fukushi.unchusha.com/kodomokatei_kodaira/toppage.htmlをご覧ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "日曜日、月曜日、祝日、12月29日から1月3日までの年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "小平市小川東町4-2-1　小平元気村おがわ東２階",
+    "implementationName": "小平市子ども家庭支援センター"
+  },
+  "institutionName": {
+    "canonicalName": "子育て支援拠点・地域子育て支援センター",
+    "shortName": "小平市子ども家庭支援センター"
+  },
+  "localGovernmentLink": {
+    "title": "小平市子ども家庭支援センター",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/003/003792.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "小平市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第6項、第21条の9",
+    "regulationName": "児童福祉法、児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "東京都児童相談センター（外部リンク）",
+      "uri": "http://www.fukushihoken.metro.tokyo.jp/jicen/"
+    },
+    {
+      "title": "小平市子ども家庭支援センターホームページ（外部リンク）",
+      "uri": "http://fukushi.unchusha.com/kodomokatei_kodaira/toppage.html"
+    },
+    {
+      "title": "子育て相談一覧",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/003/003608.html"
+    },
+    {
+      "title": "東京都小平児童相談所（外部リンク）",
+      "uri": "http://www.fukushihoken.metro.tokyo.jp/jicen/info/jisou_info/kodaira.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "乳幼児と保護者の遊び場、仲間づくりの場である子育て交流広場を常設しています。子育ての不安・悩みの相談もできます。\nまた、地域の子育て関連情報の提供や、子育て支援に関する講習なども実施しています。",
+  "support": {
+    "description": "乳幼児と保護者の遊び場、仲間づくりの場の提供。\n子育てに関する相談も行っています。",
+    "materiallySupport": "乳幼児と保護者の遊び場、仲間づくりの場の提供。\n子育てに関する相談も行っています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "市内に居住する乳幼児とその保護者"
+  },
+  "updateDate": "2021-10-22",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "開館日\n火曜日から土曜日まで（祝日、年末年始を除く）\n開館時間\n午前10時から午後6時まで",
+    "fromHM": "10:00",
+    "toHM": "18:00"
+  }
+}

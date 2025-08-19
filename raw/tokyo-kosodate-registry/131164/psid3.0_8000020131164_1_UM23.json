@@ -1,0 +1,151 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課児童給付グループ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+1+UM23"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て支援課児童給付グループ",
+    "contactPhone": "03-3981-1417",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "目次\n・お知らせ;https://www.city.toshima.lg.jp/261/2404011329.html\n・事業内容;https://www.city.toshima.lg.jp/261/2404011400.html\n・医療証の申請手続き;https://www.city.toshima.lg.jp/261/2404011424.html\n・助成を受ける方法;https://www.city.toshima.lg.jp/261/2404011442.html\n・医療証の更新;https://www.city.toshima.lg.jp/261/2404011450.html\n・届出が必要な場合;https://www.city.toshima.lg.jp/261/2404011451.html\n・資格が消滅する場合;https://www.city.toshima.lg.jp/261/2404011452.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児医療費（子ども医療費）の助成",
+    "shortName": "子どもの医療費助成"
+  },
+  "localGovernmentLink": {
+    "title": "子どもの医療費助成",
+    "uri": "https://www.city.toshima.lg.jp/261/kosodate/kosodate/teate-jose/015729.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "高校生相当年齢までの児童で医療証を持っていない方は、必要書類などについて事前に問い合わせのうえ申請してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "医療証の更新",
+      "uri": "https://www.city.toshima.lg.jp/261/2404011450.html"
+    },
+    {
+      "title": "届出が必要な場合",
+      "uri": "https://www.city.toshima.lg.jp/261/2404011451.html"
+    },
+    {
+      "title": "助成を受ける方法",
+      "uri": "https://www.city.toshima.lg.jp/261/2404011442.html"
+    },
+    {
+      "title": "事業内容",
+      "uri": "https://www.city.toshima.lg.jp/261/2404011400.html"
+    },
+    {
+      "title": "お知らせ",
+      "uri": "https://www.city.toshima.lg.jp/261/2404011329.html"
+    },
+    {
+      "title": "医療証の申請手続き",
+      "uri": "https://www.city.toshima.lg.jp/261/2404011424.html"
+    },
+    {
+      "title": "資格が消滅する場合",
+      "uri": "https://www.city.toshima.lg.jp/261/2404011452.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子どもの保健対策を充実し、子育て世帯の経済的負担を軽減するため、お子さんが病気やけがなどにより健康保険を使って医療機関で受診した場合、保険診療の自己負担分（2割または3割）を助成しています。",
+  "support": {
+    "description": "高校生相当年齢まで（18歳に達した日以降の最初の3月31日まで）の児童に医療証を交付し、医療機関で保険診療を受けたときに支払う自己負担分を助成する制度です。ただし、保険対象外の診療等は助成できません。\n保護者の所得制限はありません。\n医療費の助成は原則として医療証交付の申請日（郵送の場合は到着日）から開始です。ただし、出生日または転入日の翌日から2か月以内に申請した場合は、出生日または転入日までさかのぼって助成されます。",
+    "materiallySupport": null,
+    "monetarySupport": "医療機関で保険診療を受けたときに支払う自己負担分を助成"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "高校生相当年齢まで（18歳に達した日以降の最初の3月31日まで）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "高校生相当年齢まで（18歳に達した日以降の最初の3月31日まで）の児童"
+  },
+  "updateDate": "2024-04-04",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

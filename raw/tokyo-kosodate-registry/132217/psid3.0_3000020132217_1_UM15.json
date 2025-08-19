@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132217;清瀬市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132217",
+    "psid": "psid3.0+3000020132217+1+UM15"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都清瀬市中里5-842　しあわせ未来センター1階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て支援課母子保健係",
+    "contactPhone": "042-497-2077",
+    "contactUrl": null,
+    "zipCode": "2048511"
+  },
+  "cost": "1000",
+  "costConditions": "1回1,000円\n（非課税世帯、生活保護世帯及び中国残留邦人等の円滑な帰国の促進並びに永住帰国した中国残留邦人等及び特定配偶者の自立の支援に関する法律による支援給付を受けている世帯は無料）",
+  "description": "清瀬市では、産後に家族等から援助が受けられず、支援を必要とする産婦・乳児に対し、心身のケアや育児支援等を行う「産後ケア訪問事業」を実施し、安心して子育てができるよう支援します。\n\n対象者\n母子ともに清瀬市に住所があり、以下の事項に該当する方\n\n家族からの育児等の援助が受けられない方\n産後における心身の不調、育児不安のある方\n事業内容\n身体的ケア、心理的ケア、保健指導及び栄養指導\n適切な授乳を実施するためのケア、指導（乳房ケアを含む）\n育児の手技についての具体的な指導（沐浴の援助を含む）\n\n|利用期間|上限回数|時間|利用料金|\n|:----|:----|:----|:----|\n|原則、産後6か月未満|4回まで（多胎児の場合は6回まで）|1回につき、2時間まで|1回1,000円|\n\n※非課税世帯、生活保護世帯及び中国残留邦人等の円滑な帰国の促進並びに永住帰国した中国残留邦人等及び特定配偶者の自立の支援に関する法律による支援給付を受けている世帯は、証明書の提出により利用料金は免除となります。\n\n申請書類\n窓口で申し込みする場合\n||書類等|備考|\n|:----|:----|:----|\n|1|清瀬市産後ケア訪問事業利用申込書|申請時に記入していただきます。<br>申請書は下記関連ファイルよりダウンロードができます。|\n|2|住民税非課税証明書<br>生活保護受給者証<br>中国残留邦人等支援給付受給証明書<br>※いずれも該当する世帯のみ|※　該当年の1月1日現在で、清瀬市に住所がある方は、公簿等により課税状況を確認させていただきます。<br>該当年の1月1日現在で、清瀬市に住所がなかった方は、前住所地より非課税証明書をお取りいただき、提出をお願いいたします。<br>※　生活保護受給者証、中国残留邦人等支援給付受給証明書は、生活福祉課で発行ができます。|\n\n申込方法\n子育て支援課母子保健係窓口、または電子申請でお申し込みください。\n\n申込書は下記関連ファイルよりダウンロードができます。\n\n支払方法\n訪問時に、現金または「きよせ・チルドレンファーストチケット」（令和6年5月7日利用分～）にてお支払いください。\n\n「きよせ・チルドレンファーストチケット」でのお支払いをご希望の場合、訪問日当日にポイントが付与されていることが前提となります。\n\n※「きよせ・チルドレンファーストチケット」の詳細については下記をご参照ください。\n\n申込から訪問までの流れ\n窓口で申し込みする場合\n子育て支援課母子保健係の窓口にて「清瀬市産後ケア訪問事業利用」の申し込みをお受けします。\n申込を受理いたしましたら、清瀬市が委託した助産師から利用者へ連絡をいたします。\n助産師と直接、訪問の日を決定してください。\n訪問の日に、助産師へ利用料をお支払いください。その際に預り証をお渡しいたします。\n電子申請で申し込みする場合\n電子申請後、子育て支援課母子保健係より電子申請の受理のメールをお送りします。\n受理後、清瀬市が委託した助産師から利用者へ連絡いたします。\n助産師と直接、訪問の日を決定してください。\n訪問の日に、助産師へ利用料をお支払いください。その際に預り証をお渡しいたします。\n※該当年の1月1日現在で、清瀬市に住所がなかった方は、前住所地より非課税証明書をお取りいただき、提出をお願いいたします。\n\n※生活保護受給者証、中国残留邦人等支援給付受給証明書は、生活福祉課で発行ができます。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "産後ケア訪問事業",
+      "uri": "https://logoform.jp/form/QzsJ/76928"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "産後ケア事業",
+    "shortName": "産後ケア訪問事業"
+  },
+  "localGovernmentLink": {
+    "title": "産後ケア訪問事業",
+    "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/ninsinsyussan/syussan/1005167/1012674.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "清瀬市"
+  },
+  "procedureCounter": "子育て支援課母子保健係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "子育て支援課母子保健係窓口、または電子申請でお申し込みください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第17条の2（産後ケア事業）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "産後に家族等から援助が受けられず、支援を必要とする産婦・乳児に対し、心身のケアや育児支援等を行う「産後ケア訪問事業」を実施し、安心して子育てができるよう支援します。",
+  "support": {
+    "description": "身体的ケア、心理的ケア、保健指導及び栄養指導\n適切な授乳を実施するためのケア、指導（乳房ケアを含む）\n育児の手技についての具体的な指導（沐浴の援助を含む）",
+    "materiallySupport": "身体的ケア、心理的ケア、保健指導及び栄養指導\n適切な授乳を実施するためのケア、指導（乳房ケアを含む）\n育児の手技についての具体的な指導（沐浴の援助を含む）",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": 6
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "母子ともに清瀬市に住所があり、以下の事項に該当する方\n\n家族からの育児等の援助が受けられない方\n産後における心身の不調、育児不安のある方"
+  },
+  "updateDate": "2024-03-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "1回につき、2時間まで",
+    "fromHM": null,
+    "toHM": null
+  }
+}

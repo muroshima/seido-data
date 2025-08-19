@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "132080;調布市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会教育部中央図書館 ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020132080",
+    "psid": "psid3.0+7000020132080+1+UM105"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-441-6183",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "教育委員会教育部中央図書館",
+    "contactPhone": "042-441-6181",
+    "contactUrl": "https://www.city.chofu.lg.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "市立図書館では，健康推進課と連携して，独自のブックスタート事業を実施しています。３・４か月児健康診査時には，赤ちゃんにはじめて手渡してあげたい絵本のリスト「赤ちゃんは絵本がだいすき！」を配付しています。１歳６か月児健康診査時には，絵本リスト「このほんよんで！（ブックスタート版）」・図書館の利用案内・読み聞かせのガイドブック「今日のおはなしなーに？」などをセットにした，「ブックスタートパック※」を配付しています。また，児童館や子ども家庭支援センターすこやか等の子育て支援関係機関と連携して，親子で絵本に親しむための事業を実施しています。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "図書館の児童サービス（ブックスタート）",
+    "shortName": "ブックスタート"
+  },
+  "localGovernmentLink": {
+    "title": "「第3次調布市子ども読書活動推進計画」を策定",
+    "uri": "https://www.city.chofu.lg.jp/100090/p062021.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "調布市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "市立図書館では，健康推進課と連携して，独自のブックスタート事業を実施しています。３・４か月児健康診査時には，赤ちゃんにはじめて手渡してあげたい絵本のリスト「赤ちゃんは絵本がだいすき！」を配付しています。１歳６か月児健康診査時には，絵本リスト「このほんよんで！（ブックスタート版）」・図書館の利用案内・読み聞かせのガイドブック「今日のおはなしなーに？」などをセットにした，「ブックスタートパック※」を配付しています。\nまた，児童館や子ども家庭支援センターすこやか等の子育て支援関係機関と連携して，親子で絵本に親しむための事業を実施しています。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "「第3次調布市子ども読書活動推進計画(素案)」へのご意見をお寄せください",
+      "uri": "https://www.city.chofu.lg.jp/100090/p062022.html"
+    },
+    {
+      "title": "「第3次調布市子ども読書活動推進計画(素案)」に対するご意見と市の考え方",
+      "uri": "https://www.city.chofu.lg.jp/100090/p062023.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ブックスタートとは、赤ちゃんとその保護者に絵本をプレゼントし、絵本を開く楽しい体験とともに、心ふれあうきっかけをつくる活動です。",
+  "support": {
+    "description": "4-1 事例紹介　ブックスタート（PDF：630KB）;https://www.city.chofu.lg.jp/documents/4836/shiryou4-1_1.pdf",
+    "materiallySupport": "4-1 事例紹介　ブックスタート（PDF：630KB）;https://www.city.chofu.lg.jp/documents/4836/shiryou4-1_1.pdf",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2019-07-17",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

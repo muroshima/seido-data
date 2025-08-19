@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "131202;練馬区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "区民部　国保年金課　こくほ資格係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020131202",
+    "psid": "psid3.0+3000020131202+1+UM5035"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都練馬区豊玉北6丁目12番1号",
+    "contactComment": "03-5984-4554（コールセンター直通）ファクス：03-3993-3260",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "区民部　国保年金課　こくほ資格係",
+    "contactPhone": "03-5984-4554",
+    "contactUrl": "https://www.city.nerima.tokyo.jp/cgi-bin/formmail/formmail.cgi?d=050010040000",
+    "zipCode": "1768501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "国民健康保険の出産する被保険者に係る産前産後期間相当分（４ヶ月分）の均等割保険料と所得割保険料が減額されます。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "電子申請による産前産後期間の減額の手続き（外部サイト）",
+      "uri": "https://logoform.jp/form/G2rU/407023"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "国民健康保険における産前産後期間保険料（税）免除",
+    "shortName": "産前産後期間にかかる保険料の減額"
+  },
+  "localGovernmentLink": {
+    "title": "産前産後期間にかかる保険料の減額について",
+    "uri": "https://www.city.nerima.tokyo.jp/kurashi/nenkinhoken/kokuminkenkohoken/hoken_hokenryo/sannzennsanngo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "練馬区"
+  },
+  "procedureCounter": "区民部　国保年金課　こくほ資格係（ 区役所本庁舎3階）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "この減額適用は、届出が必要です。ただし、 練馬区あてに出産育児一時金を申請し決定された方は、自動的に減額を適用しますので届出は不要です（※）。\n届出方法は、電子申請、郵送、窓口の3つです。\n※出産育児一時金決定後の適用となるため、減額適用が遅れる場合があります。この場合、届出の有無によって減額される額に変更はありません。\n\n【電子申請】\n手続きには、母子健康手帳を撮影またはスキャンした画像ファイルの添付が必要です。ご用意の上、下記リンクから手続きしてください。\n電子申請による産前産後期間の減額の手続き（外部サイト）　;https://logoform.jp/form/G2rU/407023\n\n【郵送での届出方法と郵送先】\n産前産後期間減額の届出は郵送でも出来ます。\n次の3点を、『〒176-8501 練馬区豊玉北6丁目12番1号 練馬区役所こくほ資格係』宛てに郵送してください。個人情報を含む書類のため、特定記録郵便または簡易書留での郵送をおすすめします。\n（1）母子健康手帳など出産予定日と出産する方が確認できる書類のコピー （多胎の場合は、2名分の母子健康手帳などが必要です。）\n（2）出産する方の国民健康保険被保険者証のコピー\n（3）産前産後期間にかかる保険料減額届\n\n　産前産後期間にかかる保険料減額届（PDF版）（PDF：7KB）;https://www.city.nerima.tokyo.jp/kurashi/nenkinhoken/kokuminkenkohoken/hoken_hokenryo/sannzennsanngo.files/todokede.pdf\n\nPDFファイルです。\n印刷し、必要事項をすべて手書きしてください。\n\n　産前産後期間にかかる保険料減額届（Word版）（Word：30KB）;https://www.city.nerima.tokyo.jp/kurashi/nenkinhoken/kokuminkenkohoken/hoken_hokenryo/sannzennsanngo.files/word.docx\n\nWordファイルです。\n指定された括弧内を入力してください。\n受付後の添付書類の返却は行いません。書類の不足・不備により受付できない場合は、書類をお返し、再度書類の提出をお願いすることがあります。\n\n窓口での届出方法\n産前産後期間減額の届出は下記の窓口のみ取り扱いします。\n次の3点を、お持ちください。\n（1）母子健康手帳など出産予定日と出産する方が確認できる書類　（多胎の場合は、2名分の母子健康手帳などが必要です。）\n（2）産前産後期間にかかる保険料減額届（届出窓口でご記入いただけます。）\n受付窓口：国保年金課　こくほ資格係　（ 区役所本庁舎3階）\n※受付時間は、午前8時30分から午後5時まで（土日祝休日および12月29日から1月3日を除く）です。\n",
+  "procedurePeriod": {
+    "conditions": "出生から1年以上経過して出産育児一時金の申請をした時は、遡って保険料の減額ができない場合があります。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "電子申請による産前産後期間の減額の手続き（外部サイト）",
+      "uri": "https://logoform.jp/form/G2rU/407023"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民健康保険の出産する被保険者に係る産前産後期間相当分（４ヶ月分）の均等割保険料と所得割保険料が減額されます。",
+  "support": {
+    "description": "妊娠85日（12週）以降に出産した方もしくは出産予定の方について、その方の国民健康保険料（均等割、所得割）を減額",
+    "materiallySupport": null,
+    "monetarySupport": "妊娠85日（12週）以降に出産した方もしくは出産予定の方について、その方の国民健康保険料（均等割、所得割）を減額"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003",
+      "015"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "令和5年11月以降に、出産した方（※1）もしくは出産予定で練馬区国民健康保険に加入している方（※2）。\n※1出産とは、妊娠85日（12週）以上の分娩をいい、死産、流産、早産及び人工妊娠中絶を含みます。\n※2出産した被保険者のみ減額の対象です。その他の世帯員は対象になりません。"
+  },
+  "updateDate": "2023-12-21",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

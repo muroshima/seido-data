@@ -1,0 +1,130 @@
+{
+  "area": {
+    "areaCode": "133621;利島村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": null,
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133621",
+    "psid": "psid3.0+1000020133621+1+UM799"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "利島村役場　住民課",
+    "contactPhone": "04992-9-0013",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "令和7年3月よりスタートしました。\nこども家庭センターは、妊娠や出産、18歳未満のお子さんやご家族についてのあらゆる相談に応じるほか、子育てひろばや受験生チャレンジなども行っています。\n相談は無料となっており、匿名での相談も受け付けていますので、ぜひお気軽にご相談ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "土・日・祝日及び12/29-1/3",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "東京都利島村105番地",
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "こども家庭センター",
+    "shortName": "制度なし"
+  },
+  "localGovernmentLink": {
+    "title": "結婚・妊娠・子育て",
+    "uri": "https://www.toshimamura.org/life/marriage/child-rearing.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/03/13",
+    "updater": "利島村"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "利島村子供家庭センター",
+      "uri": "https://toshimamura-csw.main.jp/子ども家庭事業/【利島村子ども家庭支援センター】"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "利島村の【こども家庭センター（※自治体で設置している名称に修正）】では、全ての妊産婦・子育て家庭に対する相談等への対応、サポートプランに基づく妊産婦の健康やこどもの養育に関する支援などを行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": "09:00",
+    "toHM": "17:00"
+  }
+}

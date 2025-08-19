@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132233;武蔵村山市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部健康推進課健康推進係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132233",
+    "psid": "psid3.0+3000020132233+7+UM54"
+  },
+  "belongings": "予診票・母子健康手帳",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康福祉部健康推進課健康推進係",
+    "contactPhone": "042-565-9315",
+    "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/e_07a/1012088",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "BCG\n　予防接種法に基づき、下記のとおり個別接種で実施しています。該当者には個別に通知しておりますが、転入等で予診票のない方は、母子健康手帳を持参のうえ、保健相談センターまでお越しください。\n\n対象者\n1歳未満（標準的には生後5か月から8か月未満）\n\n接種回数・方法\n1回　経費接種（管針法）\n＊9本の針を植え込んだ使い捨て管針（スタンプ式）で2箇所に接種します\n\n接種場所\n市内の指定個別予防接種実施医療機関\n＊実施時間や予約等については各医療機関にお問い合わせください。検温は、接種医療機関で行ないます。\n\n持ち物\n予診票・母子健康手帳\n\n注意事項\nお子さんの日頃の健康状態を良く知っていて、医師の質問に責任をもって答えられる保護者の方がお連れください。\n接種後、身体に異常が認められる場合は、医師の指示を受け、その結果を保健相談センターまで御連絡ください。\n\n病気の説明\n結核は、結核菌の空気感染で起こります。感染すると、肺の内部で増えて、せき、たん、呼吸器困難などの症状があり、肺以外の腎臓、骨、脳などの身体のあらゆる部分に影響を及ぼすこともあります。また、結核菌に感染した場合、必ずしもすぐに発症するわけではなく、体内に留まったのち再び活動を開始し、発症することがあります。\n\n副反応\n接種後2から3週間で赤いぽつぽつができ､一部に小さくうみをもったりします。約4週間ほどでかさぶたができ、数ヶ月するとかさぶたがとれて自然になおります。バンソウコウをはったりせずに、そのまま部位を清潔を保ってください。\n\nコッホ現象について\nこれまでに結核に感染したことがあるお子さんがBCGを接種した場合、接種後10日以内に接種局所の発赤・腫脹及び針痕部位の化膿等が起こり、通常2週間から4週間ほどで消炎、瘢痕化し、治癒する一連の反応が起こります。これをコッホ現象といいます。これは、BCG再接種の際において見られる反応と同一の性質のものが結核感染後の接種において比較的強く出現したものです。\nお子さんにコッホ現象と思われる反応が見られた場合は、医師の指示を受け、その結果を保健相談センターに御連絡ください。\n\n接種の間隔（別の種類の予防接種を行うまでの間隔）\n注射生ワクチンを接種した後に、別の種類の注射生ワクチンを接種する場合は、27日以上あけてください。\nなお、令和2年10月の法改正により、経口生ワクチン、不活化ワクチンに関する接種間隔の制限はなくなりました。\n＊同時接種については、医師が必要と認めた場合に限り接種できます。\n＊ただし、同一ワクチンを複数回接種する場合の接種間隔の制限は従来どおりになりますのでご注意ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "市内の指定個別予防接種実施医療機関\n＊実施時間や予約等については各医療機関にお問い合わせください。検温は、接種医療機関で行ないます。"
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "BCG"
+  },
+  "localGovernmentLink": {
+    "title": "BCG",
+    "uri": "https://www.city.musashimurayama.lg.jp/kosodate/kenshin/yobousesshu/1003781.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "武蔵村山市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）",
+    "regulationName": "予防接種法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+  "support": {
+    "description": "1回　経費接種（管針法）\n＊9本の針を植え込んだ使い捨て管針（スタンプ式）で2箇所に接種します",
+    "materiallySupport": "1回　経費接種（管針法）\n＊9本の針を植え込んだ使い捨て管針（スタンプ式）で2箇所に接種します",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "1歳未満（標準的には生後5か月から8か月未満）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "1歳未満（標準的には生後5か月から8か月未満）"
+  },
+  "updateDate": "2020-10-27",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

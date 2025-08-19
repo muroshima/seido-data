@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課こども・若者支援担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+1+UM120"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市小川町2-1333　市役所2階",
+    "contactComment": "FAX：042-346-9200",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て支援課こども・若者支援担当",
+    "contactPhone": "042-346-9815",
+    "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+    "zipCode": "1878701"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "こだいら子育てガイド\n赤ちゃんができたときからの手続きや、遊び場、相談場所など子育て中の方にとって必要な情報をまとめた「子育てガイド」を発行しています。(毎年10月発行予定)\n\n子育てガイド\n冊子「こだいら子育てガイド」は、下記のリンク先（ガイド作成事業者のページ）よりご覧いただけます。また、下記の施設でも配布しています。\n\n市役所2階子育て支援課の窓口\n図書館\n公民館\n地域センター\n児童館\n子ども家庭支援センター\nファミリー・サポート・センター\n市内の小児科、歯科医院（閲覧のみ）\n市内の保育園、幼稚園（閲覧のみ）\n(注)妊娠届を提出された方には、そのときに配布される「母と子の保健バッグ」に同封しています。\nhttps://www.scinex.co.jp/wagamachi/loco/13211_kosodate/dl_pc.html",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "こだいら子育てガイド（外部リンク）",
+      "uri": "https://www.scinex.co.jp/wagamachi/loco/13211_kosodate/dl_pc.html"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関するその他のこと",
+    "shortName": "こだいら子育てガイド"
+  },
+  "localGovernmentLink": {
+    "title": "こだいら子育てガイド",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/004/004423.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "小平市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "冊子「こだいら子育てガイド」は、下記のリンク先（ガイド作成事業者のページ）よりご覧いただけます。また、下記の施設でも配布しています。\n\n市役所2階子育て支援課の窓口\n図書館\n公民館\n地域センター\n児童館\n子ども家庭支援センター\nファミリー・サポート・センター\n市内の小児科、歯科医院（閲覧のみ）\n市内の保育園、幼稚園（閲覧のみ）\n(注)妊娠届を提出された方には、そのときに配布される「母と子の保健バッグ」に同封しています。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "こだいら子育てガイド（外部リンク）",
+      "uri": "https://www.scinex.co.jp/wagamachi/loco/13211_kosodate/dl_pc.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "赤ちゃんができたときからの手続きや、遊び場、相談場所など子育て中の方にとって必要な情報をまとめた「子育てガイド」を発行しています。",
+  "support": {
+    "description": "赤ちゃんができたときからの手続きや、遊び場、相談場所など子育て中の方にとって必要な情報をまとめた「子育てガイド」を発行しています。(毎年10月発行予定)",
+    "materiallySupport": "赤ちゃんができたときからの手続きや、遊び場、相談場所など子育て中の方にとって必要な情報をまとめた「子育てガイド」を発行しています。(毎年10月発行予定)",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "子育て中の方"
+  },
+  "updateDate": "2023-10-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

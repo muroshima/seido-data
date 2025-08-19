@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132080;調布市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども生活部子ども家庭課 ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020132080",
+    "psid": "psid3.0+7000020132080+1+UM40"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-499-6101",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども生活部子ども家庭課",
+    "contactPhone": "042-481-7093",
+    "contactUrl": "https://www.city.chofu.lg.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "入院助産制度\n\n妊娠・出産は病気ではないため、正常分娩の場合、健康保険(国民健康保険・政府管掌健康保険・健康保険組合など)は適応されません。そのため、原則として出産費用はすべて自費負担となります。\n保険加入者が出産する場合に、健康保険(国民健康保険・健康保険組合など)から出産育児一時金が支給されます。\n入院助産制度とは、生活保護を受給している方や健康保険が使えない方など、経済的な事情で入院して出産することが出来ない妊産婦の方に、出産費用を助成する制度です。\n出産育児一時金が50万円以上であり、産科医療保障制度の保険が締結されている場合は利用できません。\n参考\n国民健康保険の場合、出産育児一時金の支給額は50万円(産科医療保障制度の保険料1万2000円を含む)。\n出産費用が50万円以上かかる場合の差額は自己負担となります。\n\n助産施設とは\n助産施設とは、経済的な理由で病院や助産所に入院して出産する事が出来ない妊産婦のために、児童福祉法に基づき安全な出産を図る施設(病院・助産所)です。\n\n関連リンク\n国民健康保険加入者が出産したときの出産育児一時金;https://www.city.chofu.lg.jp/060080/p038018.html\n\n外部リンク\n出産育児一時金について(厚生労働省ホームページ)（外部リンク）;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/shussan/index.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "助産制度",
+    "shortName": "入院助産制度"
+  },
+  "localGovernmentLink": {
+    "title": "入院助産制度",
+    "uri": "https://www.city.chofu.lg.jp/050030/p029002.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "調布市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第22条",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "出産育児一時金について(厚生労働省ホームページ)（外部リンク）",
+      "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/shussan/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "経済的な理由で、病院や助産所での出産が困難な妊産婦の方を対象に、調布市の指定の助産施設で出産する際の費用を助成しています。\n事前に申請が必要です。",
+  "support": {
+    "description": "入院助産制度\n\n妊娠・出産は病気ではないため、正常分娩の場合、健康保険(国民健康保険・政府管掌健康保険・健康保険組合など)は適応されません。そのため、原則として出産費用はすべて自費負担となります。\n保険加入者が出産する場合に、健康保険(国民健康保険・健康保険組合など)から出産育児一時金が支給されます。\n入院助産制度とは、生活保護を受給している方や健康保険が使えない方など、経済的な事情で入院して出産することが出来ない妊産婦の方に、出産費用を助成する制度です。\n出産育児一時金が50万円以上であり、産科医療保障制度の保険が締結されている場合は利用できません。\n\n参考\n国民健康保険の場合、出産育児一時金の支給額は50万円(産科医療保障制度の保険料1万2000円を含む)。\n出産費用が50万円以上かかる場合の差額は自己負担となります。",
+    "materiallySupport": null,
+    "monetarySupport": "入院助産制度\n\n妊娠・出産は病気ではないため、正常分娩の場合、健康保険(国民健康保険・政府管掌健康保険・健康保険組合など)は適応されません。そのため、原則として出産費用はすべて自費負担となります。\n保険加入者が出産する場合に、健康保険(国民健康保険・健康保険組合など)から出産育児一時金が支給されます。\n入院助産制度とは、生活保護を受給している方や健康保険が使えない方など、経済的な事情で入院して出産することが出来ない妊産婦の方に、出産費用を助成する制度です。\n出産育児一時金が50万円以上であり、産科医療保障制度の保険が締結されている場合は利用できません。\n\n参考\n国民健康保険の場合、出産育児一時金の支給額は50万円(産科医療保障制度の保険料1万2000円を含む)。\n出産費用が50万円以上かかる場合の差額は自己負担となります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生活保護を受給している方や健康保険が使えない方など、経済的な事情で入院して出産することが出来ない妊産婦の方"
+  },
+  "updateDate": "2023-06-07",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

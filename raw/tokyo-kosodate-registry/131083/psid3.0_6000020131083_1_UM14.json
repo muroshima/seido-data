@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "131083;江東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部（保健所） 城東南部保健相談所 管理係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131083",
+    "psid": "psid3.0+6000020131083+1+UM14"
+  },
+  "belongings": "赤ちゃんが生まれたら、「母と子の保健バッグ」に入っている出生通知票をなるべく早く担当の保健相談所にご提出ください。\n出生通知票（ハガキ）のかわりに「電子申請」による届出もできます。\n\nまた、上記の手続きとは別に、出生届を提出する必要があります。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "江東区南砂4丁目3番10号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部（保健所） 城東南部保健相談所 管理係",
+    "contactPhone": "03-5606-5001",
+    "contactUrl": null,
+    "zipCode": "1360076"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "赤ちゃんが生まれたら、「母と子の保健バッグ」に入っている出生通知票をなるべく早く担当の保健相談所にご提出ください。\n\n出生通知票による届出をもとに、助産師または保健師がご家庭を訪問し、育児や産後の体調などの相談をお受けしています。\n訪問対象は、原則として生後28日以内の新生児です。ただし、里帰り出産などで訪問を受けられなかった場合には、生後4か月になる前日までお受けします。\n出生通知票（ハガキ）のかわりに「電子申請」による届出もできます。\nまた、上記の手続きとは別に、出生届を提出する必要があります。提出先が異なりますので、以下のリンク先をご参照ください。",
+  "electronicSubmission": true,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+    "shortName": "新生児・産婦訪問指導（出生通知票）"
+  },
+  "localGovernmentLink": {
+    "title": "新生児・産婦訪問指導（出生通知票）",
+    "uri": "https://www.city.koto.lg.jp/261301/kodomo/ninshinshussan/shussan/6880.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025-02-26",
+    "updater": "江東区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第21条の10の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "出生届",
+      "uri": "https://www.city.koto.lg.jp/060302/kurashi/jumin/koseki/5061.html"
+    },
+    {
+      "title": "保健相談所担当地域一覧",
+      "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "生後4か月を迎えるまでの乳児がいるご家庭には専門職のほか、研修を受けたスタッフが訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "訪問対象は、原則として生後28日以内の新生児です。ただし、里帰り出産などで訪問を受けられなかった場合には、生後4か月になる前日までお受けします。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "訪問対象は、原則として生後28日以内の新生児です。ただし、里帰り出産などで訪問を受けられなかった場合には、生後4か月になる前日までお受けします。"
+  },
+  "updateDate": "2024/03/04",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

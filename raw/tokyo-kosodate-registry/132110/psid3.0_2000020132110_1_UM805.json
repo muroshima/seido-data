@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保育課幼稚園・認可外保育施設担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+1+UM805"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市小川町2-1333　市役所2階",
+    "contactComment": "FAX：042-346-9200",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保育課幼稚園・認可外保育施設担当",
+    "contactPhone": "042-346-9645",
+    "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+    "zipCode": "1878701"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "企業主導型保育施設\n【市内の企業主導型保育施設一覧】\n\nhttps://www.city.kodaira.tokyo.jp/kurashi/076/076220.html\n\n（注）利用にあたっては、利用者と保育施設との直接契約になりますので、定員、保育時間、保育料、申込み方法などについては、直接施設にお問い合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "花小金井南町1-25-33　1F",
+    "implementationName": "こだきしゅコスモ保育園"
+  },
+  "institutionName": {
+    "canonicalName": "事業所内保育施設一覧",
+    "shortName": "企業主導型保育施設"
+  },
+  "localGovernmentLink": {
+    "title": "企業主導型保育施設",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/076/076220.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-01",
+    "updater": "小平市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第五章 事業所内保育事業",
+    "regulationName": "家庭的保育事業等の設備及び運営に関する基準"
+  },
+  "relatedLink": [
+    {
+      "title": "こだきしゅコスモ保育園（コスモ保育園グループ）ホームページ（外部リンク）",
+      "uri": "http://otaira.jp/"
+    },
+    {
+      "title": "認証保育所、認定家庭福祉員、企業主導型保育施設入所可能人数",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/003/003619.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "市区町村の認可事業として行われる事業所内保育は、企業や病院などが従業員に対して仕事と子育ての両立支援策として実施するもので、従業員や職員のお子さんのほか、地域の保育が必要なお子さんも受け入れて、一緒に保育を行います。\n事業所内保育入所定員が20人以上の「保育所型事業所内保育」施設と6人以上19人以下の「小規模型事業所内保育」施設があります。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "1～5歳",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 5,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "1～5歳"
+  },
+  "updateDate": "2023-10-03",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

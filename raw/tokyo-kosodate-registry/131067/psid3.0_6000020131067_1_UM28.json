@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131067;台東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て・若者支援課給付担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131067",
+    "psid": "psid3.0+6000020131067+1+UM28"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て・若者支援課給付担当",
+    "contactPhone": "03-5246-1232",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "●ひとり親家庭の方々が、経済的に自立して、安定した生活を送るために必要とする資金をお貸しします。\n\n貸付を希望する方は、事前に相談してください。\n相談は予約制です。\n貸付には審査があります。\n|対象|都内に6ヶ月以上居住している20歳未満の子の母・父・養育者|\n|:----|:----|\n|金額等|低金利（一部無利子）で必要な資金の貸付を行います。|\n|問合せ・申込先|子育て・若者支援課給付担当<br>電話5246-1232|\n\n償還中の方へ\n物価高騰の影響などで、支払期日までの償還が困難である方はご相談ください（償還月額の減額等の対応となります）。\n繰上償還や一時的な償還月額の変更等も可能ですので、ご希望の方はお気軽にご相談ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "母子父子寡婦福祉資金",
+    "shortName": "母子及び父子福祉資金"
+  },
+  "localGovernmentLink": {
+    "title": "母子及び父子福祉資金",
+    "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/hitorioya/kashitsuke/boshi_fushi_shikin.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "台東区"
+  },
+  "procedureCounter": "子育て・若者支援課給付担当",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "・貸付を希望する方は、事前に相談してください。・相談は予約制です。・貸付には審査があります。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（母子福祉資金の貸付け）、第14条（母子・父子福祉団体に対する貸付け）、第31条の6（父子福祉資金の貸付け）、第32条（寡婦福祉資金の貸付け）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭の方の経済的自立や扶養しているお子さんの福祉増進のため、必要な資金を貸し付けます。",
+  "support": {
+    "description": "低金利（一部無利子）で必要な資金の貸付を行います。",
+    "materiallySupport": null,
+    "monetarySupport": "低金利（一部無利子）で必要な資金の貸付"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "都内に6ヶ月以上居住している20歳未満の子の母・父・養育者",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "都内に6ヶ月以上居住している20歳未満の子の母・父・養育者"
+  },
+  "updateDate": "2020-10-23",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

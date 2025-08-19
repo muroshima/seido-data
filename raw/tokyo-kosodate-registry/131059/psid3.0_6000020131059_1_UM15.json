@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131059;文京区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健衛生部・文京保健所保健サービスセンター,保健衛生部・文京保健所保健サービスセンター本郷支所",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131059",
+    "psid": "psid3.0+6000020131059+1+UM15"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都文京区春日1丁目16番21号\nシビックセンター3階(健診フロア）、8階北側（事務室）,東京都文京区千駄木5丁目20番18号",
+    "contactComment": "ファクス番号：03-5803-1371,ファクス番号：03-3822-9174",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健衛生部・文京保健所保健サービスセンター,保健衛生部・文京保健所保健サービスセンター本郷支所",
+    "contactPhone": "03-5803-1807,03-3821-5106",
+    "contactUrl": "https://logoform.jp/form/6KSu/554248,https://logoform.jp/form/6KSu/554248",
+    "zipCode": "1128555,1130022"
+  },
+  "cost": "500",
+  "costConditions": "500円",
+  "description": "沐浴指導・相談\n対象\n区内在住で、生後28日未満の赤ちゃんのいる家庭\n\n事業内容\n助産師がご自宅に訪問し、各家庭の状況に応じた沐浴の指導・相談を行います。\n\n申込方法\n管轄の保健サービスセンターへ電話申込\n\n費用\n500円\n\nお住まいを管轄する保健サービスセンター\n| |保健サービスセンター|保健サービスセンター本郷支所|\n|:----|:----|:----|\n|お住まいの地域|後楽1・2丁目<br>春日1・2丁目<br>小石川1・2・3・4・5丁目<br>白山2・3・4丁目<br>千石1・2・3・4丁目<br>水道1・2丁目<br>小日向1・2・3・4丁目<br>大塚1・2・3・4・5・6丁目<br>関口1・2・3丁目<br>目白台1・2・3丁目<br>音羽1・2丁目<br>本郷1・2丁目<br>本郷4・5・6丁目<br>西片1丁目|白山1・5丁目<br>本郷3・7丁目<br>湯島1・2・3・4丁目<br>西片2丁目<br>向丘1・2丁目<br>弥生1・2丁目<br>根津1・2丁目<br>千駄木1・2・3・4・5丁目<br>本駒込1・2・3・4・5・6丁目|\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "産後ケア事業",
+    "shortName": "沐浴指導・相談"
+  },
+  "localGovernmentLink": {
+    "title": "沐浴指導・相談",
+    "uri": "https://www.city.bunkyo.lg.jp/b029/p001558.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "文京区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "管轄の保健サービスセンターへ電話申込",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第17条の2（産後ケア事業）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "出産を終えた退院後、お母さんと赤ちゃんの生活リズムづくりや、心身の安定を図るため、施設においてショートステイ（宿泊）やデイサービス（日帰り）で、助産師などが母子の心身ケアと育児サポートを行います。",
+  "support": {
+    "description": "助産師がご自宅に訪問し、各家庭の状況に応じた沐浴の指導・相談を行います。",
+    "materiallySupport": "助産師がご自宅に訪問し、各家庭の状況に応じた沐浴の指導・相談を行います。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後28日未満の赤ちゃんのいる家庭",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住で、生後28日未満の赤ちゃんのいる家庭"
+  },
+  "updateDate": "2024-05-13",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

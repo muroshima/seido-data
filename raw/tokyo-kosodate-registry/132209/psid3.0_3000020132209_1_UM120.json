@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "132209;東大和市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭センター子ども家庭相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132209",
+    "psid": "psid3.0+3000020132209+1+UM120"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都東大和市中央3-916-8",
+    "contactComment": "ファクス：042-565-3652",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭センター子ども家庭相談係",
+    "contactPhone": "042-565-3651",
+    "contactUrl": "https://www.city.higashiyamato.lg.jp/cgi-bin/contacts/G400200100",
+    "zipCode": "2078585"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "母子・父子自立支援プログラム\n\n児童扶養手当受給者（生活保護受給者を除く）を対象に、就労、転職、資格取得等に関する相談を通じて、個別の状況に応じた自立支援プログラムを策定します。\n作成したプログラムを基に、ハローワークとの連携等により就労による自立を支援します。\n\n対象\n市内在住の、児童扶養手当を受給している方（生活保護受給者を除く。）。\n\n相談\n事前にご予約の上、ご相談ください。\n\n就労相談ができるその他の窓口\n東京都ひとり親家庭支援センターはあと多摩（立川市）\n電話：042-506-1182\n\n東京都ひとり親家庭支援センター　はあと多摩（立川市）（外部リンク）新しいウィンドウで開きます;http://www.haat.or.jp/\nマザーズハローワーク立川\n電話：042-529-7465\n\nマザーズハローワーク立川（外部リンク）新しいウィンドウで開きます;https://jsite.mhlw.go.jp/tokyo-hellowork/kyushokusha/kyujin_kensaku/mothers_tachikawa.html\nハローワーク立川\n電話：042-525-8609\n\nハローワーク立川へ（外部リンク）;https://jsite.mhlw.go.jp/tokyo-hellowork/list/tachikawa.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関するその他のこと",
+    "shortName": "母子・父子自立支援プログラム"
+  },
+  "localGovernmentLink": {
+    "title": "母子・父子自立支援プログラム",
+    "uri": "https://www.city.higashiyamato.lg.jp/kosodatekyoiku/kosodate/1003229/1003231.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "東大和市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "事前にご予約の上、ご相談ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "東京都ひとり親家庭支援センター　はあと多摩（立川市）（外部リンク）",
+      "uri": "http://www.haat.or.jp/"
+    },
+    {
+      "title": "マザーズハローワーク立川（外部リンク）",
+      "uri": "https://jsite.mhlw.go.jp/tokyo-hellowork/kyushokusha/kyujin_kensaku/mothers_tachikawa.html"
+    },
+    {
+      "title": "ハローワーク立川へ（外部リンク）",
+      "uri": "https://jsite.mhlw.go.jp/tokyo-hellowork/list/tachikawa.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童扶養手当受給者（生活保護受給者を除く）を対象に、就労、転職、資格取得等に関する相談を通じて、個別の状況に応じた自立支援プログラムを策定します。\n作成したプログラムを基に、ハローワークと連携して就労による自立等を支援します。",
+  "support": {
+    "description": "児童扶養手当受給者（生活保護受給者を除く）を対象に、就労、転職、資格取得等に関する相談を通じて、個別の状況に応じた自立支援プログラムを策定します。\n作成したプログラムを基に、ハローワークとの連携等により就労による自立を支援します。",
+    "materiallySupport": "児童扶養手当受給者（生活保護受給者を除く）を対象に、就労、転職、資格取得等に関する相談を通じて、個別の状況に応じた自立支援プログラムを策定します。\n作成したプログラムを基に、ハローワークとの連携等により就労による自立を支援します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "市内在住の、児童扶養手当を受給している方（生活保護受給者を除く。）。"
+  },
+  "updateDate": "2022-10-21",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "area": {
+    "areaCode": "131041;新宿区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子ども総合センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020131041",
+    "psid": "psid3.0+7000020131041+1+UM112"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 子ども総合センター",
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "乳幼児とその保護者が遊んだり、交流することができる「ひろば」です。 \n地域の子育て支援として、乳幼児親子向けのイベントや子育て相談、子育て情報の提供などをおこなっていますので、お近くの「ひろば」にぜひお出かけください。\n【子ども総合センター・子ども家庭支援センター】\n子ども総合センター・子ども家庭支援センターには、乳幼児親子が利用できる「親と子のひろば」があります。乳幼児親子サークルや、子育て相談、子育て講座の実施等をおこなっています。\n\n【子ども総合センター（新宿ここ・から広場内）\t】\n月～金曜日　9:30～18:00\n土・日・祝　9:00～18:00\n所在地：新宿7-3-29\n電話番号：03-3232-0695\n【中落合子ども家庭支援センター】\n全日　9:30～18:00\n所在地：中落合2-7-24\n電話番号：03-3952-7751\n【榎町子ども家庭支援センター】\n全日　9:30～18:00\n所在地：榎町36\n電話番号：03-3269-7304\n【信濃町子ども家庭支援センター】\n全日　9:30～18:00\n所在地：信濃町20\n電話番号：03-3357-6851\n【北新宿子ども家庭支援センター\t】\n全日　9:30～18:00\n所在地：北新宿3-20-2\n電話番号：03-3365-1121",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "新宿7-3-29\t\n中落合2-7-24\t\n榎町36\t\n信濃町20\t\n北新宿3-20-2\t",
+    "implementationName": "子ども総合センター（新宿ここ・から広場内）\n中落合子ども家庭支援センター\n榎町子ども家庭支援センター\t\n信濃町子ども家庭支援センター\t\n北新宿子ども家庭支援センター\t"
+  },
+  "institutionName": {
+    "canonicalName": "子育て広場",
+    "shortName": "乳幼児親子のひろば（子ども総合センター・子ども家庭支援センター）"
+  },
+  "localGovernmentLink": {
+    "title": "乳幼児親子のひろば",
+    "uri": "https://www.city.shinjuku.lg.jp/kodomo/kodomos01_000005.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "新宿区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第6項",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "双子の会",
+      "uri": "https://www.city.shinjuku.lg.jp/soshiki/ushigome-h01_001006.html"
+    },
+    {
+      "title": "★児童館HP",
+      "uri": "https://www.city.shinjuku.lg.jp/kodomo/kodomos01_000008_01.html"
+    },
+    {
+      "title": "地域子育て支援センター原町みゆき",
+      "uri": "https://www.city.shinjuku.lg.jp/kodomo/file03_02_00028.html"
+    },
+    {
+      "title": "★落合三世代交流サロンHP（外部リンク）",
+      "uri": "http://www.3sedai.com/blog/"
+    },
+    {
+      "title": "子ども総合センター・子ども家庭支援センターHP",
+      "uri": "https://www.city.shinjuku.lg.jp/kodomo/file03_03_00002.html"
+    },
+    {
+      "title": "つどいの部屋（四谷子ども園）",
+      "uri": "https://www.city.shinjuku.lg.jp/kodomo/file04_07_21_00006.html"
+    },
+    {
+      "title": "地域子育て支援センター二葉HP",
+      "uri": "http://www.futaba-yuka.or.jp/int_nyu/int_huh/"
+    },
+    {
+      "title": "地域子育て支援センター二葉",
+      "uri": "https://www.city.shinjuku.lg.jp/kodomo/file03_02_00029.html"
+    },
+    {
+      "title": "★ゆったりーのHP（外部リンク）",
+      "uri": "http://www.yuttarino.org/"
+    },
+    {
+      "title": "つどいのへや「どんぐり」（西戸山幼稚園）",
+      "uri": "http://www.city.shinjuku.lg.jp/kodomo/file04_07_17_00002.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "小学校就学前のお子さんが安心して遊べるスペースがあり、子育て中の親子が気軽に集い、仲間づくりを通して子育てに関する相談や情報交換等を行う機会を提供しています。また、お子さんの年齢に応じた各種イベントなども行っています。",
+  "support": {
+    "description": "子ども総合センター・子ども家庭支援センターには、乳幼児親子が利用できる「親と子のひろば」があります。乳幼児親子サークルや、子育て相談、子育て講座の実施等をおこなっています。",
+    "materiallySupport": "子ども総合センター・子ども家庭支援センターには、乳幼児親子が利用できる「親と子のひろば」があります。乳幼児親子サークルや、子育て相談、子育て講座の実施等をおこなっています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0歳～小学校就学前の子ども（未就学児）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "乳幼児親子"
+  },
+  "updateDate": "2023-06-14",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "・子ども総合センター（新宿ここ・から広場内）\t\n　月～金曜日　9:30～18:00\n　土・日・祝　9:00～18:00\t\n・中落合子ども家庭支援センター\n　全日　9:30～18:00\n・榎町子ども家庭支援センター\t\n　全日　9:30～18:00\n・信濃町子ども家庭支援センター\t\n　全日　9:30～18:00\n・北新宿子ども家庭支援センター\t\n　全日　9:30～18:00",
+    "fromHM": null,
+    "toHM": null
+  }
+}

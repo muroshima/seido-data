@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健所保健予防課母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+1+UM22"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健所保健予防課母子保健係",
+    "contactPhone": "042-725-5471",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+    "zipCode": null
+  },
+  "cost": "0",
+  "costConditions": "無料",
+  "description": "生活保護受給世帯・市民税非課税世帯及び中国残留邦人等支援法による支援給付受給世帯の妊産婦の方は、保健指導票の提示により、指定医療機関での妊婦健診・新生児聴覚検査・産婦健診・お子様の1か月児健診を無料で受けることができます。（ただし、保健指導票の対象外の検査費用等は、自己負担となります。）\n\n健診を受ける前に申請が必要です。\n\n保健指導票申請にあたっての注意\n\n・必ず受診前に申請をしてください。さかのぼっての適用はできません。\n・妊婦健診の保健指導票を交付された方も、産婦健診・1か月児健診の保健指導票については、必要書類とともに再度申請が必要です（郵送可）。ご出産後忘れずに申請をお願いします。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "町田市内は町田市民病院のみ。"
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関する金銭的支援",
+    "shortName": "保健指導票"
+  },
+  "localGovernmentLink": {
+    "title": "経済的にお困りの妊産婦の方へ",
+    "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/10/1128.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": "保健予防課窓口（市庁舎7階）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "生活保護受給世帯・市民税非課税世帯及び中国残留邦人等支援法による支援給付受給世帯の妊産婦の方は、保健指導票の提示により、指定医療機関での妊婦健診・新生児聴覚検査・産婦健診・お子様の1か月児健診を無料で受けることができます。（ただし、保健指導票の対象外の検査費用等は、自己負担となります。）健診を受ける前に申請が必要です。",
+  "support": {
+    "description": "保健指導票の提示により、指定医療機関での妊婦健診・新生児聴覚検査・産婦健診・お子様の1か月児健診を無料で受けることができます。（ただし、保健指導票の対象外の検査費用等は、自己負担となります。）",
+    "materiallySupport": "保健指導票の提示により、指定医療機関での妊婦健診・新生児聴覚検査・産婦健診・お子様の1か月児健診を無料で受けることができます。（ただし、保健指導票の対象外の検査費用等は、自己負担となります。）",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": "生活保護受給世帯・市民税非課税世帯及び中国残留邦人等支援法による支援給付受給世帯の妊産婦の方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生活保護受給世帯・市民税非課税世帯及び中国残留邦人等支援法による支援給付受給世帯の妊産婦の方"
+  },
+  "updateDate": "2023-01-25",
+  "useConsiderationFlag": true,
+  "utilization": "保健予防課窓口（市庁舎7階）にて申請を受け付けております。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

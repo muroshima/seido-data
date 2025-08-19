@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131091;品川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康課　保健衛生係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131091",
+    "psid": "psid3.0+6000020131091+1+UM9"
+  },
+  "belongings": "利用方法は、他の受診票と同じです。都内契約医療機関を受診する際は窓口に受診票を提出してください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康課　保健衛生係",
+    "contactPhone": "03-5742-6745",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "助成限度額\n妊婦超音波検査1回あたり5,300円",
+  "description": "妊婦超音波検査の支援拡充について\n\n妊婦健康診査は妊婦さんやお腹の赤ちゃんの健康管理を行う上で欠かせないものです。\n品川区では、妊婦健康診査のうち超音波検査費用の助成回数を拡大することで、妊娠にかかる経済的負担を軽減し安心して出産に臨めるよう支援します。\n\n■対象となる方\n令和5年4月1日以降に妊娠届出をされた方\n\n■助成の内容\n妊婦超音波検査にかかる費用の助成回数を1回から4回へ拡大します。\n\n■助成限度額\n妊婦超音波検査1回あたり5,300円\n\n■交付方法\n品川区では、妊娠届出時に妊婦健康診査受診票等が冊子になっている受診票セットをお渡ししています。\n上記の受診票セットとは別冊で、妊婦超音波検査受診票（2～4回分）をお渡しします。\n※令和5年3月31日以前に妊娠届出をされた方は、令和5年4月1日以降に超音波検査を受ける場合でも、助成回数は1回のみとなります。（追加交付はできません）\n\n■利用方法\n利用方法は、他の受診票と同じです。都内契約医療機関を受診する際は窓口に受診票を提出してください。\n里帰り出産などにより契約医療機関以外（都外の医療機関など）を受診し、妊婦超音波検査受診票を使用せずに検査を受けた方についても助成の対象になります。詳しくは下記のページをご確認ください。\n\n里帰り等妊婦健康診査費・新生児聴覚検査費助成;https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-ninnshinn/kodomo-ninnshinn-service/hpg000003975.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "都内契約医療機関"
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊産婦向け健診",
+    "shortName": "妊婦超音波検査"
+  },
+  "localGovernmentLink": {
+    "title": "妊婦超音波検査の支援拡充について",
+    "uri": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-ninnshinn/kodomo-ninnshinn-service/20230323204838.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "品川区"
+  },
+  "procedureCounter": "都内契約医療機関",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "利用方法は、他の受診票と同じです。都内契約医療機関を受診する際は窓口に受診票を提出してください。\n里帰り出産などにより契約医療機関以外（都外の医療機関など）を受診し、妊婦超音波検査受診票を使用せずに検査を受けた方についても助成の対象になります。詳しくは下記のページをご確認ください。\n\n里帰り等妊婦健康診査費・新生児聴覚検査費助成;https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-ninnshinn/kodomo-ninnshinn-service/hpg000003975.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "里帰り等妊婦健康診査費・新生児聴覚検査費助成",
+      "uri": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-ninnshinn/kodomo-ninnshinn-service/hpg000003975.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": "対象となる方\n令和5年4月1日以降に妊娠届出をされた方",
+  "summary": "妊婦健康診査は妊婦さんやお腹の赤ちゃんの健康管理を行う上で欠かせないものです。品川区では、妊婦健康診査のうち超音波検査費用の助成回数を拡大することで、妊娠にかかる経済的負担を軽減し安心して出産に臨めるよう支援します。",
+  "support": {
+    "description": "妊婦健康診査は妊婦さんやお腹の赤ちゃんの健康管理を行う上で欠かせないものです。\n品川区では、妊婦健康診査のうち超音波検査費用の助成回数を拡大することで、妊娠にかかる経済的負担を軽減し安心して出産に臨めるよう支援します。\n\n■助成の内容\n妊婦超音波検査にかかる費用の助成回数を1回から4回へ拡大します。\n\n■助成限度額\n妊婦超音波検査1回あたり5,300円\n\n■交付方法\n品川区では、妊娠届出時に妊婦健康診査受診票等が冊子になっている受診票セットをお渡ししています。\n上記の受診票セットとは別冊で、妊婦超音波検査受診票（2～4回分）をお渡しします。\n※令和5年3月31日以前に妊娠届出をされた方は、令和5年4月1日以降に超音波検査を受ける場合でも、助成回数は1回のみとなります。（追加交付はできません）",
+    "materiallySupport": null,
+    "monetarySupport": "妊婦健康診査は妊婦さんやお腹の赤ちゃんの健康管理を行う上で欠かせないものです。\n品川区では、妊婦健康診査のうち超音波検査費用の助成回数を拡大することで、妊娠にかかる経済的負担を軽減し安心して出産に臨めるよう支援します。\n\n■助成の内容\n妊婦超音波検査にかかる費用の助成回数を1回から4回へ拡大します。\n\n■助成限度額\n妊婦超音波検査1回あたり5,300円\n\n■交付方法\n品川区では、妊娠届出時に妊婦健康診査受診票等が冊子になっている受診票セットをお渡ししています。\n上記の受診票セットとは別冊で、妊婦超音波検査受診票（2～4回分）をお渡しします。\n※令和5年3月31日以前に妊娠届出をされた方は、令和5年4月1日以降に超音波検査を受ける場合でも、助成回数は1回のみとなります。（追加交付はできません）"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "令和5年4月1日以降に妊娠届出をされた方"
+  },
+  "updateDate": "2023-03-28",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

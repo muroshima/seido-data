@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部障害者福祉課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+6+UM66"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部障害者福祉課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e041/kuseijoho/gaiyo/soshiki/fukushi/syogai.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "大気汚染の影響を受けると推定される疾病にかかった方に対し、一定の要件を満たす場合に、東京都が医療費の一部を助成しています。\n18歳以上の方の新規申請は、平成27年3月31日で終了しました。\n（現在医療券をお持ちの方は更新できます。）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "助成期間\n1.申請日から2年を経過した日以降の直近の誕生日の属する月の末日まで\n2.満18歳の誕生日の属する月の末日まで\nのいずれか短い方となります。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の医療費助成制度（ぜん息など）",
+    "shortName": "東京都大気汚染医療費助成制度"
+  },
+  "localGovernmentLink": {
+    "title": "東京都大気汚染医療費助成制度",
+    "uri": "https://www.city.edogawa.tokyo.jp/e041/kenko/iryo/iryo/josei/taikiosen.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "申請窓口\n・福祉部障害者福祉課医療給付係（江戸川区役所南棟2階1番）\n中央健康サポートセンター;https://www.city.edogawa.tokyo.jp/e054/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/hokenjo/chuo.html\n・小岩健康サポートセンター;https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/koiwa.html\n・東部健康サポートセンター;https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/tobu.html\n・清新町健康サポートセンター;https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/seishincho.html\n・葛西健康サポートセンター;https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/kasai.html\n・鹿骨健康サポートセンター;https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/shishibone.html\n・小松川健康サポートセンター;https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/komatsugawa.html\n・なぎさ健康サポートセンター;https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/nagisa.html",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "変更届、再交付申請について\n医療券の記載事項に変更が生じた場合は、下記の書類を提出してください。\n東京都以外の道府県へ転出及び、治療を受けている方が亡くなった場合は医療券が失効します。申請窓口へ持参または郵送等で医療券を返却してください。\n\n氏名変更、東京都内での住所変更\n・変更届\n・住民票（発行から1か月以内）\n\n健康保険証の変更\n・変更届\n・健康保険証のコピー\n・高齢受給者証のコピー（70歳から74歳の方）\n\n医療券紛失等による再交付\n・医療券再交付申請書\n\n現在医療券をお持ちの平成9年4月1日以前生まれの方へ\n更新手続きに関する留意点\n・有効期間満了後も引き続き医療費助成を受けようとする方は、有効期間満了の1か月前までに更新手続きをしてください。\n・有効期間の満了までに更新申請をしないと受給資格を失います。\n・一旦受給資格を失うと、再度申請はできませんのでご注意ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "制度の詳細については、東京都保健医療局のホームページをご覧ください。\n大気汚染医療費助成制度のご案内（東京都保健医療局ホームページ）",
+      "uri": "https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/taiki/iryouhi/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "大気汚染の影響を受けると推定される疾病（気管支ぜん息など）にかかった方に対し、一定の要件を満たす場合に、医療費の助成をしています。東京都大気汚染医療費助成制度は、大気汚染の影響を受けると推定される疾病にかかった方に対して、一定の要件を満たす場合に、東京都が医療費の一部を助成する制度です。具体的な助成内容や申請条件については、東京都保健医療局のホームページをご覧ください",
+  "support": {
+    "description": "助成の内容\n認定された疾病について、医療券の有効期間内の治療に要した医療費のうち、医療保険適用後の自己負担額（入院時の食事療養標準負担額または生活療養標準負担額を除く）を助成します。\nただし、生年月日が平成9年4月1日以前の方は月額6,000円まで自己負担となります。",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": null,
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": null
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "・18歳未満の方\n・気管支ぜん息、慢性気管支炎、ぜん息性気管支炎、肺気しゅのいずれかにり患している方\n・東京都内に引き続き1年（3歳未満は6か月）以上住所を有する方\n・健康保険に加入している方\n・申請日以降喫煙しない方\n以上の条件をすべて満たす方が対象です。"
+  },
+  "updateDate": "2023-07-03",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

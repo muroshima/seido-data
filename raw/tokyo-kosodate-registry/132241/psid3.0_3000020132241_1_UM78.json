@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132241;多摩市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども・若者政策課 幼児教育・保育担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132241",
+    "psid": "psid3.0+3000020132241+1+UM78"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都多摩市関戸六丁目12番地1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども・若者政策課 幼児教育・保育担当",
+    "contactPhone": "042-338-6850",
+    "contactUrl": null,
+    "zipCode": "2068666"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "医療的ケアが必要な児童の保育所入所について\n\n医療的ケアが必要な児童の保育所入所について\n多摩市では、認可保育所で医療的ケアが必要な児童(「医療的ケア児」と言います。)の受入れを行っています。ただし、体調の変化や施設での過ごし方に注意が必要な医療的ケア児の受入れについては、施設の体制等を加味し、相談のうえでの入所申請となります。入所申請を考えている医療的ケア児の保護者には、事前に市や保育所への確認をしていただいた上で、いくつかの手続きをお願いしています。\n\n預ける保護者やお子様が、保育施設で過ごしている時間も、安心して日々の生活を送ることができるよう事前の準備が必要となりますので、まずは子育て支援課保育担当(042-338-6850)までお問い合わせください。\n\n※多摩市保育所等入所における医療的ケアとは、医療的介護行為のうち治療を目的としないもので、保育所等の活動の妨げにならない範囲の内容、頻度等で行うことができるものを指します。\n\n対象の児童\n〇医療的ケアが必要で、主治医より集団保育が可能であると判断をされている児童\n〇当該年度の4月1日時点で3歳の誕生日を迎えている児童\n※保育所等や児童の状況により受け入れに関する確認ができた場合は、1歳の誕生日を迎えている児童から受入れが可能になることがあります。\n\n医療的ケアの内容\n1　経鼻や胃ろうによる経管栄養\n2　口腔内、鼻腔内又は気管カニューレ切開孔からの気管内吸引\n3　この他、主治医と保育所が集団保育の中で実施可能と認めた処置\n\n入所申請までの流れ\n医療的ケア児として認定されても、認可保育所等の入所申請をして、利用調整の上で利用可となることが必要となります。\n認可保育所等の入所申請までに、手続きを完了し、医療的ケア児として認定されていることが必要となりますので、4月の保育所入所申請を希望する場合は前年度の5月～6月までに、子育て支援課保育担当へのご連絡をお願いします。\n※保育所の受け入れ準備等の観点から、医療的ケア児の保育所入所は4月を基本としています。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "障がい児保育",
+    "shortName": "医療的ケアが必要な児童の保育所入所"
+  },
+  "localGovernmentLink": {
+    "title": "医療的ケアが必要な児童の保育所入所について",
+    "uri": "https://www.city.tama.lg.jp/kosodate/1008019/1008034/1012033.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-23",
+    "updater": "多摩市"
+  },
+  "procedureCounter": "子育て支援課保育担当",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "入所申請までの流れ\n医療的ケア児として認定されても、認可保育所等の入所申請をして、利用調整の上で利用可となることが必要となります。\n認可保育所等の入所申請までに、手続きを完了し、医療的ケア児として認定されていることが必要となりますので、4月の保育所入所申請を希望する場合は前年度の5月～6月までに、子育て支援課保育担当へのご連絡をお願いします。\n※保育所の受け入れ準備等の観点から、医療的ケア児の保育所入所は4月を基本としています。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第９条",
+    "regulationName": "医療的ケア児及びその家族に対する支援に関する法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "集団保育が可能で心身に障がいがあるお子さんを、健常児と一緒に保育し相互の健全な育成を図ります。",
+  "support": {
+    "description": "医療的ケアの内容\n1　経鼻や胃ろうによる経管栄養\n2　口腔内、鼻腔内又は気管カニューレ切開孔からの気管内吸引\n3　この他、主治医と保育所が集団保育の中で実施可能と認めた処置",
+    "materiallySupport": "医療的ケアの内容\n1　経鼻や胃ろうによる経管栄養\n2　口腔内、鼻腔内又は気管カニューレ切開孔からの気管内吸引\n3　この他、主治医と保育所が集団保育の中で実施可能と認めた処置",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "対象の児童\n〇医療的ケアが必要で、主治医より集団保育が可能であると判断をされている児童\n〇当該年度の4月1日時点で3歳の誕生日を迎えている児童\n※保育所等や児童の状況により受け入れに関する確認ができた場合は、1歳の誕生日を迎えている児童から受入れが可能になることがあります。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象の児童\n〇医療的ケアが必要で、主治医より集団保育が可能であると判断をされている児童\n〇当該年度の4月1日時点で3歳の誕生日を迎えている児童\n※保育所等や児童の状況により受け入れに関する確認ができた場合は、1歳の誕生日を迎えている児童から受入れが可能になることがあります。"
+  },
+  "updateDate": "2023-10-04",
+  "useConsiderationFlag": true,
+  "utilization": "認可保育所等の入所申請までに、手続きを完了し、医療的ケア児として認定されていることが必要となりますので、4月の保育所入所申請を希望する場合は前年度の5月～6月までに、子育て支援課保育担当へのご連絡をお願いします。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

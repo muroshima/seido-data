@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132136;東村山市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部保育幼稚園課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132136",
+    "psid": "psid3.0+1000020132136+1+UM5047"
+  },
+  "belongings": "子どものための教育・保育認定兼保育施設等の利用申請書,主治医意見書;https://www.city.higashimurayama.tokyo.jp/kosodate/kyouikuhoikushisetsu/hoikujyo/hoikusyotou.html,　(注記)その他保育の必要性が分かる書類等、通常の申込に係る提出書類も必要となります。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東村山市本町1丁目2番地3 いきいきプラザ2階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "内線3610～3612",
+    "contactName": "子ども家庭部保育幼稚園課",
+    "contactPhone": "電話：市役所代表：042-393-5111",
+    "contactUrl": null,
+    "zipCode": "1898501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "手厚い保育優先枠について\n　東村山市では、保育所の定員の一部を特別優先枠として設定しています。\n　特別優先枠を使って入所申請をされた場合、先行して利用調整が行われます。特別優先枠の利用調整後に、特別優先枠以外の方の利用調整を行います。\n　特別優先枠の利用をご希望の場合は、教育・保育利用申込書の所定欄に希望する旨の記載が必要です。\n\n手厚い保育優先枠について\n　手厚い保育優先枠は、保育が必要となるお子さんで、発達の遅れや課題がある、こだわりが強い、または医療的ケアが必要等の保育上の配慮が必要な集団的保育が可能と見込める児童を対象としております。\n子どものための教育・保育認定兼保育施設等の利用申請書にある「手厚い保育優先枠」にチェックをしていただき、別途お子さんの様子がわかる当市所定の主治医意見書が必要です。\n（注記）その他保育の必要性が分かる書類等、通常の申込に係る提出書類も必要となります。\n詳細につきましては、保育施設等入所案内をご参照下さい。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "保育所等における医療的ケア児への支援",
+    "shortName": "手厚い保育優先枠"
+  },
+  "localGovernmentLink": {
+    "title": "特別優先利用枠（手厚い保育優先枠・連携施設卒園児優先枠）の申込みについて",
+    "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/kyouikuhoikushisetsu/hoikujyo/nyuusyotetsuduki/yuusen.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/21",
+    "updater": "東村山市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "子どものための教育・保育認定兼保育施設等の利用申請書にある「手厚い保育優先枠」にチェックをしていただき、別途お子さんの様子がわかる当市所定の主治医意見書が必要です。\n\n　(注記)その他保育の必要性が分かる書類等、通常の申込に係る提出書類も必要となります。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条第1項",
+    "regulationName": "医療的ケア児及びその家族に対する支援に関する法律"
+  },
+  "relatedLink": [
+    {
+      "title": "保育所等の各種書類のダウンロード",
+      "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/kyouikuhoikushisetsu/hoikujyo/hoikusyotou.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育所等において看護師等を配置し、医療的ケア児の受入れ体制を整備しております。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "手厚い保育優先枠は、保育が必要となるお子さんで、発達の遅れや課題がある、こだわりが強い、または医療的ケアが必要等の保育上の配慮が必要な集団的保育が可能と見込める児童を対象としております。"
+  },
+  "updateDate": "2024/09/09",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

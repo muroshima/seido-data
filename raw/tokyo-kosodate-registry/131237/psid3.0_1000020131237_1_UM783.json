@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 児童相談所相談課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM783"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 児童相談所相談課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e077/kuseijoho/gaiyo/soshiki/kodomo/childguidanceoffice.html",
+    "zipCode": null
+  },
+  "cost": "2000",
+  "costConditions": "1人一日につき2,000円\n生活保護受給世帯、住民税非課税世帯は1日につき1,000円となります。\n注：小学校への通学は、施設の職員や協力家庭員が送迎します。\n\nバス料金等、送迎のための費用は、別途実費負担となります。\n注：利用決定後に利用をキャンセルする場合、キャンセル料がかかる場合があります。",
+  "description": "保護者の方が病気・出産・介護・冠婚葬祭・就労などの理由で夜間の保育が必要になったが、親族等の支援が得られない場合に、委託施設でお子さんの一時預かりを行います。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "トワイライトステイ（夜間一時保育）",
+    "shortName": "子どもトワイライトステイ事業"
+  },
+  "localGovernmentLink": {
+    "title": "子どもトワイライトステイ事業",
+    "uri": "https://www.city.edogawa.tokyo.jp/e077/kosodate/kosodate/hoiku/ichiji/twilight-stay.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "子ども家庭部相談課支援係\n\n江戸川区中央3丁目4番18号（江戸川区児童相談所内）\n電話：03-5678-1810\n利用方法など、詳しくはお問い合わせください。",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "利用希望日の3日前（日曜、祝休日を除く）までに登録と利用申請が必要です。\n\nお申し込みは事前に下記問合せ先に利用要件等ご確認のうえ、江戸川区児童相談所までお越しください。\n\n必要書類：申請者（保護者）の本人確認のための書類（免許証、パスポート等）が必要となります。生活保護受給世帯は「保護証明書」が必要です。また、ご利用の理由により追加で書類のご提出をお願いする場合があります。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第3項、第21条の9",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者が入院や通院、出張や残業などの理由で、平日の夜間や休日に一時的に家庭でお子さんの面倒をみられなくなったときに、お近くの児童養護施設、乳児院、母子生活支援施設でお預かりします。",
+  "support": {
+    "description": "保護者の方が病気・出産・介護・冠婚葬祭・就労などの理由で夜間の保育が必要になったが、親族等の支援が得られない場合に、委託施設でお子さんの一時預かりを行います。",
+    "materiallySupport": "保護者の方が病気・出産・介護・冠婚葬祭・就労などの理由で夜間の保育が必要になったが、親族等の支援が得られない場合に、委託施設でお子さんの一時預かりを行います。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "区内在住の2歳から12歳までの健康なお子さんで、保護者が次の要件のいずれかに該当し、かつ、保護者以外に養育する方がいない場合",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 12,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住の2歳から12歳までの健康なお子さんで、保護者が次の要件のいずれかに該当し、かつ、保護者以外に養育する方がいない場合\n\n1.出産、疾病又はけがにより入院、通院又は自宅療養を要する場合\n2.親族の疾病等によりその看護又は介護に当たる場合\n3.冠婚葬祭のため不在となる場合\n4.仕事又は仕事のための資格取得等で不在となる場合\n5.育児疲れ、育児不安等で児童の養育が困難な場合\n\n詳細な利用要件については、必ず利用申込み前にお問い合わせください。\n\n注意事項\n・障害やてんかん・ぜんそく等の病気をお持ちなど、専門的な看護が必要なお子さんは利用できません。\n また、食物アレルギーをお持ちのお子さんについても対応ができない場合があります。\n・施設の定員等の都合上、利用をお断りすることがあります。\n・お子さんのトワイライトステイ利用時、感染症等の症状が出た場合は利用を停止します。\n・宿泊を伴う利用となる場合は、子どもショートステイ事業の利用に変更となります。\n・施設への送迎は保護者の方が行ってください。"
+  },
+  "updateDate": "2023-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "午後3時から午後10時までの間\n（午後10時を超えての預かりとなった場合、自動的に子どもショートステイ事業の利用に切り替わります。）\nhttps://www.city.edogawa.tokyo.jp/e077/kosodate/kosodate/hoiku/ichiji/shortstay.html",
+    "fromHM": "15:00",
+    "toHM": "22:00"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "千代田保健所保健サービス課保健サービス係（歯科保健担当）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+2+UM792"
+  },
+  "belongings": "母子健康手帳、問診票（記入してご持参ください）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区九段北1-2-14",
+    "contactComment": null,
+    "contactEmail": "hoken-service@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "千代田保健所保健サービス課保健サービス係（歯科保健担当）",
+    "contactPhone": "03-5211-8178",
+    "contactUrl": null,
+    "zipCode": "1020073"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "1歳のお誕生日、おめでとうございます。\n歯も少しずつ増え、離乳食も進んでいることと思います。歯とお口の健康づくりのスタートである1歳の節目に、お口の健康チェックをご案内しています。ぜひご参加ください。\n\n内容\n1.歯の本数とむし歯のチェック\n2.歯みがき方法の実習\n3.むし歯予防のため、歯が8本以上あり、希望の方にはフッ化物塗布（現金640円、塗布後30分は飲食禁止）\n\n対象者\n対象のお子さんには、ご案内を送付します。\n\n費用\n歯科健診は無料、フッ素塗布は現金640円です。\n（注意） 生活保護受給中の方は、事前に手続きを取ることで費用が免除になります。予約時にお申し出ください。\n\n受診にあたってのお願い\n・来所の前に、お子さんおよび付き添いの方の検温をお願いします。\n・会場のスペースには限りがあるため、対象のお子さん一人につき、付き添いの方は一人までのご協力をお願いします。\n・感染症予防のため、お子さんやご家族が発熱・咳・下痢・発疹等の症状がある場合は入場をお断りさせていただきます。別日への変更をお願いします。\n・付き添いの方は、来所の際にはマスクの着用にご協力ください。\n\n実施日\nビーバー相談：2024年4月～2025年3月の実施日\n4月15日（月曜日）、5月13日（月曜日）、6月10日（月曜日）、7月8日（月曜日）、8月19日（月曜日）、9月9日（月曜日）、10月21日（月曜日）、11月11日（月曜日）、12月16日（月曜日）、1月20日（月曜日）、2月17日（月曜日）、3月10日（月曜日）",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "ビーバー相談 1歳のバースデー歯科健診（外部サイトへリンク）",
+      "uri": "https://chiyoda-portal.my.site.com/ctz/appMngDef/a042w000011GZoxAAG/am000000050"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": "13:00",
+    "fromYMD": null,
+    "toHM": "15:45",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "東京都千代田区九段北1-2-14",
+    "implementationName": "千代田保健所4階歯とお口の相談室"
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児の歯の健康診査（1歳児歯科健康診査）",
+    "shortName": "ビーバー相談 1歳のバースデー歯科健診"
+  },
+  "localGovernmentLink": {
+    "title": "ビーバー相談 1歳のバースデー歯科健診",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/beaver.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": "千代田保健所保健サービス課保健サービス係（歯科保健担当）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "予約制（15分ごとの予約）です。\nポータルサイトからお申し込みください。\n電話（電話番号：03-5211-8178）でもご予約を受け付けていますが、健診時間中は対応が難しいので、ご了承ください。\n・ポータルサイト\nオンライン予約はビーバー相談 1歳のバースデー歯科健診（外部サイトへリンク）からお申し込みください。\n（注意） ポータルサイトの登録方法については、「千代田区ポータルサイト」をご覧ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "千代田区ポータルサイト",
+      "uri": "https://www.city.chiyoda.lg.jp/koho/kuse/johosesaku/portalsite-kaishi.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "歯とお口の健康づくりのスタートである1歳の節目に歯科健康診査を受けて、むし歯の予防と早期発見をめざしましょう。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "千代田区にお住まいの1歳を迎えるお子さんとその保護者"
+  },
+  "updateDate": "2024-04-10",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

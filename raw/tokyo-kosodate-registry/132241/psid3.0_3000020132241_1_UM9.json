@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132241;多摩市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センター母子保健担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132241",
+    "psid": "psid3.0+3000020132241+1+UM9"
+  },
+  "belongings": "（多摩市の）住民票　1通（内容に変更が無ければ、交付日から3箇月以内のもの）\n※申請書の内の「同意書」欄で同意をすれば、添付を省略することができます。\n母子健康手帳の表紙のコピー　1通\n母子健康手帳の妊婦健康診査受診記録が記載されている箇所のコピー　1通\n助成を受けようとする妊婦健康診査について、受診した助産所または医療機関が発行した領収書の原本と明細書\n※原則、領収証の返却は出来ません。また、領収書のコピーは認められません。\n振込先の通帳（銀行名、支店名、支店番号、口座番号及び口座名義人がわかるもの）提示\n※郵送申請のときは、通帳を開き上の事項が記載された部分をコピーしてください。\n印鑑",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都多摩市関戸四丁目19番5号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭センター母子保健担当",
+    "contactPhone": "042-376-9177",
+    "contactUrl": null,
+    "zipCode": "2060011"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "身体への負担が大きい多胎の妊婦さんは妊婦健診の受診回数が多くなる場合があります。多摩市では、妊婦健康診査を14回までの健診費用の一部を助成する妊婦健診受診票に加えて、15回目以降の妊婦健診の受診費用の一部を５回を上限として助成しています。\n\n申請期間\n申請期限は、出産した日から1年以内です。死産または流産のときは、妊婦健康診査を最後に受診した日（添付する領収書の日付）から、1年以内です。\n郵送のときは、到着日を申請日とします。\n\n持ち物\n（多摩市の）住民票　1通（内容に変更が無ければ、交付日から3箇月以内のもの）\n※申請書の内の「同意書」欄で同意をすれば、添付を省略することができます。\n母子健康手帳の表紙のコピー　1通\n母子健康手帳の妊婦健康診査受診記録が記載されている箇所のコピー　1通\n助成を受けようとする妊婦健康診査について、受診した助産所または医療機関が発行した領収書の原本と明細書\n※原則、領収証の返却は出来ません。また、領収書のコピーは認められません。\n振込先の通帳（銀行名、支店名、支店番号、口座番号及び口座名義人がわかるもの）提示\n※郵送申請のときは、通帳を開き上の事項が記載された部分をコピーしてください。\n印鑑\n\n書類\n多摩市里帰り等妊婦健診受診費用助成金交付申請書（第1号様式） （PDF 102.3KB）;https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/407/1.pdf\n多摩市里帰り等妊婦健診受診費助成金交付申請添付書（第2号様式） （PDF 103.3KB）;https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/407/2.pdf\n多摩市里帰り等妊婦健診受診費用助成金交付申請書（第1号様式）記入見本 （PDF 146.1KB）;https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/407/1-2.pdf\n多摩市里帰り等妊婦健診受診費助成金交付申請添付書（第2号様式）記入見本 （PDF 151.3KB）;https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/407/2-2.pdf\n\n手続き窓口\n健康推進課（多摩市立健康センター）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "2024年4月1日から",
+    "fromHM": null,
+    "fromYMD": "2024-04-01",
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊産婦向け健診",
+    "shortName": "多胎児妊婦に係る助成金"
+  },
+  "localGovernmentLink": {
+    "title": "里帰り等妊婦健診受診費助成金",
+    "uri": "https://www.city.tama.lg.jp/kosodate/1008018/1008020/1003406.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "多摩市"
+  },
+  "procedureCounter": "健康推進課（多摩市立健康センター）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請期間\n申請期限は、出産した日から1年以内です。死産または流産のときは、妊婦健康診査を最後に受診した日（添付する領収書の日付）から、1年以内です。\n郵送のときは、到着日を申請日とします。",
+  "procedurePeriod": {
+    "conditions": "1.申請期限は、出産した日から1年以内です。死産または流産のときは、妊婦健康診査を最後に受診した日（添付する領収書の日付）から、1年以内です。2.郵送のときは、到着日を申請日とします。",
+    "fromHM": null,
+    "fromYMD": "2024-04-01",
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "本人,代理人",
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "里帰り等の妊婦健診受診費助成金申請手続きについて （PDF 209.1KB）",
+      "uri": "https://www.city.tama.lg.jp/kosodate/1008018/1008020/1003407.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "身体への負担が大きい多胎の妊婦さんは妊婦健診の受診回数が多くなる場合があります。多摩市では、妊婦健康診査を14回までの健診費用の一部を助成する妊婦健診受診票に加えて、15回目以降の妊婦健診の受診費用の一部を５回を上限として助成しています。",
+  "support": {
+    "description": "多胎妊婦健康診査費の助成対象経費は、15回目以降の妊婦健康診査1回の受診につき、受診に要した実費額と上限額5,000円とを比較していずれか少ない額とし、5回を上限とします。",
+    "materiallySupport": null,
+    "monetarySupport": "多胎妊婦健康診査費の助成対象経費は、15回目以降の妊婦健康診査1回の受診につき、受診に要した実費額と上限額5,000円とを比較していずれか少ない額とし、5回を上限とします。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "多胎妊娠で妊婦健診を14回を超えて受診した方"
+  },
+  "updateDate": "2024-07-24",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

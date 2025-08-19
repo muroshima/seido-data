@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健所保健総務課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+1+UM114"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健所保健総務課",
+    "contactPhone": "042-724-4241",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/12",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "平日の診療時間内のときは、まず、かかりつけ医にご相談ください。\n\n準夜帯・休日の受診\n深夜帯の受診\n急な病気やけがのときの電話相談窓口\n市内の当番医療機関（休日等の午前9時から午後5時の時間帯に、内科・小児科標榜の医療機関が当番になることがあります。）\n町田市医師会休日・準夜急患こどもクリニック\n町田市医師会休日・準夜急患こどもクリニックでは、急に病気になった時で、かかりつけ医や近所の医師に受診できない時など、緊急に診療を必要とするお子さん（15歳以下）を対象に診療を行っています。\n\n入院や高度の医療が必要な場合は、町田市民病院等と連携して対応します。\n\n急病の診療は、応急的なものです。翌日、かかりつけ医等の診療を必ず受けるようにしてください。\n\n市内の当番医療機関\n当番医療機関\n町田市では、町田市医師会と協力して、夜間や休日等の医療機関が通常休診している時間帯に、市内医療機関を下記のとおり当番制で確保しております。\n\n当日の医療機関については、町田市医師会ホームページ（休日・救急診療）、広報まちだをご覧いただくか、東京消防庁救急相談センター、東京都医療機関案内サービス「ひまわり」へお問い合わせください。また、下記メール配信サービス「夜間・休日診療情報」で当番医療機関の情報を配信しています。\n\n診療日・診療時間・診療科目・医療機関区分\n|診療日|診療時間|診療科目|医療機関区分|\n|:----|:----|:----|:----|\n|月曜日から金曜日_（祝休日、年末年始を除く）|午後7時から翌朝8時|内科系1か所|病院|\n|土曜日_（祝休日、年末年始を除く）|午後1時から翌朝8時|内科系1か所|病院|\n|日曜日・祝休日・年末年始|午前9時から翌朝9時|内科系1か所_外科系2か所|病院|\n|日曜日・祝休日・年末年始|午前9時から午後5時|内科系3か所|診療所|",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "町田市原町田5-8-21（町田市健康福祉会館1階）",
+    "implementationName": "町田市医師会休日・準夜急患こどもクリニック\n町田市歯科医師会休日応急歯科・障がい者歯科診療所\n町田市歯科医師会休日応急歯科・障がい者歯科診療所では、一般の歯科診療所が診療していない休日等に歯科の応急診療を行っております。\n\n詳細は、町田市ホームページ「町田市歯科医師会休日応急歯科・障がい者歯科診療所」をご覧ください。\nhttps://www.city.machida.tokyo.jp/iryo/iryo/kyubyo/kyuzitusika.html"
+  },
+  "institutionName": {
+    "canonicalName": "小児科救急",
+    "shortName": "子どもの救急（準夜帯・休日の受診）"
+  },
+  "localGovernmentLink": {
+    "title": "子どもの救急",
+    "uri": "https://kosodate-machida.tokyo.jp/mokuteki/3/3/10449.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第30条の4第2項",
+    "regulationName": "医療法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "町田市医師会休日・準夜急患こどもクリニックでは、急に病気になった時で、かかりつけ医や近所の医師に受診できない時など、緊急に診療を必要とするお子さん（15歳以下）を対象に診療を行っています。",
+  "support": {
+    "description": "子どもの救急\n・準夜帯・休日の受診\n・深夜帯の受診\n・急な病気やけがのときの電話相談窓口\n・市内の当番医療機関（",
+    "materiallySupport": "子どもの救急",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "078"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "小児科（15歳以下、中学生まで）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 15,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "小児科（15歳以下、中学生まで）"
+  },
+  "updateDate": "2022-07-26",
+  "useConsiderationFlag": false,
+  "utilization": "042-710-0927\n\n受診する場合は、必ず事前に電話でご連絡ください。\n\n電話をしていただくのは、予約のためではなく、お子さんの症状を前もってお聞きし、適切な医療機関のご案内やご来院した際にお待ちいただく時間を短くするためのものです。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "|診療日|区分|受付時間|\n|:----|:----|:----|\n|日曜日・祝休日・年末年始（12月29日から1月3日）|日中帯|午前8時45分（午前9時から診療）から午後4時30分|\n|毎日|準夜帯|午後6時（午後7時から診療）から午後9時30分|",
+    "fromHM": null,
+    "toHM": null
+  }
+}

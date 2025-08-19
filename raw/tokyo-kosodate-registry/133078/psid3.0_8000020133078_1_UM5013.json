@@ -1,0 +1,137 @@
+{
+  "area": {
+    "areaCode": "133078;檜原村\t",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "やすらぎの里 福祉けんこう課 子育て支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020133078",
+    "psid": "psid3.0+8000020133078+1+UM5013"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "FAX 042-519-9789",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "やすらぎの里 福祉けんこう課 子育て支援係",
+    "contactPhone": "042-598-3122",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "檜原村出産・子育て応援事業　【令和5年4月1日】\n檜原村では、国の「出産・子育て応援交付金事業」に基づき、妊娠期から出産・子育てまで一貫した切れ目ない支援を行うため、面談や継続的な情報発信等を行う「伴走型相談支援」と経済的な負担軽減を図る「経済的支援」を一体的に実施します。\n\n事業開始日\n令和5年4月1日\n\n事業内容\n伴走型相談支援について\n全ての妊婦さん、子育て世帯が安心して出産・子育てができるよう、妊娠期から保健師等が面談を実施し、相談に応じます。\n\n面談時期および方法\n1　妊娠期\n妊娠届出時に保健師が面談（届出時に実施できなかった方は後日面談）\n妊娠8か月前後に保健師が電話・面談等\n2　出生後\n生後4か月までに保健師が訪問（新生児訪問）で面談\n\n経済的支援について\n赤ちゃんファーストギフトは、東京都が発行する子育て関連用品等に利用できる電子クーポンとなります。\n赤ちゃんファーストギフト（妊娠）\n妊娠届出をし妊娠中に面談を受け、申請された方には「赤ちゃんファーストギフト（妊娠）（5万円相当）」を支給します。\n赤ちゃんファーストギフト（出産）\n出生届出をし出生後に面談を受け、申請された方には、「赤ちゃんファーストギフト（出産）（5万円相当）」を支給します。\n\n\n注意事項\n※申請時点で檜原村に住所を有する方が対象となります。\n※「赤ちゃんファーストギフト（妊娠）」の申請には、医療機関による妊娠の診断が必要となります。\n※他の自治体ですでに赤ちゃんファーストギフト（妊娠）、または、赤ちゃんファーストギフト（出産）の給付を受けている方は対象外となります。\n\n令和4年度の遡りの支給について\n令和4年4月1日～事業開始日前（令和5年3月31日）に出産または妊娠された方も対象となります。申請期限は、令和5年6月30日（金曜日）となります。\n注意事項\n※妊娠届出後に流産等で出産に至らなかった方、出生後にお子さんが亡くなった場合も対象となります。\n※事業開始日（令和5年4月1日）時点で、檜原村に住所を有する方が対象となります。転出した方は、転出先の自治体に相談してください。\n\n福祉けんこう課 子育て支援係\n子育て支援;https://www.vill.hinohara.tokyo.jp/soshiki/4-4-0-0-0_1.html\n（母子）予防接種;https://www.vill.hinohara.tokyo.jp/soshiki/4-4-0-0-0_2.html\n母子保健;https://www.vill.hinohara.tokyo.jp/soshiki/4-4-0-0-0_3.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出産・子育て応援ギフト（国の出産・子育て応援給付金）",
+    "shortName": "檜原村出産・子育て応援事業"
+  },
+  "localGovernmentLink": {
+    "title": "檜原村出産・子育て応援事業",
+    "uri": "https://www.vill.hinohara.tokyo.jp/0000001519.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-25",
+    "updater": "檜原村"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "別紙：伴走型相談支援及び出産・子育て応援給付金の一体的実施事業実施要綱「出産・子育て応援給付金」（別添2） ",
+    "regulationName": "伴走型相談支援及び出産・子育て応援給付金の一体的実施事業の実施について（子発1226第1号 令和4年12月26日）"
+  },
+  "relatedLink": [
+    {
+      "title": "（母子）予防接種",
+      "uri": "https://www.vill.hinohara.tokyo.jp/soshiki/4-4-0-0-0_2.html\n"
+    },
+    {
+      "title": "母子保健",
+      "uri": "https://www.vill.hinohara.tokyo.jp/soshiki/4-4-0-0-0_3.html"
+    },
+    {
+      "title": "子育て支援",
+      "uri": "https://www.vill.hinohara.tokyo.jp/soshiki/4-4-0-0-0_1.html\n"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "すべての妊婦さんと子育て家庭が安心して出産・子育てができるように、妊娠から出産・子育てまでの一貫した「伴走型相談支援」を実施しています。この相談支援と一体的に実施する経済的支援として、「出産・子育て応援ギフト」を給付しています。 ",
+  "support": {
+    "description": "赤ちゃんファーストギフトは、東京都が発行する子育て関連用品等に利用できる電子クーポンとなります。\n赤ちゃんファーストギフト（妊娠）\n妊娠届出をし妊娠中に面談を受け、申請された方には「赤ちゃんファーストギフト（妊娠）（5万円相当）」を支給します。",
+    "materiallySupport": null,
+    "monetarySupport": "5万円相当"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊娠届出をし妊娠中に面談を受け、申請された方\n注意事項\n※申請時点で檜原村に住所を有する方が対象となります。\n※「赤ちゃんファーストギフト（妊娠）」の申請には、医療機関による妊娠の診断が必要となります。\n※他の自治体ですでに赤ちゃんファーストギフト（妊娠）、または、赤ちゃんファーストギフト（出産）の給付を受けている方は対象外となります。\n\n令和4年度の遡りの支給について\n令和4年4月1日～事業開始日前（令和5年3月31日）に出産または妊娠された方も対象となります。申請期限は、令和5年6月30日（金曜日）となります。\n注意事項\n※妊娠届出後に流産等で出産に至らなかった方、出生後にお子さんが亡くなった場合も対象となります。\n※事業開始日（令和5年4月1日）時点で、檜原村に住所を有する方が対象となります。転出した方は、転出先の自治体に相談してください。"
+  },
+  "updateDate": "2023-06-25",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

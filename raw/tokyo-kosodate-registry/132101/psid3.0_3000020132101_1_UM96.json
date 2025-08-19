@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132101;小金井市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保育課保育係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132101",
+    "psid": "psid3.0+3000020132101+1+UM96"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": "s050799(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+    "contactEx": null,
+    "contactName": "保育課保育係",
+    "contactPhone": "042-387-9846",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "小金井市内の幼稚園等一覧\n更新日：2024年1月17日\n\n　4月からの入園をご希望する方に対しては、毎年10月中旬に願書配布を開始し、11月上旬から申し込みを受け付けます。申込方法や各園の特色などの詳細については下記の小金井市私立幼稚園協会のホームページをご覧いただくか、各幼稚園へ直接お問い合わせください。\n\n外部サイトへリンク　新規ウィンドウで開きます。小金井市私立幼稚園協会ホームページ;https://koganei-youchienkyoukai.1net.jp/\n\nこちらから各私立幼稚園のホームページにもアクセスできます。\n\n小金井市内の幼稚園等一覧\nhttps://www.city.koganei.lg.jp/smph/kosodatekyoiku/yochien/youtien.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "私学助成（従来制度）の幼稚園一覧",
+    "shortName": "小金井市内の幼稚園等一覧"
+  },
+  "localGovernmentLink": {
+    "title": "小金井市内の幼稚園等一覧",
+    "uri": "https://www.city.koganei.lg.jp/smph/kosodatekyoiku/yochien/youtien.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "小金井市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "小金井市私立幼稚園協会ホームページ",
+      "uri": "https://koganei-youchienkyoukai.1net.jp/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "幼稚園には公立の幼稚園と私立の幼稚園があります。\n私立幼稚園には、新制度による給付を受ける幼稚園と、新制度には移行せず、私学助成を受けて運営している幼稚園があります。\n以下は、小金井市内の私学助成を受ける幼稚園の一覧です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-01-17",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

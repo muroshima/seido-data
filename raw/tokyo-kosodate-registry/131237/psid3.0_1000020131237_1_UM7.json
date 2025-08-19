@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部健康サービス課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM7"
+  },
+  "belongings": "持ち物\n身元確認書類（運転免許証等）\n未使用の妊婦健康診査受診票・超音波検査受診票・子宮頸がん検診受診票\n妊婦健診を受診した医療機関及び助産所の発行する領収書・明細書原本（医療費控除のための確定申告をする前の領収書をお持ちください。）\n母子健康手帳\n印鑑（スタンプ印は不可）\n普通預金通帳（申請者と異なる口座名義に振り込む場合は委任状をご記入いただきます。）\n委任状\n妊婦超音波検査受診費内訳書",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部健康サービス課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "・里帰り出産などで都外の医療機関で妊婦健診を受診し、妊婦健康診査受診票を使用しなかった方に対して、受診費用の一部を最大14回まで助成します。\n・助産所での妊婦健診も助成の対象となります。（注：助産所で受診した妊婦健診1回目と超音波検査・子宮頸がん検診の受診は助成の対象とはなりません。）\n・医療保険適用診療分は助成の対象とはなりません。\n・妊婦超音波検査受診費用の助成金を申請される方は、領収書や明細書を参考にして「妊婦超音波検査受診費内訳書（都外医療機関受診用」（PDF：330KB）（別ウィンドウで開きます）https://www.city.edogawa.tokyo.jp/documents/7760/togai-utiwake.pdfに申請者ご自身で事前に金額を記入してお持ちください。金額が不明な場合は、受診した医療機関にお問い合わせください。（注：医療機関へ記入を依頼した場合の文書料等は助成の対象とはなりません。）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "妊婦健康診査を受診した最後の日又は出産の日から1年以内です。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "里帰り出産時の妊婦健康診査の費用助成",
+    "shortName": "妊婦健康診査受診費助成金交付制度"
+  },
+  "localGovernmentLink": {
+    "title": "妊婦健診（妊婦健康診査）",
+    "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/ninpukenshin.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "各健康サポートセンター\nhttps://www.city.edogawa.tokyo.jp/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/index.html\n\n（注）手続きにはお時間がかかる場合があります。大変申し訳ありませんが、あらかじめご了承いただき、お時間に余裕をもってお越しください。",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "窓口申請",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊婦さんの健康と安全なお産のために、定期的な健康診査を受けましょう。\n里帰り出産などで都外の医療機関で妊婦健診を受診し、妊婦健康診査受診票を使用しなかった方に対して、受診費用の一部を最大14回まで助成します。",
+  "support": {
+    "description": "助成額一覧   \t\n||令和5年4月1日受診分から|令和6年4月1日受診分から|\n|:----|:----|:----|\n|妊婦健診1回目上限額|10,880円|10,980円|\n|妊婦健診2回目以降上限額|5,090円|5,140円|\n|超音波検査上限額（経腹法）_（注）妊婦健康診査受診票費の助成金と同時に申請してください。_（注）経膣超音波検査は妊婦健診2回目以降の受診費対象です。|5,300円|5,300円|\n|子宮頸がん検診上限額_（注）原則として1回目の妊婦健診と同時に申請してください。|3,400円|3,400円|\n|多胎妊婦における妊婦健診15回目から19回目まで上限額|5,090円|5,140円|\n",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "受診した日において、江戸川区内に住民登録をしており、里帰り出産などで、妊婦健康診査を都内契約医療機関以外の医療機関または助産所で受診した方。\n（注：医療機関・助産所は日本国内に限ります。また、保健指導票を交付されている方は対象になりません。）\n\n東京都外から江戸川区に転入された妊婦の方へ\n\n東京都外発行の妊婦健康診査受診票は使用できません。\nお近くの健康サポートセンターhttps://www.city.edogawa.tokyo.jp/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/で妊婦健康診査受診票を交換してください。\n\n東京都内発行の妊婦健康診査受診票をお持ち方はそのままその受診票を使用できます。\n\nなお、令和5年4月1日以降に江戸川区以外の東京都内で妊娠届出をされた方で、妊婦超音波検査受診票の交付枚数が4枚未満の方には、差分を追加でお渡ししますので、お近くの健康サポートセンターへお越しください。"
+  },
+  "updateDate": "2023-10-23",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

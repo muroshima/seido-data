@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132292;西東京市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132292",
+    "psid": "psid3.0+1000020132292+1+UM52"
+  },
+  "belongings": "母子健康手帳\n記入済みのアンケート（個別通知に同封）\n当日の朝の尿\n健康保険証\nその他お子さんに必要なもの（ゴミ袋、水分など）\n（注記）通知に同封の目と耳の検査をご家庭で実施のうえ、アンケートに記入してご持参ください。\n（注記）健診当日の朝の尿が取れない場合は、健診会場で取ることもできます。または尿検査のみ後日実施もできます。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "西東京市中町一丁目5番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康課",
+    "contactPhone": "042-438-4037",
+    "contactUrl": null,
+    "zipCode": "2028555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "3歳児健康診査\n\n3歳のお子さんの内科健康診査と健康相談、歯科健康診査と歯みがき相談を実施しています。\n対象者には個別に通知を郵送します。\n\n3歳児健康診査\n対象\n満3歳から4歳未満の方\n\n満3歳になる月にご案内ができない場合があります。お生まれの早い方から順にご案内しますので、通知をお待ちください。\n転入等で通知が届いていない方はご連絡ください。\n内容\n問診\n尿検査、視力検査、身体計測、診察（内科、歯科）\n個別相談\n会場\n防災・保谷保健福祉総合センター;https://www.city.nishitokyo.lg.jp/sisetu/city/hoyachosha/bousai_houyahokenhukushisougou.html 2階\n（注記）駐車券は必ず会場（受付）にご提示ください。\n\n日程（予定）\n個別にご案内します。\n日程の変更を希望される方は、下記日程表を参照の上、ご希望日の前日までにご連絡ください。\n曜日は全て水曜日です。\n\n|実施月|実施日|\n|:----|:----|\n|令和6年4月|3日・17日|\n|5月|1日・15日|\n|6月|5日・19日|\n|7月|3日・17日・31日|\n|8月|7日・21日|\n|9月|4日・11日・25日|\n|10月|9日・16日・30日|\n|11月|6日・20日・27日|\n|12月|11日・18日|\n|令和7年1月|8日・15日・29日|\n|2月|5日・19日|\n|3月|5日・19日・26日|\n\n受付時間\n個別にご案内します。\n（注記）尿検査のみ受診の方につきましては、午後2時30分から3時の時間帯にお越しください。\n\n持ち物\n母子健康手帳\n記入済みのアンケート（個別通知に同封）\n当日の朝の尿\n健康保険証\nその他お子さんに必要なもの（ゴミ袋、水分など）\n（注記）通知に同封の目と耳の検査をご家庭で実施のうえ、アンケートに記入してご持参ください。\n（注記）健診当日の朝の尿が取れない場合は、健診会場で取ることもできます。または尿検査のみ後日実施もできます。\n\nその他\n会場内での水分補給以外の飲食はご遠慮ください。\n持ち物（貴重品・靴・バギーなど）の盗難紛失については責任を負いかねます。各自で管理をお願いします。\n開催時の感染予防対策\n発熱やせき等の風邪症状のある方など、体調不良の場合は参加を見合わせてください。\n原則として、お子様一人につき、保護者の方一人でお越しください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "日程（予定）\n個別にご案内します。\n日程の変更を希望される方は、下記日程表を参照の上、ご希望日の前日までにご連絡ください。\n曜日は全て水曜日です。\n\n|実施月|実施日|\n|:----|:----|\n|令和6年4月|3日・17日|\n|5月|1日・15日|\n|6月|5日・19日|\n|7月|3日・17日・31日|\n|8月|7日・21日|\n|9月|4日・11日・25日|\n|10月|9日・16日・30日|\n|11月|6日・20日・27日|\n|12月|11日・18日|\n|令和7年1月|8日・15日・29日|\n|2月|5日・19日|\n|3月|5日・19日・26日|\n\n受付時間\n個別にご案内します。\n（注記）尿検査のみ受診の方につきましては、午後2時30分から3時の時間帯にお越しください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "西東京市中町一丁目5番1号",
+    "implementationName": "防災・保谷保健福祉総合センター 2階"
+  },
+  "institutionName": {
+    "canonicalName": "3歳児健康診査",
+    "shortName": "3歳児健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "3歳児健康診査",
+    "uri": "https://www.city.nishitokyo.lg.jp/kosodate/bosi/sinsa/3sai.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-11",
+    "updater": "西東京市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第12条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "からだやこころの成長とともに社会性も急速に発達するこの頃は、人間形成の基礎となる大切な時期です。西東京市では3歳児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+  "support": {
+    "description": "問診\n尿検査、視力検査、身体計測、診察（内科、歯科）\n個別相談",
+    "materiallySupport": "問診\n尿検査、視力検査、身体計測、診察（内科、歯科）\n個別相談",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "満3歳から4歳未満",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 4,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "満3歳から4歳未満の方"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "対象者には個別に通知を郵送します。\n\n満3歳になる月にご案内ができない場合があります。お生まれの早い方から順にご案内しますので、通知をお待ちください。\n転入等で通知が届いていない方はご連絡ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

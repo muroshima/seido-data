@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "133639;新島村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "国民健康保険本村診療所",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020133639",
+    "psid": "psid3.0+9000020133639+1+UM43"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都新島村本村4丁目10番3号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "新島村国民健康保険本村診療所",
+    "contactPhone": "04992-5-0083",
+    "contactUrl": null,
+    "zipCode": "1000402"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "診療所について\nホーム > 施設案内 > 保健センター・診療所等 > 新島村国民健康保険診療所 > 診療所について\n\n新島村国民健康保険診療所について\n新島村国民健康保険診療所は村で唯一の医療機関として、村民の方々に対し地域密着型の医療の提供を行っております。\n\n診療所は本村診療所、若郷診療所、式根島診療所の3箇所あり、本村診療所は医師3名体制で1日平均30-40名程度の外来患者および透析業務を行っております。また24時間365日対応で救急医療を行っております。若郷診療所は本村診療所の医師が兼務にて外来を行っております。\n\n高齢化が進む新島において外来、訪問診療、入院を3本柱としたプライマリケアの提供をもっとも大切に考えております。高齢者が安心して最後まで島で暮らせるよう行政、福祉と密に連携して取り組んで参ります。また、村の将来を担う子どもへの乳幼児健診や予防接種事業、妊婦健診業務も行っております。\n\n救急医療については、重症な患者さまは東京消防庁の協力のもと、ヘリコプターにて内地に搬送しております。搬送が必要かどうかの判断は、緊急度の評価、都立病院との遠隔画像コンサルティングのシステムを利用した専門医との協議、年齢などの患者要因、社会的要因を加えて判断しております。\n\n医学教育にも積極的に関わっており、医学生や研修医に対し離島医療の魅力である地域密着型プライマリケアを体験していただいております。今後もこのような研修を積極的に受け入れていく予定です。\n\nこれからも島民の方が安心して過ごせる様、スタッフ一同頑張って参ります。\n\n2021.4.1　本村診療所長\n\n本村診療所医師\n\n本村診療所長　張　耀明　　2018.4.1着任\n\n医師　浮島　翔　　2023.10.1着任\n\n医師　大島　あかね　　2024.4.1着任\n\n本村診療所歯科医師\n歯科医師　笠原　悠太　　　2024.4.1着任\n\n式根島診療所医師\n式根島診療所長　鈴木　丈也　　　2024.4.1着任\n\nスタッフ\n本村診療所\n医　師　  ３名\n\n歯科医師　２名\n\n看 護 師　 ８名\n\n技　師　臨床工学技士　１名\n\n診療放射線技師　１名\n\n薬 剤 師　　１名　（臨時薬剤師募集中）\n\n歯科衛生士　１名\n\n事 務 職　３名\n\n会計年度任用職員　5名\n\n若郷診療所\n常駐なし\n\n式根島診療所\n医　師　  １名\n\n看 護 師　 ２名\n\n事 務 職 　１名\n\n会計年度任用職員　1名",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊娠・出産に関する救急窓口一覧",
+    "shortName": "新島村国民健康保険診療所"
+  },
+  "localGovernmentLink": {
+    "title": "診療所について",
+    "uri": "https://www.niijima.com/facility/health-center_clinic/shinryoujo/shinryojonitsuite/"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-25",
+    "updater": "新島村"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊婦さんが救急のときや、ハイリスク妊娠・分娩の受け入れを行う医療機関のご紹介です。",
+  "support": {
+    "description": "24時間365日対応で救急医療\n救急医療については、重症な患者さまは東京消防庁の協力のもと、ヘリコプターにて内地に搬送しております。搬送が必要かどうかの判断は、緊急度の評価、都立病院との遠隔画像コンサルティングのシステムを利用した専門医との協議、年齢などの患者要因、社会的要因を加えて判断しております。",
+    "materiallySupport": "24時間365日対応で救急医療\n救急医療については、重症な患者さまは東京消防庁の協力のもと、ヘリコプターにて内地に搬送しております。搬送が必要かどうかの判断は、緊急度の評価、都立病院との遠隔画像コンサルティングのシステムを利用した専門医との協議、年齢などの患者要因、社会的要因を加えて判断しております。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "032"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

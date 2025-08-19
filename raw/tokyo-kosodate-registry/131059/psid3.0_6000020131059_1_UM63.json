@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "131059;文京区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部障害福祉課障害者在宅サービス係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131059",
+    "psid": "psid3.0+6000020131059+1+UM63"
+  },
+  "belongings": "診断書（用紙は障害福祉課にあります。）\n本人名義の口座情報が分かるもの（預金通帳又はキャッシュカードなど）\nマイナンバー制度に伴う本人確認書類（申請書にマイナンバーの記入が必要です。）\n(1)窓口に対象者本人が来られる場合\n(ア）対象者本人のマイナンバーが分かるもの・・・個人番号カードなど\n（イ）対象者本人の身分が確認できるもの\n1点で確認可能なもの・・・身体障害者手帳・愛の手帳・運転免許証・パスポートなど\n2点で確認可能なもの(上記の提示ができない場合)\n・・・健康保険証・介護保険証・年金手帳、年金証書など\n(2)窓口に代理人等が来られる場合\n上記の他に、別途書類が必要となりますので、事前に担当へお問い合わせください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都文京区春日1丁目16番21号\n文京シビックセンター9階北側",
+    "contactComment": "ファクス番号：03-5803-1352",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部障害福祉課障害者在宅サービス係",
+    "contactPhone": "03-5803-1212",
+    "contactUrl": "https://logoform.jp/form/6KSu/553271",
+    "zipCode": "1128555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "障害児福祉手当(国制度)\n対象者と手当額\n対象者\n20歳未満で、重度の障害により日常生活において常時介護を必要とする状態にある方で、次のいずれかの方\n\nおおむね身体障害者手帳1級・2級又は愛の手帳1・2度程度の方\n精神障害・疾病で、1と同程度の方\n手当月額\n15,690円(令和6年4月分～)\n5・8・11・2月に支給\n\n支給できない方\n施設に入所している方\n障害を理由とする年金などを受給している方\n本人、配偶者又は扶養義務者の所得が基準額;https://www.city.bunkyo.lg.jp/b018/p003416.htmlを超えている方\n申請手続\n診断書（用紙は障害福祉課にあります。）\n本人名義の口座情報が分かるもの（預金通帳又はキャッシュカードなど）\nマイナンバー制度に伴う本人確認書類（申請書にマイナンバーの記入が必要です。）\n(1)窓口に対象者本人が来られる場合\n(ア）対象者本人のマイナンバーが分かるもの・・・個人番号カードなど\n（イ）対象者本人の身分が確認できるもの\n1点で確認可能なもの・・・身体障害者手帳・愛の手帳・運転免許証・パスポートなど\n2点で確認可能なもの(上記の提示ができない場合)\n・・・健康保険証・介護保険証・年金手帳、年金証書など\n(2)窓口に代理人等が来られる場合\n上記の他に、別途書類が必要となりますので、事前に担当へお問い合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "障害児福祉手当",
+    "shortName": "障害児福祉手当(国制度)"
+  },
+  "localGovernmentLink": {
+    "title": "障害児福祉手当(国制度)",
+    "uri": "https://www.city.bunkyo.lg.jp/b018/p003414.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "文京区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "対象者本人,代理人等",
+  "regulation": {
+    "regulationArticle": "第3章",
+    "regulationName": "特別児童扶養手当等の支給に関する法律"
+  },
+  "relatedLink": [
+    {
+      "title": "所得が基準額",
+      "uri": "https://www.city.bunkyo.lg.jp/b018/p003416.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "身体または精神に重度の障がいのある20歳未満の方で、日常生活において常時介護を必要とする方に対し、手当が支給されます。",
+  "support": {
+    "description": "15,690円(令和6年4月分～)\n5・8・11・2月に支給",
+    "materiallySupport": null,
+    "monetarySupport": "15,690円"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "20歳未満",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "20歳未満で、重度の障害により日常生活において常時介護を必要とする状態にある方で、次のいずれかの方\n\n1.おおむね身体障害者手帳1級・2級又は愛の手帳1・2度程度の方\n2.精神障害・疾病で、1と同程度の方\n支給できない方\n施設に入所している方\n障害を理由とする年金などを受給している方\n本人、配偶者又は扶養義務者の所得が基準額;https://www.city.bunkyo.lg.jp/b018/p003416.htmlを超えている方"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132209;東大和市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども未来部子ども家庭センター母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132209",
+    "psid": "psid3.0+3000020132209+1+UM6"
+  },
+  "belongings": "母子健康手帳と妊婦健康診査受診票",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都東大和市中央3-918-1",
+    "contactComment": "ファクス：042-561-0711",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども未来部子ども家庭センター母子保健係",
+    "contactPhone": "042-565-5212",
+    "contactUrl": "https://www.city.higashiyamato.lg.jp/kosodatekyoiku/kosodate/1003114/1003116.html",
+    "zipCode": "2070015"
+  },
+  "cost": null,
+  "costConditions": "個別健康診査で、東京都内の委託医療機関で無料で受診できます。（ただし、受診票に記載されている項目以外の検査は有料になります。詳しい検査項目については、受診票に記載してあります。）",
+  "description": "妊婦健康診査\n個別健康診査で、東京都内の委託医療機関で無料で受診できます。（ただし、受診票に記載されている項目以外の検査は有料になります。詳しい検査項目については、受診票に記載してあります。）\n\n受診票は妊娠届出をされた妊婦さんに母子健康手帳を交付するときにお渡しします。（重要）\n\n※妊婦健康診査を受けるには、母子健康手帳と妊婦健康診査受診票が必要です。\n\n対象\n東大和市に住民登録があり、妊娠届出をされた妊婦の方\n\n実施場所\n都内委託医療機関（※医療機関に直接ご確認ください。）なお、都内委託医療機関以外で、妊婦健康診査を受けた方は妊婦健康診査費用助成が受けられます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "都内委託医療機関（※医療機関に直接ご確認ください。）なお、都内委託医療機関以外で、妊婦健康診査を受けた方は妊婦健康診査費用助成が受けられます。"
+  },
+  "institutionName": {
+    "canonicalName": "妊婦健康診査",
+    "shortName": "妊婦健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "妊娠したときは",
+    "uri": "https://www.city.higashiyamato.lg.jp/kosodatekyoiku/kosodate/1003114/1003116.html"
+  },
+  "odInformation": {
+    "content": "更新",
+    "updateDate": "2024-07-02",
+    "updater": "東大和市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "個別健康診査で、東京都内の委託医療機関で無料で受診できます。（ただし、受診票に記載されている項目以外の検査は有料になります。詳しい検査項目については、受診票に記載してあります。）\n\n受診票は妊娠届出をされた妊婦さんに母子健康手帳を交付するときにお渡しします。（重要）\n\n※妊婦健康診査を受けるには、母子健康手帳と妊婦健康診査受診票が必要です。",
+  "support": {
+    "description": "個別健康診査で、東京都内の委託医療機関で無料で受診できます。（ただし、受診票に記載されている項目以外の検査は有料になります。詳しい検査項目については、受診票に記載してあります。）\n\n受診票は妊娠届出をされた妊婦さんに母子健康手帳を交付するときにお渡しします。（重要）\n\n※妊婦健康診査を受けるには、母子健康手帳と妊婦健康診査受診票が必要です。",
+    "materiallySupport": null,
+    "monetarySupport": "個別健康診査で、東京都内の委託医療機関で無料で受診できます。（ただし、受診票に記載されている項目以外の検査は有料になります。詳しい検査項目については、受診票に記載してあります。）\n\n受診票は妊娠届出をされた妊婦さんに母子健康手帳を交付するときにお渡しします。（重要）\n\n※妊婦健康診査を受けるには、母子健康手帳と妊婦健康診査受診票が必要です。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "東大和市に住民登録があり、妊娠届出をされた妊婦の方"
+  },
+  "updateDate": "2024-05-28",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

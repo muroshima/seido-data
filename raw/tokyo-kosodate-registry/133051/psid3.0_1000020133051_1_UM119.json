@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "133051;日の出町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "学校教育課 指導室　相談支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133051",
+    "psid": "psid3.0+1000020133051+1+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡日の出町大字平井2780番地",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "学校教育課 指導室　教育相談室",
+    "contactPhone": "042-597-1161",
+    "contactUrl": null,
+    "zipCode": "1900192"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "教育相談室¥n小学校就学前から小学生・中学生等の子どもに関する気になること、心配なことについての相談をお受けしています。¥n《たとえば》¥n¥nこのごろ元気がない¥n遅刻することや学校を休むことが増えた¥n勉強が苦手¥n落ち着きがない¥n会話がかみ合わない¥n先生の話を聞けない¥n友達とうまく遊べていないよう¥n気持ちのコントロールが苦手で、パニックのようになることがある¥n反抗的で困る¥n気になるクセや行動がある、など。¥n保護者のみでも、お子さんとご一緒でも相談できます。心理相談員（公認心理師、臨床心理士）がお話を伺い、お子さんの在籍小・中学校等とも連携し、解決に向けて一緒に考えていきます。¥n¥n時間¥n月曜日から金曜日　午前9時～正午、午後1時～5時（祝日、年末年始を除く）¥n¥n場所¥n教育センター内　教育相談室（町図書館2階）¥n¥n問い合わせ・相談¥n学校教育課 指導室　教育相談室　電話042-597-1161（直通）¥n※相談は予約制です。事前にお電話でご連絡ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "土日、祝日、年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "東京都西多摩郡日の出町大字平井2780番地",
+    "implementationName": "教育センター内　教育相談室（町図書館2階）"
+  },
+  "institutionName": {
+    "canonicalName": "日の出町の子育てに関する相談",
+    "shortName": "教育相談室"
+  },
+  "localGovernmentLink": {
+    "title": "教育相談",
+    "uri": "https://www.town.hinode.tokyo.jp/0000000094.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "日の出町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "相談は予約制です。事前にお電話でご連絡ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "日の出町教育相談室設置規則"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "小学校就学前から小学生・中学生等の子どもに関する気になること、心配なことについての相談をお受けしています。",
+  "support": {
+    "description": "気になること、心配なことについての相談をお受けしています。¥n《たとえば》¥n・このごろ元気がない¥n・遅刻することや学校を休むことが増えた¥n・勉強が苦手¥n・落ち着きがない¥n・会話がかみ合わない¥n・先生の話を聞けない¥n・友達とうまく遊べていないよう¥n・気持ちのコントロールが苦手で、パニックのようになることがある¥n・反抗的で困る¥n・気になるクセや行動がある、など。¥n保護者のみでも、お子さんとご一緒でも相談できます。心理相談員（公認心理師、臨床心理士）がお話を伺い、お子さんの在籍小・中学校等とも連携し、解決に向けて一緒に考えていきます。",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "小学校就学前から小学生・中学生等の子どもとその保護者"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "12:00～13:00を除く",
+    "fromHM": "09:00",
+    "toHM": "17:00"
+  }
+}

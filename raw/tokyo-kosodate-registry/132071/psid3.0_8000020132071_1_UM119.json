@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132071;昭島市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健福祉センター（あいぽっく）母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132071",
+    "psid": "psid3.0+8000020132071+1+UM119"
+  },
+  "belongings": "持ち物\n計測をご希望されるかたは母子健康手帳、バスタオルをお持ちください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "昭島市昭和町4-7-1",
+    "contactComment": "ファックス番号：042-544-7130",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健福祉センター（あいぽっく）母子保健係",
+    "contactPhone": "042-543-7303",
+    "contactUrl": null,
+    "zipCode": "1960015"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "内容\n管理栄養士が離乳食や幼児食の相談に応じます。\n予約制です。\n離乳食の進めかたや作りかたをデモンストレーションを交えながら説明をする「離乳食講座;https://www.city.akishima.lg.jp/s049/010/010/020/110/20140926125927.html（内部のページにリンクします）」も開催しています。詳しくは、離乳食講座のページをご確認ください。\n\n対象\n離乳食や幼児の食べかたや食事内容などでお困りの保護者のかた\n\n実施場所\n保健福祉センター（あいぽっく）\n所在地：昭島市昭和町4－7－1\n\n持ち物\n計測をご希望されるかたは母子健康手帳、バスタオルをお持ちください。\n\n日時\n日程\nhttps://www.city.akishima.lg.jp/s049/010/010/020/110/20200529100208.html\n\n時間\n午前9時10分から9時40分\n午前9時50分から10時20分\n午前10時30分から11時00分\n午前11時10分から11時40分\n\n申し込み方法\n申込受付期間中に、電子申請（外部サイトにリンクします）で申し込みを受け付けます。下記二次元コードよりお申込みください。\nキャンセルされる場合は申請状況照会フォームより、受付番号を入力して早めに手続きをお願いいたします。\n定員に達し次第、このフォームでの予約入力ができなくなります。ご相談をご希望されるかたは、下記「お問い合わせ先」までご相談ください。\n〈申し込みフォーム二次元コード〉\n\n画像をクリックすると外部サイトにリンクします。\n乳幼児食個別相談二次元コード;https://www.city.akishima.lg.jp/s049/010/010/020/110/nyuuyoujisyoku.png",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "乳幼児食事個別相談申し込み",
+      "uri": "https://logoform.jp/form/Zue8/431283"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "|実施日|申し込み受付期間|\n|:----|:----|\n|4月17日（水曜日）|4月2日(火曜日)から4月15日(月曜日)まで|\n|5月15日（水曜日）|5月2日(木曜日)から5月13日(月曜日)まで|\n|6月19日（水曜日）|6月2日(日曜日)から6月17日(月曜日)まで|\n|7月17日（水曜日）|7月2日(火曜日)から7月15日(月曜日)まで|\n|8月21日（水曜日）|8月2日(金曜日)から8月19日(月曜日)まで|\n|9月18日（水曜日）|9月2日(月曜日)から9月16日(月曜日)まで|\n|10月16日（水曜日）|10月2日(水曜日)から10月14日(月曜日)まで|\n|11月20日（水曜日）|11月2日(土曜日)から11月18日(月曜日)まで|\n|12月18日（水曜日）|12月2日(月曜日)から12月16日(月曜日)まで|\n|令和7年1月15日（水曜日）|令和7年1月2日(木曜日)から1月13日(月曜日)まで|\n|令和7年2月19日（水曜日）|令和7年2月2日(日曜日)から2月17日(月曜日)まで|\n|令和7年3月12日（水曜日）|令和7年3月2日(日曜日)から3月10日(月曜日)まで|",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "昭島市昭和町4－7－1",
+    "implementationName": "保健福祉センター（あいぽっく）;https://www.city.akishima.lg.jp/map/010/050/020/20140816053706.html"
+  },
+  "institutionName": {
+    "canonicalName": "昭島市の子育てに関する相談",
+    "shortName": "乳幼児食事個別相談"
+  },
+  "localGovernmentLink": {
+    "title": "乳幼児食事個別相談",
+    "uri": "https://www.city.akishima.lg.jp/s049/010/010/020/110/20200529100208.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "昭島市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申込受付期間中に、電子申請（外部サイトにリンクします）;https://logoform.jp/form/Zue8/431283で申し込みを受け付けます。二次元コードよりお申込みください。",
+  "procedurePeriod": {
+    "conditions": "|実施日|申し込み受付期間|\n|:----|:----|\n|4月17日（水曜日）|4月2日(火曜日)から4月15日(月曜日)まで|\n|5月15日（水曜日）|5月2日(木曜日)から5月13日(月曜日)まで|\n|6月19日（水曜日）|6月2日(日曜日)から6月17日(月曜日)まで|\n|7月17日（水曜日）|7月2日(火曜日)から7月15日(月曜日)まで|\n|8月21日（水曜日）|8月2日(金曜日)から8月19日(月曜日)まで|\n|9月18日（水曜日）|9月2日(月曜日)から9月16日(月曜日)まで|\n|10月16日（水曜日）|10月2日(水曜日)から10月14日(月曜日)まで|\n|11月20日（水曜日）|11月2日(土曜日)から11月18日(月曜日)まで|\n|12月18日（水曜日）|12月2日(月曜日)から12月16日(月曜日)まで|\n|令和7年1月15日（水曜日）|令和7年1月2日(木曜日)から1月13日(月曜日)まで|\n|令和7年2月19日（水曜日）|令和7年2月2日(日曜日)から2月17日(月曜日)まで|\n|令和7年3月12日（水曜日）|令和7年3月2日(日曜日)から3月10日(月曜日)まで|\n",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "管理栄養士が離乳食や幼児食の相談に応じます。",
+  "support": {
+    "description": "管理栄養士が離乳食や幼児食の相談に応じます。\n予約制です。\n\n離乳食の進めかたや作りかたをデモンストレーションを交えながら説明をする「離乳食講座（内部のページにリンクします）;https://www.city.akishima.lg.jp/s049/010/010/020/110/20140926125927.html」も開催しています。詳しくは、離乳食講座のページをご確認ください。",
+    "materiallySupport": "管理栄養士が離乳食や幼児食の相談に応じます。\n予約制です。\n\n離乳食の進めかたや作りかたをデモンストレーションを交えながら説明をする「離乳食講座（内部のページにリンクします）;https://www.city.akishima.lg.jp/s049/010/010/020/110/20140926125927.html」も開催しています。詳しくは、離乳食講座のページをご確認ください。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "離乳食や幼児の食べかたや食事内容などでお困りの保護者のかた"
+  },
+  "updateDate": "2024-03-19",
+  "useConsiderationFlag": false,
+  "utilization": "持ち物\n計測をご希望されるかたは母子健康手帳、バスタオルをお持ちください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "時間\n\n午前9時10分から9時40分\n午前9時50分から10時20分\n午前10時30分から11時00分\n午前11時10分から11時40分",
+    "fromHM": null,
+    "toHM": null
+  }
+}

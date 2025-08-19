@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局子ども部子育て推進課子育て推進係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+1+UM800"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区九段南1-2-1",
+    "contactComment": null,
+    "contactEmail": "kosodatesuishin@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "教育委員会事務局子ども部子育て推進課子育て推進係",
+    "contactPhone": "03-5211-3653",
+    "contactUrl": null,
+    "zipCode": "1028688"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "「赤ちゃん・ふらっと」とは\n\n「赤ちゃん・ふらっと」とは、小さなお子様を連れた方が安心してお出かけできるよう整備された、授乳やおむつ替え等ができるスペースの愛称です。\n\n区内では、令和3年3月現在、30か所に設置されています。\n\n区では、「赤ちゃん・ふらっと」のある区内施設を掲載したリーフレットを発行し、区の施設や、「赤ちゃん・ふらっと」実施施設等で配布しています。\n\n・「赤ちゃん・ふらっと」リーフレット（PDF：452KB）;https://www.city.chiyoda.lg.jp/documents/1257/akachan-02_1.pdf\n\n施設整備内容\n\n1. 授乳ができる設備\n2. おむつ替えができる設備\n3. 調乳用の給湯設備\n4. 手洗い設備\n5. 冷暖房設備\n\n千代田区内「赤ちゃん・ふらっと」設置施設一覧\n\n麹町エリア\n「表」\n\n九段・富士見・神保町エリア\n「表」\n\n神田・秋葉原エリア\n「表」\n\n丸ノ内・日比谷エリア\n「表」",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "授乳・おむつ替え施設（赤ちゃんの駅等）",
+    "shortName": "赤ちゃん・ふらっと"
+  },
+  "localGovernmentLink": {
+    "title": "赤ちゃん・ふらっと",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/odekake/akachan-02.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "千代田区では、乳幼児を抱える子育て家庭が安心して外出できる環境づくりを進めるため、公共施設のほか民間施設の協力を得て「おむつ替え」や「授乳」ができる赤ちゃん・ふらっとを整備し、地域全体で子育てを支える仕組みづくりを進めています。\nまた、東京都でも都内の民間施設を含めて同事業を実施しており、指定施設には、入り口付近にそれぞれ案内標示を設置しています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "小さなお子様を連れた方"
+  },
+  "updateDate": "2024-03-18",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

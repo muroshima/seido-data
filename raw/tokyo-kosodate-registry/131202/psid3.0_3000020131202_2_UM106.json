@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131202;練馬区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭部　子ども家庭支援センター　管理係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020131202",
+    "psid": "psid3.0+3000020131202+2+UM106"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都練馬区豊玉北5丁目28番3号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援センター　管理係",
+    "contactPhone": "03-3993-8155",
+    "contactUrl": "https://www.city.nerima.tokyo.jp/cgi-bin/formmail/formmail.cgi?d=060030060000",
+    "zipCode": "1760012"
+  },
+  "cost": null,
+  "costConditions": "無料",
+  "description": "外遊び型子育てのひろば「おひさまぴよぴよ」\n現在のページ\nトップページ子育て・教育子育て遊び・交流・子育てボランティア外遊び型子育てのひろば「おひさまぴよぴよ」\nページ番号：277-152-793\n\n更新日：2024年5月13日\n\n　「おひさまぴよぴよ」は、3歳以下のお子さんと保護者が自由にのびのびと外遊びを楽しめる場です。子育てに関する相談も受けています。お気軽にお声がけください。\n　当事業は、令和4年4月1日から特定非営利活動法人PLAYTANKに委託しています。\n\n「おひさまぴよぴよ」の実施場所・日時（注記：祝休日および小学校の春・夏・冬休みを除く）\n実施場所一覧\n|名称|所在地|日時<br>（時間　午前9時30分から午後1時30分まで）|\n|:----|:----|:----|\n|区立豊玉公園|豊玉北6丁目8番3号|毎火曜|\n|区立立野公園|立野町32番1号|毎金曜|\n|区立井頭の森緑地|東大泉7丁目26番8号|毎水曜|\n|区立中村かしわ公園|中村1丁目17番1号|毎木曜|\n|都立光が丘公園<br>（芝生広場南側）|光が丘4丁目1番1号|毎火・金曜|\n|都立石神井公園<br>（A野球場横くぬぎ広場）|石神井台1丁目26番1号|毎木曜|\n|都立大泉中央公園<br>（砂場周辺）|大泉学園町9丁目4番3号|毎火曜|\n|都立城北中央公園<br>（ひだまり広場）|氷川台1丁目3番1号|毎木曜|\n\n詳しくは 特定非営利活動法人PLAYTANK（外部サイト）;https://playtank.tokyo/ohipiyo/ホームページをご覧ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関するサポート",
+    "shortName": "外遊び型子育てのひろば「おひさまぴよぴよ」"
+  },
+  "localGovernmentLink": {
+    "title": "外遊び型子育てのひろば「おひさまぴよぴよ」",
+    "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/asobi/ohipiyo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-22",
+    "updater": "練馬区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "練馬区外遊び型子育てのひろば事業実施要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "特定非営利活動法人PLAYTANK（外部サイト）",
+      "uri": "https://playtank.tokyo/playfield/ohipiyo"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "公園の中で自然とふれあいながら親子で交流できる遊び場です。相談員が子育てに関する相談も受けています。お気軽にご参加ください。",
+  "support": {
+    "description": "3歳以下のお子さんと保護者が自由にのびのびと外遊びを楽しめる場です。子育てに関する相談も受けています。",
+    "materiallySupport": "3歳以下のお子さんと保護者が自由にのびのびと外遊びを楽しめる場です。子育てに関する相談も受けています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "３歳以下のお子さんと保護者"
+  },
+  "updateDate": "2024-05-13",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "「おひさまぴよぴよ」の実施場所・日時（注記：祝休日および小学校の春・夏・冬休みを除く）\n実施場所一覧\n|名称|所在地|日時<br>（時間　午前9時30分から午後1時30分まで）|\n|:----|:----|:----|\n|区立豊玉公園|豊玉北6丁目8番3号|毎火曜|\n|区立立野公園|立野町32番1号|毎金曜|\n|区立井頭の森緑地|東大泉7丁目26番8号|毎水曜|\n|区立中村かしわ公園|中村1丁目17番1号|毎木曜|\n|都立光が丘公園<br>（芝生広場南側）|光が丘4丁目1番1号|毎火・金曜|\n|都立石神井公園<br>（A野球場横くぬぎ広場）|石神井台1丁目26番1号|毎木曜|\n|都立大泉中央公園<br>（砂場周辺）|大泉学園町9丁目4番3号|毎火曜|\n|都立城北中央公園<br>（ひだまり広場）|氷川台1丁目3番1号|毎木曜|\n",
+    "fromHM": null,
+    "toHM": null
+  }
+}

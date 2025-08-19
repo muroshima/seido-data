@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132217;清瀬市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課子育て支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132217",
+    "psid": "psid3.0+3000020132217+1+UM24"
+  },
+  "belongings": "申請に必要な書類等\n【お知らせ】\n\nマイナンバー制度による情報連携の本格運用が開始されたことに伴い、下記「3．」の課税・非課税証明書（所得証明書）の省略が可能となりました。\nなお、マイナンバー制度による情報連携により所得情報を確認できない場合やマイナンバー制度による情報連携に同意いただけない場合等は、課税・非課税証明書（所得証明書）の提出が必要となる場合があります。\n\n児童手当・特例給付　認定請求書\n申請者本人の医療保険証（写し）\n（注）国民年金加入の方、または年金未加入の方は不要です。\n当該年度の課税・非課税証明書（又は所得証明書）…所得額や諸控除額、扶養人数、年税額等の記載のあるもの\n令和4年1月1日に清瀬市に住民登録がない方\n「令和4年度課税・非課税証明書（所得証明書）」（令和3年分の所得等を証明するもの）\n（注1）令和4年1月1日時点で住民登録していた自治体で取得できます。\n（注2）源泉徴収票は、課税・非課税証明書（所得証明書）ではありません。\n申請者名義の通帳・キャッシュカード（金融機関名、支店名、口座番号が分かるもの）\n申請者の個人番号カードまたは通知カード\n上記「6.」の個人番号カードがない場合は、申請者本人の運転免許証やパスポートなどの顔写真付きの証明書\n上記「7.」の運転免許証等がない場合は、健康保険証と年金手帳など、申請者の氏名と住所または生年月日が記載された2つ以上の書類\nその他、事情により上記以外にも書類が必要となる場合がありますので、詳しくは子育て支援課子育て支援係までお問合せください。\n\n【注意】同一世帯のご家族以外の方が申請する場合は、「委任状」と代理人の方の身元確認ができる書類（運転免許証、健康保険証等）が必要となります。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都清瀬市中里5-842　しあわせ未来センター1階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て支援課子育て支援係",
+    "contactPhone": "042-497-2088",
+    "contactUrl": null,
+    "zipCode": "2048511"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "児童手当は、家庭等における生活の安定や児童の健やかな成長に寄与するため、\n児童を養育している方に支給するものです。\n\nお知らせ\n児童手当の制度拡充について（令和6年10月分（12月支給分）から）\nhttps://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatehojo/1014302.html\n里帰り出産される方へ\nhttps://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatehojo/jidouhojo/jidouteate/1005281.html\n\n児童手当について（第2子以降の出生、転居等の変更）\n児童手当　届出内容に変更があるとき（第2子以降の出生・転居等）\nhttps://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatehojo/jidouhojo/jidouteate/1005282.html\n\nよくある質問\n子育てに関する補助・助成金（よくある質問）\nhttps://www.city.kiyose.lg.jp/faq/kosodate_kyouiku/kosodatehojo/index.html\n\n申請等に関する様式\n児童手当　申請等に関する様式一覧\nhttps://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatehojo/jidouhojo/jidouteate/1005284.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "児童手当",
+    "shortName": "児童手当"
+  },
+  "localGovernmentLink": {
+    "title": "児童手当",
+    "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatehojo/jidouhojo/jidouteate/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "清瀬市"
+  },
+  "procedureCounter": "子育て支援課子育て支援係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "手当を受給するためには、清瀬市に認定請求書を提出し、認定を受けることが必要です。\n\n出生や転入等により新たに資格要件に該当された方は、必ず手続きをしてください。\nまた、必要書類に不足がある場合でも認定請求書を提出することが可能です。不足書類は、後日子育て支援課に直接ご提出いただくか、郵送にてご提出ください。（市民課土曜窓口にはご提出できませんので、ご注意ください）",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "児童手当法"
+  },
+  "relatedLink": [
+    {
+      "title": "児童手当・特例給付の制度が一部変更になります（令和4年6月分（10月支給分）から）",
+      "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatehojo/jidouhojo/jidouteate/1010507.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "家庭における生活の安定と、これからの社会を担うお子さんの健やかな成長のために、高校生年代までの児童（0歳から18歳に達する日以後の最初の3月31日までの間にある子）を養育している人に、児童手当を支給します。",
+  "support": {
+    "description": "手当は、偶数月に、前月までの2か月分をまとめて支給します。\n支給額は、支給対象となるお子さんの年齢や、養育するお子さんの人数により異なります。\n※養育するお子さんの人数は、大学生年代（22歳に達する日以降の最初の3月31日）までのお子さんのうち、年長者から第1子、第2子と数えます。\nお子さんの年齢や出生順位に応じて、以下の金額を支給します。\n＜0歳から3歳未満＞\n第1子、第2子：月額1万5,000円\n第3子以降：月額3万円",
+    "materiallySupport": null,
+    "monetarySupport": "第1子、第2子：月額1万5,000円\n第3子以降：月額3万円"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0歳から3歳未満\n\n第3子以降は養育する22歳（22歳に達する日以降の最初の3月31日）までの児童の人数により判定します。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "高校生年代（18歳に達する日以後の最初の3月31日）までのお子さんを養育している方が対象です。\nお子さんを養育している父母、または未成年後見人の場合:原則として、お子さんが日本国内に住んでいる場合に手当を支給します。\nお子さんが留学を理由に海外に住んでおり、以下の要件を満たしている場合は、例外として、そのお子さんの分の手当を受け取ることができます。\n1.日本国内に住所を有しなくなった前日までに日本国内に継続して3年を超えて住所を有していたこと\n2.教育を受けることを目的として海外に居住しており、父母（未成年後見人がいる場合はその未成年後見人）と同居していないこと\n3.日本国内に住所を有しなくなった日から3年以内であること\n※その他、短期間留学していて日本に帰国し、再び3年以内に留学する場合などは、上記の要件を満たしていなくても、手当を受け取れる場合があります。\n両親が離婚協議中で別居している場合:父母が、離婚協議中で別居している場合は、お子さんと同居している方を優先して支給する場合があります。\n父母等が海外に住んでいる場合:父母等が海外に住んでいる場合、その父母が、日本国内に住むお子さんを養育している人を指定すれば、指定された方に手当を支給します。お子さんの住所のある市区町村に「父母指定者指定届」を提出して、認定を受けてください。\n※ただし、単身赴任の場合は、これまでどおり、お子さんの生活費を主に負担している方に支給します。\n未成年後見人がいる場合:お子さんを養育している未成年後見人がいる場合は、未成年後見人に手当を支給します。\nお子さんが施設に入所している場合や里親などに委託されている場合:お子さんが施設に入所している場合や里親などに委託されている（預けられている）場合は、原則として、その施設の設置者や里親などに手当を支給します。"
+  },
+  "updateDate": "2024-10-02",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

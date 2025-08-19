@@ -1,0 +1,130 @@
+{
+  "area": {
+    "areaCode": "132012;八王子市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康医療部健康医療政策課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132012",
+    "psid": "psid3.0+1000020132012+1+UM45"
+  },
+  "belongings": "保険証",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "八王子市散田町3-10-1　南多摩病院 1階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "夜間救急診療室",
+    "contactPhone": "042-663-9911",
+    "contactUrl": null,
+    "zipCode": "1930832"
+  },
+  "cost": null,
+  "costConditions": "診療内容に応じて費用が発生します。",
+  "description": "夜間救急診療室・休日歯科応急診療所のご案内\n更新日：令和5年10月1日 ページID：P0005726 \n夜間救急診療室（診療科目：内科・小児科）\n来院前に必ず下記電話番号にお電話してから受診してください。\n\n急病の方のための診療室です。混雑防止のため、検査目的等の受診はお控えください。\n\n※外科については救急病院をご利用ください。（対応できる病院は＃7119へお問い合わせください。）\n\n住所\n〒193-0832\n\n八王子市散田町3-10-1　南多摩病院 1階\n\n案内図（南多摩病院）\n\n電話番号\n042-663-9911\n\n診療時間\n毎日、午後8時から午後11時まで\n\n診療科目\n内科・小児科\n\n夜間救急診療所の移転について\n令和5年10月1日より、夜間救急診療所が移転しました。\n\n来院の際はご注意ください。\n\n10月1日から夜間救急診療業務を委託（PDF形式 488キロバイト）;https://www.city.hachioji.tokyo.jp/emergency/medical/p005726_d/fil/123.pdf\n\n休日歯科応急診療所\n急な歯痛に対する応急処置を行っています。\n\n住所\n〒193-0931\n\n八王子市台町4-33-13　八王子市小児・障害メディカルセンター 夜間救急棟 2階\n\n※敷地内は一方通行です。北側（八王子高校側）の駐車場入口からお入りください。\n\n案内図　（小児・障害メディカルセンター　内）\n\n電話番号\n042-622-7026\n\n診療日\n日曜日・祝日・休日・年末年始（12月29日から1月3日）\n\n受付時間\n午前9時から午後4時まで\n\n隣接する市の休日歯科診療\n町田市の休日歯科診療（外部リンク）;http://www.city.machida.tokyo.jp/iryo/iryo/kyubyo/kyuzitusika.html\n日野市の休日歯科診療（外部リンク）;http://www.city.hino.lg.jp/kurashi/annzen/iryo/1002361.html \n多摩市の休日歯科診療（外部リンク）;https://www.city.tama.lg.jp/kenkofukushi/1008237/iryo/1002731.html\n関連ファイル\n10月1日から夜間救急診療業務を委託（PDF形式 488キロバイト）;https://www.city.hachioji.tokyo.jp/emergency/medical/p005726_d/fil/123.pdf\n\n※PDFファイルの閲覧には、Adobe Acrobat Reader DC(新しいウインドウが開き八王子市のサイトを離れます)が必要です。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "毎日",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "〒193-0832\n八王子市散田町3-10-1　南多摩病院 1階",
+    "implementationName": "夜間救急診療室"
+  },
+  "institutionName": {
+    "canonicalName": "夜間・休日急病診療所",
+    "shortName": " 夜間救急診療室"
+  },
+  "localGovernmentLink": {
+    "title": "夜間救急診療室・休日歯科応急診療所のご案内",
+    "uri": "https://www.city.hachioji.tokyo.jp/emergency/medical/p005726.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-28",
+    "updater": "八王子市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "八王子市夜間救急診療室実施要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "10月1日から夜間救急診療業務を委託（PDF形式 488キロバイト）",
+      "uri": "https://www.city.hachioji.tokyo.jp/emergency/medical/p005726_d/fil/123.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "八王子市では、年中無休で午後8時から午後11時に、市内医療機関（南多摩病院）に委託し、診療を行っています。",
+  "support": {
+    "description": "内科・小児科",
+    "materiallySupport": "内科・小児科",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "急病の方"
+  },
+  "updateDate": "2023-10-01",
+  "useConsiderationFlag": false,
+  "utilization": "来院前にお電話をしてください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "毎日、午後8時から午後11時まで",
+    "fromHM": "20:00",
+    "toHM": "23:00"
+  }
+}

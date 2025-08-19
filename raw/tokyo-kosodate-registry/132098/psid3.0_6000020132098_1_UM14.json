@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健所保健予防課母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+1+UM14"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健所保健予防課母子保健係",
+    "contactPhone": "電話 042-725-5471",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "赤ちゃんが生まれたすべてのご家庭に訪問を実施する事業です。\n（1）初めての赤ちゃんや体重の少ない赤ちゃん、第2子以降で体重測定を希望する赤ちゃん等\n体重測定や授乳のこと、初めての育児などでご心配なこと、その他お母様の体調などのご相談を受けています。\n訪問時間は約1時間から1時間半程度で、訪問スタッフ（助産師・保健師）がうかがいます。\n（2）第2子以降の赤ちゃん\n玄関先などで現在の状況をお聞きしながら、子育てに関する情報をお伝えし、育児の相談を受けています。訪問時間は約20から40分で、訪問スタッフ「ベビー＆ママサポーター（看護師）」がうかがいます。\n\n訪問を受けると、「子育て応援ギフト」を申請することができます。訪問時にご案内をお渡しします。\n出産・子育て応援交付金事業;https://kosodate-machida.tokyo.jp/soshiki/3/1/8/11384.html",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "ぴったりサービス（手続の検索・電子申請）",
+      "uri": "https://myna.go.jp/SCK1501_02_001/SCK1501_02_001_Init.form"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "ご自宅"
+  },
+  "institutionName": {
+    "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+    "shortName": "こんにちは赤ちゃん訪問"
+  },
+  "localGovernmentLink": {
+    "title": "出生通知票・こんにちは赤ちゃん訪問",
+    "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/8/1127.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/03/13",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "赤ちゃんが生まれたら、母子健康手帳に綴じ込まれている出生通知票をできるだけ早く出しましょう。まだ赤ちゃんのお名前が決まっていない場合でも、なるべく1週間以内に保健予防課へ送付してください。\n\nこの出生通知票によって、こんにちは赤ちゃん訪問を実施します。また、未熟児養育事業等、母子保健の貴重な資料にもなります。赤ちゃんのためにも忘れずに提出してください。\n\nご提出後、訪問スタッフがご連絡し、訪問日を決定します。事務手続き上、ご連絡までにしばらくお日にちがかかることがあります。\n\n※他の区市町村で母子健康手帳の交付を受けたために町田市の出生通知票をお持ちでない方や、訪問を急ぐご事情がある方は、保健予防課（電話：042-725-5471）までご連絡ください。",
+  "procedurePeriod": {
+    "conditions": "なるべく1週間以内",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第21条の10の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "出産・子育て応援交付金事業",
+      "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/8/11384.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "出生通知票の提出に基づき、赤ちゃんが生まれたすべてのご家庭に訪問を実施する事業です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "赤ちゃんが生まれたすべてのご家庭"
+  },
+  "updateDate": "2023/12/08",
+  "useConsiderationFlag": false,
+  "utilization": "ご提出後、訪問スタッフがご連絡し、訪問日を決定します。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

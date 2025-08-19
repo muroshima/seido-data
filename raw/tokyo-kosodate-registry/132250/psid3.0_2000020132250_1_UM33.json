@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132250;稲城市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども福祉部　おやこ包括支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132250",
+    "psid": "psid3.0+2000020132250+1+UM33"
+  },
+  "belongings": "持ち物\n母子健康手帳\n筆記用具\n飲み物（必要な方）",
+  "capacity": "各回10人（申込み先着順）",
+  "class": 1,
+  "contact": {
+    "contactAddress": "稲城市百村112番地の1（稲城市保健センター内）",
+    "contactComment": "ファクス：042-377-4944",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども福祉部　おやこ包括支援センター",
+    "contactPhone": "042-378-3434",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "マタニティ教室\n更新日：2024年4月1日\n稲城市では初めての赤ちゃんを迎えるママのためにマタニティ教室を開催しています。\n妊娠、出産、赤ちゃんのお世話などについて基本的な知識を学ぶ教室です。\n\n会場\n保健センター;https://www.city.inagi.tokyo.jp/shisetsu/fukushi/kenkou/hoken_center.html（稲城市百村112－1）\n\n持ち物\n母子健康手帳\n筆記用具\n飲み物（必要な方）\n\n対象\n市内在住で初めて出産を迎える方\n注釈：第2子目以降の妊婦の方で参加をご希望の方は、お問い合わせください。\n\n定員\n各回10人（申込み先着順）\n\n内容\n2日間で1コースですが、1日だけのご参加も可能です。\n1日目\n妊娠中に必要な栄養と食生活の話\n妊娠中だからこそ知っておきたい歯の話\nママの心身の変化、お産の経過、乳房の手入れの話\n2日目\n赤ちゃんとの生活のお話\nお風呂の入れ方\n市内のあそび場、利用できるサービスのご案内\n\n日時\n午後1時15分から午後3時30分まで（受付＝午後1時から）\nhttps://www.city.inagi.tokyo.jp/kosodate/oyakohoukatsushien_center/ninshin/hahagaku.html\n実施はすべて金曜日\n\n申込方法\n開催日前日までに電話またはおやこ包括支援センター窓口でお申込みください。\n体調が悪い時は、参加をお控えください。\n電話 042-378-3434",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "実施はすべて金曜日",
+    "fromHM": "13:15",
+    "fromYMD": null,
+    "toHM": "15:30",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "稲城市百村112－1",
+    "implementationName": "保健センター"
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関する教室・講習会",
+    "shortName": "マタニティ教室"
+  },
+  "localGovernmentLink": {
+    "title": "マタニティ教室",
+    "uri": "https://www.city.inagi.tokyo.jp/kosodate/oyakohoukatsushien_center/ninshin/hahagaku.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "稲城市"
+  },
+  "procedureCounter": "電話またはおやこ包括支援センター窓口",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申込方法\n開催日前日までに電話またはおやこ包括支援センター窓口でお申込みください。\n体調が悪い時は、参加をお控えください。\n電話 042-378-3434",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "稲城市では、初めての赤ちゃんを迎えるママのためにマタニティ教室を開催しています。妊娠、出産、赤ちゃんのお世話などについて基本的な知識を学ぶ教室です。",
+  "support": {
+    "description": "内容\n2日間で1コースですが、1日だけのご参加も可能です。\n1日目\n妊娠中に必要な栄養と食生活の話\n妊娠中だからこそ知っておきたい歯の話\nママの心身の変化、お産の経過、乳房の手入れの話\n2日目\n赤ちゃんとの生活のお話\n\nお風呂の入れ方\n市内のあそび場、利用できるサービスのご案内",
+    "materiallySupport": "内容\n2日間で1コースですが、1日だけのご参加も可能です。\n1日目\n妊娠中に必要な栄養と食生活の話\n妊娠中だからこそ知っておきたい歯の話\nママの心身の変化、お産の経過、乳房の手入れの話\n2日目\n赤ちゃんとの生活のお話\n\nお風呂の入れ方\n市内のあそび場、利用できるサービスのご案内",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象\n市内在住で初めて出産を迎える方\n注釈：第2子目以降の妊婦の方で参加をご希望の方は、お問い合わせください。"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

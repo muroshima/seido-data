@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132071;昭島市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子ども家庭センター担当 母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132071",
+    "psid": "psid3.0+8000020132071+1+UM5010"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "昭島市昭和町4-7-1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 子ども家庭センター担当 母子保健係",
+    "contactPhone": "042-543-7303",
+    "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000053.html",
+    "zipCode": "1960015"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "新生児聴覚検査の費用の一部を助成します\n新生児聴覚検査とは\n生まれてすぐ、赤ちゃんが眠っている間に聴覚障害の疑いがないかを調べる検査のことです。\n生まれつき、聴覚に何らかの障害を持つ赤ちゃんは1,000人に1人から2人と言われています。\n聴覚障害は早期に適切な治療や支援を開始することで、コミュニケーションの形成や言語発達面への影響が最小限に抑えられることが分かっています。\n\n対象者\n平成31年4月1日以降に生まれ、検査日現在、市内に住民登録がある新生児で、生後50日までに都内医療機関で新生児聴覚検査を受診されたかた\n\n都内医療機関で新生児聴覚検査を受ける場合\n都内医療機関の受付に、妊娠届提出時にお渡しした「新生児聴覚検査受診票」を、事前に提出して検査をお受けください。\n\n里帰り出産（東京都外）や助産院で妊婦健診を受ける場合\n里帰り出産などにより、都外の医療機関で検査を受けた場合にその受診料の一部を補助（償還払い）します。\n出産の翌日から1年以内に、保健福祉センター（あいぽっく）にて以下に掲げる1から5をご持参の上申請手続きをしてください。\n窓口にて作成していただく書類があります。\n1.都外医療機関で支払った新生児聴覚検査の領収書（原本）\n2.未使用の新生児聴覚検査受診票\n3.母子健康手帳\n4.印鑑（シャチハタ不可）\n5.銀行・信金・信組・農協の預金通帳（預金通帳は保護者名義の通帳です）\n・新型コロナウイルス感染拡大防止のため、当面の間、郵送での申請手続きが可能です。\n下記の書類をダウンロードし、子育て世代包括支援センター係（あいぽっく内）に郵送してください。\n\nその他\n耳のきこえのことで心配なことがありましたら、お気軽にご相談してください。\n検査結果は、各医療機関から昭島市へ報告されます。\n\n関連ファイル\n委任状（PDF：71KB）;https://www.city.akishima.lg.jp/s049/sinnseizityoukakukennsaininnzyou.pdf\n郵送での償還払い手続き方法について（PDF：103KB）;https://www.city.akishima.lg.jp/s049/yuusoudenosyoukannbarainituite.pdf\n（記載例）昭島市新生児聴覚検査受診料補助金交付申請書（PDF：145KB）;https://www.city.akishima.lg.jp/s049/sinnseijityoukakukennsa.pdf\n昭島市新生児聴覚検査受診料補助金交付申請書と請求書（PDF：84KB）;https://www.city.akishima.lg.jp/s049/sinnseijityoukakukennsakouhu.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "新生児聴覚検査",
+    "shortName": "新生児聴覚検査の費用の一部を助成"
+  },
+  "localGovernmentLink": {
+    "title": "新生児聴覚検査の費用の一部を助成します",
+    "uri": "https://www.city.akishima.lg.jp/s049/020/010/020/20190326102327.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "昭島市"
+  },
+  "procedureCounter": "都内医療機関で新生児聴覚検査を受ける場合\n都内医療機関の受付\n\n里帰り出産（東京都外）や助産院で妊婦健診を受ける場合\n保健福祉センター（あいぽっく）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "都内医療機関で新生児聴覚検査を受ける場合\n都内医療機関の受付に、妊娠届提出時にお渡しした「新生児聴覚検査受診票」を、事前に提出して検査をお受けください。\n\n里帰り出産（東京都外）や助産院で妊婦健診を受ける場合\n里帰り出産などにより、都外の医療機関で検査を受けた場合にその受診料の一部を補助（償還払い）します。\n出産の翌日から1年以内に、保健福祉センター（あいぽっく）にて以下に掲げる1から5をご持参の上申請手続きをしてください。\n窓口にて作成していただく書類があります。\n1.都外医療機関で支払った新生児聴覚検査の領収書（原本）\n2.未使用の新生児聴覚検査受診票\n3.母子健康手帳\n4.印鑑（シャチハタ不可）\n5.銀行・信金・信組・農協の預金通帳（預金通帳は保護者名義の通帳です）\n\n・新型コロナウイルス感染拡大防止のため、当面の間、郵送での申請手続きが可能です。\n下記の書類をダウンロードし、子育て世代包括支援センター係（あいぽっく内）に郵送してください。\n関連ファイル\n委任状（PDF：71KB）;https://www.city.akishima.lg.jp/s049/sinnseizityoukakukennsaininnzyou.pdf\n郵送での償還払い手続き方法について（PDF：103KB）;https://www.city.akishima.lg.jp/s049/yuusoudenosyoukannbarainituite.pdf\n（記載例）昭島市新生児聴覚検査受診料補助金交付申請書（PDF：145KB）;https://www.city.akishima.lg.jp/s049/sinnseijityoukakukennsa.pdf\n昭島市新生児聴覚検査受診料補助金交付申請書と請求書（PDF：84KB）;https://www.city.akishima.lg.jp/s049/sinnseijityoukakukennsakouhu.pdf",
+  "procedurePeriod": {
+    "conditions": "里帰り出産（東京都外）や助産院で妊婦健診を受ける場合\n出産の翌日から1年以内に、保健福祉センター（あいぽっく）にて以下に掲げる1から5をご持参の上申請手続きをしてください。\n窓口にて作成していただく書類があります。\n1.都外医療機関で支払った新生児聴覚検査の領収書（原本）\n2.未使用の新生児聴覚検査受診票\n3.母子健康手帳\n4.印鑑（シャチハタ不可）\n5.銀行・信金・信組・農協の預金通帳（預金通帳は保護者名義の通帳です）",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "「新生児聴覚検査の実施について」（平成19年1月29日雇児母発第0129002号厚生労働省雇用均等・児童家庭局母子保健課長通知）"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "聴覚障害は、早期発見・治療により言葉の発達などへの影響が最小限に抑えられることが分かっていることから、生まれたばかりの赤ちゃんに聴覚障害の疑いがないかを調べる新生児聴覚検査の費用の一部を助成しています。 ",
+  "support": {
+    "description": "新生児聴覚検査の費用の一部を助成します",
+    "materiallySupport": null,
+    "monetarySupport": "新生児聴覚検査の費用の一部を助成します"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "平成31年4月1日以降に生まれ、検査日現在、市内に住民登録がある新生児で、生後50日までに都内医療機関で新生児聴覚検査を受診されたかた",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "平成31年4月1日以降に生まれ、検査日現在、市内に住民登録がある新生児で、生後50日までに都内医療機関で新生児聴覚検査を受診されたかた"
+  },
+  "updateDate": "2020-04-16",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

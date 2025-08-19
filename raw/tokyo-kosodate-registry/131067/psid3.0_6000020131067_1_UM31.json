@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131067;台東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "浅草保健相談センター　母子健康包括支援担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131067",
+    "psid": "psid3.0+6000020131067+1+UM31"
+  },
+  "belongings": "1.母子健康手帳\n2.筆記用具\n3.たいとう子育てハンドブック\n4.ママパパ学級テキスト\n　\n5.水分補給用の飲み物",
+  "capacity": "20組",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "浅草保健相談センター　母子健康包括支援担当",
+    "contactPhone": "03-3844-8177",
+    "contactUrl": "http://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080700",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "台東区では、初めて出産される方を対象にハローベビー学級（両親学級）を開催しています。\n妊娠・出産・子育て等に関する知識や情報収集、またお友達づくりのためにぜひご参加ください。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "電子申請を開始する",
+      "uri": "https://logoform.jp/form/sQhE/377969"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "台東区花川戸2丁目11番10号",
+    "implementationName": "浅草保健相談センター"
+  },
+  "institutionName": {
+    "canonicalName": "両親学級・妊婦学級",
+    "shortName": "ハローベビー学級"
+  },
+  "localGovernmentLink": {
+    "title": "ハローベビー学級のご案内",
+    "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kouzaevent/hokenjo/hellobabygakkyu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "台東区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申込期間内に以下のボタンをクリックして電子申請でお申込みください。\n定員を超えた場合は、出産予定日等を考慮したうえで選考させていただきます。\nなお、受講の可否については実施前月の20日前後に電子メールにてお知らせします。\n電子メールが届かない場合には、以下の「申込に関するお問い合わせ先」まで直接ご連絡をお願いします。\n＊受講当日に、台東区から届いた「受講対象案内」メールの画面を確認させていただく場合があります。\n＊申込受付期間外は「エラーメッセージ」が表示され、フォームを開くことはできません。\n電子申請を開始する;https://logoform.jp/form/sQhE/377969",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "台東区では、初めて（原則）出産される方を対象に両親学級を開催しています。妊娠・出産・子育て等に関する知識や情報収集、交流等を行います。",
+  "support": {
+    "description": "オリエンテーション（プログラム内容のご案内）\n育児体験実習（沐浴・抱き方・おむつ交換等）、妊婦体験モデルの着用\n＊デモンストレーションを見ていただいた後で、体験していただきます。\n講義「赤ちゃんのいる暮らしに役立つヒント」\n交流タイム　　　　　　 など",
+    "materiallySupport": "オリエンテーション（プログラム内容のご案内）\n育児体験実習（沐浴・抱き方・おむつ交換等）、妊婦体験モデルの着用\n＊デモンストレーションを見ていただいた後で、体験していただきます。\n講義「赤ちゃんのいる暮らしに役立つヒント」\n交流タイム　　　　　　 など",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": "妊娠20週～36週の妊婦",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "参加日時点で台東区に住民登録があり、妊娠20週～36週の妊婦（原則として初産婦）及びそのパートナー\n　※ お申し込みが定員を超えた場合は、出産予定日等を考慮して選考させていただきます。\n　※ 経産婦の方は定員に空きがある場合はご参加いただけます。"
+  },
+  "updateDate": "2024-06-06",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

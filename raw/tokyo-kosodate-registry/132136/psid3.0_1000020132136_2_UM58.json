@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132136;東村山市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子ども保健・給付課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132136",
+    "psid": "psid3.0+1000020132136+2+UM58"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東村山市本町1丁目2番地3　いきいきプラザ2階（手当係：手当・子ども医療証について）　いきいきプラザ3階（母子保健第２係：予防接種、母子保健について）",
+    "contactComment": "ファクス：手当係：042-394-7399　母子保健第１係・母子保健第２係：042-390-2270",
+    "contactEmail": null,
+    "contactEx": "手当係：3604　母子保健第２係：3605",
+    "contactName": "子ども家庭部子ども保健・給付課",
+    "contactPhone": "042-393-5111",
+    "contactUrl": "https://www.city.higashimurayama.tokyo.jp/formmail.html?_div=029300&_pageid=1084&_name=子ども家庭部子ども保健・給付課",
+    "zipCode": "1898501"
+  },
+  "cost": null,
+  "costConditions": "生計中心者の所得により、下記のとおり自己負担があります。\n\nひとり親家庭ホームヘルプサービス事業費用負担基準\n|利用者負担額|1時間|\n|:----|:----|\n|生活保護世帯、市町村民税非課税世帯|0円|\n|児童扶養手当支給水準世帯|150円|\n|上記以外の世帯|300円|\n",
+  "description": "ひとり親家庭ホームヘルプサービス\n日常生活を営むのに、生活環境の激変、その他の理由により支障があるひとり親家庭に対して、一定の期間、ホームヘルパーを派遣し、日常生活の世話等必要なサービスを行うことにより、ひとり親家庭の福祉の増進を図ることを目的としています。ただし、派遣費用については所得により自己負担があります。\n\n派遣対象\n東村山市に住所を有する義務教育終了前の児童のいるひとり親家庭であって、次の各号のいずれかに該当し、家事又は育児等日常生活に支障をきたしている家庭。\n\n1.ひとり親家庭となって2年以内である場合（小学校3年生以下の児童を扶養しているひとり親家庭で、当該児童が小学校3年生を終了するまでの間）。\n2.ひとり親家庭の親又は義務教育終了前の児童が一時傷病の場合。\n3.親族等の冠婚葬祭にひとり親家庭の親が出席する場合。\n4.日常の家事及び育児を行っている同居の祖父母等が一時的傷病の場合。\n5.技能取得のための通学、就職活動、出張、学校の公式行事への参加等の場合。\n派遣内容\n援助内容は対象児童に関してのみです。\n自宅での見守りが原則であり、保護者が留守の間の安全確認、食事、排泄、入浴、遊び相手等それに付随した家事援助となります。\n派遣回数は、原則として同一世帯につき、月12回、時間は午前7時から午後10時の間で、2時間以上8時間以内の利用となります。（1時間単位）\n\n費用負担\n生計中心者の所得により、下記のとおり自己負担があります。\n\nひとり親家庭ホームヘルプサービス事業費用負担基準\n|利用者負担額|1時間|\n|:----|:----|\n|生活保護世帯、市町村民税非課税世帯|0円|\n|児童扶養手当支給水準世帯|150円|\n|上記以外の世帯|300円|\n\n申請方法\n市役所窓口にて申請書を提出してください（所得額・扶養人数・諸控除額が記載されている課税非課税所得証明書が必要な場合があります。）。申請後、ご自宅にてカンファレンス(派遣内容について打ち合わせ）を行い、資格要件を審査し決定いたします。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の育児に関する金銭的支援",
+    "shortName": "ひとり親家庭ホームヘルプサービス"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親家庭ホームヘルプサービス",
+    "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/hojo/hitorioya/help.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "東村山市"
+  },
+  "procedureCounter": "市役所窓口",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "市役所窓口にて申請書を提出してください（所得額・扶養人数・諸控除額が記載されている課税非課税所得証明書が必要な場合があります。）。申請後、ご自宅にてカンファレンス(派遣内容について打ち合わせ）を行い、資格要件を審査し決定いたします。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "規則全体",
+    "regulationName": "東村山市ひとり親家庭ホームヘルプサービスに関する規則"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "日常生活を営むのに、生活環境の激変、その他の理由により支障があるひとり親家庭に対して、一定の期間、ホームヘルパーを派遣し、日常生活の世話等必要なサービスを行うことにより、ひとり親家庭の福祉の増進を図ることを目的としています。",
+  "support": {
+    "description": "日常生活を営むのに、生活環境の激変、その他の理由により支障があるひとり親家庭に対して、一定の期間、ホームヘルパーを派遣し、日常生活の世話等必要なサービスを行うことにより、ひとり親家庭の福祉の増進を図ることを目的としています。ただし、派遣費用については所得により自己負担があります。",
+    "materiallySupport": "日常生活を営むのに、生活環境の激変、その他の理由により支障があるひとり親家庭に対して、一定の期間、ホームヘルパーを派遣し、日常生活の世話等必要なサービスを行うことにより、ひとり親家庭の福祉の増進を図ることを目的としています。ただし、派遣費用については所得により自己負担があります。\n\n派遣内容\n援助内容は対象児童に関してのみです。\n自宅での見守りが原則であり、保護者が留守の間の安全確認、食事、排泄、入浴、遊び相手等それに付随した家事援助となります。\n派遣回数は、原則として同一世帯につき、月12回、時間は午前7時から午後10時の間で、2時間以上8時間以内の利用となります。（1時間単位）",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "小学校３年生までの児童",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "派遣対象\n東村山市に住所を有する義務教育終了前の児童のいるひとり親家庭であって、次の各号のいずれかに該当し、家事又は育児等日常生活に支障をきたしている家庭。\n\n1.ひとり親家庭となって2年以内である場合（小学校3年生以下の児童を扶養しているひとり親家庭で、当該児童が小学校3年生を終了するまでの間）。\n2.ひとり親家庭の親又は義務教育終了前の児童が一時傷病の場合。\n3.親族等の冠婚葬祭にひとり親家庭の親が出席する場合。\n4.日常の家事及び育児を行っている同居の祖父母等が一時的傷病の場合。\n5.技能取得のための通学、就職活動、出張、学校の公式行事への参加等の場合。"
+  },
+  "updateDate": "2023-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

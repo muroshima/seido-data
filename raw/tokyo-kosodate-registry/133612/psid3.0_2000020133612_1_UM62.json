@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "133612;大島町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉けんこう課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020133612",
+    "psid": "psid3.0+2000020133612+1+UM62"
+  },
+  "belongings": "申請に必要なもの\n１．請求者及び対象児童の戸籍謄本\n\n２．請求者名義の銀行等の口座がわかるもの\n\n３．身体障害者手帳、愛の手帳、診断書\n\n４．請求者、配偶者、扶養義務者の所得課税（非課税）証明書(申請年度の1月2日以降に転入された方のみ）\n\n５．マイナンバーがわかるもの（請求者、対象児童、配偶者、扶養義務者）\n\n※マイナンバーカードの提示により省略できる書類があります",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都大島町元町１－１－１４",
+    "contactComment": "Fax：04992-2-4430",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉けんこう課子育て応援係",
+    "contactPhone": "04992-2-1471",
+    "contactUrl": "https://www.town.oshima.tokyo.jp/soshiki/kenkou/tokubetu-zidouhuyou.html",
+    "zipCode": "1000101"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "20歳未満の心身障害児を養育する父母または養育者に対して支給される手当です\n\n支給対象者\n〇身体障害\n\nおおむね身体障害者手帳1級～3級程度（下肢障害については4級の一部を含む）\n\n〇知的障害\n\nおおむね愛の手帳1度～3度程度\n\n〇精神障害\n\n上記と同程度の障害（自閉スペクトラム症等により日常生活に著しい制限を受ける方等）\n\n〇重複障害\n\n複数の障害がある場合、個々の障害の程度が上記より軽度な場合でも該当となることがあります\n\n支給の条件\n父母がともに児童を監護する場合は、生計中心者（所得の高い方）が請求者となり、町に住民登録があること\n父母以外の養育者（里親含む）として請求する場合は、児童に父母がいない、もしくは父母が監護していないこと\n児童が国内に住所を有すること\n児童が児童福祉施設等に入所していないこと\n児童が障害を理由とした年金を受給していないこと\n支給額\n1級月額55,350円\n\n2級月額36,860円\n\n支給方法\n申請のあった月の翌月から4月（12～3月分)、8月(4～7月分）、11月（8～11月分）に指定の口座へ振り込みます\n\n所得制限\n受給者、受給者の配偶者及び扶養義務者の所得が下表の限度額以上であるときは、特別児童扶養手当は支給されません。\n\n|扶養親族|受給資格者本人|配偶者・扶養義務者|\n|:----|:----|:----|\n|0人|4,596,000円|6,287,000円|\n|1人|4,976,000円|6,536,000円|\n|2人|5,356,000円|6,749,000円|\n|3人|5,736,000円|6,962,000円|\n|4人以上|1人増すごとに380,000円加算|1人増すごとに213,000円加算|\n\n申請に必要なもの\n１．請求者及び対象児童の戸籍謄本\n\n２．請求者名義の銀行等の口座がわかるもの\n\n３．身体障害者手帳、愛の手帳、診断書\n\n４．請求者、配偶者、扶養義務者の所得課税（非課税）証明書(申請年度の1月2日以降に転入された方のみ）\n\n５．マイナンバーがわかるもの（請求者、対象児童、配偶者、扶養義務者）\n\n※マイナンバーカードの提示により省略できる書類があります\n\n現況届\n特別児童扶養手当を受給している方は、毎年8月に現況届を提出していただく必要があります\n\n現況届の提出がない場合は手当の支給が遅れる可能性があります\n\nその他届出等が必要なとき\n児童が別居する等養育関係に変更があったとき\n児童が児童福祉施設等に入所したとき\n児童が障害を理由とする年金を受けることができるとき\n児童の障害の程度が変更したとき\n受給者もしくは児童が死亡したとき\n住所・氏名を変更したとき\n振込先金融機関、口座番号を変更したとき",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "特別児童扶養手当",
+    "shortName": "特別児童扶養手当"
+  },
+  "localGovernmentLink": {
+    "title": "特別児童扶養手当",
+    "uri": "https://www.town.oshima.tokyo.jp/soshiki/kenkou/tokubetu-zidouhuyou.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-30",
+    "updater": "大島町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請に必要なもの\n１．請求者及び対象児童の戸籍謄本\n\n２．請求者名義の銀行等の口座がわかるもの\n\n３．身体障害者手帳、愛の手帳、診断書\n\n４．請求者、配偶者、扶養義務者の所得課税（非課税）証明書(申請年度の1月2日以降に転入された方のみ）\n\n５．マイナンバーがわかるもの（請求者、対象児童、配偶者、扶養義務者）\n\n※マイナンバーカードの提示により省略できる書類があります",
+  "procedurePeriod": {
+    "conditions": "平日の午前8時30分から午後5時15分まで（土曜・日曜・祝日・年末年始を除く）",
+    "fromHM": "08:30",
+    "fromYMD": null,
+    "toHM": "17:15",
+    "toYMD": null
+  },
+  "procedurePersons": "支給対象者\n〇身体障害\n\nおおむね身体障害者手帳1級～3級程度（下肢障害については4級の一部を含む）\n\n〇知的障害\n\nおおむね愛の手帳1度～3度程度\n\n〇精神障害\n\n上記と同程度の障害（自閉スペクトラム症等により日常生活に著しい制限を受ける方等）\n\n〇重複障害\n\n複数の障害がある場合、個々の障害の程度が上記より軽度な場合でも該当となることがあります",
+  "regulation": {
+    "regulationArticle": "第2章",
+    "regulationName": "特別児童扶養手当等の支給に関する法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "20歳未満で、法令により定められた程度の障がいの状態にある児童を監護している父母（主として児童の生計を維持するいずれか一人）または父母にかわって児童を養育（児童と同居し、監護し、生計を維持）する方に支給されます。",
+  "support": {
+    "description": "1級月額55,350円\n\n2級月額36,860円",
+    "materiallySupport": null,
+    "monetarySupport": "1級月額55,350円\n\n2級月額36,860円"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "20歳未満の心身障害児を養育する父母または養育者に対して支給される手当です",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "〇身体障害\n\nおおむね身体障害者手帳1級～3級程度（下肢障害については4級の一部を含む）\n\n〇知的障害\n\nおおむね愛の手帳1度～3度程度\n\n〇精神障害\n\n上記と同程度の障害（自閉スペクトラム症等により日常生活に著しい制限を受ける方等）\n\n〇重複障害\n\n複数の障害がある場合、個々の障害の程度が上記より軽度な場合でも該当となることがあります"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": true,
+  "utilization": "申請",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

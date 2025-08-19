@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部健康サービス課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM5037"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部健康サービス課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "この制度は、体、眼、耳、心臓、腎臓、その他の内臓の障害、免疫の機能障害がある方で手術などにより確実な治療効果が期待できる方に必要な医療の給付を行うものです。\n給付が決定されますと、受給者証が交付されます。指定医療機関の窓口に受給者証と保険証を提示することにより医療の給付を受けることができます。\n（注）なお、この制度は江戸川区が実施する乳幼児医療費助成制度に優先して適用されます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度（育成医療）",
+    "shortName": "自立支援医療（育成医療）"
+  },
+  "localGovernmentLink": {
+    "title": "自立支援医療（育成医療）",
+    "uri": "https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kodomo/iryohi/ikuseiiryou.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-10-24",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "各健康サポートセンター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "窓口申請",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "江戸川区に住民登録のある保護者（法定代理人）",
+  "regulation": {
+    "regulationArticle": "第52条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "この制度は、体、眼、耳、心臓、腎臓、その他の内臓の障害、免疫の機能障害がある18歳未満の方で手術などにより確実な治療効果が期待できる方に必要な医療の給付を行うものです。",
+  "support": {
+    "description": "医療費（健康保険適用分）の自己負担額のうち、一部を住民税額に応じて助成します。",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "18歳未満の方で下記の機能障害（将来機能障害が見込まれるものも含む）があり、入院・手術により機能回復が見込まれるもの。\nただし、特別区民税（所得割）が23万5千円以上の世帯の方は原則として対象外（注）となります。\n\n肢体不自由\n視覚障害\n聴覚・平衡機能障害\n音声・言語・そしゃく機能障害\n心臓機能障害\n小腸機能障害\n肝臓機能障害\n腎臓機能障害\nその他の先天性内臓障害\n免疫機能障害\n注釈1：歯科矯正・リハビリ・免疫機能の障害については、通院のみでも対象です。\n注釈2：そけいヘルニア（嵌頓を起こし、緊急手術を行う場合は支給対象）・陰のう水腫・臍ヘルニアは対象外です。\n注釈3：肢体不自由については、治療用装具を着装した場合は、健康保険から給付されない残額について一部を育成医療で給付します。医療券交付の際、請求方法の説明書を同封します。\n医療費助成が受けられる医療機関は全国の指定された指定自立支援医療機関（育成医療）です。また、事前申請が原則です。入院・手術が決まりましたら、早めに申請してください。\n（注）「重度かつ継続」の障害に該当する場合や18歳以下の扶養人数によっては対象となる場合がありますので、内容については、下記にお問い合わせください。"
+  },
+  "updateDate": "2024-03-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

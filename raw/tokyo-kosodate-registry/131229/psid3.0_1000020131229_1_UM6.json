@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援課　母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+1+UM6"
+  },
+  "belongings": "（1）葛飾区多胎妊娠に伴う妊婦健康診査費用助成申請書兼請求書\n（2）医療機関から発行された領収書・明細書等の写し\n（以下（a）～（e）の内容が記載されているもの）　　（a）受診者氏名 （b）受診年月日 （c）医療機関名等 （d）領収額（e）妊婦健康診査の受診であること\n（3）すべての児の親子健康手帳（母子健康手帳）　　郵送の場合は （a）表紙 （b）妊娠中の経過（妊婦健康診査の記録） のコピーをとってご送付ください。\n＊葛飾区で交付した母子健康手帳の場合、（b）は8～9ページ\n＊母子健康手帳の記録から、15回目以降の妊婦健康診査であることが確認できない場合は、追加で資料を提出いただく場合があります。\n（4）印鑑（朱肉を使うもの、スタンプ印不可）　　（1）の申請書兼請求書へ押印してください（2か所）　　訂正の場合は訂正印を押してください。 印鑑は郵送しないでください。\n（5）（1）に記載した振込先口座番号の分かるもの （通帳・キャッシュカード等）\n郵送の場合はコピーをとってご送付ください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区青戸4-15-14 子ども総合センター内",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援課　母子保健係",
+    "contactPhone": "03-3602-1387",
+    "contactUrl": null,
+    "zipCode": "1250062"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊婦健康診査",
+    "shortName": "多胎妊娠に伴う妊婦健康診査費用の助成"
+  },
+  "localGovernmentLink": {
+    "title": "多胎妊娠に伴う妊婦健康診査費用の助成",
+    "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1028203.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": "子ども家庭支援課 母子保健係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "必要書類をそろえて、子ども家庭支援課母子保健係の窓口または郵送でご申請ください。\n【窓口・郵送先】〒125-0062 葛飾区青戸4-15-14\n健康プラザかつしか 子ども総合センター内\n子ども家庭支援課 母子保健係\n電話： 03‐3602-1387\n\n申請期限\n\n出産日から1年以内（出産後お子さまの1歳の誕生日前日までの間）",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "・妊婦健康診査のご案内",
+      "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1002072.html"
+    },
+    {
+      "title": "・里帰り出産等妊婦健康診査費用等の一部助成について",
+      "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1002073.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊婦さんやお腹の赤ちゃんの健康状態を定期的に確認するのが妊婦健康診査です。多胎児（ふたご・みつご等）を妊娠している方に対し、通常の妊婦健康診査14回の受診後、追加で妊婦健康診査を受診した場合に、5回分（15～19回目）までの費用の一部を助成します。受診後に申請が必要です。",
+  "support": {
+    "description": "妊婦一人当たり、5回まで（助成１回当たり区の定める上限額による）",
+    "materiallySupport": null,
+    "monetarySupport": "妊婦一人当たり、5回まで（助成１回当たり区の定める上限額による）"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次の要件を満たす多胎妊娠の方\n1. 15回目以降の妊婦健康診査を受けた方（保険診療による受診は対象外）\n2. 妊婦健康診査受診日に葛飾区に住民登録がある方"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

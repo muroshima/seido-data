@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "132195;狛江市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子ども若者政策課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132195",
+    "psid": "psid3.0+8000020132195+1+UM24"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子ども若者政策課助成支援係",
+    "contactPhone": "03-3430-1277",
+    "contactUrl": "https://komae-kosodate.net/article_docs/323.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "支給対象\n高校生年代までの国内に住所を有する児童を養育・監護している市内在住の方※児童の留学中も所定の条件を満たす場合、児童手当の対象となります。詳細はお問い合わせください。\n所得制限\nなし\n支給月額\n・3歳未満\n（第1子・第2子）：15,000円\n（第3子以降）：30,000円\n支払回数\n年6回（偶数月）\n第３子以降の\nカウント方法\n22歳の年度末に到達するまでの児童のうち第3子以降の児童※児童の生計を維持していると認められる場合に限る",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "ぴったりサービス（外部リンク）",
+      "uri": "https://myna.go.jp/search"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "児童手当",
+    "shortName": "児童手当"
+  },
+  "localGovernmentLink": {
+    "title": "児童手当・特例給付",
+    "uri": "https://komae-kosodate.net/article_docs/323.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "狛江市"
+  },
+  "procedureCounter": "子ども若者政策課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "【新規申請】\n　　１．所得上限限度額を超過しているため、児童手当（特例給付）を受給していない方\n　　　　（令和6年度の児童手当の現況判定結果により、「消滅通知書」が届いた方を含む。）\n　　　　新規の「児童手当認定請求書」及び「請求者の保険証の写し」を提出してください。\n　　２．高校生年代の児童のみを養育している方\n　　　　新規の「児童手当認定請求書」及び「請求者の保険証の写し」を提出してください。\n\n※対象児童と大学生年代の兄妹等（18歳到達後の最初の3月31日を経過した後、22歳到達後の最初の3月31日まで）を含むとお子さんが3人以上になる場合には、「監護相当・生計費の負担についての確認書」を提出してください。\n※請求者と支給対象児童が別居の場合は「別居監護の申立書兼同意書」を提出してください。\n※上記の1及び2に該当すると思われる方については、8月末頃に個別にお知らせ及び申請書類等をお送りいたしますので、ご確認ください。\n\n【増額申請】\n　・現在児童手当（特例給付）を受給しているが、高校生年代の子を養育している子として届け出たことがない方（中学3年生までの時点で、狛江市から児童手当等の支給対象児童であったお子さんは届出不要です。）\n「児童手当額改定認定請求書」及び「受給者の保険証の写し」を提出してください。\n\n※受給者と支給対象児童が別居の場合は「別居監護の申立書兼同意書」を提出してください。\n\n多子加算適用のための届出が必要な方\n　・現在児童手当（特例給付）を受給していて、大学生年代の子を含めると3人以上の子を養育している方\n　「監護相当・生計費の負担についての確認書」を提出してください。\n\n制度改正による申請が不要な方\n　・現在、狛江市から児童手当（特例給付）を受給していて、次に該当する方は、原則申請不要です。\n\n　・現在、児童手当・特例給付を受給している方で、次に該当する方は申請不要です。\n　　　　ア　養育しているお子さんが、いずれも中学生以下の方\n　　　　イ　養育しているお子さんが、高校生年代以下で、高校生年代のお子さんを養育児童として届け出ている方（中学3年生までの時点で、狛江市から児童手当の支給対象児童であったお子さんは届出不要です。）\n　　　　ウ　養育しているお子さんが、大学生年代のお子さんとあわせて2人の場合",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "児童手当法"
+  },
+  "relatedLink": [
+    {
+      "title": "児童手当制度の一部変更について",
+      "uri": "https://www.city.komae.tokyo.jp/index.cfm/43"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "家庭における生活の安定と、これからの社会を担うお子さんの健やかな成長のために、高校生年代までの児童（0歳から18歳に達する日以後の最初の3月31日までの間にある子）を養育している人に、児童手当を支給します。",
+  "support": {
+    "description": "手当は、偶数月に、前月までの2か月分をまとめて支給します。\n支給額は、支給対象となるお子さんの年齢や、養育するお子さんの人数により異なります。\n※養育するお子さんの人数は、大学生年代（22歳に達する日以降の最初の3月31日）までのお子さんのうち、年長者から第1子、第2子と数えます。\nお子さんの年齢や出生順位に応じて、以下の金額を支給します。\n＜0歳から3歳未満＞\n第1子、第2子：月額1万5,000円\n第3子以降：月額3万円",
+    "materiallySupport": null,
+    "monetarySupport": "第1子、第2子：月額1万5,000円\n第3子以降：月額3万円"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0歳から3歳未満\n\n第3子以降は養育する22歳（22歳に達する日以降の最初の3月31日）までの児童の人数により判定します。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "高校生年代（18歳に達する日以後の最初の3月31日）までのお子さんを養育している方が対象です。\nお子さんを養育している父母、または未成年後見人の場合:原則として、お子さんが日本国内に住んでいる場合に手当を支給します。\nお子さんが留学を理由に海外に住んでおり、以下の要件を満たしている場合は、例外として、そのお子さんの分の手当を受け取ることができます。\n1.日本国内に住所を有しなくなった前日までに日本国内に継続して3年を超えて住所を有していたこと\n2.教育を受けることを目的として海外に居住しており、父母（未成年後見人がいる場合はその未成年後見人）と同居していないこと\n3.日本国内に住所を有しなくなった日から3年以内であること\n※その他、短期間留学していて日本に帰国し、再び3年以内に留学する場合などは、上記の要件を満たしていなくても、手当を受け取れる場合があります。\n両親が離婚協議中で別居している場合:父母が、離婚協議中で別居している場合は、お子さんと同居している方を優先して支給する場合があります。\n父母等が海外に住んでいる場合:父母等が海外に住んでいる場合、その父母が、日本国内に住むお子さんを養育している人を指定すれば、指定された方に手当を支給します。お子さんの住所のある市区町村に「父母指定者指定届」を提出して、認定を受けてください。\n※ただし、単身赴任の場合は、これまでどおり、お子さんの生活費を主に負担している方に支給します。\n未成年後見人がいる場合:お子さんを養育している未成年後見人がいる場合は、未成年後見人に手当を支給します。\nお子さんが施設に入所している場合や里親などに委託されている場合:お子さんが施設に入所している場合や里親などに委託されている（預けられている）場合は、原則として、その施設の設置者や里親などに手当を支給します。"
+  },
+  "updateDate": "2023-06-15",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

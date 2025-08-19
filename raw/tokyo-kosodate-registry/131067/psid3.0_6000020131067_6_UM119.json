@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131067;台東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "台東保健所　保健サービス課,浅草保健相談センター　保健指導担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131067",
+    "psid": "psid3.0+6000020131067+6+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "台東保健所　保健サービス課,浅草保健相談センター　保健指導担当",
+    "contactPhone": "03-3847-9497,03-3844-8172",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "発達相談（個別）\n対象\n区内在住の乳幼児と保護者\n\n内容\n運動・情緒・言語等の発達面についての診察や相談\n\n会場と日程\n|相談種別|会場|日程|\n|:----|:----|:----|\n|とことこ発達相談（言語）|台東保健所|第4火曜日　9:30～10:30|\n|^|浅草保健相談センター|第3水曜日　9:30～11:10|\n|発達個別相談（診察・心理・言語・訓練）|台東保健所|第2火曜日　8:45～12:00|\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "|相談種別|会場|日程|\n|:----|:----|:----|\n|とことこ発達相談（言語）|台東保健所|第4火曜日　9:30～10:30|\n|^|浅草保健相談センター|第3水曜日　9:30～11:10|\n|発達個別相談（診察・心理・言語・訓練）|台東保健所|第2火曜日　8:45～12:00|\n\n"
+  },
+  "institutionName": {
+    "canonicalName": "台東区の子育てに関する相談",
+    "shortName": "発達相談（個別）"
+  },
+  "localGovernmentLink": {
+    "title": "発達相談【予約制】",
+    "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/soudan/hattatsu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "台東区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "いずれも予約制です。\n詳細はお問合せ下さい。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "お子さんの発達に関する相談を行っています。",
+  "support": {
+    "description": "運動・情緒・言語等の発達面についての診察や相談",
+    "materiallySupport": "運動・情緒・言語等の発達面についての診察や相談",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住の乳幼児と保護者"
+  },
+  "updateDate": "2024-03-05",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "|相談種別|会場|日程|\n|:----|:----|:----|\n|とことこ発達相談（言語）|台東保健所|第4火曜日　9:30～10:30|\n|^|浅草保健相談センター|第3水曜日　9:30～11:10|\n|発達個別相談（診察・心理・言語・訓練）|台東保健所|第2火曜日　8:45～12:00|\n\n",
+    "fromHM": null,
+    "toHM": null
+  }
+}

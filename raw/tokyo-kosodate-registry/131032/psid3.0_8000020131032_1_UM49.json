@@ -1,0 +1,148 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "みなと保健所健康推進課地域保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+1+UM49"
+  },
+  "belongings": "母子健康手帳\n受診券",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファックス番号：03-3455-4539\n\n外国語対応が必要な人、通訳オペレーター、区の職員の3人で会話ができます。\n\n多言語対応三者通話サービス;https://www.multilingualinterpretercallservice.city.minato.tokyo.jp/kokusai",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "みなと保健所健康推進課地域保健係",
+    "contactPhone": "03-6400-0084",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "3・4か月児健康診査\n生後3・4か月のお子さんを対象に、港区内の決められた医療機関で実施しています。\n\n実施場所;https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/1saimiman/3-4shinsa.html#jissibasyo\n持ち物;https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/1saimiman/3-4shinsa.html#motimono\n子ども×子育て情報;https://www.city.minato.tokyo.jp/kosodatesien/kosodate/index.html\n\n子ども×子育て(リンク);https://www.city.minato.tokyo.jp/kosodatesien/kosodate/index.html：年齢別、施設やサービス、目的別に欲しい情報が検索できます。\n\n対象\n区民で、生後3か月から4か月のお子さん＜対象者には個別通知します＞\n\nとき\n生後3か月から4か月（生後5か月に達する前日まで）\n\n 実施場所\n3・4か月児健診医療機関名簿（PDF：216KB）;https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/1saimiman/documents/3-4kagetumeibo051201-j.pdf\nList of Medical Institutions which provide Health Check-ups for Babies at three to four Months old（PDF：105KB）;https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/1saimiman/documents/3-4kagetumeibo051201-e.pdf\n内容\n身体計測\n内科診察\n持ち物\n母子健康手帳\n受診券\nご注意\n2か月頃に住民票のあるご住所に郵送します。\n転入された方はご連絡ください。\n関連リンク\n\n子どもの予防接種;https://www.city.minato.tokyo.jp/hokenyobou/kenko/kenko/yobosesshu/kodomo.html\n母子保健サービス一覧;https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/kodomonokensin.html\n4か月育児相談;https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/1saimiman/4-sodan.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "3・4か月児健診医療機関名簿（PDF：216KB）;https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/1saimiman/documents/3-4kagetumeibo051201-j.pdf\nList of Medical Institutions which provide Health Check-ups for Babies at three to four Months old（PDF：105KB）;https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/1saimiman/documents/3-4kagetumeibo051201-e.pdf",
+    "implementationName": "3・4か月児健診医療機関名簿（PDF：216KB）;https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/1saimiman/documents/3-4kagetumeibo051201-j.pdf\nList of Medical Institutions which provide Health Check-ups for Babies at three to four Months old（PDF：105KB）;https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/1saimiman/documents/3-4kagetumeibo051201-e.pdf"
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児健康診査（6か月未満児）",
+    "shortName": "3・4か月児健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "3・4か月児健康診査",
+    "uri": "https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/1saimiman/3-4shinsa.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "港区"
+  },
+  "procedureCounter": "みなと保健所健康推進課地域保健係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "母子保健サービス一覧",
+      "uri": "https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/kodomonokensin.html"
+    },
+    {
+      "title": "子ども×子育て情報",
+      "uri": "https://www.city.minato.tokyo.jp/kosodatesien/kosodate/index.html"
+    },
+    {
+      "title": "3・4か月児健診医療機関名簿（PDF：216KB）",
+      "uri": "https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/1saimiman/documents/3-4kagetumeibo051201-j.pdf"
+    },
+    {
+      "title": "List of Medical Institutions which provide Health Check-ups for Babies at three to four Months old（PDF：105KB）",
+      "uri": "https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/1saimiman/documents/3-4kagetumeibo051201-e.pdf"
+    },
+    {
+      "title": "子どもの予防接種",
+      "uri": "https://www.city.minato.tokyo.jp/hokenyobou/kenko/kenko/yobosesshu/kodomo.html"
+    },
+    {
+      "title": "4か月育児相談",
+      "uri": "https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/1saimiman/4-sodan.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として3・4か月児健康診査を実施しています。",
+  "support": {
+    "description": "身体計測\n内科診察",
+    "materiallySupport": "身体計測\n内科診察",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後3か月から4か月（生後5か月に達する前日まで）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 3
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 4
+    },
+    "targetPersons": "区民で、生後3か月から4か月のお子さん＜対象者には個別通知します＞"
+  },
+  "updateDate": "2023-12-08",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

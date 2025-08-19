@@ -1,0 +1,144 @@
+{
+  "area": {
+    "areaCode": "131172;北区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "北区保健所保健予防課保健予防係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131172",
+    "psid": "psid3.0+8000020131172+11+UM54"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都北区東十条2-7-3",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "北区保健所保健予防課保健予防係",
+    "contactPhone": "03-3919-3104",
+    "contactUrl": null,
+    "zipCode": "1140001"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "MR・麻しん・風しん第2期\nお知らせ\n国内での麻しんの感染事例の報告を受け、麻しん風しん混合ワクチン及び麻しんワクチン（以下「麻しん含有ワクチン」という。）の需要が高まっております。\nまた、一部の製造販売業者でワクチンの自主回収があったことによる前年実績程度を上限とした出荷量の調整も行われております。\n厚生労働省から、定期の予防接種の対象者へ接種を実施する医療機関への供給を優先するよう通知が出ておりますが、納入量が需要量に比べて少なく、北区内の医療機関においても接種の予約が取りづらい状況となっております。\nMRは、麻しん風しん混合ワクチンによる予防接種です。\n\n実施内容\n接種対象年齢\n小学校就学前の1年間の4月1日から翌年3月31日まで\n（令和6年度は平成30年4月2日から平成31年4月1日の間に生まれた方）\n\n接種期間\n令和6年4月1日から令和7年3月31日\n\n接種回数\n接種期間内に1回\n\n通知・予診票の送付\n対象の方には令和6年3月末に通知を送付いたしました。\n紛失等で予診票が見当たらない場合は\n電子申請サービス;https://www.city.kita.tokyo.jp/hokenyobo/kosodate/kenshin/yobo/yobo-06.html#denshishinseiにて予診票の送付をお申し込みください。\n\n接種ワクチン\n原則として、麻しん風しん混合ワクチン（MRワクチン）を接種します。\n麻しん単抗原ワクチンまたは風しん単抗原ワクチンをそれぞれ1度づつ接種することもできます。麻しん単抗原ワクチンまたは風しん単抗原ワクチンの接種を希望する方は北区保健所保健予防課保健予防係までお問い合わせください。\n\n会場と日程\n協力医療機関;https://www.city.kita.tokyo.jp/hokenyobo/kosodate/kenshin/yobo/ichiran.htmlにて実施しています。\n診療時間・休診日は各医療機関で異なります。また、ワクチンの取り寄せが必要になる場合がありますので事前に医療機関にお問い合わせの上接種を受けてください。\nなお、他の22区の協力医療機関でも接種できます。その際は、当該区の協力医療機関であることを必ず事前に確認してください。\n\n保護者の方が同伴できない場合\nお子さんの定期の予防接種には、原則、保護者の同伴が必要です。\n諸事情で保護者が同伴できない場合は、「保護者以外の方が同伴する場合;https://www.city.kita.tokyo.jp/hokenyobo/kosodate/kenshin/yobo/yobo-14.html」のページをご参照ください。\n\n関連リンク\nMR・麻しん・風しん第1期;https://www.city.kita.tokyo.jp/hokenyobo/kosodate/kenshin/yobo/yobo-05.html\n麻しん・風しん（任意接種・公費負担）;https://www.city.kita.tokyo.jp/hokenyobo/kosodate/kenshin/yobo/yobo-13.html\n 予防接種予診票送付・再発行の電子申請サービス（子どもの予防接種についてのページ）;https://www.city.kita.tokyo.jp/hokenyobo/kosodate/kenshin/yobo/index.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "診療時間・休診日は各医療機関で異なります。",
+  "implementationPeriod": {
+    "conditions": "診療時間・休診日は各医療機関で異なります。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "https://www.city.kita.tokyo.jp/hokenyobo/kosodate/kenshin/yobo/ichiran.html",
+    "implementationName": "https://www.city.kita.tokyo.jp/hokenyobo/kosodate/kenshin/yobo/ichiran.html"
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "MR・麻しん・風しん第2期"
+  },
+  "localGovernmentLink": {
+    "title": "MR・麻しん・風しん第2期",
+    "uri": "https://www.city.kita.tokyo.jp/hokenyobo/kosodate/kenshin/yobo/yobo-06.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-10",
+    "updater": "北区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "協力医療機関;https://www.city.kita.tokyo.jp/hokenyobo/kosodate/kenshin/yobo/ichiran.htmlにて実施しています。\n診療時間・休診日は各医療機関で異なります。また、ワクチンの取り寄せが必要になる場合がありますので事前に医療機関にお問い合わせの上接種を受けてください。\nなお、他の22区の協力医療機関でも接種できます。その際は、当該区の協力医療機関であることを必ず事前に確認してください。\n\n保護者の方が同伴できない場合\nお子さんの定期の予防接種には、原則、保護者の同伴が必要です。\n諸事情で保護者が同伴できない場合は、「保護者以外の方が同伴する場合;https://www.city.kita.tokyo.jp/hokenyobo/kosodate/kenshin/yobo/yobo-14.html」のページをご参照ください。",
+  "procedurePeriod": {
+    "conditions": "接種期間\n令和6年4月1日から令和7年3月31日",
+    "fromHM": null,
+    "fromYMD": "2024-04-01",
+    "toHM": null,
+    "toYMD": "2025-03-31"
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）",
+    "regulationName": "予防接種法"
+  },
+  "relatedLink": [
+    {
+      "title": "予防接種予診票送付・再発行の電子申請サービス（子どもの予防接種についてのページ）",
+      "uri": "https://www.city.kita.tokyo.jp/hokenyobo/kosodate/kenshin/yobo/index.html"
+    },
+    {
+      "title": "麻しん・風しん（任意接種・公費負担）",
+      "uri": "https://www.city.kita.tokyo.jp/hokenyobo/kosodate/kenshin/yobo/yobo-13.html"
+    },
+    {
+      "title": "協力医療機関",
+      "uri": "https://www.city.kita.tokyo.jp/hokenyobo/kosodate/kenshin/yobo/ichiran.html"
+    },
+    {
+      "title": "保護者以外の方が同伴する場合",
+      "uri": "https://www.city.kita.tokyo.jp/hokenyobo/kosodate/kenshin/yobo/yobo-14.html"
+    },
+    {
+      "title": "MR・麻しん・風しん第1期",
+      "uri": "https://www.city.kita.tokyo.jp/hokenyobo/kosodate/kenshin/yobo/yobo-05.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+  "support": {
+    "description": "接種ワクチン\n原則として、麻しん風しん混合ワクチン（MRワクチン）を接種します。\n麻しん単抗原ワクチンまたは風しん単抗原ワクチンをそれぞれ1度づつ接種することもできます。麻しん単抗原ワクチンまたは風しん単抗原ワクチンの接種を希望する方は北区保健所保健予防課保健予防係までお問い合わせください。\n\n接種期間\n令和6年4月1日から令和7年3月31日\n\n接種回数\n接種期間内に1回",
+    "materiallySupport": "接種ワクチン\n原則として、麻しん風しん混合ワクチン（MRワクチン）を接種します。\n麻しん単抗原ワクチンまたは風しん単抗原ワクチンをそれぞれ1度づつ接種することもできます。麻しん単抗原ワクチンまたは風しん単抗原ワクチンの接種を希望する方は北区保健所保健予防課保健予防係までお問い合わせください。\n\n接種期間\n令和6年4月1日から令和7年3月31日\n\n接種回数\n接種期間内に1回",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "小学校就学前の1年間の4月1日から翌年3月31日まで\n（令和6年度は平成30年4月2日から平成31年4月1日の間に生まれた方）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "小学校就学前の1年間の4月1日から翌年3月31日まで\n（令和6年度は平成30年4月2日から平成31年4月1日の間に生まれた方）"
+  },
+  "updateDate": "2024-04-10",
+  "useConsiderationFlag": false,
+  "utilization": "対象の方には令和6年3月末に通知を送付いたしました。\n\n紛失等で予診票が見当たらない場合は\n電子申請サービス;https://www.city.kita.tokyo.jp/hokenyobo/kosodate/kenshin/yobo/yobo-06.html#denshishinseiにて予診票の送付をお申し込みください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

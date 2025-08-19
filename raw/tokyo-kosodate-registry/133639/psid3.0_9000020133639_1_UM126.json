@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "133639;新島村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "新島村役場教育委員会",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020133639",
+    "psid": "psid3.0+9000020133639+1+UM126"
+  },
+  "belongings": "|区分|対象者|必要書類等|\n|:----|:----|:----|\n|要保護|現在生活保護を受けているご家庭|申請書|\n|準要保護|昨年度以降、、生活保護の停止・廃止となったご家庭|申請書|\n|準要保護|現在、児童扶養手当を受けているご家庭|申請書・児童扶養手当証書の写し|\n|準要保護|・国民年金法第89条および90条に基づく国民年金の保険料を減免された者<br>・国民健康保険法第77条に基づく保険料（税）の減免又は猶予された者<br>・生活福祉資金貸付制度による貸付を受けた者|申請書・当該措置を受けた証明書|\n|準要保護|その他経済的な理由により学校への支払が困難なご家庭（児童生徒が属する世帯の前年の所得月額が、生活保護法第8条の規定に準拠して、算出した額未満である者）<br>算出方法【生活扶助（1類・2類）+教育扶助（基準額・学習支援費・学校給食費）+住宅扶助（一般基準以内）+母子加算】×0.9|申請書・世帯全員の前年度中所得証明書（所得証明・源泉徴収表の写し、確定申告をしている場合は申告書の写し等、のいずれかを提出）|\n",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都新島村本村1丁目1番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "新島村役場教育委員会",
+    "contactPhone": "04992-5-0203",
+    "contactUrl": null,
+    "zipCode": "1000402"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "就学援助制度について\nホーム > 組織・業務案内 > 教育委員会 > 就学援助制度について\n\n就学援助制度の概要\n村内の公立小中学校に就学する児童・生徒の保護者で、村の就学援助認定区分に該当する保護者に対し、村では学用品費・通学用品および給食費などの教育費の一部を支給する就学援助の事業を実施しています。\n\n（注）就学援助の申請は毎年度必要です。前年度の申請を受けた世帯についても翌年度改めて申請が必要になります。\n\n就学援助対象者と認定区分\n|区分|対象者|必要書類等|\n|:----|:----|:----|\n|要保護|現在生活保護を受けているご家庭|申請書|\n|準要保護|昨年度以降、、生活保護の停止・廃止となったご家庭|申請書|\n|準要保護|現在、児童扶養手当を受けているご家庭|申請書・児童扶養手当証書の写し|\n|準要保護|・国民年金法第89条および90条に基づく国民年金の保険料を減免された者<br>・国民健康保険法第77条に基づく保険料（税）の減免又は猶予された者<br>・生活福祉資金貸付制度による貸付を受けた者|申請書・当該措置を受けた証明書|\n|準要保護|その他経済的な理由により学校への支払が困難なご家庭（児童生徒が属する世帯の前年の所得月額が、生活保護法第8条の規定に準拠して、算出した額未満である者）<br>算出方法【生活扶助（1類・2類）+教育扶助（基準額・学習支援費・学校給食費）+住宅扶助（一般基準以内）+母子加算】×0.9|申請書・世帯全員の前年度中所得証明書（所得証明・源泉徴収表の写し、確定申告をしている場合は申告書の写し等、のいずれかを提出）|\n\n申請手続き\n上記のいずれかに該当する場合、要保護・準要保護児童生徒認定申請書に記入・押印の上、必要書類を添えて提出してください。\n\n申請書の配布・受付\n・教育委員会教育課の窓口（住民センター1階）\n\n・式根島の方は式根島支所の窓口\n\n申請書の提出期間\n就学援助を受ける当該年度の1月から3月末日までの開庁日\n\nその他不明な点は担当までお問い合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "小学校・中学校の就学援助費",
+    "shortName": "就学援助制度"
+  },
+  "localGovernmentLink": {
+    "title": "就学援助制度について",
+    "uri": "https://www.niijima.com/soshiki/kyouikuiinkai/syuugakuenzyo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "新島村"
+  },
+  "procedureCounter": "・教育委員会教育課の窓口（住民センター1階）\n\n・式根島の方は式根島支所の窓口",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "要保護・準要保護児童生徒認定申請書に記入・押印の上、必要書類を添えて提出してください。",
+  "procedurePeriod": {
+    "conditions": "就学援助を受ける当該年度の1月から3月末日までの開庁日",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第19条",
+    "regulationName": "学校教育法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "経済的な理由により就学が困難と認められる、公立の小学校・中学校に通学する児童・生徒の保護者を対象に、学用品費、修学旅行費、給食費などを支給します。",
+  "support": {
+    "description": "学用品費・通学用品および給食費などの教育費の一部を支給する",
+    "materiallySupport": null,
+    "monetarySupport": "学用品費・通学用品および給食費などの教育費の一部を支給する"
+  },
+  "tag": {
+    "categoryCode": [
+      "005"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "092"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "村内の公立小中学校に就学する児童・生徒の保護者で、村の就学援助認定区分に該当する保護者"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

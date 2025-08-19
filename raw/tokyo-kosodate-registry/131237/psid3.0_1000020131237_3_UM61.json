@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "総務部人権・男女共同参画推進センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+3+UM61"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "総務部人権・男女共同参画推進センター",
+    "contactPhone": "03-6231-8150",
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e090/kuseijoho/gaiyo/soshiki/soumu/jinken.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "≪ご注意≫補助対象とならない費用\n弁護士費用\n補助金の申請に必要な戸籍謄本又は抄本、住民票の写しの取得費用\nADR利用の際の書類等代理作成費用、弁護士会及び認証ADR事業者が用意する場所以外で調停を行う際の場所代、交通費その他実費など\nクレジットカードの利用等クレジット会社を介して契約を行う場合、クレジット会社に対する分割払い手数料（金利を含む。）",
+  "description": "養育費とは、子どもが経済的・社会的に自立するまでの生活や教育などに必要な費用です。子どもと離れて暮らすことになった親であっても、子どもの親であることに変わりはありません。子どもに対し、親としての経済的な責任を果たし、子どもの成長を支えていくために、養育費を取り決めましょう。\n\n養育費・親子交流（面会交流）・離婚に関するお悩みやご相談のある方へ(無料法律相談≪予約制≫のご案内）https://www.city.edogawa.tokyo.jp/e049/kuseijoho/gaiyo/shisetsuguide/bunya/kosodate/jinken.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自のひとり親の方への金銭的支援",
+    "shortName": "養育費の取決めにかかった費用を区が補助します（養育費確保支援補助金）"
+  },
+  "localGovernmentLink": {
+    "title": "養育費の取決めにかかった費用を区が補助します（養育費確保支援補助金）",
+    "uri": "https://www.city.edogawa.tokyo.jp/e090/kosodate/kosodate/teateshien/shisaku/youikuhi_torikime.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "人権・男女共同参画推進センター相談啓発係\n住所：江戸川区瑞江2丁目9番15号（人権・男女共同参画推進センター）\n電話：03-6231-8150（直通）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "補助金申請の流れ\n1.事前相談\n補助対象者の要件や養育費の取決め方法等について事前に確認します。お電話でもうけたまわります。\n\n2.申請書類の提出\n事前にご予約のうえ、児童家庭課相談係窓口へご提出ください。\n\n公正証書や調停調書などの作成日から6か月以内に申請してください。\n\n申請に必要な書類はいずれも正本をお持ちください。その場でコピーのうえ、返却します。\n\n江戸川区養育費確保支援補助金申請書（PDF：13KB）（別ウィンドウで開きます）https://www.city.edogawa.tokyo.jp/documents/37382/youikuhishinseisyo.pdf\n江戸川区養育費確保支援補助金請求書（PDF：11KB）（別ウィンドウで開きます）https://www.city.edogawa.tokyo.jp/documents/37382/youikuhiseikyusyo.pdf\n3.交付決定\n交付の可否や支給決定額について区から通知します。\n\n4.請求書の提出\n区が請求書を受理してから振込まで3~4週間程度かかります。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第31条（母子家庭自立支援給付金）、第31条の10（父子家庭自立支援給付金）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "養育費とは、子どもが経済的・社会的に自立するまでの生活や教育などに必要な費用です。子どもと離れて暮らすことになった親であっても、子どもの親であることに変わりはありません。子どもに対し、親としての経済的な責任を果たし、子どもの成長を支えていくために、養育費を取り決めましょう。",
+  "support": {
+    "description": "取決め方法別の補助の対象費用（注）いずれも養育費に関する費用のみ（未納のもの及び弁護士費用は対象外）\n■1.公正証書（強制執行認諾条項付に限る）による取決め（上限43,000円）\n公正証書は、法律の専門家である公証人が法律に従って作成する公文書です。取り決める両者が公証役場へ行き、両者が合意した内容を書面にします。（強制執行認諾条項とは、公正証書で定めた養育費の不払が生じたときに強制執行に応じる旨を支払義務者が承諾した条項です。）\n\n|申請の時期|公正証書作成から6か月以内|\n|補助の対象経費|公証役場に支払った公証人手数料（公正証書の作成に要した手数料のうち養育費の取決めに係る費用のみ）_（注意）公証役場に支払った公証人手数料のうち、養育費の取決め以外（財産分与等）が含まれている場合は、養育費の価額の区分に応じた手数料が対象となります。_（計算例）養育費の価額：養育費の月額50,000円×12ヶ月×10年＝6,000,000円_補助対象経費：17,000円（公証人手数料令第9条別表）https://elaws.e-gov.go.jp/document?lawid=405CO0000000224|\n|必要書類|1.公正証書(強制執行認諾条項付に限る)_2.公証人手数料の領収書_3.申請者及びその子の戸籍謄本又は抄本（3か月以内に発行されたもの）_4.世帯全員の住民票の写し（3か月以内に発行されたもの）_（注意）3,4は省略できる場合があります。事前相談時に確認いたします。|\n\n■2.家庭裁判所の調停、審判、裁判による取決め（実費）\n両者での話合いがまとまらない場合や、不払の際に強制執行もできるように裁判所の手続による取決めをしておきたい場合には、家庭裁判所における養育費の調停や審判の申立てをすることができます。\n\n|申請の時期|調停調書、審判書、判決書作成から6か月以内|\n|補助の対象経費|調停申立て、裁判に要した収入印紙代_調停申立て、裁判に要した戸籍謄本等添付書類取得費用_連絡用の郵便切手代（東京家庭裁判所の場合は、1,022円）_（補助対象となる収入印紙代について）_離婚調停時にあわせて養育費を取決めた場合は1,200円です。_離婚後に養育費請求調停で養育費を取決めた場合は（子どもの数×1,200円）です。_離婚訴訟の中で、離婚後の養育費の支払を求めることもできます。この場合は、養育費の取決めに必要な収入印紙代（子どもの数×1,200円）です。_（注意）離婚請求に必要な収入印紙代は補助の対象外です。_（注意）調停が不成立となり、養育費の取決めに至らなかった場合は補助の対象外です。|\n|必要書類|1.裁判所の調停調書、審判書、判決書など_2.収入印紙代の領収書又はレシート_3.戸籍謄本等の領収書又はレシート_4.連絡用の郵便切手代の領収書又はレシート_5.申請者及びその子の戸籍謄本又は抄本（3か月以内に発行されたもの）_6.世帯全員の住民票の写し（3か月以内に発行されたもの）_（注意）5,6は省略できる場合があります。事前相談時に確認いたします。|\n\n■3.ADR（裁判外紛争解決手続）による取決め\n弁護士会及び法務大臣の認証を受けた者（「認証ADR事業者」）が実施する裁判外の紛争解決手続です。紛争の分野に精通した専門家（弁護士等）が、公正中立な立場で話合いを支援し、両者の合意による紛争解決を図る制度です。\n\n3-1.ADRの申込料等、1回目の調停に係る費用の申請（上限20,000円）\n|申請の時期|1回目の調停日から6か月以内|\n|補助の対象経費|ADRの申込料、1回目の調停期日費用等|\n|必要書類|1.ADRの申込料、1回目の調停期日費用等が分かる領収書_2.申請者及びその子の戸籍謄本又は抄本（3か月以内に発行されたもの）_3.世帯全員の住民票の写し（3か月以内に発行されたもの）_（注意）2,3は省略できる場合があります。事前相談時に確認いたします。|\n\n3-2.ADRの2回目以降の調停に係る費用の申請（上限30,000円）\nただし、ADRにより調停が成立し、養育費の取決めに係る公正証書（強制執行認諾条項付に限る）を作成した場合に限ります。\n\n|申請の時期|公正証書作成から6か月以内|\n|補助の対象経費|ADRの2回目以降の調停にかかる費用|\n|必要書類|1.ADRの2回目以降の調停期日費用が分かる領収書_2.公正証書(強制執行認諾条項付に限る)_3.申請者及びその子の戸籍謄本又は抄本（3か月以内に発行されたもの）_4.世帯全員の住民票の写し（3か月以内に発行されたもの）_（注意）3.4.は省略できる場合があります。事前相談時に確認いたします。|\n\n●東京弁護士会紛争解決センター（外部サイトへリンク）（別ウィンドウで開きます）https://www.toben.or.jp/bengoshi/adr/\n●第二東京弁護士会仲裁センター（外部サイトへリンク）（別ウィンドウで開きます）https://niben.jp/service/soudan/chusai/adr.html\n●第一東京弁護士会ADR（仲裁）（外部サイトへリンク）（別ウィンドウで開きます）https://www.ichiben.or.jp/soudan/adr/adr/\n●法務大臣による裁判外紛争解決手続の認証制度（事業者を探す）（外部サイトへリンク）（別ウィンドウで開きます）https://www.adr.go.jp/",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "ひとり親家庭の方、または、離婚協議中で離婚後に子を扶養する予定の方（子は養育費の取決めの対象となる20歳に満たない方）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次の要件を全て満たす方\n\n1.申請日において、江戸川区内に住所のある方\n2.ひとり親家庭の方、または、離婚協議中で離婚後に子を扶養する予定の方（子は養育費の取決めの対象となる20歳に満たない方）\n3.養育費の取決めに係る補助対象の経費を負担した方（経費の負担が6か月以内のもの）\n4.過去に同内容の補助金（他自治体による同様の趣旨の補助金を含む。）の交付を受けていない方"
+  },
+  "updateDate": "2023-05-02",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

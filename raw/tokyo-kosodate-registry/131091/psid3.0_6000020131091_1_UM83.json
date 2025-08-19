@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "131091;品川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保育施設運営課　運営支援担当（区立）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131091",
+    "psid": "psid3.0+6000020131091+1+UM83"
+  },
+  "belongings": null,
+  "capacity": "各園2人まで",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保育施設運営課　運営支援担当（区立）",
+    "contactPhone": "03-5742-6724",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": "2000",
+  "costConditions": "利用料\n児童1人につき1日2,000円\n各月の利用最終日に利用料の合計額を一括で保育園にお支払いいただきます。\n\n※幼児教育無償化の一環として、3歳児クラス以上の児童を対象に区立および区立民営保育園における一時保育の利用料は申請に基づき、一部無償化されます。\n対象児童や申請方法等の詳細は一時保育利用料の無償化についてのお知らせ(PDF : 48KB)をご覧ください。;https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000033215_10.pdf\n\n※一時保育無償化の申請に必要な書類は一時保育の無償化に関する確認書(PDF : 64KB)です。;https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000033215_11.pdf\n一時保育の無償化に関する確認書（記入例）(PDF : 70KB)を参考にご記入ください。;https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000033215_12.pdf",
+  "description": "一時保育\n\n保護者が出産、疾病などのためにお子様を保育できないときに、保育園で一時的にお預かりします 。 \n詳細については、一時保育のしおりをご確認ください。\n\n令和6年5月以降に利用希望の方：一時保育のしおり（令和6年5月版）(PDF : 711KB);https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000033215_22.pdf\n\n■実施園\n区立保育園（全園）および区立民営保育園（ひがしやつやま保育園、三ツ木保育園、八潮北保育園、八潮西保育園）で実施しています。\n\n※各園の在園児童の状況により、受入れ可能な範囲で実施しています。\nまた、年度ごとに申請要件によって選択できる園が異なります。詳細については、「一時保育のしおり」をご確認ください。\n私立保育園・地域型保育事業の一部でも一時預かりを実施しています。\n申請方法・利用料金等の詳細は、直接施設にお問い合わせください。\n\n■定員\n各園2人まで\n\n■対象\n生後満4カ月から就学前の集団保育可能な児童\n※0歳児保育を実施していない保育園は、1歳児クラス以降のお子様が利用できます。\n\n■利用日時\n利用開始日から2カ月以内で、必要な日のみの利用となります。（日曜・祝日、年末年始は除く）\nただし、要件によって利用可能期間が異なるため、詳細は「一時保育のしおり 」をご確認ください。\n時間は午前7時30分から午後6時30分までの間で、必要な時間のみの利用となります。\nなお、延長保育は実施しておりません。\n\n■申請方法\n利用希望月の1カ月前の月初から、出産で利用する場合は出産予定月の3カ月前の月初から申請できます。\n電子による申請は「品川区電子申請サービス」内「【保育施設運営課課】一時保育利用申請」から、電話による申請は保育施設運営課運営支援担当（区立）にお問い合わせください。\nただし、ただし電子申請サービスで申請された方から優先して利用調整します。\n詳細は「一時保育のしおり」をご確認ください。\n\n■利用料\n児童1人につき1日2,000円\n各月の利用最終日に利用料の合計額を一括で保育園にお支払いいただきます。\n\n※幼児教育無償化の一環として、3歳児クラス以上の児童を対象に区立および区立民営保育園における一時保育の利用料は申請に基づき、一部無償化されます。\n対象児童や申請方法等の詳細は一時保育利用料の無償化についてのお知らせ(PDF : 48KB)をご覧ください。;https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000033215_10.pdf\n\n※一時保育無償化の申請に必要な書類は一時保育の無償化に関する確認書(PDF : 64KB)です。;https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000033215_11.pdf\n一時保育の無償化に関する確認書（記入例）(PDF : 70KB)を参考にご記入ください。;https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000033215_12.pdf",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "【保育施設運営課】一時保育利用申請（令和６年５月以降にご利用の方）",
+      "uri": "https://apply.e-tumo.jp/city-shinagawa-u/profile/userLogin_initDisplay?nextURL=CqTLFdO4vobPvF1a8o2fN97dRrdLP0zYtUINsUzZVMuFd1zocBsqwblf2V18OgVsw8NhT9lfF6BP"
+    }
+  ],
+  "holiday": "日曜・祝日、年末年始",
+  "implementationPeriod": {
+    "conditions": "利用開始日から2カ月以内で、必要な日のみの利用となります。（日曜・祝日、年末年始は除く）\nただし、要件によって利用可能期間が異なるため、詳細は「一時保育のしおり 」をご確認ください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "実施園\n区立保育園（全園）および区立民営保育園（ひがしやつやま保育園、三ツ木保育園、八潮北保育園、八潮西保育園）で実施しています。\n\n※各園の在園児童の状況により、受入れ可能な範囲で実施しています。\nまた、年度ごとに申請要件によって選択できる園が異なります。詳細については、「一時保育のしおり」をご確認ください。\n私立保育園・地域型保育事業の一部でも一時預かりを実施しています。\n申請方法・利用料金等の詳細は、直接施設にお問い合わせください。"
+  },
+  "institutionName": {
+    "canonicalName": "一時預かり（一時保育）",
+    "shortName": "一時保育"
+  },
+  "localGovernmentLink": {
+    "title": "一時保育",
+    "uri": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-hoyou/kodomo-hoyou-ichizi/hpg000033215.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "品川区"
+  },
+  "procedureCounter": "各施設",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請方法\n利用希望月の1カ月前の月初から、出産で利用する場合は出産予定月の3カ月前の月初から申請できます。\n電子による申請は「品川区電子申請サービス」内「【保育施設運営課課】一時保育利用申請」から、電話による申請は保育施設運営課運営支援担当（区立）にお問い合わせください。\nただし、ただし電子申請サービスで申請された方から優先して利用調整します。\n詳細は「一時保育のしおり」をご確認ください。",
+  "procedurePeriod": {
+    "conditions": "利用希望月の1カ月前の月初から、出産で利用する場合は出産予定月の3カ月前の月初から申請できます。\n電子による申請は「品川区電子申請サービス」内「【保育施設運営課課】一時保育利用申請」から、電話による申請は保育施設運営課運営支援担当（区立）にお問い合わせください。\nただし、ただし電子申請サービスで申請された方から優先して利用調整します。\n詳細は「一時保育のしおり」をご確認ください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第7項、第21条の9、第59条第10号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "一時保育のしおり（令和6年5月版）(PDF : 711KB)",
+      "uri": "https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000033215_22.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者が出産、疾病などのためにお子様を保育できないときに、保育園で一時的にお預かりします 。 ",
+  "support": {
+    "description": "保護者が出産、疾病などのためにお子様を保育できないときに、保育園で一時的にお預かりします 。 \n詳細については、一時保育のしおりをご確認ください。\n\n令和6年5月以降に利用希望の方：一時保育のしおり（令和6年5月版）(PDF : 711KB);https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000033215_22.pdf",
+    "materiallySupport": "保護者が出産、疾病などのためにお子様を保育できないときに、保育園で一時的にお預かりします 。 \n詳細については、一時保育のしおりをご確認ください。\n\n令和6年5月以降に利用希望の方：一時保育のしおり（令和6年5月版）(PDF : 711KB);https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000033215_22.pdf",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後4ヶ月から小学校就学前まで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 4
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生後満4カ月から就学前の集団保育可能な児童\n※0歳児保育を実施していない保育園は、1歳児クラス以降のお子様が利用できます。"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "時間は午前7時30分から午後6時30分までの間で、必要な時間のみの利用となります。\nなお、延長保育は実施しておりません。",
+    "fromHM": null,
+    "toHM": null
+  }
+}

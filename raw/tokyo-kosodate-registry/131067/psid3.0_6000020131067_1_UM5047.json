@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131067;台東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": null,
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131067",
+    "psid": "psid3.0+6000020131067+1+UM5047"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "台東区東上野4丁目5番6号 台東区役所本庁舎6階",
+    "contactComment": "区立保育園に関するお問い合わせ\n児童保育課支援担当　電話：03-5246-1309\n区立幼稚園に関するお問い合わせ\n学務課学事係　電話：03-5246-1411\n　認定こども園に関するお問い合わせ\n学務課こども園担当　電話：03-5246-1414",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": "1108615"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "台東区の区立保育園等では、医療的ケアの必要な児童が安心して園での生活を送ることができるよう、医療的ケアの実施の支援をしております。\n医療的ケアの実施者\n区が配置する看護師が実施を行います。\n※必要に応じて保護者の方にご協力をお願いする場合がございます。\n医療的ケア実施までの流れ等、詳細につきましては下記ご案内チラシをご覧ください。\n医療的ケアが必要な児童の受入について（チラシ）（PDF：301KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/hoiku_youjikyouiku/hoikutakuji/hoikuen/hoikuennyuen/iryoutekikea.files/chirashi.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "坂本保育園、浅草橋保育園、石浜橋場こども園、たいとうこども園\n※各園の空き状況や受入れ状況により調整させていただく場合があります。"
+  },
+  "institutionName": {
+    "canonicalName": "保育所等における医療的ケア児への支援",
+    "shortName": "区立保育園等における医療的ケアが必要な児童の受入れについて"
+  },
+  "localGovernmentLink": {
+    "title": "区立保育園等における医療的ケアが必要な児童の受入れについて",
+    "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/hoiku_youjikyouiku/hoikutakuji/hoikuen/hoikuennyuen/iryoutekikea.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/03/10",
+    "updater": "台東区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条第1項",
+    "regulationName": "医療的ケア児及びその家族に対する支援に関する法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育園等において、医療的ケアを必要とする児童が安心して生活できるよう、看護師等を配置するなど、医療的ケアの実施支援を行っています。",
+  "support": {
+    "description": "園での生活と同様の時間帯に、日常的に保護者が行っている行為（痰の吸引・胃ろう等による経管栄養等）です。",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "・当該年度の4月1日時点で、1歳の誕生日を迎えている。\n・主治医により集団保育の実施が可能であると認められている。\n・家庭での生活において状態が安定している。\n・医療的ケアが日常生活の一部として保護者及び児童に定着している。その医療的行為によって状態の変化が起こりにくいと主治医に判断されている。\n・主治医の詳細な指示書がある。\n・医療的ケアの実施内容について、保護者及び園等が同意している。"
+  },
+  "updateDate": "2024/09/26",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

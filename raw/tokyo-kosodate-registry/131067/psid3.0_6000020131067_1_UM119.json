@@ -1,0 +1,136 @@
+{
+  "area": {
+    "areaCode": "131067;台東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援センター相談担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131067",
+    "psid": "psid3.0+6000020131067+1+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援センター相談担当",
+    "contactPhone": "03-5824-2571",
+    "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=040700",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "家庭のこと、学校のこと・・・Zoomで相談してみませんか?\n内容\n子ども家庭支援センターの相談員が、悩み事についてオンライン（Zoom）で一緒に考えます。\n対象\n区内に居住し、住民票がある18歳未満の児童及びその保護者\n\n概要\n保護者の方が子育ての中でお悩みのこと、お子さん自身が日々の中で相談したいことをお話していただき、専門相談員が一緒に考えます。\n（相談時間：30分程度）\n\n申込方法\nQRコード\n申請フォームの二次元コード（電子申請）\n電子申請のみ受付\n右記の二次元コードか下記の申請フォーム（電子申請）にてお申込みください。\n申請フォーム（電子申請）はこちら（外部サイト）;https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?acs=kodomohogosyanoonlinekoka\n\n※申請フォーム（電子申請）は、申請期間外の場合「エラー」の表示がされます。\n※ご自宅などWi-Fi環境が整っている場所からご参加ください。\n※ご参加される前に下記のファイルをダウンロードし、「Zoom利用規約」をお読みください。\n※初めてZoomをご利用される方は下記の「Zoom利用案内」をご覧ください。\n「Zoom」利用規約（PDF：364KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/soudan/online-sodan.files/ZOOMriyoukiyaku.pdf\n「Zoom」利用案内（PDF：1,493KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/soudan/online-sodan.files/ZOOOOOOOOM.pdf",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "申請フォーム（電子申請）はこちら（外部サイト）",
+      "uri": "https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?acs=kodomohogosyanoonlinekoka"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "台東区の子育てに関する相談",
+    "shortName": "子ども・保護者のオンライン相談"
+  },
+  "localGovernmentLink": {
+    "title": "子ども・保護者のオンライン相談",
+    "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/soudan/online-sodan.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "台東区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "電子申請のみ受付\n右記の二次元コードか下記の申請フォーム（電子申請）にてお申込みください。\n\n申請フォーム（電子申請）はこちら（外部サイト）;https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?acs=kodomohogosyanoonlinekoka",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "「Zoom」利用案内（PDF：1",
+      "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/soudan/online-sodan.files/ZOOOOOOOOM.pdf"
+    },
+    {
+      "title": "「Zoom」利用規約（PDF：364KB）",
+      "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/soudan/online-sodan.files/ZOOMriyoukiyaku.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者の方が子育ての中でお悩みのこと、お子さん自身が日々の中で相談したいことをお話していただき、専門相談員が一緒に考えます。",
+  "support": {
+    "description": "保護者の方が子育ての中でお悩みのこと、お子さん自身が日々の中で相談したいことをお話していただき、専門相談員が一緒に考えます。",
+    "materiallySupport": "保護者の方が子育ての中でお悩みのこと、お子さん自身が日々の中で相談したいことをお話していただき、専門相談員が一緒に考えます。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "18歳未満の児童及びその保護者",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内に居住し、住民票がある18歳未満の児童及びその保護者"
+  },
+  "updateDate": "2022-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

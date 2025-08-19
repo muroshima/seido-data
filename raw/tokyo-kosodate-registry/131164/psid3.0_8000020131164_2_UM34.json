@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援センター東部子ども家庭支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+2+UM34"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援センター東部子ども家庭支援センター",
+    "contactPhone": "03-5980-5275",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ご出産された方へ\n\n応援ふくろうを差しあげます\nお子さんがお生まれになったご家庭へ、豊島区からのプレゼントです。\n\nお問い合わせ\n東部子ども家庭支援センター　電話：5980-5275\n西部子ども家庭支援センター　電話：5966-3131\n子育てインフォメーション　　電話：4566-2487\n\n子育て世帯見守り訪問事業（子育てエール）\n\n月齢4か月から11か月のお子さまを育てているご家庭を対象に、子育て支援に関する研修を受けた見守り支援員が\n\n毎月ご自宅を訪問し、お子さまと養育している方にお会いして状況をお伺いするとともに子育て情報を提供します。\n\n訪問後には、育児支援品に引き換えられる電子クーポンを配布します。\n\n詳細は下記リンクからご覧ください。\n\n子育てエール\n\n妊娠から出産・子育て期の相談支援＆経済的支援のご案内\n\n詳細は下記リンクからご覧ください。\n\n切れ目ない子育て支援",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関するサポート",
+    "shortName": "応援ふくろう"
+  },
+  "localGovernmentLink": {
+    "title": "ご出産された方へ",
+    "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/oen/034047.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": "区役所3F総合窓口課または区役所4F子育て支援課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "区役所3F総合窓口課または区役所4F子育て支援課にて配布",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "切れ目ない子育て支援",
+      "uri": "https://www.city.toshima.lg.jp/219/kosodate/ninshin/2303161305.html"
+    },
+    {
+      "title": "子育てエール",
+      "uri": "https://www.city.toshima.lg.jp/258/2401151435.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "お子さんがお生まれになったご家庭へ、豊島区からのプレゼントです。",
+  "support": {
+    "description": "・誕生記念樹「いのちの森」苗木\n・スマイルカード（一時保育2時間無料券、ママ’ズ・カフェ・ベビーマッサージ参加券ほかを兼ねています）　　\n・妊娠から出産・子育て期の相談支援＆経済的支援のご案内（チラシ）\n・地域SNSピアッザのご案内（チラシ）",
+    "materiallySupport": "・誕生記念樹「いのちの森」苗木\n・スマイルカード（一時保育2時間無料券、ママ’ズ・カフェ・ベビーマッサージ参加券ほかを兼ねています）　　\n・妊娠から出産・子育て期の相談支援＆経済的支援のご案内（チラシ）\n・地域SNSピアッザのご案内（チラシ）",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "豊島区内在住で、豊島区で出生の手続きをされたご家庭"
+  },
+  "updateDate": "2024-04-30",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

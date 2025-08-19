@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "133035;瑞穂町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部 子ども家庭センター課 母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133035",
+    "psid": "psid3.0+1000020133035+1+UM5013"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡瑞穂町大字石畑1970番地",
+    "contactComment": "受付時間 平日の午前8時30分から午後5時まで",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部 子ども家庭センター課 母子保健係",
+    "contactPhone": "042-557-5098",
+    "contactUrl": "https://www.town.mizuho.tokyo.jp/inquiry/mailform130302.html?PAGE_NO=9238",
+    "zipCode": "1901211"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "国は、妊娠時から出産・子育てまで一貫した伴走型相談支援と経済的支援を一体として実施する事業を創設しました。これを受け、瑞穂町では出産・子育て応援事業を拡充しました。\n\n対象となる方\n申請時に瑞穂町民で、\n妊娠届を提出された方\nお生まれのお子さまを養育する子育て世帯\n\n事業内容\n伴走型相談支援について\n妊婦さんや子育て家庭の方と、瑞穂町子育て世代包括支援センターに所属する母子保健コーディネーター等の専門職が出産・育児等の見通しを一緒に確認し、必要な支援につなげます。実施のタイミングは、以下の3回になります。\n（1）妊娠届出時（ゆりかご面談）\n（2）プレママアンケート（妊娠中期後半から後期にかけてアンケートを郵送します）\n（3）出産後の新生児訪問や乳児家庭全戸訪問時\n\n経済的支援について\n上記（1）妊娠届出時（ゆりかご面談）、（3）新生児訪問や乳児家庭全戸訪問の面談実施時に申請書を記入していただいた妊婦に、妊婦支援給付金（1回目・2回目）（1回に当たり5万円）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "実施のタイミングは、原則、以下の2回になります。\n（1）妊娠届出時（ゆりかご面談）\nhttps://www.town.mizuho.tokyo.jp/kosodate/002/p001208.html\n（2）出産後の新生児訪問や乳児家庭全戸訪問時https://www.town.mizuho.tokyo.jp/kosodate/002/p001206.html",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出産・子育て応援ギフト（国の出産・子育て応援給付金）",
+    "shortName": "妊婦のための支援給付事業（妊婦支援給付金）"
+  },
+  "localGovernmentLink": {
+    "title": "出産・子育て応援事業を拡充しています",
+    "uri": "https://www.town.mizuho.tokyo.jp/kosodate/002/p009238.html"
+  },
+  "odInformation": {
+    "content": "所管部署名称を変更",
+    "updateDate": "2024-09-13",
+    "updater": "瑞穂町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "申請時に瑞穂町民で、\n妊娠届を提出された妊婦で申請をされた方",
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "東京都出産・子育て応援事業～赤ちゃんファーストを継続します～ (外部リンク)",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/shussan/tokyo_shussankosodateouen.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "すべての妊婦さんと子育て家庭が安心して出産・子育てができるように、妊娠から出産・子育てまでの一貫した「妊婦等包括相談支援事業（伴走型相談支援）」を実施しています。この相談支援と一体的に実施する経済的支援として、「妊婦支援給付金」を給付しています。",
+  "support": {
+    "description": "（1）妊娠届出時（ゆりかご面談）\n（2）プレママアンケート（妊娠中期後半から後期にかけてアンケートを郵送します）\n（3）出産後の新生児訪問や乳児家庭全戸訪問時\n\n経済的支援について\n上記（1）妊娠届出時（ゆりかご面談）、（3）新生児訪問や乳児家庭全戸訪問の面談実施時に申請書を記入していただいた妊婦に、妊婦等支援給付金（1回目・2回目）（1回当たり5万円）をお渡しします。",
+    "materiallySupport": "妊婦支援給付金（1回目）妊婦1人につき5万円、妊婦支援給付金（2回目）胎児（流産・死産含む）1人につき5万円",
+    "monetarySupport": "5万円の現金給付（原則口座振込）"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "申請時に瑞穂町民で、\n妊娠届を提出された妊婦で申請をされた方"
+  },
+  "updateDate": "2023-10-24",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

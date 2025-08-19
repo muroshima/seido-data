@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "132144;国分寺市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部保険年金課国民健康保険係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132144",
+    "psid": "psid3.0+1000020132144+1+UM5035"
+  },
+  "belongings": "届出に必要な書類\n（1）産前産後期間に係る国民健康保険税軽減届出書\n\n（2）届出をする方（世帯主）の本人確認書類\n\n（3）母子手帳の写しなど出産（予定）日、単胎・多胎妊娠の別を確認することができる書類\n\n（注釈）被保険者と子が別世帯の場合には、別途親子関係を明らかにする書類が必要です。\n\n産前産後期間に係る国民健康保険税軽減届出書 （PDF 480.7KB）;https://www.city.kokubunji.tokyo.jp/_res/projects/default_project/_page_/001/031/193/3.pdf",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-325-1380",
+    "contactEmail": null,
+    "contactEx": "314",
+    "contactName": "健康部保険年金課国民健康保険係",
+    "contactPhone": "042-325-0111",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子育て世帯の負担軽減、次世代育成支援の観点から、国民健康保険被保険者が出産する際、産前産後の一定期間の国民健康保険税が減額される制度が令和6年1月から始まります。減額には、世帯主からの届出が必要です。\n\n対象者\n国民健康保険被保険者で出産予定日または出産した日が令和5年11月1日以降の方\n\n（注）出産とは、妊娠85日（4ヶ月）以上の出産（死産・流産・人口妊娠中絶含む）\n\n対象期間\n出産予定日又は出産日が属する月の前月から4か月間（以下「産前産後期間」といいます。）の国民健康保険税が減額されます。\n\n（注釈）多胎妊娠の場合は、出産予定日又は出産日が属する月の3か月前から6か月間\n\n対象期間\n対象保険税\n出産される方の産前産後期間の所得割額および均等割額\n\n届出受付期間\n出産予定日の6ヶ月前から届出ができます。出産後の届出も可能です。\n\n届出に必要な書類\n（1）産前産後期間に係る国民健康保険税軽減届出書\n\n（2）届出をする方（世帯主）の本人確認書類\n\n（3）母子手帳の写しなど出産（予定）日、単胎・多胎妊娠の別を確認することができる書類\n\n（注釈）被保険者と子が別世帯の場合には、別途親子関係を明らかにする書類が必要です。\n\n産前産後期間に係る国民健康保険税軽減届出書 （PDF 480.7KB）;https://www.city.kokubunji.tokyo.jp/_res/projects/default_project/_page_/001/031/193/3.pdf\n提出方法\n市役所保険年金課の窓口または郵送で提出してください\n\n（郵送先）〒185-8501国分寺市戸倉1－6－1国分寺市役所保険年金課国民健康保険係宛",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "出産予定日又は出産日が属する月の前月から4か月間（以下「産前産後期間」といいます。）の国民健康保険税が減額されます。\n\n（注釈）多胎妊娠の場合は、出産予定日又は出産日が属する月の3か月前から6か月間",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "国民健康保険における産前産後期間保険料（税）免除",
+    "shortName": "産前産後期間の国民健康保険税減額制度"
+  },
+  "localGovernmentLink": {
+    "title": "令和6年1月から産前産後期間の国民健康保険税減額制度が始まります",
+    "uri": "https://www.city.kokubunji.tokyo.jp/kurashi/1011810/1011822/1011834/1031193.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "国分寺市"
+  },
+  "procedureCounter": "市役所保険年金課の窓口または郵送で提出してください\n\n（郵送先）〒185-8501国分寺市戸倉1－6－1国分寺市役所保険年金課国民健康保険係宛",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "減額には、世帯主からの届出が必要です。",
+  "procedurePeriod": {
+    "conditions": "出産予定日の6ヶ月前から届出ができます。出産後の届出も可能です。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "世帯主",
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民健康保険の出産する被保険者に係る産前産後期間相当分（４ヶ月分）の均等割保険料と所得割保険料が免除されます。",
+  "support": {
+    "description": "国民健康保険被保険者が出産する際、産前産後の一定期間の国民健康保険税が減額される",
+    "materiallySupport": null,
+    "monetarySupport": "国民健康保険被保険者が出産する際、産前産後の一定期間の国民健康保険税が減額される"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003",
+      "015"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "国民健康保険被保険者で出産予定日または出産した日が令和5年11月1日以降の方\n\n（注）出産とは、妊娠85日（4ヶ月）以上の出産（死産・流産・人口妊娠中絶含む）"
+  },
+  "updateDate": "2023-12-20",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

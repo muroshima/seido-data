@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132250;稲城市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部　障害福祉課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132250",
+    "psid": "psid3.0+2000020132250+1+UM18"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "稲城市東長沼2111番地",
+    "contactComment": "ファクス：042-377-4781",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部　障害福祉課",
+    "contactPhone": "042-378-2111",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "稲城市特殊疾病患者見舞金\n更新日：2018年3月23日\n稲城市特殊疾病患者見舞金は、特殊疾病に罹患りかんした方に対し、見舞金を支給することで福祉の増進を図ることを目的としています。\n\n対象者\n次の条件のいずれにも該当する方\n稲城市に住所がある方。\n特定医療費（指定難病）受給者証をお持ちで負担上限額が0円でない方。または対象疾病のマル都医療券（注）をお持ちである方。\n（注）下記疾病に関するマル都医療券は支給対象外です。\n人工透析を必要とする腎不全\n大気汚染関連疾病\n被爆者の子に対する医療\n小児精神病\n妊娠高血圧症候群等\nＢ型・Ｃ型ウイルス肝炎\n\n併給制限\n次のいずれかに該当する方は特殊疾病見舞金を受給することはできません。\n心身障害者福祉手当を受給している方\n児童育成手当条例に基づく障害手当を受給している方\n\n支給額\n月額　5,000円\n\n支給方法\n前月までの4カ月分（満額20,000円）を次の支給月に本人名義の口座に支給します。\n（申請のあった月の分からの支給となります。ただし転入されてきた場合等例外があります。）\n6月（ 2月から5月分）\n10月（ 6月から9月分）\n2月（10月から1月分）\n\n申請方法\n次のすべてのものを持参して、障害福祉課窓口（市役所2階3番窓口）で申請してください。\n1　対象医療券（医療券の申請時に同時に申請される方は必要ありません）\n2　振込先となる口座の分かるもの（本人名義のもの）\n3　印鑑",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊娠高血圧症候群（妊娠中毒症）に関する助成",
+    "shortName": "稲城市特殊疾病患者見舞金"
+  },
+  "localGovernmentLink": {
+    "title": "稲城市特殊疾病患者見舞金",
+    "uri": "https://www.city.inagi.tokyo.jp/kenko/syougaifukushi/teate/tokushu_sippei.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-05-29",
+    "updater": "稲城市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請方法\n次のすべてのものを持参して、障害福祉課窓口（市役所2階3番窓口）で申請してください。\n1　対象医療券（医療券の申請時に同時に申請される方は必要ありません）\n2　振込先となる口座の分かるもの（本人名義のもの）\n3　印鑑",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "妊娠高血圧症候群等医療費助成実施要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠高血圧症候群（妊娠中毒症）などにより、7日以上入院が必要な妊産婦の方を対象に入院医療費を助成します。",
+  "support": {
+    "description": "月額5,000円",
+    "materiallySupport": null,
+    "monetarySupport": "月額5,000円"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象者\n次の条件のいずれにも該当する方\n稲城市に住所がある方。\n特定医療費（指定難病）受給者証をお持ちで負担上限額が0円でない方。または対象疾病のマル都医療券（注）をお持ちである方。\n（注）下記疾病に関するマル都医療券は支給対象外です。\n人工透析を必要とする腎不全\n大気汚染関連疾病\n被爆者の子に対する医療\n小児精神病\n妊娠高血圧症候群等\nＢ型・Ｃ型ウイルス肝炎\n\n併給制限\n次のいずれかに該当する方は特殊疾病見舞金を受給することはできません。\n心身障害者福祉手当を受給している方\n児童育成手当条例に基づく障害手当を受給している方"
+  },
+  "updateDate": "2018-03-23",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

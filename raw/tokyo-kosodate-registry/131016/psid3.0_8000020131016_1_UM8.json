@@ -1,0 +1,133 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "千代田保健所保健サービス課保健サービス係（歯科保健担当）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+1+UM8"
+  },
+  "belongings": "当日は、母子健康手帳をお持ちください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区九段北1-2-14",
+    "contactComment": null,
+    "contactEmail": "hoken-service@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "千代田保健所保健サービス課保健サービス係（歯科保健担当）",
+    "contactPhone": "03-5211-8178",
+    "contactUrl": null,
+    "zipCode": "1020073"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "むし歯や歯周病の予防を目的に、歯科健診とお口を健康に保つためのアドバイスを行っています。\n\n受診にあたってのお願い\n\n・感染症予防のため、本人およびご家族が発熱・咳・下痢・発疹等の症状がある場合は入場をお断りさせていただきます。別日への変更をお願いします。\n・来所の際にはマスクの着用にご協力ください。\n\n費用\n無料\n\n歯科健診：2024年4月～2025年3月の実施日時\n\n|実施日|実施時間|\n|:----|:----|\n|4月3日（水曜日）|午後1時～4時|\n|4月6日（土曜日）|午前9時～11時30分|\n|4月10日（水曜日）|午後1時～4時|\n|4月18日（木曜日）|午後1時～4時|\n|4月20日（土曜日）|午前9時～11時30分|\n|5月8日（水曜日）|午後1時～4時|\n|5月11日（土曜日）|午前9時～11時30分|\n|5月15日（水曜日）|午後1時～4時|\n|5月29日（水曜日）|午後1時～4時|\n|6月1日（土曜日）|午前9時～11時30分|\n|6月5日（水曜日）|午後1時～4時|\n|6月12日（水曜日）|午前9時～11時30分|\n|6月15日（土曜日）|午前9時～11時30分|\n|6月20日（木曜日）|午後1時～4時|\n|7月3日（水曜日）|午後1時～4時|\n|7月6日（土曜日）|午前9時～11時30分|\n|7月10日（水曜日）|午後1時～4時|\n|7月18日（木曜日）|午後1時～4時|\n|8月3日（土曜日）|午前9時～11時30分|\n|8月7日（水曜日）|午後1時～4時|\n|8月17日（土曜日）|午前9時～11時30分|\n|8月21日（水曜日）|午後1時～4時|\n|8月28日（水曜日）|午後1時～4時|\n|9月7日（土曜日）|午前9時～11時30分|\n|9月11日（水曜日）|午前9時～11時30分|\n|9月18日（水曜日）|午後1時～4時|\n|9月26日（木曜日）|午後1時～4時|\n|10月2日（水曜日）|午後1時～4時|\n|10月5日（土曜日）|午前9時～11時30分|\n|10月9日（水曜日）|午後1時～4時|\n|10月17日（木曜日）|午後1時～4時|\n|10月19日（土曜日）|午前9時～11時30分|\n|11月2日（土曜日）|午前9時～11時30分|\n|11月6日（水曜日）|午後1時～4時|\n|11月13日（水曜日）|午後1時～4時|\n|11月21日（木曜日）|午後1時～4時|\n|12月4日（水曜日）|午後1時～4時|\n|12月7日（土曜日）|午前9時～11時30分|\n|12月11日（水曜日）|午前9時～11時30分|\n|12月18日（水曜日）|午後1時～4時|\n|12月21日（土曜日）|午前9時～11時30分|\n|1月8日（水曜日）|午後1時～4時|\n|1月11日（土曜日）|午前9時～11時30分|\n|1月15日（水曜日）|午後1時～4時|\n|1月23日（木曜日）|午後1時～4時|\n|2月1日（土曜日）|午前9時～11時30分|\n|2月5日（水曜日）|午後1時～4時|\n|2月12日（水曜日）|午後1時～4時|\n|2月15日（土曜日）|午前9時～11時30分|\n|2月19日（水曜日）|午後1時～4時|\n|3月1日（土曜日）|午前9時～11時30分|\n|3月5日（水曜日）|午後1時～4時|\n|3月12日（水曜日）|午前9時～11時30分|\n|3月27日（木曜日）|午後1時～4時|",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "歯科健診とフッ素塗布（外部サイトへリンク）",
+      "uri": "https://chiyoda-portal.my.site.com/ctz/appMngDef/a042w00000zTTwhAAG/am000000000"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "九段北1-2-14",
+    "implementationName": "千代田保健所4階 歯とお口の相談室"
+  },
+  "institutionName": {
+    "canonicalName": "妊産婦の歯科健診",
+    "shortName": "歯科健診"
+  },
+  "localGovernmentLink": {
+    "title": "歯科健診",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/ninshin/shikakenshin.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "ポータルサイトからお申し込みください。電話（電話番号：03-5211-8178）でもご予約を受け付けていますが、健診時間中は対応が難しいので、ご了承ください。\nオンライン予約は歯科健診とフッ素塗布（外部サイトへリンク）からお申し込みください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "千代田区ポータルサイト",
+      "uri": "https://www.city.chiyoda.lg.jp/koho/kuse/johosesaku/portalsite-kaishi.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠中や出産後は女性ホルモンの分泌の変化や食事回数の増加などからむし歯や歯周病になりやすく、進行しやすい時期です。こうした時期のお口の中の健康を維持するために、歯科健診をおすすめしています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "千代田区にお住まいの妊娠中の方、出産後1年未満の方"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": "ポータルサイトの登録方法については、「千代田区ポータルサイト」をご覧ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部児童家庭課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+5+UM58"
+  },
+  "belongings": "児童扶養手当証書（現在、有効なもの）又は、「児童扶養手当受給証明書」\n水道料金領収書\n印かん（朱肉を使って押印するもの）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部児童家庭課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e049/kuseijoho/gaiyo/soshiki/kodomo/jidou.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "児童扶養手当受給世帯の方は、水道料金は基本料金、下水道料金は1カ月8立方メートル以下の料金が免除されます。申請する方は、契約している水道局の営業所の窓口に下記のものをお持ちください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の育児に関する金銭的支援",
+    "shortName": "都営水道料金の免除"
+  },
+  "localGovernmentLink": {
+    "title": "都営水道料金の免除",
+    "uri": "https://www.city.edogawa.tokyo.jp/e049/kosodate/kosodate/teateshien/shisaku/teate/suido.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "東京都水道局江戸川営業所\n所在地：江戸川区松江5丁目4番12号\n電話：03-5661-5085\n（注）児童扶養手当の支給停止及び資格喪失された場合は該当しませんので、ただちに営業所に届出が必要です。",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請する方は、契約している水道局の営業所の窓口に下記のものをお持ちください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童扶養手当受給世帯の方は、水道料金は基本料金、下水道料金は1カ月8立方メートル以下の料金が免除されます。申請する方は、契約している水道局の営業所の窓口に下記のものをお持ちください。",
+  "support": {
+    "description": "都営水道料金の免除",
+    "materiallySupport": "都営水道料金の免除",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "児童扶養手当受給世帯の方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "児童扶養手当受給世帯の方"
+  },
+  "updateDate": "2022-01-31",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

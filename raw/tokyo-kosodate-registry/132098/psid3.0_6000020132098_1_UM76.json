@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども生活部保育・幼稚園課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+1+UM76"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども生活部保育・幼稚園課",
+    "contactPhone": "042-724-2138,042-724-2137",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/8",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "延長保育料\n延長保育では、毎月の基本保育料のほかに延長保育料がかかります。\n・保育料額：公立保育園は市で定める額を、私立保育園は各園が決定した額をお支払いいただきます。\n・支払方法：直接園にお支払いいただきます。公立保育園利用の場合は交通系電子マネーにてお支払いいただきます。\n基本保育料の階層区分が生活保護世帯、市町村民税非課税世帯、中国在留邦人等の円滑な帰国の促進並びに永住帰国した中国残留邦人等及び特定配偶者の自立の支援に関する法律（平成6年法律第30号）の規定による支援給付を受けている世帯又は児童福祉法第6条の4に規定する里親が属する世帯の方は、延長保育料が減免されますので、「保育料決定通知書」を持参の上、延長保育の申し込み時に合わせて保育園にお申し出ください。\nただし、減免となる延長保育料には上限がありますので、それを超えて利用した場合には実費をご負担いただくことがあります。",
+  "description": "通常保育時間（午前7時から午後6時までの11時間）に加え、延長保育を実施しています。延長保育の時間は各施設によって異なりますので、利用を希望される場合は各保育園にご確認ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "延長保育",
+    "shortName": "延長保育"
+  },
+  "localGovernmentLink": {
+    "title": "延長保育",
+    "uri": "https://kosodate-machida.tokyo.jp/soshiki/4/3/11/317.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第59条第2号",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "町田市内の保育園（保育所）や認定こども園、地域型保育施設では、保護者の勤務時間などにより、認定を受けた時間帯を超えて保育が必要なお子さんを対象に、別途料金を徴収のうえで、延長保育を実施しています。",
+  "support": {
+    "description": "通常保育時間（午前7時から午後6時までの11時間）に加え、延長保育を実施しています。",
+    "materiallySupport": "通常保育時間（午前7時から午後6時までの11時間）に加え、延長保育を実施しています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "保護者の就労形態・通勤時間・残業など保護者の事情により、午後6時以降保育する事ができない家庭の児童",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "保護者の就労形態・通勤時間・残業など保護者の事情により、午後6時以降保育する事ができない家庭の児童"
+  },
+  "updateDate": "2020-11-09",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132292;西東京市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "障害福祉課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132292",
+    "psid": "psid3.0+1000020132292+4+UM106"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "西東京市南町五丁目6番13号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "障害福祉課",
+    "contactPhone": "042-420-2804",
+    "contactUrl": "https://www.city.nishitokyo.lg.jp/cgi-bin/formmail/formmail.cgi?d=060400",
+    "zipCode": "1888666"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ペアレントメンターとお話会\n\n発達障害等（グレーゾーンを含む）があるお子さんの子育ての悩みを話してみませんか？\nペアレントメンターとは障害があるお子さんの子育て経験があり、東京都の研修を受けた方のことです。子育ての悩みの相談もできますので、お気軽にご相談ください。\n\nペアレントメンターとは？\nペアレントメンターとは、「信頼できる相談相手」という意味です。障害があるお子さんの子育て経験を活かして、同じような悩みをもつ保護者の方が話を聞いたり、情報提供等を行います。\n\n※ペアレントメンターは東京都ペアレントメンター研修を受け、ペアレントメンター事務局に登録されております。\n\n西東京市ペアレントメンター事業\n西東京市では、定期的にペアレントメンター事業を実施しております。ペアレントメンターと話しをすることができる貴重な機会となります。是非お気軽にお越しください。\n\n|日付|曜日|時間|会場|\n|:----|:----|:----|:----|\n|令和6年6月14日|金曜日|午後1時30分から3時30分|田無第二庁舎2階会議室|\n|令和6年10月11日|^|^|^|\n|令和7年2月14日|^|^|^|\n|※要申込　申込み・お問い合わせ先⇒西東京市障害福祉課障害者相談係　（電話：042-420-2805）|<|<|<|\n\n関連リンク\n東京都ペアレントメンター事務局ホームページ（外部リンク）;http://www.tosca-net.com/mentor/",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "|日付|曜日|時間|会場|\n|:----|:----|:----|:----|\n|令和6年6月14日|金曜日|午後1時30分から3時30分|田無第二庁舎2階会議室|\n|令和6年10月11日|^|^|^|\n|令和7年2月14日|^|^|^|\n|※要申込　申込み・お問い合わせ先⇒西東京市障害福祉課障害者相談係　（電話：042-420-2805）|<|<|<|\n",
+    "fromHM": "13:30",
+    "fromYMD": null,
+    "toHM": "15:30",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "田無第二庁舎2階会議室"
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関するサポート",
+    "shortName": "ペアレントメンターとお話会"
+  },
+  "localGovernmentLink": {
+    "title": "ペアレントメンターとお話会",
+    "uri": "https://www.city.nishitokyo.lg.jp/kenko_hukusi/syogaisyasien/sodan/oshietepearenntomennta.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-11",
+    "updater": "西東京市"
+  },
+  "procedureCounter": "西東京市障害福祉課障害者相談係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "※要申込　申込み・お問い合わせ先⇒西東京市障害福祉課障害者相談係　（電話：042-420-2805）",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "東京都ペアレントメンター事務局ホームページ（外部リンク）",
+      "uri": "http://www.tosca-net.com/mentor/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ペアレントメンターとは障害があるお子さんの子育て経験があり、東京都の研修を受けた方のことです。子育ての悩みの相談もできますので、お気軽にご相談ください。",
+  "support": {
+    "description": "ペアレントメンターとは、「信頼できる相談相手」という意味です。障害があるお子さんの子育て経験を活かして、同じような悩みをもつ保護者の方が話を聞いたり、情報提供等を行います。\n\n※ペアレントメンターは東京都ペアレントメンター研修を受け、ペアレントメンター事務局に登録されております。\n\n西東京市では、定期的にペアレントメンター事業を実施しております。ペアレントメンターと話しをすることができる貴重な機会となります。是非お気軽にお越しください。",
+    "materiallySupport": "障害があるお子さんの子育て経験を活かして、同じような悩みをもつ保護者の方が話を聞いたり、情報提供等を行います。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-03-29",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

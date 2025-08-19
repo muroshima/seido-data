@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "千代田保健所保健サービス課保健サービス係（歯科保健担当）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+2+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区九段北1-2-14",
+    "contactComment": null,
+    "contactEmail": "hoken-service@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "千代田保健所保健サービス課保健サービス係（歯科保健担当）",
+    "contactPhone": "03-5211-8178",
+    "contactUrl": null,
+    "zipCode": "1020073"
+  },
+  "cost": "0",
+  "costConditions": "無料",
+  "description": "「よく噛まない」、「食べ物を口に溜める」、「偏食が多い」、「食事に時間がかかる」など、お子さんの食べ方が気になる保護者の方に、昭和大学の食べ方（摂食）専門の歯科医が、上手に食べるためのアドバイスを行います。\n当日は、お子さんと一緒にお越しください。\n\n受診にあたってのお願い\n来所の前に、お子さんおよび付き添いの方の検温をお願いします。\n感染症予防のため、対象のお子さん一人につき、付き添いの方は一人までのご協力をお願いします。\n感染症予防のため、お子さんやご家族が発熱・咳・下痢・発疹等の症状がある場合は入場をお断りさせていただきます。別日への変更をお願いします。\n付き添いの方は、来所の際にはマスクの着用にご協力ください。\n\n子どもの食べ方相談：\n実施日\n4月23日（火曜日）\n5月21日（火曜日）\n6月18日（火曜日）\n7月30日（火曜日）\n8月20日（火曜日）\n9月24日（火曜日）\n10月22日（火曜日）\n11月26日（火曜日）\n12月24日（火曜日）\n1月21日（火曜日）\n2月18日（火曜日）\n3月18日（火曜日）\n\nお問い合わせ\nファクス：03-3262-1160",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "子どもの食べ方相談（外部サイトへリンク）",
+      "uri": "https://chiyoda-portal.my.site.com/ctz/appMngDef/a042w000011GZowAAG/am000000049"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": "13:30",
+    "fromYMD": "2024-04-23",
+    "toHM": "16:00",
+    "toYMD": "2025-03-18"
+  },
+  "implementationPlace": {
+    "implementationAddress": "九段北1-2-14",
+    "implementationName": "千代田保健所4階歯とお口の相談室"
+  },
+  "institutionName": {
+    "canonicalName": "千代田区の子育てに関する相談",
+    "shortName": "子どもの食べ方相談"
+  },
+  "localGovernmentLink": {
+    "title": "子どもの食べ方相談",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/tabekata.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申込方法\n予約制（30分ごとの予約）です。\n\nポータルサイトからお申し込みください。電話（電話番号：03-5211-8178）でもご予約を受け付けていますが、健診時間中は対応が難しいので、ご了承ください。\n\n・ポータルサイト\nオンライン予約は子どもの食べ方相談（外部サイトへリンク）からお申し込みください。\n（注意） ポータルサイトの登録方法については、「千代田区ポータルサイト」をご覧ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "千代田区ポータルサイト",
+      "uri": "https://www.city.chiyoda.lg.jp/koho/kuse/johosesaku/portalsite-kaishi.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "「よく噛まない」、「食べ物を口に溜める」、「偏食が多い」、「食事に時間がかかる」など、お子さんの食べ方が気になる保護者の方に、昭和大学の食べ方（摂食）専門の歯科医が、上手に食べるためのアドバイスを行います。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "082"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "千代田区にお住まいの乳幼児とその保護者"
+  },
+  "updateDate": "2024-04-10",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

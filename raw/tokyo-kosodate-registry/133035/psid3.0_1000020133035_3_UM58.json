@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "133035;瑞穂町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部 子育て応援課 子育て支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133035",
+    "psid": "psid3.0+1000020133035+3+UM58"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡瑞穂町大字箱根ケ崎2335番地",
+    "contactComment": "受付時間 平日の午前8時30分から午後5時まで",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部 子育て応援課 子育て支援係",
+    "contactPhone": "042-557-7624",
+    "contactUrl": "https://www.town.mizuho.tokyo.jp/dept/130000/130150/130151/index.html",
+    "zipCode": "1901292"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "6月は児童育成手当の更新月です。\n昨年度、所得制限で受給できなかった方も該当になる場合がありますので、5月中にお問い合わせください。\n\n育成手当\n|児童育成手当（育成・障害） 所得制限限度額表|<|\n|扶養親族等の数|所得制限限度額|\n|:----|:----|\n|0人|3,604,000円|\n|1人|3,984,000円|\n|2人|4,364,000円|\n|3人|4,744,000円|\n|4人目以降|1人増すごとに38万円加算|\n\n|所得から控除できるもの|<|\n|控除項目|控除額|\n|:----|:----|\n|一律（社会保険料相当）|80,000円|\n|給与・年金控除|最大100,000円|\n|雑損・医療費・配偶者特別・小規模企業共済等掛金等|控除相当額|\n|障害者・障害者扶養・勤労学生・寡婦（夫）|270,000円|\n|特別障害者・特別障害者扶養|400,000円|\n|ひとり親|350,000円|\n\n所得制限額に加算されるもの\n扶養親族等に、老人控除対象配偶者または老人扶養親族があるときは、1人につき100,000円\n扶養親族等に、特定扶養親族等があるときは、1人につき250,000円",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の育児に関する金銭的支援",
+    "shortName": "児童育成手当（育成手当）"
+  },
+  "localGovernmentLink": {
+    "title": "児童育成手当（育成・障害）",
+    "uri": "https://www.town.mizuho.tokyo.jp/kosodate/003/001/p005259.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/03/10",
+    "updater": "瑞穂町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童育成手当（育成手当）は、瑞穂町に住民票のある方で離婚・死亡・遺棄などの理由で、父親もしくは母親と生計を同じくしていない父子・母子世帯等の児童の福祉の増進を図るために設けられた手当です。",
+  "support": {
+    "description": "児童1人につき月額13,500円",
+    "materiallySupport": null,
+    "monetarySupport": "13500"
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "18歳に達する日以後の最初の3月31日まで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象\n18歳に達する日以後の最初の3月31日までの間にあり、次のいずれかの状態にある児童を養育している方\n1.父母が離婚した児童\n2.父または母が死亡した児童\n3.父または母が重度の障がい（身体障害者手帳1級・2級程度）を有する児童\n4.父または母が生死不明である児童\n5.父または母に1年以上遺棄されている児童\n6.父または母が法令により1年以上拘禁されている児童\n7.父または母が裁判所からのDV保護命令を受けた児童\n8.婚姻によらないで生まれた児童\n\n条件\n申請者が町に住民登録をしていること。\n児童が児童福祉施設等に入所（里親に委託されている場合も含む）していないこと。\n児童が父および母と生計を同じくしていないこと（対象3に該当する方を除く）。\n児童が父および父の配偶者または母および母の配偶者と生計を同じくしていないこと。なお、配偶者には事実上の配偶者を含む。\n申請者の前年（1月から5月までの月分の手当額は前々年）の所得が一定以上ある場合は受けられません（所得制限限度額表を確認してください）。"
+  },
+  "updateDate": "2023/04/01",
+  "useConsiderationFlag": false,
+  "utilization": "支払方法\n6月（2月・3月・4月・5月）\n10月（6月・7月・8月・9月）\n2月（10月・11月・12月・1月）\n支払通知書は送付していませんので、通帳を記帳して確認してください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

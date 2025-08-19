@@ -1,0 +1,130 @@
+{
+  "area": {
+    "areaCode": "131130;渋谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "障がい者福祉課精神福祉係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020131130",
+    "psid": "psid3.0+9000020131130+1+UM824"
+  },
+  "belongings": "申請に必要なもの\n自立支援医療診断書（精神通院）　（注1）\n健康保険証\nマイナンバーカードまたはマイナンバーのわかるもの（お持ちでない場合でも、申請はできます。） \n世帯（注2）の所得状況が確認できる書類（加入している医療保険によって、所得状況の確認が必要な場合があります。詳しくはお問い合わせください。）\n\n（注1）精神障害者保健福祉手帳を同時に申請する人は、手帳用の診断書。病名や課税状況によっては、重度かつ継続の意見書が必要になる場合があります。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "障がい者福祉課精神福祉係",
+    "contactPhone": "電話\n\n03-3463-1905",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "自立支援医療（精神通院）\n精神疾患のため通院による継続的な治療を必要とする方を対象に、医療費の負担を軽減する制度です。\n\n対象;https://www.city.shibuya.tokyo.jp/kenko/shogai-seikatsu/iryo/jititu-seisin.html#h2-h22db4f3f4f\n自己負担;https://www.city.shibuya.tokyo.jp/kenko/shogai-seikatsu/iryo/jititu-seisin.html#h2-hae266a663f\n申請に必要なもの;https://www.city.shibuya.tokyo.jp/kenko/shogai-seikatsu/iryo/jititu-seisin.html#h2-hab7575dbc0\n支給認定について;https://www.city.shibuya.tokyo.jp/kenko/shogai-seikatsu/iryo/jititu-seisin.html#h2-he8dcedde30\n有効期間;https://www.city.shibuya.tokyo.jp/kenko/shogai-seikatsu/iryo/jititu-seisin.html#h2-hc9b374b3b5\n変更、再交付申請;https://www.city.shibuya.tokyo.jp/kenko/shogai-seikatsu/iryo/jititu-seisin.html#h2-hd07b4e8f1b\n制度の詳細は、次のページでご確認ください。\n\n対象\n（注）往診、デイケア、訪問看護、てんかんの診察、薬代も対象になります。\n（注）医療保険が適用されるものが対象です。\n（注）入院による医療費は対象外です。\n\n自己負担\nまた、住民税が非課税の世帯の人は、申請により、自己負担分を助成する制度もあります。\n（注）保険上の世帯の区民税所得割額が235,000円以上の場合は原則として対象外ですが、「重度かつ継続」の障がいの場合は、2027年3月31日まで経過的特例により対象となります。\n\n（注2）受診者と同じ医療保険に加入する人をもって同一世帯として扱います。\n\n支給認定について\n東京都が審査・決定を行います。\n認定されると「自立支援医療受給者証（精神通院）」が交付されますが、申請してから交付までは2～3か月程度かかります。\n申請受付時に申請者控をお渡ししますので、事前に、病院・薬局などに申請者控で自立支援医療制度の適用が可能かどうかを確認してください。\n\n有効期間\n有効期間は原則1年間です。受給者証に有効期間が記載されていますので、ご確認ください。\n（注）有効期限日を過ぎると、「再開」の申請が必要です。再開申請の場合、原則として自立支援医療診断書（精神通院）診断書が必要になります。ただし、診断書に基づいて交付された有効期間内の精神障害者保健福祉手帳をお持ちの人が、自立支援医療（精神通院）の新規・再開申請を行う場合は、診断書の代わりに、手帳の写しで申請できます。詳しくはお問い合わせください。\n\n変更、再交付申請\n氏名・住所・医療保険などの変更\n氏名や住所の変更、加入している医療保険の変更があったときは、変更届の提出が必要です。\n必要な持ち物についてはお問い合わせください。\n\n医療機関の変更\n指定している病院・薬局などを変更するときは、変更申請を行う必要があります。\n必要な持ち物についてはお問い合わせください。\n\n受給者証を紛失したとき\n受給者証を紛失したときは、再交付申請を行う必要があります。\n必要な持ち物についてはお問い合わせください。\n\n他自治体からの転入したとき\n他自治体から渋谷区に転入されたときは、届出が必要です。\n必要な持ち物についてはお問い合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度（精神通院医療）",
+    "shortName": "自立支援医療（精神通院）"
+  },
+  "localGovernmentLink": {
+    "title": "自立支援医療（精神通院）",
+    "uri": "https://www.city.shibuya.tokyo.jp/kenko/shogai-seikatsu/iryo/jititu-seisin.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/26",
+    "updater": "渋谷区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "来庁が難しい場合には、郵送での申請も受け付けています。ご相談ください。",
+  "procedurePeriod": {
+    "conditions": "継続して受給するには、毎年更新手続きが必要です。（診断書は2年に一度提出）\n有効期限日の3か月前から、更新の申請ができます。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [
+    {
+      "title": "東京都福祉局「自立支援医療（精神通院医療）について」",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/shougai/nichijo/tsuuin/seishintsuuin.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+  "support": {
+    "description": "認定されると自己負担は原則1割となり、収入や住民税の課税状況、疾病などに応じて月額上限額が設定されます。",
+    "materiallySupport": null,
+    "monetarySupport": "自己負担は原則1割"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "精神障がいで通院により継続的に治療を行っている人"
+  },
+  "updateDate": "2024/04/04",
+  "useConsiderationFlag": false,
+  "utilization": "自立支援医療（精神通院）を利用するには、自立支援医療（精神通院）の指定医療機関・薬局・訪問看護などを指定する必要があります。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

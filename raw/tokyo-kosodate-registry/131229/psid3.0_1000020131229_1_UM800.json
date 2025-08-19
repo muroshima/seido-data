@@ -1,0 +1,195 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て政策課管理係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+1+UM800"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区立石5-13-1　葛飾区役所4階　401番子育て支援窓口",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て政策課管理係",
+    "contactPhone": "03-5654-8293",
+    "contactUrl": null,
+    "zipCode": "1248555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "授乳・おむつ替え施設（赤ちゃんの駅等）",
+    "shortName": "授乳・おむつ替え施設（赤ちゃんの駅等）"
+  },
+  "localGovernmentLink": {
+    "title": "赤ちゃんの駅",
+    "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1030197/1002340/1002456.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "「赤ちゃん・ふらっと」事業（東京都福祉保健局）（外部リンク）",
+      "uri": "http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/akachanflat.html"
+    },
+    {
+      "title": "葛飾区総合庁舎",
+      "uri": "https://www.city.katsushika.lg.jp/institution/public/office.html"
+    },
+    {
+      "title": "子ども未来プラザ施設案内",
+      "uri": "https://www.city.katsushika.lg.jp/institution/1030224/1022110/index.html"
+    },
+    {
+      "title": "児童館",
+      "uri": "https://www.city.katsushika.lg.jp/institution/1030224/1007106/index.html"
+    },
+    {
+      "title": "ウィメンズパル",
+      "uri": "https://www.city.katsushika.lg.jp/institution/1030224/1000097/1006912/1006928.html"
+    },
+    {
+      "title": "図書館（赤ちゃんの駅を設置した図書館は上記の表のとおり）",
+      "uri": "https://www.city.katsushika.lg.jp/tourism/1030208/1002754/index.html"
+    },
+    {
+      "title": "金町子どもセンター",
+      "uri": "https://www.city.katsushika.lg.jp/institution/1030224/1007107/1007147.html"
+    },
+    {
+      "title": "子ども総合センター（健康プラザかつしか内）",
+      "uri": "https://www.city.katsushika.lg.jp/institution/1030224/1007107/1007145.html"
+    },
+    {
+      "title": "金町保健センター",
+      "uri": "https://www.city.katsushika.lg.jp/institution/1030223/1006702/1006706.html"
+    },
+    {
+      "title": "葛飾柴又寅さん記念館（観光文化センター）",
+      "uri": "https://www.city.katsushika.lg.jp/institution/1030225/1030227/1006820.html"
+    },
+    {
+      "title": "テクノプラザかつしか",
+      "uri": "https://www.city.katsushika.lg.jp/institution/1030225/1030226/1006815.html"
+    },
+    {
+      "title": "地区センター（赤ちゃんの駅を設置した地区センターは上記の表のとおり）",
+      "uri": "https://www.city.katsushika.lg.jp/institution/1006723/1025547/1006724/index.html"
+    },
+    {
+      "title": "にこわ新小岩（新小岩地域活動センター）",
+      "uri": "https://www.city.katsushika.lg.jp/institution/1006723/1030221/1028535.html"
+    },
+    {
+      "title": "区立保育園（赤ちゃんの駅を設置した保育園は上記の表のとおり）",
+      "uri": "https://www.city.katsushika.lg.jp/institution/1030224/1000100/1007108/index.html"
+    },
+    {
+      "title": "葛飾にいじゅくみらい公園",
+      "uri": "https://www.city.katsushika.lg.jp/institution/1000096/1006886.html"
+    },
+    {
+      "title": "あおぞら水元保育園",
+      "uri": "https://www.city.katsushika.lg.jp/institution/1030224/1000100/1007109/1007191.html"
+    },
+    {
+      "title": "水元総合スポーツセンター",
+      "uri": "https://www.city.katsushika.lg.jp/institution/1030225/1000098/1006941/1006971.html"
+    },
+    {
+      "title": "郷土と天文の博物館（外部リンク）",
+      "uri": "http://www.museum.city.katsushika.lg.jp/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "乳幼児を育てる方が、外出の際、おむつ替えや授乳などを気軽に行えるように、一部の公共・民間施設内におむつ替えや、授乳ができるスペースを設置しています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "乳幼児を育てる方"
+  },
+  "updateDate": "2024-01-19",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

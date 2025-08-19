@@ -1,0 +1,140 @@
+{
+  "area": {
+    "areaCode": "131130;渋谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "中央保健相談所母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020131130",
+    "psid": "psid3.0+9000020131130+1+UM791"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "FAX03-5458-4944",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "中央保健相談所母子保健係",
+    "contactPhone": "03-3463-2409",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "出生通知票\n出生通知票に関する案内ページです。\n\n更新日\n\n2023年3月17日\n\n届出窓口\nお子様がご誕生されましたら、「出生通知票」を提出してください。\n出生通知票（PDF 104KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/b239405b1ac84b2fad6f1ff7957593ba/assets_detail_files_katei_children_syussan_pdf_shussho_tsuchi.pdf\n\nPDFファイルを見るには、Adobe社から無償配布されている Adobe Reader などのソフトウェアが必要です。\n詳しくは、PDFファイルをご覧になるにはのページを参照してください。\n\nこんにちは赤ちゃん訪問や乳幼児健診の参考にさせていただきますので、妊娠中や生まれたときに気になったことなど、何か心配なことがあればご記入ください。\n出生通知票は、低体重児届をかねています。低体重、授乳の方法や体重の増え方など、心配ごとがある人には「新生児訪問事業」として、助産師や地区担当保健師が早めの訪問をさせていただく場合があります。\n入院中の人は、電話連絡でも結構です。また、渋谷区LINE公式アカウントから提出することも可能です。\n\n渋谷区LINE公式アカウントの友だち追加方法\n友だち追加＞ID検索＞「＠shibuyacity」と入力してください。\n\n届出窓口\n庁舎3階住民戸籍課窓口\n出張所・区民サービスセンター;https://www.city.shibuya.tokyo.jp/shisetsu/kuyakusho/shutchojo/shutchojo_list.html\n中央保健相談所母子保健係;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_cyuo.html\n恵比寿保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_ebisu.html\n幡ヶ谷保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_hatagaya.html\n（注）郵送でも受け付けております。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "渋谷区LINE公式アカウント",
+      "uri": "https://page.line.me/shibuyacity?openQrModal=true"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出生連絡票・低体重児出生届",
+    "shortName": "出生通知票"
+  },
+  "localGovernmentLink": {
+    "title": "出生通知票",
+    "uri": "https://www.city.shibuya.tokyo.jp/kodomo/ninshin/ninshin-todoke/shussho_tsuchi.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-24",
+    "updater": "渋谷区"
+  },
+  "procedureCounter": "庁舎3階住民戸籍課窓口\n出張所・区民サービスセンター;https://www.city.shibuya.tokyo.jp/shisetsu/kuyakusho/shutchojo/shutchojo_list.html\n中央保健相談所母子保健係;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_cyuo.html\n恵比寿保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_ebisu.html\n幡ヶ谷保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_hatagaya.html",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "届出窓口\n庁舎3階住民戸籍課窓口\n出張所・区民サービスセンター;https://www.city.shibuya.tokyo.jp/shisetsu/kuyakusho/shutchojo/shutchojo_list.html\n中央保健相談所母子保健係;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_cyuo.html\n恵比寿保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_ebisu.html\n幡ヶ谷保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_hatagaya.html\n（注）郵送でも受け付けております。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第18条（低体重児の届出）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "中央保健相談所母子保健係",
+      "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_ebisu.html"
+    },
+    {
+      "title": "出張所・区民サービスセンター",
+      "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/kuyakusho/shutchojo/shutchojo_list.html"
+    },
+    {
+      "title": "恵比寿保健相談所",
+      "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_hatagaya.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "お子様がご誕生されましたら、「出生通知票」を提出してください。渋谷区LINE公式アカウントから提出することも可能です。",
+  "support": {
+    "description": "お子様がご誕生されましたら、「出生通知票」を提出してください。\n出生通知票（PDF 104KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/b239405b1ac84b2fad6f1ff7957593ba/assets_detail_files_katei_children_syussan_pdf_shussho_tsuchi.pdf\nこんにちは赤ちゃん訪問や乳幼児健診の参考にさせていただきますので、妊娠中や生まれたときに気になったことなど、何か心配なことがあればご記入ください。\n出生通知票は、低体重児届をかねています。低体重、授乳の方法や体重の増え方など、心配ごとがある人には「新生児訪問事業」として、助産師や地区担当保健師が早めの訪問をさせていただく場合があります。\n入院中の人は、電話連絡でも結構です。また、渋谷区LINE公式アカウントから提出することも可能です。\n\n渋谷区LINE公式アカウントの友だち追加方法\n友だち追加＞ID検索＞「＠shibuyacity」と入力してください。",
+    "materiallySupport": "お子様がご誕生されましたら、「出生通知票」を提出してください。\n出生通知票（PDF 104KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/b239405b1ac84b2fad6f1ff7957593ba/assets_detail_files_katei_children_syussan_pdf_shussho_tsuchi.pdf\nこんにちは赤ちゃん訪問や乳幼児健診の参考にさせていただきますので、妊娠中や生まれたときに気になったことなど、何か心配なことがあればご記入ください。\n出生通知票は、低体重児届をかねています。低体重、授乳の方法や体重の増え方など、心配ごとがある人には「新生児訪問事業」として、助産師や地区担当保健師が早めの訪問をさせていただく場合があります。\n入院中の人は、電話連絡でも結構です。また、渋谷区LINE公式アカウントから提出することも可能です。\n\n渋谷区LINE公式アカウントの友だち追加方法\n友だち追加＞ID検索＞「＠shibuyacity」と入力してください。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2023-03-17",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

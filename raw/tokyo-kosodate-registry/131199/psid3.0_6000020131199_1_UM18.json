@@ -1,0 +1,148 @@
+{
+  "area": {
+    "areaCode": "131199;板橋区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康生きがい部 健康推進課 母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131199",
+    "psid": "psid3.0+6000020131199+1+UM18"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都板橋区板橋二丁目66番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康生きがい部 健康推進課 母子保健係",
+    "contactPhone": "03-3579-2313",
+    "contactUrl": "https://www.city.itabashi.tokyo.jp/kosodate/ninshin/ninshin/1033138.html",
+    "zipCode": "1738501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊娠高血圧症候群等医療費助成\n板橋区に住所を有し、妊娠高血圧症候群等で認定基準を満たした方を対象に、入院治療された自己負担分の医療費を助成しています。\n詳しい内容は、添付ファイル\nPDF版「妊娠高血圧症候群等の医療費助成を申請される方へ」をご覧ください。\n問い合わせ・申請先\n健康福祉センター（連絡先は関連リンクでご確認ください。）\n\n添付ファイル\n妊娠高血圧症候群等の医療費助成を申請される方へ （PDF 206.0KB）;https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/033/138/ninsinkouketuatu1.pdf\n医療費助成申請書 （PDF 34.6KB）;https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/033/138/ninsinkouketuatu2.pdf\n医療費助成申請書（記入例） （PDF 262.0KB）;https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/033/138/ninsinkoukeatu3.pdf\n診断書 （PDF 254.2KB）;https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/033/138/ninshinkouketuatu4.pdf\n世帯調書 （PDF 126.8KB）;https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/033/138/ninshinkouketuatu5.pdf\n世帯調書（記入例） （PDF 145.7KB）;https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/033/138/ninshinkouketuatu6.pdf\n遅延理由書 （PDF 58.9KB）;https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/033/138/ninshinkouketuatu7.pdf\n\n関連リンク\n健康生きがい部　板橋健康福祉センター;https://www.city.itabashi.tokyo.jp/kusei/soshiki/kenkoikigai/1006932.html\n健康生きがい部　上板橋健康福祉センター;https://www.city.itabashi.tokyo.jp/kusei/soshiki/kenkoikigai/1006933.html\n健康生きがい部　赤塚健康福祉センター;https://www.city.itabashi.tokyo.jp/kusei/soshiki/kenkoikigai/1006934.html\n健康生きがい部　志村健康福祉センター;https://www.city.itabashi.tokyo.jp/kusei/soshiki/kenkoikigai/1006935.html\n健康生きがい部　高島平健康福祉センター;https://www.city.itabashi.tokyo.jp/kusei/soshiki/kenkoikigai/1006936.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊娠高血圧症候群（妊娠中毒症）に関する助成",
+    "shortName": "妊娠高血圧症候群等医療費助成"
+  },
+  "localGovernmentLink": {
+    "title": "妊娠高血圧症候群等医療費助成",
+    "uri": "https://www.city.itabashi.tokyo.jp/kosodate/ninshin/ninshin/1033138.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "板橋区"
+  },
+  "procedureCounter": "各健康福祉センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "各健康福祉センターに申請します。必要書類１,２,４の書式は健康福祉センターで受け取っていただくか、別添の書式を印刷してご使用ください。\n\n|1|医療費助成申請書|申請者が記入すること。|\n|:----|:----|:----|\n|2|診断書|主治医が記入すること。申請時から３ヶ月以内に発行されたもの。|\n|3|世帯全員の住民票|申請日前３ヶ月以内のもの。|\n|4|世帯調書|申請者が記入すること。|\n|5|世帯全員の所得税額を証明する書類<br>※対象者欄で「前年の世帯の所得税が合算で 30,000 円以下の世帯に属する方」に該当し、申請される方のみ必要です。入院見込期間が 26 日以上の方は添付を省略できます。<br>※配偶者控除がある場合、配偶者の証明書は不要です。|○会社等にお勤めの方→源泉徴収票の写し<br>1 月から 6 月に申請する場合は前々年のもの<br>7 月から 12 月に申請する場合は前年のもの|\n|^|^|○自営業又は確定申告をした方→確定申告書の写し<br>1 月から 6 月に申請する場合は前々年のもの<br>7 月から 12 月に申請する場合は前年のもの|\n|^|^|○所得税が課せられていない方又は上記書類が提出できない方<br>→住民税課税(非課税)証明書<br>４月から 6 月に申請する場合は前年度のもの<br>7 月から３月に申請する場合は今年度のもの|\n|6|健康保険証の写し|患者本人のもの。|\n|7|遅延理由書<br>※申請日が退院日以降の場合のみ提出|申請者が記入すること。<br>退院後の申請の場合、退院日から 3 ヶ月以内に申請してください。|\n\n※退院後に申請された方は、医療券の送付時に医療費請求に必要な療養証明書・請求書の書式を送付致します。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "妊娠高血圧症候群等医療費助成実施要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "妊娠高血圧症候群等の医療費助成を申請される方へ （PDF 206.0KB）",
+      "uri": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/033/138/ninsinkouketuatu1.pdf"
+    },
+    {
+      "title": "健康生きがい部　赤塚健康福祉センター",
+      "uri": "https://www.city.itabashi.tokyo.jp/kusei/soshiki/kenkoikigai/1006934.html"
+    },
+    {
+      "title": "健康生きがい部　志村健康福祉センター",
+      "uri": "https://www.city.itabashi.tokyo.jp/kusei/soshiki/kenkoikigai/1006935.html"
+    },
+    {
+      "title": "健康生きがい部　上板橋健康福祉センター",
+      "uri": "https://www.city.itabashi.tokyo.jp/kusei/soshiki/kenkoikigai/1006933.html"
+    },
+    {
+      "title": "健康生きがい部　高島平健康福祉センター",
+      "uri": "https://www.city.itabashi.tokyo.jp/kusei/soshiki/kenkoikigai/1006936.html"
+    },
+    {
+      "title": "健康生きがい部　板橋健康福祉センター",
+      "uri": "https://www.city.itabashi.tokyo.jp/kusei/soshiki/kenkoikigai/1006932.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "該当の病気（妊娠高血圧症候群）などにより該当の基準を満たし医療機関に入院をして治療を受ける必要のある方で、入院見込期間が26日以上または前年の世帯の所得税(※)が合算で 30,000 円以下の世帯に属する方を対象に入院医療費を助成します。※生活保護受給世帯の方は対象にはなりません。",
+  "support": {
+    "description": "医療保険を使って入院治療をした場合の自己負担額が助成されます。ただし、健康保険組合等で支給された高額療養費の自己負担限度額・給付額等を差し引きます。また、入院時食事療養費の標準負担額は、自己負担となります。",
+    "materiallySupport": null,
+    "monetarySupport": "医療保険を使って入院治療をした場合の自己負担額が助成されます。ただし、健康保険組合等で支給された高額療養費の自己負担限度額・給付額等を差し引きます。また、入院時食事療養費の標準負担額は、自己負担となります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "板橋区に住所を有し、下記の病気にかかっている方で、別表の妊娠高血圧症候群等医療費支給対象者認定基準を満たし、医療機関に入院をして治療を受ける必要のある方で、次の１、２のいずれかに該当する方が対象です。\n１ 前年の世帯の所得税(※)が合算で 30,000 円以下の世帯に属する方\n（※平成23年分より適用となりました扶養控除見直しについては、可能な限り影響が生じないよう調整します。)\n（※生活保護受給世帯の方は対象にはなりません。）\n２ １以外の方で、入院見込期間が 26 日以上の方\n （※退院後の申請の場合、妊娠高血圧症候群等の認定疾患に対する治療のための入院日数が 26 日に満たないと医療費の助成が受けられませんのでご注意ください。）"
+  },
+  "updateDate": "2021-06-28",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

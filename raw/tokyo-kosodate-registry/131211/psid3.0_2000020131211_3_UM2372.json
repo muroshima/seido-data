@@ -1,0 +1,515 @@
+{
+  "area": {
+    "areaCode": "131211;足立区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局子ども家庭部幼稚園・地域保育課認証・認可外保育係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020131211",
+    "psid": "psid3.0+2000020131211+3+UM2372"
+  },
+  "belongings": null,
+  "capacity": "民間企業等が運営する定員20人から120人のA型と、主に個人が運営する定員6人から29人のB型",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "教育委員会事務局子ども家庭部幼稚園・地域保育課認証・認可外保育係",
+    "contactPhone": "03-3880-8013",
+    "contactUrl": "https://www.city.adachi.tokyo.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "東京認証保育所\n\n施設\nホームページのある施設は施設名をクリックすると開きます。保育施設紹介は、各保育施設の特徴や園からのメッセージ・写真などがご覧いただけます。内容については、各施設へ直接お問い合わせください。\nhttps://www.city.adachi.tokyo.jp/kodomo-nyuuen/k-kyoiku/kosodate/hoikujo-hoikujo.html\n関連情報\n認証保育所負担軽減（利用者助成）制度のご案内;https://www.city.adachi.tokyo.jp/kodomo-nyuuen/k-kyoiku/kosodate/hoikujo-jose.html\n小規模保育事業;https://www.city.adachi.tokyo.jp/kodomo-nyuuen/k-kyoiku/kosodate/hoikujo-shokibo.html\n家庭的保育（保育ママ）;https://www.city.adachi.tokyo.jp/kodomo-nyuuen/k-kyoiku/kosodate/hoikujo-mama-shigoto.html\n認可保育園について;https://www.city.adachi.tokyo.jp/kodomo-unei/k-kyoiku/kosodate/hoikuen-ninka.html\n足立区待機児童解消アクション・プラン;https://www.city.adachi.tokyo.jp/kodomo-unei/juyo/action-plan.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "https://www.city.adachi.tokyo.jp/kodomo-nyuuen/k-kyoiku/kosodate/hoikujo-hoikujo.html",
+    "implementationName": "https://www.city.adachi.tokyo.jp/kodomo-nyuuen/k-kyoiku/kosodate/hoikujo-hoikujo.html"
+  },
+  "institutionName": {
+    "canonicalName": "認可外保育施設の利用について",
+    "shortName": "東京都認証保育所"
+  },
+  "localGovernmentLink": {
+    "title": "東京都認証保育所",
+    "uri": "https://www.city.adachi.tokyo.jp/kodomo-nyuuen/k-kyoiku/kosodate/hoikujo-hoikujo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-25",
+    "updater": "足立区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "東京都認証保育所に直接連絡し、契約してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第30条の4～10(第2章第4節第2款 施設等利用給付認定等)",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "地図（外部サイトへリンク）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/1960/ninnsyou-10.pdf"
+    },
+    {
+      "title": "施設紹介（PDF：366KB）",
+      "uri": "http://maps.google.co.jp/maps?q=%E4%BF%9D%E6%9C%A8%E9%96%93%E4%B8%89%E4%B8%81%E7%9B%AE2%E7%95%AA12%E5%8F%B7&hl=ja&ie=UTF8&sll=35.76361"
+    },
+    {
+      "title": "ステラ千住保育園（0歳児から3歳児）（外部サイトへリンク）",
+      "uri": "http://maps.google.co.jp/maps?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%B6%B3%E7%AB%8B%E5%8C%BA%E5%8D%83%E4%BD%8F%E6%97%AD%E7%94%BA%EF%BC%94%EF%BC%92%E2%88%92%EF%BC%92&hl=ja&ie=UTF8&sll=35.749473"
+    },
+    {
+      "title": "千住大橋駅クローバー保育園（0歳児から2歳児）（外部サイトへリンク）",
+      "uri": "0x60188e4f04fb777d:0x4a5aa78a01fbf6db&brv=25.1-fa8ed276_c3147e72_ccf32e81_040c821b_76b35545&hnear=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%B6%B3%E7%AB%8B%E5%8C%BA%E5%8D%83%E4%BD%8F%E6%97%AD%E7%94%BA%EF%BC%94%EF%BC%92%E2%88%92%EF%BC%92&t=m&z=16"
+    },
+    {
+      "title": "地図（外部サイトへリンク）",
+      "uri": "139.804931&sspn=0.009038"
+    },
+    {
+      "title": "施設紹介（PDF：361KB）",
+      "uri": "http://goo.gl/maps/bWyJA"
+    },
+    {
+      "title": "地図（外部サイトへリンク）",
+      "uri": "http://goo.gl/maps/7jnvS"
+    },
+    {
+      "title": "施設紹介（PDF：357KB）",
+      "uri": "http://www.kidslink.jp/donguriyamanousagitouwa/"
+    },
+    {
+      "title": "おおぞら保育園（外部サイトへリンク）",
+      "uri": "139.810062&sspn=0.009071"
+    },
+    {
+      "title": "施設紹介（PDF：360KB）",
+      "uri": "https://www.ushio-hoikushitsu.org/"
+    },
+    {
+      "title": "地図（外部サイトへリンク）",
+      "uri": "http://www.combiwith.co.jp/support/plaza/ayase/index.html"
+    },
+    {
+      "title": "施設紹介（PDF：366KB）",
+      "uri": "https://goo.gl/maps/5x1N8mTYLtY3GXse9"
+    },
+    {
+      "title": "地図（外部サイトへリンク）",
+      "uri": "0.008497&brcurrent=3"
+    },
+    {
+      "title": "地図（外部サイトへリンク）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/1960/ninnsyou-09.pdf"
+    },
+    {
+      "title": "どんぐり保育園東和（外部サイトへリンク）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/1960/ninnsyou-15.pdf"
+    },
+    {
+      "title": "ちぐさ保育園（外部サイトへリンク）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/1960/ninnsyou-07.pdf"
+    },
+    {
+      "title": "施設紹介（PDF：369KB）",
+      "uri": "http://goo.gl/maps/CWeNK"
+    },
+    {
+      "title": "施設紹介（PDF：361KB）",
+      "uri": "0x601891b82b162049:0x3e186fac3661f3b5"
+    },
+    {
+      "title": "地図（外部サイトへリンク）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/1960/ninnsyou-18.pdf"
+    },
+    {
+      "title": "地図（外部サイトへリンク）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/1960/ninnsyou-02.pdf"
+    },
+    {
+      "title": "施設紹介（PDF：364KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/1960/ninnsyou-27.pdf"
+    },
+    {
+      "title": "地図（外部サイトへリンク）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/1960/ninnsyou-21.pdf"
+    },
+    {
+      "title": "地図（外部サイトへリンク）",
+      "uri": "http://goo.gl/maps/ottXa"
+    },
+    {
+      "title": "さくらんぼ保育園新田（0歳児から2歳児）（外部サイトへリンク）",
+      "uri": "http://goo.gl/maps/lpGND"
+    },
+    {
+      "title": "施設紹介（PDF：365KB）",
+      "uri": "http://www.tigusa.co.jp/"
+    },
+    {
+      "title": "未来っ子保育園（外部サイトへリンク）",
+      "uri": "http://goo.gl/maps/D76Du"
+    },
+    {
+      "title": "施設紹介（PDF：365KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/1960/ninnsyou-05.pdf"
+    },
+    {
+      "title": "施設紹介（PDF：366KB）",
+      "uri": "139.807364&sspn=0.009073"
+    },
+    {
+      "title": "認証保育所空き状況",
+      "uri": "https://www.city.adachi.tokyo.jp/kodomo-nyuuen/k-kyoiku/kosodate/hoikujo-h2404-02aki.html"
+    },
+    {
+      "title": "小規模保育事業",
+      "uri": "http://goo.gl/maps/DhaKw"
+    },
+    {
+      "title": "地図（外部サイトへリンク）",
+      "uri": "http://www.pocket-land.jp/senjuakebonotyo/"
+    },
+    {
+      "title": "地図（外部サイトへリンク）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/1960/ninnsyou-12.pdf"
+    },
+    {
+      "title": "地図（外部サイトへリンク）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/1960/ninnsyou-17.pdf"
+    },
+    {
+      "title": "認証保育所負担軽減（利用者助成）制度のご案内",
+      "uri": "https://ozorahoikuen.wixsite.com/ozora-hoikuen"
+    },
+    {
+      "title": "チェリッシュ西新井（外部サイトへリンク）",
+      "uri": "http://www.milkywaygroup.org/intro/en06.html"
+    },
+    {
+      "title": "保育園ミルキーウェイ竹の塚（外部サイトへリンク）",
+      "uri": "http://goo.gl/maps/cGshW"
+    },
+    {
+      "title": "ぱる★キッズ足立（外部サイトへリンク）",
+      "uri": "0.008497&brcurrent=3"
+    },
+    {
+      "title": "地図（外部サイトへリンク）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/1960/ninnsyou-14.pdf"
+    },
+    {
+      "title": "地図（外部サイトへリンク）",
+      "uri": "http://goo.gl/maps/YSHCn"
+    },
+    {
+      "title": "ぽけっとランド千住曙町（外部サイトへリンク）",
+      "uri": "http://goo.gl/maps/VuOk2"
+    },
+    {
+      "title": "施設紹介（PDF：358KB）",
+      "uri": "http://www.pocket-land.jp/ayase/"
+    },
+    {
+      "title": "施設紹介（PDF：406KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/1960/ninnsyou-25.pdf"
+    },
+    {
+      "title": "地図（外部サイトへリンク）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/1960/ninnsyou-07.pdf"
+    },
+    {
+      "title": "トータス保育園　足立区保木間（外部サイトへリンク）",
+      "uri": "http://goo.gl/maps/XpeJb"
+    },
+    {
+      "title": "佐野保育園（外部サイトへリンク）",
+      "uri": "https://goo.gl/maps/88kmSFSMyfofbihx6"
+    },
+    {
+      "title": "ニチイキッズさわやか梅島保育園（0歳児から2歳児）（外部サイトへリンク）",
+      "uri": "http://sakuranbo-hoiku.sakura.ne.jp/"
+    },
+    {
+      "title": "てのひらこども園（外部サイトへリンク）",
+      "uri": "http://www.mom.ed.jp/hoikuen/t_rokuchouekimae.html"
+    },
+    {
+      "title": "地図（外部サイトへリンク）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/1960/ninnsyou-01.pdf"
+    },
+    {
+      "title": "さくらんぼ保育園（外部サイトへリンク）",
+      "uri": "http://goo.gl/maps/kmEQc"
+    },
+    {
+      "title": "施設紹介（PDF：264KB）",
+      "uri": "139.8000727"
+    },
+    {
+      "title": "地図（外部サイトへリンク）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/1960/ninnsyou-03.pdf"
+    },
+    {
+      "title": "地図（外部サイトへリンク）",
+      "uri": "https://www.google.co.jp/maps/place/%E3%80%92120-0036+%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%B6%B3%E7%AB%8B%E5%8C%BA%E5%8D%83%E4%BD%8F%E4%BB%B2%E7%94%BA%EF%BC%91%EF%BC%98%E2%88%92%EF%BC%96/@35.7465487"
+    },
+    {
+      "title": "地図（外部サイトへリンク）",
+      "uri": "0x60189241d681ce9f:0xbc2d2c37bd282e95"
+    },
+    {
+      "title": "施設紹介（PDF：366KB）",
+      "uri": "http://goo.gl/maps/NL5HE"
+    },
+    {
+      "title": "施設紹介（PDF：365KB）",
+      "uri": "http://www.palsystem-tokyo.coop/pal_kids/"
+    },
+    {
+      "title": "きりん保育園（0歳児から2歳児）（外部サイトへリンク）",
+      "uri": "http://goo.gl/maps/Dt1xz"
+    },
+    {
+      "title": "施設紹介（PDF：363KB）",
+      "uri": "0&hnear=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%B6%B3%E7%AB%8B%E5%8C%BA%E6%96%B0%E7%94%B0%EF%BC%93%E4%B8%81%E7%9B%AE%EF%BC%93%EF%BC%92%E2%88%92%EF%BC%91%EF%BC%94&t=m&z=16"
+    },
+    {
+      "title": "施設紹介（PDF：390KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/1960/ninnsyou-26.pdf"
+    },
+    {
+      "title": "家庭的保育（保育ママ）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/1960/ninnsyou-28.pdf"
+    },
+    {
+      "title": "施設紹介（PDF：361KB）",
+      "uri": "https://www.nichiikids.net/nursery/direct/sawayakaumejima/index.html"
+    },
+    {
+      "title": "施設紹介（PDF：364KB）",
+      "uri": ";http://clover-hoikuen.jp/"
+    },
+    {
+      "title": "認可保育園について",
+      "uri": "http://www.tanpopohoikusho.ed.jp/"
+    },
+    {
+      "title": "ミルキーランド保育園（外部サイトへリンク）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/1960/ninnsyou-22.pdf"
+    },
+    {
+      "title": "地図（外部サイトへリンク）",
+      "uri": "https://tortoise-nursery.jp/hokima/"
+    },
+    {
+      "title": "足立区待機児童解消アクション・プラン",
+      "uri": "http://goo.gl/maps/6hYoj"
+    },
+    {
+      "title": "施設紹介（PDF：360KB）",
+      "uri": "https://kids-kirin.com/"
+    },
+    {
+      "title": "地図（外部サイトへリンク）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/1960/ninnsyou-11.pdf"
+    },
+    {
+      "title": "Jキッズルミネ北千住保育園（外部サイトへリンク）",
+      "uri": "17z/data=!4m2!3m1!1s0x60188e44c23d2a5b:0x15f5f5f8c9088d41?hl=ja"
+    },
+    {
+      "title": "地図（外部サイトへリンク）",
+      "uri": "https://goo.gl/maps/Fy45nSmnz8enRip5A"
+    },
+    {
+      "title": "保育所まぁむ六町駅前園（0歳児から2歳児）（外部サイトへリンク）",
+      "uri": "https://maps.google.co.jp/maps?hl=ja&gbv=2&um=1&ie=UTF-8&fb=1&gl=jp&ftid=0x60188fbea69efe61:0xdcae8742d7e9a08d&q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%B6%B3%E7%AB%8B%E5%8C%BA%E7%B6%BE%E7%80%AC%EF%BC%92%E4%B8%81%E7%9B%AE%EF%BC%93%EF%BC%90%E2%88%92%EF%BC%96&sa=X&ei=9eFuVNKJO6j3mQWP-4DQBA&ved=0CBUQ8gEoATAA&output=classic&dg=brw"
+    },
+    {
+      "title": "地図（外部サイトへリンク）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/1960/ninnsyou-06.pdf"
+    },
+    {
+      "title": "ぱんだ保育園（0歳児から2歳児）（外部サイトへリンク）",
+      "uri": "https://milkylandorg.wordpress.com/"
+    },
+    {
+      "title": "コンビプラザ綾瀬保育園（外部サイトへリンク）",
+      "uri": "http://goo.gl/maps/34Cs3"
+    },
+    {
+      "title": "潮保育室（0歳児から2歳児）（外部サイトへリンク）",
+      "uri": ";https://www.city.adachi.tokyo.jp/documents/1960/ninnsyou-04.pdf"
+    },
+    {
+      "title": "たんぽぽ保育所竹の塚園（外部サイトへリンク）",
+      "uri": "0"
+    },
+    {
+      "title": "施設紹介（PDF：431KB）",
+      "uri": "0.008497&brcurrent=3"
+    },
+    {
+      "title": "施設紹介（PDF：368KB）",
+      "uri": "http://goo.gl/maps/ykZvK"
+    },
+    {
+      "title": "施設紹介（PDF：382KB）",
+      "uri": "1"
+    },
+    {
+      "title": "地図（外部サイトへリンク）",
+      "uri": "0x601891b9d3fadd5f:0x57b7e977511c57a5&hnear=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%B6%B3%E7%AB%8B%E5%8C%BA%E4%BF%9D%E6%9C%A8%E9%96%93%EF%BC%93%E4%B8%81%E7%9B%AE%EF%BC%92%E2%88%92%EF%BC%91%EF%BC%92&t=m&z=16"
+    },
+    {
+      "title": "地図（外部サイトへリンク）",
+      "uri": "http://sakuranbo-hoiku.sakura.ne.jp/"
+    },
+    {
+      "title": "地図（外部サイトへリンク）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/1960/ninnsyou-19.pdf"
+    },
+    {
+      "title": "地図（外部サイトへリンク）",
+      "uri": "http://miraikko.info/"
+    },
+    {
+      "title": "施設紹介（PDF：381KB）",
+      "uri": "http://www.child-stage.co.jp/cherish/tokyo/kitaayase"
+    },
+    {
+      "title": "施設紹介（PDF：364KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/1960/ninnsyou-23.pdf"
+    },
+    {
+      "title": "施設紹介（PDF：372KB）",
+      "uri": "http://www.sfk.or.jp/stella"
+    },
+    {
+      "title": "施設紹介（PDF：379KB）",
+      "uri": "https://kuwanomikai.jp/child/j-kitasenju/"
+    },
+    {
+      "title": "なのはな共同保育所（0歳児から2歳児）（外部サイトへリンク）",
+      "uri": "http://goo.gl/maps/uvrbf"
+    },
+    {
+      "title": "たんぽぽ保育所西新井園（外部サイトへリンク）",
+      "uri": "http://nanohana-kyodo.com/"
+    },
+    {
+      "title": "地図（外部サイトへリンク）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/1960/ninnsyou-20.pdf"
+    },
+    {
+      "title": "チェリッシュ北綾瀬（外部サイトへリンク）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/1960/ninnsyou-14.pdf"
+    },
+    {
+      "title": "地図（外部サイトへリンク）",
+      "uri": "https://maps.google.co.jp/maps?q=%E6%96%B0%E7%94%B0%E4%B8%89%E4%B8%81%E7%9B%AE32%E7%95%AA14%E5%8F%B7&hl=ja&ie=UTF8&sll=35.747385"
+    },
+    {
+      "title": "地図（外部サイトへリンク）",
+      "uri": "http://goo.gl/maps/AKyoI"
+    },
+    {
+      "title": "ぽけっとランド綾瀬（外部サイトへリンク）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/1960/ninnsyou-16.pdf"
+    },
+    {
+      "title": "施設紹介（PDF：379KB）",
+      "uri": "https://www.sanohoikuen.com/"
+    },
+    {
+      "title": "施設紹介（PDF：367KB）",
+      "uri": "https://goo.gl/maps/nkhPwiXzCEL2"
+    },
+    {
+      "title": "地図（外部サイトへリンク）",
+      "uri": "0x60188e4fa189ec97:0xd87e436e680d9d67"
+    },
+    {
+      "title": "施設紹介（PDF：413KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/1960/ninnsyou-24.pdf"
+    },
+    {
+      "title": "施設紹介（PDF：413KB）",
+      "uri": "http://goo.gl/maps/ndLCn"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "認可外保育施設とは、公的助成の有無や事業規模などにかかわらず、児童福祉法、もしくは認定こども園法に基づく認可を受けていない、お子さんを預かる施設・サービスの総称です。\n具体的には、東京都認証保育所、企業主導型保育、ベビーホテル、ベビーシッター、事業所内や院内の託児室、その他、認可外保育施設として都道府県等に届出を行ったものを指します。\n\n保育の内容や料金設定などは施設によりさまざまです。これらの施設を利用する際は、保護者自身の目で直接確認し、充分な説明を受け、納得したうえで選ぶことが大切です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "A型は0歳児から就学前までの児童（一部例外があります。施設名の後に記載しています。）\n\nB型は0歳児から2歳児以下の児童（一部例外があります。施設名の後に記載しています。）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "A型は0歳児から就学前までの児童（一部例外があります。施設名の後に記載しています。）\n\nB型は0歳児から2歳児以下の児童（一部例外があります。施設名の後に記載しています。）"
+  },
+  "updateDate": "2024-04-10",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "各保育所はそれぞれ保育日、保育時間によって保育料が異なります。\n下表の東京都認証保育所に、直接お問い合わせください。",
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "133647;神津島村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "神津島村図書館",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020133647",
+    "psid": "psid3.0+9000020133647+2+UM105"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "神津島村図書館",
+    "contactPhone": "04992-8-0405",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "神津島村図書館のご案内\n乳幼児向けの絵本や紙芝居はもちろん、ママが知りたい子育てについての本も豊富な図書館。お散歩がてらに、ぜひご利用してみては？\n・開館時間 火曜日～日曜日 ９時３０分～１７時００分まで\n・休館日 毎週月曜日、国民の祝日、年末年始(１２月２８日～１月 4日)\n・貸出数 5 冊以内\n・貸出期間 2 週間以内\n・返却方法 カウンターへお返しください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "休館日 毎週月曜日、国民の祝日、年末年始(１２月２８日～１月 4日)",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "図書館の児童サービス（ブックスタートなど）",
+    "shortName": "神津島村図書館のご案内"
+  },
+  "localGovernmentLink": {
+    "title": "たのしい子育てをするために",
+    "uri": "https://www.vill.kouzushima.tokyo.jp/images/2023/03/20210318-tanosii.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-08-19",
+    "updater": "神津島村"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "・貸出数 5 冊以内\n・貸出期間 2 週間以内\n・返却方法 カウンターへお返しください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ブックスタートとは、赤ちゃんとその保護者に絵本をプレゼントし、絵本を開く楽しい体験とともに、心ふれあうきっかけをつくる活動です。",
+  "support": {
+    "description": "乳幼児向けの絵本や紙芝居はもちろん、ママが知りたい子育てについての本も豊富な図書館。",
+    "materiallySupport": "乳幼児向けの絵本や紙芝居はもちろん、ママが知りたい子育てについての本も豊富な図書館。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2021-03-18",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "開館時間 火曜日～日曜日 ９時３０分～１７時００分まで",
+    "fromHM": "09:30",
+    "toHM": "17:00"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "131211;足立区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部障がい援護課援護管理係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020131211",
+    "psid": "psid3.0+2000020131211+7+UM78"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部障がい援護課援護管理係",
+    "contactPhone": "03-3880-0705",
+    "contactUrl": "https://www.city.adachi.tokyo.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "世帯の課税状況に応じて、自己負担額があります。",
+  "description": "重症心身障がい児（者）等在宅レスパイト事業\n重症心身障がい児（者）又は医療的ケア児のご自宅に、訪問看護師を派遣し、ご家族が行っている医療的ケアや療養上の世話（食事介助、排せつ介助、体位変換など）をご家族の代わりに行います。\n\n対象\n区内に住所を有し、在宅で家族等による介護を受けており、現在訪問看護サービスにより医療的ケアを受けている方で、以下のいずれかにあてはまる方\n\n重度の知的障がい（愛の手帳1度・2度程度）と重度の肢体不自由（身体障害者手帳1級・2級程度で自ら歩くことができない）が重複している方\n18歳未満で日常生活を営むために以下の医療的ケアが必要な方\n対象となる医療的ケア\n人工呼吸器管理\n毎日行う機械的気道加圧を要するカフマシン・NIPPV・CPAPなどを含む\n気管内挿管・気管切開\n鼻咽頭エアウェイ\n酸素吸入\n1日6回以上の頻回な吸引\nネブライザー（1日に6回以上または継続使用）\n中心静脈栄養（IVH）\n経管（経鼻・胃ろうを含む）\n腸ろう・腸管栄養\n継続する透析（腹膜潅流を含む）\n人工膀胱を含む定期導尿（1日3回以上）\n人工肛門\n利用時間\n利用者一人に対して、年間144時間まで\n1回あたりの利用時間は、2時間から4時間まで（30分単位）\n※1回の利用で看護師を2人派遣した場合は、倍の時間利用したことになります。\n\n費用\n世帯の課税状況により自己負担額があります。\n\n問い合わせ\n障がい福祉課各援護係;https://www.city.adachi.tokyo.jp/shogai/20160524.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "障がい児保育",
+    "shortName": "重症心身障がい児（者）等在宅レスパイト事業"
+  },
+  "localGovernmentLink": {
+    "title": "重症心身障がい児（者）等在宅レスパイト事業",
+    "uri": "https://www.city.adachi.tokyo.jp/s-engo/respite.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-21",
+    "updater": "足立区"
+  },
+  "procedureCounter": "障がい福祉課各援護係；https://www.city.adachi.tokyo.jp/shogai/20160524.html",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "問い合わせ先\n障がい福祉課各援護係;https://www.city.adachi.tokyo.jp/shogai/20160524.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "足立区重症心身障がい児（者）等在宅レスパイト事業実施要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "障がい福祉課各援護係",
+      "uri": "https://www.city.adachi.tokyo.jp/shogai/20160524.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "集団保育が可能で心身に障がいがあるお子さんを、健常児と一緒に保育し相互の健全な育成を図ります。",
+  "support": {
+    "description": "対象となる医療的ケア\n人工呼吸器管理\n毎日行う機械的気道加圧を要するカフマシン・NIPPV・CPAPなどを含む\n気管内挿管・気管切開\n鼻咽頭エアウェイ\n酸素吸入\n1日6回以上の頻回な吸引\nネブライザー（1日に6回以上または継続使用）\n中心静脈栄養（IVH）\n経管（経鼻・胃ろうを含む）\n腸ろう・腸管栄養\n継続する透析（腹膜潅流を含む）\n人工膀胱を含む定期導尿（1日3回以上）\n人工肛門\n利用時間\n利用者一人に対して、年間144時間まで\n1回あたりの利用時間は、2時間から4時間まで（30分単位）\n※1回の利用で看護師を2人派遣した場合は、倍の時間利用したことになります。",
+    "materiallySupport": "対象となる医療的ケア\n人工呼吸器管理\n毎日行う機械的気道加圧を要するカフマシン・NIPPV・CPAPなどを含む\n気管内挿管・気管切開\n鼻咽頭エアウェイ\n酸素吸入\n1日6回以上の頻回な吸引\nネブライザー（1日に6回以上または継続使用）\n中心静脈栄養（IVH）\n経管（経鼻・胃ろうを含む）\n腸ろう・腸管栄養\n継続する透析（腹膜潅流を含む）\n人工膀胱を含む定期導尿（1日3回以上）\n人工肛門\n利用時間\n利用者一人に対して、年間144時間まで\n1回あたりの利用時間は、2時間から4時間まで（30分単位）\n※1回の利用で看護師を2人派遣した場合は、倍の時間利用したことになります。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内に住所を有し、在宅で家族等による介護を受けており、現在訪問看護サービスにより医療的ケアを受けている方で、以下のいずれかにあてはまる方\n\n重度の知的障がい（愛の手帳1度・2度程度）と重度の肢体不自由（身体障害者手帳1級・2級程度で自ら歩くことができない）が重複している方\n18歳未満で日常生活を営むために以下の医療的ケアが必要な方"
+  },
+  "updateDate": "2023-06-21",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

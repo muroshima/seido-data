@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "133078;檜原村\t",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "西多摩福祉事務所",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020133078",
+    "psid": "psid3.0+8000020133078+1+UM61"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "西多摩福祉事務所",
+    "contactPhone": "0428-22-1168",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "障害福祉、児童福祉の事業等がまとめられた冊子を作成したのでお知らせいたします。\nまた、ホームページ以外でも下記の窓口で配布を行っております。\n・やすらぎの里（福祉けんこう課）\n・檜原村役場（村民課）\n\n檜原の障害福祉について\n檜原の障害福祉(ファイル名：syougai-r5.pdf サイズ：1.07MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf\n\n檜原の児童福祉について\n檜原の児童福祉(ファイル名：zidou-r5.pdf サイズ：1.21MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf",
+  "electronicSubmission": true,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自のひとり親の方への金銭的支援",
+    "shortName": "女性福祉資金の貸付（都制度）"
+  },
+  "localGovernmentLink": {
+    "title": "女性福祉資金の貸付（都制度）",
+    "uri": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/zidou-r5.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "檜原村"
+  },
+  "procedureCounter": "西多摩福祉事務所",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "西多摩福祉事務所の女性相談員にご相談ください。一部オンライン申請が可能です。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "東京都内の市町村に6か月以上お住まいで、配偶者のいない女性を対象に資金の貸付を行っています。ご相談・お申込みにつきましては、各市・西多摩福祉事務所（町村部・多摩）・支庁（島しょ部）の相談窓口にお問い合わせください。",
+  "support": {
+    "description": "●資金の種類\n事業開始資金、事業継続資金、技能習得資金、就職支度資金、医療介護資金、生活資金、住宅資金、転宅資金、結婚資金、修学資金、就学支度資金\n\n●条件\n原則連帯保証人が必要です。子に係る貸付以外は、保証人なしの場合有利子となります。貸付を行うことにより、自立が見込めることが条件となります。",
+    "materiallySupport": null,
+    "monetarySupport": "●資金の種類\n事業開始資金、事業継続資金、技能習得資金、就職支度資金、医療介護資金、生活資金、住宅資金、転宅資金、結婚資金、修学資金、就学支度資金\n\n●条件\n原則連帯保証人が必要です。子に係る貸付以外は、保証人なしの場合有利子となります。貸付を行うことにより、自立が見込めることが条件となります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "都内に6ヶ月以上お住まいの配偶者がいない女性で、次のいずれかに該当する方\n(１) 親・子・兄弟姉妹などを扶養している方\n(２) 親・子・兄弟姉妹などを扶養していない方で、年間所得が2,036,000円以下で、かつて母子家庭の母として20歳未満の子を扶養したことのある方、又は、婚姻歴のある40歳以上の方"
+  },
+  "updateDate": "2023-06-07",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

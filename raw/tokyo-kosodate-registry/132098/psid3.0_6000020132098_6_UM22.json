@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健所保健予防課母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+6+UM22"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健所保健予防課母子保健係",
+    "contactPhone": "042-725-5471",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "対象者にはご案内を送付します。子育てに関するアンケートにご回答いただいた方に、町田市ファーストバースデーギフト（デジタルギフト）をお届けします。",
+  "electronicSubmission": true,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "お誕生月翌月の末日までに、主な養育者がアンケートにご回答ください。",
+    "fromHM": null,
+    "fromYMD": "2022-04-01",
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関する金銭的支援",
+    "shortName": "ファーストバースデーサポート事業"
+  },
+  "localGovernmentLink": {
+    "title": "町田市ファーストバースデーサポート事業（対象：2023年4月以降生まれ）",
+    "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/8/12491.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "お誕生月翌月の末日までに、主な養育者がアンケートにご回答ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "主な養育者",
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "町田市では、1歳のお誕生日を迎えたお子様を育てているご家庭の育児状況を確認させていただき、育児に関する情報提供や相談支援を実施します。",
+  "support": {
+    "description": "アンケートに回答いただいた方には、町田市ファーストバースデーギフトとして、「giftee Box 6万円分」（デジタルギフト）をお贈りします。\n\n交換できる商品は、子育てや家事支援に資する商品を中心に、町田市オリジナル仕様にカスタマイズしたものです。ラインナップの詳細はお贈りするギフトをご確認ください。",
+    "materiallySupport": null,
+    "monetarySupport": "60000"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "2024年4月1日以降に1歳を迎えるお子様がいるご家庭\n※1歳の誕生日に町田市に住民票がある方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "2024年4月1日以降に1歳を迎えるお子様がいるご家庭\n※1歳の誕生日に町田市に住民票がある方"
+  },
+  "updateDate": "2022-07-19",
+  "useConsiderationFlag": false,
+  "utilization": "アンケートに最後までご回答いただくと、町田市ファーストバースデーギフトがLINE上に即時交付されます。\nギフトには受取期限があります。ギフトが送付されたら、できるだけすぐにお受け取りください",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

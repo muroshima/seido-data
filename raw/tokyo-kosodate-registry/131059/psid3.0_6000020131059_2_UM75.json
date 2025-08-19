@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131059;文京区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部幼児保育課保育施設支援担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131059",
+    "psid": "psid3.0+6000020131059+2+UM75"
+  },
+  "belongings": "(1)保育施設等入所・転所申込書\n(2)施設型給付費・地域型保育費等 教育・保育給付認定申請書\n(3)保育の必要性を確認するための書類\n(4)保育料を決定するための資料",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都文京区春日1丁目16番21号\n文京シビックセンター12階南側",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部幼児保育課保育施設支援担当",
+    "contactPhone": "03-5803-1857",
+    "contactUrl": "https://logoform.jp/form/6KSu/553771",
+    "zipCode": "1128555"
+  },
+  "cost": null,
+  "costConditions": "世帯の住民税の所得割額をもとに決定します。\n\nその他、交通費等の実費が必要となりますが、区からの補助がございますので、\n\n詳しくは幼児保育課施設給付・私立幼稚園担当(03-5803-1823)にお問い合わせください。",
+  "description": "「地域型保育」事業は、平成27年度施行の「子ども・子育て支援新制度」による、市区町村の認可事業です。保育の必要な3歳未満の子どもを対象とした「小規模保育」「家庭的保育（保育ママ）」「事業所内保育」「居宅訪問型保育」の4種類があり、市区町村ごとに地域の保育ニーズに合わせたサービスを実施することになっています。文京区には現在、下記の保育サービスがあり、利用には保育の必要性の認定を受ける必要があります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "土曜、日曜、祝日及び年末年始等",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "地域型保育（小規模保育・家庭的保育（保育ママ）・事業所内保育・居宅訪問型保育）の利用について",
+    "shortName": "居宅訪問型保育事業"
+  },
+  "localGovernmentLink": {
+    "title": "居宅訪問型保育事業",
+    "uri": "https://www.city.bunkyo.lg.jp/b023/p001816.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "文京区"
+  },
+  "procedureCounter": "幼児保育課入園相談係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "保育運営事業者へ直接お申込みください。利用決定後、必要書類を幼児保育課入園相談係へ提出してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第20条、第29条、第30条",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "認定NPO法人フローレンス「障害児訪問保育アニー」（外部リンク）",
+      "uri": "https://annie-hoiku.jp/\n"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子ども・子育て支援新制度に基づき、重症心身障害児等や医療的ケアの必要な児童に対し、それぞれの児童の状態に応じた保育サービスをご家庭において1対1で提供する事業です。",
+  "support": {
+    "description": "子ども・子育て支援新制度に基づき、重症心身障害児等や医療的ケアの必要な児童に対し、それぞれの児童の状態に応じた保育サービスをご家庭において1対1で提供する事業です。",
+    "materiallySupport": "子ども・子育て支援新制度に基づき、重症心身障害児等や医療的ケアの必要な児童に対し、それぞれの児童の状態に応じた保育サービスをご家庭において1対1で提供する事業です。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "主に1歳から未就学児まで（0歳児は要相談）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住の主に1歳から未就学児まで（0歳児は要相談）で、障害、疾病等の程度を勘案して、保育所での保育が著しく困難であると認められる児童。"
+  },
+  "updateDate": "2022-11-01",
+  "useConsiderationFlag": true,
+  "utilization": "事前に保育運営事業者と利用についてご相談の上、利用申込を行ってください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜～金曜（土曜、日曜、祝日及び年末年始等を除く）\n午前8時～午後6時のうち最長8時間以内（給食及び延長保育はありません。）",
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課相談支援担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+1+UM59"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市小川町2-1333　市役所2階",
+    "contactComment": "FAX：042-346-9200",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て支援課相談支援担当",
+    "contactPhone": "042-346-9628",
+    "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+    "zipCode": "1878701"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "母子家庭及び父子家庭 自立支援教育訓練給付金\n就職に必要な技能や資格を取得するために支払った受講費用の60％を支給します。（事前申請が必要です）\n\n必要な知識・技術を習得し、スキルアップして就職を目指す方へ、講座費用を一部助成し、経済的自立への支援を行います。\n\n対象の方\n・ひとり親家庭の母または父で、過去にこの事業の給付を受けていない方\n\n・適職に就くために受講が必要と認められた方\n\n対象講座\n就業に結びつく可能性の高い講座で、雇用保険制度における教育訓練給付の指定対象講座\n（厚生労働大臣指定の教育訓練給付制度をご覧ください）\n\n対象の講座かどうかは、講座主催側や子育て支援課までお問い合わせいただくか、下記のサイトでご確認ください\n\n厚生労働省　教育訓練給付制度（外部リンク）;http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/kyouiku.html\n\n教育訓練給付制度　厚生労働大臣指定教育訓練講座検索システム（外部リンク） ;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/kyouiku_00001.html\n\n(注)今までに申請のあった講座…介護職員初任者研修、医療事務、パソコン講座など\n\n支給額\n1、一般教育訓練給付の対象講座\n受講費用として支払った費用の60％（上限額20万円、下限額1万2千円）\n\n2、専門実践教育訓練給付の対象講座\n受講費用として支払った費用の60％（修学年数に40万円をかけた額・上限額160万円、下限額1万2千円）\n\n(注)支給は1回限りです。\n\n(注)講座修了後、支給申請していただきます。\n\n(注)雇用保険の給付対象者の方には、その差額をお支払いします。\n\nその他\n必ず事前にご相談ください。講座が開始される前に講座内容や、受講後の就労について伺いますので、受講予定講座の資料などをご用意ください。\n\nまた、就労相談も受け付けていますので、下記までお問い合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援教育訓練給付金",
+    "shortName": "自立支援教育訓練給付金"
+  },
+  "localGovernmentLink": {
+    "title": "母子家庭及び父子家庭 自立支援教育訓練給付金",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/049/049796.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-11",
+    "updater": "小平市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "対象の講座かどうかは、講座主催側や子育て支援課までお問い合わせいただくか、下記のサイトでご確認ください\n\n厚生労働省　教育訓練給付制度（外部リンク）;http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/kyouiku.html\n\n教育訓練給付制度　厚生労働大臣指定教育訓練講座検索システム（外部リンク）;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/kyouiku_00001.html \n\n(注)今までに申請のあった講座…介護職員初任者研修、医療事務、パソコン講座など",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第31条（母子家庭自立支援給付金）、第31条の10（父子家庭自立支援給付金）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "教育訓練給付制度　厚生労働大臣指定教育訓練講座検索システム（外部リンク）",
+      "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/kyouiku_00001.html"
+    },
+    {
+      "title": "厚生労働省　教育訓練給付制度（外部リンク）",
+      "uri": "http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/kyouiku.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭の母または父が、就職やキャリアアップのために指定された教育訓練講座を受講し、修了した場合、受講に要した費用の一部が支給されます。\n※受講開始前に必ず事前相談を受けてください。",
+  "support": {
+    "description": "1、一般教育訓練給付の対象講座\n受講費用として支払った費用の60％（上限額20万円、下限額1万2千円）\n\n2、専門実践教育訓練給付の対象講座\n受講費用として支払った費用の60％（修学年数に40万円をかけた額・上限額160万円、下限額1万2千円）\n\n(注)支給は1回限りです。\n\n(注)講座修了後、支給申請していただきます。\n\n(注)雇用保険の給付対象者の方には、その差額をお支払いします。",
+    "materiallySupport": null,
+    "monetarySupport": "1、一般教育訓練給付の対象講座\n受講費用として支払った費用の60％（上限額20万円、下限額1万2千円）\n\n2、専門実践教育訓練給付の対象講座\n受講費用として支払った費用の60％（修学年数に40万円をかけた額・上限額160万円、下限額1万2千円）\n\n(注)支給は1回限りです。\n\n(注)講座修了後、支給申請していただきます。\n\n(注)雇用保険の給付対象者の方には、その差額をお支払いします。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "・ひとり親家庭の母または父で、過去にこの事業の給付を受けていない方\n\n・適職に就くために受講が必要と認められた方"
+  },
+  "updateDate": "2022-07-25",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

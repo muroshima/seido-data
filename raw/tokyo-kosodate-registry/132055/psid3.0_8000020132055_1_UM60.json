@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132055;青梅市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て応援課ひとり親福祉担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132055",
+    "psid": "psid3.0+8000020132055+1+UM60"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "青梅市東青梅1-11-1",
+    "contactComment": "Fax：0428-22-3508",
+    "contactEmail": null,
+    "contactEx": "2143",
+    "contactName": "子育て応援課ひとり親福祉担当",
+    "contactPhone": "0428-22-1111",
+    "contactUrl": null,
+    "zipCode": "1988701"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "\n\n\n高等職業訓練促進給付金事業\n\n児童扶養手当受給者または同等の所得水準にある方\n母子家庭の母または父子家庭の父が看護師や介護福祉士等の資格取得のため、6ケ月以上養成機関等で修業する場合に、その生活の負担の軽減を図り、資格取得を容易にすることを目的として、「高等職業訓練促進給付金」を修業期間のうち一定期間毎月支給します。\n\n修業中：月額10万円（市民税非課税世帯）、月額7万500円（市民税課税世帯）\n※最後の12ヶ月は、それぞれ4万円を加算\n修業後に一時金を支給\n\n※令和5年10月から、受験料助成金が始まりました。\n\n養成機関に出願して受験するまで青梅市に住所を有するひとり親家庭の親に対し、養成機関に入学する日の前日までに、1回のみ助成します。合格・不合格は問いません。\n\n助成額　上限20,000円まで\n\n対象講座\n看護師、准看護師、介護福祉士、保育士ほか\n\n支給額\n\n○看護師学校に通学した方\n看護学校での勉強と家庭の両立は大変でしたが、実家の協力もあって無事卒業しました。\n収入が上がり、将来の見通しが開けました。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "高等職業訓練促進給付金",
+    "shortName": "高等職業訓練促進給付金事業"
+  },
+  "localGovernmentLink": {
+    "title": "母子家庭等自立支援給付金事業",
+    "uri": "https://www.city.ome.tokyo.jp/soshiki/34/47.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-28",
+    "updater": "青梅市"
+  },
+  "procedureCounter": "子育て応援課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "給付金の申請にあたっては、事前相談が必要です。また、受給についての詳しい条件等がありますので、子育て応援課へお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第31条（母子家庭自立支援給付金）、第31条の10（父子家庭自立支援給付金）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭の母または父が、就業に結びつきやすい対象資格（看護師や介護福祉士など）を取得するため6か月以上、養成機関で修業する場合に、修業期間中の生活の負担軽減のために高等職業訓練促進給付金を、また修業終了時に高等職業訓練修了支援給付金を支給します。",
+  "support": {
+    "description": "高等職業訓練促進給付金事業\n母子家庭の母または父子家庭の父が看護師や介護福祉士等の資格取得のため、1年以上養成機関等で修業する場合に、その生活の負担の軽減を図り、資格取得を容易にすることを目的として、「高等職業訓練促進給付金」を修業期間のうち一定期間毎月支給します。\n\n※令和3年4月1日から令和6年3月31日の間に修業を開始する場合には、6ヶ月以上修業の一部の民間資格も対象です。\n\n※令和5年10月から、受験料助成金が始まりました。\n養成機関に出願して受験するまで青梅市に住所を有するひとり親家庭の親に対し、養成機関に入学する日の前日までに、1回のみ助成します。合格・不合格は問いません。\n助成額　上限20,000円まで\n\n対象講座\n看護師、准看護師、介護福祉士、保育士ほか\n\n支給額\n修業中：月額10万円（市民税非課税世帯）、月額7万500円（市民税課税世帯）\n※最後の12ヶ月は、それぞれ4万円を加算\n修業後に一時金を支給",
+    "materiallySupport": null,
+    "monetarySupport": "助成額　上限20,000円まで"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "児童扶養手当受給者または同等の所得水準にある方\nすべての給付金の申請にあたっては、事前相談が必要です。また、受給についての詳しい条件等がありますので、子育て応援課へお問い合わせください。"
+  },
+  "updateDate": "2023-11-08",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

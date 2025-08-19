@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132063;府中市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子育て応援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132063",
+    "psid": "psid3.0+8000020132063+1+UM61"
+  },
+  "belongings": "必要書類\n・児童扶養手当証書\n・写真（縦4センチメートル、横3センチメートル）\n・印鑑",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": "kosodate01@city.fuchu.tokyo.jp",
+    "contactEx": null,
+    "contactName": "子ども家庭部子育て応援課",
+    "contactPhone": "042-335-4100",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "JR通勤定期割引\n最終更新日：2019年4月1日\n概要説明\n対象\n児童扶養手当を受けているひとり親家庭の方など\n\n助成内容\nJRの通勤定期が3割引で購入できます\n注記：通学定期は対象外となります\n\n手続き方法\n必要書類\n児童扶養手当証書\n写真（縦4センチメートル、横3センチメートル）\n印鑑\n受付窓口\n子育て応援課育成係\n注記：子育て応援課への申込み後、発行される証明書を持って、駅の窓口で手続きしてください。\n\n問合せ先\n所属名：子ども家庭部子育て応援課\n電話：042-335-4100　　\ne-mail：kosodate01@city.fuchu.tokyo.jp",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "駅の窓口"
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自のひとり親の方への金銭的支援",
+    "shortName": "JR通勤定期割引"
+  },
+  "localGovernmentLink": {
+    "title": "JR通勤定期割引",
+    "uri": "https://www.city.fuchu.tokyo.jp/kosodate/shussan/hitorioya-sekatushien/waribiki.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "府中市"
+  },
+  "procedureCounter": "子育て応援課育成係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "受付窓口\n子育て応援課育成係\n注記：子育て応援課への申込み後、発行される証明書を持って、駅の窓口で手続きしてください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童扶養手当を受けているひとり親家庭の方などは、JRの通勤定期が3割引で購入できます。",
+  "support": {
+    "description": "JRの通勤定期が3割引で購入できます\n注記：通学定期は対象外となります",
+    "materiallySupport": null,
+    "monetarySupport": "JRの通勤定期が3割引で購入できます\n注記：通学定期は対象外となります"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "児童扶養手当を受けているひとり親家庭の方など"
+  },
+  "updateDate": "2019-04-01",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

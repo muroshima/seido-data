@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援部子ども若者支援課子ども給付係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+1+UM27"
+  },
+  "belongings": "ひとり親家庭等医療証,健康保険証",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファックス番号：03-3578-2384\n\n外国語対応が必要な人、通訳オペレーター、区の職員の3人で会話ができます。\n\n多言語対応三者通話サービス;https://www.multilingualinterpretercallservice.city.minato.tokyo.jp/kokusai",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "各総合支所区民課;https://www.city.minato.tokyo.jp/kouhou/kuse/gaiyo/shisho.html,子ども家庭支援部子ども若者支援課子ども給付係",
+    "contactPhone": "03-3578-2430",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ひとり親家庭等医療費助成\n事業の目的\nひとり親家庭等に対し、医療費の一部を助成し、経済的負担を軽減することにより、ひとり親家庭等の保健の向上に寄与します。\n\n対象\n次の要件に該当し、健康保険に加入しているひとり親家庭等の父、母または養育者とその児童（児童が18歳に到達後最初の3月31日まで。児童に中度以上の障害がある場合は20歳未満まで）\n※受給者および扶養義務者に所得制限があります。\n\n父母が離婚\n父又は母が死亡\n父又は母が生死不明\n父又は母が一年以上遺棄\n父又は母が法令により一年以上拘禁\n婚姻によらない出生\n父又は母が重度の障害\n父又は母が保護命令を受けた\n【所得限度額表】\n\n|扶養親族数（人）|所得限度額（円）|<|\n|^|本人|配偶者・扶養義務者<br>孤児等の養育者|\n|:----|:----|:----|\n|0|1,920,000|2,360,000|\n|1|2,300,000|2,740,000|\n|2|2,680,000|3,120,000|\n|3|3,060,000|3,500,000|\n|4|3,440,000|3,880,000|\n|1人増す毎の<br>加算額|380,000|<|\n\n事業の詳細\n健康保険による医療を受けた際の医療費のうち、対象者が負担すべき額の一部または全部を助成します。\n対象者には「ひとり親家庭等医療証」を交付します。\n健康保険証とあわせて医療機関等の窓口に提示することにより、支払う医療費が軽減されます。\n医療機関で3割または全額負担した場合\n以下の場合は医療機関窓口で支払いをした後に、必要書類を添付して区に申請をしてください。\n\n１．ひとり親家庭等医療証を使わずに受診した場合\n\n（１）ひとり親家庭等医療助成費支給申請書\n\n（２）領収書原本\n\n（３）受給者の口座がわかるもの\n\n２．健康保険証とひとり親家庭等医療証を使わずに受診した場合\n\n（１）ひとり親家庭等医療助成費支給申請書\n\n（２）領収書の写し\n\n（３）療養費支給決定通知書の写し（健康保険組合が発行）\n\n（４）受給者の口座がわかるのもの\n\n※領収書原本は、健康保険組合への申請で提出するため、あらかじめ写しをお取りください。\n\n３．補装具を作成した場合\n\n（１）ひとり親家庭等医療助成費支給申請書\n\n（２）領収書の写し\n\n（３）療養費支給決定通知書の写し（健康保険組合が発行）\n\n（４）「医師の診断書または意見書」の写し\n\n（５）受給者の口座がわかるもの\n\n※領収書原本と「医師の診断書または意見書」の原本は健康保険組合への申請で提出するため、あらかじめ写しをお取りください。\n\n申請書ダウンロード\n\nひとり親家庭等医療助成費支給申請書（PDF：172KB）;https://www.city.minato.tokyo.jp/kateisoudan/kodomo/kodomo/hitorioya/documents/sikyuusinnseisyo.pdf\nひとり親家庭等医療助成費支給申請書：記入例（PDF：617KB）;https://www.city.minato.tokyo.jp/kateisoudan/kodomo/kodomo/hitorioya/documents/kinyuurei.pdf\nお近くの総合支所区民課保健福祉係の窓口に提出してください。\n\n郵送の場合は、港区子ども若者支援課子ども給付係あてにお送りください。\n\n送付先\n〒105-8511　　港区芝公園1-5-25\n港区役所　子ども家庭支援部子ども若者支援課子ども給付係",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "ひとり親家庭医療費助成",
+    "shortName": "ひとり親家庭等医療費助成"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親家庭等医療費助成",
+    "uri": "https://www.city.minato.tokyo.jp/kateisoudan/kodomo/kodomo/hitorioya/iryo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "港区"
+  },
+  "procedureCounter": "医療機関等",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "対象者には「ひとり親家庭等医療証」を交付します。\n健康保険証とあわせて医療機関等の窓口に提示することにより、支払う医療費が軽減されます。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "港区ひとり親家庭等の医療費の助成に関する条例"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭の母または父、および、そのお子さんの医療費に対して助成を行います。",
+  "support": {
+    "description": "健康保険による医療を受けた際の医療費のうち、対象者が負担すべき額の一部または全部を助成",
+    "materiallySupport": null,
+    "monetarySupport": "健康保険による医療を受けた際の医療費のうち、対象者が負担すべき額の一部または全部を助成"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "児童が18歳に到達後最初の3月31日まで。児童に中度以上の障害がある場合は20歳未満まで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次の要件に該当し、健康保険に加入しているひとり親家庭等の父、母または養育者とその児童（児童が18歳に到達後最初の3月31日まで。児童に中度以上の障害がある場合は20歳未満まで）\n※受給者および扶養義務者に所得制限があります。\n\n父母が離婚\n父又は母が死亡\n父又は母が生死不明\n父又は母が一年以上遺棄\n父又は母が法令により一年以上拘禁\n婚姻によらない出生\n父又は母が重度の障害\n父又は母が保護命令を受けた\n【所得限度額表】\n\n|扶養親族数（人）|所得限度額（円）|<|\n|^|本人|配偶者・扶養義務者<br>孤児等の養育者|\n|:----|:----|:----|\n|0|1,920,000|2,360,000|\n|1|2,300,000|2,740,000|\n|2|2,680,000|3,120,000|\n|3|3,060,000|3,500,000|\n|4|3,440,000|3,880,000|\n|1人増す毎の<br>加算額|380,000|<|"
+  },
+  "updateDate": "2024-05-01",
+  "useConsiderationFlag": true,
+  "utilization": "対象者には「ひとり親家庭等医療証」を交付します。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

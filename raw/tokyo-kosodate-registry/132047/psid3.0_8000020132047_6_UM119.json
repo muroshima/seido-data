@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132047;三鷹市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども政策部 子ども家庭課 母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132047",
+    "psid": "psid3.0+8000020132047+6+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三鷹市新川六丁目37番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども政策部 子ども家庭課 母子保健係",
+    "contactPhone": "0422-46-3254",
+    "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+    "zipCode": "1810004"
+  },
+  "cost": null,
+  "costConditions": "無料",
+  "description": "産前・産後のご家庭をサポートします！\n　三鷹市では、妊娠期から子育て期にわたり、妊婦さんや産後のお母さんお父さんとそのご家族を切れ目なく応援しています。\n\n　妊娠中や出産直後は赤ちゃんを迎える喜びと同時に、お母さんのお身体やお気持ち、赤ちゃんを取り巻く家族のかたちも変化していきます。お母さん、お父さんの気持ちに寄り添いながら、ご相談に応じます。\n\n　「赤ちゃんを迎える準備はこれで十分かな？」「赤ちゃんのおむつ替えや抱っこは上手にできているかな？」「赤ちゃんとの過ごし方を知りたい！」など、気になることをお気軽にご相談ください。\n\n利用できる方\n市内在住の妊産婦とその家族\n\n費用\n無料\n\n内容\n保健師、助産師が自宅に訪問またはお電話で、妊娠・出産や子育てに関する相談をお受けします。\n\nゆっくりお話を聞いたり、一緒に考えたり、市内の子育て支援サービスの紹介もいたします。\n\n三鷹市総合保健センター(電話 0422-46-3254)",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "三鷹市の子育てに関する相談",
+    "shortName": "産前・産後の相談"
+  },
+  "localGovernmentLink": {
+    "title": "産前・産後の相談",
+    "uri": "https://www.city.mitaka.lg.jp/c_service/092/092586.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "三鷹市"
+  },
+  "procedureCounter": "三鷹市総合保健センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "保健師、助産師が自宅に訪問またはお電話で、妊娠・出産や子育てに関する相談をお受けします。\n\nゆっくりお話を聞いたり、一緒に考えたり、市内の子育て支援サービスの紹介もいたします。\n\n三鷹市総合保健センター(電話 0422-46-3254)",
+  "procedurePeriod": {
+    "conditions": "出産日より1年間",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "市内在住の妊産婦とその家族",
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "三鷹市では、保健師、助産師が自宅に訪問またはお電話で、妊娠・出産や子育てに関する相談を行います。",
+  "support": {
+    "description": "保健師、助産師が自宅に訪問またはお電話で、妊娠・出産や子育てに関する相談をお受けします。\n\nゆっくりお話を聞いたり、一緒に考えたり、市内の子育て支援サービスの紹介もいたします。",
+    "materiallySupport": "保健師、助産師が自宅に訪問またはお電話で、妊娠・出産や子育てに関する相談をお受けします。\n\nゆっくりお話を聞いたり、一緒に考えたり、市内の子育て支援サービスの紹介もいたします。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "市内在住の妊産婦とその家族"
+  },
+  "updateDate": "2023-11-15",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

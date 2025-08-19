@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "132101;小金井市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課子育て支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132101",
+    "psid": "psid3.0+3000020132101+1+UM5036"
+  },
+  "belongings": null,
+  "capacity": "16名,50名,25名,70名,30名,30名",
+  "class": 1,
+  "contact": {
+    "contactAddress": "小金井市中町4丁目7番7号,小金井市貫井北町2丁目8番23号,小金井市貫井南町4丁目14番14号1階,小金井市本町4丁目7番1号,小金井市中町1丁目8番20号,なし,なし",
+    "contactComment": null,
+    "contactEmail": "s050599@koganei-shi.jp",
+    "contactEx": null,
+    "contactName": "こきんダイナー,みんなのおうちりんごっこハウス　問合せ先：邦永　洋子,子ども食堂「まめカフェ」　問合せ先：木下　里衣子,食・学・活きる みんなの居場所また明日,元気もり杜子ども食堂　問合せ先：堀口　学,こども食堂 はけのそら　問合せ先：矢神　明子,小金井市福祉総合相談窓口,子育て支援課子育て支援係",
+    "contactPhone": "電話：042-387-9836",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": "無料",
+  "costConditions": "子どもは原則無料,保護者は有料の場合あり",
+  "description": "子どもの居場所をご利用ください！\n\n　市内には、子どもの居場所を提供している団体があります。\nぜひご利用ください。詳しくは各事業団体へお問い合わせください。\nまた、当ページは市内で運営している子どもの居場所を全て掲載しているわけではありませんので、予めご了承ください。\n注：補助金交付予定団体を含む\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "小金井市中町4丁目7番7号,小金井市貫井北町2丁目8番23号,小金井市貫井南町4丁目14番14号1階,小金井市本町4丁目7番1号,小金井市中町1丁目8番20号",
+    "implementationName": "公民館緑分館研修室,みんなのおうちりんごっこハウス,立正佼成会　小金井教会,食・学・活きる みんなの居場所また明日,元気もり杜子ども食堂,こども食堂 はけのそら"
+  },
+  "institutionName": {
+    "canonicalName": "こども食堂",
+    "shortName": "子ども食堂"
+  },
+  "localGovernmentLink": {
+    "title": "子どもの居場所をご利用ください！",
+    "uri": "https://www.city.koganei.lg.jp/smph/kosodatekyoiku/434/kosodatekaigi/kodomonoibasyo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/17",
+    "updater": "小金井市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "子ども食堂　こきんダイナー",
+      "uri": "https://forms.gle/aqhFyvPjBibamgdq5"
+    },
+    {
+      "title": "みんなのおうちりんごっこハウス",
+      "uri": "https://yu-park.wixsite.com/ringokkohouse"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "「こども食堂」とは、こどもが一人でも行ける無料または低額の食堂です。こども食堂は、生活に困窮する子育て世帯への支援だけでなく、虐待の防止のための見守りや、地域の交流、こどもへの多様な経験の提供など様々な役割を担っており、国としてもこの取組を支援しています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "子どもとその保護者"
+  },
+  "updateDate": "2024/11/16",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月2回（場所を確保できた日）正午から午後2時まで,第3木曜日（子ども食堂pomme）、第4火曜日（中高生子ども食堂KAKUREGA）午後5時から午後8時まで,第1金曜日（1・5月は日にちが変更になります）午後5時から午後6時まで,毎月第3水曜日　午後5時頃から午後7時頃まで,毎月第4水曜日　午後5時から午後7時まで,毎月第4土曜日　正午から午後2時まで",
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131172;北区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局教育振興部学校支援課学校支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131172",
+    "psid": "psid3.0+8000020131172+2+UM2369"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都北区滝野川2-52-10（旧滝野川中学校） 北区役所滝野川分庁舎1階6番",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "教育委員会事務局教育振興部学校支援課学校支援係",
+    "contactPhone": "03-3908-9293",
+    "contactUrl": null,
+    "zipCode": "1148546"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "区立幼稚園・認定こども園（幼稚園枠）の給食費無償化\n　北区では、令和元年１０月から実施している保育料無償化に加え、区の新たな子育て支援策として、令和５年４月より幼稚園及び認定こども園の給食費を無償化しました。\n　区立認定こども園の在籍園児には給食を無償で提供します。また、区立幼稚園に在籍し弁当を持参する園児の保護者と、区立認定こども園に在籍し、食物アレルギー等のため給食提供を受けられず弁当を持参する園児の保護者には、給食費相当の補助金を支給します。　\n\n北区立幼稚園・認定こども園弁当持参者補助金\n対象者\n　・区立幼稚園に在籍し、弁当を持参する児童の保護者\n　・区立認定こども園に在籍し、食物アレルギー等のため給食提供を受けられず弁当を持参する児童の保護者\n \n補助額\n　月額４，５００円\n　※４～７月分、９～３月分の２回に分けて支払います。\n　※夏季休業期間である８月を除きます。また、登園停止や休園等により１ヶ月まったく登園しない月及び私立幼稚園等に在籍し、同様の補助金給付を受けた月は補助対象外とします。\n \n申請方法\n　在籍する園から申請書を渡し、園経由で提出していただきます。\n　詳しくは園からご案内します。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の幼児教育・保育施設の補助・減免",
+    "shortName": "区立幼稚園・認定こども園（幼稚園枠）の給食費無償化"
+  },
+  "localGovernmentLink": {
+    "title": "区立幼稚園・認定こども園（幼稚園枠）の給食費無償化",
+    "uri": "https://www.city.kita.tokyo.jp/gakkoshien/kosodate/kyuusyoku/20240208.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "北区"
+  },
+  "procedureCounter": "園",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "在籍する園から申請書を渡し、園経由で提出していただきます。\n\n詳しくは園からご案内します。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "北区立幼稚園・認定こども園弁当持参者補助金交付要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "「幼児教育・保育の無償化」の対象とならない幼児教育施設に通うお子さんの保護者の経済的負担を軽減するために、北区独自に利用料の助成を行っています。",
+  "support": {
+    "description": "補助額\n　月額４，５００円\n　※４～７月分、９～３月分の２回に分けて支払います。\n　※夏季休業期間である８月を除きます。また、登園停止や休園等により１ヶ月まったく登園しない月及び私立幼稚園等に在籍し、同様の補助金給付を受けた月は補助対象外とします。",
+    "materiallySupport": null,
+    "monetarySupport": "補助額\n　月額４，５００円\n　※４～７月分、９～３月分の２回に分けて支払います。\n　※夏季休業期間である８月を除きます。また、登園停止や休園等により１ヶ月まったく登園しない月及び私立幼稚園等に在籍し、同様の補助金給付を受けた月は補助対象外とします。"
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "・区立幼稚園に在籍し、弁当を持参する児童の保護者\n\n・区立認定こども園に在籍し、食物アレルギー等のため給食提供を受けられず弁当を持参する児童の保護者"
+  },
+  "updateDate": "2024-02-09",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

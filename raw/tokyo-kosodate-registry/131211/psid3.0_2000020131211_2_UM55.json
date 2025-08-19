@@ -1,0 +1,133 @@
+{
+  "area": {
+    "areaCode": "131211;足立区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "衛生部保健予防課予防接種係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020131211",
+    "psid": "psid3.0+2000020131211+2+UM55"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "衛生部保健予防課予防接種係",
+    "contactPhone": "03-3880-5094",
+    "contactUrl": "https://www.city.adachi.tokyo.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "おたふくかぜワクチン任意予防接種費用の一部を公費負担します\n区内にお住まいで、おたふくかぜにかかったことのない１歳のお子さんを対象に、任意接種費用の一部公費負担を行います。\n\n対象者\n１歳の誕生日の前日から２歳の誕生日の前日までの方\n\nこれまで罹患した方や、２回以上接種した方は対象外です。\n一部公費負担額\n４,０００円\n\n接種費用のうち４,０００円を区が負担します。接種費用は医療機関により異なります。\n接種費用のうち区が負担する額を除いた自己負担額は、医療機関にお支払いください。\n予診票の送付方法\n１歳の誕生月に、区からおたふくかぜワクチン任意予防接種予診票をMR（麻しん風しん）１期と水痘予防接種の予診票に同封し郵送します。\n\n接種場所\n足立区内指定医療機関\n\n区内指定医療機関以外での接種は費用助成対象となりません。\n\n接種時期について\nおたふくかぜは、２歳から７歳での発病が多いため、１歳になったらできるだけ早期に接種することが望まれています。日本小児科学会では、予防効果を確実にするために２回接種を推奨しており、足立区では１回分の接種費用の一部を公費負担します。\n\nおたふくかぜとは\nおたふくかぜは、流行性耳下腺炎あるいはムンプスとも呼ばれ、ムンプスウイルス感染によって起こる全身性感染症です。感染してから２週間から３週間の潜伏期間の後に、耳下腺や顎下腺などの唾液腺の腫れや発熱を発症します。合併症として、膵炎、感音性難聴や髄膜炎等があり、思春期以降に感染すると、精巣炎や卵巣炎を起こすこともあります。髄膜炎は、合併症として珍しくなく、おたふくかぜの経過中の発熱、頭痛、嘔吐は髄膜炎を疑う症状として要注意です。また、感音性難聴は重大な合併症で、発症すると聴力の回復は難しく、その後の日常生活にも影響をきたします。\n\n副反応について\n接種後に発熱や耳下腺脹等がみられることがありますが、通常、症状は数日で軽快します。\n\n接種後３週前後に、発熱、頭痛、嘔吐等の症状が見られる無菌性髄膜炎が数千人に１人（０.０３から０.０６％）程度の頻度で発生するとの報告がありますが、自然感染による発生頻度(１.２４％)と比較すると、予防接種を受けたほうが髄膜炎に対するリスクは低いと考えられています。\n\n接種後数日から３週前後に紫斑、鼻出血、口腔粘膜出血等症状の見られる血小板減少性紫斑病が１００万人に１人程度の頻度で、また、頻度は不明ですが、急性散在性脳脊髄炎や脳炎・脳症、急性膵炎があらわれることがあります。まれに難聴、精巣炎があらわれたとの報告があります。接種後（３０分間程度）にショック、アナフィラキシー（蕁麻疹、呼吸困難、血管浮腫等）がまれにあらわれることがあります。\n\n接種後３０分くらいは十分、お子さんの状態を観察し、異常があった場合には速やかに医療機関を受診してください。\n\n注意事項\nおたふくかぜ予防接種は、現在、予防接種法に基づかない任意の予防接種となっており、接種の義務はありません。接種を受けるかどうかは、副反応等を考慮したうえで、ご判断ください。\n足立区から転出された場合は足立区の予診票は使えませんので、転出先の保健所へお問い合わせください。\n本事業の対象者であった場合でも、助成開始前（令和５年４月１日より前）に接種した接種費用について、助成等はございません。\n関連情報\n\nおたふくかぜ任意予防接種一部公費負担　指定医療機関名簿（PDF：210KB）;https://www.city.adachi.tokyo.jp/documents/60084/otahuku-r6.pdf",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "【小児】 予防接種予診票交付申請",
+      "uri": "https://shinsei.city.adachi.tokyo.jp/apply/guide/1126"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "任意予防接種",
+    "shortName": "おたふくかぜワクチン任意予防接種"
+  },
+  "localGovernmentLink": {
+    "title": "おたふくかぜワクチン任意予防接種費用の一部を公費負担します ",
+    "uri": "https://www.city.adachi.tokyo.jp/hoken/otafuku.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "足立区"
+  },
+  "procedureCounter": "足立区内指定医療機関",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "予診票の送付方法\n１歳の誕生月に、区からおたふくかぜワクチン任意予防接種予診票をMR（麻しん風しん）１期と水痘予防接種の予診票に同封し郵送します。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "１歳の誕生日の前日から２歳の誕生日の前日までの方",
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "足立区おたふくかぜワクチン任意予防接種事業実施要綱 "
+  },
+  "relatedLink": [
+    {
+      "title": "おたふくかぜ任意予防接種一部公費負担　指定医療機関名簿（PDF：210KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/60084/otahuku-r6.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。現在、定期接種以外で小学校就学前のお子さんが接種できるワクチンとしては、おたふくかぜ、インフルエンザなどがあります。\nこのうち足立区では、次の任意予防接種に対して、接種費用を助成しています。接種するかどうかについては、かかりつけ医とご相談のうえ、保護者の判断により決めてください。",
+  "support": {
+    "description": "一部公費負担額\n４,０００円\n\n接種費用のうち４,０００円を区が負担します。接種費用は医療機関により異なります。\n接種費用のうち区が負担する額を除いた自己負担額は、医療機関にお支払いください",
+    "materiallySupport": null,
+    "monetarySupport": "４,０００円"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "１歳の誕生日の前日から２歳の誕生日の前日までの方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "１歳の誕生日の前日から２歳の誕生日の前日までの方\n\nこれまで罹患した方や、２回以上接種した方は対象外です。"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

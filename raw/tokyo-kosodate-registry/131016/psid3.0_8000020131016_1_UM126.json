@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局子ども部学務課学務係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+1+UM126"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区九段南1-2-1",
+    "contactComment": null,
+    "contactEmail": "gakumu@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "教育委員会事務局子ども部学務課学務係",
+    "contactPhone": "03-5211-4284",
+    "contactUrl": null,
+    "zipCode": "1028688"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "区は、義務教育の円滑な実施を図るために、経済的な理由によって小・中学校への就学が困難な児童・生徒の保護者に対して、学用品費や給食費などを援助する「就学援助制度」を設けています。\n\n令和6年度就学援助の「お知らせ」および「申請書」の掲載\n令和6年度就学援助の「お知らせ」および「申請書」を以下に掲載しました。\n・令和6年度就学援助費のお知らせ（PDF：269KB）;https://www.city.chiyoda.lg.jp/documents/1273/oshirase_4.pdf\n・令和6年度就学援助費申請書（兼同意書）（PDF：299KB）;https://www.city.chiyoda.lg.jp/documents/1273/shinseisho_3.pdf、（エクセル：28KB）;https://www.city.chiyoda.lg.jp/documents/1273/shinseisho_3.xlsx\n・就学援助費申請書（兼同意書）記入見本（PDF：283KB）;https://www.city.chiyoda.lg.jp/documents/1273/shinseisho-mihon_3.pdf\n\n入学準備金\n令和6年度入学の方への案内です。\n就学援助費のうち、小・中学校の入学に必要な「新入学児童生徒学用品・通学用品購入費」を「入学準備金」として入学前に支給します。\n\n小学校入学準備金\n対象となる世帯\n次の1～4のすべてに該当する世帯が対象です。\n1.令和6年4月に小学校入学予定のお子様がいる世帯\n（注意） 該当世帯には、令和5年12月頃にご案内の郵送を予定しています。\n・小学校入学準備金の支給について（PDF：249KB）;https://www.city.chiyoda.lg.jp/documents/1273/shikyu.pdf\n・令和6年度入学 就学援助費申請書（兼同意書）小学校入学準備金用（PDF：275KB）;https://www.city.chiyoda.lg.jp/documents/1273/shinseisho.pdf、記入見本（PDF：277KB）;https://www.city.chiyoda.lg.jp/documents/1273/shinseisho-mihon.pdf\n2.令和6年1月1日現在、千代田区に住民登録のある世帯\n3.令和4年中の世帯所得が基準未満の世帯\n4.生活保護を受給していない世帯\n（注意） 生活保護受給世帯には、入学準備金は保護費から支給されます。\n\n中学校入学準備金\n「令和5年度就学援助（準要保護）」認定を受けている中学校新1年生（現在小学校6年生）については、中学校入学準備金の支給対象となります。改めて申請をする必要はありません。\n（注意） 就学援助の認定を受けていない方で、入学前支給をご希望の方は申請が必要です。認定を受けた場合、他の費目は申請月からの支給となります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "小学校・中学校の就学援助費",
+    "shortName": "就学援助"
+  },
+  "localGovernmentLink": {
+    "title": "就学援助",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/teate/shugaku.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "毎年度申請が必要です。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第19条",
+    "regulationName": "学校教育法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "経済的な理由により就学が困難と認められる、小学校・中学校に通学する児童・生徒の保護者を対象に、学用品費、修学旅行費、給食費などを支給します。",
+  "support": {
+    "description": "1.学用品・通学用品購入費\n2.新入学児童生徒学用品・通学用品購入費\n3.校外活動費（宿泊なし）\n4.移動教室参加費（宿泊あり）\n5.夏季施設参加費（宿泊あり）\n6.修学旅行費（中学校のみ）\n7.学校給食費\n8.卒業アルバム費\n9.医療費\n（注意） 生活保護費など他の援助費から支給される費目については、就学援助では支給されません。",
+    "materiallySupport": null,
+    "monetarySupport": "1.学用品・通学用品購入費\n2.新入学児童生徒学用品・通学用品購入費\n3.校外活動費（宿泊なし）\n4.移動教室参加費（宿泊あり）\n5.夏季施設参加費（宿泊あり）\n6.修学旅行費（中学校のみ）\n7.学校給食費\n8.卒業アルバム費\n9.医療費\n（注意） 生活保護費など他の援助費から支給される費目については、就学援助では支給されません。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "005"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "092"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "千代田区に住み、小・中学校に在籍する児童・生徒の保護者で下記1、2のどちらかに該当する方\n1.生活保護を受けている方\n2.生活保護は受けていないが、これに準ずると教育委員会が認める方（前年の世帯所得が基準未満の世帯）\n（注意） 対象となる学校は、学校教育法第1条に規定する小・中学校、義務教育学校、中等教育学校（前期課程）です。インターナショナルスクールやフリースクールなどは対象になりません。"
+  },
+  "updateDate": "2024-05-02",
+  "useConsiderationFlag": false,
+  "utilization": "区立小・中学校へ通っている方には、学校を通じてご案内しています。区外の学校へ通学し、該当すると思われる方はお問い合わせください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

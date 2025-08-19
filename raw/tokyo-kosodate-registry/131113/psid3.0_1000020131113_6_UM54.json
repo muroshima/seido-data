@@ -1,0 +1,153 @@
+{
+  "area": {
+    "areaCode": "131113;大田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "感染症対策課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131113",
+    "psid": "psid3.0+1000020131113+6+UM54"
+  },
+  "belongings": "母子健康手帳",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都大田区蒲田五丁目13番14号",
+    "contactComment": "FAX：03-5764-1524,FAX：03-5764-0659,FAX：03-3726-6331,FAX：03-5713-0290,FAX：03-6423-8838",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "感染症対策課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kansen.html,大森地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/omori_chiikichousya.html,調布地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/chofu_chiikichousya.html,蒲田地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/kamata_chiikichousya.html,糀谷・羽田地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/koujiya_haneda_chiikichousya.html",
+    "contactPhone": "03-4446-2643,03-5764-0661,03-3726-4145,03-5713-1701,03-3743-4161",
+    "contactUrl": "https://www.city.ota.tokyo.jp/cgi-bin/form_enq/formmail.cgi?d=hokansen",
+    "zipCode": "1448621"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "Hib（インフルエンザ菌b型）感染症予防接種\nページ番号：414519999\n更新日：2022年7月1日\n予防接種法の改正により、平成25年4月1日から定期予防接種の対象となりました。\n\n定期予防接種の対象者\n定期予防接種の対象となるのは、生後2か月から生後60か月に至るまで（5歳になる誕生日の前日まで）のお子さんです。\n\n接種方法\n接種を開始する月齢によって、接種方法が異なります。\n〇標準的な接種期間\n　・生後2か月から7か月で接種を開始\n　・計4回接種\n〇接種間隔\n　・初回接種：27日から56日の間隔をあけて3回接種\n　・追加接種：初回接種3回目から、7か月から13か月の間隔をあけて1回接種\n標準的な接種期間に接種することができなかった場合は、下記「Hib（インフルエンザ菌b型）感染症予防接種」をお読みください。\n\nHib（インフルエンザ菌b型）感染症予防接種（PDF：837KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/hib.files/Hib2021.4.pdf",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "【定期予防接種】予診票発行申請",
+      "uri": "https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1682921360517"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "Hib（インフルエンザ菌b型）感染症予防接種"
+  },
+  "localGovernmentLink": {
+    "title": "Hib（インフルエンザ菌b型）感染症予防接種",
+    "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/hib.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-28",
+    "updater": "大田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "接種方法\n予診票は、生後2か月になるまでに送付しています。\n転入などで予診票がお手元にない方は、予診票発行の手続きが必要です。詳細は こちら。;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/nyuyouji-yobou-sessyu-shinsei.html\n接種を開始する月齢によって、接種方法が異なります。\n〇標準的な接種期間\n　・生後2か月から7か月で接種を開始\n　・計4回接種\n〇接種間隔\n　・初回接種：27日から56日の間隔をあけて3回接種\n　・追加接種：初回接種3回目から、7か月から13か月の間隔をあけて1回接種\n標準的な接種期間に接種することができなかった場合は、下記「Hib（インフルエンザ菌b型）感染症予防接種」をお読みください。\n\nHib（インフルエンザ菌b型）感染症予防接種（PDF：837KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/hib.files/Hib2021.4.pdf",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）",
+    "regulationName": "予防接種法"
+  },
+  "relatedLink": [
+    {
+      "title": "感染症対策課",
+      "uri": "https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kansen.html"
+    },
+    {
+      "title": "糀谷・羽田地域健康課",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/koujiya_haneda_chiikichousya.html"
+    },
+    {
+      "title": "大森地域健康課",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/omori_chiikichousya.html"
+    },
+    {
+      "title": "蒲田地域健康課",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/kamata_chiikichousya.html"
+    },
+    {
+      "title": "調布地域健康課",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/chofu_chiikichousya.html"
+    },
+    {
+      "title": "Hib（インフルエンザ菌b型）感染症予防接種（PDF：837KB）",
+      "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/hib.files/Hib2021.4.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+  "support": {
+    "description": "Hib（インフルエンザ菌b型）感染症予防接種",
+    "materiallySupport": "Hib（インフルエンザ菌b型）感染症予防接種",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後2か月から生後60か月に至るまで（5歳になる誕生日の前日まで）のお子さん",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 2
+    },
+    "lessThan": {
+      "targetAge": 5,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生後2か月から生後60か月に至るまで（5歳になる誕生日の前日まで）のお子さん"
+  },
+  "updateDate": "2022-07-01",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

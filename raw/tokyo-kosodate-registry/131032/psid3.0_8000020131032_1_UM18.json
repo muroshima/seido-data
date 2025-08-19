@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "みなと保健所健康推進課地域保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+1+UM18"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファックス番号：03-3455-4539\n\n外国語対応が必要な人、通訳オペレーター、区の職員の3人で会話ができます。\n\n多言語対応三者通話サービス;https://www.multilingualinterpretercallservice.city.minato.tokyo.jp/kokusai",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "みなと保健所健康推進課地域保健係",
+    "contactPhone": "03-6400-0084",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊娠高血圧症候群等の医療費助成\n妊娠高血圧症候群等であって、医療機関の医師が入院を必要と認め条件を満たした妊婦に対し、医療費等の助成を行います。\n\n対象\n対象者\n港区に住民登録があり、下記（１）又は（２）に該当する方\n\n（生活保護受給世帯・中国残留邦人等の円滑な帰国の促進及び永住帰国後の自立の支援に関する法律による支援給付受給世帯に属する方を除きます。）\n\n（１）前年分の総所得税額が３０，０００円以下の世帯\n\n（２）（１）以外の方で入院見込み期間が２６日以上の方\n\n対象疾病\n妊娠により入院医療を必要とする下記の疾病及びその続発症\n\n（１）妊娠高血圧症候群及びその関連疾患\n\n（２）糖尿病及び妊娠糖尿病\n\n（３）貧血\n\n（４）産科出血\n\n（５）心疾患\n\n申請方法\n妊娠高血圧症候群等医療費助成の申請について（PDF：239KB）;https://www.city.minato.tokyo.jp/chiikihoken/kenko/ninshin/ninshin/documents/shinnsei.pdf\n\n申請書類の配布・提出先\nみなと保健所健康推進課地域保健係または各総合支所区民課保健福祉係",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊娠高血圧症候群（妊娠中毒症）に関する助成",
+    "shortName": "妊娠高血圧症候群等であって、医療機関の医師が入院を必要と認め条件を満たした妊婦に対し、医療費等の助成を行います。"
+  },
+  "localGovernmentLink": {
+    "title": "妊娠高血圧症候群等の医療費助成",
+    "uri": "https://www.city.minato.tokyo.jp/chiikihoken/kenko/ninshin/ninshin/koketsuatsu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "港区"
+  },
+  "procedureCounter": "みなと保健所健康推進課地域保健係または各総合支所区民課保健福祉係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "妊娠高血圧症候群等医療費助成の申請について（PDF：239KB）;https://www.city.minato.tokyo.jp/chiikihoken/kenko/ninshin/ninshin/documents/shinnsei.pdf",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "妊娠高血圧症候群等医療費助成実施要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "妊娠高血圧症候群等医療費助成の申請について（PDF：239KB）",
+      "uri": "https://www.city.minato.tokyo.jp/chiikihoken/kenko/ninshin/ninshin/documents/shinnsei.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠高血圧症候群（妊娠中毒症）などにより、7日以上入院が必要な妊産婦の方を対象に入院医療費を助成します。",
+  "support": {
+    "description": "医療費等の助成",
+    "materiallySupport": null,
+    "monetarySupport": "医療費等の助成"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "港区に住民登録があり、下記（１）又は（２）に該当する方\n\n（生活保護受給世帯・中国残留邦人等の円滑な帰国の促進及び永住帰国後の自立の支援に関する法律による支援給付受給世帯に属する方を除きます。）\n\n（１）前年分の総所得税額が３０，０００円以下の世帯\n\n（２）（１）以外の方で入院見込み期間が２６日以上の方"
+  },
+  "updateDate": "2022-07-28",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

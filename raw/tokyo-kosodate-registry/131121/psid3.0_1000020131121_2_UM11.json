@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131121;世田谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "世田谷保健所健康推進課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131121",
+    "psid": "psid3.0+1000020131121+2+UM11"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "世田谷保健所健康推進課",
+    "contactPhone": "03-5432-2446",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "「妊娠8か月時面談」(妊娠8か月時アンケート)について\n妊娠7か月を経過されたみなさまに、「妊娠8か月時アンケート」をお送りします。\n妊娠後期を迎える頃は、ご出産や産後の赤ちゃんとの生活に向けた準備を始めるとよい時期です。\n妊娠8か月時アンケートに必ずご回答いただき、ご様子をお知らせください。\nアンケート内容によりご相談が必要な方には、ネウボラ・チームがご連絡し、妊娠8か月時面談をご案内いたします。\nなお、ご回答いただいてから、ネウボラ・チームがご連絡するまで、数週間いただくことがございます。\n急ぎ、妊娠8か月時面談をご希望の方は、妊娠期面接予約システム;https://setagayaneuvola.jp/mensetu/からご予約いただくか、\nお住まいの地域の健康づくり課までご連絡ください。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "妊娠期面接予約システム",
+      "uri": "https://setagayaneuvola.jp/mensetu/"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "各総合支所保健福祉センター健康づくり課"
+  },
+  "institutionName": {
+    "canonicalName": "妊産婦訪問",
+    "shortName": "妊産婦訪問"
+  },
+  "localGovernmentLink": {
+    "title": "ネウボラ面接（妊娠期面接・産後面接）",
+    "uri": "https://www.city.setagaya.lg.jp/mokuji/kodomo/001/001/d00186107.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "世田谷区"
+  },
+  "procedureCounter": "各総合支所保健福祉センター健康づくり課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "アンケート内容によりご相談が必要な方には、ネウボラ・チームがご連絡し、妊娠8か月時面談をご案内いたします。\nなお、ご回答いただいてから、ネウボラ・チームがご連絡するまで、数週間いただくことがございます。\n急ぎ、妊娠8か月時面談をご希望の方は、妊娠期面接予約システム;https://setagayaneuvola.jp/mensetu/からご予約いただくか、\nお住まいの地域の健康づくり課までご連絡ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "妊娠7か月を経過された妊婦の方",
+  "regulation": {
+    "regulationArticle": "第17条（妊産婦の訪問指導等）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "各総合支所保健福祉センター健康づくり課では、「ネウボラ（※）面接」として、妊婦の方への「妊娠期面接」、産婦の方への「産後面接」を実施しています。※「ネウボラ」とは、フィンランド語で『相談・アドバイスの場所』の意味です。",
+  "support": {
+    "description": "妊娠8か月時アンケートに必ずご回答いただき、ご様子をお知らせください。\nアンケート内容によりご相談が必要な方には、ネウボラ・チームがご連絡し、妊娠8か月時面談をご案内いたします。",
+    "materiallySupport": "妊娠8か月時アンケートに必ずご回答いただき、ご様子をお知らせください。\nアンケート内容によりご相談が必要な方には、ネウボラ・チームがご連絡し、妊娠8か月時面談をご案内いたします。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": "妊娠7か月を経過された妊婦の方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": 7
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊娠7か月を経過された妊婦の方"
+  },
+  "updateDate": "2024-03-28",
+  "useConsiderationFlag": false,
+  "utilization": "妊娠7か月を経過されたみなさまに、「妊娠8か月時アンケート」をお送りします。\n妊娠後期を迎える頃は、ご出産や産後の赤ちゃんとの生活に向けた準備を始めるとよい時期です。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

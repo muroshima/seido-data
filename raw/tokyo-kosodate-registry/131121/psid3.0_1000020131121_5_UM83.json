@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131121;世田谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保育認定・調整課認可外保育施設担当（認証）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131121",
+    "psid": "psid3.0+1000020131121+5+UM83"
+  },
+  "belongings": null,
+  "capacity": "直接各施設へ、電話等により空き状況を確認し、ご予約ください。",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保育認定・調整課認可外保育施設担当（認証）",
+    "contactPhone": "03-5432-2324",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "|クラス年齢|利用料金|\n|:----|:----|\n|0歳児|1時間につき900円|\n|1歳児以上|2時間まで1,250円<br>2時間を超え3時間まで1,850円<br>3時間を超え4時間まで2,500円<br>4時間を超えた場合　1時間につき800円|\n\n※このほか、登録料、食事・おやつ代、その他保育に必要な経費がかかる場合があります。\n※各施設に直接お支払いください。",
+  "description": "世田谷区では令和5年4月より、認証保育所の定員の空きを活用した一時預かり事業を実施します。毎日の子育ての気分転換や、美容院や兄弟姉妹の学校行事、カルチャー講座に参加したいなど、保護者の理由に関わらずご利用いただくことができます（利用には事前登録が必要です）。¥n実施施設\nhttps://www.city.setagaya.lg.jp/mokuji/kodomo/003/002/002/d00202365.html¥n利用対象者　\n生後5か月～小学校就学前までの児童（年齢は各施設により異なる）。他の認可保育園や幼稚園と併用いただくことも可能です。¥n利用料金　\n|クラス年齢|利用料金|\n|:----|:----|\n|0歳児|1時間につき900円|\n|1歳児以上|2時間まで1,250円<br>2時間を超え3時間まで1,850円<br>3時間を超え4時間まで2,500円<br>4時間を超えた場合　1時間につき800円|\n\n※このほか、登録料、食事・おやつ代、その他保育に必要な経費がかかる場合があります。\n※各施設に直接お支払いください。¥n利用の流れ\n・直接各施設へ、電話等により空き状況を確認し、ご予約ください。\n・初回のご利用の際は、各施設で事前登録と面談が必要です（1年ごとに更新が必要です）。\n・面談ではお子さんの健康状態の確認や、ご利用の説明を行います。お子さんと一緒にいらしてください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "一時預かり（一時保育）",
+    "shortName": "認証保育所の一時預かり"
+  },
+  "localGovernmentLink": {
+    "title": "認証保育所の一時預かり",
+    "uri": "https://www.city.setagaya.lg.jp/mokuji/kodomo/003/002/002/d00202365.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-07",
+    "updater": "世田谷区"
+  },
+  "procedureCounter": "各施設",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "利用の流れ\n・直接各施設へ、電話等により空き状況を確認し、ご予約ください。\n・初回のご利用の際は、各施設で事前登録と面談が必要です（1年ごとに更新が必要です）。\n・面談ではお子さんの健康状態の確認や、ご利用の説明を行います。お子さんと一緒にいらしてください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第7項、第21条の9、第59条第10号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者のパート就労や病気等による緊急時、育児疲れなどのリフレッシュのために、家庭において保育を受けることが一時的に困難となったお子さんを、保育園、幼稚園、地域子育て支援拠点などで一時的にお預かりしています。",
+  "support": {
+    "description": "毎日の子育ての気分転換や、美容院や兄弟姉妹の学校行事、カルチャー講座に参加したいなど、保護者の理由に関わらずご利用いただくことができます（利用には事前登録が必要です）。¥n実施施設\nhttps://www.city.setagaya.lg.jp/mokuji/kodomo/003/002/002/d00202365.html¥n\n ※空きがある場合のみ利用可能です。施設へお問い合わせください",
+    "materiallySupport": "毎日の子育ての気分転換や、美容院や兄弟姉妹の学校行事、カルチャー講座に参加したいなど、保護者の理由に関わらずご利用いただくことができます（利用には事前登録が必要です）。¥n実施施設\nhttps://www.city.setagaya.lg.jp/mokuji/kodomo/003/002/002/d00202365.html¥n\n ※空きがある場合のみ利用可能です。施設へお問い合わせください",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後5か月～小学校就学前までの児童（年齢は各施設により異なる）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 5
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "利用対象者　\n生後5か月～小学校就学前までの児童（年齢は各施設により異なる）。他の認可保育園や幼稚園と併用いただくことも可能です。"
+  },
+  "updateDate": "2024-05-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

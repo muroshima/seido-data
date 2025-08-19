@@ -1,0 +1,755 @@
+{
+  "area": {
+    "areaCode": "131211;足立区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局子ども家庭部保育・入園課入園第一係～入園第三係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020131211",
+    "psid": "psid3.0+2000020131211+2+UM89"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "教育委員会事務局子ども家庭部保育・入園課入園第一係～入園第三係",
+    "contactPhone": "03-3880-5263",
+    "contactUrl": "https://www.city.adachi.tokyo.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "https://www.city.adachi.tokyo.jp/kodomo-nyuuen/k-kyoiku/kosodate/hoikuen-ichiran.html\nオープンデータ\n本ページに掲載した施設について、オープンデータを提供しています。ご利用ください。\n\nクリエイティブ・コモンズ表示4.0国際ライセンス;https://www.city.adachi.tokyo.jp/shared/system/opendata/images/cc-by/4_0/80x15.png保育施設一覧データ（エクセル：24KB）;https://www.city.adachi.tokyo.jp/documents/2124/00_ninka-hoikushisetu_1.xlsx\n\n関連情報\n認可保育所について;https://www.city.adachi.tokyo.jp/kodomo-unei/k-kyoiku/kosodate/hoikuen-ninka.html\n保育施設募集人数;https://www.city.adachi.tokyo.jp/kodomo-nyuuen/bosyuuninnzuu.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "綾瀬・佐野地域\n※園名をクリックすると保育施設紹介（園からのメッセージや特徴・写真など）がご覧いただけます。\n\n|区分|保育園名（定員）|所在地|電話番号|0歳児|延長|\n|:----|:----|:----|:----|:----|:----|\n|私立|にじいろ保育園綾瀬(79)（PDF：412KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-100.pdf|綾瀬六丁目20番7号|03-5849-3435|産|延\n|私立|トレジャーキッズあやせ(60)（PDF：393KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-097.pdf|綾瀬一丁目29番9号|03-6662-6868|産|延|\n|私立|キッズガーデン足立綾瀬(60)（PDF：397KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-084.pdf|綾瀬四丁目17番4号|03-6802-5390|産|延|\n|私立|ＡＩＡＩ　ＮＵＲＳＥＲＹ　綾瀬六丁目(70)（PDF：432KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-074.pdf|綾瀬六丁目7番13号|03-6802-6705|産|延|\n|私立|西綾瀬りりおっこ（119）※（PDF：387KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-099.pdf|西綾瀬四丁目2番4号|03-3848-4785|産|延|\n|区立|あやせ（130）（PDF：402KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-079.pdf|東綾瀬二丁目9番18号|03-3628-5660|産|延|\n|私立|足立若葉（96）（PDF：397KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-077.pdf|東綾瀬一丁目16番21号|03-3620-1592|\n産|延|\n|私立|東部若葉（122）（PDF：415KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-095.pdf|東綾瀬一丁目25番23号|03-5613-0230|産|延|\n|私立|恵・YOU（69）（PDF：409KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-085.pdf|東綾瀬一丁目9番4号プラザ白うめ|03-5697-2597|産|延|\n|区立|東綾瀬（133）（PDF：433KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-101.pdf|東綾瀬二丁目12番13号|03-3606-8811|満6|延|\n|私立|東綾瀬きらきら（100）（PDF：415KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-102.pdf|東綾瀬二丁目17番8号|03-5682-2620|産|延|\n|私立|あやせババール園（80）（PDF：398KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-080.pdf|東綾瀬三丁目9番1号|03-5613-8851|産|延|\n|私立|チェリッシュ綾瀬（66）（PDF：390KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-093.pdf|綾瀬三丁目13番1号|03-3628-7667|産|延|\n|私立|東和（100）（PDF：394KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-096.pdf|東和一丁目11番7号|03-3620-5525|産|延|\n|私立|HOPPA東和親水(60)（PDF：383KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-103.pdf|東和二丁目26番9号|03-6802-5291|産|延|\n|私立|コンビプラザ東和三丁目（28）※（PDF：408KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-086.pdf|東和三丁目13番1号|03-5613-8070|産|延|\n|私立|聖母のさゆり（74）（PDF：488KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-089.pdf|東和四丁目10番9号|03-3620-5309|-|延|\n|私立|ソラストあだち東和（63）（PDF：392KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-090.pdf|東和四丁目12番5号|03-5849-3676|産|延|\n|私立|東（100）（PDF：403KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-078.pdf|東和五丁目5番23号|03-3629-6213|産|延|\n|私立|北綾瀬聖華(140)（PDF：385KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-083.pdf|谷中一丁目32番9号|03-3605-2688|産|延|\n|私立|チェリー（100）（PDF：393KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-092.pdf|谷中二丁目16番16号|03-3606-1212|産|\n延|\n|私立| A I A I   N U R S E R Y  北綾瀬（60）（PDF：404KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-075.pdf|谷中四丁目12番7号|03-5849-3404\t|産|延|\n私立|チェリッシュナーサリースクールやなか（70）（PDF：412KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-094.pdf|谷中四丁目20番15号|03-5849-5945|産|延|\n|私立|隅田学園（131）（PDF：404KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-088.pdf|中川四丁目37番22号|03-3606-3388|産|延|\n|区立|大谷田第一（126）（PDF：403KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-081.pdf|大谷田一丁目1番5-101号|03-3629-0245|満6|延|\n|私立|ナーサリースクールいずみ大谷田（114）※（PDF：438KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-098.pdf|大谷田一丁目1番9-101号|03-3629-0246|産|延|\n|私立|足立北綾瀬雲母(60)（PDF：391KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-076.pdf|大谷田五丁目26番19号|03-5697-8101|産|延\n|区立|辰沼（107）（PDF：431KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-091.pdf|辰沼一丁目2番7-101号|03-3605-2806|-|-|\n|区立|六木（102）（PDF：423KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-105.pdf|六木一丁目5番10-101号|03-3605-2709|-|-|\n|私立|神明町（100）（PDF：390KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-087.pdf|神明二丁目10番4号|03-3605-2737|産|延|\n|私立|きたあやせこころ(97)（PDF：390KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-082.pdf|加平三丁目12番8号|03-5849-5431|産|延|\n|私立|未来っ子保育園北加平町園(66)（PDF：387KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-104.pdf|北加平町5番2号|03-6802-5621\t|産|延|\n\n保塚・六町・花畑・保木間・竹の塚地域\n※園名をクリックすると保育施設紹介（園からのメッセージや特徴・写真など）がご覧いただけます。\n\n|区分|保育園名（定員）|所在地|電話番号|0歳児|延長|\n|:----|:----|:----|:----|:----|:----|\n|私立|六町あづま（123）（PDF：392KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-132.pdf|南花畑一丁目13番4号|03-5242-4400|産|延|\n|区立|東花畑（85）（PDF：430KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-123.pdf|南花畑四丁目11番6-101号|03-3885-6924|\n|私立|六町（100）（PDF：419KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-131.pdf|南花畑二丁目25番11号|03-5831-5868|産|延|\n|区立|北保木間（75）（PDF：402KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-108.pdf|南花畑五丁目15番3-101号|03-3883-2424|-|\n|私立|たんぽぽ保育所第二六町園(76)（PDF：390KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-116.pdf|六町二丁目7番32号|03-5851-1155|産|延|\n|私立|たんぽぽ保育所六町園（70）（PDF：417KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-117.pdf|六町三丁目7番47号\nフェルックス1F|03-5851-2510|産|延|\n|私立|レイモンド花畑（170）（PDF：411KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-130.pdf|花畑三丁目42番8号|03-5831-5957|産|延|\n|区立|花畑桑袋（66）（PDF：449KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-121.pdf|花畑八丁目5番15-101号|03-3850-2538|-|-|\n|区立|保木間（141）（PDF：400KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-127.pdf|保木間三丁目25番9号|03-3850-3932|満6|-|\n|私立|まなびの森保育園竹ノ塚（80）（PDF：391KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-128.pdf|保木間四丁目26番10号|03-5856-5285|産|延|\n|区立|南保木間（80）（PDF：415KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-129.pdf|東保木間一丁目5番16-101号|03-3883-9171|-|-|\n|私立|愛隣（30）（PDF：389KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-106.pdf|東保木間一丁目10番16号|03-3883-2233|-|延|\n|公設民営|東保木間（102）（PDF：427KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-124.pdf|東保木間一丁目25番2-101号|03-3858-4401|産|延|\n|私立|東栗原（73）※（PDF：398KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-122.pdf|一ツ家二丁目15番14-101号|03-3884-1467|-|延|\n|私立|クレアナーサリー足立さくら園（73）（PDF：392KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-111.pdf|一ツ家三丁目4番4号|03-5856-6608|産|延|\n|私立|明日葉保育園保塚園（60）（PDF：408KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-107.pdf|保塚町8番26号|03-5809-6952|産|延|\n|区立|平野（91）（PDF：390KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-125.pdf|平野三丁目18番1-101号|03-3850-2549|-|-|\n|私立|栗原つくし（140）（PDF：384KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-110.pdf|栗原一丁目14番18号|03-3885-3878|産|延|\n|区立|中島根（141）（PDF：426KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-118.pdf|島根二丁目33番2号|03-3850-4078|満6|-|\n|私立|キッズガーデン足立島根(60)（PDF：391KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-109.pdf|島根四丁目3番6号|03-5851-8646|産|延|\n|私立|島根いちい（110）（PDF：416KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-112.pdf|島根四丁目26番7号|03-3884-4370|産|延|\n|私立|渕江（37）（PDF：428KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-126.pdf|竹の塚二丁目9番3号|03-3858-7533|-|延|\n|公設民営|竹の塚（130）※（PDF：389KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-114.pdf|竹の塚三丁目7番33-106号|03-3884-4711|-|延|\n|公設民営|竹の塚北(117)（PDF：450KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-115.pdf|竹の塚六丁目18番2号|03-3884-5900|産|延|\n|区立|西保木間（84）（PDF：430KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-119.pdf|西保木間二丁目17番5-101号|03-3883-4100|-|-|\n|公設民営|水神橋（101）（PDF：402KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-113.pdf|西保木間四丁目12番4号|03-3883-2906|産|延|\n|私立|野のはな(77)（PDF：390KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-120.pdf|西加平一丁目1番5号|03-3885-0081|産|延|\n|私立|六町駅前(90)（PDF：394KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-133.pdf|西加平二丁目6番2号　タカボシビル2F|03-3858-0606\t|産|延|\n\n伊興・西新井・鹿浜・舎人地域\n※園名をクリックすると保育施設紹介（園からのメッセージや特徴・写真など）がご覧いただけます。\n\n|区分|保育園名（定員）|所在地|電話番号|0歳児|延長|\n|:----|:----|:----|:----|:----|:----|\n|私立|伊興すみれ(147)（PDF：403KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-142.pdf|東伊興三丁目3番4号|03-3890-8133|産|延|\n|私立|ソラストたけのつか (87)※（PDF：390KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-150.pdf|東伊興三丁目10番31号|03-6807-1295|産|延|\n|区立|伊興（108）（PDF：404KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-140.pdf|伊興四丁目11番25号|03-3897-2801|満6|-|\n|公設民営|伊興大境（106）（PDF：409KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-141.pdf|西竹の塚一丁目10番5-101号|03-3857-2531|産|延|\n|私立|くりはら愛育(102)（PDF：382KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-147.pdf|栗原四丁目6番7号|03-3896-5155|産|延|\n|私立|西新井（129）（PDF：402KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-153.pdf|西新井二丁目21番2号|03-3898-4291|産|延|\n|私立|うぃず西新井（85）（PDF：386KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-145.pdf|西新井三丁目13番15号|03-5647-8361|産|延|\n|私立|清水（80）（PDF：424KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-149.pdf|西新井四丁目2番1号|03-3899-8040|産|延|\n|私立|アスク西新井(70)（PDF：389KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-138.pdf|西新井四丁目18番7号|03-5647-8227|産|延|\n|私立|i-（アイ）（100）（PDF：416KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-134.pdf|西新井四丁目28番7号|03-3855-4420|-|延|\n|私立|愛恵保育園にしあらい(73)（PDF：459KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-135.pdf|西新井六丁目26番11号|03-3898-3715|産|延|\n|私立|足立このみ(140)（PDF：399KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-139.pdf|江北六丁目29番9号|03-3896-2044|産|延|\n|区立|第三上沼田（90）※（PDF：428KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-151.pdf|江北七丁目12番3-101号|03-3896-3161|-|-|\n|私立|太陽（108）（PDF：392KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-152.pdf|鹿浜五丁目28番18号|03-3853-7085|産|延|\n|私立|SAKURA保育園谷在家(100)（PDF：396KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-148.pdf|谷在家二丁目14番13号|03-5647-9336|産|延|\n|公設民営|谷在家（95）（PDF：392KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-155.pdf|谷在家三丁目22番10-101号|03-3897-5881|-|延|\n|区立|加賀（102）（PDF：395KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-146.pdf|加賀二丁目31番5-101号|03-3853-5782|満6|-|\n|私立|聖（100）（PDF：434KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-154.pdf|舎人一丁目3番13号|03-3857-0223|産|延|\n|私立|アスク舎人駅前（80）（PDF：446KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-137.pdf|舎人一丁目13番4号|03-5647-5050|産|延|\n|私立|アスクとねり(65)（PDF：411KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-136.pdf|舎人五丁目1番3号|03-5647-0035|産|延|\n|区立|いりや第一（80）（PDF：418KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-143.pdf|舎人六丁目12番5-101号|03-3855-1066|-|-|\n|区立|いりや第二（80）（PDF：396KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-144.pdf|舎人六丁目11番2-101号|03-3855-1067|-|-|",
+    "implementationName": "綾瀬・佐野地域\n※園名をクリックすると保育施設紹介（園からのメッセージや特徴・写真など）がご覧いただけます。\n\n|区分|保育園名（定員）|所在地|電話番号|0歳児|延長|\n|:----|:----|:----|:----|:----|:----|\n|私立|にじいろ保育園綾瀬(79)（PDF：412KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-100.pdf|綾瀬六丁目20番7号|03-5849-3435|産|延\n|私立|トレジャーキッズあやせ(60)（PDF：393KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-097.pdf|綾瀬一丁目29番9号|03-6662-6868|産|延|\n|私立|キッズガーデン足立綾瀬(60)（PDF：397KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-084.pdf|綾瀬四丁目17番4号|03-6802-5390|産|延|\n|私立|ＡＩＡＩ　ＮＵＲＳＥＲＹ　綾瀬六丁目(70)（PDF：432KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-074.pdf|綾瀬六丁目7番13号|03-6802-6705|産|延|\n|私立|西綾瀬りりおっこ（119）※（PDF：387KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-099.pdf|西綾瀬四丁目2番4号|03-3848-4785|産|延|\n|区立|あやせ（130）（PDF：402KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-079.pdf|東綾瀬二丁目9番18号|03-3628-5660|産|延|\n|私立|足立若葉（96）（PDF：397KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-077.pdf|東綾瀬一丁目16番21号|03-3620-1592|\n産|延|\n|私立|東部若葉（122）（PDF：415KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-095.pdf|東綾瀬一丁目25番23号|03-5613-0230|産|延|\n|私立|恵・YOU（69）（PDF：409KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-085.pdf|東綾瀬一丁目9番4号プラザ白うめ|03-5697-2597|産|延|\n|区立|東綾瀬（133）（PDF：433KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-101.pdf|東綾瀬二丁目12番13号|03-3606-8811|満6|延|\n|私立|東綾瀬きらきら（100）（PDF：415KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-102.pdf|東綾瀬二丁目17番8号|03-5682-2620|産|延|\n|私立|あやせババール園（80）（PDF：398KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-080.pdf|東綾瀬三丁目9番1号|03-5613-8851|産|延|\n|私立|チェリッシュ綾瀬（66）（PDF：390KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-093.pdf|綾瀬三丁目13番1号|03-3628-7667|産|延|\n|私立|東和（100）（PDF：394KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-096.pdf|東和一丁目11番7号|03-3620-5525|産|延|\n|私立|HOPPA東和親水(60)（PDF：383KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-103.pdf|東和二丁目26番9号|03-6802-5291|産|延|\n|私立|コンビプラザ東和三丁目（28）※（PDF：408KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-086.pdf|東和三丁目13番1号|03-5613-8070|産|延|\n|私立|聖母のさゆり（74）（PDF：488KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-089.pdf|東和四丁目10番9号|03-3620-5309|-|延|\n|私立|ソラストあだち東和（63）（PDF：392KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-090.pdf|東和四丁目12番5号|03-5849-3676|産|延|\n|私立|東（100）（PDF：403KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-078.pdf|東和五丁目5番23号|03-3629-6213|産|延|\n|私立|北綾瀬聖華(140)（PDF：385KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-083.pdf|谷中一丁目32番9号|03-3605-2688|産|延|\n|私立|チェリー（100）（PDF：393KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-092.pdf|谷中二丁目16番16号|03-3606-1212|産|\n延|\n|私立| A I A I   N U R S E R Y  北綾瀬（60）（PDF：404KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-075.pdf|谷中四丁目12番7号|03-5849-3404\t|産|延|\n私立|チェリッシュナーサリースクールやなか（70）（PDF：412KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-094.pdf|谷中四丁目20番15号|03-5849-5945|産|延|\n|私立|隅田学園（131）（PDF：404KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-088.pdf|中川四丁目37番22号|03-3606-3388|産|延|\n|区立|大谷田第一（126）（PDF：403KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-081.pdf|大谷田一丁目1番5-101号|03-3629-0245|満6|延|\n|私立|ナーサリースクールいずみ大谷田（114）※（PDF：438KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-098.pdf|大谷田一丁目1番9-101号|03-3629-0246|産|延|\n|私立|足立北綾瀬雲母(60)（PDF：391KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-076.pdf|大谷田五丁目26番19号|03-5697-8101|産|延\n|区立|辰沼（107）（PDF：431KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-091.pdf|辰沼一丁目2番7-101号|03-3605-2806|-|-|\n|区立|六木（102）（PDF：423KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-105.pdf|六木一丁目5番10-101号|03-3605-2709|-|-|\n|私立|神明町（100）（PDF：390KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-087.pdf|神明二丁目10番4号|03-3605-2737|産|延|\n|私立|きたあやせこころ(97)（PDF：390KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-082.pdf|加平三丁目12番8号|03-5849-5431|産|延|\n|私立|未来っ子保育園北加平町園(66)（PDF：387KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-104.pdf|北加平町5番2号|03-6802-5621\t|産|延|\n\n保塚・六町・花畑・保木間・竹の塚地域\n※園名をクリックすると保育施設紹介（園からのメッセージや特徴・写真など）がご覧いただけます。\n\n|区分|保育園名（定員）|所在地|電話番号|0歳児|延長|\n|:----|:----|:----|:----|:----|:----|\n|私立|六町あづま（123）（PDF：392KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-132.pdf|南花畑一丁目13番4号|03-5242-4400|産|延|\n|区立|東花畑（85）（PDF：430KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-123.pdf|南花畑四丁目11番6-101号|03-3885-6924|\n|私立|六町（100）（PDF：419KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-131.pdf|南花畑二丁目25番11号|03-5831-5868|産|延|\n|区立|北保木間（75）（PDF：402KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-108.pdf|南花畑五丁目15番3-101号|03-3883-2424|-|\n|私立|たんぽぽ保育所第二六町園(76)（PDF：390KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-116.pdf|六町二丁目7番32号|03-5851-1155|産|延|\n|私立|たんぽぽ保育所六町園（70）（PDF：417KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-117.pdf|六町三丁目7番47号\nフェルックス1F|03-5851-2510|産|延|\n|私立|レイモンド花畑（170）（PDF：411KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-130.pdf|花畑三丁目42番8号|03-5831-5957|産|延|\n|区立|花畑桑袋（66）（PDF：449KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-121.pdf|花畑八丁目5番15-101号|03-3850-2538|-|-|\n|区立|保木間（141）（PDF：400KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-127.pdf|保木間三丁目25番9号|03-3850-3932|満6|-|\n|私立|まなびの森保育園竹ノ塚（80）（PDF：391KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-128.pdf|保木間四丁目26番10号|03-5856-5285|産|延|\n|区立|南保木間（80）（PDF：415KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-129.pdf|東保木間一丁目5番16-101号|03-3883-9171|-|-|\n|私立|愛隣（30）（PDF：389KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-106.pdf|東保木間一丁目10番16号|03-3883-2233|-|延|\n|公設民営|東保木間（102）（PDF：427KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-124.pdf|東保木間一丁目25番2-101号|03-3858-4401|産|延|\n|私立|東栗原（73）※（PDF：398KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-122.pdf|一ツ家二丁目15番14-101号|03-3884-1467|-|延|\n|私立|クレアナーサリー足立さくら園（73）（PDF：392KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-111.pdf|一ツ家三丁目4番4号|03-5856-6608|産|延|\n|私立|明日葉保育園保塚園（60）（PDF：408KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-107.pdf|保塚町8番26号|03-5809-6952|産|延|\n|区立|平野（91）（PDF：390KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-125.pdf|平野三丁目18番1-101号|03-3850-2549|-|-|\n|私立|栗原つくし（140）（PDF：384KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-110.pdf|栗原一丁目14番18号|03-3885-3878|産|延|\n|区立|中島根（141）（PDF：426KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-118.pdf|島根二丁目33番2号|03-3850-4078|満6|-|\n|私立|キッズガーデン足立島根(60)（PDF：391KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-109.pdf|島根四丁目3番6号|03-5851-8646|産|延|\n|私立|島根いちい（110）（PDF：416KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-112.pdf|島根四丁目26番7号|03-3884-4370|産|延|\n|私立|渕江（37）（PDF：428KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-126.pdf|竹の塚二丁目9番3号|03-3858-7533|-|延|\n|公設民営|竹の塚（130）※（PDF：389KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-114.pdf|竹の塚三丁目7番33-106号|03-3884-4711|-|延|\n|公設民営|竹の塚北(117)（PDF：450KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-115.pdf|竹の塚六丁目18番2号|03-3884-5900|産|延|\n|区立|西保木間（84）（PDF：430KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-119.pdf|西保木間二丁目17番5-101号|03-3883-4100|-|-|\n|公設民営|水神橋（101）（PDF：402KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-113.pdf|西保木間四丁目12番4号|03-3883-2906|産|延|\n|私立|野のはな(77)（PDF：390KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-120.pdf|西加平一丁目1番5号|03-3885-0081|産|延|\n|私立|六町駅前(90)（PDF：394KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-133.pdf|西加平二丁目6番2号　タカボシビル2F|03-3858-0606\t|産|延|\n\n伊興・西新井・鹿浜・舎人地域\n※園名をクリックすると保育施設紹介（園からのメッセージや特徴・写真など）がご覧いただけます。\n\n|区分|保育園名（定員）|所在地|電話番号|0歳児|延長|\n|:----|:----|:----|:----|:----|:----|\n|私立|伊興すみれ(147)（PDF：403KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-142.pdf|東伊興三丁目3番4号|03-3890-8133|産|延|\n|私立|ソラストたけのつか (87)※（PDF：390KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-150.pdf|東伊興三丁目10番31号|03-6807-1295|産|延|\n|区立|伊興（108）（PDF：404KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-140.pdf|伊興四丁目11番25号|03-3897-2801|満6|-|\n|公設民営|伊興大境（106）（PDF：409KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-141.pdf|西竹の塚一丁目10番5-101号|03-3857-2531|産|延|\n|私立|くりはら愛育(102)（PDF：382KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-147.pdf|栗原四丁目6番7号|03-3896-5155|産|延|\n|私立|西新井（129）（PDF：402KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-153.pdf|西新井二丁目21番2号|03-3898-4291|産|延|\n|私立|うぃず西新井（85）（PDF：386KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-145.pdf|西新井三丁目13番15号|03-5647-8361|産|延|\n|私立|清水（80）（PDF：424KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-149.pdf|西新井四丁目2番1号|03-3899-8040|産|延|\n|私立|アスク西新井(70)（PDF：389KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-138.pdf|西新井四丁目18番7号|03-5647-8227|産|延|\n|私立|i-（アイ）（100）（PDF：416KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-134.pdf|西新井四丁目28番7号|03-3855-4420|-|延|\n|私立|愛恵保育園にしあらい(73)（PDF：459KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-135.pdf|西新井六丁目26番11号|03-3898-3715|産|延|\n|私立|足立このみ(140)（PDF：399KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-139.pdf|江北六丁目29番9号|03-3896-2044|産|延|\n|区立|第三上沼田（90）※（PDF：428KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-151.pdf|江北七丁目12番3-101号|03-3896-3161|-|-|\n|私立|太陽（108）（PDF：392KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-152.pdf|鹿浜五丁目28番18号|03-3853-7085|産|延|\n|私立|SAKURA保育園谷在家(100)（PDF：396KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-148.pdf|谷在家二丁目14番13号|03-5647-9336|産|延|\n|公設民営|谷在家（95）（PDF：392KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-155.pdf|谷在家三丁目22番10-101号|03-3897-5881|-|延|\n|区立|加賀（102）（PDF：395KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-146.pdf|加賀二丁目31番5-101号|03-3853-5782|満6|-|\n|私立|聖（100）（PDF：434KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-154.pdf|舎人一丁目3番13号|03-3857-0223|産|延|\n|私立|アスク舎人駅前（80）（PDF：446KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-137.pdf|舎人一丁目13番4号|03-5647-5050|産|延|\n|私立|アスクとねり(65)（PDF：411KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-136.pdf|舎人五丁目1番3号|03-5647-0035|産|延|\n|区立|いりや第一（80）（PDF：418KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-143.pdf|舎人六丁目12番5-101号|03-3855-1066|-|-|\n|区立|いりや第二（80）（PDF：396KB）;https://www.city.adachi.tokyo.jp/documents/2124/ninka-144.pdf|舎人六丁目11番2-101号|03-3855-1067|-|-|"
+  },
+  "institutionName": {
+    "canonicalName": "認可保育所・認定こども園（保育園枠）一覧",
+    "shortName": "認可保育所一覧"
+  },
+  "localGovernmentLink": {
+    "title": "認可保育所一覧",
+    "uri": "https://www.city.adachi.tokyo.jp/kodomo-nyuuen/k-kyoiku/kosodate/hoikuen-ichiran.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "足立区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "梅田（107）（PDF：405KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-062.pdf"
+    },
+    {
+      "title": "ＡＩＡＩ　ＮＵＲＳＥＲＹ　綾瀬六丁目(70)（PDF：432KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-074.pdf"
+    },
+    {
+      "title": "キッズガーデン足立綾瀬(60)（PDF：397KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-084.pdf"
+    },
+    {
+      "title": "くりはら愛育(102)（PDF：382KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-147.pdf"
+    },
+    {
+      "title": "親隣館（40）（PDF：411KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-071.pdf"
+    },
+    {
+      "title": "野のはな(77)（PDF：390KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-120.pdf"
+    },
+    {
+      "title": "SAKURA保育園谷在家(100)（PDF：396KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-148.pdf"
+    },
+    {
+      "title": "トレジャーキッズあやせ(60)（PDF：393KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-097.pdf"
+    },
+    {
+      "title": "クレアナーサリー千住大橋（60）（PDF：390KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-010.pdf"
+    },
+    {
+      "title": "ミアヘルサ保育園ひびき梅島(70)（PDF：395KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-056.pdf"
+    },
+    {
+      "title": "水神橋（101）（PDF：402KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-113.pdf"
+    },
+    {
+      "title": "にじいろ保育園綾瀬(79)（PDF：412KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-100.pdf"
+    },
+    {
+      "title": "聖華こうどう(132)（PDF：449KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-063.pdf"
+    },
+    {
+      "title": "エーワン梅島(60)（PDF：417KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-069.pdf"
+    },
+    {
+      "title": "西保木間（84）（PDF：430KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-119.pdf"
+    },
+    {
+      "title": "明日葉保育園青井園（65）（PDF：394KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-049.pdf"
+    },
+    {
+      "title": "千住（105）（PDF：444KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-013.pdf"
+    },
+    {
+      "title": "うぃず西新井（85）（PDF：386KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-145.pdf"
+    },
+    {
+      "title": "にじいろ保育園梅島(73)（PDF：419KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-070.pdf"
+    },
+    {
+      "title": "青井（102）（PDF：403KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-047.pdf"
+    },
+    {
+      "title": "大空と大地のなーさりぃ扇大橋園（80）（PDF：390KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-025.pdf"
+    },
+    {
+      "title": "アスク千住（50）（PDF：390KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-002.pdf"
+    },
+    {
+      "title": "バンビ保育園梅島園(65)（PDF：399KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-055.pdf"
+    },
+    {
+      "title": "キッズガーデン足立青井（73）（PDF：432KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-057.pdf"
+    },
+    {
+      "title": "日ノ出町（159）（PDF：424KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-017.pdf"
+    },
+    {
+      "title": "青井おひさま（28）※（PDF：394KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-048.pdf"
+    },
+    {
+      "title": "うめだ「子供の家」（132）（PDF：388KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-061.pdf"
+    },
+    {
+      "title": "新田わかば（87）（PDF：425KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-038.pdf"
+    },
+    {
+      "title": "中央本町（116）（PDF：408KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-050.pdf"
+    },
+    {
+      "title": "島根（109）（PDF：398KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-072.pdf"
+    },
+    {
+      "title": "江北すきっぷ（60)（PDF：393KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-032.pdf"
+    },
+    {
+      "title": "足立梅島雲母(59)（PDF：397KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-066.pdf"
+    },
+    {
+      "title": "まなびの森保育園関屋(80)（PDF：449KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-018.pdf"
+    },
+    {
+      "title": "足立さくらんぼ(71)（PDF：390KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-051.pdf"
+    },
+    {
+      "title": "ミアヘルサ保育園ひびき西新井（80）（PDF：390KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-059.pdf"
+    },
+    {
+      "title": "西新井（129）（PDF：402KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-153.pdf"
+    },
+    {
+      "title": "うぃず千住曙町（80）（PDF：429KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-003.pdf"
+    },
+    {
+      "title": "五反野（135）（PDF：415KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-060.pdf"
+    },
+    {
+      "title": "竹の塚北(117)（PDF：450KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-115.pdf"
+    },
+    {
+      "title": "やよい（100）（PDF：398KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-073.pdf"
+    },
+    {
+      "title": "子ひばり（60）（PDF：395KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-058.pdf"
+    },
+    {
+      "title": "竹の塚（130）※（PDF：389KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-114.pdf"
+    },
+    {
+      "title": "アスク舎人駅前（80）（PDF：446KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-137.pdf"
+    },
+    {
+      "title": "渕江（37）（PDF：428KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-126.pdf"
+    },
+    {
+      "title": "島根いちい（110）（PDF：416KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-112.pdf"
+    },
+    {
+      "title": "キッズガーデン足立島根(60)（PDF：391KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-109.pdf"
+    },
+    {
+      "title": "西新井教会（60）（PDF：395KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-039.pdf"
+    },
+    {
+      "title": "保育園ヴィラ・ココロット（60）（PDF：398KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-042.pdf"
+    },
+    {
+      "title": "中島根（141）（PDF：426KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-118.pdf"
+    },
+    {
+      "title": "太陽（108）（PDF：392KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-152.pdf"
+    },
+    {
+      "title": "栗原つくし（140）（PDF：384KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-110.pdf"
+    },
+    {
+      "title": "平野（91）（PDF：390KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-125.pdf"
+    },
+    {
+      "title": "西新井聖華(150)（PDF：388KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-040.pdf"
+    },
+    {
+      "title": "新田（97）（PDF：425KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-035.pdf"
+    },
+    {
+      "title": "アスクとねり(65)（PDF：411KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-136.pdf"
+    },
+    {
+      "title": "明日葉保育園保塚園（60）（PDF：408KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-107.pdf"
+    },
+    {
+      "title": "クレアナーサリー足立さくら園（73）（PDF：392KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-111.pdf"
+    },
+    {
+      "title": "東栗原（73）※（PDF：398KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-122.pdf"
+    },
+    {
+      "title": "東保木間（102）（PDF：427KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-124.pdf"
+    },
+    {
+      "title": "興野（100）（PDF：404KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-026.pdf"
+    },
+    {
+      "title": "江北（100）（PDF：424KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-031.pdf"
+    },
+    {
+      "title": "新田さくら（67）（PDF：400KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-037.pdf"
+    },
+    {
+      "title": "愛隣（30）（PDF：389KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-106.pdf"
+    },
+    {
+      "title": "南保木間（80）（PDF：415KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-129.pdf"
+    },
+    {
+      "title": "まなびの森保育園竹ノ塚（80）（PDF：391KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-128.pdf"
+    },
+    {
+      "title": "第三上沼田（90）※（PDF：428KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-151.pdf"
+    },
+    {
+      "title": "保木間（141）（PDF：400KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-127.pdf"
+    },
+    {
+      "title": "興本（109）（PDF：388KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-027.pdf"
+    },
+    {
+      "title": "三星（104）（PDF：420KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-043.pdf"
+    },
+    {
+      "title": "いりや第一（80）（PDF：418KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-143.pdf"
+    },
+    {
+      "title": "花畑桑袋（66）（PDF：449KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-121.pdf"
+    },
+    {
+      "title": "千住あずま（146）（PDF：406KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-014.pdf"
+    },
+    {
+      "title": "レイモンド花畑（170）（PDF：411KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-130.pdf"
+    },
+    {
+      "title": "たんぽぽ保育所六町園（70）（PDF：417KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-117.pdf"
+    },
+    {
+      "title": "たんぽぽ保育所第二六町園(76)（PDF：390KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-116.pdf"
+    },
+    {
+      "title": "興本（109）（PDF：388KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-030.pdf"
+    },
+    {
+      "title": "谷在家（95）（PDF：392KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-155.pdf"
+    },
+    {
+      "title": "宮城（50）（PDF：478KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-044.pdf"
+    },
+    {
+      "title": "北保木間（75）（PDF：402KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-108.pdf"
+    },
+    {
+      "title": "六町（100）（PDF：419KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-131.pdf"
+    },
+    {
+      "title": "東花畑（85）（PDF：430KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-123.pdf"
+    },
+    {
+      "title": "六町あづま（123）（PDF：392KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-132.pdf"
+    },
+    {
+      "title": "足立このみ(140)（PDF：399KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-139.pdf"
+    },
+    {
+      "title": "伊興大境（106）（PDF：409KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-141.pdf"
+    },
+    {
+      "title": "キッズガーデン足立興野(73)（PDF：387KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-024.pdf"
+    },
+    {
+      "title": "北千住太陽(95)（PDF：403KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-006.pdf"
+    },
+    {
+      "title": "ココロット（80）（PDF：384KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-033.pdf"
+    },
+    {
+      "title": "未来っ子保育園北加平町園(66)（PDF：387KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-104.pdf"
+    },
+    {
+      "title": "足立しらゆり（67）（PDF：405KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-023.pdf"
+    },
+    {
+      "title": "いりや第二（80）（PDF：396KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-144.pdf"
+    },
+    {
+      "title": "きたあやせこころ(97)（PDF：390KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-082.pdf"
+    },
+    {
+      "title": "神明町（100）（PDF：390KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-087.pdf"
+    },
+    {
+      "title": "六木（102）（PDF：423KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-105.pdf"
+    },
+    {
+      "title": "辰沼（107）（PDF：431KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-091.pdf"
+    },
+    {
+      "title": "扇こころ（109）（PDF：380KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-029.pdf"
+    },
+    {
+      "title": "足立北綾瀬雲母(60)（PDF：391KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-076.pdf"
+    },
+    {
+      "title": "キッズガーデン足立柳原(60)（PDF：410KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-009.pdf"
+    },
+    {
+      "title": "ナーサリースクールいずみ大谷田（114）※（PDF：438KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-098.pdf"
+    },
+    {
+      "title": "大谷田第一（126）（PDF：403KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-081.pdf"
+    },
+    {
+      "title": "隅田学園（131）（PDF：404KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-088.pdf"
+    },
+    {
+      "title": "キッズガーデン足立扇(60)（PDF：407KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-021.pdf"
+    },
+    {
+      "title": "愛恵保育園にしあらい(73)（PDF：459KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-135.pdf"
+    },
+    {
+      "title": "保育施設一覧データ（エクセル：24KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/00_ninka-hoikushisetu_1.xlsx"
+    },
+    {
+      "title": "たんぽぽ保育所北千住園(67)（PDF：381KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-015.pdf"
+    },
+    {
+      "title": "チェリッシュナーサリースクールやなか（70）（PDF：412KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-094.pdf"
+    },
+    {
+      "title": "ＡＩＡＩ　ＮＵＲＳＥＲＹ　高野(60)（PDF：419KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-022.pdf"
+    },
+    {
+      "title": "チェリー（100）（PDF：393KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-075.pdf"
+    },
+    {
+      "title": "上沼田（131）（PDF：446KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-028.pdf"
+    },
+    {
+      "title": "北千住こども園(60)（PDF：397KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-005.pdf"
+    },
+    {
+      "title": "A I A I   N U R S E R Y  北綾瀬（60）（PDF：404KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-092.pdf"
+    },
+    {
+      "title": "アスク扇(80)（PDF：450KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-045.pdf"
+    },
+    {
+      "title": "北綾瀬聖華(140)（PDF：385KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-083.pdf"
+    },
+    {
+      "title": "i-（アイ）（100）（PDF：416KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-134.pdf"
+    },
+    {
+      "title": "認可保育所について",
+      "uri": "https://www.city.adachi.tokyo.jp/kodomo-unei/k-kyoiku/kosodate/hoikuen-ninka.html"
+    },
+    {
+      "title": "東（100）（PDF：403KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-078.pdf"
+    },
+    {
+      "title": "せきや（75）（PDF：390KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-012.pdf"
+    },
+    {
+      "title": "本木（107）（PDF：408KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-046.pdf"
+    },
+    {
+      "title": "北千住どろんこ（90）（PDF：404KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-007.pdf"
+    },
+    {
+      "title": "ステラ千住ふたば保育園(90)（PDF：385KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-011.pdf"
+    },
+    {
+      "title": "ソラストあだち東和（63）（PDF：392KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-090.pdf"
+    },
+    {
+      "title": "聖母のさゆり（74）（PDF：488KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-089.pdf"
+    },
+    {
+      "title": "コンビプラザ東和三丁目（28）※（PDF：408KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-086.pdf"
+    },
+    {
+      "title": "本木東（117）（PDF：401KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-053.pdf"
+    },
+    {
+      "title": "聖（100）（PDF：434KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-154.pdf"
+    },
+    {
+      "title": "帝京科学大学千住桜木（132)（PDF：390KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-016.pdf"
+    },
+    {
+      "title": "保育施設募集人数\n",
+      "uri": "https://www.city.adachi.tokyo.jp/kodomo-nyuuen/bosyuuninnzuu.html"
+    },
+    {
+      "title": "東和（100）（PDF：394KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-103.pdf"
+    },
+    {
+      "title": "HOPPA東和親水(60)（PDF：383KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-096.pdf"
+    },
+    {
+      "title": "いづみ（30）（PDF：401KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-052.pdf"
+    },
+    {
+      "title": "さつき（100）（PDF：400KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-034.pdf"
+    },
+    {
+      "title": "チェリッシュ綾瀬（66）（PDF：390KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-093.pdf"
+    },
+    {
+      "title": "アスク西新井(70)（PDF：389KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-138.pdf"
+    },
+    {
+      "title": "足立ひまわり（110）（PDF：383KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-068.pdf"
+    },
+    {
+      "title": "ソラストたけのつか (87)※（PDF：390KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-150.pdf"
+    },
+    {
+      "title": "あやせババール園（80）（PDF：398KB）",
+      "uri": ";https://www.city.adachi.tokyo.jp/documents/2124/ninka-080.pdf"
+    },
+    {
+      "title": "伊興すみれ(147)（PDF：403KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-142.pdf"
+    },
+    {
+      "title": "まなびの森保育園千住大橋（80）（PDF：391KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-019.pdf"
+    },
+    {
+      "title": "北千住もみじの森（80）（PDF：384KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-008.pdf"
+    },
+    {
+      "title": "西新井きらきら（70）※（PDF：396KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-065.pdf"
+    },
+    {
+      "title": "新田おひさま（61）（PDF：414KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-036.pdf"
+    },
+    {
+      "title": "東綾瀬きらきら（100）（PDF：415KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-102.pdf"
+    },
+    {
+      "title": "東綾瀬（133）（PDF：433KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-101.pdf"
+    },
+    {
+      "title": "恵・YOU（69）（PDF：409KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-085.pdf"
+    },
+    {
+      "title": "ちゃいれっく西新井駅前(60)（PDF：423KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-067.pdf"
+    },
+    {
+      "title": "伊興（108）（PDF：404KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-140.pdf"
+    },
+    {
+      "title": "東部若葉（122）（PDF：415KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-095.pdf"
+    },
+    {
+      "title": "アイグラン保育園千住大橋（70）（PDF：415KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-001.pdf"
+    },
+    {
+      "title": "中部ひまわり（124）（PDF：387KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-064.pdf"
+    },
+    {
+      "title": "にじいろ保育園江北(70)（PDF：446KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-041.pdf"
+    },
+    {
+      "title": "足立若葉（96）（PDF：397KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-077.pdf"
+    },
+    {
+      "title": "あやせ（130）（PDF：402KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-079.pdf"
+    },
+    {
+      "title": "清水（80）（PDF：424KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-149.pdf"
+    },
+    {
+      "title": "たんぽぽ保育所西新井南園（70）（PDF：391KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-054.pdf"
+    },
+    {
+      "title": "加賀（102）（PDF：395KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-146.pdf"
+    },
+    {
+      "title": "六町駅前(90)（PDF：394KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-133.pdf"
+    },
+    {
+      "title": "西綾瀬りりおっこ（119）※（PDF：387KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-099.pdf"
+    },
+    {
+      "title": "緑町（68）（PDF：408KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-020.pdf"
+    },
+    {
+      "title": "うぃず千住大橋駅前（110）（PDF：409KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/2124/ninka-004.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育園とは、保護者が仕事や病気などのために、家庭で充分に保育することができない子どもを、保護者に代わって保育することを目的とした児童福祉施設で、法的には保育所といいます。\n保育所（保育園）のうち、国が定めた設定基準をクリアし、都道府県知事（政令市・中核市では市長）に認可された保育園を「認可保育所」といいます。\n認可保育所には公立の保育園と私立の保育園があります。\n以下は、足立区内の認可保育所（保育園）および認定こども園の保育園枠の一覧です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-04-15",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

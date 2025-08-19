@@ -1,0 +1,136 @@
+{
+  "area": {
+    "areaCode": "132080;調布市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉健康部健康推進課 ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020132080",
+    "psid": "psid3.0+7000020132080+1+UM64"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-441-6101",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉健康部健康推進課",
+    "contactPhone": "042-441-6100",
+    "contactUrl": "https://www.city.chofu.lg.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "小児慢性特定疾病医療費助成\n\nこの制度は、国が行う小児慢性特定疾患治療研究に基づき、定められた対象疾患の治療方法等の情報を今後の治療研究に生かすとともに、その治療にかかった費用(保険適用分)の一部を、公費によって助成するものです。\n\n制度改正について\n令和3年11月1日から、対象疾病が26疾病追加され、788疾病に拡大されました。\n以下が主な内容です。\n主な内容一覧\n|項目|内容|\n|:----|:----|\n|対象疾患|788疾病|\n|医療費負担割合|一律2割|\n|食事療養費|自己負担あり|\n|自己負担限度額|医療保険単位の世帯の市町村民税に応じて算定した額<br>(注)外来・入院の区別なし|\n|医療を受ける医療機関|指定医療機関|\n|医療意見書を作成する医師|指定医|\n対象\n次の2つの要件を両方満たす方\n1.都内在住(住民登録や外国人登録がされていること。)の満18歳未満の方。ただし、18歳未満で認定を受け、引き続き有効な医療券を交付されている方に限り満20歳未満まで延長可能です。\n(注)18歳以上の都外からの転入者の場合、他自治体の医療券を有していても、医療券の有効期間が切れると医療費助成が受けられませんので、転入後、速やかに申請してください。\n2.小児慢性疾患医療費助成事業の対象疾患にかかっており、かつ、別に定める認定基準を満たす方\n対象疾患\n悪性新生物\n慢性腎疾患\n慢性呼吸器疾患\n慢性心疾患\n内分泌疾患\n膠原病\n糖尿病\n先天性代謝異常\n血液疾患\n免疫疾患\n神経・筋疾患\n慢性消化器疾患\n染色体又は遺伝子に変化を伴う疾患群\n皮膚疾患\n骨系統疾患\n脈管系疾患\n内容\n各種医療保険適用後の自己負担額の一部を助成します。\n認定された方には、認定病名等が記載された医療券を交付いたします。認定された病名以外は、この医療券を使えませんので御注意ください。\n有効期間\n新規申請の場合、受給者証の有効期間は、原則として保健福祉事務所が申請を受け付けた日から1年以内とします。\n受給者証の有効期間満了後も継続して受給を希望する方は、更新の手続きが必要です。更新の手続きが遅れた場合には、新規申請扱いとなることがあります。\n手続き方法\n小児慢性特定疾病指定医を受診し、診断書の交付を受けます。\n診断書と必要書類を合わせて、保護者が健康推進課に医療費助成の申請をすると、都で審査を行います。\n主な必要書類\n申請書兼同意書、小児慢性特定疾病医療意見書、受診医療機関申請書、世帯調書、同意書、医療保険証の写し、住民票、マイナンバー確認書類、委任状、課税証明書(該当者)など\n認定された場合、医療受給者証が保護者に送付されます。\n送付後は医療受給者証を持参し、指定医療機関を受診してください。\n(注)認定されなかった場合は、その旨を通知する文書が送付されます。\n問い合わせ先\n福祉健康部健康推進課\n電話　042-441-6100\nファクス　042-441-6101\nその他\n申請前は東京都の担当課へ相談ができます。\n少子社会対策部　家庭支援課\n電話　03-5320-4375\n関連サイト\n東京都福祉保健局ホームページ（外部リンク）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/josei/syoman/top.html\n小児慢性特定疾病対策の概要(厚生労働省ホームページ)（外部リンク）;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000078973.html\n\n成人期医療への移行支援(東京都福祉保健局)（外部リンク）;http://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/josei/syoman/ikouki.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "小児慢性特定疾病医療費の助成",
+    "shortName": "小児慢性特定疾病医療費助成"
+  },
+  "localGovernmentLink": {
+    "title": "小児慢性特定疾病医療費助成",
+    "uri": "https://www.city.chofu.lg.jp/060070/p037074.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "調布市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "手続き方法\n小児慢性特定疾病指定医を受診し、診断書の交付を受けます。\n診断書と必要書類を合わせて、保護者が健康推進課に医療費助成の申請をすると、都で審査を行います。\n\n主な必要書類\n申請書兼同意書、小児慢性特定疾病医療意見書、受診医療機関申請書、世帯調書、同意書、医療保険証の写し、住民票、マイナンバー確認書類、委任状、課税証明書(該当者)など\n認定された場合、医療受給者証が保護者に送付されます。\n送付後は医療受給者証を持参し、指定医療機関を受診してください。\n(注)認定されなかった場合は、その旨を通知する文書が送付されます。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第19条の2～第19条の8",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "東京都福祉保健局ホームページ（外部リンク）",
+      "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/josei/syoman/top.html"
+    },
+    {
+      "title": "成人期医療への移行支援(東京都福祉保健局)（外部リンク）",
+      "uri": "http://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/josei/syoman/ikouki.html"
+    },
+    {
+      "title": "小児慢性特定疾病対策の概要(厚生労働省ホームページ)（外部リンク）",
+      "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000078973.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子どもの慢性疾病のうち、治療期間が長く、医療費負担が高額となる疾病について、治療方法の確立と普及、患者家庭の医療費の負担軽減につながるよう、医療費の自己負担分を補助しています。",
+  "support": {
+    "description": "この制度は、国が行う小児慢性特定疾患治療研究に基づき、定められた対象疾患の治療方法等の情報を今後の治療研究に生かすとともに、その治療にかかった費用(保険適用分)の一部を、公費によって助成するものです。\n\n制度改正について\n令和3年11月1日から、対象疾病が26疾病追加され、788疾病に拡大されました。\n以下が主な内容です。\n\n主な内容一覧\n|項目|内容|\n|:----|:----|\n|対象疾患|788疾病|\n|医療費負担割合|一律2割|\n|食事療養費|自己負担あり|\n|自己負担限度額|医療保険単位の世帯の市町村民税に応じて算定した額<br>(注)外来・入院の区別なし|\n|医療を受ける医療機関|指定医療機関|\n|医療意見書を作成する医師|指定医|",
+    "materiallySupport": null,
+    "monetarySupport": "この制度は、国が行う小児慢性特定疾患治療研究に基づき、定められた対象疾患の治療方法等の情報を今後の治療研究に生かすとともに、その治療にかかった費用(保険適用分)の一部を、公費によって助成するものです。\n\n制度改正について\n令和3年11月1日から、対象疾病が26疾病追加され、788疾病に拡大されました。\n以下が主な内容です。\n\n主な内容一覧\n|項目|内容|\n|:----|:----|\n|対象疾患|788疾病|\n|医療費負担割合|一律2割|\n|食事療養費|自己負担あり|\n|自己負担限度額|医療保険単位の世帯の市町村民税に応じて算定した額<br>(注)外来・入院の区別なし|\n|医療を受ける医療機関|指定医療機関|\n|医療意見書を作成する医師|指定医|"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象\n次の2つの要件を両方満たす方\n1.都内在住(住民登録や外国人登録がされていること。)の満18歳未満の方。ただし、18歳未満で認定を受け、引き続き有効な医療券を交付されている方に限り満20歳未満まで延長可能です。\n(注)18歳以上の都外からの転入者の場合、他自治体の医療券を有していても、医療券の有効期間が切れると医療費助成が受けられませんので、転入後、速やかに申請してください。\n2.小児慢性疾患医療費助成事業の対象疾患にかかっており、かつ、別に定める認定基準を満たす方\n対象疾患\n悪性新生物\n慢性腎疾患\n慢性呼吸器疾患\n慢性心疾患\n内分泌疾患\n膠原病\n糖尿病\n先天性代謝異常\n血液疾患\n免疫疾患\n神経・筋疾患\n慢性消化器疾患\n染色体又は遺伝子に変化を伴う疾患群\n皮膚疾患\n骨系統疾患\n脈管系疾患"
+  },
+  "updateDate": "2021-12-13",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

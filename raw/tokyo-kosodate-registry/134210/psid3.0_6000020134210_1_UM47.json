@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "134210;小笠原村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "小笠原村村民課福祉係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020134210",
+    "psid": "psid3.0+6000020134210+1+UM47"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都小笠原村父島字西町",
+    "contactComment": "開庁時間：午前8時00分～午後5時15分（土曜日・日曜日、祝・休日を除く）",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "小笠原村村民課福祉係",
+    "contactPhone": "04998-2-3939",
+    "contactUrl": null,
+    "zipCode": "1002101"
+  },
+  "cost": null,
+  "costConditions": "要予約・有料",
+  "description": "助産師相談室\n妊娠・出産、母乳相談、乳腺炎、育児相談、月経障害、妊活、更年期症状等すべての女性とその家族の相談に助産師が応じます。（要予約・有料）。詳しくは診療所にお問い合わせください。 お問合せ先　小笠原村診療所2‐3800　母島診療所3-2115",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "小笠原村診療所 東京都小笠原村父島字清瀬,母島診療所 東京都小笠原村母島字元地",
+    "implementationName": "小笠原村診療所,母島診療所"
+  },
+  "institutionName": {
+    "canonicalName": "小笠原村の妊娠・出産に関する相談",
+    "shortName": "助産師相談室"
+  },
+  "localGovernmentLink": {
+    "title": "子育て支援",
+    "uri": "https://www.vill.ogasawara.tokyo.jp/sonmin/kosodate/"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "小笠原村"
+  },
+  "procedureCounter": "小笠原村村民課福祉係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "詳しくは診療所にお問い合わせください。 お問合せ先　小笠原村診療所2‐3800　母島診療所3-2115",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "妊娠・出産、母乳相談、乳腺炎、育児相談、月経障害、妊活、更年期症状等すべての女性とその家族の相談に助産師が応じます。（要予約・有料）。",
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "小笠原村では、助産師が妊娠・出産等に関する相談に応じています。",
+  "support": {
+    "description": "妊娠・出産、母乳相談、乳腺炎、育児相談、月経障害、妊活、更年期症状等すべての女性とその家族の相談に助産師が応じます。（要予約・有料）。詳しくは診療所にお問い合わせください。 お問合せ先　小笠原村診療所2‐3800　母島診療所3-2115",
+    "materiallySupport": "妊娠・出産、母乳相談、乳腺炎、育児相談、月経障害、妊活、更年期症状等すべての女性とその家族の相談に助産師が応じます。（要予約・有料）。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊娠・出産、母乳相談、乳腺炎、育児相談、月経障害、妊活、更年期症状等すべての女性とその家族"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": "詳しくは診療所にお問い合わせください。 お問合せ先　小笠原村診療所2‐3800　母島診療所3-2115",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132039;武蔵野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部　健康課　母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132039",
+    "psid": "psid3.0+8000020132039+1+UM11"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都武蔵野市吉祥寺北町4‐8‐10　武蔵野市立保健センター1階",
+    "contactComment": "ファクス番号：0422-51-9297",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康福祉部　健康課　母子保健係",
+    "contactPhone": "0422-51-0700",
+    "contactUrl": "https://www.city.musashino.lg.jp/cgi-crm/CRM030/CRM030_001/G00700500/1035954",
+    "zipCode": "1800001"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊婦訪問\n対象\n市内在住の妊婦さんとその家族\n\n内容\n助産師、保健師がご家庭を訪問し、妊娠中から産後のお母さんのからだのこと、出産準備や産後の生活についてなどのご相談をお受けします。\n\n日時\n必要により訪問いたします。ご希望のかたは、健康課までご連絡ください。\n妊娠届出書をもとに健康課から連絡させていただくこともあります。\n\n妊婦専用電話番号「マタニティ安心コール」\n出産・育児に関することや市内での子育て支援に関して、保健師等が相談をお受けしています。ご希望のかたは、下記専用電話番号「マタニティ安心コール」までご連絡ください。\n\n0422-51-0703（直通）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "必要により訪問いたします。ご希望のかたは、健康課までご連絡ください。\n妊娠届出書をもとに健康課から連絡させていただくこともあります。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊産婦訪問",
+    "shortName": "妊婦訪問"
+  },
+  "localGovernmentLink": {
+    "title": "妊婦訪問",
+    "uri": "https://www.city.musashino.lg.jp/shussan_kodomo_kyoiku/ninshin_shussan_boshihoken/ninshin/1006676.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "武蔵野市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "必要により訪問いたします。ご希望のかたは、健康課までご連絡ください。\n妊娠届出書をもとに健康課から連絡させていただくこともあります。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第17条（妊産婦の訪問指導等）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "助産師、保健師がご家庭を訪問し、妊娠中から産後のお母さんのからだのこと、出産準備や産後の生活についてなどのご相談をお受けします。",
+  "support": {
+    "description": "助産師、保健師がご家庭を訪問し、妊娠中から産後のお母さんのからだのこと、出産準備や産後の生活についてなどのご相談をお受けします。",
+    "materiallySupport": "助産師、保健師がご家庭を訪問し、妊娠中から産後のお母さんのからだのこと、出産準備や産後の生活についてなどのご相談をお受けします。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "市内在住の妊婦さんとその家族"
+  },
+  "updateDate": "2019-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

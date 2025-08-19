@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センター母子保健担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+1+UM31"
+  },
+  "belongings": "https://www.city.kodaira.tokyo.jp/kurashi/files/87472/087472/att_0000015.png",
+  "capacity": "https://www.city.kodaira.tokyo.jp/kurashi/files/87472/087472/att_0000015.png",
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市学園東町1-19-12　健康センター1階",
+    "contactComment": "FAX：042-346-3705",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭センター母子保健担当",
+    "contactPhone": "042-346-3701",
+    "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+    "zipCode": "1870043"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊娠中をすこやかに過ごし、安心して出産を迎え、楽しみながら育児していただくための教室です。\nプログラム\n|マタニティケア教室|歯っぴいお食事教室|プレパパママ教室|\n|:----|:----|:----|\n|分娩経過のお話、母乳育児のお話、簡単なストレッチ|歯科のお話、栄養のお話|産後のお話、赤ちゃんのお風呂・着がえ・抱き方|\n（注）1日のみの参加も可能です。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "こだっこWEB予約サイト",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/082/082914.html"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "令和6年度　日程;https://www.city.kodaira.tokyo.jp/kurashi/files/87472/087472/att_0000012.png",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "小平市学園東町1-19-12",
+    "implementationName": "小平市健康センター"
+  },
+  "institutionName": {
+    "canonicalName": "両親学級・妊婦学級",
+    "shortName": "ハローベビークラス"
+  },
+  "localGovernmentLink": {
+    "title": "ハローベビークラス",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/087/087472.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "小平市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "下記の予約システムサービスからのお申込みとなります。インターネットを利用しての申込が難しい方は健康センターまでご連絡ください。\n申込期間は日程表をご確認ください。（締め切りは、各教室開催7日前までとなります。）\n予約が定員に達した場合、キャンセル待ちへの登録も可能です。キャンセル待ちが繰り上がりましたら自動的に参加申し込みとなります。（7日前までにご連絡がいきます。）\n予約した教室に参加できない場合、必ずキャンセル手続きを行ってください。\n（申込期間終了後のキャンセルおよび日程変更は下記問い合わせ先にご連絡ください。土日は電話がつながりませんのでご注意ください。）",
+  "procedurePeriod": {
+    "conditions": "申込期間は日程表をご確認ください。（締め切りは、各教室開催7日前までとなります。）",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "予約方法手順（PNG 122.3KB）",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/87472/087472/att_0000016.png"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "お母さん（とお父さん）が安心して赤ちゃんを迎えられるように、小平市では産科医師、歯科医師、保健師、栄養士、助産師などによる妊娠、出産、育児、栄養などに関する講義を開いています。これからお母さん（お父さん）になられる方同士の交流の場にもなりますので、ぜひお気軽にご参加ください。",
+  "support": {
+    "description": "妊娠中をすこやかに過ごし、安心して出産を迎え、楽しみながら育児していただくための教室です",
+    "materiallySupport": "妊娠中をすこやかに過ごし、安心して出産を迎え、楽しみながら育児していただくための教室です",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "小平市在住で初めて赤ちゃんを迎える妊娠16～31週までの妊婦さんとそのご家族。\n（32～35週の方は同伴者がいれば参加可）\n（注）36週以降の方はお電話でご相談ください。\n（注）初産婦優先の教室です。経産婦で参加希望の方はお電話でご相談ください。"
+  },
+  "updateDate": "2024-04-16",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132101;小金井市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センター母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132101",
+    "psid": "psid3.0+3000020132101+1+UM798"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小金井市貫井北町5丁目18番18号　保健センター",
+    "contactComment": null,
+    "contactEmail": "s050899(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+    "contactEx": null,
+    "contactName": "こども家庭センター母子保健係",
+    "contactPhone": "042-321-6296",
+    "contactUrl": null,
+    "zipCode": "1840015"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "食育・栄養教室\n更新日：2024年4月4日\n小金井市では、乳幼児の保護者の方を対象に、食べることの大切さや正しい食知識の普及を図るため食育事業を実施しています。\n\n場所（全講座共通）\n保健センター2階\n\n申込方法（全講座共通）\n市報に掲載の受付開始日から、電話でこども家庭センターへ（全て先着順）\n\n注記：受付は午前8時30分から午後5時までです。\n\n1　離乳食教室\n離乳食の始め方(1回食）につきましては、3‐4か月健診の中で行っています。\n\n日程\nhttps://www.city.koganei.lg.jp/smph/kenkofukuhsi/shokuiku/eiyousoudansitu.html\n\n時間\n2回食：午後2時30分から午後3時45分まで\n3回食：午後1時30分から午後2時45分まで\n完了食：午前9時40分から午前10時25分まで午前10時40分から午前11時25分まで\n対象\n2回食：概ね6か月から7か月児の保護者\n3回食：概ね8か月から11か月児の保護者\n完了食：概ね1歳から1歳3か月児の保護者\n注記：対象児も一緒に参加できますが、対象児以外のお子さんのご参加は安全確保のためご遠慮ください。\n\nその他\n対象児も一緒に参加する場合、保護者と一緒にマットの上でお話を聞いていただく形式となります。\n\n2　こどもクッキング\n日時・対象者\nこどもクッキングに初めて参加する方が対象となります。\n\n令和6年度予定\n|日程|時間|対象者|\n|45485|午前10時から正午まで|3歳から5歳児とその保護者|\n|45553|午後2時から午後4時まで|2歳から3歳児とその保護者|\n|45642|午後2時から午後4時まで|3歳から5歳児とその保護者|\n|45716|午前10時から正午まで|2歳から3歳児とその保護者|\n\n内容\n栄養講義と調理体験、試食",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "日程\nhttps://www.city.koganei.lg.jp/smph/kenkofukuhsi/shokuiku/eiyousoudansitu.html\n時間\n2回食：午後2時30分から午後3時45分まで\n3回食：午後1時30分から午後2時45分まで\n完了食：午前9時40分から午前10時25分まで午前10時40分から午前11時25分まで",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "小金井市貫井北町5丁目18番18号",
+    "implementationName": "保健センター2階"
+  },
+  "institutionName": {
+    "canonicalName": "離乳食教室",
+    "shortName": "離乳食教室"
+  },
+  "localGovernmentLink": {
+    "title": "食育・栄養教室",
+    "uri": "https://www.city.koganei.lg.jp/kenkofukuhsi/shokuiku/eiyousoudansitu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "小金井市"
+  },
+  "procedureCounter": "こども家庭センター母子保健係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "市報に掲載の受付開始日から、電話でこども家庭センターへ（全て先着順）\n注記：受付は午前8時30分から午後5時までです。",
+  "procedurePeriod": {
+    "conditions": "8時半～17時",
+    "fromHM": "08:30",
+    "fromYMD": null,
+    "toHM": "17:00",
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第3条（乳幼児の健康の保持増進）、9条（知識の普及）、法第5条（子どもの食育における保護者、教育関係者等の役割）、21条 （地域における食生活の改善のための取組の推進）",
+    "regulationName": "母子保健法、食育基本法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "2回食(６～7か月児)、3回食(８～11か月児)、完了食(12か月～1歳3か月児)のお子さんとその保護者を対象に、離乳食のポイントやすすめ方についての講座を開催しています。離乳食のいろいろな悩みに栄養士がお答えします。また、離乳食の作り方の実演や試食もあります。",
+  "support": {
+    "description": "小金井市では、乳幼児の保護者の方を対象に、食べることの大切さや正しい食知識の普及を図るため食育事業を実施しています。離乳食教室",
+    "materiallySupport": "離乳食教室",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "離乳食の始め方(1回食）につきましては、3‐4か月健診の中で行っています。\n2回食：概ね6か月から7か月児の保護者\n3回食：概ね8か月から11か月児の保護者\n完了食：概ね1歳から1歳3か月児の保護者",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "離乳食の始め方(1回食）につきましては、3‐4か月健診の中で行っています。\n2回食：概ね6か月から7か月児の保護者\n3回食：概ね8か月から11か月児の保護者\n完了食：概ね1歳から1歳3か月児の保護者"
+  },
+  "updateDate": "2024-04-04",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "日程\nhttps://www.city.koganei.lg.jp/smph/kenkofukuhsi/shokuiku/eiyousoudansitu.html\n時間\n2回食：午後2時30分から午後3時45分まで\n3回食：午後1時30分から午後2時45分まで\n完了食：午前9時40分から午前10時25分まで午前10時40分から午前11時25分まで",
+    "fromHM": null,
+    "toHM": null
+  }
+}

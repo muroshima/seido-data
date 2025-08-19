@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "133035;瑞穂町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部 子育て応援課 子育て支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133035",
+    "psid": "psid3.0+1000020133035+1+UM24"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡瑞穂町大字箱根ケ崎2335番地",
+    "contactComment": "受付時間 平日の午前8時30分から午後5時まで",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部 子育て応援課 子育て支援係",
+    "contactPhone": "042-557-7624",
+    "contactUrl": "https://www.town.mizuho.tokyo.jp/inquiry/mailform130151.html?PAGE_NO=9876",
+    "zipCode": "1901292"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "令和6年10月から児童手当の制度が変わります。\n(1)支給対象を高校生年代まで延長\n(2)所得制限の撤廃\n(3)第3子以降の支給額を月3万円\n(4)多子加算のカウント対象の拡充\n(5)支払月を年3回から隔月（偶数月）の年6回\n\n令和6年10月から所得制限撤廃のため、受給できなかった方も該当になりますので、認定請求書を提出してください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "児童手当",
+    "shortName": "児童手当"
+  },
+  "localGovernmentLink": {
+    "title": "児童手当（国制度）",
+    "uri": "https://www.town.mizuho.tokyo.jp/kosodate/003/001/p009876.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/03/10",
+    "updater": "瑞穂町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "児童手当法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "家庭における生活の安定と、これからの社会を担うお子さんの健やかな成長のために、高校生年代までの児童（0歳から18歳に達する日以後の最初の3月31日までの間にある子）を養育している人に、児童手当を支給します。",
+  "support": {
+    "description": "手当は、偶数月に、前月までの2か月分をまとめて支給します。\n支給額は、支給対象となるお子さんの年齢や、養育するお子さんの人数により異なります。\n※養育するお子さんの人数は、大学生年代（22歳に達する日以降の最初の3月31日）までのお子さんのうち、年長者から第1子、第2子と数えます。\nお子さんの年齢や出生順位に応じて、以下の金額を支給します。\n＜0歳から3歳未満＞\n第1子、第2子：月額1万5,000円\n第3子以降：月額3万円",
+    "materiallySupport": null,
+    "monetarySupport": "第1子、第2子：月額1万5,000円\n第3子以降：月額3万円"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0歳から3歳未満\n\n第3子以降は養育する22歳（22歳に達する日以降の最初の3月31日）までの児童の人数により判定します。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "高校生年代（18歳に達する日以後の最初の3月31日）までのお子さんを養育している方が対象です。\nお子さんを養育している父母、または未成年後見人の場合:原則として、お子さんが日本国内に住んでいる場合に手当を支給します。\nお子さんが留学を理由に海外に住んでおり、以下の要件を満たしている場合は、例外として、そのお子さんの分の手当を受け取ることができます。\n1.日本国内に住所を有しなくなった前日までに日本国内に継続して3年を超えて住所を有していたこと\n2.教育を受けることを目的として海外に居住しており、父母（未成年後見人がいる場合はその未成年後見人）と同居していないこと\n3.日本国内に住所を有しなくなった日から3年以内であること\n※その他、短期間留学していて日本に帰国し、再び3年以内に留学する場合などは、上記の要件を満たしていなくても、手当を受け取れる場合があります。\n両親が離婚協議中で別居している場合:父母が、離婚協議中で別居している場合は、お子さんと同居している方を優先して支給する場合があります。\n父母等が海外に住んでいる場合:父母等が海外に住んでいる場合、その父母が、日本国内に住むお子さんを養育している人を指定すれば、指定された方に手当を支給します。お子さんの住所のある市区町村に「父母指定者指定届」を提出して、認定を受けてください。\n※ただし、単身赴任の場合は、これまでどおり、お子さんの生活費を主に負担している方に支給します。\n未成年後見人がいる場合:お子さんを養育している未成年後見人がいる場合は、未成年後見人に手当を支給します。\nお子さんが施設に入所している場合や里親などに委託されている場合:お子さんが施設に入所している場合や里親などに委託されている（預けられている）場合は、原則として、その施設の設置者や里親などに手当を支給します。"
+  },
+  "updateDate": "2024-10-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

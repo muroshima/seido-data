@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局子ども部児童・家庭支援センター発達支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+4+UM106"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区神田司町2-16　神田さくら館6階",
+    "contactComment": null,
+    "contactEmail": "hattatsusoudan@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "教育委員会事務局子ども部児童・家庭支援センター発達支援係",
+    "contactPhone": "03-5296-9281",
+    "contactUrl": null,
+    "zipCode": "1010048"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "はばたきプランは、障害や発達に課題のある子どもとその保護者が、将来に渡り適切な支援と切れ目のないサービスを受け、安心して暮らし続けることができるように、子どもの成長と将来を見渡す計画です。\n\nお子さんの発達に不安がある方は、1人で抱え込まずに相談してください（個人情報は守られます）。\n\n・はばたきプランのご案内（PDF：1,054KB）\n\nはばたきプランでできること\n\n子どもの将来を見渡した支援の全体像が分かります\n\nはばたきプランの作成\n\n一人ひとりの子どもの成長や発達に合わせて、生まれてから就労までの将来を見渡すプランを作成します。また、相談員などのプランナーとの面談を通して、出生・入園・入学などのライフステージごとに最適な支援やサービスをご案内します。これにより、子どもの発達や子育てなどで不安や心配事でできないよう、しっかりとした計画を立てることができます。\n\n子どもの情報が整理でき、共有できます\n\n子育てカルテの作成\n\nはばたきプランを作成する中で確認した支援などの情報をまとめた「子育てカルテ」を作成します。作成した「子育てカルテ」は、保護者のご希望に応じて子どもが利用する関係機関との共有や連携に用いることができます。これにより、18歳に至るまでの貴重な子どもの支援情報を整理し、切れ目のない支援を受けることができます。\n\n自分が利用できる福祉サービスなどが分かり、申請に必要な計画が作成できます\n\n相談や障害児支援利用計画などの作成\n\nはばたきプランを作成するための相談の中で、児童福祉法などのサービスを利用している方は、その申請の際に必要となる「障害児支援利用計画」などを作成することができます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関するサポート",
+    "shortName": "はばたきプラン"
+  },
+  "localGovernmentLink": {
+    "title": "子どもケアプランの受け付けが始まります",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kodomoplan-uketsuke.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申込方法など、詳しくはお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "子どもケアプランのご案内（PDF：1",
+      "uri": "https://www.city.chiyoda.lg.jp/documents/19026/kodomoplan-annai.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "はばたきプランは、障害や発達に課題のある子どもとその保護者が、将来に渡り適切な支援と切れ目のないサービスを受け、安心して暮らし続けることができるように、子どもの成長と将来を見渡す計画です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "18歳までの障害のあるお子さんや発達に関して気がかりや心配のあるお子さんとその保護者"
+  },
+  "updateDate": "2019-10-31",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康推進課管理・事業グループ,長崎健康相談所",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+1+UM52"
+  },
+  "belongings": "1.母子健康手帳\n2.子ども用歯ブラシ\n歯磨き指導の際に使用します。\n3.受診児の尿\n健診当日の朝採取してください。採取困難な場合は、後日の健診日に提出することも可能です。\n4.アンケート3種\n検査結果も含め、ご家庭で記入してからお持ちください。\n●3歳児健康診査（歯科・栄養・育児相談）アンケート\n●眼と耳のアンケート\n●3歳児健診　栄養相談（骨密度問診票）・・・測定を希望しない場合でも必ず記入してお持ちください。\n5.健康保険証\n精密健診票が発行される場合に必要です。\n6.替えオムツ\n必要な方のみお持ちください。\n7.バスタオル\n長崎健康相談所で受診されるかたのみ。歯科健診時、歯科医師の膝の上にお子さんを寝かせるときに使用します。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "長崎健康相談所;https://www.city.toshima.lg.jp/225/kuse/soshiki/ikebukuro/006574.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康推進課管理・事業グループ,長崎健康相談所",
+    "contactPhone": "03-3987-4173",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "区内在住のお子さんの3歳児健康診査は、池袋保健所・長崎健康相談所で日時を定めて集団健診を実施しています。\n対象となるお子さんには、2歳11か月頃に開催通知を郵送しています。\n\n3歳児健康診査（保健所・健康相談所で集団健診）\nお知らせ方法\n原則として2歳11か月頃に個別に通知を郵送します。\n\n内容\n身体計測・視覚検査・歯科健診・診察・育児相談・栄養相談・心理相談・尿検査・母親の骨密度測定と結果説明\n\n池袋保健所の健診日程\n実施日：原則第1・第3火曜日　月によって変動があります。豊島区ホームページをご確認ください。\n\n受付時間：午後1時から2時　混雑緩和のため、お子さんの生年月日により受付時間を分けて設定し、通知の際にご案内しています。\n検尿ができなかったかたの後日提出受付時間は、下記日程の午後2時から3時までです。\n\n問い合わせ先：03-3987-4173、予約日変更：03-3987-4244\n\n長崎健康相談所の健診日程\n実施日：原則月1回　木曜日　豊島区ホームページをご確認ください。\n\n受付時間：午後1時から2時　混雑緩和のため、お子さんの生年月日により受付時間を分けて設定し、通知の際にご案内しています。\n検尿ができなかったかたの後日提出受付時間は、下記日程の午後2時20分から2時50分までです。\n\n問い合わせ、予約日変更：03-3957-1191",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": "13:00",
+    "fromYMD": null,
+    "toHM": "14:00",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "3歳児健康診査",
+    "shortName": "3歳児健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "3歳児健康診査",
+    "uri": "https://www.city.toshima.lg.jp/219/kosodate/kosodate/kenko/2401191506.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": "池袋保健所,長崎健康相談所",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第12条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "長崎健康相談所（豊島区長崎3丁目6番24号）（PDF：261KB）",
+      "uri": "https://www.city.toshima.lg.jp/219/kosodate/kosodate/kenko/documents/050130-nagasakikenkosodanjo.pdf"
+    },
+    {
+      "title": "→参考：3歳児健診【視覚検査】",
+      "uri": "https://www.city.toshima.lg.jp/220/kosodate/kosodate/kenko/2301161643.html"
+    },
+    {
+      "title": "池袋保健所（豊島区東池袋4丁目42番16号）（PDF：171KB）",
+      "uri": "https://www.city.toshima.lg.jp/219/kosodate/kosodate/kenko/documents/030930_map_ikephc_withouthands.pdf"
+    },
+    {
+      "title": "こどもの歯科健診",
+      "uri": "https://www.city.toshima.lg.jp/219/1807171637.html"
+    },
+    {
+      "title": "3歳児健診【視覚検査】",
+      "uri": "https://www.city.toshima.lg.jp/220/kosodate/kosodate/kenko/2301161643.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "からだやこころの成長とともに社会性も急速に発達するこの頃は、人間形成の基礎となる大切な時期です。豊島区では3歳児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 4,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "受診日現在、3歳から4歳（4歳の誕生日の2日前まで）のお子さん"
+  },
+  "updateDate": "2024-04-11",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

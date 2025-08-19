@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども若者課子ども若者支援グループ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+3+UM103"
+  },
+  "belongings": null,
+  "capacity": "10名（要予約）",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども若者課子ども若者支援グループ",
+    "contactPhone": "03-4566-2475",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "このセミナーでは、若者やご家族、保護者からの相談支援経験豊富な相談員が、子育てにおいての怒りやイライラと上手に付き合う「アンガーコントロール」についてレクチャーします。\nまた、個別相談の時間も設けております。\n\n■お願い■\n「熱中症を防ぐためのこまめな水分補給」、「ごみのお持ち帰り」にご協力をお願いいたします。\n\n内容\n子どもにイライラしてつい注意してしまう\n怒ってばかりで自分が嫌になる\nそんな「もやもや」解決します\nまずは、怒り・イライラと上手に付き合う「アンガーコントロール」を覚えてみませんか？\n当日キッズスペースあり（3歳以上未就学児対象、小学生も可）\n\n主催・後援\n主催：豊島区子ども若者総合相談アシスとしま\n企画運営：株式会社キズキ",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": "10:00",
+    "fromYMD": "2024-07-06",
+    "toHM": "12:00",
+    "toYMD": "2024-07-06"
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "豊島区役所本庁舎会議室"
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関する教室・講習会",
+    "shortName": "保護者向けセミナー・個別相談"
+  },
+  "localGovernmentLink": {
+    "title": "ー令和6年度ー第1回保護者向けセミナー・個別相談【キッズスペースあり】",
+    "uri": "https://www.city.toshima.lg.jp/429/asistoshima/2405091144.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": "豊島区子ども若者総合相談アシスとしま",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "令和5年7月5日金曜日までに、お電話またはEメールにて、\n（1）7月6日保護者セミナー参加希望\n（2）お名前\n（3）相談したいお子様の年齢\n（4）連絡先\nをお伝えください。\n\n【キッズスペース利用の申込みについて】\nお子様のお名前、年齢を、お電話またはEメールでお伝えください。《3歳以上未就学児対象、小学生も可。》\n\n申込み先電話番号\n03-4566-2476（平日午前8時30分から午後4時30分まで)\n\n申込み先Eメール\nA0017309901@city.toshima.tokyo.jp",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": "2024-07-05"
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第24条",
+    "regulationName": "学校教育法"
+  },
+  "relatedLink": [
+    {
+      "title": "188KB）",
+      "uri": "https://www.city.toshima.lg.jp/429/asistoshima/asistoshima.html"
+    },
+    {
+      "title": "第1回保護者向けセミナー・個別相談（PDF：1",
+      "uri": "https://www.city.toshima.lg.jp/429/asistoshima/documents/hogosyamuke_seminar01.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "このセミナーでは、若者やご家族、保護者からの相談支援経験豊富な相談員が、子育てにおいての怒りやイライラと上手に付き合う「アンガーコントロール」についてレクチャーします。\nまた、個別相談の時間も設けております。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "学びたい、相談したい保護者の方"
+  },
+  "updateDate": "2024-05-10",
+  "useConsiderationFlag": true,
+  "utilization": "当日はエレベーターにて4階までお上がりください。\n係員がご案内いたします。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

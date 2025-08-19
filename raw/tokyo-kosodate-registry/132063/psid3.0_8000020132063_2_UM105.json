@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132063;府中市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "文化スポーツ部図書館",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132063",
+    "psid": "psid3.0+8000020132063+2+UM105"
+  },
+  "belongings": null,
+  "capacity": "定員せい",
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都府中市府中町2-24",
+    "contactComment": null,
+    "contactEmail": "contact@library.city.fuchu.tokyo.jp",
+    "contactEx": null,
+    "contactName": "府中市立図書館",
+    "contactPhone": "042-362-8647",
+    "contactUrl": null,
+    "zipCode": "1830055"
+  },
+  "cost": null,
+  "costConditions": "無料",
+  "description": "https://library.city.fuchu.tokyo.jp/themes/lib_theme/images/kids/kids_title.png\nおはなし会・イベント\nちいさい子のためのおはなし会\n1・2さいの子どもとおうちの人のためのおはなし会です。絵本のよみきかせやわらべうたなどをします。※定員せいです。\n\n「ちいさい子のためのおはなし会」でよんだ本はこちら;https://library.city.fuchu.tokyo.jp/licsxp-opac/WOpacSdiTmeMenuToSdiTmeListAction.do?tmeMenuCode=005\n\nおはなしの森\n3さいからの子どもがさんかできるおはなし会です。絵本のよみきかせやストーリーテリング（おはなしのかたり）などをします。\nおうちの人もいっしょにさんかできるよ。※定員せいです。\n\n「おはなしの森」でよんだはこちら;https://library.city.fuchu.tokyo.jp/licsxp-opac/WOpacSdiTmeMenuToSdiTmeListAction.do?tmeMenuCode=004\n\nスケジュール\n中央図書館\n※しゅく日は、おはなし会はお休みです。\n\nちいさい子のためのおはなし会（1・2さいじとほご者）\n\n毎月第2・4木曜日　午前10時半から11時\n\nおはなしの森（3さいいじょう）\n\n毎週木曜日　午後3時半から4時\n\n毎月第1土曜日　午前11時から11時半\n\n地区図書館\n地区図書館によっておはなし会の日がちがいます。\n\n下のスケジュール表を見てください。\n\n※しゅく日は、おはなし会はお休みです。\n\nちいさい子のためのおはなし会（1・2さいじとほご者）\n\n午前10時半から11時\n\nおはなしの森（3さいいじょう）\n\n午後3時半から4時\n\nhttps://library.city.fuchu.tokyo.jp/kids/img/20240401ohanashikaihyou.jpg\n\nよむよむたんけんたい\n\n小学４年生から６年生向けに、１つのテーマに沿って色々な本を紹介するブックトークのイベントです。\n\n「よむよむたんけんたい」でしょうかいした本はこちら;https://library.city.fuchu.tokyo.jp/licsxp-opac/WOpacSdiTmeMenuToSdiTmeListAction.do?tmeMenuCode=006\n\nその他のイベント\nほかにも、きせつによっていろいろなイベントがあります。くわしくは、近くの図書館にきいてね。\n\nたびたびよんで本のたび（４月ごろ）\nおはなしいっぱいの会（４月ごろ）\n夏のおたのしみおはなし会（８月）\n夏休み読書キャンペーン（７～８月）\n冬のおたのしみおはなし会（１２月）\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "しゅく日は、おはなし会はお休みです。",
+  "implementationPeriod": {
+    "conditions": "中央図書館\n毎週木曜日　午後3時半から4時\n\n毎月第1土曜日　午前11時から11時半\n\n地区図書館\n地区図書館によっておはなし会の日がちがいます。\n\n下のスケジュール表を見てください。\n\n午後3時半から4時\n\nhttps://library.city.fuchu.tokyo.jp/kids/img/20240401ohanashikaihyou.jpg",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "府中市府中町2-24",
+    "implementationName": "中央図書館\n地区図書館"
+  },
+  "institutionName": {
+    "canonicalName": "図書館の児童サービス（ブックスタートなど）",
+    "shortName": "おはなしの森"
+  },
+  "localGovernmentLink": {
+    "title": "おはなし会・イベント",
+    "uri": "https://library.city.fuchu.tokyo.jp/kids/ohanashi.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "府中市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "7(8)",
+    "regulationName": "府中市立図書館運営方針"
+  },
+  "relatedLink": [
+    {
+      "title": "「おはなしの森」でよんだ本はこちら",
+      "uri": "https://library.city.fuchu.tokyo.jp/licsxp-opac/WOpacSdiTmeMenuToSdiTmeListAction.do?tmeMenuCode=004"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "府中市立中央図書館及び地区図書館が実施する、３歳からの子どもが参加できるおはなし会です。絵本の読み聞かせやストーリーテリング（おはなしのかたり）などをします。",
+  "support": {
+    "description": "絵本のよみきかせやストーリーテリング（おはなしのかたり）などをします。\n\n「おはなしの森」でよんだ本はこちら;https://library.city.fuchu.tokyo.jp/licsxp-opac/WOpacSdiTmeMenuToSdiTmeListAction.do?tmeMenuCode=004",
+    "materiallySupport": "絵本のよみきかせやストーリーテリング（おはなしのかたり）などをします。\n\n「おはなしの森」でよんだ本はこちら;https://library.city.fuchu.tokyo.jp/licsxp-opac/WOpacSdiTmeMenuToSdiTmeListAction.do?tmeMenuCode=004",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "３歳から小学生",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "３歳から小学生　保護者も可"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "当日直接図書館へ",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "131024;中央区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "中央区保健所健康推進課健康係 ,日本橋保健センター健康係 ,晴海保健センター健康係,月島保健センター健康係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131024",
+    "psid": "psid3.0+8000020131024+1+UM47"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "【妊娠・出産に関する相談窓口のご案内】\n妊娠をして、とまどいや不安な気持ちがあるかもしれません。中央区では相談支援の専門職（母子健康コーディネーター）と地区担当保健師がいますので、お住まいの地区を担当する保健所または保健センターへご相談ください。\n\n◆問合せ先\n中央区保健所健康推進課健康係☎(3541)593\n日本橋保健センター☎(3661)5071\n月島保健センター健康係(5560)0765\n晴海保健センター健康係☎(6381)2972",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "中央区保健所健康推進課健康係☎(3541)593\n日本橋保健センター☎(3661)5071\n月島保健センター健康係(5560)0765\n晴海保健センター健康係☎(6381)2972"
+  },
+  "institutionName": {
+    "canonicalName": "中央区の妊娠・出産に関する相談",
+    "shortName": "妊娠・出産に関する相談窓口"
+  },
+  "localGovernmentLink": {
+    "title": "妊娠したら",
+    "uri": "https://www.city.chuo.lg.jp/documents/4889/ninnsinnsitara.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-19",
+    "updater": "中央区"
+  },
+  "procedureCounter": "中央区保健所健康推進課健康係☎(3541)593\n日本橋保健センター☎(3661)5071\n月島保健センター健康係(5560)0765\n晴海保健センター健康係☎(6381)2972",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "中央区では相談支援の専門職（母子保健コー\nディネーター）と地区担当保健師がいますので、お住\nまいの地区を担当する保健所または保健センターへご\n相談ください。\n◆問合せ先\n中央区保健所健康推進課健康係 ☎（3541）5930\n\n日本橋保健センター健康係 ☎（3661）5071\n晴海保健センター健康係 ☎（5560）0765\n月島保健センター健康係☎（6381）2972",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠・出産に関する相談窓口のご案内\n妊娠をして、とまどいや不安な気持ちがあるかもしれません。中央区では相談支援の専門職（母子健康コーディネーター）と地区担当保健師がいますので、お住まいの地区を担当する保健所または保健センターへご相談ください。",
+  "support": {
+    "description": "中央区では相談支援の専門職（母子保健コー\nディネーター）と地区担当保健師がいますので、お住\nまいの地区を担当する保健所または保健センターへご\n相談ください",
+    "materiallySupport": "中央区では相談支援の専門職（母子保健コー\nディネーター）と地区担当保健師がいますので、お住\nまいの地区を担当する保健所または保健センターへご\n相談ください",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

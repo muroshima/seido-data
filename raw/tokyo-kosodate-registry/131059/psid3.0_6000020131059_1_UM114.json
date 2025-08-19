@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131059;文京区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健衛生部・文京保健所健康推進課健康増進係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131059",
+    "psid": "psid3.0+6000020131059+1+UM114"
+  },
+  "belongings": "受診の際は、健康保険証・乳幼児医療証（マル乳医療証）・子ども医療証（マル子医療証）などの各医療証、おくすり手帳をお持ちください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都文京区春日1丁目16番21号\n文京シビックセンター8階南側",
+    "contactComment": "ファクス番号：03-5803-1355",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健衛生部・文京保健所健康推進課健康増進係",
+    "contactPhone": "03-5803-1961",
+    "contactUrl": "https://logoform.jp/form/6KSu/553903",
+    "zipCode": "1128555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "小児初期救急平日夜間診療事業\n豊島文京（平日準夜間）こども救急\n豊島区と共同で「豊島文京（平日準夜間）こども救急」を開設しています。\n\n平日の準夜間帯に、15歳（中学生）以下のお子さんの急な発熱や腹痛など、入院を必要としない救急診療に、文京区と豊島区の医師会より派遣された医師が診療にあたります。\n\n【場所】都立大塚病院1階 救急外来診察室（豊島区南大塚2-8-1）\n\n【診療日時】平日（月～金曜）午後8時～午後11時 ※土・日・祝日及び12月29日～翌年1月4日を除く\n\n【対象】15歳（中学生）以下の方\n\n【診療科目】小児科\n\n※受診の際は、健康保険証・乳幼児医療証（マル乳医療証）・子ども医療証（マル子医療証）などの各医療証、おくすり手帳をお持ちください。\n\n※初期救急診療のため、お薬は1日分の処方となります。定期的な通院治療はできません。\n\nお近くのかかりつけ医を受診しましょう。\n\n豊島文京（平日準夜間）こども救急チラシ（PDF：1,964KB）;https://www.city.bunkyo.lg.jp/documents/2498/20231125112854.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "土・日・祝日及び12月29日～翌年1月4日",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "豊島区南大塚2-8-1",
+    "implementationName": "都立大塚病院1階 救急外来診察室"
+  },
+  "institutionName": {
+    "canonicalName": "小児科救急",
+    "shortName": "小児初期救急平日夜間診療事業"
+  },
+  "localGovernmentLink": {
+    "title": "小児初期救急平日夜間診療事業",
+    "uri": "https://www.city.bunkyo.lg.jp/b027/p002554.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "文京区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "全条",
+    "regulationName": "救急医療対策事業実施要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "豊島文京（平日準夜間）こども救急チラシ（PDF：1",
+      "uri": "https://www.city.bunkyo.lg.jp/documents/2498/20231125112854.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "文京区では、市内の小児科医がローテーションを組んで、休日や夜間に、赤ちゃんやお子さんが救急の際の診療を行っています。",
+  "support": {
+    "description": "平日の準夜間帯に、15歳（中学生）以下のお子さんの急な発熱や腹痛など、入院を必要としない救急診療に、文京区と豊島区の医師会より派遣された医師が診療にあたります。",
+    "materiallySupport": "平日の準夜間帯に、15歳（中学生）以下のお子さんの急な発熱や腹痛など、入院を必要としない救急診療に、文京区と豊島区の医師会より派遣された医師が診療にあたります。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "15歳（中学生）以下の方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 15,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "15歳（中学生）以下の方"
+  },
+  "updateDate": "2023-11-27",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "平日（月～金曜）午後8時～午後11時 ※土・日・祝日及び12月29日～翌年1月4日を除く",
+    "fromHM": "08:00",
+    "toHM": "11:00"
+  }
+}

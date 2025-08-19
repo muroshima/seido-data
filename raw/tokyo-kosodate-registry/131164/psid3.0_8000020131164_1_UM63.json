@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "障害福祉課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+1+UM63"
+  },
+  "belongings": "1.身体障害者手帳または愛の手帳（お持ちの場合）\n2.所定の診断書\n3.本人名義の金融機関の口座がわかるもの\n4.印鑑\n5.マイナンバーの確認できるもの(本人及びその配偶者または扶養義務者)\n6.代理人が申請する場合、代理人の身元確認書類(【運転免許証、パスポートなど顔写真付きの身分証でない場合、健康保険証、年金手帳など官公署発行の通知書等が2枚必要です。】)\n（注）マイナンバー情報連携の不具合やご本人の所得状況等によっては、別途必要書類のご案内をする場合があります",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "障害福祉課",
+    "contactPhone": "03-3981-1963",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "20歳未満で、重度の障害により日常生活において常時介助を必要とするかたに、手当を給付します。判定の結果非該当となる場合があります。\n\n所得制限\n障害者本人または扶養義務者の前年の所得（1月から7月までの申請は前前年の所得）から、下記控除額表の控除額を引いた金額が所得制限限度額未満であることが必要です。\n判定所得額＝所得金額-（各種控除）\n（注釈）障害者または、障害者と生計を同一とする親族で、もっとも所得の高いかたの所得を判定所得額とします。\n\n所得制限限度額表\n\n|扶養親族数|:----|0人|1人|2人|3人|4人|\n|障害者本人|:----|3,604,000円|3,984,000円|4,364,000円|4,744,000円|5,124,000円|\n|扶養義務者|:----|6,287,000円|6,536,000円|6,749,000円|6,962,000円|7,175,000円|\n\n下記に該当する場合、限度額にそれぞれの金額が加算されます。\n\n障害者本人の所得で所得を判定する場合\n\n・扶養親族等に老人控除対象配偶者または老人扶養親族があるときは、ひとりにつき100,000円\n・扶養親族等に特定扶養親族があるときは、ひとりにつき250,000円\n\n扶養義務者の所得で判定する場合（扶養親族がふたり以上に限る）\n\n・扶養親族等に老人扶養親族があるときは、ひとりにつき（老人扶養親族のみの場合は老人扶養親族のうちひとりを除いた老人扶養親族ひとりにつき）60,000円\n\n控除額表※個別の計算についてはご相談ください\n\n|控除の種類|本人所得で判定する場合|扶養義務者の所得で判定する場合|\n|:----|:----|:----|\n|社会保険料控除|相当額|80,000円|\n|医療費控除|相当額|相当額|\n|雑損控除|相当額|相当額|\n|小規模企業共済等掛金控除|相当額|相当額|\n|長期（短期）譲渡所得の特別控除|相当額|相当額|\n|配偶者特別控除|相当額（上限33万円）|相当額（上限33万円）|\n|特別障害者控除（本人）|-|400,000円|\n|特別障害者控除（扶養1人につき）|400,000円|400,000円|\n|普通障害者控除（本人）|-|270,000円|\n|普通障害者控除（扶養1人につき）|270,000円|270,000円|\n|勤労学生控除|270,000円|270,000円|\n|寡婦（夫）控除|270,000円|270,000円|\n|ひとり親控除|350,000円|350,000円|\n\n給付方法および給付時期\n指定いただいた金融機関へ振り込みます。支給時期は2月、5月、8月、11月で、支給する月の前月分までを振り込みます。\n\n届出が必要な場合\n次の場合は届出をしてください。\n・住所や氏名がかわったとき\n・施設等に入所したとき\n・振込口座を変更するとき\n（注釈）区外へ転出した場合、新住所地で手当の住所変更届を行うことで、支給が引き継がれます。\n\n資格が消滅・停止する場合\n次の場合は、手当の受給資格がなくなります。\n・施設等に入所したとき\n・障害を支給事由とする年金を受給しているとき\n\n次の場合は、手当の支給が停止されます。\n本人または扶養義務者等の所得が限度額以上の年度（8月～翌年7月）は手当が停止されます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "障害児福祉手当",
+    "shortName": "障害児福祉手当（国制度）"
+  },
+  "localGovernmentLink": {
+    "title": "障害児福祉手当（国制度）",
+    "uri": "https://www.city.toshima.lg.jp/443/kenko/shogai/teate/013088.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": "障害福祉課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第3章",
+    "regulationName": "特別児童扶養手当等の支給に関する法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "身体または精神に重度の障がいのある20歳未満の方で、日常生活において常時介護を必要とする方に対し、手当が支給されます。",
+  "support": {
+    "description": "20歳未満で、重度の障害により日常生活において常時介助を必要とするかたに、手当を給付します。\n\n月額15,690円（令和6年4月1日現在）",
+    "materiallySupport": null,
+    "monetarySupport": "月額15,690円（令和6年4月1日現在）"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "010"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "政令で定める程度の重度の障害に該当するかた\n・身体障害者手帳おおむね1級・2級の一部の方\n・愛の手帳おおむね1度・2度の一部の方\n・日常生活において常時介護を必要とする状態にある疾病、精神障害を有する\n\n手当の支給対象となるかは、医師が証明する指定の診断書をもとに判定を行います。"
+  },
+  "updateDate": "2024-04-16",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

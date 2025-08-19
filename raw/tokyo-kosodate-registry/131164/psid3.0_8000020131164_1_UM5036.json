@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども若者課地域支援グループ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+1+UM5036"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども若者課地域支援グループ",
+    "contactPhone": "03-3981-2187",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子ども食堂とは？\n子ども食堂は、月に1回程度、個人宅や飲食店などを利用してボランティアで運営されています。開催方法も、それぞれの子ども食堂によって異なるため、電話等でのお問い合わせに対応できない時間帯がございます。（状況により開催予定が変更されることもございます）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "こども食堂",
+    "shortName": "子ども食堂"
+  },
+  "localGovernmentLink": {
+    "title": "子ども食堂を利用したい",
+    "uri": "https://www.city.toshima.lg.jp/231/kodomosyokudo/2004031136.html#kanametyouasayake"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/20",
+    "updater": "豊島区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "子ども若者総合相談（アシスとしま）",
+      "uri": "https://www.city.toshima.lg.jp/429/asistoshima/asistoshima.html"
+    },
+    {
+      "title": "コミュニティソーシャルワーク事業",
+      "uri": "https://www.city.toshima.lg.jp/158/kenko/sekatsu/2008171333.html"
+    },
+    {
+      "title": "中高生センタージャンプ（中高生の居場所）",
+      "uri": "https://www.city.toshima.lg.jp/229/kosodate/kosodate/hokago/jump/1502161425.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "「こども食堂」とは、こどもが一人でも行ける無料または低額の食堂です。こども食堂は、生活に困窮する子育て世帯への支援だけでなく、虐待の防止のための見守りや、地域の交流、こどもへの多様な経験の提供など様々な役割を担っており、国としてもこの取組を支援しています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "各子ども食堂が決めている"
+  },
+  "updateDate": "2024/12/06",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

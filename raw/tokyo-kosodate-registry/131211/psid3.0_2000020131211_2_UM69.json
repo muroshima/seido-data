@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131211;足立区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部親子支援課児童手当係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020131211",
+    "psid": "psid3.0+2000020131211+2+UM69"
+  },
+  "belongings": "亡くなられた受給者が養育していたお子さまの普通預金通帳",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部親子支援課児童手当係（区役所中央館3階）",
+    "contactPhone": "03-3880-6492",
+    "contactUrl": "https://www.city.adachi.tokyo.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "児童手当(亡くなられた時の手続き)\n児童手当の受給者(手当の振込先に指定されている保護者)が亡くなられた場合、亡くなられた日で児童手当の受給資格が消滅します。\n亡くなられた方に代わってお子さまを養育する保護者の方は、下記の手続きが必要となります。\nなお、手続きは郵送でも可能です。郵送での手続きをご希望の場合は、必要書類等をお送りしますので一度ご連絡いただきますようお願いします。\n\n児童手当の新規申請\n今後お子さまを養育する方が児童手当を受給するには、新規に申請が必要です。申請に必要な物など、詳しくは児童手当のご案内;https://www.city.adachi.tokyo.jp/oyako/k-kyoiku/kosodate/teate-jidoteate.htmlをご覧ください。\n※受給者の方が亡くなられた日の翌日から15日以内に申請すれば、亡くなられた日の翌月分から児童手当を受給することができます。申請が遅れると手当がもらえない月が発生しますので、速やかに申請をお願いします。\n\n未支払金請求(亡くなられた受給者に未支払分の手当が残っている場合のみ)\n受給者が亡くなられた時期によっては、まだ支払われていない手当（未支払金）が残っている場合があります。(児童手当の受給者が亡くなられた場合、亡くなった月までの手当が支給されます。）\n未支払金が残っている場合は、請求をしていただくことで未支払金をお子さまの口座(注1参照)にお支払いします。\n\n未支払金の請求に必要なもの\n亡くなられた受給者が養育していたお子さまの普通預金通帳(注1参照)\n〔注1〕未支払金の振込口座に指定できるのは、亡くなられた受給者が養育していたお子さま(児童手当支給対象のお子さまが2人以上いる場合は、一番年上のお子さま)の口座のみです。\n\n受付窓口\n親子支援課児童手当係（足立区役所中央館3階）\n電話03-3880-6492\n\n郵送送付先\n郵便番号120-8510\n足立区中央本町一丁目17番1号\n足立区役所親子支援課児童手当係\n\n児童手当支給対象のお子さまが亡くなられた場合\n戸籍の死亡届を出されていれば、児童手当に関する届出は不要です。\n亡くなられたお子さまの児童手当は、亡くなられた月の分まで支給されます。\n支給要件のお子さまが1人もいなくなった場合は、お子さまが亡くなられた日で児童手当の受給資格が消滅します。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の遺児の方への金銭的支援",
+    "shortName": "児童手当(亡くなられた時の手続き)"
+  },
+  "localGovernmentLink": {
+    "title": "児童手当(亡くなられた時の手続き)",
+    "uri": "https://www.city.adachi.tokyo.jp/oyako/kurashi/todokede/n-jidoteate.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "足立区"
+  },
+  "procedureCounter": "親子支援課児童手当係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "未支払金の請求に必要なもの\n亡くなられた受給者が養育していたお子さまの普通預金通帳(注1参照)\n〔注1〕未支払金の振込口座に指定できるのは、亡くなられた受給者が養育していたお子さま(児童手当支給対象のお子さまが2人以上いる場合は、一番年上のお子さま)の口座のみです。\n\n受付窓口\n親子支援課児童手当係（足立区役所中央館3階）\n電話03-3880-6492\n\n郵送送付先\n郵便番号120-8510\n足立区中央本町一丁目17番1号\n足立区役所親子支援課児童手当係　",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "亡くなられた受給者に未支払分の手当が残っている場合",
+  "regulation": {
+    "regulationArticle": "第１２条",
+    "regulationName": "児童手当法、子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童手当の受給者(手当の振込先に指定されている保護者)が亡くなられた場合、亡くなられた日で児童手当の受給資格が消滅します。亡くなられた方に代わってお子さまを養育する保護者の方は、下記の手続きが必要となります。",
+  "support": {
+    "description": " 未支払金請求(亡くなられた受給者に未支払分の手当が残っている場合のみ)\n受給者が亡くなられた時期によっては、まだ支払われていない手当（未支払金）が残っている場合があります。(児童手当の受給者が亡くなられた場合、亡くなった月までの手当が支給されます。）\n未支払金が残っている場合は、請求をしていただくことで未支払金をお子さまの口座(注1参照)にお支払いします。",
+    "materiallySupport": null,
+    "monetarySupport": " 未支払金請求(亡くなられた受給者に未支払分の手当が残っている場合のみ)\n受給者が亡くなられた時期によっては、まだ支払われていない手当（未支払金）が残っている場合があります。(児童手当の受給者が亡くなられた場合、亡くなった月までの手当が支給されます。）\n未支払金が残っている場合は、請求をしていただくことで未支払金をお子さまの口座(注1参照)にお支払いします。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "091"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "亡くなられた方に代わってお子さまを養育する保護者の方"
+  },
+  "updateDate": "2023-06-08",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

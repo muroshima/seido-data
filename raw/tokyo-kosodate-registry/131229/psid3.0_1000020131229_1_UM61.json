@@ -1,0 +1,140 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て応援課ひとり親家庭相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+1+UM61"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区立石5-13-1　葛飾区役所4階　401番子育て支援窓口",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て応援課ひとり親家庭相談係",
+    "contactPhone": "03-5654-8276",
+    "contactUrl": null,
+    "zipCode": "1248555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自のひとり親の方への金銭的支援",
+    "shortName": "養育費の受け取りを支援します"
+  },
+  "localGovernmentLink": {
+    "title": "養育費の受け取りを支援します",
+    "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1002341/1026583.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "諸注意\n・申請者の状況や申請内容によって、提出書類が異なります。\n・申請に必要な領収書等は必ず取り置きして保管してください。\n・事前に子育て応援課までご相談ください。提出書類等をご案内します。\n・公正証書等作成日、保証会社との養育費立替保証契約締結日、\n  ADRを利用して養育費の取り決めをした日から起算して1年以内に申請してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第766条",
+    "regulationName": "民法第"
+  },
+  "relatedLink": [
+    {
+      "title": "葛飾区養育費に関する公正証書等作成助成交付要綱 （PDF 152.9KB）",
+      "uri": "https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/026/583/r6kousei.pdf"
+    },
+    {
+      "title": "養育費受け取り支援事業リーフレット （PDF 719.1KB）",
+      "uri": "https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/026/583/r6reaf.pdf"
+    },
+    {
+      "title": "葛飾区養育費に関する裁判外紛争解決手続費用助成交付要綱（PDF 150.8KB）",
+      "uri": "https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/026/583/r6adr.pdf"
+    },
+    {
+      "title": "葛飾区養育費に関する養育費立替保証契約に係る保証料助成交付要綱 （PDF 149.8KB）",
+      "uri": "https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/026/583/r6youiku.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子どもの最善の利益を守り、子どもが家庭の事情に左右されず安定した生活を送れるように、養育費の受け取りを支援します。",
+  "support": {
+    "description": "（1）公正証書等作成助成　【助成限度額】43,000円（一回限り）\n 養育費に係る強制執行認諾約款付公正証書、家庭裁判所の調停調書、審判書、確定判決のうち、いずれかの取り決めに要した費用の一部を助成します。（申請期限は確定した日から1年以内になります。）\n\n【対象経費】\n・公正証書等の作成に係る公証人手数料令（平成5年政令第224号）に定められた公証人手数料\n・家庭裁判所の調停申立てに要する収入印紙代及び連絡用の郵便切手代並びに戸籍謄本等添付書類取得費用\n・家庭裁判所の裁判に要する収入印紙代及び連絡用の郵便切手代並びに戸籍謄本等添付書類取得費用\n\n（2）養育費立替保証契約に係る保証料助成　【助成限度額】50,000円（一回限り）\n保証会社と1年以上の養育費立替保証契約を締結した際に負担した初回保証料を助成します。\n（申請期限は契約日から1年以内になります。）\n\n【対象経費】\n・助成対象者が保証会社と養育費立替保証契約を締結した際に、保証会社に支払った初回保証料\n\n（3）裁判外紛争解決手続（ADR）費用助成　【助成限度額】20,000円（一回限り）\nADRを利用して子の養育費の取り決めに要した費用の全部又は一部を助成します。\n\n【対象経費】\n・養育費の取決めに係る費用のうち、ADRに係る申込料及び依頼料に相当する費用並びに調停に要した費用(4)弁護士費用助成【助成限度額　33,000円（一回限り）\n　公正証書等の作成に係る弁護士への相談費用を負担した方【対象経費】養育費の取り決めに係る弁護士相談を受け、相談費用を支払った後、公正証書等を作成した日から1年以内。",
+    "materiallySupport": null,
+    "monetarySupport": "（1）公正証書等作成助成　【助成限度額】43,000円（一回限り）\n 養育費に係る強制執行認諾約款付公正証書、家庭裁判所の調停調書、審判書、確定判決のうち、いずれかの取り決めに要した費用の一部を助成します。（申請期限は確定した日から1年以内になります。）\n\n（2）養育費立替保証契約に係る保証料助成　【助成限度額】50,000円（一回限り）\n保証会社と1年以上の養育費立替保証契約を締結した際に負担した初回保証料を助成します。\n（申請期限は確定した日から1年以内になります。）\n\n（3）裁判外紛争解決手続（ADR）費用助成　【助成限度額】20,000円（一回限り）\nADRを利用して子の養育費の取り決めに要した費用の全部又は一部を助成します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "078"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "葛飾区民で、下記要件の全てを満たす方\n（1）ひとり親家庭の母または父である方\n（2）養育費の取り決めに係る公正証書等により、養育費を受け取る権利を有する方\n（3）養育費の取り決めの対象となる子どもを現に養育している方\n（4）過去に同種の補助金（他の地方公共団体から交付されるものを含む。）の交付を受けていない方\n\n【公正証書等作成助成の場合】\n（5）養育費の取り決めに係る公正証書等の費用を支払った方\n\n【養育費立替保証契約に係る保証料助成の場合】\n（6）保証会社と1年以上の養育費立替保証契約を締結し、その保証料を支払った方\n\n【裁判外紛争手続（ADR）費用助成の場合】\n（7） ADRを利用し、養育費を受け取る権利を有するひとり親であること。\n（8） 養育費の取決めに係るADRの費用を支払ったこと。【弁護士費用助成の場合】(9)　公正証書等の作成に係る弁護士への相談費用を負担した方。"
+  },
+  "updateDate": "2024-04-16",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

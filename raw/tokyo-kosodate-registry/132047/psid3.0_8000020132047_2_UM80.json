@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132047;三鷹市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども政策部子ども育成課私立学校・幼稚園係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132047",
+    "psid": "psid3.0+8000020132047+2+UM80"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三鷹市野崎一丁目1番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども政策部 子ども育成課 私立学校・幼稚園係",
+    "contactPhone": "0422-29-9674",
+    "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomo/index.html",
+    "zipCode": "1818555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "私立幼稚園では施設見学会を実施しています\n市内15園の私立幼稚園は、伝統と特色ある幼児教育を行っています。\n\n各幼稚園では、これからお子さんの入園を考えているご家庭向けに、施設見学会を随時実施しています。\n\n詳細については、各私立幼稚園に直接お問い合わせください。\n\n私立幼稚園情報について\n子ども育成課（市役所4階44番窓口）に、三鷹市私立幼稚園協会作成の案内パンフレットがあります。\n\nみたかきっずナビ（外部リンク）;https://kosodate-mitaka.mchh.jp/LGArticle/Index/3623?subGroupId=21&rootGroupId=5にも各園の情報を掲載しています。\n\nhttps://www.city.mitaka.lg.jp/c_service/066/066309.html\n\n関連リンク\nみたかきっずナビ（外部リンク）;https://kosodate-mitaka.mchh.jp/LGArticle/Index/3623?subGroupId=21&rootGroupId=5",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "幼稚園の利用について",
+    "shortName": "次年度入園に向けた施設見学会"
+  },
+  "localGovernmentLink": {
+    "title": "次年度入園に向けた施設見学会について",
+    "uri": "https://www.city.mitaka.lg.jp/c_service/066/066309.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "三鷹市"
+  },
+  "procedureCounter": "各私立幼稚園",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "詳細については、各私立幼稚園に直接お問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第26条",
+    "regulationName": "学校教育法"
+  },
+  "relatedLink": [
+    {
+      "title": "みたかきっずナビ（外部リンク）",
+      "uri": "https://kosodate-mitaka.mchh.jp/LGArticle/Index/3623?subGroupId=21&rootGroupId=5"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "幼稚園とは、学校教育法に基づき、満3歳から小学校就学前までのお子さんに幼児教育を提供する施設（学校）です。1日5時間の教育を標準とし、小学校や中学校のように夏休みや春休みなどもありますが、多くの園で教育時間終了後や長期休暇中の預かりも行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "これからお子さんの入園を考えているご家庭向け"
+  },
+  "updateDate": "2024-06-14",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

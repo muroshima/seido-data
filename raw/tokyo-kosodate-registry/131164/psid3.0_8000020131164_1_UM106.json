@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援センター東部子ども家庭支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+1+UM106"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援センター東部子ども家庭支援センター",
+    "contactPhone": "03-5980-5275",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子育て訪問相談\n子育て訪問相談員がご自宅に伺い、子育てについての相談をお受けします。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "年末年始",
+  "implementationPeriod": {
+    "conditions": "月～金9時00分～17時00分（年末年始を除く）\n（年末年始を除く）",
+    "fromHM": "09:00",
+    "fromYMD": null,
+    "toHM": "17:00",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "ご自宅"
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関するサポート",
+    "shortName": "子育て訪問相談（子ども家庭支援センター）"
+  },
+  "localGovernmentLink": {
+    "title": "子育て訪問相談（子ども家庭支援センター）",
+    "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/001743/022783.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "妊娠から出産・子育て期の相談支援および経済的支援",
+      "uri": "https://www.city.toshima.lg.jp/219/kosodate/ninshin/2303161305.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子育て訪問相談員がご自宅に伺い、子育てについての相談をお受けします。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住の妊産婦から就学前のお子さんがいるご家庭\n（就学後～18歳未満の子育て家庭もご相談いただけます）"
+  },
+  "updateDate": "2023-03-22",
+  "useConsiderationFlag": false,
+  "utilization": "相談したいという時はご連絡ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

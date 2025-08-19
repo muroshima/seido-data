@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "131075;墨田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131075",
+    "psid": "psid3.0+6000020131075+1+UM67"
+  },
+  "belongings": "基本料金免除申請書（子育て支援課の窓口又は水道局墨田営業所の窓口にあります。）\n水道料金領収書\n特別児童扶養手当証書\n印鑑",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都墨田区吾妻橋一丁目23番20号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども・子育て支援部　子育て支援課　児童手当・医療助成係",
+    "contactPhone": "03-5608-1439",
+    "contactUrl": null,
+    "zipCode": "1308640"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "特別児童扶養手当\n\n優遇制度\n特別児童扶養手当を受給している方に限り、次の手続が可能です。\n新規に特別児童扶養手当を申請された方は、特別児童扶養手当証書が届いた後に手続が可能になります。\n\n（1）都営水道料金の免除\n水道料金は基本料金（消費税相当額を含む）が免除されます。\n下水道料金は1か月8立方メートル以下の汚水排出量にかかる料金（消費税相当額を含む）が免除されます。\n免除を受けられる方\n墨田区にお住まいの特別児童扶養手当の支給を受ける方\n\n免除を受けるときの手続\n次の書類等をお持ちになり、水道局窓口へ申請してください。\n\n基本料金免除申請書（子育て支援課の窓口又は水道局墨田営業所の窓口にあります。）\n水道料金領収書\n特別児童扶養手当証書\n印鑑\n受付窓口\n水道局墨田営業所\n〒130-0025　墨田区千歳二丁目2番11号\n電話：03-5638-3140",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の障がいのあるお子さんなどへの金銭的支援",
+    "shortName": "都営水道料金の免除"
+  },
+  "localGovernmentLink": {
+    "title": "特別児童扶養手当",
+    "uri": "https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/teate_jyosei_shien/teate_zyosei/teate/tokubetujidohuyo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-01",
+    "updater": "墨田区"
+  },
+  "procedureCounter": "水道局墨田営業所\n〒130-0025　墨田区千歳二丁目2番11号\n電話：03-5638-3140",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "免除を受けるときの手続\n次の書類等をお持ちになり、水道局窓口へ申請してください。\n\n基本料金免除申請書（子育て支援課の窓口又は水道局墨田営業所の窓口にあります。）\n水道料金領収書\n特別児童扶養手当証書\n印鑑",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第30条",
+    "regulationName": "東京都給水条例"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "20歳未満の障害のあるお子さんの保護者を対象に、都営水道料金を免除しています。",
+  "support": {
+    "description": "水道料金は基本料金（消費税相当額を含む）が免除されます。\n下水道料金は1か月8立方メートル以下の汚水排出量にかかる料金（消費税相当額を含む）が免除されます",
+    "materiallySupport": null,
+    "monetarySupport": "水道料金は基本料金（消費税相当額を含む）が免除されます。\n下水道料金は1か月8立方メートル以下の汚水排出量にかかる料金（消費税相当額を含む）が免除されます"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "墨田区にお住まいの特別児童扶養手当の支給を受ける方"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保育課幼稚園・認可外保育施設担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+1+UM93"
+  },
+  "belongings": null,
+  "capacity": "https://www.city.kodaira.tokyo.jp/kurashi/012/012620.html",
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市小川町2-1333　市役所2階",
+    "contactComment": "FAX：042-346-9200",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保育課幼稚園・認可外保育施設担当",
+    "contactPhone": "042-346-9645",
+    "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+    "zipCode": "1878701"
+  },
+  "cost": null,
+  "costConditions": "月額　21,000円のほかに、雑費月額2,000円、給食費1回250円（原則弁当持参）がかかります。時間外は1時間600円、おやつ1回200円です（持参可）。",
+  "description": "家庭福祉員\n保護者が勤めているなどの理由で、家庭で保育にあたれない生後57日から2歳児を保育します。\n\n認定家庭福祉員（保育ママ）\n家庭福祉員の特徴\n\n家族的雰囲気の中で、子どもの発達や家庭の状況に合わせて、ひとりひとりを大切に保育します。\n\n生後57日から2歳児を、1人の保育ママが3人（補助者がいる場合は5人）まで保育します。\n\n保育時間\n\n午前7時30分～午後6時（基本時間は9時間。早朝、延長保育は各施設に問い合わせてください）。\n\n保育料\n\n月額　21,000円のほかに、雑費月額2,000円、給食費1回250円（原則弁当持参）がかかります。時間外は1時間600円、おやつ1回200円です（持参可）。\n\n申込み\n\n各家庭福祉員への直接申込み\n\n認定家庭福祉員（保育ママ）\nhttps://www.city.kodaira.tokyo.jp/kurashi/012/012620.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "家庭的保育（保育ママ）一覧",
+    "shortName": "家庭福祉員"
+  },
+  "localGovernmentLink": {
+    "title": "家庭福祉員",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/012/012620.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "小平市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "各家庭福祉員への直接申込み",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "小平市認定家庭福祉員制度運営要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "保育ママの空き情報",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/003/003619.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "市区町村の認可事業として行われる家庭的保育（保育ママ）は、3歳未満の保育が必要なお子さんを、少人数（定員5人以下）で、小平市が認定した家庭的保育者の自宅などで預かるサービスです。家庭的な雰囲気の中できめ細かな保育を実施します。",
+  "support": {
+    "description": "家族的雰囲気の中で、子どもの発達や家庭の状況に合わせて、ひとりひとりを大切に保育します。\n\n生後57日から2歳児を、1人の保育ママが3人（補助者がいる場合は5人）まで保育します。",
+    "materiallySupport": "家族的雰囲気の中で、子どもの発達や家庭の状況に合わせて、ひとりひとりを大切に保育します。\n\n生後57日から2歳児を、1人の保育ママが3人（補助者がいる場合は5人）まで保育します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後57日から2歳児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "保護者が勤めているなどの理由で、家庭で保育にあたれない生後57日から2歳児"
+  },
+  "updateDate": "2023-10-03",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "午前7時30分～午後6時（基本時間は9時間。早朝、延長保育は各施設に問い合わせてください）。",
+    "fromHM": "07:30",
+    "toHM": "18:00"
+  }
+}

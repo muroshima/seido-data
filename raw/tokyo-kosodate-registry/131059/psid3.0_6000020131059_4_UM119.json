@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "131059;文京区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子ども家庭支援センター児童支援・予防係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131059",
+    "psid": "psid3.0+6000020131059+4+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都文京区春日1丁目16番21号\n文京シビックセンター5階",
+    "contactComment": "ファクス番号：03-5803-1345",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部子ども家庭支援センター児童支援・予防係",
+    "contactPhone": "03-5803-1104",
+    "contactUrl": "https://logoform.jp/form/6KSu/553778",
+    "zipCode": "1128555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子ども応援サポート室\n経済的な困りごとや生活上のさまざまな悩みを抱えている子育て世帯の相談窓口です。\n\nひとりで悩まず一度相談してください。\n\n相談内容一例\n経済的なことで進学したくてもできない・・\n塾にいきたいけど、いけない・・\n所持金がなく、食べるものに困っている・・\nひとり親のため、育児や生活が大変・・\n各種手当てや助成制度を知りたい・・など\n対象\n区内在住の18歳未満の方またはその保護者等\n\n相談日時\n月曜日～金曜日（祝日・12月29日～1月3日・臨時休館日を除く）\n午前9時から午後5時\n（上記受付時間以外は留守番電話で受付）\n相談方法\n電話・・・相談専用電話:03(5803)1900\n（上記受付時間以外は留守番電話で受付）\nメール・・下記の相談専用フォームよりご相談ください\n相談専用フォームはこちら（外部リンク）;https://logoform.jp/form/6KSu/398843\n窓口・・・来所の場合は、事前にお電話にてご予約ください\n子ども応援サポート室　ポスター;https://www.city.bunkyo.lg.jp/images/1822/20243269532_1.jpg\n\n(子ども応援サポート室ポスター（PDF：2,183KB）);https://www.city.bunkyo.lg.jp/documents/1822/202432693755_1.pdf",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "相談専用フォームはこちら（外部リンク）",
+      "uri": "https://logoform.jp/form/6KSu/398843"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "文京区の子育てに関する相談",
+    "shortName": "子ども応援サポート室"
+  },
+  "localGovernmentLink": {
+    "title": "子ども応援サポート室",
+    "uri": "https://www.city.bunkyo.lg.jp/b024/p001834.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-30",
+    "updater": "文京区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "電話・・・相談専用電話:03(5803)1900\n（上記受付時間以外は留守番電話で受付）\nメール・・下記の相談専用フォームよりご相談ください\n相談専用フォームはこちら（外部リンク）;https://logoform.jp/form/6KSu/398843\n窓口・・・来所の場合は、事前にお電話にてご予約ください",
+  "procedurePeriod": {
+    "conditions": "電話・・・相談専用電話:03(5803)1900\n（上記受付時間以外は留守番電話で受付）\nメール・・下記の相談専用フォームよりご相談ください\n相談専用フォームはこちら（外部リンク）;https://logoform.jp/form/6KSu/398843\n窓口・・・来所の場合は、事前にお電話にてご予約ください",
+    "fromHM": "09:00",
+    "fromYMD": null,
+    "toHM": "17:00",
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "(子ども応援サポート室ポスター（PDF：2",
+      "uri": "https://www.city.bunkyo.lg.jp/documents/1822/202432693755_1.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "経済的な困りごとや生活上の悩みの相談",
+  "support": {
+    "description": "経済的な困りごとや生活上のさまざまな悩みを抱えている子育て世帯の相談窓口です。",
+    "materiallySupport": "経済的な困りごとや生活上のさまざまな悩みを抱えている子育て世帯の相談窓口です。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "18歳未満の方またはその保護者等",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住の18歳未満の方またはその保護者等"
+  },
+  "updateDate": "2024-03-29",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日～金曜日（祝日・12月29日～1月3日・臨時休館日を除く）\n午前9時から午後5時\n（上記受付時間以外は留守番電話で受付）",
+    "fromHM": "09:00",
+    "toHM": "17:00"
+  }
+}

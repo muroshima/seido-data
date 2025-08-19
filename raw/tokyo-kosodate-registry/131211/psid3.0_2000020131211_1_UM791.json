@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131211;足立区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健予防課保健予防係（区役所南館２階）\n各保健センター等;https://www.city.adachi.tokyo.jp/esekanri/fukushi-kenko/kenko/hoken-center-ichiran.html",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020131211",
+    "psid": "psid3.0+2000020131211+1+UM791"
+  },
+  "belongings": "母子健康手帳に綴じこまれているハガキ（＝赤ちゃん訪問連絡票【出生通知票】）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健予防課保健予防係（区役所南館２階）\n各保健センター等;https://www.city.adachi.tokyo.jp/esekanri/fukushi-kenko/kenko/hoken-center-ichiran.html",
+    "contactPhone": "03-3880-5892",
+    "contactUrl": "https://www.city.adachi.tokyo.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "赤ちゃん訪問連絡票（出生通知票）\n赤ちゃんの発育状況の確認やお母さんの育児不安を軽減するため、助産師・保健師が家庭訪問を行っています。赤ちゃんが生まれたら、出生届と一緒に、母子健康手帳にとじ込まれているハガキ（＝赤ちゃん訪問連絡票【出生通知票】）をご提出ください。\n\n→詳しくは「こんにちは赤ちゃん訪問」;https://www.city.adachi.tokyo.jp/hoken/k-kyoiku/kosodate/ninshin-konnichiha.htmlのページをご確認ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出生連絡票・低体重児出生届",
+    "shortName": "赤ちゃん訪問連絡票（出生通知票）"
+  },
+  "localGovernmentLink": {
+    "title": "妊娠届・母子健康手帳の交付・赤ちゃん訪問連絡票（出生通知票）",
+    "uri": "https://www.city.adachi.tokyo.jp/hoken/k-kyoiku/kosodate/ninshin-shussho.html#p2"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "足立区"
+  },
+  "procedureCounter": "足立区役所窓口",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "ちゃんの発育状況の確認やお母さんの育児不安を軽減するため、助産師・保健師が家庭訪問を行っています。赤ちゃんが生まれたら、出生届と一緒に、母子健康手帳にとじ込まれているハガキ（＝赤ちゃん訪問連絡票【出生通知票】）をご提出ください。\n→詳しくは「こんにちは赤ちゃん訪問」;https://www.city.adachi.tokyo.jp/hoken/k-kyoiku/kosodate/ninshin-konnichiha.htmlのページをご確認ください。\n",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第18条（低体重児の届出）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "「こんにちは赤ちゃん訪問」",
+      "uri": "https://www.city.adachi.tokyo.jp/hoken/k-kyoiku/kosodate/ninshin-konnichiha.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "赤ちゃんが生まれたら、母子手帳に添付されている出生連絡票（はがき）を記入して、郵送または提出してください。また、はがきに記載されている二次元コードからオンライン申請も受け付けております。出生連絡票をもとに、「こんにちは赤ちゃん事業（乳幼児全戸訪問）」のご連絡をします。\nなお、法律（母子保健法）で2,500グラム未満のお子さんが出生した時は、保護者がその旨を速やかに届け出ることが義務づけられており、出生連絡票はその届出を兼ねています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

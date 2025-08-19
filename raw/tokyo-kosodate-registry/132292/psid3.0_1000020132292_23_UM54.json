@@ -1,0 +1,136 @@
+{
+  "area": {
+    "areaCode": "132292;西東京市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132292",
+    "psid": "psid3.0+1000020132292+23+UM54"
+  },
+  "belongings": "母子健康手帳、予診票",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "西東京市中町一丁目5番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康課",
+    "contactPhone": "042-438-4021",
+    "contactUrl": null,
+    "zipCode": "2028555"
+  },
+  "cost": null,
+  "costConditions": "無料",
+  "description": "ポリオワクチン予防接種（個別）\n\n平成24年9月1日から、ポリオワクチンは不活化ワクチンになりました。\n\nポリオ（小児まひ）とは\nポリオウイルスは、ヒトからヒトへと感染します。\n口から入ったポリオウイルスは、咽頭や小腸の細胞で増殖します。ウイルスは、小腸の細胞で4日間から35日間（平均7日間から14日間）増殖すると言われています。増殖したウイルスは、便中に排出され、再びヒトの口に入り抵抗力（免疫）をもっていないヒトの腸内で増殖します。\nポリオウイルスに感染しても、ほとんどの場合は症状が出ず、一生抵抗力（終生免疫）が得られます。症状が出る場合、ウイルスの感染が血液を介して脳・脊髄へ広まり、麻痺を起こすことがあります。感染すると100人中5人から10人は、かぜのような症状が出て、発熱・頭痛・嘔吐があらわれます。感染者約1,000人から2,000人に1人の割合で手足の麻痺を起こし、一部の人は、麻痺が永久に残ります。また、麻痺症状が進行し、呼吸困難により死亡することもあります。\n\n対象年齢\n生後3か月から7歳6か月未満\n注記：「未満」とは、誕生日の前日までです。\n\n接種回数及び接種間隔\n初回接種（3回）、追加接種（1回）の合計4回\n接種間隔は、1回目の接種の翌日から20日以上後に2回目を接種、2回目の接種の翌日から20日以上後に3回目を接種、3回目の接種の翌日から6か月以上後に追加（4回目）を接種します。\n\n接種費用\n無料\n\n接種当日の持ち物\n母子健康手帳、予診票\n\n予診票について\n詳しくは、子どもの予防接種のご案内;https://www.city.nishitokyo.lg.jp/kosodate/bosi/yobosessyu/kodomoyobouseshu.htmlの「予診票について」をご覧ください。\n\n実施医療機関\n西東京市個別予防接種指定医療機関;https://www.city.nishitokyo.lg.jp/kosodate/bosi/yobosessyu/sitei_iryou_kikan.html\n\nポリオワクチンの詳細については以下のページをご覧ください。\n厚生労働省（ポリオワクチン）のページ（外部リンク）;http://www.mhlw.go.jp/bunya/kenkou/polio/",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "西東京市個別予防接種指定医療機関;https://www.city.nishitokyo.lg.jp/kosodate/bosi/yobosessyu/sitei_iryou_kikan.html"
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "ポリオワクチン予防接種（個別）"
+  },
+  "localGovernmentLink": {
+    "title": "ポリオワクチン予防接種（個別）",
+    "uri": "https://www.city.nishitokyo.lg.jp/kosodate/bosi/yobosessyu/poliokobetu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-10",
+    "updater": "西東京市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）",
+    "regulationName": "予防接種法"
+  },
+  "relatedLink": [
+    {
+      "title": "子どもの予防接種のご案内",
+      "uri": "https://www.city.nishitokyo.lg.jp/kosodate/bosi/yobosessyu/kodomoyobouseshu.html"
+    },
+    {
+      "title": "西東京市個別予防接種指定医療機関",
+      "uri": "https://www.city.nishitokyo.lg.jp/kosodate/bosi/yobosessyu/sitei_iryou_kikan.html"
+    },
+    {
+      "title": "厚生労働省（ポリオワクチン）のページ（外部リンク）",
+      "uri": "http://www.mhlw.go.jp/bunya/kenkou/polio/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+  "support": {
+    "description": "初回接種（3回）、追加接種（1回）の合計4回\n接種間隔は、1回目の接種の翌日から20日以上後に2回目を接種、2回目の接種の翌日から20日以上後に3回目を接種、3回目の接種の翌日から6か月以上後に追加（4回目）を接種します。",
+    "materiallySupport": "初回接種（3回）、追加接種（1回）の合計4回\n接種間隔は、1回目の接種の翌日から20日以上後に2回目を接種、2回目の接種の翌日から20日以上後に3回目を接種、3回目の接種の翌日から6か月以上後に追加（4回目）を接種します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後3か月から7歳6か月未満\n注記：「未満」とは、誕生日の前日までです。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 3
+    },
+    "lessThan": {
+      "targetAge": 7,
+      "targetAgeOfMonths": 6
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生後3か月から7歳6か月未満\n注記：「未満」とは、誕生日の前日までです。"
+  },
+  "updateDate": "2023-05-09",
+  "useConsiderationFlag": false,
+  "utilization": "予診票について\n詳しくは、子どもの予防接種のご案内;https://www.city.nishitokyo.lg.jp/kosodate/bosi/yobosessyu/kodomoyobouseshu.htmlの「予診票について」をご覧ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

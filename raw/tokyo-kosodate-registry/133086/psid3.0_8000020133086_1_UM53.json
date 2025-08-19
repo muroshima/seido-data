@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "133086;奥多摩町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健福祉センター　母子保健担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020133086",
+    "psid": "psid3.0+8000020133086+1+UM53"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "奥多摩町氷川1111",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健福祉センター　母子保健担当",
+    "contactPhone": "0428-83-2777",
+    "contactUrl": null,
+    "zipCode": "1980212"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "すくすく健康診査（5 歳児健康診査）、すくすく健康診査事後相談\n就学までおよそあと1 年を迎えたお子さんを対象に行います。\nお子さんの成長、発達で何か心配事のある方、特に心配のない方もご利用ください。\n対象：年中児のお子さん\n日程：対象となる方には、およそ1 か月前に通知します。\n場所：保健福祉センター",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "日程：対象となる方には、およそ1 か月前に通知します。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の乳幼児健診",
+    "shortName": "すくすく健康診査（5 歳児健康診査）"
+  },
+  "localGovernmentLink": {
+    "title": "奥多摩町の福祉サービス（母子・子育て編）2024年度版 (PDFファイル: 1.4MB)",
+    "uri": "https://www.town.okutama.tokyo.jp/material/files/group/7/fukushikosodate2024.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-12",
+    "updater": "奥多摩町"
+  },
+  "procedureCounter": "保健福祉センター　母子保健担当",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "奥多摩町では、就学までおよそあと1 年を迎えたお子さんを対象に、すくすく健康診査及び事後相談を実施しています。お子さんの成長、発達で何か心配事のある方、特に心配のない方もご利用ください。",
+  "support": {
+    "description": "就学までおよそあと1 年を迎えたお子さんを対象に行います。\n　お子さんの成長、発達で何か心配事のある方、特に心配のない方もご利用ください。",
+    "materiallySupport": "就学までおよそあと1 年を迎えたお子さんを対象に行います。\n　お子さんの成長、発達で何か心配事のある方、特に心配のない方もご利用ください。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "年中児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "年中児"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "日程：対象となる方には、およそ1 か月前に通知します。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

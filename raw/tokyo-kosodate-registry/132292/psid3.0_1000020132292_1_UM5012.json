@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "132292;西東京市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132292",
+    "psid": "psid3.0+1000020132292+1+UM5012"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "西東京市中町一丁目5番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康課",
+    "contactPhone": "042-438-4021",
+    "contactUrl": null,
+    "zipCode": "2028555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子どもが欲しいと思っている方へ\n\n不妊・不育に悩む方へ東京都助成事業の案内\n東京都では、不妊・不育に悩む方のために、以下のとおり助成を行っています。\n\n不妊検査等助成事業について\n東京都では、子供を望む夫婦が早期に検査を受け、必要に応じて適切な治療を開始することができるよう、不妊検査及び薬物療法や人工授精等の一般不妊治療にかかる費用の一部を助成しています。\n\n関連リンク\n東京都不妊検査等助成事業（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/funinkensa/index.html\n\n不育症検査助成事業について\n東京都では、妊娠はするものの、2回以上の流産や死産等を繰り返し、結果的に子供を持てないとされる、いわゆる不育症について、リスク因子を特定し、適切な治療及び出産につなげるため、検査にかかる費用の一部を助成しています。\n\n関連リンク\n東京都不育症検査助成（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/fuikushoukensa/index.html\n\n申請に必要な書類について\n申請書類様式は、東京都福祉局ホームページからダウンロードすることができます。また、保谷保健福祉センター（健康課）窓口でも配布しております。\n\n※事業内容及び申請については、東京都福祉局にお問合せください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "不育症検査費用の助成",
+    "shortName": "不育症検査助成事業"
+  },
+  "localGovernmentLink": {
+    "title": "子どもが欲しいと思っている方へ",
+    "uri": "https://www.city.nishitokyo.lg.jp/kosodate/bosi/funin.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-10",
+    "updater": "西東京市"
+  },
+  "procedureCounter": "東京都福祉局",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請書類様式は、東京都福祉局ホームページからダウンロードすることができます。また、保谷保健福祉センター（健康課）窓口でも配布しております。\n\n※事業内容及び申請については、東京都福祉局にお問合せください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条第2項",
+    "regulationName": "少子化社会対策基本法"
+  },
+  "relatedLink": [
+    {
+      "title": "東京都不育症検査助成（外部リンク）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/fuikushoukensa/index.html"
+    },
+    {
+      "title": "東京都不妊検査等助成事業（外部リンク）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/funinkensa/index.html"
+    },
+    {
+      "title": "東京都不妊・不育ホットライン（外部リンク）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/h_soudan.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "東京都では、妊娠はするものの、2回以上の流産や死産等を繰り返し、結果的に子供を持てないとされる、いわゆる不育症について、リスク因子を特定し、適切な治療及び出産につなげるため、検査にかかる費用の一部を助成しています。",
+  "support": {
+    "description": "東京都では、妊娠はするものの、2回以上の流産や死産等を繰り返し、結果的に子供を持てないとされる、いわゆる不育症について、リスク因子を特定し、適切な治療及び出産につなげるため、検査にかかる費用の一部を助成しています。\n\n関連リンク\n東京都不育症検査助成（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/fuikushoukensa/index.html",
+    "materiallySupport": null,
+    "monetarySupport": "東京都では、妊娠はするものの、2回以上の流産や死産等を繰り返し、結果的に子供を持てないとされる、いわゆる不育症について、リスク因子を特定し、適切な治療及び出産につなげるため、検査にかかる費用の一部を助成しています。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "不妊・不育に悩む方"
+  },
+  "updateDate": "2023-12-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

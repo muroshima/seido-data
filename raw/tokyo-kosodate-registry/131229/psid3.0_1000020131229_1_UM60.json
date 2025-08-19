@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て応援課ひとり親家庭相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+1+UM60"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区立石5-13-1　葛飾区役所4階　401番子育て支援窓口",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て応援課ひとり親家庭相談係",
+    "contactPhone": "03-5654-8276",
+    "contactUrl": null,
+    "zipCode": "1248555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "高等職業訓練促進給付金",
+    "shortName": "ひとり親家庭高等職業訓練促進給付金等"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親家庭自立支援給付金事業",
+    "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1002341/1002470.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第31条（母子家庭自立支援給付金）、第31条の10（父子家庭自立支援給付金）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭の母又は父が、就職に有利な国家資格等を取得するために、養成機関で6か月以上(最長4年）修業する場合、生活費の負担軽減のため、高等職業訓練促進給付金を支給し、修了時は修了支援給付金（職業訓練受講給付金、訓練延長給付金及び教育訓練支援給付金等を受給された方は対象外）を支給します。また、求職者支援制度や雇用保険法による失業手当の延長給付を受けながら、高等職業訓練促進給付金の対象となる条件を満たした資格取得を目指す方を対象に、職業訓練受講給付金等差額給付金を支給します。\n※受講開始前に必ず事前相談を受けてください。",
+  "support": {
+    "description": "①高等職業訓練促進給付金　支給対象期間　修業期間に相当する期間（上限4年・申請月から支給・月単位　　ただし、修業期間中に子が20歳となる場合、子が20歳を迎えた誕生月までの支給となります）　　給付額　特別区民税非課税世帯　月額(上限）200,000円　　特別区民税課税世帯　月額（上限）170,500円　　前記の金額には区の加算額が含まれています。区の加算額は失業手当や遺族年金など、他に生活給付金がある場合は、受給額により減額又は区加算の対象とならない場合があります。\n②修了支援給付金　支給対象期間　修業期間修了後に支給（ただし、修業開始日及びカリキュラムを修了した日に対象資格の要件をすべて満たす必要があります。また、修了支援給付金は、③職業訓練受講給付金等差額給付金の対象者には支給されません。　　給付額　特別区民税非課税世帯　50,000円　　特別区民税非課税世帯　25,000円\nただし、①②の支給要件は、ハローワークで職業訓練に伴って支給される「職業訓練受講給付金」「教育訓練支給給付金」「訓練延長給付金」等公的給付金を受給していないこと。　　\n③職業訓練受講給付金等差額給付金　修業期間に相当する期間（上限4年・申請月から支給・月単位　　ただし、修業期間中に子が20歳となる場合、子が20歳を迎えた誕生日月までの支給となります。　給付額（上限）150,000円　ただし、前記金額から「職業訓練受講給付金」や「失業手当の延長給付」の金額を差し引いた額を支給します。受給額によって支給対象とならない場合があります。　　支給要件　ハローワークで「教育訓練支援給付金」を受給していないこと。「職業訓練受講給付金」又は「訓練延長給付金」を受給していること。",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "008"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象となる方（以下の要件をすべて満たす方）\n ・区内に居住し、20歳未満の児童を扶養している方\n・児童扶養手当の支給を受けている方又は同様の所得水準にある方\n（申請時点で支給水準を超えてから１年以内の方も対象となります）\n 　・就業又は育児と修業との両立が困難であると認められる方\n   ・対象資格の養成機関で6ヶ月以上のカリキュラム（原則、通信を除く）を修業し、資格取得が見込まれる方\n　 ・過去にこの制度を利用していない方\n   ・原則、他に国家資格等をお持ちでない方\n   ・資格取得後も区内に在住される方\n　 ・高等職業訓練を受けることが就業するために必要と認められる方\n"
+  },
+  "updateDate": "2023-07-20",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "障害福祉課児童・障害児支援グループ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+1+UM5035"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "障害福祉課",
+    "contactPhone": "03-3981-1766",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": "原則として、サービス利用金額の1割分が自己負担となります。ただし、住民税の所得割額によって利用者負担上限月額が定められています。詳細は、障害児通所支援の利用者負担について（PDF：233KB）https://www.city.toshima.lg.jp/503/documents/r4riyousyafutannituite.pdf\nをご確認ください。\n未就学の児童について、3歳から5歳児の方（3歳になって初めての4月1日から就学前の3月31日まで）は、国の無償化制度の対象となるため、利用者負担額は0円です。\n0歳から2歳児の方は、豊島区独自助成の対象となるため、利用者負担額は0円です。\nただし、サービス提供時にかかった医療費や教材費、軽食費は自己負担が発生します。各事業所へご確認ください。",
+  "costConditions": null,
+  "description": "障害児通所支援には下記のサービスがあります。\n児童発達支援\n放課後等デイサービス\n居宅訪問型児童発達支援\n保育所等訪問サービス",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "障害児支援の利用について",
+    "shortName": "障害児通所支援（児童発達支援、放課後等デイサービスなど）"
+  },
+  "localGovernmentLink": {
+    "title": "障害児通所支援（児童発達支援、放課後等デイサービスなど）",
+    "uri": "https://www.city.toshima.lg.jp/503/2009051258.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-10-24",
+    "updater": "豊島区"
+  },
+  "procedureCounter": "障害福祉課児童・障害児支援グループ",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第21条の5の6（通所支援）、第24条の３（入所支援）",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "区内事業所一覧（PDF：152KB）",
+      "uri": "\nhttps://www.city.toshima.lg.jp/503/documents/240801jigyoushoitiran.pdf"
+    },
+    {
+      "title": "区内事業所の地図（PDF：872KB）",
+      "uri": "\nhttps://www.city.toshima.lg.jp/503/documents/240801jigyoushonotizu.pdf"
+    },
+    {
+      "title": "障害児支援利用計画の作成について（PDF：153KB）",
+      "uri": "\nhttps://www.city.toshima.lg.jp/503/documents/99keikakusoudannituite.pdf"
+    },
+    {
+      "title": " 令和6年度新規指定事業所",
+      "uri": "\nhttps://www.city.toshima.lg.jp/503/documents/2404081352.html"
+    },
+    {
+      "title": "令和5年度新規指定事業所",
+      "uri": "\nhttps://www.city.toshima.lg.jp/503/documents/2402281511.html"
+    },
+    {
+      "title": "障害児通所支援の手引き（PDF：744KB）",
+      "uri": "https://www.city.toshima.lg.jp/503/documents/r4syougaizituusyosiennnotebiki.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "障害児への支援には、「障害児通所支援」と「障害児入所支援」があります。\n「障害児通所支援」には、主に就学前のこどもを対象とする「児童発達支援」、主に学齢期のこどもを対象とする「放課後等デイサービス」、外出することが困難な重度の障害の状態にあるこどもを対象とする「居宅訪問型児童発達支援」、保育所等に通うこどもに対し保育所等を訪問して支援を行う「保育所等訪問支援」があります。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004",
+      "005",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090",
+      "092"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-08-13",
+  "useConsiderationFlag": false,
+  "utilization": "次の2点の準備ができましたら、電話にてご相談ください。手続きの流れをご説明します。\n事業所を見学し、利用したい事業所と日数を決める。\n資格要件\n申請後に児童と保護者の方と面談を行います。\n申請から受給者証の発行まで2週間程度かかります。事前相談も可能ですので、まず一度ご連絡ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

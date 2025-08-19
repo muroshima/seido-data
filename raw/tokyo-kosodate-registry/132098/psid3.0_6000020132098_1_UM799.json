@@ -1,0 +1,142 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "​​​​​​​保健所保健予防課母子保健係,子ども生活部子ども家庭支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+1+UM799"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "​​​​​​​保健所保健予防課母子保健係,子ども生活部子ども家庭支援課",
+    "contactPhone": "電話 042-725-5471,電話 042-724-4419",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "2024年4月 町田市子ども家庭センターの設置\n\n子ども家庭センターとは\n児童福祉法の改正を受け、全ての妊産婦、子育て世帯、子どもが安心して生活できるように、母子保健（保健予防課母子保健係）と児童福祉（子ども家庭支援課）が連携・協働して、一体的な支援を行う「町田市子ども家庭センター」を2024年4月に設置しました。妊娠・出産・子育てに関する様々な不安や悩み、困りごと、子どもひとりひとりの成長、家庭環境など、身近な相談に応じて、様々なニーズに即した必要な支援を行ってまいります。\n\n各部門の取り組み\n保健予防課母子保健係\n\n子ども家庭支援課\n\n関係機関向け資料",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": "2024/04/01",
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "子ども家庭センター"
+  },
+  "institutionName": {
+    "canonicalName": "こども家庭センター",
+    "shortName": "子ども家庭センター"
+  },
+  "localGovernmentLink": {
+    "title": "2024年4月 町田市子ども家庭センターの設置",
+    "uri": "https://kosodate-machida.tokyo.jp/soshiki/4/5/3/12489.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/25",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "こども家庭センターガイドライン（こども家庭庁）",
+      "uri": "https://kosodate-machida.tokyo.jp/material/files/group/9/kodomokateisentaguideline.pdf"
+    },
+    {
+      "title": "子育て相談全般",
+      "uri": "https://kosodate-machida.tokyo.jp/soshiki/4/5/5/index.html"
+    },
+    {
+      "title": "子育てナビ",
+      "uri": "https://kosodate-machida.tokyo.jp/kosodate_navi.html"
+    },
+    {
+      "title": "母子の健康",
+      "uri": "https://kosodate-machida.tokyo.jp/mokuteki/1/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "町田市の【子ども家庭センター】では、全ての妊産婦・子育て家庭に対する相談等への対応、サポートプランに基づく妊産婦の健康やこどもの養育に関する支援などを行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊娠・出産・子育てに関して「どこに相談したら良いのかわからない」とお困りの方"
+  },
+  "updateDate": "2024/06/13",
+  "useConsiderationFlag": false,
+  "utilization": "妊娠・出産・子育てに関して「どこに相談したら良いのかわからない」とお困りの方は、お気軽にご相談ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

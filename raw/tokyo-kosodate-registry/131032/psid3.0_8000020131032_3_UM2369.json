@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局教育推進部教育長室教育総務係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+3+UM2369"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファックス番号：03-3578-2759\n\n外国語対応が必要な人、通訳オペレーター、区の職員の3人で会話ができます。\n\n多言語対応三者通話サービス;https://www.multilingualinterpretercallservice.city.minato.tokyo.jp/kokusai",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "教育委員会事務局教育推進部教育長室教育総務係",
+    "contactPhone": "03-3578-2712",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "保育料等に対する給付（施設等利用給付）\n保育料等に対する補助金のお知らせ（PDF：637KB）;https://www.city.minato.tokyo.jp/kyouikushomu/documents/sisetuhogosyaosirase.pdf\n\n対象者：全員\n\n各私立幼稚園が定める保育料をお支払いいただいた上で、後から、国の制度に基づく月額25,700円までの給付金と月額7,700円（※）を上限とした区の補助金が交付されます（償還払い）。\n\n※低所得世帯及び多子世帯の一部については、補助金の増額があります。\n\n申請書（様式）\n施設等利用給付費交付申請書兼調書、港区私立幼稚園等園児保護者補助金交付申請書（PDF：219KB）;https://www.city.minato.tokyo.jp/kyouikushomu/documents/sisetuhogosaysinnseisyo.pdf\n【記入例】港区私立幼稚園等園児保護者補助金交付申請書、港区私立幼稚園等園児保護者補助金交付申請書（PDF：712KB）;https://www.city.minato.tokyo.jp/kyouikushomu/documents/sisetuhogosyakinyuurei.pdf\n委任状（PDF：53KB）;https://www.city.minato.tokyo.jp/kyouikushomu/documents/ininjyou.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の幼児教育・保育施設の補助・減免",
+    "shortName": "保育料等に対する給付（施設等利用給付）"
+  },
+  "localGovernmentLink": {
+    "title": "私立幼稚園等（私学助成園）に通う場合の手続き",
+    "uri": "https://www.city.minato.tokyo.jp/kyouikushomu/sigakujosei.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-10",
+    "updater": "港区"
+  },
+  "procedureCounter": "港区教育委員会事務局教育推進部教育長室教育総務係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請書（様式）\n施設等利用給付費交付申請書兼調書、港区私立幼稚園等園児保護者補助金交付申請書（PDF：219KB）;https://www.city.minato.tokyo.jp/kyouikushomu/documents/sisetuhogosaysinnseisyo.pdf\n【記入例】港区私立幼稚園等園児保護者補助金交付申請書、港区私立幼稚園等園児保護者補助金交付申請書（PDF：712KB）;https://www.city.minato.tokyo.jp/kyouikushomu/documents/sisetuhogosyakinyuurei.pdf\n委任状（PDF：53KB）;https://www.city.minato.tokyo.jp/kyouikushomu/documents/ininjyou.pdf",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "子ども・子育て支援法、港区私立幼稚園等園児保護者に対する補助金交付要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "保育料等に対する補助金のお知らせ（PDF：637KB）",
+      "uri": "https://www.city.minato.tokyo.jp/kyouikushomu/documents/sisetuhogosyaosirase.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "「幼児教育・保育の無償化」の対象とならない幼児教育施設に通うお子さんの保護者の経済的負担を軽減するために、港区独自に利用料の助成を行っています。",
+  "support": {
+    "description": "各私立幼稚園が定める保育料をお支払いいただいた上で、後から、国の制度に基づく月額25,700円までの給付金と月額7,700円（※）を上限とした区の補助金が交付されます（償還払い）。\n\n※低所得世帯及び多子世帯の一部については、補助金の増額があります。",
+    "materiallySupport": null,
+    "monetarySupport": "各私立幼稚園が定める保育料をお支払いいただいた上で、後から、国の制度に基づく月額25,700円までの給付金と月額7,700円（※）を上限とした区の補助金が交付されます（償還払い）。\n\n※低所得世帯及び多子世帯の一部については、補助金の増額があります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "全員"
+  },
+  "updateDate": "2024-06-14",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "133817;三宅村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉健康課 福祉係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "4000020133817",
+    "psid": "psid3.0+4000020133817+1+UM64"
+  },
+  "belongings": "小児慢性疾患医療意見書(主治医記入)\n申請に必要なもの\n世帯調査書\n生計中心者の課税状況を証明する書類\n住民票の写し\n保険証の写し,重患者認定申請に必要なもの\n身体障害者手帳のコピー又は障害年金証書のコピー",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三宅島三宅村阿古497",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "三宅村役場臨時庁舎 福祉健康課 福祉係",
+    "contactPhone": "04994-5-0902",
+    "contactUrl": null,
+    "zipCode": "1001212"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "小児慢性疾患医療費助成制度\n18歳未満で、小児慢性疾患の対象疾患及び当該疾患の状態が認定基準に該当する児童が対象となります。\n\n対象となる疾患郡\n個別の病名については、お問合せください。\n悪性新生物、慢性腎疾患、慢性呼吸器疾患、慢性心疾患、内分泌疾患、膠原病、糖尿病、先天性代謝異常、慢性血液・免疫疾患、神経・筋疾患、慢性消化器疾患\n\n助成内容\n小児慢性疾患対象疾患の治療に要する医療費\n入院時食事療養費標準負担額\n小児慢性疾患対象疾患の治療に要する補装具\n小児慢性対象疾患に要する訪問看護療養費\n申請に必要なもの\n小児慢性疾患医療費助成申請書兼同意書\n小児慢性疾患医療意見書(主治医記入)\n世帯調査書\n生計中心者の課税状況を証明する書類\n住民票の写し\n保険証の写し\n重患者認定申請に必要なもの\n対象児童の病状が、病状の悪化などの理由により重症患者認定基準に該当する場合は、重症患者認定申請により自己負担がかからない場合があります。\n\n重症患者認定申請書兼診断書\n身体障害者手帳のコピー又は障害年金証書のコピー\n医療券の交付と更新\n医療券の有効期間は、原則として保健所で申請書等を受理した日の属する月の初日から1年間です。\n医療費助成は有効期間が決まっていますので、期間が切れる前に更新の手続きを行う必要があります。\n東京島しょ保健所のホームページ;http://www.fukushihoken.metro.tokyo.jp/tousyo/index.htmlも合わせてご確認ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "小児慢性特定疾病医療費の助成",
+    "shortName": "小児慢性疾患医療費助成制度"
+  },
+  "localGovernmentLink": {
+    "title": "児童手当と医療費助成",
+    "uri": "https://www.vill.miyake.tokyo.jp/kakuka/sonminseikatsu/teate_josei.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-19",
+    "updater": "三宅村"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請に必要なもの\n小児慢性疾患医療費助成申請書兼同意書\n小児慢性疾患医療意見書(主治医記入)\n世帯調査書\n生計中心者の課税状況を証明する書類\n住民票の写し\n保険証の写し\n重患者認定申請に必要なもの\n対象児童の病状が、病状の悪化などの理由により重症患者認定基準に該当する場合は、重症患者認定申請により自己負担がかからない場合があります。\n\n重症患者認定申請書兼診断書\n身体障害者手帳のコピー又は障害年金証書のコピー\n医療券の交付と更新\n医療券の有効期間は、原則として保健所で申請書等を受理した日の属する月の初日から1年間です。\n医療費助成は有効期間が決まっていますので、期間が切れる前に更新の手続きを行う必要があります。\n東京島しょ保健所のホームページ;http://www.fukushihoken.metro.tokyo.jp/tousyo/index.htmlも合わせてご確認ください。",
+  "procedurePeriod": {
+    "conditions": "医療費助成は有効期間が決まっていますので、期間が切れる前に更新の手続きを行う必要があります。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第19条の2～第19条の8",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "東京島しょ保健所のホームページ",
+      "uri": "http://www.fukushihoken.metro.tokyo.jp/tousyo/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子どもの慢性疾病のうち、治療期間が長く、医療費負担が高額となる疾病について、治療方法の確立と普及、患者家庭の医療費の負担軽減につながるよう、医療費の自己負担分を補助しています。",
+  "support": {
+    "description": "対象となる疾患郡\n個別の病名については、お問合せください。\n悪性新生物、慢性腎疾患、慢性呼吸器疾患、慢性心疾患、内分泌疾患、膠原病、糖尿病、先天性代謝異常、慢性血液・免疫疾患、神経・筋疾患、慢性消化器疾患\n\n助成内容\n小児慢性疾患対象疾患の治療に要する医療費\n入院時食事療養費標準負担額\n小児慢性疾患対象疾患の治療に要する補装具\n小児慢性対象疾患に要する訪問看護療養費",
+    "materiallySupport": null,
+    "monetarySupport": "対象となる疾患郡\n個別の病名については、お問合せください。\n悪性新生物、慢性腎疾患、慢性呼吸器疾患、慢性心疾患、内分泌疾患、膠原病、糖尿病、先天性代謝異常、慢性血液・免疫疾患、神経・筋疾患、慢性消化器疾患\n\n助成内容\n小児慢性疾患対象疾患の治療に要する医療費\n入院時食事療養費標準負担額\n小児慢性疾患対象疾患の治療に要する補装具\n小児慢性対象疾患に要する訪問看護療養費"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "18歳未満で、小児慢性疾患の対象疾患及び当該疾患の状態が認定基準に該当する児童が対象となります。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "18歳未満で、小児慢性疾患の対象疾患及び当該疾患の状態が認定基準に該当する児童が対象となります。"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

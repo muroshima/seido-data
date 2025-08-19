@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132284;あきる野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭部 こども家庭センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132284",
+    "psid": "psid3.0+1000020132284+3+UM106"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭部　こども家庭センター　子育て支援事業係",
+    "contactPhone": "042-550-3361",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "利用区分\n午前10時～正午\n正午～午後2時\n午後2時～4時\n費用負担\n各区分1単位　1,000円（上限3区分3,000円）",
+  "description": "乳幼児一時預かり事業（ここるの）\n\n[初版公開日：2024年7月24日]　[更新日：2024年7月24日]　ID:16503\n\n乳幼児一時預かり事業（ここるの）\n[初版公開日：2024年2月27日][更新日：2024年4月30日]ID:16503\n\nあきる野ルピア2階子育てひろば「ここるの」内の乳幼児一時預かりでは家庭で育児をする中で、少し息抜きをしてリフレッシュしたい時などにお子さんを一時的にお預かりします。利用を希望する方は事前に利用登録をお願いします。\n\n利用登録の受付（予約制）\n月曜日から土曜日まで（第2水曜日、祝日、年末年始を除く）午前10時～午後4時\n\n登録に必要な持ち物\n対象となる乳幼児の住所が確認できる書類［乳幼児医療費助成医療証（マル乳）など］、母子健康手帳、保護者の写真\n\n※持ち物など詳しくは、利用登録の予約時にご案内します。\n\n利用登録・予約の問い合わせ\n子育てひろば　ここるの（乳幼児一時預かり担当）042-550-3314（直通）\n\n一時預かり事業の概要\n日時　月曜日から土曜日まで（第2水曜日、祝日、年末年始を除く）午前10時～午後4時\n場所\n乳幼児一時預かりスペース（あきる野ルピア2階「子育てひろば　ここるの」内）\n対象\n生後6か月から小学校就学前までの保育所等に通っていない乳幼児\n\n利用区分\n午前10時～正午\n正午～午後2時\n午後2時～4時\n\n費用負担\n各区分1単位　1,000円（上限3区分3,000円）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "秋川1-8　あきる野ルピア2階",
+    "implementationName": "乳幼児一時預かりスペース（あきる野ルピア2階「子育てひろば　ここるの」内）"
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関するサポート",
+    "shortName": "乳幼児一時預かり事業"
+  },
+  "localGovernmentLink": {
+    "title": "乳幼児一時預かり事業",
+    "uri": "https://www.city.akiruno.tokyo.jp/kosodate/0000016503.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "あきる野市"
+  },
+  "procedureCounter": "子育てひろば　ここるの（乳幼児一時預かり担当）042-550-3314（直通）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "一時預りの利用をする際は、事前に「子育てひろばここるの内乳幼児一時預り」担当へご相談ください。\n電話：042－550－3314",
+  "procedurePeriod": {
+    "conditions": "受付日時：月曜～土曜日（第2水曜日、祝日を除く）午前10時～午後4時",
+    "fromHM": "10:00",
+    "fromYMD": null,
+    "toHM": "16:00",
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "あきる野市乳幼児一般型一時預かり事業実施規則"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "家庭で育児をする中で、少し息抜きをしてリフレッシュしたい時などにお子さんを一時的にお預かりします。",
+  "support": {
+    "description": "お子さんをお預かりします。",
+    "materiallySupport": "保育",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後6か月から小学校就学前までの保育所等に通っていない乳幼児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生後6か月から小学校就学前までの保育所等に通っていない乳幼児"
+  },
+  "updateDate": "2024-07-24",
+  "useConsiderationFlag": false,
+  "utilization": "一時預りの利用をする際は、事前に「子育てひろばここるの内乳幼児一時預り」担当へご相談ください。\n電話：042－550－3314",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日から土曜日まで（第2水曜日、祝日、年末年始を除く）午前10時～午後4時",
+    "fromHM": "10:00",
+    "toHM": "16:00"
+  }
+}

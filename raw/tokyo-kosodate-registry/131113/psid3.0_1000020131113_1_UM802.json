@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "131113;大田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課児童育成係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131113",
+    "psid": "psid3.0+1000020131113+1+UM802"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "東京都福祉保健局少子社会対策部計画課　子育て応援事業担当",
+    "contactPhone": "03-5320-4115",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子育て応援とうきょうパスポートをご活用ください！\n東京都では、中学生以下の子供がいる世帯や妊娠中の方に対して、企業や店舗が善意で様々なサービスを提供する「子育て応援とうきょうパスポート事業」を実施しています。\n夏休みでお出かけが増える時期に、是非ご活用ください！！\n\n＜どんなサービスが受けられるの？＞\n協賛店では、商品の割引や粉ミルクのお湯の提供等、様々なサービスを提供します（利用の際、パスポートや年齢確認書類等の提示を求められることがあります）。\n\n＜パスポートの入手方法は？＞\n子育て応援とうきょうパスポート運営サイト（以下、「運営サイト」という。）で必要事項を入力すると、スマートフォン用パスポートを入手できます。\nまた、紙パスポート付のチラシも、本庁舎3階子育て支援課等でお配りしています。\n\n＜どんなお店で使えるの？＞\n協賛店として登録されている、都内の飲食店やスーパー等で使用できます。\n各店舗に貼ってある協賛ステッカーが目印となります。\n所在地やサービス内容等は、運営サイトで検索が可能です。\n\n＜協賛店も募集中！＞\n子育て世帯に優しいサービスを提供してくださる企業・店舗等の皆様も随時募集しています。\n子育てを応援したいとお考えの皆様、是非、運営サイトよりご登録ください！\n\n東京都福祉保健局（外部サイトへリンク）;http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/passport/passport01.html\n子育て応援とうきょうパスポート運営サイト（外部サイトへリンク）;https://kosodateswitch.metro.tokyo.lg.jp/",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育て支援パスポート",
+    "shortName": "子育て応援とうきょうパスポート事業"
+  },
+  "localGovernmentLink": {
+    "title": "子育て応援とうきょうパスポート事業について",
+    "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/shien/bosyu_tokyo-passport.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "大田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "子育て応援とうきょうパスポート運営サイト（以下、「運営サイト」という。）で必要事項を入力すると、スマートフォン用パスポートを入手できます。\nまた、紙パスポート付のチラシも、本庁舎3階子育て支援課等でお配りしています。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "少子化社会対策大綱（平成27年3月20日閣議決定）"
+  },
+  "relatedLink": [
+    {
+      "title": "子育て応援とうきょうパスポート運営サイト",
+      "uri": "https://kosodateswitch.metro.tokyo.lg.jp/"
+    },
+    {
+      "title": "子育て応援とうきょうパスポート事業",
+      "uri": "http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/passport/passport01.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "「子育て支援パスポート事業」は、子育てを応援しようとする社会的機運の醸成を目的として推進している事業であり、企業・店舗等が、子育て世帯や妊娠中の方がいる世帯に対して、様々なサービスを提供する仕組みです。",
+  "support": {
+    "description": "協賛店では、商品の割引や粉ミルクのお湯の提供等、様々なサービスを提供します（利用の際、パスポートや年齢確認書類等の提示を求められることがあります）。",
+    "materiallySupport": "協賛店では、商品の割引や粉ミルクのお湯の提供等、様々なサービスを提供します（利用の際、パスポートや年齢確認書類等の提示を求められることがあります）。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "中学生以下の子供がいる世帯や妊娠中の方"
+  },
+  "updateDate": "2022-07-19",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

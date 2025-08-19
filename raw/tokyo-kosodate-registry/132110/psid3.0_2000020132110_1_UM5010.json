@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センター庶務担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+1+UM5010"
+  },
+  "belongings": "新生児聴覚検査受診票",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市学園東町1-19-12　健康センター4階",
+    "contactComment": "FAX：042-346-3705",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭センター庶務担当",
+    "contactPhone": "042-346-3703",
+    "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+    "zipCode": "1870043"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "新生児聴覚検査は生まれてすぐ、赤ちゃんが眠っている間に聴覚障害の疑いがないかを調べる検査です。\n新生児聴覚検査をすべての赤ちゃんに安心して受けていただくために、検査の費用の一部を助成します。\n聴覚障害は早期に適切な支援を開始することで、コミュニケーションの形成や言語発達の面で大きな効果が得られるので、早期発見が重要です。\n公費負担による新生児聴覚検査は、都内のほとんどの病院や医院で受けられます。（注）公費負担額を超えた場合は自己負担額が発生します。\n都内で転居した場合は、受診票をそのまま使用できます。他の道府県から小平市に転入した場合は、母子健康手帳とお持ちの受診票を小平市健康センターまでお持ちください。差替えをして新たに受診票をお渡しします。（詳しくはお問い合わせください。）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "新生児聴覚検査",
+    "shortName": "新生児聴覚検査"
+  },
+  "localGovernmentLink": {
+    "title": "新生児聴覚検査",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/074/074034.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "小平市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "母子健康手帳と一緒にお渡しする「母と子の保健バッグ」に｢新生児聴覚検査受診票｣が入っています。\nこの受診票を検査可能な都内委託医療機関へ提出してください。",
+  "procedurePeriod": {
+    "conditions": "有効期限：生後50日に達する日まで。(生まれた日を0日として起算し50日まで)",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "「新生児聴覚検査の実施について」（平成19年1月29日雇児母発第0129002号厚生労働省雇用均等・児童家庭局母子保健課長通知）"
+  },
+  "relatedLink": [
+    {
+      "title": "都外医療機関での新生児聴覚検査費用助成",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/049/049423.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "聴覚障害は、早期発見・治療により言葉の発達などへの影響が最小限に抑えられることが分かっていることから、生まれたばかりの赤ちゃんに聴覚障害の疑いがないかを調べる新生児聴覚検査の費用の一部を助成しています。",
+  "support": {
+    "description": "検査の費用の一部を助成します。",
+    "materiallySupport": null,
+    "monetarySupport": "助成限度額　３０００円"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後50日に達する日まで。(生まれた日を0日として起算し50日まで)",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "すべての赤ちゃん"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

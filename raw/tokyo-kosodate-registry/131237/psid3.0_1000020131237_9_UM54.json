@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部保健予防課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+9+UM54"
+  },
+  "belongings": "予防接種予診票と氏名、現住所、年齢の確認できる身分証（免許証や保険証など）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部保健予防課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e054/kuseijoho/gaiyo/soshiki/kenko/hokenyobo.html",
+    "zipCode": null
+  },
+  "cost": "0",
+  "costConditions": "無料、助成は1度限りです。",
+  "description": "先天性風しん症候群（CRS）とは、妊婦、特に妊娠初期の女性が風疹にかかると、胎児が風しんウイルスに感染し、精神や身体の発達の遅れなどの障害のあるお子さんが生まれる可能性があります。これらの障害を、先天性風しん症候群といいます。その予防のための検査です。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "令和6年4月1日から令和7年3月31日まで",
+    "fromHM": null,
+    "fromYMD": "2024-04-01",
+    "toHM": null,
+    "toYMD": "2025-03-31"
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "区内指定医療機関;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/iryokikan.html"
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "風しん予防接種"
+  },
+  "localGovernmentLink": {
+    "title": "風しん抗体検査及び予防接種を実施します（区独自事業）",
+    "uri": "https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/fushin.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "接種を受けるには（1）風しんの抗体検査を区内指定医療機関にて受診してください。\n（2）抗体検査の結果が1から2週間程度でご自宅へ郵送されます。\n（3）お近くの健康サポートセンターの窓口にて予防接種予診票の交付を受けてください。\n（注）接種を受ける方が来所される場合は、接種を受ける方の身分証と抗体検査結果をご持参ください。\n（注）代理の方が来所される場合は、委任状（又は接種を受ける方の身分証）、代理の方の身分証、接種を受ける方の抗体検査の結果をご持参ください。\n予診票交付申請書（PDF：90KB）別ウィンドウで開きます\n委任状（PDF：54KB）別ウィンドウで開きます\n（4）予防接種予診票と身分証（氏名、現住所、生年月日の確認できるもの）を指定医療機関にご持参ください。事前の予約が必要な場合がございますので、必ず接種前に医療機関へお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "予防接種法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠を希望されている１９歳以上の女性と、同居する１９歳以上の者について風しんの抗体価が基準値以上あるかどうかの検査を受け、抗体価が基準値以下の場合に風しんの予防接種を受けられます。",
+  "support": {
+    "description": "風しんの抗体検査と予防接種の助成を行います。\n\n接種ワクチン\nMRワクチン（麻しん・風しん混合ワクチン）",
+    "materiallySupport": "風しんの抗体検査と予防接種の助成を行います。\n\n接種ワクチン\nMRワクチン（麻しん・風しん混合ワクチン）",
+    "monetarySupport": "0"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "江戸川区民で以下のいずれかに該当する方で、風しん抗体検査により予防接種が必要とされた方（HI法で16倍以下、EIA法でEIA価8.0未満の方）\n（1）妊娠を予定又は希望している女性（19歳以上の方）\n（2）妊娠を予定又は希望している女性と同居している19歳以上の方\n（3）妊娠している女性と同居している19歳以上の方\nただし、下記の方は上記（1）から（2）に該当の場合でも対象となりませんのでご注意ください。\nこの制度を利用したことがある方\n検査で確定診断を受けた風しんの既往歴がある方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 19,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "江戸川区民で以下のいずれかに該当する方で、風しん抗体検査により予防接種が必要とされた方（HI法で16倍以下、EIA法でEIA価8.0未満の方）\n（1）妊娠を予定又は希望している女性（19歳以上の方）\n（2）妊娠を予定又は希望している女性と同居している19歳以上の方\n（3）妊娠している女性と同居している19歳以上の方\nただし、下記の方は上記（1）から（2）に該当の場合でも対象となりませんのでご注意ください。\nこの制度を利用したことがある方\n検査で確定診断を受けた風しんの既往歴がある方"
+  },
+  "updateDate": "2023-05-10",
+  "useConsiderationFlag": false,
+  "utilization": "お近くの区内指定医療機関へ、区の風しん抗体検査制度の利用をお申し出ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "area": {
+    "areaCode": "131121;世田谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "世田谷区予防接種コールセンター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131121",
+    "psid": "psid3.0+1000020131121+6+UM54"
+  },
+  "belongings": "予診票、母子健康手帳、健康保険証、医療証など（詳しくは医療機関にご確認ください）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "世田谷区予防接種コールセンター",
+    "contactPhone": "03-5432-2437",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "接種対象者\n生後2か月から生後90か月（7歳6か月）未満の方¥n接種回数\n初回接種：3回接種（20日から56日の間隔をおいて3回接種） \n　生後2か月から生後7か月に達するまでの期間\n追加接種：1回接種（標準として初回3回接種終了後6か月から18か月に達するまでの間）\n〈注意〉追加接種は、初回接種（3回）終了後、6か月以上の間隔をおく必要があります。¥nジフテリア\nジフテリア菌の飛沫感染によって起こり、のどや鼻に感染します。ジフテリアは感染しても症状が出るのは10％程度ですが、保菌者となって、ほかの人に感染することもあります。症状は高熱やのどの痛み、犬吠様のせき、嘔吐などで、のどに偽膜と呼ばれる膜ができて窒息することもあります。¥n百日咳\n百日咳菌の飛沫感染によって起こります。せきや鼻水等の風邪症状から始まり、しだいにせきがひどくなり連続的にせき込むようになります。感染力は非常に強く、乳幼児がかかると呼吸困難や肺炎、脳症などの重い合併症を起こすこともあります。¥n破傷風\n破傷風は、土の中にいる破傷風菌が傷口等からヒトの体内に入ることによって感染します。菌が体の中で増えると、菌の出す毒素のために筋肉のけいれんを起こします。最初は口が開かなくなるなどの症状が出て、やがて全身のけいれんを起こすようになり、治療が遅れると重症化することもあります。¥nポリオ\n口から入ったポリオウイルスが小腸などで増殖し、便中に排泄されることで接触感染や経口感染が起こります。ポリオウイルスに感染してもほとんどの場合は症状が出ませんが、発症した場合、ウイルスが運動神経まで達して麻痺が生じ、後遺症として運動障害を残すことがあります。¥nHib（インフルエンザ菌b型）\nHib（インフルエンザ菌b型）は、咳やくしゃみ等の飛沫によって感染すると、症状がないまま菌を保有します。また、菌が何らかのきっかけで進展すると、髄膜炎、敗血症、肺炎等、重症の感染症を起こすことがあります。特に乳幼児が発症すると、重症化することが多くなります。なお、Hib感染症は、冬に流行するインフルエンザウイルスによる感染症とは異なります。¥n副反応について\n五種混合ワクチンは不活化ワクチンです。副反応は、発熱や発疹、接種部位の発赤、腫れ、しこりなどがあります。通常、数日以内に自然に治ります。万が一、高熱やひどい腫れ、ひきつけなどの症状があった場合は、医師の診察を受けてください。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "Logoフォーム",
+      "uri": "https://logoform.jp/form/JqMJ/908131"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "初回接種：3回接種（20日から56日の間隔をおいて3回接種） \n　生後2か月から生後12か月に達するまでの期間\n追加接種：1回接種（標準として初回3回接種終了後12か月から18か月に達するまでの間）\n〈注意〉追加接種は、初回接種（3回）終了後、6か月以上の間隔をおく必要があります。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "区内の指定医療機関にて実施しています。記載内容は変更になることがありますので、予防接種を受ける際は、事前に実施医療機関へご確認ください。\nなお、世田谷区以外の都内22区・狛江市・調布市・三鷹市の指定医療機関にて接種することもできます。希望される場合は、当該医療機関の所在地の保健所か医療機関へ直接お問い合わせください。",
+    "implementationName": "区内の指定医療機関にて実施しています。記載内容は変更になることがありますので、予防接種を受ける際は、事前に実施医療機関へご確認ください。\nなお、世田谷区以外の都内22区・狛江市・調布市・三鷹市の指定医療機関にて接種することもできます。希望される場合は、当該医療機関の所在地の保健所か医療機関へ直接お問い合わせください。"
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "五種混合（ジフテリア、百日咳、破傷風、ポリオ、ヒブ）(ＤＰＴ－ＩＰＶ－Ｈib)"
+  },
+  "localGovernmentLink": {
+    "title": "五種混合（ジフテリア、百日咳、破傷風、ポリオ、ヒブ）(ＤＰＴ－ＩＰＶ－Ｈib)",
+    "uri": "https://www.city.setagaya.lg.jp/mokuji/fukushi/003/004/d00208949.html"
+  },
+  "odInformation": {
+    "content": "変更",
+    "updateDate": "2025/03/04",
+    "updater": "世田谷区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）",
+    "regulationName": "予防接種法"
+  },
+  "relatedLink": [
+    {
+      "title": "お子さまの予防接種について",
+      "uri": "https://www.city.setagaya.lg.jp/02015/3076.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+  "support": {
+    "description": "生後1か月になった月の月末に接種予診票をお送りします。¥n接種回数\n初回接種：3回接種（20日から56日の間隔をおいて3回接種） \n生後2か月から生後12か月に達するまでの期間¥n追加接種：1回接種（標準として初回3回接種終了後12か月から18か月に達するまでの間）\n〈注意〉追加接種は、初回接種（3回）終了後、6か月以上の間隔をおく必要があります。",
+    "materiallySupport": "生後1か月になった月の月末に接種予診票をお送りします。¥n接種回数\n初回接種：3回接種（20日から56日の間隔をおいて3回接種） \n生後2か月から生後12か月に達するまでの期間¥n追加接種：1回接種（標準として初回3回接種終了後12か月から18か月に達するまでの間）\n〈注意〉追加接種は、初回接種（3回）終了後、6か月以上の間隔をおく必要があります。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後2か月から生後90か月（7歳6か月）未満の方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 2
+    },
+    "lessThan": {
+      "targetAge": 7,
+      "targetAgeOfMonths": 6
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生後2か月から生後90か月（7歳6か月）未満の方"
+  },
+  "updateDate": "2024/04/01",
+  "useConsiderationFlag": false,
+  "utilization": "生後1か月になった月の月末に接種予診票をお送りします。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

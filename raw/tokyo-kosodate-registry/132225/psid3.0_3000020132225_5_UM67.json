@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132225;東久留米市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉保健部　障害福祉課　福祉支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132225",
+    "psid": "psid3.0+3000020132225+5+UM67"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都東久留米市本町3-3-1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉保健部　障害福祉課　福祉支援係",
+    "contactPhone": "042-470-7747",
+    "contactUrl": "https://www.city.higashikurume.lg.jp/kurashi/fukushi/shogai/1000435.html",
+    "zipCode": "2038555"
+  },
+  "cost": null,
+  "costConditions": "日常生活用具費の１割（所得に応じて上限月額0円、37,200円）の利用者負担があります。",
+  "description": "対象\n在宅の身体障害者、知的障害者または精神障害者で、用具の種類や障害等級の要件に該当する方。\n内容\n障害の部位等に応じて、浴槽、入浴担架、特殊便器、頭部保護帽、訓練いす、火災報知機、ストマ装具、紙おむつ、住宅改修（小規模改修、中規模改修）、屋内移動設備の設置などの費用を支給。住民税の額等によって自己負担あり。\n問い合わせ\n障害福祉課　電話：042-470-7747",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の障がいのあるお子さんなどへの金銭的支援",
+    "shortName": "日常生活用具費の支給"
+  },
+  "localGovernmentLink": {
+    "title": "日常生活への援助",
+    "uri": "https://www.city.higashikurume.lg.jp/kurashi/fukushi/shogai/1000435.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-10",
+    "updater": "東久留米市"
+  },
+  "procedureCounter": "障害福祉課　電話：042-470-7747",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "窓口へご相談ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第77条第1項第6号",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "在宅の障害者（児）の方に、その障害の状況や年齢に応じて、日常生活の便宜を図るために生活用具費を支給します。",
+  "support": {
+    "description": "障害の部位等に応じて、浴槽、入浴担架、特殊便器、頭部保護帽、訓練いす、火災報知機、ストマ装具、紙おむつ、住宅改修（小規模改修、中規模改修）、屋内移動設備の設置などの費用を支給。住民税の額等によって自己負担あり。",
+    "materiallySupport": null,
+    "monetarySupport": "障害の部位等に応じて、浴槽、入浴担架、特殊便器、頭部保護帽、訓練いす、火災報知機、ストマ装具、紙おむつ、住宅改修（小規模改修、中規模改修）、屋内移動設備の設置などの費用を支給。住民税の額等によって自己負担あり。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "在宅の身体障害者、知的障害者または精神障害者で、用具の種類や障害等級の要件に該当する方。"
+  },
+  "updateDate": "2024-05-10",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局子ども部子育て推進課手当・医療係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+1+UM2"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区九段南1-2-1",
+    "contactComment": null,
+    "contactEmail": "kosodatesuishin@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "教育委員会事務局子ども部子育て推進課手当・医療係",
+    "contactPhone": "03-5211-4230",
+    "contactUrl": null,
+    "zipCode": "1028688"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊娠していることをさりげなく周囲にお伝えすることができます\n\n千代田区は、生活環境条例等によって、妊娠している方やお子さんを含めたすべての人にとって、安全で快適な都市環境づくりを進めています。\n\nおなかが目立たない妊娠初期、満員電車や人混みで気分が悪くなっても周囲に理解してもらえない-「たばこ」の煙がつらい-妊娠している方のそのような体験を少しでも解消できるよう、妊娠していることをさりげなく周囲に伝えることのできるバッグチャーム「BABY in ME」を贈呈しています。必要に応じてご利用ください。\n\nバッグチャームデザインなど\n\nバッグチャームデザイン BABY in ME\n;https://www.city.chiyoda.lg.jp/images/1297/bagcharm.jpg\n\n日本助産師会 東京都支部推奨 直径 6.1cm\n\n他にも千代田区では、母子健康診査、乳幼児医療費助成制度や各種手当の支給、児童・家庭支援センター、保育園、こども園、児童館等での子育て相談などを通じて、妊娠している人、子育てを始める人を応援していますので、ぜひご活用ください。\n\n健やかな赤ちゃんのご誕生とご成長を心より祈念申し上げます。\n\nBABY in MEのホームページは、このバッグチャームの製作者のホームページで、妊婦の悩みや体験を紹介するコーナーなどがあります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "マタニティマーク",
+    "shortName": "「BABY in ME」バッグチャーム"
+  },
+  "localGovernmentLink": {
+    "title": "「BABY in ME」バッグチャームの贈呈",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/ninshin/badge.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024/07/02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": "出張所または総合窓口課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "出張所または総合窓口課に妊娠届を提出いただいた際、母子健康手帳とともにバッグチャームなどが入った保健バッグを贈呈します。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "BABY in MEホームページ（外部サイトへリンク）",
+      "uri": "http://www.baby-in-me.com"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "千代田区では、妊娠の届出の際に、母子健康手帳と共に【マタニティマーク入りキーホルダー】をお渡ししています。",
+  "support": {
+    "description": "妊娠していることをさりげなく周囲に伝えることのできるバッグチャーム「BABY in ME」を贈呈しています。",
+    "materiallySupport": "バッグチャーム「BABY in ME」",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "082"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊娠している方"
+  },
+  "updateDate": "2015-03-30",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

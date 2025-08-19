@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131113;大田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援センター大森（キッズな大森）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131113",
+    "psid": "psid3.0+1000020131113+1+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "大田区大森北四丁目16番5号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援センター大森（キッズな大森）",
+    "contactPhone": "03-5753-1153",
+    "contactUrl": "https://www.city.ota.tokyo.jp/cgi-bin/form_enq/formmail.cgi?d=kodomo",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子どもと家庭に関する相談\n\n話してみましょう、その悩み\n子ども家庭支援センターでは、子どもと家庭に関するあらゆる相談に応じています。\n18歳未満のお子さんとその家族に関することなど何でもご相談ください。\n\n親の悩み、不安（夜泣きがひどい、子どもが言うことをきかない、子どもをたたいてしまう、育児の手助けがほしいなど）\n子どもの悩み（友達とうまくいかない、親との関係がぎくしゃくしているなど）\n子どもと家庭に関する相談窓口\n相談について\n18歳未満のお子さんとその家族に関することなど何でもご相談ください。\n匿名の相談もお受けいたします。\nお子さん自身からの相談もお受けいたします。\n来所でのご相談は事前にご連絡ください。\n相談窓口\n03-5753-7830　（相談専用）\n\n受付時間\n月曜日～金曜日…午前9時から午後6時\n土曜日…午前9時30分から午後6時\n\n所在地\n子ども家庭支援センター大森（キッズな大森）\n\n住所：大田区大森北四丁目16番5号",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "大田区大森北四丁目16番5号",
+    "implementationName": "子ども家庭支援センター大森（キッズな大森）"
+  },
+  "institutionName": {
+    "canonicalName": "大田区の子育てに関する相談",
+    "shortName": "子どもと家庭に関する相談"
+  },
+  "localGovernmentLink": {
+    "title": "子どもと家庭に関する相談",
+    "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/shien/kodomo_katei_shien_c/soudan.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-01",
+    "updater": "大田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "来所でのご相談は事前にご連絡ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "大田区の子ども家庭支援センターでは、子どもと家庭に関するあらゆる相談に応じています。",
+  "support": {
+    "description": "子ども家庭支援センターでは、子どもと家庭に関するあらゆる相談に応じています。\n18歳未満のお子さんとその家族に関することなど何でもご相談ください。\n\n親の悩み、不安（夜泣きがひどい、子どもが言うことをきかない、子どもをたたいてしまう、育児の手助けがほしいなど）\n子どもの悩み（友達とうまくいかない、親との関係がぎくしゃくしているなど）",
+    "materiallySupport": "子ども家庭支援センターでは、子どもと家庭に関するあらゆる相談に応じています。\n18歳未満のお子さんとその家族に関することなど何でもご相談ください。\n\n親の悩み、不安（夜泣きがひどい、子どもが言うことをきかない、子どもをたたいてしまう、育児の手助けがほしいなど）\n子どもの悩み（友達とうまくいかない、親との関係がぎくしゃくしているなど）",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "18歳未満のお子さん",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "18歳未満のお子さんとその家族"
+  },
+  "updateDate": "2020-06-15",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日～金曜日…午前9時から午後6時\n土曜日…午前9時30分から午後6時",
+    "fromHM": null,
+    "toHM": null
+  }
+}

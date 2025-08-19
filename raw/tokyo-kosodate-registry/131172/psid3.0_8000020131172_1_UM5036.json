@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131172;北区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": null,
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131172",
+    "psid": "psid3.0+8000020131172+1+UM5036"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "全年齢\nプレーパーク事業を実施しています【公園】\n児童館・児童室とは\n地域育て合い事業を実施します【児童館・保育園】\n児童館一覧\n図書館\n子ども食堂（外部サイトへリンク）;https://kita.kodomo-shokudo.net/\n\n東京都北区子育て応援サイトきたハピ（子育て総合ポータルサイト）;https://www.city.kita.tokyo.jp/kitahapi/index.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "こども食堂",
+    "shortName": "子ども食堂"
+  },
+  "localGovernmentLink": {
+    "title": "子どもたちの居場所",
+    "uri": "https://www.city.kita.tokyo.jp/kitahapi/mokuteki/ibasho.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/03/04",
+    "updater": "北区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "「子ども食堂」とは、子どもが一人でも行ける無料または低額の食堂です。子ども食堂は、生活に困窮する子育て世帯への支援だけでなく、虐待の防止のための見守りや、地域の交流、子どもへの多様な経験の提供など様々な役割を担っており、国としてもこの取組を支援しています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "子ども"
+  },
+  "updateDate": "2024/10/31",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

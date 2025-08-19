@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "132047;三鷹市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども政策部 子ども家庭課 母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132047",
+    "psid": "psid3.0+8000020132047+1+UM791"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三鷹市新川六丁目37番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども政策部 子ども家庭課 母子保健係",
+    "contactPhone": "0422-46-3254",
+    "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+    "zipCode": "1810004"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "お子さんの出生時体重が2,500グラム未満の赤ちゃんが生まれた場合、お住いの市区町村へ「低出生体重児届出票」の届出が義務付けられています\n三鷹市の出生連絡票の届出（外部リンク）;https://logoform.jp/form/ejBZ/371222をしていただければ、低出生体重児届出として、改めて提出の必要はありません。出生連絡票の届出の入力が難しい場合は、添付の「出生通知票(兼低出生体重児届出票)」にご記入の上、総合保健センターへ提出してください。\n\n三鷹市総合保健センター\n\n電話　0422-46-3254\n〒181-0004　三鷹市新川六丁目37番1号\n三鷹中央防災公園・元気創造プラザ2階\n\n添付ファイル\n出生通知票（兼低出生体重児届出票）（PDF 114KB）;https://www.city.mitaka.lg.jp/c_service/089/attached/attach_89320_1.pdf",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "出生連絡票の届出（外部リンク）",
+      "uri": "https://logoform.jp/form/ejBZ/371222"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出生連絡票・低体重児出生届",
+    "shortName": "低出生体重児の届出"
+  },
+  "localGovernmentLink": {
+    "title": "低出生体重児の届出について",
+    "uri": "https://www.city.mitaka.lg.jp/c_service/089/089320.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "三鷹市"
+  },
+  "procedureCounter": "三鷹市総合保健センター\n\n電話　0422-46-3254\n〒181-0004　三鷹市新川六丁目37番1号\n三鷹中央防災公園・元気創造プラザ2階",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "三鷹市の出生連絡票の届出（外部リンク）;https://logoform.jp/form/ejBZ/371222をしていただければ、低出生体重児届出として、改めて提出の必要はありません。出生連絡票の届出の入力が難しい場合は、添付の「出生通知票(兼低出生体重児届出票)」にご記入の上、総合保健センターへ提出してください。\n\n三鷹市総合保健センター\n\n電話　0422-46-3254\n〒181-0004　三鷹市新川六丁目37番1号\n三鷹中央防災公園・元気創造プラザ2階\n\n添付ファイル\n出生通知票（兼低出生体重児届出票）（PDF 114KB）;https://www.city.mitaka.lg.jp/c_service/089/attached/attach_89320_1.pdf\n\n関連リンク\n新生児訪問のご案内;https://www.city.mitaka.lg.jp/c_service/001/001050.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第18条（低体重児の届出）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "新生児訪問のご案内",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/001/001050.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "赤ちゃんが生まれたら、母子手帳に添付されている出生連絡票（はがき）を記入して、郵送または提出してください。出生連絡票をもとに、「こんにちは赤ちゃん事業（乳幼児全戸訪問）」のご連絡をします。\nなお、法律（母子保健法）で2,500グラム未満のお子さんが出生した時は、保護者がその旨を速やかに届け出ることが義務づけられており、出生連絡票はその届出を兼ねています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "お子さんの出生時体重が2,500グラム未満の赤ちゃんが生まれた場合"
+  },
+  "updateDate": "2023-04-11",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

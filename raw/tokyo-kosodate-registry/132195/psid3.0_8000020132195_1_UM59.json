@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132195;狛江市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子ども若者政策課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132195",
+    "psid": "psid3.0+8000020132195+1+UM59"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子ども若者政策課助成支援係",
+    "contactPhone": "03-3430-1277",
+    "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,105153,html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "母子（父子）家庭自立支援教育訓練給付金\n母子家庭の母または父子家庭の父が、就労するために必要な教育訓練を受講し、修了した場合に、その講座の受講料の一部を給付します。\n\n支給対象者\n市内在住の母子家庭の母または父子家庭の父で、次のすべての要件を満たす方\n\n20歳未満の児童を養育している。\n児童扶養手当の支給（全部支給または一部支給）を受けている、もしくは児童扶養手当の支給水準と同等の所得水準である。\n教育訓練講座を受講することが、適職に就くために必要であると認められる。\n原則、過去に当該給付金の支給を受けていない。\n支給の対象となる講座\n教育訓練給付制度における厚生労働大臣指定教育訓練講座\n　※一般教育訓練給付金・特定一般教育訓練給付金・専門実践教育訓練給付金の指定教育訓練講座があります。\n\n詳細は、厚生労働省ホームページ（外部リンク）をご覧ください。;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000135079.html\n\n支給額\n（１）雇用保険制度から一般教育訓練給付金・特定一般教育訓練給付金の支給を受けられない場合は、受講料の60％（上限20万円、１万２千円以下は支給対象外）\n\n（２）雇用保険制度から専門実践教育訓練給付金の支給を受けられない場合は、受講料の60％（上限40万円×修学年数。上限160万円。１万２千円以下は支給対象外）\n\n※雇用保険制度から（１）（２）の支給を受けることができる方は、（１）または（２）の額から雇用保険制度から支給される給付金の額を差し引いた額\n\n受講前の手続き\n担当窓口に電話予約の上、事前相談および事前に対象講座指定申請が必要です。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援教育訓練給付金",
+    "shortName": "母子（父子）家庭自立支援教育訓練給付金"
+  },
+  "localGovernmentLink": {
+    "title": "母子（父子）家庭自立支援教育訓練給付金",
+    "uri": "https://www.city.komae.tokyo.jp/index.cfm/44,115233,341,2078,html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "狛江市"
+  },
+  "procedureCounter": "子ども家庭部　子ども若者政策課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "担当窓口に電話予約の上、事前相談および事前に対象講座指定申請が必要です。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第31条（母子家庭自立支援給付金）、第31条の10（父子家庭自立支援給付金）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "厚生労働省ホームページ",
+      "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000135079.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "雇用保険による教育訓練給付の受給資格を持たない母子家庭の母が、就職やキャリアアップのために指定された教育訓練講座を受講し、修了した場合、受講に要した費用の一部が支給されます。\n※受講開始前に必ず事前相談を受けてください。",
+  "support": {
+    "description": "（１）雇用保険制度から一般教育訓練給付金・特定一般教育訓練給付金の支給を受けられない場合は、受講料の60％（上限20万円、１万２千円以下は支給対象外）\n\n（２）雇用保険制度から専門実践教育訓練給付金の支給を受けられない場合は、受講料の60％（上限40万円×修学年数。上限160万円。１万２千円以下は支給対象外）\n\n※雇用保険制度から（１）（２）の支給を受けることができる方は、（１）または（２）の額から雇用保険制度から支給される給付金の額を差し引いた額",
+    "materiallySupport": null,
+    "monetarySupport": "（１）雇用保険制度から一般教育訓練給付金・特定一般教育訓練給付金の支給を受けられない場合は、受講料の60％（上限20万円、１万２千円以下は支給対象外）\n\n（２）雇用保険制度から専門実践教育訓練給付金の支給を受けられない場合は、受講料の60％（上限40万円×修学年数。上限160万円。１万２千円以下は支給対象外）\n\n※雇用保険制度から（１）（２）の支給を受けることができる方は、（１）または（２）の額から雇用保険制度から支給される給付金の額を差し引いた額"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "20歳未満の児童",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "市内在住の母子家庭の母または父子家庭の父で、次のすべての要件を満たす方\n\n20歳未満の児童を養育している。\n児童扶養手当の支給（全部支給または一部支給）を受けている、もしくは児童扶養手当の支給水準と同等の所得水準である。\n教育訓練講座を受講することが、適職に就くために必要であると認められる。\n原則、過去に当該給付金の支給を受けていない。"
+  },
+  "updateDate": "2022-05-12",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

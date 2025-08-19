@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132195;狛江市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子ども家庭課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132195",
+    "psid": "psid3.0+8000020132195+1+UM792"
+  },
+  "belongings": "母子手帳\n歯ブラシ\nコップ\nバスタオル\n飲み物（水、またはお茶）\n※お口を赤く染めて歯みがきの練習をするため、汚れてもよい服装でお越しください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子ども家庭課母子保健係（あいとぴあセンター）",
+    "contactPhone": "03-5761-9200,03-5761-7990",
+    "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,132750,html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "乳幼児歯科健診・フッ素塗布事業\n乳幼児歯科相談室\n歯科健診、お口のケアの仕方、歯みがき指導等を行います（個別対応です）。\n予約制となりますので、ご利用の際は子ども家庭課母子保健係へご連絡ください。\n\n対象\n0歳～4歳のお誕生月\n\n会場\nあいとぴあセンター\n\n日時\n歯科健診\n火曜日　午後1時30分～3時\n※3～6カ月ごとに1回\n\nお口のケアの仕方・歯みがき指導等\n火曜日\n午前9時10分～11時\n金曜日（月1回）\n午前9時10分～11時、午後1時10分～3時30分    \n持ち物\n母子手帳\n歯ブラシ\nコップ\nバスタオル\n飲み物（水、またはお茶）\n※お口を赤く染めて歯みがきの練習をするため、汚れてもよい服装でお越しください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "歯科健診\n火曜日　午後1時30分～3時\n※3～6カ月ごとに1回\n\nお口のケアの仕方・歯みがき指導等\n火曜日\n午前9時10分～11時\n金曜日（月1回）\n午前9時10分～11時、午後1時10分～3時30分",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "あいとぴあセンター"
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児の歯の健康診査（▲歳児歯科健康診査）",
+    "shortName": "乳幼児歯科健診"
+  },
+  "localGovernmentLink": {
+    "title": "乳幼児歯科健診・フッ素塗布事業",
+    "uri": "https://www.city.komae.tokyo.jp/index.cfm/44,126869,337,html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "狛江市"
+  },
+  "procedureCounter": "子ども家庭課母子保健係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "乳歯が生えそろうこの時期は、むし歯が急増する時期でもあります。歯科健康診査を受けて、むし歯の予防と早期発見をめざしましょう。",
+  "support": {
+    "description": "歯科健診、お口のケアの仕方、歯みがき指導等を行います",
+    "materiallySupport": "歯科健診、お口のケアの仕方、歯みがき指導等を行います",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0歳～4歳",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 4,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "0歳～4歳のお誕生月"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "予約制となりますので、ご利用の際は子ども家庭課母子保健係へご連絡ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "133035;瑞穂町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部 子ども家庭センター課 母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133035",
+    "psid": "psid3.0+1000020133035+3+UM47"
+  },
+  "belongings": "母子健康手帳、バスタオル1枚、おむつ等\nできる限りマスクを携帯しましょう。",
+  "capacity": "定員がありますので、ご希望の方はお早めにご予約ください。",
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡瑞穂町大字石畑1970番地",
+    "contactComment": "受付時間 平日の午前8時30分から午後5時まで",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部子ども家庭センター課 母子保健係",
+    "contactPhone": "042-557-5098",
+    "contactUrl": "https://www.town.mizuho.tokyo.jp/inquiry/mailform130302.html?PAGE_NO=6117",
+    "zipCode": "1901211"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "・骨盤体操\n・助産師からのママの身体と育児の話\n・地域の子育てひろばの情報提供",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "受付：午前9時45分から10時まで\n時間：午前10時から11時まで\n\n|令和5年度開催日程|\n|:----|\n|日程（すべて金曜日）|\n|4月11日|\n|5月9日|\n|6月13日|\n|7月11日|\n|8月8日|\n|9月11日|\n|10月10日|\n|11月14日|\n|12月12日|\n|1月9日|\n|2月13日|\n|3月13日|\n",
+    "fromHM": "10:00",
+    "fromYMD": null,
+    "toHM": "11:00",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "瑞穂町保健センター\nhttps://www.town.mizuho.tokyo.jp/shisetsu/009/p004155.html"
+  },
+  "institutionName": {
+    "canonicalName": "▲▲市の妊娠・出産に関する相談",
+    "shortName": "プチママひろば"
+  },
+  "localGovernmentLink": {
+    "title": "プレママひろば・プチママひろば",
+    "uri": "https://www.town.mizuho.tokyo.jp/kosodate/002/p006117.html"
+  },
+  "odInformation": {
+    "content": "所管部署名称を変更",
+    "updateDate": "2024-09-13",
+    "updater": "瑞穂町"
+  },
+  "procedureCounter": "電話でゆりかごステーション（瑞穂町保健センター内）へ\n042（557）5098",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": "予約制です。事前にお電話で申し込みしてください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "ゆりかごステーション（子育て世代包括支援センター）",
+      "uri": "https://www.town.mizuho.tokyo.jp/kosodate/002/p001208.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "プチママひろば（予約制）は、産後6か月までのママ向けの内容です。助産師さんたちと一緒に楽しい育児を学びましょう。",
+  "support": {
+    "description": "・骨盤体操\n・助産師からのママの身体と育児の話\n・地域の子育てひろばの情報提供",
+    "materiallySupport": "・骨盤体操\n・助産師からのママの身体と育児の話\n・地域の子育てひろばの情報提供",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088",
+      "089",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "産後6か月までの方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 6
+    },
+    "targetPersons": "町内にお住まいの産婦さんのうち、次の方\n\n原則、産後6か月までの方\n（注意事項）\n赤ちゃんを連れて参加できますが、ごきょうだいの参加はできません。"
+  },
+  "updateDate": "2023-03-30",
+  "useConsiderationFlag": false,
+  "utilization": "予約制です。事前にお電話で申し込みしてください。\n新規の方を優先してお受けします。 \n定員がありますので、ご希望の方はお早めにご予約ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

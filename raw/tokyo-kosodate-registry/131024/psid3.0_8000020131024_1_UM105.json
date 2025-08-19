@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131024;中央区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": null,
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131024",
+    "psid": "psid3.0+8000020131024+1+UM105"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "図書館からのご案内\n【図書館の利用方法】\n図書館の児童室には、絵本や読みもの、紙芝居など子ども向けの本がたくさんあります。また、子ども向けの本を紹介した小冊子「このほんしってる」や赤ちゃんへの絵本選びに役立つ「はじめてであう赤ちゃんえほん」、3歳から5歳児向けの本を紹介した「よんでよんで！」を配布しています。\n初めて本を借りる時は、住所が確認できる書類（保険証など）をお持ちになれば、その場で「利用カード」が作成できます。\nまた一人あたり10冊まで2週間借りられます。\n\n●区立図書館\n・ 京橋図書館\n中央区新富1-13-14（本の森ちゅうおう2～5階）\n\n☎（3551）2151\n・ 日本橋図書館\n中央区日本橋人形町 1-1-17（日本橋小学校等複合施設 6・7 階） ☎（3669）6207\n・ 月島図書館中央区月島 4-1-1（月島区民センター 3 階）\n☎（3532）4391\n・ 晴海図書館（令和６年７月開設予定）\n中央区晴海4-8-1\n開館時間\n月～土曜日　午前9時～午後9時\n日曜日・休日　午前9時～午後5時\n・休館日\n京橋・晴海図書館　第3木曜日（休日の場合は翌日）\n日本橋・月島図書館　第4木曜日（休日の場合は翌日）\n共通　年末年始（12月31日～1月2日）\n特別整理期間（年間4日間）\n※その他、臨時休館があります。\n・ホームページ\nhttps://www.library.city.chuo.tokyo.jp/\n図書館の本の検索・予約がインターネットからできます。「こどものページ」や「Teensのページ」（10代向け）もあります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "休館日\n京橋・晴海図書館　第3木曜日（休日の場合は翌日）\n日本橋・月島図書館　第4木曜日（休日の場合は翌日）\n共通　年末年始（12月31日～1月2日）\n特別整理期間（年間4日間）\n※その他、臨時休館があります。",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "図書館の児童サービス（ブックスタートなど）",
+    "shortName": "子育て情報のページ"
+  },
+  "localGovernmentLink": {
+    "title": "子育て情報のページ",
+    "uri": "https://www.city.chuo.lg.jp/documents/4889/kosodatezyouhou.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "中央区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "ホームページ",
+      "uri": "https://www.library.city.chuo.tokyo.jp/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ブックスタートとは、赤ちゃんとその保護者に絵本をプレゼントし、絵本を開く楽しい体験とともに、心ふれあうきっかけをつくる活動です。",
+  "support": {
+    "description": "図書館の児童室には、絵本や読みもの、紙芝居など子ども向けの本がたくさんあります。また、子ども向けの本を紹介した小冊子「このほんしってる」や赤ちゃんへの絵本選びに役立つ「はじめてであう赤ちゃんえほん」、3歳から5歳児向けの本を紹介した「よんでよんで！」を配布しています。\n初めて本を借りる時は、住所が確認できる書類（保険証など）をお持ちになれば、その場で「利用カード」が作成できます。\nまた一人あたり10冊まで2週間借りられます。",
+    "materiallySupport": "図書館の児童室には、絵本や読みもの、紙芝居など子ども向けの本がたくさんあります。また、子ども向けの本を紹介した小冊子「このほんしってる」や赤ちゃんへの絵本選びに役立つ「はじめてであう赤ちゃんえほん」、3歳から5歳児向けの本を紹介した「よんでよんで！」を配布しています。\n初めて本を借りる時は、住所が確認できる書類（保険証など）をお持ちになれば、その場で「利用カード」が作成できます。\nまた一人あたり10冊まで2週間借りられます。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "開館時間\n月～土曜日　午前9時～午後9時\n日曜日・休日　午前9時～午後5時",
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局子ども部子ども支援課保育運営支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+1+UM2369"
+  },
+  "belongings": "就労・パート・アルバイトの方：就労証明書（PDF：141KB）;https://www.city.chiyoda.lg.jp/documents/1367/shuroshomeisho_2.pdf、（エクセル：56KB）;https://www.city.chiyoda.lg.jp/documents/1367/shuroshomeisho_1.xlsx,自営業の方：就労証明書（PDF：141KB）;https://www.city.chiyoda.lg.jp/documents/1367/shuroshomeisho_2.pdf、（エクセル：56KB）;https://www.city.chiyoda.lg.jp/documents/1367/shuroshomeisho_1.xlsx,会社の運営を確認できる書類,病気や介護の方：診断書（PDF：108KB）;https://www.city.chiyoda.lg.jp/documents/1367/shindansho_3.pdf,心身に障害のある方：身体障害者手帳・愛の手帳の写し,大学等に通学の方：在学証明書（PDF：77KB）;https://www.city.chiyoda.lg.jp/documents/1367/zaigakushomeisho.pdfおよびカリキュラム等\n\n保育料決定のための書類（父・母分 各々分）\n千代田区にお住まいになった時期や保育料減額補助を適用する時期によって、提出書類が異なります。令和5年1月1日以前から千代田区に在住の方は提出の必要はありません。\n\n詳細表\n\n「表」\n\n（注意） 前年に海外に在住していた方等については、所得証明の提出が必要です。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区九段南1-2-1",
+    "contactComment": null,
+    "contactEmail": "kodomoshien@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "教育委員会事務局子ども部子ども支援課保育運営支援係",
+    "contactPhone": "03-5211-4117",
+    "contactUrl": null,
+    "zipCode": "1028688"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "認証保育所等を利用しやすくするため、区が認可保育園を利用した場合と比較して2割程度安い保育料となるよう保育料補助を行うものです。\n\n保育料\n「認可保育園保育料と認証保育所・区補助対象保育室・区緊急保育施設・幼保一体施設内保育園保育料（月120～220時間利用分）早見表（PDF：103KB）」をご覧ください。\n（注意） ３～５歳児クラス、第2子以降の子どもの保育料については、認可保育園に準じ無料です。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の幼児教育・保育施設の補助・減免",
+    "shortName": "認証保育所等保育料減額補助"
+  },
+  "localGovernmentLink": {
+    "title": "認証保育所等の保育料",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoiku/hojo-hoiku.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": "子ども支援課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申し込みには、教育・保育給付認定申請が必要です。\n未申請の場合は、「教育・保育給付認定申請書（PDF：118KB）」を提出してください。\n\n申込先および締切日\n申込先：子ども支援課（持参または郵送）\n\n締切日：原則として、補助を希望する月の月末まで（土曜日・日曜日・国民の祝日にあたる場合は、前日または前々日）",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "認可保育園保育料と認証保育所・区補助対象保育室・区緊急保育施設・幼保一体施設内保育園保育料（月120～220時間利用分）早見表（PDF：103KB）",
+      "uri": "https://www.city.chiyoda.lg.jp/documents/1367/hoikuryoichiran_2.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "認証保育所（区外も対象）および区補助対象保育室、区緊急保育施設、幼保一体施設内保育園利用時の負担軽減を図るため、区独自の「千代田区保育料減額補助」を設けています。",
+  "support": {
+    "description": "申請により認証保育所等の保育料から一定金額を減額します。\n認証保育所等を利用しやすくするため、区が認可保育園を利用した場合と比較して2割程度安い保育料となるよう保育料補助を行うものです。",
+    "materiallySupport": null,
+    "monetarySupport": "認証保育所等の保育料から一定金額を減額"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "千代田区在住者で、認証保育所（区外も対象）および区補助対象保育室、区緊急保育施設、幼保一体施設内保育所を利用するとき、一定の基準を満たしている場合\n\n一定の基準とは\n・認可保育園入所の要件を満たしている方\n・保育施設の月利用時間のうち120時間～220時間分を対象とします。"
+  },
+  "updateDate": "2023-11-07",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

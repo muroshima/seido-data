@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども生活部保育・幼稚園課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+2+UM83"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども生活部保育・幼稚園課",
+    "contactPhone": "042-724-2138,042-724-2137",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/8",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "保護者がリフレッシュタイムがほしいとき、冠婚葬祭などで急な用事が入ったとき等に、お子さんを保育園等に預けることができる制度です。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "mitete",
+      "uri": "https://mitete.jp/"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "一時預かり（一時保育）",
+    "shortName": "一時保育"
+  },
+  "localGovernmentLink": {
+    "title": "一時保育",
+    "uri": "https://kosodate-machida.tokyo.jp/mokuteki/4/12/2373.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第7項、第21条の9",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "定期利用保育について",
+      "uri": "https://kosodate-machida.tokyo.jp/mokuteki/4/12/3871.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "就労等により児童の保育が出来ない場合に、一定程度継続的に保育園等に児童を預けることができる制度です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "1．保護者が上記4つのいずれかに該当していること\n2．市内在住であること\n3．お子さんが生後8週間すぎていること\n4．認可保育園や認定こども園に入園していないこと",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "1．保護者が上記4つのいずれかに該当していること\n2．市内在住であること\n3．お子さんが生後8週間すぎていること\n4．認可保育園や認定こども園に入園していないこと"
+  },
+  "updateDate": "2023-09-15",
+  "useConsiderationFlag": false,
+  "utilization": "予約システムについて\n市内の一部の一時保育実施施設については、スマートフォンから予約を申し込むことができます。\n下記のリンクまたはQRコードから、一時保育予約システム「mitete」にアクセスしてください。\n導入園一覧は「mitete」からご確認いただけます。\n一時保育予約システム「mitete」\nqrcode\nmitete TOPページ\nhttps://mitete.jp/\n\n予約システム利用上の注意点\n・保護者様やお子様の登録情報(ご住所、アレルギー等)に変更があった際は、利用日前に施設へ必ずご連絡ください。\n・一時保育の利用開始月等は各園によって異なります。詳細は、各園の園情報をご確認ください。\n\n申し込みについて\n1 予約システム導入園に申し込む場合\n1.利用登録\n一時保育予約システムmiteteに利用登録をする\nQRコード（左QRコードは、miteteの会員登録ページにリンクしています。）\n2.申し込み\nmiteteで、利用希望園に予約リクエストをおくる\n（予約時期、予約方法は園によって異なりますので、園情報を必ずご確認の上、お申込みください。）\n3.マッチング成立、一時保育の利用\n4.利用料の支払\n\n2 予約システム導入園以外に申し込む場合\n1.利用登録\n利用したい施設へ行き、保育内容、保育時間、保育料、お子さんの体質などについて、話し合った上、直接登録\n2.申し込み\n保育園と直接契約し、利用日を予約。\n（予約時期、予約方法は園によって異なります。）\n3.一時保育の利用\n4.利用料の支払\n\nmitete申込みに関連するまちだ子育てサイトページ\n一時保育利用のご案内（公立保育園）\nhttps://kosodate-machida.tokyo.jp/soshiki/4/4/10/11408.html",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "みなと保健所健康推進課地域保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+2+UM5011"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "出産・子育て応援事業専用窓口",
+    "contactPhone": "03-6722-0310",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "出産・子育て応援事業について(国の出産・子育て応援給付金)\n\n妊娠期から出産・子育てまで一貫した伴走型相談支援（全ての妊婦・子育て家庭に対して身近で相談に応じ、様々なニーズに即した必要なサービスへつなげる支援）と、経済的支援（妊娠期「出産応援ギフト」として5万円相当、出生後に「子育て応援ギフト」として10万円相当※東京都赤ちゃんファースト５万円相当含む）を一体として実施する事業を開始します。ギフトは、子育て関連用品等に使用できる東京都発行のクーポン券です。※本事業は流産、死産、新生児死亡で大切な命をなくされた方も対象となります。本事業を希望される方は別途、問合わせ先までご連絡ください。\n\n妊娠8か月面談\n妊娠7か月頃にみなと母子手帳アプリを活用したアンケートを実施します。\n\n事前にアンケート回答用のＱＲコードを送付します。\n\n※みなと母子手帳アプリが利用できない方は、別途、問い合わせまでご連絡ください。\n\nアンケート内で面談を希望される妊婦の方と面談を実施します。\n\nお問い合わせ\n出産・子育て応援事業専用窓口\n\n電話番号：03-6722-0310",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "伴走型相談支援",
+    "shortName": "妊娠8か月面談"
+  },
+  "localGovernmentLink": {
+    "title": "出産・子育て応援事業について(国の出産・子育て応援給付金)",
+    "uri": "https://www.city.minato.tokyo.jp/chiikihoken/kodomo/syusankosodate.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "港区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "別紙：伴走型相談支援及び出産・子育て応援給付金の一体的実施事業実施要綱「伴走型相談支援」（別添１） ",
+    "regulationName": "伴走型相談支援及び出産・子育て応援給付金の一体的実施事業の実施について（子発1226第1号 令和4年12月26日）"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "すべての妊婦さんと子育て家庭が安心して出産・子育てができるように、妊娠から出産・子育てまでの一貫した「伴走型相談支援」を実施しています。",
+  "support": {
+    "description": "面談を希望される妊婦の方と面談を実施",
+    "materiallySupport": "面談を希望される妊婦の方と面談を実施",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "妊娠7か月頃",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊娠7か月頃"
+  },
+  "updateDate": "2024-05-18",
+  "useConsiderationFlag": false,
+  "utilization": "妊娠7か月頃にみなと母子手帳アプリを活用したアンケートを実施します。\n\n事前にアンケート回答用のＱＲコードを送付します。\n\n※みなと母子手帳アプリが利用できない方は、別途、問い合わせまでご連絡ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

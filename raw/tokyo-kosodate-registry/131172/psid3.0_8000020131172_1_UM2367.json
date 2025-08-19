@@ -1,0 +1,144 @@
+{
+  "area": {
+    "areaCode": "131172;北区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども未来部子ども未来課子ども施設係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131172",
+    "psid": "psid3.0+8000020131172+1+UM2367"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都北区滝野川2-52-10（旧滝野川中学校）北区役所滝野川分庁舎1階3番",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども未来部子ども未来課子ども施設係",
+    "contactPhone": "03-3908-8143",
+    "contactUrl": null,
+    "zipCode": "1148546"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "私立幼稚園・私立認定こども園の幼児教育・保育の無償化\n令和元年10月から開始した幼児教育・保育の無償化に伴い、私立幼稚園・私立認定こども園（以下、「私立幼稚園等」）の補助制度が変更になりました。北区における幼児教育・保育の無償化の全体像につきましては、幼児教育・保育の無償化;https://www.city.kita.tokyo.jp/k-hoiku/musyouka/musyouka.htmlのページをご覧ください。\nこちらのページでは、私立幼稚園等に係る幼児教育・保育の無償化について、概要をご案内しています。なお、北区のホームページでは、以下のように表記しています。\n|新制度園|子ども・子育て支援新制度に移行した私立幼稚園および私立認定こども園|\n|私学助成園|東京都の私学助成を受けている従来どおりの制度の私立幼稚園（国立幼稚園、国立特別支援学校幼稚部を含む）|\n\nお通いの幼稚園がどちらの制度よるかは、私立幼稚園・私立認定こども園一覧;https://www.city.kita.tokyo.jp/k-ouen/kosodate/hoikuen/yochien/shiritsu/ichiran/index.htmlをご覧ください。\n\n幼児教育・保育の無償化の対象となるためには\n幼児教育・保育の無償化の対象となるためには、お通いになる施設によって、「子育てのための施設等利用給付認定（以下「施設等利用給付認定」と言います。）または「子どものための教育・保育給付認定（以下「教育・保育給付認定」と言います。）のどちらかを必ず受けていただきます。\n私学助成を受ける私立幼稚園に通う方は施設等利用給付認定の新1号～新3号のいずれか、新制度の私立幼稚園や私立認定こども園（教育部分）に通う方は教育・保育給付認定の1号のみ、もしくは、教育・保育給付認定の1号と施設等利用給付認定の新2号（または新3号）を合わせて取得することになります。\n認定の種類によって、申請手続きの方法が異なります。詳しくは以下をご覧ください。\n\n施設等利用給付認定\n認定区分について\n|認定区分|児童の年齢|保育の必要性|利用できる主な施設|\n|:----|:----|:----|:----|\n|新1号認定|満3歳以上|無し|私立幼稚園（私学助成園）<br>国立大学附属幼稚園<br>国立特別支援学校幼稚部|\n|新2号認定|3歳以上|保育の必要性の事由あり|私立幼稚園等の預かり保育<br>認可外保育施設など※|\n|新3号認定|生活保護世帯及び非課税世帯の満3歳|保育の必要性の事由あり|私立幼稚園等の預かり保育<br>認可外保育施設など※|\n\n※私立幼稚園等に在籍している方が、在籍園とは別に認可外保育施設などを使う場合に限ります。私立幼稚園に在籍せず、認可外保育施設等のみを利用する場合の手続きについては、保育課私立保育園係（直通：03-3908-1333）へお問い合わせください。\n\n申請方法について\n私立幼稚園等への入園が決まった後、電子申請で行っていただきます。詳しくは以下をご覧ください。\n私立幼稚園・私立認定こども園の電子申請について;https://www.city.kita.tokyo.jp/k-ouen/kosodate/hoikuen/yochien/shiritsu/shinsei.html",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "子育てのための施設等利用給付認定申請（追加提出用）（外部サイトへリンク）",
+      "uri": "https://logoform.jp/form/VNHo/442910"
+    },
+    {
+      "title": "子育てのための施設等利用給付認定申請（外部サイトへリンク）",
+      "uri": "https://logoform.jp/form/VNHo/336429"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育てのための施設等利用給付認定（新1号・新2号・新3号）",
+    "shortName": "私立幼稚園・私立認定こども園の幼児教育・保育の無償化"
+  },
+  "localGovernmentLink": {
+    "title": "私立幼稚園・私立認定こども園の幼児教育・保育の無償化",
+    "uri": "https://www.city.kita.tokyo.jp/k-ouen/kosodate/hoikuen/yochien/shiritsu/mushoka.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "北区"
+  },
+  "procedureCounter": "子ども未来課子ども施設係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "施設等利用給付認定\n私立幼稚園等への入園が決まった後、電子申請で行っていただきます。詳しくは以下をご覧ください。\n\n私立幼稚園・私立認定こども園の電子申請について;https://www.city.kita.tokyo.jp/k-ouen/kosodate/hoikuen/yochien/shiritsu/shinsei.html",
+  "procedurePeriod": {
+    "conditions": "私立幼稚園等への入園が決まった後",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第30条の4～10（第2款　施設等利用給付認定等）",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "私立幼稚園・私立認定こども園の電子申請について",
+      "uri": "https://www.city.kita.tokyo.jp/k-ouen/kosodate/hoikuen/yochien/shiritsu/shinsei.html"
+    },
+    {
+      "title": "幼児教育・保育の無償化",
+      "uri": "https://www.city.kita.tokyo.jp/k-hoiku/musyouka/musyouka.html"
+    },
+    {
+      "title": "私立幼稚園・私立認定こども園一覧",
+      "uri": "https://www.city.kita.tokyo.jp/k-ouen/kosodate/hoikuen/yochien/shiritsu/ichiran/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子ども子育て支援新制度に移行していない幼稚園（私学助成の幼稚園）や認可外の保育施設、幼稚園の預かり保育や一時保育などの利用料について、「幼児教育・保育の無償化」による助成を受けるには、お子さんの年齢や世帯の課税状況、保育の必要性などに応じて、「施設等利用給付」の認定を受ける必要があります。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "幼児教育・保育の無償化の対象となるためには、お通いになる施設によって、「子育てのための施設等利用給付認定（以下「施設等利用給付認定」と言います。）または「子どものための教育・保育給付認定（以下「教育・保育給付認定」と言います。）のどちらかを必ず受けていただきます。\n\n私学助成を受ける私立幼稚園に通う方は施設等利用給付認定の新1号～新3号のいずれか、新制度の私立幼稚園や私立認定こども園（教育部分）に通う方は教育・保育給付認定の1号のみ、もしくは、教育・保育給付認定の1号と施設等利用給付認定の新2号（または新3号）を合わせて取得することになります。"
+  },
+  "updateDate": "2024-02-22",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

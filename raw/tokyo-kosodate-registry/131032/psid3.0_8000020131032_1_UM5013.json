@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "みなと保健所健康推進課地域保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+1+UM5013"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "出産・子育て応援事業専用窓口",
+    "contactPhone": "03-6722-0310",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "出産・子育て応援事業について(国の出産・子育て応援給付金)\n妊娠期から出産・子育てまで一貫した伴走型相談支援（全ての妊婦・子育て家庭に対して身近で相談に応じ、様々なニーズに即した必要なサービスへつなげる支援）と、経済的支援（妊娠期「出産応援ギフト」として5万円相当、出生後に「子育て応援ギフト」として10万円相当※東京都赤ちゃんファースト５万円相当含む）を一体として実施する事業を開始します。ギフトは、子育て関連用品等に使用できる東京都発行のクーポン券です。※本事業は流産、死産、新生児死亡で大切な命をなくされた方も対象となります。本事業を希望される方は別途、問合わせ先までご連絡ください。\n\n経済的支援\n出産応援ギフト\n支給対象者\n令和5年4月1日以降に妊娠届を提出し、上記相談支援のみなとプレママ応援事業を受けた妊婦の方\n\n（みなとプレママ応援事業の際に申請書を記入していただきます。）\n\n支給内容\n妊婦1人につき5万円相当の電子クーポンを申請後2か月程度でお送りします。\n\n遡及対象者\n令和4年4月1日から令和5年3月31日の間に妊娠届を提出した方（出産した方は除く）\n\n出生後、上記相談支援のこんにちは赤ちゃん訪問を受けた方に出産応援ギフト、子育て応援ギフトを一括で支給します。\n\n（こんにちは赤ちゃん訪問の際に申請書を記入していただきます。）\n\n※里帰り先でこんにちは赤ちゃん訪問を受けた方も対象となります。\n\n里帰り先で訪問を受けた方で、港区のこんにちは赤ちゃん訪問を受けない方は、子育て応援ギフト申請書（出産後）（PDF：301KB）;https://www.city.minato.tokyo.jp/chiikihoken/kodomo/documents/kosodategifuto.pdfと里帰り先でこんにちは赤ちゃん訪問を受けたことが分かる記録のコピー（例：母子健康手帳のこんにちは赤ちゃん訪問のページ等）を合わせて、みなと保健所健康推進課地域保健係まで郵送してください。\n\n※長期入院等で生後４か月以内にこんにちは赤ちゃん訪問が受けられない方は別途ご連絡ください。\n\n※こんにちは赤ちゃん訪問を受ける前に港区を転出された方は、転出先の自治体にご確認ください。\n\n支給内容\n出生した子ども1人につき10万円相当（東京都赤ちゃんファースト５万円相当含む）の電子クーポンを申請後2か月程度でお送りします。\n\n電子申請について（みなとプレママ応援事業またはこんにちは赤ちゃん訪問を受けた方のみ申請可能）\n電子申請が可能な方は、みなとプレママ応援事業またはこんにちは赤ちゃん訪問を受けた方で申請書を提出していない場合のみになります。\n\n※出産応援ギフトの申請にはみなとプレママ応援事業、子育て応援ギフトの申請にはこんにちは赤ちゃん訪問を受けていることが必須です。\n\n電子申請（外部サイトへリンク）;https://logoform.jp/form/Mt5V/498183\n\nお問い合わせ\n出産・子育て応援事業専用窓口\n\n電話番号：03-6722-0310",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "電子申請（外部サイトへリンク）",
+      "uri": "https://logoform.jp/form/Mt5V/498183"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出産・子育て応援ギフト（国の出産・子育て応援給付金）",
+    "shortName": "出産応援ギフト"
+  },
+  "localGovernmentLink": {
+    "title": "出産・子育て応援事業について(国の出産・子育て応援給付金)",
+    "uri": "https://www.city.minato.tokyo.jp/chiikihoken/kodomo/syusankosodate.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "港区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "電子申請について（みなとプレママ応援事業またはこんにちは赤ちゃん訪問を受けた方のみ申請可能）\n電子申請が可能な方は、みなとプレママ応援事業またはこんにちは赤ちゃん訪問を受けた方で申請書を提出していない場合のみになります。\n\n※出産応援ギフトの申請にはみなとプレママ応援事業、子育て応援ギフトの申請にはこんにちは赤ちゃん訪問を受けていることが必須です。\n\n電子申請（外部サイトへリンク）;https://logoform.jp/form/Mt5V/498183",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "別紙：伴走型相談支援及び出産・子育て応援給付金の一体的実施事業実施要綱「出産・子育て応援給付金」（別添2） ",
+    "regulationName": "伴走型相談支援及び出産・子育て応援給付金の一体的実施事業の実施について（子発1226第1号 令和4年12月26日）"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "すべての妊婦さんと子育て家庭が安心して出産・子育てができるように、妊娠から出産・子育てまでの一貫した「伴走型相談支援」を実施しています。この相談支援と一体的に実施する経済的支援として、「出産・子育て応援ギフト」を給付しています。 ",
+  "support": {
+    "description": "妊婦1人につき5万円相当の電子クーポンを申請後2か月程度でお送りします。",
+    "materiallySupport": null,
+    "monetarySupport": "妊婦1人につき5万円相当の電子クーポンを申請後2か月程度でお送りします。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "令和5年4月1日以降に妊娠届を提出し、上記相談支援のみなとプレママ応援事業を受けた妊婦の方\n\n（みなとプレママ応援事業の際に申請書を記入していただきます。）\n\n遡及対象者\n\n令和4年4月1日から令和5年3月31日の間に妊娠届を提出した方（出産した方は除く）\n\n※里帰り先でこんにちは赤ちゃん訪問を受けた方も対象となります。"
+  },
+  "updateDate": "2024-05-18",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

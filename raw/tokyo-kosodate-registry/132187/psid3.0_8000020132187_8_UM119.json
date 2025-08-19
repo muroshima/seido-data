@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132187;福生市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会教育部　教育支援課　教育支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132187",
+    "psid": "psid3.0+8000020132187+8+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都福生市北田園2-5-7",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "教育委員会教育部　教育支援課　教育支援係",
+    "contactPhone": "042-551-7700",
+    "contactUrl": null,
+    "zipCode": "1970005"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "いじめは一人で悩まないことが大切です。学校以外でも、いじめ等の問題に悩む子どもや保護者の皆さんがいつでも相談できるよう、東京都ではさまざまな相談窓口を設けています。\nまた、福生市でも、「福生市教育相談室」や「福生市子ども家庭支援センター」で、子どものさまざまな問題に関する相談を受けていますので、ぜひ利用してください。\n\nいじめに関する相談窓口一覧\nhttps://www.city.fussa.tokyo.jp/life/consultation/1014288/1014414.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "福生市の子育てに関する相談",
+    "shortName": "いじめに関する相談"
+  },
+  "localGovernmentLink": {
+    "title": "いじめに関する相談",
+    "uri": "https://www.city.fussa.tokyo.jp/life/consultation/1014288/1014414.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "福生市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "学校以外でも、いじめ等の問題に悩む子どもや保護者の皆さんがいつでも相談できるよう、東京都ではさまざまな相談窓口を設けています。",
+  "support": {
+    "description": "https://www.city.fussa.tokyo.jp/life/consultation/1014288/1014414.html",
+    "materiallySupport": "https://www.city.fussa.tokyo.jp/life/consultation/1014288/1014414.html",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2021-11-13",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "いじめに関する相談窓口一覧\nhttps://www.city.fussa.tokyo.jp/life/consultation/1014288/1014414.html",
+    "fromHM": null,
+    "toHM": null
+  }
+}

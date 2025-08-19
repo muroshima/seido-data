@@ -1,0 +1,130 @@
+{
+  "area": {
+    "areaCode": "133817;三宅村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "村民課　保険係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "4000020133817",
+    "psid": "psid3.0+4000020133817+1+UM5035"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "産前産後期間相当分の保険税の免除について\n産前産後期間相当分の保険税の免除について\n子育て世帯の負担軽減及び次世代育成支援等の観点から、胎児妊娠の場合は出産予定月又は出産月の前月から4か月分を、多胎妊娠の場合は出産予定月又は出産月の前々月から6か月分を、出産被保険者に係る所得割額及び均等割額について、全額免除されます。\n\n詳細は、リーフレットをご覧ください。\n\n【ご注意】令和6年1月1日施行のため、令和5年11月以降の、出産予定または出産した国民健康保険の被保険者(加入者)を含む世帯が対象となります。\n\n・リーフレットPDFファイル(564KB);https://www.vill.miyake.tokyo.jp/kakuka/sonmin/news/files/2023_12_18_2.pdf\n・産前産後期間に係る国民健康保険税軽減届出書PDFファイル(181KB);https://www.vill.miyake.tokyo.jp/kakuka/sonmin/news/files/2023_12_18_3.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "国民健康保険における産前産後期間保険料（税）免除",
+    "shortName": "産前産後期間相当分の保険税の免除"
+  },
+  "localGovernmentLink": {
+    "title": "産前産後期間相当分の保険税の免除について",
+    "uri": "https://www.vill.miyake.tokyo.jp/kakuka/sonmin/news/2023-1218-1013-10.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-19",
+    "updater": "三宅村"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "リーフレットPDFファイル(564KB)",
+      "uri": "https://www.vill.miyake.tokyo.jp/kakuka/sonmin/news/files/2023_12_18_2.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": "令和5年11月以降の、出産予定または出産した国民健康保険の被保険者(加入者)を含む世帯",
+  "summary": "国民健康保険の出産する被保険者に係る産前産後期間相当分（４ヶ月分）の均等割保険料と所得割保険料が免除されます。",
+  "support": {
+    "description": "子育て世帯の負担軽減及び次世代育成支援等の観点から、胎児妊娠の場合は出産予定月又は出産月の前月から4か月分を、多胎妊娠の場合は出産予定月又は出産月の前々月から6か月分を、出産被保険者に係る所得割額及び均等割額について、全額免除されます。",
+    "materiallySupport": null,
+    "monetarySupport": "子育て世帯の負担軽減及び次世代育成支援等の観点から、胎児妊娠の場合は出産予定月又は出産月の前月から4か月分を、多胎妊娠の場合は出産予定月又は出産月の前々月から6か月分を、出産被保険者に係る所得割額及び均等割額について、全額免除されます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003",
+      "015"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "令和5年11月以降の、出産予定または出産した国民健康保険の被保険者(加入者)を含む世帯が対象となります。"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131130;渋谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども青少年課子育て給付係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020131130",
+    "psid": "psid3.0+9000020131130+1+UM106"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "FAX03-5458-4942",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども青少年課子育て給付係",
+    "contactPhone": "03-3463-2558",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "利用者の所得に応じて自己負担があります。",
+  "description": "家事援助者の派遣\n中学生以下の児童を扶養しているひとり親家庭で、家事など日常生活に支障があるとき、保護者が在宅している時間帯に家事援助者を派遣します。\n\n対象\n次のいずれかに該当する人\n\nひとり親家庭になった直後（2年以内）\n親または児童が一時的に傷病などになったとき\n派遣日数\n月12回以内（1回2時間以上8時間以内）\nおおむね6か月を限度\n\n費用\n利用者の所得に応じて自己負担があります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関するサポート",
+    "shortName": "家事援助者の派遣"
+  },
+  "localGovernmentLink": {
+    "title": "貸付・支援",
+    "uri": "https://www.city.shibuya.tokyo.jp/kodomo/kodomo-teate-josei/hitorioya/hitorioya_shien.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-24",
+    "updater": "渋谷区"
+  },
+  "procedureCounter": "区役所4階子ども青少年課子育て給付係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "中学生以下の児童を扶養しているひとり親家庭",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "渋谷区ひとり親家庭家事援助者派遣事業実施要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭となった直後、または親や児童が一時的傷病等で日常生活を営むのに支障が生じたとき、一定の期間家事援助者を派遣し、日常生活の安定を図ります。",
+  "support": {
+    "description": "家事など日常生活に支障があるとき、保護者が在宅している時間帯に家事援助者を派遣します。",
+    "materiallySupport": "家事など日常生活に支障があるとき、保護者が在宅している時間帯に家事援助者を派遣します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "中学生以下の児童を扶養しているひとり親家庭",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "中学生以下の児童を扶養しているひとり親家庭\n次のいずれかに該当する人\n\nひとり親家庭になった直後（2年以内）\n親または児童が一時的に傷病などになったとき"
+  },
+  "updateDate": "2023-03-17",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月12回以内（1回2時間以上8時間以内）\nおおむね6か月を限度",
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132128;日野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども部子育て課あさひがおか児童館",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132128",
+    "psid": "psid3.0+1000020132128+1+UM112"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都日野市旭が丘2の42の5",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども部子育て課あさひがおか児童館",
+    "contactPhone": "042-583-4346",
+    "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120113",
+    "zipCode": "1910065"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "あさひがおか児童館　子育て広場事業\nページID1004000　 更新日 平成30年2月27日\n\n市内の基幹型児童館3館では子育て広場事業を行っています。子育て広場として乳幼児専用のスペースを設けてあり、相談員もおります。子育てについて「こんな事はどこに聞けばいいんだろう」「相談というには大げさかも」などと思う内容でも、気軽に職員までお話をしてください。（必要があれば、もちろんしっかりと聞くこともできますし、専門の機関におつなぎすることもできます）\n\n子育てひろば開設日時\n月曜日から土曜日　午前10時から午後4時まで\n子育て相談受付日時\n月曜日から金曜日　午前10時から午後4時まで\n相談電話番号 042-586-1184\n\n写真：赤ちゃんWECOMEほっとスペース\nあかちゃんほっとスペース\nあさひがおか児童館の乳幼児専用室です。\n\n授乳室、おむつ交換ベット、乳幼児用トイレ、乳幼児の本の貸し出し、おむつ袋の配布、また、冬には床暖房もあり、のんびりくつろぎながらお子さんと過ごすことができますよ。\n\n写真：おむつ袋写真：幼児向けの絵本\n上の写真は、おむつ袋と乳幼児向けの絵本です。\n「肩を張らずに気軽に話しができること」を大切にしています。職員まで声をかけてくださいね。\n子育ての嬉しいことや大変なこと・・・分かち合いましょう",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "子育てひろば開設日時\n月曜日から土曜日　午前10時から午後4時まで\n子育て相談受付日時\n月曜日から金曜日　午前10時から午後4時まで",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "基幹型児童館3館"
+  },
+  "institutionName": {
+    "canonicalName": "子育て広場",
+    "shortName": "あさひがおか児童館子育て広場事業"
+  },
+  "localGovernmentLink": {
+    "title": "あさひがおか児童館　子育て広場事業",
+    "uri": "https://www.city.hino.lg.jp/kosodate/1008312/jidokan/asahigaioa/1004000.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-28",
+    "updater": "日野市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第6項",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "市内の子育てひろばは、小学校就学前のお子さんが安心して遊べるスペースがあり、子育て中の親子が気軽に集い、仲間づくりを通して子育てに関する相談や情報交換等を行う機会を提供しています。また、お子さんの年齢に応じた各種イベントなども行っています。\n（イベントの詳細については、日野市サイトや市報などでお知らせしています。）",
+  "support": {
+    "description": "子育て広場として乳幼児専用のスペースを設けてあり、相談員もおります。",
+    "materiallySupport": "子育て広場として乳幼児専用のスペースを設けてあり、相談員もおります。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2018-02-27",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

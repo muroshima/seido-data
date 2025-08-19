@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "133612;大島町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "大島町子ども家庭支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020133612",
+    "psid": "psid3.0+2000020133612+1+UM83"
+  },
+  "belongings": "＜持ち物＞ ～ 必要に応じて ～ \n・オムツ、おしり拭き\n・着替え\n・白湯、またはお茶などの飲み物\n・少量のおやつ\n・好きなオモチャ（こだわりがあれば）\n・お弁当、またはミルク（利用時間帯に合せて）\n・バスタオル（昼寝をする場合、布団に敷きます）",
+  "capacity": "おおむね２～３人 ",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "大島町子ども家庭支援センター",
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "＜利用料＞ 一人当りの利用料\n|利用者の区分|<|２時間以内|２時間超４時間以内|\n|:----|:----|:----|:----|\n|生活保護世帯に属する者|<|０円|０円|\n|上記以外の者|３才以上児|３００円|６００円|\n|^|３才未満|５００円|１，０００円|\n※利用当日引き取りの際、事務室カウンターにて利用料をお支払い下さい。 ",
+  "description": "一時預かり事業（いっときあずかりじぎょう）\n大島町子ども家庭支援センターでは、家庭で子どもを育てている方々への支援として一時預かりを実施しています。\n＜対象＞ 大島町に住所を持つ、生後３ヶ月から就学前の乳幼児 \n〇 保護者が何らかの理由により、家庭における保育が一時的に困難となり、短時間の預かりが必要となる乳幼児。\nなんらかの理由とは・・・\n・保護者が疾病のため通院 ・保護者が検診等の受診\n・保護者がリフレッシュのため ・兄弟、姉妹等が疾病のため通院\n・兄弟、姉妹等が検診等の受診\n〇 その他、緊急的に預かりが必要と認められた乳幼児\n＜実施場所＞ 大島町子ども家庭支援センター\n＜時間＞ 午前９時～午後５時の間の４時間以内（土、日、祝は除く）で、週３回まで利用が可能です。\n＜定員＞ おおむね２～３人 \n＜申込み方法＞ ① 子ども家庭支援センターに連絡（日程調整）\n ② 申請書提出（利用日５日前までに、役場又は各出張所に提出）\n ③ 決定通知書受取り（当日預かり時）\n※緊急性が極めて高いと認められた事由の場合は、当日の申請でも構いません。\n※申請書は、子ども家庭支援センターまたは大島町役場福祉けんこう課窓口にあります。\n＜利用料＞ 一人当りの利用料\n|利用者の区分|<|２時間以内|２時間超４時間以内|\n|:----|:----|:----|:----|\n|生活保護世帯に属する者|<|０円|０円|\n|上記以外の者|３才以上児|３００円|６００円|\n|^|３才未満|５００円|１，０００円|\n※利用当日引き取りの際、事務室カウンターにて利用料をお支払い下さい。 \n＜持ち物＞ ～ 必要に応じて ～ \n・オムツ、おしり拭き\n・着替え\n・白湯、またはお茶などの飲み物\n・少量のおやつ\n・好きなオモチャ（こだわりがあれば）\n・お弁当、またはミルク（利用時間帯に合せて）\n・バスタオル（昼寝をする場合、布団に敷きます）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "午前９時～午後５時の間の４時間以内（土、日、祝は除く）で、週３回まで利用が 可能です。 ",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "大島町元町字丸塚５４８番１（大島町生涯学習センター・郷内２階）",
+    "implementationName": "大島町子ども家庭支援センター"
+  },
+  "institutionName": {
+    "canonicalName": "一時預かり（一時保育）",
+    "shortName": "一時預かり事業"
+  },
+  "localGovernmentLink": {
+    "title": "一時預かり事業（いっときあずかりじぎょう）",
+    "uri": "https://www.town.oshima.tokyo.jp/uploaded/attachment/3190.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-30",
+    "updater": "大島町"
+  },
+  "procedureCounter": "大島町子ども家庭支援センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "＜申込み方法＞ ① 子ども家庭支援センターに連絡（日程調整）\n ② 申請書提出（利用日５日前までに、役場又は各出張所に提出）\n ③ 決定通知書受取り（当日預かり時）\n※緊急性が極めて高いと認められた事由の場合は、当日の申請でも構いません。\n※申請書は、子ども家庭支援センターまたは大島町役場福祉けんこう課窓口にあります。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第7項、第21条の9、第59条第10号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者のパート就労や病気等による緊急時、育児疲れなどのリフレッシュのために、家庭において保育を受けることが一時的に困難となったお子さんを、保育園、幼稚園、地域子育て支援拠点などで一時的にお預かりしています。",
+  "support": {
+    "description": "保護者が何らかの理由により、家庭における保育が一時的に困難となり、短時間の預かりが必要と\nなる乳幼児を対象とした一時預かりを実施",
+    "materiallySupport": "保護者が何らかの理由により、家庭における保育が一時的に困難となり、短時間の預かりが必要と\nなる乳幼児を対象とした一時預かりを実施",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "大島町に住所を持つ、生後３ヶ月から就学前の乳幼児 ",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 3
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "大島町に住所を持つ、生後３ヶ月から就学前の乳幼児 "
+  },
+  "updateDate": null,
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "午前９時～午後５時の間の４時間以内（土、日、祝は除く）で、週３回まで利用が 可能です。 ",
+    "fromHM": null,
+    "toHM": null
+  }
+}

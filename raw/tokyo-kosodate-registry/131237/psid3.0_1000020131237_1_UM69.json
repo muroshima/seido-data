@@ -1,0 +1,118 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "総務部人権・男女共同参画推進センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM69"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "総務部人権・男女共同参画推進センター",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e090/kuseijoho/gaiyo/soshiki/soumu/jinken.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "犯罪被害にあった方やその家族の方々が様々な悩みや問題を抱えたとき、どのような支援を受けられるかを一覧にしました。お困りのことがありましたら、各窓口までご相談ください。\n（注）窓口の受付日時等は変更になっている場合がありますので、各窓口のホームページ等でご確認ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の遺児の方への金銭的支援",
+    "shortName": "犯罪被害者等の支援制度一覧"
+  },
+  "localGovernmentLink": {
+    "title": "犯罪被害者等の支援制度一覧",
+    "uri": "https://www.city.edogawa.tokyo.jp/e090/kurashi/sodanannai/hanzai/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "犯罪被害にあった方やその家族の方々が様々な悩みや問題を抱えたとき、どのような支援を受けられるかを一覧にしました。お困りのことがありましたら、各窓口までご相談ください。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": null,
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": null
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-02-19",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

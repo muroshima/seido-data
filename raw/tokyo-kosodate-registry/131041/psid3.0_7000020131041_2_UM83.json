@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131041;新宿区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 保育課 入園・認定係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020131041",
+    "psid": "psid3.0+7000020131041+2+UM83"
+  },
+  "belongings": null,
+  "capacity": "定員の範囲内で受入れ可能な人数［保育ルーム：3 名まで（えどがわ園は 5 名まで）］",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 保育課 入園･認定係",
+    "contactPhone": "03-5273-4527",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": "1000",
+  "costConditions": "１，０００円/日\n［区立園］ 食材料費３００円を含みます。利用日翌月に納付書を郵送します。\n特別出張所または金融機関で納付してください。\n［私立園］ 各園にお問合せください。",
+  "description": "空き利用型一時保育 ［在籍児童と同じ保育室で保育します。］\n|実施園|専用室型一時保育を実施していない 認可保育園・認定こども園、保育ルーム、事業所内保育所|\n|:----|:----|\n|対象|新宿区内在住で、生後６ゕ月以上※の健康で集団保育可能なお子さん<br>※ 保育ルームは１、２歳児クラス（えどがわ園のみ２～５歳児クラス）<br>（保育ルームには１歳児クラスはありませんが、えどがわ園以外は一時保育<br>のみ１歳児クラスのお子さんも対象とします。）<br>※ 事業所内保育所は０～２歳児クラス<br>・クラス（４月１日現在の年齢）の定員に空きがある場合に、そのクラス<br>に該当する年齢のお子さんを対象とします。<br>・定員に空きがあっても、園の状況により利用できない場合があります。<br>・利用可能な人数は、当該月の在籍児童数の確定後に決定します。|\n|1日の利用定員|定員の範囲内で受入れ可能な人数［保育ルーム：3 名まで（えどがわ園は 5 名まで）］|\n|月利用日数|１園につき ５日以内 ［月～金曜日（祝日･年末年始を除く）］|\n|保育時間|８：３０～１７：００ のうち８時間以内|\n|保育料|１，０００円/日<br>［区立園］ 食材料費３００円を含みます。利用日翌月に納付書を郵送します。<br>特別出張所または金融機関で納付してください。<br>［私立園］ 各園にお問合せください。|\n|受付時間|［区立園］ １０：００～１６：００ [月～金曜日（祝日･年末年始を除く）]<br>［私立園］ 各園にお問い合わせください。|\n|申込方法等|① 利用希望日の前月２５日から利用希望日の３日前（土･日･祝日･年末年始を除く）ま<br>でに、利用する園で申込み手続きをしてください。（申込書類は園で配布）<br>② 新入園児童の調整を前月２４日まで行っているため、クラス定員の空き状況は、<br>利用希望月の前月２５日以降に確定します。<br>③ 空きがある園に電話で利用の可否についてお問い合わせください。<br>※ クラス定員の空き状況は、前月２５日以降に入園･認定係にお問い合わせください。<br>空きがある園をご案内します。<br>※ 空きがあっても園の状況により利用できない場合があります。<br>④ 事前に、利用する園で保護者、お子さんとの面接を行います。|\n|利用日の変更方法|［区立園］ 利用日の３日前（土･日･祝日･年末年始を除く）までに利用する園にご相談<br>ください。利用日の変更は同一月内に限ります。<br>［私立園］ 各園にお問い合わせください。|\n|利用を辞退（キャンセル）する場合|［区立園］ 利用しないことがわかったときは、すぐに園に申し出てください。<br>［私立園］ 各園にお問い合わせください。|",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "祝日･年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "専用室型一時保育を実施していない 認可保育園・認定こども園、保育ルーム、事業所内保育所"
+  },
+  "institutionName": {
+    "canonicalName": "一時預かり（一時保育）",
+    "shortName": "空き利用型一時保育"
+  },
+  "localGovernmentLink": {
+    "title": "一時保育･定期利用保育のご案内",
+    "uri": "https://www.city.shinjuku.lg.jp/content/000317851.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "新宿区"
+  },
+  "procedureCounter": "利用する園",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "① 利用希望日の前月２５日から利用希望日の３日前（土･日･祝日･年末年始を除く）ま\nでに、利用する園で申込み手続きをしてください。（申込書類は園で配布）\n② 新入園児童の調整を前月２４日まで行っているため、クラス定員の空き状況は、\n利用希望月の前月２５日以降に確定します。\n③ 空きがある園に電話で利用の可否についてお問い合わせください。\n※ クラス定員の空き状況は、前月２５日以降に入園･認定係にお問い合わせください。\n空きがある園をご案内します。\n※ 空きがあっても園の状況により利用できない場合があります。\n④ 事前に、利用する園で保護者、お子さんとの面接を行います。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第7項、第21条の9、第59条第10号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者のパート就労や病気等による緊急時、育児疲れなどのリフレッシュのために、家庭において保育を受けることが一時的に困難となったお子さんを、保育園、幼稚園、地域子育て支援拠点などで一時的にお預かりしています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後６ゕ月以上",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 6
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "新宿区内在住で、生後６ゕ月以上※の健康で集団保育可能なお子さん\n\n※ 保育ルームは１、２歳児クラス（えどがわ園のみ２～５歳児クラス）\n（保育ルームには１歳児クラスはありませんが、えどがわ園以外は一時保育\nのみ１歳児クラスのお子さんも対象とします。）\n※ 事業所内保育所は０～２歳児クラス"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "８：３０～１７：００ のうち８時間以内",
+    "fromHM": "08:30",
+    "toHM": "17:00"
+  }
+}

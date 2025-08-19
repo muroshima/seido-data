@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部保健予防課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+8+UM66"
+  },
+  "belongings": "・自立支援医療診断書（精神通院）\n保健所・健康サポートセンターの窓口にあります。東京都指定の診断書で、精神医療を行う主治医に書いてもらいます。\n（注）診断書についての詳細は、保健予防課精神保健係（電話：03-5661-2465）にお問い合わせください。\n\n・世帯確認する書類健康保険証の写しなど\n（ア）国民健康保険／長寿医療制度（後期高齢者医療制度）加入者\n同じ番号の保険証を使用している方全員分\n（イ）社会保険・共済組合等健康保険加入者\n通院者と被保険者分\n（ウ）生活保護の方\n生活保護証明書\n（注）「世帯」の単位は、住民票上の家族でなく、同じ保険に加入している世帯を同一世帯とします。異なる医療保険に加入している家族の方は別世帯となります。\n\n・区市町村民税が確認できる書類（課税証明書等）\n（ア）国民健康保険／長寿医療制度（後期高齢者医療制度）加入者\n同じ番号の保険証を使用している方全員分\n（イ）社会保険・共済組合等健康保険加入者\n被保険者分\n（注）ただし、江戸川区に課税権がある方は省略できる場合があります。\n\n・受給者証（更新の方のみ）\n\n・マイナンバーカード（平成28年1月以降）\n（ア）マイナンバーカードを持っている場合\n番号確認と本人確認がマイナンバーカード1枚でできます。\n（イ）マイナンバーカードを持っていない場合\n番号確認⇒通知カードまたはマイナンバー記載の住民票の写し\n本人確認⇒運転免許証、パスポート、精神障害者手帳等\n（写真付の身分証明書をお持ちでない場合は、健康保険証、年金手帳など2点ご提示いただきます）\n（注）18歳未満の方の場合は、申請する保護者の番号確認書類と本人確認書類も必要です。\n\n必要書類についての詳細は、保健所・健康サポートセンターにお問合せください。\n（注）精神障害者保健福祉手帳と同時に申請する場合や診断書に基づいて交付された精神障害者保健福祉手帳をお持ちの場合、必要書類が異なる場合があります。事前にお問合せください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部保健予防課",
+    "contactPhone": null,
+    "contactUrl": "https://faq.city.edogawa.tokyo.jp/cgi-bin/faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "精神疾患の治療のために通院されている方を対象に、治療費の負担を軽減する制度です。この制度は精神通院医療に係る往診・デイケア・訪問看護・てんかんの診療および薬代も対象としています。\n\n医療機関・薬局等について\n自立支援医療費制度が適用される医療機関・薬局等は、申請時に申請者が指定をした医療機関・薬局等に限ります。（医療機関及び薬局などの事業者自身も指定自立支援医療機関（精神通院医療）の指定を受けている事が前提となります。）受給者証に利用できる医療機関等が記載されます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "有効期限\n有効期限は原則として1年です。更新申請は、毎年必要です。有効期間満了日の3ヶ月前から出来ますので、お早めに手続きをして下さい。\n更新手続き案内LINE（ライン）について（東京都）;https://www.fukushi.metro.tokyo.lg.jp/shougai/nichijo/tsuuin/seishintsuuin.html",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の医療費助成制度（ぜん息など）",
+    "shortName": "自立支援医療費制度（精神通院医療）"
+  },
+  "localGovernmentLink": {
+    "title": "自立支援医療費制度（精神通院医療）",
+    "uri": "https://www.city.edogawa.tokyo.jp/e054/kenko/kenko/kokoro/kokoro/seido/jiritsushien.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "手続きの方法\nお近くの保健所・健康サポートセンターへ必要書類を提出してください。\n\n下記の変更がある場合、変更申請が必要になります。詳しくは、保健所・健康サポートセンターにお問合せください。\n・住所・氏名の変更\n・保険の変更\n・病院、薬局の変更や追加\n・紛失、汚損、破損したとき\n（注）郵送での申請も可能です。詳しくは、江戸川保健所精神保健係 電話：03-5661-2465までお問合せください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "中部総合精神保健福祉センター",
+      "uri": "http://www.fukushihoken.metro.tokyo.jp/chusou/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "自立支援医療費制度（精神通院医療）は、江戸川区で精神疾患の治療のために通院されている方を対象に、治療費の負担を軽減する制度です。この制度は精神通院医療に係る往診・デイケア・訪問看護・てんかんの診療および薬代も対象としています。通院による治療を受ける場合、医療費に継続的な負担がかかりますが、この制度を利用することで負担を軽減することができます。具体的な詳細や申請方法については、江戸川区の保健所保健予防課精神保健係にお問い合わせください。",
+  "support": {
+    "description": "通常、医療保険では3割が自己負担となりますが、自立支援医療費制度を併用した場合、自己負担は原則1割に軽減されます。",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": null,
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": null
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "精神疾患の治療のために通院されている方"
+  },
+  "updateDate": "2024-03-04",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

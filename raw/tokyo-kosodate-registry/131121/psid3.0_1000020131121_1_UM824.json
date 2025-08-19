@@ -1,0 +1,138 @@
+{
+  "area": {
+    "areaCode": "131121;世田谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "障害保健福祉課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131121",
+    "psid": "psid3.0+1000020131121+1+UM824"
+  },
+  "belongings": "通院するときは「医療受給者証」と「自己負担上限額管理票」をお持ちください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "世田谷総合支所 保健福祉センター 健康づくり課,北沢総合支所 保健福祉センター 健康づくり課,玉川総合支所 保健福祉センター 健康づくり課,砧総合支所 保健福祉センター 健康づくり課,烏山総合支所 保健福祉センター 健康づくり課",
+    "contactPhone": "03-5432-2893,03-6804-9355,03-3702-1948,03-3483-3161,03-3308-8228",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "目次\n\nこころの病気（精神疾患）での通院医療費の助成\n申請に必要な書類等\n自立支援医療費の自己負担額について\n申請場所・問合せ先\n添付ファイル\n\nこころの病気（精神疾患）での通院医療費の助成\n申請が認定されると、東京都から「自立支援医療受給者証」が交付されます。\nまた、精神障害者保健福祉手帳との同時申請も可能です。申請後に、精神障害者保健福祉手帳が東京都から交付されたときは、区から「認定と交付のお知らせ」を郵送します。手帳の有効期限は2年で、更新は、有効期間の3ヶ月前から申請できます。\n\nなお、新型コロナウイルス感染症5類移行に伴い、診断書の提出が困難な方に対して、診断書の提出を猶予する取扱いは終了しました。\n\n自立支援医療費の自己負担額について\n東京都ホームページ;https://www.fukushihoken.metro.tokyo.lg.jp/shougai/shogai/jiritsu.htmlをご覧ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "受給者証の有効期間は1年です。更新は、有効期間の3か月前から申請できます。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度（精神通院医療）",
+    "shortName": "こころの病気（精神疾患）での通院医療費の助成"
+  },
+  "localGovernmentLink": {
+    "title": "こころの病気（精神疾患）での通院医療費の助成",
+    "uri": "https://www.city.setagaya.lg.jp/03655/2996.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025-02-20",
+    "updater": "世田谷区"
+  },
+  "procedureCounter": "|申請場所・問合せ先一覧| | |\n|:----|:----|:----|\n|申請場所・問合せ先|電話番号|ファクシミリ|\n|世田谷総合支所 保険福祉センター健康づくり課|03-5432-2893|03-5432-3074|\n|北沢総合支所 保険福祉センター健康づくり課|03-6804-9355|03-6804-9044|\n|玉川総合支所 保険福祉センター健康づくり課|03-3702-1948|03-3705-9203|\n|砧総合支所 保険福祉センター健康づくり課|03-3483-3161|03-3483-3167|\n|烏山総合支所 保険福祉センター健康づくり課|03-3483-3161|03-3483-3167|",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請場所・問合せ先\n申請場所・問合せ先は、お住まいの住所地を担当する総合支所保健福祉センター健康づくり課;https://www.city.setagaya.lg.jp/kyoutsu/kenkou/8473.htmlです。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [
+    {
+      "title": "総合支所業務案内健康づくり課",
+      "uri": "https://www.city.setagaya.lg.jp/kyoutsu/kenkou/8473.html"
+    },
+    {
+      "title": "自立支援医療",
+      "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/shougai/shogai/jiritsu.html"
+    },
+    {
+      "title": "自立支援医療（精神通院医療）にまつわる支給決定事務等について",
+      "uri": "https://www.city.setagaya.lg.jp/documents/2996/jimu.docx"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+  "support": {
+    "description": "自立支援医療費制度（精神通院医療）は、精神通院医療費の自己負担が、原則として1割に軽減される制度です。申請者（本人）の収入・疾患や世帯の所得等に応じて、月額自己負担上限額が設定されます。",
+    "materiallySupport": null,
+    "monetarySupport": "精神通院医療費の自己負担が、原則として1割に軽減される制度です。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2023-05-08",
+  "useConsiderationFlag": false,
+  "utilization": "申請が認定されると、東京都から「自立支援医療受給者証」が交付されます。通院するときは「医療受給者証」と「自己負担上限額管理票」をお持ちください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

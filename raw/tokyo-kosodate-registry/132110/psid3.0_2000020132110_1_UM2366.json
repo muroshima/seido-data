@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課相談支援担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+1+UM2366"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市小川町2-1333　市役所2階",
+    "contactComment": "FAX：042-346-9200",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て支援課相談支援担当",
+    "contactPhone": "042-346-9628",
+    "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+    "zipCode": "1878701"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ひとり親家庭　高等学校卒業程度認定試験合格支援給付金\nひとり親家庭のお父さん･お母さん・お子さん（20歳未満）が、高卒認定試験に合格するための講座を受けるとき、その費用の6割(最大)を支給します。\n\n様々な理由で高校を卒業できなかったひとり親家庭のお父さん･お母さんまたはお子さん（20歳未満）が、高卒認定試験に合格することで、大学や専門学校等への進学、資格取得、就職に有利になるなど、将来の選択肢が広がります。\n\n講座受講前の事前申請が必要です。\n\n対象\n・ひとり親家庭の父･母または子（20歳未満）。\n\n・過去にこの事業の給付を受けていないこと。\n\n支給額\n講座受講のための費用を最大6割支給します。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "高等学校卒業程度認定試験合格支援事業給付金",
+    "shortName": "ひとり親家庭　高等学校卒業程度認定試験合格支援給付金"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親家庭　高等学校卒業程度認定試験合格支援給付金",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/077/077974.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-11",
+    "updater": "小平市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "講座受講前の事前申請が必要です。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "ひとり親家庭高等学校卒業程度認定試験合格支援事業実施要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭の就職や転職の可能性を広げ、自立につなげていくため、ひとり親家庭の親またはお子さんが高卒認定試験合格のための講座（通信講座を含む）を受け、これを修了した時および合格したときに受講費用の一部を支給します。",
+  "support": {
+    "description": "講座受講のための費用を最大6割支給します。",
+    "materiallySupport": null,
+    "monetarySupport": "講座受講のための費用を最大6割支給します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "ひとり親家庭のお父さん･お母さん・お子さん（20歳未満）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "・ひとり親家庭の父･母または子（20歳未満）。\n\n・過去にこの事業の給付を受けていないこと。"
+  },
+  "updateDate": "2023-12-25",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

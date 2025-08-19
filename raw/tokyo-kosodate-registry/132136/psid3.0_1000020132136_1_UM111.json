@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132136;東村山市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子ども家庭支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132136",
+    "psid": "psid3.0+1000020132136+1+UM111"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東村山市本町1丁目2番地3　いきいきプラザ3F",
+    "contactComment": "ファクス：042-390-2270",
+    "contactEmail": null,
+    "contactEx": "3601",
+    "contactName": "子ども家庭部子ども家庭支援センター",
+    "contactPhone": "042-393-5111",
+    "contactUrl": "https://www.city.higashimurayama.tokyo.jp/formmail.html?_div=029400&_pageid=24157&_name=子ども家庭部子ども家庭支援センター",
+    "zipCode": "1898501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子育てサークル\n市内では、子育てをテーマにした複数の市民サークルが活動しています。\n\n子育て中の親同士で情報交換や交流の場を持ちたい\n子どもどうしの交流の場を作りたい\n仲間でグループを作りたい\n親子でグループに入りたい\nなど、サークル活動について知りたい・興味があるといった方は是非ご相談ください。\n\nサークルの紹介や新規登録\n各種手続きについては子育て総合支援センター「ころころの森」にお問い合わせください。\n\n子育て総合支援センター「ころころの森」;https://www.city.higashimurayama.tokyo.jp/kosodate/shien/corocoronomori/index.html\n\nサークル活動で利用できる施設\nサークル登録をすると、子ども家庭支援センターの地域活動室などの施設がご利用いただけます。\n\nサークル登録と活動室等の利用について",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関する各種コミュニティ・団体一覧",
+    "shortName": "子育てサークル"
+  },
+  "localGovernmentLink": {
+    "title": "子育てサークル",
+    "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/sodan/kosodate/sa-kuru.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-01",
+    "updater": "東村山市"
+  },
+  "procedureCounter": "子育て総合支援センター「ころころの森」",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "各種手続きについては子育て総合支援センター「ころころの森」にお問い合わせください。\n\n子育て総合支援センター「ころころの森」;https://www.city.higashimurayama.tokyo.jp/kosodate/shien/corocoronomori/index.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第6項、第21条の9",
+    "regulationName": "児童福祉法、児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "子育て総合支援センター「ころころの森」",
+      "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/shien/corocoronomori/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "東村山市内で子育てに関する活動を行う、コミュニティやサークル、各種団体の登録や活動で利用できる施設のご案内です。",
+  "support": {
+    "description": "市内では、子育てをテーマにした複数の市民サークルが活動しています。\n\n・子育て中の親同士で情報交換や交流の場を持ちたい\n・子どもどうしの交流の場を作りたい\n・仲間でグループを作りたい\n・親子でグループに入りたい\n\nなど、サークル活動について知りたい・興味があるといった方は是非ご相談ください。\n\nサークル登録をすると、子ども家庭支援センターの地域活動室などの施設がご利用いただけます。",
+    "materiallySupport": "市内では、子育てをテーマにした複数の市民サークルが活動しています。\n\n・子育て中の親同士で情報交換や交流の場を持ちたい\n・子どもどうしの交流の場を作りたい\n・仲間でグループを作りたい\n・親子でグループに入りたい\n\nなど、サークル活動について知りたい・興味があるといった方は是非ご相談ください。\n\nサークル登録をすると、子ども家庭支援センターの地域活動室などの施設がご利用いただけます。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

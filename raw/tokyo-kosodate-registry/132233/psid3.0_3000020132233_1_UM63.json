@@ -1,0 +1,133 @@
+{
+  "area": {
+    "areaCode": "132233;武蔵村山市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部障害福祉課手当助成係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132233",
+    "psid": "psid3.0+3000020132233+1+UM63"
+  },
+  "belongings": "障害の程度がわかる書類（身体障害者手帳・愛の手帳など。なお、各種手帳を取得していなくても申請できます。）\n《障害児福祉手当》の診断書\n（注）診断書は指定のものなので、事前に障害福祉課の窓口に取りに見えてください。\n本人名義口座の通帳の写し\n受給者本人や扶養義務者の前年の（非）課税証明書\n（注）1月1日現在、本市の住民のかたは、前年の所得は公簿で確認の為不要\n受給者本人と扶養義務者（世帯の最多所得者）の個人番号が確認できる書類（通知カード、個人番号カードなど）\n窓口で申請されるかたの身元確認ができる書類（運転免許証、パスポートなど）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康福祉部障害福祉課手当助成係",
+    "contactPhone": "042-590-1185",
+    "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/e_03b/1000692",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "障害児福祉手当（区分：国制度）\n事業内容\n支給対象者\n　20歳未満で、精神又は身体に重度の障害があるため、日常生活において常時介護を必要とする状態にあるかた\n（注）認定の基準についてはお問い合わせください。\n\n支給制限\n1.受給者本人や扶養義務者の前年の所得が下記別表の限度額を超えるかた\n2.施設などに入所しているかた\n3.当該障害を支給事由とする年金を受給されているかた\n特別障害者手当・障害児福祉手当等の所得限度額;https://www.city.musashimurayama.lg.jp/kurashi/shougai/teate/1000694.html\n\n障害児福祉手当の手当額が変更になります。\n令和6年3月まで　15,220円（月額）\n令和6年4月以降　15,690円（月額）\n\n支給方法\n申請のあった月の翌月分から2月・5月・8月・11月の10日ごろにご本人名義の口座へ振り込みます。\n|回数|振込時期|\n|:----|:----|\n|1回目|5月（2月～4月分）|\n|2回目|8月（5月～7月分）|\n|3回目|11月（8月～10月分）|\n|4回目|2月（11月～1月分）|\n\n申請方法\n次の書類等を揃えて障害福祉課の窓口で申請をしてください。\n障害の程度がわかる書類（身体障害者手帳・愛の手帳など。なお、各種手帳を取得していなくても申請できます。）\n《障害児福祉手当》の診断書\n（注）診断書は指定のものなので、事前に障害福祉課の窓口に取りに見えてください。\n本人名義口座の通帳の写し\n受給者本人や扶養義務者の前年の（非）課税証明書\n（注）1月1日現在、本市の住民のかたは、前年の所得は公簿で確認の為不要\n受給者本人と扶養義務者（世帯の最多所得者）の個人番号が確認できる書類（通知カード、個人番号カードなど）\n窓口で申請されるかたの身元確認ができる書類（運転免許証、パスポートなど）\n\n法令等\n特別児童扶養手当等の支給に関する法律\n武蔵村山市障害児福祉手当及び特別障害者手当等事務取扱細則\n\n受給者のかたで、次の1から8までに該当する場合は障害福祉課へ届出をしてください。\n他の市町村へ転出するとき\n手当の受給を辞退するとき\n死亡したとき\n施設に入所したとき\n障害年金を受給したとき（障害児福祉手当のかたのみ必要）\n手帳の等級が変更になったとき\n口座番号を変更したとき\n3か月を超えて継続して入院したとき（特別障害者手当のかたのみ必要）\n\n関連情報\n障害児福祉手当の申請手続きに必要な書類のダウンロードはこちら;https://www.city.musashimurayama.lg.jp/kurashi/shinsei/shougai/1001016.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "障害児福祉手当",
+    "shortName": "障害児福祉手当（区分：国制度）"
+  },
+  "localGovernmentLink": {
+    "title": "障害児福祉手当（区分：国制度 ）",
+    "uri": "https://www.city.musashimurayama.lg.jp/kurashi/shougai/teate/1000692.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-19",
+    "updater": "武蔵村山市"
+  },
+  "procedureCounter": "障害福祉課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "次の書類等を揃えて障害福祉課の窓口で申請をしてください。\n障害の程度がわかる書類（身体障害者手帳・愛の手帳など。なお、各種手帳を取得していなくても申請できます。）\n《障害児福祉手当》の診断書\n（注）診断書は指定のものなので、事前に障害福祉課の窓口に取りに見えてください。\n本人名義口座の通帳の写し\n受給者本人や扶養義務者の前年の（非）課税証明書\n（注）1月1日現在、本市の住民のかたは、前年の所得は公簿で確認の為不要\n受給者本人と扶養義務者（世帯の最多所得者）の個人番号が確認できる書類（通知カード、個人番号カードなど）\n窓口で申請されるかたの身元確認ができる書類（運転免許証、パスポートなど）",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "保護者・扶養義務者",
+  "regulation": {
+    "regulationArticle": "第3章",
+    "regulationName": "特別児童扶養手当等の支給に関する法律"
+  },
+  "relatedLink": [
+    {
+      "title": "特別障害者手当・障害児福祉手当等の所得限度額",
+      "uri": "https://www.city.musashimurayama.lg.jp/kurashi/shougai/teate/1000694.html"
+    },
+    {
+      "title": "障害児福祉手当の申請手続きに必要な書類のダウンロードはこちら",
+      "uri": "https://www.city.musashimurayama.lg.jp/kurashi/shinsei/shougai/1001016.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "身体または精神に重度の障がいのある20歳未満の方で、日常生活において常時介護を必要とする方に対し、手当が支給されます。",
+  "support": {
+    "description": "令和6年3月まで　15,220円（月額）\n令和6年4月以降　15,690円（月額）\n\n支給方法\n申請のあった月の翌月分から2月・5月・8月・11月の10日ごろにご本人名義の口座へ振り込みます。\n|回数|振込時期|\n|:----|:----|\n|1回目|5月（2月～4月分）|\n|2回目|8月（5月～7月分）|\n|3回目|11月（8月～10月分）|\n|4回目|2月（11月～1月分）|\n",
+    "materiallySupport": null,
+    "monetarySupport": "令和6年3月まで　15,220円（月額）\n令和6年4月以降　15,690円（月額）"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "20歳未満で、精神又は身体に重度の障害があるため、日常生活において常時介護を必要とする状態にあるかた\n（注）認定の基準についてはお問い合わせください。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "20歳未満で、精神又は身体に重度の障害があるため、日常生活において常時介護を必要とする状態にあるかた\n（注）認定の基準についてはお問い合わせください。"
+  },
+  "updateDate": "2024-03-29",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

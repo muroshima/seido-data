@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "131091;品川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "品川・大井・荏原保健センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131091",
+    "psid": "psid3.0+6000020131091+1+UM67"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "品川保健センター,大井保健センター,荏原保健センター",
+    "contactPhone": "03-3474-2225,03-3772-2666,03-5487-1314",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "診断書にかかれた「治療見込期間」が入院医療費助成期間（認定期間）になります。\n認定期間は「1年間」が限度です。1年を超えて継続入院するときは、更新申請が必要となります。",
+  "description": "小児精神病入院医療費の助成制度\n\n精神疾患のお子さんのための入院医療費の助成制度です。\n\n■対象となる方\n18歳未満で、精神疾患のため精神科病院又は精神科病床に入院をしているお子さん。\nただし、満18歳に達した時点で引き続き入院医療を必要とする場合は、20歳の誕生日月の末日までが対象です。\n\n■治療が受けられる医療機関\n精神科病院又は精神科病床を持つ医療機関\n\n■入院医療費助成期間（認定期間）\n診断書にかかれた「治療見込期間」が入院医療費助成期間（認定期間）になります。\n認定期間「1年間」が限度です。1年を超えて継続入院するときは、更新申請が必要となります。\n\n■助成される医療費\n助成される医療費は、保険が適用される入院費について、高額医療費の支給を受けたうえでの自己負担額のうち食事代を除いた額が助成されます。\n※差額ベット代などは対象外です。\n※この他に年齢を問わず「精神疾患で通院する場合の医療費助成」があります。\n\n「施設案内」保健センターへ;https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-kenkouhukushi/shisetsu-kenkouhukushi-hokenn/index.html\n\n小児精神障害者入院医療費助成（東京都福祉保健局）(別ウィンドウ表示);http://www.fukushihoken.metro.tokyo.jp/shougai/nichijo/iryouhi.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "治療が受けられる医療機関\n精神科病院又は精神科病床を持つ医療機関"
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の障がいのあるお子さんなどへの金銭的支援",
+    "shortName": "小児精神病入院医療費の助成制度"
+  },
+  "localGovernmentLink": {
+    "title": "小児精神病入院医療費の助成制度",
+    "uri": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-iryohizyosei/hpg000000866.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "品川区"
+  },
+  "procedureCounter": "品川保健センター\n大井保健センター\n荏原保健センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "小児精神障害者入院医療費助成（東京都福祉保健局）(別ウィンドウ表示)",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/shougai//nichijo/iryouhi.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "精神疾患のお子さんのための入院医療費の助成制度です。",
+  "support": {
+    "description": "精神疾患のお子さんのための入院医療費の助成制度です。\n\n助成される医療費は、保険が適用される入院費について、高額医療費の支給を受けたうえでの自己負担額のうち食事代を除いた額が助成されます。\n※差額ベット代などは対象外です。\n※この他に年齢を問わず「精神疾患で通院する場合の医療費助成」があります。",
+    "materiallySupport": null,
+    "monetarySupport": "精神疾患のお子さんのための入院医療費の助成制度です。\n\n助成される医療費は、保険が適用される入院費について、高額医療費の支給を受けたうえでの自己負担額のうち食事代を除いた額が助成されます。\n※差額ベット代などは対象外です。\n※この他に年齢を問わず「精神疾患で通院する場合の医療費助成」があります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "18歳未満で、精神疾患のため精神科病院又は精神科病床に入院をしているお子さん。\nただし、満18歳に達した時点で引き続き入院医療を必要とする場合は、20歳の誕生日月の末日までが対象",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "18歳未満で、精神疾患のため精神科病院又は精神科病床に入院をしているお子さん。\nただし、満18歳に達した時点で引き続き入院医療を必要とする場合は、20歳の誕生日月の末日までが対象です。"
+  },
+  "updateDate": "2023-07-18",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "入院医療費助成期間（認定期間）\n診断書にかかれた「治療見込期間」が入院医療費助成期間（認定期間）になります。\n認定期間「1年間」が限度です。1年を超えて継続入院するときは、更新申請が必要となります。",
+    "fromHM": null,
+    "toHM": null
+  }
+}

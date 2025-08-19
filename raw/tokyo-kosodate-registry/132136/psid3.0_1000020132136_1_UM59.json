@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132136;東村山市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部自立相談課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132136",
+    "psid": "psid3.0+1000020132136+1+UM59"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東村山市本町1丁目1番地1",
+    "contactComment": "ファクス：手当係：042-394-7399　母子保健第１係・母子保健第２係：042-390-2270",
+    "contactEmail": null,
+    "contactEx": "相談第1係：3508　相談第2係：3509",
+    "contactName": "健康福祉部自立相談課",
+    "contactPhone": "042-393-5111",
+    "contactUrl": "https://www.city.higashimurayama.tokyo.jp/formmail.html?_div=026400&_pageid=725&_name=健康福祉部自立相談課",
+    "zipCode": "1898501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "母子家庭等自立支援教育訓練給付金\n母子家庭の母及び父子家庭の父の自立の促進を図るため、就職に向けて能力開発講座等に取り組めるよう、講座を受講し、修了した場合に本人が支払った費用の一部を支給します。\n\nまた、雇用保険に加入している方は、教育訓練給付金の差額の一部が支給対象となります。\n\n教育訓練給付金制度・指定講座については、下記をご覧ください。\n教育訓練給付制度（厚生労働省ホームページ）外部サイトへのリンク;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/kyouiku.html\n\n支給対象者\n市内にお住まいの18歳に達する年度末までの児童（20歳未満で中度以上の障害のある児童を含む）を養育している母子家庭の母及び父子家庭の父で、次のすべての要件を満たす方。\n\n児童扶養手当の支給（全部支給又は一部支給）を受けている方。または、児童扶養手当の支給要件と同等の所得水準の方\n当該講座の受講が、適職に就くために必要であると認められる方\n過去に当該給付金を受給していない方\n支給要件の確認等のため、受講申し込み前に事前相談が必要となります。\n詳細は自立相談課の母子・父子自立支援員までお問い合わせください。\n\n支給対象講座\n次に掲げる、受講申し込み前に指定を受けた講座。\n\n雇用保険法の規定による指定教育訓練講座\nその他、就業に結びつく可能性の高い講座であって、市長が必要と認める講座",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援教育訓練給付金",
+    "shortName": "母子家庭等自立支援教育訓練給付金"
+  },
+  "localGovernmentLink": {
+    "title": "母子家庭等自立支援教育訓練給付金",
+    "uri": "https://www.city.higashimurayama.tokyo.jp/kenko/komatta/boshi/1kyuufukin.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-28",
+    "updater": "東村山市"
+  },
+  "procedureCounter": "自立相談課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "支給要件の確認等のため、受講申し込み前に事前相談が必要となります。\n詳細は自立相談課の母子・父子自立支援員までお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第31条（母子家庭自立支援給付金）、第31条の10（父子家庭自立支援給付金）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "教育訓練給付制度（厚生労働省ホームページ）",
+      "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/kyouiku.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "母子家庭の母及び父子家庭の父の自立の促進を図るため、就職に向けて能力開発講座等に取り組めるよう、講座を受講し、修了した場合に本人が支払った費用の一部を支給します。\n※受講申し込み前に事前相談が必要となります。",
+  "support": {
+    "description": "母子家庭の母及び父子家庭の父の自立の促進を図るため、就職に向けて能力開発講座等に取り組めるよう、講座を受講し、修了した場合に本人が支払った費用の一部を支給します。\n\nまた、雇用保険に加入している方は、教育訓練給付金の差額の一部が支給対象となります。\n\n教育訓練給付金制度・指定講座については、下記をご覧ください。\n教育訓練給付制度（厚生労働省ホームページ）;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/kyouiku.html\n\n支給対象講座\n次に掲げる、受講申し込み前に指定を受けた講座。\n\n・雇用保険法の規定による指定教育訓練講座\n・その他、就業に結びつく可能性の高い講座であって、市長が必要と認める講座",
+    "materiallySupport": null,
+    "monetarySupport": "母子家庭の母及び父子家庭の父の自立の促進を図るため、就職に向けて能力開発講座等に取り組めるよう、講座を受講し、修了した場合に本人が支払った費用の一部を支給します。\n\nまた、雇用保険に加入している方は、教育訓練給付金の差額の一部が支給対象となります。\n\n教育訓練給付金制度・指定講座については、下記をご覧ください。\n教育訓練給付制度（厚生労働省ホームページ）;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/kyouiku.html\n\n支給対象講座\n次に掲げる、受講申し込み前に指定を受けた講座。\n\n・雇用保険法の規定による指定教育訓練講座\n・その他、就業に結びつく可能性の高い講座であって、市長が必要と認める講座"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "市内にお住まいの18歳に達する年度末までの児童（20歳未満で中度以上の障害のある児童を含む）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "市内にお住まいの18歳に達する年度末までの児童（20歳未満で中度以上の障害のある児童を含む）を養育している母子家庭の母及び父子家庭の父で、次のすべての要件を満たす方。\n\n・児童扶養手当の支給（全部支給又は一部支給）を受けている方。または、児童扶養手当の支給要件と同等の所得水準の方\n・当該講座の受講が、適職に就くために必要であると認められる方\n・過去に当該給付金を受給していない方"
+  },
+  "updateDate": "2021-04-22",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

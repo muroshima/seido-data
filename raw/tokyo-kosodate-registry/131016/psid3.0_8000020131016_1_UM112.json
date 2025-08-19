@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局子ども部児童・家庭支援センター子育て事業係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+1+UM112"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区神田須田町1-4-4　PMO神田須田町4階",
+    "contactComment": null,
+    "contactEmail": "jidousenta@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "教育委員会事務局子ども部児童・家庭支援センター子育て事業係",
+    "contactPhone": "03-5298-2424",
+    "contactUrl": null,
+    "zipCode": "1010041"
+  },
+  "cost": "0",
+  "costConditions": null,
+  "description": "【子育てひろば】\n0～2歳児を中心とした乳幼児親子の集いと交流の場です。親子で自由に遊ぶほか、「よちよちタイム」（0歳児親子対象）・「なかよしタイム」（0～2歳児親子対象）などのプログラムや、ベビーマッサージ、ヨガなどの子育て応援講座も実施しています。\n子育ての不安や悩み相談も、いつでも受け付けています。\n（注意）休館などの情報は、各児童館からのお知らせをご確認ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "休館日：日曜日・国民の祝日（こどもの日は除く）・年末年始（12月31日～1月3日）",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育て広場",
+    "shortName": "子育てひろば"
+  },
+  "localGovernmentLink": {
+    "title": "児童センター・児童館",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/jidocenter/ichiran/jidocenter.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第6項",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "2023千代田区子育て応援ガイドブック（令和5年8月発行版）",
+      "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/guidebook.html"
+    },
+    {
+      "title": "各児童館からのお知らせ",
+      "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/jidocenter/oshirase.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "0歳児〜2歳児を中心とした乳幼児親子の集まり、遊び、情報交換など、たくさんの仲間との出会いや子育てを楽しむ居場所です。各児童館や子育てひろば「あい・ぽーと」麹町で実施しています。\n（イベントの詳細については、千代田区サイトや児童館だよりなどでお知らせしています。）",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "主として区内在住・在学・在園の0歳児〜2歳児までの児童とその保護者"
+  },
+  "updateDate": "2023-09-05",
+  "useConsiderationFlag": false,
+  "utilization": "・入館時の来館簿記入\n・年度ごとに入館登録（災害・緊急時の連絡等のため）",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": "09:00",
+    "toHM": "17:00"
+  }
+}

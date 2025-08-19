@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131075;墨田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131075",
+    "psid": "psid3.0+6000020131075+2+UM61"
+  },
+  "belongings": "定期券を購入する方の写真（最近6か月以内、正面上半身、縦4センチメートル×横3センチメートル）,児童扶養手当証書",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "墨田区吾妻橋一丁目23番20号",
+    "contactComment": "（直通）",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "墨田区役所 子ども・子育て支援部　子育て支援課　児童手当・医療助成係",
+    "contactPhone": "03-5608-6376",
+    "contactUrl": null,
+    "zipCode": "1308640"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "児童扶養手当\n\n優遇制度\n児童扶養手当を受給している方（手当が支給されている方）に限り、次の手続きが可能です。\n新規に児童扶養手当を申請された方は、児童扶養手当証書が届いた後に手続きが可能です。\n（2）JR通勤定期券の割引\n普通定期券の3割引で、特定者用通勤定期乗車券が購入できます。\n\n割引を受けられる方\n児童扶養手当受給者の方又はその方と同一世帯の方が受けられます。\n※生活保護を受給されている方は、生活福祉課で交付を受けてください。\n\n定期券を購入する前に行う手続き\n次の書類をお持ちの上、区役所4階子育て支援課窓口で特定者資格証明書の交付を申請してください。\n特定者資格証明書交付申請書（子育て支援課の窓口にあります）\n定期券を購入する方の写真（最近6か月以内、正面上半身、縦4センチメートル×横3センチメートル）\n児童扶養手当証書\n特定者用定期乗車券購入証明書の必要枚数をお伝えください。\n定期券の購入場所\n駅の窓口に特定者資格証明書を示し、特定者用定期乗車券購入証明書と定期乗車券購入証明書（駅の窓口にあります）を提出して、定期券をお求めください。\nこの制度で購入できる定期券は、通勤定期乗車券に限られます。（通学定期は不可）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自のひとり親の方への金銭的支援",
+    "shortName": "JR通勤定期券の割引"
+  },
+  "localGovernmentLink": {
+    "title": "児童扶養手当",
+    "uri": "https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/teate_jyosei_shien/teate_zyosei/teate/jidouhuyouteate.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-01",
+    "updater": "墨田区"
+  },
+  "procedureCounter": "区役所4階子育て支援課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "次の書類をお持ちの上、区役所4階子育て支援課窓口で特定者資格証明書の交付を申請してください。\n1.特定者資格証明書交付申請書（子育て支援課の窓口にあります）\n定期券を購入する方の写真（最近6か月以内、正面上半身、縦4センチメートル×横3センチメートル）\n児童扶養手当証書\n2.特定者用定期乗車券購入証明書の必要枚数をお伝えください。\n定期券の購入場所\n駅の窓口に特定者資格証明書を示し、特定者用定期乗車券購入証明書と定期乗車券購入証明書（駅の窓口にあります）を提出して、定期券をお求めください。\nこの制度で購入できる定期券は、通勤定期乗車券に限られます。（通学定期は不可）",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第1条",
+    "regulationName": "東日本旅客鉄道株式会社特定者用定期乗車券発売規則"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童扶養手当を受給している方（手当が支給されている方）に限り、普通定期券の3割引で、特定者用通勤定期乗車券が購入できます。",
+  "support": {
+    "description": "普通定期券の3割引で、特定者用通勤定期乗車券が購入できます。",
+    "materiallySupport": null,
+    "monetarySupport": "普通定期券の3割引で、特定者用通勤定期乗車券が購入できます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "児童扶養手当受給者の方又はその方と同一世帯の方が受けられます。\n※生活保護を受給されている方は、生活福祉課で交付を受けてください。"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

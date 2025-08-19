@@ -1,0 +1,144 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども生活部保育・幼稚園課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+1+UM82"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども生活部保育・幼稚園課管理係,子ども生活部保育・幼稚園課支援係",
+    "contactPhone": "042-724-2138,042-724-2137",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/8",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "幼稚園及び認定こども園の預かり保育について\n\n預かり保育とは\n預かり保育とは、幼稚園や認定こども園において、保護者の就労等に伴う保育ニーズに対応するため、教育時間の前後や長期休業期間中に児童の保育を行う事業をいいます。\n\n施設によって、実施日数、時間、料金等が異なります。\n\n幼児教育・保育の無償化における預かり保育について\n保育の認定を受けた場合、3歳児から5歳児は月額11,300円、満3歳児は月額16,300円を上限に、預かり保育の利用料が軽減されます。教育の認定のみを受けた場合は、預かり保育の利用はできますが、利用料の軽減はされません。\n\n軽減額の計算方法では、1日あたりの上限額が450円と決まっています。\n\n軽減額はひと月単位で計算しますので、450円に利用日数を掛け合わせ、ひと月あたりの上限額と実際の利用料を比較して低いほうの額を給付します。\n\n給付先は、保護者ではなく在籍の幼稚園・認定こども園となります（法定代理受領）。保護者は、上限額を超えた利用料について、差額分として幼稚園・認定こども園へお支払いいただきます。\n\n計算方法は、下記のPDFファイルを参考にしてください。\n\n無償化に関する預かり保育の詳細(PDF:99.8KB);https://kosodate-machida.tokyo.jp/material/files/group/7/azukaridetail.pdf\n\n預かり保育と認可外保育施設等の併用について\n預かり保育の実施時間・日数が一定の基準未満（※1）の幼稚園において、認可外保育施設等（※2）を併用する場合は、認可外保育施設等の利用料についても幼児教育・保育の無償化により軽減される場合があります。\n\n各幼稚園における上記の基準について確認する場合は特定子ども・子育て支援施設等一覧;https://kosodate-machida.tokyo.jp/soshiki/4/3/musyouka/7546.html;をご覧ください。\n\n預かり保育と認可外保育施設等の併用における無償化の給付対象\nこの場合も、預かり保育の利用料にかかる給付先は幼稚園となります（法定代理受領）。\n\n併用した認可外保育施設等の利用料にかかる給付先は保護者となります。申請方法はこちら;https://kosodate-machida.tokyo.jp/soshiki/4/3/musyouka/7548.html;をご覧ください。\n\n（※1） 幼稚園の教育時間を含めて1日8時間未満、または年間200日未満\n\n（※2） 認可外保育施設（企業主導型保育事業を除く。）、一時保育、ファミリー・サポート・センター、病児・病後児保育\n\n関連情報\n一時保育;https://kosodate-machida.tokyo.jp/soshiki/4/3/11/318.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "幼稚園での預かり保育",
+    "shortName": "幼稚園及び認定こども園の預かり保育"
+  },
+  "localGovernmentLink": {
+    "title": "幼稚園及び認定こども園の預かり保育について",
+    "uri": "https://kosodate-machida.tokyo.jp/soshiki/4/3/11/340.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第21条の9",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "無償化に関する預かり保育の詳細(PDF:99.8KB)",
+      "uri": "https://kosodate-machida.tokyo.jp/material/files/group/7/azukaridetail.pdf"
+    },
+    {
+      "title": "",
+      "uri": "https://kosodate-machida.tokyo.jp/material/images/group/7/ninkagaiheiyo_flow4.png"
+    },
+    {
+      "title": "特定子ども・子育て支援施設等一覧",
+      "uri": "https://kosodate-machida.tokyo.jp/soshiki/4/3/musyouka/7546.html"
+    },
+    {
+      "title": "4.認可外保育施設等の無償化給付の手続きについて",
+      "uri": "https://kosodate-machida.tokyo.jp/soshiki/4/3/musyouka/7548.html"
+    },
+    {
+      "title": "一時保育",
+      "uri": "https://kosodate-machida.tokyo.jp/soshiki/4/3/11/318.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "幼稚園や認定こども園（幼稚園枠）では、教育時間の開始前や終了後、夏休みなどの幼稚園休園日に、お子さんをお預かりしています。通常の保育料に加え、別途利用料が必要です。",
+  "support": {
+    "description": "幼稚園や認定こども園において、保護者の就労等に伴う保育ニーズに対応するため、教育時間の前後や長期休業期間中に児童の保育を行う,施設によって、実施日数、時間、料金等が異なります。,幼児教育・保育の無償化における預かり保育について\n保育の認定を受けた場合、3歳児から5歳児は月額11,300円、満3歳児は月額16,300円を上限に、預かり保育の利用料が軽減されます。教育の認定のみを受けた場合は、預かり保育の利用はできますが、利用料の軽減はされません。\n\n軽減額の計算方法では、1日あたりの上限額が450円と決まっています。\n\n軽減額はひと月単位で計算しますので、450円に利用日数を掛け合わせ、ひと月あたりの上限額と実際の利用料を比較して低いほうの額を給付します。\n\n給付先は、保護者ではなく在籍の幼稚園・認定こども園となります（法定代理受領）。保護者は、上限額を超えた利用料について、差額分として幼稚園・認定こども園へお支払いいただきます。\n\n計算方法は、下記のPDFファイルを参考にしてください。\n\n無償化に関する預かり保育の詳細(PDF:99.8KB);https://kosodate-machida.tokyo.jp/material/files/group/7/azukaridetail.pdf\n\n預かり保育と認可外保育施設等の併用について\n預かり保育の実施時間・日数が一定の基準未満（※1）の幼稚園において、認可外保育施設等（※2）を併用する場合は、認可外保育施設等の利用料についても幼児教育・保育の無償化により軽減される場合があります。\n\n各幼稚園における上記の基準について確認する場合は特定子ども・子育て支援施設等一覧;https://kosodate-machida.tokyo.jp/soshiki/4/3/musyouka/7546.html;をご覧ください。\n\nこの場合も、預かり保育の利用料にかかる給付先は幼稚園となります（法定代理受領）。\n\n併用した認可外保育施設等の利用料にかかる給付先は保護者となります。申請方法はこちら;https://kosodate-machida.tokyo.jp/soshiki/4/3/musyouka/7548.html;をご覧ください。\n\n（※1） 幼稚園の教育時間を含めて1日8時間未満、または年間200日未満\n\n（※2） 認可外保育施設（企業主導型保育事業を除く。）、一時保育、ファミリー・サポート・センター、病児・病後児保育",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 5,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "3歳児から5歳児"
+  },
+  "updateDate": "2017-04-01",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

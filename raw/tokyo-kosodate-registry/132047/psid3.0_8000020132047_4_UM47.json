@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132047;三鷹市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども政策部子ども家庭課母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132047",
+    "psid": "psid3.0+8000020132047+4+UM47"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三鷹市新川六丁目37番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども政策部 子ども家庭課 母子保健係",
+    "contactPhone": "0422-46-3254",
+    "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+    "zipCode": "1810004"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "新型コロナウイルス感染症―妊産婦に関する相談\n新型コロナウイルス感染症に対して不安や困りごとを抱えている妊婦さんへの相談先や対策をまとめています。\n\n保健センターでは電話相談を行っております\n妊娠中の心配事等がございましたらお気軽にご相談ください。\n\n保健センター\n電話　0422-46-3254\n月～金曜日（祝日を除く）午前8時30分～午後5時\n東京都　妊産婦向け助産師相談\n東京都では、妊婦さん・産婦さんの悩みに対応するため、相談事業を実施しています。\n対象者：都内在住の妊婦・産婦\n相談方法：オンラインによる相談、訪問や電話による相談\n詳しくは以下のサイトをご確認ください。\n\n東京都福祉局「妊産婦向け助産師相談（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninsanpu-online.html」\n東京都福祉局「新型コロナウイルス感染症に不安をかかえる妊婦及びご家族のかたへ（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/shussan/covid19-ninpushien.html」\n厚生労働省　職場における妊娠中の女性労働者等への配慮について～新型コロナウイルス感染症対策～\n厚生労働省「職場における妊娠中の女性労働者等への配慮について（外部リンク）;https://www.mhlw.go.jp/stf/newpage_11067.html」\n厚生労働省　事業主の方への給付金のご案内\n厚生労働省「両立支援等助成金のご案内リーフレット（外部リンク）;https://www.mhlw.go.jp/content/001082093.pdf」\n添付ファイル\n東京都「ご自宅で療養される妊産婦の方へ」　\n東京都「ご自宅で療養される妊産婦の方へ」（PDF 762KB）;https://www.city.mitaka.lg.jp/c_service/086/attached/attach_86182_9.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "月～金曜日（祝日を除く）午前8時30分～午後5時",
+    "fromHM": "08:30",
+    "fromYMD": null,
+    "toHM": "17:00",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "三鷹市の妊娠・出産に関する相談",
+    "shortName": "新型コロナウイルス感染症ー妊産婦に関する相談,保健センター"
+  },
+  "localGovernmentLink": {
+    "title": "新型コロナウイルス感染症ー妊産婦に関する相談",
+    "uri": "https://www.city.mitaka.lg.jp/c_service/086/086182.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-12",
+    "updater": "三鷹市"
+  },
+  "procedureCounter": "保健センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "保健センター\n電話　0422-46-3254\n月～金曜日（祝日を除く）午前8時30分～午後5時",
+  "procedurePeriod": {
+    "conditions": "月～金曜日（祝日を除く）午前8時30分～午後5時",
+    "fromHM": "08:30",
+    "fromYMD": null,
+    "toHM": "17:00",
+    "toYMD": null
+  },
+  "procedurePersons": "新型コロナウイルス感染症に対して不安や困りごとを抱えている妊婦さん",
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "三鷹市では、新型コロナウイルス感染症に対して妊娠中の心配事等ので本を相談を行っています。",
+  "support": {
+    "description": "妊娠中の心配事等がございましたらお気軽にご相談ください。",
+    "materiallySupport": "妊娠中の心配事等がございましたらお気軽にご相談ください。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "新型コロナウイルス感染症に対して不安や困りごとを抱えている妊婦さん"
+  },
+  "updateDate": "2023-11-15",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131199;板橋区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 保育運営課 保育施設計画係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131199",
+    "psid": "psid3.0+6000020131199+2+UM85"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都板橋区板橋二丁目66番1号",
+    "contactComment": null,
+    "contactEmail": "kk-minkan2@city.itabashi.tokyo.jp",
+    "contactEx": "2494",
+    "contactName": "子ども家庭部 保育サービス課 民間保育第二係",
+    "contactPhone": "03-3579-2494",
+    "contactUrl": "https://www.city.itabashi.tokyo.jp/cgi-crm/CRM030/CRM030_001/G5004000000/1050122",
+    "zipCode": "1738501"
+  },
+  "cost": null,
+  "costConditions": "保育室利用 日額 1,500 円\n※生活保護世帯及び前年度分住民税非課税世帯については、利用料が免除になります。（生活保護世帯の方は生活保護受給証明書を保育サービス課にご提出下さい。）\n※板橋区医師会病院・帝京大学医学部附属病院の利用料は、「すくすくカード事業」の対象となります。詳細は区ホームページを参照ください。\n\n食事代、おやつ代などの実費 原則上限500 円\n※施設によって異なりますのでご確認ください。実費の免除はありません。",
+  "description": "幼児教育・保育無償化（対象施設一覧）一時預かり・病児病後児\n\n子ども・子育て支援法第58条の11の規定に基づき確認を実施した施設を記載しています。\n\n幼児教育・保育無償化の対象施設一覧（病児・病後児保育）\n幼児教育・保育無償化（病児・病後児保育）;https://www.city.itabashi.tokyo.jp/kosodate/azukeru/1039614/1039623.html\n関連リンク\n特定子ども・子育て支援施設等一覧（認可外保育施設）;https://www.city.itabashi.tokyo.jp/kosodate/shisetsu/hogosha/1014868.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "板橋区高島平3-12-6,板橋区加賀2-11-1,板橋区坂下1-35-17,板橋区向原3-7-7,高島平2-28-6-102,東新町2-55-4",
+    "implementationName": "板橋区医師会病院,帝京大学医学部附属病院病児・病後児保育室,いわた医院チャイルドケアセンター,キッズタウンむかいはら保育園病後児保育室すみれ,KOJIKA KIDS,くまさんの家"
+  },
+  "institutionName": {
+    "canonicalName": "病児・病後児保育",
+    "shortName": "幼児教育・保育無償化の対象施設一覧（病児・病後児保育）"
+  },
+  "localGovernmentLink": {
+    "title": "幼児教育・保育無償化（対象施設一覧）一時預かり・病児病後児",
+    "uri": "https://www.city.itabashi.tokyo.jp/kosodate/azukeru/1039614/1039623.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "板橋区"
+  },
+  "procedureCounter": "保育サービス課民間保育第二係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "・償還払い請求\n償還払い請求には、下記書類を提出いただく必要があります。\n施設等利用費請求書　（請求書様式は以下をご覧ください）\n領収証（病児保育施設から発行された領収証です。）\n提供証明書（病児保育施設から発行された提供証明書です。）\n委任状（請求者又は振込口座名義人を認定保護者以外の方に変更する場合のみ）\n※施設等利用費請求書に記載いただく口座に振込することでお支払いします。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第13項、第21条の9、第59条第11号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "特定子ども・子育て支援施設等一覧（認可外保育施設）",
+      "uri": "https://www.city.itabashi.tokyo.jp/kosodate/shisetsu/hogosha/1014868.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育所などに通所しているお子さんが病気や病気の回復期にあることから保育所での集団保育が困難で、かつ、保護者の就労などにより家庭で保育を行うことができない場合、病児・病後児保育を行っている施設で一時的に預かります。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "保育の必要性の認定を受けた対象者が利用した場合",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "3歳児～5歳児クラスの方\n月額37,000円を上限\n0歳児～2歳児クラスで住民税非課税世帯の方\n月額42,000円を上限"
+  },
+  "updateDate": "2023-11-02",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

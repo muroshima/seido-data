@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132047;三鷹市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども政策部 子ども家庭課 子ども家庭支援センターりぼん",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132047",
+    "psid": "psid3.0+8000020132047+1+UM14"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三鷹市下連雀九丁目11番7号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども政策部 子ども家庭課 子ども家庭支援センターりぼん",
+    "contactPhone": "電話：0422-40-5925",
+    "contactUrl": null,
+    "zipCode": "1818505"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "こんにちは赤ちゃん（乳児家庭全戸訪問）事業\n作成・発信部署：\n\n公開日：2023年7月25日 \n\nこんにちは赤ちゃん（乳児家庭全戸訪問）事業\n\n赤ちゃんのいる家庭と地域をつなぐ最初の機会です\n民生・児童委員は地域を見守る頼れる存在です。\n子育ての不安や悩みも相談できます。\n\n訪問日のお知らせが届きます",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "家庭"
+  },
+  "institutionName": {
+    "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+    "shortName": "こんにちは赤ちゃん（乳児家庭全戸訪問）事業"
+  },
+  "localGovernmentLink": {
+    "title": "こんにちは赤ちゃん（乳児家庭全戸訪問）事業",
+    "uri": "https://www.city.mitaka.lg.jp/c_service/104/104004.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/25",
+    "updater": "三鷹市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "生後2か月を過ぎた頃、訪問日のお知らせが届くのをお待ちください。\n申し込みの必要はありません。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第21条の10の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "子ども政策部　子ども家庭課",
+      "uri": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "おおむね生後4か月までの乳児がいる家庭に地域の民生・児童委員が訪問し、子育ての不安や悩みを伺い、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要な家庭に対し適切なサービスの提供につなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+  "support": {
+    "description": "お住まいの地域の民生・児童委員;https://www.city.mitaka.lg.jp/c_service/043/043087.htmlが子育て支援に関する情報を提供し、お子さんの誕生を祝う「ブックスタート（外部リンク）;https://www.library.mitaka.tokyo.jp/kidscontents?8&pid=71（はじめての絵本）事業」の絵本をお届けします。",
+    "materiallySupport": "「ブックスタート（外部リンク）（はじめての絵本）事業」の絵本",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 4
+    },
+    "targetPersons": "おおむね生後4か月までの赤ちゃんがいる家庭"
+  },
+  "updateDate": "2023/07/25",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

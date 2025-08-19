@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "132101;小金井市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センター母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132101",
+    "psid": "psid3.0+3000020132101+2+UM5011"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小金井市貫井北町5丁目18番18号　保健センター",
+    "contactComment": null,
+    "contactEmail": "s050899(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+    "contactEx": null,
+    "contactName": "こども家庭センター母子保健係",
+    "contactPhone": "042-321-6296",
+    "contactUrl": null,
+    "zipCode": "1840015"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "出産・子育て応援事業\n更新日：2024年5月8日\n妊婦・子育て家庭が安心して出産・子育てができるよう、妊娠時から出産・子育てまで一貫した伴走型相談支援と経済的支援（妊娠時・出産時）を一体として実施する事業が創設されました。\nこれを受け、小金井市では、令和5年3月から、妊娠届出後と出産後に面談を受けていただいた方に、ギフトを給付する事業を開始します。\n\n伴走型相談支援\n妊産婦の方が抱える様々な不安を解消するため、市の保健師・助産師が面談を行います。妊娠届出後の「妊婦面談」と産後の「新生児訪問」のほか、妊娠から出産・子育てまで一貫してご家庭に寄り添い、相談を受け、支援します。\n\n経済的支援\n「妊婦面談」を受けた妊婦さん一人あたり「出産応援ギフト」（5万円相当）、「新生児訪問」を受けたお子さん一人あたり「子育て応援ギフト」（5万円相当及び都独自支援5万円相当の計10万円相当）を支給します（多胎児の場合は子育て応援ギフトを出生児の人数分お渡しします）。\n対象の方は以下の方法で申請書をお渡しいたします。\n\n出産応援ギフト\n（対象）令和5年3月1日以降に妊娠届を提出し、「妊婦面談」を受けた方\n（方法）妊婦面談の際、その場で申請書にご記入いただけます。\n\n子育て応援ギフト\n（対象）令和5年4月1日以降に生まれたお子さんで、出生から生後4か月までに「新生児訪問」を受けたご家庭\n（方法）新生児訪問の際、訪問員から申請書と返信用封筒をお渡しします。ご記入の上、返信用封筒にて後日ご返送ください。\n\n出産・子育て応援ギフトの内容については、下記の東京都ホームページをご参照ください。\n\n新規ウィンドウで開きます。 東京都出産・子育て応援事業（外部サイト）; https://www.fukushi.metro.tokyo.lg.jp/kodomo/shussan/tokyo_shussankosodateouen.html\n\n注記：他の自治体で国の出産・子育て応援交付金による出産応援ギフト・子育て応援ギフトの支給を受けていない方が対象となります。なお、ギフトの発送は申請から1か月前後お時間がかかります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "伴走型相談支援",
+    "shortName": "出産・子育て応援事業"
+  },
+  "localGovernmentLink": {
+    "title": "出産・子育て応援事業",
+    "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/433/D050401020518.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "小金井市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "新生児訪問の際、訪問員から申請書と返信用封筒をお渡しします。ご記入の上、返信用封筒にて後日ご返送ください。\n\n出産・子育て応援ギフトの内容については、下記の東京都ホームページをご参照ください。\n\n新規ウィンドウで開きます。 東京都出産・子育て応援事業（外部サイト）; https://www.fukushi.metro.tokyo.lg.jp/kodomo/shussan/tokyo_shussankosodateouen.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "別紙：伴走型相談支援及び出産・子育て応援給付金の一体的実施事業実施要綱「伴走型相談支援」（別添１）",
+    "regulationName": "伴走型相談支援及び出産・子育て応援給付金の一体的実施事業の実施について（子発1226第1号 令和4年12月26日）"
+  },
+  "relatedLink": [
+    {
+      "title": "東京都出産・子育て応援事業（外部サイト）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/shussan/tokyo_shussankosodateouen.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "すべての妊婦さんと子育て家庭が安心して出産・子育てができるように、妊娠から出産・子育てまでの一貫した「伴走型相談支援」を実施しています。",
+  "support": {
+    "description": "令和5年4月1日以降に生まれたお子さんで、出生から生後4か月までに「新生児訪問」を受けたご家庭",
+    "materiallySupport": "「新生児訪問」",
+    "monetarySupport": "「新生児訪問」を受けたお子さん一人あたり「子育て応援ギフト」（5万円相当及び都独自支援5万円相当の計10万円相当）を支給します（多胎児の場合は子育て応援ギフトを出生児の人数分お渡しします）。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "令和5年4月1日以降に生まれたお子さんで、出生から生後4か月までに「新生児訪問」を受けたご家庭\n\n注記：他の自治体で国の出産・子育て応援交付金による出産応援ギフト・子育て応援ギフトの支給を受けていない方が対象となります。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊産婦"
+  },
+  "updateDate": "2024-05-08",
+  "useConsiderationFlag": false,
+  "utilization": "新生児訪問の際、訪問員から申請書と返信用封筒をお渡しします。ご記入の上、返信用封筒にて後日ご返送ください。\n\n出産・子育て応援ギフトの内容については、下記の東京都ホームページをご参照ください。\n\n新規ウィンドウで開きます。 東京都出産・子育て応援事業（外部サイト）; https://www.fukushi.metro.tokyo.lg.jp/kodomo/shussan/tokyo_shussankosodateouen.html",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

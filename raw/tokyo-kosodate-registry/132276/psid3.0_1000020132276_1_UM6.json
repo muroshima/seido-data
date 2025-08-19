@@ -1,0 +1,160 @@
+{
+  "area": {
+    "areaCode": "132276;羽村市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子育て相談課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132276",
+    "psid": "psid3.0+1000020132276+1+UM6"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "（母子保健・相談係）内線692　 （子ども家庭支援センター係）内線266",
+    "contactName": "子ども家庭部 子育て相談課",
+    "contactPhone": "042-555-1111",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊婦健診受診票\n初版公開日:[2020年04月01日]更新日：[2020年4月1日]ID:1259\n\n妊婦健診の費用の一部を公費負担します\n1.母子健康手帳の交付時に妊婦健診受診票を交付します。（母子手帳の交付について; https://www.city.hamura.tokyo.jp/0000001259.html）\n2.里帰りによる都外の医療機関・助産所健診の場合も公費負担対象となります。ただし償還払いとなりますので、下記「里帰りによる都外の医療機関または助産所での妊婦健診について」をご確認ください。\n\n対象\n市内在住で妊娠届を提出された方\n\n交付枚数\n14枚\n今回配布する受診票は医師の判断で使用するもので、体調によって使用できない場合もあります。主治医とよく相談して適切な時期に使用してください。\n\n使用できる医療機関等\n東京都内の委託契約医療機関及び指定の助産院\n\n東京都外の受診票をお持ちの方は保健センター（母子保健・相談係）へ、また、東京都外へ転出する場合は転出先の市区町村へ問い合わせてください。\n\n指定助産院　\n森田助産院（福生市志茂83番地）＊令和5年10月から\n\n＊対象となる受診票　2回目用から14回目用まで\n\n公費妊婦健診の時期（目安・週数）\n1回目から4回目：妊娠初期から妊娠23週まで（4週間に1回）\n5回目から10回目：妊娠24週から妊娠35週まで（2週間に1回）\n11回目から14回目：妊娠36週から出産まで（1週間に1回）\n\nこの記事を見ている人はこんな記事も見ています\n妊婦歯科健康診査; https://www.city.hamura.tokyo.jp/0000001261.html\n母子健康手帳の交付; https://www.city.hamura.tokyo.jp/0000001254.html\n届出一覧; https://www.city.hamura.tokyo.jp/0000000267.html\n先天性代謝異常等検査; https://www.city.hamura.tokyo.jp/0000001292.html\n\nこの記事と同じ分類の記事\n羽村市産後ケア事業のご案内; https://www.city.hamura.tokyo.jp/prsite/0000013487.html\nハロー赤ちゃんクラス（両親学級）; https://www.city.hamura.tokyo.jp/prsite/0000010118.html\nプレママサロン（母親学級）・マタニティオンラインカフェ; https://www.city.hamura.tokyo.jp/prsite/0000010117.html\n妊産婦メンタルヘルス相談; https://www.city.hamura.tokyo.jp/prsite/0000013789.html\n東京都出産・子育て応援事業　ポイント交換サイト登録期限延長; https://www.city.hamura.tokyo.jp/0000017969.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "東京都内の委託契約医療機関及び指定の助産院"
+  },
+  "institutionName": {
+    "canonicalName": "妊婦健康診査",
+    "shortName": "妊婦健診の費用の一部を公費負担"
+  },
+  "localGovernmentLink": {
+    "title": "妊婦健診受診票",
+    "uri": "https://www.city.hamura.tokyo.jp/0000001259.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "羽村市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "使用できる医療機関等\n東京都内の委託契約医療機関及び指定の助産院\n東京都外の受診票をお持ちの方は保健センター（母子保健・相談係）へ、また、東京都外へ転出する場合は転出先の市区町村へ問い合わせてください。\n指定助産院　\n森田助産院（福生市志茂83番地）＊令和5年10月から\n\n＊対象となる受診票　2回目用から14回目用まで\n\n公費妊婦健診の時期（目安・週数）\n1回目から4回目：妊娠初期から妊娠23週まで（4週間に1回）\n5回目から10回目：妊娠24週から妊娠35週まで（2週間に1回）\n11回目から14回目：妊娠36週から出産まで（1週間に1回）",
+  "procedurePeriod": {
+    "conditions": "公費妊婦健診の時期（目安・週数）\n1回目から4回目：妊娠初期から妊娠23週まで（4週間に1回）\n5回目から10回目：妊娠24週から妊娠35週まで（2週間に1回）\n11回目から14回目：妊娠36週から出産まで（1週間に1回）",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "プレママサロン（母親学級）・マタニティオンラインカフェ",
+      "uri": "https://www.city.hamura.tokyo.jp/prsite/0000010117.html"
+    },
+    {
+      "title": "ハロー赤ちゃんクラス（両親学級）",
+      "uri": "https://www.city.hamura.tokyo.jp/prsite/0000010118.html"
+    },
+    {
+      "title": "妊婦歯科健康診査",
+      "uri": "https://www.city.hamura.tokyo.jp/0000001261.html"
+    },
+    {
+      "title": "妊産婦メンタルヘルス相談",
+      "uri": "https://www.city.hamura.tokyo.jp/prsite/0000013789.html"
+    },
+    {
+      "title": "先天性代謝異常等検査",
+      "uri": "https://www.city.hamura.tokyo.jp/0000001292.html"
+    },
+    {
+      "title": "羽村市産後ケア事業のご案内",
+      "uri": "https://www.city.hamura.tokyo.jp/prsite/0000013487.html"
+    },
+    {
+      "title": "母子健康手帳の交付",
+      "uri": "https://www.city.hamura.tokyo.jp/0000001254.html"
+    },
+    {
+      "title": "東京都出産・子育て応援事業　ポイント交換サイト登録期限延長",
+      "uri": "https://www.city.hamura.tokyo.jp/0000017969.html"
+    },
+    {
+      "title": "届出一覧",
+      "uri": "https://www.city.hamura.tokyo.jp/0000000267.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊婦さんやお腹の赤ちゃんの健康状態を定期的に確認するのが妊婦健康診査です。妊婦さんの健康診査は、一般的に出産までに14回程度受診するのが望ましいとされています。しかし、妊娠は病気ではないため健康保険は適用されません。そこで、出産までの健診を受ける際の経済的な負担を軽くするため、妊婦健康診査費用の一部を助成する妊婦健康診査受診票をお渡ししています。",
+  "support": {
+    "description": "妊婦健診の費用の一部を公費負担します\n母子健康手帳の交付時に妊婦健診受診票を交付します。（母子手帳の交付について）; https://www.city.hamura.tokyo.jp/0000001254.html交付枚数14枚\n今回配布する受診票は医師の判断で使用するもので、体調によって使用できない場合もあります。主治医とよく相談して適切な時期に使用してください。",
+    "materiallySupport": "交付枚数\n14枚",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "市内在住で妊娠届を提出された方"
+  },
+  "updateDate": "2020-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "公費妊婦健診の時期（目安・週数）\n1回目から4回目：妊娠初期から妊娠23週まで（4週間に1回）\n5回目から10回目：妊娠24週から妊娠35週まで（2週間に1回）\n11回目から14回目：妊娠36週から出産まで（1週間に1回）",
+    "fromHM": null,
+    "toHM": null
+  }
+}

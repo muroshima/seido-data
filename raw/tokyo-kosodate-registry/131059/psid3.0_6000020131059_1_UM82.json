@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131059;文京区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部幼児保育課入園相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131059",
+    "psid": "psid3.0+6000020131059+1+UM82"
+  },
+  "belongings": "「保育の必要性」の証明書類が必要です。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都文京区春日1丁目16番21号\n文京シビックセンター12階南側",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部幼児保育課入園相談係",
+    "contactPhone": "03-5803-1190",
+    "contactUrl": "https://logoform.jp/form/6KSu/553771",
+    "zipCode": "1128555"
+  },
+  "cost": null,
+  "costConditions": "登録利用\n　月額：8900円\n一時利用\n　日額：450円\n「保育の必要性」の認定を受けた方は無償化の対象になります。",
+  "description": "預かり保育について\n区立幼稚園では預かり保育を実施しています。\n\n登録利用\n　月を単位とした利用です。就労、疾病、出産などの要件が必要となります。\n\n一時利用\n　日を単位とした利用です。就労等の有無に関わらず対象となります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "幼稚園・認定こども園での預かり保育",
+    "shortName": "預かり保育（４月一斉申込）"
+  },
+  "localGovernmentLink": {
+    "title": "預かり保育について",
+    "uri": "https://www.city.bunkyo.lg.jp/b023/p001604.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-25",
+    "updater": "文京区"
+  },
+  "procedureCounter": "幼児保育課入園相談係又は区立幼稚園",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "窓口、電子申請",
+  "procedurePeriod": {
+    "conditions": "登録利用\n毎年11月頃\n一時利用\n各園にお問い合わせください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "区立幼稚園に在園又は入園予定の児童",
+  "regulation": {
+    "regulationArticle": "第21条の9",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "幼稚園や認定こども園（幼稚園枠）では、教育時間の開始前や終了後、夏休みなどの幼稚園休園日に、お子さんをお預かりしています。\n通常の保育料に加え、別途利用料が必要です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "区立幼稚園に在園又は入園予定の児童",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 5,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "預かり保育を希望される方"
+  },
+  "updateDate": "2024-04-25",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "午前8時から午前9時まで\n教育課程修了後から午後6時まで",
+    "fromHM": null,
+    "toHM": null
+  }
+}

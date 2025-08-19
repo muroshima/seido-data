@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "千代田保健所保健サービス課（事業担当）保健サービス係,（相談担当）保健相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+2+UM106"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区九段北1-2-14",
+    "contactComment": null,
+    "contactEmail": "hoken-service@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "千代田保健所保健サービス課（事業担当）保健サービス係,（相談担当）保健相談係",
+    "contactPhone": "03-6380-8552,03-5211-8175",
+    "contactUrl": null,
+    "zipCode": "1020073"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "2歳前後は、できることが増えて成長の喜びを感じられる一方で、第一次反抗期が始まる時期であり、多くの方が子育てに悩み、育児に伴うストレスが高くなりやすい時期です。また、法定の乳幼児健診の観点からは、1歳6か月児健診の後は、次の3歳児健診まで少し間があるため、必要な子育て支援サービスにつながりにくい時期でもあります。\n\nそこで、千代田区では、2歳の誕生日を迎えたお子さまがいらっしゃるご家庭に、東京都作成の冊子を提供し、お子さんの発育状況やご家庭の状況をお尋ねするアンケートを実施するとともに、アンケートにお答えいただいた方へ、1万円相当の子育て用品やサービスに交換できるデジタルギフトを支給します。\n\n保健師や心理士等の専門職による相談について\n保健所では、保健師や心理士等の専門職による相談も随時受け付けています。\n育児に関して不安やお困りごとがありましたら、下記相談担当まで、お気軽にご連絡ください。\n（相談担当）保健相談係\n電話番号：03-5211-8175",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関するサポート",
+    "shortName": "バースデーサポート事業"
+  },
+  "localGovernmentLink": {
+    "title": "バースデーサポート事業",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/birthday-support.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "千代田区では、2歳の誕生日を迎えたお子さまがいらっしゃるご家庭に、東京都作成の冊子を提供し、お子さんの発育状況やご家庭の状況をお尋ねするアンケートを実施するとともに、アンケートにお答えいただいた方へ、1万円相当の子育て用品やサービスに交換できるデジタルギフトを支給します。",
+  "support": {
+    "description": "2歳の誕生日を迎えたお子さまがいらっしゃるご家庭に、東京都作成の冊子を提供し、お子さんの発育状況やご家庭の状況をお尋ねするアンケートを実施するとともに、アンケートにお答えいただいた方へ、1万円相当の子育て用品やサービスに交換できるデジタルギフトを支給します。",
+    "materiallySupport": null,
+    "monetarySupport": "1万円相当の子育て用品やサービスに交換できるデジタルギフト"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "令和6年4月1日以降に、2歳の誕生日を迎える子ども",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "1.～2.のいずれの条件にも該当する方\n　1.令和6年4月1日以降に、2歳の誕生日を迎える子どもがいる\n　2.2歳の誕生日時点において、子どもと保護者の住民登録が千代田区の同一世帯にある\n（注意） 2歳の誕生日以前に千代田区から転出された方は、対象外です。"
+  },
+  "updateDate": "2024-05-31",
+  "useConsiderationFlag": false,
+  "utilization": "事業の流れ\n1.対象者には、千代田保健所から委託をうけた事業者から、「バースデーサポート事業のご案内」を2歳の誕生日の翌月中旬頃に、簡易書留で郵送します。\n（注意） 対象者であるにも関わらず、ご案内が届いてない方は、下記事業担当までお問い合わせください。\n2.「バースデーサポート事業のご案内」に記載されている二次元コードをスマートフォン等で読み取り、期限内にアンケートにご回答いただくと、その場でデジタルギフトをお受け取りいただけます。\n（注意） 期限までに回答がない場合、デジタルギフトを受け取れないことがあります。\n（注意） スマートフォン等をお持ちでない方は、下記事業担当までご連絡ください。\n（事業担当）保健サービス係\n電話番号：03-6380-8552",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

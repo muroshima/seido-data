@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "132233;武蔵村山市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子ども育成課 手当・医療係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132233",
+    "psid": "psid3.0+3000020132233+1+UM67"
+  },
+  "belongings": "障害の程度がわかる書類（身体障害者手帳・愛の手帳など）\n所定の診断書（1の手帳で障害程度が確認できないとき）\n保護者名義の銀行等の通帳\n課税情報の確認にかかる同意書（児童育成手当）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "185・186・187",
+    "contactName": "子ども家庭部 子ども育成課 手当・医療係",
+    "contactPhone": "042-565-1111",
+    "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/e_04a/1003745",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "児童育成手当（障害手当）\n法令等\n東京都児童育成手当に関する条例　武蔵村山市児童育成手当条例及び施行規則\n\n事業内容\n支給対象者\n都内に住所があり、次のいずれかに該当する20歳未満の児童を扶養しているかたです。\n1.身体障害者手帳1級・2級の身体障害\n2.愛の手帳1度から3度の知的障害\n3.脳性まひ又は進行性筋萎縮症（しんこうせいきんいしゅくしょう）を有するもの\n\n支給対象外\n次のいずれかに該当するときは、支給の対象となりません。\n 1.保護者の前年の所得が　下記別表の限度額以上のとき\n2.児童が児童福祉施設に入所しているとき\nなお、心身障害者福祉手当との併給はできません。\n児童育成手当所得限度額表;https://www.city.musashimurayama.lg.jp/kurashi/shougai/teate/1000696.html\n\n支給額\n該当児童1人につき月額：15,500円\n\n支給方法\n申請のあった月の翌月分から6月15日・10月15日・2月15日（ただし、15日が市役所閉庁日（土日、祝日）にあたる場合は、直前の開庁日）に申請者本人名義の口座へ振り込みます。\n\n申請方法\n次の書類等を揃えて子ども育成課手当・医療係の窓口で申請をしてください。\n障害の程度がわかる書類（身体障害者手帳・愛の手帳など）\n所定の診断書（1の手帳で障害程度が確認できないとき）\n保護者名義の銀行等の通帳\n課税情報の確認にかかる同意書（児童育成手当）\n・窓口でご用意しています。\n・同意書の提出がある場合は（非）課税証明書は不要です。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の障がいのあるお子さんなどへの金銭的支援",
+    "shortName": "児童育成手当"
+  },
+  "localGovernmentLink": {
+    "title": "児童育成手当（障害手当）",
+    "uri": "https://www.city.musashimurayama.lg.jp/kosodate/teate/teate/1003745.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "武蔵村山市"
+  },
+  "procedureCounter": "子ども育成課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "次の書類等を揃えて子ども育成課手当・医療係の窓口で申請をしてください。\n障害の程度がわかる書類（身体障害者手帳・愛の手帳など）\n所定の診断書（1の手帳で障害程度が確認できないとき）\n保護者名義の銀行等の通帳\n課税情報の確認にかかる同意書（児童育成手当）\n・窓口でご用意しています。\n・同意書の提出がある場合は（非）課税証明書は不要です。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第4条～第7条",
+    "regulationName": "武蔵村山市児童育成手当条例"
+  },
+  "relatedLink": [
+    {
+      "title": "児童育成手当所得限度額表",
+      "uri": "https://www.city.musashimurayama.lg.jp/kurashi/shougai/teate/1000696.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "20歳未満で、法令により定められた程度の心身に障害を有する児童の父母または養育者に対して手当が支給されます。",
+  "support": {
+    "description": "該当児童1人につき月額：15,500円\n\n支給方法\n申請のあった月の翌月分から6月15日・10月15日・2月15日（ただし、15日が市役所閉庁日（土日、祝日）にあたる場合は、直前の開庁日）に申請者本人名義の口座へ振り込みます。",
+    "materiallySupport": null,
+    "monetarySupport": "該当児童1人につき月額：15,500円"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "支給対象者\n都内に住所があり、次のいずれかに該当する20歳未満の児童を扶養しているかたです。\n1.身体障害者手帳1級・2級の身体障害\n2.愛の手帳1度から3度の知的障害\n3.脳性まひ又は進行性筋萎縮症（しんこうせいきんいしゅくしょう）を有するもの\n\n支給対象外\n次のいずれかに該当するときは、支給の対象となりません。\n 1.保護者の前年の所得が　下記別表の限度額以上のとき\n2.児童が児童福祉施設に入所しているとき\nなお、心身障害者福祉手当との併給はできません。\n児童育成手当所得限度額表;https://www.city.musashimurayama.lg.jp/kurashi/shougai/teate/1000696.html",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "支給対象者\n都内に住所があり、次のいずれかに該当する20歳未満の児童を扶養しているかたです。\n1.身体障害者手帳1級・2級の身体障害\n2.愛の手帳1度から3度の知的障害\n3.脳性まひ又は進行性筋萎縮症（しんこうせいきんいしゅくしょう）を有するもの\n\n支給対象外\n次のいずれかに該当するときは、支給の対象となりません。\n 1.保護者の前年の所得が　下記別表の限度額以上のとき\n2.児童が児童福祉施設に入所しているとき\nなお、心身障害者福祉手当との併給はできません。\n児童育成手当所得限度額表;https://www.city.musashimurayama.lg.jp/kurashi/shougai/teate/1000696.html"
+  },
+  "updateDate": "2022-04-11",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

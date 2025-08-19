@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131059;文京区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子育て支援課子ども施策推進担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131059",
+    "psid": "psid3.0+6000020131059+1+UM5036"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都文京区春日1丁目16番21号 文京シビックセンター5階南側",
+    "contactComment": "FAX：03-5803-1345",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部子育て支援課子ども施策推進担当",
+    "contactPhone": "03-5803-1256",
+    "contactUrl": null,
+    "zipCode": "1128555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "地域の子どもたちに食事の提供を通じた地域の居場所づくりをしています。\n詳細は、文京区社会福祉協議会にお問い合わせください。\n文京区社会福祉協議会のホームページはこちらです。（外部リンク）;https://www.bunsyakyo.or.jp/",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "こども食堂",
+    "shortName": "子ども食堂"
+  },
+  "localGovernmentLink": {
+    "title": "子ども食堂",
+    "uri": "https://www.city.bunkyo.lg.jp/b022/p001519.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/03/03",
+    "updater": "文京区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "「こども食堂」とは、こどもが一人でも行ける無料または低額の食堂です。こども食堂は、生活に困窮する子育て世帯への支援だけでなく、虐待の防止のための見守りや、地域の交流、こどもへの多様な経験の提供など様々な役割を担っており、国としてもこの取組を支援しています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2023/04/07",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

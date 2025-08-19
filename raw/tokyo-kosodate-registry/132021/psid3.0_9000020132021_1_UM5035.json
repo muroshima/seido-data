@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "132021;立川市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健医療部 保険年金課 賦課係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020132021",
+    "psid": "psid3.0+9000020132021+1+UM5035"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "立川市泉町1156-9",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "（代表・内線）：042-523-2111（内線1406・1407・1416・1422）",
+    "contactName": "保健医療部 保険年金課 賦課係",
+    "contactPhone": "042-528-4314",
+    "contactUrl": null,
+    "zipCode": "1908666"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "産前産後の国民健康保険料の減免\n\nページ番号1011637　 更新日 2024年4月24日\n\nXポストする　フェイスブックシェアする　ライン共有する　いいね！　印刷　大きな文字で印刷\n\n制度の概要\n出産する方は、出産（予定）日の前月から4か月（多胎妊娠の場合は、出産（予定）日の3か月前から6か月）相当分の保険料が免除されます。\n妊娠85日以上の出産が対象です（死産、流産、早産及び人工妊娠中絶の場合も含みます）。\n減免には申請が必要です。\n\n制度の開始時期\n令和6年1月から開始される制度です。\n令和5年11月1日以降の出産（予定）が免除の対象となります。なお、免除の対象月は令和6年1月以降となります。\n参考資料 （PDF 752.9KB）;https://www.city.tachikawa.lg.jp/_res/projects/default_project/_page_/001/011/637/chirashi.pdf\n\n申請方法\n申請窓口：保険年金課（市役所1階6番窓口）\nお持ち物：母子健康手帳\nなお、出産育児一時金を申請されている方へは、ご案内と申請書をお送りいたしますので、申請書にご記入していただき、母子健康手帳の出産（予定）日のわかるページの写しを同封し、返送してください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "国民健康保険における産前産後期間保険料（税）免除",
+    "shortName": "産前産後の国民健康保険料の減免"
+  },
+  "localGovernmentLink": {
+    "title": "産前産後の国民健康保険料の減免",
+    "uri": "https://www.city.tachikawa.lg.jp/kurashi/nenkin/1002478/1002510/1002555/1011637.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "立川市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請方法\n申請窓口：保険年金課（市役所1階6番窓口）\nお持ち物：母子健康手帳\nなお、出産育児一時金を申請されている方へは、ご案内と申請書をお送りいたしますので、申請書にご記入していただき、母子健康手帳の出産（予定）日のわかるページの写しを同封し、返送してください。",
+  "procedurePeriod": {
+    "conditions": "令和5年11月1日以降の出産（予定）が免除の対象となります。なお、免除の対象月は令和6年1月以降となります。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "法第77条（保険料の減免等）、条例第23条の３（出産被保険者の保険料の減額）",
+    "regulationName": "国民健康保険法、立川市国民健康保険条例"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民健康保険の出産する被保険者に係る産前産後期間相当分（４ヶ月分）の均等割保険料と所得割保険料が免除されます。",
+  "support": {
+    "description": "出産する方は、出産（予定）日の前月から4か月（多胎妊娠の場合は、出産（予定）日の3か月前から6か月）相当分の保険料が免除されます。",
+    "materiallySupport": null,
+    "monetarySupport": "出産する方は、出産（予定）日の前月から4か月（多胎妊娠の場合は、出産（予定）日の3か月前から6か月）相当分の保険料が免除されます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003",
+      "015"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "妊娠85日以上の出産が対象です（死産、流産、早産及び人工妊娠中絶の場合も含みます）。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊娠85日以上の出産が対象です（死産、流産、早産及び人工妊娠中絶の場合も含みます）。"
+  },
+  "updateDate": "2024-04-24",
+  "useConsiderationFlag": false,
+  "utilization": "申請方法\n申請窓口：保険年金課（市役所1階6番窓口）\nお持ち物：母子健康手帳\nなお、出産育児一時金を申請されている方へは、ご案内と申請書をお送りいたしますので、申請書にご記入していただき、母子健康手帳の出産（予定）日のわかるページの写しを同封し、返送してください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

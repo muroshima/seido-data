@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "132225;東久留米市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉保健部　障害福祉課　福祉支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132225",
+    "psid": "psid3.0+3000020132225+1+UM5037"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都東久留米市本町3-3-1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉保健部　障害福祉課　福祉支援係",
+    "contactPhone": "042-470-7747",
+    "contactUrl": "https://www.city.higashikurume.lg.jp/kurashi/fukushi/shogai/1000437.html",
+    "zipCode": "2038555"
+  },
+  "cost": null,
+  "costConditions": "（住民税の額によって自己負担あり）",
+  "description": "対象\n身体に障害があるため手術等を必要とし、確実な治療効果が期待される18歳未満の児童。\n内容\n指定育成医療機関において、将来生活していくために必要な能力を身に付けるための医療を給付（住民税の額によって自己負担あり）。\n問い合わせ\n障害福祉課　電話：042-470-7747",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度",
+    "shortName": "育成医療の給付（自立支援医療）"
+  },
+  "localGovernmentLink": {
+    "title": "医療費の助成",
+    "uri": "https://www.city.higashikurume.lg.jp/kurashi/fukushi/shogai/1000437.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "東久留米市"
+  },
+  "procedureCounter": "障害福祉課　電話：042-470-7747",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+  "support": {
+    "description": "指定育成医療機関において、将来生活していくために必要な能力を身に付けるための医療を給付",
+    "materiallySupport": null,
+    "monetarySupport": "指定育成医療機関において、将来生活していくために必要な能力を身に付けるための医療を給付"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "18歳未満の児童。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "身体に障害があるため手術等を必要とし、確実な治療効果が期待される18歳未満の児童。"
+  },
+  "updateDate": "2021-03-15",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

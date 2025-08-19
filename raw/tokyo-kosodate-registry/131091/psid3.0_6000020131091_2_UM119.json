@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131091;品川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保育施設運営課　保育・教育担当（研修）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131091",
+    "psid": "psid3.0+6000020131091+2+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保育施設運営課保育・教育担当",
+    "contactPhone": "03-5742-3087",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "しながわっ子　子育てかんがるープラン\n\n保育課の子育て相談員が、妊娠中の方から小学校就学前までのお子さんの保護者を対象に、子育て相談を通し、子育て支援事業の紹介や情報提供を行い、就学前の子育てプランを作成するお手伝いをします。\n子育てに不安を抱えている、子育てをしながら仲間作りをしたい、幼稚園や保育園のことを知りたい等の様々なご相談に応じながら、保護者の方と一緒にそれぞれのご家庭の子育てを考えます。\n\n◇場所\n品川区役所第二庁舎7階　保育施設運営課（web相談や電話相談にも対応しています）\n\n◇申込方法\nインターネット受付（下記URLから予約ページにてお申込みください）\n\n【品川区電子申請サービス】しながわっ子子育てかんがるープラン　相談予約ページ \nしながわっ子子育てかんがるープラン　相談予約ページ URL(別ウィンドウ表示);https://apply.e-tumo.jp/city-shinagawa-u/reserve/offerList_detail.action?tempSeq=139\n\n◇対象\n妊娠中の方から就学前までのお子さんのいる保護者\n※  幼稚園や保育園の入園相談に関するご質問やご相談は、随時入園相談係の窓口や電話で受付けています。子育てプランのご希望がない場合は、予約の必要はありません。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "しながわっ子子育てかんがるープラン　相談予約ページ URL(別ウィンドウ表示)",
+      "uri": "https://apply.e-tumo.jp/city-shinagawa-u/reserve/offerList_detail.action?tempSeq=139"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "品川区役所第二庁舎7階　保育施設運営課\n（web相談や電話相談にも対応しています）"
+  },
+  "institutionName": {
+    "canonicalName": "品川区の子育てに関する相談",
+    "shortName": "しながわっ子　子育てかんがるープラン"
+  },
+  "localGovernmentLink": {
+    "title": "しながわっ子　子育てかんがるープラン",
+    "uri": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-kateisoudan/hpg000004245.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-01",
+    "updater": "品川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "インターネット受付（下記URLから予約ページにてお申込みください）\n\n【品川区電子申請サービス】しながわっ子子育てかんがるープラン　相談予約ページ \nしながわっ子子育てかんがるープラン　相談予約ページ URL(別ウィンドウ表示);https://apply.e-tumo.jp/city-shinagawa-u/reserve/offerList_detail.action?tempSeq=139",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育施設運営課の子育て相談員が、妊娠中の方から小学校就学前までのお子さんの保護者を対象に、子育て相談を通し、子育て支援事業の紹介や情報提供を行い、就学前の子育てプランを作成するお手伝いをします。\n子育てに不安を抱えている、子育てをしながら仲間作りをしたい、幼稚園や保育園のことを知りたい等の様々なご相談に応じながら、保護者の方と一緒にそれぞれのご家庭の子育てを考えます。",
+  "support": {
+    "description": "子育て相談を通し、子育て支援事業の紹介や情報提供を行い、就学前の子育てプランを作成するお手伝い",
+    "materiallySupport": "子育て相談を通し、子育て支援事業の紹介や情報提供を行い、就学前の子育てプランを作成するお手伝い",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "就学前まで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊娠中の方から就学前までのお子さんのいる保護者"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "子育てに関する相談は、「家庭あんしんセンター」や児童センターの子育てネウボラ相談でも受け付けています。\n\n家庭あんしんセンター;https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-kateisoudan/hpg000000504.html\n子育てネウボラ相談;https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-kateisoudan/hpg000000505.html",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

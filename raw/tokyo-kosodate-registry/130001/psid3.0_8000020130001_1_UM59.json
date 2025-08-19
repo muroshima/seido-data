@@ -1,0 +1,136 @@
+{
+  "area": {
+    "areaCode": "130001;東京都",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉局子供・子育て支援部 育成支援課 ひとり親福祉担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020130001",
+    "psid": "psid3.0+8000020130001+1+UM59"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "※9時から18時まで（年末年始を除く土日祝日も開設）",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子供・子育て支援部 育成支援課 ひとり親福祉担当",
+    "contactPhone": "03-5320-4125",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "母子家庭及び父子家庭自立支援給付金事業\n1　母子家庭及び父子家庭自立支援教育訓練給付金事業\n　母子家庭の母又は父子家庭の父が就労するために必要な教育訓練を受講した場合、本人が対象教育訓練に支払った費用の60％に相当する額（12,000円を超えない場合は支給しない。就学年数等に応じた上限あり。）を支給します。なお、雇用保険制度の一般教育訓練給付金又は特定一般教育訓練給付金若しくは専門実践教育訓練給付金の受給資格のある方には、60％の範囲内で差額を支給します。修了後１年以内に資格取得等し、就職等した場合、受講費用の25％（上限20万円）を追加支給（最大85％の支給）\n　※実施主体により、支給内容・対象者が異なる場合があります。\n\n対象者\n　都内に住所を有する母子家庭の母又は父子家庭の父で、次の要件の全てを満たす者。\n（1）　　支給を受けようとする者の就業経験、技能、資格の取得状況や労働市場の状況などから判断して、当該教育訓練を受けることが適職に就くために必要であると認められるものであること。\n（２）　原則として、過去に訓練給付金を受給していないこと。\n\n実施主体\n　区市（町村は東京都）\n\nお問い合わせ先\n　区市役所;http://www.fukunavi.or.jp/fukunavi/eip/10kyotuu/hitorioya.html又は福祉事務所;http://www.fukushihoken.metro.tokyo.jp/seikatsu/shisetsu/fukushi.htmlへお問い合わせください。\n\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援教育訓練給付金",
+    "shortName": "母子家庭及び父子家庭自立支援給付金事業"
+  },
+  "localGovernmentLink": {
+    "title": "母子家庭及び父子家庭自立支援給付金事業",
+    "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/hitorioya_shien/syurou/kyuufukin.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-10-31",
+    "updater": "東京都"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第31条（母子家庭自立支援給付金）、第31条の10（父子家庭自立支援給付金）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "区市役所",
+      "uri": "http://www.fukunavi.or.jp/fukunavi/eip/10kyotuu/hitorioya.html"
+    },
+    {
+      "title": "福祉事務所",
+      "uri": "http://www.fukushihoken.metro.tokyo.jp/seikatsu/shisetsu/fukushi.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "雇用保険による教育訓練給付の受給資格を持たない母子家庭の母が、就職やキャリアアップのために指定された教育訓練講座を受講し、修了した場合、受講に要した費用の一部が支給されます。\n※受講開始前に必ず事前相談を受けてください。",
+  "support": {
+    "description": "母子家庭の母又は父子家庭の父が就労するために必要な教育訓練を受講した場合、本人が対象教育訓練に支払った費用の60％に相当する額（12,000円を超えない場合は支給しない。就学年数等に応じた上限あり。）を支給します。なお、雇用保険制度の一般教育訓練給付金又は特定一般教育訓練給付金若しくは専門実践教育訓練給付金の受給資格のある方には、60％の範囲内で差額を支給します。修了後１年以内に資格取得等し、就職等した場合、受講費用の25％（上限20万円）を追加支給（最大85％の支給）",
+    "materiallySupport": null,
+    "monetarySupport": "母子家庭の母又は父子家庭の父が就労するために必要な教育訓練を受講した場合、本人が対象教育訓練に支払った費用の60％に相当する額（12,000円を超えない場合は支給しない。就学年数等に応じた上限あり。）を支給します。なお、雇用保険制度の一般教育訓練給付金又は特定一般教育訓練給付金若しくは専門実践教育訓練給付金の受給資格のある方には、60％の範囲内で差額を支給します。修了後１年以内に資格取得等し、就職等した場合、受講費用の25％（上限20万円）を追加支給。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "008"
+    ],
+    "contentsCode": [
+      "078",
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088",
+      "093",
+      "094"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "都内に住所を有する母子家庭の母又は父子家庭の父で、次の要件の全てを満たす者。\n（1）　母子・父子自立支援プログラム策定事業の実施に基づく母子・父子自立支援プログラムの策定等の支援を受けている者であること。\n（2）　支給を受けようとする者の就業経験、技能、資格の取得状況や労働市場の状況などから判断して、当該教育訓練を受けることが適職に就くために必要であると認められるものであること。\n（3）　原則として、過去に訓練給付金を受給していないこと。"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

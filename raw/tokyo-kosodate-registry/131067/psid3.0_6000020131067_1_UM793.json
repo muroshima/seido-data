@@ -1,0 +1,133 @@
+{
+  "area": {
+    "areaCode": "131067;台東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "区民課国民年金係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131067",
+    "psid": "psid3.0+6000020131067+1+UM793"
+  },
+  "belongings": "届出に必要なもの\n本人確認できるもの\n以下の書類\n\n出産前に届け出をする場合\n　母子健康手帳、医療機関が発行した証明書、その他出産予定日を明らかにすることができる書類のいずれか\n\n出産後に届け出をする場合\n　戸籍謄（抄）本、戸籍記載事項証明書、出生届受理証明書、母子健康手帳、住民票、医療機関が発行した証明\n　書、その他出産の日及び身分関係を明らかにすることができる書類のいずれか\n　台東区に住民登録され、出産の日及び身分関係が確認できる場合は不要です。\n\n死産等の場合\n　死産証明書、死胎埋火葬許可証、母子健康手帳、医療機関が発行した証明書、その他死産等の日及び身分関係\n　を明らかにすることができる書類のいずれか",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "区民課国民年金係",
+    "contactPhone": "03-5246-1262",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "法定免除\n第1号被保険者の方が、次のいずれかに該当した場合、保険料の支払いが免除されます。\n\n生活保護の生活扶助を受給している日本国籍の方\n障害基礎年金、障害厚生（共済）年金の2級または1級を受給している方\n国立ハンセン病療養所などで療養している方\n免除期間\n事由に該当した日の前月から免除に該当します。\n\n届出に必要なもの\n本人確認ができるもの\n事由該当日が分かるもの\n（生活保護を受給している方は、保護受給証明書。障害年金を受給している方は、年金証書。）\n\n産前産後期間の保険料の免除\n国民年金の被保険者が出産を行った際に、その出産前後の一定期間の保険料については、免除の届出ができます。\n\n対象となる方\n第1号被保険者（任意加入の方を除く）で出産日が平成31年2月1日以降の方\n\n要件　\n妊娠85日（4か月）以上の分娩（死産、流産、早産、人工妊娠中絶を含む）\n\n対象期間\n出産予定日又は出産日が属する月の前月から4か月間\n多胎妊娠（双子等）の場合は、出産予定日又は出産日が属する月の3か月前から6か月間\n\n届出時期\n出産予定日の6か月前から届出できます。\n\n届出に必要なもの\n本人確認できるもの\n以下の書類\n\n出産前に届け出をする場合\n　母子健康手帳、医療機関が発行した証明書、その他出産予定日を明らかにすることができる書類のいずれか\n\n出産後に届け出をする場合\n　戸籍謄（抄）本、戸籍記載事項証明書、出生届受理証明書、母子健康手帳、住民票、医療機関が発行した証明\n　書、その他出産の日及び身分関係を明らかにすることができる書類のいずれか\n　台東区に住民登録され、出産の日及び身分関係が確認できる場合は不要です。\n\n死産等の場合\n　死産証明書、死胎埋火葬許可証、母子健康手帳、医療機関が発行した証明書、その他死産等の日及び身分関係\n　を明らかにすることができる書類のいずれか",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "国民年金に加入する方・加入中の方の手続き",
+      "uri": "https://myna.go.jp"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "産前産後期間の国民年金保険料免除",
+    "shortName": "産前産後期間の保険料の免除"
+  },
+  "localGovernmentLink": {
+    "title": "法定免除制度と産前産後期間の免除",
+    "uri": "https://www.city.taito.lg.jp/kurashi/zeikin/kokuminnenkin/houteisanzensango.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "台東区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "マイナポータルからスマホで電子申請または、区役所・年金事務所の窓口で申請ができます。届出に必要なもの\n本人確認できるもの\n以下の書類\n\n出産前に届け出をする場合\n　母子健康手帳、医療機関が発行した証明書、その他出産予定日を明らかにすることができる書類のいずれか\n\n出産後に届け出をする場合\n　戸籍謄（抄）本、戸籍記載事項証明書、出生届受理証明書、母子健康手帳、住民票、医療機関が発行した証明\n　書、その他出産の日及び身分関係を明らかにすることができる書類のいずれか\n　台東区に住民登録され、出産の日及び身分関係が確認できる場合は不要です。（区役所の窓口申請のみ添付不要です）\n\n死産等の場合\n　死産証明書、死胎埋火葬許可証、母子健康手帳、医療機関が発行した証明書、その他死産等の日及び身分関係\n　を明らかにすることができる書類のいずれか",
+  "procedurePeriod": {
+    "conditions": "対象期間\n出産予定日又は出産日が属する月の前月から4か月間\n多胎妊娠（双子等）の場合は、出産予定日又は出産日が属する月の3か月前から6か月間\n\n届出時期\n出産予定日の6か月前から届出できます。\n届出の期限はありません。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第88条の2（保険料の納付義務）",
+    "regulationName": "国民年金法"
+  },
+  "relatedLink": [
+    {
+      "title": "国民年金に加入する方・加入中の方の手続き",
+      "uri": "https://myna.go.jp"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民年金の第1号被保険者が出産した場合には、出産前後の一定期間の国民年金保険料が免除されます。\n免除期間は年金額を計算する際、保険料を納めた期間として扱われます。",
+  "support": {
+    "description": "国民年金の被保険者が出産を行った際に、その出産前後の一定期間の保険料については、免除の届出ができます。",
+    "materiallySupport": null,
+    "monetarySupport": "国民年金保険料の免除"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "016"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "第1号被保険者（任意加入の方を除く）で出産日が平成31年2月1日以降の方\n\n要件　\n妊娠85日（4か月）以上の分娩（死産、流産、早産、人工妊娠中絶を含む）"
+  },
+  "updateDate": "2023-06-30",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

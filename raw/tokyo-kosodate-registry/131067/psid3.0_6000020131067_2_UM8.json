@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131067;台東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "台東保健所　保健サービス課母子成人保健担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131067",
+    "psid": "psid3.0+6000020131067+2+UM8"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "台東保健所　保健サービス課母子成人保健担当",
+    "contactPhone": "03-3847-9449",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "お母さんの歯とお口の健康が、赤ちゃんのむし歯予防のスタートになります。ぜひ、歯科健診を受けましょう。また、産婦歯科健康診査の日程に合わせて赤ちゃんお口ふれあい教室（お子さまの歯と口の健康教室）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kouzaevent/hokenjo/happykyositu.htmlを実施しています。あわせてご利用ください。\n\n対象\n区内在住の産婦（産後おおむね1年以内）\n\n内容\n歯科健診・相談\n\n会場\n台東保健所・浅草保健相談センター\n\n日程\nファイルダウンロード　新規ウインドウで開きます。令和7年度産婦歯科健康診査・お口ふれあい教室日程表（PDF：135KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/kenkoushinsa/sannpu.files/7sannpuhurai2.pdf\n\n予約\n外部サイトへリンク　新規ウインドウで開きます。こちらの申込フォーム（外部サイト）;https://logoform.jp/form/sQhE/399089または下記担当までお電話ください\n\n産婦歯科健康診査ご利用の際の注意点\n体調がすぐれない方は来所をご遠慮ください。\n※産婦歯科健康診査は毎月実施しております。何か気になることがあったり、来所に迷うことがあれば下記担当までお電話ください。当日でも、予約の変更・キャンセル等承ります。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "こちらの申込フォーム（外部サイト）",
+      "uri": "https://logoform.jp/form/sQhE/399089"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "浅草保健相談センター,台東保健所"
+  },
+  "institutionName": {
+    "canonicalName": "妊産婦の歯科健診",
+    "shortName": "産婦歯科健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "産婦歯科健康診査",
+    "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/kenkoushinsa/sannpu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "台東区"
+  },
+  "procedureCounter": "台東保健所保健サービス課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "対象の方へ案内送付。予約は電子または電話。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "出産後、おおむね１年以内の産婦の歯科健診です。",
+  "support": {
+    "description": "歯科健診・相談",
+    "materiallySupport": "歯科健診・相談",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住の産婦"
+  },
+  "updateDate": "2024-03-14",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

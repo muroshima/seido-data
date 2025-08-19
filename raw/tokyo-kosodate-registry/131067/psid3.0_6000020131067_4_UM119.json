@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "131067;台東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "浅草保健相談センター　保健指導担当,保健サービス課　保健指導担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131067",
+    "psid": "psid3.0+6000020131067+4+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "浅草保健相談センター　保健指導担当,保健サービス課　保健指導担当",
+    "contactPhone": "03-3844-8172,03-3847-9497",
+    "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080700",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "内容\n育児に関する悩みを専門カウンセラーが個別に対応します。\n相談時間は1人30分です。\n\n対象\n区内在住で、就学前のお子さんを子育て中の方\n\n実施日・申し込み先\n|会場|実施日|時間|申込み先|\n|:----|:----|:----|:----|\n|浅草保健相談センター|第3水曜日|9時30分から11時|浅草保健相談センター<br>電話：03－3844－8172|\n|台東保健所|第4火曜日|9時30分から11時|保健サービス課保健指導担当<br>電話：03－3847－9497|\n\n令和5年度　子育て心理相談のご案内（PDF：238KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/soudan/kosodate.files/R5-kosodatesinri.pdf\n令和6年度　子育て心理相談のご案内（PDF：212KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/soudan/kosodate.files/R6_shinri.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "|会場|実施日|時間|申込み先|\n|:----|:----|:----|:----|\n|浅草保健相談センター|第3水曜日|9時30分から11時|浅草保健相談センター<br>電話：03－3844－8172|\n|台東保健所|第4火曜日|9時30分から11時|保健サービス課保健指導担当<br>電話：03－3847－9497|\n",
+    "implementationName": "|会場|実施日|時間|申込み先|\n|:----|:----|:----|:----|\n|浅草保健相談センター|第3水曜日|9時30分から11時|浅草保健相談センター<br>電話：03－3844－8172|\n|台東保健所|第4火曜日|9時30分から11時|保健サービス課保健指導担当<br>電話：03－3847－9497|\n"
+  },
+  "institutionName": {
+    "canonicalName": "台東区の子育てに関する相談",
+    "shortName": "子育て心理相談【予約制】"
+  },
+  "localGovernmentLink": {
+    "title": "子育て心理相談【予約制】",
+    "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/soudan/kosodate.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "台東区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "１～３か月児の育児相談は予約制です。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "令和6年度　子育て心理相談のご案内（PDF：212KB）",
+      "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/soudan/kosodate.files/R6_shinri.pdf"
+    },
+    {
+      "title": "令和5年度　子育て心理相談のご案内（PDF：238KB）",
+      "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/soudan/kosodate.files/R5-kosodatesinri.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "育児に関する悩みを専門カウンセラーが個別に対応します。",
+  "support": {
+    "description": "育児に関する悩みを専門カウンセラーが個別に対応します。",
+    "materiallySupport": "育児に関する悩みを専門カウンセラーが個別に対応します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住で、就学前のお子さんを子育て中の方"
+  },
+  "updateDate": "2024-03-05",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "|会場|実施日|時間|申込み先|\n|:----|:----|:----|:----|\n|浅草保健相談センター|第3水曜日|9時30分から11時|浅草保健相談センター<br>電話：03－3844－8172|\n|台東保健所|第4火曜日|9時30分から11時|保健サービス課保健指導担当<br>電話：03－3847－9497|\n",
+    "fromHM": null,
+    "toHM": null
+  }
+}

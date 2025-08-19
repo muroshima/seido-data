@@ -1,0 +1,133 @@
+{
+  "area": {
+    "areaCode": "131211;足立区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "区民部国民健康保険課給付担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020131211",
+    "psid": "psid3.0+2000020131211+1+UM19"
+  },
+  "belongings": "保険証\n母子健康手帳\n出産時の世帯主名義の預金通帳\n出産時の領収書・領収明細書（外国で出産した方は不要）\n直接支払制度を利用しなかった（できなかった）場合は、病院などが発行する直接支払制度不合意書（外国で出産した\n方は不要）\n直接支払制度を利用した場合で、差額の支給を申請するときは、病院などが発行する直接支払制度合意書（外国で出産\nした方、入院助産を受けている方は不要）\n流産・死産のときは医師の証明書又は、死胎火葬許可書\n受取代理制度を利用する方は、病院等で記入・捺印を済ませた支給申請書\n外国で出産した方は出生証明書とその訳文（対訳）、パスポート\n入院助産を受けている方は助産施設入所承諾書\n ",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "区民部国民健康保険課給付担当",
+    "contactPhone": "03-3880-5241",
+    "contactUrl": "https://www.city.adachi.tokyo.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "出産育児一時金の支給\n出産または妊娠85日以上で流産・死産（人工中絶も含む）した方に、出産児1人に付き、50万円(※)を支給します。出産者本人が社会保険等へ1年以上加入していて退職後6カ月以内の出産の場合は、社会保険等から支給を受けるか国民健康保険から支給を受けるか選択することができます。なお、申請期間は出産日の翌日から2年以内です。\n\n(※)令和5年3月31日以前に出産した方には42万円が支給されます。\n\n【直接支払制度】\n\n出産育児一時金の請求と受け取りを妊婦などに代わって病院などが行う制度です。\n（ただし、個々の病院などの判断により直接支払制度を利用しないことが認められています。直接支払制度が利用可能かどうかについては、出産する病院などにご確認ください。）\n\n○出産者が入院予約時などに合意することにより直接支払いとなります。50万円(※)の範囲で出産育児一時金が出産費用に充てられます。\n○出産費用が50万円(※)を超える場合は、その差額分は退院時に病院などにお支払いください。50万円(※)未満の場合は、その差額分の支給申請書を出産月より2、3カ月後に郵送しますので申請書到着後、給付担当に申請してください。\n\n(※)令和5年3月31日以前に出産した方は42万円\n\n【受取代理制度】\n\n妊婦などが国民健康保険課に出産育児一時金の請求を行う際、出産する病院などにその受け取りを委任することで、病院などに直接出産育児一時金が支給される制度です。\n（受取代理制度が利用できる医療機関は、国への届出により認められた病院などに限られています。受取代理制度が利用可能かどうかについては、出産する病院などにご確認ください。）\n\n○申請は事前申請です。\n受取代理申請書に出産予定の病院などの記載・捺印後、国民健康保険課給付担当窓口にて申請をしてください。\n○申請期間は出産予定日の2カ月前から出産予定日前日までです。\n\n●直接支払制度及び受取代理制度を利用しない（できない）場合は、出産費用を病院などにお支払いいただいた後、病院などが発行する直接支払制度不合意書を添付して給付担当へ申請することにより、出産育児一時金を受け取ることが可能です。\n\n申請に必要なもの\n\n保険証\n母子健康手帳\n出産時の世帯主名義の預金通帳\n出産時の領収書・領収明細書（外国で出産した方は不要）\n直接支払制度を利用しなかった（できなかった）場合は、病院などが発行する直接支払制度不合意書（外国で出産した方は不要）\n直接支払制度を利用した場合で、差額の支給を申請するときは、病院などが発行する直接支払制度合意書（外国で出産した方、入院助産を受けている方は不要）\n流産・死産のときは医師の証明書又は、死胎火葬許可書\n受取代理制度を利用する方は、病院等で記入・捺印を済ませた支給申請書\n外国で出産した方は出生証明書とその訳文（対訳）、パスポート\n入院助産を受けている方は助産施設入所承諾書\n\n◇出産育児一時金（受取代理）のご案内（PDF：83KB）;https://www.city.adachi.tokyo.jp/documents/26593/uketori.pdf\n\n◇出産育児一時金（受取代理）申請書（PDF：252KB）;https://www.city.adachi.tokyo.jp/documents/26593/sinnseisyouketoridairiyou.pdf\n\n◇出産育児一時金（受取代理）口座振替依頼書（PDF：68KB）;https://www.city.adachi.tokyo.jp/documents/26593/kouzafurikaeiraisyosetainusi.pdf　",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出産育児一時金",
+    "shortName": "出産育児一時金"
+  },
+  "localGovernmentLink": {
+    "title": "国保の給付",
+    "uri": "https://www.city.adachi.tokyo.jp/kokuho/kurashi/hoken/2701kokuhonokyuufu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "足立区"
+  },
+  "procedureCounter": "【受取代理制度】\n国民健康保険課給付担当窓口",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": " 【直接支払制度】\n\n出産育児一時金の請求と受け取りを妊婦などに代わって病院などが行う制度です。\n（ただし、個々の病院などの判断により直接支払制度を利用しないことが認められています。直接支払制度が利用可能かどうかについては、出産する病院などにご確認ください。）\n\n○出産者が入院予約時などに合意することにより直接支払いとなります。50万円(※)の範囲で出産育児一時金が出産費用に充てられます。\n○出産費用が50万円(※)を超える場合は、その差額分は退院時に病院などにお支払いください。50万円(※)未満の場合は、その差額分の支給申請書を出産月より2、3カ月後に郵送しますので申請書到着後、給付担当に申請してください。\n\n(※)令和5年3月31日以前に出産した方は42万円\n\n【受取代理制度】\n\n妊婦などが国民健康保険課に出産育児一時金の請求を行う際、出産する病院などにその受け取りを委任することで、病院などに直接出産育児一時金が支給される制度です。\n（受取代理制度が利用できる医療機関は、国への届出により認められた病院などに限られています。受取代理制度が利用可能かどうかについては、出産する病院などにご確認ください。）\n\n○申請は事前申請です。\n受取代理申請書に出産予定の病院などの記載・捺印後、国民健康保険課給付担当窓口にて申請をしてください。\n○申請期間は出産予定日の2カ月前から出産予定日前日までです。\n\n●直接支払制度及び受取代理制度を利用しない（できない）場合は、出産費用を病院などにお支払いいただいた後、病院などが発行する直接支払制度不合意書を添付して給付担当へ申請することにより、出産育児一時金を受け取ることが可能です。",
+  "procedurePeriod": {
+    "conditions": "申請期間は出産日の翌日から2年以内です。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "出産または妊娠85日以上で流産・死産（人工中絶も含む）した方",
+  "regulation": {
+    "regulationArticle": "第58条(第二節　その他の給付)",
+    "regulationName": "国民健康保険法"
+  },
+  "relatedLink": [
+    {
+      "title": "出産育児一時金（受取代理）のご案内（PDF：83KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/26593/uketori.pdf"
+    },
+    {
+      "title": "出産育児一時金（受取代理）口座振替依頼書（PDF：68KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/26593/kouzafurikaeiraisyosetainusi.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民健康保険に加入している方が出産したときは、その世帯主からの申請により、出産育児一時金を支給します。原則として直接支払制度により、医療機関に直接お支払いします。\nなお、直接支払制度に対応していない医療機関などで出産された場合も、「受取代理制度」や出産後の申請により、出産育児一時金の支給を受けることができます。",
+  "support": {
+    "description": "出産または妊娠85日以上で流産・死産（人工中絶も含む）した方に、出産児1人に付き、50万円(※)を支給します。出産者本人が社会保険等へ1年以上加入していて退職後6カ月以内の出産の場合は、社会保険等から支給を受けるか国民健康保険から支給を受けるか選択することができます。なお、申請期間は出産日の翌日から2年以内です。\n\n(※)令和5年3月31日以前に出産した方には42万円が支給されます。",
+    "materiallySupport": null,
+    "monetarySupport": "出産または妊娠85日以上で流産・死産（人工中絶も含む）した方に、出産児1人に付き、50万円(※)を支給します。出産者本人が社会保険等へ1年以上加入していて退職後6カ月以内の出産の場合は、社会保険等から支給を受けるか国民健康保険から支給を受けるか選択することができます。なお、申請期間は出産日の翌日から2年以内です。\n\n(※)令和5年3月31日以前に出産した方には42万円が支給されます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003",
+      "015"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "出産または妊娠85日以上で流産・死産（人工中絶も含む）した方"
+  },
+  "updateDate": "2024-04-23",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

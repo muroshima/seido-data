@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131091;品川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康課　保健衛生係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131091",
+    "psid": "psid3.0+6000020131091+1+UM5010"
+  },
+  "belongings": "新生児聴覚検査受診票",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "品川保健センター,大井保健センター,荏原保健センター,健康課保健衛生係",
+    "contactPhone": "03-3474-2903,03-3772-2666,03-5487-1311,03-5742-6745",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "新生児聴覚検査の費用助成について\n\n新生児聴覚検査をすべての赤ちゃんに安心して受けていただくために、検査費用の一部助成をします。\n妊娠の届出をされた方へ、妊婦健康診査受診票などの受診票と併せて、「新生児聴覚検査受診票」をお渡しします。\n「新生児聴覚検査受診票」は都内契約医療機関でご利用いただけます。\n利用については、あらかじめ出産医療機関にご確認ください。\n\n※東京都外で里帰り出産をされる方は、「妊婦健診費・新生児聴覚検査費（里帰り等）助成申請」により、検査費用の一部が助成されます。\n詳しくはこちらでご確認ください。\n里帰り等妊婦健診費・新生児聴覚検査費助成;https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-ninnshinn/kodomo-ninnshinn-service/hpg000003975.html\n\n■新生児聴覚検査について\n生まれつき中等度以上の両側性聴覚障害を持つ赤ちゃんは1,000人のうち1～2人の割合で生まれると言われています。\n現状では、早産などでリスクが高い場合や、希望者だけに聴覚検査が行われていることが多いのですが、検査は全員に生後1週間までに行われることが推奨されておりますので、できるだけ出産した病院で受けられるようご相談ください。\n\n検査は、\n・ヘッドホンを付けて音に対する脳の反応をみる自動聴性脳幹反応（自動ABR）\n・小さなスピーカーとマイクを外耳道から入れて反射音を調べる耳音響反射（OAE）\nという2つの方法があり、赤ちゃんが眠っている間に行われるので負担はありません。\n\n多くは正常（パス）という結果になりますが、耳の中に羊水が残っていたり、耳垢がつまっていたりして反応が悪いこともあり、その場合は通常入院中に要再検（リファー）となり、確認検査を行います。\n\n確認検査で正常とならなくても、半数以上は専門の精密検査機関で精密検査を受けると正常と診断されますので、正確な診断のために、主治医と相談し、遅くとも3カ月頃までに必ず精密検査を受けてください。\n\n聴覚障害は、早期に発見され補聴器装用などの適切な対応をすれば、3歳の時点で健常児の9割の言語力を持つことが報告されています。\n\n出産した病院で検査が受けられなかった、あるいは聴覚障害と診断された場合などは、お近くの保健センターにご相談ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "都内契約医療機関"
+  },
+  "institutionName": {
+    "canonicalName": "新生児聴覚検査",
+    "shortName": "新生児聴覚検査"
+  },
+  "localGovernmentLink": {
+    "title": "新生児聴覚検査の費用助成について",
+    "uri": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-ninnshinn/hpg000029337.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "品川区"
+  },
+  "procedureCounter": "都内契約医療機関",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "妊娠の届出をされた方へ、妊婦健康診査受診票などの受診票と併せて、「新生児聴覚検査受診票」をお渡しします。\n「新生児聴覚検査受診票」は都内契約医療機関でご利用いただけます。\n利用については、あらかじめ出産医療機関にご確認ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "「新生児聴覚検査の実施について」（平成19年1月29日雇児母発第0129002号厚生労働省雇用均等・児童家庭局母子保健課長通知）"
+  },
+  "relatedLink": [
+    {
+      "title": "里帰り等妊婦健診費・新生児聴覚検査費助成",
+      "uri": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-ninnshinn/kodomo-ninnshinn-service/hpg000003975.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "聴覚障害は、早期発見・治療により言葉の発達などへの影響が最小限に抑えられることが分かっていることから、生まれたばかりの赤ちゃんに聴覚障害の疑いがないかを調べる新生児聴覚検査の費用の一部を助成しています。 ",
+  "support": {
+    "description": "新生児聴覚検査をすべての赤ちゃんに安心して受けていただくために、検査費用の一部助成をします。\n妊娠の届出をされた方へ、妊婦健康診査受診票などの受診票と併せて、「新生児聴覚検査受診票」をお渡しします。\n「新生児聴覚検査受診票」は都内契約医療機関でご利用いただけます。\n\n生まれつき中等度以上の両側性聴覚障害を持つ赤ちゃんは1,000人のうち1～2人の割合で生まれると言われています。\n現状では、早産などでリスクが高い場合や、希望者だけに聴覚検査が行われていることが多いのですが、検査は全員に生後1週間までに行われることが推奨されておりますので、できるだけ出産した病院で受けられるようご相談ください。\n\n検査は、\n・ヘッドホンを付けて音に対する脳の反応をみる自動聴性脳幹反応（自動ABR）\n・小さなスピーカーとマイクを外耳道から入れて反射音を調べる耳音響反射（OAE）\nという2つの方法があり、赤ちゃんが眠っている間に行われるので負担はありません。\n\n多くは正常（パス）という結果になりますが、耳の中に羊水が残っていたり、耳垢がつまっていたりして反応が悪いこともあり、その場合は通常入院中に要再検（リファー）となり、確認検査を行います。\n\n確認検査で正常とならなくても、半数以上は専門の精密検査機関で精密検査を受けると正常と診断されますので、正確な診断のために、主治医と相談し、遅くとも3カ月頃までに必ず精密検査を受けてください。\n\n聴覚障害は、早期に発見され補聴器装用などの適切な対応をすれば、3歳の時点で健常児の9割の言語力を持つことが報告されています。\n\n出産した病院で検査が受けられなかった、あるいは聴覚障害と診断された場合などは、お近くの保健センターにご相談ください。",
+    "materiallySupport": null,
+    "monetarySupport": "新生児聴覚検査をすべての赤ちゃんに安心して受けていただくために、検査費用の一部助成をします。\n妊娠の届出をされた方へ、妊婦健康診査受診票などの受診票と併せて、「新生児聴覚検査受診票」をお渡しします。\n「新生児聴覚検査受診票」は都内契約医療機関でご利用いただけます。\n\n生まれつき中等度以上の両側性聴覚障害を持つ赤ちゃんは1,000人のうち1～2人の割合で生まれると言われています。\n現状では、早産などでリスクが高い場合や、希望者だけに聴覚検査が行われていることが多いのですが、検査は全員に生後1週間までに行われることが推奨されておりますので、できるだけ出産した病院で受けられるようご相談ください。\n\n検査は、\n・ヘッドホンを付けて音に対する脳の反応をみる自動聴性脳幹反応（自動ABR）\n・小さなスピーカーとマイクを外耳道から入れて反射音を調べる耳音響反射（OAE）\nという2つの方法があり、赤ちゃんが眠っている間に行われるので負担はありません。\n\n多くは正常（パス）という結果になりますが、耳の中に羊水が残っていたり、耳垢がつまっていたりして反応が悪いこともあり、その場合は通常入院中に要再検（リファー）となり、確認検査を行います。\n\n確認検査で正常とならなくても、半数以上は専門の精密検査機関で精密検査を受けると正常と診断されますので、正確な診断のために、主治医と相談し、遅くとも3カ月頃までに必ず精密検査を受けてください。\n\n聴覚障害は、早期に発見され補聴器装用などの適切な対応をすれば、3歳の時点で健常児の9割の言語力を持つことが報告されています。\n\n出産した病院で検査が受けられなかった、あるいは聴覚障害と診断された場合などは、お近くの保健センターにご相談ください。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊娠の届出をされた方"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

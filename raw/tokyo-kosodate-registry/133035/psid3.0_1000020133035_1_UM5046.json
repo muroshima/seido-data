@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "133035;瑞穂町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部 子育て応援課 保育・幼稚園係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133035",
+    "psid": "psid3.0+1000020133035+1+UM5046"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "瑞穂町大字箱根ケ崎2335番地",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "瑞穂町 福祉部 子育て応援課 保育・幼稚園係",
+    "contactPhone": "042-557-8658",
+    "contactUrl": null,
+    "zipCode": "1901292"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "幼稚園（子ども・子育て支援新制度に移行していない園）を利用する保護者の負担軽減を目的に、各幼稚園で実費徴収をされている給食費（副食材料費（おかず代）相当額）の一部を町が補助する事業です。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "副食費の補助",
+    "shortName": "瑞穂町副食費の施設による徴収に係る補足給付事業について"
+  },
+  "localGovernmentLink": {
+    "title": "瑞穂町副食費の施設による徴収に係る補足給付事業について",
+    "uri": "https://www.town.mizuho.tokyo.jp/kosodate/004/002/p007495.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-10-24",
+    "updater": "瑞穂町"
+  },
+  "procedureCounter": "瑞穂町 福祉部 子育て応援課 保育・幼稚園係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": null,
+      "uri": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.town.mizuho.tokyo.jp/kosodate/004/002/p007495_d/fil/shinnseisyoseikyuusyo.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "瑞穂町では、一定の要件を満たしている世帯を対象に、保育所等で提供される給食等にかかる食材料費の一部（副食費）を免除しています。",
+  "support": {
+    "description": "給食費（副食材料費（おかず代）相当額に限る。）",
+    "materiallySupport": null,
+    "monetarySupport": "上限：月額4,800円\n※補助基準額と給食費（副食材料費（おかず代）相当額）を比べ少ない額を交付します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "(1)瑞穂町内に在住の方（瑞穂町に住所があった期間が対象になります。）\n（例）6月15日に瑞穂町を転出した場合\n補助対象期間は、4月、5月、6月の3か月間です。\n(2)新制度移行前の幼稚園を利用している方\n(3)満3歳以上の方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次の(1)、(2)および(3)の要件を満たし、(4)から(7)のいずれかに該当する方\n\n(1)瑞穂町内に在住の方（瑞穂町に住所があった期間が対象になります。）\n（例）6月15日に瑞穂町を転出した場合\n補助対象期間は、4月、5月、6月の3か月間です。\n(2)新制度移行前の幼稚園を利用している方\n(3)満3歳以上の方\n(4)生活保護世帯の方\n(5)中国残留邦人等および特定配偶者の自立の支援に関する法律による支援給付受給世帯の方\n(6)区市町村民税所得割が77,101円未満の世帯の方\n(7)所得に関わらず、補助対象園児に小学校3年生以下の兄・姉が2人以上いる方"
+  },
+  "updateDate": "2024-06-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

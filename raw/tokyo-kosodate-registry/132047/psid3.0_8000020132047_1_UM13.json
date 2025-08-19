@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132047;三鷹市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども政策部 子ども家庭課 母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132047",
+    "psid": "psid3.0+8000020132047+1+UM13"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三鷹市新川六丁目37番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども政策部 子ども家庭課 母子保健係",
+    "contactPhone": "0422-46-3254",
+    "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+    "zipCode": "1810004"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "三鷹市総合保健センターでは、赤ちゃんが生まれた全てのご家庭を助産師・保健師が訪問します\n赤ちゃんがお生まれになったら、速やかに出生連絡票に入力してください。出生届や出生連絡票をもとにご連絡いたします。\n\nお受けいただいたご家庭にすこやかギフト（子育て支援サービスや育児用品などに交換ができるポイント10万円相当）をお渡しします。\n\n注意事項\n・早めの訪問をご希望のかたはお電話ください。\n・市外にお引越しされたかたはご利用になれません。\n対象\n市内在住の生後90日以内までの乳児がいるすべての家庭\n\n実施期間\n出生後90日以内\n\n訪問の流れについて\n出生届や母子健康手帳に閉じ込まれている「出生連絡票」に入力いただき、それをもとに生後15日以降にお電話いたします。\n連絡がない場合やご転入のかたは、お問い合わせください。\n\n出生連絡票\n母子健康手帳に閉じこまれている「出生連絡票」に入力ください。\n\n三鷹市外の母子健康手帳をお持ちのかたは、出生連絡票入力フォーム（外部リンク）;https://logoform.jp/form/ejBZ/371222から入力ください。\n\nその他\n以下のかたは、総合保健センターにご連絡ください。\n\n・市民のかたで他の市町村での訪問を希望されるかた\n・三鷹市に里帰りされているかたで、滞在中に訪問を希望されるかた\nお問い合わせ先\n三鷹市総合保健センター\n\n電話　0422-46-3254",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "出生連絡票入力フォーム（外部リンク）",
+      "uri": "https://logoform.jp/form/ejBZ/371222"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "出生後90日以内",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "新生児訪問",
+    "shortName": "新生児訪問"
+  },
+  "localGovernmentLink": {
+    "title": "新生児訪問のご案内",
+    "uri": "https://www.city.mitaka.lg.jp/c_service/001/001050.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "三鷹市"
+  },
+  "procedureCounter": "三鷹市総合保健センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "赤ちゃんがお生まれになったら、速やかに出生連絡票に入力してください。出生届や出生連絡票をもとにご連絡いたします。\n\nお受けいただいたご家庭にすこやかギフト（子育て支援サービスや育児用品などに交換ができるポイント10万円相当）をお渡しします。\n\n注意事項\n・早めの訪問をご希望のかたはお電話ください。\n・市外にお引越しされたかたはご利用になれません。\n対象\n市内在住の生後90日以内までの乳児がいるすべての家庭\n\n実施期間\n出生後90日以内\n\n訪問の流れについて\n出生届や母子健康手帳に閉じ込まれている「出生連絡票」に入力いただき、それをもとに生後15日以降にお電話いたします。\n連絡がない場合やご転入のかたは、お問い合わせください。\n\n出生連絡票\n母子健康手帳に閉じこまれている「出生連絡票」に入力ください。\n\n三鷹市外の母子健康手帳をお持ちのかたは、出生連絡票入力フォーム（外部リンク）;https://logoform.jp/form/ejBZ/371222から入力ください。\n\nその他\n以下のかたは、総合保健センターにご連絡ください。\n\n・市民のかたで他の市町村での訪問を希望されるかた\n・三鷹市に里帰りされているかたで、滞在中に訪問を希望されるかた\nお問い合わせ先\n三鷹市総合保健センター\n\n電話　0422-46-3254",
+  "procedurePeriod": {
+    "conditions": "出生後90日以内",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "市内在住の生後90日以内までの乳児がいるすべての家庭",
+  "regulation": {
+    "regulationArticle": "第11条（新生児の訪問指導）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "新生児を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、健康や育児に関する相談などを行います。",
+  "support": {
+    "description": "お受けいただいたご家庭にすこやかギフト（子育て支援サービスや育児用品などに交換ができるポイント10万円相当）をお渡しします。",
+    "materiallySupport": null,
+    "monetarySupport": "お受けいただいたご家庭にすこやかギフト（子育て支援サービスや育児用品などに交換ができるポイント10万円相当）をお渡しします。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "出生後90日以内",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 3
+    },
+    "targetPersons": "市内在住の生後90日以内までの乳児がいるすべての家庭"
+  },
+  "updateDate": "2024-03-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

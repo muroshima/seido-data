@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "134015;八丈町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉健康課厚生係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020134015",
+    "psid": "psid3.0+3000020134015+2+UM23"
+  },
+  "belongings": "・申請者(養育者)及び対象児童の健康保険証の写し\n\n※ 申請者が八丈町の国民健康保険に加入されている場合は公簿確認のため省略できます\n\n・申請者(請求する方)および配偶者の個人番号（マイナンバー）がわかるもの",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都八丈島八丈町大賀郷2551番地東京都八丈島八丈町大賀郷2551番地2",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉健康課厚生係",
+    "contactPhone": "04996-2-5570",
+    "contactUrl": null,
+    "zipCode": "1001498"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "乳幼児・義務教育就学児医療費制度のご案内\n中学校修了前までの児童が健康保険証を使って、医療機関で診療を受けた場合、窓口で負担する医療費の自己負担分を助成する制度です\n\n証交付の対象者\n八丈町にお住まいの中学校修了前(15歳の誕生日を迎えた最初の3月31日まで)の児童を、養育している方で、日本の医療保険制度に加入されていることが対象です\n\n対象にならない場合\n・健康保険に加入していない場合\n\n・児童福祉施設などに入所していて医療助成を受けることが出来る場合\n\n・児童が里親に委託されている場合\n\n・生活保護を受けている場合\n\n医療証について\n・申請を受けて対象の方には、医療証を発行します\n\n1.乳幼児医療証(マル乳)\n未就学児(6歳の誕生日を迎えた最初の3月31日まで)\n\n2.義務教育就学児医療証(マル子)\n小中学生(15歳の誕生日を迎えた最初の3月31日まで)\n\n※ 医療証の有効期間は毎年9月30日までとし(上記6歳または15歳到達者除く)、10月の更新時には現況届の提出が必要です（必要な方のみ）\nまた、マル乳からマル子への医療証の切り替えの手続きは必要ありません\n対象者には、3月末にマル子医療証を送付します\n\n取扱医療機関\n東京都内の契約医療機関以外で診療を受けた場合は、医療費助成申請が必要になります\n\n申請に必要なもの\n・乳幼児・義務教育就学児医療費助成制度医療証交付申請書\n\n・申請者(養育者)及び対象児童の健康保険証の写し\n\n※ 申請者が八丈町の国民健康保険に加入されている場合は公簿確認のため省略できます\n\n・申請者(請求する方)および配偶者の個人番号（マイナンバー）がわかるもの\n\n変更届\n保険証や住所など、申請事項に変更が生じた時は届出が必要です\n\n出生・転入された方\n厚生係で交付申請の手続きが必要です\n申請日より有効の証を交付します\n出生・転入日の翌日から15日以内に申請があった場合は、出生・転入日より有効の証を交付します\n\n転出される方\n資格消滅届が必要です\n\nまた転入先の区市町村で新たに申請が必要です\n\n必要書類等は、転入先にお問い合わせください\n\n★マル障・マル親・マル乳・マル子医療証の受給者証は、重複して交付しません\n\n★学校や保育園で起きた事故やけがは、日本スポーツ振興センターによる給付になりますので、学校等にお問い含わせください",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児医療費（子ども医療費）の助成",
+    "shortName": "乳幼児・義務教育就学児医療費制度（マル子）"
+  },
+  "localGovernmentLink": {
+    "title": "乳幼児・義務教育就学児医療費制度のご案内",
+    "uri": "https://www.town.hachijo.tokyo.jp/kakuka/kenkou/kenko_iryohi_n.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-13",
+    "updater": "八丈町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第1～12条",
+    "regulationName": "八丈町義務教育就学児の医療費の助成に関する条例"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子どもの保健対策を充実し、子育て世帯の経済的負担を軽減するため、お子さんが病気やけがなどにより健康保険を使って医療機関で受診した場合、保険診療の自己負担分（3割）を助成しています。",
+  "support": {
+    "description": "医療証について\n・申請を受けて対象の方には、医療証を発行します\n\n1.乳幼児医療証(マル乳)\n未就学児(6歳の誕生日を迎えた最初の3月31日まで)\n\n2.義務教育就学児医療証(マル子)\n小中学生(15歳の誕生日を迎えた最初の3月31日まで)\n\n※ 医療証の有効期間は毎年9月30日までとし(上記6歳または15歳到達者除く)、10月の更新時には現況届の提出が必要です（必要な方のみ）\nまた、マル乳からマル子への医療証の切り替えの手続きは必要ありません\n対象者には、3月末にマル子医療証を送付します\n\n取扱医療機関\n東京都内の契約医療機関以外で診療を受けた場合は、医療費助成申請が必要になります",
+    "materiallySupport": "医療証について\n・申請を受けて対象の方には、医療証を発行します\n\n1.乳幼児医療証(マル乳)\n未就学児(6歳の誕生日を迎えた最初の3月31日まで)\n\n2.義務教育就学児医療証(マル子)\n小中学生(15歳の誕生日を迎えた最初の3月31日まで)\n\n※ 医療証の有効期間は毎年9月30日までとし(上記6歳または15歳到達者除く)、10月の更新時には現況届の提出が必要です（必要な方のみ）\nまた、マル乳からマル子への医療証の切り替えの手続きは必要ありません\n対象者には、3月末にマル子医療証を送付します\n\n取扱医療機関\n東京都内の契約医療機関以外で診療を受けた場合は、医療費助成申請が必要になります",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "小中学生(15歳の誕生日を迎えた最初の3月31日まで)",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "八丈町にお住まいの中学校修了前(15歳の誕生日を迎えた最初の3月31日まで)の児童を、養育している方で、日本の医療保険制度に加入されていることが対象です\n\n対象にならない場合\n・健康保険に加入していない場合\n\n・児童福祉施設などに入所していて医療助成を受けることが出来る場合\n\n・児童が里親に委託されている場合\n\n・生活保護を受けている場合"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

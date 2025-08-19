@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "132195;狛江市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉保健部　高齢障がい課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132195",
+    "psid": "psid3.0+8000020132195+1+UM824"
+  },
+  "belongings": "1.申請書\n⇒申請時に窓口でご記入いただきます。\n（複写式のため、ホームページ等からダウンロードはできません。）\n2.診断書\n⇒東京都の専用様式「自立支援医療診断書（精神通院）」に記載\n3.加入している医療保険の資格情報が確認できるもの（ご加入の保険により必要な方の範囲が異なります。）\n以下のいずれかをご持参ください。\n①使用可能な健康保険証のコピー\n②加入している医療保険の保険者から交付された「資格確認書」\n③加入している医療保険の保険者から交付された「資格情報のお知らせ」\n④マイナポータルの資格情報の画面やダウンロードしたPDFデータを印字したもの\n1.マイナンバーに係る確認書類\n⇒個人番号カード、個人番号の通知カード、個人番号の記載された住民票など\n2.現在お持ちの「自立支援医療受給者証（精神通院）」\n⇒新規申請の方は不要\n（注１）申請時に住民登録地が狛江市以外の方、保険証の被保険者の住民登録地が狛江市以外の方は、住民税の情報取得に数日かかる場合があります。予めご了承ください。\n（注２）住民税の申告が必要な方で未申告の場合は、事前に申告が必要です。\n（注３）申請する年（１月から６月まではその前の年）の１月１日時点の住民登録地が狛江市以外の方は、世帯調書の記入が必要です。世帯調書には、ご家族のマイナンバーが必要となる場合があります。\n（注４）令和２年５月２２日以降に改姓や転居をした方は、個人番号確認のために通知カードはご利用になれません。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "狛江市和泉本町一丁目1番5号",
+    "contactComment": "電話番号　障がい者支援係：03-3430-1249 　高齢者支援係：03-3430-1251 　介護保険係：03-3430-1262",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉保健部　高齢障がい課",
+    "contactPhone": "03-3430-1249,03-3430-1251,03-3430-1262",
+    "contactUrl": null,
+    "zipCode": "2018585"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "精神疾患を理由として通院している方の医療費を助成する制度です（精神通院のみ、入院は除く）。\n認定されると、指定医療機関、薬局、訪問看護ステーションにおける自己負担が、原則1割に軽減されます。\nさらに、病状や本人の収入・世帯の所得状況に応じ、月額自己負担上限額（0円～20,000円）が設定されます。\n認定期間は1年で、毎年更新が必要です。\n(注）継続（更新）申請は、有効期限の3か月前（例：有効期限が4月末の場合は、2月1日）から手続きできます。お早めに手続きしてください。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "高齢障がい課お問い合わせフォーム ",
+      "uri": "https://www.city.komae.tokyo.jp/index.cfm/4"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度（精神通院医療）",
+    "shortName": "自立支援医療（精神通院医療）"
+  },
+  "localGovernmentLink": {
+    "title": "自立支援医療（精神通院医療）",
+    "uri": "https://www.city.komae.tokyo.jp/index.cfm/44,6699,339,html#:~:text=%E7%B2%BE%E7%A5%9E%E7%96%BE%E6%82%A3%E3%82%92%E7%90%86%E7%94%B1%E3%81%A8%E3%81%97%E3%81%A6,%E5%86%86%EF%BC%89%E3%81%8C%E8%A8%AD%E5%AE%9A%E3%81%95%E3%82%8C%E3%81%BE%E3%81%99%E3%80%82"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025-02-27",
+    "updater": "狛江市"
+  },
+  "procedureCounter": "狛江市　高齢障がい課障がい者支援係　",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "必要書類を揃えて、窓口で申請してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [
+    {
+      "title": "東京都立中部総合精神保健福祉センター「【都民の皆様へ】自立支援医療（精神通院医療）の申請手続き」（外部サイト）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/shisetsu/jigyosyo/chusou/jiritsushieniryo/jiritsu_tomin"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024/11/25",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

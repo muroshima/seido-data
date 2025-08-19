@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部健康サービス課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM13"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部健康サービス課",
+    "contactPhone": "03-5661-2466",
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "新生児訪問は、乳児健康診査までの赤ちゃんのご自宅へ助産師や保健師がお伺いし、赤ちゃんの成長や保育、お母さんの体調、育児に関する悩みや不安などについてのご相談を無料でお受けしています。\n\n対象者\n出生届を提出し、生後4か月を迎えるまでの赤ちゃんがいるご家庭\n\n申請方法\n江戸川区のご自宅へ訪問を希望されている方\n次の（1）（2）のいずれかの方法でご申請ください。内容に不備等があった場合は母子保健係からご連絡します。\n\n（1）子育て応援アプリ　ぴよナビえどがわ\n下記の「新生児訪問電子申請スタート！」のマークをクリックしてください。申請フォームに移ります。\n入力には「母子健康手帳交付日」「母子健康手帳番号」「お母さんの認証番号」が必要です。\n\n「お母さんの認証番号」について\n江戸川区で「親子健康手帳（母子健康手帳）」を交付された方は所定の場所に「お母さんの認証番号」がシール貼付されております。\n江戸川区以外で母子健康手帳を交付された方や、双子など多胎児の方は、電子申請サービス（江戸川区のご自宅への訪問希望者用）からお申し込みください。\n\nその他ご不明点は母子保健係（電話：03-5661-2466）へお問い合わせください。\n「子育て応援アプリぴよナビえどがわ;https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/piyonabi.html」のダウンロードと登録が必要です。「子育て応援アプリ　ぴよナビえどがわ」は育児に関する様々な情報や、江戸川区からのお知らせをプッシュ通知で受け取ることができます。ぜひご登録ください。\n\n （2）電子申請サービス\n下記の「新生児訪問の申請（江戸川区のご自宅へ訪問を希望されている方）」をクリックしてください。申請フォームに移ります。\n新生児訪問の申請（江戸川区のご自宅へ訪問を希望されている方）",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "新生児訪問電子申請スタート！",
+      "uri": "https://www.mchh.jp/login?utm_campaign=edogawa_hp&utm_medium=hp&utm_source=edogawa&efr=1"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "新生児訪問",
+    "shortName": "新生児訪問"
+  },
+  "localGovernmentLink": {
+    "title": "新生児訪問",
+    "uri": "https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kodomo/homon.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "健康サービス課母子保健係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請方法\n次の（1）（2）のいずれかの方法でご申請ください。内容に不備等があった場合は母子保健係からご連絡します。\n\n（1）子育て応援アプリ　ぴよナビえどがわ （2）電子申請サービス",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第11条（新生児の訪問指導）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "子育て応援アプリぴよナビえどがわ",
+      "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/piyonabi.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "新生児を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、健康や育児に関する相談などを行います。新生児訪問は、乳児健康診査までの赤ちゃんのご自宅へ助産師や保健師がお伺いし、赤ちゃんの成長や保育、お母さんの体調、育児に関する悩みや不安などについてのご相談を無料でお受けしています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "出生届を提出し、生後4か月を迎えるまでの赤ちゃんがいるご家庭",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": 4
+    },
+    "targetPersons": "出生届を提出し、生後4か月を迎えるまでの赤ちゃんがいるご家庭"
+  },
+  "updateDate": "2024-02-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

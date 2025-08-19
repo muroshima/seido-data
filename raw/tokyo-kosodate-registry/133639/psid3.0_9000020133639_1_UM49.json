@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "133639;新島村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "新島村さわやか健康センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020133639",
+    "psid": "psid3.0+9000020133639+1+UM49"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都新島村本村3丁目12番8号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "新島村さわやか健康センター",
+    "contactPhone": "04992-5-1856",
+    "contactUrl": null,
+    "zipCode": "1000402"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "乳幼児健診（3～4か月・6か月・9か月・1歳6か月・3歳）\nホーム > 施設案内 > 保健センター・診療所等 > さわやか健康センター > 母子保健サービス > 乳幼児健診（3～4か月・6か月・9か月・1歳6か月・3歳）\n\n|地  区|と　き|ところ|対象者|\n|:----|:----|:----|:----|\n|新  島|月1回<br>13時30分～|さわやか健康センター|ご案内を郵送します。|\n|式根島|月1回<br>13時～|式根島開発総合センター|^|\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "月1回",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "新  島　さわやか健康センター\n式根島　式根島開発総合センター"
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児健康診査（6か月未満児）",
+    "shortName": "乳幼児健診（3～4か月・6か月・9か月・1歳6か月・3歳）"
+  },
+  "localGovernmentLink": {
+    "title": "乳幼児健診（3～4か月・6か月・9か月・1歳6か月・3歳）",
+    "uri": "https://www.niijima.com/facility/health-center_clinic/sawayakakenkou-center/boshihoken-service/2024-0611-1503-111nyuuyoujikensin.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "新島村"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "ご案内を郵送します。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "|地  区|と　き|ところ|対象者|\n|:----|:----|:----|:----|\n|新  島|月1回<br>13時30分～|さわやか健康センター|ご案内を郵送します。|\n|式根島|月1回<br>13時～|式根島開発総合センター|^|\n",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "ご案内を郵送します。"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

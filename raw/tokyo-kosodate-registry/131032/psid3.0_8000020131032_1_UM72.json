@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "各地区総合支所区民課保健福祉係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+1+UM72"
+  },
+  "belongings": "別居児童の住民票（本籍・筆頭者の確認ができるもの）,生計を一にしていることが分かる書類（常に生活費・学資金、療養費等を振り込んだ内容が記載された通帳の写し等）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "港区民で、保護者と生計を一にする子（小学生等を含む）を対象に年齢の高い順に数えて2番目以降の子の保育料は無料です。延長保育料はかかります。\n\n（手続き）\n\n対象者は区で確認を行うため、原則、手続きは不要ですが、異なる住所に居住する生計を一にする子（在園児童の兄、姉）がいるご家庭は、以下の書類を各地区総合支所区民課保健福祉係に提出してください。\n\n（1）申出書（PDF：192KB）;https://www.city.minato.tokyo.jp/library_documents/moushidesho.pdf\n\n（2）別居児童の住民票（本籍・筆頭者の確認ができるもの）\n\n（3）生計を一にしていることが分かる書類（常に生活費・学資金、療養費等を振り込んだ内容が記載された通帳の写し等）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "多子世帯・ひとり親世帯・在宅障がい児（者）のいる世帯の保育料軽減",
+    "shortName": "多子世帯の保育料負担の軽減"
+  },
+  "localGovernmentLink": {
+    "title": "保育料・給食費",
+    "uri": "https://www.city.minato.tokyo.jp/kodomo/kodomo/kodomo/hoikuen/27hoikuryo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "港区"
+  },
+  "procedureCounter": "各地区総合支所区民課保健福祉係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "港区民で、保護者と生計を一にする子（小学生等を含む）を対象に年齢の高い順に数えて2番目以降の子の保育料は無料です。延長保育料はかかります。\n\n（手続き）\n\n対象者は区で確認を行うため、原則、手続きは不要ですが、異なる住所に居住する生計を一にする子（在園児童の兄、姉）がいるご家庭は、以下の書類を各地区総合支所区民課保健福祉係に提出してください。\n\n（1）申出書（PDF：192KB）;https://www.city.minato.tokyo.jp/library_documents/moushidesho.pdf\n\n（2）別居児童の住民票（本籍・筆頭者の確認ができるもの）\n\n（3）生計を一にしていることが分かる書類（常に生活費・学資金、療養費等を振り込んだ内容が記載された通帳の写し等）",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第4条(基本保育料の額の決定)",
+    "regulationName": "港区保育の実施に関する条例"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子ども・子育て支援新制度による給付を受ける幼稚園や保育園などを利用するお子さんのうち、多子世帯やひとり親世帯、在宅障がい児（障がい者）のいる世帯などの保育料を軽減しています。",
+  "support": {
+    "description": "保育料は無料です。延長保育料はかかります。",
+    "materiallySupport": null,
+    "monetarySupport": "保育料は無料です。延長保育料はかかります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区民で、保護者と生計を一にする子（小学生等を含む）を対象に年齢の高い順に数えて2番目以降の子"
+  },
+  "updateDate": "2023-09-15",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

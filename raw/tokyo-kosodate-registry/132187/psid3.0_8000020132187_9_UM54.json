@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "132187;福生市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉保健部　健康課　健康管理係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132187",
+    "psid": "psid3.0+8000020132187+9+UM54"
+  },
+  "belongings": "保険証、母子健康手帳、予診票（対象の方に市から送付します）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "福生市福生2125-3（福生市保健センター）",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉保健部　健康課　健康管理係",
+    "contactPhone": "042-552-0061",
+    "contactUrl": null,
+    "zipCode": "1970011"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "二種混合ワクチン【ジフテリア、破傷風】の接種についてお知らせします。\n\n二種混合の予防接種は、乳幼児の頃に接種した三種混合ワクチン（ジフテリア、百日せき、破傷風）のうち、ジフテリアと破傷風の免疫強化を目的に行うもので、11歳から13歳未満の間に1回接種をすることとなっております。受け忘れのないよう、お早めに接種をお受けください。\n\n対象者\n接種日当日に福生市に住所を有する、11歳から13歳未満の方\n\n接種方法\n市内指定医療機関で保護者同伴の上、接種をお受けください。\n（注意）接種を受ける前に、以下の注意事項をお読みになり、接種してください。\n※指定医療機関については下部リンク「個別に受ける定期予防接種の概要」内の「個別予防接種について（指定医療機関一覧）」をご参照ください。\n\n二種混合ワクチン接種の注意事項 （PDF 251.3KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/004/360/dtexplanation.pdf\n接種当日用意するもの\n保険証、母子健康手帳、予診票（対象の方に市から送付します）\n\n接種回数\n1回の接種で完了です。\n\n関連情報\n個別に受ける定期予防接種の概要;https://www.city.fussa.tokyo.jp/life/child/health/1002495.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "11歳から13歳未満の間に1回接種",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "二種混合ワクチン接種"
+  },
+  "localGovernmentLink": {
+    "title": "二種混合ワクチン接種について",
+    "uri": "https://www.city.fussa.tokyo.jp/life/child/health/1004360.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "福生市"
+  },
+  "procedureCounter": "市内指定医療機関",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "接種方法\n市内指定医療機関で保護者同伴の上、接種をお受けください。\n（注意）接種を受ける前に、以下の注意事項をお読みになり、接種してください。\n※指定医療機関については下部リンク「個別に受ける定期予防接種の概要」内の「個別予防接種について（指定医療機関一覧）」をご参照ください。\n\n二種混合ワクチン接種の注意事項 （PDF 251.3KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/004/360/dtexplanation.pdf\n接種当日用意するもの\n保険証、母子健康手帳、予診票（対象の方に市から送付します）\n\n接種回数\n1回の接種で完了です。\n\n関連情報\n個別に受ける定期予防接種の概要;https://www.city.fussa.tokyo.jp/life/child/health/1002495.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "保護者同伴",
+  "regulation": {
+    "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）",
+    "regulationName": "予防接種法"
+  },
+  "relatedLink": [
+    {
+      "title": "個別に受ける定期予防接種の概要",
+      "uri": "https://www.city.fussa.tokyo.jp/life/child/health/1002495.html"
+    },
+    {
+      "title": "二種混合ワクチン接種の注意事項 （PDF 251.3KB）",
+      "uri": "https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/004/360/dtexplanation.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "接種日当日に福生市に住所を有する、11歳から13歳未満の方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 11,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 13,
+      "targetAgeOfMonths": 0
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "接種日当日に福生市に住所を有する、11歳から13歳未満の方"
+  },
+  "updateDate": "2020-04-03",
+  "useConsiderationFlag": false,
+  "utilization": "予診票（対象の方に市から送付します）",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

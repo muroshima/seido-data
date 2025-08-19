@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "131041;新宿区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 保育課 入園・認定係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020131041",
+    "psid": "psid3.0+7000020131041+1+UM75"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：03-3209-2795",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 保育課 入園・認定係",
+    "contactPhone": "03-5273-4527",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "障害児訪問保育アニー\nお子さんの障害・疾患等で、個別のケアが必要となり、集団保育が著しく困難であるお子さんを保護者の自宅で1対1で保育を行う事業です（集団保育が著しく困難かどうかについては、新宿区が実施する入園及び保育環境検討会により判断します。）。\n新宿区では、平成27年4月1日から認定NPO法人フローレンスが障害児訪問保育アニーを開始しました。\n保育の提供時間は、月曜日から金曜日（祝日、年末年始等を除く）、8：00~18：00（最長で8時間の利用）です。\n主に1歳から未就学児（0歳は要相談）のお子さんが対象となります。\n詳しくは、入園・認定係までお問い合わせください。\n新宿区 保育園・子ども園（保育園機能）・地域型保育事業 入園（転園）申込みのご案内;https://www.city.shinjuku.lg.jp/kodomo/hoiku01_002099_00001.html\n新宿区の障害児保育のご案内;https://www.city.shinjuku.lg.jp/kodomo/file04_07_00022.html\n申請書のダウンロード;https://www.city.shinjuku.lg.jp/kodomo/file18_00002.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "祝日、年末年始等",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "地域型保育（小規模保育・家庭的保育（保育ママ）・事業所内保育・居宅訪問型保育）の利用について",
+    "shortName": "居宅訪問型保育（障害児訪問保育アニー）"
+  },
+  "localGovernmentLink": {
+    "title": "居宅訪問型保育のご案内",
+    "uri": "https://www.city.shinjuku.lg.jp/kodomo/hoiku01_002033.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "新宿区"
+  },
+  "procedureCounter": "入園・認定係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第20条、第29条、第30条",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "しんじゅく保育施設ガイド",
+      "uri": "https://www.city.shinjuku.lg.jp/kodomo/hoiku01_002081.html"
+    },
+    {
+      "title": "新宿区 保育園・子ども園（保育園機能）・地域型保育事業 入園（転園）申込みのご案内",
+      "uri": "https://www.city.shinjuku.lg.jp/kodomo/hoiku01_002099_00001.html"
+    },
+    {
+      "title": "新宿区の障害児保育のご案内",
+      "uri": "https://www.city.shinjuku.lg.jp/kodomo/file04_07_00022.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "「地域型保育」事業は、平成27年度施行の「子ども・子育て支援新制度」による、市区町村の認可事業です。保育の必要な3歳未満の子どもを対象とした「小規模保育」「家庭的保育（保育ママ）」「事業所内保育」「居宅訪問型保育」の4種類があり、市区町村ごとに地域の保育ニーズに合わせたサービスを実施することになっています。新宿区には現在、下記の保育サービスがあり、利用には保育の必要性の認定を受ける必要があります。",
+  "support": {
+    "description": "お子さんの障害・疾患等で、個別のケアが必要となり、集団保育が著しく困難であるお子さんを保護者の自宅で1対1で保育を行う",
+    "materiallySupport": "お子さんの障害・疾患等で、個別のケアが必要となり、集団保育が著しく困難であるお子さんを保護者の自宅で1対1で保育を行う",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "1歳から未就学児（0歳は要相談）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "1歳から未就学児（0歳は要相談）のお子さん"
+  },
+  "updateDate": "2021-11-29",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "保育の提供時間は、月曜日から金曜日（祝日、年末年始等を除く）、8：00~18：00（最長で8時間の利用）",
+    "fromHM": "08:00",
+    "toHM": "18:00"
+  }
+}

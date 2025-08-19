@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康推進課管理・事業グループ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+4+UM47"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康推進課管理・事業グループ",
+    "contactPhone": "03-3987-4173",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊娠と薬情報センター\n厚生労働省事業「妊娠と薬情報センター」は、妊娠・授乳中の服薬に関する情報機関です。\n専門の医師・薬剤師が、ご相談に応じます。\n\n詳しくは、独立行政法人国立成育医療研究センターのホームページをご覧ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "豊島区の妊娠・出産に関する相談",
+    "shortName": "妊娠と薬情報センター"
+  },
+  "localGovernmentLink": {
+    "title": "妊娠・授乳中の服薬について「妊娠と薬情報センター」",
+    "uri": "https://www.city.toshima.lg.jp/219/kosodate/ninshin/shussanmade/033844.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "独立行政法人国立成育医療研究センター「厚生労働省事業『妊娠と薬情報センター』」",
+      "uri": "https://www.ncchd.go.jp/kusuri/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "厚生労働省事業「妊娠と薬情報センター」は、妊娠・授乳中の服薬に関する情報機関です。\n専門の医師・薬剤師が、ご相談に応じます。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "082"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2015-07-08",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

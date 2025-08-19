@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "みなと保健所健康推進課地域保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+1+UM14"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都港区三田1丁目4番10号",
+    "contactComment": "FAX：03-3455-4539",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "みなと保健所健康推進課地域保健係",
+    "contactPhone": "03-6400-0084",
+    "contactUrl": null,
+    "zipCode": "1080073"
+  },
+  "cost": "無料",
+  "costConditions": null,
+  "description": "出産後早い時期は、お母さん自身の体調も整わないことが多く、赤ちゃんとの生活にも慣れず不安になりやすい時期です。\n港区では赤ちゃんが生まれたすべてのご家庭に、助産師・保健師が訪問しています。1人で不安を抱え込まずに、ぜひご利用ください。\nみなと保健所では感染防止対策を実施し、母子保健事業を運営しています。\n事業の変更に関しては随時ホームページに掲載しますので、参加する前にご確認ください。\n出産・子育て応援給付金についてはこちら;https://www.city.minato.tokyo.jp/chiikihoken/kodomo/syusankosodate.html\n助産師による相談窓口\nお子さんやお母さん自身の体調、育児などについて、助産師・保健師が電話や面接で相談に応じております。ご心配なことがございましたら遠慮なくご連絡ください。\n・助産師による相談窓口;https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/midwife.html\nみなと保健所では、保護者様からお送りいただいた『出生通知書』にもとづいて、『こんにちは赤ちゃん訪問』を行っています。\n生後4ヵ月以内のお子さんのいる家庭を対象に、助産師または保健師がご自宅に訪問します。\n・第2子以降の人もご利用いただけます。\n・里帰り等により、港区以外で訪問を希望される場合は、滞在先の自治体へお問い合わせください。滞在先の自治体から依頼文等が必要と言われた場合は、お手数ですが下記へご連絡ください。\n・滞在先で訪問を利用された人も、港区で再度『こんにちは赤ちゃん訪問』を受けることができます。\n・児童福祉法に基づく全戸訪問事業のため、出生通知書が届かない場合は、港区からご連絡させていただく場合があります。\n感染症予防対策について\n安全に事業を行うため下記の点についてご協力をお願いいたします。\n1（1）～（2）に該当する場合は来所をご遠慮いただいております。\n（1）37.5以上の発熱や咳、鼻汁、下痢などの症状がある\n（2）ご家族に感染の疑いある\n2 訪問する助産師や保健師はマスクを着用し伺います。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+    "shortName": "こんにちは赤ちゃん訪問"
+  },
+  "localGovernmentLink": {
+    "title": "こんにちは赤ちゃん訪問",
+    "uri": "https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/1saimiman/homon.html#mousikomi"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025-02-28",
+    "updater": "港区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "『出生通知書』（はがき）にプライバシー保護シールを貼り、保健所へ郵送してください。\n※『出生通知書』は港区で発行した母子健康手帳にとじこんであります。転入等により、お手元にない場合はお電話で申し込みください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第21条の10の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "助産師による相談窓口（電話・面接）",
+      "uri": "https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/midwife.html"
+    },
+    {
+      "title": "母子保健サービス一覧",
+      "uri": " https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/kodomonokensin.html"
+    },
+    {
+      "title": "ママの健康相談（訪問）",
+      "uri": "https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/1saimiman/shinmai.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "生後4か月を迎えるまでの乳児がいるご家庭には専門職のほか、研修を受けたスタッフが訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+  "support": {
+    "description": "内容\n1.赤ちゃんの体重測定や育児のご相談\n2.産後の体調についてのご相談\n3.母子保健サービスのご紹介など\n方法\n助産師（委託助産師）または保健師（各地区総合支所）による家庭訪問",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "※120日を超える場合は、『ママの健康相談』;https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/1saimiman/shinmai.html事業（出産後1年以内、3回まで無料）として訪問いたします。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "概ね生後120日以内のお子さんのいる家庭"
+  },
+  "updateDate": "2023/05/25",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

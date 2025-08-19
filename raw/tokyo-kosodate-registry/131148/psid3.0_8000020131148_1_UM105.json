@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131148;中野区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局子ども・教育政策課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131148",
+    "psid": "psid3.0+8000020131148+1+UM105"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "教育委員会事務局　子ども・教育政策課",
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ブックスタート（赤ちゃんに絵本をプレゼント）のおしらせ\nブックスタートとは、絵本を開く新しい「体験」を赤ちゃんに提供する活動のことです。\n令和2年6月1日以降に生まれた区内在住の赤ちゃんを対象に、絵本2冊が入ったブックスタート・パックを無料で配布しています。対象児が1歳になる誕生日の前日までに受け取りください。\n各図書館のカウンターやブックスタートおはなし会などで受け取れます。詳しくは、3～4か月児健康診査の案内と一緒に送付するブックスタート事業のチラシをご覧いただくか、区立図書館ホームページをご覧ください。\n来館が難しい場合は、中央図書館（03-5340-5070）までご相談ください。\n事業の開催日などはこちらをご覧ください。;https://library.city.tokyo-nakano.lg.jp/news/?id=165\n事業の様子等はこちらをご覧ください。（外部サイト）;https://library.city.tokyo-nakano.lg.jp/news/?id=165\n\n関連情報\n・中野区立図書館ホームページ（外部サイト）;https://library.city.tokyo-nakano.lg.jp/",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "図書館の児童サービス（ブックスタートなど）",
+    "shortName": "ブックスタート（赤ちゃんに絵本をプレゼント）"
+  },
+  "localGovernmentLink": {
+    "title": "ブックスタート（赤ちゃんに絵本をプレゼント）のおしらせ",
+    "uri": "https://www.city.tokyo-nakano.lg.jp/kosodate/kyoikuiinkai/shisetsu/library/bookstart2.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "中野区"
+  },
+  "procedureCounter": "各図書館のカウンターやブックスタートおはなし会などで受け取れます。",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "各図書館のカウンターやブックスタートおはなし会などで受け取れます。詳しくは、3～4か月児健康診査の案内と一緒に送付するブックスタート事業のチラシをご覧いただくか、区立図書館ホームページ;https://library.city.tokyo-nakano.lg.jp/をご覧ください。\n来館が難しい場合は、中央図書館（03-5340-5070）までご相談ください。\n事業の開催日などはこちらをご覧ください。\n事業の様子等はこちらをご覧ください。（外部サイト）;https://library.city.tokyo-nakano.lg.jp/news/?id=165",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "中野区立図書館ホームページ（外部サイト）",
+      "uri": "https://library.city.tokyo-nakano.lg.jp/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ブックスタートとは、赤ちゃんとその保護者に絵本をプレゼントし、絵本を開く楽しい体験とともに、心ふれあうきっかけをつくる活動です。",
+  "support": {
+    "description": "絵本2冊が入ったブックスタート・パックを無料で配布",
+    "materiallySupport": "絵本2冊が入ったブックスタート・パックを無料で配布",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "対象児が1歳になる誕生日の前日までに受け取りください。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "令和2年6月1日以降に生まれた区内在住の赤ちゃん"
+  },
+  "updateDate": "2023-10-15",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

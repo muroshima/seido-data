@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健福祉部生活支援課生活支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+1+UM60"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区九段南1-2-1",
+    "contactComment": null,
+    "contactEmail": "seikatsushien@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "保健福祉部生活支援課生活支援係",
+    "contactPhone": "03-5211-4126",
+    "contactUrl": null,
+    "zipCode": "1028688"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "就職に有利な国家資格等の取得のため、1年以上養成機関で修業する場合、生活費の負担軽減を図り、資格取得を容易にするため、「高等職業訓練促進給付金」（訓練促進給付金）を支給する制度です。また、養成機関での修業修了後には、「高等職業訓練修了支援給付金」（修了支援給付金）を支給します。\n\n対象となる資格\n看護師・准看護師・介護福祉士・保育士・理学療法士・作業療法士・保健師・助産師・理容師・美容師・歯科衛生士・社会福祉士・製菓衛生師・調理師、シスコシステムズ認定資格、LPI認定資格など\n\n（注意） シスコシステムズ認定資格、LPI認定資格については修業期間6か月以上。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "高等職業訓練促進給付金",
+    "shortName": "高等職業訓練促進給付金"
+  },
+  "localGovernmentLink": {
+    "title": "母子家庭及び父子家庭自立支援給付金",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/hitorioya/teate/boshijiritsu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": "生活支援課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "訓練促進給付金の相談・申請・受給までの流れ\n1.事前相談\n原則として、養成機関受験前、もしくはお悩みの段階でまずは生活支援課にご連絡ください。電話で来所相談日を調整します。\n来所相談の際、生活状況や資格取得の計画や意欲などもお伺いします。\n訓練促進給付金支給申請は、修業開始以降となります。\n支給は申請を受領した月からとなります。\n2.訓練促進給付金支給申請\n事前相談・修業開始以降、申請書類を提出していただきます。\n支給決定までには審査があります。\n（注意） 審査の結果、支給不可の場合もあります。\n3.支給開始\n審査後、支給決定通知を送付します。\n4.給付金請求\n支給決定通知確認後、毎月、養成（修業）機関の出席状況証明書または在学証明書を、給付金の請求書と併せて提出していただきます。\n5.給付金支給\n請求後おおむね1か月以内に指定の口座に振り込む予定です。\n（注意） 留年する場合および休学期間中の支給はできません。\n（注意） 毎年度、継続手続きが必要です。\n\n修了支援給付金の申請・受給までの流れ\n1.給付金支給申請\n原則として、養成機関でのカリキュラム修了後、30日以内に給付金支給申請書類を提出していただきます。支給決定までには審査があります。\n（注意） 審査の結果、支給不可の場合もあります。\n2.支給決定\n審査後、支給決定通知を送付します。\n3.給付金請求\n支給決定通知確認後、給付金の請求書を提出していただきます。\n4.給付金支給\n請求後おおむね1か月以内に指定の口座に振り込みます。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第31条（母子家庭自立支援給付金）、第31条の10（父子家庭自立支援給付金）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭の母または父が、就業に結びつきやすい対象資格（看護師や介護福祉士など）を取得するため1年以上（令和3年4月1日から令和4年3月31日までに修業を開始する場合には6月以上）、養成機関で修業する場合に、修業期間中の生活の負担軽減のために高等職業訓練促進給付金を、また修業終了時に高等職業訓練修了支援給付金を支給します。",
+  "support": {
+    "description": "支給額は、世帯（同居または生計を同じくする扶養義務者を含む）の課税状況により異なります。\n\n給付金詳細表\n\n|給付金種類|支給期間|住民税非課税世帯|住民税課税世帯|\n|:----|:----|:----|:----|\n|訓練促進給付金（毎月）<br>（注意） 支給は申請のあった月からとなります。<br>修業期間（上限4年）|通常|10万円／月|7万5百円／月|\n|訓練促進給付金（毎月）<br>（注意） 支給は申請のあった月からとなります。<br>修業期間（上限4年）|・修業期間の最後の12か月<br>・令和3年4月1日から令和6年3月31日までに修業を開始する場合に限り、修業期間6か月以上12か月未満の場合の該当期間|14万円／月|11万5百円／月|\n|修了支援給付金（1回）|訓練修了後に支給|5万円|2万5千円|",
+    "materiallySupport": null,
+    "monetarySupport": "支給額は、世帯（同居または生計を同じくする扶養義務者を含む）の課税状況により異なります。\n\n給付金詳細表\n\n|給付金種類|支給期間|住民税非課税世帯|住民税課税世帯|\n|:----|:----|:----|:----|\n|訓練促進給付金（毎月）<br>（注意） 支給は申請のあった月からとなります。<br>修業期間（上限4年）|通常|10万円／月|7万5百円／月|\n|訓練促進給付金（毎月）<br>（注意） 支給は申請のあった月からとなります。<br>修業期間（上限4年）|・修業期間の最後の12か月<br>・令和3年4月1日から令和6年3月31日までに修業を開始する場合に限り、修業期間6か月以上12か月未満の場合の該当期間|14万円／月|11万5百円／月|\n|修了支援給付金（1回）|訓練修了後に支給|5万円|2万5千円|"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象者（以下のすべての要件を、申請時および給付を受ける間、引き続き該当している方）\n\n・千代田区内に住所を有する母子家庭の母または父子家庭の父で、20歳未満の子どもを扶養している方\n・児童扶養手当の支給を受けている方、または同等の所得水準の方\n・就業または育児と修業の両立が困難であると認められる方\n・訓練促進給付金と趣旨を同じくする給付を受給していない方\n　・求職者支援制度における職業訓練受講給付金\n　・雇用保険法第24条に定める訓練延長給付金\n　・雇用保険法附則第11条の2に定める教育訓練給付制度における教育訓練支援給付金 等\n・資格取得をするための養成機関で1年以上のカリキュラムを修業し、対象資格の取得が見込まれる方\n　・原則、通学制またはオンライン（インターネット環境を利用し、同時かつ双方向に行われるもの）で受講すること。\n　・令和3年4月1日から令和6年3月31日までに修業を開始する場合に限り、修業期間6か月以上のカリキュラムを修業し、対象資格の取得が見込まれる方も含みます。\n・原則として、過去に当該給付金の支給を受けていない方\n（注意） 修業期間中に支給要件に該当しなくなった場合は支給を中止することがあります（例：所得が増えた場合）。"
+  },
+  "updateDate": "2023-08-30",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

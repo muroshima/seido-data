@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部健康サービス課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+2+UM5010"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部健康サービス課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "生後５０日に達する日まで",
+  "description": "新生児聴覚検査受診費助成金交付制度のご案内\n\n里帰りなどで都内医療機関以外で受診され、受診票を使用できなかった場合、受診費用の一部を助成します。\n\n「新生児聴覚検査」とは\n\n生れてすぐの赤ちゃんに聴覚障害の疑いがないかを調べる検査のことです。ささやき程度の音を赤ちゃんが眠っている間に聞かせ、その反応を見るものです。数分で行うことができ、痛みもありません。\n\n聴覚障害は、早期に適切な支援を開始することで、言葉の発達などへの影響を最小限に抑えられますので、検査を受けることをお勧めします。詳細は下記へお問い合せください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "新生児聴覚検査",
+    "shortName": "新生児聴覚検査受診費助成金交付制度のご案内"
+  },
+  "localGovernmentLink": {
+    "title": "「新生児聴覚検査」の費用の一部助成を実施します",
+    "uri": "https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kodomo/shinseijichoukaku.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "各健康サポートセンター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "窓口申請",
+  "procedurePeriod": {
+    "conditions": "1歳の誕生日の前日まで",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "聴覚障害は、早期発見・治療により言葉の発達などへの影響が最小限に抑えられることが分かっていることから、生まれたばかりの赤ちゃんに聴覚障害の疑いがないかを調べる新生児聴覚検査の費用の一部を助成しています。",
+  "support": {
+    "description": "1回（対象児1人につき）3,000円",
+    "materiallySupport": null,
+    "monetarySupport": "3000"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "1歳の誕生日の前日まで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "下記1～3すべてに該当する方\n\n 受診日現在、江戸川区に住民登録がある方\n 保険適用外（自費）で受診された方\n 契約医療機関以外の医療機関で受診された方（海外での受診は対象外となります）"
+  },
+  "updateDate": "2023-10-23",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

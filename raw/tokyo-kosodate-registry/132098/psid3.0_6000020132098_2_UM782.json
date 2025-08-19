@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども生活部子ども家庭支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+2+UM782"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども生活部子ども家庭支援課",
+    "contactPhone": "042-724-4419",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/9",
+    "zipCode": null
+  },
+  "cost": "4000",
+  "costConditions": "1泊2日 4,000円\n\n注：市民税非課税世帯、生活保護受給世帯は、年間7泊まで費用の減額制度があります。詳細はお問い合わせください。",
+  "description": "保護者の病気や出産、家族の介護などでお子様の養育ができないとき、一時的に有料で預けることができます。\n\n注：受け入れ人数には制限があります。\n\nショートステイ\n宿泊を伴うサービスです。保育士が泊まり込んでお子様のお世話をします。\n\nトワイライトステイとは\n宿泊を伴わないサービスです。保護者の帰宅が遅くなる時に、子どもだけで留守番をさせることなく食事や入浴を済ませることができます。\n\n1日の生活の流れ\n||子どもの生活|\n|:----|:----|\n|6：30|起床・身支度|\n|7：00|朝食|\n|8：00〜10:00|小学校へ登校保育園・幼稚園へ登園|\n|10:00～|未就園児自由遊び|\n|12:00|昼食・（お昼寝）|\n|15:00|おやつ|\n|16:00〜|自由遊び・宿題など|\n|18:00|夕食|\n|19:00|入浴|\n|21:00|就寝準備・就寝|",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "月7泊まで、かつ7連泊まで/1回\n\n注：保護者が入院する場合は特例があります。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "東京都町田市下小山田町２７４５−１",
+    "implementationName": "子どもショートステイの家マルガリータ（運営：社会福祉法人基督教児童福祉会）"
+  },
+  "institutionName": {
+    "canonicalName": "ショートステイ（宿泊保育）",
+    "shortName": "2歳から小学校6年生までのお子様が利用できるショートステイ（宿泊保育）"
+  },
+  "localGovernmentLink": {
+    "title": "子どものショートステイ（宿泊保育）・トワイライトステイ（夜間保育）",
+    "uri": "https://kosodate-machida.tokyo.jp/soshiki/4/5/5/1180.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "ショートステイ・トワイライトステイ初回利用の流れ\n1.子ども家庭支援課（市庁舎2階204窓口）へご相談ください\n\n2.当年度登録書類を提出していただきます\n\n3.施設を見学していただきます\n\n4.利用希望日が決まりましたら、子ども家庭支援課に電話予約してください\n\n   受け入れ人数には限りがあります（利用日の3か月前から予約できます）\n\n5.利用時に、直接施設に現金でお支払いください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第3項、第21条の9",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者が入院や通院、出張などの理由で、一時的に家庭でお子さんの面倒をみられなくなったときに、お近くの児童養護施設、乳児院、母子生活支援施設で、宿泊を伴ってお子さんをお預かりします。保護者の病気や出産、家族の介護などでお子様の養育ができないとき、一時的に有料で預けることができます。",
+  "support": {
+    "description": "2歳から小学校6年生までのお子様が利用できるショートステイ（宿泊保育）\n子どもショートステイの家マルガリータ（運営：社会福祉法人基督教児童福祉会）",
+    "materiallySupport": "2歳から小学校6年生までのお子様が利用できるショートステイ（宿泊保育）\n子どもショートステイの家マルガリータ（運営：社会福祉法人基督教児童福祉会）",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "2歳から小学校6年生までの方\n・町田市在住かつ町田市に住民票がある方\n・一般的な指示に従うことができる、自分で食事ができるなど集団生活ができる方（詳細はご相談ください。）\n・利用時に感染症の症状がなく、医療的ケアを必要としない方\n注：預かり中に体調を崩した場合は、お迎えをお願いします。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 12,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "2歳から小学校6年生までの方\n・町田市在住かつ町田市に住民票がある方\n・一般的な指示に従うことができる、自分で食事ができるなど集団生活ができる方（詳細はご相談ください。）\n・利用時に感染症の症状がなく、医療的ケアを必要としない方\n注：預かり中に体調を崩した場合は、お迎えをお願いします。"
+  },
+  "updateDate": "2023-06-14",
+  "useConsiderationFlag": false,
+  "utilization": "マルガリータ ご利用についてのお知らせ\nマルガリータ_リーフレット (PDFファイル: 304.2KB)\nhttps://kosodate-machida.tokyo.jp/material/files/group/9/maruannai.pdf",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "16時から翌日9時まで",
+    "fromHM": "16:00",
+    "toHM": "09:00"
+  }
+}

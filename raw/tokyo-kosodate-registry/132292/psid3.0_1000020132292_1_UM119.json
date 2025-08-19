@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "132292;西東京市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132292",
+    "psid": "psid3.0+1000020132292+1+UM119"
+  },
+  "belongings": "母子健康手帳\nその他お子さんに必要なもの（オムツ、ゴミ袋、ミルク、お湯など）\nバスタオル（立って身長を測定できるお子さんは必要ありません）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "西東京市中町一丁目5番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康課",
+    "contactPhone": "042-438-4037",
+    "contactUrl": null,
+    "zipCode": "2028555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "個別育児相談会（予約制）\n\n予約制の個別育児相談会です\n身体測定や個別相談を実施しています。ぜひご利用ください。\n\n対象\n乳幼児とその保護者の方\n\n赤ちゃん体重測定\n内容\n身長・体重測定\n個別相談（育児、母乳、栄養、歯科、遊び方、お母さんの健康などについて）\n\n会場\n防災・保谷保健福祉総合センター;https://www.city.nishitokyo.lg.jp/sisetu/city/hoyachosha/bousai_houyahokenhukushisougou.html 2階　\n\n（注記）駐車券は必ず会場（受付）にご提示ください。\n\n田無総合福祉センター;https://www.city.nishitokyo.lg.jp/sisetu/hukusi/tanasi_sogo.html 2階　\n\n（注記）駐車場はありません。\n\nhttps://www.city.nishitokyo.lg.jp/kosodate/bosi/soudan/kobetuikuji.html\n\n時間\n午前9時30分から午前11時の間で、お一人30分程度\n\n持ち物\n母子健康手帳\nその他お子さんに必要なもの（オムツ、ゴミ袋、ミルク、お湯など）\nバスタオル（立って身長を測定できるお子さんは必要ありません）\n申込\n開催日の3日前までに電話で予約（申込順）\n電話：042-438-4037\n（平日午前9時から午後5時まで）\n\nその他\nオムツは各自お持ち帰りください。\nできるだけ授乳を済ませてからお越しください。（母乳相談の方は予約の時に相談してください）\n会場内での水分補給以外の飲食はご遠慮ください。\n持ち物（貴重品・靴・バギーなど）の盗難紛失については責任を負いかねます。各自で管理をお願いします。\n開催時の感染予防対策\n発熱やせき等の風邪症状のある方など、体調不良の場合は参加を見合わせてください。\n原則として、お子様一人につき、保護者の方一人でお越しください。\n赤ちゃん食事\n\n関連リンク\n子育てに関するQ&A;https://www.city.nishitokyo.lg.jp/kosodate/bosi/kosodateqa.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "日程（予定）\n|保谷保健福祉総合センター|田無総合福祉センター|\n|:----|:----|\n|令和6年4月8日（月曜日）|令和6年4月24日（水曜日）|\n|5月13日（月曜日）|5月29日（水曜日）|\n|6月10日（月曜日）|6月26日（水曜日）|\n|7月10日（水曜日）|7月30日（火曜日）|\n|8月5日（月曜日）|8月26日（月曜日）|\n|9月10日（火曜日）|9月27日（金曜日）|\n|10月7日（月曜日）|10月29日（火曜日）|\n|11月8日（金曜日）|11月25日（月曜日）|\n|12月9日（月曜日）|12月23日（月曜日）|\n|令和7年1月7日（火曜日）|令和7年1月22日（水曜日）|\n|2月10日（月曜日）|2月26日（水曜日）|\n|3月10日（月曜日）|3月28日（金曜日）|\n\n時間\n午前9時30分から午前11時の間で、お一人30分程度",
+    "fromHM": "09:30",
+    "fromYMD": null,
+    "toHM": "11:00",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "防災・保谷保健福祉総合センター2階,田無総合福祉センター2階"
+  },
+  "institutionName": {
+    "canonicalName": "西東京市の子育てに関する相談",
+    "shortName": "個別育児相談会"
+  },
+  "localGovernmentLink": {
+    "title": "個別育児相談会（予約制）",
+    "uri": "https://www.city.nishitokyo.lg.jp/kosodate/bosi/soudan/kobetuikuji.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-10",
+    "updater": "西東京市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "防災・保谷保健福祉総合センター",
+      "uri": "https://www.city.nishitokyo.lg.jp/sisetu/city/hoyachosha/bousai_houyahokenhukushisougou.html"
+    },
+    {
+      "title": "子育てに関するQ&A",
+      "uri": "https://www.city.nishitokyo.lg.jp/kosodate/bosi/kosodateqa.html"
+    },
+    {
+      "title": "田無総合福祉センター",
+      "uri": "https://www.city.nishitokyo.lg.jp/sisetu/hukusi/tanasi_sogo.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予約制の個別育児相談会です。身体測定や個別相談を実施しています。",
+  "support": {
+    "description": "身長・体重測定\n個別相談（育児、母乳、栄養、歯科、遊び方、お母さんの健康などについて）",
+    "materiallySupport": "身長・体重測定\n個別相談（育児、母乳、栄養、歯科、遊び方、お母さんの健康などについて）",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "乳幼児とその保護者の方"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "開催日の3日前までに電話で予約（申込順）\n電話：042-438-4037\n（平日午前9時から午後5時まで）",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132144;国分寺市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子育て相談室相談支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132144",
+    "psid": "psid3.0+1000020132144+1+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-320-1181",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部子育て相談室相談支援係",
+    "contactPhone": "042-321-1809",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "市内にお住まいの18歳未満のお子さん自身と保護者、子育てに関わるすべての方からの相談に応じます。お子さんに関わる悩み、子育てに関する心配、不安など相談員がお受けします。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "祝日・年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "国分寺市の子育てに関する相談",
+    "shortName": "子どもの総合相談"
+  },
+  "localGovernmentLink": {
+    "title": "総合相談",
+    "uri": "https://www.city.kokubunji.tokyo.jp/kurashi/1012309/shien/1001511.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-18",
+    "updater": "国分寺市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "こども家庭センター実施要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "こども家庭センター",
+      "uri": "https://www.city.kokubunji.tokyo.jp/kurashi/1008608/1033683/1033786.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子どもや子育てに関する相談窓口です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "18歳未満の子どもと保護者、プレママ・プレパパ、そして子育てに関わる人",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "18歳未満の子どもと保護者、プレママ・プレパパ、そして子育てに関わる人"
+  },
+  "updateDate": "2023-09-15",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日から金曜日、午前8時30分から午後5時　祝日・年末年始を除く",
+    "fromHM": "08:30",
+    "toHM": "17:00"
+  }
+}

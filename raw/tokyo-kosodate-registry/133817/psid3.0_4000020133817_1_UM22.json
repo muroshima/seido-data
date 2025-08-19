@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "133817;三宅村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉健康課 健康係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "4000020133817",
+    "psid": "psid3.0+4000020133817+1+UM22"
+  },
+  "belongings": "２　母子健康手帳（産婦健診の場合は領収書）\n３　交通機関及び宿泊機関の領収書\n４　印鑑\n５　振込先の通帳やキャッシュカード（コピー可）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三宅島三宅村阿古497",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "三宅村役場臨時庁舎　福祉健康課 健康係",
+    "contactPhone": "04994-5-0911",
+    "contactUrl": null,
+    "zipCode": "1001212"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "出産に係る交通費及び宿泊費の助成\n母子手帳の交付を受け、三宅村の住民基本台帳に登録され、現に居住している妊産婦の方が対象となります。\n\n※申請する方の世帯に、村税、使用料等に滞納がある方がいる場合は支給できません。\n\n□助成金の額\n\n島民割引を適用した額とし、往復5回を上限とします。\n\n|種類|助成金の額|区間|\n|:----|:----|:----|\n|航空賃|実費|三宅島～調布|\n|船賃|一等料金を上限とした実費|三宅島～竹芝|\n※上記以外の交通機関及び区間を利用する場合は、担当課までご相談ください。\n\n□宿泊費の助成金額\n\n一泊につき2,000円を上限として、妊娠34週以降から出産後31日の74泊を支給対象期間とします。（里帰り出産は対象外）\n\n□対象となる期間\n\n母子手帳を取得したときから、出産後３ヵ月までとなります。\n\n□申請手続き\n\n次の書類等を用意し、三宅村役場で手続きをしてください。\n\n１　申請書\n２　母子健康手帳（産婦健診の場合は領収書）\n３　交通機関及び宿泊機関の領収書\n４　印鑑\n５　振込先の通帳やキャッシュカード（コピー可）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関する金銭的支援",
+    "shortName": "出産に係る交通費及び宿泊費の助成"
+  },
+  "localGovernmentLink": {
+    "title": "出産を迎える方",
+    "uri": "https://www.vill.miyake.tokyo.jp/kurashi/seikatsu_kankyou/ikuji_kyouiku/ninpu_nyuuyouji/syussan.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-19",
+    "updater": "三宅村"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "□申請手続き\n\n次の書類等を用意し、三宅村役場で手続きをしてください。\n\n１　申請書\n２　母子健康手帳（産婦健診の場合は領収書）\n３　交通機関及び宿泊機関の領収書\n４　印鑑\n５　振込先の通帳やキャッシュカード（コピー可）",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "出産に係る渡航費（船代・飛行機代）を往復5回、宿泊費１泊2,000円×74泊",
+  "support": {
+    "description": "□助成金の額\n\n島民割引を適用した額とし、往復5回を上限とします。\n\n|種類|助成金の額|区間|\n|:----|:----|:----|\n|航空賃|実費|三宅島～調布|\n|船賃|一等料金を上限とした実費|三宅島～竹芝|\n※上記以外の交通機関及び区間を利用する場合は、担当課までご相談ください。\n\n□宿泊費の助成金額\n\n一泊につき2,000円を上限として、妊娠34週以降から出産後31日の74泊を支給対象期間とします。（里帰り出産は対象外）\n\n□対象となる期間\n\n母子手帳を取得したときから、出産後３ヵ月までとなります。",
+    "materiallySupport": null,
+    "monetarySupport": "□助成金の額\n\n島民割引を適用した額とし、往復5回を上限とします。\n\n|種類|助成金の額|区間|\n|:----|:----|:----|\n|航空賃|実費|三宅島～調布|\n|船賃|一等料金を上限とした実費|三宅島～竹芝|\n※上記以外の交通機関及び区間を利用する場合は、担当課までご相談ください。\n\n□宿泊費の助成金額\n\n一泊につき2,000円を上限として、妊娠34週以降から出産後31日の74泊を支給対象期間とします。（里帰り出産は対象外）\n\n□対象となる期間\n\n母子手帳を取得したときから、出産後３ヵ月までとなります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "母子手帳の交付を受け、三宅村の住民基本台帳に登録され、現に居住している妊産婦の方が対象となります。\n\n※申請する方の世帯に、村税、使用料等に滞納がある方がいる場合は支給できません。"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援課　母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+1+UM29"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区青戸4-15-14 子ども総合センター内",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援課　母子保健係",
+    "contactPhone": "03-3602-1387",
+    "contactUrl": null,
+    "zipCode": "1250062"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "未熟児養育医療の給付",
+    "shortName": "未熟児の養育医療"
+  },
+  "localGovernmentLink": {
+    "title": "未熟児の養育医療",
+    "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1002336/1002433.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": "子ども総合センター（健康プラザかつしか内）母子保健係、各保健センター、堀切区民事務所または高砂区民事務所",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "子ども総合センター（健康プラザかつしか内）母子保健係、各保健センター、堀切区民事務所または高砂区民事務所の窓口に必要書類を持参してください。\n（注釈）平成28年1月からマイナンバー制度の開始に伴い、個人番号の記入と申請者のご本人確認が必要になりました。詳しくは添付ファイルをご覧ください。\n（注釈）指定医療機関の主治医が養育医療の申請が必要と認めた場合に、必要書類を申請してください。\n（注釈）指定医療機関での入院でない場合は申請していただいても助成の対象になりません。\n（注釈）指定医療機関での入院であっても、出生時の体重が2,000グラムを超える場合、所定の症状に該当しない場合は申請していただいても助成の対象になりません。主治医によくご確認のうえ、申請してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第20条（養育医療）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "未熟児養育医療の給付とは、出生時の体重が2,000グラム以下の乳児や、黄だんなどで医師が入院を必要と認めた乳児が、指定養育医療機関において入院治療を受ける場合に、その治療に要する医療費と食事代の費用負担を軽減する制度です。",
+  "support": {
+    "description": "入院に必要な医療費を助成します。\n保険適用後の自己負担分を助成します。\n（注釈）入院時の食事代（ミルク代）については所得に応じて自己負担が発生する場合があります。",
+    "materiallySupport": null,
+    "monetarySupport": "入院に必要な医療費を助成します。\n保険適用後の自己負担分を助成します。\n（注釈）入院時の食事代（ミルク代）については所得に応じて自己負担が発生する場合があります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "089"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "出生時の体重が2,000グラム以下の乳児や、黄だんなどで医師が入院を必要と認めた乳児で、指定医療機関に入院している方"
+  },
+  "updateDate": "2022-10-07",
+  "useConsiderationFlag": false,
+  "utilization": "申請書受理後、審査を行い、認定された場合は約1か月以内に養育医療券をお送りします。\n養育医療券を病院での支払いの際に提示することで、養育医療の給付が受けられます。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

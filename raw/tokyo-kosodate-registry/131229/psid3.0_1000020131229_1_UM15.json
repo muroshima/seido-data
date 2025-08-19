@@ -1,0 +1,136 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "青戸保健センター保健サービス係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+1+UM15"
+  },
+  "belongings": "親子健康手帳（母子健康手帳）\n官公署発行の写真付の本人確認資料1点（運転免許証、マイナンバーカード、パスポート、在留カードなど）※写真付の本人確認資料をお持ちでない場合は、健康保険証、年金手帳など2点\n代理人が申請する場合は、委任状と代理人本人の確認資料が必要となります。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区青戸4-15-14　健康プラザかつしか内",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "青戸保健センター保健サービス係",
+    "contactPhone": "03-3602-1284",
+    "contactUrl": null,
+    "zipCode": "1250062"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "産後ケア事業",
+    "shortName": "産後ケア"
+  },
+  "localGovernmentLink": {
+    "title": "産後ケア",
+    "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1030308/1020863.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": "青戸保健センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "区から利用承認通知書の交付を受けます。\n利用者ご本人がゆりかご面接と同時に行う場合は、下記からご予約し、保健センター・子ども未来プラザ・基幹型児童館・区役所子育て相談窓口までお越しください。\n\nゆりかご面接についてhttps://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1014924.html\n産後ケア申請のみを行う場合や代理人が申請する場合は、保健センターまでお越しください。\n\nご本人および代理人の方が窓口へ来所することが難しい場合、郵送による申請も受け付けています\n申請書、および利用承認通知書をご記入の上、下記まで郵送してください。\n利用承認通知書をお住まいの住所へお送りします。\n発送までおよそ1か月ほどかかります。利用までお時間がある際にご利用ください。\n【送付先】\n〒125-0062　葛飾区青戸4-15-14　健康プラザかつしか内　青戸保健センター　行",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第17条の2（産後ケア事業）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "葛飾区公式YouTubeマタニティサロン「授乳の仕方」（外部リンク）",
+      "uri": "https://www.youtube.com/watch?v=w3SVciMEDYU"
+    },
+    {
+      "title": "葛飾区公式YouTubeマタニティサロン「産後の生活」（外部リンク）",
+      "uri": "https://www.youtube.com/watch?v=WXmBBNBRW84"
+    },
+    {
+      "title": "葛飾区公式YouTubeパパ向け動画　パパがカギを握る！～ママの体と心の変化を知ろう～（外部リンク）",
+      "uri": "https://www.youtube.com/watch?v=cxNSkcEje2g"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "産後のお母さんの心身のケアや、安心して子育てができるためのサポートを行う事業です。",
+  "support": {
+    "description": "様々な産後ケアを受ける際に掛かる基本利用料を無料とします。",
+    "materiallySupport": null,
+    "monetarySupport": "様々な産後ケアを受ける際に掛かる基本利用料を無料とします。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "葛飾区に住民登録があり、産後間もないお母さんと赤ちゃん\n（乳房ケアは産後1年未満の方がご利用できます。詳細は各ケア内容のページをご覧ください。）"
+  },
+  "updateDate": "2024-04-19",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

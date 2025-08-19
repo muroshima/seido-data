@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132152;国立市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子育て支援課 子育て支援係(くにたち子育てサポート窓口【くにサポ】)",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132152",
+    "psid": "psid3.0+1000020132152+1+UM61"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "国立市富士見台2-47-1 国立市役所 1階(20番窓口)",
+    "contactComment": "ファクス：042-576-2283",
+    "contactEmail": null,
+    "contactEx": "042-576-2111(内線：168)",
+    "contactName": "子ども家庭部 子育て支援課 子育て支援係(くにたち子育てサポート窓口【くにサポ】)",
+    "contactPhone": "042-576-2105",
+    "contactUrl": "https://www.city.kunitachi.tokyo.jp/cgi-bin/inquiry.php/52?page_no=9220",
+    "zipCode": "1868501"
+  },
+  "cost": null,
+  "costConditions": "所得に応じて利用者負担(1時間当たり0円から1,590円)があります。",
+  "description": "ひとり親家庭ホームヘルプサービス\nひとり親家庭の生活を安定させるため、ホームヘルパーを派遣します。\n\n派遣対象となる方\n市内在住の中学生以下の子どもがいるひとり親家庭で、次のいずれかに該当する方\n\nひとり親になってから2年以内の家庭\n技能習得のため、職業訓練開発センター等に通学している場合\n就職活動等を行う場合\n一時的に生活援助が必要な場合\n就業の事情で必要な場合(小学生以下の児童のいる家庭に限る)\n\n派遣回数、時間\n派遣回数\n1日1回/1か月12回以内\n\n派遣時間\n午前7時から午後10時/1日8時間以内(1時間単位で2時間以上)\n\n派遣できるヘルパーがいない場合、上記時間内でも利用できないことがあります。\n費用\n所得に応じて利用者負担(1時間当たり0円から1,590円)があります。\n\n手続きの流れ\n事前相談を行いますので、電話等で予約してください。\n必要書類(申請書等)を提出してください。\n派遣前に、利用者のご自宅でヘルパー事業所・くにサポと利用方法等について面談を実施させていただきます。\nサービス内容等について\nサービス内容\n子どもの食事の用意、掃除、洗濯、育児等\n\n子どもが在宅しているときに限ります。保育園、学童保育所が利用できる時間は、そちらを優先してください\nひとり親家庭ホームヘルプサービス\n自宅内でのサービスのみ提供します\n入院治療を要する傷病者や感染症の疾患を有している方がいる場合はヘルパーを派遣できません\n利用者の所得状況により、負担額が発生します。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自のひとり親の方への金銭的支援",
+    "shortName": "ひとり親家庭ホームヘルプサービス"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親家庭ホームヘルプサービス",
+    "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec01/gyomu/kunisapo/hitorioya/9218.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "国立市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "手続きの流れ\n事前相談を行いますので、電話等で予約してください。\n必要書類(申請書等)を提出してください。\n派遣前に、利用者のご自宅でヘルパー事業所・くにサポと利用方法等について面談を実施させていただきます。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "国立市ひとり親家庭ホームヘルプサービス事業実施要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭の家事援助を行います。お子さんが在宅しているときに限ります。",
+  "support": {
+    "description": "サービス内容\n子どもの食事の用意、掃除、洗濯、育児等\n\n子どもが在宅しているときに限ります。保育園、学童保育所が利用できる時間は、そちらを優先してください\n自宅内でのサービスのみ提供します\n入院治療を要する傷病者や感染症の疾患を有している方がいる場合はヘルパーを派遣できません\n利用者の所得状況により、負担額が発生します。",
+    "materiallySupport": "サービス内容\n子どもの食事の用意、掃除、洗濯、育児等\n\n子どもが在宅しているときに限ります。保育園、学童保育所が利用できる時間は、そちらを優先してください\n自宅内でのサービスのみ提供します\n入院治療を要する傷病者や感染症の疾患を有している方がいる場合はヘルパーを派遣できません\n利用者の所得状況により、負担額が発生します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "中学生以下の子がいるひとり親家庭",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "市内在住の中学生以下の子どもがいるひとり親家庭で、次のいずれかに該当する方\n\nひとり親になってから2年以内の家庭\n技能習得のため、職業訓練開発センター等に通学している場合\n就職活動等を行う場合\n一時的に生活援助が必要な場合\n就業の事情で必要な場合(小学生以下の児童のいる家庭に限る)"
+  },
+  "updateDate": "2023-06-30",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

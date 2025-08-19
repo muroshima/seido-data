@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "132012;八王子市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康医療部健康医療政策課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132012",
+    "psid": "psid3.0+1000020132012+3+UM45"
+  },
+  "belongings": "保険証",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "八王子市石川町1838,八王子市館町1163",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "①東海大学医学部付属八王子病院,②東京医科大学八王子医療センター",
+    "contactPhone": "042-639-1111,042-665-5611",
+    "contactUrl": null,
+    "zipCode": "1920032,1930998"
+  },
+  "cost": null,
+  "costConditions": "診療内容に応じて費用が発生します。",
+  "description": "小児休日・全夜間救急医療制度\n休日や深夜（午後11時から翌日の朝）、お子さんに緊急で治療が必要な場合には、本市中核病院（東京医科大学八王子医療センター・東海大学医学部付属八王子病院）が交代で診療します。来院する前にはお電話で症状を相談してください。\n\n奇数日\n東海大学医学部付属八王子病院\n郵便番号 192-0032 東京都八王子市石川町1838\n電話番号 042-639-1111\n\n偶数日\n東京医科大学八王子医療センター\n郵便番号 193-0998 東京都八王子市館町1163\n電話番号 042-665-5611\n(注意）休日 日曜日、祝日、年末年始（12月29日から1月3日）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "奇数日は東海大学医学部付属八王子病院、偶数日及び休日、日曜日、祝日、年末年始は東京医科大学八王子医療センターにて診療",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "①〒192-0032\n東京都八王子市石川町1838\n\n②〒193-0998\n東京都八王子市館町1163",
+    "implementationName": "①東海大学医学部付属八王子病院,②東京医科大学八王子医療センター"
+  },
+  "institutionName": {
+    "canonicalName": "夜間・休日急病診療所",
+    "shortName": "小児休日・全夜間救急医療制度"
+  },
+  "localGovernmentLink": {
+    "title": "救急診療・救急相談・医療機関を探す",
+    "uri": "https://www.city.hachioji.tokyo.jp/emergency/medical/p005723.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-28",
+    "updater": "八王子市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "八王子市では、休日や深夜（午後11時から翌日の朝）、お子さんに緊急で治療が必要な場合には、本市中核病院（東京医科大学八王子医療センター・東海大学医学部付属八王子病院）が交代で診療を行っています。",
+  "support": {
+    "description": "小児科",
+    "materiallySupport": "小児科",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "お子さんに緊急で治療が必要な場合"
+  },
+  "updateDate": "2024-04-22",
+  "useConsiderationFlag": false,
+  "utilization": "来院前にお電話をしてください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "休日や深夜（午後11時から翌日の朝）",
+    "fromHM": "23:00",
+    "toHM": null
+  }
+}

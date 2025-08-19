@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132152;国立市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子育て支援課 子ども保健・発達支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132152",
+    "psid": "psid3.0+1000020132152+4+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "国立市富士見台3-16-5(保健センター内)",
+    "contactComment": "ファクス：042-574-3930",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 子育て支援課 子ども保健・発達支援係",
+    "contactPhone": "042-574-3311",
+    "contactUrl": "https://www.city.kunitachi.tokyo.jp/cgi-bin/inquiry.php/54?page_no=6665",
+    "zipCode": "1860003"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子ども発達相談\n\nお子さんの発達にご心配なことや、子育てのしづらさはありませんか？\nたとえば、お子さんの様子で\n視線が合いづらい\n名前を呼んでもふり返らない\nことばの発達が遅い\nことばは出ているが、会話が難しい\n落ち着きがなくじっとしていられない\n集団に入れない\n集団場面での指示に応じることが難しい\n手をつながないと、どこかへ行ってしまう など\nお子さんの具体的な様子をお聞きして、かかわり方のアドバイスや、状況に応じて福祉サービスや医療機関等についての情報をお伝えします。\n相談は、予約制です。まずは下記お問い合わせへご連絡ください。\n\n受付時間\n月曜日から金曜日まで 午前8時半から午後5時まで\n(祝日及び年末年始は除く)\n\n子ども保健・発達支援係は、保健センター内にあります。下記連絡先までご連絡ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "月曜日から金曜日まで 午前8時半から午後5時まで\n(祝日及び年末年始は除く)",
+    "fromHM": "08:30",
+    "fromYMD": null,
+    "toHM": "17:00",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "国立市富士見台3-16-5(保健センター内)",
+    "implementationName": "子ども保健・発達支援係は、保健センター内にあります。"
+  },
+  "institutionName": {
+    "canonicalName": "国立市の子育てに関する相談",
+    "shortName": "子ども発達相談"
+  },
+  "localGovernmentLink": {
+    "title": "子ども発達相談",
+    "uri": "https://www.city.kunitachi.tokyo.jp/kosodate/kosodate/hattatsu/6665.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "国立市"
+  },
+  "procedureCounter": "子ども保健・発達支援係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "相談は、予約制です。まずは下記お問い合わせへご連絡ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "言葉が遅いかな？かんしゃくがひどくて大変・・・。などお子さんの発達に関することや子どもとの接し方などについて心理相談員が相談に応じます。",
+  "support": {
+    "description": "たとえば、お子さんの様子で\n視線が合いづらい\n名前を呼んでもふり返らない\nことばの発達が遅い\nことばは出ているが、会話が難しい\n落ち着きがなくじっとしていられない\n集団に入れない\n集団場面での指示に応じることが難しい\n手をつながないと、どこかへ行ってしまう など\nお子さんの具体的な様子をお聞きして、かかわり方のアドバイスや、状況に応じて福祉サービスや医療機関等についての情報をお伝えします。\n相談は、予約制です。",
+    "materiallySupport": "お子さんの具体的な様子をお聞きして、かかわり方のアドバイスや、状況に応じて福祉サービスや医療機関等についての情報をお伝えします。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-04-22",
+  "useConsiderationFlag": false,
+  "utilization": "相談は、予約制です。まずは下記お問い合わせへご連絡ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

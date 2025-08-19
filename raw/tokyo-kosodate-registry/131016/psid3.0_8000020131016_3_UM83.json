@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局子ども部児童・家庭支援センター子育て事業係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+3+UM83"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区神田須田町1-4-4　PMO神田須田町4階",
+    "contactComment": null,
+    "contactEmail": "jidousenta@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "教育委員会事務局子ども部児童・家庭支援センター子育て事業係",
+    "contactPhone": "03-5298-2424",
+    "contactUrl": null,
+    "zipCode": "1010041"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "区内にお住まいの保護者の方が通院、学校行事はもちろん講習会やリフレッシュなど、家庭において保育が困難になる乳幼児（区内在住で、保育園に入園していない満6か月～小学校就学前）を、児童館等で一時的に短時間お預かりします。\n\nなお、質問や、予約、申し込みについては、預けたい児童館等に直接お問い合わせください。\n\n・実施場所およびお問い合わせ\n　西神田児童センター　03-5215-9062\n　神田児童館　03-3253-6021\n　一番町児童館　03-32330-0866\n　ポピンズキッズルーム一番町　03-3221‐3611",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "一時預かり（一時保育）",
+    "shortName": "一時（いっとき）預かり保育"
+  },
+  "localGovernmentLink": {
+    "title": "一時（いっとき）預かり保育",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/ichijiteki/ittoki.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第7項、第21条の9",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "区立児童館 一時（いっとき）預かり保育 ご利用のしおり（PDF：359KB）",
+      "uri": "https://www.city.chiyoda.lg.jp/documents/1324/riyo-shiori_1.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "区内にお住まいの保護者の方が通院、学校行事はもちろん、講習会やリフレッシュなど、家庭において保育を受けることが困難となったお子さんを、一時的にお預かりします。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 6
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "家庭において保育が困難になる乳幼児（区内在住で、保育園に入園していない満6か月～小学校就学前）"
+  },
+  "updateDate": "2022-06-30",
+  "useConsiderationFlag": false,
+  "utilization": "質問や、予約、申し込みについては、預けたい児童館等に直接お問い合わせください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

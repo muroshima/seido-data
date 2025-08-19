@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "132217;清瀬市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132217",
+    "psid": "psid3.0+3000020132217+1+UM792"
+  },
+  "belongings": "母子健康手帳、親と子の歯ブラシ\n＊子の歯ブラシをまだ用意していない方は、持って来なくてもかまいません。",
+  "capacity": "15人",
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都清瀬市中里5-842　しあわせ未来センター1階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て支援課母子保健係",
+    "contactPhone": "042-497-2077",
+    "contactUrl": null,
+    "zipCode": "2048511"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "親子歯みがき教室\nページ番号1012184　 更新日 2024年5月17日印刷大きな文字で印刷\n日付\n2024年6月14日（金曜日）\n2024年7月19日（金曜日）\n\n時間\n受付：個別予約　午前9時30分～11時30分まで　30分毎各3組\n＊予約可能な日時は下記申込みフォームにてご確認ください。\n\n場所\n清瀬市しあわせ未来センター\n対象市内在住の6か月～1歳6か月の乳幼児とその保護者定員15人費用無料申込み\n申込みフォーム（下記リンクよりお申し込みください）\n\n備考\n持ち物：母子健康手帳、親と子の歯ブラシ\n＊子の歯ブラシをまだ用意していない方は、持って来なくてもかまいません。\n申込みフォーム（6月分）（外部リンク）;https://logoform.jp/form/QzsJ/559034\n申込みフォーム（7月分）（外部リンク）;https://logoform.jp/form/QzsJ/603568\n「子どもがなかなか歯磨きをさせてくれない」\n「子どもにだけは歯の苦労をさせたくない！」\n「むし歯菌の感染が心配」\n「歯が生えてきたけど手入れの仕方がわからない」・・・という方へ。\n\nむし歯のない子に育てるために、歯が生え始める時期から知っておきたいポイントをお伝えします。\n\nはじめての歯ブラシの選び方\nどんな子でも必ず口を開ける仕上げ磨きのコツ\nジュースの甘味\n保護者のむし歯、歯周病を予防する歯みがき方法\n＊教室受講後、4歳までの親子歯科健診の予約を取ることができます。\n\n歯がまだ生えていない方も、大歓迎！\n\nパパ、ママのお口のお手入れで、お子さんへのむし歯菌感染を予防しましょう。\n\nイラスト：歯磨きしているワニ",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "申込みフォーム（6月分）（外部リンク）",
+      "uri": "https://logoform.jp/form/QzsJ/504874"
+    },
+    {
+      "title": "申込みフォーム（7月分）（外部リンク）",
+      "uri": "https://logoform.jp/form/QzsJ/537144"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "日付　2024年8月30日（金曜日）\n2024年9月13日（金曜日）\n\n時間　受付：個別予約　午前9時30分～11時30分まで　30分毎各3組",
+    "fromHM": "09:30",
+    "fromYMD": null,
+    "toHM": "11:30",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "東京都清瀬市中里5-842",
+    "implementationName": "しあわせ未来センター"
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児の歯の健康診査",
+    "shortName": "親子歯みがき教室"
+  },
+  "localGovernmentLink": {
+    "title": "親子歯みがき教室",
+    "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/mokuteki/1012182/1012184.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "清瀬市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申込みフォーム（下記リンクよりお申し込みください）",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "むし歯のない子に育てるために、歯が生え始める時期から知っておきたいこと、親と子のケア方法をお伝えします。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "市内在住の6か月～1歳6か月の乳幼児とその保護者",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 6
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": 6
+    },
+    "targetPersons": "市内在住の6か月～1歳6か月の乳幼児とその保護者"
+  },
+  "updateDate": "2024-05-17",
+  "useConsiderationFlag": false,
+  "utilization": "申込みフォームよりお申し込みください",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

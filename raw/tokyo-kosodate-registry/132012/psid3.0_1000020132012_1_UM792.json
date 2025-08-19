@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "132012;八王子市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "大横保健福祉センター,東浅川保健福祉センター,南大沢保健福祉センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132012",
+    "psid": "psid3.0+1000020132012+1+UM792"
+  },
+  "belongings": "母子健康手帳\n幼児歯科検診案内はがき",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "大横町11-35,東浅川町551-1,南大沢2-27 フレスコ南大沢公共棟1階",
+    "contactComment": "ファックス 042-627-5887,ファックス 042-667-7829,ファックス 042-679-2214",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "大横保健福祉センター,東浅川保健福祉センター,南大沢保健福祉センター",
+    "contactPhone": "042-625-9200,042-667-1331,042-679-2205",
+    "contactUrl": null,
+    "zipCode": "1920062,1930834,1920364"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "2歳児対象 幼児歯科健診\n更新日：2024年03月15日\n幼児歯科健診\n・1歳6か月児歯科健診後、経過観察が必要な方に歯科健診を行っています。\n\n※1歳6か月児歯科健診後、むし歯予防のために経過観察が必要な方には個別でご案内を\n\nお送りしています。（2歳児全員が対象ではありません）\n\n・転入された方や健診希望の方は、管轄の保健福祉センターへご相談ください。\n\n内容\n・歯科健診（治療は行いません）\n\n・歯みがき実習などの個別相談\n\n日時・会場\nお住まいの町名によって健診会場が異なります。\n\n指定した日時・会場以外をご希望の場合は、必ず電話等で事前にお知らせください。\n\n健診会場、健診日程については下記をご覧ください。\n\n令和6年度（2024年度）幼児歯科健診日程 (PDFファイル: 49.5KB);https://kosodate.city.hachioji.tokyo.jp/material/files/group/8/R6youzishikakenshinnittei.pdf\n\nあなたのお住まいの健診会場 (PDFファイル: 108.1KB);https://kosodate.city.hachioji.tokyo.jp/material/files/group/8/anatanoosumainokenshinkaijo.pdf\n\n持ち物\n・母子健康手帳\n\n・幼児歯科健診案内はがき\n\nお願い\n・遅れる場合は必ずご連絡ください。\n\n・日程変更やキャンセルの場合はご連絡ください。\n\n・発熱など、体調不良時の来所はご遠慮ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "令和6年度（2024年度）幼児歯科健診日程 (PDFファイル: 49.5KB);https://kosodate.city.hachioji.tokyo.jp/material/files/group/8/R6youzishikakenshinnittei.pdf",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "あなたのお住まいの健診会場 (PDFファイル: 108.1KB);https://kosodate.city.hachioji.tokyo.jp/material/files/group/8/anatanoosumainokenshinkaijo.pdf"
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児の歯の健康診査（2歳児歯科健康診査）",
+    "shortName": "2歳児対象　幼児歯科検診"
+  },
+  "localGovernmentLink": {
+    "title": "2歳児対象　幼児歯科検診",
+    "uri": "https://kosodate.city.hachioji.tokyo.jp/scene/kodomonokenko/nyuyojikenshin/3030.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-18",
+    "updater": "八王子市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）、乳幼児歯科相談実施要綱",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "令和6年度（2024年度）幼児歯科健診日程 (PDFファイル: 49.5KB)",
+      "uri": "https://kosodate.city.hachioji.tokyo.jp/material/files/group/8/R6youzishikakenshinnittei.pdf"
+    },
+    {
+      "title": "あなたのお住まいの健診会場 (PDFファイル: 108.1KB)",
+      "uri": "https://kosodate.city.hachioji.tokyo.jp/material/files/group/8/anatanoosumainokenshinkaijo.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "1歳6か月児歯科健診後、経過観察が必要な方に歯科健診を行っています。",
+  "support": {
+    "description": "・歯科健診（治療は行いません）\n・歯みがき実習などの個別相談",
+    "materiallySupport": "・歯科健診（治療は行いません）\n・歯みがき実習などの個別相談",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "・1歳6か月児歯科健診後、経過観察が必要な方に歯科健診を行っています。\n\n※1歳6か月児歯科健診後、むし歯予防のために経過観察が必要な方には個別でご案内をお送りしています。（2歳児全員が対象ではありません）",
+    "greaterThan": {
+      "targetAge": 1,
+      "targetAgeOfMonths": 6
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "・1歳6か月児歯科健診後、経過観察が必要な方に歯科健診を行っています。\n\n※1歳6か月児歯科健診後、むし歯予防のために経過観察が必要な方には個別でご案内を\n\nお送りしています。（2歳児全員が対象ではありません）"
+  },
+  "updateDate": "2024-03-15",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

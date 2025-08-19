@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "133078;檜原村\t",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "やすらぎの里 福祉けんこう課 子育て支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020133078",
+    "psid": "psid3.0+8000020133078+5+UM61"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "FAX 042-519-9789",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "やすらぎの里 福祉けんこう課 子育て支援係",
+    "contactPhone": "042-598-3122",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "障害福祉、児童福祉の事業等がまとめられた冊子を作成したのでお知らせいたします。\nまた、ホームページ以外でも下記の窓口で配布を行っております。\n・やすらぎの里（福祉けんこう課）\n・檜原村役場（村民課）\n\n檜原の障害福祉について\n檜原の障害福祉(ファイル名：syougai-r5.pdf サイズ：1.07MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf\n\n檜原の児童福祉について\n檜原の児童福祉(ファイル名：zidou-r5.pdf サイズ：1.21MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自のひとり親の方への金銭的支援",
+    "shortName": "児童育成手当(育成手当)（都制度）"
+  },
+  "localGovernmentLink": {
+    "title": "児童育成手当(育成手当)（都制度） ",
+    "uri": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/zidou-r5.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "檜原村"
+  },
+  "procedureCounter": "やすらぎの里 福祉けんこう課 子育て支援係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請手続きに必要なもの\n①請求者および支給要件児童の戸籍謄本\n②当年度の課税証明書（所得・扶養人数・控除額記載のあるもの。1月1日現在、他の区市町村に住所があった方のみ。1月から6月申請の場合は、前年度の課税証明書）\n③請求者の口座番号が確認できるもの（通帳など）\n④その他、支給要件ごとに必要な書類\n※②は、公簿等で確認できる時は省略できる場合があります。\n※住所、氏名、支給制限に該当、支給要件に該当しなくなった等の各種変更の際は、届出が必要となりますので、届出をお願いいたします。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "特別児童扶養手当等の支給に関する法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭の児童（育成手当）、又は障害をもった児童（障害手当）に対して児童育成手当を支給することにより、児童の福祉の増進を図ることを目的としています。児童育成手当は、各区市町村が条例を設置し実施している事業です。詳細は、お住まいの区市町村にお問い合わせください。",
+  "support": {
+    "description": "●手当額\n・児童1人につき月額13,500円\n\n●支払方法\n原則として、6月（2月～5月分）・10月（6月～9月分）・2月（10月～1月分）に請求者の口座へまとめて振り込みます。ただし、申請した月の翌月分からの支給になります。",
+    "materiallySupport": null,
+    "monetarySupport": "・児童1人につき月額13,500円"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "●対象者\n次のいずれかに該当している18歳に達する日以後の最初の3月31までの間にある児童を養育している方が対象です。\n(１) 父母が婚姻を解消した児童\n(２) 父又は母が死亡した児童\n(３) 父又は母が重度の障害を有する児童\n(４) 父又は母が生死不明である児童\n(５) 父又は母に1年以上遺棄されている児童\n(６) 父又は母がDV保護命令を受けた児童\n(７) 父又は母が法令により1年以上拘禁されている児童\n(８) 婚姻によらないで生まれた児童\n\n●対象外\n①児童が児童福祉施設等に入所している場合②児童が父及び母と生計を同じくしている場合③児童が父及び当該父の配偶者又は母及び当該母の配偶者と生計を同じくしている場合（事実上の配偶者も含む）④請求者の前年（1月から5月までの月分の手当については前々年）の所得が一定以上ある場合は受けられません。"
+  },
+  "updateDate": "2023-06-25",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

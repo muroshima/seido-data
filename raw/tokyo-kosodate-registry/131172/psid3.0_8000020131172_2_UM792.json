@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "131172;北区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部保健サービス課王子健康支援センター,健康部保健サービス課赤羽健康支援センター,健康部保健サービス課滝野川健康支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131172",
+    "psid": "psid3.0+8000020131172+2+UM792"
+  },
+  "belongings": "母子手帳\n\nいつも使っている歯ブラシ\n\nお子さんの頭より大きいタオル",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都北区東十条2-7-3　北区保健所1階,東京都北区赤羽南1-13-1　赤羽会館6階,東京都北区西ヶ原1-19-12",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部保健サービス課王子健康支援センター,健康部保健サービス課赤羽健康支援センター,健康部保健サービス課滝野川健康支援センター",
+    "contactPhone": "03-3919-7588,03-3903-6481,03-3915-0184",
+    "contactUrl": null,
+    "zipCode": "1140001,1150044,1140024"
+  },
+  "cost": "640",
+  "costConditions": "塗布料　640円　※おつりがでないようにご協力をお願いします。",
+  "description": "高濃度フッ化物塗布\n家庭での歯みがき剤使用に加え、定期的な高濃度フッ化物塗布を組み合わせることで、効果的にむし歯予防ができます。\n２歳児歯科健診後(別日)にフッ化物塗布を行っています。\n詳細は、２歳児歯科健診受診時にご案内いたします。\n◎持ち物：母子手帳\n　　　　　いつも使っている歯ブラシ\n　　　　　お子さんの頭より大きいタオル\n　　　　　塗布料　640円　※おつりがでないようにご協力をお願いします。\n◎日　時：健診後に日程をご案内します。\n\n年齢別お口の発達とむし歯予防（PDF：315KB）;https://www.city.kita.tokyo.jp/k-suishin/kosodate/nayami/shika/shikakenshin/documents/kuchinenreimushibayobou.pdf\nフッ化物配合歯みがき剤の効果的な使い方（PDF：332KB）;https://www.city.kita.tokyo.jp/k-suishin/kosodate/nayami/shika/shikakenshin/documents/r3fshiyouryou.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "２歳児歯科健診後(別日)にフッ化物塗布を行っています。\n◎日　時：健診後に日程をご案内します。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児の歯の健康診査（▲歳児歯科健康診査）",
+    "shortName": "高濃度フッ化物塗布"
+  },
+  "localGovernmentLink": {
+    "title": "2歳のお口の健康を守りましょう",
+    "uri": "https://www.city.kita.tokyo.jp/k-suishin/kosodate/nayami/shika/shikakenshin/shikakenshin.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "北区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "詳細は、２歳児歯科健診受診時にご案内いたします。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "年齢別お口の発達とむし歯予防（PDF：315KB）",
+      "uri": "https://www.city.kita.tokyo.jp/k-suishin/kosodate/nayami/shika/shikakenshin/documents/kuchinenreimushibayobou.pdf"
+    },
+    {
+      "title": "フッ化物配合歯みがき剤の効果的な使い方（PDF：332KB）",
+      "uri": "https://www.city.kita.tokyo.jp/k-suishin/kosodate/nayami/shika/shikakenshin/documents/r3fshiyouryou.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": "２歳児歯科健診後(別日)",
+  "summary": "２歳児歯科健診後(別日)にフッ化物塗布を行っています。",
+  "support": {
+    "description": "高濃度フッ化物塗布",
+    "materiallySupport": "高濃度フッ化物塗布",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "087"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "079"
+    ]
+  },
+  "target": {
+    "conditions": "2歳児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "２歳児"
+  },
+  "updateDate": "2024-03-31",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

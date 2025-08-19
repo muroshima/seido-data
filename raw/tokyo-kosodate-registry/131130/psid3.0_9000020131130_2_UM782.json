@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131130;渋谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援センター子ども家庭相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020131130",
+    "psid": "psid3.0+9000020131130+2+UM782"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援センター子ども家庭相談係",
+    "contactPhone": "03-3463-3748",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": "6000",
+  "costConditions": "1泊2日6,000円から（1日増につき3,000円加算）\n（注）課税状況により減免制度があります。",
+  "description": "子どもショートステイ\n一時的に子どもの養育ができない場合に区が委託した施設や協力家庭で短期間宿泊を伴う養育を行います。\n\n更新日\n\n2022年5月9日\n\n対象\n利用要件\n場所\n利用上限回数・期間\n料金\n申込方法\n保護者が一時的に子どもの養育ができない場合に、区が委託した施設や協力家庭で短期間子どもを預かり、宿泊を伴う養育を行います。\n\n対象\n区内在住で、利用要件に該当する18歳未満の人\n\n利用要件\n保護者が病気・出産・家族の介護・冠婚葬祭・出張などの理由で養育が困難であり、ほかに子どもを養育する人がいなく、宿泊を伴う養育が必要な場合\n\n場所\n日本赤十字社医療センター附属乳児院（2歳未満）\n児童養護施設　広尾フレンズ（2歳～小学校6年生）\n協力家庭（2歳～小学校6年生）\n児童養護施設　若草寮（中学1年生～18歳未満）\n利用上限回数・期間\n月に1回で、1回につき6泊7日まで申し込むことが可能です。\n\n料金\n1泊2日6,000円から（1日増につき3,000円加算）\n（注）課税状況により減免制度があります。\n\n申込方法\n事前に電話で利用に係る問い合わせをしたうえで、利用開始希望日の前月1日から7日前までに子ども家庭支援センターに来所し、利用申請をしてください。 印鑑、利用要件を確認できる書類などが必要です。　\n（注）施設の空き状況等により利用ができないこともあります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "日本赤十字社医療センター附属乳児院（2歳未満）\n児童養護施設　広尾フレンズ（2歳～小学校6年生）\n協力家庭（2歳～小学校6年生）\n児童養護施設　若草寮（中学1年生～18歳未満）"
+  },
+  "institutionName": {
+    "canonicalName": "ショートステイ（短期入所生活援助事業）",
+    "shortName": "子どもショートステイ"
+  },
+  "localGovernmentLink": {
+    "title": "子どもショートステイ",
+    "uri": "https://www.city.shibuya.tokyo.jp/kodomo/hoiku/hoiku-service/shortstay.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-28",
+    "updater": "渋谷区"
+  },
+  "procedureCounter": "子ども家庭支援センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "事前に電話で利用に係る問い合わせをしたうえで、利用開始希望日の前月1日から7日前までに子ども家庭支援センターに来所し、利用申請をしてください。 利用要件を確認できる書類などが必要です。　\n（注）施設の空き状況等により利用ができないこともあります。",
+  "procedurePeriod": {
+    "conditions": "事前に電話で利用に係る問い合わせをしたうえで、利用開始希望日の前月1日から7日前までに子ども家庭支援センターに来所し、利用申請をしてください。 利用要件を確認できる書類などが必要です。　\n（注）施設の空き状況等により利用ができないこともあります。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第3項、第21条の9、第59条第6号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者が入院や通院、出張などの理由で、一時的に家庭でお子さんの面倒をみられなくなったときに、お近くの児童養護施設、乳児院、母子生活支援施設で、宿泊を伴ってお子さんをお預かりします。",
+  "support": {
+    "description": "保護者が一時的に子どもの養育ができない場合に、区が委託した施設や協力家庭で短期間子どもを預かり、宿泊を伴う養育を行います。",
+    "materiallySupport": "保護者が一時的に子どもの養育ができない場合に、区が委託した施設や協力家庭で短期間子どもを預かり、宿泊を伴う養育を行います。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "18歳未満の人",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住で、利用要件に該当する18歳未満の人"
+  },
+  "updateDate": "2024-06-04",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月に1回で、1回につき6泊7日まで申し込むことが可能です。",
+    "fromHM": null,
+    "toHM": null
+  }
+}

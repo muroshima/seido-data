@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保育課　幼稚園・認可外保育施設担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+4+UM2368"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保育課　幼稚園・認可外保育施設担当",
+    "contactPhone": "042-346-9645",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "幼児教育・保育の無償化の概要について\n令和元年10月1日から、幼児教育・保育の無償化の制度が始まりました。\n認可保育園、幼稚園、認定こども園などを利用する3歳児クラスから5歳児クラス（幼稚園については入園できる時期に合わせて満3歳から）の全ての子どもと、0歳児クラスから2歳児クラスまでの住民税非課税世帯で保育の必要性のある子どもの保育料（利用料）が無償化となります。\n\n利用サービスごとの無償化の内容\nサービスによって無償化の内容や上限が異なります。\n詳しくは、以下よりご利用されているサービスについてご確認ください。\n\n(注)クラス年齢は、各年4月1日時点の年齢で判断されます。\n4　幼稚園の預かり保育\n(1) 無償化（補助）制度の概要\n幼稚園の利用に加え、利用日数に応じて、日額450円、最大月額1.13万円まで補助（無償）となります。\n補助を受けるためには、申請が必要となります。\n預かり保育事業の利用方法や状況は各園異なります。補助対象となるための保育認定がある場合でも、利用ができない場合がございますので詳細は各園にお問い合わせください。\n(2) 補助制度について\n私立幼稚園の補助金について\n\n(注)教育・保育の給付認定の保育要件（2号認定）で認定こども園をご利用の方は、既に必要な保育量が確保されており、保育料が無償化されているため、対象外となります。\n\n【お問合わせ先】\n保育課　幼稚園・認可外保育施設担当　電話：042-346-9645",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "幼児教育・保育の無償化",
+    "shortName": "幼稚園の預かり保育"
+  },
+  "localGovernmentLink": {
+    "title": "幼児教育・保育の無償化の概要について",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/077/077468.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "小平市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "補助を受けるためには、申請が必要となります。\n預かり保育事業の利用方法や状況は各園異なります。補助対象となるための保育認定がある場合でも、利用ができない場合がございますので詳細は各園にお問い合わせください。\n私立幼稚園の補助金について\n【お問合わせ先】\n保育課　幼稚園・認可外保育施設担当　電話：042-346-9645",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第27条～第30条（第二章 第三節 第三款 施設型給付費及び地域型保育給付費等の支給）、第30条の2(子育てのための施設等利用給付）)",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "施設等利用給付認定の申請について（リンク）",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/086/086025.html"
+    },
+    {
+      "title": "私立幼稚園の補助金について",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/000/000185.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "幼児教育・保育の重要性や、子育てや教育にかかる費用負担の軽減を図る少子化対策の観点などから、3歳児クラス（年少）から5歳児クラス（年長）のお子さん、および住民税非課税世帯の0歳児クラスから2歳児クラスのお子さんを対象に、幼児教育・保育の無償化を実施しています。\n無償化の内容は、利用する施設・サービスごとに異なります。",
+  "support": {
+    "description": "幼稚園の利用に加え、利用日数に応じて、日額450円、最大月額1.13万円まで補助（無償）となります。",
+    "materiallySupport": null,
+    "monetarySupport": "幼稚園の利用に加え、利用日数に応じて、日額450円、最大月額1.13万円まで補助（無償）となります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "認可保育園、幼稚園、認定こども園などを利用する3歳児クラスから5歳児クラス（幼稚園については入園できる時期に合わせて満3歳から）の全ての子どもと、0歳児クラスから2歳児クラスまでの住民税非課税世帯で保育の必要性のある子ども",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 5,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "認可保育園、幼稚園、認定こども園などを利用する3歳児クラスから5歳児クラス（幼稚園については入園できる時期に合わせて満3歳から）の全ての子どもと、0歳児クラスから2歳児クラスまでの住民税非課税世帯で保育の必要性のある子ども"
+  },
+  "updateDate": "2024-05-17",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

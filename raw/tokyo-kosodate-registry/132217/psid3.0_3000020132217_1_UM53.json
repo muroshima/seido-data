@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132217;清瀬市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132217",
+    "psid": "psid3.0+3000020132217+1+UM53"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都清瀬市中里5-842　しあわせ未来センター1階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て支援課母子保健係",
+    "contactPhone": "042-497-2077",
+    "contactUrl": null,
+    "zipCode": "2048511"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "乳幼児発達健康診査（予約制）\n赤ちゃんから小学校入学前までのお子さんの運動発達やことばの遅れ、落ち着きがない、友達と遊べないなどが気になるかたの相談をお受けしています。\n小児神経専門医の診察、心理相談員・作業療法士による相談を行い、必要な方には、紹介状を発行し療育機関等を紹介します。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の乳幼児健診",
+    "shortName": "乳幼児発達健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "子どもの発育や健康の相談",
+    "uri": "https://www.city.kiyose.lg.jp/kenkouiryouhukusi/kenkousyokuiku/kenkousoudan/1004180.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-23",
+    "updater": "清瀬市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "参加ご希望の方は、事前に子育て支援課母子保健係担当までご連絡ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "赤ちゃんから小学校入学前までのお子さんの運動発達やことばの遅れ、落ち着きがない、友達と遊べないなどが気になるかたの相談をお受けしています。\n小児神経専門医の診察、心理相談員・作業療法士による相談を行い、必要な方には、紹介状を発行し療育機関等を紹介します。",
+  "support": {
+    "description": "小児神経専門医の診察、心理相談員・作業療法士による相談を行い、必要な方には、紹介状を発行し療育機関等を紹介します。",
+    "materiallySupport": "小児神経専門医の診察、心理相談員・作業療法士による相談を行い、必要な方には、紹介状を発行し療育機関等を紹介します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "赤ちゃんから小学校入学前までのお子さん及び保護者"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

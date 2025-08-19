@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131199;板橋区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 保育運営課 保育運営・給食係,子ども家庭部 保育サービス課 入園相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131199",
+    "psid": "psid3.0+6000020131199+2+UM73"
+  },
+  "belongings": null,
+  "capacity": "原則各園定員1名",
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都板橋区板橋二丁目66番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 保育運営課 保育運営・給食係,子ども家庭部 保育サービス課 入園相談係",
+    "contactPhone": "03-3579-2483,03-3579-2452",
+    "contactUrl": "https://www.city.itabashi.tokyo.jp/cgi-crm/CRM030/CRM030_001/G5005500000/1043844,https://www.city.itabashi.tokyo.jp/cgi-crm/CRM030/CRM030_001/G5004000000/1043844",
+    "zipCode": "1738501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "医療的ケア児枠での申込み\n\n実施園\n区立保育園のうち以下の園では、医療的ケアが必要でかつ集団保育が可能なお子さんを対象に、医療的ケア児枠（原則各園定員1名）を設け、保育を行っています。\n・区立高島平あやめ保育園\n・区立上板橋保育園\n・区立中板橋保育園（令和6年4月から）\n・区立坂下三丁目保育園（令和6年4月から）\n・区立ゆりの木保育園（令和6年4月から）\n\n対象となるお子さん\n保育の必要性があり、医療的ケアが必要で、かつ受入要件を満たしたうえで、日々登園できる原則3歳児クラス以上のお子さんが対象となります。\n\n受入要件\n1.主治医により、集団生活が可能と認められていること。\n2.家庭での生活において状態が安定しており、基礎的疾患や慢性的な感染症がないこと。\n3.医療的ケアが日常生活の一部として保護者及び児童に定着していること。また、その行為によって事故や感染症が起こりにくいと主治医に判断されていること。\n4.児童の病状や医療的ケアに関する情報が保護者と保育所の間で充分に共有でき、必要に応じて主治医からの情報を受けることができ、連携が図れること。\n\n対応できる医療的ケア\n1.口腔内、鼻腔内または気管カニューレ内部の喀たん吸引\n2.胃ろう、腸ろうまたは経鼻による経管栄養\n3.定時の導尿\n4.血糖値測定及びその後の処理（インスリン注射を含む）\n5.その他、医療的ケア児保育が可能な処置\nただし、下記のいずれかの対応が求められる児童については、上記の医療的ケア児も含め、お預かりできません。また、入園後に下記のような状態になった場合には、休園または退園となる場合があります。\n・日常的に他の児童から隔離した場での保育が必要な場合\n・看護師による常時の容態観察と処置が必要な場合\n・その他、集団保育が不可と医師から判断された場合もしくは、板橋区要支援児保育判定審査会において児童を安全に預かることができないと判断した場合\n\n申込要件（資格）\n1.保育の必要性の認定を受けること\n2.集団保育が可能であると認められること（板橋区要支援児保育判定審査会において区が判定します）\n\n受入れ時間\n原則は、午前9時から午後5時までの8時間内とします。\n\n申込みにあたっての注意事項\n・入所の際は、保育サービス課入園相談係までご相談ください。\n・医療的ケア児枠（原則各園定員1名）が空いている場合のみ利用可能となります。また、医療的ケア児枠での申込み者数が医療的ケア児枠の定員数を超える場合は、保育の必要性に基づき入所選考を実施します。\n・医療的ケアは看護師が行います。ケアの実施には主治医の意見書兼指示書が必要です。\n・体調に応じて医療的ケアの内容を変えるなどの対応はできません。\n・医療的ケアに必要な医療器材や消耗品の用意、器材の洗浄・消毒、消耗品の破棄については、各ご家庭でご対応をお願いします。\n・保育園での療育は行いません。\n・与薬及び食物アレルギー対応は、区立保育園の基準に基づいて実施します。\n\nこのページに関するお問い合わせ\n運営・管理に関すること\n子ども家庭部 保育運営課 保育運営・給食係\n電話 03-3579-2483\n\n入園手続きに関すること\n子ども家庭部 保育サービス課 入園相談係\n電話 03-3579-2452",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "原則は、午前9時から午後5時までの8時間内",
+    "fromHM": "09:00",
+    "fromYMD": null,
+    "toHM": "17:00",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "区立高島平あやめ保育園,区立上板橋保育園,区立中板橋保育園,区立坂下三丁目保育園,区立ゆりの木保育園"
+  },
+  "institutionName": {
+    "canonicalName": "認可保育所（保育園）の利用について",
+    "shortName": "医療的ケア児枠での申込み"
+  },
+  "localGovernmentLink": {
+    "title": "医療的ケア児枠での申込み",
+    "uri": "https://www.city.itabashi.tokyo.jp/kosodate/azukeru/ninka/1043844.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-28",
+    "updater": "板橋区"
+  },
+  "procedureCounter": "保育サービス課入園相談係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "入所の際は、保育サービス課入園相談係までご相談ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "板橋区医療的ケア児保育事業実施要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育園とは、保護者が共に働いていたり病気などの理由で、昼間家庭において保育を受けられないお子さんを、保護者に代わって保育する児童福祉施設で、法的には「保育所」といいます。\n保育所（保育園）には、国が定めた設置基準をクリアし、都道府県知事に認可された保育所と、それ以外の保育所がありますが、ここでは認可された保育所についてご案内します。\n保育園では在園児を対象とした「延長保育」のほか、「一時預かり」や「病児保育」、「障害児保育」などを行っている園もあります。",
+  "support": {
+    "description": "区の設けた場所で保育",
+    "materiallySupport": "区の設けた場所で保育",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "原則3歳児クラス以上の児童",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "保育の必要性があり、医療的ケアが必要で、かつ受入要件を満たしたうえで、日々登園できる原則3歳児クラス以上のお子さんが対象となります。\n受入要件\n1.主治医により、集団生活が可能と認められていること。\n2.家庭での生活において状態が安定しており、基礎的疾患や慢性的な感染症がないこと。\n3.医療的ケアが日常生活の一部として保護者及び児童に定着していること。また、その行為によって事故や感染症が起こりにくいと主治医に判断されていること。\n4.児童の病状や医療的ケアに関する情報が保護者と保育所の間で充分に共有でき、必要に応じて主治医からの情報を受けることができ、連携が図れること。\n申込要件（資格）\n1.保育の必要性の認定を受けること\n2.集団保育が可能であると認められること（板橋区要支援児保育判定審査会において区が判定します）"
+  },
+  "updateDate": "2024-02-05",
+  "useConsiderationFlag": false,
+  "utilization": "保育の必要性の認定を受けること、集団保育が可能であると認められること（板橋区要支援児保育判定審査会において区が判定します）",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "原則は、午前9時から午後5時までの8時間内",
+    "fromHM": "09:00",
+    "toHM": "17:00"
+  }
+}

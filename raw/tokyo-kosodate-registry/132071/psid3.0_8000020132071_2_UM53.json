@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132071;昭島市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子ども家庭センター担当 母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132071",
+    "psid": "psid3.0+8000020132071+2+UM53"
+  },
+  "belongings": "持ち物\n乳幼児経過観察健診のお知らせ\n母子健康手帳\nバスタオル",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "昭島市昭和町4-7-1",
+    "contactComment": "ファックス番号：042-544-7130",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 子ども家庭センター担当 母子保健係",
+    "contactPhone": "042-543-7303",
+    "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000053.html",
+    "zipCode": "1960015"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "体重の増えが悪い、首のすわりが不十分など、発育や発達に心配がある乳幼児を対象に、月に1回（水曜日）、小児科専門医による健診や相談を行っています。\n\n子どもの健診\n\n実施場所\n保健福祉センター（あいぽっく）;https://www.city.akishima.lg.jp/map/010/050/020/20140816053706.html\n\n持ち物\n乳幼児経過観察健診のお知らせ\n母子健康手帳\nバスタオル\nその他：お子さまや同居されているご家族のかたが発熱（微熱含む）や咳などで体調がすぐれない場合には、来所をお控えください。\n利用方法\n予約制となります。受診を希望される場合、お電話もしくは窓口でご相談ください。\n\n令和6年度日程\n受付時間\n午前9時10分から午前10時20分\n\n日程（全て水曜日）\n4月17日、5月15日、6月19日、7月17日、8月21日、9月18日、10月16日、11月20日、12月18日、令和7年1月15日、令和7年2月19日、令和7年3月12日",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "日程（全て水曜日）\n\n4月17日、5月15日、6月19日、7月17日、8月21日、9月18日、10月16日、11月20日、12月18日、令和7年1月15日、令和7年2月19日、令和7年3月12日",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "昭島市昭和町4-7-1",
+    "implementationName": "保健福祉センター（あいぽっく）;https://www.city.akishima.lg.jp/map/010/050/020/20140816053706.html "
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の乳幼児健診",
+    "shortName": "【令和6年度】乳幼児経過観察健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "【令和6年度】乳幼児経過観察健康診査",
+    "uri": "https://www.city.akishima.lg.jp/s049/010/010/010/060/20140917150522.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "昭島市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "体重の増えが悪い、首のすわりが不十分など、発育や発達に心配がある乳幼児を対象に、月に1回（水曜日）、小児科専門医による健診や相談を行っています。",
+  "support": {
+    "description": "体重の増えが悪い、首のすわりが不十分など、発育や発達に心配がある乳幼児を対象に、月に1回（水曜日）、小児科専門医による健診や相談を行っています。",
+    "materiallySupport": "体重の増えが悪い、首のすわりが不十分など、発育や発達に心配がある乳幼児を対象に、月に1回（水曜日）、小児科専門医による健診や相談を行っています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "体重の増えが悪い、首のすわりが不十分など、発育や発達に心配がある乳幼児"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "予約制となります。受診を希望される場合、お電話もしくは窓口でご相談ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "受付時間\n午前9時10分から午前10時20分",
+    "fromHM": "09:10",
+    "toHM": null
+  }
+}

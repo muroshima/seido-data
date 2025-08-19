@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "134015;八丈町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "東京都八丈支庁総務課福祉係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020134015",
+    "psid": "psid3.0+3000020134015+1+UM63"
+  },
+  "belongings": "詳細はお問合せください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "八丈支庁総務課福祉係",
+    "contactPhone": "04996-2-1111",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "②障害児福祉手当\n 身体または知的（精神）に重度の障害のある 20 歳未満の方に支給します。\n 一定の所得制限等がありますので、詳細はお問合せください。\n【手続き場所】八丈支庁総務課福祉係\n【助成対象】重度の障害のある 20 歳未満の方\n【必要書類】詳細はお問合せください。\n【支給月】5 月、8 月、11 月、2 月の年 4 回\n【お問合せ先】八丈支庁総務課福祉係 ℡ 04996-2-1111",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "障害児福祉手当",
+    "shortName": "障害児福祉手当"
+  },
+  "localGovernmentLink": {
+    "title": "はちじょう子育てガイド",
+    "uri": "http://www.town.hachijo.tokyo.jp/kokasen/wp-content/uploads/2016/04/6ffc5a0436b28d855f1d36e25bd6c2bd.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-13",
+    "updater": "八丈町"
+  },
+  "procedureCounter": "八丈支庁総務課福祉係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "一定の所得制限等がありますので、詳細はお問合せください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第3章",
+    "regulationName": "特別児童扶養手当等の支給に関する法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "身体または精神に重度の障がいのある20歳未満の方で、日常生活において常時介護を必要とする方に対し、手当が支給されます。",
+  "support": {
+    "description": "障害児福祉手当",
+    "materiallySupport": null,
+    "monetarySupport": "障害児福祉手当"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "身体または知的（精神）に重度の障害のある 20 歳未満の方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "身体または知的（精神）に重度の障害のある 20 歳未満の方"
+  },
+  "updateDate": "2016-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

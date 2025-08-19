@@ -1,0 +1,141 @@
+{
+  "area": {
+    "areaCode": "132012;八王子市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康医療部大横保健福祉センター（保健担当）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132012",
+    "psid": "psid3.0+1000020132012+1+UM47"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "健康医療部大横保健福祉センター（保健担当）",
+    "contactComment": "ファックス：042-627-5887",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康医療部大横保健福祉センター（保健担当）",
+    "contactPhone": "042-625-9200",
+    "contactUrl": "https://www.city.hachioji.tokyo.jp/inquiry/mailform450600.html",
+    "zipCode": "1920062"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊娠に関する相談\n更新日：2021年11月30日\n妊娠に関する悩みや疑問に保健師や助産師が応じます\nひとりで抱え込まずに保健福祉センターに相談ください\n妊娠したかもしれないけれど、どうしたらよいかわからない\n思いがけない妊娠や予定外の妊娠にとまどっている\nその他、様々な悩みの相談に保健師や助産師などの専門職が応じます。\n\n匿名でも構いませんので一人で抱え込まずに安心して相談ください。\n\n相談は市内3か所の保健福祉センター下記連絡先へ\n\n大横保健福祉センター 042-625-9200\n東浅川保健福祉センター 042-667-1331\n南大沢保健福祉センター 042-679-2205\n相談時間 月曜日から土曜日 午前9時から午後4時\n\n八王子市 妊娠・出産・子育て相談案内窓口\n\nどこに相談したらいいかわからない時(はちおうじっ子 子育てほっとライン);https://kosodate.city.hachioji.tokyo.jp/scene/akachannideaumade/sodammadoguchi/1036.html\n\n妊娠したかも相談＠東京（外部リンク）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/ninshin-line-tokyo.html\n東京都 妊娠相談ほっとライン(外部リンク);https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/ninshin-hotline.html\n東京都 不妊・不育ほっとライン（（補足）不育症 妊娠はするけれども流産や死産を繰り返す）(外部リンク);https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/h_soudan.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "月曜日から土曜日",
+    "fromHM": "09:00",
+    "fromYMD": null,
+    "toHM": "16:00",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "大横保健福祉センター 042-625-9200\n東浅川保健福祉センター 042-667-1331\n南大沢保健福祉センター 042-679-2205"
+  },
+  "institutionName": {
+    "canonicalName": "八王子市の妊娠・出産に関する相談",
+    "shortName": "妊娠に関する相談"
+  },
+  "localGovernmentLink": {
+    "title": "妊娠に関する相談",
+    "uri": "https://kosodate.city.hachioji.tokyo.jp/mokuteki/sodanshitai/ninshinnikansurusodan/1138.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-18",
+    "updater": "八王子市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "相談は市内3か所の保健福祉センター下記連絡先へ\n\n大横保健福祉センター 042-625-9200\n東浅川保健福祉センター 042-667-1331\n南大沢保健福祉センター 042-679-2205\n相談時間 月曜日から土曜日 午前9時から午後4時\n\n八王子市 妊娠・出産・子育て相談案内窓口\n\nどこに相談したらいいかわからない時(はちおうじっ子 子育てほっとライン);https://kosodate.city.hachioji.tokyo.jp/scene/akachannideaumade/sodammadoguchi/1036.html\n\n妊娠したかも相談＠東京（外部リンク）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/ninshin-line-tokyo.html\n東京都 妊娠相談ほっとライン(外部リンク);https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/ninshin-hotline.html\n東京都 不妊・不育ほっとライン（（補足）不育症 妊娠はするけれども流産や死産を繰り返す）(外部リンク);https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/h_soudan.html",
+  "procedurePeriod": {
+    "conditions": "相談時間 月曜日から土曜日 午前9時から午後4時",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "どこに相談したらいいかわからない時(はちおうじっ子 子育てほっとライン)",
+      "uri": "https://kosodate.city.hachioji.tokyo.jp/scene/akachannideaumade/sodammadoguchi/1036.html"
+    },
+    {
+      "title": "妊娠したかも相談＠東京（外部リンク）",
+      "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/ninshin-line-tokyo.html"
+    },
+    {
+      "title": "東京都 妊娠相談ほっとライン(外部リンク)",
+      "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/ninshin-hotline.html"
+    },
+    {
+      "title": "東京都 不妊・不育ほっとライン（（補足）不育症 妊娠はするけれども流産や死産を繰り返す）(外部リンク)",
+      "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/h_soudan.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠に関する悩みや疑問に保健師や助産師が応じます\nひとりで抱え込まずに保健福祉センターに相談ください",
+  "support": {
+    "description": "妊娠に関する悩みや疑問に保健師や助産師が応じます",
+    "materiallySupport": "妊娠に関する悩みや疑問に保健師や助産師が応じます",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2021-11-30",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "午前9時から午後4時",
+    "fromHM": "09:00",
+    "toHM": "16:00"
+  }
+}

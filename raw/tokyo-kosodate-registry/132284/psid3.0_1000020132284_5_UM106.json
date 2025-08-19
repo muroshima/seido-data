@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132284;あきる野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭部 こども家庭センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132284",
+    "psid": "psid3.0+1000020132284+5+UM106"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭部　こども家庭センター　子育て支援事業係",
+    "contactPhone": "042-550-3361",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "無料",
+  "description": "多胎児家庭支援事業\n[初版公開日：2023年6月1日][更新日：2024年4月10日]ID:16574\n\n多胎妊婦や3歳未満の多胎児がいる家庭に、育児サポーターが訪問し、育児や家事などの支援をします\n\n対象\n市内在住の多胎児を妊娠中の方及び3歳未満の多胎児のいる家庭\n\n利用時間\n月曜日から土曜日までの午前9時から午後5時まで\n\n1日1回、2時間を上限とします。ただし、外出時の補助の場合は4時間を上限とします。\n\n利用可能時間\n利用時間には上限があります。\n\n利用時間・利用時間の上限\n妊娠から1歳の誕生日の前日まで：二百四十時間\n1歳の誕生日から2歳の誕生日の前日まで：百八十時間\n2歳の誕生日から3歳の誕生日の前日まで：百二十時間\n\n支援内容\n自宅に訪問し、保護者が日常行っている育児や家事を手伝います。\n\n家事等援助\n食事の準備及び片付け\n住居等の清掃及び整理整頓\n衣類の洗濯\n生活必需品の買い物\n\n育児の補助\n食事及び授乳介助\nおむつ交換介助\n沐浴介助\n乳幼児の兄姉の育児、送迎\n\n外出時の補助\n通院等の介助\n健診の付添い\n\n育児等に関する相談助言\n子育てのアドバイス\n子育て支援サービスの紹介\n\nその他\n支援が必要と認めるもの\n※育児の補助、外出時の補助は、育児サポーターと保護者が一緒に行います。\n\n育児サポーター\n社会福祉法人あきる野市社会福祉協議会に委託しています。\n一定の研修を受けた方が育児サポーターとして活動します。\n\n費用\n無料\nただし、移動のための交通費、駐車場代は育児サポーターの分を含め実費となります。（車で移動する方は任意保険に加入していること）\n\n添付ファイル\n\n多胎児チラシ （PDF形式、268.51KB）;https://www.city.akiruno.tokyo.jp/kosodate/cmsfiles/contents/0000016/16574/z.pdf\n多胎児派遣申請書 （PDF形式、46.29KB）;https://www.city.akiruno.tokyo.jp/kosodate/cmsfiles/contents/0000016/16574/tataijisinnsei1.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関するサポート",
+    "shortName": "多胎児家庭支援事業"
+  },
+  "localGovernmentLink": {
+    "title": "多胎児家庭支援事業",
+    "uri": "https://www.city.akiruno.tokyo.jp/kosodate/0000016574.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "あきる野市"
+  },
+  "procedureCounter": "こども家庭センター子育て支援事業係　042-550-3361",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "事前にこども家庭センター子育て支援事業係\n電話　042-550-3361へお申し込みください。",
+  "procedurePeriod": {
+    "conditions": "受付日時\n窓口受付：月曜～土曜日（第2水曜日、祝日を除く）午前10時～午後6時30分\n電話受付：月曜～土曜日（第2水曜日、祝日を除く）午前8時30分～午後6時30分",
+    "fromHM": "08:30",
+    "fromYMD": null,
+    "toHM": "18:30",
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "あきる野市養育支援訪問事業実施要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "多胎妊婦や3歳未満の多胎児がいる家庭に、育児サポーターが訪問し、育児や家事などの支援をします。",
+  "support": {
+    "description": "自宅に訪問し、保護者が日常行っている育児や家事を手伝います。",
+    "materiallySupport": "自宅に訪問し、保護者が日常行っている育児や家事を手伝います。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "市内在住の多胎児を妊娠中の方及び3歳未満の多胎児のいる家庭",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "市内在住の多胎児を妊娠中の方及び3歳未満の多胎児のいる家庭"
+  },
+  "updateDate": "2024-04-10",
+  "useConsiderationFlag": false,
+  "utilization": "事前にこども家庭センター子育て支援事業係\n電話　042-550-3361へお申し込みください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日から土曜日までの午前9時から午後5時まで\n１日１回、２時間を上限とします。ただし外出時の補助の場合は４時間を上限とします。\n利用可能時間があります\n利用時期\n 利用時間の上限\n妊娠から1歳の誕生日の前日まで\n ２４０時間\n1歳の誕生日から２歳の誕生日の前日まで\n１８０時間\n２歳の誕生日から３歳の誕生日の前日まで\n １２０時間",
+    "fromHM": "09:00",
+    "toHM": "17:00"
+  }
+}

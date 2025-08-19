@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "131083;江東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "障害福祉部 障害者支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131083",
+    "psid": "psid3.0+6000020131083+1+UM63"
+  },
+  "belongings": "・申請者及び扶養義務者のマイナンバーカードまたは個人番号が記載された住民票の写し\n・窓口にきた方の身元のわかる書類\n　1点で確認できるもの・・・マイナンバーカード、運転免許証、パスポートなど\n　2点以上必要なもの・・・健康保険証、受給者証、医療券、公共料金や税金の領収書など\n・身体障害者手帳または愛の手帳\n・所定の様式の診断書（担当窓口にあります。）\n・本人名義の預貯金通帳（普通預金・通常貯金口座のもの。）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都江東区東陽4-11-28",
+    "contactComment": "ファックス：03-3647-4910",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "障害福祉部 障害者支援課 障害者福祉係",
+    "contactPhone": "03-3647-4952",
+    "contactUrl": "https://www.city.koto.lg.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": "1358383"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "障害児福祉手当\n事業内容\n重度の心身障害により日常生活に常時介護が必要な20歳未満の方に手当を支給します。\n\n対象者\n・概ね身体障害者手帳1級及び2級の一部の方\n・概ね愛の手帳1度及び2度の方\n・上記と同等の疾病、精神障害の方\n原則、受給資格認定基準と診断書により判定します。\n\n支給制限\n次のいずれかに該当する方は受給できません。\n\n・施設に入所されている方\n・障害を理由とする年金を受けている方\n・一定以上の所得のある方\n所得制限基準表\n|扶養親族数|所得限度額（本人）|所得限度額（配偶者又は扶養義務者）|\n|:----|:----|:----|\n|0人|3,604,000円|\t6,287,000円|\n|1人|\t3,984,000円|6,536,000円|\n|2人|4,364,000円|6,749,000円|\n|3人|4,744,000円|6,962,000円|\n|4人|5,124,000円|7,175,000円|\n\n所得の判定は、所得から医療費等控除対象となっているものを引いた額で行います。\n\n手当額（月額）\n15,690円（令和6年4月分～）\n\n支給方法\n2月・5月・8月・11月に本人名義の預貯金口座に振り込みます。\n\n申請方法\n次のものを持って障害者福祉係までおこしください。郵送による手続きも受け付けています。詳しくはお問い合わせください。\n\n・申請者及び扶養義務者のマイナンバーカードまたは個人番号が記載された住民票の写し\n・窓口にきた方の身元のわかる書類\n　1点で確認できるもの・・・マイナンバーカード、運転免許証、パスポートなど\n　2点以上必要なもの・・・健康保険証、受給者証、医療券、公共料金や税金の領収書など\n・身体障害者手帳または愛の手帳\n・所定の様式の診断書（担当窓口にあります。）\n・本人名義の預貯金通帳（普通預金・通常貯金口座のもの。）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "障害児福祉手当",
+    "shortName": "障害児福祉手当"
+  },
+  "localGovernmentLink": {
+    "title": "障害児福祉手当",
+    "uri": "https://www.city.koto.lg.jp/222015/fukushi/shogaisha/waribiki/teate/6772.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-24",
+    "updater": "江東区"
+  },
+  "procedureCounter": "障害者福祉係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "次のものを持って障害者福祉係までおこしください。郵送による手続きも受け付けています。詳しくはお問い合わせください。\n\n・申請者及び扶養義務者のマイナンバーカードまたは個人番号が記載された住民票の写し\n・窓口にきた方の身元のわかる書類\n　1点で確認できるもの・・・マイナンバーカード、運転免許証、パスポートなど\n　2点以上必要なもの・・・健康保険証、受給者証、医療券、公共料金や税金の領収書など\n・身体障害者手帳または愛の手帳\n・所定の様式の診断書（担当窓口にあります。）\n・本人名義の預貯金通帳（普通預金・通常貯金口座のもの。）",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第3章",
+    "regulationName": "特別児童扶養手当等の支給に関する法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "身体または精神に重度の障がいのある20歳未満の方で、日常生活において常時介護を必要とする方に対し、手当が支給されます。",
+  "support": {
+    "description": "手当額（月額）\n15,690円（令和6年4月分～）\n\n支給方法\n2月・5月・8月・11月に本人名義の預貯金口座に振り込みます。",
+    "materiallySupport": null,
+    "monetarySupport": "手当額（月額）\n15,690円（令和6年4月分～）\n\n支給方法\n2月・5月・8月・11月に本人名義の預貯金口座に振り込みます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "重度の心身障害により日常生活に常時介護が必要な20歳未満の方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "重度の心身障害により日常生活に常時介護が必要な20歳未満の方に手当を支給します。\n\n対象者\n・概ね身体障害者手帳1級及び2級の一部の方\n・概ね愛の手帳1度及び2度の方\n・上記と同等の疾病、精神障害の方\n原則、受給資格認定基準と診断書により判定します。\n\n支給制限\n次のいずれかに該当する方は受給できません。\n\n・施設に入所されている方\n・障害を理由とする年金を受けている方\n・一定以上の所得のある方\n所得制限基準表\n|扶養親族数|所得限度額（本人）|所得限度額（配偶者又は扶養義務者）|\n|:----|:----|:----|\n|0人|3,604,000円|\t6,287,000円|\n|1人|\t3,984,000円|6,536,000円|\n|2人|4,364,000円|6,749,000円|\n|3人|4,744,000円|6,962,000円|\n|4人|5,124,000円|7,175,000円|\n\n所得の判定は、所得から医療費等控除対象となっているものを引いた額で行います。"
+  },
+  "updateDate": "2024-04-15",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

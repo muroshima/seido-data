@@ -1,0 +1,118 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども生活部子ども家庭支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+1+UM783"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども生活部子ども家庭支援課",
+    "contactPhone": "042-724-4419",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/9",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "4時間以内：1,000円\n8時間以内：2,000円\n10時間以内：3,000円\n10時間超：4,000円\n注：市民税非課税世帯、生活保護受給世帯は費用の減免制度があります。詳細はお問い合わせください。\n利用できる日数\n月5日まで",
+  "description": "宿泊を伴わないサービスです。保護者の帰宅が遅くなる時に、子どもだけで留守番をさせることなく食事や入浴を済ませることができます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "〒194-0202 東京都町田市下小山田町２７４５−１",
+    "implementationName": "子どもショートステイの家マルガリータ（運営：社会福祉法人基督教児童福祉会）"
+  },
+  "institutionName": {
+    "canonicalName": "トワイライトステイ（夜間一時保育）",
+    "shortName": "2歳から小学校6年生までのお子様が利用できるトワイライトステイ（日帰り・夜間）"
+  },
+  "localGovernmentLink": {
+    "title": "子どものショートステイ（宿泊保育）・トワイライトステイ（夜間保育）",
+    "uri": "https://kosodate-machida.tokyo.jp/soshiki/4/5/5/1180.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "マルガリータ ご利用についてのお知らせ\nマルガリータ_リーフレット (PDFファイル: 304.2KB);https://kosodate-machida.tokyo.jp/material/files/group/9/maruannai.pdf",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者が入院や通院、出張や残業などの理由で、平日の夜間や休日に一時的に家庭でお子さんの面倒をみられなくなったときに、お近くの児童養護施設、乳児院、母子生活支援施設でお預かりします。「トワイライトステイ（夜間保育）」は、宿泊を伴わないサービスです。保護者の帰宅が遅くなる時に、子どもだけで留守番をさせることなく食事や入浴を済ませることができます。",
+  "support": {
+    "description": "宿泊を伴わないサービスです。保護者の帰宅が遅くなる時に、子どもだけで留守番をさせることなく食事や入浴を済ませることができます。",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": null,
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": null
+  },
+  "target": {
+    "conditions": "2歳から小学校6年生までの方\n町田市在住かつ町田市に住民票がある方\n一般的な指示に従うことができる、自分で食事ができるなど集団生活ができる方（詳細はご相談ください。）\n利用時、感染症の症状がなく、医療的ケアを必要としない方\n注：預かり中に体調を崩した場合は、お迎えをお願いします。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 12,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "利用できる方\n2歳から小学校6年生までの方\n町田市在住かつ町田市に住民票がある方\n一般的な指示に従うことができる、自分で食事ができるなど集団生活ができる方（詳細はご相談ください。）\n利用時、感染症の症状がなく、医療的ケアを必要としない方\n注：預かり中に体調を崩した場合は、お迎えをお願いします。"
+  },
+  "updateDate": "2023-06-14",
+  "useConsiderationFlag": false,
+  "utilization": "トワイライトステイ初回利用の流れ\n1.子ども家庭支援支援課（市庁舎2階204窓口）へご相談ください\n2.当年度登録書類を提出していただきます\n3.施設を見学していただきます\n4.利用希望日が決まりましたら、子ども家庭支援課に電話予約してください\n受け入れ人数には限りがあります（利用日の3か月前から予約できます）\n5.利用時に、直接施設に現金でお支払いください",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": "09:00",
+    "toHM": "22:00"
+  }
+}

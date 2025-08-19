@@ -1,0 +1,138 @@
+{
+  "area": {
+    "areaCode": "131075;墨田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健計画課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131075",
+    "psid": "psid3.0+6000020131075+1+UM45"
+  },
+  "belongings": "保険証や医療証を忘れずにお持ちください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健計画課",
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "墨田区休日応急診療所\n\n日曜日や祝日、年末年始（12月29日から1月3日）に、急に体の具合が悪くなったとき、応急診療を行っていますので、ご利用ください。診療科目は、内科と小児科です。\n\n※保険証や医療証を忘れずにお持ちください。\n※初期救急（入院を必要としない軽症者）に対応します。\n※受診前に必ず電話で、ご連絡ください。その際に、受診時間・受診方法をご案内します。事前連絡がない場合は、一度帰宅していただく場合がありますので、ご注意ください。\n\n診療科目\n内科、小児科\n\n診療日時\n診療日時\n日曜日、祝日、年末年始　午前9時から午後10時まで\n\n受付時間\n午前9時から午後9時30分まで\n\n連絡先\n電話番号：03-5608-3700（直通）\n\n所在地\n墨田区休日応急診療所（すみだ福祉保健センター内）地図;https://www.city.sumida.lg.jp/sisetu_info/hoken_iryousisetu/sumidakukyujituoukyu.images/fukusihokensenta.jpg\n所在地\n東京都墨田区向島三丁目36番7号すみだ福祉保健センター内\nすみだマップ;https://www.city.sumida.lg.jp/web/citymap_index.html?lat=35.716864&lng=139.809623&zoom=14&k=%E5%A2%A8%E7%94%B0%E5%8C%BA%E4%BC%91%E6%97%A5%E5%BF%9C%E6%80%A5%E8%A8%BA%E7%99%82%E6%89%80&ctgr=%E5%81%A5%E5%BA%B7%E3%83%BB%E5%8C%BB%E7%99%82%E6%96%BD%E8%A8%AD&mk=%E5%A2%A8%E7%94%B0%E5%8C%BA%E4%BC%91%E6%97%A5%E5%BF%9C%E6%80%A5%E8%A8%BA%E7%99%82%E6%89%80\nバリアフリーマップ（外部サイト）;http://www.machi-info.jp/machikado/sumida_city/index.jsp?&lon=139.8140753&lat=35.7102042&scale=2500&mode=1\n\n交通案内\n東武線・京成線・都営浅草線・半蔵門線「押上駅」下車Ａ3出口徒歩7分\n東武線「とうきょうスカイツリー駅」徒歩10分\n最寄のバス停「向島2丁目」、「向島3丁目」徒歩3分\n\n関連情報\n休日・救急診療;https://www.city.sumida.lg.jp/kenko_fukushi/kenko/iryou_kyuukyuu/kyuuzitu.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "夜間・休日急病診療所",
+    "shortName": "墨田区休日応急診療所"
+  },
+  "localGovernmentLink": {
+    "title": "墨田区休日応急診療所",
+    "uri": "https://www.city.sumida.lg.jp/sisetu_info/hoken_iryousisetu/sumidakukyujituoukyu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-01",
+    "updater": "墨田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "バリアフリーマップ（外部サイト）",
+      "uri": "http://www.machi-info.jp/machikado/sumida_city/index.jsp?lon=139.8140753600823&lat=35.71020425977654"
+    },
+    {
+      "title": "墨田区休日応急診療所（すみだ福祉保健センター内）地図",
+      "uri": "https://www.city.sumida.lg.jp/sisetu_info/hoken_iryousisetu/sumidakukyujituoukyu.images/fukusihokensenta.jpg"
+    },
+    {
+      "title": "すみだマップ",
+      "uri": "https://www.city.sumida.lg.jp/web/citymap_index.html?lat=35.720355&lng=139.801497&zoom=14&ctgr=%E5%81%A5%E5%BA%B7%E3%83%BB%E5%8C%BB%E7%99%82%E6%96%BD%E8%A8%AD&mk=%E5%A2%A8%E7%94%B0%E5%8C%BA%E4%BC%91%E6%97%A5%E5%BF%9C%E6%80%A5%E8%A8%BA%E7%99%82%E6%89%80"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "墨田区では、夜間や日曜・祝日、年末年始に、休日応急診療所にて診療を行っています。",
+  "support": {
+    "description": "日曜日や祝日、年末年始（12月29日から1月3日）に、急に体の具合が悪くなったとき、応急診療を行っていますので、ご利用ください。診療科目は、内科と小児科です。",
+    "materiallySupport": "日曜日や祝日、年末年始（12月29日から1月3日）に、急に体の具合が悪くなったとき、応急診療を行っていますので、ご利用ください。診療科目は、内科と小児科です。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-01-16",
+  "useConsiderationFlag": false,
+  "utilization": "※保険証や医療証を忘れずにお持ちください。\n※初期救急（入院を必要としない軽症者）に対応します。\n※受診前に必ず電話で、ご連絡ください。その際に、受診時間・受診方法をご案内します。事前連絡がない場合は、一度帰宅していただく場合がありますので、ご注意ください。\n\n連絡先\n電話番号：03-5608-3700（直通）\n\n所在地\n墨田区休日応急診療所（すみだ福祉保健センター内）地図;https://www.city.sumida.lg.jp/sisetu_info/hoken_iryousisetu/sumidakukyujituoukyu.images/fukusihokensenta.jpg\n所在地\n東京都墨田区向島三丁目36番7号すみだ福祉保健センター内\nすみだマップ;https://www.city.sumida.lg.jp/web/citymap_index.html?lat=35.716864&lng=139.809623&zoom=14&k=%E5%A2%A8%E7%94%B0%E5%8C%BA%E4%BC%91%E6%97%A5%E5%BF%9C%E6%80%A5%E8%A8%BA%E7%99%82%E6%89%80&ctgr=%E5%81%A5%E5%BA%B7%E3%83%BB%E5%8C%BB%E7%99%82%E6%96%BD%E8%A8%AD&mk=%E5%A2%A8%E7%94%B0%E5%8C%BA%E4%BC%91%E6%97%A5%E5%BF%9C%E6%80%A5%E8%A8%BA%E7%99%82%E6%89%80\nバリアフリーマップ（外部サイト）;http://www.machi-info.jp/machikado/sumida_city/index.jsp?&lon=139.8140753&lat=35.7102042&scale=2500&mode=1\n\n交通案内\n東武線・京成線・都営浅草線・半蔵門線「押上駅」下車Ａ3出口徒歩7分\n東武線「とうきょうスカイツリー駅」徒歩10分\n最寄のバス停「向島2丁目」、「向島3丁目」徒歩3分",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "診療日時\n日曜日、祝日、年末年始　午前9時から午後10時まで\n\n受付時間\n午前9時から午後9時30分まで",
+    "fromHM": "09:00",
+    "toHM": "21:30"
+  }
+}

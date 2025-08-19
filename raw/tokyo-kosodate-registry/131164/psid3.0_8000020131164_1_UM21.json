@@ -1,0 +1,141 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課庶務・事業グループ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+1+UM21"
+  },
+  "belongings": "総合窓口課で出生届提出後、郵送される「誕生お祝い品案内チケット」とお子さまの誕生日が確認できるもの（母子健康手帳など）が必要です。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て支援課庶務・事業グループ",
+    "contactPhone": "03-4566-2478",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "豊島区では、全ての子育て家庭に対して、妊娠中からの支援や出産後の育児支援などの切れ目ない支援を通じて、妊婦、乳幼児、保護者の心身の健康の保持、増進に努めるとともに、家庭の孤立化を防ぐなど、健全な育児環境の確保を図ることを目的として、ご出産されたかた全員に「おめでとう面接」をおこないます。\n\nまた、「おめでとう面接」を終了されたかたに、「誕生お祝い品」をプレゼントします。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出産祝い",
+    "shortName": "ゆりかご・としま事業"
+  },
+  "localGovernmentLink": {
+    "title": "ゆりかご・としま事業（ご出産されたかた）",
+    "uri": "https://www.city.toshima.lg.jp/258/kosodate/ninshin/1507141633.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": "子育てインフォメーション,東部子ども家庭支援センター,西部子ども家庭支援センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "おめでとう面接・誕生お祝い品受取りまでの流れ\n1.総合窓口課で出生届の提出をします。\n2.誕生お祝い品案内チケットが郵送されます。\n3.下記3か所のいずれかにお越しください。子ども家庭支援ワーカーが「おめでとう面接」を実施します。\n・子育てインフォメーション;http://www.city.toshima.lg.jp/258/kosodate/infomation.html\n・東部子ども家庭支援センター;http://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/001746/annai/006556.html\n・西部子ども家庭支援センター;http://www.city.toshima.lg.jp/266/kosodate/kosodate/shiencenter/001746/annai/2005251634.html\n4.誕生お祝い品受取りの手続きをします。\nおもちゃの見本をご紹介します。おもちゃが決まりましたら、「ゆりかご・としま誕生お祝い品申込書」をお渡ししますので、記入・提出してください。\n5.後日、お宅におもちゃが送付されます。\n\nお子さんの1歳のお誕生日までに、お申込みをしてください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "やさしい日本語（チケット送付時)（PDF：499KB）",
+      "uri": "https://www.city.toshima.lg.jp/258/kosodate/ninshin/documents/r4soufu.pdf"
+    },
+    {
+      "title": "やさしい日本語（勧奨時）（PDF：483KB）",
+      "uri": "https://www.city.toshima.lg.jp/258/kosodate/ninshin/documents/r4kansyou.pdf"
+    },
+    {
+      "title": "ゆりかご・としま事業（妊娠中のかた）",
+      "uri": "https://www.city.toshima.lg.jp/219/kosodate/ninshin/yurikago/1507071003.html"
+    },
+    {
+      "title": "～誕生お祝い品のご案内～（PDF：434KB）",
+      "uri": "https://www.city.toshima.lg.jp/258/kosodate/ninshin/documents/yurikagosinreafret.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "豊島区にお住まいの方がお子さんを出産した場合、ご出産されたかた全員に「おめでとう面接」をおこないます。また、「おめでとう面接」を終了されたかたに、「誕生お祝い品」をプレゼントします。",
+  "support": {
+    "description": "「おめでとう面接」を終了されたかたに、「誕生お祝い品」をプレゼントします。",
+    "materiallySupport": "誕生お祝い品のご案内\nパンフレット\n～誕生お祝い品のご案内～（PDF：434KB）;https://www.city.toshima.lg.jp/258/kosodate/ninshin/documents/yurikagosinreafret.pdf\nゆりかごとしまロゴ\n誕生お祝い品は変更になる場合があります。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "豊島区に住民登録があり、ご出産された産婦のかた"
+  },
+  "updateDate": "2023-06-30",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

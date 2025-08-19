@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "133086;奥多摩町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健福祉センター　母子保健担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020133086",
+    "psid": "psid3.0+8000020133086+1+UM52"
+  },
+  "belongings": "母子健康手帳,アンケート,3歳児の方のみ、さらに目と耳のアンケート,尿,歯ブラシ　1本（フッ素塗布に来ない方のみ）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "奥多摩町氷川1111",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健福祉センター 母子保健担当",
+    "contactPhone": "0428-83-2777",
+    "contactUrl": null,
+    "zipCode": "1980212"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "お子さんの健やかな成長・発達の確認をし、日頃感じている心配事を一緒に考えていく場です。対象となる方にはおよそ1 か月前に通知を郵送します。できるだけご案内する日時に受診してください。都合で来られない方は母子保健担当までご連絡ください。\n● 1 歳6 か月児・3 歳児健診（対象となる方には、およそ1 か月前に通知します）\n対象者（1 歳6 か月児健診）\n対象者（3 歳児健診）\n保健福祉センター\n（受付）\n1歳6か月児の方\n午後1：00〜午後1：10\n3歳児の方\n午後1：10 〜午後1：20\n（健診終了予定）\n午後3：30\n（内容）\n身体測定　内科・歯科診察　育児相談　栄養相談　心理相談\n（持ち物）\n母子健康手帳　アンケート　3歳児の方のみ、さらに目と耳のアンケート　尿　歯ブラシ1本（フッ素塗布に来ない方のみ）\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "● 1 歳6 か月児・3 歳児健診（対象となる方には、およそ1 か月前に通知します）\n対象者（1 歳6 か月児健診）\n対象者（3 歳児健診）\n保健福祉センター\n（受付）\n1歳6か月児の方\n午後1：00〜午後1：10\n3歳児の方\n午後1：10 〜午後1：20\n（健診終了予定）\n午後3：30\n（内容）\n身体測定　内科・歯科診察　育児相談　栄養相談　心理相談\n（持ち物）\n母子健康手帳　アンケート　3歳児の方のみ、さらに目と耳のアンケート　尿　歯ブラシ1本（フッ素塗布に来ない方のみ）\n",
+    "fromHM": "13:10",
+    "fromYMD": null,
+    "toHM": "15:30",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "保健福祉センター"
+  },
+  "institutionName": {
+    "canonicalName": "3歳児健康診査",
+    "shortName": "3 歳児健診"
+  },
+  "localGovernmentLink": {
+    "title": "奥多摩町の福祉サービス（母子・子育て編）2024年度版 (PDFファイル: 1.4MB)",
+    "uri": "https://www.town.okutama.tokyo.jp/material/files/group/7/fukushikosodate2024.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-12",
+    "updater": "奥多摩町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "都合で来られない方は母子保健担当までご連絡ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第12条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "からだやこころの成長とともに社会性も急速に発達するこの頃は、人間形成の基礎となる大切な時期です。奥多摩町では3歳児健康診査を実施しています。\n小児科医による診察のほか、歯科健診及び心理相談を実施しています。",
+  "support": {
+    "description": "身体測定,内科・歯科診察,育児相談,栄養相談,心理相談",
+    "materiallySupport": "身体測定,内科・歯科診察,育児相談,栄養相談,心理相談",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "満３歳から満４歳になる前",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "満３歳から満４歳になる前のお子様"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "対象となる方には、およそ1 か月前に通知します",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

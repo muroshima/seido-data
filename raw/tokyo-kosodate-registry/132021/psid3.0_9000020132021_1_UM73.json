@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132021;立川市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部保育課入園認定係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020132021",
+    "psid": "psid3.0+9000020132021+1+UM73"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "立川市泉町1156-9",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 保育課 入園認定係",
+    "contactPhone": "042-528-4328",
+    "contactUrl": null,
+    "zipCode": "1908666"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "立川市ホームページからご確認ください。;https://www.city.tachikawa.lg.jp\n保育施設の申し込み\n保育施設利用申込みの電子申請について\n育児休業明け入園予約\n保育施設ごとの募集人数一覧\n入所希望者の応募状況\n入所決定者の最低指数一覧\nよくある質問（保育施設の利用申込み等）",
+  "electronicSubmission": true,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "認可保育所（保育園）の利用について",
+    "shortName": "保育施設の利用申込み等"
+  },
+  "localGovernmentLink": {
+    "title": "保育施設の利用申込み等",
+    "uri": "https://www.city.tachikawa.lg.jp/kosodate/m-kosodate/1004946/1005097/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "立川市"
+  },
+  "procedureCounter": "立川市保育課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第24条",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育園とは、保護者が共に働いていたり病気などの理由で、昼間家庭において保育を受けられないお子さんを、保護者に代わって保育する児童福祉施設で、法的には「保育所」といいます。\n保育所（保育園）には、国が定めた設置基準をクリアし、都道府県知事に認可された保育所と、それ以外の保育所がありますが、ここでは認可された保育所についてご案内します。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

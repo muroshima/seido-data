@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "133647;神津島村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "役場福祉課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020133647",
+    "psid": "psid3.0+9000020133647+1+UM67"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "役場福祉課",
+    "contactPhone": "04992-8-0011",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "児童育成手当（障害手当）\n児童育成手当（障害手当）は、東京都の制度で、下記支給対象のいずれかに該当する 20 歳未満の児童を養育している父・母または養育者の方に支給される手当です。\n■支給対象者\n次のいずれかに該当する 20 歳未満の児童を扶養している保護者\n・「身体障害者手帳」1・2 級程度の方\n・「愛の手帳」1・2・3 度程度の方\n・脳性まひまたは進行性筋萎縮症による「身体障害者手帳」をお持ちの方\n※その他、障害の種類・程度が上記以外でも、診断書（所定の書式）の提出により認定になる場合があります。\n■次の方は資格対象外です\n・申請者の前年中の所得が所得制限限度額以上のとき\n・児童が児童福祉施設等に入所しているとき",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の障がいのあるお子さんなどへの金銭的支援",
+    "shortName": "児童育成手当（障害手当）"
+  },
+  "localGovernmentLink": {
+    "title": "障害のある子どもへの支援",
+    "uri": "https://www.vill.kouzushima.tokyo.jp/images/2023/03/20210318-sien.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-08-19",
+    "updater": "神津島村"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "20歳未満の障害のあるお子さんの保護者を対象に、障害手当を支給しています。",
+  "support": {
+    "description": "下記支給対象のいずれかに該当する 20 歳未満の児童を養育している父・母または養育者の方に支給される手当です。",
+    "materiallySupport": null,
+    "monetarySupport": "下記支給対象のいずれかに該当する 20 歳未満の児童を養育している父・母または養育者の方に支給される手当です。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "20 歳未満の児童を扶養している保護者",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次のいずれかに該当する 20 歳未満の児童を扶養している保護者\n・「身体障害者手帳」1・2 級程度の方\n・「愛の手帳」1・2・3 度程度の方\n・脳性まひまたは進行性筋萎縮症による「身体障害者手帳」をお持ちの方\n※その他、障害の種類・程度が上記以外でも、診断書（所定の書式）の提出により認定になる場合があります。\n■次の方は資格対象外です\n・申請者の前年中の所得が所得制限限度額以上のとき\n・児童が児童福祉施設等に入所しているとき"
+  },
+  "updateDate": "2021-03-18",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

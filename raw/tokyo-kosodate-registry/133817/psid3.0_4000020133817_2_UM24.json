@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "133817;三宅村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉健康課 福祉係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "4000020133817",
+    "psid": "psid3.0+4000020133817+2+UM24"
+  },
+  "belongings": "健康保険証の写し(認定請求者分)\n認定請求者名義の金融機関口座がわかるもの\n申請者及び配偶者の個人番号のわかるもの￥n(注)その他必要に応じて書類を提出していただく場合があります。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三宅島三宅村阿古497",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "三宅村役場臨時庁舎 福祉健康課 福祉係",
+    "contactPhone": "04994-5-0902",
+    "contactUrl": null,
+    "zipCode": "1001212"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "児童手当\n児童手当\n高等学校修了前(18歳到達後の最初の3月31日まで)の児童を養育している村内在住の方に支給されます。\n(注)公務員の方は勤務先より支給となりますので、請求方法等は勤務先にご確認ください。\n\n対象\n高等学校修了前(18歳到達後の最初の3月31日まで)の児童を養育している村内在住の方(公務員の方を除く)に支給されます。\n\n手当の月額(月額、1人あたり)\n|区分|手当額|\n|:----|:----|\n|0歳から3歳未満|15,000円|\n|3歳以上高校生年代(第1子・第2子)|10,000円|\n|第3子以降一律|30,000円|\n|\n\n支給方法と支給時期\n2月、４月、6月、８月、10月、12月の各月10日ごろにそれぞれの前月分までを口座へ振り込みます。\n支給対象期間:認定請求書を提出した月の翌月分から支給されます。\n(注)出生日・転入日から15日以内であれば、翌月に認定請求書を提出しても出生月・転入月の翌月分から支給されます。\n\n認定請求できる方\n児童を監護し、かつ、生計を同一にする父または母\n父も母も児童を看護している場合は、主な生計者(所得の高い方)\n父母指定者\n父母等が国外に居住している場合、児童を監護している方が父母指定者として認定請求できる場合があります。\n未成年後見人\n児童養護施設等の設置者等または里親\n児童が施設に入所している場合や里親に委託されている場合、児童の父母は請求できません。\n手続きに必要なもの\n健康保険証の写し(認定請求者分)\n認定請求者名義の金融機関口座がわかるもの\n申請者及び配偶者の個人番号のわかるもの\n以下、必要な方のみ\n\n(注)その他必要に応じて書類を提出していただく場合があります。\n現況届\n児童手当を受給している方は、毎年6月に受給資格の確認を行ないます。\n届出が必要な方には5月下旬に「現況届」をお送りしますので必ず提出してください。\n\n届出が必要なとき\n住所が変わったとき\n支給対象児童が増えたとき・減ったとき\n児童が施設等に入所したとき\n受給者・児童名を変更したとき\n振り込み口座を変更したいとき",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "児童手当",
+    "shortName": "児童手当"
+  },
+  "localGovernmentLink": {
+    "title": "児童手当と医療費助成",
+    "uri": "https://www.vill.miyake.tokyo.jp/kakuka/sonminseikatsu/teate_josei.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-10-18",
+    "updater": "三宅村"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "現況届\n児童手当を受給している方は、毎年6月に受給資格の確認を行ないます。\n届出が必要な方には5月下旬に「現況届」をお送りしますので必ず提出してください。\n\n届出が必要なとき\n住所が変わったとき\n支給対象児童が増えたとき・減ったとき\n児童が施設等に入所したとき\n受給者・児童名を変更したとき\n振り込み口座を変更したいとき",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "児童手当法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "家庭における生活の安定と、これからの社会を担うお子さんの健やかな成長のために、高校生年代までの児童（0歳から18歳に達する日以後の最初の3月31日までの間にある子）を養育している人に、児童手当を支給します。",
+  "support": {
+    "description": "手当は、偶数月に、前月までの2か月分をまとめて支給します。\n支給額は、支給対象となるお子さんの年齢や、養育するお子さんの人数により異なります。\n※養育するお子さんの人数は、大学生年代（22歳に達する日以降の最初の3月31日）までのお子さんのうち、年長者から第1子、第2子と数えます。\nお子さんの年齢や出生順位に応じて、以下の金額を支給します。\n＜3歳から18歳（18歳に達する日以降の最初の3月31日）＞\n第1子、第2子：月額1万円\n第3子以降：月額3万円",
+    "materiallySupport": null,
+    "monetarySupport": "第1子、第2子：月額1万円\n第3子以降：月額3万円"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "3歳から18歳（18歳に達する日以降の最初の3月31日）まで\n\n第3子以降は養育する22歳（22歳に達する日以降の最初の3月31日）までの児童の人数により判定します。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "高校生年代（18歳に達する日以後の最初の3月31日）までのお子さんを養育している方が対象です。\nお子さんを養育している父母、または未成年後見人の場合:原則として、お子さんが日本国内に住んでいる場合に手当を支給します。\nお子さんが留学を理由に海外に住んでおり、以下の要件を満たしている場合は、例外として、そのお子さんの分の手当を受け取ることができます。\n1.日本国内に住所を有しなくなった前日までに日本国内に継続して3年を超えて住所を有していたこと\n2.教育を受けることを目的として海外に居住しており、父母（未成年後見人がいる場合はその未成年後見人）と同居していないこと\n3.日本国内に住所を有しなくなった日から3年以内であること\n※その他、短期間留学していて日本に帰国し、再び3年以内に留学する場合などは、上記の要件を満たしていなくても、手当を受け取れる場合があります。\n両親が離婚協議中で別居している場合:父母が、離婚協議中で別居している場合は、お子さんと同居している方を優先して支給する場合があります。\n父母等が海外に住んでいる場合:父母等が海外に住んでいる場合、その父母が、日本国内に住むお子さんを養育している人を指定すれば、指定された方に手当を支給します。お子さんの住所のある市区町村に「父母指定者指定届」を提出して、認定を受けてください。\n※ただし、単身赴任の場合は、これまでどおり、お子さんの生活費を主に負担している方に支給します。\n未成年後見人がいる場合:お子さんを養育している未成年後見人がいる場合は、未成年後見人に手当を支給します。\nお子さんが施設に入所している場合や里親などに委託されている場合:お子さんが施設に入所している場合や里親などに委託されている（預けられている）場合は、原則として、その施設の設置者や里親などに手当を支給します。"
+  },
+  "updateDate": "2024-10-18",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

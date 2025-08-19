@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132187;福生市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　こども家庭センター課　こども家庭支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132187",
+    "psid": "psid3.0+8000020132187+1+UM87"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "福生市南田園 2-13-1 福生市福祉センター",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福生市ファミリー・サポート・センター",
+    "contactPhone": "042-510-0904",
+    "contactUrl": null,
+    "zipCode": "1970004"
+  },
+  "cost": null,
+  "costConditions": "利用料金は、提供会員の援助活動に対する費用として支払われます。\n\n|月曜日～土曜日|<|<|\n|:----|:----|:----|\n|基準額（1時間）|午前6時～7時|900円/時間|\n|^|午前7時～午後7時|700円/時間|\n|^|午後7時～10時|900円/時間|\n\n|日曜日・祝日・年末年始（12月29日〜1月3日）|<|<|\n|:----|:----|:----|\n|基準額（1時間）|午前6時～午後10時|900円/時間|\n",
+  "description": "育児の援助をしてほしい方（依頼会員）と育児の援助ができる方（提供会員）が会員となり、地域の中で助け合いながら子育てをする会員組織です。\n子育て支援の輪がひろがるように、多くの方の会員登録をお待ちしています。\n\n援助内容\n・保育園、幼稚園、学童クラブ、小学校等への送迎と、その前後の預かり\n・保護者が学校行事、地域の活動、通院、求職活動等で外出するときの預かり等\n\n育児の援助をしてほしい方（依頼会員）\n市内にお住まいまたは在勤し、生後57日から小学校6年生までの児童の保護者で、育児の援助を必要とする方。\n\n育児の援助ができる方（提供会員）\n市内にお住まいの心身ともに健康な20歳以上で、センターが実施する講習会を受講し、修了した方。\n\n利用料\n利用料金は、提供会員の援助活動に対する費用として支払われます。\n|月曜日～土曜日|<|<|\n|:----|:----|:----|\n|基準額（1時間）|午前6時～7時|900円/時間|\n|^|午前7時～午後7時|700円/時間|\n|^|午後7時～10時|900円/時間|\n\n|日曜日・祝日・年末年始（12月29日〜1月3日）|<|<|\n|:----|:----|:----|\n|基準額（1時間）|午前6時～午後10時|900円/時間|\n\nリーフレット\nファミリーサポートセンターリーフレット（491KB）;https://fussashakyo.or.jp/pdf/service/familysupportcenter_pamplet.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "ファミリー・サポート・センター",
+    "shortName": "福生市ファミリー・サポート・センター"
+  },
+  "localGovernmentLink": {
+    "title": "福生市ファミリー・サポート・センター",
+    "uri": "https://fussashakyo.or.jp/service/childcare/familysupportcenter/"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "福生市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第14項、第21条の9、第59条第12号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "福生市のファミリー・サポート・センターは、子育ての援助を受けたい人と援助を行いたい人が会員登録をし、援助会員が依頼会員に対してさまざまな育児の手助けをする事業です。",
+  "support": {
+    "description": "育児の援助をしてほしい方（依頼会員）と育児の援助ができる方（提供会員）が会員となり、地域の中で助け合いながら子育てをする会員組織です。\n\n援助内容\n・保育園、幼稚園、学童クラブ、小学校等への送迎と、その前後の預かり\n・保護者が学校行事、地域の活動、通院、求職活動等で外出するときの預かり等",
+    "materiallySupport": "育児の援助をしてほしい方（依頼会員）と育児の援助ができる方（提供会員）が会員となり、地域の中で助け合いながら子育てをする会員組織です。\n\n援助内容\n・保育園、幼稚園、学童クラブ、小学校等への送迎と、その前後の預かり\n・保護者が学校行事、地域の活動、通院、求職活動等で外出するときの預かり等",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "市内にお住まいまたは在勤し、生後57日から小学校6年生までの児童の保護者で、育児の援助を必要とする方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "市内にお住まいまたは在勤し、生後57日から小学校6年生までの児童の保護者で、育児の援助を必要とする方"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131130;渋谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "生活衛生課事業係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020131130",
+    "psid": "psid3.0+9000020131130+1+UM114"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "FAX03-5458-4943",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "生活衛生課事業係",
+    "contactPhone": "03-3463-2246",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "しぶやこども救急室\n診療科目：小児科\n受付時間：19時～22時（平日、土曜日、日曜日、祝日、年末年始）\n診療機関：日本赤十字社医療センター（外部サイト）;http://www.med.jrc.or.jp/（電話：03-3400-1311）\n\n（注）日本赤十字社医療センターでは、救急の場合、上記の時間以外でも診療を受け付けます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "渋谷区広尾4-1-22",
+    "implementationName": "日本赤十字社医療センター"
+  },
+  "institutionName": {
+    "canonicalName": "小児科救急",
+    "shortName": "しぶやこども救急室"
+  },
+  "localGovernmentLink": {
+    "title": "休日夜間・救急診療",
+    "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/kenko/yakan_shinryo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "渋谷区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "渋谷区小児初期夜間救急診療実施要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "日本赤十字社医療センター（外部サイト）",
+      "uri": "https://www.med.jrc.or.jp/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "渋谷区では、区内の小児科医がローテーションを組んで、休日や夜間に、赤ちゃんやお子さんが救急の際の診療を行っています。",
+  "support": {
+    "description": "診療科目：小児科\n（注）日本赤十字社医療センターでは、救急の場合、上記の時間以外でも診療を受け付けます。",
+    "materiallySupport": "診療科目：小児科\n（注）日本赤十字社医療センターでは、救急の場合、上記の時間以外でも診療を受け付けます。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-05-17",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "日本赤十字社医療センターでは、救急の場合、上記の時間以外でも診療を受け付けます。",
+    "fromHM": "19:00",
+    "toHM": "22:00"
+  }
+}

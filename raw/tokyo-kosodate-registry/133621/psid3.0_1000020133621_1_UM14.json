@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "133621;利島村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "利島村役場　住民課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133621",
+    "psid": "psid3.0+1000020133621+1+UM14"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "利島村役場　住民課",
+    "contactPhone": "04992-9-0013",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "利島村では、様々な福祉事業を行っています。何かお困りごとがあれば、気軽に担当課までご相談ください。\n\n福祉事業及び各種医療制度\n【幼児・子ども】\nこんにちは赤ちゃん訪問\n乳幼児健康診査・相談\n子どもの予防接種\n子どもの発達相談（心理士・言語聴覚士・作業療法士）\n子育て広場\n乳幼児医療助成\n義務教育就学児童医療助成\n【大人】\n住民健診・事業所健診・がん検診\n健診結果説明会\nリハビリ教室\n高齢者肺炎球菌予防接種\nひとり親家族等医療助成\n精神科医によるこころの健康相談\n健康づくり事業（ヨガ教室）\n生活習慣病予防事業(栄養指導・歯科指導)\n【その他】\nインフルエンザ予防接種\n高齢者向け事業（シニアカー購入助成事業・補聴器購入費助成）\n専門診療（眼科・整形・耳鼻科）\n歯科診療（毎月）\n歯科検診（年4回）\n【各種医療制度】\n難病医療費助成\n自立支援医療費助成\n大気汚染医療費助成\n心身障害者医療費助成\n身体障害者手帳\n愛の手帳\n精神障害者保険福祉手帳\n島外医療機関通院交通費等支援事業(PDF 177KB);https://www.toshimamura.org/fs/9/3/0/6/3/_/tougai-nanbyou.pdf\n難病者等医療通院支援事業(PDF 177KB);https://www.toshimamura.org/fs/9/3/0/6/4/_/tougai-nanbyou.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+    "shortName": "こんにちは赤ちゃん訪問"
+  },
+  "localGovernmentLink": {
+    "title": "健康・福祉・各種医療制度",
+    "uri": "https://www.toshimamura.org/life/pension/welfare.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/03/13",
+    "updater": "利島村"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第21条の10の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "生後4か月を迎えるまでの乳児がいるご家庭には専門職のほか、研修を受けたスタッフが訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "幼児・子ども"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

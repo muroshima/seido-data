@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131059;文京区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子ども家庭支援センター児童相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131059",
+    "psid": "psid3.0+6000020131059+2+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都文京区春日1丁目16番21号文京シビックセンター5階",
+    "contactComment": "LINE相談についてのお問い合わせ先\n東京都福祉保健局少子社会対策部計画課：03-5320-4114\nファクス番号：03-5803-1345",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "東京都福祉保健局少子社会対策部計画課",
+    "contactPhone": "03-5320-4114",
+    "contactUrl": "https://logoform.jp/form/6KSu/553778",
+    "zipCode": "1128555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "親子のための相談LINE\n令和5年4月1日より、「子ゴコロ・親ゴコロ相談＠東京」が、「親子のための相談LINE」に変わりました!\n\nこの度、厚生労働省において全国どの地域においても、子どもや家庭からSNS相談ができるよう、相談を一元的に受け付けた上で相談内容を各自治体に転送し、各自治体においてSNS上で相談を受け付ける「親子のための相談LINE」が開始されました。\n\n東京都では、児童相談体制の強化に向けた取組の一つとして、令和元年よりLINEを利用した相談窓口を実施しています。\n\n「身近な家族のこと。相談したくても、知っている人には相談しづらい」\n\n「子どもの気持ちがわからない・・・」など\n\n親子のかかわりで困っていることや子育ての悩みも、LINEでなら話せるかもしれません。ひとりで抱え込まず、気軽に相談してください。\n\n対象\n東京都在住の児童（18歳未満）・保護者\n\n東京都の相談対応時間\n平日は9時～23時まで（受付は、22時30分まで）\n\n土・日・祝日、年末年始は(12月29日～1月3日）9時～午後5時まで）\n\n新アカウントのQRコード\n4月1日より、アカウントが変更になります。\n\n今までのLINE登録をしていた方はお手数ですが、下記のQRコードを読み取り、友だち登録をしてください。\n\n新アカウント友達登録QRコード;https://www.city.bunkyo.lg.jp/images/1820/qr_ko-do_1.jpg\n\n(注)虐待の通告は、児童相談所虐待対応ダイヤル 189 をご利用ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "東京都福祉保健局少子社会対策部計画課"
+  },
+  "institutionName": {
+    "canonicalName": "文京区の子育てに関する相談",
+    "shortName": "子どもと家庭に係る総合相談"
+  },
+  "localGovernmentLink": {
+    "title": "子どもと家庭に係る総合相談",
+    "uri": "https://www.city.bunkyo.lg.jp/b024/p001832.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-30",
+    "updater": "文京区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "LINE",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "東京都では、児童相談体制の強化に向けた取組の一つとして、令和元年よりLINEを利用した相談窓口を実施しています。",
+  "support": {
+    "description": "児童相談体制の強化に向けた取組の一つとして、令和元年よりLINEを利用した相談窓口を実施しています。",
+    "materiallySupport": "児童相談体制の強化に向けた取組の一つとして、令和元年よりLINEを利用した相談窓口を実施しています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "児童（18歳未満）・保護者",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "東京都在住の児童（18歳未満）・保護者"
+  },
+  "updateDate": "2023-12-20",
+  "useConsiderationFlag": false,
+  "utilization": "下記のQRコードを読み取り、友だち登録をしてください。\n\n新アカウント友達登録QRコード;https://www.city.bunkyo.lg.jp/images/1820/qr_ko-do_1.jpg",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "平日は9時～23時まで（受付は、22時30分まで）\n\n土・日・祝日、年末年始は(12月29日～1月3日）9時～午後5時まで）",
+    "fromHM": null,
+    "toHM": null
+  }
+}

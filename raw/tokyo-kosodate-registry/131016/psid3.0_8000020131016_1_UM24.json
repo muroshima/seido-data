@@ -1,0 +1,167 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局子ども部子育て推進課手当・医療係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+1+UM24"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区九段南1-2-1",
+    "contactComment": null,
+    "contactEmail": "kosodatesuishin@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "教育委員会事務局子ども部子育て推進課手当・医療係",
+    "contactPhone": "03-5211-4230",
+    "contactUrl": null,
+    "zipCode": "1028688"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "国は、次世代の社会を担う児童の健やかな育ちを支援するために、児童手当制度を実施しています。\n\n児童手当制度\n\n詳細については、次の項目をクリックしてください。\n\n1.手当月額;https://www.city.chiyoda.lg.jp/koho/kosodate/teate/jidoteate/getsugaku.html#jidou_01\n2.支給対象者（手当を受給できる方）;https://www.city.chiyoda.lg.jp/koho/kosodate/teate/jidoteate/taisho.html#jidou_03\n3.対象となる児童;https://www.city.chiyoda.lg.jp/koho/kosodate/teate/jidoteate/taisho.html#jidou_04\n4.申請先;https://www.city.chiyoda.lg.jp/koho/kosodate/teate/jidoteate/taisho.html#jidou_05\n5.申請時期について（出生や転入の際は15日以内にお手続きを）;https://www.city.chiyoda.lg.jp/koho/kosodate/teate/jidoteate/taisho.html#jidou_06\n6.新規申請に必要なもの;https://www.city.chiyoda.lg.jp/koho/kosodate/teate/jidoteate/shinki.html#jidou_07\n7.支払月;https://www.city.chiyoda.lg.jp/koho/kosodate/teate/jidoteate/shiharai.html#jidou_08\n8.現況届;https://www.city.chiyoda.lg.jp/koho/kosodate/teate/jidoteate/shiharai.html#jidou_09\n9.児童手当に関する各種届出について;https://www.city.chiyoda.lg.jp/koho/kosodate/teate/jidoteate/kakushu.html#jidou_10\n10.児童手当の寄附について;https://www.city.chiyoda.lg.jp/koho/kosodate/teate/jidoteate/kakushu.html#jidou_11\n11.令和６年10月から児童手当が変わります;https://www.city.chiyoda.lg.jp/koho/kosodate/teate/jidoteate-oshirase.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "児童手当",
+    "shortName": "児童手当"
+  },
+  "localGovernmentLink": {
+    "title": "児童手当",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/teate/jidoteate/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "児童手当法"
+  },
+  "relatedLink": [
+    {
+      "title": "児童手当に関する各種届出について",
+      "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/teate/jidoteate/shiharai.html#jidou_09"
+    },
+    {
+      "title": "支払月",
+      "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/teate/jidoteate/shinki.html#jidou_07"
+    },
+    {
+      "title": "支給対象者",
+      "uri": ""
+    },
+    {
+      "title": "申請先",
+      "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/teate/jidoteate/taisho.html#jidou_04"
+    },
+    {
+      "title": "手当月額",
+      "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/teate/jidoteate/getsugaku.html#jidou_01"
+    },
+    {
+      "title": "令和６年10月から児童手当が変わります",
+      "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/teate/jidoteate/kakushu.html#jidou_11"
+    },
+    {
+      "title": "現況届",
+      "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/teate/jidoteate/shiharai.html#jidou_08"
+    },
+    {
+      "title": "児童手当の寄付について",
+      "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/teate/jidoteate/kakushu.html#jidou_10"
+    },
+    {
+      "title": "対象となる児童",
+      "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/teate/jidoteate/taisho.html#jidou_03"
+    },
+    {
+      "title": "申請時期について（出生や転入の際は15日以内にお手続きを）",
+      "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/teate/jidoteate/taisho.html#jidou_05"
+    },
+    {
+      "title": "新規申請に必要なもの",
+      "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/teate/jidoteate/taisho.html#jidou_06"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "家庭における生活の安定と、これからの社会を担うお子さんの健やかな成長のために、高校生年代までの児童（0歳から18歳に達する日以後の最初の3月31日までの間にある子）を養育している人に、児童手当を支給します。",
+  "support": {
+    "description": "手当は、偶数月に、前月までの2か月分をまとめて支給します。\n支給額は、支給対象となるお子さんの年齢や、養育するお子さんの人数により異なります。\n※養育するお子さんの人数は、大学生年代（22歳に達する日以降の最初の3月31日）までのお子さんのうち、年長者から第1子、第2子と数えます。\nお子さんの年齢や出生順位に応じて、以下の金額を支給します。\n＜0歳から3歳未満＞\n第1子、第2子：月額1万5,000円\n第3子以降：月額3万円",
+    "materiallySupport": null,
+    "monetarySupport": "第1子、第2子：月額1万5,000円\n第3子以降：月額3万円"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0歳から3歳未満\n\n第3子以降は養育する22歳（22歳に達する日以降の最初の3月31日）までの児童の人数により判定します。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "高校生年代（18歳に達する日以後の最初の3月31日）までのお子さんを養育している方が対象です。\nお子さんを養育している父母、または未成年後見人の場合:原則として、お子さんが日本国内に住んでいる場合に手当を支給します。\nお子さんが留学を理由に海外に住んでおり、以下の要件を満たしている場合は、例外として、そのお子さんの分の手当を受け取ることができます。\n1.日本国内に住所を有しなくなった前日までに日本国内に継続して3年を超えて住所を有していたこと\n2.教育を受けることを目的として海外に居住しており、父母（未成年後見人がいる場合はその未成年後見人）と同居していないこと\n3.日本国内に住所を有しなくなった日から3年以内であること\n※その他、短期間留学していて日本に帰国し、再び3年以内に留学する場合などは、上記の要件を満たしていなくても、手当を受け取れる場合があります。\n両親が離婚協議中で別居している場合:父母が、離婚協議中で別居している場合は、お子さんと同居している方を優先して支給する場合があります。\n父母等が海外に住んでいる場合:父母等が海外に住んでいる場合、その父母が、日本国内に住むお子さんを養育している人を指定すれば、指定された方に手当を支給します。お子さんの住所のある市区町村に「父母指定者指定届」を提出して、認定を受けてください。\n※ただし、単身赴任の場合は、これまでどおり、お子さんの生活費を主に負担している方に支給します。\n未成年後見人がいる場合:お子さんを養育している未成年後見人がいる場合は、未成年後見人に手当を支給します。\nお子さんが施設に入所している場合や里親などに委託されている場合:お子さんが施設に入所している場合や里親などに委託されている（預けられている）場合は、原則として、その施設の設置者や里親などに手当を支給します。"
+  },
+  "updateDate": "2024-10-09",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

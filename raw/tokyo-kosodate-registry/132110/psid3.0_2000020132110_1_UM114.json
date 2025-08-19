@@ -1,0 +1,148 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康推進課予防担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+1+UM114"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市学園東町1-19-12　健康センター1階",
+    "contactComment": "FAX：042-346-3705",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康推進課予防担当",
+    "contactPhone": "042-346-3700",
+    "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+    "zipCode": "1870043"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "休日・準夜応急診療と救急病院\n緊急時に受診できる医療機関を紹介します。\n関連リンク\n医療情報ネット\n医療機関の情報が検索できます\n\n診療中の医療機関をさがす\n自宅や勤務先などの近くの医療機関をさがす\n診療科目や診療の領域でさがす\n対応できる外国語でさがす\n詳しくは、医療情報ネットのページ（外部リンク）;https://www.iryou.teikyouseido.mhlw.go.jp/をご覧ください。\n\n東京消防庁救急相談センター「東京版救急受診ガイド」\n病院へ行くか　救急車を呼ぶか　急な病気やけがで迷ったら\n詳しくは、東京版救急受診ガイドのページ（外部リンク）;http://www.tfd.metro.tokyo.jp/hp-kyuuimuka/guide/main/index.htmlをご覧ください。\n\nこどもの救急　おかあさんのための救急、予防サイト\nお子さんの症状にあわせた対処方法が検索できます。\n詳しくは、公益社団法人日本小児科学会こどもの救急のページ（外部リンク）;http://kodomo-qq.jp/をご覧ください。\n\n救急病院\n一橋病院（外部リンク）;https://www.hitotsubashi-hp.or.jp/\n所在地\n小平市学園西町1-2-25\n電話番号\n042-343-1311\n\n24時間救急体制（東京都指定二次救急医療機関）\n曜日により勤務医師の診療科目が異なりますので、事前に電話での確認をお願いします。\n\n公立昭和病院（外部リンク）;https://www.kouritu-showa.jp/\n所在地\n小平市花小金井8-1-1\n電話番号\n042-461-0052\n内科、小児科、外科、産婦人科、脳神経外科等について、24時間体制で行っています。\n\nむさしの救急病院（外部リンク）;https://musashino.koyu-kai.jp/\n所在地\n小平市小川東町1-24-1\n電話番号\n042-313-5520\n軽症から重症まで、幅広い診療科に対応しています。お子様のケガも、安心してご来院ください。\n\nその他応急診療・救急病院等のお問い合わせ\n厚生労働省新型コロナウイルス感染症相談窓口\n電話番号\n0120-565-653\n\n小平消防署\n電話番号\n042-341-0119\n東京消防庁テレホンサービス\n電話番号\n042-521-2323\n東京消防庁救急相談センター\n電話番号\n♯7119（携帯電話、PHS、プッシュ回線）または、042-521-2323\n東京都保健医療情報センター\n電話番号\n03-5272-0303",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "小平市学園西町1-2-25,小平市花小金井8-1-1,小平市小川東町1-24-1",
+    "implementationName": "一橋病院,公立昭和病院,むさしの救急病院"
+  },
+  "institutionName": {
+    "canonicalName": "小児科救急",
+    "shortName": "救急病院"
+  },
+  "localGovernmentLink": {
+    "title": "休日・準夜応急診療と救急病院",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/017/017073.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025-03-25",
+    "updater": "小平市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "医療情報ネットのページ（外部リンク）",
+      "uri": "https://www.iryou.teikyouseido.mhlw.go.jp/"
+    },
+    {
+      "title": "一橋病院（外部リンク）",
+      "uri": "https://www.hitotsubashi-hp.or.jp/"
+    },
+    {
+      "title": "むさしの救急病院（外部リンク）",
+      "uri": "https://musashino.koyu-kai.jp/"
+    },
+    {
+      "title": "公益社団法人日本小児科学会こどもの救急のページ（外部リンク）",
+      "uri": "http://kodomo-qq.jp/"
+    },
+    {
+      "title": "公立昭和病院（外部リンク）",
+      "uri": "https://www.kouritu-showa.jp/"
+    },
+    {
+      "title": "東京版救急受診ガイドのページ（外部リンク）",
+      "uri": "http://www.tfd.metro.tokyo.jp/hp-kyuuimuka/guide/main/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "小平市では、市内の小児科医がローテーションを組んで、休日や夜間に、赤ちゃんやお子さんが救急の際の診療を行っています。",
+  "support": {
+    "description": "救急病院\n一橋病院（外部リンク）;https://www.hitotsubashi-hp.or.jp/\n所在地\n小平市学園西町1-2-25\n電話番号\n042-343-1311\n\n24時間救急体制（東京都指定二次救急医療機関）\n曜日により勤務医師の診療科目が異なりますので、事前に電話での確認をお願いします。\n\n公立昭和病院（外部リンク）;https://www.kouritu-showa.jp/\n所在地\n小平市花小金井8-1-1\n電話番号\n042-461-0052\n内科、小児科、外科、産婦人科、脳神経外科等について、24時間体制で行っています。\n\nむさしの救急病院（外部リンク）;https://musashino.koyu-kai.jp/\n所在地\n小平市小川東町1-24-1\n電話番号\n042-313-5520\n軽症から重症まで、幅広い診療科に対応しています。お子様のケガも、安心してご来院ください。",
+    "materiallySupport": "救急病院\n一橋病院（外部リンク）;https://www.hitotsubashi-hp.or.jp/\n所在地\n小平市学園西町1-2-25\n電話番号\n042-343-1311\n\n24時間救急体制（東京都指定二次救急医療機関）\n曜日により勤務医師の診療科目が異なりますので、事前に電話での確認をお願いします。\n\n公立昭和病院（外部リンク）;https://www.kouritu-showa.jp/\n所在地\n小平市花小金井8-1-1\n電話番号\n042-461-0052\n内科、小児科、外科、産婦人科、脳神経外科等について、24時間体制で行っています。\n\nむさしの救急病院（外部リンク）;https://musashino.koyu-kai.jp/\n所在地\n小平市小川東町1-24-1\n電話番号\n042-313-5520\n軽症から重症まで、幅広い診療科に対応しています。お子様のケガも、安心してご来院ください。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2025-02-20",
+  "useConsiderationFlag": false,
+  "utilization": "電話番号\n042-343-1311\n曜日により勤務医師の診療科目が異なりますので、事前に電話での確認をお願いします。\n\n電話番号\n042-461-0052\n\n電話番号\n042-313-5520 \n軽症から重症まで、幅広い診療科に対応しています。お子様のケガも、安心してご来院ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "24時間救急体制,24時間体制,24時間体制",
+    "fromHM": null,
+    "toHM": null
+  }
+}

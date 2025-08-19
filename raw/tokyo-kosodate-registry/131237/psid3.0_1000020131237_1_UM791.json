@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部健康サービス課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM791"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部健康サービス課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "出生時の体重が2,500グラム未満の乳児については、母子保健法第18条の規定により、低体重児の届出が必要です。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "低体重児出生届の電子申請ページ",
+      "uri": "https://app.oss.myna.go.jp/Application/procdetail/initGet?kc9XUt9I8/CU41afS8P1OaaLxX/9+D2bXPzn80LiqLRKeI438ftq6avj3ZAt+N8AcoQuG3PXNguA/exUOrTECpoRgQMvC1nFYsqZ30Du7y0e5dVC/9bMTh67hHd8S3kP1AUfH2H7xLaG6Dw/5qKrNQ=="
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出生連絡票・低体重児出生届",
+    "shortName": "低体重児出生届"
+  },
+  "localGovernmentLink": {
+    "title": "新生児訪問",
+    "uri": "https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kodomo/homon.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "お住まいの地域の健康サポートセンター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "窓口での手続き\n\n下記の「低体重児出生届」をお近くの健康サポートセンターにご提出ください。\n\nまた、窓口にお越しの際は、本人確認書類と番号確認書類をお持ちください。\n\n　低体重児出生届（PDF：294KB）（別ウィンドウで開きます）\nhttps://www.city.edogawa.tokyo.jp/documents/7644/20224teitaijyu.pdf\n\nぴったりサービスからの電子申請\n\nマイナポータル（低体重児出生届）から「ログイン」をしたうえで、申請手続きを行ってください。\n\n　低体重児出生届の電子申請ページ（外部サイトへリンク）（別ウィンドウで開きます）\nhttps://app.oss.myna.go.jp/Application/procdetail/initGet?kc9XUt9I8/CU41afS8P1OaaLxX/9+D2bXPzn80LiqLRKeI438ftq6avj3ZAt+N8AcoQuG3PXNguA/exUOrTECpoRgQMvC1nFYsqZ30Du7y0e5dVC/9bMTh67hHd8S3kP1AUfH2H7xLaG6Dw/5qKrNQ==\n\n　ぴったりサービスの注意事項（申請前にご一読ください。）\n\n・電子申請をするためにはマイナンバーカード（個人番号カード）が必要です。また、スマートフォンもしくはカードリーダーライター付きのパソコンが必要です。\n・申請には必ず「ログイン」が必要です。\n・申請後に母子保健係または健康サポートセンターより連絡することがあります。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第18条（低体重児の届出）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "出生時の体重が2,500グラム未満の乳児については、母子保健法第18条の規定により、低体重児の届出が必要です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": [
+      "086",
+      "089"
+    ]
+  },
+  "target": {
+    "conditions": "出生時の体重が2,500グラム未満の乳児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "出生時の体重が2,500グラム未満の乳児"
+  },
+  "updateDate": "2024-02-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "area": {
+    "areaCode": "132225;東久留米市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉保健部　障害福祉課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132225",
+    "psid": "psid3.0+3000020132225+1+UM824"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都東久留米市本町3-3-1",
+    "contactComment": "FAX：042-475-8181",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉保健部　障害福祉課",
+    "contactPhone": "042-470-7747",
+    "contactUrl": "https://www.city.higashikurume.lg.jp/cgi-bin/contacts/g060302",
+    "zipCode": "2038555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "|対象|内容|関連リンク|問い合わせ|\n|:----|:----|:----|:----|:----|\n|心身障害者医療費の助成（マル障）|\n身体障害者手帳1級・2級（内部障害は3級）の方、愛の手帳1度・2度の方、または精神障害者保健福祉手帳1級の方（65歳以上になってはじめて対象の手帳を取得した方を除く）|\n健康保険内医療の自己負担分の一部、または自己負担分を助成（所得制限等あり）|\n|障害福祉課　電話：042-470-7747|\n|更生医療の給付（自立支援医療）|\n18歳以上の身体障害者手帳所持者で、東京都心身障害者福祉センター等で医療の給付が必要と判定された方。|\n|指定更生医療機関において、障害程度を軽減または除去するための医療給付（住民税の額によって自己負担あり）。|\n|障害福祉課　電話：042-470-7747|\n|育成医療の給付（自立支援医療）|身体に障害があるため手術等を必要とし、確実な治療効果が期待される18歳未満の児童。|\n|指定育成医療機関において、将来生活していくために必要な能力を身に付けるための医療を給付（住民税の額によって自己負担あり）。|\n|障害福祉課　電話：042-470-7747|\n|精神通院医療費の助成（自立支援医療）|\n|精神疾患又はてんかんを理由として通院している方。|\n|指定自立支援医療機関において、精神疾患又はてんかんを理由として、通院医療を受ける場合に、その医療に必要な費用の一部を助成（住民税の額によって自己負担あり）。往診、デイケア、訪問看護も対象となります。|\n|自立支援医療（精神通院）の手続き（東京都中部総合精紳保健福祉センター）;https://www.fukushihoken.metro.tokyo.lg.jp/chusou/jiritsushieniryo/jiritsu_tomin.html|\n|障害福祉課　電話：042-470-7747|\n|小児精神障害者入院医療費の助成|\n|健康保険加入者で、精神疾患のため精神科病床にて入院治療を必要としている満18歳未満の方。ただし、入院治療を継続して行う場合には、満20歳の誕生日月の末日まで延長可能。|\n|健康保険が適用される入院費について、高額療養費の支給を受けた上での自己負担額のうち、食事代を除いた額。自費扱いとなる費用（差額ベッド代など）は対象外。|\n|障害福祉課　電話：042-470-7747|\n\n|難病医療費の助成|国又は東京都の指定する難病に罹患している方。|\n|治療及び投薬等に係る健康保険内医療の自己負担分の一部または全額を助成。|\n|東京都ホームページ（難病医療費等助成制度）;https://www.fukushihoken.metro.tokyo.lg.jp/iryo/nanbyo/portal/seido/index.html|\n|障害福祉課　電話：042-470-7747|\n|小児慢性疾患医療費の助成|国が指定する特定疾患に罹患している18歳未満の方。|\n|治療及び投薬等に係る健康保険内医療の自己負担分の一部または全額を助成。|\n|東京都ホームページ（小児慢性特定疾病医療費助成）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/josei/syoman/index.html|\n|障害福祉課　電話：042-470-7747|\n|B型・C型ウイルス肝炎治療医療費の助成|\n|B型・C型ウイルス肝炎医療費助成にかかる、入院、通院、医療費の自己担分の一部または全額を助成（治療法の指定あり）。|\n|治療にかかる保険診療の患者負担額から患者一部負担を除いた額の一部または全額を助成。|\n|東京都ホームページ（B型・C型ウイルス肝炎医療費助成）;https://www.fukushihoken.metro.tokyo.lg.jp/iryo/josei/kanen/index.html|\n|障害福祉課　電話：042-470-7747|\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度（精神通院医療）",
+    "shortName": "医療費の助成"
+  },
+  "localGovernmentLink": {
+    "title": "医療費の助成",
+    "uri": "https://www.city.higashikurume.lg.jp/kurashi/fukushi/shogai/1000437.html#:~:text=%E7%B2%BE%E7%A5%9E%E9%80%9A%E9%99%A2%E5%8C%BB%E7%99%82%E8%B2%BB%E3%81%AE%E5%8A%A9%E6%88%90%EF%BC%88%E8%87%AA%E7%AB%8B%E6%94%AF%E6%8F%B4%E5%8C%BB%E7%99%82%EF%BC%89&text=%E6%8C%87%E5%AE%9A%E8%87%AA%E7%AB%8B%E6%94%AF%E6%8F%B4%E5%8C%BB%E7%99%82%E6%A9%9F%E9%96%A2,%E7%9C%8B%E8%AD%B7%E3%82%82%E5%AF%BE%E8%B1%A1%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/13",
+    "updater": "東久留米市"
+  },
+  "procedureCounter": "障害福祉課　電話：042-470-7747",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [
+    {
+      "title": "自立支援医療（精神通院）の手続き（東京都中部総合精紳保健福祉センター）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/shisetsu/jigyosyo/chusou/jiritsushieniryo/jiritsu_tomin"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+  "support": {
+    "description": "指定自立支援医療機関において、精神疾患又はてんかんを理由として、通院医療を受ける場合に、その医療に必要な費用の一部を助成（住民税の額によって自己負担あり）。往診、デイケア、訪問看護も対象となります。",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "精神疾患又はてんかんを理由として通院している方。"
+  },
+  "updateDate": "2021/03/15",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

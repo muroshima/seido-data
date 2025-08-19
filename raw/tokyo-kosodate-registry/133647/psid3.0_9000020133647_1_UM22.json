@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "133647;神津島村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020133647",
+    "psid": "psid3.0+9000020133647+1+UM22"
+  },
+  "belongings": "・母子手帳（健診欄に島外の病院名印が押してあるもの）\n※健診を受けたら、必ず押印があるか確認して下さい。\n・印鑑 (スタンプ式不可）\n・住民票（初回申請時のみ必要）\n・振込先の口座番号等が確認できるもの\n※通帳もしくはキャッシュカード\n（七島信用組合、ゆうちょ銀行のみ）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健センター",
+    "contactPhone": "04992-8-0010",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "出産支援特別助成金\n都内などで、妊婦健診を受ける際の交通費助成を、神津島村独自の事業として行っております。\n妊婦健診を受けに島外に出て帰島した場合、１回につき 4 万円を５回まで申請することができます。\n■対象\n神津島村に住民登録があり、実際に居住されている方\n■対象期間\n母子手帳交付日から出産するまでの間\n出産の為の出島後（帰島後も含む）の申請は、対象外になりますのでご注意ください。\n■申請方法\n島外へ健診に出ましたら、１回ごとに申請をして下さい。まとめての申請はできません。\n健診を終えて帰島しましたら、なるべく 1 週間以内に申請を行ってください。\n■申請に必要なもの\n・母子手帳（健診欄に島外の病院名印が押してあるもの）\n※健診を受けたら、必ず押印があるか確認して下さい。\n・印鑑 (スタンプ式不可）\n・住民票（初回申請時のみ必要）\n・振込先の口座番号等が確認できるもの\n※通帳もしくはキャッシュカード\n（七島信用組合、ゆうちょ銀行のみ）\n■申請先\n・保健センター",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関する金銭的支援",
+    "shortName": "出産支援特別助成金"
+  },
+  "localGovernmentLink": {
+    "title": "お母さんになる準備",
+    "uri": "https://www.vill.kouzushima.tokyo.jp/images/2023/03/20210318-jyunbi.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-08-19",
+    "updater": "神津島村"
+  },
+  "procedureCounter": "保健センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "島外へ健診に出ましたら、１回ごとに申請をして下さい。まとめての申請はできません。\n健診を終えて帰島しましたら、なるべく 1 週間以内に申請を行ってください。",
+  "procedurePeriod": {
+    "conditions": "■対象期間\n母子手帳交付日から出産するまでの間\n出産の為の出島後（帰島後も含む）の申請は、対象外になりますのでご注意ください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "神津島村では、妊娠中の体への負担と経済的な負担を軽減し、健やかな出産を支援するために、妊婦タクシー利用券をお渡しています。妊婦さんが産婦人科への通院や外出をする際にご利用いただけます。",
+  "support": {
+    "description": "都内などで、妊婦健診を受ける際の交通費助成を、神津島村独自の事業として行っております。\n妊婦健診を受けに島外に出て帰島した場合、１回につき 4 万円を５回まで申請することができます。",
+    "materiallySupport": null,
+    "monetarySupport": "妊婦健診を受けに島外に出て帰島した場合、１回につき 4 万円を５回まで申請することができます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "神津島村に住民登録があり、実際に居住されている方"
+  },
+  "updateDate": "2021-03-18",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

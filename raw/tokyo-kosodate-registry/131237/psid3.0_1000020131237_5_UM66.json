@@ -1,0 +1,118 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部障害者福祉課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+5+UM66"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部障害者福祉課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e041/kuseijoho/gaiyo/soshiki/fukushi/syogai.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "B型・C型ウイルスに起因する肝がん・重度肝硬変の治療で一定期間入院している方のうち、所得制限を超えない方の医療費の一部または全額を助成する制度です。\n\n令和3年4月診療分より肝がんの外来医療（「分子標的薬を用いた化学療法」又は「肝動注化学療法」による外来医療に限る。）に係る医療費の一部も助成対象になりました。制度の対象となる適用区分と負担割合\n\n制度について\n\n制度の詳しい情報や東京都内の指定医療機関については、東京都のホームページをご覧ください。\n\n東京都保健医療局ホームページ「肝がん・重度肝硬変入院医療費助成制度」;https://www.hokeniryo.metro.tokyo.lg.jp/kenkou/kenkou/kanen_senryaku/kangan_nyuuiniryouhi.html\n\nウイルス性肝炎に関する助成・給付金制度\n\n定期検査費用の助成や、給付金の支給を受けることができる場合があります。詳しくは下記リンクをご確認ください。\n\nウイルス性肝炎に関する助成・給付金制度;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/kansen/kanen/hepatitis-payment.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の医療費助成制度（ぜん息など）",
+    "shortName": "肝がん・重度肝硬変入院医療費助成制度"
+  },
+  "localGovernmentLink": {
+    "title": "肝がん・重度肝硬変入院医療費助成制度",
+    "uri": "https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/iryo/josei/liver_cancer.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "江戸川区役所南棟2階1番　福祉部障害者福祉課医療給付係\n中央健康サポートセンター\n小岩健康サポートセンター\n東部健康サポートセンター\n清新町健康サポートセンター\n葛西健康サポートセンター\n    鹿骨健康サポートセンター\n    小松川健康サポートセンター\n    なぎさ健康サポートセンター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "医療機関が作成する書類がありますので、申請する場合は入院先の医療機関にご相談ください。\n江戸川区に住民登録がある方の申請受付は以下の窓口で行っています。\n\n保健予防課医療給付係（江戸川保健所内）\n小岩健康サポートセンター\n東部健康サポートセンター\n清新町健康サポートセンター\n\n葛西健康サポートセンター\n鹿骨健康サポートセンター\n小松川健康サポートセンター\nなぎさ健康サポートセンター",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "肝がん・重度肝硬変入院医療費助成制度は、B型・C型ウイルスに起因する肝がん・重度肝硬変の治療で一定期間入院している方の医療費の一部または全額を助成する制度です。所得制限を超えない方が対象であり、申請前11ヶ月以内で高額療養費算定基準を超えた月が2ヶ月以上であることが条件となります。また、肝がん・重度肝硬変の治療の研究への協力にも同意する必要があります。具体的な申請方法や窓口は、入院先の医療機関にご相談ください。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": null,
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": null
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "以下のすべての条件を満たす方\n\nB型・C型ウイルスに起因する肝がん・重度肝硬変と診断され、各都道府県が指定した医療機関（指定医療機関）で入院治療を受けている。\n申請前11ヶ月以内で高額療養費算定基準を超えた月が2ヶ月以上。\n肝がん・重度肝硬変の治療の研究への協力に同意している。\n他の法律により、医療費が支給されない方。（生活保護等の受給者は対象外となります。）\n限度額適用認定証、高齢受給者証等の区分が下表に当てはまる方。\n\n制度の対象となる適用区分と負担割合\n\n|年齢|制度の対象となる適用区分・負担割合|\n|:----|:----|\n|70歳未満（後期高齢者医療制度加入者は除く）|限度額適用認定証の適用区分が「エ」の方、限度額適用・標準負担額減額認定証の適用区分が「オ」の方|\n|70歳から74歳（後期高齢者医療制度加入者は除く）|高齢受給者証の一部負担金の割合が「2割」または特例により「1割」の方|\n|後期高齢者医療被保険者証をお持ちの方|後期高齢者医療被保険者証の一部負担金の割合が「1割」の方|"
+  },
+  "updateDate": "2023-07-03",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

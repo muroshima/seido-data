@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "放課後対策課児童支援グループ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+1+UM5028"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "放課後対策課児童支援グループ",
+    "contactPhone": "子どもスキップに関すること：03-3981-1058,放課後子ども教室に関すること：03-3981-1178",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "放課後子ども教室とは\n\n小学校施設を利用して放課後の安全・安心な活動拠点づくりを進める放課後対策事業「子どもスキップ」と連携し、地域住民の参加と協力を得て、学習やスポーツ、文化、地域住民との交流活動などの取り組みを推進し、子どもたちの豊かな人間性を育んでいます。\n\n実施場所\n各子どもスキップの所在地は下記のとおりです。\n各子どもスキップの所在地;https://www.city.toshima.lg.jp/230/kosodate/kosodate/hokago/shisetsu.html\n\n実施内容\n放課後子ども教室では、工作や手芸、囲碁や将棋、書道や茶道、読み聞かせや英会話などの屋内活動から、テニスやバレーボール、バドミントンなどのスポーツ、ダンスなど体を動かすあそびまで、子どもたちの好奇心や関心を育む魅力的なプログラムを数多く用意しています。\n\n令和6年度各放課後子ども教室実施プログラム一覧は下記のとおりです。\n放課後子ども教室実施プログラム一覧;https://www.city.toshima.lg.jp/230/kosodate/kosodate/hokago/028637/004505.html\n\n各月のプログラム実施予定\n各子どもスキップに、放課後子ども教室の内容や日時をお知らせするチラシがあります。併せてご覧ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "子どもスキップ（全22小学校区）"
+  },
+  "institutionName": {
+    "canonicalName": "放課後子供教室",
+    "shortName": "放課後子ども教室"
+  },
+  "localGovernmentLink": {
+    "title": "放課後子ども教室について",
+    "uri": "https://www.city.toshima.lg.jp/230/kosodate/kosodate/hokago/028637/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/20",
+    "updater": "豊島区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "地域住民の参画を得て、放課後等に全ての児童を対象として、学習や体験・交流といった多様な活動を行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "子どもたち"
+  },
+  "updateDate": "2024/04/30",
+  "useConsiderationFlag": false,
+  "utilization": "豊島区在住、または当該小学校に在籍の小学生で「子どもスキップ」に利用届出をすると「放課後子ども教室」に参加できます。届出書は各子どもスキップにあります。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

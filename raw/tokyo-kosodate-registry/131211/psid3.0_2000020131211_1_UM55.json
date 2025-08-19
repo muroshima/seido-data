@@ -1,0 +1,145 @@
+{
+  "area": {
+    "areaCode": "131211;足立区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "衛生部保健予防課予防接種係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020131211",
+    "psid": "psid3.0+2000020131211+1+UM55"
+  },
+  "belongings": "母子健康手帳",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "衛生部保健予防課予防接種係",
+    "contactPhone": "03-3880-5094",
+    "contactUrl": "https://www.city.adachi.tokyo.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "麻しん・風しんワクチンの任意接種公費負担制度（最大2回まで助成）\n区内にお住まいで、麻しんまたは風しんにかかったことのない2歳以上18歳以下の方のうち、定期接種を打ちそびれてしまった方を対象に、2回を限度に任意接種の公費負担を行います。\n\n※【19歳以上の方へ】足立区では風しんの抗体検査・予防接種の費用助成を行っています。;https://www.city.adachi.tokyo.jp/hoken/hushinnini.html\n\n※【昭和37年4月2日から昭和54年4月1日生まれの男性の方へ】国の風しんの抗体検査・予防接種の費用助成が受けられます。;https://www.city.adachi.tokyo.jp/hoken/hushinnini.html\n\n|対象者|麻しんまたは風しんにかかったことのない2歳以上18歳以下で定期接種未接種の方または1回接種の方で定期接種を打ちそびれてしまった方※令和6年度のMR定期予防接種該当者を除く|\n|期間|令和6年4月1日から令和7年3月31日まで|\n|費用|無料|\n|手続き|母子健康手帳持参のうえ各保健センターまたは保健予防課の窓口にて該当予防接種の予診票の交付を受けていただくか、オンラインや郵送にて交付申請を行ってください。<br>※今年度中に19歳になられる方（19歳の誕生日前日までの方）については、保健予防課の窓口か、オンラインや郵送のみ交付申請を受け付けます。<br>※郵送申請書は関連情報を参照ください。<br>※オンライン申請はオンライン申請ページ（https://shinsei.city.adachi.tokyo.jp/apply/guide/1126）から申請してください。<br>※郵送申請およびオンライン申請は、発行手続きや郵便事情により、送付まで1週間から１０日程度かかります。余裕をもって申請してください。|\n|接種場所|足立区内の指定医療機関（区内指定医療機関以外での接種は対象となりません。）|\n|対象ワクチン|麻しん単独ワクチン、風しん単独ワクチン、MR（麻しん風しん混合）ワクチン<br>※接種するワクチンについては事前に区内指定医療機関にご相談ください。|\n\n予診票申請窓口\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|保健予防課予防接種係|足立区中央本町一丁目17番1号|03-3880-5094|\n|江北保健センター※令和７年１月に移転予定|足立区西新井本町二丁目30番40号|03-3896-4004|\n|千住保健センター|足立区千住仲町19番3号|03-3888-4277|\n|竹の塚保健センター|足立区西竹の塚一丁目11番2号 エミエルタワー竹の塚2階|03-3855-5082|\n|中央本町地域・保健総合支援課|足立区中央本町一丁目5番3号|03-3880-5351|\n|東部保健センター|足立区大谷田三丁目11番13号※平成27年7月21日から一時移転|03-3606-4171|\n\n関連情報\n予防接種予診票郵送申請書（PDF：603KB）;https://www.city.adachi.tokyo.jp/documents/1981/yusousinnsei.pdf\n\n区内指定医療機関名簿（PDF：179KB）;https://www.city.adachi.tokyo.jp/documents/1981/mr-hpr6.pdf",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "【小児】 予防接種予診票交付申請",
+      "uri": "https://shinsei.city.adachi.tokyo.jp/apply/guide/1126"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "令和6年4月1日から令和7年3月31日まで",
+    "fromHM": null,
+    "fromYMD": "2024-04-01",
+    "toHM": null,
+    "toYMD": "2025-07-31"
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "足立区内の指定医療機関（区内指定医療機関以外での接種は対象となりません。）"
+  },
+  "institutionName": {
+    "canonicalName": "任意予防接種",
+    "shortName": "麻しん・風しんワクチンの任意接種公費負担制度（最大2回まで助成）"
+  },
+  "localGovernmentLink": {
+    "title": "麻しん・風しんワクチンの任意接種公費負担制度（最大2回まで助成）",
+    "uri": "https://www.city.adachi.tokyo.jp/hoken/k-kyoiku/kosodate/k-mr.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "足立区"
+  },
+  "procedureCounter": "各保健センターまたは保健予防課の窓口",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "母子健康手帳持参のうえ各保健センターまたは保健予防課の窓口にて該当予防接種の予診票の交付を受けていただくか、オンラインや郵送にて交付申請を行ってください。\n\n※今年度中に19歳になられる方（19歳の誕生日前日までの方）については、保健予防課の窓口か、オンラインや郵送のみ交付申請を受け付けます。\n\n※郵送申請書は関連情報を参照ください。\n\n※オンライン申請はオンライン申請ページ（https://shinsei.city.adachi.tokyo.jp/apply/guide/1126）から申請してください。\n\n※郵送申請およびオンライン申請は、発行手続きや郵便事情により、送付まで1週間から１０日程度かかります。余裕をもって申請してください。",
+  "procedurePeriod": {
+    "conditions": "令和6年4月1日から令和7年3月31日まで",
+    "fromHM": null,
+    "fromYMD": "2024-04-01",
+    "toHM": null,
+    "toYMD": "2025-07-31"
+  },
+  "procedurePersons": "麻しんまたは風しんにかかったことのない2歳以上18歳以下で定期接種未接種の方または1回接種の方で定\n期接種を打ちそびれてしまった方",
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "足立区風しん予防接種費用助成事業実施要綱 "
+  },
+  "relatedLink": [
+    {
+      "title": "区内指定医療機関名簿（PDF：179KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/1981/mr-hpr6.pdf"
+    },
+    {
+      "title": "【昭和37年4月2日から昭和54年4月1日生まれの男性の方へ】国の風しんの抗体検査・予防接種の費用助成が受けられます。",
+      "uri": "https://www.city.adachi.tokyo.jp/hoken/huusin5teiki.html"
+    },
+    {
+      "title": "【19歳以上の方へ】足立区では風しんの抗体検査・予防接種の費用助成を行っています。",
+      "uri": "https://www.city.adachi.tokyo.jp/hoken/hushinnini.html"
+    },
+    {
+      "title": "予防接種予診票郵送申請書（PDF：603KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/1981/yusousinnsei.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。現在、定期接種以外で小学校就学前のお子さんが接種できるワクチンとしては、おたふくかぜ、インフルエンザなどがあります。\nこのうち足立区では、次の任意予防接種に対して、接種費用を助成しています。接種するかどうかについては、かかりつけ医とご相談のうえ、保護者の判断により決めてください。",
+  "support": {
+    "description": "2回を限度に任意接種の公費負担を行います",
+    "materiallySupport": "2回を限度に任意接種の公費負担を行います",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "2歳以上18歳以下",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "麻しんまたは風しんにかかったことのない2歳以上18歳以下で定期接種未接種の方または1回接種の方で定期接種を打ちそびれてしまった方\n\n※令和6年度のMR定期予防接種該当者を除く"
+  },
+  "updateDate": "2024-04-10",
+  "useConsiderationFlag": false,
+  "utilization": "母子健康手帳持参のうえ各保健センターまたは保健予防課の窓口にて該当予防接種の予診票の交付を受け\nていただくか、オンラインや郵送にて交付申請を行ってください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

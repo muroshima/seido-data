@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども若者支援課子ども給付係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+2+UM61"
+  },
+  "belongings": "ご利用になる方の写真（縦4センチメートル×横3センチメートル、最近撮影したもの）、児童扶養手当証書、印鑑",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "連絡先などは各総合支所のページへ;https://www.city.minato.tokyo.jp/kouhou/kuse/gaiyo/shisho.html\n外国語対応が必要な人、通訳オペレーター、区の職員の3人で会話ができます。\n\n多言語対応三者通話サービス;https://www.multilingualinterpretercallservice.city.minato.tokyo.jp/kokusai",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "各総合支所区民課",
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "児童扶養手当受給者等への都営交通無料パスの発行等\n事業の目的\nひとり親家庭の経済的負担の軽減を図ります。\n\n対象\n児童扶養手当受給者又はその方と同一世帯の方\n（無料乗車券の交付は、世帯のうちの1人だけになります。）\n\n事業の詳細\n\n2.JR通勤定期券の割引\n普通定期券の3割引で「特定者用の通勤定期乗車券」が購入できます。区民課の窓口で「特定者資格証明書」「特定者用定期乗車券購入証明書」の交付を受け、駅の窓口にて定期券を購入してください。\n\n【申請に必要なもの】\n\nご利用になる方の写真（縦4センチメートル×横3センチメートル、最近撮影したもの）、児童扶養手当証書、印鑑\n\n【証明書の申請場所】\n各総合支所区民課保健福祉係",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自のひとり親の方への金銭的支援",
+    "shortName": "JR通勤定期券の割引"
+  },
+  "localGovernmentLink": {
+    "title": "児童扶養手当受給者等への都営交通無料パスの発行等",
+    "uri": "https://www.city.minato.tokyo.jp/kodomokyufu/kodomo/kodomo/hitorioya/kotsu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "港区"
+  },
+  "procedureCounter": "各総合支所区民課保健福祉係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "区民課の窓口で「特定者資格証明書」「特定者用定期乗車券購入証明書」の交付を受け、駅の窓口にて定期券を購入してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "特定者に対する旅客鉄道株式会社の通勤定期乗車券の特別割引制度について"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "JR定期券を購入する際に、割り引いて購入できます。",
+  "support": {
+    "description": "普通定期券の3割引で「特定者用の通勤定期乗車券」が購入できます。",
+    "materiallySupport": null,
+    "monetarySupport": "普通定期券の3割引で「特定者用の通勤定期乗車券」が購入できます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "児童扶養手当受給者又はその方と同一世帯の方\n（無料乗車券の交付は、世帯のうちの1人だけになります。）"
+  },
+  "updateDate": "2020-09-25",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

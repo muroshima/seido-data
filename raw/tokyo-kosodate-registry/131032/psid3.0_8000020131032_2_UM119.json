@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援部子ども家庭支援センター子ども家庭サービス係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+2+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファックス番号：03-5962-7205\n\n外国語対応が必要な人、通訳オペレーター、区の職員の3人で会話ができます。\n\n多言語対応三者通話サービス;https://www.multilingualinterpretercallservice.city.minato.tokyo.jp/kokusai",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援部子ども家庭支援センター子ども家庭サービス係",
+    "contactPhone": "03-5962-7201",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "無料",
+  "description": "子育てコーディネーター事業\n子育てコーディネーターがゆっくり話をうかがい、ご家庭の状況に応じた子育て支援情報を提供します。また、一緒に子育てプランを作成することもできます。\n\n「時間がなくて子育て情報が調べられない」、「引っ越してきたので、港区のことを知りたい」、「とにかくまず話を聞いてほしい」という方に、必要な情報収集のお手伝いをします！\n\n子育てコーディネーター事業相関図;https://www.city.minato.tokyo.jp/kosodatesien/images/coordinator.png\n\n対象者\n港区在住の児童（18歳未満）及びその保護者、または妊娠している方\n\n料金\n無料\n\n子ども家庭支援センター内\n所在地\n\n港区南青山5-7-11　1階\n\n時間\n\n月曜から土曜　午前10時から午後5時\n\n※12月29日から1月3日を除く\n\n専用ダイヤル\n\n03-5962-7203",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "12月29日から1月3日",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "港区南青山5-7-11　1階",
+    "implementationName": "子ども家庭支援センター内"
+  },
+  "institutionName": {
+    "canonicalName": "港区の子育てに関する相談",
+    "shortName": "子育てコーディネーター事業"
+  },
+  "localGovernmentLink": {
+    "title": "子育てコーディネーター事業",
+    "uri": "https://www.city.minato.tokyo.jp/kosodatesien/coordinator.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "港区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子育てコーディネーターがゆっくり話をうかがい、ご家庭の状況に応じた子育て支援情報を提供します。また、一緒に子育てプランを作成することもできます。",
+  "support": {
+    "description": "子育てコーディネーターがゆっくり話をうかがい、ご家庭の状況に応じた子育て支援情報を提供します。また、一緒に子育てプランを作成することもできます。\n\n「時間がなくて子育て情報が調べられない」、「引っ越してきたので、港区のことを知りたい」、「とにかくまず話を聞いてほしい」という方に、必要な情報収集のお手伝いをします！",
+    "materiallySupport": "子育てコーディネーターがゆっくり話をうかがい、ご家庭の状況に応じた子育て支援情報を提供します。また、一緒に子育てプランを作成することもできます。\n\n「時間がなくて子育て情報が調べられない」、「引っ越してきたので、港区のことを知りたい」、「とにかくまず話を聞いてほしい」という方に、必要な情報収集のお手伝いをします！",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "18歳未満",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "港区在住の児童（18歳未満）及びその保護者、または妊娠している方"
+  },
+  "updateDate": "2021-04-05",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜から土曜　午前10時から午後5時",
+    "fromHM": "10:00",
+    "toHM": "17:00"
+  }
+}

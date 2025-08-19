@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131083;江東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "地域振興部 文化観光課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131083",
+    "psid": "psid3.0+6000020131083+1+UM111"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都江東区東陽 4-11-28",
+    "contactComment": "ファックス：03-3647-8470",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "地域振興部 文化観光課 観光推進係",
+    "contactPhone": "03-3647-3312",
+    "contactUrl": "https://www.city.koto.lg.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": "1358383"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "17.子育て（育児サークル等）\n17.子育て（育児サークル等）\n社会教育関係団体に登録している団体のうち希望している団体のみを掲載しております。\n\n参加や見学、詳細情報をご希望の方は下記（文化観光課観光推進係）まで電話にてお問い合わせください。各団体の連絡先等をお伝えいたします。\n\nなお、個人情報を保護するため、メールでの情報提供は致しませんので、ご了承ください。\n\nhttps://www.city.koto.lg.jp/103010/bunkasports/gakushu/kunai/6207.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "https://www.city.koto.lg.jp/103010/bunkasports/gakushu/kunai/6207.html",
+    "implementationName": "https://www.city.koto.lg.jp/103010/bunkasports/gakushu/kunai/6207.html"
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関する各種コミュニティ・団体一覧",
+    "shortName": "子育て（育児サークル等）"
+  },
+  "localGovernmentLink": {
+    "title": "17.子育て（育児サークル等）",
+    "uri": "https://www.city.koto.lg.jp/103010/bunkasports/gakushu/kunai/6207.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-28",
+    "updater": "江東区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第6項、第21条の9",
+    "regulationName": "児童福祉法、児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "江東区内で子育てに関する活動を行う、コミュニティやサークル、各種団体のご案内です。",
+  "support": {
+    "description": "社会教育関係団体に登録している団体のうち希望している団体のみを掲載しております。\n\n参加や見学、詳細情報をご希望の方は下記（文化観光課観光推進係）まで電話にてお問い合わせください。各団体の連絡先等をお伝えいたします。\n\nなお、個人情報を保護するため、メールでの情報提供は致しませんので、ご了承ください。",
+    "materiallySupport": "社会教育関係団体に登録している団体のうち希望している団体のみを掲載しております。\n\n参加や見学、詳細情報をご希望の方は下記（文化観光課観光推進係）まで電話にてお問い合わせください。各団体の連絡先等をお伝えいたします。\n\nなお、個人情報を保護するため、メールでの情報提供は致しませんので、ご了承ください。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-04-25",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

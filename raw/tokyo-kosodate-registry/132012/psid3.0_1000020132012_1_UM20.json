@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132012;八王子市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康医療部保険年金課（給付担当）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132012",
+    "psid": "psid3.0+1000020132012+1+UM20"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "八王子市元本郷町三丁目24番1号",
+    "contactComment": "ファックス：042-626-8421",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康医療部保険年金課（給付担当）",
+    "contactPhone": "042-620-7235",
+    "contactUrl": "https://www.city.hachioji.tokyo.jp/inquiry/mailform450300.html?PAGE_NO=3472",
+    "zipCode": "1928501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "出産貸付制度\n八王子市の国民健康保険の加入者が出産されるとき、出産にかかる費用の一部をお貸しします。\n\nなお、この制度は、以下の4点を満たす方が対象です。\n\n八王子市から出産育児一時金の支給が予定される方\n国民健康保険税の1年以上の滞納がない方\n出産予定日まで1か月以内である方（特別な事情により出産予定日が変更になる場合は医師の証明書が必要となります） 又は、妊娠85日以上であり、出産に要する費用について病院等から請求を受け、もしくは費用を支払った方\n病院等と直接支払制度、受取代理制度を利用されない方\n申請は、保険年金課給付担当（市役所本庁舎1階12番窓口）で受付を行いますが、必ず事前にお問い合わせください。\n\n貸付方法\n\n|妊娠85日以上で<br>出産予定日まで1か月未満の方|出産育児一時金の支給予定額の<br>8割から9割をお貸しします。<br>（最高限度額450,000円（注2））|\n|妊娠85日以上で<br>出産予定日まで1か月以上の方|病院等からの<br>出産にかかる請求額、<br>または領収額をお貸しします。<br>（最高限度額450,000円（注2） ）|\n（注2）令和5年（2023年）3月31日までの出産は、最高限度額378,000円",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出産費貸付制度",
+    "shortName": "出産貸付制度"
+  },
+  "localGovernmentLink": {
+    "title": "子供が生まれるとき（出産育児一時金・出産貸付制度）",
+    "uri": "https://www.city.hachioji.tokyo.jp/kurashi/nenkin/001/002/005/p003472.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-01",
+    "updater": "八王子市"
+  },
+  "procedureCounter": "保険年金課給付担当（市役所本庁舎1階12番窓口）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請は、保険年金課給付担当（市役所本庁舎1階12番窓口）で受付を行いますが、必ず事前にお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条（貸付け）",
+    "regulationName": "八王子市国民健康保険出産資金貸付条例"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": "令和5年（2023年）3月31日までの出産は、最高限度額378,000円",
+  "summary": "出産予定日前に出産費用の支払いが必要な方を対象に、出産育児一時金9割に相当する額を限度として出産費用の貸し付けを無利子で行います。",
+  "support": {
+    "description": "貸付方法\n\n|妊娠85日以上で<br>出産予定日まで1か月未満の方|出産育児一時金の支給予定額の<br>8割から9割をお貸しします。<br>（最高限度額450,000円（注2））|\n|妊娠85日以上で<br>出産予定日まで1か月以上の方|病院等からの<br>出産にかかる請求額、<br>または領収額をお貸しします。<br>（最高限度額450,000円（注2） ）|\n（注2）令和5年（2023年）3月31日までの出産は、最高限度額378,000円",
+    "materiallySupport": null,
+    "monetarySupport": "貸付方法\n\n|妊娠85日以上で<br>出産予定日まで1か月未満の方|出産育児一時金の支給予定額の<br>8割から9割をお貸しします。<br>（最高限度額450,000円（注2））|\n|妊娠85日以上で<br>出産予定日まで1か月以上の方|病院等からの<br>出産にかかる請求額、<br>または領収額をお貸しします。<br>（最高限度額450,000円（注2） ）|\n（注2）令和5年（2023年）3月31日までの出産は、最高限度額378,000円"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": "出産予定日まで1か月以内である方（特別な事情により出産予定日が変更になる場合は医師の証明書が必要となります） 又は、妊娠85日以上であり、出産に要する費用について病院等から請求を受け、もしくは費用を支払った方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "八王子市から出産育児一時金の支給が予定される方\n国民健康保険税の1年以上の滞納がない方\n出産予定日まで1か月以内である方（特別な事情により出産予定日が変更になる場合は医師の証明書が必要となります） 又は、妊娠85日以上であり、出産に要する費用について病院等から請求を受け、もしくは費用を支払った方\n病院等と直接支払制度、受取代理制度を利用されない方"
+  },
+  "updateDate": "2023-11-06",
+  "useConsiderationFlag": false,
+  "utilization": "申請は、保険年金課給付担当（市役所本庁舎1階12番窓口）で受付を行いますが、必ず事前にお問い合わせください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

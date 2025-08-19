@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康推進課保健指導グループ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+3+UM33"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康推進課保健指導グループ",
+    "contactPhone": "03-3987-4174",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "母乳教室は母乳で育てたい、母乳が足りているか心配、と考えている方のための教室です。\n\n助産師のアドバイスを受けたり、他のママと交流をしながら教室をすすめます。\n\n風邪の症状や37.5度以上の発熱があるなどお身体の具合が悪い場合は、ご参加を見合わせてください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "池袋保健所\n長崎健康相談所"
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関する教室・講習会",
+    "shortName": "母乳教室"
+  },
+  "localGovernmentLink": {
+    "title": "母乳教室【予約制】",
+    "uri": "https://www.city.toshima.lg.jp/220/kosodate/kosodate/kenko/001359.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "池袋保健所（施設案内・管轄区域）",
+      "uri": "https://www.city.toshima.lg.jp/208/kenko/kenko/kenkoiryokanren/013298.html"
+    },
+    {
+      "title": "長崎健康相談所（施設案内・管轄区域）",
+      "uri": "https://www.city.toshima.lg.jp/225/shisetsu/fukushi/002.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "豊島区では、初めてお母さん・お父さんになられる方を対象に、母乳教室を開催しています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "母乳で育てたい、母乳が足りているか心配、と考えている方"
+  },
+  "updateDate": "2024-02-05",
+  "useConsiderationFlag": false,
+  "utilization": "随時、電話で予約をお受けします。\n\nご住所の地域を管轄する池袋保健所または、長崎健康相談所へお申込みください。\n\n池袋保健所（施設案内・管轄区域）\n長崎健康相談所（施設案内・管轄区域）",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

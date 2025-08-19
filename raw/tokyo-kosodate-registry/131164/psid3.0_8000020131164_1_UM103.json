@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援センター東部子ども家庭支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+1+UM103"
+  },
+  "belongings": "動きやすい服装",
+  "capacity": "10組",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援センター東部子ども家庭支援センター",
+    "contactPhone": "03-5980-5275",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "パパの応援講座は、お父さん向けの遊びの紹介や、お父さん同士の懇談会を行います。\n2024年度は、5回の開催を予定しています。\n同一種類の講座の参加は、1回のみとなります。\n\n東部子ども家庭支援センター\n対象：区内在住で1歳7か月未満のお子さんとお父さん\n\n定員10組（保育なし）\n第1回：6月29日(土曜日)\n第2回：9月28日(土曜日)\n第3回：1月25日(土曜日)\n\n詳細情報は、広報としま及びセンター便り等に掲載します。\nお問い合わせ・申込み：東部子ども家庭支援センター(電話03-5980-5275)\n\n西部子ども家庭支援センター\n対象：区内在住で1歳7か月未満のお子さんを育てているお父さんとそのご家族\n\n定員7組(保育なし)\nパパの応援講座は、ウェルカム赤ちゃんとの同時開催となります。\n第1回：5月25日(土曜日)\n第2回：10月19日(土曜日)\n\n詳細は、広報としま及びセンター便り等に掲載します。\nお問い合わせ・申込み：西部子ども家庭支援センター(電話03-5966-3131)",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": "2024-05-25",
+    "toHM": null,
+    "toYMD": "2025-01-25"
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "東部子ども家庭支援センター"
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関する教室・講習会",
+    "shortName": "パパの応援講座"
+  },
+  "localGovernmentLink": {
+    "title": "パパの応援講座",
+    "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/koza/014058.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": "子ども家庭支援センター東部子ども家庭支援センター\n電話番号：03-5980-5275",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第24条",
+    "regulationName": "学校教育法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "お父さん向けの遊びの紹介や、お父さん同士の懇談会を行います。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 1,
+      "targetAgeOfMonths": 7
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住で1歳7か月未満のお子さんと父親"
+  },
+  "updateDate": "2024-05-21",
+  "useConsiderationFlag": false,
+  "utilization": "・詳細情報は、広報としま及びセンター便り等に掲載します。\n・お問い合わせ・申込み：東部子ども家庭支援センター(電話03-5980-5275)\n　　　　　　　　　　　：西部子ども家庭支援センター(電話03-5966-3131)",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

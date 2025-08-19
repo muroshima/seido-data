@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "133078;檜原村\t",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "やすらぎの里 福祉けんこう課 子育て支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020133078",
+    "psid": "psid3.0+8000020133078+5+UM54"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "FAX 042-519-9789",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "やすらぎの里 福祉けんこう課 子育て支援係",
+    "contactPhone": "042-598-3122",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "障害福祉、児童福祉の事業等がまとめられた冊子を作成したのでお知らせいたします。\nまた、ホームページ以外でも下記の窓口で配布を行っております。\n・やすらぎの里（福祉けんこう課）\n・檜原村役場（村民課）\n\n檜原の障害福祉について\n檜原の障害福祉(ファイル名：syougai-r5.pdf サイズ：1.07MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf\n\n檜原の児童福祉について\n檜原の児童福祉(ファイル名：zidou-r5.pdf サイズ：1.21MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "接種日：毎週月曜日・火曜日・水曜日・木曜日・金曜日\n第2・第3土曜日（祝日と年末年始を除く）\n受付時間：①午前8時30分～8時45分\n②午後4時00分（土曜日を除く）",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "檜原診療所"
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "ヒブ"
+  },
+  "localGovernmentLink": {
+    "title": "予防接種（村制度）",
+    "uri": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/zidou-r5.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-25",
+    "updater": "檜原村"
+  },
+  "procedureCounter": "やすらぎの里 福祉けんこう課 子育て支援係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "接種希望日の10日前までに福祉けんこう課けんこう係までご連絡ください。なお、定員がありますのでお早めにご連絡ください。",
+  "procedurePeriod": {
+    "conditions": "接種希望日の10日前までに福祉けんこう課けんこう係までご連絡ください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）",
+    "regulationName": "予防接種法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+  "support": {
+    "description": "標準接種以外\n生後 12 ヶ月に至るまでの間に27 日以上の間隔をあけて 2 回",
+    "materiallySupport": "標準接種以外\n生後 12 ヶ月に至るまでの間に27 日以上の間隔をあけて 2 回",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "B生後 7～12 ヶ月未満で接種開始する場合"
+  },
+  "updateDate": "2023-06-25",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

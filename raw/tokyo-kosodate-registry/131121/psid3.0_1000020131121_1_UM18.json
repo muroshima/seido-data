@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131121;世田谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康づくり課・健康推進課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131121",
+    "psid": "psid3.0+1000020131121+1+UM18"
+  },
+  "belongings": "・診断書（医師が作成したもの）\n・健康保険証のコピー",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "世田谷総合支所 保健福祉センター 健康づくり課\n03-5432-2893\n03-5432-3074\n北沢総合支所 保健福祉センター 健康づくり課\n03-6804-9355\n03-6804-9044\n玉川総合支所 保健福祉センター 健康づくり課\n03-3702-1948\n03-3705-9203\n砧総合支所 保健福祉センター 健康づくり課\n03-3483-3161\n03-3483-3167\n烏山総合支所 保健福祉センター 健康づくり課\n03-3308-8228\n03-3308-3036\n世田谷保健所 健康推進課  03-5432-2446",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "世田谷総合支所 保健福祉センター 健康づくり課\n北沢総合支所 保健福祉センター 健康づくり課\n玉川総合支所 保健福祉センター 健康づくり課\n砧総合支所 保健福祉センター 健康づくり課\n烏山総合支所 保健福祉センター 健康づくり課\n世田谷保健所 健康推進課",
+    "contactPhone": "03-5432-2893,03-5432-3074,03-6804-9355,03-6804-9044,03-3702-1948,03-3705-9203,03-3483-3161,03-3483-3167,03-3308-8228,03-3308-3036,03-5432-2446",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊娠高血圧症候群等の入院治療に要する医療費のうち、健康保険適用後の自己負担額を助成する制度です。自己負担分が高額療養費制度に該当する場合は、その限度額まで助成します。ただし、入院時食事療養費は除きます。¥n対象\n区内に住所を有する方で、以下の対象疾患にり患し、次のいずれかに該当する方\n1.前年分の世帯の総所得税額が30,000円以下の世帯に属する方\n2.入院見込期間が26日以上の方\n(注意)退院後に申請される場合には、実入院期間が26日以上の方が対象となりますので、ご注意ください。¥n対象の疾患\n1.妊娠高血圧症候群及びその関連疾患\n2.糖尿病\n3.貧血\n4.産科出血\n5.心疾患\n（注意）対象疾患には、それぞれ認定基準が定められています。詳しくは、申請窓口にお問い合わせください。¥n申請方法\n必要書類をお住まいの地域の総合支所健康づくり課;https://www.city.setagaya.lg.jp/mokuji/kusei/011/002/d00007373.htmlへ提出し、申請してください。\n原則として、入院前または入院中に申請してください。\nただし、退院日から3か月以内に限り、遅延理由書を添付の上、退院後の申請も可とします。¥n必要書類\n・妊娠高血圧症候群等医療費助成申請書\n・診断書（医師が作成したもの）\n・世帯調書\n・所得税額証明書等（世帯全員の方分）\n（注意）「入院見込期間が26日以上の方」の対象要件に当てはまる方は不要です。\n・健康保険証のコピー\n・遅延理由書（退院日以降に申請される方は提出してください。）\n　申請書、世帯調書、遅延理由書については、お住まいの地域の総合支所健康づくり課にあります。お問い合わせください。¥n助成を受けるには\n必要書類を提出いただき、医療費助成の対象と認定された場合には、妊娠高血圧症候群等医療費助成決定通知書及び医療券を交付します。契約医療機関に入院中の場合は、医療券を医療機関の窓口に提示して精算してください。\n医療費をすでに医療機関に支払っている方は、申請によりお支払いします。その場合は、医療券とともに、必要書類をお送りします。¥n関連リンク\n総合支所業務案内　健康づくり課;https://www.city.setagaya.lg.jp/mokuji/kusei/011/002/d00007373.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊娠高血圧症候群（妊娠中毒症）に関する助成",
+    "shortName": "妊娠高血圧症候群等医療費助成"
+  },
+  "localGovernmentLink": {
+    "title": "妊娠高血圧症候群等医療費助成について",
+    "uri": "https://www.city.setagaya.lg.jp/mokuji/kodomo/001/001/d00134377.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "世田谷区"
+  },
+  "procedureCounter": "各総合支所健康づくり課;https://www.city.setagaya.lg.jp/mokuji/kusei/011/002/d00007373.html",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請方法\n必要書類をお住まいの地域の総合支所健康づくり課;https://www.city.setagaya.lg.jp/mokuji/kusei/011/002/d00007373.htmlへ提出し、申請してください。\n原則として、入院前または入院中に申請してください。\nただし、退院日から3か月以内に限り、遅延理由書を添付の上、退院後の申請も可とします。¥n必要書類\n・妊娠高血圧症候群等医療費助成申請書\n・診断書（医師が作成したもの）\n・世帯調書\n・所得税額証明書等（世帯全員の方分）\n（注意）「入院見込期間が26日以上の方」の対象要件に当てはまる方は不要です。\n・健康保険証のコピー\n・遅延理由書（退院日以降に申請される方は提出してください。）\n申請書、世帯調書、遅延理由書については、お住まいの地域の総合支所健康づくり課;https://www.city.setagaya.lg.jp/mokuji/kusei/011/002/d00007373.htmlにあります。お問い合わせください。¥n助成を受けるには\n必要書類を提出いただき、医療費助成の対象と認定された場合には、妊娠高血圧症候群等医療費助成決定通知書及び医療券を交付します。契約医療機関に入院中の場合は、医療券を医療機関の窓口に提示して精算してください。\n医療費をすでに医療機関に支払っている方は、申請によりお支払いします。その場合は、医療券とともに、必要書類をお送りします。",
+  "procedurePeriod": {
+    "conditions": "退院日から3か月以内に限り、遅延理由書を添付の上、退院後の申請も可とします。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "妊娠高血圧症候群等医療費助成実施要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "総合支所業務案内　健康づくり課",
+      "uri": "https://www.city.setagaya.lg.jp/mokuji/kusei/011/002/d00007373.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠高血圧症候群等の入院治療に要する医療費のうち、健康保険適用後の自己負担額を助成する制度です。自己負担分が高額療養費制度に該当する場合は、その限度額まで助成します。ただし、入院時食事療養費は除きます。",
+  "support": {
+    "description": "妊娠高血圧症候群等の入院治療に要する医療費のうち、健康保険適用後の自己負担額を助成する制度です。自己負担分が高額療養費制度に該当する場合は、その限度額まで助成します。ただし、入院時食事療養費は除きます。",
+    "materiallySupport": null,
+    "monetarySupport": "妊娠高血圧症候群等の入院治療に要する医療費のうち、健康保険適用後の自己負担額を助成する制度です。自己負担分が高額療養費制度に該当する場合は、その限度額まで助成します。ただし、入院時食事療養費は除きます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象\n区内に住所を有する方で、以下の対象疾患にり患し、次のいずれかに該当する方\n1.前年分の世帯の総所得税額が30,000円以下の世帯に属する方\n2.入院見込期間が26日以上の方\n(注意)退院後に申請される場合には、実入院期間が26日以上の方が対象となりますので、ご注意ください。¥n対象の疾患\n1.妊娠高血圧症候群及びその関連疾患\n2.糖尿病\n3.貧血\n4.産科出血\n5.心疾患\n（注意）対象疾患には、それぞれ認定基準が定められています。詳しくは、申請窓口にお問い合わせください。"
+  },
+  "updateDate": "2022-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

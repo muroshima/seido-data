@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "133612;大島町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉けんこう課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020133612",
+    "psid": "psid3.0+2000020133612+1+UM2368"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都大島町元町１－１－１４",
+    "contactComment": "Fax：04992-2-4430",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉けんこう課　子育て応援係",
+    "contactPhone": "04992-2-1471",
+    "contactUrl": null,
+    "zipCode": "1000101"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "無償化の概要\n生涯にわたる人格形成の基礎を培う幼児教育の重要性や、子育てや教育に費用がかかる費用負担の軽減を図る少子化対策の観点から、令和元年１０月１日から保育所を利用する子どもたちの保育料が無償化されます。\n対象者\n無償化の対象者は以下のとおりです。\n・３歳児クラスから５歳児の児童\n・住民税非課税世帯の０歳児クラスから２歳児クラスの児童\n対象範囲等\n\n|無償化対象者及び対象施設|<|<|<|\n|:---|:---|:---|:---|\n|施設|３歳～５歳児クラスの全世帯|０歳～２歳児クラス<br>（住民税非課税世帯のみ）|必要な手続き|\n|認可保育所|無料|無料|不要|\n※延長保育利用料、一時保育利用料については無償化の対象となりません。\n\n※給食費については今まで通り、全世帯無料となります。\n\n幼児教育・保育の無償化（内閣府）　（別ウィンドウで外部サイトへリンク）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "幼児教育・保育の無償化",
+    "shortName": "幼児教育・保育の無償化"
+  },
+  "localGovernmentLink": {
+    "title": "幼児教育・保育の無償化について",
+    "uri": "https://www.town.oshima.tokyo.jp/soshiki/kenkou/musyouka.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-23",
+    "updater": "大島町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第27条～第30条（第二章 第三節 第三款 施設型給付費及び地域型保育給付費等の支給）、第30条の2(子育てのための施設等利用給付）)",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "幼児教育・保育の無償化（内閣府)",
+      "uri": "https://www.youhomushouka.go.jp/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "幼児教育・保育の重要性や、子育てや教育にかかる費用負担の軽減を図る少子化対策の観点などから、3歳児クラス（年少）から5歳児クラス（年長）のお子さん、および住民税非課税世帯の0歳児クラスから2歳児クラスのお子さんを対象に、幼児教育・保育の無償化を実施しています。\n無償化の内容は、利用する施設・サービスごとに異なります。",
+  "support": {
+    "description": "保育所を利用する子どもたちの保育料が無償化",
+    "materiallySupport": null,
+    "monetarySupport": "保育所を利用する子どもたちの保育料が無償化"
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "無償化の対象者は以下のとおりです。\n・３歳児クラスから５歳児の児童\n・住民税非課税世帯の０歳児クラスから２歳児クラスの児童",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "保育所を利用する子どもたち"
+  },
+  "updateDate": "2019-09-26",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

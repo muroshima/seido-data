@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132144;国分寺市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子育て相談室地域支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132144",
+    "psid": "psid3.0+1000020132144+1+UM115"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子どもと子どもを育てる家庭総合相談;https://www.city.kokubunji.tokyo.jp/kurashi/1012309/shien/1001511.html\n子どもおよび子どもを育てる家庭支援に関すること全般（子どもおよびその保護者等が対象）\n子ども虐待防止の相談\n親と子の相談室\n子ども及び、保護者自身の疲れ、不眠、不安、落ちこみなど、こころの面の不調についての相談\nこどもの発達相談;https://www.city.kokubunji.tokyo.jp/kurashi/1008608/1008664/1009126.html\n18歳未満の子どもを対象とした、発達に関する悩みや心配ごとなどの相談\n教育相談;https://www.city.kokubunji.tokyo.jp/kurashi/1012309/shien/1001512.html\n子どもの学習・就学・行動及びいじめに関する相談\nいずみ保健センター（健康推進課）の相談;https://www.city.kokubunji.tokyo.jp/kurashi/kodomo/kenkou/1012505/1025555.html\n保健師・管理栄養士・歯科衛生士などの専門職が相談をお受けします\n乳幼児母性健康相談;https://www.city.kokubunji.tokyo.jp/kurashi/kodomo/kenkou/1012505/1015187.html\nお子さんの身体計測の他、各専門職（助産師、保健師、栄養士、歯科衛生士）が妊娠出産、育児に関わる相談をお受けします\nこどものネット・ケータイのトラブル相談！こたエール（東京都）;https://www.city.kokubunji.tokyo.jp/kurashi/1008608/1017237/1016749.html\n（東京都の事業） インターネットや携帯電話でのトラブルに悩んでいる青少年のための相談",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関する相談窓口一覧",
+    "shortName": "子ども・若者"
+  },
+  "localGovernmentLink": {
+    "title": "子ども・若者",
+    "uri": "https://www.city.kokubunji.tokyo.jp/kurashi/1031782/1015523/1015544/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "国分寺市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国分寺市内の子育てに関する相談窓口の一覧です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

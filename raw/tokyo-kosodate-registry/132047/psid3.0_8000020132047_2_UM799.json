@@ -1,0 +1,130 @@
+{
+  "area": {
+    "areaCode": "132047;三鷹市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども政策部 子ども家庭課 母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132047",
+    "psid": "psid3.0+8000020132047+2+UM799"
+  },
+  "belongings": "母子健康手帳、子育てガイド",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三鷹市新川六丁目37番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども政策部 子ども家庭課 子ども家庭支援センター母子保健係",
+    "contactPhone": "電話：0422-46‐3254",
+    "contactUrl": null,
+    "zipCode": "1810004"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "総合保健センター\n作成・発信部署：\n\n公開日：2024年３月１日\n\n三鷹市では、地域で安心して出産・子育てができるよう、「ゆりかご面接」を行っています。ゆりかご面接では、妊婦の方のからだやこころの相談から地域の利用できる機関やサービス、地域のひろば等を紹介しています。\n\n妊娠８か月頃には、アンケートを送りますのでご回答いただきご様子をお知らせください。ゆりかご面接2回目では、出産準備や産後のことを具体的に考え始める時期になりますので、出産に向けての心配や不安を軽減できるようご相談を受けています。さらに、産後ケアの申請も行っています。　\n\n総合保健センター（電話0422-46-3254）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "土曜日・日曜日・祝日、年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "東京都三鷹市新川六丁目37番1号\n三鷹中央防災公園・元気創造プラザ　２階",
+    "implementationName": "総合保健センター"
+  },
+  "institutionName": {
+    "canonicalName": "こども家庭センター",
+    "shortName": "子ども家庭課母子保健係"
+  },
+  "localGovernmentLink": {
+    "title": "ゆりかご面接",
+    "uri": "https://www.city.mitaka.lg.jp/c_service/056/056266.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/25",
+    "updater": "三鷹市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第22条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "子ども政策部　子ども家庭課",
+      "uri": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "三鷹市では、妊娠期から子育て期にわたり保護者の心身の健康や育児に関する様々な悩みに対応するため、妊娠期から切れ目ない支援を行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象\n妊婦"
+  },
+  "updateDate": "2025/02/01",
+  "useConsiderationFlag": false,
+  "utilization": "面接は予約制です。予約方法はホームページをご覧ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日～金曜日",
+    "fromHM": "08:30",
+    "toHM": "17:00"
+  }
+}

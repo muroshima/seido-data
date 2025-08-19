@@ -1,0 +1,134 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "みなと保健所健康推進課地域保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+1+UM29"
+  },
+  "belongings": "健康保険証のコピー\n保護者(父・母)とお子様の個人番号を確認する書類\n申請者の本人確認できる書類\n所得関係書類(父・母）\nその他の書類",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファックス番号：03-3455-4539\n\n外国語対応が必要な人、通訳オペレーター、区の職員の3人で会話ができます。\n\n多言語対応三者通話サービス;https://www.multilingualinterpretercallservice.city.minato.tokyo.jp/kokusai",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "みなと保健所健康推進課地域保健係",
+    "contactPhone": "03-6400-0084",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "養育医療\n未熟児であって、指定医療機関の医師が入院を必要と認めた乳児（1歳未満）に対して医療費助成を行います。\n\n※指定医療機関については東京都のホームページで確認できます。\n\n対象\n出生体重2,000グラム以下、又は生活力が特に薄弱であって一定の症状を示す乳児\n\n※詳しくは、指定養育医療機関の医師にご確認、ご相談ください。\n\n申請書類\n養育医療給付申請書（PDF：77KB）;https://www.city.minato.tokyo.jp/chiikihoken/kenko/ninshin/shussan/documents/youikuiryousinnseisyo.pdf\n養育医療意見書（PDF：72KB）;https://www.city.minato.tokyo.jp/chiikihoken/kenko/ninshin/shussan/documents/youikuiryouisiikennsyo.pdf\n世帯調書（PDF：76KB）;https://www.city.minato.tokyo.jp/chiikihoken/kenko/ninshin/shussan/documents/setaityousyo.pdf\n同意書（PDF：64KB）;https://www.city.minato.tokyo.jp/chiikihoken/kenko/ninshin/shussan/documents/douisyo.pdf\n健康保険証のコピー\n保護者(父・母)とお子様の個人番号を確認する書類\n申請者の本人確認できる書類\n所得関係書類(父・母）\nその他の書類\n※詳しくは下記「養育医療給付の申請について」をご覧ください\n\n申請方法\n養育医療給付の申請について（PDF：170KB）;https://www.city.minato.tokyo.jp/chiikihoken/kenko/ninshin/shussan/documents/yoikuiryo.pdf\n\nマイナポータル電子申請（外部サイトへリンク）;http://app.oss.myna.go.jp/Application/procdetail/initGet?kc9XUt9I8/CU41afS8P1OdAmf3AsYLzmAT4On4HzAzTQu/7E+4Dvk+4P6m+ahK7w9mvEtTKn79wcb1BOXyMKx8minJkIxNXByKtyNhVLYf925X971kGeUnwrWOyAoC8gAJpEKe/l1BXRupX7UxBlsw==\n\n申請書類の配布・提出先\nみなと保健所健康推進課地域保健係または各総合支所区民課保健福祉係",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "マイナポータル電子申請（外部サイトへリンク）",
+      "uri": "https://app.oss.myna.go.jp/Application/procdetail/initGet?kc9XUt9I8/CU41afS8P1OdAmf3AsYLzmAT4On4HzAzTQu/7E 4Dvk 4P6m ahK7w9mvEtTKn79wcb1BOXyMKx8minJkIxNXByKtyNhVLYf925X971kGeUnwrWOyAoC8gAJpEKe/l1BXRupX7UxBlsw=="
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "未熟児養育医療の給付",
+    "shortName": "養育医療"
+  },
+  "localGovernmentLink": {
+    "title": "養育医療",
+    "uri": "https://www.city.minato.tokyo.jp/chiikihoken/kenko/ninshin/shussan/yoikuiryo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "港区"
+  },
+  "procedureCounter": "みなと保健所健康推進課地域保健係または各総合支所区民課保健福祉係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "養育医療給付の申請について（PDF：170KB）;https://www.city.minato.tokyo.jp/chiikihoken/kenko/ninshin/shussan/documents/yoikuiryo.pdf\n\nマイナポータル電子申請（外部サイトへリンク）;http://app.oss.myna.go.jp/Application/procdetail/initGet?kc9XUt9I8/CU41afS8P1OdAmf3AsYLzmAT4On4HzAzTQu/7E+4Dvk+4P6m+ahK7w9mvEtTKn79wcb1BOXyMKx8minJkIxNXByKtyNhVLYf925X971kGeUnwrWOyAoC8gAJpEKe/l1BXRupX7UxBlsw==",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第20条（養育医療）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "養育医療給付の申請について（PDF：170KB）",
+      "uri": "https://www.city.minato.tokyo.jp/chiikihoken/kenko/ninshin/shussan/documents/yoikuiryo.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "未熟児養育医療の給付とは、身体の発育が未熟なまま生まれ入院を必要とする乳児が、指定養育医療機関において入院治療を受ける場合に、その治療に要する医療費を公費により負担する制度です。ただし、世帯の所得税額に応じて、入院治療費の一部は自己負担となります。",
+  "support": {
+    "description": "医療費助成",
+    "materiallySupport": null,
+    "monetarySupport": "医療費助成"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "089"
+    ]
+  },
+  "target": {
+    "conditions": "1歳未満",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "未熟児であって、指定医療機関の医師が入院を必要と認めた乳児（1歳未満）"
+  },
+  "updateDate": "2024-04-02",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132136;東村山市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子ども保健・給付課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132136",
+    "psid": "psid3.0+1000020132136+1+UM53"
+  },
+  "belongings": "母子健康手帳\n生活保護受給証明書\n市民税非課税証明書",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東村山市本町1丁目2番地3　いきいきプラザ2階（手当係：手当・子ども医療証について）　いきいきプラザ3階（母子保健第２係：予防接種、母子保健について）",
+    "contactComment": "ファクス：手当係：042-394-7399　母子保健第１係・母子保健第２係：042-390-2270",
+    "contactEmail": null,
+    "contactEx": "手当係：3604　母子保健第２係：3605",
+    "contactName": "子ども家庭部子ども保健・給付課",
+    "contactPhone": "042-393-5111",
+    "contactUrl": "https://www.city.higashimurayama.tokyo.jp/formmail.html?_div=029300&_pageid=1192&_name=子ども家庭部子ども保健・給付課",
+    "zipCode": "1898501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊産婦乳幼児保健指導\n経済的理由により医療機関において妊産婦・乳幼児の診察や検査をはじめ、療育の指導・健康増進に必要な保健上の注意・助言を受けられない方に対して、指定医療機関にて公費で診察を受けられる指導票を交付します（申請手続きが必要です）。\n\n対象者\n生活保護法による被保護世帯\n市民税非課税世帯\n受診までの手続き\n子ども保健・給付課で「保健指導票」の交付を受けてから、指定医療機関で受診してください。\n\n必要書類\n保健指導票交付申請書(子ども保健・給付課窓口にあります）\n母子健康手帳\n生活保護受給証明書\n市民税非課税証明書",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の乳幼児健診",
+    "shortName": "妊産婦乳幼児保健指導"
+  },
+  "localGovernmentLink": {
+    "title": "妊産婦乳幼児保健指導",
+    "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/ninshin/ninshin/boshi1-5.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-24",
+    "updater": "東村山市"
+  },
+  "procedureCounter": "子ども保健・給付課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "受診までの手続き\n子ども保健・給付課で「保健指導票」の交付を受けてから、指定医療機関で受診してください。\n\n必要書類\n1.保健指導票交付申請書(子ども保健・給付課窓口にあります）\n2.母子健康手帳\n3.生活保護受給証明書\n4.市民税非課税証明書",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "経済的理由により医療機関において妊産婦・乳幼児の診察や検査をはじめ、療育の指導・健康増進に必要な保健上の注意・助言を受けられない方に対して、指定医療機関にて公費で診察を受けられる指導票を交付します（申請手続きが必要です）。",
+  "support": {
+    "description": "経済的理由により医療機関において妊産婦・乳幼児の診察や検査をはじめ、療育の指導・健康増進に必要な保健上の注意・助言を受けられない方に対して、指定医療機関にて公費で診察を受けられる指導票を交付します（申請手続きが必要です）。",
+    "materiallySupport": "経済的理由により医療機関において妊産婦・乳幼児の診察や検査をはじめ、療育の指導・健康増進に必要な保健上の注意・助言を受けられない方に対して、指定医療機関にて公費で診察を受けられる指導票を交付します（申請手続きが必要です）。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "1.生活保護法による被保護世帯\n2.市民税非課税世帯"
+  },
+  "updateDate": "2020-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "子ども保健・給付課で「保健指導票」の交付を受けてから、指定医療機関で受診してください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

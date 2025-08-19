@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131059;文京区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部幼児保育課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131059",
+    "psid": "psid3.0+6000020131059+1+UM73"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都文京区春日1丁目16番21号\n文京シビックセンター12階南側",
+    "contactComment": "ファクス番号：03-5803-1346",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部幼児保育課",
+    "contactPhone": "03-5803-1189",
+    "contactUrl": "https://logoform.jp/form/6KSu/553771",
+    "zipCode": "1128555"
+  },
+  "cost": null,
+  "costConditions": "児童のクラス年齢と世帯の住民税額（区民税所得割額）に応じて、決定します。",
+  "description": "認可保育所等は保護者の就労や病気などの理由により保育を必要とする児童を保育する施設です。\n原則として認可保育施設、区立幼稚園及び一部の私立幼稚園（新制度移行園）の二重在籍はできません（夏休み利用等も含む。）。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "入所・転所申込フォーム",
+      "uri": "https://www.city.bunkyo.lg.jp/b023/p001739/index.html#nyusho\n"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "認可保育所（保育園）の利用について",
+    "shortName": "認可保育園・認定こども園（保育所部分）"
+  },
+  "localGovernmentLink": {
+    "title": "認可保育所等 トップページ",
+    "uri": "https://www.city.bunkyo.lg.jp/b023/p001732.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-25",
+    "updater": "文京区"
+  },
+  "procedureCounter": "幼児保育課入園相談係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "必要書類を幼児保育課入園相談係へ提出（郵送可）又は電子申請にてお申込みください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第24条",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育園とは、保護者が共に働いていたり病気などの理由で、昼間家庭において保育を受けられないお子さんを、保護者に代わって保育する児童福祉施設で、法的には「保育所」といいます。\n保育所（保育園）には、国が定めた設置基準をクリアし、都道府県知事に認可された保育所と、それ以外の保育所がありますが、ここでは認可された保育所についてご案内します。\n\n保育園では在園児を対象とした「延長保育」のほか、「一時預かり」や「病児保育」、「障害児保育」などを行っている園もあります。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0歳児クラスから5歳児クラスまで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 5,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "保育が必要と認められる0歳～小学校未就学の児童"
+  },
+  "updateDate": "2023-08-25",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "【標準時間】7:15～18:15\n【短時間】9:00～17:00",
+    "fromHM": null,
+    "toHM": null
+  }
+}

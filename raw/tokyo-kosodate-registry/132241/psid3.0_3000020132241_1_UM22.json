@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "132241;多摩市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センター母子保健担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132241",
+    "psid": "psid3.0+3000020132241+1+UM22"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都多摩市関戸四丁目19番5号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭センター母子保健担当",
+    "contactPhone": "042-376-9177",
+    "contactUrl": null,
+    "zipCode": "2060011"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "多胎児家庭支援事業(移動経費補助)\n\nこの事業は、多胎児を養育する家庭が抱える、同時に二人以上の妊娠・出産・育児をすることに伴う身体的・精神的負担や、外出の難しさ等に対して支援を行うものです。\n多胎児家庭に対して、乳幼児健診や予防接種など母子保健事業、及び多胎児家庭を対象とした交流会等を利用するために必要な交通料金を助成します。\n\n対象者\n0歳代、1歳代、2歳代の多胎児を養育するご家庭\n\n※対象のご家庭には、健康推進課（健康センター）から通知をお送りします。転入された方は下記問い合わせ先にご連絡ください。\n\n配布物\nデジタルギフトカード　1ご家庭につき20,000円分\n\n※タクシー利用等の費用としてお使いください\n\n配布方法\n保健師が訪問または面接でお渡しします\n\n※デジタルギフトカードは、年度で1回の配布となります。\n\n多胎児家庭支援事業チラシ （PDF 553.6KB）;https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/417/R6chirashi.pdf\n子ども家庭サポーター派遣事業をご利用してみませんか？\n子ども家庭サポーター派遣事業とは、妊娠中や出産後に、日中誰も手伝う人がいない家庭に「子ども家庭サポーター」を派遣し、家事・育児をお手伝いするサービスです。詳しくは、子ども家庭サポーター派遣事業のページをご覧ください。\n\n多摩市子ども家庭サポーター派遣事業;https://www.city.tama.lg.jp/kosodate/1008019/1008027/1003506.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関する金銭的支援",
+    "shortName": "多胎児家庭支援事業(移動経費補助)"
+  },
+  "localGovernmentLink": {
+    "title": "多胎児家庭支援事業(移動経費補助)",
+    "uri": "https://www.city.tama.lg.jp/kosodate/1008018/1008022/1009154.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "多摩市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "とうきょうママパパ応援事業実施要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "多摩市子ども家庭サポーター派遣事業",
+      "uri": "https://www.city.tama.lg.jp/kosodate/1008019/1008027/1003506.html"
+    },
+    {
+      "title": "多胎児家庭支援事業チラシ （PDF 553.6KB）",
+      "uri": "https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/417/R6chirashi.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "0歳、１歳、２歳の多胎児を養育する家庭に対して、乳幼児健診や予防接種など母子保健事業、及び多胎児家庭を対象とした交流会等を利用するために必要な交通料金を助成します。",
+  "support": {
+    "description": "配布物\nデジタルギフトカード　1ご家庭につき20,000円分\n\n※タクシー利用等の費用としてお使いください\n配布方法\n保健師が訪問または面接でお渡しします\n\n※デジタルギフトカードは、年度で1回の配布となります。\n\n多胎児家庭支援事業チラシ （PDF 553.6KB）;https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/417/R6chirashi.pdf",
+    "materiallySupport": null,
+    "monetarySupport": "配布物\nデジタルギフトカード　1ご家庭につき20,000円分\n\n※タクシー利用等の費用としてお使いください"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": "0歳代、1歳代、2歳代",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象者\n0歳代、1歳代、2歳代の多胎児を養育するご家庭\n\n※対象のご家庭には、健康推進課（健康センター）から通知をお送りします。転入された方は下記問い合わせ先にご連絡ください。"
+  },
+  "updateDate": "2024-04-18",
+  "useConsiderationFlag": false,
+  "utilization": "※対象のご家庭には、健康推進課（健康センター）から通知をお送りします。転入された方は下記問い合わせ先にご連絡ください。\n保健師が訪問または面接でお渡しします\n\n※デジタルギフトカードは、年度で1回の配布となります。\n\n多胎児家庭支援事業チラシ （PDF 553.6KB）;https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/417/R6chirashi.pdf",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

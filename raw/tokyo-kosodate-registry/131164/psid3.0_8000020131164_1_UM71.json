@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保育支援担当課入園グループ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+1+UM71"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保育支援担当課入園グループ",
+    "contactPhone": "03-3981-2140",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子ども・子育て支援新制度とは、「子ども・子育て関連3法（平成24年8月成立）に基づき、幼児期の学校教育や保育、地域の子育て支援の量の拡充や質の向上を進めるものです。\n\n子どものための教育・保育給付認定に係る申請について\n\n保育園等を利用する際には、保育の必要性に応じた教育・保育給付認定の申請が必要です。\nまた、保育の利用は、保育の必要量によって「保育標準時間」と「保育短時間」の2種類に区分され、利用できる時間も異なります。\n\n認定区分表\n\n|認定区分|年齢|対象世帯|利用する教育・保育|\n|:----|:----|:----|:----|\n|1号認定|満3歳から5歳まで|教育を希望する世帯|幼稚園、認定こども園（短時間利用）|\n|2号認定|満3歳から5歳まで|保育を必要とする世帯|保育所、認定こども園（長時間利用）|\n|3号認定|0歳から2歳まで|保育を必要とする世帯|保育所、認定こども園、地域型保育|\n\n保育認定（2号認定、3号認定）には、以下の2点が考慮されます。\n\n1.保育を必要とする事由\n\n下記のいずれかの事由に該当することが必要です。\n・就労\n・妊娠、出産\n・保護者の疾病、障害\n・同居又は長期入院等している親族の介護・看護\n・災害復旧\n・求職活動\n・就学\n・虐待やDVのおそれがあること\n・育児休業取得中に、既に保育を利用している子どもがいて継続利用が必要であること\n・その他、上記に類する状態として市町村が認める場合　　\n\n2.保育の必要量\n\n保育を必要とする事由や、保護者の状況によって次のいずれかに区分されます。\n保育標準時間認定：最長11時間\n保育短時間認定 ：最長8時間\n\n利用料金\n\n世帯の特別区民税所得割額（寄付金税額控除・住宅借入金等特別控除・外国税額控除等の適用前）をもとに算定します。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子どものための教育・保育給付認定（1号・2号・3号）",
+    "shortName": "子ども・子育て支援新制度について（認可保育園）"
+  },
+  "localGovernmentLink": {
+    "title": "子ども・子育て支援新制度について（認可保育園）",
+    "uri": "https://www.city.toshima.lg.jp/260/kosodate/kosodate/hoikuen/nyuen/033628.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "1.保育必要性の認定\n2.保育施設の利用申込み\n1.2.は同時にできます。申込み先は、保育課入園グループ（郵送可）\n3.利用調整及び入園内定\n利用申込者が欠員を上回る場合は、保育の必要性の高い方から入園を内定します。\n入園内定者へは、保育園または入園グループから電話でご連絡します。\n4.認定証の交付\n「支給認定証」を入園グループから交付します。\n5.面接・健康診断\n入園内定園で、集団保育が可能かどうか、面接・健康診断を行います。\nこの面接・健康診断を入園前に受けられない場合、または、面接・健康診断で集団保育に適さないと判断された場合は、内定取消しとなります。\n6.利用契約\n施設と直接、利用契約を結びます。（区立・公設民営・私立の認可保育園は豊島区と契約します。）\n7.入園",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第19条（支給要件）・第20条（市町村の認定等）",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子ども・子育て支援新制度による給付を受ける幼稚園や認可保育園、認定こども園、地域型保育事業（小規模保育・家庭的保育・居宅訪問型保育・事業所内保育）を利用するには、お子さんの年齢や保育の必要性の有無、保育の必要量に応じた認定を受ける必要があります。\n\nまた、企業主導型保育（地域枠）については、お住まいの自治体から教育・保育給付認定を受けることで、「幼児教育・保育の無償化」による助成を受けることができます。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "004"
+    ],
+    "contentsCode": [
+      "078"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "小学校就学前子どもがいる世帯"
+  },
+  "updateDate": "2020-12-10",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

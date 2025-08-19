@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "芝地区総合支所区民課保健福祉係,麻布地区総合支所区民課保健福祉係,赤坂地区総合支所区民課保健福祉係,高輪地区総合支所区民課保健福祉係,芝浦港南地区総合支所区民課保健福祉係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+1+UM76"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "各保育園",
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "|階層|利用区分|<|<|<|1か月当たり<br>の最大負担額|\n|^|7時15分～19時15分|<|19時15分～22時00分|<|^|\n|^|1時間当たりの<br>延長保育料|1か月当たりの<br>上限額|1時間当たりの<br>延長保育料|1か月当たりの<br>上限額|^|\n|Ａ、Ｂ|0円|0円|200円|2,000円|2,000円|\n|Ｃ1～Ｄ6|200円|2,000円|400円|4,000円|6,000円|\n|Ｄ7～Ｄ30|400円|4,000円|600円|6,000円|10,000円|",
+  "description": "延長保育・早朝保育\n\n各保育園では、保育標準時間を超えて延長保育を実施しています（土曜日を除く）。延長保育は、在園している保育園で利用ができます。ただし、通常の保育料とは別に延長保育料がかかります。 \n\n＜延長保育の利用について＞ \n|項目|区立認可保育園・港区保育室<br>区立認定こども園（2・3号認定）|私立認可保育園・小規模保育事業<br>居宅訪問型保育事業|\n|延長時間<br>利用対象<br>利用可能日|18時1５分以降１時間単位|保育園によって異なります。<br>詳細は各施設に問い合わせてください。|\n |^|満1歳の誕生日を迎えたお子さん<br>（完了食になってから）|^|\n |^|月曜日から金曜日まで|^|\n|利用定員|各保育園に問い合わせてください。|^|\n\n※延長保育料及び延長保育時間は、保育園により異なります。別紙「港区内認可保育園等一覧」を参照してください。\n＜利用申込みについて＞\n・延長保育は、保育園に事前の利用申込みが必要です。利用方法は保育園に問い合わせてください。\n・利用申込みをした延長保育時間を必ず守ってください。\n・事前に利用申込みをした時間とお迎えの時間が変わる場合は、速やかに保育園に連絡してください。\n\n(1) 延長保育料\n＜延長保育料金表＞ 階層区分については、2３ページを参照してください。\n|階層|利用区分|<|<|<|1か月当たり<br>の最大負担額|\n|^|7時15分～19時15分|<|19時15分～22時00分|<|^|\n|^|1時間当たりの<br>延長保育料|1か月当たりの<br>上限額|1時間当たりの<br>延長保育料|1か月当たりの<br>上限額|^|\n|Ａ、Ｂ|0円|0円|200円|2,000円|2,000円|\n|Ｃ1～Ｄ6|200円|2,000円|400円|4,000円|6,000円|\n|Ｄ7～Ｄ30|400円|4,000円|600円|6,000円|10,000円|\n※「多子世帯等の保育料負担の軽減」（２４ページ参照）により、基本保育料が無料の場合でも、延長保育料はかかります。\n※短時間認定のお子さんについて、保育短時間を超えて保育を行う場合、延長保育料を徴収します。\n※保育園へ事前に延長保育の利用の申込みをしていない保護者が、認定時間を超えた時間にお迎えの場合、上記の延長保育料を徴収します。\n※私立保育園、地域型保育事業の延長保育料及び延長保育時間は上記と異なる場合があります。各保育園に問い合わせてください。\n※待機児童向け居宅訪問型保育事業の延長保育料は、１時間あたり1,000円です。\n\n(2) 早朝保育\n神明保育園で実施しています。\n|利 用 時 間|6時15分～7時15分（日額利用）|\n|利 用 要 件|就労で保育ができない場合|\n|利 用 方 法|直接、保育園に申込みしてください。定員の枠内で申込みを受け付けます。|\n|対 象 者|１歳の誕生日から（神明保育園在園児に限る）|\n|保 育 料|日額：0円～400円 ※階層区分により金額が異なります。（上表参照）| ",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "延長保育",
+    "shortName": "延長保育・早朝保育"
+  },
+  "localGovernmentLink": {
+    "title": "保育園入園のごあんない令和６年度版",
+    "uri": "https://www.city.minato.tokyo.jp/hoikusien/documents/goannnai_r06.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "港区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第59条第2号",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "港区内の保育園（保育所）や認定こども園、地域型保育施設では、保護者の勤務時間などにより、認定を受けた時間帯を超えて保育が必要なお子さんを対象に、別途料金を徴収のうえで、延長保育を実施しています。",
+  "support": {
+    "description": "延長保育",
+    "materiallySupport": "延長保育",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

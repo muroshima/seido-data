@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "江戸川区児童相談所 はあとポート",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+2+UM115"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "江戸川区中央三丁目4番18号",
+    "contactComment": "開館時間8：30～17：00（月～土曜日 ※祝日・年末年始を除く）",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "江戸川区児童相談所 はあとポート",
+    "contactPhone": "03-5678-1810",
+    "contactUrl": null,
+    "zipCode": "1320021"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "児童相談所とは、子どもに関する総合相談窓口で、18歳未満の子どもに関することであれば、どんな相談でもお受けします。その他、里親の登録に関する手続きや愛の手帳の申請受付も行います。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "江戸川区オンライン相談予約ページ(livecall.jp)（外部サイトへリンク）",
+      "uri": "https://edogawa-yoyaku.livecall.jp/#/reservation-menu"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関する相談窓口一覧",
+    "shortName": "児童相談所ってどんなところ？"
+  },
+  "localGovernmentLink": {
+    "title": "児童相談所ってどんなところ？",
+    "uri": "https://www.city.edogawa.tokyo.jp/jiso/donnatokoro.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "児童相談所電話番号（月曜日から土曜日の8時30分から17時（注）祝日・年末年始を除く）\n\n03-5678-1810\n児童相談所虐待対応ダイヤル（24時間対応（通話料無料））\n\n189\nオンライン相談が可能です。\n\nオンライン通信アプリケーションを活用したビデオ通話によるオンライン相談が可能です。\n\nオンライン相談受付日時：月曜日から金曜日の13時～16時(注)祝日・年末年始を除く\n\n下記のリンクから事前予約してください。\n\n江戸川区オンライン相談予約ページ(livecall.jp)（外部サイトへリンク）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "相談したいときはどうしたらいいの？\n\n児童相談所または児童相談所虐待対応ダイヤルに直接お電話ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第30条の4第2項",
+    "regulationName": "医療法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童相談所とは、子どもに関する総合相談窓口で、18歳未満の子どもに関することであれば、どんな相談でもお受けします。その他、里親の登録に関する手続きや愛の手帳の申請受付も行います。",
+  "support": {
+    "description": "児童相談所\n\n相談内容に応じて、心理司や保健師、保育士などの専門の職員が迅速に対応します。\n継続的なサポートが必要な場合は、児童福祉の専門職員を担当者に据え、子どもとその家族に適した援助を行います。",
+    "materiallySupport": "児童相談所\n\n相談内容に応じて、心理司や保健師、保育士などの専門の職員が迅速に対応します。\n継続的なサポートが必要な場合は、児童福祉の専門職員を担当者に据え、子どもとその家族に適した援助を行います。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象者記載なし"
+  },
+  "updateDate": "2023-09-01",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

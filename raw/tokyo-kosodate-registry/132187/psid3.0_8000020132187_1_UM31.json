@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132187;福生市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　こども家庭センター課　母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132187",
+    "psid": "psid3.0+8000020132187+1+UM31"
+  },
+  "belongings": "母子健康手帳、筆記用具",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "福生市福生2125-3（福生市保健センター2階）",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　こども家庭センター課　母子保健係",
+    "contactPhone": "042-552-0312",
+    "contactUrl": null,
+    "zipCode": "1970011"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "パパママクラスのご案内です。\n\nこれからパパ・ママになる方向けの教室です。\n\n教室内容をご家族で共有し、新しい家族を迎える準備をしていきましょう。\n\n【時間】午後1時30分から3時30分まで\n\n【対象】これからお母さん、お父さんになる方\n\n【持ち物】母子健康手帳、筆記用具\n\n【場所】こども家庭センター（保健センター）\n\n（注意）　\n\n・予約制です。\n・15日号の「広報ふっさ」で募集するので、受付開始日を確認して予約してください。\nコース内容　※1コース4回\n1日目（パパも一緒に）\n・育児の話\n・妊娠、お産、母乳育児の話\n【担当者】助産師、保健師\n\n2日目\n・妊娠中と生まれてくる赤ちゃんの歯の健康\n・妊婦歯科健康診査\n【担当者】歯科医師、歯科衛生士\n\n3日目（パパも一緒に）\n・栄養の話\n・赤ちゃんのお風呂の入れ方※\n・元気パパのヘルスチェック\n【担当者】栄養士、保健師\n\n4日目\n・子育ての話\n・母子保健サービスの話\n・子育て体験談\n・赤ちゃんの絵本の紹介\n【担当者】保健師、先輩ママ\n\n※赤ちゃんのお風呂の入れ方は、「福が生まれる子育て動画（1）-沐浴編-」でも紹介していますので、ぜひご覧ください。\n\n日程\n令和７年度　母子保健事業日程表 （PDF 180.0KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/019/905/b.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "日程\n令和７年度　母子保健事業日程表 （PDF 380.0KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/019/905/b.pdf",
+    "fromHM": "13:30",
+    "fromYMD": null,
+    "toHM": "15:30",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "こども家庭センター（保健センター）"
+  },
+  "institutionName": {
+    "canonicalName": "両親学級・妊婦学級",
+    "shortName": "パパママクラス"
+  },
+  "localGovernmentLink": {
+    "title": "パパママクラス",
+    "uri": "https://www.city.fussa.tokyo.jp/kofukunavi/1012670/1012948.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "福生市"
+  },
+  "procedureCounter": "こども家庭センター（保健センター）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "・予約制です。\n・15日号の「広報ふっさ」で募集するので、受付開始日を確認して予約してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "これからお母さん、お父さんになる方",
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "令和7年度　母子保健事業日程表 （PDF 380.0KB）",
+      "uri": "https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/019/905/b.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "お母さん（とお父さん）が安心して赤ちゃんを迎えられるように、福生市では助産師、保健師、栄養士、歯科医師などによる妊娠、出産、育児、栄養などに関する講義を開いています。これからお母さん（お父さん）になられる方同士の交流の場にもなりますので、ぜひお気軽にご参加ください。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "これからお母さん、お父さんになる方"
+  },
+  "updateDate": "2025/04/01",
+  "useConsiderationFlag": false,
+  "utilization": "15日号の「広報ふっさ」で募集する",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

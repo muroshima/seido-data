@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "131067;台東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": null,
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131067",
+    "psid": "psid3.0+6000020131067+1+UM799"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子ども家庭支援センター一覧、センター実施事業などについて掲載しています。\n子育て総合相談;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/soudan/kosodatesougousoudan.html\n子ども家庭支援センターのご案内;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/shisetsu_asobiba/kodomokateishien/kodomokateisiennsenn.html\n子ども家庭支援センター あそびひろば;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/shisetsu_asobiba/kodomokateishien/goannai.html\n日本堤子ども家庭支援センター「にこにこひろば」;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/shisetsu_asobiba/kodomokateishien/nikoniko.html\n台東子ども家庭支援センター「わくわくひろば」;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/shisetsu_asobiba/kodomokateishien/wakuwaku.html\n寿子ども家庭支援センター「のびのびひろば」;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/shisetsu_asobiba/kodomokateishien/nobinobi.html\n谷中子ども家庭支援センター「ぽかぽかひろば」;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/shisetsu_asobiba/kodomokateishien/301210pokapoka.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "こども家庭センター",
+    "shortName": "子ども家庭支援センター"
+  },
+  "localGovernmentLink": {
+    "title": "子ども家庭支援センター",
+    "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/shisetsu_asobiba/kodomokateishien/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/03/10",
+    "updater": "台東区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "台東区の【子ども家庭支援センター】では、全ての妊産婦・子育て家庭に対する相談等への対応、サポートプランに基づく妊産婦の健康やこどもの養育に関する支援などを行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

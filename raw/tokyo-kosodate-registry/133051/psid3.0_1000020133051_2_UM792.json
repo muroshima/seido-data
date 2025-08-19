@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "133051;日の出町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センター　相談係（母子保健担当）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133051",
+    "psid": "psid3.0+1000020133051+2+UM792"
+  },
+  "belongings": "母子手帳、バスタオル、歯ブラシ、コップ、口拭きタオル",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭センター　相談係（母子保健担当）",
+    "contactPhone": "042-588-4310",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "無料",
+  "description": "5歳歯科検診¥n５歳児と年長児のお子さんに、郵送でご案内しています¥n歯科検診を受けた方にフッ化物塗布を行っています¥n受付時間：午前９：００～１０：１５¥n¥n|健診日|５歳 対象者|年長児 対象者|\n|:----|:----|:----|\n|４月１８日（木）||H30.4.2生～7.31生|\n|６月２０日（木）|H31.4.2生～R1.5.31生|H30.8.1生～9.30生|\n|８月２２日（木）|R1.6.1生～7.31生|H30.10.1生～11.30生|\n|１０月１７日（木）|R1.8.1生～9.30生|H30.12.1生～H31.1.31生|\n|１２月１９日（木）|R1.10.1生～11.30生|H31.2.1生～4.1生|\n|２月２０日（木）|R1.12.1生～R2.4.1生||¥n¥n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "こども家庭センター（保健センター内）"
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児の歯の健康診査（5歳児歯科健康診査）",
+    "shortName": "5歳歯科健診"
+  },
+  "localGovernmentLink": {
+    "title": "令和６年度　　日の出町こどもの健診母子相談スケジュール",
+    "uri": "https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000000/136/kodomonokenshin2024.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "日の出町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "乳歯が生えそろうこの時期は、むし歯が急増する時期でもあります。5歳児歯科健康診査を受けて、むし歯の予防と早期発見をめざしましょう。",
+  "support": {
+    "description": "歯科検診",
+    "materiallySupport": "歯科検診",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "５歳児と年長児のお子さん",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "５歳児と年長児のお子さん"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

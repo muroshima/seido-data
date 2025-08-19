@@ -1,0 +1,143 @@
+{
+  "area": {
+    "areaCode": "131172;北区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども未来部保育課入園相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131172",
+    "psid": "psid3.0+8000020131172+1+UM73"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都北区王子本町1-15-22北区役所第一庁舎2階1番",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども未来部保育課入園相談係",
+    "contactPhone": "03-3908-9129",
+    "contactUrl": null,
+    "zipCode": "1148508"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "保育園 保育利用案内\n　申請にあたっては「保育利用案内」をご一読ください。\n　下記の添付ファイルから令和6年度 保育利用案内（令和5年10月発行）をダウンロードできます。\n　保育利用案内は保育課入園相談係、区内の認可保育所等で配付しています。\n　北区の子育てアプリ「東京都北区子育て応援ガイド きたハピモバイル」;https://www.city.kita.tokyo.jp/kitahapi/application.htmlからもダウンロードすることができます。他にも、保育園の申請に便利な機能が充実していますので、リンク先からアプリをインストールしてご利用ください。\n\n添付ファイル\n令和6年度 保育利用案内（令和5年10月発行）（PDF：9,585KB）;https://www.city.kita.tokyo.jp/k-hoiku/kosodate/hoikuen/hoikuen/moshikomi/annai/documents/r6riyouannnai6.pdf\n　　※ファイルデータが大きいため、ダウンロードする際はご注意ください。\n　　※スマートフォンやタブレットでご覧になる場合は、Wi-Fi 環境でのご利用を推奨いたします。\n\n関連リンク\n保育園一覧（北区内認可保育園）;https://www.city.kita.tokyo.jp/k-hoiku/kosodate/hoikuen/hoikuen/ninka/ichiran.html\n保育園の入園申請（各保育園の空き人数及び申込状況）;https://www.city.kita.tokyo.jp/k-hoiku/kosodate/hoikuen/hoikuen/moshikomi/moshikomi/index.html\n「きたハピモバイル」がパワーアップして新登場しました！;https://www.city.kita.tokyo.jp/kitahapi/application.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "認可保育所（保育園）の利用について",
+    "shortName": "保育園 保育利用案内"
+  },
+  "localGovernmentLink": {
+    "title": "保育園 保育利用案内",
+    "uri": "https://www.city.kita.tokyo.jp/k-hoiku/kosodate/hoikuen/hoikuen/moshikomi/annai/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "北区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請にあたっては「保育利用案内」をご一読ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第24条",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "保育園一覧（北区内認可保育園）",
+      "uri": "https://www.city.kita.tokyo.jp/k-hoiku/kosodate/hoikuen/hoikuen/moshikomi/moshikomi/index.html"
+    },
+    {
+      "title": "令和6年度 保育利用案内（令和5年10月発行）（PDF：9",
+      "uri": "https://www.city.kita.tokyo.jp/k-hoiku/kosodate/hoikuen/hoikuen/moshikomi/annai/documents/r6riyouannnai6.pdf"
+    },
+    {
+      "title": "585KB）",
+      "uri": "https://www.city.kita.tokyo.jp/k-hoiku/kosodate/hoikuen/hoikuen/ninka/ichiran.html"
+    },
+    {
+      "title": "「東京都北区子育て応援ガイド きたハピモバイル」",
+      "uri": "https://www.city.kita.tokyo.jp/kitahapi/application.html"
+    },
+    {
+      "title": "保育園の入園申請（各保育園の空き人数及び申込状況）",
+      "uri": "https://www.city.kita.tokyo.jp/kitahapi/application.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育園とは、保護者の就労や病気などで、お子さんの保育を必要とするときに、保護者に代わって保育するための児童福祉施設です。認可保育園は、施設の広さや保育士等の職員数、給食設備・防災管理等の国の設置基準を満たして設置している施設です。認可保育園の利用には、保育課入園相談係へ利用（認定）申請が必要です。申請にあたっては「保育利用案内」をご一読ください。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2023-10-16",
+  "useConsiderationFlag": false,
+  "utilization": "下記の添付ファイルから令和6年度 保育利用案内（令和5年10月発行）をダウンロードできます。\n保育利用案内は保育課入園相談係、区内の認可保育所等で配付しています。\n北区の子育てアプリ「東京都北区子育て応援ガイド きたハピモバイル」;https://www.city.kita.tokyo.jp/kitahapi/application.htmlからもダウンロードすることができます。他にも、保育園の申請に便利な機能が充実していますので、リンク先からアプリをインストールしてご利用ください。\n\n添付ファイル\n令和6年度 保育利用案内（令和5年10月発行）（PDF：9,585KB）;https://www.city.kita.tokyo.jp/k-hoiku/kosodate/hoikuen/hoikuen/moshikomi/annai/documents/r6riyouannnai6.pdf\n　　※ファイルデータが大きいため、ダウンロードする際はご注意ください。\n　　※スマートフォンやタブレットでご覧になる場合は、Wi-Fi 環境でのご利用を推奨いたします。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

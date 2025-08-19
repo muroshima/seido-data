@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 児童相談所援助課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+7+UM78"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 児童相談所援助課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e077/kuseijoho/gaiyo/soshiki/kodomo/childguidanceoffice.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "愛の手帳とは\n\n愛の手帳は、知的障害者（児）の保護及び自立更生の援助を行い、知的障害者（児）の福祉の増進を図るために交付される東京都の療育手帳です。障害の程度によって、1度から4度に区分されます。手帳には、氏名、生年月日、住所、顔写真と総合判定による障害の程度、合併障害の有無、運賃割引の区分などが記載され、手帳の提示により各種手当や制度を活用することができます。\n\n受けられるサービス\n\n愛の手帳を所持する方は、障害福祉サービスや各種手当等を受けることができます。\n詳しくは、障害者福祉課までお問合せください。\nhttps://www.city.edogawa.tokyo.jp/e041/kuseijoho/gaiyo/soshiki/fukushi/syogai.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "障がい児保育",
+    "shortName": "愛の手帳の交付"
+  },
+  "localGovernmentLink": {
+    "title": "愛の手帳の交付",
+    "uri": "https://www.city.edogawa.tokyo.jp/jiso/jigyoguide/aitecho.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "江戸川区にお住まいの方で愛の手帳の交付を希望する方は、次の窓口に電話で予約を行い、判定を受けてください。\n18歳未満の方\n\n児童相談所はあとポート愛の手帳担当\n\n電話番号：03-5678-1810\n\n受付時間：平日午前8時30分～午後5時（祝日・休日、年末年始を除く）\n18歳以上の方\n\n東京都心身障害者福祉センター（外部サイトへリンク）（別ウィンドウで開きます）\n\n電話番号：03-3235-2961\n\n住所：新宿区神楽河岸1丁目1番東京都飯田橋庁舎（セントラルプラザ）14階\n\n受付時間：平日午前9時～12時、午後1時～午後5時（祝日・休日、年末年始を除く）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第59条第2号",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "集団保育が可能で心身に障がいがあるお子さんを、健常児と一緒に保育し相互の健全な育成を図ります。「愛の手帳」は、知的障害者（児）の保護及び自立更生の援助を行い、知的障害者（児）の福祉の増進を図るために交付される東京都の療育手帳です。障害の程度によって、1度から4度に区分されます。手帳には、氏名、生年月日、住所、顔写真と総合判定による障害の程度、合併障害の有無、運賃割引の区分などが記載され、手帳の提示により各種手当や制度を活用することができます。",
+  "support": {
+    "description": "愛の手帳の交付",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "交付対象者\n\n知的機能の障害が18歳未満の発達期にあらわれ日常生活に支障が生じているため、何らかの特別な援助が必要となる方で、知的検査による知的指数（IQ）と日常生活の様子等から障害の程度を総合的に判定し、所定の基準を満たす方に交付されます。自閉症スペクトラム障害などで知的障害を伴うと判定された場合も対象となります。"
+  },
+  "updateDate": "2023-05-25",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

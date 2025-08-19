@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "132195;狛江市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉保健部 高齢障がい課 障がい者支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132195",
+    "psid": "psid3.0+8000020132195+2+UM5037"
+  },
+  "belongings": "自立支援医療（育成医療）意見書、世帯調書、ご本人及び同一世帯の方の住民税（非）課税証明書等、ご本人及び同一世帯の方の健康保険証の写し,申請者のご本人確認ができる書類（マイナンバーカード、運転免許証、パスポート、在留カードのうち１点または健康保険証、年金手帳、官公署または公的機関が送付・発行した氏名、生年月日等が記載されている書類のうち２点）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉保健部　高齢障がい課　障がい者支援係,福祉保健部　高齢障がい課　高齢者支援係,福祉保健部　高齢障がい課　介護保険係",
+    "contactPhone": "03-3430-1249,03-3430-1251,03-3430-1262",
+    "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,96587,html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "身体に障がいのある児童の自立支援医療（育成医療）\n対象者\n　保護者が狛江市に住所を有する18歳未満の児童で、身体に障がいを有する方、または、現存する疾患が、当該障がいまたは疾患に係る医療を行わないときは、将来障がいを残すと認められる方で、手術等によって障がいの改善が見込まれる方が対象です。\nただし、市町村民税（所得割）が23万5千円以上の世帯の方は、原則として対象外（※）となります。\n※「重度かつ継続」の障がいに該当する場合は、対象となりますので、内容については、お問い合わせください。\n \n\n対象となる障害・病気\n肢体不自由\n視覚障害\n聴覚・平衡機能障害\n音声・言語・そしゃく機能障害\n心臓機能障害\n腎臓（じんぞう）機能障害\n小腸機能障害\n肝臓機能障害\nその他の先天性内臓障害\n免疫機能障害\n手続方法\n以下の必要書類を揃えて申請してください。\nなお、手続きが遅れた場合は、医療費の助成が受けられないことがありますので、ご注意ください。\n\n必要書類\n自立支援医療（育成医療）支給認定申請書  《ご本人と同一の保険に加入している方のマイナンバーを確認させていただきます。》\n自立支援医療（育成医療）意見書\n世帯調書\nご本人及び同一世帯の方の住民税（非）課税証明書等\n（省略できる場合があります。申請時期により必要な年度が違いますので、お問い合わせください。）\nご本人及び同一世帯の方の健康保険証の写し\n（社会保険は被保険者、国民健康保険は同一の保険者全員）\n申請の際は、申請者のご本人確認ができる書類（マイナンバーカード、運転免許証、パスポート、在留カードのうち１点または健康保険証、年金手帳、官公署または公的機関が送付・発行した氏名、生年月日等が記載されている書類のうち２点）をお持ちください。\n\n公費負担額\n医療保険各法による医療給付を優先し、その残額から自己負担額を控除した額を助成します。\n原則、治療費の1割が自己負担額（※）となります。また、入院時の食事療養費は、自己負担となります。\n※自己負担額については、世帯の所得に応じた月額上限額が設置されています。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度",
+    "shortName": "身体に障がいのある児童の自立支援医療（育成医療）"
+  },
+  "localGovernmentLink": {
+    "title": "身体に障がいのある児童の自立支援医療（育成医療）",
+    "uri": "https://www.city.komae.tokyo.jp/index.cfm/44,4356,339,html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "狛江市"
+  },
+  "procedureCounter": "福祉保健部　高齢障がい課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "以下の必要書類を揃えて申請してください。\nなお、手続きが遅れた場合は、医療費の助成が受けられないことがありますので、ご注意ください。\n\n必要書類\n自立支援医療（育成医療）支給認定申請書  《ご本人と同一の保険に加入している方のマイナンバーを確認させていただきます。》\n自立支援医療（育成医療）意見書\n世帯調書\nご本人及び同一世帯の方の住民税（非）課税証明書等\n（省略できる場合があります。申請時期により必要な年度が違いますので、お問い合わせください。）\nご本人及び同一世帯の方の健康保険証の写し\n（社会保険は被保険者、国民健康保険は同一の保険者全員）\n申請の際は、申請者のご本人確認ができる書類（マイナンバーカード、運転免許証、パスポート、在留カードのうち１点または健康保険証、年金手帳、官公署または公的機関が送付・発行した氏名、生年月日等が記載されている書類のうち２点）をお持ちください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+  "support": {
+    "description": "医療保険各法による医療給付を優先し、その残額から自己負担額を控除した額を助成します。\n原則、治療費の1割が自己負担額（※）となります。また、入院時の食事療養費は、自己負担となります。\n※自己負担額については、世帯の所得に応じた月額上限額が設置されています。",
+    "materiallySupport": null,
+    "monetarySupport": "医療保険各法による医療給付を優先し、その残額から自己負担額を控除した額を助成します。\n原則、治療費の1割が自己負担額（※）となります。また、入院時の食事療養費は、自己負担となります。\n※自己負担額については、世帯の所得に応じた月額上限額が設置されています。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "保護者が狛江市に住所を有する18歳未満の児童で、身体に障がいを有する方、または、現存する疾患が、当該障がいまたは疾患に係る医療を行わないときは、将来障がいを残すと認められる方で、手術等によって障がいの改善が見込まれる方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": 0
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "保護者が狛江市に住所を有する18歳未満の児童で、身体に障がいを有する方、または、現存する疾患が、当該障がいまたは疾患に係る医療を行わないときは、将来障がいを残すと認められる方で、手術等によって障がいの改善が見込まれる方が対象です。\nただし、市町村民税（所得割）が23万5千円以上の世帯の方は、原則として対象外（※）となります。\n※「重度かつ継続」の障がいに該当する場合は、対象となりますので、内容については、お問い合わせください。"
+  },
+  "updateDate": "2021-01-21",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

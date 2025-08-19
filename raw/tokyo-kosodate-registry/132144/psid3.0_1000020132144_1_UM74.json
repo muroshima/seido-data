@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132144;国分寺市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　保育幼稚園課　入園相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132144",
+    "psid": "psid3.0+1000020132144+1+UM74"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-359-3354",
+    "contactEmail": null,
+    "contactEx": "383",
+    "contactName": "子ども家庭部　保育幼稚園課　入園相談係",
+    "contactPhone": "042-325-0111",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "令和6年度保育所等入所案内（PDF版）\n\nツイッターでツイート フェイスブックでシェア ラインでシェア ページ番号　1019373　 更新日　 令和6年8月1日\n\n令和6年度保育所等入所案内（PDF版）\n保育所等の申込書や提出必要書類の書式は、『保育所等入所案内』とセットで、保育幼稚園課窓口のほか、市内認可保育所、cocobunjiプラザ総合案内（cocobunji WEST5階）、国立駅前市民サービスコーナー（国立駅前くにたち・こくぶんじ市民プラザ内）、健康推進課（いずみプラザ1階）、子ども家庭支援センターで配布しています。\n（注釈）cocobunjiプラザ総合案内は在庫がなくなり次第配布終了となります。\n\n『保育所等入所案内』は以下からダウンロードもできます。\n令和6年度　保育所等入所案内≪利用案内編≫ （PDF 3.3MB）;https://www.city.kokubunji.tokyo.jp/_res/projects/default_project/_page_/001/019/373/r6.pdf\n令和6年度　保育所等入所案内≪施設紹介編≫ （PDF 16.0MB）;https://www.city.kokubunji.tokyo.jp/_res/projects/default_project/_page_/001/019/373/r6sise.pdf\n令和6年度　保育施設の紹介　マップ （PDF 418.5KB）;https://www.city.kokubunji.tokyo.jp/_res/projects/default_project/_page_/001/019/373/r6map.pdf\n訂正表 （PDF 244.2KB）;https://www.city.kokubunji.tokyo.jp/_res/projects/default_project/_page_/001/019/373/teisei.pdf\n\n施設名称変更・定員変更について\n●令和6年8月1日から、「ぶんじっこ保育園」、「ぶんじっこ保育園分園」、「保育園ピコ国分寺」、「にしこくワンダーランド保育園」、「西国分寺プチ・クレイシュ」は下記のとおり、施設名称変更となります。\n●令和6年10月1日から、「もとまち保育園」は下記のとおり、定員変更となります。\n施設名称変更・定員変更 （PDF 255.7KB）;https://www.city.kokubunji.tokyo.jp/_res/projects/default_project/_page_/001/019/373/hennkou3.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "認定こども園の利用について",
+    "shortName": "認定こども園の利用"
+  },
+  "localGovernmentLink": {
+    "title": "令和6年度保育所等入所案内（PDF版）",
+    "uri": "https://www.city.kokubunji.tokyo.jp/kurashi/1008608/1008669/1019373.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-11",
+    "updater": "国分寺市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第7条、第30条の11",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "申請書類一覧",
+      "uri": "https://www.city.kokubunji.tokyo.jp/download/kodomo/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "認定こども園とは、0歳から就学前の子どもへ保育サービスを提供する「保育園機能」、3歳から就学前の子どもに幼児教育を提供する「幼稚園機能」、すべての子育て家庭を対象に、子育ての不安に対応した相談活動や親子が交流する場の提供などの「子育て支援機能」を併せ持つ施設です。\n「幼保連携型」「幼稚園型」「保育所型」「地方裁量型」の4タイプがあり、利用には、教育・保育の必要に応じた利用認定を受ける必要があります。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-08-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

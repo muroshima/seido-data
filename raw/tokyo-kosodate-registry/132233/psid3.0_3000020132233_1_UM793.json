@@ -1,0 +1,133 @@
+{
+  "area": {
+    "areaCode": "132233;武蔵村山市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "市民部保険年金課後期・年金係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132233",
+    "psid": "psid3.0+3000020132233+1+UM793"
+  },
+  "belongings": "出産予定日で届出をする場合\n・母子手帳等、出産予定日を確認できるもの\n・年金手帳又は基礎年金番号通知書\n・顔写真付きの身分証明書（運転免許証等）\n・マイナンバーが確認出来る書類又はマイナンバーカード（個人番号カード）\n\n出産後に届出をする場合\n・母子手帳等\n・年金手帳又は基礎年金番号通知書\n・顔写真入りの身分証明書（運転免許証等）\n・マイナンバーが確認出来る書類又はマイナンバーカード（個人番号カード）\n（注）出産日を明らかにする書類は、市役所で出産日の確認が出来るため原則必要ありません。\nただし、被保険者と子が別世帯の場合には、出生証明書等出産日及び親子関係を明らかにする書類をお持ちください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "135・136",
+    "contactName": "市民部保険年金課後期・年金係",
+    "contactPhone": "042-565-1111",
+    "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/c_02b/1010263",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "産前産後期間の国民年金保険料免除制度\n産前産後期間の国民年金保険料免除制度\n免除制度について\n国民年金第1号被保険者の方で、出産予定日又は出産日が属する月の前月から4か月間（多胎妊娠の場合は、出産予定日又は出産日が属する月の3か月前から6か月間）の国民年金保険料が免除となります。\nまた、産前産後期間として認められた期間は、保険料を納付したものとして、老齢基礎年金の受給額に反映されます。\nなお、この期間は保険料を免除している場合でも、付加保険料を納付することができます。\n（注）出産とは、妊娠85日（4か月）以上の出産をいい、死産、流産、早産された方を含みます。\n\n届出時期\n出産予定日の6か月前から届出をすることができます。\n\n申請できる場所\n・市役所保険年金課\n・市民課緑が丘出張所\n\n申請に必要なもの\n出産予定日で届出をする場合\n・母子手帳等、出産予定日を確認できるもの\n・年金手帳又は基礎年金番号通知書\n・顔写真付きの身分証明書（運転免許証等）\n・マイナンバーが確認出来る書類又はマイナンバーカード（個人番号カード）\n\n出産後に届出をする場合\n・母子手帳等\n・年金手帳又は基礎年金番号通知書\n・顔写真入りの身分証明書（運転免許証等）\n・マイナンバーが確認出来る書類又はマイナンバーカード（個人番号カード）\n（注）出産日を明らかにする書類は、市役所で出産日の確認が出来るため原則必要ありません。\nただし、被保険者と子が別世帯の場合には、出生証明書等出産日及び親子関係を明らかにする書類をお持ちください。\n\n関連情報\n日本年金機構（産前産後期間の免除）（外部リンク）;https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "「個人の方の電子申請（国民年金）」",
+      "uri": "https://www.nenkin.go.jp/denshibenri_kojin/denshibenri_kojin/shinsei_kojin.html"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "産前産後期間の国民年金保険料免除",
+    "shortName": "産前産後期間の国民年金保険料免除"
+  },
+  "localGovernmentLink": {
+    "title": "産前産後期間の国民年金保険料免除制度",
+    "uri": "https://www.city.musashimurayama.lg.jp/kurashi/hoken/nenkin/1010263.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-05-28",
+    "updater": "武蔵村山市"
+  },
+  "procedureCounter": "・市役所保険年金課\n・市民課緑が丘出張所",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "届出時期\n出産予定日の6か月前から届出をすることができます。\n\n申請できる場所\n・市役所保険年金課\n・市民課緑が丘出張所\n\n申請に必要なもの\n出産予定日で届出をする場合\n・母子手帳等、出産予定日を確認できるもの\n・年金手帳又は基礎年金番号通知書\n・顔写真付きの身分証明書（運転免許証等）\n・マイナンバーが確認出来る書類又はマイナンバーカード（個人番号カード）\n\n出産後に届出をする場合\n・母子手帳等\n・年金手帳又は基礎年金番号通知書\n・顔写真入りの身分証明書（運転免許証等）\n・マイナンバーが確認出来る書類又はマイナンバーカード（個人番号カード）\n（注）出産日を明らかにする書類は、市役所で出産日の確認が出来るため原則必要ありません。\nただし、被保険者と子が別世帯の場合には、出生証明書等出産日及び親子関係を明らかにする書類をお持ちください。",
+  "procedurePeriod": {
+    "conditions": "出産予定日の6か月前から届出をすることができます。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第88条の2（保険料の納付義務）",
+    "regulationName": "国民年金法"
+  },
+  "relatedLink": [
+    {
+      "title": "日本年金機構（産前産後期間の免除）（外部リンク）",
+      "uri": "https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民年金の第1号被保険者が出産した場合には、出産前後の一定期間の国民年金保険料が免除されます。\n免除期間は年金額を計算する際、保険料を納めた期間として扱われます。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "016"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "「国民年金第1号被保険者」で出産日が平成31年（2019年）2月1日以降の方\nただし、国民年金の任意加入期間は対象になりません。"
+  },
+  "updateDate": "2022-05-13",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131075;墨田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康推進課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131075",
+    "psid": "psid3.0+6000020131075+1+UM8"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "向島保健センター,本所保健センター,健康推進課",
+    "contactPhone": "03-3611-6135,03-3622-9137,03-5608-1462",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "無料",
+  "description": "妊産婦歯科健康診査\n妊娠中や出産後ははホルモンバランスの変化等により、むし歯や歯周病のリスクが高くなりますが、適切なお口のケアによって予防することも可能です。\n特に歯周病は、自覚症状が少ないまま進行します。早期発見・早期治療のためにも、この機会に歯科健診を受けましょう。\n受診方法\n親子健康手帳（母子健康手帳）を交付する際に、歯科健康診査票と実施医療機関一覧表をお渡しします。\n妊娠中に1回、出産後1年未満の間に1回受診できます。\n\n※妊娠中は体調の良い時に、なるべく早めに受診してください。\n※受診の際は、「墨田区妊産婦歯科健康診査票」と親子健康手帳（母子健康手帳）を提示してください。\n※区外に転出した場合には受診できません。\n実施場所\n墨田区の実施歯科医療機関\n※電話等で予約のうえ受診してください。\n墨田区妊産婦歯科健康診査実施医療機関一覧（PDF：272KB）;https://www.city.sumida.lg.jp/kenko_fukushi/kenko/kenko_zukuri/ha_kenkou/ninpusikakenkousinsa.files/ninsanpu60401_s.pdf\n健診内容\n1.口腔内の診査\n2.診査の結果に基づく指導\n費用\n費用\n無料\n向島保健センター　電話：03-3611-6135\n本所保健センター　電話：03-3622-9137\n健康推進課　電話：03-5608-1462\n令和6年11月以降について\n向島・本所保健センター、健康推進課は、令和6年11月5日に「すみだ保健子育て総合センター」（横川五丁目7番4号）へ移転予定です。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "墨田区妊産婦歯科健康診査実施医療機関一覧（PDF：272KB）; https://www.city.sumida.lg.jp/kenko_fukushi/kenko/kenko_zukuri/ha_kenkou/ninpusikakenkousinsa.files/ninsanpu60401_s.pdf",
+    "implementationName": "墨田区妊産婦歯科健康診査実施医療機関一覧（PDF：272KB）; https://www.city.sumida.lg.jp/kenko_fukushi/kenko/kenko_zukuri/ha_kenkou/ninpusikakenkousinsa.files/ninsanpu60401_s.pdf"
+  },
+  "institutionName": {
+    "canonicalName": "妊産婦の歯科健診",
+    "shortName": "妊産婦歯科健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "妊産婦歯科健康診査",
+    "uri": "https://www.city.sumida.lg.jp/kenko_fukushi/kenko/kenko_zukuri/ha_kenkou/ninpusikakenkousinsa.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "墨田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "親子健康手帳（母子健康手帳）を交付する際に、歯科健康診査票と実施医療機関一覧表をお渡しします。\n妊娠中に1回、出産後1年未満の間に1回受診できます。\n\n※妊娠中は体調の良い時に、なるべく早めに受診してください。\n※受診の際は、「墨田区妊産婦歯科健康診査票」と親子健康手帳（母子健康手帳）を提示してください。\n※区外に転出した場合には受診できません。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "墨田区妊産婦歯科健康診査実施医療機関一覧（PDF：272KB）",
+      "uri": "https://www.city.sumida.lg.jp/kenko_fukushi/kenko/kenko_zukuri/ha_kenkou/ninpusikakenkousinsa.files/ninsanpu60401_s.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠中や出産後は女性ホルモンの分泌の変化や食事回数の増加などから虫歯や歯周病になりやすく、進行しやすい時期です。こうした時期のお口の中の健康を維持するために、歯科健診をおすすめしています。健診には健康保険が適用されませんが、経済的負担を軽減するため、健診にかかる費用を助成する墨田区妊産婦歯科健康診査票をお渡ししています。",
+  "support": {
+    "description": "口腔内の診査\n診査の結果に基づく指導",
+    "materiallySupport": "口腔内の診査\n診査の結果に基づく指導",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-04-12",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

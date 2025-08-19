@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132047;三鷹市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども政策部 子ども育成課 保育施設係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132047",
+    "psid": "psid3.0+8000020132047+2+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三鷹市野崎一丁目1番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども政策部 子ども育成課 保育施設係",
+    "contactPhone": "0422-29-9672",
+    "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomo/index.html",
+    "zipCode": "1818555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "公設公営保育園9園で、電話による保育相談を行っています\n内容\nこの相談は、保育園の専門性を生かした子どもたちの遊びやしつけなど子育ての悩みをもつ母親たちに応えるものです。\n日時\n月曜日～金曜日 午前9時～午後4時\nお問い合わせ\n各公立保育園へお問い合わせください。\n\nhttps://www.city.mitaka.lg.jp/c_service/001/001098.html|\n\n関連リンク\nみたかきっずナビ　地域開放事業（外部リンク）;https://kosodate-mitaka.mchh.jp/LGArticle/Index/3619?subGroupId=15&rootGroupId=5",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "ご相談はこちらの保育園へ\n|施設名|住所|電話番号|\n|:----|:----|:----|\n|中央保育園|上連雀六丁目11番16号|0422-40-7540|\n|南浦東保育園|下連雀六丁目12番1号|0422-40-7166|\n|あけぼの保育園|上連雀四丁目11番21号|0422-40-7555|\n|新川保育園|新川五丁目7番2号|0422-40-7553|\n|山中保育園|上連雀七丁目19番1号|0422-40-7542|\n|中原保育園|中原四丁目35番4号|0422-40-7170|\n|下連雀保育園|下連雀四丁目19番4号|0422-40-7160|\n|上連雀保育園|上連雀五丁目1番27号|0422-40-7168|\n|野崎保育園|野崎三丁目12番11号|0422-39-7050|\n",
+    "implementationName": "ご相談はこちらの保育園へ\n|施設名|住所|電話番号|\n|:----|:----|:----|\n|中央保育園|上連雀六丁目11番16号|0422-40-7540|\n|南浦東保育園|下連雀六丁目12番1号|0422-40-7166|\n|あけぼの保育園|上連雀四丁目11番21号|0422-40-7555|\n|新川保育園|新川五丁目7番2号|0422-40-7553|\n|山中保育園|上連雀七丁目19番1号|0422-40-7542|\n|中原保育園|中原四丁目35番4号|0422-40-7170|\n|下連雀保育園|下連雀四丁目19番4号|0422-40-7160|\n|上連雀保育園|上連雀五丁目1番27号|0422-40-7168|\n|野崎保育園|野崎三丁目12番11号|0422-39-7050|\n"
+  },
+  "institutionName": {
+    "canonicalName": "三鷹市の子育てに関する相談",
+    "shortName": "すくすく保育相談"
+  },
+  "localGovernmentLink": {
+    "title": "すくすく保育相談",
+    "uri": "https://www.city.mitaka.lg.jp/c_service/001/001098.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "三鷹市"
+  },
+  "procedureCounter": "各公立保育園",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "お問い合わせ\n各公立保育園へお問い合わせください。\nご相談はこちらの保育園へ\n|施設名|住所|電話番号|\n|:----|:----|:----|\n|中央保育園|上連雀六丁目11番16号|0422-40-7540|\n|南浦東保育園|下連雀六丁目12番1号|0422-40-7166|\n|あけぼの保育園|上連雀四丁目11番21号|0422-40-7555|\n|新川保育園|新川五丁目7番2号|0422-40-7553|\n|山中保育園|上連雀七丁目19番1号|0422-40-7542|\n|中原保育園|中原四丁目35番4号|0422-40-7170|\n|下連雀保育園|下連雀四丁目19番4号|0422-40-7160|\n|上連雀保育園|上連雀五丁目1番27号|0422-40-7168|\n|野崎保育園|野崎三丁目12番11号|0422-39-7050|\n",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "子育ての悩みをもつ母親",
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "みたかきっずナビ　地域開放事業（外部リンク）",
+      "uri": "https://kosodate-mitaka.mchh.jp/LGArticle/Index/3619?subGroupId=15&rootGroupId=5"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "三鷹市では、公設公営保育園9園で、電話による保育相談を行っています。",
+  "support": {
+    "description": "電話による保育相談",
+    "materiallySupport": "電話による保育相談",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "子育ての悩みをもつ母親"
+  },
+  "updateDate": "2022-01-28",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日～金曜日 午前9時～午後4時",
+    "fromHM": "09:00",
+    "toHM": "16:00"
+  }
+}

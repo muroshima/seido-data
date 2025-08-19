@@ -1,0 +1,136 @@
+{
+  "area": {
+    "areaCode": "132047;三鷹市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども政策部 子ども家庭課 母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132047",
+    "psid": "psid3.0+8000020132047+1+UM7"
+  },
+  "belongings": "・妊婦健診受診時の領収書と診療明細書\n・母子健康手帳\n・未使用分の妊婦健診受診票・妊婦超音波検査受診票・子宮頸がん検査受診票\n・銀行口座の通帳（ネット銀行は不可）\n・印鑑（シャチハタは不可）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三鷹市新川六丁目37番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども政策部 子ども家庭課 母子保健係",
+    "contactPhone": "0422-46-3254",
+    "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+    "zipCode": "1810004"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "里帰りや助産所で、市が発行した妊婦健診受診票が使えなかったとき\n　三鷹市で発行された妊婦健診受診票は、助産所や東京都外の医療機関では利用できません。\n　出産後の申請で、健診費用の一部を助成します。流産、死産されたかたも対象です。\n\n申請手続きについて\n申請窓口\n　三鷹市総合保健センター\n\n申請に必要な物\n・妊婦健診受診時の領収書と診療明細書\n・母子健康手帳\n・未使用分の妊婦健診受診票・妊婦超音波検査受診票・子宮頸がん検査受診票\n・銀行口座の通帳（ネット銀行は不可）\n・印鑑（シャチハタは不可）\n※申請時に不足物があった場合、申請を受け付けできませんのでご注意ください。\n\n申請期間\n　出産日より1年間\n\n関連リンク\n三鷹市総合保健センター;https://www.city.mitaka.lg.jp/c_sections/kenkou/index.html\n妊婦健康診査;https://www.city.mitaka.lg.jp/c_service/016/016520.html\n健やか親子21（外部リンク）;https://sukoyaka21.cfa.go.jp/",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "里帰り出産時の妊婦健康診査の費用助成",
+    "shortName": "里帰りや助産所で、市が発行した妊婦健診受診票が使えなかったとき"
+  },
+  "localGovernmentLink": {
+    "title": "市が発行した妊婦健診受診票を使えなかったとき",
+    "uri": "https://www.city.mitaka.lg.jp/c_service/086/086778.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-12",
+    "updater": "三鷹市"
+  },
+  "procedureCounter": "三鷹市総合保健センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請窓口\n　三鷹市総合保健センター\n\n申請に必要な物\n・妊婦健診受診時の領収書と診療明細書\n・母子健康手帳\n・未使用分の妊婦健診受診票・妊婦超音波検査受診票・子宮頸がん検査受診票\n・銀行口座の通帳（ネット銀行は不可）\n・印鑑（シャチハタは不可）\n※申請時に不足物があった場合、申請を受け付けできませんのでご注意ください。\n\n申請期間\n　出産日より1年間\n\n関連リンク\n三鷹市総合保健センター;https://www.city.mitaka.lg.jp/c_sections/kenkou/index.html\n妊婦健康診査;https://www.city.mitaka.lg.jp/c_service/016/016520.html\n健やか親子21（外部リンク）;https://sukoyaka21.cfa.go.jp/",
+  "procedurePeriod": {
+    "conditions": "出産日より1年間",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "出産後の申請で、健診費用の一部を助成します。流産、死産されたかたも対象です。",
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "健やか親子21（外部リンク）",
+      "uri": "https://sukoyaka21.cfa.go.jp/"
+    },
+    {
+      "title": "三鷹市総合保健センター",
+      "uri": "https://www.city.mitaka.lg.jp/c_sections/kenkou/index.html"
+    },
+    {
+      "title": "妊婦健康診査",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/016/016520.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "三鷹市にお住まいの妊婦さんが、里帰り出産などで三鷹市の委託医療機関以外の病院や助産所で妊婦健康診査を受診した場合、その健診にかかった費用の一部を償還払い（後払い）します。",
+  "support": {
+    "description": "出産後の申請で、健診費用の一部を助成します。流産、死産されたかたも対象です。",
+    "materiallySupport": null,
+    "monetarySupport": "出産後の申請で、健診費用の一部を助成します。流産、死産されたかたも対象です。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "出産後の申請で、健診費用の一部を助成します。流産、死産されたかたも対象です。"
+  },
+  "updateDate": "2024-04-26",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

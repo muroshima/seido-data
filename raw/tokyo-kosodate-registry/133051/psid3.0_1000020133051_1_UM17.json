@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "133051;日の出町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センター　相談係（母子保健担当）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133051",
+    "psid": "psid3.0+1000020133051+1+UM17"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡日の出町大字平井2780番地",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭センター　相談係（母子保健担当）",
+    "contactPhone": "042-588-4310",
+    "contactUrl": null,
+    "zipCode": "1900192"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "日の出町特定不妊治療費（先進医療）助成金¥n不妊治療における経済的負担を軽減するため、特定不妊治療（保険診療）と併せて行った「先進医療」について、東京都の特定不妊治療費（先進医療）助成に上乗せして費用の一部助成を行います。¥nこの制度は東京都特定不妊治療費（先進医療）助成事業<外部リンク>;https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/funin-senshiniryou/gaiyou.htmlの決定を受けた方のみが対象になります。¥n¥n対象者¥n次の要件にすべて該当している方¥n（1）東京都の要綱にもとづき、医療費助成の決定を受けている¥n（2）特定不妊治療（先進医療）を受けた方またはその配偶者が東京都へ申請したその日から引き続き日の出町に住所を有する¥n（3）他の区市町村から同種の助成を受けていない¥n（4）課税された町税等を滞納していない¥n¥n助成額¥n1回の治療につき、保険診療と併せて行った「先進医療」の金額のうち、東京都の助成額を差し引いた額から5万円を上限に助成します。¥n¥n申請¥n保健センターに以下の必要書類をご提出ください。¥n１ 日の出町特定不妊治療費（先進医療）助成金交付申請書¥n２ 特定不妊治療（先進医療）に係る医療機関発行の領収書の写し¥n３ 東京都に提出した特定不妊治療費（先進医療）助成事業受診等証明書の写し¥n４ 東京都から交付された特定不妊治療費（先進医療）助成承認決定通知書の写し¥n５ 日の出町特定不妊治療費助成金請求書¥nなお、申請は東京都助成の承認を受けた日から1年以内に行ってください。¥n※ 日の出町特定不妊治療費（先進医療）助成金交付申請書、日の出町特定不妊治療費（先進医療）助成金請求書については下部から様式をダウンロードできます。¥n¥n日の出町特定不妊治療費（先進医療）助成金交付申請書¥n 日の出町特定不妊治療費（先進医療）助成金交付申請書（PDFファイル サイズ：103.02KB）;https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000001/1631/funinsenshinshinsei.pdf¥n¥n日の出町特定不妊治療費（先進医療）助成金請求書¥n 日の出町特定不妊治療費（先進医療）助成金請求書（PDFファイル サイズ：55.09KB）;https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000001/1631/funinsenshinseikyu.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の不妊・不育症に関する助成",
+    "shortName": "日の出町特定不妊治療費（先進医療）助成金"
+  },
+  "localGovernmentLink": {
+    "title": "特定不妊治療費助成制度",
+    "uri": "https://www.town.hinode.tokyo.jp/0000001631.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "日の出町"
+  },
+  "procedureCounter": "こども家庭センター　相談係（母子保健担当）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "保健センターに以下の必要書類をご提出ください。¥n¥n1 日の出町特定不妊治療費（先進医療）助成金交付申請書¥n2 特定不妊治療（先進医療）に係る医療機関発行の領収書の写し¥n3 東京都に提出した特定不妊治療費（先進医療）助成事業受診等証明書の写し¥n4 東京都から交付された特定不妊治療費（先進医療）助成承認決定通知書の写し¥n5 日の出町特定不妊治療費助成金請求書¥n　なお、申請は東京都助成の承認を受けた日から1年以内に行ってください。",
+  "procedurePeriod": {
+    "conditions": "申請は東京都助成の承認を受けた日から1年以内に行ってください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第1条（目的）、第2条（交付対象の不妊治療）、第3条（対象者）、第4条（助成額等）、第5条（申請）、第6条（助成の決定）、第7条（助成金の交付）、第8条（助成金の返還）、第9条（雑則）",
+    "regulationName": "日の出町不妊治療費助成金交付要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "東京都特定不妊治療費（先進医療）助成事業<外部リンク>",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/funin-senshiniryou/gaiyou.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "日の出町では、人工授精に係る保険適用外治療（※）の費用の一部について、独自に助成を行っています。¥n※産科、婦人科、産婦人科、泌尿器科を標榜する医療機関において実施した、医師の診断に基づく治療に限ります。",
+  "support": {
+    "description": "1回の治療につき、保険診療と併せて行った「先進医療」の金額のうち、東京都の助成額を差し引いた額から5万円を上限に助成します。",
+    "materiallySupport": null,
+    "monetarySupport": "1回の治療につき、保険診療と併せて行った「先進医療」の金額のうち、東京都の助成額を差し引いた額から5万円を上限に助成します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次の要件にすべて該当している方¥n（1）東京都の要綱にもとづき、医療費助成の決定を受けている¥n（2）特定不妊治療（先進医療）を受けた方またはその配偶者が東京都へ申請したその日から引き続き日の出町に住所を有する¥n（3）他の区市町村から同種の助成を受けていない¥n（4）課税された町税等を滞納していない"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

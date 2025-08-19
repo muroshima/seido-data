@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局教育推進課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM5028"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "教育委員会事務局教育推進課すくすくスクール係",
+    "contactPhone": "03-5662-8132",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": "無料",
+  "costConditions": "行事によっては実費負担があります",
+  "description": "すくすくスクールとは小学校の放課後や学校休業日に、空き教室・学校図書館・校庭・体育館などの施設を利用して、児童がのびのびと自由な活動ができる事業です。遊びや学び、さまざまな活動や体験を通して自ら考え行動する力を培います。学校・地域・保護者の連携によって世代の違う多くの大人や異年齢の児童と交流し、コミュニケーション力を高め、豊かな心を育みます。すくすくスクールの活動内容はその日に使用できる施設や状況に応じ、読書や自習等静かな活動や、異学年との交流、集団で体を動かして遊ぶなど、自主的に自由に活動します。また、地域の方々がボランティアとして活動の中に入り、多種多様な文化活動やスポーツ活動が行われ、各校独自の展開となっています。（行事によっては参加実費負担があります）すくすくスクールでの活動の様々な関わりによって、保護者を含め、地域の顔見知りの大人と子どもの関係が増え、児童の安全安心につながります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "小学校"
+  },
+  "institutionName": {
+    "canonicalName": "放課後子供教室",
+    "shortName": "すくすくスクール"
+  },
+  "localGovernmentLink": {
+    "title": "すくすくスクールとは",
+    "uri": "https://www.city.edogawa.tokyo.jp/e068/kosodate/kyoiku/kyouiku/sukusuku/sukusuku-toha.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/17",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "各小学校すくすくスクール",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "参加する場合、通学する小学校（区立以外の小学校に通学している場合は通学区域の小学校）のすくすくスクールに登録します。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "学童クラブ登録",
+      "uri": "https://www.city.edogawa.tokyo.jp/e068/kosodate/kyoiku/kyouiku/sukusuku/r6gakudou-touroku.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "地域住民の参画を得て、放課後等に全ての児童を対象として、学習や体験・交流といった多様な活動を行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "小学生",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "1年生から6年生まで"
+  },
+  "updateDate": "2024/05/16",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "平日：放課後から午後5時\n\n土曜日：午前8時30分から午後5時\n\n学校休業日：午前8時30分から午後5時\n\n土曜日、学校休業日の際の昼食は一度家に戻って食べます。",
+    "fromHM": "08:30",
+    "toHM": "17:00"
+  }
+}

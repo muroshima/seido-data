@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132217;清瀬市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "生活福祉課生活福祉係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132217",
+    "psid": "psid3.0+3000020132217+1+UM60"
+  },
+  "belongings": "養成機関の学校案内等のパンフレット（教育訓練給付金対象であること、金額、受講内容等がわかるもの）、印鑑、児童扶養手当証書の写し等",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "清瀬市中里5-842　清瀬市役所1階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "生活福祉課生活福祉係",
+    "contactPhone": "042-497-2070",
+    "contactUrl": null,
+    "zipCode": "2048511"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "母子家庭等高等職業訓練促進給付金\n\nページ番号1005317　 更新日 2020年8月30日\n印刷　大きな文字で印刷\n\n母子家庭又は父子家庭の経済的自立を促進するため、就職に有利な資格取得を目指して修業中の母子家庭の母又は父子家庭の父に、訓練促進費を支給します。これから資格取得をとお考えの方や現在養成機関で修業中の方は、ご相談ください。\n\n対象となる方\n市内にお住まいの20歳未満の児童を扶養している母子家庭の母又は父子家庭の父で、次の全ての条件を満たす方。\n1.児童扶養手当の支給を受けているか、児童扶養手当の支給要件と同等の所得水準の方\n2.修業年限が６月以上の養成機関において修業し、資格の取得が見込まれる方\n3.修業又は育児と修業の両立が困難であると認められる方\n4.過去に母子家庭等高等職業訓練促進給付金又はこれと趣旨を同じくする給付金を受けていない方\n\n対象となる資格\n1.看護師（准看護師含む）\n2.介護福祉士\n3.保育士\n4.理学療法士\n作業療法士\n6.保健師\n7.助産師\n8.理容師\n9.美容師\n10.その他市長が認める資格\n\n訓練促進費の支給期間　修業期間の全期間（上限4年）。\n支給額　住民税非課税世帯（同居世帯も含む）月額100,000円\n住民税課税世帯（同居世帯も含む）月額70,500円\n\n修了支援給付金\n養成機関において修業をすべて修了した後、一時金を支給します（30日以内に申し出）。\n支給日　養成機関の養成課程修了後\n支給額　非課税世帯は、50,000円、課税世帯は、25,000円\n\n注：父子家庭の父は平成25年4月以降に入学した方",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "高等職業訓練促進給付金",
+    "shortName": "母子家庭等高等職業訓練促進給付金"
+  },
+  "localGovernmentLink": {
+    "title": "母子家庭等高等職業訓練促進給付金",
+    "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatehojo/hitorioyakateihojo/1005317.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-10",
+    "updater": "清瀬市"
+  },
+  "procedureCounter": "生活福祉課生活福祉係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "事前相談後、申請書に関係書類を添えてお申込みください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "1.児童扶養手当を受給している方等\n2.資格を取得するため、養成機関において6か月以上の学習過程を修業し、対象資格の取得が見込まれる者\n3.就業または育児及び修業の両立が困難であると認められるもの\n4,過去に訓練促進給付金と趣旨を同じくする給付を受けていないもの\n注：詳細は担当課までお問い合わせください。",
+  "regulation": {
+    "regulationArticle": "第31条（母子家庭自立支援給付金）、第31条の10（父子家庭自立支援給付金）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭の母または父が、就業に結びつきやすい対象資格（看護師や介護福祉士など）を取得するため6ヶ月以上養成機関で修業する場合に、修業期間中の生活の負担軽減のために高等職業訓練促進給付金を、また修業終了時に高等職業訓練修了支援給付金を支給します。",
+  "support": {
+    "description": "訓練促進費の支給\n支給期間修業期間の全期間（上限4年）。\n支給額住民税非課税世帯（同居世帯も含む）月額100,000円\n住民税課税世帯（同居世帯も含む）月額70,500円\n\n修了支援給付金\n養成期間において修業をすべて修了した後、一時金を支給します（30日以内に申し出）。\n養成機関の養成課程修了後支給額非課税世帯は、50,000円、課税世帯は、25,000円",
+    "materiallySupport": null,
+    "monetarySupport": "訓練促進費の支給\n支給期間修業期間の全期間（上限4年）。\n支給額住民税非課税世帯（同居世帯も含む）月額100,000円\n住民税課税世帯（同居世帯も含む）月額70,500円\n\n修了支援給付金\n養成期間において修業をすべて修了した後、一時金を支給します（30日以内に申し出）。\n養成機関の養成課程修了後支給額非課税世帯は、50,000円、課税世帯は、25,000円"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "1.児童扶養手当の支給を受けているか、児童扶養手当の支給要件と同等の所得水準の方\n2.修業年限が６月以上の養成機関において修業し、資格の取得が見込まれる方2年以上の養成期間において修業をすべて修了した後、一時金を支給します（30日以内に申し出）。\n3.修業又は育児と修業の両立が困難であると認められる方\n4.過去に母子家庭等高等職業訓練促進給付金又はこれと趣旨を同じくする給付金を受けていない方\n"
+  },
+  "updateDate": "2020-08-30",
+  "useConsiderationFlag": true,
+  "utilization": "事前相談後、申請書に関係書類を添えてお申込みください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

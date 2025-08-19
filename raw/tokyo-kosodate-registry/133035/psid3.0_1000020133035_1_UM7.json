@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "133035;瑞穂町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部 子ども家庭センター課 母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133035",
+    "psid": "psid3.0+1000020133035+1+UM7"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡瑞穂町大字石畑1970番地　瑞穂町保健センター",
+    "contactComment": "受付時間 平日の午前8時30分から午後5時まで",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部 子ども家庭センター課 母子保健係",
+    "contactPhone": "042-557-5098",
+    "contactUrl": "https://www.town.mizuho.tokyo.jp/inquiry/mailform130302.html?PAGE_NO=9369",
+    "zipCode": "1901211"
+  },
+  "cost": null,
+  "costConditions": "助成金には上限額があります。",
+  "description": "里帰り等で、妊婦健康診査受診票が使用できない医療機関（助産所を含みます）で健診を受けた場合に、助成金を交付する制度です。また、多胎妊娠（双子以上の子を妊娠した方）の方が、15回目以降の妊婦健康診査に係る費用に対し、5回を上限として助成金を交付します。助成金には上限額があります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "里帰り等で、妊婦健康診査受診票が使用できない医療機関（都外の医療機関等）で健診を受けた場合。また、多胎妊娠（双子以上の子を妊娠した方）の方が、15回目以降の妊婦健康診査を受診される場合。"
+  },
+  "institutionName": {
+    "canonicalName": "里帰り出産時の妊婦健康診査の費用助成",
+    "shortName": "妊婦健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "妊婦健康診査",
+    "uri": "https://www.town.mizuho.tokyo.jp/kosodate/002/p001212.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "瑞穂町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "下記書類をお持ちいただき、保健センターの窓口に申請してください。",
+  "procedurePeriod": {
+    "conditions": "出産した日から1年以内\n※受診の都度、随時請求していただくこともできます。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "妊娠が分かったら（妊娠の届出）;健康・保健関係 各種様式",
+      "uri": "https://www.town.mizuho.tokyo.jp/kosodate/002/p001214.html;https://www.town.mizuho.tokyo.jp/tyosei/023/002/p000706.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "里帰り等で、妊婦健康診査受診票が使用できない医療機関（助産所を含みます）で健診を受けた場合に、助成金を交付する制度です。また、多胎妊娠（双子以上の子を妊娠した方）の方が、15回目以降の妊婦健康診査に係る費用に対し、5回を上限として助成金を交付します。助成金には上限額があります。",
+  "support": {
+    "description": "里帰り等で、妊婦健康診査受診票が使用できない医療機関（助産所を含みます）で健診を受けた場合に、助成金を交付する制度です。また、多胎妊娠（双子以上の子を妊娠した方）の方が、15回目以降の妊婦健康診査に係る費用に対し、5回を上限として助成金を交付します。助成金には上限額があります。",
+    "materiallySupport": "里帰り等で、妊婦健康診査受診票が使用できない医療機関（助産所を含みます）で健診を受けた場合に、助成金を交付する制度です。また、多胎妊娠（双子以上の子を妊娠した方）の方が、15回目以降の妊婦健康診査に係る費用に対し、5回を上限として助成金を交付します。助成金には上限額があります。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "下記のすべてを満たす場合が対象となります。\n・受診日現在、瑞穂町に住民票のある（あった）方\n・妊娠判定のための受診以外で、今回の妊娠のために受けた妊婦健診であること\n・受診票が使えない医療機関（都外の医療機関等）で受けた妊婦健診であること\n・母子健康手帳等により、受診したことが確認できること\n・受診した際の領収書等により、受診にかかった費用が確認できること\n・使用していない受診票があること"
+  },
+  "updateDate": "2021-03-16",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

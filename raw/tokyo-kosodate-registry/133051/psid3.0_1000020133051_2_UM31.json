@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "133051;日の出町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センター　相談係（母子保健担当）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133051",
+    "psid": "psid3.0+1000020133051+2+UM31"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡日の出町大字平井2780番地",
+    "contactComment": "ファクス: 042-597-6177",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭センター　相談係（母子保健担当）",
+    "contactPhone": "042-588-4310",
+    "contactUrl": null,
+    "zipCode": "1900192"
+  },
+  "cost": null,
+  "costConditions": "無料",
+  "description": "両親学級¥n実施内容¥n¥n平日クラス（2日間コース）¥n歯科医師・歯科衛生士による妊産婦と乳幼児の歯科保健のお話（歯と歯ぐきのお話・ブラッシングの指導）¥n助産師による、妊娠中、出産時の過ごし方、骨盤ケア¥n※1日だけの参加もできます¥n¥n休日コース（1日間コース）¥n沐浴実習・赤ちゃんのお世話の方法¥n妊娠中のママと赤ちゃんの栄養講話¥n日の出町母子保健事業、予防接種のお話¥n¥n対象者¥nお父さん、お母さんになる方（おじいちゃん、おばあちゃんもどうぞ）¥n¥n費用¥n無料です¥n¥n場所¥nこども家庭センター（保健センター内）2階¥n¥n申し込み¥n開催日前日までに電話でお申し込みください¥n¥n詳細につきましては下部のPDFファイルをご覧ください¥n各事業詳細¥n（PDF形式、589.13KB） （PDF形式、612.91KB）;https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000001/1943/ryoushingakkyu2024.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "両親学級・妊婦学級",
+    "shortName": "両親学級（休日コース（1日間コース））"
+  },
+  "localGovernmentLink": {
+    "title": "妊娠から出産まで",
+    "uri": "https://www.town.hinode.tokyo.jp/0000001943.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "日の出町"
+  },
+  "procedureCounter": "こども家庭センター　相談係（母子保健担当）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "開催日前日までに電話でお申し込みください",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "各事業詳細",
+      "uri": "https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000001/1943/ryoushingakkyu2024.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "お母さん（とお父さん）が安心して赤ちゃんを迎えられるように、日の出町では産科医師、歯科医師、保健師、栄養士、助産師などによる妊娠、出産、育児、栄養などに関する講義を開いています。これからお母さん（お父さん）になられる方同士の交流の場にもなりますので、ぜひお気軽にご参加ください。",
+  "support": {
+    "description": "休日コース（1日間コース）¥n沐浴実習・赤ちゃんのお世話の方法¥n妊娠中のママと赤ちゃんの栄養講話¥n日の出町母子保健事業、予防接種のお話",
+    "materiallySupport": "休日コース（1日間コース）¥n沐浴実習・赤ちゃんのお世話の方法¥n妊娠中のママと赤ちゃんの栄養講話¥n日の出町母子保健事業、予防接種のお話",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "お父さん、お母さんになる方（おじいちゃん、おばあちゃんもどうぞ）"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

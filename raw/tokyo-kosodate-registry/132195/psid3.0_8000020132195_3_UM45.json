@@ -1,0 +1,130 @@
+{
+  "area": {
+    "areaCode": "132195;狛江市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉保健部　健康推進課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132195",
+    "psid": "psid3.0+8000020132195+3+UM45"
+  },
+  "belongings": "必ず健康保険証をお持ちください。お持ちの方は、各種医療証、お薬手帳もお持ちください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "必ず健康保険証をお持ちください。お持ちの方は、各種医療証、お薬手帳もお持ちください。",
+  "description": "休日診療のご案内\n　狛江市では、休日等における市民の皆さんの急な病気に備えて、当市医師会・歯科医師会・薬剤師会の協力を得て、あいとぴあセンター２階に休日応急診療所を開設しています。\n\n※受診の際は、事前にそれぞれの診療所にお電話をしてください。\n※必ず健康保険証をお持ちください。お持ちの方は、各種医療証、お薬手帳もお持ちください。　\n\n休日応急診療所\n　日曜日・祝日・年末年始の午前9時～11時30分、午後1時～4時30分\n　【問い合わせ】03-3488-9121\nhttps://www.city.komae.tokyo.jp/images/content/3914/20170517-161746.jpg\n\n案内\n24時間医療機関案内は、狛江消防署（03-3480-0119）へ。\n夜間診療は、東京消防庁テレホンサービス（042-521-2323）へ。\nインターネットは、医療情報ネット（外部リンク）へ。;https://www.iryou.teikyouseido.mhlw.go.jp/",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "あいとぴあセンター２階"
+  },
+  "institutionName": {
+    "canonicalName": "夜間・休日急病診療所",
+    "shortName": "休日診療薬局"
+  },
+  "localGovernmentLink": {
+    "title": "休日診療のご案内",
+    "uri": "https://www.city.komae.tokyo.jp/index.cfm/42,3914,329,html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-28",
+    "updater": "狛江市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "※受診の際は、事前にそれぞれの診療所にお電話をしてください。\n※休日診療対応の薬局のため、取扱い医薬品に限りがあります。他の医療機関の処方箋については、電話でご確認ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "医療情報ネット",
+      "uri": "https://www.iryou.teikyouseido.mhlw.go.jp/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "狛江市では、日曜・祝日、年末年始に、市内の医療機関の協力のもと、当番制で診療を行っています。",
+  "support": {
+    "description": "休日等における市民の皆さんの急な病気に備えて、当市医師会・歯科医師会・薬剤師会の協力を得て、あいとぴあセンター２階に休日応急診療所を開設しています。",
+    "materiallySupport": "休日等における市民の皆さんの急な病気に備えて、当市医師会・歯科医師会・薬剤師会の協力を得て、あいとぴあセンター２階に休日応急診療所を開設しています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-05-24",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "日曜・祝日・年末年始の午前9時～11時30分、午後1時～5時",
+    "fromHM": null,
+    "toHM": null
+  }
+}

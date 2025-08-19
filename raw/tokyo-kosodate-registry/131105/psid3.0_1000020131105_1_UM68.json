@@ -1,0 +1,130 @@
+{
+  "area": {
+    "areaCode": "131105;目黒区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課 手当・医療係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131105",
+    "psid": "psid3.0+1000020131105+1+UM68"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "目黒区上目黒二丁目19番15号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て支援課 手当・医療係",
+    "contactPhone": "03-5722-9645",
+    "contactUrl": null,
+    "zipCode": "1538573"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "児童育成手当\n目次\n\n対象（育成手当）;https://www.city.meguro.tokyo.jp/kosodateshien/kosodatekyouiku/kosodate/ikuseiteate.html#p1\n対象（障害手当）;https://www.city.meguro.tokyo.jp/kosodateshien/kosodatekyouiku/kosodate/ikuseiteate.html#p2\n手当額;https://www.city.meguro.tokyo.jp/kosodateshien/kosodatekyouiku/kosodate/ikuseiteate.html#p3\n手当の支給開始月;https://www.city.meguro.tokyo.jp/kosodateshien/kosodatekyouiku/kosodate/ikuseiteate.html#p4\n所得制限;https://www.city.meguro.tokyo.jp/kosodateshien/kosodatekyouiku/kosodate/ikuseiteate.html#p5\n現況届;https://www.city.meguro.tokyo.jp/kosodateshien/kosodatekyouiku/kosodate/ikuseiteate.html#p6\n児童育成手当は、ひとり親家庭等の児童（育成手当）、障害がある児童（障害手当）に対して児童育成手当を支給することにより、児童の福祉の増進と健やかな成長を図ります。\n\n対象（育成手当）\n次のいずれかの状態にある18歳に達する日の以後の最初の3月31日までの児童を養育するかた\n\n父母が離婚した児童\n父または母が死亡した児童\n父または母に重度の障害がある児童（ただし、一部障害の内容により例外があります。）\n父または母が生死不明である児童\n父または母に1年以上遺棄されている児童\n父または母が裁判所からのDV保護命令を受けた児童\n父または母が法令により1年以上拘禁されている児童\n母が婚姻によらないで懐胎した児童で、父または母から扶養されていない児童\nただし、児童が施設（保育園、母子生活支援施設、母子入所を除く）に入所している場合や、父または母が事実上の婚姻状態にある場合等、手当が受けられないことがあります。\n\n対象（障害手当）\n次のいずれかの状態にある20歳未満の児童を養育するかた\n\n身体障害手帳1級・2級程度の障害\n愛の手帳1度から3度程度の障害\n脳性マヒまたは進行性筋萎縮症\n（注）上記手帳等級にも、一部対象外があります。\n（注）児童が施設（保育園、母子生活支援施設、母子入所を除く）に入所している場合等、手当を受けられないことがあります。\n\n手当額\n育成手当　支給額　月額13,500円（児童1人につき）\n障害手当　支給額　月額15,500円（児童1人につき）\n手当の支給開始月\n原則として、申請をした月の翌月が支給開始月となります。\n\n手当の支給は、原則として6月、10月、2月の各12日、前月までの4か月分をまとめて支給します。\n12日が土曜日、日曜日、祝日の場合は、直前の平日となります。\n所得制限\n児童育成手当は、申請者の所得に制限があります。詳しくは子どものための諸手当各種所得制限限度額表をご覧ください。\n\n子どものための諸手当各種所得制限限度額;https://www.city.meguro.tokyo.jp/kosodateshien/kosodatekyouiku/kosodate/teate_seigengaku.html\n\n現況届\n児童育成手当を受給している方は、毎年6月中に現況届を提出いただくことになっております。6月以降の児童育成手当について、所得状況や受給資格を確認し審査するために必要な届け出です。\n対象になる方には、6月上旬に現況届の書類を郵送します。記載の期日までに目黒区総合庁舎本館2階子育て支援課へ郵送または持参してください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "遺児等福祉手当",
+    "shortName": "児童育成手当"
+  },
+  "localGovernmentLink": {
+    "title": "児童育成手当",
+    "uri": "https://www.city.meguro.tokyo.jp/kosodateshien/kosodatekyouiku/kosodate/ikuseiteate.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "目黒区"
+  },
+  "procedureCounter": "目黒区総合庁舎2階子育て支援課手当・医療係窓口",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "新規で手当を受給する場合は、認定請求が必要です。新規申請の場合、認定要件や添付資料について、先に目黒区子育て支援課へご相談ください。\n目黒区から手当を受給しているかたへは、6月に現況届のご案内を郵送しますので、期限内に提出してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "（育成手当）\n次のいずれかの状態にある18歳に達する日の以後の最初の3月31日までの児童を養育するかた\n\n父母が離婚した児童\n父または母が死亡した児童\n父または母に重度の障害がある児童（ただし、一部障害の内容により例外があります。）\n父または母が生死不明である児童\n父または母に1年以上遺棄されている児童\n父または母が裁判所からのDV保護命令を受けた児童\n父または母が法令により1年以上拘禁されている児童\n母が婚姻によらないで懐胎した児童で、父または母から扶養されていない児童　\n（注）児童が施設（保育園、母子生活支援施設、母子入所を除く）に入所している場合や、父または母が事実上の婚姻状態にある場合等、手当が受けられないことがあります。\n\n対象（障害手当）\n次のいずれかの状態にある20歳未満の児童を養育するかた\n\n身体障害手帳1級・2級程度の障害\n愛の手帳1度から3度程度の障害\n脳性マヒまたは進行性筋萎縮症\n（注）上記手帳等級にも、一部対象外があります。\n（注）児童が施設（保育園、母子生活支援施設、母子入所を除く）に入所している場合等、手当が受けられないことがあります。",
+  "regulation": {
+    "regulationArticle": "第4条～第8条",
+    "regulationName": "目黒区児童育成手当条例"
+  },
+  "relatedLink": [
+    {
+      "title": "子どものための諸手当各種所得制限限度額",
+      "uri": "https://www.city.meguro.tokyo.jp/kosodateshien/kosodatekyouiku/kosodate/teate_seigengaku.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭等の児童（育成手当）、障害がある児童（障害手当）に対して、児童の福祉の増進と健やかな成長を図るために、父または母､もしくは父または母に代わってお子さんを養育している方に支給されます。\nまた、ひとり親家庭でなくても、父または母に重度の障がいがある等の条件によって、対象となる場合があります｡\n所得制限があります。",
+  "support": {
+    "description": "育成手当　支給額　月額13,500円（児童1人につき）\n障害手当　支給額　月額15,500円（児童1人につき）\n手当は年3回（2月、6月、10月）振り込まれます。\n所得制限\n申請者の所得が一定以上である場合は、手当が支給されません。\n\n子どものための諸手当　各種所得制限額;https://www.city.meguro.tokyo.jp/kosodateshien/kosodatekyouiku/kosodate/teate_seigengaku.html\n\n詳しくは所得制限表をご覧ください。",
+    "materiallySupport": null,
+    "monetarySupport": "育成手当　支給額　月額13,500円（児童1人につき）\n障害手当　支給額　月額15,500円（児童1人につき）\n手当は年3回（2月、6月、10月）振り込まれます。\n所得制限\n申請者の所得が一定以上である場合は、手当が支給されません。\n\n子どものための諸手当　各種所得制限額;https://www.city.meguro.tokyo.jp/kosodateshien/kosodatekyouiku/kosodate/teate_seigengaku.html\n\n詳しくは所得制限表をご覧ください。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090",
+      "091"
+    ]
+  },
+  "target": {
+    "conditions": "「児童育成手当（育成手当）」は、18歳に達する日以後最初の3月31日まで。「児童育成手当（障害手当）」は20歳未満。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "（育成手当）\n次のいずれかの状態にある18歳に達する日の以後の最初の3月31日までの児童を養育するかた\n\n父母が離婚した児童\n父または母が死亡した児童\n父または母に重度の障害がある児童（ただし、一部障害の内容により例外があります。）\n父または母が生死不明である児童\n父または母に1年以上遺棄されている児童\n父または母が裁判所からのDV保護命令を受けた児童\n父または母が法令により1年以上拘禁されている児童\n母が婚姻によらないで懐胎した児童で、父または母から扶養されていない児童\nただし、児童が施設（保育園、母子生活支援施設、母子入所を除く）に入所している場合や、父または母が事実上の婚姻状態にある場合等、手当が受けられないことがあります。\n\n対象（障害手当）\n次のいずれかの状態にある20歳未満の児童を養育するかた\n\n身体障害手帳1級・2級程度の障害\n愛の手帳1度から3度程度の障害\n脳性マヒまたは進行性筋萎縮症\n（注）上記手帳等級にも、一部対象外があります。\n（注）児童が施設（保育園、母子生活支援施設、母子入所を除く）に入所している場合等、手当を受けられないことがあります。"
+  },
+  "updateDate": "2020-04-15",
+  "useConsiderationFlag": true,
+  "utilization": "目黒区から手当を受けるためには申請（請求）が必要です。\nまた、毎年6月に現況届の提出が必要です。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

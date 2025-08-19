@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131059;文京区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部幼児保育課入園相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131059",
+    "psid": "psid3.0+6000020131059+2+UM80"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都文京区春日1丁目16番21号\n文京シビックセンター12階南側",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部幼児保育課",
+    "contactPhone": "03-5803-1189",
+    "contactUrl": "https://logoform.jp/form/6KSu/553771",
+    "zipCode": "1128555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "区立幼稚園に在園されている方の手続き\n以下の場合、お手続きが必要です。\n\n登録利用の新規申請\n登録利用を利用中の転職、要件変更\n登録利用の辞退\n一時利用無償化のための保育の必要性の認定申請\n退園\n\n※預かり保育一時預かり申請は現時点で電子申請を導入しておりません。書類は各園によって異なりますので、在籍している園にお求めください。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "電子申請一覧",
+      "uri": "https://www.city.bunkyo.lg.jp/b023/p001622/index.html"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "幼稚園の利用について",
+    "shortName": "区立幼稚園に在園されている方の手続き"
+  },
+  "localGovernmentLink": {
+    "title": "区立幼稚園に在園されている方の手続き",
+    "uri": "https://www.city.bunkyo.lg.jp/b023/p001600.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-25",
+    "updater": "文京区"
+  },
+  "procedureCounter": "幼児保育課入園相談係又は区立幼稚園",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "窓口、電子申請",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第26条",
+    "regulationName": "学校教育法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "幼稚園とは、学校教育法に基づき、満3歳から小学校就学前までのお子さんに幼児教育を提供する施設（学校）です。1日4時間の教育を標準とし、小学校や中学校のように夏休みや春休みなどもありますが、多くの園で教育時間終了後や長期休暇中の預かりも行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "3歳児クラスから5歳児クラスまで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 5,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区立幼稚園に在園されている方"
+  },
+  "updateDate": "2023-08-21",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

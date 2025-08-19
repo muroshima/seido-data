@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132144;国分寺市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子育て相談室地域支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132144",
+    "psid": "psid3.0+1000020132144+1+UM112"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "東部地区拠点親子ひろば「あすなろひろば」;https://www.city.kokubunji.tokyo.jp/shisetsu/kosodate/oyako/1004156.html\n東恋ヶ窪親子ひろば（第一・第二・第三東恋ヶ窪学童保育所内）;https://www.city.kokubunji.tokyo.jp/shisetsu/kosodate/oyako/1004157.html\nひがしこいがくぼ3丁目よくこう親子ひろば;https://www.city.kokubunji.tokyo.jp/shisetsu/kosodate/oyako/1022646.html\n本多親子ひろば（本多児童館内）;https://www.city.kokubunji.tokyo.jp/shisetsu/kosodate/oyako/1013356.html\n中部地区拠点親子ひろば「いずみひろば」;https://www.city.kokubunji.tokyo.jp/shisetsu/kosodate/oyako/1033531.html\n日吉町親子ひろば（第三日吉町学童保育所内）;https://www.city.kokubunji.tokyo.jp/shisetsu/kosodate/oyako/1004160.html\nプレイステーション親子ひろば「BOUKENどんどこ」;https://www.city.kokubunji.tokyo.jp/shisetsu/kosodate/oyako/1022647.html\n市民室内プール親子ひろば「コアラッコ」;https://www.city.kokubunji.tokyo.jp/shisetsu/kosodate/oyako/1004163.html\n西部地区拠点親子ひろば「ひかりひろば」;https://www.city.kokubunji.tokyo.jp/shisetsu/kosodate/oyako/1027517.html\n北町親子ひろば（北町地域センター内）;https://www.city.kokubunji.tokyo.jp/shisetsu/kosodate/oyako/1004161.html\n西町親子ひろば（にしまち児童館内）;https://www.city.kokubunji.tokyo.jp/shisetsu/kosodate/oyako/1004162.html\n戸倉親子ひろば（第一戸倉学童保育所内）;https://www.city.kokubunji.tokyo.jp/shisetsu/kosodate/oyako/1004164.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育て広場",
+    "shortName": "親子ひろば"
+  },
+  "localGovernmentLink": {
+    "title": "親子ひろば",
+    "uri": "https://www.city.kokubunji.tokyo.jp/shisetsu/kosodate/oyako/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "国分寺市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第6項",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "市内の子育てひろばは、小学校就学前のお子さんが安心して遊べるスペースがあり、子育て中の親子が気軽に集い、仲間づくりを通して子育てに関する相談や情報交換等を行う機会を提供しています。また、お子さんの年齢に応じた各種イベントなども行っています。\n（イベントの詳細については、国分寺市サイトや市報などでお知らせしています。）",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

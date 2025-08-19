@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部健康サービス課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM8"
+  },
+  "belongings": "・母子健康手帳\n・妊婦歯科健診受診票\n妊婦歯科健診受診票は、母子健康手帳交付時にお渡しします。\n（注）受診票を紛失した方は、受診票が無い旨を受診の際に指定医療機関へお申し出ください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部健康サービス課",
+    "contactPhone": null,
+    "contactUrl": "https://faq.city.edogawa.tokyo.jp/cgi-bin/faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": "無料",
+  "costConditions": "無料\n（注）健診の結果、治療を行う場合は有料となります。",
+  "description": "妊娠中は女性ホルモンの分泌の変化や食事回数の増加などからむし歯や歯周病になりやすく、進行しやすい時期です。おなかの中の赤ちゃんの歯も育つこの時期に、ぜひ妊婦歯科健診を受けてください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "通年実施しています。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "区内指定医療機関（2024年1月9日更新）（PDF：166KB）;nhttps://www.city.edogawa.tokyo.jp/documents/12749/ninpusikakenshin20240109.pdf"
+  },
+  "institutionName": {
+    "canonicalName": "妊産婦の歯科健診",
+    "shortName": "妊婦歯科健診"
+  },
+  "localGovernmentLink": {
+    "title": "妊婦歯科健診",
+    "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/ninpushikakenshin.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "区内指定医療機関（2024年1月9日更新）（PDF：166KB）",
+      "uri": "https://www.city.edogawa.tokyo.jp/documents/12749/a4"
+    },
+    {
+      "title": "妊婦歯科健診リーフレット（英語版）（PDF：559KB）",
+      "uri": "ninpushikakenshin-2023.pdf"
+    },
+    {
+      "title": "妊婦歯科健診リーフレット（PDF：713KB）",
+      "uri": "https://www.city.edogawa.tokyo.jp/documents/12749/a4"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠中に1回受診できます。妊娠中に江戸川区妊婦歯科健診を受診できなかった場合に限り、出産日から起算して1年を経過した日までの間に受診可能です。内容は、問診、口腔内診査。受診方法は区内指定医療機関にお電話等でご予約の上、受診してください。",
+  "support": {
+    "description": "問診、口腔内診査",
+    "materiallySupport": "問診、口腔内診査",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "受診日に江戸川区に住民登録がある妊婦の方。妊娠中に1回。ただし、妊娠中に江戸川区妊婦歯科健診を受診できなかった場合に限り、出産日から起算して1年を経過した日までの間に受診可能（例：4月1日出産の場合は翌年4月1日まで）（注1）江戸川区に転入以前に、他の自治体で既に受診された妊婦の方も受診できます。（注2）出産後に江戸川区に転入した方は受診できません。"
+  },
+  "updateDate": "2024-01-19",
+  "useConsiderationFlag": false,
+  "utilization": "区内指定医療機関（2024年1月9日更新）（PDF：166KB）\nhttps://www.city.edogawa.tokyo.jp/documents/12749/ninpusikakenshin20240109.pdfにお電話等でご予約の上、受診してください。\n（注）指定医療機関にて健診票にご記入の上、受診していただきます。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131130;渋谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "西原りとるぱんぷきんず",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020131130",
+    "psid": "psid3.0+9000020131130+4+UM83"
+  },
+  "belongings": null,
+  "capacity": "3人（事情により受け入れ人数が少なくなる日があります。）",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "西原りとるぱんぷきんず",
+    "contactPhone": "03-5790-5012",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "1時間あたり750円\n給食・離乳食 1食310円、おやつ 1食100円",
+  "description": "一時保育制度\n一時保育制度に関するページです。\n\n更新日\n\n2024年5月23日\n\n公立保育園（恵比寿・富ヶ谷・新橋・大向・笹塚第二保育園）\nベネッセ美竹の丘保育園\nキッズハーモニー・よよぎの杜\n西原りとるぱんぷきんず\n代々木至誠こども園\n本町きらきらこども園\n恵比寿のびのびこども園\n本町そよかぜこども園\nまちのこども園 代々木上原\n渋谷東しぜんの国こども園\n子育てのリフレッシュを主な目的に、区内在住の小学校就学前までの子どもを預かる制度です。区内15か所の保育園で実施しています。\n料金の支払方法や申込方法が施設により異なります。詳しくは各施設へお問い合わせください。\n西原りとるぱんぷきんず\n【問い合わせ】西原りとるぱんぷきんず（電話：03-5790-5012）\n西原りとるぱんぷきんずを運営する社会福祉法人清香会が自主事業として実施しています。\n\n利用対象\n区内在住で生後57日目から小学校就学前までの子ども\n\n利用日時\n月曜日～土曜日 9時～17時（日曜日・祝日・年末年始を除く）\n\n定員\n3人（事情により受け入れ人数が少なくなる日があります。）\n\n利用料金\n1時間あたり750円\n給食・離乳食 1食310円、おやつ 1食100円\n\n申し込み\n事前登録のうえ電子メールで （メールアドレスは、事前登録後にお伝えします）\n\n注意事項\n毎月1日（日曜日・祝日の場合は直後の平日）9時から翌月分の利用予約を受付ます。\n電子メールが使用できない場合はご相談ください。\n詳しくは問い合わせてください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "日曜日・祝日・年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "西原りとるぱんぷきんず"
+  },
+  "institutionName": {
+    "canonicalName": "一時預かり（一時保育）",
+    "shortName": "西原りとるぱんぷきんず"
+  },
+  "localGovernmentLink": {
+    "title": "一時保育制度",
+    "uri": "https://www.city.shibuya.tokyo.jp/kodomo/hoiku/hoiku-service/itiji.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "渋谷区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "事前登録のうえ電子メールで （メールアドレスは、事前登録後にお伝えします）\n毎月1日（日曜日・祝日の場合は直後の平日）9時から翌月分の利用予約を受付ます。",
+  "procedurePeriod": {
+    "conditions": "毎月1日（日曜日・祝日の場合は直後の平日）9時から翌月分の利用予約を受付ます。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第7項、第21条の9、第59条第10号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者のパート就労や病気等による緊急時、育児疲れなどのリフレッシュのために、家庭において保育を受けることが一時的に困難となったお子さんを、保育園、幼稚園、地域子育て支援拠点などで一時的にお預かりしています。",
+  "support": {
+    "description": "子育てのリフレッシュを主な目的に、区内在住の小学校就学前までの子どもを預かる制度です。区内15か所の保育園で実施しています。\n料金の支払方法や申込方法が施設により異なります。詳しくは各施設へお問い合わせください。",
+    "materiallySupport": "子育てのリフレッシュを主な目的に、区内在住の小学校就学前までの子どもを預かる制度です。区内15か所の保育園で実施しています。\n料金の支払方法や申込方法が施設により異なります。詳しくは各施設へお問い合わせください。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "区内在住で生後57日目から小学校就学前までの子ども",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住で生後57日目から小学校就学前までの子ども"
+  },
+  "updateDate": "2024-05-23",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日～土曜日 9時～17時（日曜日・祝日・年末年始を除く）",
+    "fromHM": "09:00",
+    "toHM": "17:00"
+  }
+}

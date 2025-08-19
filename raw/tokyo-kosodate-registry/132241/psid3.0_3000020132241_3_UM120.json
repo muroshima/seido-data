@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132241;多摩市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども・若者政策課 手当・医療・相談担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132241",
+    "psid": "psid3.0+3000020132241+3+UM120"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都多摩市関戸六丁目12番地1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども・若者政策課 手当・医療・相談担当",
+    "contactPhone": "042-338-6833",
+    "contactUrl": null,
+    "zipCode": "2068666"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "母子生活支援施設\n母子生活支援施設は、18歳未満の子どもを養育している母子家庭のお母さんが、生活上のいろいろな問題のため、子どもの養育が十分できない場合に、お母さんと子どもが一緒に入所して生活できる児童福祉施設です。\n\n入所の相談については、母子・父子自立支援員にお電話ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関するその他のこと",
+    "shortName": "母子生活支援施設"
+  },
+  "localGovernmentLink": {
+    "title": "母子生活支援施設",
+    "uri": "https://www.city.tama.lg.jp/kosodate/1008019/1008037/1008150/1008151/1003464.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "多摩市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "母子生活支援施設は、18歳未満の子どもを養育している母子家庭のお母さんが、生活上のいろいろな問題のため、子どもの養育が十分できない場合に、お母さんと子どもが一緒に入所して生活できる児童福祉施設です。\n\n入所の相談については、母子・父子自立支援員にお電話ください。\n\nこのページに関するお問い合わせ",
+  "support": {
+    "description": "生活上のいろいろな問題のため、子どもの養育が十分できない場合に、お母さんと子どもが一緒に入所して生活できる",
+    "materiallySupport": "生活上のいろいろな問題のため、子どもの養育が十分できない場合に、お母さんと子どもが一緒に入所して生活できる",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "18歳未満の子ども",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "18歳未満の子どもを養育している母子家庭のお母さん"
+  },
+  "updateDate": "2023-03-15",
+  "useConsiderationFlag": false,
+  "utilization": "入所の相談については、母子・父子自立支援員にお電話ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

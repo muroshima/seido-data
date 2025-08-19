@@ -1,0 +1,139 @@
+{
+  "area": {
+    "areaCode": "132128;日野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども部保育課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132128",
+    "psid": "psid3.0+1000020132128+1+UM804"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都日野市神明1丁目13番地の2子ども包括支援センター1階",
+    "contactComment": "直通電話：保育幼稚園係 042-514-8637　管理係 042-514-8638　整備調整係 042-514-8972,代表電話：042-585-1111",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども部保育課",
+    "contactPhone": "042-514-8637,042-514-8638,042-514-8972,042-585-1111",
+    "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120200",
+    "zipCode": "1910016"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "https://www.city.hino.lg.jp/kosodate/hoikuen/nyuen/1024910.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "小規模保育施設一覧",
+    "shortName": "小規模保育一覧"
+  },
+  "localGovernmentLink": {
+    "title": "日野市内保育施設の一覧表（令和6年度）",
+    "uri": "https://www.city.hino.lg.jp/kosodate/hoikuen/nyuen/1024910.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-19",
+    "updater": "日野市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第三章 小規模保育事業",
+    "regulationName": "家庭的保育事業等の設備及び運営に関する基準"
+  },
+  "relatedLink": [
+    {
+      "title": "栄光ひまわり保育園（外部リンク）",
+      "uri": "http://www.eikouhoikuen.com/"
+    },
+    {
+      "title": "マジオたんぽぽ保育園　日野ルーム（外部リンク）",
+      "uri": "http://www.magionet.co.jp/tanpopo/hino/"
+    },
+    {
+      "title": "たまだいら1・2 Smile　House（外部リンク）",
+      "uri": "http://tamadaira12smilehouse.com/"
+    },
+    {
+      "title": "ののはな保育園（外部リンク）",
+      "uri": "http://nonohanahoikuen.p-kit.com/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "市区町村の認可事業として行われる小規模保育では、3歳未満の保育が必要なお子さんを、比較的小規模（定員6人以上19人以下）で、家庭的保育に近い雰囲気のもとで、きめ細かな保育を実施しています。\n保育所分園に近いA型、家庭的保育（グループ型小規模保育）に近いC型と、その中間的なB型の3タイプがあります。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

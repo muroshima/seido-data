@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センター庶務担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+1+UM7"
+  },
+  "belongings": "申請書\n未使用の受診票（妊婦健康診査、妊婦超音波検査、妊婦子宮頸がん検診、新生児聴覚検査）\n受診した都外医療機関または助産所が発行した領収書・明細書（原本）\n母子健康手帳の表紙の写し（本人記入欄は記入済のもの）\n出生届出済証明欄のあるページ（本人記入欄は記入済のもの）\n妊婦健診受診記録の記入部分\n新生児の聴覚検査記録のページ\n請求書（振込先口座の記入があります）\n (注)領収書・明細書は助成金の支払い後に返却いたします。返却までにはおよそ2、3か月程度かかりますので、確定申告等で使用される場合は早めに申請してください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市学園東町1-19-12　健康センター4階",
+    "contactComment": "FAX：042-346-3705",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭センター庶務担当",
+    "contactPhone": "042-346-3703",
+    "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+    "zipCode": "1870043"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "市が発行する妊婦健康診査受診票を利用できない医療機関（都外医療機関・助産所）で受診した妊婦健康診査の費用、都外医療機関で受診した新生児聴覚検査の費用を一部助成します。\n(注）国外での費用は対象外です。\n(注）未使用の受診票回数分が対象です。\n\n対象者\n妊婦健診受診日に住民登録のある妊婦であり、都外医療機関・助産所において、自費で妊婦健診を受診した方\n新生児聴覚検査受診日に住民登録のある産婦であり、都外医療機関において、自費で新生児聴覚検査を受診した方\n申請期限\n妊婦健康診査は出産日または最後に妊婦健診を受診した日から1年以内\n新生児聴覚検査は新生児聴覚検査を受診した日から1年以内\n申請場所\n健康センター　こども家庭センター\n\n申請に必要なもの\n申請書\n未使用の受診票（妊婦健康診査、妊婦超音波検査、妊婦子宮頸がん検診、新生児聴覚検査）\n受診した都外医療機関・助産所が発行した領収書・明細書（原本）\n母子健康手帳の写し\n表紙（本人記入欄は記入済のもの）\n出生届出済証明欄のあるページ（本人記入欄は記入済のもの）\n妊婦健診受診記録の記入部分\n新生児の聴覚検査記録のページ\n請求書（振込先口座の記入があります）\n (注)領収書・明細書は助成金の支払い後に返却いたします。返却までにはおよそ2、3か月程度かかりますので、確定申告等で使用される場合は早めに申請してください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "里帰り出産時の妊婦健康診査の費用助成",
+    "shortName": "都外医療機関等での妊婦健康診査・新生児聴覚検査の費用助成"
+  },
+  "localGovernmentLink": {
+    "title": "都外医療機関等での妊婦健康診査・新生児聴覚検査の費用助成",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/049/049423.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "小平市"
+  },
+  "procedureCounter": "こども家庭センター庶務担当\n健康センター４階",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "手続き窓口に来所",
+  "procedurePeriod": {
+    "conditions": "妊婦健康診査は出産日または最後に妊婦健診を受診した日から1年以内\n新生児聴覚検査は新生児聴覚検査を受診した日から1年以内",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "妊婦健診受診日に住民登録のある妊婦であり、都外医療機関や助産所において、自費で妊婦健診を受診した方または代理人\n新生児聴覚検査受診日に住民登録のある産婦であり、都外医療機関において、自費で新生児聴覚検査を受診した児の保護者または代理人",
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "小平市にお住まいの妊婦さんが、里帰り出産などで小平市の委託医療機関以外の病院や助産所で妊婦健康診査を受診した場合、その健診にかかった費用の一部を償還払い（後払い）します。",
+  "support": {
+    "description": "市が発行する妊婦健康診査受診票を利用できない医療機関（都外医療機関、助産所）で受診した妊婦健康診査の費用、都外医療機関で受診した新生児聴覚検査の費用を一部助成します。",
+    "materiallySupport": null,
+    "monetarySupport": "市が発行する妊婦健康診査受診票を利用できない医療機関（都外医療機関、助産所）で受診した妊婦健康診査の費用、都外医療機関で受診した新生児聴覚検査の費用を一部助成します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊婦健診受診日に住民登録のある妊婦であり、都外医療機関や助産所において、自費で妊婦健診を受診した方\n新生児聴覚検査受診日に住民登録のある産婦であり、都外医療機関において、自費で新生児聴覚検査を受診した方"
+  },
+  "updateDate": "2024-04-10",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

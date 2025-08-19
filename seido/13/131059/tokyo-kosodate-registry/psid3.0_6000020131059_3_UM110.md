@@ -1,0 +1,50 @@
+---
+title: 子育て支援拠点・地域子育て支援センター（さきちゃんちpetit）
+lg_code: '131059'
+lg_name: 文京区
+support: 現物
+url: https://www.city.bunkyo.lg.jp/b022/p001456/index.html
+source: tokyo-kosodate-registry
+source_id: psid3.0_6000020131059_3_UM110
+source_updated: '2024-05-17'
+license: CC BY
+attribution: 東京都「東京デジタル2030ビジョン（こどもDX）子育て支援制度レジストリ 0-6歳制度」（2025-08-20 時点）を加工して作成
+---
+
+# 子育て支援拠点・地域子育て支援センター（さきちゃんちpetit）
+
+## 概要
+
+文京区では区内のさきちゃんちpetit
+などを子育て支援拠点として、子育て中の親子が気軽に集い、相互交流や子育ての不安・悩みを相談できる場を提供しています。また、地域の子育て関連情報の提供や、子育て支援に関する講習なども実施しています。
+
+## 対象者
+
+主に3歳未満の乳幼児と保護者
+
+必ず保護者同伴でお越しください。
+
+## 支援内容
+
+保護者と乳幼児が一緒に遊べる利用無料の施設です。利用者同士での交流やスタッフへの子育て相談ができ、親子で安心して過ごせます。
+
+## 利用方法
+
+予約制　⑴10時00分～12時30分　⑵13時30分～16時00分
+※利用日の前週の金曜日16時00分までに団体の
+　予約システム;http://docs.google.com/forms/d/e/1FAIpQLScVpqC8wXD05AGi_Rk96pzW4B46rm8xvVZ_B5hxcjQGYgwfHA/viewformからご予約ください。
+※前週に予約ができなかった場合は、キャンセル待ち申込フォーム;http://docs.google.com/forms/d/e/1FAIpQLScF189OQqSmcVnemYH-SEW2xe14usRZNyfy8zv3pelvVEbdIQ/viewformからご予約ください。
+※初回は予約時に登録が必要です。
+
+利用日の前週の金曜日16時00分までに団体の予約システム;http://docs.google.com/forms/d/e/1FAIpQLScVpqC8wXD05AGi_Rk96pzW4B46rm8xvVZ_B5hxcjQGYgwfHA/viewformからご予約ください。
+前週に予約ができなかった場合は、キャンセル待ち申込フォーム;http://docs.google.com/forms/d/e/1FAIpQLScF189OQqSmcVnemYH-SEW2xe14usRZNyfy8zv3pelvVEbdIQ/viewformからご予約ください。
+初回は予約時に登録が必要です。
+
+## 根拠法令
+
+児童福祉法、児童福祉法、文京区地域子育て支援拠点事業運営費等補助要綱 第6条の3第6項、第21条の9、全条
+
+## 問い合わせ
+
+子ども家庭部子育て支援課子ども施策推進担当
+03-5803-1288

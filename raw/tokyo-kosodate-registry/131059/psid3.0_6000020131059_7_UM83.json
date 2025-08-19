@@ -1,0 +1,171 @@
+{
+  "area": {
+    "areaCode": "131059;文京区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部幼児保育課保育施設支援担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131059",
+    "psid": "psid3.0+6000020131059+7+UM83"
+  },
+  "belongings": null,
+  "capacity": "対象年齢や定員などの詳細は各施設にお問い合わせください。通常保育の空き定員状況などによって受け付けできない場合があります。",
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都文京区春日1丁目16番21号\n文京シビックセンター12階南側",
+    "contactComment": "ファクス番号：03-5803-1346",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部幼児保育課保育施設支援担当",
+    "contactPhone": "03-5803-1857",
+    "contactUrl": "https://logoform.jp/form/6KSu/553771",
+    "zipCode": "1128555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "一時預かり事業（私立保育園）\n一時預かり事業とは\n対象の私立保育園において、通常保育の空き定員部分や専用保育室を活用し、保育園や幼稚園などに在籍していないお子さんを一時的にお預かりします。\n\n対象施設\n一時預かり事業実施施設;https://www.city.bunkyo.lg.jp/b023/p001656.html\n（注）対象年齢や定員などの詳細は各施設にお問い合わせください。通常保育の空き定員状況などによって受け付けできない場合があります。\n\n（注）幼児教育・保育の無償化対象施設の確認はこちらから（幼児教育・保育無償化の対象施設について）ご確認ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "https://www.city.bunkyo.lg.jp/b023/p001656.html",
+    "implementationName": "https://www.city.bunkyo.lg.jp/b023/p001656.html"
+  },
+  "institutionName": {
+    "canonicalName": "一時預かり（一時保育）",
+    "shortName": "一時預かり事業（私立保育園）"
+  },
+  "localGovernmentLink": {
+    "title": "一時預かり事業（私立保育園）",
+    "uri": "https://www.city.bunkyo.lg.jp/b023/p001656.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "文京区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "児童福祉法第34条の18、子ども・子育て支援法第59条第11号",
+    "regulationName": "児童福祉法、子ども・子育て支援法、文京区病児・病後児保育事業実施要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "サンライズキッズ保育園白山園（外部リンク）",
+      "uri": "https://www.sunrisekids-hoikuen.com/hakusan/"
+    },
+    {
+      "title": "文京ガーデンひかり保育園（外部リンク）",
+      "uri": "https://www.g-hikari.org/tokushoku/"
+    },
+    {
+      "title": "幼児教育・保育無償化の対象施設について",
+      "uri": "https://www.city.bunkyo.lg.jp/b023/p001715.html"
+    },
+    {
+      "title": "ソラスト茗荷谷保育園（外部リンク）",
+      "uri": "https://kodomo.solasto-hoiku.com/nursery/solasto-myogadani/"
+    },
+    {
+      "title": "ちいさいおうち小石川（外部リンク）",
+      "uri": "https://koishikawa.chiisaiouchi.org/"
+    },
+    {
+      "title": "白山ひかり保育園（外部リンク）",
+      "uri": "https://www.h-hikari.jp/入園をご検討の方/"
+    },
+    {
+      "title": "洛和大塚みどり保育園（外部リンク）",
+      "uri": "https://www.rakuwa.or.jp/hoiku/midori.html"
+    },
+    {
+      "title": "アスク本駒込保育園（外部リンク）",
+      "uri": "https://www.nihonhoiku.co.jp/blog/honkomagome/"
+    },
+    {
+      "title": "ちいさいおうち大塚仲町（外部リンク）",
+      "uri": "https://ootsuka.chiisaiouchi.org/"
+    },
+    {
+      "title": "たんぽぽ保育園「バンビ」（外部リンク）",
+      "uri": "https://www.ashitaba-tanpopo.com/service"
+    },
+    {
+      "title": "キューピールーム新大塚園（外部リンク）",
+      "uri": "https://qproom.jp/shin-otsukaen/"
+    },
+    {
+      "title": "SOMPOスマイルキッズ江戸川橋保育園（外部リンク）",
+      "uri": "https://sompo-smilekids.or.jp/about/#anchor6"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者のパート就労や病気等による緊急時、育児疲れなどのリフレッシュのために、家庭において保育を受けることが一時的に困難となったお子さんを、保育園、幼稚園、地域子育て支援拠点などで一時的にお預かりしています。",
+  "support": {
+    "description": "対象の私立保育園において、通常保育の空き定員部分や専用保育室を活用し、保育園や幼稚園などに在籍していないお子さんを一時的にお預かりします。",
+    "materiallySupport": "対象の私立保育園において、通常保育の空き定員部分や専用保育室を活用し、保育園や幼稚園などに在籍していないお子さんを一時的にお預かりします。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "対象年齢や定員などの詳細は各施設にお問い合わせください。通常保育の空き定員状況などによって受け付けできない場合があります。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "保育園や幼稚園などに在籍していないお子さん"
+  },
+  "updateDate": "2024-01-18",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

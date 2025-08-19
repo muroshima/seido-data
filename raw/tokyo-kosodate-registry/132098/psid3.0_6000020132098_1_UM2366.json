@@ -1,0 +1,118 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども生活部子ども家庭支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+1+UM2366"
+  },
+  "belongings": "受講講座の指定申請に必要な書類\n・対象講座指定申請書\n・申請する保護者と扶養している子の戸籍謄本または戸籍抄本（発行日から3か月以内のもの）\n・児童扶養手当証書の写し（ただし、8月から10月までの間に申請する場合は除く）または課税証明書（町田市に税情報がない方のみ必要。4月から7月は前年度、8月から翌年3月は当該年度のもの。所得内容が記載されているもの。）\n・受講講座の内容がわかるもの（募集要項、講座・学校案内、必要経費など）\n・児童が申請する場合の親権者の同意書\n・世帯全員の住民票（市外に住民登録している方のみ提出。発行日から3か月以内のもの）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども生活部子ども家庭支援課",
+    "contactPhone": "042-724-4419",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/9?page_no=10496",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ひとり親家庭の親またはその子どもが、より良い条件での就職や転職に向けた可能性を広げ、安定した雇用につながるよう、高等学校卒業程度認定試験（以下、高卒認定試験）を目指すための講座を受講した場合に、受講料の一部を給付金として補助します。\n\n注意事項\n児童扶養手当の支給停止や再婚（事実婚を含む）、市外転出など要件が欠ける状況が発生した場合には支給できなくなります。転出の場合の継続については、転出先の自治体にお問い合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "高等学校卒業程度認定試験合格支援事業給付金",
+    "shortName": "ひとり親家庭高等学校卒業程度認定試験合格支援給付金"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親家庭高等学校卒業程度認定試験合格支援給付金",
+    "uri": "https://kosodate-machida.tokyo.jp/soshiki/4/5/7/10496.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "手続きの流れ\n1.講座指定申請：受講前に、あらかじめ町田市役所で相談し、講座指定を受ける必要があります。\n2.講座の指定を受けたら、受講を開始します。\n3.受講開始時給付金申請：受講開始後、30日以内に給付金の申請をします。\n4.受講修了時給付金申請：受講修了後、30日以内に給付金の申請をします。\n5.合格時給付金申請：合格証書に記載されている日付から、40日以内に給付金の申請をします。\n各給付金は申請後、交付決定がされた後に請求書を提出していただきます。請求書提出後、2~3週間後に補助金が指定口座へ入金されます。\n\n給付金の支給申請\n受講開始時給付金\n1.給付金支給申請書\n2.申請する保護者の戸籍謄本または戸籍抄本（発行日から3か月以内のもの）\n3.児童扶養手当証書の写し（ただし、8月~10月までの間に申請する場合は除く）または課税証明書（町田市に税情報がない方のみ必要。4月から7月は前年度、8月から翌年3月は当年度のもの。所得内容が記載されているもの。）\n4.世帯全員の住民票の写し（市外に住民登録している方のみ提出。発行日から3か月以内のもの）\n5.受講施設の長が、受講者本人が支払った経費について発行した領収書\n\n受講修了時給付金\n上記1から5に加え、\n6.受講施設の長が発行した受講講座の修了証明書\n\n合格時給付金\n上記1から4に加え、\n7.文部科学省が発行する高卒認定試験合格証書の写し",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭の就職や転職の可能性を広げ、自立につなげていくため、ひとり親家庭の親またはお子さんが高卒認定試験合格のための講座（通信講座を含む）を受け、これを修了した時および合格したときに受講費用の一部を支給します。",
+  "support": {
+    "description": "支給対象経費\n支給の対象となる経費は、対象講座の受講に要する経費（入学料及び受講料）です。\n\n支給額\n||通信制の場合|通学又は通学及び通信併用の場合|\n|:----|:----|:----|\n|1.受講開始時給付金|受講費用の4割（上限10万円）|受講費用の4割（上限20万円）|\n|2.受講修了時給付金|受講費用の5割で、1.として支給した金額を差し引いた額<br>（1.と合わせて上限12万5千円）|受講費用の5割で、1.として支給した金額を差し引いた額<br>（1.と合わせて上限25万円）|\n|3.合格時給付金（※）|受講費用の1割<br>（1.と2.と合わせて上限15万円）|受講費用の1割<br>（1.と2.と合わせて上限30万円）|\n※受講終了日から2年以内に高卒認定試験に全科目合格した場合に支給",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": null,
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": null
+  },
+  "target": {
+    "conditions": "18歳の最初の3月31日までの間にある児童を養育するひとり親家庭の親、またはその親が扶養する20歳未満の子",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次の要件をすべて満たす方が対象となります\n1.町田市内に住所があること。\n2.18歳の最初の3月31日までの間にある児童を養育するひとり親家庭の親、またはその親が扶養する20歳未満の子。\n3.児童扶養手当を受けているか、それと同等の所得水準にあること。\n4.高卒認定試験に合格することが適職に就くために必要であると認められること。\n5.大学入学資格を取得していないこと。\n6.過去にこの制度の利用がないこと（複数回の申請はできません）。"
+  },
+  "updateDate": "2022-06-03",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

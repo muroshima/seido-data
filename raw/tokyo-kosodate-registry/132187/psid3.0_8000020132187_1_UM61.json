@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132187;福生市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子ども育成課　手当助成係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132187",
+    "psid": "psid3.0+8000020132187+1+UM61"
+  },
+  "belongings": "住民税課税（非課税）証明書、戸籍謄本、申請者の個人番号がわかるもの及び身分証明（運転免許証等）、申請者名義の金融機関口座のわかるもの。\nただし、住民税課税（非課税）証明書は、必要となる年度が福生市で課税されている場合や、マイナンバー制度における情報連携により税情報が取得できる場合は提出の必要はありません。\n（注意）その他、必要に応じて書類を提出していただく場合がありますので詳しくはお問合せください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "福生市福生2125-3（福生市保健センター2階）",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子ども育成課　手当助成係",
+    "contactPhone": "042-551-1737",
+    "contactUrl": null,
+    "zipCode": "1970011"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "18歳に到達した年度末までの児童を扶養している母子家庭または父子家庭等に支給します。\n\n対象者\n18歳到達後最初の3月31日以前の児童で、次のいずれかの状態にある児童を扶養している方\n 1.父母が離婚\n 2.父または母が死亡\n 3.父または母が生死不明\n 4.父または母に1年以上遺棄されている\n 5.父または母が保護命令を受けた\n 6.婚姻によらないで生まれ、父に扶養されていない\n 7.父または母が重度の心身障害者\n 8.父または母が法令により1年以上拘禁されている\n\n手当額\n児童1人につき 13,500円（月額）\n\n支払時期\n6月（2月分・3月分・4月分・5月分）\n10月（6月分・7月分・8月分・9月分）\n2月（10月分・11月分・12月分・1月分）\n\n支給対象期間\n手続きをした月の翌月分から18歳到達後最初の3月分までです。\n\n所得制限\n対象者には所得制限があります。\n\n所得制限限度額一覧\n扶養親族等の数：0人\n3,604,000円\n扶養親族等の数：1人\n3,984,000円\n扶養親族等の数：2人\n4,364,000円\n扶養親族等の数：3人\n4,744,000円\n\n所得から控除する金額\n・社会保険料相当額（一律） 8万円\n・配偶者特別控除 控除相当額\n・障害、勤労学生　27万円\n・ひとり親控除 30万円\n・特別障害者控除　40万円\n・雑損控除、医療費控除、小規模企業共済等掛金控除 控除相当\n（注意1）令和3年度以降の個人住民税において、給与所得を有する場合には、それらの合計額から10万円を控除した額を総所得金額の計算に用います。\n（注意2）次の場合は、限度額に該当の加算額を加算した額が所得限度額となります。\n・4人目以降1人増すごとに、限度額に38万円を加算\n・同一生計配偶者（70歳以上の者に限る。）、老人扶養親族1人につき限度額に10万円を加算\n・特定扶養親族または控除対象扶養親族（19歳未満の者に限る）1人につき限度額に25万円加算\n\n手続きに必要なもの\n住民税課税（非課税）証明書、戸籍謄本、申請者の個人番号がわかるもの及び身分証明（運転免許証等）、申請者名義の金融機関口座のわかるもの。\nただし、住民税課税（非課税）証明書は、必要となる年度が福生市で課税されている場合や、マイナンバー制度における情報連携により税情報が取得できる場合は提出の必要はありません。\n（注意）その他、必要に応じて書類を提出していただく場合がありますので詳しくはお問合せください。\n\n更新の手続き\n毎年6月に住所・所得の確認を行います。5月の下旬に書類（現況届）をお送りしますので必ず提出してください（郵送でも可）。\n（注意）提出されない場合、手当を支給できません。\n\n支給対象外\n1.児童が児童福祉施設等に入所しているとき\n2.児童が父母と生計を同じくしているとき\n3.児童が父及び父の配偶者または母及び母の配偶者と生計を同じくしているとき（事実上の配偶者を含む）\n\n届出が必要なとき\n住所が変わったとき、受給者・児童の氏名が変更したとき等。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自のひとり親の方への金銭的支援",
+    "shortName": "児童育成手当"
+  },
+  "localGovernmentLink": {
+    "title": "児童育成手当",
+    "uri": "https://www.city.fussa.tokyo.jp/life/child/rearing/1002532.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "福生市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "手続きに必要なもの\n住民税課税（非課税）証明書、戸籍謄本、申請者の個人番号がわかるもの及び身分証明（運転免許証等）、申請者名義の金融機関口座のわかるもの。\nただし、住民税課税（非課税）証明書は、必要となる年度が福生市で課税されている場合や、マイナンバー制度における情報連携により税情報が取得できる場合は提出の必要はありません。\n（注意）その他、必要に応じて書類を提出していただく場合がありますので詳しくはお問合せください。\n\n更新の手続き\n毎年6月に住所・所得の確認を行います。5月の下旬に書類（現況届）をお送りしますので必ず提出してください（郵送でも可）。\n（注意）提出されない場合、手当を支給できません。\n\n届出が必要なとき\n住所が変わったとき、受給者・児童の氏名が変更したとき等。",
+  "procedurePeriod": {
+    "conditions": "毎年6月に住所・所得の確認を行います。5月の下旬に書類（現況届）をお送りしますので必ず提出してください（郵送でも可）。\n（注意）提出されない場合、手当を支給できません。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "18歳に到達した年度末までの児童を扶養している母子家庭または父子家庭等に支給します。",
+  "support": {
+    "description": "手当額\n児童1人につき 13,500円（月額）\n\n支払時期\n6月（2月分・3月分・4月分・5月分）\n10月（6月分・7月分・8月分・9月分）\n2月（10月分・11月分・12月分・1月分）\n\n支給対象期間\n手続きをした月の翌月分から18歳到達後最初の3月分までです。",
+    "materiallySupport": null,
+    "monetarySupport": "手当額\n児童1人につき 13,500円（月額）\n\n支払時期\n6月（2月分・3月分・4月分・5月分）\n10月（6月分・7月分・8月分・9月分）\n2月（10月分・11月分・12月分・1月分）\n\n支給対象期間\n手続きをした月の翌月分から18歳到達後最初の3月分までです。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "18歳に到達した年度末までの児童を扶養している母子家庭または父子家庭等",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "18歳到達後最初の3月31日以前の児童で、次のいずれかの状態にある児童を扶養している方\n 1.父母が離婚\n 2.父または母が死亡\n 3.父または母が生死不明\n 4.父または母に1年以上遺棄されている\n 5.父または母が保護命令を受けた\n 6.婚姻によらないで生まれ、父に扶養されていない\n 7.父または母が重度の心身障害者\n 8.父または母が法令により1年以上拘禁されている"
+  },
+  "updateDate": "2022-03-04",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

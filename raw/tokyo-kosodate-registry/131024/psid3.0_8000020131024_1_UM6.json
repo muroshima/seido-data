@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131024;中央区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "中央区保健所健康推進課健康係\n\n〒104-0044　明石町12番1号　中央区保健所4階\n\n電話：03-3541-5930\n福祉保健部日本橋保健センター健康係\n\n〒103-0012　日本橋堀留町一丁目1番1号\n\n電話：03-3661-5071\n福祉保健部月島保健センター健康係\n\n〒104-0052　月島二丁目10番3号\n\n電話：03-5560-0765\n福祉保健部晴海保健センター健康係\n\n〒104-0053　晴海四丁目8番1号\n\n電話：03-6381-2972",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131024",
+    "psid": "psid3.0+8000020131024+1+UM6"
+  },
+  "belongings": "妊婦健康診査受診票\n「妊婦健康診査受診票」（1回目：水色、2回目から14回目まで：黄色）を使って、妊婦健康診査の1回から14回分までについて、対象の検査項目を公費負担で受けることができます。\n\n妊婦超音波検査受診票\n「妊婦超音波検査受診票」（白色）を使って、超音波検査を4回公費負担で受けることができます。\n\n妊婦子宮頸がん検診受診票\n「妊婦子宮頸がん検診受診票」（桃色）を使って、子宮頸がん検診を1回公費負担で受けることができます。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "明石町12番1号　中央区保健所4階,日本橋堀留町一丁目1番1号,月島二丁目10番3号,晴海四丁目8番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "中央区保健所健康推進課健康係,福祉保健部日本橋保健センター健康係,福祉保健部月島保健センター健康係,福祉保健部晴海保健センター健康係",
+    "contactPhone": "03-3541-5930,03-3661-5071,03-5560-0765,03-6381-2972",
+    "contactUrl": null,
+    "zipCode": "1040044,1030012,1040052,1040053"
+  },
+  "cost": null,
+  "costConditions": "公費負担対象外の検査項目や、産科診察料等で公費負担額を超えた場合は、自己負担額が発生しますので、ご了承ください。",
+  "description": "妊婦健康診査\n\n内容\n区では、妊婦さんの定期的な健康診査のうち、妊娠確定後の1回目の検査と、その後2～14回目の検査、超音波検査、子宮頸がん検診の費用の一部を助成する制度を実施しています。\n妊婦さんの健康と安全なお産のために、定期的な健康診査を受けましょう。\n「母と子の保健バッグ」の中の「妊婦健康診査受診票」を、都内の契約医療機関の受付に、事前に提出して受けてください。なお、公費負担対象外の検査項目や、産科診察料等で公費負担額を超えた場合は、自己負担額が発生しますので、ご了承ください。\n詳しくは同封の「妊婦健康診査のご案内」をお読みください。\n\n妊婦健康診査受診票\n「妊婦健康診査受診票」（1回目：水色、2回目から14回目まで：黄色）を使って、妊婦健康診査の1回から14回分までについて、対象の検査項目を公費負担で受けることができます。\n\n妊婦超音波検査受診票\n「妊婦超音波検査受診票」（白色）を使って、超音波検査を4回公費負担で受けることができます。\n\n妊婦子宮頸がん検診受診票\n「妊婦子宮頸がん検診受診票」（桃色）を使って、子宮頸がん検診を1回公費負担で受けることができます。\n\n注記：妊婦健康診査受診票は、妊娠確定後の健康診査にご利用できるものです。妊娠しているかどうかを調べるための検査にはご利用できません。\n注記：各受診票は、妊娠の届出の際に、母子健康手帳と一緒にお渡しします。\n注記：東京都以外から中央区に転入された方には、母子健康手帳を確認のうえ、未使用の受診票を差し替えます。\n対象者\n区内在住の妊婦\n\n実施医療機関\n中央区内で妊婦健診を受診できる医療機関については、次の名簿でご確認ください。\n\n妊婦健康診査実施医療機関（PDF：199KB）;https://www.city.chuo.lg.jp/documents/4557/hpiryoukikanmeibo.pdf\n\n関連リンク\n里帰り出産等妊婦健康診査費用助成;https://www.city.chuo.lg.jp/a0031/kosodate/shussan/josei/ninpukennshin.html\n\n区内に在住の方で、里帰り出産をするために助産所や都外の医療機関で妊婦健康診査を受診した方に、その健診費用の一部が助成される制度です。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "妊婦健康診査実施医療機関（PDF：199KB）;https://www.city.chuo.lg.jp/documents/4557/hpiryoukikanmeibo.pdf",
+    "implementationName": "妊婦健康診査実施医療機関（PDF：199KB）;https://www.city.chuo.lg.jp/documents/4557/hpiryoukikanmeibo.pdf"
+  },
+  "institutionName": {
+    "canonicalName": "妊婦健康診査",
+    "shortName": "妊婦健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "妊婦健康診査",
+    "uri": "https://www.city.chuo.lg.jp/a0031/kosodate/shussan/kenshin/ninpukenshin.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "中央区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "里帰り出産等妊婦健康診査費用助成",
+      "uri": "https://www.city.chuo.lg.jp/a0031/kosodate/shussan/josei/ninpukennshin.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊婦さんやお腹の赤ちゃんの健康状態を定期的に確認するのが妊婦健康診査です。妊婦さんの健康診査は、一般的に出産までに14回程度受診するのが望ましいとされています。しかし、妊娠は病気ではないため健康保険は適用されません。そこで、出産までの健診を受ける際の経済的な負担を軽くするため、妊婦健康診査費用の一部を助成する妊婦健康診査受診票をお渡ししています。",
+  "support": {
+    "description": "区では、妊婦さんの定期的な健康診査のうち、妊娠確定後の1回目の検査と、その後2～14回目の検査、超音波検査、子宮頸がん検診の費用の一部を助成する制度を実施しています。\n妊婦さんの健康と安全なお産のために、定期的な健康診査を受けましょう。\n「母と子の保健バッグ」の中の「妊婦健康診査受診票」を、都内の契約医療機関の受付に、事前に提出して受けてください。なお、公費負担対象外の検査項目や、産科診察料等で公費負担額を超えた場合は、自己負担額が発生しますので、ご了承ください。\n詳しくは同封の「妊婦健康診査のご案内」をお読みください。\n\n妊婦健康診査受診票\n「妊婦健康診査受診票」（1回目：水色、2回目から14回目まで：黄色）を使って、妊婦健康診査の1回から14回分までについて、対象の検査項目を公費負担で受けることができます。\n\n妊婦超音波検査受診票\n「妊婦超音波検査受診票」（白色）を使って、超音波検査を4回公費負担で受けることができます。\n\n妊婦子宮頸がん検診受診票\n「妊婦子宮頸がん検診受診票」（桃色）を使って、子宮頸がん検診を1回公費負担で受けることができます。\n\n注記：妊婦健康診査受診票は、妊娠確定後の健康診査にご利用できるものです。妊娠しているかどうかを調べるための検査にはご利用できません。\n注記：各受診票は、妊娠の届出の際に、母子健康手帳と一緒にお渡しします。\n注記：東京都以外から中央区に転入された方には、母子健康手帳を確認のうえ、未使用の受診票を差し替えます。",
+    "materiallySupport": null,
+    "monetarySupport": "妊婦さんの定期的な健康診査のうち、妊娠確定後の1回目の検査と、その後2～14回目の検査、超音波検査、子宮頸がん検診の費用の一部を助成する制度を実施しています。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住の妊婦"
+  },
+  "updateDate": "2024-04-15",
+  "useConsiderationFlag": false,
+  "utilization": "「母と子の保健バッグ」の中の「妊婦健康診査受診票」を、都内の契約医療機関の受付に、事前に提出して受けてください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

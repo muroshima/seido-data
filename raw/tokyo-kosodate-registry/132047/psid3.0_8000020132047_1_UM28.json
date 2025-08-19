@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132047;三鷹市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども政策部子育て支援課相談支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132047",
+    "psid": "psid3.0+8000020132047+1+UM28"
+  },
+  "belongings": "・「個人番号カード（裏面）」や「通知カード」など番号を確認できる書類\n・本人確認のできる書類（「個人番号カード（表面）」のほか、運転免許証や旅券（パスポート）など）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三鷹市野崎一丁目1番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "2754,2755",
+    "contactName": "子ども政策部 子育て支援課 相談支援係",
+    "contactPhone": "0422-45-1151",
+    "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kosodate/index.html",
+    "zipCode": "1818555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "母子及び父子並びに寡婦福祉法、東京都母子及び父子福祉資金貸付条例、東京都女性福祉資金貸付条例に基づき、母子・父子並びに女性の福祉増進に寄与するため貸付を行っています。\n母子・父子自立支援員と面接（要予約）の上、貸付けを決定します。\n\nお問い合わせ先\n子育て支援課\n市役所本庁舎4階\n電話 0422-45-1151(内線2755)\n手続の際は、社会保障・税番号（マイナンバー）の記載・提示が必要です\n母子及び父子福祉資金並びに女性福祉資金貸付けの申請手続では、平成28年1月以降、社会保障・税番号（マイナンバー）の記載・提示とマイナンバー法に基づく本人確認が必要です。\n\n補足事項\n個人番号カードをお持ちのかたは1枚で本人確認が完了します。\n詳しくは「社会保障・税番号（マイナンバー）制度における本人確認について」;https://www.city.mitaka.lg.jp/c_service/055/055945.htmlをご覧ください。\n申請に必要な書類\n・「個人番号カード（裏面）」や「通知カード」など番号を確認できる書類\n・本人確認のできる書類（「個人番号カード（表面）」のほか、運転免許証や旅券（パスポート）など）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "母子父子寡婦福祉資金",
+    "shortName": "母子及び父子福祉資金並びに女性福祉資金"
+  },
+  "localGovernmentLink": {
+    "title": "母子及び父子福祉資金並びに女性福祉資金",
+    "uri": "https://www.city.mitaka.lg.jp/c_service/048/048563.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "三鷹市"
+  },
+  "procedureCounter": "子育て支援課窓口（市役所4階42番）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "母子・父子自立支援員と面接（要予約）の上、貸付けを決定します。\n\nお問い合わせ先\n子育て支援課\n市役所本庁舎4階\n電話 0422-45-1151(内線2755)\n手続の際は、社会保障・税番号（マイナンバー）の記載・提示が必要です\n母子及び父子福祉資金並びに女性福祉資金貸付けの申請手続では、平成28年1月以降、社会保障・税番号（マイナンバー）の記載・提示とマイナンバー法に基づく本人確認が必要です。\n\n補足事項\n個人番号カードをお持ちのかたは1枚で本人確認が完了します。\n詳しくは「社会保障・税番号（マイナンバー）制度における本人確認について」;https://www.city.mitaka.lg.jp/c_service/055/055945.htmlをご覧ください。\n申請に必要な書類\n・「個人番号カード（裏面）」や「通知カード」など番号を確認できる書類\n・本人確認のできる書類（「個人番号カード（表面）」のほか、運転免許証や旅券（パスポート）など）",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "母子家庭の母、父子家庭の父、および寡婦の方",
+  "regulation": {
+    "regulationArticle": "第13条（母子福祉資金の貸付け）、第14条（母子・父子福祉団体に対する貸付け）、第31条の6（父子福祉資金の貸付け）、第32条（寡婦福祉資金の貸付け）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "「社会保障・税番号（マイナンバー）制度における本人確認について」",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/055/055945.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "母子家庭の母、父子家庭の父、および寡婦の方の経済的自立や、扶養しているお子さんの福祉増進のために、必要な資金をお貸しする制度です。",
+  "support": {
+    "description": "母子・父子並びに女性の福祉増進に寄与するため貸付を行っています。",
+    "materiallySupport": null,
+    "monetarySupport": "母子・父子並びに女性の福祉増進に寄与するため貸付を行っています。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "母子家庭の母、父子家庭の父、および寡婦の方"
+  },
+  "updateDate": "2022-04-05",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

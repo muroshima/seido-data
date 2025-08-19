@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132144;国分寺市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子育て相談室母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132144",
+    "psid": "psid3.0+1000020132144+1+UM5011"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-320-1181",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部子育て相談室母子保健係",
+    "contactPhone": "042-321-1802",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "新生児聴覚検査受診費助成について\n新生児聴覚検査費の一部費用が助成されます。\n\n【受診票の利用時期】主治医と相談の上、原則として入院中、もしくはできるだけ出生後1か月頃までにご利用ください。（ただし、事情により出生後1か月頃までに受けられない場合には、生後50日に達する日まで利用できます。）\n\n【公費負担について】上限3,000円\nご自身でご負担いただく金額は医療機関によって異なります。\n各医療機関にお問い合わせください。\n（例）3,000円以内の場合、ご自身の負担額はありません。3,000円を超える場合、超過分は自費となります。\n\n【受診票の利用方法（公費一部助成の受け方）】\n\n医療機関へ直接ご持参ください。上記【公費負担について】のとおり助成を受けることができます。\n\n（注釈）受診票は、妊娠届出時にお渡しする「母と子の保健バッグ」の中に入っています。\n\n多くの場合、出産後、赤ちゃんが入院中に新生児聴覚検査は行われます。入院時には必ず持参されるようお願いいたします。また、受診票を持参する詳細時期については各医療機関（出産される医療機関）へお問い合わせください。\n\n里帰り（都外）や助産所での出産のため新生児聴覚検査受診票を使用できなかった方へ\n新生児聴覚検査受診票は、助産所や都外の病院では使用できません。（都内の医療機関であればそのまま受診票を使うことができます）そのため、受診票を使用せずに自己負担で新生児聴覚検査を実施された方に、後日、助成金を交付する制度があります。都外の里帰り先で妊婦健康診査を受けられた場合の助成金申請（国分寺市母子健康診査受診費助成金）と同時に手続きすることができますので、未使用の受診票をお持ちのうえ、子育て相談室母子保健係窓口（いずみプラザ1階、国分寺市役所第2庁舎）までお越しください。\n\n受診票を紛失された場合は、制度を利用することができません。紛失されないようご注意ください。\n\n申請方法はこちらです\n\n都外の医療機関または市外の助産所で妊婦健康診査を受診される方へ;https://www.city.kokubunji.tokyo.jp/kurashi/kodomo/shussan/1001103.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "新生児聴覚検査",
+    "shortName": "新生児聴覚検査"
+  },
+  "localGovernmentLink": {
+    "title": "新生児聴覚検査受診費を助成しています",
+    "uri": "https://www.city.kokubunji.tokyo.jp/kurashi/kodomo/shussan/1020267.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-12",
+    "updater": "国分寺市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "新生児聴覚検査費の一部費用が助成されます。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "産婦、新生児"
+  },
+  "updateDate": "2024-04-15",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

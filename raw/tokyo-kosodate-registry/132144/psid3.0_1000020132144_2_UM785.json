@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132144;国分寺市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子育て相談室地域支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132144",
+    "psid": "psid3.0+1000020132144+2+UM785"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-320-1181",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部子育て相談室地域支援係",
+    "contactPhone": "042-321-1801",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": "1時間800円",
+  "costConditions": "生活保護受給世帯、非課税世帯0円",
+  "description": "国分寺市家事・育児支援訪問事業とは\n日中家庭内に育児協力者がおらず、市内に住所を有する産前産後の支援を必要する家庭にヘルパーを派遣し、子どもの健やかな成長を支援する事業です。\n利用対象\n母子健康手帳の交付受けた妊婦のいる家庭\n１歳未満（多胎児にあっては２歳未満）の子どものいる家庭\n※保育所、幼稚園に入園している家庭は対象にはなりません。\n支援内容\n食事の支度及び片付け、部屋の掃除及び整理整頓、対象となる子どもの授乳及び食事の補助のもく浴及び入浴の補助並びにおむつの交換及び着替え等補助など\n※保護者不在時の子どもの預かりはできません。\n利用方法\n申請書を市へ提出すると、利用承認決定通知とともに、利用券を交付します。契約事業者一覧より事業者を選びへ電話連絡等を行い、ヘルパーの派遣予約等を行います。ヘルパー派遣時に、利用した時間数（1日１回３時間以内）分の利用券をヘルパーにお渡しください。\nなお、キャンセル等の場合は、キャンセル料がかかる場合があります。キャンセル料分の利用券を事業者へ、お渡しください。詳しくは市ホームページで確認ください。\n申請方法\nホームページより申請書をダウンロードし、必要事項を記入のうえ、こども家庭センター（国分寺市泉町２－３－８いずみプラザ内）まで持参",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "日曜日、祝日、年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "産前産後ヘルパーの派遣",
+    "shortName": "家事・育児支援訪問事業"
+  },
+  "localGovernmentLink": {
+    "title": "家事・育児支援訪問事業",
+    "uri": "https://www.city.kokubunji.tokyo.jp/kurashi/kodomo/shussan/1001505.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "国分寺市"
+  },
+  "procedureCounter": "こども家庭センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "産前産後の支援を必要する家庭に、日常的な掃除・洗濯・食事の支度などの家事や、もく浴・おむつ交換・きょうだいのお世話などの育児を手伝うホームヘルパーを派遣します。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "母子健康手帳の交付を受けた妊婦、１歳未満の子どもがいる家庭（多胎の場合、２歳未満の子どもがいる家庭）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "市内に在住し、母子健康手帳の交付を受けた妊婦、１歳未満の子どもがいる家庭（多胎の場合、２歳未満の子どもがいる家庭）で、日中家事や育児を手伝う人がおらず、支援する必要がある家庭。"
+  },
+  "updateDate": "2025/04/01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": "09:00",
+    "toHM": "18:00"
+  }
+}

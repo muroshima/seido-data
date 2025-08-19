@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "131091;品川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131091",
+    "psid": "psid3.0+6000020131091+1+UM785"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "受付時間：午前9時～午後6時（日・祝日・年末年始除く）",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "家庭あんしんセンター",
+    "contactPhone": "03-5749-1032",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "1時間410円（減免制度あり）",
+  "description": "すこやかサポート(育児支援ヘルパー)\n\n産前産後に体調不良などで日常生活に支障があり、他から援助を受けられない家庭にヘルパーを派遣します。\n\n◇期間\n産前1カ月～退院した翌日から1年間\n\n◇利用時間帯\n午前9時～午後6時のうち連続した4時間以内\n\n◇費用\n1時間410円（減免制度あり）\n\n◇利用期間および日数\n産前（出産予定日の1カ月前～出産日）：5日間\n産後（退院した翌日～1年）：10日間まで\n・若年（母親が20歳未満）：15日間まで\n・多胎（双子以上）：30日間まで\n\n◇利用手続き\n利用には事前登録が必要です。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "利用期間および日数\n産前（出産予定日の1カ月前～出産日）：5日間\n産後（退院した翌日～1年）：10日間まで\n　・若年（母親が20歳未満）：15日間まで　\n　・多胎（双子以上）：30日間まで",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "各家庭"
+  },
+  "institutionName": {
+    "canonicalName": "産前産後ヘルパーの派遣",
+    "shortName": "すこやかサポート(育児支援ヘルパー)"
+  },
+  "localGovernmentLink": {
+    "title": "すこやかサポート(育児支援ヘルパー)",
+    "uri": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-kateisoudan/hpg000023819.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "品川区"
+  },
+  "procedureCounter": "家庭あんしんセンター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "利用には事前登録が必要です。\n家庭あんしんセンターにお電話にてお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "品川区育児支援ヘルパー派遣事業実施要領"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "産前産後の体調不良などにより、家事や育児が困難なご家庭に、日常的な掃除・洗濯・食事の支度などの家事や、もく浴・おむつ交換・きょうだいのお世話などの育児を手伝うホームヘルパーを派遣します。",
+  "support": {
+    "description": "産前産後の体調不良などにより、家事や育児が困難なご家庭に、日常的な掃除・洗濯・食事の支度などの家事や、もく浴・おむつ交換・きょうだいのお世話などの育児を手伝うホームヘルパーを派遣します。",
+    "materiallySupport": "産前産後の体調不良などにより、家事や育児が困難なご家庭に、日常的な掃除・洗濯・食事の支度などの家事や、もく浴・おむつ交換・きょうだいのお世話などの育児を手伝うホームヘルパーを派遣します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "産前産後に体調不良などで日常生活に支障があり、他から援助を受けられない家庭"
+  },
+  "updateDate": "2022-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "午前9時～午後6時のうち連続した4時間以内",
+    "fromHM": null,
+    "toHM": null
+  }
+}

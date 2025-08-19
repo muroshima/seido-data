@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132241;多摩市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども・若者政策課 手当・医療・相談担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132241",
+    "psid": "psid3.0+3000020132241+4+UM120"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都多摩市関戸六丁目12番地1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども・若者政策課 手当・医療・相談担当",
+    "contactPhone": "042-338-6833",
+    "contactUrl": null,
+    "zipCode": "2068666"
+  },
+  "cost": null,
+  "costConditions": "無料",
+  "description": "ひとり親家庭相談\n対象者\nひとり親家庭の方、これからひとり親になる方・なるかもしれない方\n\n内容\n母子・父子自立支援員が仕事や経済的なこと、家族関係に係わること、精神面での悩みなど生活全般について相談を受け、助言、各種制度の紹介、専門窓口との連絡などにより問題解決を援助します。\n\n※これからひとり親になる方、なるかもしれない方もご相談ください。\n\n日時\n祝日を除く月曜日から金曜日の9時から17時。電話予約が必要です。\n\n予約・相談電話番号\n042-338-6833\n\n費用\n無料\n\nその他\n女性を取り巻く悩み何でも相談・（女性弁護士による）法律相談は、TAMA女性センター（042-355-2110）でお受けしています。\n関連情報\nTAMA女性センター相談室;https://www.city.tama.lg.jp/kenkofukushi/danjyo/josei/1003354.html\n東京都ひとり親家庭支援センターはあと（外部リンク）;http://www.haat.or.jp/\nシングルママ・シングルパパ くらし応援ナビ Tokyo（外部リンク）;https://www.single-ouen-navi.metro.tokyo.lg.jp/",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "祝日",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関するその他のこと",
+    "shortName": "ひとり親家庭相談"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親家庭相談",
+    "uri": "https://www.city.tama.lg.jp/kurashi/soudan/support/1011744.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "多摩市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": "祝日を除く月曜日から金曜日の9時から17時。電話予約が必要です。",
+    "fromHM": "09:00",
+    "fromYMD": null,
+    "toHM": "17:00",
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "母子及び父子並びに寡婦福祉法、売春防止法、児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "母子・父子自立支援員が仕事や経済的なこと、家族関係に係わること、精神面での悩みなど生活全般について相談を受け、助言、各種制度の紹介、専門窓口との連絡などにより問題解決を援助します。",
+  "support": {
+    "description": "母子・父子自立支援員が仕事や経済的なこと、家族関係に係わること、精神面での悩みなど生活全般について相談を受け、助言、各種制度の紹介、専門窓口との連絡などにより問題解決を援助します。\n\n※これからひとり親になる方、なるかもしれない方もご相談ください。",
+    "materiallySupport": "母子・父子自立支援員が仕事や経済的なこと、家族関係に係わること、精神面での悩みなど生活全般について相談を受け、助言、各種制度の紹介、専門窓口との連絡などにより問題解決を援助します。\n\n※これからひとり親になる方、なるかもしれない方もご相談ください。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "ひとり親家庭の方、これからひとり親になる方・なるかもしれない方"
+  },
+  "updateDate": "2023-07-18",
+  "useConsiderationFlag": false,
+  "utilization": "電話予約が必要です。\n予約・相談電話番号\n042-338-6833",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "祝日を除く月曜日から金曜日の9時から17時。電話予約が必要です。",
+    "fromHM": "09:00",
+    "toHM": "17:00"
+  }
+}

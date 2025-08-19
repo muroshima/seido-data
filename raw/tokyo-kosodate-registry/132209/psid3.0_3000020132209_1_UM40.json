@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132209;東大和市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭センター子ども家庭相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132209",
+    "psid": "psid3.0+3000020132209+1+UM40"
+  },
+  "belongings": "申請にあたっては、以下の書類等をご用意ください。\n\n母子手帳\n健康保険証（国民健康保険以外は、出産育児一時金の金額を確認できるもの）または生活保護受給証明書\n認印（スタンプ印不可）\n※ 東大和市長が公簿等により所得状況（地方税関係情報含む。）を確認できない場合や、申込者・扶養義務者等がマイナンバー制度による情報連携に同意しない場合は、所得額、扶養人数、控除額の記載のある、交付から3か月以内の、今年度分（4月～6月の申込みについては前年度分）の市民税（非）課税証明書（世帯全員のもの）を提出してください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都東大和市中央3-916-8",
+    "contactComment": "ファクス：042-565-3652",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭センター子ども家庭相談係",
+    "contactPhone": "042-565-3651",
+    "contactUrl": "https://www.city.higashiyamato.lg.jp/cgi-bin/contacts/G400200100",
+    "zipCode": "2078585"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "入院助産制度\n出産にあたり、保健上必要であるにもかかわらず、経済的な理由で入院できないかたに対し、児童福祉法による助産施設での出産費用を助成する制度です。\n\n※ 世帯の収入状況に応じて、一部負担していただく場合があります。\n\n対象\n次の3つの項目すべてにあてはまるかた\n\n市内にお住まいの妊産婦のかた\n次のいずれかに該当する世帯\n生活保護世帯\n市民税が非課税の世帯\n今年度分（4月～6月の申込みについては前年度分）の市民税所得割が19,000円以下の世帯\n（ただし、健康保険等から給付される出産育児一時金の給付額が488,000円以上の場合を除く）\n児童福祉法による助産施設に入所し、出産するかた\n手続について　※ 出産前に申請することが必要です。お早めにご相談ください。\n申請にあたっては、以下の書類等をご用意ください。\n\n母子手帳\n健康保険証（国民健康保険以外は、出産育児一時金の金額を確認できるもの）または生活保護受給証明書\n認印（スタンプ印不可）\n※ 東大和市長が公簿等により所得状況（地方税関係情報含む。）を確認できない場合や、申込者・扶養義務者等がマイナンバー制度による情報連携に同意しない場合は、所得額、扶養人数、控除額の記載のある、交付から3か月以内の、今年度分（4月～6月の申込みについては前年度分）の市民税（非）課税証明書（世帯全員のもの）を提出してください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "助産制度",
+    "shortName": "入院助産制度"
+  },
+  "localGovernmentLink": {
+    "title": "入院助産制度",
+    "uri": "https://www.city.higashiyamato.lg.jp/kosodatekyoiku/kosodate/1003193/1003196.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "東大和市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "手続について　※ 出産前に申請することが必要です。お早めにご相談ください。\n申請にあたっては、以下の書類等をご用意ください。\n\n母子手帳\n健康保険証（国民健康保険以外は、出産育児一時金の金額を確認できるもの）または生活保護受給証明書\n認印（スタンプ印不可）\n※ 東大和市長が公簿等により所得状況（地方税関係情報含む。）を確認できない場合や、申込者・扶養義務者等がマイナンバー制度による情報連携に同意しない場合は、所得額、扶養人数、控除額の記載のある、交付から3か月以内の、今年度分（4月～6月の申込みについては前年度分）の市民税（非）課税証明書（世帯全員のもの）を提出してください。",
+  "procedurePeriod": {
+    "conditions": "出産前に申請することが必要です。お早めにご相談ください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第22条",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "経済的な理由で、病院や助産所での出産が困難な妊産婦の方を対象に、東大和市の指定の助産施設で出産する際の費用を助成しています。\n事前に申請が必要です。",
+  "support": {
+    "description": "出産にあたり、保健上必要であるにもかかわらず、経済的な理由で入院できないかたに対し、児童福祉法による助産施設での出産費用を助成する制度です。\n\n※ 世帯の収入状況に応じて、一部負担していただく場合があります。",
+    "materiallySupport": null,
+    "monetarySupport": "出産にあたり、保健上必要であるにもかかわらず、経済的な理由で入院できないかたに対し、児童福祉法による助産施設での出産費用を助成する制度です。\n\n※ 世帯の収入状況に応じて、一部負担していただく場合があります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次の3つの項目すべてにあてはまるかた\n\n1.市内にお住まいの妊産婦のかた\n2.次のいずれかに該当する世帯\n1.生活保護世帯\n2.市民税が非課税の世帯\n3.今年度分（4月～6月の申込みについては前年度分）の市民税所得割が19,000円以下の世帯\n（ただし、健康保険等から給付される出産育児一時金の給付額が488,000円以上の場合を除く）\n3.児童福祉法による助産施設に入所し、出産するかた"
+  },
+  "updateDate": "2023-07-25",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

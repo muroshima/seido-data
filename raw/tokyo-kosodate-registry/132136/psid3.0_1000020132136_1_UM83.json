@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132136;東村山市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部保育幼稚園課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132136",
+    "psid": "psid3.0+1000020132136+1+UM83"
+  },
+  "belongings": null,
+  "capacity": "一日10名程度",
+  "class": 1,
+  "contact": {
+    "contactAddress": "東村山市本町1丁目2番地3 いきいきプラザ2階",
+    "contactComment": "ファクス：042-394-7399",
+    "contactEmail": null,
+    "contactEx": "3610～3612",
+    "contactName": "子ども家庭部保育幼稚園課",
+    "contactPhone": "042-393-5111",
+    "contactUrl": "https://www.city.higashimurayama.tokyo.jp/formmail.html?_div=027900&_pageid=1252&_name=子ども家庭部保育幼稚園課",
+    "zipCode": "1898501"
+  },
+  "cost": null,
+  "costConditions": "保育料：4時間未満1,500円・4時間以上2,500円（昼食・おやつ含む）\n（注記）保育料は各園にてお支払していただきます。\n\n（注記）生活保護世帯・非課税世帯は保育料免除",
+  "description": "一時保育\n保護者の方が就労、通院などの理由で保育が必要な場合、または病気や出産等で入院するなど、家庭での保育が一時的に困難となった場合に日中お子さんをお預かりする制度です。一日10名程度受け入れています。\n\n（注記）保育施設（認定こども園の保育枠を含む）に通うかたは利用できません。\n\nご利用するには\n事前の登録が必要です。直接 実施保育園へお問い合わせください。\n\n対象：生後3ヵ月から小学校就学前のお子さん\n保育時間：午前8時30分から午後5時00分\n(実施日、時間等につきましては保育園まで直接お問い合わせください。)\n\n保育期間：同一の理由につき、特別の理由がある場合を除き月15日以内\n（注記）合計で月15日以内であれば複数園の登録利用も可能です。\n\n保育料：4時間未満1,500円・4時間以上2,500円（昼食・おやつ含む）\n（注記）保育料は各園にてお支払していただきます。\n\n（注記）生活保護世帯・非課税世帯は保育料免除\n\n実施保育園\n市内7ヶ所の保育園にて実施しています。\n\n表\n https://www.city.higashimurayama.tokyo.jp/kosodate/shien/ichiji/ichijihoiku.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "https://www.city.higashimurayama.tokyo.jp/kosodate/shien/ichiji/ichijihoiku.html",
+    "implementationName": "https://www.city.higashimurayama.tokyo.jp/kosodate/shien/ichiji/ichijihoiku.html"
+  },
+  "institutionName": {
+    "canonicalName": "一時預かり（一時保育）",
+    "shortName": "一時保育"
+  },
+  "localGovernmentLink": {
+    "title": "一時保育",
+    "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/shien/ichiji/ichijihoiku.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-24",
+    "updater": "東村山市"
+  },
+  "procedureCounter": "実施保育園",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "事前の登録が必要です。直接 実施保育園へお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第7項、第21条の9、第59条第10号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者のパート就労や病気等による緊急時、育児疲れなどのリフレッシュのために、家庭において保育を受けることが一時的に困難となったお子さんを、保育園、地域子育て支援拠点などで一時的にお預かりしています。",
+  "support": {
+    "description": "保護者の方が就労、通院などの理由で保育が必要な場合、または病気や出産等で入院するなど、家庭での保育が一時的に困難となった場合に日中お子さんをお預かりする制度です。\n\n保育時間：午前8時30分から午後5時00分\n(実施日、時間等につきましては保育園まで直接お問い合わせください。)\n\n保育期間：同一の理由につき、特別の理由がある場合を除き月15日以内\n（注記）合計で月15日以内であれば複数園の登録利用も可能です。\n\n実施保育園\n市内7ヶ所の保育園にて実施しています。\n\n表\n https://www.city.higashimurayama.tokyo.jp/kosodate/shien/ichiji/ichijihoiku.html",
+    "materiallySupport": "保護者の方が就労、通院などの理由で保育が必要な場合、または病気や出産等で入院するなど、家庭での保育が一時的に困難となった場合に日中お子さんをお預かりする制度です。\n\n保育時間：午前8時30分から午後5時00分\n(実施日、時間等につきましては保育園まで直接お問い合わせください。)\n\n保育期間：同一の理由につき、特別の理由がある場合を除き月15日以内\n（注記）合計で月15日以内であれば複数園の登録利用も可能です。\n\n実施保育園\n市内7ヶ所の保育園にて実施しています。\n\n表\n https://www.city.higashimurayama.tokyo.jp/kosodate/shien/ichiji/ichijihoiku.html",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後3ヵ月から小学校就学前のお子さん",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": 3
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "保護者の方が就労、通院などの理由で保育が必要な場合、または病気や出産等で入院するなど、家庭での保育が一時的に困難となった場合に日中お子さんをお預かりする制度です。一日10名程度受け入れています。\n\n（注記）保育施設（認定こども園の保育枠を含む）に通うかたは利用できません。\n\n対象：生後3ヵ月から小学校就学前のお子さん"
+  },
+  "updateDate": "2024-03-13",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "保育時間：午前8時30分から午後5時00分",
+    "fromHM": "08:30",
+    "toHM": "17:00"
+  }
+}

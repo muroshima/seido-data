@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課児童給付グループ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+2+UM61"
+  },
+  "belongings": "子育て支援課児童給付グループの窓口\n・児童扶養手当証書\n・印鑑\n・定期券を購入するかたの証明写真\n（6か月以内に撮影の正面上半身、縦4センチ・横3センチのもの\n駅の窓口\n・特定者資格証明書（子育て支援課で発行した、有効期・間内のもの）\n・特定者用定期乗車券購入証明書（子育て支援課で発行した、有効期間内のもの）\n・定期乗車券購入申込書（駅の窓口に置いてあります）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て支援課児童給付グループ",
+    "contactPhone": "03-3981-1417",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "この制度で購入できるのは、通勤定期乗車券に限られます。\n\n【注釈2】窓口に来庁されるかたが、申請者または同一世帯のかた以外（代理人）の場合は、委任状が必要です。（同一の住所にお住まいでも、住民票上の世帯が別の場合は委任状が必要です。）詳しくは下記リンク先をご参照ください。\n\n委任状について（子どもの手当・医療費助成）;https://www.city.toshima.lg.jp/261/kosodate/1707121616.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "土曜日・日曜日・祝日",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自のひとり親の方への金銭的支援",
+    "shortName": "JR通勤定期乗車券の割引"
+  },
+  "localGovernmentLink": {
+    "title": "JR通勤定期乗車券の割引",
+    "uri": "https://www.city.toshima.lg.jp/261/kosodate/kosodate/hitorioya/001726.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": "子育て支援課児童給付グループ,駅の窓口",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "1.子育て支援課児童給付グループの窓口で、「特定者資格証明書」と「特定者用定期乗車券購入証明書」の交付を受けてください。\n2.駅の窓口で下記の書類を提出し、定期券をお求めください。",
+  "procedurePeriod": {
+    "conditions": "土曜日・日曜日・祝日は受付しておりませんのでご了承ください。",
+    "fromHM": "08:30",
+    "fromYMD": null,
+    "toHM": "17:00",
+    "toYMD": null
+  },
+  "procedurePersons": "児童扶養手当受給者または同一の世帯員\n窓口に来庁されるかたが、申請者または同一世帯のかた以外（代理人）の場合は、委任状が必要です。（同一の住所にお住まいでも、住民票上の世帯が別の場合は委任状が必要です。）",
+  "regulation": {
+    "regulationArticle": "第31条（母子家庭自立支援給付金）、第31条の10（父子家庭自立支援給付金）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "児童扶養手当",
+      "uri": "https://www.city.toshima.lg.jp/261/kosodate/kosodate/hitorioya/005889.html"
+    },
+    {
+      "title": "委任状について（子どもの手当・医療費助成）",
+      "uri": "https://www.city.toshima.lg.jp/261/kosodate/1707121616.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童扶養手当を受給している場合、JRの通勤定期乗車券を3割引で購入できます。",
+  "support": {
+    "description": "児童扶養手当を受給している場合、JRの通勤定期乗車券を3割引で購入できます。",
+    "materiallySupport": null,
+    "monetarySupport": "児童扶養手当を受給している場合、JRの通勤定期乗車券を3割引で購入できます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "児童扶養手当受給者及び同一の世帯員で、通勤定期乗車券を必要とするかた。"
+  },
+  "updateDate": "2017-07-21",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

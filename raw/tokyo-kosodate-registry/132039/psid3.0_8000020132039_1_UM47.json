@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "132039;武蔵野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部　健康課　母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132039",
+    "psid": "psid3.0+8000020132039+1+UM47"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都武蔵野市吉祥寺北町4‐8‐10　武蔵野市立保健センター1階",
+    "contactComment": "ファクス番号：0422-51-9297",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康福祉部　健康課　母子保健係",
+    "contactPhone": "0422-51-0703",
+    "contactUrl": "https://www.city.musashino.lg.jp/cgi-crm/CRM030/CRM030_001/G00700500/1035954",
+    "zipCode": "1800001"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊娠や出産に関する相談(マタニティ安心コール)\n安心して赤ちゃんを迎えていただけるよう、妊娠・出産・育児に関することや市内での子育て支援に関して、保健師等が相談をお受けしています。ご希望のかたは、健康課までご連絡ください。\n\n内容\n保健師等による電話相談・面接相談\n（母子健康手帳交付時以外の面接はご予約ください。）\n\n専用電話番号\n0422-51-0703（直通）\n\n日時\n月曜日から金曜日 午前9時から午後5時まで（祝日・年末年始を除く）\n\n場所\n健康課母子保健係（武蔵野市立保健センター）\n武蔵野市立保健センター（施設案内）;https://www.city.musashino.lg.jp/shisetsu_annai/hoken_fukushi/hoken/1000495.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "祝日・年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "武蔵野市の妊娠・出産に関する相談",
+    "shortName": "妊娠や出産に関する相談(マタニティ安心コール)"
+  },
+  "localGovernmentLink": {
+    "title": "妊娠や出産に関する相談(マタニティ安心コール)",
+    "uri": "https://www.city.musashino.lg.jp/shussan_kodomo_kyoiku/ninshin_shussan_boshihoken/ninshin/1006675.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "武蔵野市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "武蔵野市立保健センター（施設案内）",
+      "uri": "https://www.city.musashino.lg.jp/shisetsu_annai/hoken_fukushi/hoken/1000495.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "安心して赤ちゃんを迎えていただけるよう、妊娠・出産・育児に関することや市内での子育て支援に関して、保健師等が相談をお受けしています。ご希望のかたは、健康課までご連絡ください。",
+  "support": {
+    "description": "保健師等による電話相談・面接相談\n（母子健康手帳交付時以外の面接はご予約ください。）",
+    "materiallySupport": "保健師等による電話相談・面接相談",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-03-12",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日から金曜日 午前9時から午後5時まで",
+    "fromHM": "09:00",
+    "toHM": "17:00"
+  }
+}

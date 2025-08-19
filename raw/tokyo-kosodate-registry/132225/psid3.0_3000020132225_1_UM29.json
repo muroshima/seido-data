@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132225;東久留米市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉保健部　健康課　保健サービス係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132225",
+    "psid": "psid3.0+3000020132225+1+UM29"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都東久留米市滝山4-3-14",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉保健部　健康課　保健サービス係",
+    "contactPhone": "042-477-0022",
+    "contactUrl": "https://www.city.higashikurume.lg.jp/kurashi/kenko/boshi/1000417.html",
+    "zipCode": "2030033"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊産婦・乳幼児保健指導票の発行、未熟児養育医療の給付、大気汚染医療費助成\n\n妊産婦・乳幼児保健指導票の発行\n経済的事情により、保健指導を受け難い方に対して必要な保健指導票を発行します。\n\n対象・受給資格等\n東久留米市にお住まいで、市民税非課税世帯、被生活保護世帯、中国残留邦人等の円滑な帰国の促進及び永住帰国後の自立支援に関する法律による支援給付受給世帯に属する産婦・乳幼児が対象です。\n\n申請書等一式は、健康課窓口にてお渡ししております。\n\n未熟児養育医療の給付\n医師が入院養育の必要を認めた方に医療の給付を行います。\n\n対象・受給資格等\n東久留米市にお住まいで、出生時の体重が2,000グラム以下、またはそれ以上でも生活力が特に弱く、一定の症状を示す乳児（0歳児）を対象に、指定医療機関で受けた入院医療に要する費用を市で負担する制度です。申請後、給付認定されると3週間程度で養育医療券を発行します。\n\n申請書等一式は、健康課の窓口にてお渡ししております。\n\n大気汚染医療費助成\n気管支喘息など大気汚染の影響と推定される疾病にかかられている方への医療費助成の申請を受け付けます（東京都から給付されます）。\n\n対象・受給資格等\n18歳未満の方、気管支喘息など指定された疾病にかかっている方、都内に1年以上住んでいる方（3歳未満は6カ月以上住んでいる方）、健康保険に加入している方、申請日以降喫煙しない方\n\n詳しくは下のリンク先をご覧ください。\n\n大気汚染医療費助成制度について（ぜん息をお持ちの方へ）;https://www.city.higashikurume.lg.jp/kurashi/kenko/hoken/1000400.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "未熟児養育医療の給付",
+    "shortName": "未熟児養育医療の給付"
+  },
+  "localGovernmentLink": {
+    "title": "助成制度",
+    "uri": "https://www.city.higashikurume.lg.jp/kurashi/kenko/boshi/1000417.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-01",
+    "updater": "東久留米市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第20条（養育医療）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "未熟児養育医療の給付とは、身体の発育が未熟なまま生まれ入院を必要とする乳児が、指定養育医療機関において入院治療を受ける場合に、その治療に要する医療費を公費により負担する制度です。ただし、世帯の所得税額に応じて、入院治療費の一部は自己負担となります。",
+  "support": {
+    "description": "指定医療機関で受けた入院医療に要する費用を市で負担する制度です。申請後、給付認定されると3週間程度で養育医療券を発行します。",
+    "materiallySupport": null,
+    "monetarySupport": "指定医療機関で受けた入院医療に要する費用を市で負担する制度です。申請後、給付認定されると3週間程度で養育医療券を発行します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "089"
+    ]
+  },
+  "target": {
+    "conditions": "東久留米市にお住まいで、出生時の体重が2,000グラム以下、またはそれ以上でも生活力が特に弱く、一定の症状を示す乳児（0歳児）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "東久留米市にお住まいで、出生時の体重が2,000グラム以下、またはそれ以上でも生活力が特に弱く、一定の症状を示す乳児（0歳児）"
+  },
+  "updateDate": "2022-09-20",
+  "useConsiderationFlag": true,
+  "utilization": "申請書等一式は、健康課の窓口にてお渡ししております。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

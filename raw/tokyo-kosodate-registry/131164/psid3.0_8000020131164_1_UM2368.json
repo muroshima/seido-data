@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保育支援担当課入園グループ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+1+UM2368"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保育支援担当課入園グループ",
+    "contactPhone": "03-3981-2140",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "2019年10月から幼児教育・保育の無償化を実施しております\n\n具体的な内容、手続き等については下記をご参照ください。\n\n幼児教育・保育の無償化について;http://www.city.toshima.lg.jp/267/kuse/hoikujoho.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "幼児教育・保育の無償化",
+    "shortName": "幼児教育・保育の無償化"
+  },
+  "localGovernmentLink": {
+    "title": "幼児教育・保育の無償化についてのご案内",
+    "uri": "https://www.city.toshima.lg.jp/260/kosodate/kosodate/hoikuen/hoikuryo/documents/1811261426.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第27条～第30条（第二章 第三節 第三款 施設型給付費及び地域型保育給付費等の支給）、第30条の2(子育てのための施設等利用給付）)",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "住民向け説明資料（内閣府作成）（PDF：308KB）",
+      "uri": "https://www.city.toshima.lg.jp/260/kosodate/kosodate/hoikuen/hoikuryo/documents/documents/youzi_zyuuminn.pdf"
+    },
+    {
+      "title": "事業者向け説明資料（内閣府作成）（PDF：449KB）",
+      "uri": "https://www.city.toshima.lg.jp/260/kosodate/kosodate/hoikuen/hoikuryo/documents/documents/youzi_zigyousya.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "幼児教育・保育の重要性や、子育てや教育にかかる費用負担の軽減を図る少子化対策の観点などから、3歳児クラス（年少）から5歳児クラス（年長）のお子さん、および住民税非課税世帯の0歳児クラスから2歳児クラスのお子さんを対象に、幼児教育・保育の無償化を実施しています。\n無償化の内容は、利用する施設・サービスごとに異なります。",
+  "support": {
+    "description": "3歳から5歳までの子どもたちの幼稚園、保育所、認定こども園などの利用料が無償化されます。0歳から2歳までの住民税非課税世帯の子どもたちも対象になります。",
+    "materiallySupport": null,
+    "monetarySupport": "3歳から5歳までの子どもたちの幼稚園、保育所、認定こども園などの利用料が無償化されます。0歳から2歳までの住民税非課税世帯の子どもたちも対象になります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 5,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "3歳から5歳までの子どもたち\n0歳から2歳までの住民税非課税世帯の子どもたち"
+  },
+  "updateDate": "2020-05-11",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

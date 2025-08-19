@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "133817;三宅村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉健康課 健康係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "4000020133817",
+    "psid": "psid3.0+4000020133817+1+UM49"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三宅島三宅村阿古497",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "三宅村役場臨時庁舎　福祉健康課 健康係",
+    "contactPhone": "04994-5-0911",
+    "contactUrl": null,
+    "zipCode": "1001212"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "乳幼児健康診査\n乳児および幼児を対象に実施している健診は以下のとおりです。\n\n乳児健康診査(3～4ヶ月)\n6ヶ月健康診査(6～7ヶ月)\n9ヶ月健康診査(9～10ヶ月)\n1歳6か月児健康診査(おおよそ1歳7か月ごろ)\n3歳児健康診査(おおよそ3歳3か月ごろ)\n乳幼児経過観察健康診査\n開催日は対象者に個別通知します。対象時期は目安ですので、詳しくは個別通知をご覧ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児健康診査（6か月未満児）",
+    "shortName": "乳児健康診査(3～4ヶ月)"
+  },
+  "localGovernmentLink": {
+    "title": "赤ちゃんが生まれた方",
+    "uri": "https://www.vill.miyake.tokyo.jp/kurashi/seikatsu_kankyou/ikuji_kyouiku/ninpu_nyuuyouji/akachan.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-19",
+    "updater": "三宅村"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として3か月児健康診査を実施しています。",
+  "support": {
+    "description": "乳児健康診査(3～4ヶ月)",
+    "materiallySupport": "乳児健康診査(3～4ヶ月)",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "乳児健康診査(3～4ヶ月)",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 3
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 4
+    },
+    "targetPersons": "乳児健康診査(3～4ヶ月)"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "開催日は対象者に個別通知します。対象時期は目安ですので、詳しくは個別通知をご覧ください。",
+    "fromHM": null,
+    "toHM": null
+  }
+}

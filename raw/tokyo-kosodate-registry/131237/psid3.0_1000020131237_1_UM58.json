@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部障害者福祉課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM58"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部障害者福祉課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e041/kuseijoho/gaiyo/soshiki/fukushi/syogai.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "利用者負担の計算について\n\n・所得判定する世帯の範囲は、対象者の属する世帯員全員です。\n・基準額（上限額）を超える場合、用具により差額を自己負担して認められるものと差額を自己負担しても認められないものがあります。\n・世帯範囲のうち最多納税者の区民税所得割額が46万円以上の方は対象外です。世帯合算ではありません。\n・支給の可否を判定する区民税所得割額とは、住宅借入金等特別税額控除、寄附金税額控除（ふるさと納税等）が適用される前の区民税所得割額から、18歳までの扶養親族がいる場合、下記控除額を再算定した額です。\n ・16歳未満の扶養親族1人につき19,800円\n ・16歳以上19歳未満の扶養親族1人につき7,200円",
+  "description": "身体障害者手帳の交付対象とならない中等度難聴児の方に、補聴器の購入費用の一部を助成することにより、言語の習得や生活能力、コミュニケーション能力等の向上を促進し、難聴児の健全な発達を支援します。",
+  "electronicSubmission": false,
+  "formLink": [
+    {
+      "title": "中等度難聴児発達支援事業補聴器購入費助成の申請",
+      "uri": "https://app.oss.myna.go.jp/Application/procdetail/initGet?kc9XUt9I8/CU41afS8P1OaaLxX/9+D2bXPzn80LiqLRKeI438ftq6avj3ZAt+N8AlNhjhc1XlqjPKOWxSoxbkOxNmSHRe+tQW/RUXvwhdI5tGrbGF1Tk3K9GH7RXuEk9anJg9Rjd9Bz4dF7UOTZgAA"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の育児に関する金銭的支援",
+    "shortName": "中等度難聴児補聴器購入費助成"
+  },
+  "localGovernmentLink": {
+    "title": "中等度難聴児補聴器購入費助成",
+    "uri": "https://www.city.edogawa.tokyo.jp/e041/kenko/fukushikaigo/shogaisha/service/seikatsu/yogu/hotyoukikounyuuhinojyosei.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "江戸川区役所福祉部障害者福祉課障害相談第一係・障害相談第二係\n電話：03-5662-0052・03-5662-0053\nFAX：03-3656-5874",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "1 相談\n・主治医（身体障害者福祉法第15条第1項に基づく指定医など）に対象になる方の要件を満たしているか確認をしてください。\n・要件に該当する場合、下記より「申請書類をダウンロードする」「担当部署に書類の郵送請求をする」「担当窓口で受け取る」のいずれかで申請書類を手に入れてください。\n\n2 申請\n「申請に必要な書類」を用意し、担当部署あてに郵送または窓口に提出していただくか、令和6年1月1日よりぴったりサービスを利用した電子申請（外部サイトへリンク）（別ウィンドウで開きます）も可能です。\n\n3 決定\n書類の提出後、審査をいたします。\n要件に該当し、給付が可能な場合、交付券を発行し、ご自宅に郵送します。\n\n4 納品\n交付券に署名・捺印後業者へ渡し、補聴器を受け取ってください。\n自己負担額および利用者負担額がある場合は業者へお支払いください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "身体障害者手帳の交付対象とならない中等度難聴児の方に、補聴器の購入費用の一部を助成することにより、言語の習得や生活能力、コミュニケーション能力等の向上を促進し、難聴児の健全な発達を支援します。",
+  "support": {
+    "description": "基準額（上限額）\n補聴器\n|種類|1台あたりの基準額|\n|:----|:----|\n|補聴器|137,000円|\n\n（注）原則として装用効果が高い片耳への支給となります。\n（注）修理、付属品に係る費用は助成対象外です。\n（注）補装具費の支給とは制度が異なるため、補装具費における受託報酬額は対象になりません。\n\n補聴システム（FM式・デジタル式）\n|種類|1台あたりの基準額|\n|:----|:----|\n|ワイヤレスマイク|98,000円|\n|受信機|80,000円|\n|オーディオシュー|5,000円|\n\n（注）修理、上記以外の付属品に係る費用は対象外です。\n\n助成額\n所得区分により助成内容が異なります。\n|世帯区分|利用者負担額|\n|:----|:----|\n|生活保護世帯|基準額と補聴器の購入費用を比較して少ない額の10割|\n|住民税非課税世帯_（区民税非課税）|基準額と補聴器の購入費用を比較して少ない額の10割|\n|住民税課税世帯_（区民税所得税額が46万円未満）|基準額と補聴器の購入費用を比較して少ない額の9割|\n|住民税課税世帯_（区民税所得税額が46万円以上）|助成対象外|\n",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "区内在住の18歳未満の児童",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象になる方　下記の要件のすべてを満たしている方\n\n1.区内在住の18歳未満の児童\n2.両耳の聴力レベルが概ね30dB以上であり、身体障害者手帳（聴覚障害）交付の対象となる聴力ではないこと\n3.補聴器の装用により、言語の習得等一定の効果が期待できると医師が判断する者\n\n対象にならない方\n\n1.身体障害者手帳（聴覚障害）の交付対象となる方\n2.対象児童の属する世帯に区民税所得割額が46万円以上の方がいる場合"
+  },
+  "updateDate": "2023-11-14",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

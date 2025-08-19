@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "131083;江東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部 保健予防課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131083",
+    "psid": "psid3.0+6000020131083+1+UM792"
+  },
+  "belongings": "受診票",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "1歳6か月児歯科健康診査\n1歳6か月児を対象に、江東区内の契約歯科医療機関で歯科健康診査を行っています。対象年齢に達した方には各保健相談所から直接ご案内を郵送します。同封されている受診票を持参して受診して下さい。\n\n歯科健康診査を受けられる契約歯科医療機関については、下記の関連ドキュメントをご覧ください。\n\n問合先\nお住まいの地域を担当する保健相談所（下記の関連ページをご覧下さい）\n\n関連ページ\n保健相談所担当地域一覧;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html\n関連ドキュメント\n1歳6か月児歯科健康診査実施医療機関名簿（PDF：88KB）（別ウィンドウで開きます）;https://app-as.readspeaker.com/cgi-bin/rsent?customerid=7199&lang=ja_jp&readid=tmp_readcontents&url=",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児の歯の健康診査（▲歳児歯科健康診査）",
+    "shortName": "1歳6か月児歯科健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "1歳6か月児歯科健康診査",
+    "uri": "https://www.city.koto.lg.jp/260501/kodomo/iryo/kenko/6892.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-19",
+    "updater": "江東区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "1歳6か月児歯科健康診査実施医療機関名簿（PDF：87KB）（別ウィンドウで開きます）",
+      "uri": "https://www.city.koto.lg.jp/260501/kodomo/iryo/kenko/documents/20240601shika.pdf"
+    },
+    {
+      "title": "保健相談所担当地域一覧",
+      "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "乳歯が生えそろうこの時期は、むし歯が急増する時期でもあります。1歳6か月児歯科健康診査を受けて、むし歯の予防と早期発見をめざしましょう。",
+  "support": {
+    "description": "江東区内の契約歯科医療機関で歯科健康診査を行っています。対象年齢に達した方には各保健相談所から直接ご案内を郵送します。同封されている受診票を持参して受診して下さい。",
+    "materiallySupport": "江東区内の契約歯科医療機関で歯科健康診査を行っています。対象年齢に達した方には各保健相談所から直接ご案内を郵送します。同封されている受診票を持参して受診して下さい。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": 6
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": 6
+    },
+    "targetPersons": "1歳6か月児"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

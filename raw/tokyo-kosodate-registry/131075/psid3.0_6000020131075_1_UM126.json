@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131075;墨田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "学務課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131075",
+    "psid": "psid3.0+6000020131075+1+UM126"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "墨田区吾妻橋一丁目23番20号　区役所11階",
+    "contactComment": null,
+    "contactEmail": "GAKUMU@city.sumida.lg.jp",
+    "contactEx": null,
+    "contactName": "学務課",
+    "contactPhone": "03-5608-6303",
+    "contactUrl": null,
+    "zipCode": "1308640"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "小・中学校就学援助\n\n就学援助のご案内\n就学援助とは、経済的な理由で就学が困難な児童生徒の保護者に学用品費等の学校教育でかかる費用の一部を墨田区が援助する制度です。\n\n就学援助の対象となる方\n墨田区内に住所を有し小・中学校に通学している児童生徒の保護者のうち、次のいずれかに該当する方\n\n生活保護を受けている方\n生活保護を受けていないが、それに準ずる程度に困っている方（※1）\nその他特別な事情のある方（※2）\n※1　生計を共にする世帯全員の前年合計所得金額が、墨田区教育委員会が定める所得基準額未満の方です。所得基準額は家族構成や世帯員の年齢によって変わります。\n※2　特別な事情を証明できる書類の提出が必要です。\n\n就学援助の内容\n援助される費用は、次のとおりです。\n\n学用品費\n校外活動費\n修学旅行費\n新入学児童生徒学用品費\n学校給食費\nクラブ活動費\n体育実技用具費\nメガネ購入費\n医療費（学校保健法に定められた病気に限ります。）\n運動着費\n※　援助される費用は、種類ごとに範囲や対象が異なります。\n※　生活保護を受けている方は、福祉事務所から支給されるものがあります。\n\n支給費目一覧（令和5年度）（PDF：219KB）;https://www.city.sumida.lg.jp/kosodate_kyouiku/kyouiku/school/syuugaku_enjo/shuugakuennjo.files/33333333333.pdf\n\n申請の方法\n1　墨田区立小・中学校に在籍している児童生徒の保護者の方\n毎年4月に学校を通じて世帯ごとに申請書を配付します。援助を希望される方は、必要事項を記入のうえ直接または郵送で学務課へ提出してください。年度の途中でも申請できます。\n\n2　墨田区立以外の小・中学校に在籍している児童生徒の保護者の方\n毎年4月に学務課へ直接申請してください。年度の途中でも申請できます。\n\n※　墨田区以外の区市町村に住所があり、墨田区立小・中学校に区域外就学をしている児童生徒の保護者は、住所地の教育委員会にご相談ください。\n\n認定結果の通知\n審査が終了後、認定結果通知をご自宅へ郵送します。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "小学校・中学校の就学援助費",
+    "shortName": "小・中学校就学援助"
+  },
+  "localGovernmentLink": {
+    "title": "小・中学校就学援助",
+    "uri": "https://www.city.sumida.lg.jp/kosodate_kyouiku/kyouiku/school/syuugaku_enjo/shuugakuennjo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "墨田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請の方法\n1　墨田区立小・中学校に在籍している児童生徒の保護者の方\n毎年4月に学校を通じて世帯ごとに申請書を配付します。援助を希望される方は、必要事項を記入のうえ直接または郵送で学務課へ提出してください。年度の途中でも申請できます。\n\n2　墨田区立以外の小・中学校に在籍している児童生徒の保護者の方\n毎年4月に学務課へ直接申請してください。年度の途中でも申請できます。\n\n※　墨田区以外の区市町村に住所があり、墨田区立小・中学校に区域外就学をしている児童生徒の保護者は、住所地の教育委員会にご相談ください。\n\n認定結果の通知\n審査が終了後、認定結果通知をご自宅へ郵送します。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第19条",
+    "regulationName": "学校教育法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "経済的な理由により就学が困難と認められる、公立の小学校・中学校に通学する児童・生徒の保護者を対象に、学用品費、修学旅行費などを支給します。",
+  "support": {
+    "description": "援助される費用は、次のとおりです。\n\n学用品費\n校外活動費\n修学旅行費\n新入学児童生徒学用品費\n学校給食費\nクラブ活動費\n体育実技用具費\nメガネ購入費\n医療費（学校保健法に定められた病気に限ります。）\n運動着費\n※　援助される費用は、種類ごとに範囲や対象が異なります。\n※　生活保護を受けている方は、福祉事務所から支給されるものがあります。\n\n支給費目一覧（令和5年度）（PDF：219KB）;https://www.city.sumida.lg.jp/kosodate_kyouiku/kyouiku/school/syuugaku_enjo/shuugakuennjo.files/33333333333.pdf",
+    "materiallySupport": null,
+    "monetarySupport": "援助される費用は、次のとおりです。\n\n学用品費\n校外活動費\n修学旅行費\n新入学児童生徒学用品費\n学校給食費\nクラブ活動費\n体育実技用具費\nメガネ購入費\n医療費（学校保健法に定められた病気に限ります。）\n運動着費\n※　援助される費用は、種類ごとに範囲や対象が異なります。\n※　生活保護を受けている方は、福祉事務所から支給されるものがあります。\n\n支給費目一覧（令和5年度）（PDF：219KB）;https://www.city.sumida.lg.jp/kosodate_kyouiku/kyouiku/school/syuugaku_enjo/shuugakuennjo.files/33333333333.pdf"
+  },
+  "tag": {
+    "categoryCode": [
+      "005"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "092"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "墨田区内に住所を有し小・中学校に通学している児童生徒の保護者のうち、次のいずれかに該当する方\n\n1.生活保護を受けている方\n2.生活保護を受けていないが、それに準ずる程度に困っている方（※1）\n3.その他特別な事情のある方（※2）\n※1　生計を共にする世帯全員の前年合計所得金額が、墨田区教育委員会が定める所得基準額未満の方です。所得基準額は家族構成や世帯員の年齢によって変わります。\n※2　特別な事情を証明できる書類の提出が必要です。"
+  },
+  "updateDate": "2024-05-17",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

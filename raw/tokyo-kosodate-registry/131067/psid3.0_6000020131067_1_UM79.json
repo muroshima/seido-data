@@ -1,0 +1,151 @@
+{
+  "area": {
+    "areaCode": "131067;台東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "児童福祉法",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131067",
+    "psid": "psid3.0+6000020131067+1+UM79"
+  },
+  "belongings": "（1）利用申請書 （第1号様式 ）\n\n児童1人につき1枚\n\n（2）延長育成利用申請書 （第6号の2様式）\n\n「延長育成」（※）を希望する方のみ\n\n（3）児童調査票\n\n児童1人につき1枚\n\n（4）就労証明書 （第2号様式）または申出書 （第3号様式）+添付書類\n\n父母及び父母以外の同居の家族（20歳から70歳まで）1人につき1枚\n\n下表を参考にご用意ください。\n\n※「延長育成」について\n\n全てのこどもクラブで保護者のお迎えを前提に午後6時から午後7時の延長育成を実施しています。\n\n申請できる方（資格要件）は、延長育成時間（午後6時から午後7時）に勤務により児童の世話をする方がいない世帯です。\n\n希望する方は、利用申請書のほかに延長育成利用申請書が必要です。\n\n利用にあたっては、育成料（月額4,000円）のほかに延長育成料（月額1,000円）を別途負担してください。\n\n【添付書類等について】\n|保護者等の状況|提出書類※|\n|:----|:----|\n|就労・就労内定している場合<br>育児休業中で職場に復帰する場合|就労証明書（第2号様式）<br>変則勤務の場合は、3か月分のシフト表の写しなど実際の勤務日数や勤務時間がわかるものを併せて提出。|\n|病気や障害により児童の保育が困難な場合|申出書（第3号様式）＋医師の診断書または身体障害者手帳等の写し<br>病気で診断書を提出する場合、「入院し、又は住居内において常時臥床の状態であること」がわかるものまたは「週1回以上通院し、医師から安静に近い療養を指示されていること」等が記載されており、こどもクラブの利用が必要であることがわかるものを添付。|\n|就学中の場合|申出書（第3号様式）＋在学証明書または学生証の写し＋時間割表等|\n|出産月及び前後2か月の場合|申出書（第3号様式）＋母子健康手帳の氏名のページ及び分娩予定日が記載されているページの写し|\n|介護・看護等で児童の保育が困難な場合|申出書（第3号様式）＋医師の診断書または身体障害者手帳等の写し|\n|求職中の場合（2か月間利用可）|申出書（第3号様式）その他欄に「求職中」と記入|\n\n※兄弟姉妹の場合は、弟妹に添付し、兄姉は不要です。弟妹の利用申請書の備考欄に「就労証明書は弟（または妹）〇〇に添付」と記載してください。",
+  "capacity": "千束こどもクラブ　40、東泉こどもクラブ　50、東浅草こどもクラブ　60、浅草橋こどもクラブ　125、竹町こどもクラブ　60、池之端こどもクラブ　50、谷中こどもクラブ　70、松が谷こどもクラブ　45、松葉こどもクラブ　95、下谷こどもクラブ　110、浅草こどもクラブ　40、寿こどもクラブ　64、寿第２こどもクラブ　55、千束小学校こどもクラブ　36、竜泉こどもクラブ　105、富士こどもクラブ　55、北上野こどもクラブ　50、田原こどもクラブ　40、金竜こどもクラブ　65、今戸こどもクラブ　50、石浜こどもクラブ　80、蔵前こどもクラブ　80、根岸こどもクラブ　50、入谷こどもクラブ　45、アスク浅草橋こどもクラブ40、トレジャー☆キッズクラブ元浅草校　50、キッズクラブ蔵前　40、リックキッズ 学童クラブ松が谷34",
+  "class": 1,
+  "contact": {
+    "contactAddress": "台東区東上野4-5-6",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "児童保育課放課後対策担当",
+    "contactPhone": "03-5246-1235",
+    "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=150300",
+    "zipCode": "1108615"
+  },
+  "cost": null,
+  "costConditions": "育成料　月額4,000円（※延長育成料は別途月額1,000円）\nおやつ代　月額2,000円",
+  "description": "こどもクラブは、保護者が就労などにより、昼間家庭にいない小学校に就学しているお子さんに対し、適切な遊びおよび生活の場を与え、児童の健全な育成および保護者の就労と子育ての両立支援を図ることを目的としています。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "日曜日・祝日・年末年始（12月29日～1月3日）",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "千束こどもクラブ　千束３－２０－６、東泉こどもクラブ　三ノ輪１－２３－９、東浅草こどもクラブ　東浅草２－２７－１９、浅草橋こどもクラブ　浅草橋５－１－３５、竹町こどもクラブ　台東３－２５－４、池之端こどもクラブ　池之端２－３－３、谷中こどもクラブ　谷中５－６－５、松が谷こどもクラブ　松が谷４－１５－１１、松葉こどもクラブ　松が谷１－１３－１６、下谷こどもクラブ　下谷３－１－１４、浅草こどもクラブ　花川戸１－１４－２１、寿こどもクラブ　１－４－５、寿第２こどもクラブ　１－４－５、千束小学校こどもクラブ　浅草４－２４－１１、竜泉こどもクラブ　竜泉２－１０－2、富士こどもクラブ　浅草４－４８－９、北上野こどもクラブ　北上野２－１５－６、田原こどもクラブ　雷門１－４－４、金竜こどもクラブ　千束１－９－１４、今戸こどもクラブ　今戸１－３－６、石浜こどもクラブ　清川１－１４－２１、蔵前こどもクラブ　蔵前４－１９－６、根岸こどもクラブ　根岸３－９－２、入谷こどもクラブ　入谷１－１6－９、アスク浅草橋こどもクラブ　浅草橋３－２６－３、トレジャー☆キッズクラブ元浅草校　元浅草１－８－７、キッズクラブ蔵前　蔵前３－１－１１、リックキッズ 学童クラブ松が谷　松が谷２－３１－９",
+    "implementationName": "千束こどもクラブ、東泉こどもクラブ、東浅草こどもクラブ、浅草橋こどもクラブ、竹町こどもクラブ、池之端こどもクラブ、谷中こどもクラブ、松が谷こどもクラブ、松葉こどもクラブ、下谷こどもクラブ、浅草こどもクラブ、寿こどもクラブ、寿第２こどもクラブ、千束小学校こどもクラブ、竜泉こどもクラブ、富士こどもクラブ、北上野こどもクラブ、田原こどもクラブ、金竜こどもクラブ、今戸こどもクラブ、石浜こどもクラブ、蔵前こどもクラブ、根岸こどもクラブ、入谷こどもクラブ、アスク浅草橋こどもクラブ、トレジャー☆キッズクラブ元浅草校、キッズクラブ蔵前、リックキッズ 学童クラブ松が谷"
+  },
+  "institutionName": {
+    "canonicalName": "放課後児童クラブ",
+    "shortName": "こどもクラブの利用申請"
+  },
+  "localGovernmentLink": {
+    "title": "こどもクラブの利用申請について",
+    "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/gakkou_houkago/kodomoclub/riyoshinsei.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "台東区"
+  },
+  "procedureCounter": "第1希望の各こどもクラブ",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "利用申請書の配布場所\n各こどもクラブ、児童館、台東区教育委員会児童保育課放課後対策担当 、台東区ホームページ「申請書ダウンロードサービス」;https://www.city.taito.lg.jp/benri/download/jidohoiku/kodomoclub.html\n申請の受付場所・時間\n受付場所　 第1希望の各こどもクラブ　\n受付時間　 月曜日から土曜日　午前9時30分から午後6時まで（日曜・祝日・年末年始12月29日から1月3日を除く）\n　　　※民設民営こどもクラブは午前10時30分から受付となります。",
+  "procedurePeriod": {
+    "conditions": "4月1日利用開始を除く年度途中の利用申請は、年間を通じて受け付けています。\n\n各月の申請締切日等は次のとおりです。\n|申請締切日|利用開始日|\n|:----|:----|\n|利用希望月の前月10日締切|翌月1日から利用開始|\n",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第2項",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "「令和6年度こどもクラブ利用案内（年度途中利用）」（PDF：1",
+      "uri": "https://www.city.taito.lg.jp/benri/download/jidohoiku/kodomoclub.html"
+    },
+    {
+      "title": "「申請書ダウンロードサービス」",
+      "uri": "https://logoform.jp/form/sQhE/400322"
+    },
+    {
+      "title": "「令和6年度こどもクラブ利用案内（4月1日用）」（PDF：1",
+      "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/gakkou_houkago/kodomoclub/riyoshinsei.files/R6riyouannai.pdf"
+    },
+    {
+      "title": "「こどもクラブ（学童保育所）一覧」",
+      "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/gakkou_houkago/kodomoclub/ichiran.html"
+    },
+    {
+      "title": "808KB）",
+      "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/gakkou_houkago/kodomoclub/riyoshinsei.files/R6-shinsa.pdf"
+    },
+    {
+      "title": "「令和6年度こどもクラブ空き状況（令和6年6月1日現在）」（PDF：141KB）",
+      "uri": "https://logoform.jp/form/sQhE/400314"
+    },
+    {
+      "title": "872KB）",
+      "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/gakkou_houkago/kodomoclub/riyoshinsei.files/R6-riyouannaizuiji_3.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "こどもクラブは、保護者が就労などにより、昼間家庭にいない小学校に就学しているお子さんに対し、適切な遊びおよび生活の場を与え、児童の健全な育成および保護者の就労と子育ての両立支援を図ることを目的としています。",
+  "support": {
+    "description": "台東区こどもクラブ利用",
+    "materiallySupport": "台東区こどもクラブ利用",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "005"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "台東区内に居住する小学生で、放課後に保育する保護者がいない児童"
+  },
+  "updateDate": "2024-06-03",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "学校登校日：放課後～\n学校休業日（土曜日/春・夏・冬休み等）：8時～\n終了時刻：18時まで（延長19時まで）",
+    "fromHM": null,
+    "toHM": null
+  }
+}

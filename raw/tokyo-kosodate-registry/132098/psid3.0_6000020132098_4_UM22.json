@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健所保健予防課母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+4+UM22"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健所保健予防課母子保健係",
+    "contactPhone": "042-725-5471",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "多胎児を育てているご家庭に対して、乳幼児健診や予防接種などの母子保健サービス、及び多胎児家庭を対象とした交流会等へお出かけする際にご利用いただけるタクシー利用ができる券を配布します。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関する金銭的支援",
+    "shortName": "多胎児家庭支援事業（移動経費補助）"
+  },
+  "localGovernmentLink": {
+    "title": "多胎児家庭支援事業",
+    "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/8/8709.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "ご案内を郵送しますので、面接の申込をしてください。申込後、日程調整のうえ、保健師等と面接をします。面接終了後、手渡しまたは郵送でタクシー利用ができる券をお渡しします。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "町田市では、妊娠中の体への負担と経済的な負担を軽減し、健やかな出産を支援するために、妊婦タクシー利用券をお渡しています。妊婦さんが産婦人科への通院や外出をする際にご利用いただけます。",
+  "support": {
+    "description": "1世帯につき、0歳、1歳、2歳時に各1回、2万4千円分のタクシー利用ができる券をお渡しします。",
+    "materiallySupport": "1世帯につき、0歳、1歳、2歳時に各1回、2万4千円分のタクシー利用ができる券をお渡しします。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": "市内在住で、これから0歳、1歳、2歳の誕生日を迎える多胎児と同居し、養育している世帯",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "市内在住で、これから0歳、1歳、2歳の誕生日を迎える多胎児と同居し、養育している世帯"
+  },
+  "updateDate": "2023-07-25",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

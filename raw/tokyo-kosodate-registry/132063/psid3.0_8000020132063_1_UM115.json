@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "132063;府中市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子ども家庭支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132063",
+    "psid": "psid3.0+8000020132063+1+UM115"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部子ども家庭支援課",
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "出産・子育てなどの相談先\n最終更新日：2023年6月30日\n　出産・子育てなどの不安や悩みを相談できる相談先を掲載しています。\n　ひとりで悩まず、まずはご相談ください。\n\n相談内容\n子育ての不安や悩み\nからだやこころの発達などの悩み\n妊娠中からのお母さんと子どもの健康\n非行やいじめの悩み\n不登校やひきこもりの悩み\n児童虐待や子どもの人権\n子ども（自分）の悩み\n配偶者などの暴力の悩み\n仕事に関する悩み\n相談先一覧\nhttps://www.city.fuchu.tokyo.jp/kosodate/shussan/sodan/soudansaki.html\nオープンデータ\n出産・子育てなどの相談先（令和4年7月1日現在） （Excel：22KB）;https://www.city.fuchu.tokyo.jp/kosodate/shussan/sodan/soudansaki.files/fuc21b03ccr01childbirth_child_rearing.xlsx\n\nオープンデータの取扱い\nhttps://www.city.fuchu.tokyo.jp/kosodate/shussan/sodan/soudansaki.images/CC-BY.png\nCC-BY\n本市が公開するオープンデータは、「クリエイティブ・コモンズ・ライセンス国際4.0」の下もとに提供します。また、ライセンスは「CC-BY（表示）」とします。\nデータを利用する場合は、府中市のデータを使用している旨を表示していただければ、自由に利用することができます。\nなお、この取扱いは対象データのみに適用されます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関する相談窓口一覧",
+    "shortName": "子育てに関する相談窓口一覧"
+  },
+  "localGovernmentLink": {
+    "title": "出産・子育てなどの相談先",
+    "uri": "https://www.city.fuchu.tokyo.jp/kosodate/shussan/sodan/soudansaki.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "府中市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "オンライン助産師相談 Online Consultation by midwives（外部サイト）",
+      "uri": "https://coubic.com/jmat/834046"
+    },
+    {
+      "title": "出産・子育てなどの相談先（令和4年7月1日現在） （Excel：22KB）",
+      "uri": "https://www.city.fuchu.tokyo.jp/kosodate/shussan/sodan/soudansaki.files/fuc21b03ccr01childbirth_child_rearing.xlsx"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "府中市内の子育てに関する相談窓口の一覧です。",
+  "support": {
+    "description": "相談内容\n子育ての不安や悩み\nからだやこころの発達などの悩み\n妊娠中からのお母さんと子どもの健康\n非行やいじめの悩み\n不登校やひきこもりの悩み\n児童虐待や子どもの人権\n子ども（自分）の悩み\n配偶者などの暴力の悩み\n仕事に関する悩み\n相談先一覧\nhttps://www.city.fuchu.tokyo.jp/kosodate/shussan/sodan/soudansaki.html",
+    "materiallySupport": "相談内容\n子育ての不安や悩み\nからだやこころの発達などの悩み\n妊娠中からのお母さんと子どもの健康\n非行やいじめの悩み\n不登校やひきこもりの悩み\n児童虐待や子どもの人権\n子ども（自分）の悩み\n配偶者などの暴力の悩み\n仕事に関する悩み\n相談先一覧\nhttps://www.city.fuchu.tokyo.jp/kosodate/shussan/sodan/soudansaki.html",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2023-06-30",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

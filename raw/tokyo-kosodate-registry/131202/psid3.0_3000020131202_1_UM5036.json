@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131202;練馬区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "地域文化部　協働推進課　協働推進担当係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020131202",
+    "psid": "psid3.0+3000020131202+1+UM5036"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "地域文化部　協働推進課　協働推進担当係",
+    "contactPhone": "電話：03-5984-1247",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "こども食堂は、区内のNPO法人やボランティア団体等が運営しています。\n区は、区内こども食堂の一覧を掲載したマップを作成をしています。\n活動内容、活動日、参加申込方法などの詳細は、各団体へ直接お問い合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "こども食堂",
+    "shortName": "こども食堂"
+  },
+  "localGovernmentLink": {
+    "title": null,
+    "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/oshirase/map.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/03/07",
+    "updater": "練馬区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": null,
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/oshirase/map.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "「こども食堂」とは、こどもが一人でも行ける無料または低額の食堂です。こども食堂は、生活に困窮する子育て世帯への支援だけでなく、虐待の防止のための見守りや、地域の交流、こどもへの多様な経験の提供など様々な役割を担っており、国としてもこの取組を支援しています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

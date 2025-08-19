@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "132241;多摩市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "障害福祉課 障害福祉係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132241",
+    "psid": "psid3.0+3000020132241+1+UM63"
+  },
+  "belongings": "診断書（所定様式）\n本人の銀行口座のわかるもの\nマイナンバーに関するもの",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都多摩市関戸六丁目12番地1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "障害福祉課 障害福祉係",
+    "contactPhone": "042-338-6903",
+    "contactUrl": null,
+    "zipCode": "2068666"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "障がいのある方を対象とした手当・助成制度\n\n障がいのある方を対象とした手当・助成制度のご案内です。\n\n手当・助成一覧\n障害児福祉手当\n対象者\n重度の障害があるため、日常生活に常時介護が必要な20歳未満の方\n\n※各種手帳を取得していなくても可。\n\n※所得制限あり\n\n※障害年金受給者または一部の施設入所者を除く\n\n手当額・助成内容\n月額16,100円（令和7年4月分から）\n\n※2月・5月・8月・11月に前月までの3ヶ月分を銀行口座振込により受給できます。\n\n申請方法\n1～3をご持参のうえ障害福祉課へ　※申請書類に基づき認定審査が行われます。\n\n診断書（所定様式）\n本人の銀行口座のわかるもの\nマイナンバーに関するもの\nマイナンバーの利用について【障害福祉課】;https://www.city.tama.lg.jp/kenkofukushi/1008237/shoigai/oshirase/1003039.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "障害児福祉手当",
+    "shortName": "障害児福祉手当"
+  },
+  "localGovernmentLink": {
+    "title": "障がいのある方を対象とした手当・助成制度",
+    "uri": "https://www.city.tama.lg.jp/kenkofukushi/1008237/shoigai/teate/1003103.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "多摩市"
+  },
+  "procedureCounter": "障害福祉課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請方法\n1～3をご持参のうえ障害福祉課へ　※申請書類に基づき認定審査が行われます。\n\n1.診断書（所定様式）\n2.本人の銀行口座のわかるもの\n3.マイナンバーに関するもの\n4.マイナンバーの利用について【障害福祉課】;https://www.city.tama.lg.jp/kenkofukushi/1008237/shoigai/oshirase/1003039.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第3章",
+    "regulationName": "特別児童扶養手当等の支給に関する法律"
+  },
+  "relatedLink": [
+    {
+      "title": "マイナンバーの利用について【障害福祉課】",
+      "uri": "https://www.city.tama.lg.jp/kenkofukushi/1008237/shoigai/oshirase/1003039.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "身体または精神に重度の障がいのある20歳未満の方で、日常生活において常時介護を必要とする方に対し、手当が支給されます。",
+  "support": {
+    "description": "手当額・助成内容\n月額16,100円（令和7年4月分から）\n\n※2月・5月・8月・11月に前月までの3ヶ月分を銀行口座振込により受給できます。",
+    "materiallySupport": null,
+    "monetarySupport": "手当額・助成内容\n月額15,690円（令和6年4月分から）\n\n※2月・5月・8月・11月に前月までの3ヶ月分を銀行口座振込により受給できます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "重度の障害があるため、日常生活に常時介護が必要な20歳未満の方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "重度の障害があるため、日常生活に常時介護が必要な20歳未満の方\n\n※各種手帳を取得していなくても可。\n\n※所得制限あり\n\n※障害年金受給者または一部の施設入所者を除く\n\n※聴覚障がい者で補聴器を使用している方は対象とならない場合あり"
+  },
+  "updateDate": "2023-03-19",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

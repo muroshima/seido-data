@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132195;狛江市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子ども発達支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132195",
+    "psid": "psid3.0+8000020132195+1+UM87"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子ども発達支援課",
+    "contactPhone": "03-5761-9012",
+    "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,105100,html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "基本的には午前７時から午後７時までは児童一人１時間あたり700円、それ以外の時間や土日祝日、年末年始は800円となります。",
+  "description": "ファミリー・サポート・センター\n　地域で育児の援助を受けたい方（利用会員）と協力したい方（サポート会員）が会員となり、育児について助け合うファミリー・サポート・センター事業を行っています。　\n\n援助活動内容\n保育施設までの送迎を行うこと。\n保育施設の保育開始前や終了後、子どもを預かること。\n学童保育終了後や学校の放課後に子どもを預かること。\n冠婚葬祭や他の子どもの学校行事の際、子どもを預かること。\n買い物等の外出の際、子どもを預かること。\n会員の登録\n　会員になるためには、説明会（サポート会員・利用会員とも）や講習会（サポート会員のみ）の受講が必要になります。会員登録を希望される方、またはこの事業に興味をお持ちの方は、センターまでご連絡またはお訪ねください。説明会の資料を差し上げます。\n　サポート会員は18歳以上の方、利用会員は生後57日から小学校在学のお子さんがいらっしゃる市内在住・在勤の方が対象になります。\n\n報酬\n　援助活動は、有償のボランティア活動になります。利用会員は、時間に応じてサポート会員に報酬を直接お支払いいただくことになります。基本的には午前７時から午後７時までは児童一人１時間あたり700円、それ以外の時間や土日祝日、年末年始は800円となります。\n\n※この事業は、市から社会福祉法人雲柱社に委託して実施しています。\n\n　詳細は、ファミリー・サポート・センター【電話番号】03-3480-1587へ。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "ファミリー・サポート・センター",
+    "shortName": "ファミリー・サポート・センター"
+  },
+  "localGovernmentLink": {
+    "title": "ファミリー・サポート・センター",
+    "uri": "https://www.city.komae.tokyo.jp/index.cfm/43,4572,331,2053,html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "狛江市"
+  },
+  "procedureCounter": "ファミリー・サポート・センター【電話番号】03-3480-1587",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "会員になるためには、説明会（サポート会員・利用会員とも）や講習会（サポート会員のみ）の受講が必要になります。会員登録を希望される方、またはこの事業に興味をお持ちの方は、センターまでご連絡またはお訪ねください。説明会の資料を差し上げます。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第14項、第21条の9、第59条第12号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "狛江市のファミリー・サポート・センターは、子育ての援助を受けたい人と援助を行いたい人が会員登録をし、サポート会員が利用会員に対してさまざまな育児の手助けをする事業です。",
+  "support": {
+    "description": "保育施設までの送迎を行うこと。\n保育施設の保育開始前や終了後、子どもを預かること。\n学童保育終了後や学校の放課後に子どもを預かること。\n冠婚葬祭や他の子どもの学校行事の際、子どもを預かること。\n買い物等の外出の際、子どもを預かること。",
+    "materiallySupport": "保育施設までの送迎を行うこと。\n保育施設の保育開始前や終了後、子どもを預かること。\n学童保育終了後や学校の放課後に子どもを預かること。\n冠婚葬祭や他の子どもの学校行事の際、子どもを預かること。\n買い物等の外出の際、子どもを預かること。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後57日から小学校在学のお子さん",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "サポート会員は18歳以上の方、利用会員は生後57日から小学校在学のお子さんがいらっしゃる市内在住・在勤の方が対象になります。"
+  },
+  "updateDate": "2020-06-26",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": "07:00",
+    "toHM": "19:00"
+  }
+}

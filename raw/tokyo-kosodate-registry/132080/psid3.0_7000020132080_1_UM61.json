@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132080;調布市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども生活部子ども家庭課,環境部ごみ対策課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020132080",
+    "psid": "psid3.0+7000020132080+1+UM61"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-499-6101,ファクス番号：042-368-9921",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども生活部子ども家庭課,環境部ごみ対策課",
+    "contactPhone": "042-481-7093,042-306-8781",
+    "contactUrl": "https://www.city.chofu.lg.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "粗大ごみ処理手数料の減免\n\n制度内容\n児童扶養手当および特別児童扶養手当を受けている世帯は申請により粗大ごみ処理手数料を減免いたします。\n\n手続方法\n粗大ごみ受付センターへ、電話(042-306-7731)またはインターネット「粗大ごみ受付センター」（外部リンク）;https://sodai.city.chofu.tokyo.jp/で排出の申込み後、下記の必要な書類を持参し、ごみ対策課(市役所2階　市民ロビー)窓口へお越しください。\n(注)粗大ごみ受付センターでは排出の予約のみ可能。必ず、窓口で手数料免除手続きを行ってください。\n\n申請に必要なもの\n児童扶養手当証書または特別児童扶養手当受給証明書",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自のひとり親の方への金銭的支援",
+    "shortName": "粗大ごみ処理手数料の減免"
+  },
+  "localGovernmentLink": {
+    "title": "粗大ごみ処理手数料の減免",
+    "uri": "https://www.city.chofu.lg.jp/050030/p029015.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "調布市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "手続方法\n\n粗大ごみ受付センターへ、電話(042-306-7731)またはインターネット「粗大ごみ受付センター」（外部リンク）;https://sodai.city.chofu.tokyo.jp/で排出の申込み後、下記の必要な書類を持参し、ごみ対策課(市役所2階　市民ロビー)窓口へお越しください。\n(注)粗大ごみ受付センターでは排出の予約のみ可能。必ず、窓口で手数料免除手続きを行ってください。\n\n申請に必要なもの\n児童扶養手当証書または特別児童扶養手当受給証明書",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "インターネット「粗大ごみ受付センター」（外部リンク）",
+      "uri": "https://sodai.city.chofu.tokyo.jp/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童扶養手当および特別児童扶養手当を受けている世帯は申請により粗大ごみ処理手数料を減免いたします。",
+  "support": {
+    "description": "児童扶養手当および特別児童扶養手当を受けている世帯は申請により粗大ごみ処理手数料を減免いたします。",
+    "materiallySupport": null,
+    "monetarySupport": "児童扶養手当および特別児童扶養手当を受けている世帯は申請により粗大ごみ処理手数料を減免いたします。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "児童扶養手当および特別児童扶養手当を受けている世帯"
+  },
+  "updateDate": "2023-04-12",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

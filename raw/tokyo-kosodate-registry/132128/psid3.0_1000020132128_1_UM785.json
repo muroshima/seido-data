@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132128;日野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども部子ども家庭支援センター地域支援係・相談援護係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132128",
+    "psid": "psid3.0+1000020132128+1+UM785"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都日野市神明1丁目13番地の2子ども包括支援センター2階",
+    "contactComment": "地域支援係　042-506-2151,相談援護係　042-506-2152",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども部子ども家庭支援センター地域支援係・相談援護係",
+    "contactPhone": "042-506-2151,042-506-2152",
+    "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120300",
+    "zipCode": "1910016"
+  },
+  "cost": "550",
+  "costConditions": "1時間につき550円。生活保護世帯・市都民税非課税世帯は免除。",
+  "description": "妊産婦サポート事業\nページID1003909　 更新日 令和6年5月9日\n\n訪問支援員(ママサポさん）がご自宅を訪問し、家事支援、育児の介助を行うことにより、家庭での安定した養育環境を整えることを目的とする事業です。\n\n内容\n居室等の簡単な清掃や整理整頓\n沐浴の介助\n食事作りや後片付け\nお買い物\n衣類の洗濯や取り込み\n授乳やおむつ交換等のお子様のお世話や見守り\n病院やお出かけ先への同行\n注意点\n※上のお子様の送迎、お子様のみの保育（預かり）、大掃除などは対象外となります。\n\n※「多胎児家庭サポーター助成事業」との併用はできません。\n\n対象者\n市内在住の妊娠が判明して母子健康手帳を取得してから、出産後1年未満の市民\n\n訪問実施時間など\n月曜から土曜（祝日及び12月29日から1月3日を除く）の、午前8時から午後7時まで\n\n利用限度\n期間内に合計60時間まで（産前は最大24時間まで）\n\n1回の利用は1時間以上4時間以内\n\n自己負担額\n1時間につき550円。生活保護世帯・市都民税非課税世帯は免除。\n\n※免除対象世帯の方は、免除申請書を子ども家庭支援センター（みらいく）に提出ください。申請書提出の際に免除要件を証明する書類も併せて提出してください。\n\n申し込み方法\n電話で直接、NPO法人市民サポートセンター日野「高幡支所」に申し込む。\n\n受付時間　月曜日から金曜日　午前9時から午後4時30分（祝日及び、年末年始は除く）\n\n申し込み先\nNPO法人市民サポートセンター日野「高幡支所」\n\n電話　042-599-7626（妊産婦サポート事業専用電話）\n\n所在地　日野市高幡1011　日野市立福祉支援センター内",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "産前産後ヘルパーの派遣",
+    "shortName": "妊産婦サポート事業"
+  },
+  "localGovernmentLink": {
+    "title": "妊産婦サポート事業",
+    "uri": "https://www.city.hino.lg.jp/kosodate/ninshin/care/1003909.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "日野市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申し込み方法\n電話で直接、NPO法人市民サポートセンター日野「高幡支所」に申し込む。\n\n受付時間　月曜日から金曜日　午前9時から午後4時30分（祝日及び、年末年始は除く）\n\n※免除対象世帯の方は、免除申請書を子ども家庭支援センター（みらいく）に提出ください。申請書提出の際に免除要件を証明する書類も併せて提出してください。\n申し込み先\nNPO法人市民サポートセンター日野「高幡支所」\n\n電話　042-599-7626（妊産婦サポート事業専用電話）\n\n所在地　日野市高幡1011　日野市立福祉支援センター内",
+  "procedurePeriod": {
+    "conditions": "月曜日から金曜日　午前9時から午後4時30分（祝日及び、年末年始は除く）",
+    "fromHM": "09:00",
+    "fromYMD": null,
+    "toHM": "16:30",
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "産前産後の体調不良などにより、家事や育児が困難なご家庭に、日常的な掃除・洗濯・食事の支度などの家事や、もく浴・おむつ交換・きょうだいのお世話などの育児を手伝うホームヘルパーを派遣します。",
+  "support": {
+    "description": "訪問支援員(ママサポさん）がご自宅を訪問し、家事支援、育児の介助を行うことにより、家庭での安定した養育環境を整えることを目的とする事業です。\n\n内容\n居室等の簡単な清掃や整理整頓\n沐浴の介助\n食事作りや後片付け\nお買い物\n衣類の洗濯や取り込み\n授乳やおむつ交換等のお子様のお世話や見守り\n病院やお出かけ先への同行",
+    "materiallySupport": "訪問支援員(ママサポさん）がご自宅を訪問し、家事支援、育児の介助を行うことにより、家庭での安定した養育環境を整えることを目的とする事業です。\n\n内容\n居室等の簡単な清掃や整理整頓\n沐浴の介助\n食事作りや後片付け\nお買い物\n衣類の洗濯や取り込み\n授乳やおむつ交換等のお子様のお世話や見守り\n病院やお出かけ先への同行",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "市内在住の妊娠が判明して母子健康手帳を取得してから、出産後1年未満の市民"
+  },
+  "updateDate": "2024-05-09",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜から土曜（祝日及び12月29日から1月3日を除く）の、午前8時から午後7時まで\n\n利用限度\n期間内に合計60時間まで（産前は最大24時間まで）\n\n1回の利用は1時間以上4時間以内",
+    "fromHM": "08:00",
+    "toHM": "19:00"
+  }
+}

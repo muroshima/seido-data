@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "133035;瑞穂町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部 健康課 健康係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133035",
+    "psid": "psid3.0+1000020133035+1+UM66"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡瑞穂町大字石畑1970番地",
+    "contactComment": "受付時間 平日の午前8時30分から午後5時まで",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部 健康課 健康係",
+    "contactPhone": "042-557-5072",
+    "contactUrl": "https://www.town.mizuho.tokyo.jp/inquiry/mailform130301.html?PAGE_NO=1317",
+    "zipCode": "1901211"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "大気汚染医療費助成\n\n東京都では気管支ぜん息などの疾病にかかっている方に対し、その医療費の助成を行っています。\n申請には一定の要件を満たしている必要があります。\n詳細は「東京都大気汚染医療費助成制度のご案内」（外部リンク）をお読みください。;https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/index.html\n\n対象\n\n新規申請\n以下のいずれにも該当する方\n\n・18歳未満（18歳の誕生日が属する月の末日までの間にある者を含む）\n・都内に引き続き1年（3歳未満は6か月）以上住所を有する\n・健康保険等に加入\n・気管支ぜん息、慢性気管支炎、ぜん息性気管支炎、肺気しゅ、およびこれらの続発症を含む疾病にかかっている\n\n更新申請\n以下のいずれにも該当する方\n\n・大気汚染医療費助成制度の認定を受け、有効期間内にある\n・東京都内に引き続き住所を有する\n・健康保険等に引き続き加入\n・喫煙していない\n・気管支ぜん息、慢性気管支炎、ぜん息性気管支炎、肺気しゅ、およびこれらの続発症を含む疾病にかかっている（18歳以上の方は気管支ぜん息のみ対象）\n\n※誕生日が平成9年4月2日以降で現在（更新前）の医療券の認定期間満了日が18歳の誕生月末の方は、更新ができませんのでご注意ください。\n\n助成の内容\n生年月日が平成9年4月1日以前の方は、認定された疾病に対する保険診療の自己負担額のうち、月額6,000円を超えた額を助成します。\n\n18歳未満の方は、18歳の誕生日の属する月の末日まで、認定された疾病に対する保険診療の自己負担額全額を助成します。\n\n手続き\n\n新規申請\n保健センターで申請書類をお渡しします。;https://www.town.mizuho.tokyo.jp/shisetsu/009/p004155.html\n添付書類等はその時にご説明しますので、後日提出をお願いします。\n\n更新申請\n申請に必要な書類は、有効期間満了の約2か月前に東京都から送付されます。\n有効期間満了の約1か月前までに保健センターで手続きをしてください。;https://www.town.mizuho.tokyo.jp/shisetsu/009/p004155.html\n\nもも色の医療券をお持ちの方は、有効期間満了までに更新手続きを行わない場合、資格喪失となり再度の認定は受けられなくなります。\n\nその他\n住所や氏名等に変更があった場合、医療券を紛失してしまった場合は保健センターへお問い合わせください。;https://www.town.mizuho.tokyo.jp/shisetsu/009/p004155.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の医療費助成制度（ぜん息など）",
+    "shortName": "大気汚染医療費助成"
+  },
+  "localGovernmentLink": {
+    "title": "大気汚染医療費助成",
+    "uri": "https://www.town.mizuho.tokyo.jp/kenkofukushi/004/004/p001317.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "瑞穂町"
+  },
+  "procedureCounter": "保健センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "新規申請\n保健センターで申請書類をお渡しします。\n添付書類等はその時にご説明しますので、後日提出をお願いします。\n\n更新申請\n申請に必要な書類は、有効期間満了の約2か月前に東京都から送付されます。\n有効期間満了の約1か月前までに保健センターで手続きをしてください。\n\nもも色の医療券をお持ちの方は、有効期間満了までに更新手続きを行わない場合、資格喪失となり再度の認定は受けられなくなります。\n\nその他\n住所や氏名等に変更があった場合、医療券を紛失してしまった場合は保健センターへお問い合わせください。;https://www.town.mizuho.tokyo.jp/shisetsu/009/p004155.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "保健センター",
+      "uri": "https://www.town.mizuho.tokyo.jp/shisetsu/009/p004155.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "大気汚染の影響を受けると推定される疾病（気管支ぜん息など）にかかった方に対し、一定の要件を満たす場合に、医療費の助成をしています。）",
+  "support": {
+    "description": "生年月日が平成9年4月1日以前の方は、認定された疾病に対する保険診療の自己負担額のうち、月額6,000円を超えた額を助成します。\n\n18歳未満の方は、18歳の誕生日の属する月の末日まで、認定された疾病に対する保険診療の自己負担額全額を助成します。",
+    "materiallySupport": null,
+    "monetarySupport": "生年月日が平成9年4月1日以前の方は、認定された疾病に対する保険診療の自己負担額のうち、月額6,000円を超えた額を助成します。\n\n18歳未満の方は、18歳の誕生日の属する月の末日まで、認定された疾病に対する保険診療の自己負担額全額を助成します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "078",
+      "079"
+    ],
+    "targetCode": [
+      "090",
+      "092"
+    ]
+  },
+  "target": {
+    "conditions": "新規申請\n以下のいずれにも該当する方\n\n18歳未満（18歳の誕生日が属する月の末日までの間にある者を含む）\n都内に引き続き1年（3歳未満は6か月）以上住所を有する\n健康保険等に加入\n気管支ぜん息、慢性気管支炎、ぜん息性気管支炎、肺気しゅ、およびこれらの続発症を含む疾病にかかっている\n\n更新申請\n以下のいずれにも該当する方\n\n大気汚染医療費助成制度の認定を受け、有効期間内にある\n東京都内に引き続き住所を有する\n健康保険等に引き続き加入\n喫煙していない\n気管支ぜん息、慢性気管支炎、ぜん息性気管支炎、肺気しゅ、およびこれらの続発症を含む疾病にかかっている（18歳以上の方は気管支ぜん息のみ対象）\n\n※誕生日が平成9年4月2日以降で現在（更新前）の医療券の認定期間満了日が18歳の誕生月末の方は、更新ができませんのでご注意ください。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "新規申請\n以下のいずれにも該当する方\n\n18歳未満（18歳の誕生日が属する月の末日までの間にある者を含む）\n都内に引き続き1年（3歳未満は6か月）以上住所を有する\n健康保険等に加入\n気管支ぜん息、慢性気管支炎、ぜん息性気管支炎、肺気しゅ、およびこれらの続発症を含む疾病にかかっている\n\n更新申請\n以下のいずれにも該当する方\n\n大気汚染医療費助成制度の認定を受け、有効期間内にある\n東京都内に引き続き住所を有する\n健康保険等に引き続き加入\n喫煙していない\n気管支ぜん息、慢性気管支炎、ぜん息性気管支炎、肺気しゅ、およびこれらの続発症を含む疾病にかかっている（18歳以上の方は気管支ぜん息のみ対象）\n\n※誕生日が平成9年4月2日以降で現在（更新前）の医療券の認定期間満了日が18歳の誕生月末の方は、更新ができませんのでご注意ください。"
+  },
+  "updateDate": "2023-07-10",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

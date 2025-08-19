@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "130001;東京都",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子供政策連携室 企画調整部 企画調整課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020130001",
+    "psid": "psid3.0+8000020130001+2+UM120"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "知っていましたか？\n子供が転ぶまでの時間はたった0.5秒。\n保護者がずっと見守っていたとしても、あっという間に起こる転倒を防ぐことは難しいでしょう。\n子供を不慮の事故から守るためには、安心して元気いっぱいに過ごせる「環境づくり」が大切です。\nそこで、東京都では関係各局が連携して取り組む「東京都こどもセーフティプロジェクト」を通して、子供が事故から守られ、思い切りチャレンジできる環境づくりを推進していきます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関するその他のこと",
+    "shortName": "東京都こどもセーフティプロジェクト"
+  },
+  "localGovernmentLink": {
+    "title": "東京都こどもセーフティプロジェクト",
+    "uri": "https://kodomosafetypj.metro.tokyo.lg.jp/"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-11-15",
+    "updater": "東京都"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子供の成長や行動に合わせて「危ないところを変える」という環境づくりの重要性や、都における事故予防の施策・成果等を発信しています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

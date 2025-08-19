@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131075;墨田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "学務課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131075",
+    "psid": "psid3.0+6000020131075+1+UM95"
+  },
+  "belongings": null,
+  "capacity": "各クラスの定員は35人です。",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "特別な支援を要するお子さんの入園相談ほか\n教育委員会事務局　学務課　事務担当\n電話：03-5608-6303（直通）",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "学務課",
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "令和元年10月1日から幼児教育・保育の無償化に伴い、保育料は無償（0円）となっています。\n※保育料の無償化に伴い、入園料（1,500円）を廃止しました。\nただし、園服、保護者会会費、教材費などの費用はかかります。詳しくは、各幼稚園にお問い合わせください。\nまた、生活保護を受けている世帯を対象に、教材費等の費用の一部を補助しておりますので、対象の方は、教育委員会事務局学務課事務担当までご相談ください。",
+  "description": "https://www.city.sumida.lg.jp/sisetu_info/kosodate/youtien/kuritu_youti.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "土曜日・日曜日・祝祭日・開園記念日\n※夏季・冬季・春季の長期休園期間があります。",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "区立幼稚園一覧;https://www.city.sumida.lg.jp/sisetu_info/kosodate/youtien/kuritu_youti.html",
+    "implementationName": "区立幼稚園一覧;https://www.city.sumida.lg.jp/sisetu_info/kosodate/youtien/kuritu_youti.html"
+  },
+  "institutionName": {
+    "canonicalName": "新制度の幼稚園・認定こども園（幼稚園枠）一覧",
+    "shortName": "区立幼稚園"
+  },
+  "localGovernmentLink": {
+    "title": "区立幼稚園",
+    "uri": "https://www.city.sumida.lg.jp/sisetu_info/kosodate/youtien/kuritu_youti.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "墨田区"
+  },
+  "procedureCounter": "子ども・子育て支援部　子ども施設課　入園係\n電話：03-5608-6152（直通）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "次年度4月入園のお子さんの募集（4歳児・2年保育）は、毎年11月頃に行います。\n毎年10月頃の墨田区のお知らせやホームページで募集をお知らせします。\n年度途中での入園（4歳児・5歳児）については、空きのある幼稚園で随時受付しています。\n※空き状況は、入園を希望する区立幼稚園へ直接お問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "幼稚園には公立の幼稚園と私立の幼稚園があります。\n私立幼稚園には、新制度による給付を受ける幼稚園と、新制度には移行せず、私学助成を受けて運営している幼稚園があります。\n以下は、墨田区内の公立幼稚園と、新制度による給付を受ける幼稚園、および、認定こども園の幼稚園枠の一覧です。",
+  "support": {
+    "description": "区立幼稚園は6園あり、2年保育を行っています。\n4歳児・5歳児クラスの各1クラスで、各クラスの定員は35人です。\n※八広幼稚園は令和6年度4歳児学級を編制していないため、5歳児クラスのみとなります。",
+    "materiallySupport": "区立幼稚園は6園あり、2年保育を行っています。\n4歳児・5歳児クラスの各1クラスで、各クラスの定員は35人です。\n※八広幼稚園は令和6年度4歳児学級を編制していないため、5歳児クラスのみとなります。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "4歳児から5歳児までの幼児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 4,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 5,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "4歳児から5歳児までの幼児"
+  },
+  "updateDate": "2023-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日、火曜日、木曜日、金曜日は、午前9時から午後2時まで\n水曜日は、午前9時から正午まで\n※幼稚園の行事がある時は、変更になることもあります。",
+    "fromHM": null,
+    "toHM": null
+  }
+}

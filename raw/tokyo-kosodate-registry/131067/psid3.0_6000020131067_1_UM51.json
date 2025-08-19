@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "131067;台東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "浅草保健相談センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131067",
+    "psid": "psid3.0+6000020131067+1+UM51"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "浅草保健相談センター",
+    "contactPhone": "03-3844-8171",
+    "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080700",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "1歳6か月児歯科健康診査の実施予定について\n郵送にてご案内しております日程の歯科健診につきましては、 全日実施予定 となっております。\nなお、今後の新型コロナウイルス感染症拡大の影響によっては、実施を延期する場合もございます。\n延期をする場合には、実施日の2開庁日前までに、現在ご覧いただいているホームページでご案内致しますので、来所する前に必ずご確認ください。\nご迷惑をお掛けし、大変申し訳ございません。何卒、ご理解、ご協力いただきますよう、よろしくお願い致します。\n\n3～4か月児健康診査について;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/kenkoushinsa/nyuyouji/3_4kaketsu_kenshin.html\n\n3歳児健康診査について;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/kenkoushinsa/nyuyouji/3saiji_kenshin.html\n\n対象\n区内在住の1歳6か月児\n※2歳のお誕生日を迎える前までお受けいただけます。\n\n内容\n内科・歯科健診、育児・栄養・歯科・子ども相談を行います。\n\n実施日時\n対象となる方に、原則として1歳6か月になる前の月の中旬頃に、内科健診の受診票と歯科健診の日程のご案内を郵送します。ただし、会場内が密とならないよう定員を設けている関係上、ご案内が前後する場合があります。予めご承知おきください。\n\n会場（歯科健診）\n浅草保健相談センター\n電話：03-3844-8171\n\n台東保健所\n電話：03-3847-9447\n\n※内科健診は、区内協力医療機関において実施します。 受診票と一緒に医療機関一覧を郵送いたします。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "対象となる方に、原則として1歳6か月になる前の月の中旬頃に、内科健診の受診票と歯科健診の日程のご案内を郵送します。ただし、会場内が密とならないよう定員を設けている関係上、ご案内が前後する場合があります。予めご承知おきください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "浅草保健相談センター,台東保健所"
+  },
+  "institutionName": {
+    "canonicalName": "1歳6か月児健康診査",
+    "shortName": "1歳6か月児健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "1歳6か月児健康診査",
+    "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/kenkoushinsa/nyuyouji/1sai6_kenshin.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "台東区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "対象となる方に、原則として1歳6か月になる前の月の中旬頃に、内科健診の受診票と歯科健診の日程のご案内を郵送します。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第12条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "3歳児健康診査について",
+      "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/kenkoushinsa/nyuyouji/3saiji_kenshin.html"
+    },
+    {
+      "title": "3～4か月児健康診査について",
+      "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/kenkoushinsa/nyuyouji/3_4kaketsu_kenshin.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "1歳6か月の頃は乳児期から幼児期に移行する大切な時期です。台東区では1歳6か月児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+  "support": {
+    "description": "内科・歯科健診、育児・栄養・歯科・子ども相談",
+    "materiallySupport": "内科・歯科健診、育児・栄養・歯科・子ども相談",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "区内在住の1歳6か月児\n※2歳のお誕生日を迎える前までお受けいただけます。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": 6
+    },
+    "lessThan": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住の1歳6か月児\n※2歳のお誕生日を迎える前までお受けいただけます。"
+  },
+  "updateDate": "2021-03-05",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "area": {
+    "areaCode": "131121;世田谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "世田谷区予防接種コールセンター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131121",
+    "psid": "psid3.0+1000020131121+15+UM54"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "世田谷区予防接種コールセンター",
+    "contactPhone": "03-5432-2437",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "長期にわたり療養を必要とする特定の疾病により、定期予防接種を受けることができなかったと認められる方は、法定年齢を過ぎていても定期予防接種を受けることができる場合があります。¥n対象者\n1.次に掲げる疾病にかかった方（やむを得ず定期接種を受けることができなかった場合に限る）\n（1）重症複合免疫不全症、無ガンマグロブリン血症、その他免疫の機能に支障を生じさせる重篤な疾病\n（2）白血病、再生不良性貧血、重症筋無力症、若年性間接リウマチ、全身性エリテマトーデス、潰瘍性大腸炎、ネフローゼ症候群、その他免疫の機能を抑制する治療を必要とする重篤な疾病\n（3）上記の（1）、（2）の疾病に準ずると認められるもの\n上記に該当する疾病の例は、「対象疾病一覧」のとおりです。ただし、これは「対象疾病一覧」に掲げる疾病にかかったことのある方又はかかっている方が、一律に予防接種不適当者であるということを意味するものでなく、予防接種実施の可否の判断は、あくまで予診を行う医師の判断によるものになります。\n2.臓器の移植を受けた後、免疫の機能を抑制する治療を受けた方（やむを得ず定期接種を受けることができなかった場合に限る）\n3.医学的知見に基づき1または2に準ずると認められる方¥n接種期間\n1.子どもの定期予防接種定期予防接種を受けることができなかった事情がなくなってから2年間\n　予防接種によって下記のとおり年齢制限があります。\n　・BCG：4歳に至るまで\n　・小児の肺炎球菌：6歳に至るまで\n　・Hib（インフルエンザ菌b型）：10歳に至るまで\n　・四種混合：15歳に至るまで\n　・五種混合：15歳に至るまで\n2.高齢者の肺炎球菌予防接種\n　予防接種を受けることができなくなった事情がなくなってから1年間¥n手続方法 \n1.理由書兼申請書の提出\n【様式】長期療養を必要とする疾病にかかった者等の定期接種に関する特例措置対象者該当理由書兼申請書（以下「申請書」という。）を作成し、下記送付先に提出する。\n申請書は主治医に渡し、記入を依頼してください。\n2.感染症対策課で申請書の内容を確認後、長期療養に該当することが認められた場合は接種予診票を送付する。\n3.指定医療機関で接種を受ける。（公費接種）\n〈注意〉\n・申請書の内容によっては認められないことがあります。\n・申請書の作成にかかる文書料は自己負担になります。¥n送付先\n〒154-0017\n東京都世田谷区世田谷4-24-1\n世田谷保健所　感染症対策課　予防接種担当宛¥n添付ファイル\n【様式】長期療養を必要とする疾病にかかった者等の定期接種に関する特例措置対象者該当理由書(ＰＤＦ形式 101キロバイト)\n総合支所業務案内　健康づくり課",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "子どもの定期予防接種定期予防接種を受けることができなかった事情がなくなってから2年間\n予防接種によって下記のとおり年齢制限があります。\n・BCG：4歳に至るまで\n・小児の肺炎球菌：6歳に至るまで\n・Hib（インフルエンザ菌b型）：10歳に至るまで\n・四種混合：15歳に至るまで\n・五種混合：15歳に至るまで",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "長期療養等のため定期予防接種を受けることができなかった方への接種"
+  },
+  "localGovernmentLink": {
+    "title": "長期療養等のため定期予防接種を受けることができなかった方へ",
+    "uri": "https://www.city.setagaya.lg.jp/mokuji/fukushi/003/004/d00182694.html"
+  },
+  "odInformation": {
+    "content": "変更",
+    "updateDate": "2025/03/04",
+    "updater": "世田谷区"
+  },
+  "procedureCounter": "世田谷保健所　感染症対策課　予防接種担当宛",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "手続方法 \n1.理由書兼申請書の提出\n【様式】長期療養を必要とする疾病にかかった者等の定期接種に関する特例措置対象者該当理由書兼申請書（以下「申請書」という。）を作成し、下記送付先に提出する。\n申請書は主治医に渡し、記入を依頼してください。\n2.感染症対策課で申請書の内容を確認後、長期療養に該当することが認められた場合は接種予診票を送付する。\n3.指定医療機関で接種を受ける。（公費接種）\n〈注意〉\n・申請書の内容によっては認められないことがあります。\n・申請書の作成にかかる文書料は自己負担になります。\n送付先\n〒154-0017\n東京都世田谷区世田谷4-24-1\n世田谷保健所　感染症対策課　予防接種担当宛",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）",
+    "regulationName": "予防接種法"
+  },
+  "relatedLink": [
+    {
+      "title": "世田谷保健所",
+      "uri": "https://www.city.setagaya.lg.jp/02013/18016.html"
+    },
+    {
+      "title": "【様式】長期療養を必要とする疾病にかかった者等の定期接種に関する特例措置対象者該当理由書",
+      "uri": "https://www.city.setagaya.lg.jp/documents/3091/1.pdf"
+    },
+    {
+      "title": "対象疾病一覧(ＰＤＦ形式 96キロバイト)",
+      "uri": "https://www.city.setagaya.lg.jp/documents/3091/2.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+  "support": {
+    "description": "長期にわたり療養を必要とする特定の疾病により、定期予防接種を受けることができなかったと認められる方は、法定年齢を過ぎていても定期予防接種を受けることができる場合があります。",
+    "materiallySupport": "長期にわたり療養を必要とする特定の疾病により、定期予防接種を受けることができなかったと認められる方は、法定年齢を過ぎていても定期予防接種を受けることができる場合があります。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象者\n1.次に掲げる疾病にかかった方（やむを得ず定期接種を受けることができなかった場合に限る）\n（1）重症複合免疫不全症、無ガンマグロブリン血症、その他免疫の機能に支障を生じさせる重篤な疾病\n（2）白血病、再生不良性貧血、重症筋無力症、若年性間接リウマチ、全身性エリテマトーデス、潰瘍性大腸炎、ネフローゼ症候群、その他免疫の機能を抑制する治療を必要とする重篤な疾病\n（3）上記の（1）、（2）の疾病に準ずると認められるもの\n上記に該当する疾病の例は、「対象疾病一覧」のとおりです。ただし、これは「対象疾病一覧」に掲げる疾病にかかったことのある方又はかかっている方が、一律に予防接種不適当者であるということを意味するものでなく、予防接種実施の可否の判断は、あくまで予診を行う医師の判断によるものになります。\n2.臓器の移植を受けた後、免疫の機能を抑制する治療を受けた方（やむを得ず定期接種を受けることができなかった場合に限る）\n3.医学的知見に基づき1または2に準ずると認められる方¥n接種期間\n子どもの定期予防接種定期予防接種を受けることができなかった事情がなくなってから2年間\n予防接種によって下記のとおり年齢制限があります。\n・BCG：4歳に至るまで\n・小児の肺炎球菌：6歳に至るまで\n・Hib（インフルエンザ菌b型）：10歳に至るまで\n・四種混合：15歳に至るまで\n・五種混合：15歳に至るまで"
+  },
+  "updateDate": "2024/04/17",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

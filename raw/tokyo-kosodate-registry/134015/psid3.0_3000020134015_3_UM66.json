@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "134015;八丈町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉健康課保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020134015",
+    "psid": "psid3.0+3000020134015+3+UM66"
+  },
+  "belongings": "・母子手帳の写しまたは医療機関にて発行の予防接種済証\n・領収書等支払ったこと及びその金額を確認できる書類",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都八丈島八丈町大賀郷2551番地2",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉健康課保健係",
+    "contactPhone": "04996-2-5570",
+    "contactUrl": null,
+    "zipCode": "1001498"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "島外医療機関へ通院される方への交通費一部助成（令和6年度）\n八丈町では、島内で治療することが困難で、やむを得ず島外の医療機関へ通院しなければならない方を対象に、交通費の一部を補助金として交付しています。令和６年度よりいくつかの変更があります。\n\n助成対象者（八丈町に住所を有する者）\n①　島内医師が島外の医療機関へ通院する必要があると認めたもの\n\n②　東京都難病医療費制度受給者及び、小児慢性疾患医療助成受給者\n\n③　身体・知的・精神の障害者手帳、自立支援医療受給者証（精神）認定者\n\n④　その他、町長が特に必要と認めたもの\n\n必要書類\n・申請書（役場窓口でお渡し）\n・島内医師証明書（もしくは障害手帳、難病受給者証　等）\n・島外医療機関領収書（通院した日程すべて）\n・往復の交通費領収書と搭乗日の確認ができる書類（付添者を含む）\n・島内医師証明書の領収書\n・印鑑（認印可）\n・振込先のわかるもの（未成年者は保護者の名義のもの）\n申請の流れ\n1.島内医療機関にて証明書を発行してもらう\nこの証明書は必ず上京前に発行してもらってください。\n事後での証明書発行はできません。\n（②、③の対象で、受給者証もしくは手帳のご病状での通院の場合、証明書不要です）\n\n2.島外の医療機関へ通院および入院し領収書などをもらう\n\n3.上記必要書類をお持ちの上、福祉健康課保健係にて申請してください。\n\n注意\n・年度内に複数回申請される場合は、同一の疾病等に限ります。別々の疾病等で複数回申請はできません。\n　また、複数回申請については裏面「補助回数」欄をご覧ください。\n・小児医療証等で領収書が出なかった場合、診療明細書等受診日と医療機関名、受診科がわかる書類をお持ちください。\n・令和６年度（令和６年４月１日～令和７年３月31日）受診分の申請期限は令和７年４月11日（金）です。申請漏れのないようご注意ください。\n・緊急ヘリ搬送患者は対象外です。\n・同年度内で助成対象区分は重複して申請できません。\n・他制度との重複はできませんので、ご加入の健康保険組合等で同様の助成制度がある方の本制度利用はご遠慮くださいますようお願いします。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の医療費助成制度",
+    "shortName": "島外医療機関へ通院される方への交通費一部助成（令和6年度）"
+  },
+  "localGovernmentLink": {
+    "title": "島外医療機関へ通院される方への交通費一部助成",
+    "uri": "https://www.town.hachijo.tokyo.jp/kakuka/kenkou/kenko_help_R06.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-13",
+    "updater": "八丈町"
+  },
+  "procedureCounter": "福祉健康課保健係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "①福祉健康課保健係へ制度利用希望の旨連絡\n②八丈町へ「費用扶助申請書」を提出（事前申請）\n※接種する医療機関や八丈町にて作成する依頼文の送付先はご自身にて事前にご確認ください。\n③八丈町へ「費用扶助費支給申請書」を提出（事後）\n＜必要書類＞\n・母子手帳の写しまたは医療機関にて発行の予防接種済証\n・領収書等支払ったこと及びその金額を確認できる書類",
+  "procedurePeriod": {
+    "conditions": "令和６年度（令和６年４月１日～令和７年３月31日）受診分の申請期限は令和７年４月11日（金）です。申請漏れのないようご注意ください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "八丈町では、島内で治療することが困難で、やむを得ず島外の医療機関へ通院しなければならない方を対象に、交通費の一部を補助金として交付しています。令和６年度よりいくつかの変更があります。",
+  "support": {
+    "description": "島内で治療することが困難で、やむを得ず島外の医療機関へ通院しなければならない方を対象に、交通費の一部を補助金として交付しています。",
+    "materiallySupport": null,
+    "monetarySupport": "島内で治療することが困難で、やむを得ず島外の医療機関へ通院しなければならない方を対象に、交通費の一部を補助金として交付しています。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "助成対象者（八丈町に住所を有する者）\n①　島内医師が島外の医療機関へ通院する必要があると認めたもの\n②　東京都難病医療費制度受給者及び、小児慢性疾患医療助成受給者\n③　身体・知的・精神の障害者手帳、自立支援医療受給者証（精神）認定者\n④　その他、町長が特に必要と認めたもの"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

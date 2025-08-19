@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "132047;三鷹市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども政策部子ども家庭課母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132047",
+    "psid": "psid3.0+8000020132047+1+UM103"
+  },
+  "belongings": "オムツ替え一式、飲み物",
+  "capacity": "保護者または妊婦とそのパートナーのかた16人",
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三鷹市新川六丁目37番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども政策部 子ども家庭課 母子保健係",
+    "contactPhone": "0422-46-3254",
+    "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+    "zipCode": "1810004"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ふたごの親の交流会\nおなじ状況だからこそ分かり合えるあんなこと、こんなこと…\nふたごならではの育児について、楽しさや大変さをお話ししてみませんか。\nプレママパパの参加もお待ちしています。\n\n来所される皆さまには、手洗いのご協力をお願いしています。\n\n日時\n午前10時～11時30分（受付は9時45分から）\n\n・5月27日(月曜日)\n・7月16日(火曜日)\n・9月9日(月曜日)\n・11月15日(金曜日)\n・1月30日(木曜日)\n・3月11日(火曜日)\n7月16日と11月15日は、交流会中に外部講師による親子遊びも行います\n\n会場\n三鷹中央防災公園・元気創造プラザ2階\n\n対象\n三鷹市在住のふたご（みつご）をもつ、保護者または妊婦とそのパートナーのかた16人\n\n保育\n18人（オムツ替え一式、飲み物をお持ちください）\n\n申し込み\n以下どちらかの方法でお申し込みください。\n（電子申請の申し込みは1週間前まで受け付けます）\n\n電子申請\nこちらのフォーム（外部リンク）（外部リンク）;https://logoform.jp/form/ejBZ/501717から必要事項を入力してください。\n\n電話\n平日の午前9時～午後5時の間に保健センターへお電話ください。\n\n三鷹市総合保健センター\n電話　0422-46-3254",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "こちらのフォーム（外部リンク）（外部リンク）",
+      "uri": "https://logoform.jp/form/ejBZ/501717"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "午前10時～11時30分（受付は9時45分から）\n\n・5月27日(月曜日)\n・7月16日(火曜日)\n・9月9日(月曜日)\n・11月15日(金曜日)\n・1月30日(木曜日)\n・3月11日(火曜日)\n7月16日と11月15日は、交流会中に外部講師による親子遊びも行います",
+    "fromHM": "10:00",
+    "fromYMD": null,
+    "toHM": "11:30",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "三鷹中央防災公園・元気創造プラザ2階"
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関する教室・講習会",
+    "shortName": "ふたごの親の交流会"
+  },
+  "localGovernmentLink": {
+    "title": "ふたごの親の交流会（年間予定）",
+    "uri": "https://www.city.mitaka.lg.jp/c_service/109/109272.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-10",
+    "updater": "三鷹市"
+  },
+  "procedureCounter": "三鷹市総合保健センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申し込み\n以下どちらかの方法でお申し込みください。\n（電子申請の申し込みは1週間前まで受け付けます）\n\n電子申請\nこちらのフォーム（外部リンク）（外部リンク）;https://logoform.jp/form/ejBZ/501717から必要事項を入力してください。\n\n電話\n平日の午前9時～午後5時の間に保健センターへお電話ください。\n\n三鷹市総合保健センター\n電話　0422-46-3254",
+  "procedurePeriod": {
+    "conditions": "電子申請の申し込みは1週間前まで受け付けます",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "三鷹市在住のふたご（みつご）をもつ、保護者または妊婦とそのパートナーのかた",
+  "regulation": {
+    "regulationArticle": "第24条、第21条の9",
+    "regulationName": "学校教育法、児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "双子や三つ子など多胎児の、妊娠中や育児の悩みを話し合い、仲間作りの場となる「ふたごの親の交流会」を開催しています。保健師による相談コーナーもあります。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "三鷹市在住のふたご（みつご）をもつ、保護者または妊婦とそのパートナーのかた16人"
+  },
+  "updateDate": "2024-05-16",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132080;調布市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康推進課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020132080",
+    "psid": "psid3.0+7000020132080+1+UM1"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号 042-441-6101",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉健康部健康推進課 ",
+    "contactPhone": "042-441-6081",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊娠届・母子健康手帳・ゆりかご面接・妊婦健康診査\n医師または助産師の診断を受けた方は、「妊娠届出書」を提出し「母子健康手帳」を受け取りましょう。\n妊娠届出書を出された方には「母と子の保健バッグ」(妊婦健康診査受診票入り)や子育て支援情報誌をお渡しするほか、平成28年9月1日から「ゆりかご調布」事業を実施しています。\n詳細ページ\n母子健康手帳の交付・ゆりかご調布面接(予約制);https://www.city.chofu.lg.jp/060070/p037029.html\n問い合わせ　健康推進課(文化会館たづくり西館　保健センター4階)\n電話番号 042-441-6081　ファクス番号 042-441-6101",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊娠の届出・母子健康手帳の交付",
+    "shortName": "妊娠"
+  },
+  "localGovernmentLink": {
+    "title": "妊娠したら",
+    "uri": "https://www.city.chofu.lg.jp/060070/p037189.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "調布市"
+  },
+  "procedureCounter": "健康推進課(文化会館たづくり西館　保健センター4階)",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第15条（妊娠の届出）、第16条（母子健康手帳）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "母子健康手帳の交付・ゆりかご調布面接(予約制)",
+      "uri": "https://www.city.chofu.lg.jp/060070/p037029.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠がわかったら妊娠の届出をしてください。妊娠の届出をした妊婦さんに母子健康手帳を交付します。母子健康手帳は、妊娠期からのお母さんとお子さんの小学校に入学するまでの、母と子の健康の記録です。育児、予防接種、健康診査などの際に必要となります。",
+  "support": {
+    "description": "医師または助産師の診断を受けた方は、「妊娠届出書」を提出し「母子健康手帳」を受け取りましょう。\n妊娠届出書を出された方には「母と子の保健バッグ」(妊婦健康診査受診票入り)や子育て支援情報誌をお渡しするほか、平成28年9月1日から「ゆりかご調布」事業を実施しています。\n\n詳細ページ\n母子健康手帳の交付・ゆりかご調布面接(予約制);https://www.city.chofu.lg.jp/060070/p037029.html\n問い合わせ　健康推進課(文化会館たづくり西館　保健センター4階)\n電話番号 042-441-6081　ファクス番号 042-441-6101",
+    "materiallySupport": "医師または助産師の診断を受けた方は、「妊娠届出書」を提出し「母子健康手帳」を受け取りましょう。\n妊娠届出書を出された方には「母と子の保健バッグ」(妊婦健康診査受診票入り)や子育て支援情報誌をお渡しするほか、平成28年9月1日から「ゆりかご調布」事業を実施しています。\n\n詳細ページ\n母子健康手帳の交付・ゆりかご調布面接(予約制);https://www.city.chofu.lg.jp/060070/p037029.html\n問い合わせ　健康推進課(文化会館たづくり西館　保健センター4階)\n電話番号 042-441-6081　ファクス番号 042-441-6101",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077",
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "医師または助産師の診断を受けた方"
+  },
+  "updateDate": "2024-06-12",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

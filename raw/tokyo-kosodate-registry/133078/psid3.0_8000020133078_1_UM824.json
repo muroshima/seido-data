@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "133078;檜原村\t",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "やすらぎの里 福祉けんこう課 福祉係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020133078",
+    "psid": "psid3.0+8000020133078+1+UM824"
+  },
+  "belongings": "①申請書 ②診断書（所定のもの、申請日から３ヶ月以内に作成されたもの）③健康保険証 ④利用する医療機関等の名称・住所・電話番号がわかるもの ⑤個人番号（マイナンバー）⑥受給者証（更新申請の場合）⑦身元確認ができるもの",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "やすらぎの里 福祉けんこう課 福祉係",
+    "contactPhone": "042-598-3121",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "精神障害者に、通院医療費の負担軽減を図る制度です。\n●内容\n認定された場合は、自立支援医療受給者証（精神通院）が交付されます。その際、自己負担上限額管理票を同封して郵送します。ただし、生活保護、医療費１割負担の方は、自己負担上限額管理票は使用しません。\n提示がない場合や必要な手続きを行っていない場合は、制度の適用を受けることができません。\n有効期間は１年間です。更新申請は、有効期間満了日の３ヶ月前から手続きができます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度（精神通院医療）",
+    "shortName": "自立支援医療（精神通院医療）"
+  },
+  "localGovernmentLink": {
+    "title": "檜原の障害福祉",
+    "uri": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/27",
+    "updater": "檜原村"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+  "support": {
+    "description": "通常、医療保険では医療費の３割が自己負担となりますが、自立支援医療費制度を併用した場合、自己負担は原則１割に軽減されます。ただし、利用者本人の収入や世帯の所得・疾病等に応じて、月額自己負担上限額が設定されます。",
+    "materiallySupport": null,
+    "monetarySupport": "通院医療費の負担軽減"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "精神通院医療に係る往診、デイケア、訪問介護、てんかんの診療、及び薬代等を継続的に要する方が対象です。"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": "受診される際、受給者証に記載されている医療機関等に自立支援医療受給者証（精神通院）と自己負担上限額管理票を提示してください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

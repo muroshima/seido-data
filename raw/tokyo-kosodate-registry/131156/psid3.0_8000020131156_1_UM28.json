@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131156;杉並区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "各福祉事務所",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131156",
+    "psid": "psid3.0+8000020131156+1+UM28"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都杉並区天沼3－19－16　ウエルファーム杉並２F,東京都杉並区高円寺南2丁目24番18号,東京都杉並区高井戸東3丁目26番10号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "荻窪事務所,高円寺事務所,高井戸事務所",
+    "contactPhone": "03-3398-9104,03-5306-2611,03-3332-7221",
+    "contactUrl": null,
+    "zipCode": "1670032,1660003,1680072"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "母子及び父子福祉資金\nページ番号1004867　 更新日 令和5年7月24日 印刷\n\nひとり親家庭の方が経済的に自立して、安定した生活を送るために必要とする資金をお貸しします。\n\n対象\nひとり親家庭の母または父等で、以下の全てに当てはまる方\n\n20歳未満のお子さんを扶養していること。\n都内に6カ月以上居住していること。\n6カ月以下でも貸付対象となる資金もあります。お問い合わせください。\n貸付が自立につながると判断され、償還の計画を立てることができること。\n資金の種類\n事業開始資金、事業継続資金、技能習得資金、修業資金、就職支度資金、医療介護資金、生活資金、住宅資金、転宅資金、結婚資金、修学資金、就学支度資金\n\n貸付限度額・利子・連帯保証人等\n資金の種類に応じて、貸付限度額や利子、連帯保証人等の取り扱いが異なります。\n詳しくはお問い合わせください。\n\nまた貸付をご希望の方は「事前相談」が必要です。貸付決定までに時間がかかりますので、余裕をもってご相談ください。\n\n東京都母子福祉資金・父子福祉資金の貸付け（東京都福祉局ホームページ）（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/hitorioya_shien/keizai/boshi.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "①東京都杉並区天沼3－19－16　ウエルファーム杉並２F②東京都杉並区高円寺南2丁目24番18号③東京都杉並区高井戸東3丁目26番10号",
+    "implementationName": "①荻窪事務所②高円寺事務所③高井戸事務所"
+  },
+  "institutionName": {
+    "canonicalName": "母子父子寡婦福祉資金",
+    "shortName": "母子及び父子福祉資金"
+  },
+  "localGovernmentLink": {
+    "title": "母子及び父子福祉資金",
+    "uri": "https://www.city.suginami.tokyo.jp/guide/shien/hitorioya/1004867.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "杉並区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "貸付をご希望の方は「事前相談」が必要です。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": "08:30",
+    "fromYMD": null,
+    "toHM": "17:00",
+    "toYMD": null
+  },
+  "procedurePersons": "ひとり親家庭の母または父等で、以下の全てに当てはまる方\n\n20歳未満のお子さんを扶養していること。\n都内に6カ月以上居住していること。\n6カ月以下でも貸付対象となる資金もあります。お問い合わせください。\n貸付が自立につながると判断され、償還の計画を立てることができること。",
+  "regulation": {
+    "regulationArticle": "第13条（母子福祉資金の貸付け）、第14条（母子・父子福祉団体に対する貸付け）、第31条の6（父子福祉資金の貸付け）、第32条（寡婦福祉資金の貸付け）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "東京都母子福祉資金・父子福祉資金の貸付け（東京都福祉局ホームページ）（外部リンク）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/hitorioya_shien/keizai/boshi.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "母子家庭の母、父子家庭の父の経済的自立や、扶養しているお子さんの福祉増進のために、必要な資金をお貸しする制度です。",
+  "support": {
+    "description": "事業開始資金、事業継続資金、技能習得資金、修業資金、就職支度資金、医療介護資金、生活資金、住宅資金、転宅資金、結婚資金、修学資金、就学支度資金",
+    "materiallySupport": null,
+    "monetarySupport": "事業開始資金、事業継続資金、技能習得資金、修業資金、就職支度資金、医療介護資金、生活資金、住宅資金、転宅資金、結婚資金、修学資金、就学支度資金"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "20歳未満のお子さん",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "ひとり親家庭の母または父等で、以下の全てに当てはまる方\n\n20歳未満のお子さんを扶養していること。\n都内に6カ月以上居住していること。\n6カ月以下でも貸付対象となる資金もあります。お問い合わせください。\n貸付が自立につながると判断され、償還の計画を立てることができること。"
+  },
+  "updateDate": "2023-07-24",
+  "useConsiderationFlag": false,
+  "utilization": "貸付をご希望の方は「事前相談」が必要です。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

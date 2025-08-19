@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132284;あきる野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭部こども政策課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132284",
+    "psid": "psid3.0+1000020132284+1+UM108"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": " 児童館係　内線2682",
+    "contactName": "こども政策課児童館係",
+    "contactPhone": "042-558-1250",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "児童館について\n[初版公開日：2017年1月4日][更新日：2024年4月30日]ID:6015\n\n児童館\n児童館では、仲間づくりや遊びの指導・援助のほか、さまざまな行事を企画しています。\n\n対象…18歳未満の方（乳幼児は、必ず保護者同伴でご利用ください。また、配慮が必要な方につきましても、保護者またはそれに代わる方の同伴をお願いいたします。）\n開設時間…午前9時から午後5時30分まで\n休日…日曜日、祝日、年末年始（12月29日から翌年1月3日まで）\n\n問い合わせ\nこども政策課児童館係（電話558－1250）\n\n児童館等一覧\nhttps://www.city.akiruno.tokyo.jp/kosodate/0000006015.html\n\n※若竹児童館・屋城児童館・草花児童センター・五日市児童館増戸分館については、学童クラブ専用の施設となっているため、利用については各館に問い合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "日曜日、祝日、年末年始（12月29日から翌年1月3日まで）",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "https://www.city.akiruno.tokyo.jp/kosodate/0000006015.html",
+    "implementationName": "若竹学童クラブ（若竹児童館）\n若葉児童館\n南秋留児童館\n屋城学童クラブ（屋城児童館）\n一の谷児童館\n草花学童クラブ（草花児童センター）\n前田児童館\n多西児童館\n五日市児童館\n増戸学童クラブ（五日市児童館増戸分館）"
+  },
+  "institutionName": {
+    "canonicalName": "児童館",
+    "shortName": "児童館"
+  },
+  "localGovernmentLink": {
+    "title": "児童館について",
+    "uri": "https://www.city.akiruno.tokyo.jp/kosodate/0000006015.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-23",
+    "updater": "あきる野市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童館は、18歳未満のお子さんに健全な遊びを提供し、健康増進を図るとともに、豊かな情操を育むことを目的とした児童福祉施設です。\n各種イベントなども行っています。なお、イベントの詳細については、あきる野市サイトや市報などでお知らせしています。",
+  "support": {
+    "description": "仲間づくりや遊びの指導・援助のほか、さまざまな行事を企画しています。",
+    "materiallySupport": "仲間づくりや遊びの指導・援助のほか、さまざまな行事を企画しています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "18歳未満の方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "18歳未満の方"
+  },
+  "updateDate": "2024-04-30",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "開館時間\n午前9時から午後5時30分まで",
+    "fromHM": "09:00",
+    "toHM": "17:30"
+  }
+}

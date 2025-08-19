@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131024;中央区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉保健部保育課保育入園係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131024",
+    "psid": "psid3.0+8000020131024+2+UM76"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "築地一丁目1番1号　本庁舎6階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉保健部保育課保育入園係",
+    "contactPhone": "03-3546-5227,03-3546-5387,03-3546-9587 ",
+    "contactUrl": null,
+    "zipCode": "1048404"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "スポット延長保育\nスポット延長保育（保育標準時間）\n対象者\n区内在住で1歳児クラス以上のお子さんの保護者\n保育必要量が「保育標準時間」と認定されている方\n保育料を滞納されていない方\n利用時間\n午後6時30分から午後7時30分\n午後7時30分から午後9時\n午後7時30分から午後10時\n注記1：2、3の利用時間は京橋こども園において実施しています。\n注記2：その他の時間帯で行っている園もあります。\n申込方法\n現在通っている園に直接お問い合わせ、お申し込みください。\n\n区立認可保育所のスポット延長保育の返金について\n卒園などの理由でお手元に使いきれなかったスポット延長保育利用券をお持ちの方は、返金手続きができます。\n必要な手続きについては、「スポット延長保育利用料の返還手続について」をご確認ください。\nなお、区立認可保育所のうち八丁堀・堀留町・十思保育園、京橋・晴海こども園、私立認可保育所は、手続き方法が異なります。直接、施設へお問合せください。\n\nスポット延長保育利用料の返還手続について（PDF：171KB）;https://www.city.chuo.lg.jp/documents/4717/annnaibun.pdf\n\n必要書類\nスポット延長保育利用券（コピー不可）\n請求書\n支払金口座振替登録依頼書\n2・3は区立保育園（桜川・明石町・築地・人形町・日本橋・浜町・つくだ・月島・かちどき西・勝どき・晴海保育園）で配布しております。また、以下からもダウンロードできます。\n\n還付請求書（PDF：50KB）;https://www.city.chuo.lg.jp/documents/4717/04supotseikyu_1.pdf\n還付請求書（記入見本）（PDF：66KB）;https://www.city.chuo.lg.jp/documents/4717/seikyuusyomihon.pdf\n支払金口座振替登録依頼書（PDF：65KB）;https://www.city.chuo.lg.jp/documents/4717/04soitkouzatouroku_1.pdf\n支払金口座振替登録依頼書（記入見本）（PDF：93KB）;https://www.city.chuo.lg.jp/documents/4717/04supotkouzamihon_1.pdf\n提出場所\n中央区役所6階保育課保育入園係または区立認可保育所（公設民営園を除く）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "延長保育",
+    "shortName": "スポット延長保育（保育標準時間）"
+  },
+  "localGovernmentLink": {
+    "title": "延長保育を希望する方へ",
+    "uri": "https://www.city.chuo.lg.jp/a0021/kosodate/kosodate/hoikuen/hoiku/ninkahoiku/entyouhoiku.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-01",
+    "updater": "中央区"
+  },
+  "procedureCounter": "中央区役所6階保育課保育入園係または区立認可保育所（公設民営園を除く）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "現在通っている園に直接お問い合わせ、お申し込みください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第59条第2号",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "スポット延長保育利用料の返還手続について（PDF：171KB）",
+      "uri": "https://www.city.chuo.lg.jp/documents/4717/annnaibun.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "中央区内の保育園（保育所）や認定こども園、地域型保育施設では、保護者の勤務時間などにより、認定を受けた時間帯を超えて保育が必要なお子さんを対象に、別途料金を徴収のうえで、延長保育を実施しています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "区内在住で1歳児クラス以上のお子さんの保護者\n保育必要量が「保育標準時間」と認定されている方\n保育料を滞納されていない方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住で1歳児クラス以上のお子さんの保護者\n保育必要量が「保育標準時間」と認定されている方\n保育料を滞納されていない方"
+  },
+  "updateDate": "2024-03-19",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "午後6時30分から午後7時30分\n午後7時30分から午後9時\n午後7時30分から午後10時\n注記1：2、3の利用時間は京橋こども園において実施しています。\n注記2：その他の時間帯で行っている園もあります。",
+    "fromHM": null,
+    "toHM": null
+  }
+}

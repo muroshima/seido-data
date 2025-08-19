@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "みなと保健所健康推進課健康づくり係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+7+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファックス番号：03-3455-4539\n\n外国語対応が必要な人、通訳オペレーター、区の職員の3人で会話ができます。\n\n多言語対応三者通話サービス;https://www.multilingualinterpretercallservice.city.minato.tokyo.jp/kokusai",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "みなと保健所健康推進課健康づくり係",
+    "contactPhone": "03-6400-0083",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "歯並び・かみ合わせ相談\n3歳から12歳（小学生）までを対象に、歯並びやかみ合わせ、あごの成長発育などについて、区内の矯正歯科認定医による個別相談を実施しています。相談を希望する方は、事前にお申込みください。\n\n※精密な検査や治療をするものではありません。\n\n対象\n区内在住の3歳から12歳（小学生）\n\n予約方法\nオンライン予約（先着順）\n\n予約ページのURLは以下のとおりです。\n\n「みなと保健所けんしん等利用予約システム」（外部サイトへリンク）;https://minato-kenshin.city-ca.jp/\n\nオンライン予約をした場合は、実施日の3日前まではオンライン予約からキャンセルすることができます。\n\n【予約方法等の詳細は下記PDFをご覧ください。】\n\n（PDF：815KB）;https://www.city.minato.tokyo.jp/chiikihoken/dental/documents/yoyakuhouhou.pdf\n\n※オンライン予約ができない方は、以下にお問い合わせください。\n\nお問い合わせ：みなと保健所健康推進課健康づくり係\n\n03-6400-0083　月曜日から金曜日　午前8時30分から午後5時（祝日を除く）\n\nキャンセルされる場合には、必ず問い合わせ先までご連絡ください。\n\nとき\n受付時間\n※お一人のご相談時間は、約20分間です。\n\n以下の1～6の時間の中で、予約制となります。各枠、定員は2名です。\n\n1.午後3時00分\n\n2.午後3時20分\n\n3.午後3時40分\n\n4.午後4時00分\n\n5.午後4時20分\n\n6.午後4時40分\n\n|実施日程（すべて水曜日）|\n|:----|\n|6月26日|\n|7月17日|\n|9月18日|\n|10月23日|\n|11月13日|\n|令和7年1月15日|\n|2月26日|\n\nところ\nみなと保健所3階（三田1-4-10）\n\n※公共交通機関をご利用ください。\n\n感染症対策について\nご本人または同居家族に発熱（37.5℃以上）、咳、鼻汁、下痢等の症状がある場合は、当日の利用を控え、別の日程をご検討ください。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "「みなと保健所けんしん等利用予約システム」（外部サイトへリンク）",
+      "uri": "https://minato-kenshin.city-ca.jp/"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "|実施日程（すべて水曜日）|\n|:----|\n|6月26日|\n|7月17日|\n|9月18日|\n|10月23日|\n|11月13日|\n|令和7年1月15日|\n|2月26日|",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "三田1-4-10",
+    "implementationName": "みなと保健所3階"
+  },
+  "institutionName": {
+    "canonicalName": "港区の子育てに関する相談",
+    "shortName": "歯並び・かみ合わせ相談"
+  },
+  "localGovernmentLink": {
+    "title": "歯並び・かみ合わせ相談",
+    "uri": "https://www.city.minato.tokyo.jp/chiikihoken/dental/hanarabikamiawase.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "港区"
+  },
+  "procedureCounter": "みなと保健所健康推進課健康づくり係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "オンライン予約（先着順）\n\n予約ページのURLは以下のとおりです。\n\n「みなと保健所けんしん等利用予約システム」（外部サイトへリンク）;https://minato-kenshin.city-ca.jp/\n\nオンライン予約をした場合は、実施日の3日前まではオンライン予約からキャンセルすることができます。\n\n【予約方法等の詳細は下記PDFをご覧ください。】\n\n（PDF：815KB）;https://www.city.minato.tokyo.jp/chiikihoken/dental/documents/yoyakuhouhou.pdf\n\n※オンライン予約ができない方は、以下にお問い合わせください。\n\nお問い合わせ：みなと保健所健康推進課健康づくり係\n\n03-6400-0083　月曜日から金曜日　午前8時30分から午後5時（祝日を除く）\n\nキャンセルされる場合には、必ず問い合わせ先までご連絡ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "（PDF：815KB）",
+      "uri": "https://www.city.minato.tokyo.jp/chiikihoken/dental/documents/yoyakuhouhou.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "3歳から12歳（小学生）までを対象に、歯並びやかみ合わせ、あごの成長発育などについて、区内の矯正歯科認定医による個別相談を実施しています。\n※精密な検査や治療をするものではありません。",
+  "support": {
+    "description": "歯並びやかみ合わせ、あごの成長発育などについて、区内の矯正歯科認定医による個別相談を実施しています。相談を希望する方は、事前にお申込みください。\n\n※精密な検査や治療をするものではありません。",
+    "materiallySupport": "歯並びやかみ合わせ、あごの成長発育などについて、区内の矯正歯科認定医による個別相談を実施しています。相談を希望する方は、事前にお申込みください。\n\n※精密な検査や治療をするものではありません。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "3歳から12歳（小学生）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住の3歳から12歳（小学生）"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

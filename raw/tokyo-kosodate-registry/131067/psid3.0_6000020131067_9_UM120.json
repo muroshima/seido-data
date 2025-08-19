@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131067;台東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "障害福祉課給付担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131067",
+    "psid": "psid3.0+6000020131067+9+UM120"
+  },
+  "belongings": "身体障害者手帳（難病患者等の方は特定疾病医療受給者証等）\n※転入の方はマイナンバーカード、又は個人番号確認書類と身分証明書",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "台東区東上野4-5-6",
+    "contactComment": null,
+    "contactEmail": "s-fuku@city.taito.tokyo.jp",
+    "contactEx": "2721",
+    "contactName": "障害福祉課給付担当",
+    "contactPhone": "03-5246-1201",
+    "contactUrl": null,
+    "zipCode": "1108615"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ービスのご案内\n　身体障害者（児）および難病患者等の方が、職業その他日常生活を容易なものとするために必要とする、補装具の交付・修理または借受けを行ないます。補装具の製作・修理または借受け前に申請が必要です。補装具の種目によって指定医師の意見書又は来所による東京都心身障害者福祉センターの判定が必要です。\n\nファイルダウンロード　新規ウインドウで開きます。申請書は窓口にてお書きいただきますが、こちらからダウンロードすることも可能です。 （PDF：87KB）;https://www.city.taito.lg.jp/kenkohukusi/shogai/service/enjo/shaji/hosougu.files/hosougusinseisyo.pdf\n\n対象\n・身体障害者手帳の交付を受けている方\n・難病患者等の方\n\n手続きに必要なもの\n手帳\n個人番号、本人確認ができるもの;https://www.city.taito.lg.jp/kenkohukusi/shogai/service/bangoseido/honnninnkakunin.html\n補装具の種目\n|障害別|種目|\n|:----|:----|\n|視覚障害者（児）|盲人安全つえ（白杖）、義眼、眼鏡|\n|聴覚障害者（児）|補聴器|\n|肢体不自由者|※義手、※義足、※上肢装具、※下肢装具、※体幹装具、※座位保持装置、※意思伝達装置、※歩行器、車いす、電動付車いす、歩行補助つえ（一本杖を除く）等|\n|肢体不自由児|※座位保持いす、起立保持具等|\n\n　歩行器、車いす、電動車いす、歩行補助つえは介護保険対象者を除く。（介護保険の福祉用具で個別の身体状況に対応できない場合を除く）\n※のついている品目（義肢、装具、座位保持装置は完成用部品）は、借受けが利用できる場合があります。詳しくは下記にお問い合わせください。\n\n費用\n　原則として利用金額の10％を負担することとなります。\n\n月額負担上限額が設けられています。\n区民税所得割の納税額が46万円以上の方がいる世帯の方は支給対象外 （ただし、令和6年4月1日から、18歳未満の児童の補装具費に対する所得制限は撤廃されました）。\n※世帯の範囲について\n　18歳以上の方については、住民基本台帳の世帯にかかわらず、本人及び配偶者を同一世帯とし、18歳未満の方については、住民基本台帳の世帯で区民税所得割を算定します。\n\n|所得階層|生活保護世帯の方|住民税非課税世帯の方|住民税課税世帯の方|\n|:----|:----|:----|:----|\n|用者負担割合|―|―|10％|\n|月額負担上限額|0円|0円|37,200円|\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関するその他のこと",
+    "shortName": "補装具費の支給"
+  },
+  "localGovernmentLink": {
+    "title": "補装具費の支給",
+    "uri": "https://www.city.taito.lg.jp/kenkohukusi/shogai/service/enjo/shaji/hosougu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "台東区"
+  },
+  "procedureCounter": "障害福祉課（2階10番窓口）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "・障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "身体障害（難病を含む）のある方の職業その他日常生活を容易なものとするために、補装具の購入や修理・借受けに要する費用を支給します。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": "基準額の範囲内でかかった費用のうち１割の自己負担があります。\n（生活保護世帯及び住民税非課税世帯は自己負担免除）"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "障害児"
+  },
+  "updateDate": "2024-06-08",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

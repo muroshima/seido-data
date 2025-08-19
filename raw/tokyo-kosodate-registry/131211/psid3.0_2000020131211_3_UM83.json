@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131211;足立区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "地域のちから推進部住区推進課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020131211",
+    "psid": "psid3.0+2000020131211+3+UM83"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "地域のちから推進部住区推進課",
+    "contactPhone": "03-3880-5729",
+    "contactUrl": "https://www.city.adachi.tokyo.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": "500",
+  "costConditions": "1時間500円",
+  "description": "子育てサロン一時預かり\n保護者の方がお出かけや用事のとき、リフレッシュしたいときにご利用ください。\n一時預かりを利用する方は、事前に登録が必要となります。登録申請書は、子育てサロン西新井で配布します。また、当サイトよりダウンロードもできます。\n予約は利用希望日の1か月前から受け付けています。\n希望の方は、子育てサロン西新井にご連絡ください。\n\n一時預かり登録申請書（PDF：95KB）;https://www.city.adachi.tokyo.jp/documents/1972/itijiazukari.pdf\n\n保護者の方がお出かけや用事のとき、リフレッシュしたいときにご利用ください。\n\n|実施場所|子育てサロン西新井<br>足立区栗原一丁目3番1号<br>電話03-3858-3431|\n|対象|区内に在住する生後6ヶ月から3歳までのお子さん|\n|利用日時|月曜日から金曜日（ギャラクシティ休館日、祝日、年末年始は除く）<br>午前10時から午後4時\n|利用料金|1時間500円|\n|申込み先|子育てサロン西新井|",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "土・日曜日、祝日、年末年始、ギャラクシティ休館日",
+  "implementationPeriod": {
+    "conditions": "月曜日から金曜日（ギャラクシティ休館日、祝日、年末年始は除く）",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "足立区栗原一丁目3番1号",
+    "implementationName": "子育てサロン西新井"
+  },
+  "institutionName": {
+    "canonicalName": "一時預かり（一時保育）",
+    "shortName": "子育てサロン一時預かり"
+  },
+  "localGovernmentLink": {
+    "title": "子育てサロン",
+    "uri": "https://www.city.adachi.tokyo.jp/juku/k-kyoiku/kosodate/tsudoinoba-salon.html#p9"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "足立区"
+  },
+  "procedureCounter": "子育てサロン西新井\n\n足立区栗原一丁目3番1号\n電話03-3858-3431",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "一時預かりを利用する方は、事前に登録が必要となります。登録申請書は、子育てサロン西新井で配布します。また、当サイトよりダウンロードもできます。\n予約は利用希望日の1か月前から受け付けています。\n希望の方は、子育てサロン西新井にご連絡ください。",
+  "procedurePeriod": {
+    "conditions": "予約は利用希望日の1か月前から受け付けています。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第7項、第21条の9、第59条第10号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者のパート就労や病気等による緊急時、育児疲れなどのリフレッシュのために、家庭において保育を受けることが一時的に困難となったお子さんを、保育園、幼稚園、地域子育て支援拠点などで一時的にお預かりしています。",
+  "support": {
+    "description": "一時預かり",
+    "materiallySupport": "一時預かり",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "区内に在住する生後6ヶ月から3歳までのお子さん",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 6
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内に在住する生後6ヶ月から3歳までのお子さん"
+  },
+  "updateDate": "2024-05-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日から金曜日（ギャラクシティ休館日、祝日、年末年始は除く）\n\n午前10時から午後4時",
+    "fromHM": "10:00",
+    "toHM": "16:00"
+  }
+}

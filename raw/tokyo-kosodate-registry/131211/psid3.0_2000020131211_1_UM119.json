@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131211;足立区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局こども支援センターげんき支援管理課支援管理係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020131211",
+    "psid": "psid3.0+2000020131211+1+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "教育委員会事務局こども支援センターげんき支援管理課支援管理係",
+    "contactPhone": "03-3852-2861",
+    "contactUrl": "https://www.city.adachi.tokyo.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子育てに関する相談\n子ども自身からの相談、子育て中の保護者からの子育ての不安や悩み、困っていることや分からないことなど、お気軽にご相談ください。その日のうちに相談を開始します。\n\n子ども自身からの相談・子育て中の保護者からの子育て相談も受け付けています。\n\n対象\n子ども（18歳未満）\n子育て中の父母または養育者\n子育てに関係している方\n相談方法\n電話相談\n面接相談\n必要に応じて担当者が家庭訪問することもあります。\n\n受付：月曜日から土曜日（祝日・年末年始12月29日から1月3日を除く。）午前8時30分から午後5時00分\n\n電話：03-3852-3535（こども家庭相談課）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "祝日・年末年始12月29日から1月3日",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "足立区の子育てに関する相談",
+    "shortName": "子育てに関する相談"
+  },
+  "localGovernmentLink": {
+    "title": "こども支援センターげんき",
+    "uri": "https://www.city.adachi.tokyo.jp/kodomo-sienkanri/kyouikusoudan.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-21",
+    "updater": "足立区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子ども自身からの相談、子育て中の保護者からの子育ての不安や悩み、困っていることや分からないことなど、お気軽にご相談ください。その日のうちに相談を開始します。\n\n子ども自身からの相談・子育て中の保護者からの子育て相談も受け付けています。",
+  "support": {
+    "description": "子ども自身からの相談、子育て中の保護者からの子育ての不安や悩み、困っていることや分からないことなど、お気軽にご相談ください。\n電話相談\n面接相談\n必要に応じて担当者が家庭訪問することもあります。",
+    "materiallySupport": "子ども自身からの相談、子育て中の保護者からの子育ての不安や悩み、困っていることや分からないことなど、お気軽にご相談ください。\n電話相談\n面接相談\n必要に応じて担当者が家庭訪問することもあります。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "子ども（18歳未満）\n子育て中の父母または養育者\n子育てに関係している方"
+  },
+  "updateDate": "2024-05-15",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日から土曜日（祝日・年末年始12月29日から1月3日を除く。）午前8時30分から午後5時00分",
+    "fromHM": "08:30",
+    "toHM": "17:00"
+  }
+}

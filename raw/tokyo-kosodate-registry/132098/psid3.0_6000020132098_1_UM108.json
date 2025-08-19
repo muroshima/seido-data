@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども生活部児童青少年課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+1+UM108"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都町田市森野2-2-22",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども生活部児童青少年課",
+    "contactPhone": "042-724-4097",
+    "contactUrl": "https://www.city.machida.tokyo.jp/shisei/shiyakusyo/gyomu/seikatsu/seikatsu02.html0",
+    "zipCode": "1948520"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子どもセンター・子どもクラブは、乳幼児とその保護者から18歳までの青少年を対象とした施設で、子どもたちの遊び、成長、発達の拠点として様々な活動をしています。\n※子どもセンター分館は乳幼児とその保護者を対象とした施設です。（18歳までの子どもも入館できます）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "町田市金森4-5-7,町田市大蔵町1913,町田市相原町2025－2,町田市小山ヶ丘4-1-13ゲートヒルズ多摩境パークフロント3階,町田市忠生1-11-1,町田市中町1－31－22,町田市玉川学園3-35-45,町田市南大谷二丁目29番4号 都営4号棟1階,町田市木曽東1-6-40,町田市鶴間3-1-4 パークライフ棟,町田市小山町1165-3,町田市三輪緑山3-25-2,町田市小山田桜台2-1-2",
+    "implementationName": "子どもセンターばあん,子どもセンターつるっこ,子どもセンターぱお,子どもセンターぱお分館,子どもセンターただON,子どもセンターまあち,玉川学園子どもクラブ,南大谷子どもクラブ,木曽子どもクラブ,南町田子どもクラブ,小山子どもクラブ,三輪子どもクラブ,小山田子どもクラブ"
+  },
+  "institutionName": {
+    "canonicalName": "児童館",
+    "shortName": "なし"
+  },
+  "localGovernmentLink": {
+    "title": "子どもセンター・子どもクラブ",
+    "uri": "https://kosodate-machida.tokyo.jp/soshiki/4/2/10/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-02-21",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第40条",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子どもセンター・子どもクラブは、乳幼児とその保護者から18歳までの青少年を対象とした施設で、子どもたちの遊び、成長、発達の拠点として様々な活動をしています。\n※子どもセンター分館は乳幼児とその保護者を対象とした施設です。（18歳までの子どもも入館できます）",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "乳幼児とその保護者から18歳まで"
+  },
+  "updateDate": "2024-07-21",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

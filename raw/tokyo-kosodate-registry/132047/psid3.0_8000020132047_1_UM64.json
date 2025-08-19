@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "132047;三鷹市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども政策部子育て支援課手当・医療係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132047",
+    "psid": "psid3.0+8000020132047+1+UM64"
+  },
+  "belongings": "申請者本人が来庁される場合\n申請者本人がお越しの場合は、以下の書類をお持ちください。\n\n・「マイナンバーカード（裏面）」や「マイナンバーの通知カード」など番号を確認できる書類\n・本人確認のできる書類（「マイナンバーカード（表面）」のほか、運転免許証や旅券（パスポート）など）\n代理のかたが来庁される場合\n代理のかたがお越しの場合は、以下の書類をお持ちください。\n\n・申請者本人のマイナンバーの通知カードまたはマイナンバーカード（写しも可）\n・戸籍謄本等（法定代理人）または委任状（任意代理人）\n代理のかたの本人確認のできる書類（運転免許証、パスポートなど）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三鷹市野崎一丁目1番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども政策部 子育て支援課 手当・医療係",
+    "contactPhone": "0422-29-9675",
+    "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kosodate/index.html",
+    "zipCode": "1818555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "小児慢性特定疾病医療費助成\nこの制度は、18歳未満で対象疾病にかかっているかたについて、治療にかかる医療費（保険診療分）の一部を認定された病名および期間に限り助成するものです。\n\n対象（1及び2に該当するかた）\n1.保護者が三鷹市在住で児童が18歳未満であること（18歳に達した時点で医療券をお持ちのかたで、引き続き医療を受ける場合は20歳未満まで延長可能）\n2.指定医療機関で治療すること\n対象疾病\n各疾患群で病状が認定基準に該当するかた\n\n・小児がん（悪性新生物）\n・慢性腎疾患\n・慢性呼吸器疾患\n・慢性心疾患\n・内分泌疾患\n・こうげん病\n・糖尿病\n・先天性代謝異常\n・血液疾患\n・免疫疾患\n・神経・筋疾患\n・慢性消化器疾患\n・染色体または遺伝子に変化を伴う症候群\n・皮膚疾患\n・骨系統疾患\n・脈管系疾患\n助成内容\n各種医療保険適用後の自己負担額の一部を助成します。\n\n手続の際は、マイナンバー（社会保障・税番号）の記載・提示が必要です\nマイナンバー（社会保障・税番号）の記載・提示とマイナンバー法に基づく本人確認が必要です。\n\nマイナンバーカードをお持ちのかたは1枚で本人確認が完了します。くわしくは「マイナンバー（社会保障・税番号）制度における本人確認について」;https://www.city.mitaka.lg.jp/c_service/055/055945.htmlをご覧ください。\n\n申請者本人が来庁される場合\n申請者本人がお越しの場合は、以下の書類をお持ちください。\n\n・「マイナンバーカード（裏面）」や「マイナンバーの通知カード」など番号を確認できる書類\n・本人確認のできる書類（「マイナンバーカード（表面）」のほか、運転免許証や旅券（パスポート）など）\n代理のかたが来庁される場合\n代理のかたがお越しの場合は、以下の書類をお持ちください。\n\n・申請者本人のマイナンバーの通知カードまたはマイナンバーカード（写しも可）\n・戸籍謄本等（法定代理人）または委任状（任意代理人）\n代理のかたの本人確認のできる書類（運転免許証、パスポートなど）\n\n東京都ホームページ【小児慢性特定疾病医療費助成】（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/syoman/index.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "小児慢性特定疾病医療費の助成",
+    "shortName": "小児慢性特定疾病医療費の助成"
+  },
+  "localGovernmentLink": {
+    "title": "育成医療・小児慢性特定疾病医療費助成制度",
+    "uri": "https://www.city.mitaka.lg.jp/c_service/024/024389.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "三鷹市"
+  },
+  "procedureCounter": "子育て支援課窓口（市役所4階43番）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "対象疾病\n各疾患群で病状が認定基準に該当するかた\n\n・小児がん（悪性新生物）\n・慢性腎疾患\n・慢性呼吸器疾患\n・慢性心疾患\n・内分泌疾患\n・こうげん病\n・糖尿病\n・先天性代謝異常\n・血液疾患\n・免疫疾患\n・神経・筋疾患\n・慢性消化器疾患\n・染色体または遺伝子に変化を伴う症候群\n・皮膚疾患\n・骨系統疾患\n・脈管系疾患\n\n手続の際は、マイナンバー（社会保障・税番号）の記載・提示が必要です\n\nマイナンバー（社会保障・税番号）の記載・提示とマイナンバー法に基づく本人確認が必要です。\n\nマイナンバーカードをお持ちのかたは1枚で本人確認が完了します。くわしくは「マイナンバー（社会保障・税番号）制度における本人確認について」;https://www.city.mitaka.lg.jp/c_service/055/055945.htmlをご覧ください。\n\n申請者本人が来庁される場合\n申請者本人がお越しの場合は、以下の書類をお持ちください。\n\n・「マイナンバーカード（裏面）」や「マイナンバーの通知カード」など番号を確認できる書類\n・本人確認のできる書類（「マイナンバーカード（表面）」のほか、運転免許証や旅券（パスポート）など）\n代理のかたが来庁される場合\n代理のかたがお越しの場合は、以下の書類をお持ちください。\n\n・申請者本人のマイナンバーの通知カードまたはマイナンバーカード（写しも可）\n・戸籍謄本等（法定代理人）または委任状（任意代理人）\n代理のかたの本人確認のできる書類（運転免許証、パスポートなど）\n\n関連リンク\n東京都ホームページ【小児慢性特定疾病医療費助成】（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/syoman/index.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第19条の2～第19条の8",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "東京都ホームページ【小児慢性特定疾病医療費助成】（外部リンク）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/syoman/index.html"
+    },
+    {
+      "title": "マイナンバー（社会保障・税番号）制度における本人確認について",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/055/055945.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子どもの慢性疾病のうち、治療期間が長く、医療費負担が高額となる疾病について、治療方法の確立と普及、患者家庭の医療費の負担軽減につながるよう、医療費の自己負担分を補助しています。",
+  "support": {
+    "description": "各種医療保険適用後の自己負担額の一部を助成します。",
+    "materiallySupport": null,
+    "monetarySupport": "各種医療保険適用後の自己負担額の一部を助成します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "保護者が三鷹市在住で児童が18歳未満であること（18歳に達した時点で医療券をお持ちのかたで、引き続き医療を受ける場合は20歳未満まで延長可能）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象（1及び2に該当するかた）\n1.保護者が三鷹市在住で児童が18歳未満であること（18歳に達した時点で医療券をお持ちのかたで、引き続き医療を受ける場合は20歳未満まで延長可能）\n2.指定医療機関で治療すること"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

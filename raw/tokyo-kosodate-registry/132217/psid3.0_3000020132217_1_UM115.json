@@ -1,0 +1,163 @@
+{
+  "area": {
+    "areaCode": "132217;清瀬市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": null,
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132217",
+    "psid": "psid3.0+3000020132217+1+UM115"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子育て相談\nページ番号1005239　印刷大きな文字で印刷\n親子のための相談LINE;https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1012057.html\n妊娠・出産に関するご相談;https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1005242.html\n不妊症・不育症に関する相談;https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1005243.html\n母子・父子・女性相談;https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1005244.html\nきよせ子どもショートステイ事業;https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1005350.html\n清瀬市多胎児サポーター事業;https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1013494.html\n子ども家庭相談;https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1005248.html\n子育てに関する夜間およびその他の相談窓口;https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1005249.html\n虐待かな？と思ったら;https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1005250.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関する相談窓口一覧",
+    "shortName": "子育て相談"
+  },
+  "localGovernmentLink": {
+    "title": "子育て相談",
+    "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-23",
+    "updater": "清瀬市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "親子のための相談LINE",
+      "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1012057.html"
+    },
+    {
+      "title": "虐待かな？と思ったら",
+      "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1005250.html"
+    },
+    {
+      "title": "不妊症・不育症に関する相談",
+      "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1005243.html"
+    },
+    {
+      "title": "子育てに関する夜間およびその他の相談窓口",
+      "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1005249.html"
+    },
+    {
+      "title": "妊娠・出産に関するご相談",
+      "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1005242.html"
+    },
+    {
+      "title": "清瀬市養育支援ヘルパー（育児支援ヘルパー）派遣事業",
+      "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1005397.html"
+    },
+    {
+      "title": "子ども家庭相談",
+      "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1005248.html"
+    },
+    {
+      "title": "母子・父子・女性相談",
+      "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1005244.html"
+    },
+    {
+      "title": "きよせ子どもショートステイ事業",
+      "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1005350.html"
+    },
+    {
+      "title": "清瀬市多胎児サポーター事業",
+      "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1013494.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "清瀬市内の子育てに関する相談窓口の一覧です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

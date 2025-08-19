@@ -1,0 +1,136 @@
+{
+  "area": {
+    "areaCode": "131075;墨田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康推進課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131075",
+    "psid": "psid3.0+6000020131075+1+UM6"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康推進課",
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊婦健康診査\n\nお母さんと赤ちゃんの健康のために定期的な健康診査を受けましょう。\n妊婦健康診査受診票について\n親子健康手帳（母子健康手帳）の交付時に、妊婦健康診査受診票14枚、妊婦超音波検査受診票4枚及び妊婦子宮頸がん検診受診票1枚を交付します。妊婦健康診査を受診する際に、事前に受診票を医療機関の受付等に提出してください。規定の検査項目のうち、一定金額を上限に、健診費用を公費で負担します。\n関連リンク\n妊娠届出書・親子健康手帳（母子健康手帳）の交付;https://www.city.sumida.lg.jp/kenko_fukushi/kenko/oyako_kenko/ninshin/ninsintodoke.html\n母と子の健康診査;https://www.city.sumida.lg.jp/kenko_fukushi/kenko/oyako_kenko/ikuji_gakkyu/hahatoko_kenkou_sins.html\n※　受診票は原則、再発行できません。やむを得ない事情がある場合には、窓口までご相談ください。\n多胎児の妊婦健康診査について\n自費で受診した多胎児の妊婦健康診査（14回まで受診票を使用後、15回目から19回目までの最大5回分）について、費用の一部又は全部を助成します。\n「 妊婦健康診査・新生児聴覚検査費用の助成（償還払い）;https://www.city.sumida.lg.jp/kenko_fukushi/kenko/oyako_kenko/teatejyosei/ninpukenshinjosei.html」\n転出・転入後の受診票の取扱いについて\n転出・転入後の受診票の取扱いは下表のとおりとなります。\nただし、他の受診票の交付や制度の案内等がありますので、転出・転入したときは、「母子健康手帳」及び「転入前の自治体で交付された受診票等一式」を持って、転出・転入先自治体の母子関係窓口にお寄りください。\n転出・転入後の受診票の取り扱いについて\n||東京都外の区市町村|東京都内の区市町村|\n|:----|:----|:----|\n|墨田区から転出される方|都外に転出後は、墨田区で交付した受診票は使用できません。転出先の自治体で新たに受診票の交付を受けてください。|都内に転出後は、墨田区で交付した受診票を継続してご使用できます。|\n|墨田区に転入される方|前住所地で交付された受診票は使用できません。都内の医療機関で使用できる受診票を交付します。|前住所地で交付された受診票を継続してご使用できます。※注|\n\n※注）令和5年4月1日以降に日本で妊娠届出をされた方で、妊婦超音波検査受診票を3枚以下しか交付されていない方は、妊娠週数に応じて受診票を追加でお渡できる場合があります。転入時の受診票の差し替えの際にお申し出ください。\n助産所や東京都以外の医療機関で妊婦健康診査を受診した方へ ～妊婦健康診査費用助成金交付制度～\nこの制度は、助産所や都外の医療機関など、妊婦健康診査受診票、妊婦超音波検査受診票及び妊婦子宮頸がん検診受診票が使用できない機関で妊婦健康診査を受診して自己負担した方に、健診費用の一部を口座払いで助成する制度です。助成を希望される方は、以下のページをご参照のうえ、分娩後1年以内に申請してください。\n「妊婦健康診査・新生児聴覚検査費用の助成（償還払い）;https://www.city.sumida.lg.jp/kenko_fukushi/kenko/oyako_kenko/teatejyosei/ninpukenshinjosei.html」",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊婦健康診査",
+    "shortName": "妊婦健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "妊婦健康診査",
+    "uri": "https://www.city.sumida.lg.jp/kenko_fukushi/kenko/oyako_kenko/ninshin/ninpu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "墨田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "転出・転入後の受診票の取扱いについて\n転出・転入後の受診票の取扱いは下表のとおりとなります。\nただし、他の受診票の交付や制度の案内等がありますので、転出・転入したときは、「母子健康手帳」及び「転入前の自治体で交付された受診票等一式」を持って、転出・転入先自治体の母子関係窓口にお寄りください。\n\n転出・転入後の受診票の取り扱いについて\n||東京都外の区市町村|東京都内の区市町村|\n|:----|:----|:----|\n|墨田区から転出される方|都外に転出後は、墨田区で交付した受診票は使用できません。転出先の自治体で新たに受診票の交付を受けてください。|都内に転出後は、墨田区で交付した受診票を継続してご使用できます。|\n|墨田区に転入される方|前住所地で交付された受診票は使用できません。都内の医療機関で使用できる受診票を交付します。|前住所地で交付された受診票を継続してご使用できます。※注|\n\n※注）令和5年4月1日以降に日本で妊娠届出をされた方で、妊婦超音波検査受診票を3枚以下しか交付されていない方は、妊娠週数に応じて受診票を追加でお渡できる場合があります。転入時の受診票の差し替えの際にお申し出ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": " 妊婦健康診査・新生児聴覚検査費用の助成（償還払い）",
+      "uri": "https://www.city.sumida.lg.jp/kenko_fukushi/kenko/oyako_kenko/teatejyosei/ninpukenshinjosei.html"
+    },
+    {
+      "title": "妊娠届出書・親子健康手帳（母子健康手帳）の交付",
+      "uri": "https://www.city.sumida.lg.jp/kenko_fukushi/kenko/oyako_kenko/ninshin/ninsintodoke.html"
+    },
+    {
+      "title": "母と子の健康診査",
+      "uri": "https://www.city.sumida.lg.jp/kenko_fukushi/kenko/oyako_kenko/ikuji_gakkyu/hahatoko_kenkou_sins.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "母子健康手帳の交付時に妊婦健康診査受診票14枚、妊婦超音波検査受診票4枚及び妊婦子宮頸がん検診受診票1枚を交付します。",
+  "support": {
+    "description": "親子健康手帳（母子健康手帳）の交付時に、妊婦健康診査受診票14枚、妊婦超音波検査受診票4枚及び妊婦子宮頸がん検診受診票1枚を交付します。妊婦健康診査を受診する際に、事前に受診票を医療機関の受付等に提出してください。規定の検査項目のうち、一定金額を上限に、健診費用を公費で負担します。\n※　受診票は原則、再発行できません。やむを得ない事情がある場合には、窓口までご相談ください。\n\n多胎児の妊婦健康診査について\n自費で受診した多胎児の妊婦健康診査（14回まで受診票を使用後、15回目から19回目までの最大5回分）について、費用の一部又は全部を助成します。\n「 妊婦健康診査・新生児聴覚検査費用の助成（償還払い）;https://www.city.sumida.lg.jp/kenko_fukushi/kenko/oyako_kenko/teatejyosei/ninpukenshinjosei.html」",
+    "materiallySupport": "親子健康手帳（母子健康手帳）の交付時に、妊婦健康診査受診票14枚、妊婦超音波検査受診票4枚及び妊婦子宮頸がん検診受診票1枚を交付します。",
+    "monetarySupport": "規定の検査項目のうち、一定金額を上限に、健診費用を公費で負担します。\n\n多胎児の妊婦健康診査について\n自費で受診した多胎児の妊婦健康診査（14回まで受診票を使用後、15回目から19回目までの最大5回分）について、費用の一部又は全部を助成します。\n「 妊婦健康診査・新生児聴覚検査費用の助成（償還払い）;https://www.city.sumida.lg.jp/kenko_fukushi/kenko/oyako_kenko/teatejyosei/ninpukenshinjosei.html」"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

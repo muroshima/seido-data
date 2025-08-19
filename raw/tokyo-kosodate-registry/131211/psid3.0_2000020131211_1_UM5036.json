@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131211;足立区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "政策経営部総合事業調整担当課総合事業調整担当係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020131211",
+    "psid": "psid3.0+2000020131211+1+UM5036"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "政策経営部総合事業調整担当課総合事業調整担当係",
+    "contactPhone": "電話番号：03-3880-5717",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子ども食堂は、子どもを中心としたみんなの居場所であり、無料または低額で食事も提供する場です。\n子どもや親子だけでなく、高齢者の方など様々な方が参加できるところもあります。\n「忙しくて食事の支度が大変」「誰かとお話ししながら食事がしたい」といった方も、ちょっと興味がわいたら、お近くの子ども食堂にお出かけください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "区内各所"
+  },
+  "institutionName": {
+    "canonicalName": "こども食堂",
+    "shortName": "子ども食堂"
+  },
+  "localGovernmentLink": {
+    "title": "足立区の子ども食堂",
+    "uri": "https://www.city.adachi.tokyo.jp/sesaku/adachiku-kodomosyokudo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/06",
+    "updater": "足立区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子ども食堂は、子どもを中心としたみんなの居場所であり、無料または低額で食事も提供する場です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "子どもや親子だけでなく、高齢者の方など様々な方が参加できるところもあります。"
+  },
+  "updateDate": "2024/11/27",
+  "useConsiderationFlag": false,
+  "utilization": "事前予約制の子ども食堂もありますので、各子ども食堂にお問い合わせください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

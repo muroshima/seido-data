@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "132195;狛江市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子ども若者政策課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132195",
+    "psid": "psid3.0+8000020132195+1+UM21"
+  },
+  "belongings": "申請者の本人確認書類（マイナンバーカード、免許証等）\n振込先口座の分かるもの（通帳、キャッシュカード）\n※郵送で申請される場合はコピーを取って同封してください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都狛江市和泉本町一丁目1番5号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "2301・2313・2314",
+    "contactName": "子ども家庭部 子ども若者政策課 助成支援係",
+    "contactPhone": "03-3430-1111",
+    "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,105153,html",
+    "zipCode": "2018585"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "狛江市出産祝金支給事業\n　狛江市では、次世代を担う子どもの出生を祝福するとともに、子育てに伴う経済的な負担の軽減を図り、子どもの健全な育成に資することを目的とし、出産祝金を支給することで支援をします。\n\n \n支給対象となる子\n　令和5年4月2日以降生まれで、出生時から狛江市に住民登録しており、支給申請時点まで引き続き狛江市に住民登録がある子\n\n支給対象者（申請者）\n　支給対象となる子を養育、監護し、生計を同じくする保護者の方で、支給申請時点で支給対象となる子と同一世帯であり、かつ支給対象となる子の出生日から引き続き狛江市に住民登録がある方\n\n支給金額\n　支給対象子 1人当たり2万円です。\n　※支給対象子1人につき、1回限りの支給です。\n\n申請期間・申請方法\n申請期間\n支給対象子の出生日から1年以内に申請してください。\n\n申請方法\n給付を受けるには必ず申請が必要です。\n\n出産祝金申請書 [127KB pdfファイル]に必要事項をご記入の上、狛江市役所へ申請してください。;https://www.city.komae.tokyo.jp/index.cfm/43,127034,c,html/127034/20240419-104835.pdf\n\n必要書類\n申請者の本人確認書類（マイナンバーカード、免許証等）\n振込先口座の分かるもの（通帳、キャッシュカード）\n※郵送で申請される場合はコピーを取って同封してください。\n支給方法・支給時期\n申請受理後、審査の上、翌月末に申請いただいた口座に振り込みます。\n※審査の上、該当しなかった方には「不支給通知」を送付します。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出産祝い",
+    "shortName": "狛江市出産祝金支給事業"
+  },
+  "localGovernmentLink": {
+    "title": "狛江市出産祝金支給事業",
+    "uri": "https://www.city.komae.tokyo.jp/index.cfm/43,127034,330,html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "狛江市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "給付を受けるには必ず申請が必要です。\n\n出産祝金申請書 [127KB pdfファイル]に必要事項をご記入の上、狛江市役所へ申請してください。;https://www.city.komae.tokyo.jp/index.cfm/43,127034,c,html/127034/20240419-104835.pdf",
+  "procedurePeriod": {
+    "conditions": "支給対象子の出生日から1年以内に申請してください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "狛江市出産祝金支給事業実施要綱（令和５年３月28日要綱第53号）"
+  },
+  "relatedLink": [
+    {
+      "title": "出産祝金チラシ・表面 [1211KB pdfファイル]",
+      "uri": "https://www.city.komae.tokyo.jp/index.cfm/43"
+    },
+    {
+      "title": "出産祝金チラシ・裏面 [1211KB pdfファイル]",
+      "uri": "127034"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "狛江市では、次世代を担う子どもの出生を祝福するとともに、子育てに伴う経済的な負担の軽減を図り、子どもの健全な育成に資することを目的とし、出産祝金を支給することで支援をします。",
+  "support": {
+    "description": "支給金額\n　支給対象子 1人当たり2万円です。\n　※支給対象子1人につき、1回限りの支給です。\n申請受理後、審査の上、翌月末に申請いただいた口座に振り込みます。\n※審査の上、該当しなかった方には「不支給通知」を送付します。",
+    "materiallySupport": null,
+    "monetarySupport": "支給金額\n　支給対象子 1人当たり2万円です。\n　※支給対象子1人につき、1回限りの支給です。\n申請受理後、審査の上、翌月末に申請いただいた口座に振り込みます。\n※審査の上、該当しなかった方には「不支給通知」を送付します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "出生時から狛江市に住民登録しており、支給申請時点まで引き続き狛江市に住民登録がある子"
+  },
+  "updateDate": "2024-04-19",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

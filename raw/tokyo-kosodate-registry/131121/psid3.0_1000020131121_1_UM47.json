@@ -1,0 +1,137 @@
+{
+  "area": {
+    "areaCode": "131121;世田谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "世田谷保健所健康推進課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131121",
+    "psid": "psid3.0+1000020131121+1+UM47"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "世田谷保健所健康推進課",
+    "contactPhone": "03-5432-2446",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊娠SOS相談を実施しています\n健康づくり課では、妊娠や出産に関する様々な悩みについてご相談をお受けしております。\n・思いがけない妊娠に戸惑っている方\n・妊娠したかもしれないと不安になっている方\n・妊娠中の体調に不安のある方\n・健診費用や出産費用が心配な方\n　虐待・暴力などの被害による妊娠についてなど、様々な悩みのご相談をお受けしています。\n　お住まいの地域の総合支所保健福祉センター健康づくり課「ネウボラ・チーム」へご連絡ください。\n|〈総合支所ネウボラ・チーム〉|<|<|\n|支所名|電話|ファクシミリ|\n|:----|:----|:----|\n|世田谷総合支所保健福祉センター健康づくり課|03-5432-2896|03-5432-3074|\n|北沢総合支所保健福祉センター健康づくり課|03-6804-9667|03-6804-9044|\n|玉川総合支所保健福祉センター健康づくり課|03-3702-1982|03-3705-9203|\n|砧総合支所保健福祉センター健康づくり課|03-3483-3166|03-3483-3167|\n|烏山総合支所保健福祉センター健康づくり課|03-3308-8246|03-3308-3036|\n¥n関連リンク\n東京都妊娠相談ほっとライン;http://www.fukushihoken.metro.tokyo.jp/kodomo/sodan/ninshin-hotline.html\n東京都妊娠相談ほっとライン「メール相談窓口」;http://familycare.sociohealth.co.jp/tokyo/soudan/\n東京都不妊･不育ホットライン;http://www.fukushihoken.metro.tokyo.jp/kodomo/sodan/h_soudan.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "お住まいの地域の総合支所保健福祉センター健康づくり課",
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "世田谷区の妊娠・出産に関する相談",
+    "shortName": "妊娠SOS相談"
+  },
+  "localGovernmentLink": {
+    "title": "妊娠SOS相談",
+    "uri": "https://www.city.setagaya.lg.jp/mokuji/kodomo/001/001/d00145306.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "世田谷区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "お住まいの地域の総合支所保健福祉センター健康づくり課「ネウボラ・チーム」へご連絡ください。\n|〈総合支所ネウボラ・チーム〉|<|<|\n|支所名|電話|ファクシミリ|\n|:----|:----|:----|\n|世田谷総合支所保健福祉センター健康づくり課|03-5432-2896|03-5432-3074|\n|北沢総合支所保健福祉センター健康づくり課|03-6804-9667|03-6804-9044|\n|玉川総合支所保健福祉センター健康づくり課|03-3702-1982|03-3705-9203|\n|砧総合支所保健福祉センター健康づくり課|03-3483-3166|03-3483-3167|\n|烏山総合支所保健福祉センター健康づくり課|03-3308-8246|03-3308-3036|\n",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "東京都妊娠相談ほっとライン",
+      "uri": "http://www.fukushihoken.metro.tokyo.jp/kodomo/sodan/ninshin-hotline.html"
+    },
+    {
+      "title": "東京都妊娠相談ほっとライン「メール相談窓口」",
+      "uri": "http://familycare.sociohealth.co.jp/tokyo/soudan/"
+    },
+    {
+      "title": "東京都不妊･不育ホットライン",
+      "uri": "http://www.fukushihoken.metro.tokyo.jp/kodomo/sodan/h_soudan.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠SOS相談を実施しています。健康づくり課では、妊娠や出産に関する様々な悩みについてご相談をお受けしております。",
+  "support": {
+    "description": "健康づくり課では、妊娠や出産に関する様々な悩みについてご相談をお受けしております。\n虐待・暴力などの被害による妊娠についてなど、様々な悩みのご相談をお受けしています。",
+    "materiallySupport": "健康づくり課では、妊娠や出産に関する様々な悩みについてご相談をお受けしております。\n虐待・暴力などの被害による妊娠についてなど、様々な悩みのご相談をお受けしています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "・思いがけない妊娠に戸惑っている方\n・妊娠したかもしれないと不安になっている方\n・妊娠中の体調に不安のある方\n・健診費用や出産費用が心配な方"
+  },
+  "updateDate": "2021-09-27",
+  "useConsiderationFlag": false,
+  "utilization": "お住まいの地域の総合支所保健福祉センター健康づくり課「ネウボラ・チーム」へご連絡ください。\n|〈総合支所ネウボラ・チーム〉|<|<|\n|支所名|電話|ファクシミリ|\n|:----|:----|:----|\n|世田谷総合支所保健福祉センター健康づくり課|03-5432-2896|03-5432-3074|\n|北沢総合支所保健福祉センター健康づくり課|03-6804-9667|03-6804-9044|\n|玉川総合支所保健福祉センター健康づくり課|03-3702-1982|03-3705-9203|\n|砧総合支所保健福祉センター健康づくり課|03-3483-3166|03-3483-3167|\n|烏山総合支所保健福祉センター健康づくり課|03-3308-8246|03-3308-3036|\n",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

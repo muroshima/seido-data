@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "132128;日野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども部保育課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132128",
+    "psid": "psid3.0+1000020132128+1+UM80"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都日野市神明1丁目13番地の2子ども包括支援センター1階",
+    "contactComment": "保育幼稚園係 042-514-8637　管理係 042-514-8638　整備調整係 042-514-8972,代表電話：042-585-1111",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども部保育課",
+    "contactPhone": "042-514-8637,042-514-8638,042-514-8972,042-585-1111",
+    "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120200",
+    "zipCode": "1910016"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "私立幼稚園の入園手続き\nページID1004232　 更新日 令和5年4月27日\n\nはじめに\n各私立幼稚園は、各施設ごとに特色ある保育を行なっています。\n事前に見学や入園相談もしていますので、各施設にお問い合わせください。\n\n公立・私立幼稚園一覧表;https://www.city.hino.lg.jp/kosodate/hoikuen/youchien2/1000931.html\n※私立幼稚園の入園手続きについては、各施設にて行います。手続きの詳細は各施設にお問い合わせください。\n\n※なお、認定こども園（日野・多摩平幼稚園、百草台幼稚園）のうち長時間利用児は、保育課にて入所申込みを受け付けます。手続きの詳細は 保育園をご覧ください。\n\n保育園;https://www.city.hino.lg.jp/faq/kosodate/hoikuen/1000800/index.html\n入園願書の配布\n各施設にて、入園前年度の10月15日より配布\n\n入園願書の受付\n各施設にて、入園前年度の11月1日のみ受付け",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "幼稚園の利用について",
+    "shortName": "私立幼稚園の入園手続き"
+  },
+  "localGovernmentLink": {
+    "title": "私立幼稚園の入園手続き",
+    "uri": "https://www.city.hino.lg.jp/kosodate/hoikuen/youchien2/1004232.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-18",
+    "updater": "日野市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "※私立幼稚園の入園手続きについては、各施設にて行います。手続きの詳細は各施設にお問い合わせください。\n\n※なお、認定こども園（日野・多摩平幼稚園、百草台幼稚園）のうち長時間利用児は、保育課にて入所申込みを受け付けます。手続きの詳細は 保育園をご覧ください。\n保育園;https://www.city.hino.lg.jp/faq/kosodate/hoikuen/1000800/index.html",
+  "procedurePeriod": {
+    "conditions": "入園願書の受付\n各施設にて、入園前年度の11月1日のみ受付け",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第26条",
+    "regulationName": "学校教育法"
+  },
+  "relatedLink": [
+    {
+      "title": "保育園",
+      "uri": "https://www.city.hino.lg.jp/faq/kosodate/hoikuen/1000800/index.html"
+    },
+    {
+      "title": "公立・私立幼稚園一覧表",
+      "uri": "https://www.city.hino.lg.jp/kosodate/hoikuen/youchien2/1000931.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "幼稚園とは、学校教育法に基づき、満3歳から小学校就学前までのお子さんに幼児教育を提供する施設（学校）です。1日4時間の教育を標準とし、小学校や中学校のように夏休みや春休みなどもありますが、多くの園で教育時間終了後や長期休暇中の預かりも行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2023-04-27",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

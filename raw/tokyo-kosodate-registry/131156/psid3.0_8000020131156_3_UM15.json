@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131156;杉並区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部地域子育て支援課母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131156",
+    "psid": "psid3.0+8000020131156+3+UM15"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都杉並区阿佐谷南1丁目15番1号",
+    "contactComment": "（代表）",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部地域子育て支援課母子保健係",
+    "contactPhone": "03-3312-2111",
+    "contactUrl": null,
+    "zipCode": "1668570"
+  },
+  "cost": "1000",
+  "costConditions": "課税世帯の場合、1日　1,000円、世帯全員が住民税非課税の場合、500円、生活保護法による生活保護受給世帯は0円",
+  "description": "https://www.city.suginami.tokyo.jp/s054/1123.html",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "杉並区産後ケア事業利用申請",
+      "uri": "https://logoform.jp/form/Y4gR/891564"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "杉並区と委託契約をした医療機関等"
+  },
+  "institutionName": {
+    "canonicalName": "産後ケア事業",
+    "shortName": "日帰り型産後ケア（少人数）"
+  },
+  "localGovernmentLink": {
+    "title": "産後ケア事業",
+    "uri": "https://www.city.suginami.tokyo.jp/s054/1123.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025-03-13",
+    "updater": "杉並区"
+  },
+  "procedureCounter": "地域子育て支援課母子保健係、保健センター、子どもセンター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "インターネットによる申請（電子申請）、郵送または窓口での申請",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "妊娠8カ月（28週）以降の妊婦または、利用予定日の2週間前までの産婦",
+  "regulation": {
+    "regulationArticle": "第17条の2（産後ケア事業）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "2～3人と一緒に産後ケアを受けます。1回3時間程度お母さんと赤ちゃんの健康状態のチェック、乳房ケアなどを受けられます。また、育児相談や、お母さん同士の交流の機会などを提供します。",
+  "support": {
+    "description": "2～3人と一緒に産後ケアを受けます。1回3時間程度\nお母さんと赤ちゃんの健康状態のチェック、乳房ケアなどを受けられます。また、育児相談や、お母さん同士の交流の機会などを提供します。",
+    "materiallySupport": "2～3人と一緒に産後ケアを受けます。1回3時間程度\nお母さんと赤ちゃんの健康状態のチェック、乳房ケアなどを受けられます。また、育児相談や、お母さん同士の交流の機会などを提供します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "産後7か月未満のお母さんと赤ちゃん",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 6
+    },
+    "targetPersons": "杉並区民で産後7か月未満のお母さんと赤ちゃんで、産後ケアを必要とする方"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "事前に利用申請が必要",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "134015;八丈町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉健康課厚生係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020134015",
+    "psid": "psid3.0+3000020134015+1+UM21"
+  },
+  "belongings": "①住民票（世帯全員のもの）\n②申請者の印鑑\n③出生届受理証明書\n※出生届を提出した区市町村でしか証明されませんのでご注意ください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉健康課厚生係",
+    "contactPhone": "04996-2-5570",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "必要書類を持って申請を行い、支給決定された方のお宅に八丈町長と担当者、保健士がお伺いし50,000円の支給、お子さんの様子を見せていただき子ども家庭支援センター等の紹介をします。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出産祝い",
+    "shortName": "出産祝金"
+  },
+  "localGovernmentLink": {
+    "title": "はちじょう子育てガイド",
+    "uri": "http://www.town.hachijo.tokyo.jp/kokasen/wp-content/uploads/2016/04/6ffc5a0436b28d855f1d36e25bd6c2bd.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-13",
+    "updater": "八丈町"
+  },
+  "procedureCounter": "福祉健康課厚生係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": "生まれた日から 3 か月以内",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第1～7条",
+    "regulationName": "八丈町出産祝い金支給条例"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "八丈町に1年以上お住まいの方がお子さんを出産した場合、出産祝い金として50,000円を支給します。",
+  "support": {
+    "description": "50,000円",
+    "materiallySupport": null,
+    "monetarySupport": "50,000円"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "出生日を基準に八丈町に 1 年以上継続して居住し、住民票のある出産されたお母さん"
+  },
+  "updateDate": "2016-04-01",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

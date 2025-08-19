@@ -1,0 +1,66 @@
+---
+title: 国民健康保険における産前産後期間保険料（税）免除（産前産後の保険料の軽減措置）
+lg_code: '131067'
+lg_name: 台東区
+support: 金銭
+url: https://www.city.taito.lg.jp/kurashi/zeikin/kokuminkenkohoken/hokenryou/sanzensango.html
+source: tokyo-kosodate-registry
+source_id: psid3.0_6000020131067_2_UM5035
+source_updated: null
+license: CC BY
+attribution: 東京都「東京デジタル2030ビジョン（こどもDX）子育て支援制度レジストリ 0-6歳制度」（2025-08-20 時点）を加工して作成
+---
+
+# 国民健康保険における産前産後期間保険料（税）免除（産前産後の保険料の軽減措置）
+
+## 概要
+
+国民健康保険の出産する被保険者に係る産前産後期間相当分（４ヶ月分）の均等割保険料と所得割保険料が免除されます。
+
+## 対象者
+
+国民健康保険に加入している方
+
+## 支援内容
+
+産前産後の保険料を軽減
+
+## 利用方法
+
+申請に必要なもの
+（1）届出人の本人確認書類：個人番号カード、運転免許証、旅券　等
+（2）番号確認書類：個人番号カード、マイナンバー付きの住民票の写し、住民票記載事項証明書　等
+（3）出産（予定）日、身分関係が確認できる書類：母子健康手帳　等
+　　　死産、流産、早産及び人工妊娠中絶の場合は医師の証明書（妊娠85日以上であることがわかるもの）
+※海外出産の場合は、上記以外の書類提出をお願いする場合がございます。予めご了承ください。
+
+届出先
+届出は下記窓口または郵送で受け付けています。郵送の場合は下記にご連絡いただけますと届出一式と返信用封筒をご自宅にお送りします。
+
+〒110－8615　台東区東上野4丁目5番6号
+台東区健康部国民健康保険課資格係（区役所2階（12）番窓口）
+TEL 03－5246－1252
+
+申請書等
+産前産後期間に係る保険料軽減届出書（PDF：463KB）;https://www.city.taito.lg.jp/kurashi/zeikin/kokuminkenkohoken/hokenryou/sanzensango.files/todokedesyo.pdf
+
+産前産後期間に係る保険料軽減届出書【記入例】（PDF：492KB）;https://www.city.taito.lg.jp/kurashi/zeikin/kokuminkenkohoken/hokenryou/sanzensango.files/kinyuurei.pdf
+
+母子健康保険手帳の写し該当ページ（PDF：580KB）;https://www.city.taito.lg.jp/kurashi/zeikin/kokuminkenkohoken/hokenryou/sanzensango.files/boshitetyou.pdf
+
+## 持ち物
+
+（1）届出人の本人確認書類：個人番号カード、運転免許証、旅券　等
+（2）番号確認書類：個人番号カード、マイナンバー付きの住民票の写し、住民票記載事項証明書　等
+（3）出産（予定）日、身分関係が確認できる書類：母子健康手帳　等
+　　　死産、流産、早産及び人工妊娠中絶の場合は医師の証明書（妊娠85日以上であることがわかるもの）
+※海外出産の場合は、上記以外の書類提出をお願いする場合がございます。予めご了承ください。
+
+## 根拠法令
+
+─ ─
+
+## 問い合わせ
+
+国民健康保険課資格係
+03-5246-1252

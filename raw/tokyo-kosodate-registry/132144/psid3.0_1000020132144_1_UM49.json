@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132144;国分寺市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子育て相談室　母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132144",
+    "psid": "psid3.0+1000020132144+1+UM49"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-320-1181",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子育て相談室　母子保健係",
+    "contactPhone": "042-321-1801",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "3～4か月児健診にはどのような内容があり、いつ受けられるのですか。\n回答\n市内の指定医療機関にて、個別健診を実施しています。\n\n内容は身体測定、一般健診、運動機能確認などです。\n\n3～4か月児健診は、生後3か月以上6か月未満で受けていただけます（生後3か月になる月に、ご案内を郵送しています）。\n\nなお、母性・保健・栄養・歯科についての相談は、お子様が生後5～6か月になる頃に参加いただく産婦・育児相談(赤ちゃんとママの会：開催日時の案内は、3～4か月児健診案内とともに送付しています）のほか、乳幼児母性健康相談において承ります。また、随時お電話での相談も受け付けています。\n\n令和5年度　3～4か月児健康診査実施医療機関 （Excel 14.5KB）\n乳幼児母性健康相談;https://www.city.kokubunji.tokyo.jp/kurashi/kodomo/kenkou/1012505/1015187.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "市内の指定医療機関"
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児健康診査（6か月未満児）",
+    "shortName": "3～4か月児健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "3～4か月児健康診査（令和７年度）",
+    "uri": "https://www.city.kokubunji.tokyo.jp/kurashi/kodomo/kenkou/1012503/1034282.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-12",
+    "updater": "国分寺市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "生後３か月になる月に案内を送付",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "3～4か月児健康診査（令和７年度）",
+      "uri": "https://www.city.kokubunji.tokyo.jp/kurashi/kodomo/kenkou/1012503/1034282.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として3～４か月児健康診査を実施しています。",
+  "support": {
+    "description": "身体測定、一般健診、運動機能確認など",
+    "materiallySupport": "身体測定、一般健診、運動機能確認など",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 3
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": 6
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生後3か月以上6か月未満"
+  },
+  "updateDate": "2023-06-13",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

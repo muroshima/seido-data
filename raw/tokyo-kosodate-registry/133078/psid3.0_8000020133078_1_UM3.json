@@ -1,0 +1,159 @@
+{
+  "area": {
+    "areaCode": "133078;檜原村\t",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "檜原村　村民課 村民保険係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020133078",
+    "psid": "psid3.0+8000020133078+1+UM3"
+  },
+  "belongings": "届出に必要なもの\n1．医師または助産師が証明した出生証明書（左半分が出生届けになっています）\n2．母子健康手帳\n3．届出人の印鑑（朱肉を使用するもの）\n※届書の押印は任意ですが、その他の出生に関する手続き等で印鑑が必要な場合があります",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス: 042-598-1009",
+    "contactEmail": null,
+    "contactEx": "111　116　119",
+    "contactName": "檜原村　村民課 村民保険係",
+    "contactPhone": "042-598-1011",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "届出期間\n生まれた日を含めて14日以内\n届出に必要なもの\n　1．医師または助産師が証明した出生証明書（左半分が出生届けになっています）\n　2．母子健康手帳\n　3．届出人の印鑑（朱肉を使用するもの）\n　　　※届書の押印は任意ですが、その他の出生に関する手続き等で印鑑が必要な場合があります\n\n村民課 村民保険係\nお知らせ;https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_1.html\n戸籍;https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_2.html\n住民登録;https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_3.html\n印鑑登録;https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_4.html\n国民健康保険;https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_5.html\n\n国民年金;https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_6.html\n後期高齢者医療制度;https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_7.html\n各種相談;https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_8.html\nマイナンバー;https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_9.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出生届",
+    "shortName": "出生届"
+  },
+  "localGovernmentLink": {
+    "title": "出生届",
+    "uri": "https://www.vill.hinohara.tokyo.jp/0000000227.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-25",
+    "updater": "檜原村"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": "生まれた日を含めて14日以内",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第49条、第52条",
+    "regulationName": "戸籍法"
+  },
+  "relatedLink": [
+    {
+      "title": "各種相談",
+      "uri": "https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_8.html"
+    },
+    {
+      "title": "後期高齢者医療制度",
+      "uri": "https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_7.html"
+    },
+    {
+      "title": "住民登録",
+      "uri": "https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_3.html"
+    },
+    {
+      "title": "国民年金",
+      "uri": "https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_6.html"
+    },
+    {
+      "title": "マイナンバー",
+      "uri": "https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_9.html"
+    },
+    {
+      "title": "国民健康保険",
+      "uri": "https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_5.html"
+    },
+    {
+      "title": "戸籍",
+      "uri": "https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_2.html"
+    },
+    {
+      "title": "お知らせ",
+      "uri": "https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_1.html"
+    },
+    {
+      "title": "印鑑登録",
+      "uri": "https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_4.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "出生届とは、生まれてきたお子さんの氏名等を戸籍に記載するための手続きです。戸籍に記載されることで、生まれてきたお子さんの親族関係が公的に証明されます。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生まれた日を含めて14日以内",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生まれた日を含めて14日以内"
+  },
+  "updateDate": "2023-03-24",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

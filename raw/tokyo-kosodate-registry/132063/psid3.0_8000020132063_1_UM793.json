@@ -1,0 +1,133 @@
+{
+  "area": {
+    "areaCode": "132063;府中市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "市民部保険年金課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132063",
+    "psid": "psid3.0+8000020132063+1+UM793"
+  },
+  "belongings": "本人確認書類（マイナンバーカードや運転免許証等）、母子健康手帳など（出産予定日または出産日が確認できるもの）、年金手帳や基礎年金番号通知書（基礎年金番号がわかるもの。マイナンバーでお調べすることも可能）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "市民部保険年金課年金係",
+    "contactPhone": "042-335-4066",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "平成31年2月1日以降に出産予定または出産した国民年金第1号被保険者について、出産予定日または出産日が属する月の前月から4カ月間（多胎の場合は出産予定日または出産日が属する月の3カ月前から6カ月間）の国民年金保険料が免除されます（将来の年金受給額には納付したものとして反映します）。出産予定日の6カ月前から届出ができ、出産後の届出も可能です。\n※出産とは、妊娠85日（4カ月）以上の出産をいいます。（死産、流産、早産された方を含みます。）\n詳細は、日本年金機構ホームページをご確認ください。\n\n日本年金機構ホームページ（国民年金保険料の産前産後期間の免除制度）（外部サイト）;https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "マイナポータルから電子申請",
+      "uri": "https://myna.go.jp/"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "産前産後期間の国民年金保険料免除",
+    "shortName": "産前産後期間の国民年金保険料免除"
+  },
+  "localGovernmentLink": {
+    "title": "国民年金保険料",
+    "uri": "https://www.city.fuchu.tokyo.jp/kurashi/hoken/kokuminnenkin/kokuminnenkinhokenryou.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "府中市"
+  },
+  "procedureCounter": "市役所2階保険年金課年金係または年金事務所",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "出産予定日の6カ月前から届出ができ、出産後の届出も可能です。\n住民登録をしている市役所またはお近くの年金事務所へ届書を提出してください。マイナポータルでの電子申請や郵送でもお手続きが可能です。\n詳細は、日本年金機構ホームページをご確認ください。",
+  "procedurePeriod": {
+    "conditions": "出産予定日の6カ月前から届出ができ、出産後の届出も可能です。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第88条の2（保険料の納付義務）",
+    "regulationName": "国民年金法"
+  },
+  "relatedLink": [
+    {
+      "title": "日本年金機構ホームページ（国民年金保険料の産前産後期間の免除制度）（外部サイト）",
+      "uri": "https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民年金の第1号被保険者が出産した場合には、出産前後の一定期間の国民年金保険料が免除されます。\n免除期間は年金額を計算する際、保険料を納めた期間として扱われます。",
+  "support": {
+    "description": "出産予定日または出産日が属する月の前月から4カ月間（多胎の場合は出産予定日または出産日が属する月の3カ月前から6カ月間）の国民年金保険料が免除されます。\n詳細は、日本年金機構ホームページをご確認ください。",
+    "materiallySupport": null,
+    "monetarySupport": "出産予定日または出産日が属する月の前月から4カ月間（多胎の場合は出産予定日または出産日が属する月の3カ月前から6カ月間）の国民年金保険料が免除されます。\n詳細は、日本年金機構ホームページをご確認ください。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "016"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "国民年金第1号被保険者で出産（予定）日が平成31年2月1日以降の方"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

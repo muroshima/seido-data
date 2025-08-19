@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "生涯学習スポーツ振興課生涯学習係,芝地区総合支所管理課施設運営担当,麻布地区総合支所管理課施設運営担当,赤坂地区総合支所管理課施設運営担当,高輪地区総合支所管理課施設運営担当,芝浦港南地区総合支所管理課施設運営担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+1+UM5028"
+  },
+  "belongings": null,
+  "capacity": "無し（放課ＧＯ→クラブあかさかは定員あり）",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "|「放課ＧＯ→（おだいば）」について|\n|　生涯学習スポーツ振興課生涯学習係|\n|　電話：03-3578-2744　ファックス：03-3578-2759|\n\n|「放課ＧＯ→・放課ＧＯ→クラブ」について|\n|　各地区総合支所管理課施設運営担当|\n|　　芝地区　　電話：03-3578-3191|\n|　　麻布地区　電話：03-5114-8805|\n|　　赤坂地区　電話：03-5413-7273|\n|　　高輪地区　電話：03-5421-7067|\n|　　芝浦港南地区　電話：03-6400-0033|",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": "無料",
+  "costConditions": null,
+  "description": "放課後の時間に、小学校内又は小学校に併設された施設内で安全安心に過ごすことができる居場所を提供し、遊びや学習、スポーツなどの活動を行う事業です。\n初回登録し、事前に利用予定表を提出することで、無料で、平日17時まで利用できます。\n詳細については、港区ホームページ（https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/hokago-club.html）をご確認ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "土曜日、日曜日、祝日、年末年始（12/29～1/3）",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "各区立小学校内又は区立小学校に併設された施設"
+  },
+  "institutionName": {
+    "canonicalName": "放課後子供教室",
+    "shortName": "放課ＧＯ→"
+  },
+  "localGovernmentLink": {
+    "title": "放課ＧＯ→・放課ＧＯ→クラブとは",
+    "uri": "https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/hokago-club.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025-02-04",
+    "updater": "港区"
+  },
+  "procedureCounter": "各放課ＧＯ→・放課ＧＯ→クラブ",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "各放課ＧＯ→・放課ＧＯ→クラブ室で配布する「放課ＧＯ→参加登録申込書」に必要事項を記入していただき、各放課GO→・放課GO→クラブにお申し込みください。\n申込みは、随時行っています。\n詳細は、各放課GO→・放課GO→クラブにお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "保護者",
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "放課ＧＯ→・放課ＧＯ→クラブ実施校一覧",
+      "uri": "https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/jisshiko.html"
+    },
+    {
+      "title": "放課後等の過ごし方",
+      "uri": " https://www.city.minato.tokyo.jp/seishounenikusei/houkago.html"
+    },
+    {
+      "title": "学童クラブ",
+      "uri": "https://www.city.minato.tokyo.jp/kodomo/kodomo/kodomo/gakudoclub/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "放課後の時間に、小学校内又は小学校に併設された施設内で安全安心に過ごすことができる居場所を提供し、遊びや学習、スポーツなどの活動を行う事業です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "各小学校の在籍児童及び各小学校区域内の在住児童の1年生から6年生\n※放課ＧＯ→クラブこうなんは1年生のみ対象\n※放課ＧＯ→クラブあかさかは定員あり"
+  },
+  "updateDate": "2024/11/08",
+  "useConsiderationFlag": false,
+  "utilization": "登録を希望する施設に「参加登録申込書」を提出し、登録した上で、利用する前月までに翌月分の「利用予定表」を提出することで利用できます。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": "学校がある平日：放課後\n学校休業日の平日：9：00",
+    "toHM": "17:00"
+  }
+}

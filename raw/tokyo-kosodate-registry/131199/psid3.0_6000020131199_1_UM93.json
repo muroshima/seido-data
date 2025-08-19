@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131199;板橋区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 保育運営課 保育運営・給食係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131199",
+    "psid": "psid3.0+6000020131199+1+UM93"
+  },
+  "belongings": null,
+  "capacity": "下赤塚ベビールーム：６名、北野ベビールーム：９名、前野町ベビールーム：５名　各家庭福祉員によって定員が設定されています。詳しい内容は、「幼稚園・保育園等のご案内～保育利用の手引～」をご覧ください。",
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都板橋区板橋二丁目66番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 保育運営課 保育運営・給食係",
+    "contactPhone": "03-3579-2483",
+    "contactUrl": "https://www.city.itabashi.tokyo.jp/cgi-crm/CRM030/CRM030_003",
+    "zipCode": "1738501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ベビールームについて\nお仕事などで家庭保育ができない保護者に代わって、複数の家庭福祉員が区の設けた場所で保育します。\n保育日は、主として月曜日から土曜日まで。保育時間は、午前8時30分から午後6時までとなります。\n板橋区内には、3つのベビールームがあります。;https://www.city.itabashi.tokyo.jp/kosodate/azukeru/ninka/annai/1004360.html\n※前野町ベビールームは2歳児クラスのみ募集します（0・1歳児は要相談）。\n\n詳しい内容は、「幼稚園・保育園等のご案内～保育利用の手引～」をご覧ください。\n\n家庭福祉員について\nお仕事などで家庭保育ができない保護者に代わって、家庭福祉員の自宅などで保育します。\n保育日は、主として月曜日から金曜日まで。保育時間は、午前8時30分から午後6時までとなります。\n板橋区内には、25名の家庭福祉員がいます。;https://www.city.itabashi.tokyo.jp/kosodate/azukeru/ninka/annai/1004360.html\n※1　豊島由香・大場あや子・奥野敦子・吉松万里子・柴田光美・吉丸朋江・関田明美は2歳児クラスのみ募集します（0・1歳児は要相談）。\n※2　濱田ゆかり・田沼敦子は「板橋向原幼稚園」が卒園後の連携施設になります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "保育日は、主として月曜日から金曜日まで。保育時間は、午前8時30分から午後6時までとなります。",
+    "fromHM": "08:30",
+    "fromYMD": null,
+    "toHM": "18:00",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "赤塚新町2-12-1　2階,徳丸3-22-39,前野町3-1-1　常盤台メリーガーデン130、板橋二丁目,大和町,双葉町,双葉町,弥生町,大山西町,幸町,南町,小茂根一丁目,小茂根二丁目,向原一丁目,常盤台三丁目,常盤台三丁目,東新町一丁目,東新町二丁目,桜川三丁目,徳丸二丁目,赤塚一丁目,赤塚七丁目,前野町二丁目,前野町六丁目,中台三丁目,蓮根二丁目,高島平五丁目,高島平五丁目",
+    "implementationName": "下赤塚ベビールーム,北野ベビールーム,前野町ベビールーム、豊島由香,大場あや子,細田みゆき,吉田さち子,鴫博美,宮崎幸子,高野貴子,鶴田和美,濱田ゆかり,土屋由桂,田沼敦子,奥野敦子,髙橋慶子,吉松万里子,柴田光美,中田直美,平川佐和子,石福喜代美,吉丸朋江,山後育恵,笹木純子,関田明美,安森真弓,岡本さぎり,池田知子"
+  },
+  "institutionName": {
+    "canonicalName": "家庭的保育（保育ママ）一覧",
+    "shortName": "ベビールーム、家庭福祉員について"
+  },
+  "localGovernmentLink": {
+    "title": "ベビールーム・家庭福祉員のご案内",
+    "uri": "https://www.city.itabashi.tokyo.jp/kosodate/azukeru/ninka/annai/1004360.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-28",
+    "updater": "板橋区"
+  },
+  "procedureCounter": "保育サービス課入園相談係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "詳しい内容は、「幼稚園・保育園等のご案内～保育利用の手引～」をご覧ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第20条、第29条、第30条　　第二章 家庭的保育事業",
+    "regulationName": "家庭的保育事業等の設備及び運営に関する基準"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "「地域型保育」事業は、平成27年度施行の「子ども・子育て支援新制度」による、市区町村の認可事業です。保育の必要な3歳未満の子どもを対象とした「小規模保育」「家庭的保育（保育ママ）」「事業所内保育」「居宅訪問型保育」の4種類があり、市区町村ごとに地域の保育ニーズに合わせたサービスを実施することになっています。市区町村の認可事業として行われる家庭的保育（保育ママ）は、3歳未満の保育が必要なお子さんを、少人数（定員5人以下）で、板橋区が認定した家庭的保育者の自宅などで預かるサービスです。家庭的な雰囲気の中できめ細かな保育を実施します。",
+  "support": {
+    "description": "区の設けた場所で保育、家庭福祉員の自宅で保育",
+    "materiallySupport": "区の設けた場所で保育、家庭福祉員の自宅で保育",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "詳しい内容は、「幼稚園・保育園等のご案内～保育利用の手引～」をご覧ください。"
+  },
+  "updateDate": "2024-05-13",
+  "useConsiderationFlag": false,
+  "utilization": "詳しい内容は、「幼稚園・保育園等のご案内～保育利用の手引～」をご覧ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "保育時間は、午前8時30分から午後6時まで",
+    "fromHM": "08:30",
+    "toHM": "18:00"
+  }
+}

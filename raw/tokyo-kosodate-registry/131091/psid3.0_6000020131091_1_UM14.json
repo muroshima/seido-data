@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131091;品川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": null,
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131091",
+    "psid": "psid3.0+6000020131091+1+UM14"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康課保健衛生係,品川保健センター,大井保健センター,荏原保健センター",
+    "contactPhone": "健康課保健衛生係　 電話：03-5742-6745,品川保健センター　電話：03-3474-2225 ,大井保健センター　電話：03-3772-2666 ,荏原保健センター　電話：03-5487-1314",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "品川区では、生後4カ月未満の赤ちゃんがいるご家庭に、助産師・保健師・児童センター職員などが伺います。「おっぱいは足りているかしら。」「泣いてばかりで大丈夫かしら。」など育児の心配事を聞かせてください。赤ちゃんの発育や育児の心配事、お母さんの心や体、母乳の相談など助産師・保健師がアドバイスします。¥n里帰り等で、助産師・保健師の訪問を受けられなかった方にも、児童センター職員が「身近な子育てサービスの情報」を持って訪問します。¥n\n申し込み方法：すくすく赤ちゃん訪問申請（出生通知票）の電子申請、親と子の保健バッグの中のハガキ(出生通知票)を健康課（〒140-8715　品川区広町2-1-36）へ郵送、出生通知票を健康課へＦＡＸ送信 ,窓口は区役所7階健康課へ、電話問い合わせについては管轄の保健センターへ。¥n里帰り先の住所・滞在期間をお知らせください。（里帰り先の自治体によっては対応できないこともあります）¥n申し込まれたあと、2週間前後で助産師・保健師から訪問日程お伺いのための電話連絡をさせていただきます。¥n訪問日程お伺いのための電話は、助産師・保健師個人の携帯電話から掛けさせていただく場合がありますのでご了承ください。¥nお寄せいただいた情報は、個人情報保護法に基づき適正に管理しています。¥nお問い合わせは健康課保健衛生係（電話03-5742-6745、FAX03-5742-6745）、訪問日の日程等については品川保健センター（電話03-3474-2225）、大井保健センター（電話03-3772-2666）、荏原保健センター（電話03-5487-1314）",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "【健康課】すくすく赤ちゃん訪問申請（出生通知票）",
+      "uri": "https://apply.e-tumo.jp/city-shinagawa-u/profile/userLogin_initDisplay?nextURL=CqTLFdO4voYlCt4TF0KUrd7dRrdLP0zYtUINsUzZVMuFd1zocBsqwblf2V18OgVsw8NhT9lfF6BP%0D%0ApuGaOG7cID4O0dRMxbjfARmO8xBtaN0%3DGYplpP1Yung%3D%0D%0A"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+    "shortName": "すくすく赤ちゃん訪問事業"
+  },
+  "localGovernmentLink": {
+    "title": "すくすく赤ちゃん訪問事業",
+    "uri": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-ninnshinn/kodomo-ninnshinn-umaretara/hpg000022461.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/17",
+    "updater": "品川区"
+  },
+  "procedureCounter": "区役所7階健康課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "|電子申請 |すくすく赤ちゃん訪問申請（出生通知票）の電子申請（別ウインドウ表示）;https://apply.e-tumo.jp/city-shinagawa-u/profile/userLogin_initDisplay?nextURL=CqTLFdO4voYlCt4TF0KUrd7dRrdLP0zYtUINsUzZVMuFd1zocBsqwblf2V18OgVsw8NhT9lfF6BP%0D%0ApuGaOG7cID4O0dRMxbjfARmO8xBtaN0%3DGYplpP1Yung%3D%0D%0A|\n|:----|:----|\n|郵送 |親と子の保健バッグの中のハガキ(出生通知票)を健康課へお送りください。|\n| |〒140-8715　品川区広町2-1-36|\n|ＦＡＸ |親と子の保健バッグの中のハガキ(出生通知票)を健康課へＦＡＸ送信してください。|\n| |FAX　03-5742-6883 |\n|窓口 |区役所7階健康課へお越しください。 |\n|電話 |管轄の保健センターへお問い合わせください。|\n| |保健センター管轄地域一覧 ;https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-kenkouhukushi/shisetsu-kenkouhukushi-hokenn/hpg000008636.html|\n\n里帰り先での訪問を希望される場合は、里帰り先の住所・滞在期間をお知らせください。\n\n（里帰り先の自治体によっては対応できないこともあります）\n\n申し込まれたあと、2週間前後で助産師・保健師から訪問日程お伺いのための電話連絡をさせていただきます。\n\n訪問日程お伺いのための電話は、助産師・保健師個人の携帯電話から掛けさせていただく場合がありますのでご了承ください。\n\nお寄せいただいた情報は、個人情報保護法に基づき適正に管理しています。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第21条の10の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "生後4か月を迎えるまでの乳児がいるご家庭に助産師・保健師・児童センター職員などが訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行います。",
+  "support": {
+    "description": "赤ちゃんの発育や育児の心配事の相談、お母さんの心や身体の相談、母乳相談など ",
+    "materiallySupport": "赤ちゃんの発育や育児の心配事の相談、お母さんの心や身体の相談、母乳相談など ",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後4カ月頃まで ",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "赤ちゃんとお母さん "
+  },
+  "updateDate": "2023/08/29",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

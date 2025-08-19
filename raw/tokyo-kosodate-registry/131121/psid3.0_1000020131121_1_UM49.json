@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131121;世田谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "世田谷保健所健康推進課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131121",
+    "psid": "psid3.0+1000020131121+1+UM49"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "世田谷保健所健康推進課",
+    "contactPhone": "03-5432-2446",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "世田谷区では、新たに1か月児健康診査に要した費用の一部を助成する事業を開始します。¥n助成対象者\n以下の要件をすべて満たす方が対象となります。\n（1）令和6年4月1日以降に出生し、生後27日を超え、生後6週に達しない(生後5週6日まで)間に1か月児健康診査を受診した乳児の保護者\n（2）乳児の1か月児健康診査受診時に、世田谷区に住民登録のある方。\n（注意）世田谷区から転出した場合でも、受診した日に世田谷区に住民登録があれば対象となります。¥n申請期限\n出産した日から1年以内（お子さんが1歳の誕生日を迎える前日まで）【必着】¥n助成内容\n母子健康手帳（親子健康手帳）にある「1か月児健康診査」の内容になります。\n1か月児健康診査時に行ったビタミンＫ2シロップ投与についても該当します。\n（注意）保険が適用された費用・治療のための費用、複数回受診した場合の費用は対象になりません。¥n助成上限額\n4,000円\n（注意）上限額よりも健診費用が高額の場合、差額は自己負担となります。 \n（注意）上限額は受診する年度によって今後変更が生じる場合があります。¥n助成を受ける方法\n医療機関等の窓口で、1か月児健康診査にかかる費用をご負担いただいた後、区へ償還払いの申請を行ってください。申請は郵送のみで受付しています。¥nご案内・申請書・返信用封筒は、下記の方法にてお渡ししております。\n＜令和6年3月31日までに母子健康手帳（親子健康手帳）を受け取られた方＞\n3～4か月児健康診査のご案内に同封\n＜令和6年4月1日以降に母子健康手帳（親子健康手帳）を受け取られた方＞\n母子健康手帳（親子健康手帳）と一緒にお渡しした「母と子の保健バッグ」の中に同封\n（注意）他の事業の返信用封筒を使用しないようお願いいたします。¥n手続きに必要な書類\n1.世田谷区1か月児健康診査費用助成金申請書兼口座振替依頼書\n申請者は乳児の保護者の方になります。\n訂正する場合は、修正液、修正テープは使用せず、二重線で消してください。\n消えるボールペンは使用できません。\n2.母子健康手帳（親子健康手帳）の健康診査欄のコピー\n「1か月児健康診査」欄のコピー（R5・R6年度に発行された母子健康手帳（親子健康手帳）の場合はP20～21）\n3.医療機関が発行した領収書のコピー\n国外の医療機関で健康診査を受診した場合は、申請者があらかじめ当該領収書の全ての記載内容を日本語に翻訳した資料を添付の上、申請してください。健康診査等費用助成金額は申請書を受け付けた時点の為替レートで換算します。\n健診費用が含まれる領収書か分からない場合は、医療機関等にご確認の上、ご提出ください。\n（注意）原則返却しません。\n4.医療機関が発行した明細書のコピー\n上記領収書と一緒に医療機関が発行した明細書のコピー\n（注意）原則返却しません。¥n申請書類の提出先(郵送のみ)\n必ず郵送で提出してください。\n 〒 154-0017 世田谷区世田谷4丁目24番1号世田谷区役所城山分庁舎\n 世田谷保健所健康推進課 1か月児健康診査費用助成担当\n \n添付ファイル\n世田谷区1か月児健康診査費用助成制度のご案内;https://www.city.setagaya.lg.jp/mokuji/kodomo/001/001/d00208221_d/fil/annnai.pdf\n令和6年度世田谷区1か月児健康診査_記入例;https://www.city.setagaya.lg.jp/mokuji/kodomo/001/001/d00208221_d/fil/kinyuurei.pdf\n令和6年度世田谷区1か月児健康診査_申請書;https://www.city.setagaya.lg.jp/mokuji/kodomo/001/001/d00208221_d/fil/shinseisho.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "生後２７日を超え、生後６週に達しない（生後５週６日まで）間に乳児が受診した１か月健康診査費用",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "医療機関"
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児健康診査（6か月未満児）",
+    "shortName": "1か月児健康診査費用助成制度"
+  },
+  "localGovernmentLink": {
+    "title": "1か月児健康診査費用助成制度を開始します",
+    "uri": "https://www.city.setagaya.lg.jp/mokuji/kodomo/001/001/d00208221.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "世田谷区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "医療機関等の窓口で、1か月児健康診査にかかる費用をご負担いただいた後、区へ償還払いの申請を行ってください。申請は郵送のみで受付しています。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "（1）令和6年4月1日以降に出生し、生後27日を超え、生後6週に達しない(生後5週6日まで)間に1か月児健康診査を受診した乳児の保護者\n（2）乳児の1か月児健康診査受診時に、世田谷区に住民登録のある方。",
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "世田谷区では、1か月児健康診査に要した費用の一部を助成する事業を開始します。",
+  "support": {
+    "description": "母子健康手帳（親子健康手帳）にある「1か月児健康診査」の内容になります。\n1か月児健康診査時に行ったビタミンＫ2シロップ投与についても該当します。\n（注意）保険が適用された費用・治療のための費用、複数回受診した場合の費用は対象になりません",
+    "materiallySupport": "ご案内・申請書・返信用封筒は、下記の方法にてお渡ししております。\n＜令和6年3月31日までに母子健康手帳（親子健康手帳）を受け取られた方＞\n3～4か月児健康診査のご案内に同封¥n＜令和6年4月1日以降に母子健康手帳（親子健康手帳）を受け取られた方＞\n母子健康手帳（親子健康手帳）と一緒にお渡しした「母と子の保健バッグ」の中に同封\n（注意）他の事業の返信用封筒を使用しないようお願いいたします。",
+    "monetarySupport": "助成上限額　4000円\n（注意）上限額よりも健診費用が高額の場合、差額は自己負担となります。 \n（注意）上限額は受診する年度によって今後変更が生じる場合があります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "以下の要件をすべて満たす方が対象となります。\n（1）令和6年4月1日以降に出生し、生後27日を超え、生後6週に達しない(生後5週6日まで)間に1か月児健康診査を受診した乳児の保護者\n（2）乳児の1か月児健康診査受診時に、世田谷区に住民登録のある方。\n（注意）世田谷区から転出した場合でも、受診した日に世田谷区に住民登録があれば対象となります。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "以下の要件をすべて満たす方が対象となります。\n（1）令和6年4月1日以降に出生し、生後27日を超え、生後6週に達しない(生後5週6日まで)間に1か月児健康診査を受診した乳児の保護者\n（2）乳児の1か月児健康診査受診時に、世田谷区に住民登録のある方。\n（注意）世田谷区から転出した場合でも、受診した日に世田谷区に住民登録があれば対象となります。"
+  },
+  "updateDate": "2024-05-27",
+  "useConsiderationFlag": false,
+  "utilization": "医療機関等の窓口で、1か月児健康診査にかかる費用をご負担いただいた後、区へ償還払いの申請を行ってください。申請は郵送のみで受付しています。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

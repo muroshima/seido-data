@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "千代田保健所保健サービス課保健サービス係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+1+UM5037"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区九段北1-2-14",
+    "contactComment": null,
+    "contactEmail": "hoken-service@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "千代田保健所保健サービス課保健サービス係",
+    "contactPhone": "03-6380-8552",
+    "contactUrl": null,
+    "zipCode": "1020073"
+  },
+  "cost": null,
+  "costConditions": "医療に要する費用を区が負担します（原則として、医療機関へ現物給付します）。ただし、各種医療保険等を先に適用します。なお、税額に応じた自己負担額が生じる場合には、乳幼児医療助成制度が適用されます。",
+  "description": "心身の障害を除去・軽減するための医療費を負担します。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "千代田保健所"
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度（育成医療）",
+    "shortName": "自立支援医療（育成医療）"
+  },
+  "localGovernmentLink": {
+    "title": "自立支援医療（育成医療）",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/ko-shogai/goriyo/jiritsushien.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": "千代田保健所保健サービス課保健サービス係\n\n〒102-0073　東京都千代田区九段北1-2-14\n\n電話番号：03-6380-8552\n\nファクス：03-3262-1160\n\nメールアドレス：hoken-service@city.chiyoda.lg.jp",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+  "support": {
+    "description": "肢体不自由\n視覚障害\n聴覚・平衡機能障害\n音声・言語・そしゃく機能障害\n心臓障害\n腎臓障害\nその他の内臓障害\n免疫機能障害\n上記の1～8にかかる医療に要する費用を助成します。",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "18歳未満",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内に住所を有する18歳未満の児童で、上記（身体障害者福祉法第4条）の障害があるか、または将来障害を残すと認められる方で、手術等により、確実な治療効果が期待できる場合です。"
+  },
+  "updateDate": "2024-05-08",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

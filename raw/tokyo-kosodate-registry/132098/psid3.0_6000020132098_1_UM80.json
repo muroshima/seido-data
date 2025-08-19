@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども生活部保育・幼稚園課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+1+UM80"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども生活部保育・幼稚園課",
+    "contactPhone": "042-724-2138,042-724-2137",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/8",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "保育料\n各幼稚園の設置者（学校法人等）が決定し、幼稚園に直接納付します。",
+  "description": "幼稚園教育要領に基づき、教育を受けることのできる学校教育法に基づく教育施設です。\n町田市内には37園の幼稚園があり、そのうち12園は認定こども園(下記リンク参照)の認定を受けています。\n認定こども園一覧\nhttps://kosodate-machida.tokyo.jp/soshiki/4/3/2/337.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "新制度の幼稚園・認定こども園（幼稚園枠）一覧",
+    "shortName": "幼稚園等"
+  },
+  "localGovernmentLink": {
+    "title": "幼稚園等",
+    "uri": "https://kosodate-machida.tokyo.jp/soshiki/4/3/nyuuen/youchien/10739.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第26条",
+    "regulationName": "学校教育法"
+  },
+  "relatedLink": [
+    {
+      "title": "幼稚園一覧",
+      "uri": "https://kosodate-machida.tokyo.jp/soshiki/4/3/12/1220.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "幼稚園とは、学校教育法に基づき、満3歳から小学校就学前までのお子さんに幼児教育を提供する施設（学校）です。1日4時間の教育を標準とし、小学校や中学校のように夏休みや春休みなどもありますが、多くの園で教育時間終了後や長期休暇中の預かりも行っています。",
+  "support": {
+    "description": "幼稚園等",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "満3歳から小学校就学の始期に達するまでの幼児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "満3歳から小学校就学の始期に達するまでの幼児"
+  },
+  "updateDate": "2020-11-18",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "教育時間\n基本となる教育時間は4時間です。\n教育時間の前後や休業日に在園児を対象に「預かり保育」を実施している施設もあります。\n2019年10月から始まった教育・保育の無償化にかかる「預かり保育」については、下記リンク先のページをご参照ください。\nまた、預かり保育を含めた開園時間や料金等については、幼稚園一覧(下記リンク参照)をご確認の上、直接お問い合わせください。\n幼稚園及び認定こども園の預かり保育について\nhttps://kosodate-machida.tokyo.jp/soshiki/4/3/11/340.html\n幼稚園一覧\nhttps://kosodate-machida.tokyo.jp/soshiki/4/3/12/1220.html",
+    "fromHM": null,
+    "toHM": null
+  }
+}

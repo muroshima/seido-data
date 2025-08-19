@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131059;文京区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健衛生部・文京保健所保健サービスセンター,保健衛生部・文京保健所保健サービスセンター本郷支所",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131059",
+    "psid": "psid3.0+6000020131059+1+UM53"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都文京区春日1丁目16番21号\nシビックセンター3階(健診フロア）、8階北側（事務室）,東京都文京区千駄木5丁目20番18号",
+    "contactComment": "ファクス番号：03-5803-1371,ファクス番号：03-3822-9174",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健衛生部・文京保健所保健サービスセンター,保健衛生部・文京保健所保健サービスセンター本郷支所",
+    "contactPhone": "03-5803-1807,03-3821-5106",
+    "contactUrl": "https://logoform.jp/form/6KSu/554248,https://logoform.jp/form/6KSu/554248",
+    "zipCode": "1128555,1130022"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "経過観察健診\n定期的な健乳幼児康診査以外の健康診査・健康相談を実施しています。（予約制）\n\n内容\n問診、身体測定、診察、保健指導、栄養指導\n\n対象者\n区内在住で身長・体重等の発育面で心配のある乳幼児、転入等で健診を希望する方\n\n以下の日程（午前）で実施しています。\n\n【保健サービスセンター】\n|月|日|曜日|\n|:----|:----|:----|\n|令和6年4月|4日|木|\n|5月|2日|木|\n|6月|6日|木|\n|7月|4日|木|\n|8月|1日|木|\n|9月|5日|木|\n|10月|3日|木|\n|11月|7日|木|\n|12月|5日|木|\n|令和7年1月|(注）9日|木|\n|2月|6日|木|\n|3月|6日|木|\n\n【保健サービスセンター本郷支所】\n|月|日|曜日|\n|:----|:----|:----|\n|令和6年4月|19日|金|\n|5月|（注）24日|金|\n|6月|21日|金|\n|7月|19日|金|\n|8月|（注）23日|金|\n|9月|20日|金|\n|10月|18日|金|\n|11月|22日|金|\n|12月|20日|金|\n|令和7年1月|（注）24日|金|\n|2月|21日|金|\n|3月|21日|金|\n\n(注)国民の祝日、他の事業との調整等により、原則の日程から変更したものです。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "【保健サービスセンター】\n|月|日|曜日|\n|:----|:----|:----|\n|令和6年4月|4日|木|\n|5月|2日|木|\n|6月|6日|木|\n|7月|4日|木|\n|8月|1日|木|\n|9月|5日|木|\n|10月|3日|木|\n|11月|7日|木|\n|12月|5日|木|\n|令和7年1月|(注）9日|木|\n|2月|6日|木|\n|3月|6日|木|\n\n【保健サービスセンター本郷支所】\n|月|日|曜日|\n|:----|:----|:----|\n|令和6年4月|19日|金|\n|5月|（注）24日|金|\n|6月|21日|金|\n|7月|19日|金|\n|8月|（注）23日|金|\n|9月|20日|金|\n|10月|18日|金|\n|11月|22日|金|\n|12月|20日|金|\n|令和7年1月|（注）24日|金|\n|2月|21日|金|\n|3月|21日|金|\n",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "保健サービスセンター,保健サービスセンター本郷支所"
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の乳幼児健診",
+    "shortName": "経過観察健診"
+  },
+  "localGovernmentLink": {
+    "title": "経過観察健診",
+    "uri": "https://www.city.bunkyo.lg.jp/b029/p001582.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "文京区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "予約制",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "生後0～4歳未満の乳幼児の定期的な乳幼児康診査以外の健康診査・健康相談。",
+  "support": {
+    "description": "問診、身体測定、診察、保健指導、栄養指導",
+    "materiallySupport": "問診、身体測定、診察、保健指導、栄養指導",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "乳幼児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住で身長・体重等の発育面で心配のある乳幼児、転入等で健診を希望する方"
+  },
+  "updateDate": "2024-05-08",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

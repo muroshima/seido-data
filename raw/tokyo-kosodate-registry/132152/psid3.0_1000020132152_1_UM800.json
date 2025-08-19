@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132152;国立市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子育て支援課 子ども家庭支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132152",
+    "psid": "psid3.0+1000020132152+1+UM800"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "国立市富士見台2-47-1 国立市役所 1階(20番窓口)",
+    "contactComment": "ファクス：042-576-2283",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 子育て支援課 子ども家庭支援センター",
+    "contactPhone": "042-573-0192",
+    "contactUrl": null,
+    "zipCode": "1868501"
+  },
+  "cost": "0",
+  "costConditions": null,
+  "description": "赤ちゃん・ふらっと事業(授乳室・おむつ替えスペース)\n\n「赤ちゃん・ふらっと」は、小さなお子様を連れた方が安心してお出かけできるよう整備された、授乳やおむつ替え等ができるスペースの愛称で、小さなお子様を連れて出かける身近な地域への整備を東京都が推進しています。\n\n「赤ちゃん・ふらっと」施設の目印マーク\n「赤ちゃん・ふらっと」施設は、このマークが目印です。\n\n市内の「赤ちゃん・ふらっと」施設一覧\nhttps://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec03/gyomu/0237/0241/1655256756464.html\n\n都内の「赤ちゃん・ふらっと」施設\n東京都では、都内の「赤ちゃん・ふらっと」施設を掲載しています。\n\nお出かけの際は、ご覧ください。\n\n東京都福祉局「赤ちゃんふらっと」事業;http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/akachanflat.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "各施設の営業日によります。",
+  "implementationPeriod": {
+    "conditions": "各施設の営業日によります。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "東京都又は国立市のホームページでご確認ください。",
+    "implementationName": "東京都又は国立市のホームページでご確認ください。"
+  },
+  "institutionName": {
+    "canonicalName": "授乳・おむつ替え施設（赤ちゃんの駅等）",
+    "shortName": "赤ちゃん・ふらっと事業"
+  },
+  "localGovernmentLink": {
+    "title": "赤ちゃん・ふらっと事業(授乳室・おむつ替えスペース)",
+    "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec03/gyomu/0237/0241/1655256756464.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "国立市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "【東京都】乳幼児を持つ親が安心して外出できる環境の整備事業（赤ちゃん・ふらっと事業実施要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "東京都福祉局「赤ちゃんふらっと」事業",
+      "uri": "http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/akachanflat.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "乳幼児を持つ親が安心して外出を楽しめるよう、市内にある授乳やおむつ替え等ができる施設（赤ちゃん・ふらっと）をご紹介します。登録された施設には、入り口付近にそれぞれ案内標示を設置しています。（東京都の事業）\n",
+  "support": {
+    "description": "乳幼児を持つ親が安心して外出を楽しめるよう、市内にある授乳やおむつ替え等ができる施設（赤ちゃん・ふらっと）をご紹介します。登録された施設には、入り口付近にそれぞれ案内標示を設置しています。（東京都の事業）\n",
+    "materiallySupport": "乳幼児を持つ親が安心して外出を楽しめるよう、市内にある授乳やおむつ替え等ができる施設（赤ちゃん・ふらっと）をご紹介します。登録された施設には、入り口付近にそれぞれ案内標示を設置しています。（東京都の事業）\n",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "乳幼児を連れた方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "乳幼児を連れた方"
+  },
+  "updateDate": "2024-07-24",
+  "useConsiderationFlag": false,
+  "utilization": "各施設の営業時間内にご利用ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "各施設の営業時間によります。",
+    "fromHM": null,
+    "toHM": null
+  }
+}

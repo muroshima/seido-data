@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131130;渋谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども青少年課子ども青少年育成係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020131130",
+    "psid": "psid3.0+9000020131130+3+UM110"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "FAX03-5458-4942",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども青少年課子ども青少年育成係",
+    "contactPhone": "03-3463-2578",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "無料\n（注）アートスクールの参加は材料費がかかります。",
+  "description": "子育ての楽しみを共有し、こどもの感性や創造力を育む交流の場であり、乳幼児と親子・小学生みんなの居場所となる、こども・親子支援センターです。月齢、年齢に合わせたプログラムを提供し、各分野で活躍するクリエーターを講師に招いたさまざまなワークショップを毎月10～15本程度開催しています。\n\n【施設内容】\n・2階　おやこルーム、アトリエ\n・1階　おやこサロン\n・地下1階　プレイルーム（注）\n（注）小さな体育館タイプのプレイルームです。なお、時間帯による利用できる年齢や遊具が異なります。（未就学児：9時30分～14時、小学生：14時30分～17時30分）\n\n【プログラム】\n・おやこきょうしつ\n0～3歳児を対象とした、全5回の年齢別の教室です。からだあそびやおとあそび、ものづくりなどを行います。（要予約）\n・アートスクール\n食・ものづくり・体操・音楽・写真など、さまざまな分野で活躍するクリエイターを講師に迎え、多彩なテーマで講座を開催します。（要予約、材料費実費）\n（注）おやこきょうしつ、アートスクールへの参加は予約が必要です。予約方法や内容などは、かぞくのアトリエ専用サイト（外部サイト）;http://kazoku-no-atelier.com/をご覧になるか、かぞくのアトリエ（電話：03-6276-5521）へお問い合わせください。\n\n【交通】\n・小田急線「南新宿駅」徒歩2分\n・JR山手線・総武線「代々木駅（西口）」徒歩7分\n・都営大江戸線「代々木駅（A2出口）」徒歩7分（ベビーカーは昇降機があるA3出口推奨）\n・ハチ公バス神宮の杜ルート（神宮前・千駄ヶ谷ルート）「20代々木一丁目」徒歩4分\n・京王バス[宿51]系統「代々木三丁目」徒歩8分\n（注）施設周辺の道路はたいへん幅が狭いため、お車、タクシーでのご来場・送迎はご遠慮ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "日曜日、月曜日、祝日、年末年始（12月29日～1月3日）",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "渋谷区代々木2-32-5",
+    "implementationName": "かぞくのアトリエ（こども・親子支援センター）"
+  },
+  "institutionName": {
+    "canonicalName": "子育て支援拠点・地域子育て支援センター",
+    "shortName": "かぞくのアトリエ（こども・親子支援センター）"
+  },
+  "localGovernmentLink": {
+    "title": "かぞくのアトリエ（こども・親子支援センター）",
+    "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/kosodate/kosodate-shisetsu/kazoku_no_atelier.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-20",
+    "updater": "渋谷区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "予約方法や内容などは、かぞくのアトリエ専用サイト（外部サイト）;http://kazoku-no-atelier.com/をご覧になるか、かぞくのアトリエ（電話：03-6276-5521）へお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第6項、第21条の9",
+    "regulationName": "児童福祉法、児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "かぞくのアトリエ（こども・親子支援センター）（外部サイト）",
+      "uri": "https://kazoku-no-atelier.com/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "こども・親子支援センター（かぞくのアトリエ）は、子育て支援拠点として、子育て中の親子が気軽に集い、相互交流や子育ての不安・悩みを相談できる場を提供しています。また、地域の子育て関連情報の提供や、子育て支援に関する講習なども実施しています。",
+  "support": {
+    "description": "子育ての楽しみを共有し、こどもの感性や創造力を育む交流の場であり、乳幼児と親子・小学生みんなの居場所となる、こども・親子支援センターです。月齢、年齢に合わせたプログラムを提供し、各分野で活躍するクリエーターを講師に招いたさまざまなワークショップを毎月10～15本程度開催しています。",
+    "materiallySupport": "【施設内容】\n・2階　おやこルーム、アトリエ\n・1階　おやこサロン\n・地下1階　プレイルーム（注）\n（注）小さな体育館タイプのプレイルームです。なお、時間帯による利用できる年齢や遊具が異なります。（未就学児：9時30分～14時、小学生：14時30分～17時30分）",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0歳児～小学生",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 0
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "原則、渋谷区在住の未就学児および小学生とその保護者\n（注）当日の状況により、渋谷区在住でない人も利用できます。\n（注）未就学児は保護者の付き添いが必要です。（保育機能はありません）"
+  },
+  "updateDate": "2023-03-17",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": "09:30",
+    "toHM": "17:30"
+  }
+}

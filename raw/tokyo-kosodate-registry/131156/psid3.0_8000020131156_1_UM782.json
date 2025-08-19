@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131156;杉並区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子ども家庭支援課子ども家庭支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131156",
+    "psid": "psid3.0+8000020131156+1+UM782"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都杉並区阿佐谷北1丁目4番2号　杉並子ども家庭支援センター",
+    "contactComment": "（直通）",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部子ども家庭支援課子ども家庭支援係",
+    "contactPhone": "03-5356-2602",
+    "contactUrl": null,
+    "zipCode": "1660001"
+  },
+  "cost": null,
+  "costConditions": "2歳未満：5,000円（1泊2日料金、1日増えるごとに2,500円）\n2歳以上：4,300円（1泊2日料金、1日増えるごとに2,150円）\n（生活保護世帯、住民税非課税世帯は、免除になります）",
+  "description": "子どもショートステイ\nページ番号1004734　 更新日 令和6年5月20日 印刷\n\n保護者の方が、病気、出産などで一時的にお子さんを養育できない時に、区内の児童養護施設・乳児院において宿泊でお預かりします。\n利用を希望される際には、事前にご相談ください。\n\n疾病、事故等により入院・加療するとき\n家族の看護にあたるとき\n出産する時\n育児疲れ、不安などがあり、養育が困難なとき\n冠婚葬祭に出席するとき\nその他、特別な事情があるとき\n対象児童\n杉並区に住所を有する家庭の0歳から12歳（小学生）までの児童\n\n定員（1日につき）\n0歳から2歳未満：3名、2歳から12歳：5名\n\n期間\n1回につき概ね7日間以内（年度内の合計は、児童1人につき28日以内です）\n\n委託施設\n社会福祉法人カリタスの園（杉並区井草4丁目19番28号）\n\nつぼみの寮（乳児院）：2歳未満\n小百合の寮（児童養護施設）：2歳以上\n（注）食材提供表は、つぼみの寮で使用しますので、ご利用前にご覧ください。\n\n食材提供表（2歳児未満） （PDF 669.0KB）;https://www.city.suginami.tokyo.jp/_res/projects/default_project/_page_/001/004/734/shokuzaihyo.pdf\n保護者負担金\n2歳未満：5,000円（1泊2日料金、1日増えるごとに2,500円）\n2歳以上：4,300円（1泊2日料金、1日増えるごとに2,150円）\n（生活保護世帯、住民税非課税世帯は、免除になります）\n\n子育て応援券が使えます。\n\n申し込み\n杉並子ども家庭支援センター　ゆうライン（相談専用窓口）\n電話：03-5356-2601\n月曜日～土曜日（祝日、年末年始、以下の土曜日を除く）午前9時～午後5時\n（注）令和6年4月27日、7月13日、8月10日、9月14日、9月21日、10月12日、11月2日、12月28日、令和7年1月4日、1月11日、2月22日\n\n利用日の2カ月前から、お申し込みできます。\n原則、利用希望日の1週間前までにお申し込みください。\n申し込みに必要な申請書は、申請書等配信サービスにてダウンロードすることができます。\n以下のページをご覧ください。\n\n杉並区子どもショートステイ申請書;https://www.city.suginami.tokyo.jp/shinseisho/kodomo/josei/1006008.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "杉並区井草4丁目19番28号",
+    "implementationName": "社会福祉法人カリタスの園（杉並区井草4丁目19番28号）\n\nつぼみの寮（乳児院）：2歳未満\n小百合の寮（児童養護施設）：2歳以上"
+  },
+  "institutionName": {
+    "canonicalName": "ショートステイ（短期入所生活援助事業）",
+    "shortName": "子どもショートステイ"
+  },
+  "localGovernmentLink": {
+    "title": "子どもショートステイ",
+    "uri": "https://www.city.suginami.tokyo.jp/guide/kosodate/navi/hoikuservice/1004734.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025-03-13",
+    "updater": "杉並区"
+  },
+  "procedureCounter": "杉並子ども家庭支援センター　ゆうライン（相談専用窓口）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "杉並子ども家庭支援センター　ゆうライン（相談専用窓口）\n電話：03-5356-2601\n月曜日～土曜日（祝日、年末年始、一部土曜日を除く）午前9時～午後5時",
+  "procedurePeriod": {
+    "conditions": "月曜日～土曜日（祝日、年末年始、月曜日が祝日の場合の直前の土曜日を除く）午前9時～午後5時\n利用日の2カ月前から、お申し込みできます。\n原則、利用希望日の1週間前までにお申し込みください。",
+    "fromHM": "09:00",
+    "fromYMD": null,
+    "toHM": "17:00",
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第3項、第21条の9、第59条第6号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者が入院や通院、出張などの理由で、一時的に家庭でお子さんの面倒をみられなくなったときに、お近くの児童養護施設、乳児院、母子生活支援施設で、宿泊を伴ってお子さんをお預かりします。",
+  "support": {
+    "description": "保護者の方が、病気、出産などで一時的にお子さんを養育できない時に、区内の児童養護施設・乳児院において宿泊でお預かりします。",
+    "materiallySupport": "区内の児童養護施設・乳児院において宿泊でお預かり",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0歳から12歳（小学生）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "杉並区に住所を有する家庭の0歳から12歳（小学生）までの児童"
+  },
+  "updateDate": "2024-05-20",
+  "useConsiderationFlag": false,
+  "utilization": "杉並子ども家庭支援センター　ゆうライン（相談専用窓口）\n電話：03-5356-2601\n月曜日～土曜日（祝日、年末年始、一部土曜日を除く）午前9時～午後5時",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

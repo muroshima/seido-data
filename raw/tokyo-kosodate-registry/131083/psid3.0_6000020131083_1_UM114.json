@@ -1,0 +1,144 @@
+{
+  "area": {
+    "areaCode": "131083;江東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部 健康推進課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131083",
+    "psid": "psid3.0+6000020131083+1+UM114"
+  },
+  "belongings": "保険証",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "Fax：03-3615-7171",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部（保健所）健康推進課がん対策・地域医療連携係",
+    "contactPhone": "03-3647-5889",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "平日夜間こどもクリニックのご案内\n江東区平日夜間こどもクリニックのご案内\nこども達の健康と子育ての安心のため、区では平日の夜間に、小児救急診療所を開設しています。\n平日の夜間、診療所が閉まった後や就寝前、お子様の急な発熱・腹痛などでお困りの時ご利用ください。\n\n受診される際には、必ず保険証をお持ちください。保険証がない場合には、全額実費負担となりますのでご注意ください。\nなお、投薬につきましては、翌日かかりつけ医等を受診されるまでの1日分の処方を原則としております。\n\n・平日夜間こどもクリニックでは、新型コロナウイルスの検査は実施しておりません。\n・発熱している方は、事前に電話してから受診してください。\n・受診時には、マスクの着用をお願いします。\n平日夜間こどもクリニック\n|診療対象者|小児科の急病患者（中学生まで）|<|\n|:----|:----|:----|\n|開設日|平日夜間（月～金）（土・日・祝・年末年始（12月29日～1月4日）を除く）|<|\n|診療受付|（平日）午後8時～午後10時45分|<|\n|診療時間|（平日）午後8時～午後11時|<|\n|診療所|江東区平日夜間こどもクリニック|江東区医師会館内（東陽5丁目31番18号）電話03-3645-3109|\n|調剤薬局|薬剤師会江東区支部平日夜間調剤薬局|江東区医師会館内（東陽5丁目31番18号）電話03-5606-0502|\n\n平日夜間こどもクリニック案内図\nhttps://www.city.koto.lg.jp/260315/kodomo/iryo/shouni/images/10077_isikaikan.jpg\n都内の救急医療機関をお探しの方（急病でお困りの方）へ\n本ページ一番下「関連リンク」より「休日・全夜間診療事業実施医療機関一覧（東京都指定二次救急医療機関一覧）」をクリックしていただくと東京都作成のホームページよりお探しすることが出来ます。\n\n問い合わせ先\n健康部（保健所）健康推進課がん対策・地域医療連携係\n\n電話番号：03-3647-5889\n\nFax：03-3615-7171\n\n関連リンク\n東京都こども医療ガイド（外部サイトへリンク）（別ウィンドウで開きます）;http://www.guide.metro.tokyo.jp/\n子供の健康相談室（小児救急相談）【＃8000】（外部サイトへリンク）（別ウィンドウで開きます）;http://www.fukushihoken.metro.tokyo.jp/kodomo/sodan/k_soudan.html\n医療機関・薬局公的検索システム「医療情報ネット（ナビイ）」（外部サイトへリンク）（別ウィンドウで開きます）;https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2300/initialize\n知って安心暮らしの中の医療情報ナビ（外部サイトへリンク）（別ウィンドウで開きます）;http://www.fukushihoken.metro.tokyo.jp/inavi/\n休日・全夜間診療事業実施医療機関一覧（東京都指定二次救急医療機関一覧）（外部サイトへリンク）（別ウィンドウで開きます）;https://www.hokeniryo.metro.tokyo.lg.jp/iryo/sodan/komatta/kyuubyou/kyuujituzennyakann.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "土曜日・日曜日・祝日及び年末年始",
+  "implementationPeriod": {
+    "conditions": "平日夜間（月～金）（土・日・祝・年末年始（12月29日～1月4日）を除く）\n診療受付\t（平日）午後8時～午後10時45分\n診療時間\t（平日）午後8時～午後11時\n",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "江東区東陽5-31-18",
+    "implementationName": "江東区平日夜間こどもクリニック\t（江東区医師会館内）\n\n平日夜間調剤薬局\t（江東区医師会館内）"
+  },
+  "institutionName": {
+    "canonicalName": "小児科救急",
+    "shortName": "平日夜間こどもクリニックのご案内"
+  },
+  "localGovernmentLink": {
+    "title": "平日夜間こどもクリニックのご案内",
+    "uri": "https://www.city.koto.lg.jp/260315/kodomo/iryo/shouni/6903.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-25",
+    "updater": "江東区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "救急医療対策事業実施要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "休日・全夜間診療事業実施医療機関一覧（東京都指定二次救急医療機関一覧）（外部サイトへリンク）（別ウィンドウで開きます）",
+      "uri": "http://www.fukushihoken.metro.tokyo.jp/inavi/"
+    },
+    {
+      "title": "子供の健康相談室（小児救急相談）【＃8000】（外部サイトへリンク）（別ウィンドウで開きます）",
+      "uri": "http://www.fukushihoken.metro.tokyo.jp/kodomo/sodan/k_soudan.html"
+    },
+    {
+      "title": "知って安心暮らしの中の医療情報ナビ（外部サイトへリンク）（別ウィンドウで開きます）",
+      "uri": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2300/initialize"
+    },
+    {
+      "title": "医療機関・薬局公的検索システム「医療情報ネット（ナビイ）」（外部サイトへリンク）（別ウィンドウで開きます）",
+      "uri": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2300/initialize"
+    },
+    {
+      "title": "東京都こども医療ガイド（外部サイトへリンク）（別ウィンドウで開きます）",
+      "uri": "http://www.guide.metro.tokyo.jp/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "江東区では、平日夜間に、小児救急診療所を開設しています。",
+  "support": {
+    "description": "江東区平日夜間こどもクリニックのご案内\nこども達の健康と子育ての安心のため、区では平日の夜間に、小児救急診療所を開設しています。\n平日の夜間、診療所が閉まった後や就寝前、お子様の急な発熱・腹痛などでお困りの時ご利用ください。\n\n受診される際には、必ず保険証をお持ちください。保険証がない場合には、全額実費負担となりますのでご注意ください。\nなお、投薬につきましては、翌日かかりつけ医等を受診されるまでの1日分の処方を原則としております。\n\n・平日夜間こどもクリニックでは、新型コロナウイルスの検査は実施しておりません。\n・発熱している方は、事前に電話してから受診してください。\n・受診時には、マスクの着用をお願いします。\n平日夜間こどもクリニック\n|診療対象者|小児科の急病患者（中学生まで）|<|\n|:----|:----|:----|\n|開設日|平日夜間（月～金）（土・日・祝・年末年始（12月29日～1月4日）を除く）|<|\n|診療受付|（平日）午後8時～午後10時45分|<|\n|診療時間|（平日）午後8時～午後11時|<|\n|診療所|江東区平日夜間こどもクリニック|江東区医師会館内（東陽5丁目31番18号）電話03-3645-3109|\n|調剤薬局|薬剤師会江東区支部平日夜間調剤薬局|江東区医師会館内（東陽5丁目31番18号）電話03-5606-0502|\n",
+    "materiallySupport": "江東区平日夜間こどもクリニックのご案内\nこども達の健康と子育ての安心のため、区では平日の夜間に、小児救急診療所を開設しています。\n平日の夜間、診療所が閉まった後や就寝前、お子様の急な発熱・腹痛などでお困りの時ご利用ください。\n\n受診される際には、必ず保険証をお持ちください。保険証がない場合には、全額実費負担となりますのでご注意ください。\nなお、投薬につきましては、翌日かかりつけ医等を受診されるまでの1日分の処方を原則としております。\n\n・平日夜間こどもクリニックでは、新型コロナウイルスの検査は実施しておりません。\n・発熱している方は、事前に電話してから受診してください。\n・受診時には、マスクの着用をお願いします。\n平日夜間こどもクリニック\n|診療対象者|小児科の急病患者（中学生まで）|<|\n|:----|:----|:----|\n|開設日|平日夜間（月～金）（土・日・祝・年末年始（12月29日～1月4日）を除く）|<|\n|診療受付|（平日）午後8時～午後10時45分|<|\n|診療時間|（平日）午後8時～午後11時|<|\n|診療所|江東区平日夜間こどもクリニック|江東区医師会館内（東陽5丁目31番18号）電話03-3645-3109|\n|調剤薬局|薬剤師会江東区支部平日夜間調剤薬局|江東区医師会館内（東陽5丁目31番18号）電話03-5606-0502|\n",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "中学生以下",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "小児科の急病患者（中学生まで）"
+  },
+  "updateDate": "2024-04-19",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "診療受付 （平日）午後8時～午後10時45分\n診療時間 （平日）午後8時～午後11時",
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "132217;清瀬市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132217",
+    "psid": "psid3.0+3000020132217+1+UM798"
+  },
+  "belongings": "筆記用具",
+  "capacity": "6組",
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都清瀬市中里5-842　しあわせ未来センター1階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て支援課母子保健係",
+    "contactPhone": "042-497-2077",
+    "contactUrl": null,
+    "zipCode": "2048511"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "じいじ・ばあばのための離乳食教室\n\nページ番号1012440　 更新日 2024年8月6日\n印刷大きな文字で印刷\nイベントカテゴリ： 講座・教室\n\nirasuto\n\n開催日　2025年1月30日（木曜日）\n\n時間　午前10時から午前11時30分\n\n場所　しあわせ未来センター　2階　クッキングスタジオ\n\n対象　離乳食開始前または、離乳期のお孫さんをお持ちの祖父母等\n\n定員　6組\n※定員となり次第、締め切りとさせていただきます。\n\n費用　無料\n\n持ち物　筆記用具\n\n申込　申込みフォーム(12月15日より）\n\n管理栄養士による今と昔の離乳食の違いについての講話と相談を行います。\n\n申込みフォーム(1月分)（外部リンク）;https://logoform.jp/form/QzsJ/686738\n\n地図を表示する（外部リンク）;https://maps.google.com/maps?q=35.786055,139.52605070000004\n\n関連ファイル\n令和6年度　じいじ・ばあばのための離乳食教室　日程表 （PDF 234.7KB）;https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/012/337/r6jiiji.pdf\nイベント情報をiPhone・iPad端末のカレンダーに取り込めます。\n\nカレンダーへの取り込みについて説明を読む",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "申込みフォーム(12月15日より）",
+      "uri": "https://logoform.jp/form/QzsJ/686738"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": "10:00",
+    "fromYMD": "2025-01-30",
+    "toHM": "11:30",
+    "toYMD": "2025-01-30"
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "しあわせ未来センター　2階　クッキングスタジオ"
+  },
+  "institutionName": {
+    "canonicalName": "離乳食教室",
+    "shortName": "じいじ・ばあばのための離乳食教室"
+  },
+  "localGovernmentLink": {
+    "title": "じいじ・ばあばのための離乳食教室",
+    "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/mokuteki/1012383/1012440.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "清瀬市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申込みフォーム(12月15日より）",
+  "procedurePeriod": {
+    "conditions": "申込みフォーム(12月15日より）",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第3条（乳幼児の健康の保持増進）、9条（知識の普及）、法第5条（子どもの食育における保護者、教育関係者等の役割）、21条 （地域における食生活の改善のための取組の推進）",
+    "regulationName": "母子保健法、食育基本法"
+  },
+  "relatedLink": [
+    {
+      "title": "令和6年度　じいじ・ばあばのための離乳食教室　日程表 （PDF 234.7KB）",
+      "uri": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/012/337/r6jiiji.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "離乳食開始前または、離乳期のお孫さんをお持ちの祖父母等を対象に、離乳食を始める時のポイントやすすめ方についての講座を開催しています。管理栄養士による今と昔の離乳食の違いについての講話と相談を行います。",
+  "support": {
+    "description": "管理栄養士による今と昔の離乳食の違いについての講話と相談を行います。",
+    "materiallySupport": "管理栄養士による今と昔の離乳食の違いについての講話と相談",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "離乳食開始前または、離乳期のお孫さん",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "離乳食開始前または、離乳期のお孫さんをお持ちの祖父母等"
+  },
+  "updateDate": "2024-08-06",
+  "useConsiderationFlag": false,
+  "utilization": "申込みフォーム(12月15日より）",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

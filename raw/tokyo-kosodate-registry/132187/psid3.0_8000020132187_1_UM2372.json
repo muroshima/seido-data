@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132187;福生市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子ども育成課　保育・幼稚園係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132187",
+    "psid": "psid3.0+8000020132187+1+UM2372"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都福生市本町5",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子ども育成課　保育・幼稚園係",
+    "contactPhone": "042-551-1780",
+    "contactUrl": null,
+    "zipCode": "1978501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "|4月1日の年齢|無償化の概要|\n|:----|:----|\n|3から5歳|月額37,000円までの利用料を無償化（所得制限なし）|\n|0から2歳|月額42,000円までの利用料を無償化（非課税世帯のみ|\n\n|利用できる認可外保育施設（上限までなら複数利用可能）|\n|:----|\n|認証保育所、一時預かり事業、病児保育事業、ファミリー・サポート・センターの預かり事業、ベビーシッター、その他各種認可外保育施設（ただし、一定の基準を満たしている施設のみ）|\n\n保育の必要性の認定が必要です。\n\n幼稚園、保育園、認定こども園等に通っていないことが条件となります。\n\n利用する施設によっては手続きが必要となる場合がありますので、ご利用の際は保育・幼稚園係にお問い合わせください。\n\n|市内の認可外保育施設名|所在地|電話番号|\n|:----|:----|:----|\n|リトルベアインターナショナルスクール|福生市南田園2-16-12-101|042-539-1222|\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "福生市南田園2-16-12-101",
+    "implementationName": "リトルベアインターナショナルスクール"
+  },
+  "institutionName": {
+    "canonicalName": "認可外保育施設の利用について",
+    "shortName": "認可外保育施設の利用"
+  },
+  "localGovernmentLink": {
+    "title": "認可外保育施設の利用について",
+    "uri": "https://www.city.fussa.tokyo.jp/kofukunavi/1012676/1014426.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "福生市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "利用する施設によっては手続きが必要となる場合がありますので、ご利用の際は保育・幼稚園係にお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第30条の4～10(第2章第4節第2款 施設等利用給付認定等)",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "認可外保育施設とは、公的助成の有無や事業規模などにかかわらず、児童福祉法、もしくは認定こども園法に基づく認可を受けていない、お子さんを預かる施設・サービスの総称です。\n具体的には、リトルベアインターナショナルスクール、企業主導型保育、ベビーホテル、ベビーシッター、事業所内や院内の託児室、その他、認可外保育施設として都道府県等に届出を行ったものを指します。\n\n保育の内容や料金設定などは施設によりさまざまです。これらの施設を利用する際は、保護者自身の目で直接確認し、充分な説明を受け、納得したうえで選ぶことが大切です。",
+  "support": {
+    "description": "月額37,000円までの利用料を無償化（所得制限なし）",
+    "materiallySupport": null,
+    "monetarySupport": "月額37,000円までの利用料を無償化（所得制限なし）"
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "4月1日の年齢\t\n3から5歳",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 5,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "3から5歳"
+  },
+  "updateDate": "2023-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "保育の必要性の認定が必要です。\n\n幼稚園、保育園、認定こども園等に通っていないことが条件となります。\n\n利用する施設によっては手続きが必要となる場合がありますので、ご利用の際は保育・幼稚園係にお問い合わせください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

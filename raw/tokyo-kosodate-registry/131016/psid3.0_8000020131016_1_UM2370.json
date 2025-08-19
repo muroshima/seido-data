@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": null,
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+1+UM2370"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区九段南1-2-1",
+    "contactComment": null,
+    "contactEmail": "kodomoshien@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "教育委員会事務局子ども部子ども支援課入園審査係",
+    "contactPhone": "03-5211-4119",
+    "contactUrl": null,
+    "zipCode": "1028688"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "現在の状況および転入先自治体によって申し込み方法が異なります。\n詳細は下記をご確認ください。\n\n【転出先自治体への転入届出日が、転出先自治体の申込期限より前の場合】\n◆申し込み先\n申し込みは、転出先自治体に直接行うことができます。転入後に転出先自治体の申込書でお申し込みください。お申し込みに当たっては転出先自治体までお問い合わせください。\n\n【転出先自治体への転入届出日が、転出先自治体の申込期限より後の場合】\n◆申し込み先\n申し込みは、転出先自治体に直接行ってください。\n（注意） 転出先自治体が直接申し込みを受け付けられない場合は千代田区へご提出ください。\n\n【転入届出後の手続き】\n転出先自治体の住民としての申し込みが必要な場合があります。\n詳細は転出先自治体にお問い合わせください。\n\n",
+  "electronicSubmission": true,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "広域入所（市外の認可保育所等への入所）",
+    "shortName": "なし"
+  },
+  "localGovernmentLink": {
+    "title": "保育園入園案内",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoikuen/riyoannai/hoikuen-nyuen.html#tennyu"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "【転出先自治体への転入届出日が、転出先自治体の申込期限より前の場合】\n◆申し込み先\n申し込みは、転出先自治体に直接行うことができます。転入後に転出先自治体の申込書でお申し込みください。お申し込みに当たっては転出先自治体までお問い合わせください。\n\n【転出先自治体への転入届出日が、転出先自治体の申込期限より後の場合】\n◆申し込み先\n申し込みは、転出先自治体に直接行ってください。\n（注意） 転出先自治体が直接申し込みを受け付けられない場合は千代田区へご提出ください。\n\n【転入届出後の手続き】\n転出先自治体の住民としての申し込みが必要な場合があります。\n詳細は転出先自治体にお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": "申込期限は自治体によって異なります。必ず事前に転出先自治体にお問い合わせください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "区内在住の方",
+  "regulation": {
+    "regulationArticle": "第3条第1項",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "現在、千代田区在住の方が千代田区外の園に入園申し込みをされる場合、申込手続きが通常と異なる場合がございます。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "申し込み先の自治体に直接ご確認ください",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": "ご利用・お手続きの前に必ず転出先自治体にご確認ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

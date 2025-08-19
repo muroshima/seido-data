@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132187;福生市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子ども育成課　保育・幼稚園係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132187",
+    "psid": "psid3.0+8000020132187+1+UM76"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都福生市本町5",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子ども育成課　保育・幼稚園係",
+    "contactPhone": "042-551-1780",
+    "contactUrl": null,
+    "zipCode": "1978501"
+  },
+  "cost": null,
+  "costConditions": "お子さんの状態や月齢などを考慮して行っています。詳しくは各保育園に直接お問い合わせください。 \n\n||利用区分|延長内容|利用時間|延長保育料|\n|:----|:----|:----|:----|:----|\n|月利用|保育短時間|前延長（1.5時間）|7時から8時30分|1,500円|\n|^|^|後延長（1.5時間）|16時30分から18時|1,500円|\n|^|保育短時間・保育標準時間|延長（1時間）|18時から19時|3,000円|\n|^|^|延長（2時間）|18時から20時|6,000円|\n|単発利用　|<|<|300円／30分　|<|\n\n|実施保育園|利用時間|\n|:----|:----|\n|下記以外の施設|19時まで|\n|すみれ保育園、ありんこ保育園、牛浜こども園|20時まで　　|\n",
+  "description": "保育園では延長保育を行っています。\n延長保育の申込みや料金の支払いは、各保育園で直接行ってください。\n\n延長保育\n対象児童は、保育園在籍児童となります。\n\nお子さんの状態や月齢などを考慮して行っています。詳しくは各保育園に直接お問い合わせください。 \n\n||利用区分|延長内容|利用時間|延長保育料|\n|:----|:----|:----|:----|:----|\n|月利用|保育短時間|前延長（1.5時間）|7時から8時30分|1,500円|\n|^|^|後延長（1.5時間）|16時30分から18時|1,500円|\n|^|保育短時間・保育標準時間|延長（1時間）|18時から19時|3,000円|\n|^|^|延長（2時間）|18時から20時|6,000円|\n|単発利用|<|<|300円／30分|<|\n\n|実施保育園|利用時間|\n|:----|:----|\n|下記以外の施設|19時まで|\n|すみれ保育園、ありんこ保育園、牛浜こども園|20時まで|\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "お子さんの状態や月齢などを考慮して行っています。詳しくは各保育園に直接お問い合わせください。 \n\n||利用区分|延長内容|利用時間|延長保育料|\n|:----|:----|:----|:----|:----|\n|月利用|保育短時間|前延長（1.5時間）|7時から8時30分|1,500円|\n|^|^|後延長（1.5時間）|16時30分から18時|1,500円|\n|^|保育短時間・保育標準時間|延長（1時間）|18時から19時|3,000円|\n|^|^|延長（2時間）|18時から20時|6,000円|\n|単発利用　|<|<|300円／30分　|<|\n\n|実施保育園|利用時間|\n|:----|:----|\n|下記以外の施設|19時まで|\n|すみれ保育園、ありんこ保育園、牛浜こども園|20時まで　　|\n",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "延長保育",
+    "shortName": "延長保育"
+  },
+  "localGovernmentLink": {
+    "title": "延長保育について",
+    "uri": "https://www.city.fussa.tokyo.jp/kofukunavi/1012676/1018157.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "福生市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "詳しくは各保育園に直接お問い合わせください。 ",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第59条第2号",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "福生市内の保育園（保育所）や認定こども園、地域型保育施設では、保護者の勤務時間などにより、認定を受けた時間帯を超えて保育が必要なお子さんを対象に、別途料金を徴収のうえで、延長保育を実施しています。",
+  "support": {
+    "description": "お子さんの状態や月齢などを考慮して行っています。詳しくは各保育園に直接お問い合わせください。 \n\n||利用区分|延長内容|利用時間|延長保育料|\n|:----|:----|:----|:----|:----|\n|月利用|保育短時間|前延長（1.5時間）|7時から8時30分|1,500円|\n|^|^|後延長（1.5時間）|16時30分から18時|1,500円|\n|^|保育短時間・保育標準時間|延長（1時間）|18時から19時|3,000円|\n|^|^|延長（2時間）|18時から20時|6,000円|\n|単発利用　|<|<|300円／30分　|<|\n\n|実施保育園|利用時間|\n|:----|:----|\n|下記以外の施設|19時まで|\n|すみれ保育園、ありんこ保育園、牛浜こども園|20時まで　　|\n",
+    "materiallySupport": "お子さんの状態や月齢などを考慮して行っています。詳しくは各保育園に直接お問い合わせください。 \n\n||利用区分|延長内容|利用時間|延長保育料|\n|:----|:----|:----|:----|:----|\n|月利用|保育短時間|前延長（1.5時間）|7時から8時30分|1,500円|\n|^|^|後延長（1.5時間）|16時30分から18時|1,500円|\n|^|保育短時間・保育標準時間|延長（1時間）|18時から19時|3,000円|\n|^|^|延長（2時間）|18時から20時|6,000円|\n|単発利用　|<|<|300円／30分　|<|\n\n|実施保育園|利用時間|\n|:----|:----|\n|下記以外の施設|19時まで|\n|すみれ保育園、ありんこ保育園、牛浜こども園|20時まで　　|\n",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象児童は、保育園在籍児童となります。"
+  },
+  "updateDate": "2023-10-15",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "お子さんの状態や月齢などを考慮して行っています。詳しくは各保育園に直接お問い合わせください。 \n\n||利用区分|延長内容|利用時間|延長保育料|\n|:----|:----|:----|:----|:----|\n|月利用|保育短時間|前延長（1.5時間）|7時から8時30分|1,500円|\n|^|^|後延長（1.5時間）|16時30分から18時|1,500円|\n|^|保育短時間・保育標準時間|延長（1時間）|18時から19時|3,000円|\n|^|^|延長（2時間）|18時から20時|6,000円|\n|単発利用　|<|<|300円／30分　|<|\n\n|実施保育園|利用時間|\n|:----|:----|\n|下記以外の施設|19時まで|\n|すみれ保育園、ありんこ保育園、牛浜こども園|20時まで　　|\n",
+    "fromHM": null,
+    "toHM": null
+  }
+}

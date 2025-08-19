@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部児童家庭課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+2+UM24"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部児童家庭課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e049/kuseijoho/gaiyo/soshiki/kodomo/jidou.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "\n\n令和6年10月から児童手当制度が変わります。制度改正により新たに児童手当の受給資格等が生じる方は手続きが必要です。詳しくは、児童手当の制度改正（拡充）（令和6年10月分以降）で手続きが必要な方をご覧ください。https://www.city.edogawa.tokyo.jp/e049/kosodate/kosodate/teateshien/2024_jidoteate_kaisei.html\n\n令和6年9月分までの児童手当については、児童手当（令和6年9月分までの制度）をご覧ください。https://www.city.edogawa.tokyo.jp/e049/kosodate/kosodate/teateshien/2024_9_jidoteate.html児童手当は、次代の社会を担う児童の健やかな成長に資することを目的とした、国の子育て支援策です。\n\n申請・届出には必要書類のほか、「行政手続における特定の個人を識別するための番号の利用等に関する法律」に基づく、本人確認が必要です。詳細については下記マイナンバー（個人番号）申請時の本人確認について、及び「4.必要書類」をご覧ください。\n\nマイナンバー（個人番号）申請時の本人確認について\n\n児童手当について、みなさんからお問い合わせいただく主なものをまとめました。以下のページをご参照ください。\nまた、チャットボットで質問することも可能です。\n\n児童手当の疑問についてAIチャットボットが直接お答えします。（外部サイトへリンク）（別ウィンドウで開きます）\n\n画面右下に表示されているボタンからもアクセスできます。\n\nhttps://chatbot-city-edogawa.ai8341.jp/childcare/\n\n窓口混雑予想と手続き時間（3月、4月は特に窓口の混雑が予想されます）\n窓口混雑予想と手続き時間について\nhttps://www.city.edogawa.tokyo.jp/e049/kosodate/kosodate/teateshien/madoguchikonzatsu.html児童手当についてのよくある質問\n児童手当のよくある質問\n\n児童手当チャットボット（二次元コード）\nAIチャットボットでも児童手当の疑問にお答えします。（外部サイトへリンク）（別ウィンドウで開きます）\nhttps://chatbot-city-edogawa.ai8341.jp/childcare/\n\n画面右下に表示されているボタンからもアクセスできます。\n\n9.児童手当のご案内\n「児童手当のご案内」（PDF：624KB）（別ウィンドウで開きます）をご覧ください。\nhttps://www.city.edogawa.tokyo.jp/documents/7402/2024_goannai.pdf",
+  "electronicSubmission": false,
+  "formLink": [
+    {
+      "title": "ぴったりサービス",
+      "uri": "https://myna.go.jp/SCK1501_02_001/SCK1501_02_001_Init.form"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "児童手当",
+    "shortName": "児童手当"
+  },
+  "localGovernmentLink": {
+    "title": "児童手当",
+    "uri": "https://www.city.edogawa.tokyo.jp/e049/kosodate/kosodate/teateshien/kodomoteate.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "本庁舎東棟2階4番児童家庭課窓口でのみ受付します（各事務所では受付していません）。",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "3.申請方法\n1.申請は生計中心者が行います。「窓口持参」または「郵送」のいずれかの方法により申請してください。「ぴったりサービス」を利用した電子申請の手続きも可能です。電子申請ではマイナンバーカードによるログイン・電子署名が必要です。\nhttps://www.city.edogawa.tokyo.jp/documents/7402/2024_kisairei.pdf\n児童手当認定（額改定）請求書（記載例）（PDF：1,045KB）（別ウィンドウで開きます）\nhttps://myna/go.jp/search\n【申請方法一覧】窓口持参による申請　本庁舎東棟2階4番児童家庭課窓口でのみ受付します（各事務所では受付していません）。\n郵送による申請　児童家庭課に書類が到着した日が申請日となります。（注）郵便の記録が残るように特定記録郵便などで郵送されることをお勧めします。【送付先】〒132-8501江戸川区中央1丁目4番1号江戸川区子ども家庭部児童家庭課手当助成係封してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "児童手当法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "家庭における生活の安定と、これからの社会を担うお子さんの健やかな成長のために、高校生年代までの児童（0歳から18歳に達する日以後の最初の3月31日までの間にある子）を養育している人に、児童手当を支給します。",
+  "support": {
+    "description": "手当は、偶数月に、前月までの2か月分をまとめて支給します。\n支給額は、支給対象となるお子さんの年齢や、養育するお子さんの人数により異なります。\n※養育するお子さんの人数は、大学生年代（22歳に達する日以降の最初の3月31日）までのお子さんのうち、年長者から第1子、第2子と数えます。\nお子さんの年齢や出生順位に応じて、以下の金額を支給します。\n＜3歳から18歳（18歳に達する日以降の最初の3月31日）＞\n第1子、第2子：月額1万円\n第3子以降：月額3万円",
+    "materiallySupport": null,
+    "monetarySupport": "第1子、第2子：月額1万円\n第3子以降：月額3万円"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "3歳から18歳（18歳に達する日以降の最初の3月31日）まで\n\n第3子以降は養育する22歳（22歳に達する日以降の最初の3月31日）までの児童の人数により判定します。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "高校生年代（18歳に達する日以後の最初の3月31日）までのお子さんを養育している方が対象です。\nお子さんを養育している父母、または未成年後見人の場合:原則として、お子さんが日本国内に住んでいる場合に手当を支給します。\nお子さんが留学を理由に海外に住んでおり、以下の要件を満たしている場合は、例外として、そのお子さんの分の手当を受け取ることができます。\n1.日本国内に住所を有しなくなった前日までに日本国内に継続して3年を超えて住所を有していたこと\n2.教育を受けることを目的として海外に居住しており、父母（未成年後見人がいる場合はその未成年後見人）と同居していないこと\n3.日本国内に住所を有しなくなった日から3年以内であること\n※その他、短期間留学していて日本に帰国し、再び3年以内に留学する場合などは、上記の要件を満たしていなくても、手当を受け取れる場合があります。\n両親が離婚協議中で別居している場合:父母が、離婚協議中で別居している場合は、お子さんと同居している方を優先して支給する場合があります。\n父母等が海外に住んでいる場合:父母等が海外に住んでいる場合、その父母が、日本国内に住むお子さんを養育している人を指定すれば、指定された方に手当を支給します。お子さんの住所のある市区町村に「父母指定者指定届」を提出して、認定を受けてください。\n※ただし、単身赴任の場合は、これまでどおり、お子さんの生活費を主に負担している方に支給します。\n未成年後見人がいる場合:お子さんを養育している未成年後見人がいる場合は、未成年後見人に手当を支給します。\nお子さんが施設に入所している場合や里親などに委託されている場合:お子さんが施設に入所している場合や里親などに委託されている（預けられている）場合は、原則として、その施設の設置者や里親などに手当を支給します。"
+  },
+  "updateDate": "2024-09-01",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

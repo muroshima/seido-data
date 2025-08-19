@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "132292;西東京市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "西東京市児童発達支援センターひいらぎ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132292",
+    "psid": "psid3.0+1000020132292+3+UM106"
+  },
+  "belongings": null,
+  "capacity": "50名",
+  "class": 1,
+  "contact": {
+    "contactAddress": "西東京市住吉町6-15-6住吉会館ルピナス1階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "西東京市児童発達支援センターひいらぎ",
+    "contactPhone": "042-422-9897",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "令和6年度　ペアレントトレーニングに学ぶほめる子育て～親子のグッドサイクルのために～\n\nチラシ;https://www.city.nishitokyo.lg.jp/kosodate/hiiragi/shiminkoza/r6peatore.images/peatore.png\n\n講師紹介\n神谷未和子先生\n臨床発達心理士、元西東京市こどもの発達センターひいらぎ所長\n\n時間\n午前10時から11時45分（開場9時45分）\nどちらのコースも同じ時間です。\n\n保谷駅前公民館コース\n5月16日（木曜日）\n6月6日（木曜日）\n6月27日（木曜日）\n\n田無公民館コース\n9月30日（月曜日）\n10月21日（月曜日）\n11月11日（月曜日）\n\n定員\n50名\n\n対象\n・西東京市に在住、または在園の概ね幼児期から小学校低学年のお子様の保護者様。\n・3回連続で参加できる方が優先です。\n\n申し込み方法\nチラシのQRコードまたは下記リンクよりお申し込みください。\n\n申込フォーム（外部リンク）;https://logoform.jp/form/AAZE/527141",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "申込フォーム（外部リンク）",
+      "uri": "https://logoform.jp/form/AAZE/527141"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "時間\n午前10時から11時45分（開場9時45分）\nどちらのコースも同じ時間です。\n\n保谷駅前公民館コース\n5月16日（木曜日）\n6月6日（木曜日）\n6月27日（木曜日）\n\n田無公民館コース\n9月30日（月曜日）\n10月21日（月曜日）\n11月11日（月曜日）",
+    "fromHM": "10:00",
+    "fromYMD": null,
+    "toHM": "11:45",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "保谷駅前公民館,田無公民館"
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関するサポート",
+    "shortName": "令和6年度　ペアレントトレーニングに学ぶほめる子育て～親子のグッドサイクルのために～"
+  },
+  "localGovernmentLink": {
+    "title": "令和6年度　ペアレントトレーニングに学ぶほめる子育て～親子のグッドサイクルのために～",
+    "uri": "https://www.city.nishitokyo.lg.jp/kosodate/hiiragi/shiminkoza/r6peatore.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-11",
+    "updater": "西東京市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "チラシのQRコードまたは下記リンクよりお申し込みください。\n\n申込フォーム（外部リンク）;https://logoform.jp/form/AAZE/527141",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第43条",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "チラシ",
+      "uri": "https://www.city.nishitokyo.lg.jp/kosodate/hiiragi/shiminkoza/r6peatore.images/peatore.png"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ペアレントトレーニングを基にした親子の関係性をよく（グッドサイクルに）するための講座、ワークショップです。家庭での実践も含めて、１コース３回行います。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "・西東京市に在住、または在園の概ね幼児期から小学校低学年のお子様の保護者様。\n・3回連続で参加できる方が優先です。"
+  },
+  "updateDate": "2024-04-05",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

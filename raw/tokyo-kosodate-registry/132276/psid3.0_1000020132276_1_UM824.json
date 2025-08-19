@@ -1,0 +1,146 @@
+{
+  "area": {
+    "areaCode": "132276;羽村市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "羽村市福祉健康部障害福祉課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132276",
+    "psid": "psid3.0+1000020132276+1+UM824"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都羽村市緑ヶ丘5丁目2番地1",
+    "contactComment": "（障害福祉係）内線172,（障害者支援係）内線185,FAX： 042-555-7323",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "羽村市福祉健康部障害福祉課",
+    "contactPhone": "042-555-1111",
+    "contactUrl": "https://www.city.hamura.tokyo.jp/mailform/inquiry.cgi?so=3f3f1026f89bcfc63cfba2bf694d4beec20f5720&ref=https%3A%2F%2Fwww.city.hamura.tokyo.jp%2F0000002424.html",
+    "zipCode": "2058601"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "精神障害および当該精神障害に起因して生じた疾病について通院医療費の一部を助成します。原則として1割負担となります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度（精神通院医療）",
+    "shortName": "自立支援医療（精神通院）"
+  },
+  "localGovernmentLink": {
+    "title": "自立支援医療（精神通院）",
+    "uri": "https://www.city.hamura.tokyo.jp/0000002424.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/03/03",
+    "updater": "羽村市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "加入している健康保険によって異なりますので、詳しくは問い合わせてください。\n※平成28年1月からはマイナンバー（個人番号）が必要となります。詳しくは担当課まで問い合わせてください。\n制度について詳しくは東京都のページをご覧ください。\n東京都福祉保健局　自立支援医療（精神通院医療）のページ;https://www.fukushi.metro.tokyo.lg.jp/shougai/nichijo/tsuuin/seishintsuuinへ（別のサイトに移ります）",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [
+    {
+      "title": "小児精神障害者入院医療費助成制度",
+      "uri": "https://www.city.hamura.tokyo.jp/0000002432.html"
+    },
+    {
+      "title": "自立支援医療（精神通院）",
+      "uri": "https://www.city.hamura.tokyo.jp/0000002424.html"
+    },
+    {
+      "title": "難病医療費等助成制度",
+      "uri": " https://www.city.hamura.tokyo.jp/0000000818.html"
+    },
+    {
+      "title": "心身障害者医療費助成制度（マル障）",
+      "uri": "https://www.city.hamura.tokyo.jp/0000000813.html"
+    },
+    {
+      "title": "自立支援医療（更生医療）",
+      "uri": "https://www.city.hamura.tokyo.jp/0000002425.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "一定の所得以上の方は対象とならない場合があります。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2018/02/28",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "131041;新宿区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": null,
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020131041",
+    "psid": "psid3.0+7000020131041+1+UM52"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ＦＡＸ：03-3260-6223,ＦＡＸ：03-3351-5166,ＦＡＸ：03-3200-1027,ＦＡＸ：03-3952-9943",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "牛込保健センター,四谷保健センター,東新宿保健センター,落合保健センター",
+    "contactPhone": "03-3260-6231,03-3351-5161,03-3200-1026,03-3952-7161",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "無料",
+  "description": "子どもの健診\n最終更新日：2024年4月1日\n新宿区保健センターでは、3～4か月児健診、1歳6か月児歯科健診、3歳児健診を実施しています。\nご相談のある方は担当の保健センターまでご連絡ください。\n────────────────────────────────────────────────────────────────────────　　\n新宿区では下表にある乳幼児健康診査を無料で行っています。\n【注記】指定された日時以外でお受けになりたい場合は、担当の保健センターへご連絡ください。\n【注記】指定された保健センター以外でお受けになりたい場合は、希望する保健センターへご連絡ください。\n新宿区に転入された方等で、6～7か月児及び9～10か月児健康診査受診票をお持ちでない方は、\n担当の保健センター;https://www.city.shinjuku.lg.jp/fukushi/file02_00023.htmlや新宿区健康づくり課(電話 03-5273-3047)の窓口で交付できます。\n||内容|対象時期|実施場所|備考|日程表|\n|:----|:----|:----|:----|:----|:----|\n|3～4か月児健診|問診、計測、診察、個別相談（育児・離乳食・歯等）|生後3か月～6か月未満|担当の保健センターでお受け下さい。|個別に通知します|令和6年度3～4か月児健診日程表[PDF形式：78KB]（新規ウィンドウ表示）;https://www.city.shinjuku.lg.jp/content/000360507.pdf|\n|6～7か月児健診|計測、診察|6～7か月|都内委託医療機関|3～4か月児健診時に受診票を配布||\n|9～10か月児健診|計測、診察|9～10か月|^|^|^|\n|1歳6か月児健診|計測、診察|満1歳6か月～2歳未満|区内委託医療機関|1歳6か月の頃、個別に受診票を送付します。|令和6年度1歳6か月児歯科健診日程表[PDF形式：79KB]（新規ウィンドウ表示）;https://www.city.shinjuku.lg.jp/content/000360509.pdf|\n|1歳6か月児歯科健診|問診、歯科健診、口のケアのアドバイス、育児・栄養相談、骨密度測定(希望者のみ)|^|担当の保健センターでお受け下さい。|^|^|\n|3歳児健診|問診、計測、目の屈折検査、尿検査、診察、歯科健診、口のケアのアドバイス、育児・栄養相談、骨密度測定（希望者のみ）|視力・聴力は自宅での事前検査があります|満3歳～4歳未満|担当の保健センターでお受け下さい。|令和6年度3歳児健診日程表[PDF形式：77KB]（新規ウィンドウ表示）;https://www.city.shinjuku.lg.jp/content/000360511.pdf|\n\n【注記】 おむつが外れていないなど採尿が難しい場合、尿検査は後日でもできますので、受付時にお申し出ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "令和6年度3歳児健診日程表[PDF形式：77KB]（新規ウィンドウ表示）;https://www.city.shinjuku.lg.jp/content/000360511.pdf",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "担当の保健センター"
+  },
+  "institutionName": {
+    "canonicalName": "3歳児健康診査",
+    "shortName": "3歳児健診"
+  },
+  "localGovernmentLink": {
+    "title": "子どもの健診",
+    "uri": "https://www.city.shinjuku.lg.jp/soshiki/ushigome-h01_001009.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "新宿区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "個別に通知します",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第12条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "令和6年度3歳児健診日程表[PDF形式：77KB]（新規ウィンドウ表示）",
+      "uri": "https://www.city.shinjuku.lg.jp/content/000360511.pdf"
+    },
+    {
+      "title": "保健センター",
+      "uri": "https://www.city.shinjuku.lg.jp/fukushi/file02_00023.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "からだやこころの成長とともに社会性も急速に発達するこの頃は、人間形成の基礎となる大切な時期です。新宿区では3歳児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+  "support": {
+    "description": "問診、計測、目の屈折検査、尿検査、診察、歯科健診、口のケアのアドバイス、育児・栄養相談、骨密度測定（希望者のみ）\n視力・聴力は自宅での事前検査があります",
+    "materiallySupport": "問診、計測、目の屈折検査、尿検査、診察、歯科健診、口のケアのアドバイス、育児・栄養相談、骨密度測定（希望者のみ）\n視力・聴力は自宅での事前検査があります",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "満3歳～4歳未満",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 4,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "満3歳～4歳未満"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

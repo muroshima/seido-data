@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "133647;神津島村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020133647",
+    "psid": "psid3.0+9000020133647+1+UM53"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健センター",
+    "contactPhone": "04992-8-0010",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "５歳児健診\n5 歳児健診では、島外から小児科医や臨床心理士が来島します。お子さんの成長発達の状況、達成できていることや苦手なことを確認し、子育ての応援をするための健診です。１年後の就学に向けて準備を整えていく機会でもあります。\n健診結果を受けて、保健師による育児健康相談、栄養士による栄養相談、希望により臨床心理士や作業療法士、言語聴覚士来島時に子育て相談をします。はまゆう保育園での保育にも今回の健診結果を生かします。また、島外の専門機関受診等が必要な場合は調整して紹介します。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の乳幼児健診",
+    "shortName": "５歳児健診"
+  },
+  "localGovernmentLink": {
+    "title": "●すこやかな成長のために～1 歳から就学まで～",
+    "uri": "https://www.vill.kouzushima.tokyo.jp/images/2023/03/20210318-youkoso2.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-08-19",
+    "updater": "神津島村"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "5 歳児健診では、島外から小児科医や臨床心理士が来島します。お子さんの成長発達の状況、達成できていることや苦手なことを確認し、子育ての応援をするための健診です。１年後の就学に向けて準備を整えていく機会でもあります。",
+  "support": {
+    "description": "健診結果を受けて、保健師による育児健康相談、栄養士による栄養相談、希望により臨床心理士や作業療法士、言語聴覚士来島時に子育て相談をします。はまゆう保育園での保育にも今回の健診結果を生かします。また、島外の専門機関受診等が必要な場合は調整して紹介します。",
+    "materiallySupport": "健診結果を受けて、保健師による育児健康相談、栄養士による栄養相談、希望により臨床心理士や作業療法士、言語聴覚士来島時に子育て相談をします。はまゆう保育園での保育にも今回の健診結果を生かします。また、島外の専門機関受診等が必要な場合は調整して紹介します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "5 歳児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 5,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 5,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "5 歳児"
+  },
+  "updateDate": "2021-03-18",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

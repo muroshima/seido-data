@@ -1,0 +1,183 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "市民課戸籍担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+1+UM3"
+  },
+  "belongings": "母子健康手帳;https://www.city.kodaira.tokyo.jp/kurashi/008/008601.html",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市小川町2-1333　市役所1階",
+    "contactComment": "FAX：042-342-1227",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "市民課戸籍担当",
+    "contactPhone": "042-312-1083",
+    "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+    "zipCode": "1878701"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "出生届\n父母が外国籍の場合はこちら;https://www.city.kodaira.tokyo.jp/kurashi/103/103575.html\n\n届出期間\n生まれた日から14日以内（14日目が市役所の閉庁日にあたるときは、翌開庁日）\n届出場所\n父母の本籍地\n届出人の所在地\nお子さまの出生地\n上記のいずれかの市区町村役場に届出してください。\n届出人\n生まれた子の父又は母\n父と母が届出人になるときは、2人の署名と生年月日を記入してください。\n父又は母が届出人になれない場合は下記お問合せ先にご相談ください。\n届出に必要なもの\n出生届書1通（出生証明書と一体になっています。医療機関等で出産された場合、出生届の右側「出生証明書」に医師などが証明したものを渡されます。左側の「出生届」に必要事項を記入してください。）\n記載方法は法務省ウェブサイトをご確認ください。「法務省：出生届」（外部リンク）;https://www.moj.go.jp/ONLINE/FAMILYREGISTER/5-1.html\n母子健康手帳;https://www.city.kodaira.tokyo.jp/kurashi/008/008601.html\nその他の注意事項\nお子さまの名前に使える漢字かどうかを確認したい場合は、法務局ホームページの「戸籍統一文字情報」（外部リンク）;http://houmukyoku.moj.go.jp/homu/static/goannai_index_kosekikokuseki.htmlから検索できます。（ひらがな及びカタカナも使用することができます）\n日本人のお子さまが海外で生まれた場合にも届出が必要です。詳細は、法務省民事局のホームページ[国際結婚,海外での出生等に関する戸籍Q＆A]（外部リンク）;http://www.moj.go.jp/MINJI/minji15.html又は生まれた国の在外公館（外務省ホームページ）（外部リンク）;https://www.mofa.go.jp/mofaj/link/zaigai/index.htmlを確認してください。\n出生届を提出後、住民票に記載されてから概ね4週間程度でマイナンバーを通知する個人番号通知書が簡易書留にてご自宅に郵送されます。個人番号通知書は、マイナンバーを証明する書類としては使用できません。取り急ぎマイナンバーを知りたい又は証明したい場合は、住民登録のある市区町村にてマイナンバー入りの住民票を請求してください。\n出生にともなう手続きのチェックシートはこちらから;https://www.city.kodaira.tokyo.jp/kurashi/059/059423.html\n届書の記入や届出方法についてご不明な点がございましたら、ご提出前にお問い合わせください。\n小平市にて届出ができる場所と時間はこちら;https://www.city.kodaira.tokyo.jp/kurashi/000/000220.html\nよくある質問\n出生届を出したその日に住民票等の証明書がとれますか？;https://www.city.kodaira.tokyo.jp/faq/003/003963.html\n出生届を出したことを証明するもの;https://www.city.kodaira.tokyo.jp/faq/003/003959.html\n出生届を出してから戸籍ができるまでの期間;https://www.city.kodaira.tokyo.jp/faq/003/003955.html\n出生届を届出人が出しに行くことができない場合;https://www.city.kodaira.tokyo.jp/faq/003/003968.html\n出生届出済証明書の再発行について;https://www.city.kodaira.tokyo.jp/faq/079/079073.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出生届",
+    "shortName": "出生届"
+  },
+  "localGovernmentLink": {
+    "title": "出生届",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/003/003888.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "小平市"
+  },
+  "procedureCounter": "市民課（平日の手続き時間以外は宿日直扱い）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "父母の本籍地\n届出人の所在地\nお子さまの出生地\n上記のいずれかの市区町村役場に届出してください。",
+  "procedurePeriod": {
+    "conditions": "生まれた日から14日以内（14日目が市役所の閉庁日にあたるときは、翌開庁日）",
+    "fromHM": "08:30",
+    "fromYMD": null,
+    "toHM": "17:15",
+    "toYMD": null
+  },
+  "procedurePersons": "生まれた子の父又は母、法定代理人、同居者、医師または助産師等",
+  "regulation": {
+    "regulationArticle": "第49条、第52条",
+    "regulationName": "戸籍法"
+  },
+  "relatedLink": [
+    {
+      "title": "戸籍全部・個人事項証明書等の請求方法",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/000/000068.html"
+    },
+    {
+      "title": "生まれた国の在外公館（外務省ホームページ）（外部リンク）",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/059/059423.html"
+    },
+    {
+      "title": "母子健康手帳",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/008/008601.html"
+    },
+    {
+      "title": "出生届出済証明書の再発行について",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/000/000067.html"
+    },
+    {
+      "title": "[国際結婚",
+      "uri": "http://www.moj.go.jp/MINJI/minji15.html"
+    },
+    {
+      "title": "「法務省：出生届」（外部リンク）",
+      "uri": "https://www.moj.go.jp/ONLINE/FAMILYREGISTER/5-1.html"
+    },
+    {
+      "title": "海外での出生等に関する戸籍Q＆A]（外部リンク）",
+      "uri": "https://www.mofa.go.jp/mofaj/link/zaigai/index.html"
+    },
+    {
+      "title": "出生届を出したことを証明するもの",
+      "uri": "https://www.city.kodaira.tokyo.jp/faq/003/003955.html"
+    },
+    {
+      "title": "小平市にて届出ができる場所と時間はこちら",
+      "uri": "https://www.city.kodaira.tokyo.jp/faq/003/003963.html"
+    },
+    {
+      "title": "出生にともなう手続きのチェックシートはこちらから",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/000/000220.html"
+    },
+    {
+      "title": "出生届を出したその日に住民票等の証明書がとれますか？",
+      "uri": "https://www.city.kodaira.tokyo.jp/faq/003/003959.html"
+    },
+    {
+      "title": "父母が外国籍の場合はこちら",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/103/103575.html"
+    },
+    {
+      "title": "出生届を届出人が出しに行くことができない場合",
+      "uri": "https://www.city.kodaira.tokyo.jp/faq/079/079073.html"
+    },
+    {
+      "title": "「戸籍統一文字情報」（外部リンク）",
+      "uri": "http://houmukyoku.moj.go.jp/homu/static/goannai_index_kosekikokuseki.html"
+    },
+    {
+      "title": "出生届を出してから戸籍ができるまでの期間",
+      "uri": "https://www.city.kodaira.tokyo.jp/faq/003/003968.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "出生届とは、生まれてきたお子さんの氏名等を戸籍に記載するための手続きです。\n戸籍に記載されることで、生まれてきたお子さんの親族関係が公的に証明されます。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生まれた子の父又は母"
+  },
+  "updateDate": "2023-01-23",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

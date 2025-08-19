@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131121;世田谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "世田谷区予防接種コールセンター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131121",
+    "psid": "psid3.0+1000020131121+14+UM54"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "世田谷区予防接種コールセンター",
+    "contactPhone": "03-5432-2437",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "事情により世田谷区の指定医療機関以外でお子様が予防接種を受け、接種費用を自己負担した場合、世田谷区が接種費用の一部または全額を助成します。\nただし、事前にご連絡をいただき、予防接種依頼書を発行している方が対象です。¥n対象者\n1.里帰り出産などで、他市町村にて予防接種依頼書により予防接種を受けた方\n2.病気のため、未委託医療機関に入院等しており、入院先等で予防接種をする必要があり、予防接種依頼書により予防接種を受けた方¥n助成対象となる予防接種\n予防接種法に基づく定期予防接種（お子様を対象にしたもの）\n1.ヒブワクチン\n2.小児用肺炎球菌ワクチン\n3.B型肝炎\n4.ロタウイルス\n5.四種混合（DPT-IPV）\n6.三種混合（DPT）\n7.ポリオ\n8.BCG\n9.麻しん風しん混合（MR）\n10.麻しん\n11.風しん\n12.水痘\n13.日本脳炎\n14.二種混合（DT）\n15.子宮頸がん予防ワクチン\n16.五種混合（DPT-IPV-Hib）\n　※おたふくかぜは助成対象外です。¥n助成額\n助成額は下記（1）、（2）のうち少ない方の金額です。\n（1）実際に支払った額\n（2）世田谷区が委託する医師会と契約している額¥n区への提出書類\n1.世田谷区予防接種費用助成金支給申請書兼請求書\n〈注意〉\n申請用紙は、予防接種依頼書をお送りする際に同封いたします。もし、該当になる方でお手元に用紙がない場合は、下記問い合わせ先までご連絡ください。改めてお送りします。\n2.医療機関発行の領収書原本（コピー不可）\n3.予防接種済み予診票のコピーまたは母子健康手帳の該当ページ\n〈注意〉\n必要事項を記入のうえご返送ください。処理が完了しましたら、支給決定通知をお送りします。\nなお、処理にはおよそ2ヶ月程度いただいております。予めご了承ください。¥n申請期限\n接種した日から1年以内¥n関連リンク\n世田谷保健所",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "予防接種費用助成制度"
+  },
+  "localGovernmentLink": {
+    "title": "予防接種費用助成制度",
+    "uri": "https://www.city.setagaya.lg.jp/mokuji/fukushi/003/004/d00010983.html"
+  },
+  "odInformation": {
+    "content": "変更",
+    "updateDate": "2025/03/04",
+    "updater": "世田谷区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "区への提出書類\n1.世田谷区予防接種費用助成金支給申請書兼請求書\n〈注意〉\n申請用紙は、予防接種依頼書をお送りする際に同封いたします。もし、該当になる方でお手元に用紙がない場合は、下記問い合わせ先までご連絡ください。改めてお送りします。\n2.医療機関発行の領収書原本（コピー不可）\n3.予防接種済み予診票のコピーまたは母子健康手帳の該当ページ\n〈注意〉\n必要事項を記入のうえご返送ください。処理が完了しましたら、支給決定通知をお送りします。\nなお、処理にはおよそ2ヶ月程度いただいております。予めご了承ください。",
+  "procedurePeriod": {
+    "conditions": "申請期限\n接種した日から1年以内",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）",
+    "regulationName": "予防接種法"
+  },
+  "relatedLink": [
+    {
+      "title": "世田谷保健所",
+      "uri": "https://www.city.setagaya.lg.jp/02013/18016.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+  "support": {
+    "description": "助成額\n助成額は下記（1）、（2）のうち少ない方の金額です。\n（1）実際に支払った額\n（2）世田谷区が委託する医師会と契約している額",
+    "materiallySupport": null,
+    "monetarySupport": "助成額\n助成額は下記（1）、（2）のうち少ない方の金額です。\n（1）実際に支払った額\n（2）世田谷区が委託する医師会と契約している額"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象者\n1.里帰り出産などで、他市町村にて予防接種依頼書により予防接種を受けた方\n2.病気のため、未委託医療機関に入院等しており、入院先等で予防接種をする必要があり、予防接種依頼書により予防接種を受けた方¥n対象となる予防接種\n予防接種法に基づく定期予防接種（お子様を対象にしたもの）\n1.ヒブワクチン\n2.小児用肺炎球菌ワクチン\n3.B型肝炎\n4.ロタウイルス\n5.四種混合（DPT-IPV）\n6.三種混合（DPT）\n7.ポリオ\n8.BCG\n9.麻しん風しん混合（MR）\n10.麻しん\n11.風しん\n12.水痘\n13.日本脳炎\n14.二種混合（DT）\n15.子宮頸がん予防ワクチン\n16.五種混合（DPT-IPV-Hib）\n※おたふくかぜは助成対象外です。"
+  },
+  "updateDate": "2024/04/24",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

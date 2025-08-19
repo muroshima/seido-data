@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健所保健予防課母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+1+UM791"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健所保健予防課母子保健係",
+    "contactPhone": "042-725-5471",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "出生時の体重が2500グラム未満の場合には、届出が必要となります。「低出生体重児の届出」は、「行政手続における特定の個人を識別するための番号の利用等に関する法律（マイナンバー法）において、個人番号を利用する事務に規定されています。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出生連絡票・低体重児出生届",
+    "shortName": "低出生体重児の届出"
+  },
+  "localGovernmentLink": {
+    "title": "低出生体重児の届出",
+    "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/8/1122.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": "（1）窓口での届出\n保健予防課窓口（市庁舎7階、健康福祉会館、保健所中町庁舎、鶴川保健センター）にお越しください。\n\n（2）郵送での届出\n下記送付先にご郵送ください。（簡易書留のご利用を推奨いたします）\n\n（送付先）〒194-0013 町田市原町田5-8-21 町田市保健予防課母子保健係宛",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "保健予防課窓口または郵送での届出",
+  "procedurePeriod": {
+    "conditions": "できるだけ速やかにご提出ください",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第18条（低体重児の届出）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "出生時の体重が2500グラム未満の場合には、届出が必要となります。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": [
+      "086",
+      "089"
+    ]
+  },
+  "target": {
+    "conditions": "出生体重が2500グラム未満のお子様",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "出生体重が2500グラム未満のお子様"
+  },
+  "updateDate": "2021-12-07",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

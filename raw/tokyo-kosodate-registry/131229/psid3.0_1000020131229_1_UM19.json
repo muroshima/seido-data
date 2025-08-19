@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "国保年金課給付係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+1+UM19"
+  },
+  "belongings": "（１）出産した方の保険証またはマイナンバーカード\n（２）母子手帳\n（３）直接支払制度を利用する旨記載した合意文書\n（４）医療機関などから交付される領収・明細書\n（５）出産当時の世帯主の口座番号のわかるもの\n※死産・流産の場合は医師の証明書も必要です。\n※海外出産は出生証明書（原本）と和訳、出産した方の帰国日のわかるパスポート（原本）も必要です。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区立石5-13-1　葛飾区役所3階　315番窓口",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "国保年金課給付係",
+    "contactPhone": "03-5654-8212",
+    "contactUrl": null,
+    "zipCode": "1248555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出産育児一時金",
+    "shortName": "出産育児一時金"
+  },
+  "localGovernmentLink": {
+    "title": "出産育児一時金",
+    "uri": "https://www.city.katsushika.lg.jp/kurashi/1000049/1001690/1001740.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": "国保年金課給付係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "直接支払制度を利用する場合は、医療機関に申請確認してください。\n出産育児一時金の額を超えなかった場合は差額分を国保年金課給付係への申請により支給します。\n直接支払制度に対応していない医療機関などで出産された場合も、「受取代理制度」や出産後の国保年金課給付係への申請により、出産育児一時金の支給を受けることができます。\n\n提出期限\n出産された日の翌日から２年以内に申請してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条第1項",
+    "regulationName": "国民健康保険法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民健康保険に加入している方が出産したときは、その世帯主からの申請により、出産育児一時金を支給します。原則として直接支払制度により、医療機関に直接お支払いします。出産費用が出産育児一時金の額を超えなかった場合は差額分を申請により支給します。妊娠12週（85日）以降であれば、死産・流産でも申請により支給します。\nなお、直接支払制度に対応していない医療機関などで出産された場合も、「受取代理制度」や出産後の申請により、出産育児一時金の支給を受けることができます。",
+  "support": {
+    "description": "出産育児一時金を支給。出産費用が出産育児一時金の額を超えなかった場合は差額を支給。",
+    "materiallySupport": null,
+    "monetarySupport": "出産育児一時金を支給。出産費用が出産育児一時金の額を超えなかった場合は差額を支給。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "015"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "国民健康保険の被保険者である出産した方（出産日に加入している方）\n他の健康保険に本人として１年以上加入し、退職後半年以内に出産した場合は、加入していた健康保険に申請できます。（その場合国保からは支給されません。）。"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

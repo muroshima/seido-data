@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "133647;神津島村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "診療所歯科",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020133647",
+    "psid": "psid3.0+9000020133647+1+UM8"
+  },
+  "belongings": "妊婦歯科健診票",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "診療所歯科",
+    "contactPhone": "04992-8-1361",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊婦歯科健診\n歯科健診を公費で 1 回受けることが出来ます。妊娠中の口の中は、むし歯や歯の病気になりやすい環境です。健やかな妊娠・出産のため、歯科健診の受診をお勧めします。事前に診療所歯科に\nご予約の上、妊婦歯科健診票をご持参して受診して下さい。\n妊婦健診についてのお願い\n島内で妊娠生活を送る場合、何かあったときの対応は診療所が行うことになります。妊婦健診を受けるにあたっては、最低 1～2 回は診療所で受診していただきますようお願いいたします。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "診療所歯科"
+  },
+  "institutionName": {
+    "canonicalName": "妊産婦の歯科健診",
+    "shortName": "妊婦歯科健診"
+  },
+  "localGovernmentLink": {
+    "title": "お母さんになる準備",
+    "uri": "https://www.vill.kouzushima.tokyo.jp/images/2023/03/20210318-jyunbi.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-08-19",
+    "updater": "神津島村"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "事前に診療所歯科にご予約の上、妊婦歯科健診票をご持参して受診して下さい。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠中や出産後は女性ホルモンの分泌の変化や食事回数の増加などから虫歯や歯周病になりやすく、進行しやすい時期です。こうした時期のお口の中の健康を維持するために、歯科健診をおすすめしています。健診には健康保険が適用されませんが、経済的負担を軽減するため、健診にかかる費用の一部を助成する妊婦歯科健診票をお渡ししています。",
+  "support": {
+    "description": "歯科健診を公費で 1 回受けることが出来ます。",
+    "materiallySupport": null,
+    "monetarySupport": "歯科健診を公費で 1 回受けることが出来ます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊婦"
+  },
+  "updateDate": "2021-03-18",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

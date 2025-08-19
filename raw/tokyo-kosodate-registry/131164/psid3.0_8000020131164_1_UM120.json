@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健福祉部健康推進課保健指導グループ,保健福祉部長崎健康相談所保健指導グループ,保健福祉部地域保健課公害保健グループ,保健福祉部健康推進課栄養グループ,保健福祉部長崎健康相談所栄養グループ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+1+UM120"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健福祉部健康推進課保健指導グループ,保健福祉部長崎健康相談所保健指導グループ,保健福祉部地域保健課公害保健グループ,保健福祉部健康推進課栄養グループ,保健福祉部長崎健康相談所栄養グループ",
+    "contactPhone": "03-3987-4174,03-3957-1191,03-3987-4220,03-3987-4361,03-3957-1191",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "アレルギーについて\n\nアトピー性皮膚炎、気管支ぜん息、食物アレルギー、花粉症等の免疫アレルギー疾患を有する患者は、国民の約30％にのぼると言われております。アレルギー疾患の症状、経過、治療に対する反応は個人差が大きいので、アレルギー日誌などをつけて、自分の状態をよく知ることから始めましょう。豊島区では子どもから大人の方まで、さまざまなアレルギーに関する情報の提供等を行なっております。以下の担当までお気軽にご相談ください。\n\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関するその他のこと",
+    "shortName": "アレルギーについて"
+  },
+  "localGovernmentLink": {
+    "title": "アレルギーについて",
+    "uri": "https://www.city.toshima.lg.jp/kenko/kenko/allergy/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "アレルギー関連リンク集",
+      "uri": "https://www.city.toshima.lg.jp/220/kenko/kenko/allergy/033532.html"
+    },
+    {
+      "title": "食物アレルギーのページ",
+      "uri": "https://www.city.toshima.lg.jp/223/kenko/kenko/allergy/033518.html"
+    },
+    {
+      "title": "ぜん息のページ",
+      "uri": "https://www.city.toshima.lg.jp/210/kenko/kenko/allergy/2302220928.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "豊島区では子どもから大人の方まで、さまざまなアレルギーに関する情報の提供等を行なっております。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "000"
+    ],
+    "contentsCode": [
+      "082"
+    ],
+    "targetCode": [
+      "000"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "アトピー性皮膚炎、気管支ぜん息、食物アレルギー、花粉症等の免疫アレルギー疾患を有する患者"
+  },
+  "updateDate": "2023-04-01",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

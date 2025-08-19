@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131067;台東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "台東区社会福祉協議会　生活支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131067",
+    "psid": "psid3.0+6000020131067+1+UM120"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "台東区下谷1-2-11",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "台東区社会福祉協議会　生活支援係",
+    "contactPhone": "03-5828-7547",
+    "contactUrl": null,
+    "zipCode": "1100004"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "初回の問い合わせは電話や窓口でお受けしています。\n\n申し込み時は基本的に窓口での手続きが必要になります。\n\n来所が難しい方はご相談ください。\n\n受験生チャレンジ支援貸付事業は、学習塾、各種受験対策講座、通信講座の受講料や、高校や大学などの受験料の捻出が困難な一定所得以下の世帯に必要な資金の貸付を行うことによって、子供達の学習意欲をサポートする事業です。\n\n令和６年度の申請受付期間は令和６年４月１日（月）～令和７年２月５日（水）です。\n\n※　申請にあたり、生活状況や所得要件等の確認が必要となります。この確認には日数がかかりますので、期限の直前にご相談いただいた場合、申請に至らないことがありますのでご注意ください。\n\n免除申請書、使用使途の確認が必要です。\n学校教育法に規定されている学校が対象です。\n貸付対象\n次の要件のいずれにも該当する方\n\n現に要支援者（貸付対象の子）を養育する世帯の生計中心者（18歳以上）であること\n世帯（父母等養育者）の総収入又は合計所得金額が一定の基準以下であること\n世帯員の預貯金等資産の保有額が600万円以下であること\n世帯員が土地・建物を所有していないこと（現在居住している場所は除く。不動産所得がある場合は、対象とならない場合がありますので、ご確認ください。）\n生計中心者および要支援者は都内に引き続き1年以上在住（住民登録）していること（ただし、要支援者については一部例外があります）\n生活保護受給世帯の世帯主または構成員でないこと\n暴力団員による不当な行為の防止等に関する法律（平成3年法律第77号）第2条第6号に規定する暴力団員が属する世帯の構成員でないこと\n留意事項\n貸付けにあたって、以下の点をご理解ください。\n\n貸付にあたっては、必要書類（要件確認書類）、条件（対象の学習塾・学校）があります。\n詳細はこちらをご覧ください。（東京都社会福祉協議会ホームページ）;https://jukenchallenge.jp/\nパンフレット;https://taitoshakyo.com/application/files/4017/1323/9293/6.png\n\nお申込み・お問合せ\nお申込みは事前予約制となります。\n\nまずは、電話にて生活支援係までお問い合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "土日・祝日",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "台東区下谷1-2-11",
+    "implementationName": "台東区社会福祉協議会　生活支援係"
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関するその他のこと",
+    "shortName": "受験生チャレンジ支援貸付"
+  },
+  "localGovernmentLink": {
+    "title": "受験生チャレンジ支援貸付事業",
+    "uri": "https://taitoshakyo.com/service/seikatsu-shien/challenge"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "台東区"
+  },
+  "procedureCounter": "台東区社会福祉協議会　生活支援係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "電話・窓口",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": "2025-04-01",
+    "toHM": null,
+    "toYMD": "2026-02-05"
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "受験生チャレンジ支援貸付事業サイト",
+      "uri": "https://jukenchallenge.jp/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "受験生チャレンジ支援貸付は、東京都内の中学3年生・高校3年生又はこれに準ずる方を対象に学習塾、各種受験対策講座、通信講座等の受講料、及び高校や大学等の受験料の捻出が困難な一定所得以下の世帯へ必要な資金の貸付を無利子で行っています。\n高校・大学等に入学した場合、返済が免除されます。",
+  "support": {
+    "description": "●学習塾等受講料\t20万円（上限）\n\n中学3年生・又はこれに準じる方\n●受験料\t2万7400円（上限）　　　　　　　1度の貸付で4回（校）分の受験料まで貸付可\n　　　　　　　　　　　　　　　　　　　　　　1校当たりの受験料は23,000円まで\n高校3年生・又はこれに準じる方\n●受験料\t8万円（上限）",
+    "materiallySupport": null,
+    "monetarySupport": "●学習塾等受講料\t20万円（上限）\n\n中学3年生・又はこれに準じる方\n●受験料\t2万7400円（上限）　　　　　　　1度の貸付で4回（校）分の受験料まで貸付可\n　　　　　　　　　　　　　　　　　　　　　　1校当たりの受験料は23,000円まで\n高校3年生・又はこれに準じる方\n●受験料\t8万円（上限）"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "①対象学生は申し込み年度4月1日時点で20歳未満であること\n②現に要支援者（貸付対象の子）を養育する世帯の生計中心者（18歳以上）であること\n③世帯（父母等養育者）の総収入又は合計所得金額が一定の基準以下であること\n④世帯員の預貯金等資産の保有額が600万円以下であること\n⑤世帯員が土地・建物を所有していないこと（現在居住している場所は除く。不動産所得がある場合は、対象とならない場合がありますので、ご確認ください。）\n⑥生計中心者および要支援者は都内に引き続き1年以上在住（住民登録）していること（ただし、要支援者については一部例外があります）\n⑦生活保護受給世帯の世帯主または構成員でないこと\n⑧暴力団員による不当な行為の防止等に関する法律（平成3年法律第77号）第2条第6号に規定する暴力団員が属する世帯の構成員でないこと\n",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "中学3年生・高校3年生、またはそれに準じる者(高校中途退学者、高等学校卒業程度認定試験合格者、定時制高校4年生、浪人生等)"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": "まずは電話か窓口にてお問い合わせください。貸し付け条件にあたるか聞き取りと収入確認をさせていただきます。貸付対象者と確認が取れた方には申込書類をお渡しします。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

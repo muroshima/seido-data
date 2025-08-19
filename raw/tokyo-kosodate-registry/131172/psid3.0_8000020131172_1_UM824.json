@@ -1,0 +1,146 @@
+{
+  "area": {
+    "areaCode": "131172;北区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": null,
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131172",
+    "psid": "psid3.0+8000020131172+1+UM824"
+  },
+  "belongings": "新規・継続（更新）・再開申請\n1.自立支援医療費（精神通院）支給認定申請書\n\n2.自立支援医療診断書（精神通院）（発行から3ヶ月以内のもの）\n※更新申請時は原則2年に一度、診断書が必要です。\n\n3.健康保険の加入情報が確認できる資料の写し\n【提出書類】以下（1）から（3）のいずれかをご用意ください。\n（1）健康保険の資格確認書\n（2）マイナポータルの保険証資格情報\n（記号、番号、フリガナ、氏名、生年月日、 資格取得年月日、被保険者氏名又は世帯主氏名、本人家族の別、保険者番号、保険者名が記載されている画面）\n（3）健康保険証（令和7年12月2日以降の申請には使用できません）\n\n【提出対象者】\n・受診者が国民健康保険、国民健康保険組合及び後期高齢者医療制度加入者の場合\n→受診者及び、受診者と同一保険に加入している方全員分\n・受診者が被用者保険（社会保険）加入者の場合\n→受診者分\n\n4.世帯の所得状況が確認できる書類\n★所得状況の確認が必要な方の地方税情報が北区にある場合は、「同意書」を提出いただければ、所得情報を確認する書類を省略することができます。\n※同意書の様式は、下記添付ファイルからダウンロード可能です。\n\nただし、当該年度の1月1日に北区に住民登録がない場合は省略することができません。\n下記（1)(2)いずれかの書類が必要となります。\n（1） 区市町村民税非課税世帯：「区市町村民税非課税証明書」\n（2） 区市町村民税課税世帯　：「区市町村民税課税証明書」\n\n＜所得状況の確認が必要な方は、加入する保険によって異なります＞\n国民健康保険、国民健康保険組合及び後期高齢者医療制度加入者：同一保険に加入している方(18歳以上の方）全員分\n被用者保険（社会保険）加入者：被保険者分（被保険者が非課税の場合は、受診者本人分も必要）\n※住民税の申告が必要な方で未申告の場合、事前に申告が必要です。\n\n5.自立支援医療（精神通院）受給者証（更新の場合）\n\n6.マイナンバーカードもしくはマイナンバー通知カード\n\n変更・紛失等の届出\n住所・氏名・保険証・医療機関・自己負担額などが変更になった場合は、届出が必要です。\nまた、受給者証を紛失・破損した場合は再交付の申請ができます。詳しくはお問い合わせください。\n\n他自治体からの転入\n他自治体から北区に転入された場合は、届出が必要です。\n届出に必要な書類など、詳しくはお問い合わせください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部障害福祉課王子障害相談係,福祉部障害福祉課赤羽障害相談係",
+    "contactPhone": "福祉部障害福祉課王子障害相談係　03-3908-1359,福祉部障害福祉課赤羽障害相談係　03-3903-4161",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "申請方法\n有効期間\n有効期間は原則1年間となります。\n更新の場合は毎年手続きが必要です。\n更新申請は有効期限の3ヶ月前から申請できますので、お早めにお手続きください。\n\n（有効期限を過ぎた場合は、再開のお手続きとなり、診断書が必要な場合があります。\n詳しくはお問い合わせください。）\n\n支給認定\n 東京都の決定により、支給が認定された方には「自立支援医療受給者証」が交付されます。\n※申請から受給者証の送付まで、3～4か月程度かかります。\n\n添付ファイル\n同意書（PDF：69KB）;https://www.city.kita.tokyo.jp/s-fukushi/kenko/iryo/jose/documents/douisyo20220401.pdf\n同意書記入例（PDF：99KB）;https://www.city.kita.tokyo.jp/s-fukushi/kenko/iryo/jose/documents/douisyokinyuu20220401.pdf\n所得区分概念図（PDF：60KB）;https://www.city.kita.tokyo.jp/s-fukushi/kenko/iryo/jose/documents/shotoku.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度（精神通院医療）",
+    "shortName": "自立支援医療（精神通院）制度"
+  },
+  "localGovernmentLink": {
+    "title": "自立支援医療（精神通院）制度",
+    "uri": "https://www.city.kita.tokyo.jp/s-fukushi/kenko/iryo/jose/seshin.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/03/04",
+    "updater": "北区"
+  },
+  "procedureCounter": "障害福祉課　王子・赤羽　障害相談係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [
+    {
+      "title": "厚生労働省　障害者福祉（外部サイトへリンク）",
+      "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/shougaishahukushi/index.html"
+    },
+    {
+      "title": "精神障害者保健福祉手帳｜東京都北区",
+      "uri": "https://www.city.kita.tokyo.jp/kenko/shogai/techo/seshin/index.html"
+    },
+    {
+      "title": "東京都立中部総合精神保健福祉センター「自立支援医療（精神通院）を利用される都民の方へ」（外部サイトへリンク）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/shisetsu/jigyosyo/chusou/jiritsushieniryo/jiritsu_tomin"
+    },
+    {
+      "title": "東京都福祉局　指定自立支援医療機関の情報提供（精神通院医療）（外部サイトへリンク）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/shougai/jigyo/shougaifukushi/iryoshiteijoho_s"
+    },
+    {
+      "title": "東京都福祉局　自立支援医療（精神通院）（外部サイトへリンク）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/shougai//nichijo/tsuuin/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+  "support": {
+    "description": "精神疾患を理由として通院による治療を継続的に必要とする方を対象に、医療費の負担を軽減する制度です。（精神通院のみ、入院は除く）。",
+    "materiallySupport": null,
+    "monetarySupport": "認定されると自己負担は原則1割となり、さらに本人の収入や世帯の課税状況・疾病等に応じて月額自己負担上限額が設定されます。\nまた、区市町村民税が非課税世帯の方は、申請により自立支援医療費の自己負担額分を助成する制度もあります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "精神疾患を理由として通院による治療を継続的に必要とする方"
+  },
+  "updateDate": "2024/12/03",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

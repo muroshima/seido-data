@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "学務課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+6+UM58"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "学務課",
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "豊島区では、外国人学校に通学する児童・生徒の保護者の方に、教育費の負担を軽減するために補助金を交付しています。\n\nその他\n各種学校の一覧はこちらからご覧ください。（新しいウィンドウで開きます）,http://www.mext.go.jp/a_menu/shougai/senshuu/1332565.htm",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "学校"
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の育児に関する金銭的支援",
+    "shortName": "外国人学校児童・生徒保護者補助金"
+  },
+  "localGovernmentLink": {
+    "title": "外国人学校児童・生徒保護者補助金",
+    "uri": "https://www.city.toshima.lg.jp/353/kosodate/gakko/yochien/shiritsu/1810151418.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "補助金の申請は4月分から9月分、10月分から3月分の年2回です。\n10月上旬と1月下旬にお子さんが通学する学校へ申請書（豊島区外国人学校児童・生徒保護者負担軽減補助金交付申請書）とご案内をお送りします。\nまた、学校に申請書のとりまとめを依頼しておりますので、期限までに提出してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "各種学校の一覧",
+      "uri": "http://www.mext.go.jp/a_menu/shougai/senshuu/1332565.htm"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "豊島区では、外国人学校に通学する児童・生徒の保護者の方に、教育費の負担を軽減するために補助金を交付しています。",
+  "support": {
+    "description": "児童・生徒1人につき月額6,000円。ただし、保護者が納入した額を限度とします。",
+    "materiallySupport": null,
+    "monetarySupport": "児童・生徒1人につき月額6,000円。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "005"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次のすべてを満たすこと（申請する月ごとにすべての要件を満たしていることが必要です。）\n\n保護者が豊島区の住民基本台帳に記載のある外国人住民であること。\n保護者が外国人学校に授業料を納入していること。\n児童・生徒が日本の義務教育相当の年齢であること。\n児童・生徒が豊島区の住民基本台帳に記載されていること。\n児童・生徒が外国人学校へ通学していること。\n帰化を含めて、両親共に日本国籍の場合は対象外となります。\n外国人学校とは学校教育法（昭和22年法律第26号）に基づき認可された「各種学校」のうち、義務教育相当の児童・生徒の教育を行う学校を指します。\n他の自治体で同種の補助金の交付を受けている場合は対象になりません。"
+  },
+  "updateDate": "2018-11-28",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

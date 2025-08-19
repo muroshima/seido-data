@@ -1,0 +1,145 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援課子ども家庭第一係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+7+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区青戸4-15-14　子ども総合センター内",
+    "contactComment": "（児童虐待通報相談）電話：03-3602-1389",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援課子ども家庭第一係",
+    "contactPhone": "03-3602-1386",
+    "contactUrl": null,
+    "zipCode": "1250062"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "祝日・年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "葛飾区の子育てに関する相談",
+    "shortName": "子ども総合センターの相談"
+  },
+  "localGovernmentLink": {
+    "title": "子ども総合センターの相談",
+    "uri": "https://www.city.katsushika.lg.jp/kurashi/1000061/1003783/1003810.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "21条の9",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "ショートステイ・トワイライトステイ事業のご案内",
+      "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1002333/1002382.html"
+    },
+    {
+      "title": "子ども総合センター",
+      "uri": "https://www.city.katsushika.lg.jp/institution/1030224/1007107/1007145.html"
+    },
+    {
+      "title": "近隣から子どもの泣き声や大人のどなり声が聞こえたり、夜中に子どもが外に出されていたりする。虐待ではないかと心配しているのですが、どうしたらいいですか。",
+      "uri": "https://www.city.katsushika.lg.jp/faq/1030278/1007663/1008615/1008766.html"
+    },
+    {
+      "title": "差別や偏見などの人権侵害を受けたことに関する相談窓口はありますか。",
+      "uri": "https://www.city.katsushika.lg.jp/faq/1030270/1007668/1009239/1009291.html"
+    },
+    {
+      "title": "子どものことで悩みがありますが、相談できるところはありますか。",
+      "uri": "https://www.city.katsushika.lg.jp/faq/1030278/1007663/1008615/1008765.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子ども総合センターの相談",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "005"
+    ],
+    "contentsCode": [
+      "082"
+    ],
+    "targetCode": [
+      "087",
+      "092"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内に住む18歳未満のお子さんとその家庭"
+  },
+  "updateDate": "2012-05-21",
+  "useConsiderationFlag": false,
+  "utilization": "相談の方法と時間相談は、電話相談のほか、子ども総合センター面接室での面接相談、ご家庭への訪問やお近くの児童館などへ出向いた上での面接相談も可能です。面接相談を希望される方は、上記の問い合わせ先までご連絡の上、面接日の予約をしてください。電話相談では、匿名での相談も受け付けます。また、メール相談も行っています。メール相談を希望される方は、下記の「子ども総合センター　メール相談」をご覧ください。子ども総合センター　メール相談;https://www.city.katsushika.lg.jp/kurashi/1000061/1003783/1003812.html",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": "08:30",
+    "toHM": "17:00"
+  }
+}

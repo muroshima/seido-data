@@ -1,0 +1,156 @@
+{
+  "area": {
+    "areaCode": "131083;江東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部 保健予防課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131083",
+    "psid": "psid3.0+6000020131083+1+UM5010"
+  },
+  "belongings": "1.未使用の新生児聴覚検査受診票\n2.領収書と明細書（新生児聴覚検査の金額が分かる書類）\n3.母子健康手帳（母子健康手帳に検査結果が記載されていない場合は、新生児聴覚検査受診結果記入書（下記関連ファイルよりダウンロード可）を提出してください。）\n4.印鑑（スタンプ印不可）\n5.産婦名義の預金通帳等、振込口座のわかるもの",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都江東区東陽2-1-1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部（保健所）保健予防課保健係",
+    "contactPhone": "03-3647-5906",
+    "contactUrl": null,
+    "zipCode": "1350016"
+  },
+  "cost": null,
+  "costConditions": "検査項目で公費負担額を超えた場合には自己負担額が発生します",
+  "description": "新生児聴覚検査\n生まれてすぐ、赤ちゃんが眠っている間に聴覚障害の疑いがないかを調べる検査です。\n\n聴覚障害は、早期に適切な支援が行われた場合には、音声言語の発達への影響が最小限に抑えられることから、その早期発見・療育を図るため、新生児聴覚検査の費用の一部助成を実施しています。\n\n対象者\n江東区に住民登録のある生後50日までのお子さんが対象です。\n\n母と子の保健バッグに入っている「新生児聴覚検査受診票」を使用して東京都内の契約医療機関で検査を受けることができます。検査項目で公費負担額を超えた場合には自己負担額が発生しますのでご了承ください。\n\n関連施設\n保健相談所担当地域一覧;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html\n城東保健相談所;https://www.city.koto.lg.jp/261001/shisetsuannai/kenkou/hokenshisetsu/sodanjo/16333.html\n深川保健相談所;https://www.city.koto.lg.jp/261101/shisetsuannai/kenkou/hokenshisetsu/sodanjo/16331.html\n深川南部保健相談所;https://www.city.koto.lg.jp/261201/shisetsuannai/kenkou/hokenshisetsu/sodanjo/16332.html\n城東南部保健相談所;https://www.city.koto.lg.jp/261301/shisetsuannai/kenkou/hokenshisetsu/sodanjo/16334.html\n江東区保健所;https://www.city.koto.lg.jp/260311/shisetsuannai/kenkou/hokenshisetsu/16330.html\n\n関連リンク\n東京都ホームページ　赤ちゃんの耳のきこえについて（外部サイトへリンク）（別ウィンドウで開きます）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/shussan/kenkou/baby_ear.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "新生児聴覚検査",
+    "shortName": "新生児聴覚検査"
+  },
+  "localGovernmentLink": {
+    "title": "新生児聴覚検査",
+    "uri": "https://www.city.koto.lg.jp/260501/kodomo/ninshinshussan/ninshin/6890.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-19",
+    "updater": "江東区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": "お子様の1歳の誕生日前日まで申請することができます。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "「新生児聴覚検査の実施について」（平成19年1月29日雇児母発第0129002号厚生労働省雇用均等・児童家庭局母子保健課長通知）"
+  },
+  "relatedLink": [
+    {
+      "title": "城東南部保健相談所",
+      "uri": "https://www.city.koto.lg.jp/261301/shisetsuannai/kenkou/hokenshisetsu/sodanjo/16334.html"
+    },
+    {
+      "title": "東京都ホームページ　赤ちゃんの耳のきこえについて（外部サイトへリンク）",
+      "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/shussan/kenkou/baby_ear.html"
+    },
+    {
+      "title": "里帰り出産等妊婦健康診査受診費助成",
+      "uri": "https://www.city.koto.lg.jp/260501/kodomo/ninshinshussan/ninshin/24990.html"
+    },
+    {
+      "title": "城東保健相談所",
+      "uri": "https://www.city.koto.lg.jp/261001/shisetsuannai/kenkou/hokenshisetsu/sodanjo/16333.html"
+    },
+    {
+      "title": "江東区保健所",
+      "uri": "https://www.city.koto.lg.jp/260311/shisetsuannai/kenkou/hokenshisetsu/16330.html"
+    },
+    {
+      "title": "保健相談所担当地域一覧",
+      "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html"
+    },
+    {
+      "title": "深川保健相談所",
+      "uri": "https://www.city.koto.lg.jp/261101/shisetsuannai/kenkou/hokenshisetsu/sodanjo/16331.html"
+    },
+    {
+      "title": "深川南部保健相談所",
+      "uri": "https://www.city.koto.lg.jp/261201/shisetsuannai/kenkou/hokenshisetsu/sodanjo/16332.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "聴覚障害は、早期発見・治療により言葉の発達などへの影響が最小限に抑えられることが分かっていることから、生まれたばかりの赤ちゃんに聴覚障害の疑いがないかを調べる新生児聴覚検査の費用の一部を助成しています。",
+  "support": {
+    "description": "生まれてすぐ、赤ちゃんが眠っている間に聴覚障害の疑いがないかを調べる検査です。\n\n聴覚障害は、早期に適切な支援が行われた場合には、音声言語の発達への影響が最小限に抑えられることから、その早期発見・療育を図るため、江東区「新生児聴覚検査」の費用の一部助成を実施しています。\n",
+    "materiallySupport": null,
+    "monetarySupport": "生まれてすぐ、赤ちゃんが眠っている間に聴覚障害の疑いがないかを調べる検査です。\n\n聴覚障害は、早期に適切な支援が行われた場合には、音声言語の発達への影響が最小限に抑えられることから、その早期発見・療育を図るため、江東区「新生児聴覚検査」の費用の一部助成を実施しています。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後50日まで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "江東区に住民登録のある生後50日までのお子さん"
+  },
+  "updateDate": "2022-11-01",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

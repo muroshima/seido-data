@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131067;台東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育支援館（教育相談直通）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131067",
+    "psid": "psid3.0+6000020131067+9+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "教育支援館（教育相談直通）",
+    "contactPhone": "03-5246-5855",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "アプリ自体の利用は基本的に無料ですが、利用に当たって発生する通信料は相談者様の自己負担となります。",
+  "description": "申込方法\n電話にてご予約ください。\n　　予約受付時間：月曜日から金曜日及び第2,4土曜日の午前9時30分から午後4時30分まで（いずれも祝日を除く）\n\n相談日時決定後、電話にてZoomミーティングIDとパスコードをお知らせいたします。\n\n　教育相談直通　03－5246－5855\n\n相談時間\n月曜日から金曜日及び第2,4土曜日の午前9時30分から午後4時30分まで（いずれも祝日を除く）\n\n1回30分程度の相談時間となります。\n\n相談内容\n来所相談と同様の内容について、Zoomでもご相談いただけます。\n\n注意事項・お願い\n・第三者にID及びパスコードを公表しないでください。\n\n・ご参加の際は、必ずカメラをONにしてください。\n\n・相談内容の守秘義務の観点から、自宅等の周囲に相談内容を聞かれることのない場所で行うようにしてください。\n\n・オンライン相談の録音・録画は固く禁止させていただきます。\n\n・Zoomアプリの利用により発生するいかなる損失や被害については、台東区は一切の責任を負いませんので、ご了承ください。\n\n・アプリ自体の利用は基本的に無料ですが、利用に当たって発生する通信料は相談者様の自己負担となります。\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "祝日",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "台東区の子育てに関する相談",
+    "shortName": "教育相談室　オンライン相談（予約制）"
+  },
+  "localGovernmentLink": {
+    "title": "教育相談室　オンライン相談（予約制）",
+    "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kyoiku/kyouikusienkan/kyouikusoudansitu/20230626085722750.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "台東区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "電話にてご予約ください。",
+  "procedurePeriod": {
+    "conditions": "予約受付時間：月曜日から金曜日及び第2,4土曜日の午前9時30分から午後4時30分まで（いずれも祝日を除く）",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "来所相談と同様の内容について、オンラインでもご相談いただけます。",
+  "support": {
+    "description": "来所相談と同様の内容について、Zoomでもご相談いただけます。",
+    "materiallySupport": "来所相談と同様の内容について、Zoomでもご相談いただけます。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "子供本人や保護者"
+  },
+  "updateDate": "2023-06-26",
+  "useConsiderationFlag": false,
+  "utilization": "・第三者にID及びパスコードを公表しないでください。\n・ご参加の際は、必ずカメラをONにしてください\n・相談内容の守秘義務の観点から、自宅等の周囲に相談内容を聞かれることのない場所で行うようにしてください。\n・オンライン相談の録音・録画は固く禁止させていただきます。\n・Zoomアプリの利用により発生するいかなる損失や被害については、台東区は一切の責任を負いませんので、ご了承ください。\n・アプリ自体の利用は基本的に無料ですが、利用に当たって発生する通信料は相談者様の自己負担となります。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日から金曜日及び第2,4土曜日の午前9時30分から午後4時30分まで",
+    "fromHM": "09:30",
+    "toHM": "16:30"
+  }
+}

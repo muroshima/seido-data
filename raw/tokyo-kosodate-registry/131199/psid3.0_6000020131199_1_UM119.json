@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131199;板橋区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康生きがい部 板橋健康福祉センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131199",
+    "psid": "psid3.0+6000020131199+1+UM119"
+  },
+  "belongings": "母子健康手帳、バスタオル(体重計測等で使用します)",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都板橋区板橋二丁目66番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康生きがい部 板橋健康福祉センター",
+    "contactPhone": "03-3579-2333",
+    "contactUrl": "https://www.city.itabashi.tokyo.jp/kosodate/ninshin/shusan/1039847.html",
+    "zipCode": "1738501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "育児相談\n\n健康福祉センターの育児相談\n健康福祉センターでは授乳、発育、離乳食や歯などの育児や子育ての相談を行っています。\n来所型の「計測できる育児相談」、電話による育児相談（随時）があります。\nいたばし子育て応援アプリを使った育児相談（オンライン）は、下記案内をご確認ください。\n\n計測できる育児相談\n内容\n計測と授乳、発育・発達、離乳食、歯みがきのことなどの個別相談を保健師・栄養士・歯科衛生士がご相談に応じます。\n\n持ち物\n母子健康手帳、バスタオル(体重計測等で使用します)\n\n日時・場所\n下記「育児相談日程表」をご覧ください。『広報いたばし』でもお知らせします。\n健康福祉センター会場の場合、4月から予約は不要で実施します。\n児童館・集会所会場の場合。事前予約が必要です。\n\n令和6年度　計測できる育児相談日程（4月から3月） （PDF 357.2KB）; https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/004/092/sai6ikuso.pdf\n\n問い合わせ\n板橋健康福祉センター　電話03-3579-2333; https://www.city.itabashi.tokyo.jp/kusei/soshiki/kenkoikigai/1006932.html\n上板橋健康福祉センター電話03-3937-1041; https://www.city.itabashi.tokyo.jp/kusei/soshiki/kenkoikigai/1006933.html\n赤塚健康福祉センター　電話03-3979-0511; https://www.city.itabashi.tokyo.jp/kusei/soshiki/kenkoikigai/1006934.html\n志村健康福祉センター　電話03-3969-3836; https://www.city.itabashi.tokyo.jp/kusei/soshiki/kenkoikigai/1006935.html\n高島平健康福祉センター電話03-3938-8621; https://www.city.itabashi.tokyo.jp/kusei/soshiki/kenkoikigai/1006936.html\n\nご利用にあたって\n・混雑時には、すべてのご相談を当日お受けすることができない場合がございます。ご相談のある方はお早めのご来所をお願いします。\n・利用当日に、発熱、嘔吐・下痢、発疹などの症状がある場合は、ご利用をお控えください。\n・当面、大人の方はご利用時にマスクの着用をお願いしております。\n\n育児相談(オンライン)\n令和4年7月より、オンライン育児相談がはじまりました。「いたばし子育て応援アプリ」を利用してご相談いただけます。詳しくは、下記をご確認ください。\nいたばし子育て応援アプリ; https://www.city.itabashi.tokyo.jp/kosodate/teate/oyakudachi/1004610.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "平日、午前",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "区内健康福祉センター等"
+  },
+  "institutionName": {
+    "canonicalName": "板橋区の子育てに関する相談",
+    "shortName": "健康福祉センターの育児相談"
+  },
+  "localGovernmentLink": {
+    "title": "健康福祉センターの育児相談",
+    "uri": "https://www.city.itabashi.tokyo.jp/kosodate/ninshin/shusan/1039847.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-28",
+    "updater": "板橋区"
+  },
+  "procedureCounter": "各健康福祉センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "健康福祉センター以外の会場は要予約",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "令和6年度育児相談日程表",
+      "uri": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/004/092/sai6ikuso.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "お子さんの発育や発達、離乳食、食事や歯みがきなど、保健師、栄養士、歯科衛生士による育児の相談を行っています。",
+  "support": {
+    "description": "身体計測と授乳、発育・発達、離乳食、歯みがきのことなどの個別相談",
+    "materiallySupport": "来所型の「計測できる育児相談」、電話による育児相談（随時）",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "乳幼児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "板橋区在住の乳幼児の保護者"
+  },
+  "updateDate": "2024-03-28",
+  "useConsiderationFlag": false,
+  "utilization": "健康福祉センター以外の会場は要予約",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

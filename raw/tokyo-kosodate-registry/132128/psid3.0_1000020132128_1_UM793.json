@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132128;日野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "市民部保険年金課年金係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132128",
+    "psid": "psid3.0+1000020132128+1+UM793"
+  },
+  "belongings": "ご本人確認できるもの\n(例)免許証、マイナンバーカード、パスポートなど\n基礎年金番号がわかる書類\n(例)年金手帳、基礎年金番号通知書、日本年金機構が発行した基礎年金番号が記載されている書類（納付書など）\n出産予定日のわかる書類など\n(例)母子手帳など\n届出を行う時期や死産の場合などで必要書類が異なります。事前にお問い合わせください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都日野市神明1丁目12番地の1日野市役所1階",
+    "contactComment": "直通電話：042-514-8289,代表電話：042-585-1111",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "市民部保険年金課年金係",
+    "contactPhone": "042-514-8289,042-585-1111",
+    "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G040700",
+    "zipCode": "1918686"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "国民年金保険料の産前産後期間の免除\nページID1011490　 更新日 令和4年5月19日\n\n第1号被保険者が、出産をする際には、出産前後の一定期間の保険料が免除されます。出産予定日の6カ月前から届出をすることができます。\n\n届出先\n市役所保険年金課年金係\n\n届出に必要なもの\nご本人確認できるもの\n(例)免許証、マイナンバーカード、パスポートなど\n基礎年金番号がわかる書類\n(例)年金手帳、基礎年金番号通知書、日本年金機構が発行した基礎年金番号が記載されている書類（納付書など）\n出産予定日のわかる書類など\n(例)母子手帳など\n届出を行う時期や死産の場合などで必要書類が異なります。事前にお問い合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "産前産後期間の国民年金保険料免除",
+    "shortName": "国民年金保険料の産前産後期間の免除"
+  },
+  "localGovernmentLink": {
+    "title": "国民年金保険料の産前産後期間の免除",
+    "uri": "https://www.city.hino.lg.jp/kurashi/kokuhonenkin/nenkin/hokenryo/1011490.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "日野市"
+  },
+  "procedureCounter": "市役所保険年金課年金係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "届出先\n市役所保険年金課年金係\n\n届出に必要なもの\nご本人確認できるもの\n(例)免許証、マイナンバーカード、パスポートなど\n基礎年金番号がわかる書類\n(例)年金手帳、基礎年金番号通知書、日本年金機構が発行した基礎年金番号が記載されている書類（納付書など）\n出産予定日のわかる書類など\n(例)母子手帳など\n届出を行う時期や死産の場合などで必要書類が異なります。事前にお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": "出産予定日の6カ月前から届出をすることができます。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第88条の2（保険料の納付義務）",
+    "regulationName": "国民年金法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民年金の第1号被保険者が出産した場合には、出産前後の一定期間の国民年金保険料が免除されます。\n免除期間は年金額を計算する際、保険料を納めた期間として扱われます。",
+  "support": {
+    "description": "第1号被保険者が、出産をする際には、出産前後の一定期間の保険料が免除されます。",
+    "materiallySupport": null,
+    "monetarySupport": "第1号被保険者が、出産をする際には、出産前後の一定期間の保険料が免除されます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "016"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "第1号被保険者"
+  },
+  "updateDate": "2022-05-19",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

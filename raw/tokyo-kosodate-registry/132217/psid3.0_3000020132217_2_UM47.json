@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "132217;清瀬市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132217",
+    "psid": "psid3.0+3000020132217+2+UM47"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都清瀬市中里5-842　しあわせ未来センター1階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て支援課母子保健係",
+    "contactPhone": "042-497-2077",
+    "contactUrl": null,
+    "zipCode": "2048511"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "相談窓口\n子育て支援課母子保健係\n子育て支援課母子保健係では、妊娠・出産に関するご相談を随時お受けしております。子育て支援課母子保健係へお問い合わせください。\n\n相談時間：平日の午前8時30分から午後5時\n\n妊娠相談ほっとライン\n東京都の相談サービスでは思いがけない妊娠などの妊娠SOSのご相談をお受けしております。土曜日や夜間にもご相談に応じています。\n\n※上記の窓口とも以下のような相談をお受けしております。\n\n思いがけず妊娠をしたが、結婚の予定はない。\n妊娠と気付かず、かなり週数が経ってしまった。\n妊娠をしたことを誰にも相談できない。\n妊娠をしたが、自分では育てられない。\n産もうかどうか迷っている。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "清瀬市の妊娠・出産に関する相談",
+    "shortName": "妊娠・出産に関するご相談"
+  },
+  "localGovernmentLink": {
+    "title": "妊娠・出産に関するご相談",
+    "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/ninsinsyussan/ninsin/1005147/1005149.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "清瀬市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "子育て支援課母子保健係へお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "妊娠相談ほっとライン（外部リンク）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninshin-hotline.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子育て支援課母子保健係では、妊娠・出産に関するご相談を随時お受けしております。子育て支援課母子保健係へお問い合わせください。",
+  "support": {
+    "description": "子育て支援課母子保健係では、妊娠・出産に関するご相談を随時お受けしております。子育て支援課母子保健係へお問い合わせください。",
+    "materiallySupport": "子育て支援課母子保健係では、妊娠・出産に関するご相談を随時お受けしております。子育て支援課母子保健係へお問い合わせください。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2021-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "相談時間：平日の午前8時30分から午後5時",
+    "fromHM": "08:30",
+    "toHM": "17:00"
+  }
+}

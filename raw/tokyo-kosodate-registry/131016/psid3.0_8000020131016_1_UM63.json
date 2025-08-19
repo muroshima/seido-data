@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健福祉部障害者福祉課給付・指導担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+1+UM63"
+  },
+  "belongings": "1.障害児福祉手当認定診断書（所定の様式）\n2.戸籍謄本または抄本\n3.世帯全員の住民票の写し\n4.印鑑\n5.本人および扶養義務者等の住民税課税証明書\n6.公的年金等を受けている方は、年金等の種類および受給額のわかるもの\nまた、平成28年1月からは、マイナンバー（社会保障・税番号）制度開始のため、以下の書類も必要になります。\n（1）対象者本人および扶養義務者等のマイナンバーの確認ができる書類（通知カード・個人番号カード等）\n（2）来所した方の身元確認ができる書類\n・1点で確認可能なもの：個人番号カード、運転免許証、パスポート、身体障害者手帳、愛の手帳など\n・2点以上で確認可能なもの（上記の提示ができないとき）：年金手帳、健康保険証、後期高齢者医療証、介護保険証、生活保護受給者証、社員証、学生証、公共料金（電気、ガス、水道、電話）領収証、個人情報（氏名、住所、生年月日）があらかじめ印刷してある区からの印刷物など",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区九段南1-2-1",
+    "contactComment": null,
+    "contactEmail": "shogaishafukushi@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "保健福祉部障害者福祉課給付・指導担当",
+    "contactPhone": "03-5211-4128",
+    "contactUrl": null,
+    "zipCode": "1028688"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "支給制限　　\n\n次のいずれかに該当する人は対象となりません。\n　　\n1.施設に入所している人　　\n\n2.本人および扶養義務者等の所得が所得制限基準額表（別表）を超えている人　　\n\n3.障害を理由とする公的年金を受給している人　　\n\n詳しくは、お問い合わせください。　　\n\n障害児福祉手当所得制限基準額表　　\n\n|扶養人数|障害者本人の所得|扶養義務者等の所得|\n|:----|:----|:----|\n|0人|3,640,000円|6,287,000円|\n|1人|3,984,000円|6,536,000円|\n|2人|4,364,000円|6,749,000円|\n|3人|4,744,000円|6,962,000円|\n|4人|5,124,000円|7,175,000円|\n|5人|5,504,000円|7,388,000円|",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "障害児福祉手当",
+    "shortName": "障害児福祉手当（国の制度）"
+  },
+  "localGovernmentLink": {
+    "title": "障害児福祉手当（国の制度）",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kenko/shogaisha/techo/child-service/shogaiji.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第3章",
+    "regulationName": "特別児童扶養手当等の支給に関する法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "身体または精神に重度の障がいのある20歳未満の方で、日常生活において常時介護を必要とする方に対し、手当が支給されます。",
+  "support": {
+    "description": "月額15,690円（令和6年4月改定）\n\n申請のあった月の翌月分から支給します。\n5月・8月・11月・2月に、前月までの3か月分を本人の預金口座に振り込みます。",
+    "materiallySupport": null,
+    "monetarySupport": "月額15,690円（令和6年4月改定）"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090",
+      "098"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "精神または身体に重度の障害があるため、日常生活において常時の介護を必要とする状態にある在宅の20歳未満の人"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

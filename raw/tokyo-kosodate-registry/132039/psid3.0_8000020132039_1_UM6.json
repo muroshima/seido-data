@@ -1,0 +1,136 @@
+{
+  "area": {
+    "areaCode": "132039;武蔵野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部　健康課　母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132039",
+    "psid": "psid3.0+8000020132039+1+UM6"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都武蔵野市吉祥寺北町4‐8‐10　武蔵野市立保健センター1階",
+    "contactComment": "ファクス番号：0422-51-9297",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康福祉部　健康課　母子保健係",
+    "contactPhone": "0422-51-0700",
+    "contactUrl": "https://www.city.musashino.lg.jp/cgi-crm/CRM030/CRM030_001/G00700500/1006673",
+    "zipCode": "1800001"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊婦健康診査\n妊娠届出をされたかたへ、妊婦健康診査受診票14枚、妊婦子宮頸がん検診受診票1枚、妊婦超音波検査受診票4枚、妊婦歯科健康診査受診票1枚、新生児聴覚検査受診票1枚を交付します。\n\n妊婦歯科健康診査; https://www.city.musashino.lg.jp/shussan_kodomo_kyoiku/ninshin_shussan_boshihoken/ninshin/1006674.html\n新生児聴覚検査の費用助成について; https://www.city.musashino.lg.jp/shussan_kodomo_kyoiku/ninshin_shussan_boshihoken/umaretara/1023139.html\n妊婦健康診査とは\n妊婦健康診査とは、妊婦本人の健康状態や赤ちゃんの育ち具合を確認するために行うものです。\n\n妊娠届出時に、妊婦健康診査受診票14枚、妊婦子宮頸がん検診受診票1枚、妊婦超音波検査受診票4枚を交付しています。\n受診票を利用することで、東京都管内委託医療機関で健診を受ける際に、健診費用の一部について助成が受けられます。\n公費負担額（市からの助成額）は毎年改定があります。\n\n助産所及び里帰り等で東京都以外の医療機関で受診した場合も、申請により市の助成が受けられます。\n詳細はページ下部の「助産所や東京都以外の医療機関で受診した場合の助成金申請について」をご覧ください。\n\n妊婦健康診査を受けましょう （PDF 169.5KB）; https://www.city.musashino.lg.jp/_res/projects/default_project/_page_/001/006/673/R506ukemasyou.pdf\n妊婦健康診査標準的なスケジュール （PDF 186.6KB）; https://www.city.musashino.lg.jp/_res/projects/default_project/_page_/001/006/673/29schejule.pdf\n注意事項\n母子健康手帳の交付を受ける前の受診及び海外での受診は、この制度の対象外です。\n妊婦健康診査は無料券ではありません。受診票に掲載されている検査項目について助成するものです。それ以外の健診については費用が発生しますのでご了承ください。\nご不明な点等ございましたらお問い合わせください。\n\n受診場所\n都内委託医療機関",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "妊婦健康診査の標準的なスケジュール;https://www.city.musashino.lg.jp/_res/projects/default_project/_page_/001/006/673/29schejule.pdf",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊婦健康診査",
+    "shortName": "妊婦健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "妊婦健康診査",
+    "uri": "https://www.city.musashino.lg.jp/shussan_kodomo_kyoiku/ninshin_shussan_boshihoken/ninshin/1006673.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "武蔵野市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "①母子健康手帳を交付する際に、妊婦健康診査受診票 14 枚、妊婦超音波検査受診票４枚と妊婦子宮\n頸がん受診票 1 枚を交付します。\n＊母子健康手帳の交付を受ける前の受診は、この制度の対象外となります。\n②全ての受診票に、氏名を記入してください。\n＊ご本人以外は使用することができません。\n＊原則として、再発行いたしません（災害等でなくされた場合は、健康課にお問い合わせください）。\n③医療機関の受付で、受診票を使用する旨お申し出ください。\n＊東京都内のほとんどの医療機関で使用することができます。\n＊受診票を使用できない助産所や都外の医療機関で受診した場合は、出産後に費用を助成します（助成額に上\n限があります）。\n＊東京都内医療機関（助産所以外）で、受診票を使用せずに受診した場合の費用は償還払いができません。\n④医療機関の窓口で、自己負担金をお支払いください。\n＊受診票は無料券ではありません。受診票に記載された検査項目を実施した場合に、一定金額を上限として助\n成するものです。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "妊婦歯科健康診査",
+      "uri": "https://www.city.musashino.lg.jp/shussan_kodomo_kyoiku/ninshin_shussan_boshihoken/ninshin/1006674.html"
+    },
+    {
+      "title": "新生児聴覚検査の費用助成について",
+      "uri": "https://www.city.musashino.lg.jp/shussan_kodomo_kyoiku/ninshin_shussan_boshihoken/umaretara/1023139.html"
+    },
+    {
+      "title": "妊婦健康診査を受けましょう （PDF 169.5KB）",
+      "uri": "https://www.city.musashino.lg.jp/_res/projects/default_project/_page_/001/006/673/R506ukemasyou.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊婦さんやお腹の赤ちゃんの健康状態を定期的に確認するのが妊婦健康診査です。妊婦さんの健康診査は、一般的に出産までに14回程度受診するのが望ましいとされています。しかし、妊娠は病気ではないため健康保険は適用されません。そこで、出産までの健診を受ける際の経済的な負担を軽くするため、妊婦健康診査費用の一部を助成する妊婦健康診査受診票等をお渡ししています。",
+  "support": {
+    "description": "妊娠届出時に、妊婦健康診査受診票14枚、妊婦子宮頸がん検診受診票1枚、妊婦超音波検査受診票4枚を交付しています。\n受診票を利用することで、東京都管内委託医療機関で健診を受ける際に、健診費用の一部について助成が受けられます。\n公費負担額（市からの助成額）は毎年改定があります。",
+    "materiallySupport": null,
+    "monetarySupport": "東京都管内委託医療機関で健診を受ける際に、健診費用の一部について助成"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊婦"
+  },
+  "updateDate": "2024-03-30",
+  "useConsiderationFlag": false,
+  "utilization": "妊娠届出時に、妊婦健康診査受診票14枚、妊婦子宮頸がん検診受診票1枚、妊婦超音波検査受診票4枚を交付しています。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

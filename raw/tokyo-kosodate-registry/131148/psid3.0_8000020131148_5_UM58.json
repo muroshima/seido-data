@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131148;中野区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども教育部子育て支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131148",
+    "psid": "psid3.0+8000020131148+5+UM58"
+  },
+  "belongings": "・申請者および対象児童の戸籍謄本\n※離婚等の支給事由が記載されている必要があります。戸籍編成等により記載がない場合は離婚等の記載のある除籍謄本等もご用意ください。\n※戸籍謄本の取得に時間を要する場合のみ、離婚届受理証明書や出生届受理証明書での仮受付ができます。\n\n・申請者名義の口座番号がわかる通帳またはキャッシュカード\n※公金の振り込めない銀行は不可です。\n\n・申請者及び配偶者の所得情報\n※令和5年1月2日以降、中野区に転入された方\n※マイナンバーにより中野区が令和5年1月1日住所地へ照会します。その結果、必要な情報が取得できない場合は、令和5年度住民税課税証明書が必要な場合があります。\n\n・診断書（中野区指定のもの）\n※障害を有する場合\n※身体障害者手帳または愛の手帳等をお持ちの方は、診断書を省略できる場合があります。\n\n・その他、児童と別居しているなど、申請者および児童の状況により調査書等",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "中野区中野四丁目11番19号",
+    "contactComment": "区役所 3階　子ども総合窓口",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども教育部　子育て支援課　児童手当係",
+    "contactPhone": "03-3228-8952",
+    "contactUrl": null,
+    "zipCode": "1648501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "児童育成手当\n助成の対象になる方は\n○満18歳未満の方で、現在下記の機能障害があり（治療をしないと将来機能障害がみこまれるものも含む）、入院・手術により機能回復が見込まれる方\n1　肢体不自由　2　視覚障害　3　聴覚・平衡機能障害　4　音声・言語・そしゃく機能障害　5　心臓機能障害　6　腎臓機能障害　7　小腸機能障害　8　肝臓機能障害　9　その他内臓機能障害　10　ヒト免疫不全ウイルスによる免疫機能の障害\n※唇口蓋裂等に起因する音声・言語機能障害を伴う方で、手術以外に歯科矯正が必要な場合など通院で対象になる場合もあります。\n\n○世帯の特別区民税所得割額が23万5千円未満であること。ただし「重度かつ継続」の障害に該当する場合は対象となる場合もあります。「重度かつ継続」の範囲は、下記のとおり。\n腎臓機能障害、小腸機能障害、免疫機能障害、心臓機能障害（心臓移植後の抗免疫療法に限る）、肝臓機能障害（肝臓移植後の抗免疫療法に限る）、医療保険多数該当（医療保険世帯において育成医療申請前12か月以内で3か月以上高額療養費の支給があったもの）\n※「世帯」とは、同じ医療保険に加入している方。ご家族でも、別の医療保険に加入している場合は、「別世帯」になります。\n\n助成内容および自己負担額は\n助成内容は、育成医療の対象とる障害に係る治療のうち、保険適用となる治療です。医療費の1割相当額を自己負担していただき、残りを助成します。なお、世帯の住民税課税状況に応じて、月額自己負担上限額があります。\n\n医療助成を受けられる医療機関は\n指定された医療機関および薬局でのみ助成を受けられます。\n\n助成を受けるには\n事前申請が必要です。各すこやか福祉センターまたは中野区役所3階・子ども総合窓口にて申請に必要な書類をお渡しします。書類提出後申請内容の審査を行い、対象者と認定したときは中野区から受給者証を送付します。\n受給者証が交付された後、医療機関等に提示することにより、医療助成が受けられます。\n\n補装具（治療用装具）の支給について\n補装具着装の承認を受けている支給対象児童が自立支援医療（育成医療）受給者証の当該指定自立支援医療機関において、その有効期間内に治療用装具の着装を行った場合、請求により、補装具の支給を受けることができます。\n\n問合せ先はこちらへ\n部署名 中野区役所3階 子ども総合窓口\n電話番号 03-3228-3253\nEメール kosodatesien@city.tokyo-nakano.lg.jp\n\n部署名 中部すこやか福祉センター\n電話番号 03-3367-7788\nEメール chubusukoyaka@city.tokyo-nakano.lg.jp\n\n部署名 北部すこやか福祉センター\n電話番号 03-3388-0240\nEメール hokubusukoyaka@city.tokyo-nakano.lg.jp\n\n部署名 鷺宮すこやか福祉センター\n電話番号 03-3336-7111\nEメール saginomiyasukoyaka@city.tokyo-nakano.lg.jp\n\n部署名 南部すこやか福祉センター\n電話番号 03-3380-5551\nEメール nanbusukoyaka@city.tokyo-nakano.lg.jp",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の育児に関する金銭的支援",
+    "shortName": "児童育成手当"
+  },
+  "localGovernmentLink": {
+    "title": "児童育成手当",
+    "uri": "https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/teate/teate/jidoikusei.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "中野区"
+  },
+  "procedureCounter": "子ども教育部　子育て支援課　児童手当係(区役所 3階　子ども総合窓口)\n※地域事務所、すこやか福祉センターでは受け付けておりませんのでご注意ください。",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "・申請者および対象児童の戸籍謄本\n※離婚等の支給事由が記載されている必要があります。戸籍編成等により記載がない場合は離婚等の記載のある除籍謄本等もご用意ください。\n※戸籍謄本の取得に時間を要する場合のみ、離婚届受理証明書や出生届受理証明書での仮受付ができます。\n\n・申請者名義の口座番号がわかる通帳またはキャッシュカード\n※公金の振り込めない銀行は不可です。\n\n・申請者及び配偶者の所得情報\n※令和5年1月2日以降、中野区に転入された方\n※マイナンバーにより中野区が令和5年1月1日住所地へ照会します。その結果、必要な情報が取得できない場合は、令和5年度住民税課税証明書が必要な場合があります。\n・診断書（中野区指定のもの）\n※障害を有する場合\n※身体障害者手帳または愛の手帳等をお持ちの方は、診断書を省略できる場合があります。\n・その他、児童と別居しているなど、申請者および児童の状況により調査書等",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "児童育成手当",
+      "uri": "https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/teate/teate/jidoikusei.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭の児童（育成手当）、又は障害もった児童（障害手当）に対して児童育成手当を支給することにより、児童の福祉の増進を図ることを目的としています。児童育成手当は、各区市町村が条例を設置し実施している事業です。",
+  "support": {
+    "description": "育成手当：児童１人あたり13,500円\n障害手当：児童１人あたり15,500円",
+    "materiallySupport": null,
+    "monetarySupport": "育成手当：児童１人あたり13,500円\n障害手当：児童１人あたり15,500円"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "育成手当：18歳到達後最初の3月31日までの児童\n障害手当：20歳未満",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "助成の対象になる方は\n\n○満18歳未満の方で、現在下記の機能障害があり（治療をしないと将来機能障害がみこまれるものも含む）、入院・手術により機能回復が見込まれる方\n1　肢体不自由　2　視覚障害　3　聴覚・平衡機能障害　4　音声・言語・そしゃく機能障害　5　心臓機能障害　6　腎臓機能障害　7　小腸機能障害　8　肝臓機能障害　9　その他内臓機能障害　10　ヒト免疫不全ウイルスによる免疫機能の障害\n※唇口蓋裂等に起因する音声・言語機能障害を伴う方で、手術以外に歯科矯正が必要な場合など通院で対象になる場合もあります。\n\n○世帯の特別区民税所得割額が23万5千円未満であること。ただし「重度かつ継続」の障害に該当する場合は対象となる場合もあります。「重度かつ継続」の範囲は、下記のとおり。\n腎臓機能障害、小腸機能障害、免疫機能障害、心臓機能障害（心臓移植後の抗免疫療法に限る）、肝臓機能障害（肝臓移植後の抗免疫療法に限る）、医療保険多数該当（医療保険世帯において育成医療申請前12か月以内で3か月以上高額療養費の支給があったもの）\n※「世帯」とは、同じ医療保険に加入している方。ご家族でも、別の医療保険に加入している場合は、「別世帯」になります。"
+  },
+  "updateDate": "2024-06-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部健康サービス課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM792"
+  },
+  "belongings": "・母子健康手帳（保護者の記録（1歳6か月のころ）を記入してお持ちください）\n・1歳6か月児歯科健康診査質問票\n（質問票英語版（PDF：447KB）（別ウィンドウで開きます）。届いている質問票に直接記入して下さい。）\nhttps://www.city.edogawa.tokyo.jp/documents/7706/2021english1sai6kagetushika_situmonnhyou.pdf\n・歯ブラシ\n・バスタオル\n・1歳6か月児健康診査の結果（ピンクの用紙）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部健康サービス課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "1歳6か月児歯科健康診査",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "1歳6か月児康診査　他自治体への依頼申請",
+      "uri": "https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1626841569549"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "お住まいの地域の健康サポートセンター\nhttps://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/shokanichiran.html\n・会場変更はできません。\n・車での来所はご遠慮ください。"
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児の歯の健康診査（1歳児歯科健康診査）",
+    "shortName": "1歳6か月児歯科健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "1歳6か月児歯科健康診査",
+    "uri": "https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kenkodukuri/shika/ha_kutisoudan/1_6shika.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "感染拡大防止の観点から予約制となります。\nご予約については、1歳6か月児歯科健康診査のお知らせ（対象者に郵送）をご覧ください。\n\n1歳5か月に達する月の下旬に、案内を郵送します。\n\n■申請方法\n1．東京共同電子申請・届出サービスを通して申請する。（下記の1歳6か月児歯科健康診査他自治体への依頼申請をクリックしてください。申請フォームに移ります。）\n1歳6か月児歯科健康診査他自治体への依頼申請（外部サイトへリンク）（別ウィンドウで開きます）\nhttps://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1626841569549\n内容に不備等があった場合は母子保健係からご連絡します。\n2．母子保健係へ電話で申請する（電話：03-5661-2466）",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "子育て中に知っておきたいこと「子どもの心と体を育てよう」;この時期のお子さんの特徴や遊び方等について分かりやすい資料をご紹介します。;「みてみて1歳6か月児子どもの心と体を育てよう」（PDF：2",
+      "uri": "https://www.city.edogawa.tokyo.jp/documents/7706/16hattatu.pdf;https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/shokanichiran.html;https://www.city.edogawa.tokyo.jp/kenko/kenko/kenkodukuri/shika/kodomo/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "満1歳6か月に達し、2歳未満のお子さんとその保護者を対象に、歯科医師による歯科健診、及個別相談（歯科衛生士による歯科相談、保健師による健康・育児相談、栄養士による栄養相談）を実施しています。感染拡大防止の観点から予約制となります。ご予約については、1歳6か月児歯科健康診査のお知らせ（対象者に郵送）をご覧ください。",
+  "support": {
+    "description": "・歯科医師による歯科健診\n・個別相談（歯科衛生士による歯科相談、保健師による健康・育児相談、栄養士による栄養相談）",
+    "materiallySupport": "・歯科医師による歯科健診\n・個別相談（歯科衛生士による歯科相談、保健師による健康・育児相談、栄養士による栄養相談）",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "満1歳6か月に達し、2歳未満のお子さんとその保護者",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": 6
+    },
+    "lessThan": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "満1歳6か月に達し、2歳未満のお子さんとその保護者"
+  },
+  "updateDate": "2023-05-22",
+  "useConsiderationFlag": false,
+  "utilization": "■健康サポートセンターに来る時のお願い\n・感染予防にご協力をお願いします。\n・健康サポートセンターに来るすべての方は自宅で検温をして来てください。\n・健診は最小限の人数でお越しください。\n\n■以下に該当する方は来所をご遠慮ください。\n・37.5℃以上の発熱、咳などの症状、体調のすぐれない場合\nご理解ご協力をよろしくお願いします。\nまた、お子さまの発育発達等でご心配なことやご相談等がありましたら、お住まいの地域の健康サポートセンターまでお問い合わせください。\nhttps://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/shokanichiran.html\n\n里帰り等で江戸川区以外の自治体で1歳6か月児歯科健康診査を希望する場合\n里帰り等の理由で他自治体で乳児健康診査をご希望の方は、下記の内容を電話等で事前にご確認のうえ、電子申請又はお電話にて申請してください。\n1．依頼先の自治体が1歳6か月児歯科健康診査を受け入れているかどうか\n2．依頼先の自治体名の確認（区・市区町村名）\n3．依頼先の自治体の部署名と住所（郵便番号を含む）",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

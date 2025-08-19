@@ -1,0 +1,139 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康推進課保健指導グループ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+1+UM47"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康推進課保健指導グループ",
+    "contactPhone": "03-3987-4174",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "訪問相談\n妊娠、出産されたかたに、保健師がご家庭に訪問し、ご相談をお受けいたします。\n電話・来所相談\n保健師・助産師・栄養士・歯科衛生士が、妊娠中、出産後の健康に関するご相談をお受けいたします。\n\n詳細は豊島区のホームページをご確認ください。\n\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "豊島区の妊娠・出産に関する相談",
+    "shortName": "妊産婦のかたの相談（訪問相談、電話・来所相談）"
+  },
+  "localGovernmentLink": {
+    "title": "妊産婦のかたの相談（訪問相談、電話・来所相談）",
+    "uri": "https://www.city.toshima.lg.jp/220/kosodate/ninshin/001313.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "厚生労働省「女性労働者の健康管理のために」母性健康管理指導事項連絡カードなど母性の健康管理情報が記載されています。",
+      "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyoukintou/seisaku05/index.html"
+    },
+    {
+      "title": "思春期から更年期までの女性のからだと心の相談「東京都女性のための健康ホットライン」（東京都福祉保健局）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/w_soudan.html"
+    },
+    {
+      "title": "東京都福祉保健局「妊娠相談ほっとライン」",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninshin-hotline.html"
+    },
+    {
+      "title": "東京都保健福祉局「妊産婦向け助産師オンライン相談」",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninsanpu-online.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠、出産されたかたに、保健師が訪問し、ご相談をお受けいたします。管轄の池袋保健所、長崎健康相談所にご相談下さい。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "082"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊娠、出産されたかた"
+  },
+  "updateDate": "2022-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

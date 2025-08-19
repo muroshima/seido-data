@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども部子ども支援課入園審査係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+1+UM5047"
+  },
+  "belongings": "医療的ケアに必要な医療器材や消耗品の用意、器材の洗浄・消毒、消耗品の破棄については各家庭でご対応ください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区九段南1-2-1",
+    "contactComment": "FAX：03-5211-4119",
+    "contactEmail": "kodomoshien@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "教育委員会事務局子ども部子ども支援課入園審査係",
+    "contactPhone": "03-5211-4119",
+    "contactUrl": null,
+    "zipCode": "1028688"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "障害のあるお子さんや保育園での医療的ケアの実施を必要とするお子さんの保育園への入園申込にあたっては、安全で適切な保育の実施のため、別途提出書類、事前のご相談をお願いしています。\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "障害児：受け入れ園の制限なし\n医療的ケア児：認可保育園、区立こども園、認定こども園、幼保一体施設（お子さんの状況や園の体制によっては受け入れができないことがあります。）"
+  },
+  "institutionName": {
+    "canonicalName": "保育所等における医療的ケア児への支援",
+    "shortName": "障害児保育・医療的ケア児の保育"
+  },
+  "localGovernmentLink": {
+    "title": "障害児保育・医療的ケア児の保育",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoiku/shogai-iryotekicare.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/20",
+    "updater": "千代田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoiku/moshikomi-nyuen.html",
+  "procedurePeriod": {
+    "conditions": "医療的ケア児のお子さんの保育園入園にあたっては、調整に時間を要するため、入園希望月の3か月前までにはご相談ください。4月入園の場合は、遅くとも申込受付期間中にご相談ください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "医療的ケア児及びその家族に対する支援に関する法律、千代田区医療的ケア児保育事業実施要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "障害のあるお子さんや保育園での医療的ケアの実施を必要とするお子さんの保育園への入園申込にあたっては、安全で適切な保育の実施のため、別途提出書類や事前のご相談をお願いしています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "障害児は生後57日目（小規模保育事業は生後10か月）から小学校就学前まで、医療的ケア児は満1歳から小学校就学前まで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "保育の必要性があり、集団保育が可能である障害児・医療的ケア児\n※障害児とは、身体障害者手帳、療育手帳（愛の手帳）、精神障害者保健福祉手帳を所持している児童または心身の障害により保育園で特別な配慮を要する児童としています。\n※医療的ケア児とは、日常生活を営むために、生活扶助行為としての医療的ケアを必要とする児童であって、保育の実施時間中に園での医療的ケアの実施を必要とする児童としています。\n※集団保育の実施可否については、医師の意見書や区の関係者会議の結果を踏まえて総合的に判断します。\n※内定園での面接、健康診断および体験保育の実施により、集団保育や園での医療的ケアの実施が著しく困難と判断されたときは、内定が取り消しになる場合があります。\n※日常的に他の児童から隔離した場において保育が必要な場合や看護師による随時の観察および処置が必要な場合、集団保育は困難であると医師が判断した場合は利用を取り消すことがあります。"
+  },
+  "updateDate": "2024/11/29",
+  "useConsiderationFlag": true,
+  "utilization": "入園決定までの流れ\n入園申込、内定後、園での面接、健康診断に加え、体験保育期間を経て入園決定となります。\n医療的ケア児の場合、体験保育期間は保護者の方の付き添いが必要です。\n障害児については、お子さんの状況に応じて保護者の方の付き添いをお願いする場合があります。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "障害児：原則保育が必要な事由にかかる時間とし、園長が決定します。\n医療的ケア児：お子さんや保護者の状況及び看護師の配置状況を踏まえて園長が決定します。",
+    "fromHM": "09:00",
+    "toHM": "17:00"
+  }
+}

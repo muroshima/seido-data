@@ -1,0 +1,139 @@
+{
+  "area": {
+    "areaCode": "131130;渋谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保育課入園相談係,保育課施設運営係,保育課保育管理係,",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020131130",
+    "psid": "psid3.0+9000020131130+1+UM89"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "FAX03-5458-4907",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保育課入園相談係,保育課施設運営係,保育課保育管理係,",
+    "contactPhone": "03-3463-2492,03-3463-2573,03-3463-2483",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "保育園・幼保一元化施設\n更新日\n\n2024年4月12日\n\n保育園・幼保一元化施設マップ\n保育園・幼保一元化施設一覧\n保育園・幼保一元化施設マップ\nページ下部の保育園・幼保一元化施設一覧もあわせてご覧ください。\n\n令和6年度　保育園・幼保一元化マップ（PDF 335KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/dba8932db2054f7787dad2a2ad4b7d7a/506hoikuenmappdf.pdf\n保育園・幼保一元化施設一覧\n保育年齢・定員などは、区立・私立保育園の定員;https://www.city.shibuya.tokyo.jp/kodomo/hoiku/hoikuen-nyuen/kuritu_shiritu_teiin.htmlのページで確認してください。\n幼保一元化施設の詳細は、幼保一元化施設;https://www.city.shibuya.tokyo.jp/kodomo/hoiku/hoikuen-nyuen/youho_index.htmlのページをご覧ください。\n各園の園庭の有無やベビーカー置き場の有無など詳細情報については、保育施設詳細情報一覧（PDF 543KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/3664bac65a8041eea651d3504a7bd196/hoikushisetsusyosaiitiran.pdfをご覧ください。\nhttps://www.city.shibuya.tokyo.jp/shisetsu/hoikuen/hoikuen/shisetsu_map.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "認可保育所・認定こども園（保育園枠）一覧",
+    "shortName": "保育園・幼保一元化施設"
+  },
+  "localGovernmentLink": {
+    "title": "保育園・幼保一元化施設",
+    "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/hoikuen/hoikuen/shisetsu_map.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "渋谷区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "区立・私立保育園の定員",
+      "uri": "https://www.city.shibuya.tokyo.jp/kodomo/hoiku/hoikuen-nyuen/kuritu_shiritu_teiin.html"
+    },
+    {
+      "title": "保育施設詳細情報一覧（PDF 543KB）",
+      "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/3664bac65a8041eea651d3504a7bd196/hoikushisetsusyosaiitiran.pdf"
+    },
+    {
+      "title": "幼保一元化施設",
+      "uri": "https://www.city.shibuya.tokyo.jp/kodomo/hoiku/hoikuen-nyuen/youho_index.html"
+    },
+    {
+      "title": "令和6年度　保育園・幼保一元化マップ（PDF 335KB）",
+      "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/dba8932db2054f7787dad2a2ad4b7d7a/506hoikuenmappdf.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育園とは、保護者が仕事や病気などのために、家庭で充分に保育することができない子どもを、保護者に代わって保育することを目的とした児童福祉施設で、法的には保育所といいます。\n保育所（保育園）のうち、国が定めた設定基準をクリアし、都道府県知事（政令市・中核市では市長）に認可された保育園を「認可保育所」といいます。\n認可保育所には公立の保育園と私立の保育園があります。\n以下は、渋谷区内の認可保育所（保育園）および認定こども園の保育園枠の一覧です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-04-12",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

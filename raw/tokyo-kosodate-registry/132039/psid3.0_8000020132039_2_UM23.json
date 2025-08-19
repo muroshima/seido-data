@@ -1,0 +1,185 @@
+{
+  "area": {
+    "areaCode": "132039;武蔵野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子ども子育て支援課手当医療係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132039",
+    "psid": "psid3.0+8000020132039+2+UM23"
+  },
+  "belongings": "マル乳・マル子・マル青等医療証、身元確認書類（マイナンバーカード、運転免許証等）\n(注意)上記以外にも追加で書類の提出をお願いする場合があります。詳しくは子ども子育て支援課手当医療係までお問い合わせください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都武蔵野市緑町2-2-28",
+    "contactComment": "ファクス番号：0422-51-9417",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子ども子育て支援課手当医療係",
+    "contactPhone": "0422-60-1852",
+    "contactUrl": "https://www.city.musashino.lg.jp/shinseisho/shussan_kodomo_kyoiku/kosodateshien/1003757.html",
+    "zipCode": "1808777"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "認定後の手続きについて\n下記の場合は届出が必要です。\n\n（注意）手続きが遅れると、助成が受けられなくなったり、助成した医療費を返還していただく場合があります。\n\n都外の国民健康保険に加入もしくは脱退した場合\n申請事項変更（消滅）届を提出してください。（オンライン申請可）\n新しい健康保険証のコピーの提出が必要となります。\n申請者または子どもの住所・氏名が変更になった場合\n申請事項変更（消滅）届を提出してください。（オンライン申請可）\n子どもが武蔵野市外に転出する場合は、医療費助成の資格が消滅します。\n医療証を紛失した場合\n医療証再交付申請書を提出してください。（オンライン申請可）\n至急再発行が必要なかたは子ども子育て支援課窓口で申請してください。\n医療証再交付申請書(医療証を紛失したかたの再交付申請書) （PDF 123.4KB）; https://www.city.musashino.lg.jp/_res/projects/default_project/_page_/001/006/716/0403saikouhu.pdf\n医療証再交付申請書記載例 （PDF 131.1KB）; https://www.city.musashino.lg.jp/_res/projects/default_project/_page_/001/006/716/0403saikouhumihon.pdf\nその他\n以下の場合は医療費助成の資格が消滅となりますので、申請事項変更（消滅）届を提出してください。（オンライン申請可）\n\n生活保護を受給する場合\n児童福祉法に定める施設に入所する場合\n子どもが里親に委託される場合\n離婚等により子どもを養育しなくなった場合\n以下の場合は医療費助成の新規申請が必要となります。\n\n生活保護が廃止になった場合\n児童福祉法に定める施設から退所する場合\n離婚や婚姻、養子縁組等により、主たる生計維持者として子どもを養育するようになった場合\n健康保険、住所、氏名が変更になったかた、資格が消滅するかたの届出方法と届出書はこちら; https://www.city.musashino.lg.jp/shinseisho/shussan_kodomo_kyoiku/kosodateshien/1003757.html",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "子育てに関する手当・助成のオンライン申請について（らくらく申請・らくらく提出：所要時間3分～）",
+      "uri": "https://www.city.musashino.lg.jp/shussan_kodomo_kyoiku/kodomo_kosodate/teate_josei/kodomokatei/1040809.html"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児医療費（子ども医療費）の助成",
+    "shortName": "認定後の手続き"
+  },
+  "localGovernmentLink": {
+    "title": "子どもの医療費助成制度申請事項変更(消滅)届",
+    "uri": "https://www.city.musashino.lg.jp/shinseisho/shussan_kodomo_kyoiku/kosodateshien/1003757.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "武蔵野市"
+  },
+  "procedureCounter": "原則オンライン、子ども子育て支援課手当医療係(武蔵野市役所南棟3階)",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "下記の場合は届出が必要です。\n\n（注意）手続きが遅れると、助成が受けられなくなったり、助成した医療費を返還していただく場合があります。\n\n都外の国民健康保険に加入もしくは脱退した場合\n申請事項変更（消滅）のオンライン申請をしてください。\n新しい健康保険証のコピーの提出が必要となります。\n申請者または子どもの住所・氏名が変更になった場合\n申請事項変更（消滅）のオンライン申請をしてください。\n子どもが武蔵野市外に転出する場合は、医療費助成の資格が消滅します。\n医療証を紛失した場合\n医療証再交付申請をしてください。 \nその他\n以下の場合は医療費助成の資格が消滅となりますので、申請事項変更（消滅）をオンライン申請してください。\n\n生活保護を受給する場合\n児童福祉法に定める施設に入所する場合\n子どもが里親に委託される場合\n離婚等により子どもを養育しなくなった場合\n以下の場合は医療費助成の新規申請が必要となります。\n\n生活保護が廃止になった場合\n児童福祉法に定める施設から退所する場合\n離婚や婚姻、養子縁組等により、主たる生計維持者として子どもを養育するようになった場合\n子どもの手当助成に関する手続き;https://www.city.musashino.lg.jp/shussan_kodomo_kyoiku/kodomo_kosodate/teate_josei/kodomokatei/1045920.html\n",
+  "procedurePeriod": {
+    "conditions": "変更、消滅の事由が発生した日から15日以内",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第８条",
+    "regulationName": "武蔵野市子どもの医療費の助成に関する条例"
+  },
+  "relatedLink": [
+    {
+      "title": "児童手当 子どもの医療費助成 パンフレット （PDF 8.2MB）",
+      "uri": "https://www.city.musashino.lg.jp/_res/projects/default_project/_page_/001/006/716/jidouteateiryouseidosetumei.pdf"
+    },
+    {
+      "title": "医療証再交付申請書(医療証を紛失したかたの再交付申請書) （PDF 123.4KB）",
+      "uri": "https://www.city.musashino.lg.jp/_res/projects/default_project/_page_/001/006/716/0403saikouhu.pdf"
+    },
+    {
+      "title": "子どもの医療費助成は医療費を全額負担してもらえるのでしょうか",
+      "uri": "https://www.city.musashino.lg.jp/faq/shussan_kodomo_kyoiku/kosodate_teate_josei/1003969.html"
+    },
+    {
+      "title": "子どもが小学生になるときや中学校を卒業するとき、医療証の切り替え手続きは必要ですか",
+      "uri": "https://www.city.musashino.lg.jp/faq/shussan_kodomo_kyoiku/kosodate_teate_josei/1003972.html"
+    },
+    {
+      "title": "払い戻しの申請方法について",
+      "uri": "https://www.city.musashino.lg.jp/shinseisho/shussan_kodomo_kyoiku/kosodateshien/1003759.html"
+    },
+    {
+      "title": "児童手当",
+      "uri": "https://www.city.musashino.lg.jp/_res/projects/default_project/_page_/001/006/716/jidouteateiryouseidosetumei.pdf"
+    },
+    {
+      "title": "健康保険、住所、氏名が変更になったかた、資格が消滅するかたの届出方法と届出書はこちら",
+      "uri": "https://www.city.musashino.lg.jp/shinseisho/shussan_kodomo_kyoiku/kosodateshien/1003757.html"
+    },
+    {
+      "title": "市内転居した場合、旧住所が記載された子どもの医療証はそのまま使えますか？",
+      "uri": "https://www.city.musashino.lg.jp/faq/shussan_kodomo_kyoiku/kosodate_teate_josei/1041345.html"
+    },
+    {
+      "title": "医療費助成を受給するための具体的な申請方法、申請書はこちら",
+      "uri": "https://www.city.musashino.lg.jp/shinseisho/shussan_kodomo_kyoiku/kosodateshien/1003756.html"
+    },
+    {
+      "title": "子どもの医療証を再発行したいです。申請方法を教えてください。",
+      "uri": "https://www.city.musashino.lg.jp/faq/shussan_kodomo_kyoiku/kosodate_teate_josei/1041720.html"
+    },
+    {
+      "title": "医療証再交付申請書記載例 （PDF 131.1KB）",
+      "uri": "https://www.city.musashino.lg.jp/_res/projects/default_project/_page_/001/006/716/0403saikouhumihon.pdf"
+    },
+    {
+      "title": "子どもが都外の病院や医療証を持たず診察を受けた場合、費用は助成されますか",
+      "uri": "https://www.city.musashino.lg.jp/faq/shussan_kodomo_kyoiku/kosodate_teate_josei/1003967.html"
+    },
+    {
+      "title": "個人番号確認書類・身元確認書類が必要です （PDF 156.0KB）",
+      "uri": "https://www.city.musashino.lg.jp/_res/projects/default_project/_page_/001/006/716/030401mynumber.pdf"
+    },
+    {
+      "title": "子ども用めがね（子どもの弱視の治療用眼鏡）の払い戻しについて教えてください",
+      "uri": "https://www.city.musashino.lg.jp/faq/shussan_kodomo_kyoiku/kosodate_teate_josei/1041320.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子どもの医療費助成制度は、18歳の年度末までの子どもが病院等で診療を受けた医療費のうち、保険診療の自己負担分を助成する制度です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "届出が必要なかた\n東京都外の国民健康保険に加入または脱退したかた(変更届)\n申請者が市外へ転出したかた(変更届もしくは消滅届)\n子どもが市外へ転出したかた(消滅届)\n申請者もしくは子どもが市内転居により住所を変更したかた(変更届)\n主たる生計維持者が変更になったかた(消滅届)"
+  },
+  "updateDate": "2023-11-20",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

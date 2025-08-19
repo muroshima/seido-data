@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131041;新宿区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子ども家庭課 子ども医療・手当係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020131041",
+    "psid": "psid3.0+7000020131041+1+UM21"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "FAX：03-3209-1145",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 子ども家庭課 子ども医療・手当係",
+    "contactPhone": "03-5273-4546",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "誕生祝い品\n最終更新日：2024年4月30日\n　新宿区では、お子様の誕生をお祝いして「誕生祝い品」をお贈りします。\n　※本事業は特別区全国連携プロジェクトの助成金を活用しています。\n対象者\n　次の要件を満たしている方が対象となります。対象となる方には、区からお知らせします。\n新宿区で住民登録をしていること\n出生した子どもも出生時から新宿区に住民登録をしていること\n品目\n友好提携都市・長野県伊那市と、区と地球環境保全のための連携に関する協定を締結している群馬県沼田市の2か所で作られた木のおもちゃ等木工製品（7種類から1つを選択）\n絵本のガイドブック\n申込み方法\n　各特別出張所又は子ども医療・手当係（区役所2階15番）窓口にて、誕生祝い品のカタログと申込書をお渡します。\n　窓口で受け取れなかった場合には、お子様の住民票への記載を確認後（概ね1～2ヶ月程度）に住民登録地宛に誕生祝い品カタログと申込書を郵送いたします。\n　誕生祝い品の申込書を各特別出張所又は子ども医療・手当係（区役所2階15番）の窓口までお持ちいただくか、郵送にてお申込みください。\n誕生祝い品画像\n木のおもちゃ等木工製品（7種類） [PDF形式：918KB] （新規ウィンドウ表示）;https://www.city.shinjuku.lg.jp/content/000249546.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出産祝い",
+    "shortName": "誕生祝い品"
+  },
+  "localGovernmentLink": {
+    "title": "誕生祝い品",
+    "uri": "https://www.city.shinjuku.lg.jp/kodomo/file02_01_00003.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "新宿区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申込み方法\n各特別出張所又は子ども医療・手当係（区役所2階15番）窓口にて、誕生祝い品のカタログと申込書をお渡します。\n窓口で受け取れなかった場合には、お子様の住民票への記載を確認後（概ね1～2ヶ月程度）に住民登録地宛に誕生祝い品カタログと申込書を郵送いたします。\n\n誕生祝い品の申込書を各特別出張所又は子ども医療・手当係（区役所2階15番）の窓口までお持ちいただくか、郵送にてお申込みください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "新宿区誕生祝い品支給要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "木のおもちゃ等木工製品（7種類） [PDF形式：918KB] （新規ウィンドウ表示）",
+      "uri": "https://www.city.shinjuku.lg.jp/content/000249546.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "新宿区に住民登録をしている方で、新たにお子さんが生まれ、お子さんも新宿区に住所を定めた方に、誕生祝い品をお送りします。",
+  "support": {
+    "description": "品目\n・友好提携都市・長野県伊那市と、区と地球環境保全のための連携に関する協定を締結している群馬県沼田市の2か所で作られた木のおもちゃ等木工製品（7種類から1つを選択）\n・絵本のガイドブック",
+    "materiallySupport": "品目\n・友好提携都市・長野県伊那市と、区と地球環境保全のための連携に関する協定を締結している群馬県沼田市の2か所で作られた木のおもちゃ等木工製品（7種類から1つを選択）\n・絵本のガイドブック",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次の要件を満たしている方が対象となります。対象となる方には、区からお知らせします。\n・新宿区で住民登録をしていること\n・出生した子どもも出生時から新宿区に住民登録をしていること"
+  },
+  "updateDate": "2024-04-30",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

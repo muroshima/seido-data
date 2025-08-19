@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部健康サービス課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM6"
+  },
+  "belongings": "持ち物\n身元確認書類（運転免許証等）\n母子健康手帳\n未使用の妊婦健康診査受診票（転入前の自治体発行のもの）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部健康サービス課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊婦健診（妊婦健康診査）を受けましょう\n妊婦さんの健康と安全なお産のために、定期的な健康診査を受けましょう。\n「母と子の保健バッグ」の中の妊婦健康診査受診票により、都内契約医療機関において、妊婦健康診査の14回、超音波検査1回（令和5年4月1日以降に妊娠届出をされた方は4回）、子宮頸がん検診1回を公費負担で受診できます。\nただし、一定金額を助成するもので、病院・医院での指導内容や検査項目により自己負担額が発生する場合があります。\n\n詳しくは妊婦健康診査受診票冊子の「妊婦健康診査のご案内」をお読みください。\n\nなお、令和4年4月1日以降の多胎妊婦に対する妊婦健康診査費は15回目から19回目も助成の対象です。\n\n妊婦健康診査受診票\n\n妊婦健康診査受診票を使って、都内契約医療機関において妊婦健康診査の1回目から14回目分を公費負担で受けることができます。\nなお、妊婦健康診査受診票は妊娠確定後の健康診査で使用できるもので、妊娠しているかどうかを調べるための検査にはご使用できません。\n超音波検査受診票（経腹法）\n\n妊娠期間中に受診票を使って公費負担で1回受けることができます。\n\n（注）令和5年4月1日以降に妊娠届出をされた方は、4回受けることができます。\n\nなお、経腹法による断層撮影（経腹超音波検査）が対象です。経膣超音波検査は、妊婦健康診査受診票による公費負担対象項目です。\n子宮頸がん検診受診票\n\n妊娠期間中に受診票を使って、公費負担で1回受けることができます。\n原則として1回目の妊婦健診で実施します。\n\n多胎妊婦に対する妊婦健康診査受診費助成\n\n令和4年4月1日以降の多胎妊娠に伴う妊婦健康診査受診費用の、15回から19回目までの自費で受診した際に要した費用の一部を助成します。\n妊婦健康診査のような冊子や、新生児聴覚検査のような受診票はありません。償還払いのみの対応です。\n（詳しくは区ホームページ内、多胎妊婦に対する妊婦健康診査費助成についてをご参照ください）https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/tataininpukenshin.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊婦健康診査",
+    "shortName": "妊婦健診（妊婦健康診査）"
+  },
+  "localGovernmentLink": {
+    "title": "妊婦健診（妊婦健康診査）",
+    "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/ninpukenshin.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "各健康サポートセンター\nhttps://www.city.edogawa.tokyo.jp/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/index.html\n\n（注）手続きにはお時間がかかる場合があります。大変申し訳ありませんが、あらかじめご了承いただき、お時間に余裕をもってお越しください。",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊婦さんやお腹の赤ちゃんの健康状態を定期的に確認するのが妊婦健康診査です。妊婦さんの健康診査は、一般的に出産までに14回程度受診するのが望ましいとされています。しかし、妊娠は病気ではないため健康保険は適用されません。そこで、出産までの健診を受ける際の経済的な負担を軽くするため、妊婦健康診査費用【の一部】を助成する【妊婦健康診査受診票】をお渡ししています。",
+  "support": {
+    "description": "妊婦健康診査受診票",
+    "materiallySupport": "妊婦健康診査受診票",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊婦さん"
+  },
+  "updateDate": "2023-10-23",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "area": {
+    "areaCode": "131181;荒川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部生活衛生課管理係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020131181",
+    "psid": "psid3.0+7000020131181+1+UM114"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "荒川区荒川二丁目11番1号",
+    "contactComment": "ファクス：03-3806-2976",
+    "contactEmail": null,
+    "contactEx": "422",
+    "contactName": "健康部生活衛生課管理係",
+    "contactPhone": "03-3802-3111",
+    "contactUrl": null,
+    "zipCode": "1168502"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "平日・土曜の準夜間、日曜・祝日・年末年始に、具合が悪くなったお子さんのために、荒川区医師会に委託し、小児科専門の初期救急診療を行っています。\n担当医師は、区内の小児科専門医と近隣の大学病院等の小児専門医です。\nただし、応急診療のみのため、継続して受診することはできません。\n受診の際は、保健証と乳幼児・子ども医療証を忘れずに持っていきましょう。\n駐車スペースに限りがありますので、駐車できない場合があります。\n満車の場合はお近くの有料駐車場をご利用ください。\n\n荒川区医師会館の地図（GIF：16KB）;https://www.city.arakawa.tokyo.jp/documents/2819/isikaichuusyajoukakudai.gif\n地図　※クリックすると大きくなります\n\n診療時間\n平日\n午後7時から午後10時（受付時間：午後6時30分から午後9時30分）\n土曜\n午後5時から午後9時（受付時間：午後4時45分から午後8時30分）\n日曜・祝日・年末年始（12月29日から翌年1月3日）\n午前10時から午後1時（受付時間：午前9時45分から午後1時00分）\n午後2時から午後9時（受付時間：午後2時00分から午後8時30分）\n※休憩時間　午後1時から午後2時\n\n診療対象\n救急車による搬送や入院を必要としない程度の15歳未満のお子さん\n\n診療場所\n荒川区医師会こどもクリニック\n西日暮里6-5-3　荒川区医師会館1階\n電話：03-3893-1599\n\nこちらの記事も読まれています\n令和6年8月の休日診療当番;https://www.city.arakawa.tokyo.jp/a032/kyujitu-sinryo/ika.html\n夕方、急に子どもの具合が悪くなりました。診療してもらえるところはありますか？;https://www.city.arakawa.tokyo.jp/a003/faq/kosodatekyouiku/shinryo.html\n緊急電話番号一覧;https://www.city.arakawa.tokyo.jp/a004/anzen/kyuukyuu/renraku.html\nあらかわキッズ・マザーズコール24;https://www.city.arakawa.tokyo.jp/a039/kosodate/ikujisoudan/kidscall.html\n令和6年8月の休日調剤薬局当番;https://www.city.arakawa.tokyo.jp/a032/kyujitu-sinryo/yakkyoku.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "西日暮里6-5-3　荒川区医師会館1階",
+    "implementationName": "荒川区医師会こどもクリニック\n"
+  },
+  "institutionName": {
+    "canonicalName": "小児科救急",
+    "shortName": "小児科の平日準夜間・休日診療"
+  },
+  "localGovernmentLink": {
+    "title": "小児科の平日準夜間・休日診療",
+    "uri": "https://www.city.arakawa.tokyo.jp/a032/kenkouiryou/iryoukikan/heijitsujunyakan.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-08-23",
+    "updater": "荒川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "小児初期救急平日準夜間診療事業実施要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "夕方、急に子どもの具合が悪くなりました。診療してもらえるところはありますか？",
+      "uri": "https://www.city.arakawa.tokyo.jp/a003/faq/kosodatekyouiku/shinryo.html"
+    },
+    {
+      "title": "あらかわキッズ・マザーズコール24",
+      "uri": "https://www.city.arakawa.tokyo.jp/a039/kosodate/ikujisoudan/kidscall.html"
+    },
+    {
+      "title": "令和6年5月の休日調剤薬局当番",
+      "uri": "https://www.city.arakawa.tokyo.jp/a032/kyujitu-sinryo/yakkyoku.html"
+    },
+    {
+      "title": "緊急電話番号一覧",
+      "uri": "https://www.city.arakawa.tokyo.jp/a004/anzen/kyuukyuu/renraku.html"
+    },
+    {
+      "title": "令和6年5月の休日診療当番",
+      "uri": "https://www.city.arakawa.tokyo.jp/a032/kyujitu-sinryo/ika.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "荒川区では、市内の小児科医がローテーションを組んで、休日や夜間に、赤ちゃんやお子さんが救急の際の診療を行っています。",
+  "support": {
+    "description": "平日・土曜の準夜間、日曜・祝日・年末年始に、具合が悪くなったお子さんのために、荒川区医師会に委託し、小児科専門の初期救急診療を行っています。",
+    "materiallySupport": "平日・土曜の準夜間、日曜・祝日・年末年始に、具合が悪くなったお子さんのために、荒川区医師会に委託し、小児科専門の初期救急診療を行っています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "救急車による搬送や入院を必要としない程度の15歳未満のお子さん",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 15,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "救急車による搬送や入院を必要としない程度の15歳未満のお子さん"
+  },
+  "updateDate": "2020-06-17",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "平日\n午後7時から午後10時（受付時間：午後6時30分から午後9時30分）\n土曜\n午後5時から午後9時（受付時間：午後4時45分から午後8時30分）\n日曜・祝日・年末年始（12月29日から翌年1月3日）\n午前10時から午後1時（受付時間：午前9時45分から午後1時00分）\n午後2時から午後9時（受付時間：午後2時00分から午後8時30分）\n※休憩時間　午後1時から午後2時",
+    "fromHM": null,
+    "toHM": null
+  }
+}

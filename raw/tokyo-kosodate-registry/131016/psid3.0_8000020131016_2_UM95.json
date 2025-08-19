@@ -1,0 +1,156 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局子ども部指導課指導主事",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+2+UM95"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区九段南1-2-1",
+    "contactComment": null,
+    "contactEmail": "shidou@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "教育委員会事務局子ども部指導課指導主事",
+    "contactPhone": "03-5211-4286",
+    "contactUrl": null,
+    "zipCode": "1028688"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "・麹町幼稚園（外部サイトへリンク）;https://www14.schoolweb.ne.jp/swas/index.php?id=1380027\n・九段幼稚園（外部サイトへリンク）;https://www14.schoolweb.ne.jp/swas/index.php?id=1380028\n・番町幼稚園（外部サイトへリンク）;https://www14.schoolweb.ne.jp/swas/index.php?id=1380029\n・お茶の水幼稚園（外部サイトへリンク）;https://www14.schoolweb.ne.jp/swas/index.php?id=1380030\n・千代田幼稚園（外部サイトへリンク）;https://www14.schoolweb.ne.jp/swas/index.php?id=1380031\n・昌平幼稚園（外部サイトへリンク）;https://www14.schoolweb.ne.jp/swas/index.php?id=1380032\n・いずみこども園（外部サイトへリンク）;https://www14.schoolweb.ne.jp/swas/index.php?id=1380033\n・ふじみこども園（外部サイトへリンク）;https://www14.schoolweb.ne.jp/swas/index.php?id=1380034",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "新制度の幼稚園・認定こども園（幼稚園枠）一覧",
+    "shortName": "区立幼稚園・こども園一覧"
+  },
+  "localGovernmentLink": {
+    "title": "区立幼稚園・こども園一覧",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/yochien/kuritsu/ichiran/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "麹町幼稚園（PDF：315KB）",
+      "uri": "https://www.city.chiyoda.lg.jp/documents/10555/gakkoyoran-1.pdf"
+    },
+    {
+      "title": "九段幼稚園（PDF：333KB）",
+      "uri": "https://www.city.chiyoda.lg.jp/documents/10555/gakkoyoran-2.pdf"
+    },
+    {
+      "title": "番町幼稚園（PDF：828KB）",
+      "uri": "https://www.city.chiyoda.lg.jp/documents/10555/gakkoyoran-3.pdf"
+    },
+    {
+      "title": "お茶の水幼稚園（PDF：549KB）",
+      "uri": "https://www.city.chiyoda.lg.jp/documents/10555/gakkoyoran-4.pdf"
+    },
+    {
+      "title": "千代田幼稚園（PDF：400KB）",
+      "uri": "https://www.city.chiyoda.lg.jp/documents/10555/gakkoyoran-5.pdf"
+    },
+    {
+      "title": "昌平幼稚園（PDF：505KB）",
+      "uri": "https://www.city.chiyoda.lg.jp/documents/10555/gakkoyoran-6.pdf"
+    },
+    {
+      "title": "いずみこども園（PDF：451KB）",
+      "uri": "https://www.city.chiyoda.lg.jp/documents/10555/gakkoyoran-7.pdf"
+    },
+    {
+      "title": "ふじみこども園（PDF：587KB）",
+      "uri": "https://www.city.chiyoda.lg.jp/documents/10555/gakkoyoran-8.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "幼稚園には公立の幼稚園と私立の幼稚園があります。\n以下は、千代田区内の公立幼稚園およびこども園の一覧です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2023-11-22",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "【保育料に関して】保育・幼稚園課 支援係\n【児童手当・医療証（マル青）に関して】子ども総務課 手当・医療費助成係\n【学童保育クラブ育成料に関して】児童青少年課　学童保育係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+2+UM120"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "【保育料に関して】保育・幼稚園課 支援係\n【児童手当・医療証（マル青）に関して】子ども総務課 手当・医療費助成係\n【学童保育クラブ育成料に関して】児童青少年課　学童保育係",
+    "contactPhone": "042-724-2137,042-724-2139,042-724-2182",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "このシミュレーションに対応している内容は以下のとおりです。\n保育料：保育園・幼稚園等の保育料や補助金などの概算額\n育成料：学童保育クラブの利用料金\n手当等：児童手当の支給額の提示\n医療証：高校生等医療費助成制度（マル青医療証）\n\nSTEP1 市民税額（所得割）を計算します\n[[画像]]\n\nSTEP2 保育料等を確認します\n[[画像]]",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関するその他のこと",
+    "shortName": "保育料・育成料・手当等・医療証シミュレーション"
+  },
+  "localGovernmentLink": {
+    "title": "保育料・育成料・手当等・医療証シミュレーション",
+    "uri": "https://kosodate-machida.tokyo.jp/section/hoiku-simulation/simulation.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "「保育料・育成料・手当等・医療証シミュレーション」では、保育料：保育園・幼稚園等の保育料や補助金などの概算額、育成料：学童保育クラブの利用料金、手当等：児童手当の支給額の提示、医療証：高校生等医療費助成制度（マル青医療証）などのシミュレーションに対応しています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": null,
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": null
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

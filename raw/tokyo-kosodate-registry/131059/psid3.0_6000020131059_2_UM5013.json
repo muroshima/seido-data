@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "131059;文京区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健衛生部・文京保健所健康推進課健康増進係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131059",
+    "psid": "psid3.0+6000020131059+2+UM5013"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都文京区春日1丁目16番21号\n文京シビックセンター8階南側",
+    "contactComment": "ファクス番号：03-5803-1355",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健衛生部・文京保健所健康推進課健康増進係",
+    "contactPhone": "03-5803-1961",
+    "contactUrl": "https://logoform.jp/form/6KSu/553903",
+    "zipCode": "1128555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子育て応援ギフト\n支給対象者\n令和5年3月1日以降に出生した子を養育する方で、上記相談支援の「こんにちは赤ちゃん訪問」を受けた方\n\n（「こんにちは赤ちゃん訪問」の際に申請書をお渡しします。）\n\n支給内容\n出生した子ども1人につき10万円分の電子クーポンを申請後2か月程度でお送りいたします。\n\n遡及対象者\n令和4年4月1日から令和5年2月28日のあいだに出生した子を養育する方\n\n3月中に案内通知を郵送しました。案内通知が届いていない方は健康推進課までお問い合わせください。\n\n（注）令和5年3月1日時点で文京区に住民登録がない方は、現在お住まいの自治体に「出産応援ギフト」「子育て応援ギフト」の申請についてご確認ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出産・子育て応援ギフト（国の出産・子育て応援給付金）",
+    "shortName": "「子育て応援ギフト」"
+  },
+  "localGovernmentLink": {
+    "title": "出産・子育て応援事業（国の出産・子育て応援給付金）について",
+    "uri": "https://www.city.bunkyo.lg.jp/b027/p001523.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "文京区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "「こんにちは赤ちゃん訪問」の際に申請書をお渡しします。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "別紙：伴走型相談支援及び出産・子育て応援給付金の一体的実施事業実施要綱「出産・子育て応援給付金」（別添2）",
+    "regulationName": "伴走型相談支援及び出産・子育て応援給付金の一体的実施事業の実施について（子発1226第1号 令和4年12月26日）"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "すべての妊婦さんと子育て家庭が安心して出産・子育てができるように、妊娠から出産・子育てまでの一貫した「伴走型相談支援」を実施しています。この相談支援と一体的に実施する経済的支援として、「出産・子育て応援ギフト」を給付しています。",
+  "support": {
+    "description": "出生した子ども1人につき10万円分の電子クーポンを申請後2か月程度でお送りいたします。",
+    "materiallySupport": null,
+    "monetarySupport": "出生した子ども1人につき10万円分の電子クーポン"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "遡及対象者\n令和4年4月1日から令和5年2月28日のあいだに出生した子を養育する方\n\n3月中に案内通知を郵送しました。案内通知が届いていない方は健康推進課までお問い合わせください。\n\n（注）令和5年3月1日時点で文京区に住民登録がない方は、現在お住まいの自治体に「出産応援ギフト」「子育て応援ギフト」の申請についてご確認ください。"
+  },
+  "updateDate": "2024-06-05",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

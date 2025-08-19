@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "133817;三宅村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "4000020133817",
+    "psid": "psid3.0+4000020133817+1+UM799"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三宅島三宅村阿古497",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援センター",
+    "contactPhone": "04994-5-0902",
+    "contactUrl": null,
+    "zipCode": "1001212"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "福祉健康課\n福祉健康課 連絡先一覧\n|係名|主な業務|連絡番号|庁舎|\n|:----|:----|:----|:----|\n|福祉係|介護保険、児童・高齢者、障害者福祉、保育園|TEL：04994-5-0902|1階|\n| | |FAX：04994-5-0655| |\n|子ども家庭支援センター|子ども子育てに関する相談事務|TEL：04994-5-0982|1階|\n| | |FAX：04994-5-0655| |\n|健康係|母子保健、予防接種、住民検診、蓄犬登録|TEL：04994-5-0911|2階|\n| | |FAX：04994-5-0932| |\n|保育園|保育業務|TEL：04994-2-0064|なし|\n|医療係|各種診療、専門診療、健診、|TEL：04994-2-0016|なし|\n| |診療所の予算調整・執行、医事に関する事務処理、|FAX：04994-2-1005| |\n| |使用料・手数料の請求・収納| | |",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "こども家庭センター",
+    "shortName": "子ども家庭支援センター"
+  },
+  "localGovernmentLink": {
+    "title": "各課の業務と連絡先",
+    "uri": "https://www.vill.miyake.tokyo.jp/kakuka/renrakusaki.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/28",
+    "updater": "三宅村"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "三宅村の【子ども家庭支援センター】では、全ての妊産婦・子育て家庭に対する相談等への対応、妊産婦の健康やこどもの養育に関する支援などを行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2022/04/01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

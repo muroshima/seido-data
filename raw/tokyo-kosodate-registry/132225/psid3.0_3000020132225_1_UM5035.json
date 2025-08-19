@@ -1,0 +1,130 @@
+{
+  "area": {
+    "areaCode": "132225;東久留米市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉保健部　保険年金課　国民健康保険係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132225",
+    "psid": "psid3.0+3000020132225+1+UM5035"
+  },
+  "belongings": "（1）母子健康手帳などの出産予定日や多胎妊娠を確認することができる書類\n\n（2）世帯主及び対象となる方のマイナンバー確認書類（マイナンバーカードなど）\n\n（3）届出者の身元確認書類（運転免許証など）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都東久留米市本町3-3-1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉保健部　保険年金課　国民健康保険係",
+    "contactPhone": "042-470-7733",
+    "contactUrl": "https://www.city.higashikurume.lg.jp/kurashi/zei/kokuho/1019338/1019507.html",
+    "zipCode": "2038555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子育て世帯の負担軽減、次世代育成支援等の観点から、国保に加入されている方が出産する場合、産前産後期間の国保税を軽減します。\n世帯の所得による軽減措置を受けている場合は、当該軽減後の均等割額から減額します。\n該当の方は、届出をお願いいたします。\n\n対象者\n国保に加入されている方で令和5年11月1日以降に出産した方または妊娠85日以降に出産する予定の方（死産・流産・人工妊娠中絶及び早産された方を含みます。）\n軽減する額\n出産予定日または出産日が属する月の前月から4か月間（多胎妊娠の場合は出産予定日又は出産日が属する月の3か月前から6か月間）の均等割額及び所得割額\n\n※ただし、令和6年1月分以降が軽減の対象となります。\n\n手続き\n産前産後期間に係る国民健康保険税軽減届出書に必要事項を記入の上、下記必要書類を添えて提出してください。届出書は、出産予定日の6か月前から提出することができます。\n必要書類\n（1）母子健康手帳などの出産予定日や多胎妊娠を確認することができる書類\n\n（2）世帯主及び対象となる方のマイナンバー確認書類（マイナンバーカードなど）\n\n（3）届出者の身元確認書類（運転免許証など）\n\n産前産後期間に係る国民健康保険税軽減の届出について（お知らせ） （PDF 260.2KB）;https://www.city.higashikurume.lg.jp/_res/projects/default_project/_page_/001/019/507/oshirase.pdf\n産後期間に係る保険税軽減届出書;https://www.city.higashikurume.lg.jp/shinseisho/kokuho/1023341.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "国民健康保険における産前産後期間保険料（税）免除",
+    "shortName": "産前産後期間の軽減"
+  },
+  "localGovernmentLink": {
+    "title": "国保税の軽減・減免",
+    "uri": "https://www.city.higashikurume.lg.jp/kurashi/zei/kokuho/1019338/1019507.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "東久留米市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "産前産後期間に係る国民健康保険税軽減届出書に必要事項を記入の上、下記必要書類を添えて提出してください。届出書は、出産予定日の6か月前から提出することができます。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "産前産後期間に係る国民健康保険税軽減の届出について（お知らせ） （PDF 260.2KB）",
+      "uri": "https://www.city.higashikurume.lg.jp/_res/projects/default_project/_page_/001/019/507/oshirase.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": "令和5年11月1日以降に出産した方または妊娠85日以降に出産する予定の方",
+  "summary": "国民健康保険の出産する被保険者に係る産前産後期間相当分（４ヶ月分）の均等割保険料と所得割保険料が免除されます。",
+  "support": {
+    "description": "出産予定日または出産日が属する月の前月から4か月間（多胎妊娠の場合は出産予定日又は出産日が属する月の3か月前から6か月間）の均等割額及び所得割額\n\n※ただし、令和6年1月分以降が軽減の対象となります。",
+    "materiallySupport": null,
+    "monetarySupport": "国保税を軽減"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003",
+      "015"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "国保に加入されている方で令和5年11月1日以降に出産した方または妊娠85日以降に出産する予定の方（死産・流産・人工妊娠中絶及び早産された方を含みます。）"
+  },
+  "updateDate": "2024-04-15",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "area": {
+    "areaCode": "131156;杉並区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健福祉部国保年金課国民年金係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131156",
+    "psid": "psid3.0+8000020131156+1+UM793"
+  },
+  "belongings": "母子健康手帳、出生届",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都杉並区阿佐谷南1丁目15番1号",
+    "contactComment": "（直通）",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健福祉部国保年金課国民年金係",
+    "contactPhone": "03-5307-0646",
+    "contactUrl": null,
+    "zipCode": "1668570"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "産前産後期間の免除\n平成31年4月1日から所得の有無にかかわらず、産前産後期間の保険料が免除される制度が始まりました。この期間は国民年金の保険料納付済み期間に算入されます。\nこの制度の対象となる国民年金第1号被保険者は平成31年2月1日以降に出産された方です。（妊娠85日以上で死産・流産・早産・人工妊娠中絶された方も対象です。）届出は出産予定日の6カ月前から行うことができます。\nまた、すでに他の免除制度や猶予制度を受けている方も新たに手続きが必要です。\n当該期間の保険料をすでに納付されている場合は保険料が還付されますが、この期間の以前に未納があった場合は、未納の期間の保険料に充当されます。\n付加保険料を納付することもできます。\n\n免除該当期間\n出産（予定）日が属する月の前月から4カ月間（多胎妊娠の場合は出産（予定）日が属する月のの3カ月前から6カ月間）。ただし、免除されるのは平成31年4月以降の保険料です。\n\n手続きに必要なもの\nマイナンバーが確認できるものまたは基礎年金番号通知書（年金手帳）、母子手帳（死産証明書、死胎埋火葬許可証の写し）、本人確認書類（下記、「本人確認について」を参照ください。）\n代理で申請する場合は、委任状、窓口に来る方の本人確認書類\n手続き場所\nマイナポータルから電子申請ができます。詳細は日本年金機構ホームページをご確認ください。下記の窓口でも手続きできます。\n\n国民年金係（区役所中棟2階）、区民事務所\n杉並年金事務所国民年金課（2階 杉並区高円寺南2丁目54番9号）\n\n国民年金保険料の産前産後期間の免除制度（日本年金機構ホームページ）（外部リンク）;https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html\n個人の方の電子申請（日本年金機構ホームページ）（外部リンク）;https://www.nenkin.go.jp/denshibenri_kojin/denshibenri_kojin/shinsei_kojin.html",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "個人の方の電子申請（日本年金機構ホームページ）",
+      "uri": "https://www.nenkin.go.jp/denshibenri_kojin/denshibenri_kojin/shinsei_kojin.html"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "産前産後期間の国民年金保険料免除",
+    "shortName": "産前産後期間の保険料免除"
+  },
+  "localGovernmentLink": {
+    "title": "産前産後期間の免除",
+    "uri": "https://www.city.suginami.tokyo.jp/s035/2047.html#p6"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025-03-13",
+    "updater": "杉並区"
+  },
+  "procedureCounter": "国民年金係（区役所中棟2階）、区民事務所\n杉並年金事務所国民年金課（2階 杉並区高円寺南2丁目54番9号）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "マイナポータルから電子申請ができます。詳細は日本年金機構ホームページをご確認ください。下記の窓口でも手続きできます。\n国民年金係（区役所中棟2階）、区民事務所\n杉並年金事務所国民年金課（2階 杉並区高円寺南2丁目54番9号）\n\n国民年金保険料の産前産後期間の免除制度（日本年金機構ホームページ）（外部リンク）;https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html\n個人の方の電子申請（日本年金機構ホームページ）（外部リンク）;https://www.nenkin.go.jp/denshibenri_kojin/denshibenri_kojin/shinsei_kojin.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "平成31年2月1日以降に出産または出産予定の国民年金第１号被保険者（妊娠85日以上で死産・流産・早産・人工妊娠中絶された方も対象）",
+  "regulation": {
+    "regulationArticle": "第88条の2（保険料の納付義務）",
+    "regulationName": "国民年金法"
+  },
+  "relatedLink": [
+    {
+      "title": "個人の方の電子申請（日本年金機構ホームページ）（外部リンク）",
+      "uri": "https://www.nenkin.go.jp/denshibenri_kojin/denshibenri_kojin/shinsei_kojin.html"
+    },
+    {
+      "title": "国民年金保険料の産前産後期間の免除制度（日本年金機構ホームページ）（外部リンク）",
+      "uri": "https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民年金の第1号被保険者が出産した場合には、出産前後の一定期間の国民年金保険料が免除されます。\n免除期間は年金額を計算する際、保険料を納めた期間として扱われます。",
+  "support": {
+    "description": "平成31年2月1日以降に出産または出産予定の国民年金第１号被保険者（妊娠85日以上で死産・流産・早産・人工妊娠中絶された方も対象）",
+    "materiallySupport": null,
+    "monetarySupport": "出産（予定）日が属する月の前月から4カ月間（多胎妊娠の場合は出産（予定）日が属する月の3カ月前から6カ月間）。ただし、免除されるのは平成31年4月以降の保険料です。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "016"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": "平成31年2月1日以降に出産または出産予定の国民年金第１号被保険者（妊娠85日以上で死産・流産・早産・人工妊娠中絶された方も対象）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "平成31年2月1日以降に出産または出産予定の国民年金第１号被保険者"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

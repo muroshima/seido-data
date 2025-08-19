@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132152;国立市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子育て支援課 子育て支援係(くにたち子育てサポート窓口【くにサポ】)",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132152",
+    "psid": "psid3.0+1000020132152+1+UM28"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "国立市富士見台2-47-1 国立市役所 1階(20番窓口)",
+    "contactComment": "ファクス：042-576-2283",
+    "contactEmail": null,
+    "contactEx": "042-576-2111(内線：168)",
+    "contactName": "子ども家庭部 子育て支援課 子育て支援係(くにたち子育てサポート窓口【くにサポ】)",
+    "contactPhone": "042-576-2105",
+    "contactUrl": "https://www.city.kunitachi.tokyo.jp/cgi-bin/inquiry.php/52?page_no=2089",
+    "zipCode": "1868501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "東京都母子及び父子福祉資金の貸付\n都内に6カ月以上お住まいで、20歳未満の子どもを扶養している母子家庭及び父子家庭の方への貸付金です。貸付が自立につながると判断され、償還(返済)の計画を立てることができる方が対象となります。\n\n就学、転宅など目的により12種類の資金に分かれており、必要な額を各資金の限度額内でお貸ししています。詳しくは、子育て支援課子育て支援係まで。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "母子父子寡婦福祉資金",
+    "shortName": "東京都母子及び父子福祉資金の貸付"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親家庭への支援",
+    "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec01/gyomu/0244/0246/1461113199090.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "国立市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "詳しくは、子育て支援課子育て支援係まで。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（母子福祉資金の貸付け）、第14条（母子・父子福祉団体に対する貸付け）、第31条の6（父子福祉資金の貸付け）、第32条（寡婦福祉資金の貸付け）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "母子家庭の母、父子家庭の父、および寡婦の方の経済的自立や、扶養しているお子さんの福祉増進のために、必要な資金をお貸しする制度です。",
+  "support": {
+    "description": "就学、転宅など目的により12種類の資金に分かれており、必要な額を各資金の限度額内でお貸ししています。",
+    "materiallySupport": null,
+    "monetarySupport": "就学、転宅など目的により12種類の資金に分かれており、必要な額を各資金の限度額内でお貸ししています。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "20歳未満の子ども",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "都内に6カ月以上お住まいで、20歳未満の子どもを扶養している母子家庭及び父子家庭の方への貸付金です。貸付が自立につながると判断され、償還(返済)の計画を立てることができる方が対象となります。"
+  },
+  "updateDate": "2023-06-30",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

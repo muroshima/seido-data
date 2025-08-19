@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131130;渋谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "地域保健課地域医療係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020131130",
+    "psid": "psid3.0+9000020131130+1+UM18"
+  },
+  "belongings": "診断書（医師が記入したもので3か月以内のもの）\n医療費助成申請書\n印鑑\n健康保険証\n世帯調書\n所得税額証明書など",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "FAX03-5458-4937",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "地域保健課地域医療係",
+    "contactPhone": "03-3463-2433",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊娠高血圧症候群医療費助成\n区では、妊娠高血圧症候群などの疾病の入院治療に要した医療費の一部を助成します。\n\n更新日\n\n2023年4月13日\n\n助成対象\n助成対象の疾病\n助成内容\n申請期間\n提出書類\n申請方法\n助成対象\n渋谷区に住民登録があり、次のいずれかに該当する人（生活保護を受けている人を除く）\n\n前年分の世帯の総所得税額が30,000円以下である\n上記以外の人で、入院（見込）期間が26日以上である\n助成対象の疾病\n妊娠により、入院治療を必要とする次の疾病（注）疾病ごとに助成の認定基準があります。\n\n妊娠高血圧症候群およびその関連疾患\n糖尿病\n貧血\n産科出血（1000cc以上の出血）\n心疾患\n助成内容\n入院治療に要した医療費のうち、医療保険内診療分の自己負担額（食事療養費を除く）\n\n申請期間\n事前に地域保健課地域医療係へ問い合わせのうえ、入院期間の確定（退院）と同時に申請してください。\n\n提出書類\n診断書（医師が記入したもので3か月以内のもの）\n医療費助成申請書\n印鑑\n健康保険証\n世帯調書\n所得税額証明書など\n申請方法\n詳しくは、妊娠高血圧症候群等医療費助成の申請について （PDF 422KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/258e4342accb423b94ca00555fba3036/ninshiniryo_01.pdfをご覧ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊娠高血圧症候群（妊娠中毒症）に関する助成",
+    "shortName": "妊娠高血圧症候群等に関する助成"
+  },
+  "localGovernmentLink": {
+    "title": "妊娠高血圧症候群医療費助成",
+    "uri": "https://www.city.shibuya.tokyo.jp/kodomo/ninshin/ninshin-teate/ninshiniryo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "渋谷区"
+  },
+  "procedureCounter": "地域保健課地域医療係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "事前に地域保健課地域医療係へ問い合わせのうえ、入院期間の確定（退院）と同時に申請してください。\n\n提出書類\n診断書（医師が記入したもので3か月以内のもの）\n医療費助成申請書\n印鑑\n健康保険証\n世帯調書\n所得税額証明書など\n申請方法\n詳しくは、妊娠高血圧症候群等医療費助成の申請について （PDF 422KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/258e4342accb423b94ca00555fba3036/ninshiniryo_01.pdfをご覧ください。",
+  "procedurePeriod": {
+    "conditions": "申請期間\n事前に地域保健課地域医療係へ問い合わせのうえ、入院期間の確定（退院）と同時に申請してください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "渋谷区妊娠高血圧症候群等医療費助成実施要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "妊娠高血圧症候群等医療費助成の申請について （PDF 422KB）",
+      "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/258e4342accb423b94ca00555fba3036/ninshiniryo_01.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠高血圧症候群（妊娠中毒症）などにより、7日以上入院が必要な妊産婦の方を対象に入院医療費を助成します。",
+  "support": {
+    "description": "入院治療に要した医療費のうち、医療保険内診療分の自己負担額（食事療養費を除く）",
+    "materiallySupport": null,
+    "monetarySupport": "入院治療に要した医療費のうち、医療保険内診療分の自己負担額（食事療養費を除く）"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "渋谷区に住民登録があり、次のいずれかに該当する人（生活保護を受けている人を除く）\n\n前年分の世帯の総所得税額が30,000円以下である\n上記以外の人で、入院（見込）期間が26日以上である\n助成対象の疾病\n妊娠により、入院治療を必要とする次の疾病（注）疾病ごとに助成の認定基準があります。\n\n妊娠高血圧症候群およびその関連疾患\n糖尿病\n貧血\n産科出血（1000cc以上の出血）\n心疾患"
+  },
+  "updateDate": "2023-04-13",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

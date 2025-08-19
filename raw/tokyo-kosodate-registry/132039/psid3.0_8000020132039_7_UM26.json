@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132039;武蔵野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子ども子育て支援課手当医療係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132039",
+    "psid": "psid3.0+8000020132039+7+UM26"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都武蔵野市緑町2-2-28",
+    "contactComment": "ファクス番号：0422-51-9417",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子ども子育て支援課手当医療係",
+    "contactPhone": "0422-60-1963",
+    "contactUrl": "https://www.city.musashino.lg.jp/cgi-crm/CRM030/CRM030_001/G00800100/1041207",
+    "zipCode": "1808777"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "3.上下水道料金の一部免除\n制度\n水道料金は基本料金と1月当たり使用水量10立方メートルまでの分に係る従量料金の合計額(消費税相当額を含む)が免除されます。\n\n下水道料金は1カ月10立方メートル以下の汚水排出量にかかる料金(消費税相当額を含む)が減免されます。\n\n免除を受けられるのは水道契約者が児童扶養手当受給者本人の場合のみです。\n\n受付窓口は水道お客様センターになりますので、減免方法は水道お客様センターへお問い合わせください。\n\n問い合わせ先\n水道お客様センター 0422-52-0733",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "児童扶養手当",
+    "shortName": "上下水道料金の一部免除"
+  },
+  "localGovernmentLink": {
+    "title": "【ひとり親】【0～18歳】児童扶養手当の概要と手続きについて",
+    "uri": "https://www.city.musashino.lg.jp/shussan_kodomo_kyoiku/kodomo_kosodate/teate_josei/hitorioya/1041218/1041207/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "武蔵野市"
+  },
+  "procedureCounter": "水道お客様センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "減免方法は水道お客様センターへお問い合わせください。\n\n問い合わせ先\n水道お客様センター 0422-52-0733",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第4条～第8条",
+    "regulationName": "児童扶養手当法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童扶養手当は、父母の離婚などにより、父または母と生計を同じくしていないお子さんが養育されている家庭の生活の安定と自立を助け、お子さんが心身ともに健やかに成長するよう役立ててもらうために､父または母､もしくは父または母に代わってお子さんを養育している方に支給されます｡\nまた、ひとり親家庭でなくても、父または母に重度の障がいがある場合には、児童扶養手当が支給されます｡",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "水道契約者が児童扶養手当受給者本人の場合のみ"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

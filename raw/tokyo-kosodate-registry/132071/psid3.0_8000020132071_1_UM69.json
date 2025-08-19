@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132071;昭島市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "市民部 市民課 市民係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132071",
+    "psid": "psid3.0+8000020132071+1+UM69"
+  },
+  "belongings": "請求には、原則交通事故証明書（人身事故）が必要です。見舞金の請求用紙は市役所市民課または東部出張所にございますので、事故に遭われた方はご相談ください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "昭島市田中町1-17-1",
+    "contactComment": "ファックス番号：042-544-5115",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "市民部 市民課 市民係",
+    "contactPhone": "042-544-4120",
+    "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000029.html",
+    "zipCode": "1968511"
+  },
+  "cost": null,
+  "costConditions": "ちょこっと共済は東京都39全市町村の住民が会費を出し合い、交通事故で負傷したときに見舞金を受けられる制度です。\n\nコース・会費(どちらかを選択)\nAコ－ス＝年額1000円\nBコース＝年額500円\n",
+  "description": "ちょこっと共済は東京都39全市町村の住民が会費を出し合い、交通事故で負傷したときに見舞金を受けられる制度です。\n見舞金の請求には、原則警察署で発行する事故証明書が必要です。万一事故に遭われた場合は、事故の大小に関わらず自転車などの単独事故であってもすぐに警察に届け出てください。\n\n加入できる方\n昭島市に住民登録がある方\n\nコース・会費(どちらかを選択)\nAコ－ス＝年額1000円\nBコース＝年額500円\n加入期間\n4月1日から翌年3月31日(年度途中に加入またはコースを変更した場合は、申し込みの翌日から有効)\n\n申し込み方法\n以下の場所で申込書と希望するコースの会費をお持ちになって申し込みをしてください。なお、申込書は各申し込み場所にもございます。\n\n市役所本庁\n東部出張所\n健康福祉センター（あいぽっく)\n武蔵野会館\n緑会館\n環境コミュニケーションセンター\n市内の金融機関(郵便局を除く）\n（注意）公費負担による特別加入や団体加入はありません。\n\n交通災害の程度と見舞金額\n以下の表をご参照ください。なお、平成30年度から金額が一部変更されましたので、ご注意ください。 \nこの他、交通災害共済の会員が死亡事故に遭ったとき、生計を同じくする遺児が中学修了年限に達するまで、1人につき年額10万2000円の交通遺児年金が支給されます。\n\n平成30年度以降に加入した方で、平成30年度以降に事故に遭った場合\n|等級|交通災害の程度|Aコース|Bコース|\n|:----|:----|:----|:----|\n|1等級|死亡|300万円|150万円|\n|2等級|重度の後遺障害|200万円|100万円|\n|3等級|入院日数30日以上の傷害|34万円|17万円|\n|4等級|入院日数10日以上30日未満、または、実治療日数30日以内の傷害|14万円|7万円|\n|5等級|実治療日数10日以上30日未満の傷害|8万円|4万円|\n|6等級|実治療日数10日未満の傷害|4万円|2万円|\n\n平成29年度以前に加入した方で、平成30年3月31日までに事故に遭った場合\n|等級|交通災害の程度|Aコース|Bコース|\n|:----|:----|:----|:----|\n|1等級|死亡 |300万円|150万円|\n|2等級|重度の後遺障害|200万円|100万円|\n|3等級|入院日数30日以上の傷害|25万円|16万円|\n|4等級|入院日数10日以上30日未満、または、実治療日数30日以内の傷害  |9万円|6万円|\n|5等級|実治療日数10日以上30日未満の傷害|5万円|3万円|\n|6等級|実治療日数10日未満の傷害|3万円|2万円|\n\n見舞金の請求の際の注意事項\n請求の対象になるのは、加入した年度の共済期間内に日本国内において自動車、オートバイ、自転車、電車、船舶、航空機、身体障害者用車いす（道路上のみ）などの交通機関による交通事故に遭った場合です。\n請求には、原則交通事故証明書（人身事故）が必要です。見舞金の請求用紙は市役所市民課または東部出張所にございますので、事故に遭われた方はご相談ください。\n見舞金の額は治療や入院の日数に応じて決定しますので、治療が完全に終わってから請求してください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "加入期間\n4月1日から翌年3月31日(年度途中に加入またはコースを変更した場合は、申し込みの翌日から有効)",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の遺児の方への金銭的支援",
+    "shortName": "交通災害共済(ちょこっと共済)"
+  },
+  "localGovernmentLink": {
+    "title": "交通災害共済(ちょこっと共済)",
+    "uri": "https://www.city.akishima.lg.jp/s025/010/080/030/20150203112019.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-01",
+    "updater": "昭島市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "見舞金の請求の際の注意事項\n請求の対象になるのは、加入した年度の共済期間内に日本国内において自動車、オートバイ、自転車、電車、船舶、航空機、身体障害者用車いす（道路上のみ）などの交通機関による交通事故に遭った場合です。\n請求には、原則交通事故証明書（人身事故）が必要です。見舞金の請求用紙は市役所市民課または東部出張所にございますので、事故に遭われた方はご相談ください。\n見舞金の額は治療や入院の日数に応じて決定しますので、治療が完全に終わってから請求してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ちょこっと共済は東京都39全市町村の住民が会費を出し合い、交通事故で負傷したときに見舞金を受けられる制度です。",
+  "support": {
+    "description": "交通災害共済の会員が死亡事故に遭ったとき、生計を同じくする遺児が中学修了年限に達するまで、1人につき年額10万2000円の交通遺児年金が支給されます。",
+    "materiallySupport": null,
+    "monetarySupport": "交通災害共済の会員が死亡事故に遭ったとき、生計を同じくする遺児が中学修了年限に達するまで、1人につき年額10万2000円の交通遺児年金が支給されます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "091"
+    ]
+  },
+  "target": {
+    "conditions": "交通災害共済の会員が死亡事故に遭ったとき、生計を同じくする遺児が中学修了年限に達するまで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "交通災害共済の会員が死亡事故に遭ったとき、生計を同じくする遺児が中学修了年限に達するまで、1人につき年額120,000円の交通遺児年金を支給"
+  },
+  "updateDate": "2021-06-30",
+  "useConsiderationFlag": false,
+  "utilization": "申し込み方法\n以下の場所で申込書と希望するコースの会費をお持ちになって申し込みをしてください。なお、申込書は各申し込み場所にもございます。\n\n市役所本庁\n東部出張所\n健康福祉センター（あいぽっく)\n武蔵野会館\n緑会館\n環境コミュニケーションセンター\n市内の金融機関(郵便局を除く）\n（注意）公費負担による特別加入や団体加入はありません。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

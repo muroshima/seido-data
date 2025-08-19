@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課子ども家庭・女性相談グループ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+1+UM2366"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.toshima.lg.jp/258/kuse/soshiki/kate/006576.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て支援課子ども家庭・女性相談グループ",
+    "contactPhone": "03-3981-2119",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "～高校卒業程度認定試験合格を目指すかたのために～\n高等学校を卒業していない（中退を含む）ひとり親家庭のお母さんお父さんが、より良い条件での就業や転職へつなぐために高等学校卒業程度認定試験（以下、高卒認定試験とします）の合格を目指す場合、その費用について給付金を支給します。\n\n対象となる講座\n高卒認定試験の合格を目指す講座（通信制講座を含む）とし、区長が適当と認めたもの。ただし、高卒認定試験の試験科目の免除を受けるために高等学校に在籍して単位を修得する講座を受け、高等学校等就学支援金制度の支給対象となる場合は対象とはなりません。また、過去に高卒認定試験を受け、一部の試験科目に合格している場合等には、必要最小限の科目についての受講となります。\n\nその他\n\nパンフレット\n豊島区ひとり親家庭高等学校卒業程度認定試験合格支援事業（PDF：95KB）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "高等学校卒業程度認定試験合格支援事業給付金",
+    "shortName": "豊島区ひとり親家庭高等学校卒業程度認定試験合格支援事業"
+  },
+  "localGovernmentLink": {
+    "title": "豊島区ひとり親家庭高等学校卒業程度認定試験合格支援事業",
+    "uri": "https://www.city.toshima.lg.jp/259/1508270952.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": "子育て支援課子ども家庭・女性相談グループ",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "事前相談が必要です。講座の受講開始前に必ず、子育て支援課子ども家庭・女性相談グループにご相談下さい。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "豊島区ひとり親家庭高等学校卒業程度認定試験合格支援事業（PDF：95KB）",
+      "uri": "https://www.city.toshima.lg.jp/259/documents/kousotunintei.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭の就職や転職の可能性を広げ、自立につなげていくため、ひとり親家庭の親またはお子さんが高卒認定試験合格のための講座（通信講座を含む）を受け、これを開始したとき、修了した時および合格したときに受講費用の一部を支給します。",
+  "support": {
+    "description": "講座の開始時に受講開始時給付金、終了時には受講終了時給付金、受講終了後2年以内に高卒認定試験の全科目に合格した場合は、合格時給付金を支給します。\n\n受講開始時給付金\n受講終了時給付金\n受講料の５割相当額（通信制の場合はあわせて上限12.5万円、通学の場合は上限25万円、4千円以下は対象外）\n\n合格時給付金\n受講料の5割相当額（受講開始時、終了時給付金と併せて、通信制は上限25万円　通学の場合は上限40万円）",
+    "materiallySupport": null,
+    "monetarySupport": "受講開始時給付金\n受講料の4割相当額（通信制　上限10万円、通学　上限20万円、　4千円以下は対象外）\n\n受講終了時給付金\n受講料の5割相当額から受講開始時給付金額を差し引いた金額\n\n合格時給付金\n受講料の5割相当額（通信の場合　併せて上限25万円、通学の場合　併せて上限40万円）"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "008"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次のすべてを満たしているかた。（高校卒業者及び大検等すでに大学入学資格を取得している方は対象外）\n・豊島区に住所があり、20歳未満の児童を扶養しているひとり親家庭の母または父\n・児童扶養手当の支給を受けているか、または同様の所得水準にあるかた\n・支給を受けようとする方の就業経験、技能、資格の取得状況等から判断して、高卒認定資格に合格することが適職に就くために必要であると認められるかた\n・過去に受講終了時給付金及び合格時給付金を受給していないかた"
+  },
+  "updateDate": "2020-06-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

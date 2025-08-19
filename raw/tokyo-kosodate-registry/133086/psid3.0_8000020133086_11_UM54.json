@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "133086;奥多摩町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉保健課 健康係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020133086",
+    "psid": "psid3.0+8000020133086+11+UM54"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "奥多摩町氷川1111",
+    "contactComment": "FAX：0428-83-2833",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉保健課 健康係",
+    "contactPhone": "0428-83-2777",
+    "contactUrl": "https://www.town.okutama.tokyo.jp/cgi-bin/inquiry.php/18?page_no=589",
+    "zipCode": "1980212"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "幼児・子どもの予防接種\n子どもは発育と共に外出の機会が多くなり、感染症にかかる可能性も高くなります。接種できる時期になったら、できるだけベストのタイミングで、忘れずに予防接種を受けることが大切です。\n詳しい内容は、福祉保健課までお問い合わせください。\n|予防接種の種類|標準的な接種期間|接種回数|\n|:----|:----|:----|\n|HPV<br>（注釈1、 注釈2参照）|13歳となる日の属する年度の初日から当該年度の末日まで。|3回<br>間隔はワクチンによって違うため医療機関におたずねください。|\n（注釈1）平成7年4月2日から平成19年4月1日に生まれた方は、20歳までの間に受けることができます。\n（注釈2）令和7年3月末までであれば、次の両方に該当する人は公費で接種を受けることができます。1.平成9年4月2日生まれ～平成20年4月1日生まれの女性 2.過去にHPVワクチンを3回受けていない人（母子健康手帳でご確認ください）。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "HPV"
+  },
+  "localGovernmentLink": {
+    "title": "予防接種",
+    "uri": "https://www.town.okutama.tokyo.jp/1/fukushihokenka/iryo_kenko/1/589.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-12",
+    "updater": "奥多摩町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "詳しい内容は、福祉保健課までお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）",
+    "regulationName": "予防接種法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+  "support": {
+    "description": "接種回数\n3回\n間隔はワクチンによって違うため医療機関におたずねください。",
+    "materiallySupport": "接種回数\n3回\n間隔はワクチンによって違うため医療機関におたずねください。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "13歳となる日の属する年度の初日から当該年度の末日まで。\n（注釈1）平成7年4月2日から平成19年4月1日に生まれた方は、20歳までの間に受けることができます。\n（注釈2）令和7年3月末までであれば、次の両方に該当する人は公費で接種を受けることができます。1.平成9年4月2日生まれ～平成20年4月1日生まれの女性 2.過去にHPVワクチンを3回受けていない人（母子健康手帳でご確認ください）。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "13歳となる日の属する年度の初日から当該年度の末日まで。\n（注釈1）平成7年4月2日から平成19年4月1日に生まれた方は、20歳までの間に受けることができます。\n（注釈2）令和7年3月末までであれば、次の両方に該当する人は公費で接種を受けることができます。1.平成9年4月2日生まれ～平成20年4月1日生まれの女性 2.過去にHPVワクチンを3回受けていない人（母子健康手帳でご確認ください）。"
+  },
+  "updateDate": "2023-10-02",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

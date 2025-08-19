@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132250;稲城市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども福祉部　子育て支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132250",
+    "psid": "psid3.0+2000020132250+1+UM2369"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "稲城市東長沼2111番地",
+    "contactComment": "ファクス：042-377-4781",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども福祉部　子育て支援課",
+    "contactPhone": "042-378-2111",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "私立幼稚園等園児保護者負担軽減補助金\n更新日：2024年6月17日\n\n幼稚園及び認定こども園の教育機能部分を利用される方へ\n幼稚園及び認定こども園の教育機能部分に在籍している園児の保護者の経済的負担を軽減し、幼児教育の振興と充実を図ることを目的として私立幼稚園等園児保護者負担軽減補助金を交付しています。\n令和6年度　私立幼稚園補助金のお知らせ（PDF：211KB）;https://www.city.inagi.tokyo.jp/kosodate/kosodate/youchien/shiritsuyouchien.files/R6hogosyahozyokinnosirase.pdf\n\n共通様式（申請書）\nPDFファイル形式になっていますので、プリントアウトしてご利用ください。\n注意：プリント用紙は普通紙、プリントサイズはA4、両面印刷を推奨します。\n感熱式プリンターの感熱専用用紙では、受け付けできません。\n私立幼稚園等園児保護者負担軽減補助金申請書（PDF：162KB）;https://www.city.inagi.tokyo.jp/kosodate/kosodate/youchien/shiritsuyouchien.files/R6hogosyahozyokinnsinnseisyo.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の幼児教育・保育施設の補助・減免",
+    "shortName": "私立幼稚園等園児保護者負担軽減補助金"
+  },
+  "localGovernmentLink": {
+    "title": "私立幼稚園等園児保護者負担軽減補助金",
+    "uri": "https://www.city.inagi.tokyo.jp/kosodate/kosodate/youchien/shiritsuyouchien.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-20",
+    "updater": "稲城市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "稲城市私立幼稚園等園児保護者負担軽減補助金交付要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "令和6年度　私立幼稚園補助金のお知らせ（PDF：211KB）",
+      "uri": "https://www.city.inagi.tokyo.jp/kosodate/kosodate/youchien/shiritsuyouchien.files/R6hogosyahozyokinnosirase.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "「幼児教育・保育の無償化」の対象とならない幼児教育施設に通うお子さんの保護者の経済的負担を軽減するために、稲城市独自に利用料の助成を行っています。",
+  "support": {
+    "description": "幼稚園及び認定こども園の教育機能部分を利用される方へ\n幼稚園及び認定こども園の教育機能部分に在籍している園児の保護者の経済的負担を軽減し、幼児教育の振興と充実を図ることを目的として私立幼稚園等園児保護者負担軽減補助金を交付しています。\n令和6年度　私立幼稚園補助金のお知らせ（PDF：211KB）;https://www.city.inagi.tokyo.jp/kosodate/kosodate/youchien/shiritsuyouchien.files/R6hogosyahozyokinnosirase.pdf",
+    "materiallySupport": null,
+    "monetarySupport": "幼稚園及び認定こども園の教育機能部分を利用される方へ\n幼稚園及び認定こども園の教育機能部分に在籍している園児の保護者の経済的負担を軽減し、幼児教育の振興と充実を図ることを目的として私立幼稚園等園児保護者負担軽減補助金を交付しています。\n令和6年度　私立幼稚園補助金のお知らせ（PDF：211KB）;https://www.city.inagi.tokyo.jp/kosodate/kosodate/youchien/shiritsuyouchien.files/R6hogosyahozyokinnosirase.pdf"
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "幼稚園及び認定こども園の教育機能部分に在籍している園児の保護者"
+  },
+  "updateDate": "2024-06-17",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131181;荒川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子育て支援課ひとり親・女性福祉係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020131181",
+    "psid": "psid3.0+7000020131181+1+UM60"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "荒川区荒川二丁目2番3号（本庁舎2階）",
+    "contactComment": "ファクス：03-3802-4919",
+    "contactEmail": null,
+    "contactEx": "3813",
+    "contactName": "子ども家庭部子育て支援課ひとり親・女性福祉係",
+    "contactPhone": "03-3802-3111",
+    "contactUrl": null,
+    "zipCode": "1168501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "母子家庭の母または父子家庭の父が就業に有利な国家資格を取得するために学校で勉強する際に、生活を支援するための費用（高等職業訓練促進給付金等）を支給します。\n\n対象者\n荒川区に住所がある母子家庭の母または父子家庭の父で、児童扶養手当の受給者または同等の所得水準の方\n養成機関で1年以上の課程を修業し、対象資格の取得が見込まれる方\n就業または育児と就学の両立が困難であると認められる方\n原則として養成機関へ通学している方\n過去にひとり親高等職業訓練促進給付金等の支給を受けていない方\n\n支給額\n高等職業訓練促進給付金\n区民税非課税世帯\n月額100,000円\n区民税課税世帯\n月額70,500円\n※注釈　最終学年に属する1年間については、月額40,000円を増額します。\n\n高等職業訓練修了支援給付金\n区民税非課税世帯\n月額50,000円\n区民税課税世帯\n月額25,000円\n\n高等職業訓練促進給付金の支給期間\n支給申請を行った月から、修業期間終了まで（上限4年）\n\n対象となる資格\n看護師、准看護師、介護福祉士、保育士、理学療法士、作業療法士、保健師、助産師、理容師、美容師、歯科衛生士、社会福祉士、製菓衛生師、調理師、シスコシステムズ認定資格、LPI認定資格　等\n※注釈　令和5年3月31日までに修業を開始する場合、6ヶ月以上の修業を通常必要とする民間資格等の取得の場合も給付対象になります。詳しくは子育て支援課までお問い合わせください。\n高等職業訓練対象資格の範囲（PDF：189KB）（別ウィンドウで開きます）;https://www.city.arakawa.tokyo.jp/documents/3025/r3qualification.pdf\n\n申請の流れ\n|1.事前相談|プログラム策定員（就業支援専門員）;https://www.city.arakawa.tokyo.jp/a035/kosodate/hitorioyakatei/programsakutei.htmlが受講開始から資格取得までサポートします。<br>受験前、もしくは資格取得にお悩みの段階で、まずはお気軽にご相談ください。<br>※注釈1　事前相談では、資格取得の計画や生活状況などを伺い、受給対象かどうかの確認を行います。<br>※注釈2　修業期間終了後の申請はできませんのでご注意ください。|\n|2.高等職業訓練促進給付金支給申請|事前相談後、申請書類を提出していだきます。|\n|3.支給開始|申請月から修業期間終了月までの各月に口座にお振込みします。|\n|4.出席状況の確認|毎月出席状況証明書の提出していただいた後、翌月にお振込みします。|\n|5.受講修了|受講修了証明書発行日が修了日となります。|\n|6.高等職業修了支援給付金支給申請|受講修了後、30日以内に申請書類を提出していただきます。|\n\nこちらの記事も読まれています\nひとり親就業支援相談;https://www.city.arakawa.tokyo.jp/a035/kosodate/hitorioyakatei/programsakutei.html\n東京都母子及び父子福祉資金;https://www.city.arakawa.tokyo.jp/a035/kosodate/hitorioyakatei/fukushishikin.html\nひとり親家庭医療費助成;https://www.city.arakawa.tokyo.jp/a035/kosodate/hitorioyakatei/iryohijosei.html\n国民健康保険料の産前産後期間相当分が免除されます;https://www.city.arakawa.tokyo.jp/a031/kenkouhoken/sannzennsanngo.html\n特別区民税・都民税について;https://www.city.arakawa.tokyo.jp/a012/zeikin/juuminzei/kutomin.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "高等職業訓練促進給付金",
+    "shortName": "ひとり親高等職業訓練促進給付金等事業"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親高等職業訓練促進給付金等事業",
+    "uri": "https://www.city.arakawa.tokyo.jp/a035/kosodate/hitorioyakatei/shokugyokunren.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-08-23",
+    "updater": "荒川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請の流れ\n|1.事前相談|プログラム策定員（就業支援専門員）;https://www.city.arakawa.tokyo.jp/a035/kosodate/hitorioyakatei/programsakutei.htmlが受講開始から資格取得までサポートします。<br>受験前、もしくは資格取得にお悩みの段階で、まずはお気軽にご相談ください。<br>※注釈1　事前相談では、資格取得の計画や生活状況などを伺い、受給対象かどうかの確認を行います。<br>※注釈2　修業期間終了後の申請はできませんのでご注意ください。|\n|2.高等職業訓練促進給付金支給申請|事前相談後、申請書類を提出していだきます。|\n|3.支給開始|申請月から修業期間終了月までの各月に口座にお振込みします。|\n|4.出席状況の確認|毎月出席状況証明書の提出していただいた後、翌月にお振込みします。|\n|5.受講修了|受講修了証明書発行日が修了日となります。|\n|6.高等職業修了支援給付金支給申請|受講修了後、30日以内に申請書類を提出していただきます。|\n",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第31条（母子家庭自立支援給付金）、第31条の10（父子家庭自立支援給付金）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭の母または父が、就業に結びつきやすい対象資格（看護師や介護福祉士など）を取得するため1年以上（令和3年4月1日から令和4年3月31日までに修業を開始する場合には6月以上）、養成機関で修業する場合に、修業期間中の生活の負担軽減のために高等職業訓練促進給付金を、また修業終了時に高等職業訓練修了支援給付金を支給します。",
+  "support": {
+    "description": "高等職業訓練促進給付金\n区民税非課税世帯\n月額100,000円\n区民税課税世帯\n月額70,500円\n※注釈　最終学年に属する1年間については、月額40,000円を増額します。\n\n高等職業訓練修了支援給付金\n区民税非課税世帯\n月額50,000円\n区民税課税世帯\n月額25,000円\n\n高等職業訓練促進給付金の支給期間\n支給申請を行った月から、修業期間終了まで（上限4年）\n\n対象となる資格\n看護師、准看護師、介護福祉士、保育士、理学療法士、作業療法士、保健師、助産師、理容師、美容師、歯科衛生士、社会福祉士、製菓衛生師、調理師、シスコシステムズ認定資格、LPI認定資格　等\n※注釈　令和5年3月31日までに修業を開始する場合、6ヶ月以上の修業を通常必要とする民間資格等の取得の場合も給付対象になります。詳しくは子育て支援課までお問い合わせください。\n高等職業訓練対象資格の範囲（PDF：189KB）（別ウィンドウで開きます）;https://www.city.arakawa.tokyo.jp/documents/3025/r3qualification.pdf",
+    "materiallySupport": null,
+    "monetarySupport": "高等職業訓練促進給付金\n区民税非課税世帯\n月額100,000円\n区民税課税世帯\n月額70,500円\n※注釈　最終学年に属する1年間については、月額40,000円を増額します。\n\n高等職業訓練修了支援給付金\n区民税非課税世帯\n月額50,000円\n区民税課税世帯\n月額25,000円\n\n高等職業訓練促進給付金の支給期間\n支給申請を行った月から、修業期間終了まで（上限4年）\n\n対象となる資格\n看護師、准看護師、介護福祉士、保育士、理学療法士、作業療法士、保健師、助産師、理容師、美容師、歯科衛生士、社会福祉士、製菓衛生師、調理師、シスコシステムズ認定資格、LPI認定資格　等\n※注釈　令和5年3月31日までに修業を開始する場合、6ヶ月以上の修業を通常必要とする民間資格等の取得の場合も給付対象になります。詳しくは子育て支援課までお問い合わせください。\n高等職業訓練対象資格の範囲（PDF：189KB）（別ウィンドウで開きます）;https://www.city.arakawa.tokyo.jp/documents/3025/r3qualification.pdf"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "荒川区に住所がある母子家庭の母または父子家庭の父で、児童扶養手当の受給者または同等の所得水準の方\n養成機関で1年以上の課程を修業し、対象資格の取得が見込まれる方\n就業または育児と就学の両立が困難であると認められる方\n原則として養成機関へ通学している方\n過去にひとり親高等職業訓練促進給付金等の支給を受けていない方"
+  },
+  "updateDate": "2022-06-27",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

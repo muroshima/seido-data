@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132101;小金井市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センターこども家庭相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132101",
+    "psid": "psid3.0+3000020132101+2+UM103"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小金井市貫井北町5-18-18　保健センター1階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "小金井市こども家庭センターゆりかご",
+    "contactPhone": "042-321-3141",
+    "contactUrl": null,
+    "zipCode": "1840015"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "カルガモ教室\nカルガモ教室は、１０ケ月から１歳２ケ月までのお子さんと保護者を対象にしたプログラムです。 運動あそび・ふれあいあそびの時間や保護者同士の交流もあります。\nお父さんのご参加もお待ちしてます♪\n\n２024年度の日程\n|開催日|４月２４日（水）５月２２日（水）|６月２６日（水）７月２４日（水）|８月２８日（水）９月２５日（水）|\n|市報掲載日|3月1日号|5月15日号|7月15日号|\n|対象年齢|２０２３（R５）2月～6月生|２０２３（R５）4月～8月生|２０２３（R５）6月～１０月生|\n|申込日|3月12日（火）～|5月２１日（火）～|7月23日（火）～|\n|時間・場所|１０：００～１１：３0・保健センター|\n\n☆申込日は変更になる場合があります。詳しい内容は、市報をご覧ください☆\n申込み・問合せ\n小金井市こども家庭センターゆりかご\n小金井市貫井北町5-18-18 保健センター１階\n℡ 042-321-3141",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "２０２４年度の日程\n開催日\t４月２４日（水）\n５月２２日（水）\t６月２６日（水）\n７月２４日（水）\t８月２８日（水）\n９月２５日（水）\n市報掲載日\t3月1日号\t5月15日号\t7月15日号\n対象年齢\t２０２３（R５）\n2月～6月生\t２０２３（R５）\n4月～8月生\t２０２３（R５）\n6月～１０月生\n申込日\t3月12日（火）～\t5月２１日（火）～\t7月23日（火）～\n時間・場所\t１０：００～１１：３0・保健センター\n☆申込日は変更になる場合があります。詳しい内容は、市報をご覧ください☆",
+    "fromHM": "10:00",
+    "fromYMD": null,
+    "toHM": "11:30",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "小金井市貫井北町５－１８－１８（保健センター１階）",
+    "implementationName": "小金井市こども家庭センターゆりかご"
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関する教室・講習会",
+    "shortName": "カルガモ教室"
+  },
+  "localGovernmentLink": {
+    "title": "カルガモ教室",
+    "uri": "https://fukushi.unchusha.com/yurikago/otayori/20240925karugamo.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "小金井市"
+  },
+  "procedureCounter": "申込み・問合せ\n小金井市こども家庭センターゆりかご\n小金井市貫井北町5-18-18 保健センター１階\n℡ 042-321-3141",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申込み・問合せ\n小金井市こども家庭センターゆりかご\n小金井市貫井北町5-18-18 保健センター１階\n℡ 042-321-3141",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第24条、第21条の9",
+    "regulationName": "学校教育法、児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "カルガモ教室は、１０ケ月から１歳２ケ月までのお子さんと保護者を対象にしたプログラムです。 運動あそび・ふれあいあそびの時間や保護者同士の交流もあります。\nお父さんのご参加もお待ちしてます。",
+  "support": {
+    "description": "カルガモ教室は、１０ケ月から１歳２ケ月までのお子さんと保護者を対象にしたプログラムです。 運動あそび・ふれあいあそびの時間や保護者同士の交流もあります。\nお父さんのご参加もお待ちしてます♪",
+    "materiallySupport": "カルガモ教室は、１０ケ月から１歳２ケ月までのお子さんと保護者を対象にしたプログラムです。 運動あそび・ふれあいあそびの時間や保護者同士の交流もあります。\nお父さんのご参加もお待ちしてます♪",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "１０ケ月から１歳２ケ月までのお子さんと保護者を対象にしたプログラムです。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": 10
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": 2
+    },
+    "targetPersons": "１０ケ月から１歳２ケ月までのお子さんと保護者"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": "申込み・問合せ\n小金井市こども家庭センターゆりかご\n小金井市貫井北町5-18-18 保健センター１階\n℡ 042-321-3141",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "時間・場所\t１０：００～１１：３0・保健センター",
+    "fromHM": "10:00",
+    "toHM": "11:30"
+  }
+}

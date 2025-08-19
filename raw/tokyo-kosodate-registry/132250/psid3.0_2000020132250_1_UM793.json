@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132250;稲城市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "市民部　保険年金課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132250",
+    "psid": "psid3.0+2000020132250+1+UM793"
+  },
+  "belongings": "届出に必要なもの\n（1）本人確認書類（マイナンバーカード、運転免許証など）と基礎年金番号通知書または年金手帳、母子健康手帳\n（2）出産後の届出で被保険者と子が別世帯の場合は、出生証明書など出産日および親子関係を明らかにする書類",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "稲城市東長沼2111番地",
+    "contactComment": "ファクス：042-377-4781",
+    "contactEmail": null,
+    "contactEx": "142・143",
+    "contactName": "市民部　保険年金課",
+    "contactPhone": "042-378-2111",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "産前産後期間の国民年金保険料免除制度について教えてください。\n更新日：2024年4月1日\n国民年金第1号被保険者が出産する際には、届出により出産前後の一定期間の国民年金保険料が免除されます。\n\n対象者\n「国民年金第1号被保険者」で出産日が平成31年2月1日以降の方\n\n免除期間\n出産予定日または出産日が属する月の前月から4か月間の国民年金保険料が免除されます。なお、多胎妊娠の場合は、出産予定日または出産日の属する月の3か月前から6か月間の国民年金保険料が免除されます。\n注釈：出産とは、妊娠85日（4か月）以上の出産をいい、死産、流産、早産された方を含みます。\n\n産前産後期間の取扱い\n産前産後期間として認められた期間は、保険料を納付したものとして老齢基礎年金の受給額に反映されます。\n\n届出期間\n出産予定日の6か月前から届出可能で、出産後の届出もできます。\n\n届出先\n市役所保険年金課\n注釈：マイナポータルから免除申請の電子申請ができます。「国民年金手続きの電子申請ができます（いつでもスマホ・PCで手続きできます）」;https://www.city.inagi.tokyo.jp/kurashi/nenkin/denshishinsei.htmlへ\n\n届出に必要なもの\n（1）本人確認書類（マイナンバーカード、運転免許証など）と基礎年金番号通知書または年金手帳、母子健康手帳\n（2）出産後の届出で被保険者と子が別世帯の場合は、出生証明書など出産日および親子関係を明らかにする書類\n\n問い合わせ先\n保険年金課　電話　042-378-2111　内線　142、143\n府中年金事務所\n　郵便番号　183-8505\n住所　府中市府中町二丁目12番地の2\n電話　042-361-1011",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "「国民年金手続きの電子申請ができます（いつでもスマホ・PCで手続きできます）」",
+      "uri": "https://www.city.inagi.tokyo.jp/kurashi/nenkin/denshishinsei.html"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "市役所保険年金課"
+  },
+  "institutionName": {
+    "canonicalName": "産前産後期間の国民年金保険料免除",
+    "shortName": "産前産後期間の国民年金保険料免除制度"
+  },
+  "localGovernmentLink": {
+    "title": "産前産後期間の国民年金保険料免除制度について教えてください。",
+    "uri": "https://www.city.inagi.tokyo.jp/faq/kurashi/kokuminnenkin/sannzennsanngo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "稲城市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "届出期間\n出産予定日の6か月前から届出可能で、出産後の届出もできます。\n届出先\n市役所保険年金課\n注釈：マイナポータルから免除申請の電子申請ができます。「国民年金手続きの電子申請ができます（いつでもスマホ・PCで手続きできます）」;https://www.city.inagi.tokyo.jp/kurashi/nenkin/denshishinsei.htmlへ\n届出に必要なもの\n（1）本人確認書類（マイナンバーカード、運転免許証など）と基礎年金番号通知書または年金手帳、母子健康手帳\n（2）出産後の届出で被保険者と子が別世帯の場合は、出生証明書など出産日および親子関係を明らかにする書類",
+  "procedurePeriod": {
+    "conditions": "出産予定日の6か月前から届出可能で、出産後の届出もできます。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第88条の2（保険料の納付義務）",
+    "regulationName": "国民年金法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民年金の第1号被保険者が出産した場合には、出産前後の一定期間の国民年金保険料が免除されます。\n免除期間は年金額を計算する際、保険料を納めた期間として扱われます。",
+  "support": {
+    "description": "国民年金第1号被保険者が出産する際には、届出により出産前後の一定期間の国民年金保険料が免除されます。\n対象者\n「国民年金第1号被保険者」で出産日が平成31年2月1日以降の方\n免除期間\n出産予定日または出産日が属する月の前月から4か月間の国民年金保険料が免除されます。なお、多胎妊娠の場合は、出産予定日または出産日の属する月の3か月前から6か月間の国民年金保険料が免除されます。\n注釈：出産とは、妊娠85日（4か月）以上の出産をいい、死産、流産、早産された方を含みます。\n産前産後期間の取扱い\n産前産後期間として認められた期間は、保険料を納付したものとして老齢基礎年金の受給額に反映されます。",
+    "materiallySupport": null,
+    "monetarySupport": "国民年金第1号被保険者が出産する際には、届出により出産前後の一定期間の国民年金保険料が免除されます。\n対象者\n「国民年金第1号被保険者」で出産日が平成31年2月1日以降の方\n免除期間\n出産予定日または出産日が属する月の前月から4か月間の国民年金保険料が免除されます。なお、多胎妊娠の場合は、出産予定日または出産日の属する月の3か月前から6か月間の国民年金保険料が免除されます。\n注釈：出産とは、妊娠85日（4か月）以上の出産をいい、死産、流産、早産された方を含みます。\n産前産後期間の取扱い\n産前産後期間として認められた期間は、保険料を納付したものとして老齢基礎年金の受給額に反映されます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "016"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "「国民年金第1号被保険者」で出産日が平成31年2月1日以降の方"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

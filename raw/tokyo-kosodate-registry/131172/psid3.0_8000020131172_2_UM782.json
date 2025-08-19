@@ -1,0 +1,137 @@
+{
+  "area": {
+    "areaCode": "131172;北区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども未来部子ども家庭支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131172",
+    "psid": "psid3.0+8000020131172+2+UM782"
+  },
+  "belongings": null,
+  "capacity": "1日1名まで",
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都北区王子6-7-3 旧清至中学校（東門）",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども未来部子ども家庭支援センター",
+    "contactPhone": "03-3914-9565",
+    "contactUrl": null,
+    "zipCode": "1140002"
+  },
+  "cost": null,
+  "costConditions": "1日（1泊）のご利用料金は、以下の表のとおりです。\n|ご利用料金表|＜|＜|＜|\n|:----|:----|:----|:----|\n|区分|課税世帯|非課税世帯|生活保護世帯|\n|ご利用料金|4,000円|2,000円|0円|\n \n\nご利用は、原則として1回の利用申請につき7日以内とします。\n利用料金は、退所時に利用日数分をまとめて全額、聖オディリアホーム乳児院にお支払いいただきます。",
+  "description": "乳幼児ショートステイ事業\n保護者の方が、入院、出張などで、一時的にお子さんを養育することが困難になった時に、お子さんを施設にてお預かりします。\n\n対象となるお子さんは\n北区にお住まいの生後43日から2歳未満のお子さん\n定員は、1日1名まで\n\n預かるところはどこですか\n施設名：聖オディリアホーム乳児院\n住所：〒165-0031 中野区上鷺宮5-28-28\n電話番号：03-5971-8071\n受付日：土、日、祝祭日、年末年始を除く毎日\n受付時間：午前9時00分～午後5時00分\n最寄駅：西武池袋線富士見台駅より徒歩9分\n外部リンク：https://odilia.jp/\n送迎は、保護者が依頼した代理の方でも送迎できます。\n初めて代理をする方は、身分証明書のコピーをご持参ください。\n\nどんなときに頼めますか\n他に養育する方がいなく、保護者の方が以下の理由で養育ができなくなった場合です。\n病気や出産の入院\n家族の介護\n事故や災害\n冠婚葬祭の出席\n仕事（残業・出張等）\n育児疲れ、育児不安、慢性疾患児の看病疲れなど身体上又は精神上の事由を有する場合 \nその他、特別な事情で、他にお子さんを養育する方がいない場合\n\nお世話する内容は\n全日又は、宿泊でお子さんをお預かりして、食事や身の回りの世話をします。\n\n利用料金と利用日数は\n1日（1泊）のご利用料金は、以下の表のとおりです。\n|ご利用料金表|＜|＜|＜|\n|:----|:----|:----|:----|\n|区分|課税世帯|非課税世帯|生活保護世帯|\n|ご利用料金|4,000円|2,000円|0円|\n\nご利用は、原則として1回の利用申請につき7日以内とします。\n利用料金は、退所時に利用日数分をまとめて全額、聖オディリアホーム乳児院にお支払いいただきます。\n\n利用する場合は\n乳幼児ショートステイのご利用案内（PDF：154KB）;https://www.city.kita.tokyo.jp/koka/kosodate/kateshien/documents/060417nyuuyoujisyo-topannhu.pdfをご覧ください。\n\n電子申請\n電子申請入力フォーム（外部サイトへリンク）;https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1676956797252\n電子申請利用時の注意事項\n電子申請は、東京共同電子申請・届出サービスを利用しております。\n電子申請を利用して子どもショートステイ事業利用登録申請をされる場合は、事前に東京共同電子申請・届出サービスへの登録を行い、“申請者ID”を取得していただく必要があります。申請者ID取得後、東京共同電子申請・届出サービスのホームページから子どもショートステイ事業利用登録の電子申請手続きをしてください。利用登録が承認されましたら決定通知書と利用案内をお送りします。\n当所（子ども家庭支援センター）が申請を受け付けると、申請者にメールが届きます。3日（土曜日・日曜日・祝日・年末年始を除く）たっても届かない場合には、子ども家庭支援センターにご連絡ください。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "北区乳幼児ショートステイ事業利用申請",
+      "uri": "https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1676956797252"
+    }
+  ],
+  "holiday": "土、日、祝祭日、年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "中野区上鷺宮5-28-28",
+    "implementationName": "聖オディリアホーム乳児院"
+  },
+  "institutionName": {
+    "canonicalName": "ショートステイ（短期入所生活援助事業）",
+    "shortName": "乳幼児ショートステイ事業"
+  },
+  "localGovernmentLink": {
+    "title": "乳幼児ショートステイ事業",
+    "uri": "https://www.city.kita.tokyo.jp/koka/kosodate/kateshien/nyuuyoujisho-tosutei.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "北区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "電子申請利用時の注意事項\n電子申請は、東京共同電子申請・届出サービスを利用しております。\n電子申請を利用して子どもショートステイ事業利用登録申請をされる場合は、事前に東京共同電子申請・届出サービスへの登録を行い、“申請者ID”を取得していただく必要があります。申請者ID取得後、東京共同電子申請・届出サービスのホームページから子どもショートステイ事業利用登録の電子申請手続きをしてください。利用登録が承認されましたら決定通知書と利用案内をお送りします。\n当所（子ども家庭支援センター）が申請を受け付けると、申請者にメールが届きます。3日（土曜日・日曜日・祝日・年末年始を除く）たっても届かない場合には、子ども家庭支援センターにご連絡ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第3項、第21条の9、第59条第6号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "乳幼児ショートステイのご利用案内（PDF：154KB）",
+      "uri": "https://www.city.kita.tokyo.jp/koka/kosodate/kateshien/documents/060417nyuuyoujisyo-topannhu.pdf"
+    },
+    {
+      "title": "聖オディリアホーム乳児院",
+      "uri": "https://odilia.jp/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者が入院や通院、出張などの理由で、一時的に家庭でお子さんの面倒をみられなくなったときに、お近くの児童養護施設、乳児院、母子生活支援施設で、宿泊を伴ってお子さんをお預かりします。",
+  "support": {
+    "description": "全日又は、宿泊でお子さんをお預かりして、食事や身の回りの世話をします。",
+    "materiallySupport": "全日又は、宿泊でお子さんをお預かりして、食事や身の回りの世話をします。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後43日から2歳未満",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "北区にお住まいの生後43日から2歳未満のお子さん\n\nどんなときに頼めますか\n他に養育する方がいなく、保護者の方が以下の理由で養育ができなくなった場合です。\n病気や出産の入院\n家族の介護\n事故や災害\n冠婚葬祭の出席\n仕事（残業・出張等）\n育児疲れ、育児不安、慢性疾患児の看病疲れなど身体上又は精神上の事由を有する場合 \nその他、特別な事情で、他にお子さんを養育する方がいない場合"
+  },
+  "updateDate": "2024-05-01",
+  "useConsiderationFlag": false,
+  "utilization": "利用する場合は\n乳幼児ショートステイのご利用案内（PDF：154KB）;https://www.city.kita.tokyo.jp/koka/kosodate/kateshien/documents/060417nyuuyoujisyo-topannhu.pdfをご覧ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "受付日：土、日、祝祭日、年末年始を除く毎日\n\n受付時間：午前9時00分～午後5時00分",
+    "fromHM": "09:00",
+    "toHM": "17:00"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健所保健予防課母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+1+UM7"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健所保健予防課母子保健係",
+    "contactPhone": "042-725-5471",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "里帰り出産などの事情で、受診票を使用できない医療機関や助産所で妊婦健康診査や新生児聴覚検査を受けた方に対し、費用の一部を助成します。\n\n妊娠届時にお渡しする「母と子の保健バック」の中に入っている冊子でもご案内しています。\n※町田市に転入する前に受診したものについては、前住所地の自治体にお尋ねください。\n※受診日の後に他の自治体へ転出した場合でも、申請期限内は申請できます。\n\n＜対象となる健診＞\n受診票を使用できない日本国内の医療機関又は助産所で受診した、下記の健診・検査。保険診療分は対象外です。\n・妊婦健康診査（1回目） （助産所は除く）\n・妊婦健康診査（2から14回目）\n・妊婦超音波検査 （助産所は除く）\n・妊婦子宮頸がん検診 （助産所は除く）\n・新生児聴覚検査\n助産所で受診した場合は、妊婦健康診査（2から14回目）と新生児聴覚検査のみ対象です。妊婦健康診査の1回目、妊婦超音波検査、妊婦子宮頸がん検診については、必ず医療機関で受診してください。\n\n＜申請方法＞\n郵送または窓口にて、必要書類を保健予防課母子保健係に提出してください。\n\n＜申請期限＞\n出産日から1年以内（対象児の1歳誕生日の前日まで）\n（流産の場合、最後の健診受診日から1年以内）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "里帰り出産時の妊婦健康診査の費用助成",
+    "shortName": "里帰り出産等における妊婦健康診査受診費用助成制度"
+  },
+  "localGovernmentLink": {
+    "title": "里帰り出産等における妊婦健康診査受診費用助成制度",
+    "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/8/1141.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": "＜郵送の場合＞\n〒194-0013\n町田市原町田5-8-21\n「町田市保健予防課母子保健係」\n\n＜窓口の場合＞\n保健予防課窓口に、前項1～6の書類のほか、申請者名義の預金通帳等（口座番号のわかるもの）及び印鑑（朱肉を使うもの）をご持参ください（平日8時30分から17時まで）。\n\nできれば健康福祉会館（町田市原町田5-8-21）にお越しください。\n\n市庁舎7階、鶴川保健センター、保健所中町庁舎でも提出いただけますが、不備等がある場合、後日連絡を差し上げることがあります。",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "＜郵送の場合＞\n前項1～6の書類を下記宛てにご郵送ください。\n\n〒194-0013\n町田市原町田5-8-21\n「町田市保健予防課母子保健係」\n\n＜窓口の場合＞\n保健予防課窓口に、前項1～6の書類のほか、申請者名義の預金通帳等（口座番号のわかるもの）及び印鑑（朱肉を使うもの）をご持参ください（平日8時30分から17時まで）。\n\nできれば健康福祉会館（町田市原町田5-8-21）にお越しください。\n\n市庁舎7階、鶴川保健センター、保健所中町庁舎でも提出いただけますが、不備等がある場合、後日連絡を差し上げることがあります。\n\n審査後、里帰り等妊婦健康診査等受診費助成金交付決定通知書をお送りし、指定の口座に助成金を振り込みます（申請から振込まで1か月から2か月程度）。",
+  "procedurePeriod": {
+    "conditions": "出産日から1年以内（対象児の1歳誕生日の前日まで）\n\n（流産の場合、最後の健診受診日から1年以内）",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "・妊（産）婦さん本人\n・妊（産）婦さんの配偶者\n・妊（産）婦さんが未成年で婚姻をしていない場合、その保護者（親権者、後見人等）",
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "里帰り出産などの事情で、受診票を使用できない医療機関や助産所で妊婦健康診査や新生児聴覚検査を受けた方に対し、費用の一部を助成します。",
+  "support": {
+    "description": "受診票を使用できない日本国内の医療機関又は助産所で受診した、下記の健診・検査。保険診療分は対象外です。\n\n妊婦健康診査（1回目） （助産所は除く）\n妊婦健康診査（2から14回目）\n妊婦超音波検査 （助産所は除く）\n妊婦子宮頸がん検診 （助産所は除く）\n新生児聴覚検査\n助産所で受診した場合は、妊婦健康診査（2から14回目）と新生児聴覚検査のみ対象です。妊婦健康診査の1回目、妊婦超音波検査、妊婦子宮頸がん検診については、必ず医療機関で受診してください。",
+    "materiallySupport": null,
+    "monetarySupport": "里帰り出産などの事情で、受診票を使用できない医療機関や助産所で妊婦健康診査や新生児聴覚検査を受けた方に対し、費用の一部を助成します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": "受診日に、妊（産）婦が町田市の住民であった方。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "受診日に、妊（産）婦が町田市の住民であった方で、妊娠届出後、妊婦健康診査を受診した方。"
+  },
+  "updateDate": "2023-07-25",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

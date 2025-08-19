@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132136;東村山市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子ども保健・給付課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132136",
+    "psid": "psid3.0+1000020132136+1+UM11"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東村山市本町1丁目2番地3　いきいきプラザ2階（手当係：手当・子ども医療証について）　いきいきプラザ3階（母子保健第２係：予防接種、母子保健について）",
+    "contactComment": "ファクス：手当係：042-394-7399　母子保健第１係・母子保健第２係：042-390-2270",
+    "contactEmail": null,
+    "contactEx": "手当係：3604　母子保健第２係：3605",
+    "contactName": "子ども家庭部子ども保健・給付課",
+    "contactPhone": "042-393-5111",
+    "contactUrl": "https://www.city.higashimurayama.tokyo.jp/formmail.html?_div=029300&_pageid=1294&_name=子ども家庭部子ども保健・給付課",
+    "zipCode": "1898501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊産婦訪問指導\n保健師または助産師が妊産婦のお宅に訪問し、安心して出産、育児に臨むことができるよう指導や相談を行なっています。\n\n対象者\n妊娠中、あるいは産後の健康状態・生活環境・疾病などの心配がある女性およびその家族",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊産婦訪問",
+    "shortName": "妊産婦訪問指導"
+  },
+  "localGovernmentLink": {
+    "title": "妊産婦訪問指導",
+    "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/ninshin/ninshin/boshi1-4.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-24",
+    "updater": "東村山市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第17条（妊産婦の訪問指導等）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊産婦の方（妊娠中または出産後1年以内）を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、妊娠期間中や出産後の不安や悩みについての相談等を行います。",
+  "support": {
+    "description": "保健師または助産師が妊産婦のお宅に訪問し、安心して出産、育児に臨むことができるよう指導や相談を行なっています。",
+    "materiallySupport": "保健師または助産師が妊産婦のお宅に訪問し、安心して出産、育児に臨むことができるよう指導や相談を行なっています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊娠中、あるいは産後の健康状態・生活環境・疾病などの心配がある女性およびその家族"
+  },
+  "updateDate": "2020-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

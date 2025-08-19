@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "131024;中央区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉保健部障害者福祉課相談支援係,中央区保健所健康推進課給付係,福祉保健部日本橋保健センター健康係,福祉保健部月島保健センター健康係,福祉保健部晴海保健センター健康係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131024",
+    "psid": "psid3.0+8000020131024+1+UM824"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "築地一丁目1番1号　本庁舎4階,明石町12番1号　中央区保健所4階,日本橋堀留町一丁目1番1号,月島二丁目10番3号,晴海四丁目8番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉保健部障害者福祉課相談支援係,中央区保健所健康推進課給付係,福祉保健部日本橋保健センター健康係,福祉保健部月島保健センター健康係,福祉保健部晴海保健センター健康係",
+    "contactPhone": "03-3546-6753,03-3541-5930,03-3661-5071,03-5560-0765,03-6381-2972",
+    "contactUrl": null,
+    "zipCode": "1048404,1040044,1030012,1040052,1040053"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "障害者自立支援医療（精神通院）\n対象者\n精神疾患を理由として、通院による精神医療を継続的に要する方\n給付対象\n精神障害及び精神障害に付随する疾病で、指定の病院または診療所などで行われる通院治療\nただし、入院加療は対象となりません。\n申請方法\n下記の申請先窓口に次の書類を提出してください。更新は1年ごとで、有効期限の3か月前から申請できます。\n必要書類\n自立支援医療費（精神通院）支給認定申請書\n自立支援医療診断書（精神通院）注記：作成日から3ヶ月以内のもの\n医療保険被保険者証等（詳しくはこちら）;https://www.city.chuo.lg.jp/a0023/kenkouiryou/shougaishafukushi/hokensyou.html\n同意書\n申請場所\n障害者福祉課（外部サイトへリンク）相談支援係\n中央区保健所（外部サイトへリンク）健康推進課給付係\n日本橋保健センター（外部サイトへリンク）健康係\n月島保健センター（外部サイトへリンク）健康係\n晴海保健センター（外部サイトへリンク）健康係\n支給（助成）内容\n精神障害の医療に必要な費用の100分の90について、保険者と公費で負担します（保険を優先適用）。ただし、世帯の所得や疾病等に応じて月額自己負担上限額を定めています。また、以下の方は残りの10％についても支給（又は助成）されますので自己負担はありません。\n1.生活保護世帯の方\n2.国民健康保険、社会保険加入者又は老人保健受給者で住民税非課税世帯の方（2500円又は5000円の月額自己負担上限額相当を東京都又は区国民健康保険が助成）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "・障害者福祉課（外部サイトへリンク）相談支援係\n・中央区保健所（外部サイトへリンク）健康推進課給付係\n・日本橋保健センター（外部サイトへリンク）健康係\n・月島保健センター（外部サイトへリンク）健康係\n・晴海保健センター（外部サイトへリンク）健康係"
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度（精神通院医療）",
+    "shortName": "障害者自立支援医療（精神通院）"
+  },
+  "localGovernmentLink": {
+    "title": "障害者自立支援医療（精神通院）",
+    "uri": "https://www.city.chuo.lg.jp/a0023/kenkouiryou/shougaishafukushi/teate/iryou/hohihutan.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/13",
+    "updater": "中央区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "下記の申請先窓口に次の書類を提出してください。更新は1年ごとで、有効期限の3か月前から申請できます。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減する医療費の自己負担額を軽減することを目的として、自立支援医療費を支給しております。",
+  "support": {
+    "description": "精神障害の医療に必要な費用の100分の90について、保険者と公費で負担します（保険を優先適用）。ただし、世帯の所得や疾病等に応じて月額自己負担上限額を定めています。また、以下の方は残りの10％についても支給（又は助成）されますので自己負担はありません。\n1.生活保護世帯の方\n2.国民健康保険、社会保険加入者又は老人保健受給者で住民税非課税世帯の方（2500円又は5000円の月額自己負担上限額相当を東京都又は区国民健康保険が助成）",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "|精神障害及び精神障害に付随する疾病で、指定の病院または診療所などで行われる通院治療|\n|:----|\n|ただし、入院加療は対象となりません。|",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "精神疾患を理由として、通院による精神医療を継続的に要する方"
+  },
+  "updateDate": "2024/12/02",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

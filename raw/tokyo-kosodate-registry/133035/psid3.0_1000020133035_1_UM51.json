@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "133035;瑞穂町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部 子ども家庭センター課 母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133035",
+    "psid": "psid3.0+1000020133035+1+UM51"
+  },
+  "belongings": "できる限りマスクの携帯をお願いします。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡瑞穂町大字石畑1970番地",
+    "contactComment": "受付時間 平日の午前8時30分から午後5時まで",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部子ども家庭センター課 母子保健係",
+    "contactPhone": "042-557-5098",
+    "contactUrl": "https://www.town.mizuho.tokyo.jp/inquiry/mailform130302.html?PAGE_NO=7309",
+    "zipCode": "1901211"
+  },
+  "cost": "無料",
+  "costConditions": null,
+  "description": "乳幼児健康診査\n更新日 令和5年4月3日 ページID 7309 印刷\n\n\n町では、お子さんが健やかに育つために必要な健康診査を、定期的に実施しています。\n費用は無料です。ぜひご利用ください。\nできる限りマスクの携帯をお願いします。\n受診者およびご家族に体調不良の方がいらっしゃる場合は、来所される前にご相談ください。\nごきょうだいを連れて受診する場合は、事前にご相談ください。\n\n1歳6か月児健康診査\n1歳6か月になる月に通知をお送りします。\n\n対象\n生後1歳6か月以上、2歳未満の幼児\n\n日程\n\n場所\n保健センター\n;https://www.town.mizuho.tokyo.jp/tyosei/022/004/p002862.html;\n受付時間\n午後\n※詳細は通知にてご確認ください。\n\n内容\nお子さんの発育・発達の診察\n歯科健診\n栄養・子ども相談など",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "1歳6か月児健診の対象と日程\n| 対象の方 | 日付 |\n| --- | --- |\n| 令和5年9月生まれ | 4月16日(水曜日) |\n| 令和5年10月生まれ | 5月21日(水曜日) |\n| 令和5年11月生まれ | 6月18日(水曜日) |\n| 令和5年12月生まれ | 7月16日(水曜日) |\n| 令和6年1月生まれ | 8月20日(水曜日) |\n| 令和6年2月生まれ | 9月17日(水曜日) |\n| 令和6年3月生まれ | 10月15日(水曜日) |\n| 令和6年4月生まれ | 11月19日(水曜日) |\n| 令和6年5月生まれ | 12月17日(水曜日) |\n| 令和6年6月生まれ | 令和7年 1月21日(水曜日) |\n| 令和6年7月生まれ | 2月18日(水曜日) |\n| 令和6年8月生まれ | 3月18日(水曜日) |\n※完全予約制で実施します。予約の詳細は通知にてご確認ください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "保健センター\nhttps://www.town.mizuho.tokyo.jp/tyosei/022/004/p002862.html"
+  },
+  "institutionName": {
+    "canonicalName": "1歳6か月児健康診査",
+    "shortName": "1歳6か月児健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "乳幼児健康診査",
+    "uri": "https://www.town.mizuho.tokyo.jp/kosodate/002/p007309.html"
+  },
+  "odInformation": {
+    "content": "所管部署名称を変更",
+    "updateDate": "2024-09-13",
+    "updater": "瑞穂町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第12条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "子育てナビ ワクワクみずほ",
+      "uri": "https://www.town.mizuho.tokyo.jp/kosodate/002/p001218.html"
+    },
+    {
+      "title": "瑞穂町保健センター",
+      "uri": "https://www.town.mizuho.tokyo.jp/tyosei/022/004/p002862.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "1歳6か月の頃は乳児期から幼児期に移行する大切な時期です。瑞穂町では1歳6か月児健康診査を実施しています。小児科医による診察のほか、歯科健診も行います。",
+  "support": {
+    "description": "お子さんの発育・発達の診察\n歯科健診\n栄養・子ども相談など",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088",
+      "089",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": 6
+    },
+    "lessThan": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生後1歳6か月以上、2歳未満の幼児"
+  },
+  "updateDate": "2023-04-03",
+  "useConsiderationFlag": false,
+  "utilization": "1歳6か月になる月に通知をお送りします。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

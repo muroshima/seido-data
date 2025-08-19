@@ -1,0 +1,136 @@
+{
+  "area": {
+    "areaCode": "131091;品川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康課・保健センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131091",
+    "psid": "psid3.0+6000020131091+2+UM8"
+  },
+  "belongings": "受診票\n・令和4年度までに妊娠届出、または（妊婦・産婦）転入の手続きを取られた方\nお子様の4カ月健診の際に各保健センターでお渡ししています。\n・令和5年度以降に妊娠届出、または（妊婦・産婦）転入の手続きを取られた方\n手続きの際にお渡ししています。\n※受診票を紛失した場合、再発行できますのでお問い合わせください。\n・令和5年度以降に妊娠届出、または（妊婦・産婦）転入の手続きを取られた方\n手続きの際にお渡ししています。\n\n※受診票を紛失した場合、再発行できますのでお問い合わせください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康課　保健衛生係",
+    "contactPhone": "03-5742-6745",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "出産後1年以内1回",
+  "description": "妊娠中のお口の健康\n\n妊娠中は女性ホルモンの増加で、歯科疾患のリスクが高まる時期になります。\nつわりにより、食事の回数の増加、食べ物の好みの変化、唾液分泌量の減少や口の中がネバネバ感により、お口の中の環境が悪化しやすくなります。\nまた、歯周病は早産や低体重児出産のリスクにもなりますので、適切な口腔ケアで歯周病を予防しましょう。\n\nプレママのお口のケア（.pdf 、681.2 KB）;https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-dukuri/kenkou-dukuri-hatokuchi/premama_no_okuchi_no_care.pdf\n\n■品川区の歯科保健事業のご案内\n◇妊婦歯科健康診査\n|受診票|妊娠届出、または（妊婦）転入の手続きでお渡しした親と子の保健バッグに同封しています。<br>※受診票を紛失した場合、再発行できますのでお問い合わせください。|\n|:----|:----|\n|受診会場|区内契約歯科医院|\n|使用期限|妊娠中いつでもご利用できます|\n|問い合わせ|健康課保健衛生係、各保健センター|\n\n◇ママのための歯科健康診査（産婦歯科健康診査）\n|受診票|・令和4年度までに妊娠届出、または（妊婦・産婦）転入の手続きを取られた方<br>お子様の4カ月健診の際に各保健センターでお渡ししています。<br>・令和5年度以降に妊娠届出、または（妊婦・産婦）転入の手続きを取られた方<br>手続きの際にお渡ししています。<br>※受診票を紛失した場合、再発行できますのでお問い合わせください。|\n|:----|:----|\n|受診会場|区内契約歯科医院|\n|使用期限|出産後1年以内|\n|問い合わせ|健康課保健衛生係、各保健センター|\n\n妊娠がわかったときの届出;https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-ninnshinn/kodomo-ninnshinn-service/hpg000000783.html\nマタニティクラス（母親学級）のご案内;https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-ninnshinn/kodomo-ninnshinn-service/hpg000000790.html\n\n■お役立ちリンク\n妊娠中の口腔ケア方法や歯科受診については、下記サイトをご参照ください。\n\n日本歯科医師会　日歯8020テレビ（別ウィンドウ表示）（動画）へ;https://www.jda.or.jp/tv/\nトップページ→【番組一覧】母子健康手帳→<2>母子健康手帳でチェック！妊娠中の歯と口の健康\n\n公益社団法人　日本小児歯科学会（別ウィンドウ表示）へ;https://www.jspd.or.jp/\nトップページ→一般の皆様へ→こどもたちの口と歯の質問箱→おなかの赤ちゃん\n\n日本歯科医師会　テーマパーク8020（別ウィンドウ表示）へ;https://www.jda.or.jp/park/\nトップページ→お口の予防とケア→妊娠時の歯やお口のケア",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "使用期限　出産後1年以内",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "区内契約歯科医院"
+  },
+  "institutionName": {
+    "canonicalName": "妊産婦の歯科健診",
+    "shortName": "産婦歯科健康診査（ママのための歯科健康診査）"
+  },
+  "localGovernmentLink": {
+    "title": "妊娠中のお口の健康",
+    "uri": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-dukuri/kenkou-dukuri-hatokuchi/20221219162441.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "品川区"
+  },
+  "procedureCounter": "区内契約歯科医院",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "|受診票|・令和4年度までに妊娠届出、または（妊婦・産婦）転入の手続きを取られた方<br>お子様の4カ月健診の際に各保健センターでお渡ししています。<br>・令和5年度以降に妊娠届出、または（妊婦・産婦）転入の手続きを取られた方<br>手続きの際にお渡ししています。<br>※受診票を紛失した場合、再発行できますのでお問い合わせください。|\n|:----|:----|\n|受診会場|区内契約歯科医院|\n|使用期限|出産後1年以内|\n|問い合わせ|健康課保健衛生係、各保健センター|\n",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "プレママのお口のケア（.pdf 、681.2 KB）",
+      "uri": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-dukuri/kenkou-dukuri-hatokuchi/premama_no_okuchi_no_care.pdf"
+    },
+    {
+      "title": "マタニティクラス（母親学級）のご案内",
+      "uri": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-ninnshinn/kodomo-ninnshinn-service/hpg000000790.html"
+    },
+    {
+      "title": "妊娠がわかったときの届出",
+      "uri": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-ninnshinn/kodomo-ninnshinn-service/hpg000000783.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠中や出産後は女性ホルモンの分泌の変化や食事回数の増加などから虫歯や歯周病になりやすく、進行しやすい時期です。こうした時期のお口の中の健康を維持するために、歯科健診をおすすめしています。健診には健康保険が適用されませんが、経済的負担を軽減するため、健診にかかる費用の一部を助成する妊産婦歯科健診受診票をお渡ししています。",
+  "support": {
+    "description": "歯科検診",
+    "materiallySupport": null,
+    "monetarySupport": "歯科検診"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "出産後1年以内"
+  },
+  "updateDate": "2023-07-18",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "area": {
+    "areaCode": "131181;荒川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部国保年金課国保資格係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020131181",
+    "psid": "psid3.0+7000020131181+1+UM5035"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "荒川区荒川二丁目2番3号（本庁舎1階）",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "2373~2376",
+    "contactName": "福祉部国保年金課国保資格係",
+    "contactPhone": "03-3802-3111",
+    "contactUrl": null,
+    "zipCode": "1168501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "令和6年1月から、子育て世帯の負担軽減・次世代育成支援のため、産前産後期間相当分の国民健康保険料を免除する制度が始まります。\n\n対象者\n荒川区国民健康保険に加入している方で、令和5年11月1日以降に出産予定または出産した方が対象です。\nこの制度は、妊娠85日（4ヶ月）以上の出産（死産、流産、早産及び人工妊娠中絶の場合も含む）が対象です。\n\n対象期間\n単胎の場合、出産した（予定）月とその前1ヶ月と後ろ2ヶ月の計4ヶ月が対象期間となります。多胎の場合は出産した（予定）月とその前3ヶ月と後ろ2ヶ月の計6ヶ月が対象期間となります。\n​​​令和5年度においては、産前産後期間のうち令和6年1月以降の期間の分のみが対象となります。\n※注釈　令和5年11月に出産した場合、令和6年1月相当分の保険料が免除されます。令和6年1月より前の期間については免除の対象となりません。\n詳しくは下記をご確認ください。\n産前産後保険料免除リーフレット（PDF：367KB）;https://www.city.arakawa.tokyo.jp/documents/32764/02_sannzennsanngohokennryoumennzyo.pdf\n\n産前産後期間相当分の免除額\n国民健康保険料の所得割額と均等割額のうち、産前産後期間相当分を免除します。届出受付後、保険料免除額を含めた年額の保険料を再計算し、改めて通知いたします。\n\n届出に必要な書類\n届出書\n母子健康手帳等\n届出者の本人確認書類（運転免許証、顔写真付きのマイナンバーカード等）\n※注釈　出産後に届出を行う場合、親子関係を明らかにする書類が必要になる場合があります。\n\n届出開始月\n令和6年1月以降、出産予定日の6ヶ月前から届出ができます。出産後の届出も可能です。\n\nその他\n届出がない場合でも、出産の事実が確認できた場合は、職権で対象期間の保険料を免除する場合があります。ただし、確認できない場合は免除されないため、忘れず届出をお願いします。\n保険料が免除された場合、払い過ぎになった保険料は原則還付されます。\n産前産後期間の保険料が必ずしも0円になるとは限りません。\n保険料が賦課限度額の場合は、免除にならないことがあります。\n出産後は出産予定日での届出はできません。\n\nこちらの記事も読まれています\n児童手当　令和6年度制度拡充について（令和6年10月分から）;https://www.city.arakawa.tokyo.jp/a035/kosodate/teate/jidoteate.html\n国民健康保険料の減免制度等;https://www.city.arakawa.tokyo.jp/a031/kenkouhoken/kokuho/gemmenseido.html\n出産・子育て応援交付金事業;https://www.city.arakawa.tokyo.jp/a033/kosodate/shussankosodate/shussankosodate.html\n高額療養費;https://www.city.arakawa.tokyo.jp/a031/kenkouhoken/kokuho/kougakuryouyouhi.html\n子どもを出産したときは;https://www.city.arakawa.tokyo.jp/a031/kokuminnenkin/todokede/shussanshitatoki.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "国民健康保険における産前産後期間保険料（税）免除",
+    "shortName": "国民健康保険料の産前産後期間相当分が免除"
+  },
+  "localGovernmentLink": {
+    "title": "国民健康保険料の産前産後期間相当分が免除されます",
+    "uri": "https://www.city.arakawa.tokyo.jp/a031/kenkouhoken/sannzennsanngo.html#:~:text=対象者,も含む）が対象です。"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-08-23",
+    "updater": "荒川区"
+  },
+  "procedureCounter": "福祉部国保年金課国保資格係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "届出に必要な書類\n届出書\n母子健康手帳等\n届出者の本人確認書類（運転免許証、顔写真付きのマイナンバーカード等）\n※注釈　出産後に届出を行う場合、親子関係を明らかにする書類が必要になる場合があります。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第２９条の７第５項第８号及び第９号",
+    "regulationName": "国民健康保険法施行令"
+  },
+  "relatedLink": [
+    {
+      "title": "出産育児一時金",
+      "uri": "https://www.city.arakawa.tokyo.jp/a031/ninshinshussan/joseikyuufu/ichijikin.html"
+    },
+    {
+      "title": "育児休業給付金",
+      "uri": "https://www.city.arakawa.tokyo.jp/a035/ninshinshussan/joseikyuufu/kyufukin.html"
+    },
+    {
+      "title": "国民健康保険料の減免制度等",
+      "uri": "https://www.city.arakawa.tokyo.jp/a031/kenkouhoken/kokuho/gemmenseido.html"
+    },
+    {
+      "title": "不妊症に関するご相談",
+      "uri": "https://www.city.arakawa.tokyo.jp/a033/ninshinshussan/funinfuikushou/funin.html"
+    },
+    {
+      "title": "出産・子育て応援交付金事業",
+      "uri": "https://www.city.arakawa.tokyo.jp/a033/kosodate/shussankosodate/shussankosodate.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民健康保険の出産する被保険者に係る産前産後期間相当分（４ヶ月分）の均等割保険料と所得割保険料が免除されます。",
+  "support": {
+    "description": "対象期間\n単胎の場合、出産した（予定）月とその前1ヶ月と後ろ2ヶ月の計4ヶ月が対象期間となります。多胎の場合は出産した（予定）月とその前3ヶ月と後ろ2ヶ月の計6ヶ月が対象期間となります。\n​​​令和5年度においては、産前産後期間のうち令和6年1月以降の期間の分のみが対象となります。\n※注釈　令和5年11月に出産した場合、令和6年1月相当分の保険料が免除されます。令和6年1月より前の期間については免除の対象となりません。\n詳しくは下記をご確認ください。\n産前産後保険料免除リーフレット（PDF：367KB）;https://www.city.arakawa.tokyo.jp/documents/32764/02_sannzennsanngohokennryoumennzyo.pdf\n\n産前産後期間相当分の免除額\n国民健康保険料の所得割額と均等割額のうち、産前産後期間相当分を免除します。届出受付後、保険料免除額を含めた年額の保険料を再計算し、改めて通知いたします。",
+    "materiallySupport": null,
+    "monetarySupport": "対象期間\n単胎の場合、出産した（予定）月とその前1ヶ月と後ろ2ヶ月の計4ヶ月が対象期間となります。多胎の場合は出産した（予定）月とその前3ヶ月と後ろ2ヶ月の計6ヶ月が対象期間となります。\n​​​令和5年度においては、産前産後期間のうち令和6年1月以降の期間の分のみが対象となります。\n※注釈　令和5年11月に出産した場合、令和6年1月相当分の保険料が免除されます。令和6年1月より前の期間については免除の対象となりません。\n詳しくは下記をご確認ください。\n産前産後保険料免除リーフレット（PDF：367KB）;https://www.city.arakawa.tokyo.jp/documents/32764/02_sannzennsanngohokennryoumennzyo.pdf\n\n産前産後期間相当分の免除額\n国民健康保険料の所得割額と均等割額のうち、産前産後期間相当分を免除します。届出受付後、保険料免除額を含めた年額の保険料を再計算し、改めて通知いたします。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003",
+      "015"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "荒川区国民健康保険に加入している方で、令和5年11月1日以降に出産予定または出産した方が対象です。\nこの制度は、妊娠85日（4ヶ月）以上の出産（死産、流産、早産及び人工妊娠中絶の場合も含む）が対象です。"
+  },
+  "updateDate": "2023-12-11",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

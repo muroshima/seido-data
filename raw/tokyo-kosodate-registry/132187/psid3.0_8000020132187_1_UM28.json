@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132187;福生市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　こども家庭センター課　こども家庭支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132187",
+    "psid": "psid3.0+8000020132187+1+UM28"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "福生市福生2125-3（福生市保健センター2階）",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　こども家庭センター課　こども家庭支援係",
+    "contactPhone": "042-539-2555",
+    "contactUrl": null,
+    "zipCode": "1970011"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ひとり親家庭の方への貸付制度（母子及び父子福祉資金及び女性福祉資金）のご案内\n\n母子及び父子福祉資金及び女性福祉資金の貸付\nひとり親家庭の母または父が経済的に自立して、安定した生活を送るために必要とする資金をお貸ししています。\n\n（注意）必ず支払・契約前に事前にこども家庭センター（こども家庭支援係）までご連絡ください。\n\n対象となる方\n次のいずれかに該当する、基本的に都内に6か月以上お住まいの方が対象となります。\n\n1.ひとり親家庭の母及び父で、20歳未満のお子さんを扶養している方\n2.配偶者がいない女性で親族を扶養している方、または扶養していないが年間所得が2,036,000円以下でかつて母子家庭の母だった方もしくは婚姻歴のある40歳以上の方\n資金の種類\n就学支度、修学、技能取得、生活、転宅、事業開始など12種類",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "母子父子寡婦福祉資金",
+    "shortName": "母子及び父子福祉資金及び女性福祉資金の貸付"
+  },
+  "localGovernmentLink": {
+    "title": "貸付制度",
+    "uri": "https://www.city.fussa.tokyo.jp/life/child/rearing/1002528.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "福生市"
+  },
+  "procedureCounter": "こども家庭センター（こども家庭支援係）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "必ず支払・契約前に事前にこども家庭センター（こども家庭支援係）までご連絡ください。",
+  "procedurePeriod": {
+    "conditions": "必ず支払・契約前に事前に",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "次のいずれかに該当する、基本的に都内に6か月以上お住まいの方\n\n1.ひとり親家庭の母及び父で、20歳未満のお子さんを扶養している方\n2.配偶者がいない女性で親族を扶養している方、または扶養していないが年間所得が2,036,000円以下でかつて母子家庭の母だった方もしくは婚姻歴のある40歳以上の方",
+  "regulation": {
+    "regulationArticle": "第13条（母子福祉資金の貸付け）、第14条（母子・父子福祉団体に対する貸付け）、第31条の6（父子福祉資金の貸付け）、第32条（寡婦福祉資金の貸付け）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "母子家庭の母、父子家庭の父、および寡婦の方の経済的自立や、扶養しているお子さんの福祉増進のために、必要な資金をお貸しする制度です。",
+  "support": {
+    "description": "資金の種類\n就学支度、修学、技能取得、生活、転宅、事業開始など12種類",
+    "materiallySupport": null,
+    "monetarySupport": "資金の種類\n就学支度、修学、技能取得、生活、転宅、事業開始など12種類"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "ひとり親家庭の母及び父で、20歳未満のお子さんを扶養している方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次のいずれかに該当する、基本的に都内に6か月以上お住まいの方が対象となります。\n\n1.ひとり親家庭の母及び父で、20歳未満のお子さんを扶養している方\n2.配偶者がいない女性で親族を扶養している方、または扶養していないが年間所得が2,036,000円以下でかつて母子家庭の母だった方もしくは婚姻歴のある40歳以上の方"
+  },
+  "updateDate": "2024-04-12",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

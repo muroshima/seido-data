@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健所保健予防課母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+4+UM34"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健所保健予防課母子保健係",
+    "contactPhone": "042-725-5471",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊娠中又は出産後に、母体に影響のでる症状等がある場合、母性健康管理指導事項連絡カードにより事業主に勤務の軽減等必要な措置を求める事ができます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関するサポート",
+    "shortName": "働くお母さんへ"
+  },
+  "localGovernmentLink": {
+    "title": "働くお母さんへ",
+    "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/10/1129.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第15条（妊娠の届出）、第16条（母子健康手帳）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "妊娠・出産をサポートする 女性にやさしい職場づくりナビ（外部リンク）",
+      "uri": "https://www.bosei-navi.mhlw.go.jp/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠中又は出産後に、母体に影響のでる症状等がある場合、母性健康管理指導事項連絡カードにより事業主に勤務の軽減等必要な措置を求める事ができます。",
+  "support": {
+    "description": "妊娠中又は出産後に、母体に影響のでる症状等がある場合、母性健康管理指導事項連絡カードにより事業主に勤務の軽減等必要な措置を求める事ができます。",
+    "materiallySupport": "厚生労働省 妊娠・出産をサポートする 女性にやさしい職場づくりナビ",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "078"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "妊娠中又は出産後",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊娠中又は出産後"
+  },
+  "updateDate": "2020-11-12",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

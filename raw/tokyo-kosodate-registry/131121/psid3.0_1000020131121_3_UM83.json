@@ -1,0 +1,143 @@
+{
+  "area": {
+    "areaCode": "131121;世田谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保育課 保育育成支援担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131121",
+    "psid": "psid3.0+1000020131121+3+UM83"
+  },
+  "belongings": "必要な持ち物については、施設までお問合せください。",
+  "capacity": "10名",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保育課 保育育成支援担当",
+    "contactPhone": "03-5432-2320",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": "3000",
+  "costConditions": "1日（8時間）3,000円。半日（4時間）の利用も可能です。",
+  "description": "一時保育専用施設\nhttps://www.city.setagaya.lg.jp/mokuji/kodomo/003/002/002/d00005756.html\n¥n定員・年齢\n10名。（三茶）1歳～3歳未満。（下北）1歳～4歳未満。¥n利用時間・利用料金\n（三茶）午前9時～午後7時（土曜日は午後5時まで）\n（下北）午前9時～午後7時（土曜日は閉室）\n1日（8時間）3,000円。半日（4時間）の利用も可能です。¥n時間延長\n8時間を超える場合は別途延長料金がかかります。1時間あたり500円です。¥n預けることのできない日\n第2・第4・第5土曜日（下北は全土曜日）、日曜日、祝祭日及び年末年始、その他については施設にお問合せください。¥n申込方法\n直接施設にお問合せください。¥nその他\n必要な持ち物については、施設までお問合せください。¥n関連リンク\nお子さんの一時預かり「ほっとステイ」;https://www.city.setagaya.lg.jp/mokuji/kodomo/002/002/d00015709.html\n子ワーキングスペース チャチャチャのご利用について;https://www.city.setagaya.lg.jp/theme/005/004/d00164004.html\n幼児教育・保育の無償化について(幼稚園や認可保育園を利用しない方向け);https://www.city.setagaya.lg.jp/mokuji/kodomo/012/d00181718.html\n令和6年4月から「一時預かり利用者負担軽減事業」が始まります;https://www.city.setagaya.lg.jp/mokuji/kodomo/003/002/002/d00207261.html\nキッズルーム　てぃんかぁべる;https://kidstinker1999.littlestar.jp/",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "第2・第4・第5土曜日（下北は全土曜日）、日曜日、祝祭日及び年末年始、その他については施設にお問合せください。",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "一時預かり（一時保育）",
+    "shortName": "一時保育専用施設の一時保育"
+  },
+  "localGovernmentLink": {
+    "title": "私立保育園・一時保育専用施設の一時保育について",
+    "uri": "https://www.city.setagaya.lg.jp/mokuji/kodomo/003/002/002/d00005756.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-12",
+    "updater": "世田谷区"
+  },
+  "procedureCounter": "キッズルームてぃんかぁべる三茶、キッズルームてぃんかぁべる下北\t",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "直接施設にお問合せください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第7項、第21条の9、第59条第10号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "幼児教育・保育の無償化について(幼稚園や認可保育園を利用しない方向け)",
+      "uri": "https://www.city.setagaya.lg.jp/mokuji/kodomo/012/d00181718.html"
+    },
+    {
+      "title": "令和6年4月から「一時預かり利用者負担軽減事業」が始まります",
+      "uri": "https://www.city.setagaya.lg.jp/mokuji/kodomo/003/002/002/d00207261.html"
+    },
+    {
+      "title": "キッズルーム　てぃんかぁべる",
+      "uri": "https://kidstinker1999.littlestar.jp/"
+    },
+    {
+      "title": "お子さんの一時預かり「ほっとステイ」",
+      "uri": "https://www.city.setagaya.lg.jp/mokuji/kodomo/002/002/d00015709.html"
+    },
+    {
+      "title": "子ワーキングスペース チャチャチャのご利用について",
+      "uri": "https://www.city.setagaya.lg.jp/theme/005/004/d00164004.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者のパート就労や病気等による緊急時、育児疲れなどのリフレッシュのために、家庭において保育を受けることが一時的に困難となったお子さんを、保育園、幼稚園、地域子育て支援拠点などで一時的にお預かりしています。",
+  "support": {
+    "description": "預けることができる期間\n原則として6か月（相当の事由があるとき、更に6か月延長可能）週3日程度ご利用できます。また、保護者の入院等で緊急に保育を必要とするときも7日間（相当の事由があるとき、更に30日延長可能）ご利用できます。\n一時保育専用施設\nhttps://www.city.setagaya.lg.jp/mokuji/kodomo/003/002/002/d00005756.html\n¥n定員・年齢\n10名。（三茶）1歳～3歳未満。（下北）1歳～4歳未満。¥n利用時間・利用料金\n（三茶）午前9時～午後7時（土曜日は午後5時まで）\n（下北）午前9時～午後7時（土曜日は閉室）\n1日（8時間）3,000円。半日（4時間）の利用も可能です。¥n時間延長\n8時間を超える場合は別途延長料金がかかります。1時間あたり500円です。¥n預けることのできない日\n第2・第4・第5土曜日（下北は全土曜日）、日曜日、祝祭日及び年末年始、その他については施設にお問合せください。",
+    "materiallySupport": "預けることができる期間\n原則として6か月（相当の事由があるとき、更に6か月延長可能）週3日程度ご利用できます。また、保護者の入院等で緊急に保育を必要とするときも7日間（相当の事由があるとき、更に30日延長可能）ご利用できます。\n一時保育専用施設\nhttps://www.city.setagaya.lg.jp/mokuji/kodomo/003/002/002/d00005756.html\n¥n定員・年齢\n10名。（三茶）1歳～3歳未満。（下北）1歳～4歳未満。¥n利用時間・利用料金\n（三茶）午前9時～午後7時（土曜日は午後5時まで）\n（下北）午前9時～午後7時（土曜日は閉室）\n1日（8時間）3,000円。半日（4時間）の利用も可能です。¥n時間延長\n8時間を超える場合は別途延長料金がかかります。1時間あたり500円です。¥n預けることのできない日\n第2・第4・第5土曜日（下北は全土曜日）、日曜日、祝祭日及び年末年始、その他については施設にお問合せください。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "（三茶）1歳～3歳未満。（下北）1歳～4歳未満。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "世田谷区にお住まいの方で、通常ご家庭で育児をされている方が、次のいずれかに該当し、家庭における保育が一時的に困難なときにご利用できます。\n・保護者が、就労を必要とするとき。\n・保護者が、就労のための技能を習得するとき。\n・保護者が、通学を必要とするとき。\n・保護者が、通院を必要とするとき。\n・保護者が、親族の看護又は介護にあたるとき。\n・保護者が、子育て不安、育児疲れ等により利用を必要とするとき。"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "（三茶）午前9時～午後7時（土曜日は午後5時まで）\n（下北）午前9時～午後7時（土曜日は閉室）",
+    "fromHM": "09:00",
+    "toHM": "19:00"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "area": {
+    "areaCode": "132080;調布市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉健康部保険年金課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020132080",
+    "psid": "psid3.0+7000020132080+1+UM793"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-481-6442",
+    "contactEmail": "kokunen@city.chofu.lg.jp",
+    "contactEx": null,
+    "contactName": "福祉健康部保険年金課",
+    "contactPhone": "042-481-7062",
+    "contactUrl": "https://www.city.chofu.lg.jp/030060/p019056.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "産前産後期間の国民年金保険料免除制度\n届出をすることで、出産前後における一定期間の国民年金保険料が免除されます。\n\n免除期間\n出産(予定)日が属する月の前月から翌々月まで\n(注)多胎の場合は出産(予定)日が属する月の3か月前から翌々月まで\n\n対象となる方\n出産日が平成31年2月1日以降で、免除される期間内に国民年金第1号被保険者に該当する期間が1か月以上ある方\n\n届出時期\n出産予定日の6か月前から\n出産後でも遡って手続き可(平成31年4月分以降の保険料に限る)\n(注)郵送を希望する場合はご連絡ください。\n\n必要書類\n基礎年金番号がわかる書類\n年金手帳、基礎年金番号通知書、納付書など日本年金機構が発行した書類\nまたは、個人番号が確認できる書類でも手続き可(マイナンバーカード、個人番号の記載のある住民票など)\n来庁者の本人確認ができるもの\nマイナンバーカード、運転免許証、パスポート、写真付きの住民基本台帳カードなど\n出産(予定)日が確認できる書類\n出産前\n医療機関が発行した出産予定日の証明書や母子健康手帳など\n出産後\n母子健康手帳内の出生届出済証明など、出産日・親子関係を明らかにする書類\n委任状\n代理で手続きを行う場合は、委任状が必要です。\n\nお問い合わせ先\n日本年金機構府中年金事務所　国民年金課\n電話番号 042-361-1011\n調布市福祉健康部保険年金課　国民年金係\n電話番号 042-481-7062\n\n関連リンク\n郵送による国民年金の手続き;https://www.city.chofu.lg.jp/060080/p038050.html\n国民年金の手続きで必要となる委任状様式;https://www.city.chofu.lg.jp/060080/p038072.html\n\n外部リンク\n国民年金保険料の産前産後期間の免除制度(日本年金機構ホームページ)（外部リンク）;https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "電子申請（マイナポータル）(日本年金機構ホームページ)（外部リンク）",
+      "uri": "https://www.nenkin.go.jp/denshibenri_kojin/denshibenri_kojin/mynaportal.html"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "産前産後期間の国民年金保険料免除",
+    "shortName": "産前産後期間の国民年金保険料免除制度"
+  },
+  "localGovernmentLink": {
+    "title": "産前産後期間の国民年金保険料免除制度",
+    "uri": "https://www.city.chofu.lg.jp/060080/p038053.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "調布市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "日本年金機構への電子申請\nマイナンバーカードをお持ちの方は、手続きの簡素化および迅速化が見込める日本年金機構への電子申請をぜひご利用ください。詳細は日本年金機構ホームページ「電子申請（マイナポータル）」;https://www.nenkin.go.jp/denshibenri_kojin/denshibenri_kojin/mynaportal.htmlをご覧ください。\n\n電子申請に必要な書類\nマイナンバーカード（マイナポータルへのログインに必要です。）\n母子手帳など出産(予定)日が確認できる書類（画像の添付が必要です。）\n\n郵送による届出\n必要な書類を同封して日本年金機構(東京広域事務センター)に直接郵送してください。詳細は「郵送による国民年金の手続き」;https://www.city.chofu.lg.jp/060080/p038050.htmlをご覧ください。\n\n郵送に必要な書類\n国民年金被保険者関係届書\n母子手帳など出産(予定)日が確認できる書類の写し\n\n郵送の宛先\n日本年金機構　東京広域事務センター　国民年金グループ\n郵便番号135-8880\nTFT内郵便局　郵便私書箱第2122号\n\n窓口による届出\n次の物をご用意のうえ、市役所２階保険年金課または日本年金機構府中年金事務所の窓口にお越しください。\n\n持ち物\n基礎年金番号がわかる書類\n年金手帳、基礎年金番号通知書、納付書など日本年金機構が発行した書類\nまたは、個人番号が確認できる書類でも手続き可(マイナンバーカード、個人番号の記載のある住民票など)\n\n来庁者の本人確認ができるもの\nマイナンバーカード、運転免許証、パスポート、写真付きの住民基本台帳カードなど\n\n出産(予定)日が確認できる書類\n出産前\n医療機関が発行した出産予定日の証明書や母子健康手帳など\n\n出産後\n母子健康手帳内の出生届出済証明など、出産日・親子関係を明らかにする書類\n\n委任状\n代理で手続きを行う場合は、委任状が必要です。",
+  "procedurePeriod": {
+    "conditions": "届出時期\n出産予定日の6か月前から\n出産後でも遡って手続き可(平成31年4月分以降の保険料に限る)",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第88条の2（保険料の納付義務）",
+    "regulationName": "国民年金法"
+  },
+  "relatedLink": [
+    {
+      "title": "郵送による国民年金の手続き",
+      "uri": "https://www.city.chofu.lg.jp/060080/p038050.html"
+    },
+    {
+      "title": "国民年金保険料の産前産後期間の免除制度(日本年金機構ホームページ)（外部リンク）",
+      "uri": "https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民年金の第1号被保険者が出産した場合には、出産前後の一定期間の国民年金保険料が免除されます。\n免除期間は年金額を計算する際、保険料を納めた期間として扱われます。",
+  "support": {
+    "description": "届出をすることで、出産前後における一定期間の国民年金保険料が免除されます。免除された期間は、保険料を納付したものとして老齢基礎年金の受給額に反映されます。\n\n免除期間\n出産(予定)日が属する月の前月から翌々月まで\n(注)多胎の場合は出産(予定)日が属する月の3か月前から翌々月まで",
+    "materiallySupport": null,
+    "monetarySupport": "届出をすることで、出産前後における一定期間の国民年金保険料が免除されます。免除された期間は、保険料を納付したものとして老齢基礎年金の受給額に反映されます。\n\n免除期間\n出産(予定)日が属する月の前月から翌々月まで\n(注)多胎の場合は出産(予定)日が属する月の3か月前から翌々月まで"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "016"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "出産日が平成31年2月1日以降で、免除される期間内に国民年金第1号被保険者に該当する期間が1か月以上ある方"
+  },
+  "updateDate": "2021-02-05",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

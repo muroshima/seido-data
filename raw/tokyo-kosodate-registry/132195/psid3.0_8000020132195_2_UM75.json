@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132195;狛江市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　児童育成課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132195",
+    "psid": "psid3.0+8000020132195+2+UM75"
+  },
+  "belongings": null,
+  "capacity": "１９人",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　児童育成課保育・幼稚園担当,保育園等管理・運営支援担当,放課後対策推進担当",
+    "contactPhone": "03-3430-1280,03-6698-0762,03-3430-1281",
+    "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,105154,html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "利用者負担額（保育料）については、認可保育園と同様に市区町村民税所得割額により算定し、納入先は各施設となります。",
+  "description": "地域型保育事業\n　平成27年度より実施された子ども・子育て支援新制度において創設された、１９名以下の単位で、原則３歳未満の児童を保育する新たな認可事業です。 \n　地域型保育事業から他の保育園への転園を希望する場合は、認可外保育施設等を利用している場合の調整指数の対象にはなりません。ただし、卒園後の３歳児クラスからは他の保育園へ優先的に転園となります。\n\n事業所内保育事業\n会社等の事業所の保育施設等で、従業員の子どもだけでなく地域の子どもも一緒に保育を行います。\n\nヤクルト狛江あいあい保育園\n〔設置者〕東京ヤクルト販売株式会社\n〔所在地〕東和泉１－３－１５　サトービル１階２号室\n〔電話〕０３（３４８０）４９５８\n〔定員〕１９人（１歳：８人（うち地域枠５人）、２歳：８人（うち地域枠５人）※０歳児クラスは従業員枠のみ３人）\n〔保育時間〕月曜～土曜日　午前７時３０分～午後６時３０分（延長保育無し）　\n\nその他\n利用者負担額（保育料）については、認可保育園と同様に市区町村民税所得割額により算定し、納入先は各施設となります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "東和泉１－３－１５　サトービル１階２号室",
+    "implementationName": "ヤクルト狛江あいあい保育園"
+  },
+  "institutionName": {
+    "canonicalName": "地域型保育（小規模保育・家庭的保育（保育ママ）・事業所内保育・居宅訪問型保育）の利用について",
+    "shortName": "事業所内保育"
+  },
+  "localGovernmentLink": {
+    "title": "地域型保育事業",
+    "uri": "https://www.city.komae.tokyo.jp/index.cfm/43,78693,586,3431,html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "狛江市"
+  },
+  "procedureCounter": "子ども家庭部　児童育成課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第20条、第29条、第30条",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "「地域型保育」事業は、平成27年度施行の「子ども・子育て支援新制度」による、市区町村の認可事業です。保育の必要な3歳未満の子どもを対象とした「小規模保育」「家庭的保育（保育ママ）」「事業所内保育」「居宅訪問型保育」の4種類があり、市区町村ごとに地域の保育ニーズに合わせたサービスを実施することになっています。狛江市には現在、下記の保育サービスがあり、利用には保育の必要性の認定を受ける必要があります。",
+  "support": {
+    "description": "会社等の事業所の保育施設等で、従業員の子どもだけでなく地域の子どもも一緒に保育を行います。",
+    "materiallySupport": "会社等の事業所の保育施設等で、従業員の子どもだけでなく地域の子どもも一緒に保育を行います。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "３歳未満の児童"
+  },
+  "updateDate": "2021-04-26",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": "07:30",
+    "toHM": "18:30"
+  }
+}

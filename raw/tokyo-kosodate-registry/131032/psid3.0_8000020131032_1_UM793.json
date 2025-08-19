@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健福祉支援部国保年金課国民年金係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+1+UM793"
+  },
+  "belongings": "届出する人の本人確認できるもの、年金手帳、母子健康手帳など",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファックス番号：03-3578-2669\n\n外国語対応が必要な人、通訳オペレーター、区の職員の3人で会話ができます。\n\n多言語対応三者通話サービス;https://www.multilingualinterpretercallservice.city.minato.tokyo.jp/kokusai",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健福祉支援部国保年金課国民年金係",
+    "contactPhone": "03-3578-2662,03-3578-2663,03-3578-2664,03-3578-2665,03-3578-2666",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "産前産後期間国民年金保険料免除制度\n概要\n平成31年4月から産前産後期間の国民年金保険料の免除制度がはじまりました。産前産後期間として認められた期間は保険料を納付したものとして、老齢基礎年金等の受給額に反映されます。\n\n対象者\n「国民年金第1号被保険者」で出産日が平成31年2月1日以降の人\n\n※「国民年金第2号被保険者（厚生年金加入者）」や「国民年金第3号被保険者（被扶養配偶者）」は対象外となります。\n\n免除期間\n出産予定日または出産日が属する月の前月から4ヵ月間の国民年金保険料が免除されます。\n\n多胎妊娠の場合は、出産予定日または出産日が属する月の3ヵ月前から6ヵ月間の国民年金保険料が免除されます。\n\n※出産とは、妊娠85日（4ヵ月）以上の出産をいいます。（死産、流産、早産された方を含みます。）\n\n届出について\n出産予定日の6カ月前から届出をすることができます。届出する人の本人確認できるもの、年金手帳、母子健康手帳などを持参してください。\n\n受付窓口\n保健福祉支援部国保年金課国民年金係\n\n各総合支所区民課窓口サービス係（芝地区総合支所は相談担当）\n\n関連リンク\n\n日本年金機構ホームページ（外部サイトへリンク）;https://www.nenkin.go.jp/",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "産前産後期間の国民年金保険料免除",
+    "shortName": "産前産後期間国民年金保険料免除制度"
+  },
+  "localGovernmentLink": {
+    "title": "産前産後期間国民年金保険料免除制度",
+    "uri": "https://www.city.minato.tokyo.jp/kokuminnenkin/kurashi/hoken/nenkin/hokenryo/sanzensango.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "港区"
+  },
+  "procedureCounter": "保健福祉支援部国保年金課国民年金係\n\n各総合支所区民課窓口サービス係（芝地区総合支所は相談担当）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "届出する人の本人確認できるもの、年金手帳、母子健康手帳などを持参してください。",
+  "procedurePeriod": {
+    "conditions": "出産予定日の6カ月前から届出をすることができます。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第88条の2（保険料の納付義務）",
+    "regulationName": "国民年金法"
+  },
+  "relatedLink": [
+    {
+      "title": "日本年金機構ホームページ（外部サイトへリンク）",
+      "uri": "https://www.nenkin.go.jp/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民年金の第1号被保険者が出産した場合には、出産前後の一定期間の国民年金保険料が免除されます。\n免除期間は年金額を計算する際、保険料を納めた期間として扱われます。",
+  "support": {
+    "description": "出産予定日または出産日が属する月の前月から4ヵ月間の国民年金保険料が免除されます。\n\n多胎妊娠の場合は、出産予定日または出産日が属する月の3ヵ月前から6ヵ月間の国民年金保険料が免除されます。\n\n※出産とは、妊娠85日（4ヵ月）以上の出産をいいます。（死産、流産、早産された方を含みます。）",
+    "materiallySupport": null,
+    "monetarySupport": "出産予定日または出産日が属する月の前月から4ヵ月間の国民年金保険料が免除されます。\n\n多胎妊娠の場合は、出産予定日または出産日が属する月の3ヵ月前から6ヵ月間の国民年金保険料が免除されます。\n\n※出産とは、妊娠85日（4ヵ月）以上の出産をいいます。（死産、流産、早産された方を含みます。）"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "016"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": "出産日が平成31年2月1日以降の人",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "「国民年金第1号被保険者」で出産日が平成31年2月1日以降の人\n\n※「国民年金第2号被保険者（厚生年金加入者）」や「国民年金第3号被保険者（被扶養配偶者）」は対象外となります。"
+  },
+  "updateDate": "2024-03-25",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

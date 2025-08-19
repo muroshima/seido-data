@@ -1,0 +1,137 @@
+{
+  "area": {
+    "areaCode": "132047;三鷹市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部障がい者支援課障がい者相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132047",
+    "psid": "psid3.0+8000020132047+1+UM78"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三鷹市野崎一丁目1番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康福祉部 障がい者支援課 障がい者相談係",
+    "contactPhone": "0422-29-9233",
+    "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/shien/index.html",
+    "zipCode": "1818555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "障害児通所支援で利用できるサービス\n障がいのある児童や療育の必要性のある児童を対象に、年齢に応じて専門的な支援を行います。\n\n児童発達支援\n日常生活における基本的な動作の指導、知識技能の付与、集団生活への適応訓練、その他の必要な支援を行います。\n放課後等デイサービス\n学校通学中の障がい児に対して、放課後や夏休みの長期休暇中において、生活能力向上のための訓練等を継続的に提供することにより、学校教育と相まって障がい児の自立を促進するとともに、放課後等の居場所づくりの支援を行います。\n居宅訪問型児童発達支援\n重度の障がいの状態またはそれに準ずる状態であるため、外出することが著しく困難な児童生徒に、居宅を訪問し、日常生活の基本的な動作の指導、知識技能の付与、生活能力向上のための訓練等を行います。\n保育所等訪問支援\n保育所等を訪問し、集団生活への適応のための専門的な支援、その他必要な支援を行います。\n障害児通所支援の目次\n児童通所支援の利用開始までの流れ;https://www.city.mitaka.lg.jp/c_service/093/093459.html\n障害児通所支援を利用したときの費用;https://www.city.mitaka.lg.jp/c_service/093/093462.html\n障がい児通所支援関係申請書類;https://www.city.mitaka.lg.jp/c_service/093/093465.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "障がい児保育",
+    "shortName": "障害児通所支援"
+  },
+  "localGovernmentLink": {
+    "title": "障害児通所支援",
+    "uri": "https://www.city.mitaka.lg.jp/c_service/093/093457.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-12",
+    "updater": "三鷹市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "障害児保育事業実施要領"
+  },
+  "relatedLink": [
+    {
+      "title": "障がい児通所支援関係申請書類",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/093/093465.html"
+    },
+    {
+      "title": "児童通所支援の利用開始までの流れ",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/093/093459.html"
+    },
+    {
+      "title": "障害児通所支援を利用したときの費用",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/093/093462.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "集団保育が可能で心身に障がいがあるお子さんを、健常児と一緒に保育し相互の健全な育成を図ります。",
+  "support": {
+    "description": "児童発達支援\n日常生活における基本的な動作の指導、知識技能の付与、集団生活への適応訓練、その他の必要な支援を行います。\n放課後等デイサービス\n学校通学中の障がい児に対して、放課後や夏休みの長期休暇中において、生活能力向上のための訓練等を継続的に提供することにより、学校教育と相まって障がい児の自立を促進するとともに、放課後等の居場所づくりの支援を行います。\n居宅訪問型児童発達支援\n重度の障がいの状態またはそれに準ずる状態であるため、外出することが著しく困難な児童生徒に、居宅を訪問し、日常生活の基本的な動作の指導、知識技能の付与、生活能力向上のための訓練等を行います。\n保育所等訪問支援\n保育所等を訪問し、集団生活への適応のための専門的な支援、その他必要な支援を行います。",
+    "materiallySupport": "児童発達支援\n日常生活における基本的な動作の指導、知識技能の付与、集団生活への適応訓練、その他の必要な支援を行います。\n放課後等デイサービス\n学校通学中の障がい児に対して、放課後や夏休みの長期休暇中において、生活能力向上のための訓練等を継続的に提供することにより、学校教育と相まって障がい児の自立を促進するとともに、放課後等の居場所づくりの支援を行います。\n居宅訪問型児童発達支援\n重度の障がいの状態またはそれに準ずる状態であるため、外出することが著しく困難な児童生徒に、居宅を訪問し、日常生活の基本的な動作の指導、知識技能の付与、生活能力向上のための訓練等を行います。\n保育所等訪問支援\n保育所等を訪問し、集団生活への適応のための専門的な支援、その他必要な支援を行います。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "障がいのある児童や療育の必要性のある児童"
+  },
+  "updateDate": "2021-10-11",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132195;狛江市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子ども家庭課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132195",
+    "psid": "psid3.0+8000020132195+1+UM13"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子ども家庭課母子保健係（あいとぴあセンター）",
+    "contactPhone": "03-5761-9200,03-5761-7990",
+    "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,132750,html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "無料",
+  "description": "こんにちは赤ちゃん事業\n狛江市では、生後4カ月までの赤ちゃんがいるすべての家庭を対象に、保健師や助産師（訪問指導員）が訪問させていただいています。\nぜひご利用ください。\n\n対象\n生後4カ月までの赤ちゃんのいる家庭\n\n訪問までの流れ\n1. 赤ちゃん誕生連絡票の提出\n　妊娠届出時にお渡しした「母と子の保健バッグ」に「赤ちゃん誕生連絡票」が入っています。そのままポストに投函できるようになっていますので、必要事項をご記入の上、ご提出ください。\n　転入などでお手元にない方は、子ども家庭課にご連絡いただくか、手当等の手続きの際に、子ども若者政策課（市役所3階）で提出することもできます。\n\n2. 電話での日程調整\n　訪問を担当する保健師や助産師より、「赤ちゃん誕生連絡票」にご記入いただいた連絡先にお電話いたしますので、訪問日と時間を相談の上決定します。\n　「赤ちゃん誕生連絡票」が届いてからご連絡するまでに時間がかかる場合がありますので、心配事やお急ぎの相談がある場合は子ども家庭課までご連絡ください。\n\n3. 赤ちゃん訪問\n　費用は無料です。\n　赤ちゃんの体重測定、母乳やミルクに関すること、予防接種や健診、育児の相談やお母さんの健康についての相談、地域の子育て情報などをお知らせします。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "新生児訪問",
+    "shortName": "こんにちは赤ちゃん事業"
+  },
+  "localGovernmentLink": {
+    "title": "こんにちは赤ちゃん事業",
+    "uri": "https://www.city.komae.tokyo.jp/index.cfm/43,127193,330,html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "狛江市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "訪問までの流れ\n1. 赤ちゃん誕生連絡票の提出\n　妊娠届出時にお渡しした「母と子の保健バッグ」に「赤ちゃん誕生連絡票」が入っています。そのままポストに投函できるようになっていますので、必要事項をご記入の上、ご提出ください。\n　転入などでお手元にない方は、子ども家庭課にご連絡いただくか、手当等の手続きの際に、子ども若者政策課（市役所3階）で提出することもできます。\n\n2. 電話での日程調整\n　訪問を担当する保健師や助産師より、「赤ちゃん誕生連絡票」にご記入いただいた連絡先にお電話いたしますので、訪問日と時間を相談の上決定します。\n　「赤ちゃん誕生連絡票」が届いてからご連絡するまでに時間がかかる場合がありますので、心配事やお急ぎの相談がある場合は子ども家庭課までご連絡ください。\n\n3. 赤ちゃん訪問\n　費用は無料です。\n　赤ちゃんの体重測定、母乳やミルクに関すること、予防接種や健診、育児の相談やお母さんの健康についての相談、地域の子育て情報などをお知らせします。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第11条（新生児の訪問指導）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "新生児を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、健康や育児に関する相談などを行います。",
+  "support": {
+    "description": "赤ちゃんの体重測定、母乳やミルクに関すること、予防接種や健診、育児の相談やお母さんの健康についての相談、地域の子育て情報などをお知らせします。",
+    "materiallySupport": "赤ちゃんの体重測定、母乳やミルクに関すること、予防接種や健診、育児の相談やお母さんの健康についての相談、地域の子育て情報などをお知らせします。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後4カ月までの赤ちゃんのいる家庭",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": 4
+    },
+    "targetPersons": "生後4カ月までの赤ちゃんのいる家庭"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

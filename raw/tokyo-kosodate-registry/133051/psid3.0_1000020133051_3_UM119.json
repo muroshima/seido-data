@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "133051;日の出町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センター 相談係（子ども家庭支援センター）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133051",
+    "psid": "psid3.0+1000020133051+3+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡日の出町大字平井2780番地",
+    "contactComment": "ファクス: 042-597-6177",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭センター 相談係（子ども家庭支援センター）",
+    "contactPhone": "042-597-6177",
+    "contactUrl": null,
+    "zipCode": "1900192"
+  },
+  "cost": null,
+  "costConditions": "相談は無料です（電話相談の場合は別途通信料がかかります）。",
+  "description": "子ども・家庭・子育てのことを相談したい¥n0歳から18歳までの児童とその家庭に関するあらゆる相談を受けています。¥n子どもの育て方がわからない、子どもの発達や行動が気になる、子育てに不安がある、育児に疲れた、子どもを叩いてしまう、不登校で悩んでいる、非行で悩んでいる、夫の暴力や暴言がこわい…その他、どこに相談したらよいかわからない場合も相談できます。¥n¥n電話　042－597－6177¥n相談日　月曜日から金曜日　午前9時～午後5時まで¥n相談内容は守秘義務により守られます。¥n相談は無料です（電話相談の場合は別途通信料がかかります）。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "日の出町の子育てに関する相談",
+    "shortName": "子ども・家庭・子育てのことを相談"
+  },
+  "localGovernmentLink": {
+    "title": "子ども・家庭・子育てのことを相談したい",
+    "uri": "https://www.town.hinode.tokyo.jp/0000000869.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "日の出町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子どもの育て方がわからない、子どもの発達や行動が気になる、子育てに不安がある、育児に疲れた、子どもを叩いてしまう、不登校で悩んでいる、非行で悩んでいる、夫の暴力や暴言がこわい…その他、どこに相談したらよいかわからない場合も相談できます。",
+  "support": {
+    "description": "0歳から18歳までの児童とその家庭に関するあらゆる相談を受けています。¥n子どもの育て方がわからない、子どもの発達や行動が気になる、子育てに不安がある、育児に疲れた、子どもを叩いてしまう、不登校で悩んでいる、非行で悩んでいる、夫の暴力や暴言がこわい…その他、どこに相談したらよいかわからない場合も相談できます。",
+    "materiallySupport": "0歳から18歳までの児童とその家庭に関するあらゆる相談を受けています。¥n子どもの育て方がわからない、子どもの発達や行動が気になる、子育てに不安がある、育児に疲れた、子どもを叩いてしまう、不登校で悩んでいる、非行で悩んでいる、夫の暴力や暴言がこわい…その他、どこに相談したらよいかわからない場合も相談できます。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0歳から18歳までの児童とその家庭",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "0歳から18歳までの児童とその家庭"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "相談日　月曜日から金曜日　午前9時～午後5時まで",
+    "fromHM": "09:00",
+    "toHM": "17:00"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132128;日野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども部　子ども家庭支援センター　母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132128",
+    "psid": "psid3.0+1000020132128+1+UM49"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都日野市神明1丁目13番地の2　子ども包括支援センター2階",
+    "contactComment": "ファクス：042-586-1855",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども部　子ども家庭支援センター　母子保健係",
+    "contactPhone": "042-843-3663",
+    "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120303",
+    "zipCode": "1910016"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子どもの健康診査\nこのページの情報をツイッターでツイートできますこのページの情報をフェイスブックでシェアできますこのページの情報をラインでシェアできますページID1003912　 更新日 令和6年5月23日\n印刷　大きな文字で印刷\n\n感染症対策について、受診される方へのご理解とご協力のお願い\n【感染症対策について】\n\n来所の際には、手洗い、咳エチケット等の感染対策にご協力ください。\n健診対象のお子様や付き添いの方が、発熱（37.5度以上）等の体調不良がある場合には、無理をなさらず、次回以降の受診への変更をご検討ください。また、感染性の疾患で医療機関を受診された（または、受診される）場合は、医師に集団健診について参加の可否を確認していただくようお願いいたします。\n会場では、各箇所に消毒液を設置し適宜換気を行っています。また、人との距離を保てるよう会場を広く取り、密にならないよう受付時間を設定しています。少人数でのご参加にご協力をお願いいたします。なお、ご事情のある方は、事前に母子保健係へお問い合わせください。\n 【問い合わせ】子ども家庭支援センター母子保健係　電話042-843-3663\n\n乳幼児健康診査について\n日野市では、下表にある乳幼児健康診査を無料で行っています。\nお子さまの健康状態を確認する大切な健康診査なので、必ず受けましょう。\n\n|健診名|内容|対象時期|実施場所|備考|\n|:----|:----|:----|:----|:----|\n|3カ月から4カ月児・産婦健康診査|一般健康診査、健康相談、育児等に関する情報提供、親子交流|3カ月から4カ月児・産婦|生活・保健センター|個別に通知します|\n|6カ月から7カ月児健診|一般健康診査|6カ月から7カ月児|都内委託医療機関|3カ月から4カ月児健康診査の個別通知に受診票を同封します|\n|9カ月から10カ月児健診|一般健康診査|9カ月から10カ月児|都内委託医療機関|3カ月から4カ月児健康診査の個別通知に受診票を同封します|\n|1歳6カ月児健康診査|一般健康診査、歯科健康診査、健康相談、育児等に関する情報提供、遊びの広場|1歳6カ月児|生活・保健センター|個別に通知します|\n|3歳児健康診査|一般健康診査、歯科健康診査、尿検査、目の検査、健康相談、育児等に関する情報提供|3歳児|生活・保健センター|個別に通知します|\n6から7カ月児健康診査、9から10カ月児健康診査は日野市内実施医療機関一覧をご覧ください。\n\n日野市内実施医療機関一覧 （PDF 319.7KB）;https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/003/912/iryoukikan202405.pdf\n日野市に転入された方\n日野市に転入された方等で、6から7カ月及び9から10カ月児健康診査受診票をお持ちでない方は、子ども家庭支援センター母子保健係（子ども包括支援センターみらいく2階）で交付の申請ができます。なお、東京都内からの転入の場合は、前住所地で交付を受けた受診票を継続して使用することができます。 \n転入された時期により、3から4カ月児・産婦健康診査、1歳6カ月児健康診査、3歳児健康診査の通知発送が間に合わない場合があります。対象の方でまだ受診されていない場合は、子ども家庭支援センター母子保健係（042-843-3663）へご連絡ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "生活・保健センター"
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児健康診査（6か月未満児）",
+    "shortName": "3カ月から4カ月児・産婦健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "子どもの健康診査",
+    "uri": "https://www.city.hino.lg.jp/kosodate/kenko/kenshin/1003912.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "日野市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "個別に通知します",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "お子さん並びにお母さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として3か月～4か月児健康診査、産婦健康診査を実施しています。",
+  "support": {
+    "description": "一般健康診査、健康相談、育児等に関する情報提供、親子交流",
+    "materiallySupport": "一般健康診査、健康相談、育児等に関する情報提供、親子交流",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "3カ月から4カ月児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 3
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 4
+    },
+    "targetPersons": "3か月から4か月児・産婦"
+  },
+  "updateDate": "2024-05-23",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

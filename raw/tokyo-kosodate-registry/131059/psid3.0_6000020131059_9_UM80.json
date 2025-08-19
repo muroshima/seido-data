@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131059;文京区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部幼児保育課施設給付・私立幼稚園担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131059",
+    "psid": "psid3.0+6000020131059+9+UM80"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都文京区春日1丁目16番21号\n文京シビックセンター12階南側",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部幼児保育課施設給付・私立幼稚園担当",
+    "contactPhone": "03-5803-1823",
+    "contactUrl": "https://logoform.jp/form/6KSu/553771",
+    "zipCode": "1128555"
+  },
+  "cost": null,
+  "costConditions": "基本利用料の無償化に加え、「保育の必要性」がある2号または3号認定を受けている場合には、利用実態に応じて、預かり保育料についても無償化の対象※となります。\n※預かり保育料の補助額は、月額11,300円または16,300円を上限として、原則「日額450円×利用日数」で算定します。\n幼稚園の預かり保育に加え、認可外保育施設等まで無償化の対象となるかは、在園している幼稚園によって異なります。区内の園を確認する場合は「対象施設について」;https://www.city.bunkyo.lg.jp/b023/p001715.htmlをご覧ください。\n区外の施設については、直接各施設または施設がある自治体へお問い合わせください。\n認可外保育施設等まで無償化の対象となる園に通園しており、幼稚園の預かり保育以外を使用した場合は、請求書に加えその施設の「特定子ども・子育て支援の提供に係る支払証明書（PDF：195KB）」;https://www.city.bunkyo.lg.jp/documents/1701/siharaisyoumei.pdf等利用日及び利用日額が分かる書類を文京区へ直接提出する必要があります",
+  "description": "■国立幼稚園へ入園を検討・希望している方へ\n無償化の対象となるためには、住民登録のある区市町村から「保育の必要性」に係る認定（子育てのための施設等利用給付認定以下「認定」と言います。）を受ける必要があります。\n入園内定後、内定園より無償化の対象となるための申請書類等が配布されます。必要事項を記入し、添付書類とともにご提出ください。\n※認定は、施設の利用開始日までに行う必要があります。認定日は遡ることが出来ず、認定がない期間は無償化に関係する給付金交付の対象外となりますのでご注意ください。\n\n■在園児保護者の皆様へ\n幼稚園から配布されるパンフレットまたは文京区ホームページから電子申請によりご申請ください。\n・基本利用料\n月額上限8,700円まで無償化となります。\n\n・預かり保育料\n基本利用料の無償化に加え、「保育の必要性」がある2号または3号認定を受けている場合には、利用実態に応じて、預かり保育料についても補助の対象となります。\n",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "令和6年度（令和6年4月1日～令和7年3月31日）の申請はこちらから（外部リンク）",
+      "uri": "https://logoform.jp/form/6KSu/555534"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "幼稚園の利用について",
+    "shortName": "国立幼稚園"
+  },
+  "localGovernmentLink": {
+    "title": "国立幼稚園",
+    "uri": "https://www.city.bunkyo.lg.jp/b023/p001708.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-05-20",
+    "updater": "文京区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "必要事項を記入し、添付書類とともにご提出ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第26条",
+    "regulationName": "学校教育法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "幼稚園とは、学校教育法に基づき、満3歳から小学校就学前までのお子さんに幼児教育を提供する施設（学校）です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "3歳になった日から最初の3月31日までに\n\nある子ども",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区民税非課税世帯の満3歳児クラス\n\n（3歳になった日から最初の3月31日までに\n\nある子ども）"
+  },
+  "updateDate": "2024-05-20",
+  "useConsiderationFlag": false,
+  "utilization": "内定園より無償化の対象となるための申請書類等が配布されます。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

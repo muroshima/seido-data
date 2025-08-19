@@ -1,0 +1,140 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "青戸保健センター保健サービス係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+1+UM5010"
+  },
+  "belongings": "新生児聴覚検査受診票",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区青戸4-15-14　健康プラザかつしか内",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "青戸保健センター保健サービス係",
+    "contactPhone": "03-3602-1284",
+    "contactUrl": null,
+    "zipCode": "1250062"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "新生児聴覚検査",
+    "shortName": "新生児聴覚検査費用の一部を助成します"
+  },
+  "localGovernmentLink": {
+    "title": "新生児聴覚検査費用の一部を助成します",
+    "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1002336/1019681.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "費用の助成を受けるためには、あらかじめ「新生児聴覚検査受診票」が必要です。\n\n検査は、受診票を都内委託医療機関に事前に提出してお受けください。\n\n対象となる方で受診票をお持ちでない方は、各保健センターまでお問合せください。\n里帰り出産等で、東京都外の医療機関で検査を受診する場合は、申請により、検査費用の助成ができますので、子ども家庭支援課母子保健係までお問い合わせください。\n\n【受診票交付方法】　母子健康手帳交付時に手渡します。\n\n【助成額】上限3000円(お子さん1人につき1回)\n(検査費用が3000円を超える場合は、検査費用金額から3000円を差し引いた額が自己負担となります)\n\n【その他】受診票は、原則として生後1か月以内にご利用ください。\n(生まれた日を0日として起算し、生後50日以内にご利用ください。)",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "里帰り出産等妊婦健康診査費用等の一部助成について",
+      "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1002073.html"
+    },
+    {
+      "title": "子育て",
+      "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/index.html"
+    },
+    {
+      "title": "東京都福祉保健局「赤ちゃんの耳の聞こえについて」（委託医療機関一覧）（外部リンク）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo//shussan/kenkou/baby_ear.html"
+    },
+    {
+      "title": "手当・助成",
+      "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1002336/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "新生児聴覚検査は、出生後間もない時期に耳の聞こえ（聴覚）を確認する検査です。新生児聴覚検査をすべてのお子さんに安心してお受けいただくために、検査費用の一部を助成します。",
+  "support": {
+    "description": "新生児聴覚検査をすべてのお子さんに安心してお受けいただくために、検査費用の一部を助成します\n費用の助成を受けるためには、あらかじめ「新生児聴覚検査受診票」が必要です。\n\n【受診票交付方法】母子健康手帳交付時に手渡します。\n【助成額】上限 3000円（お子さん1人につき1回）\n（検査費用が3000円を超える場合は、検査費用金額から3000円を差し引いた額が自己負担となります）",
+    "materiallySupport": null,
+    "monetarySupport": "上限 3000円（お子さん1人につき1回）\n（検査費用が3000円を超える場合は、検査費用金額から3000円を差し引いた額が自己負担となります）"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生まれた日を0日として起算し、生後50日以内",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "すべてのお子さん(生後50日まで)"
+  },
+  "updateDate": "2024-04-26",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

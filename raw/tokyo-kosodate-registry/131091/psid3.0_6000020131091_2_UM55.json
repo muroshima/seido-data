@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131091;品川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健予防課　予防接種担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131091",
+    "psid": "psid3.0+6000020131091+2+UM55"
+  },
+  "belongings": "ステップ1　母子健康手帳を持って区役所または保健センターへお越しください。予診票を交付します。\nステップ2　同封の品川区内の契約医療機関で接種予約をお取りください。\nステップ3　接種日当日、予防接種予診票と母子健康手帳を持参して接種します。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健予防課　予防接種担当",
+    "contactPhone": "03-5742-9152",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "全額助成＝無料（2回まで）",
+  "description": "任意予防接種\n\n品川区では、おたふくかぜワクチン、MRワクチン（任意）、インフルエンザワクチンの任意接種費用を助成しています。\n\n|種類|助成対象など|\n|:----|:----|\n|おたふくかぜワクチン（流行性耳下腺炎）|【対象】<br>1歳から小学校就学前年度末<br><br>【助成額】<br>1回あたり3,000円助成（2回まで）<br><br>【助成の受け方】<br>ステップ1　品川区内の契約医療機関で接種予約をお取りください。<br>\nステップ2　接種日当日、医療機関から配布される予診票を使って接種します。<br>ステップ3　接種後、医療機関に3,000円を差引いた金額をお支払いください。<br><br>※予診票はご自宅へ個別送付していません。接種時に医療機関で配布されます。<br><br>おたふくかぜワクチン任意接種費用の一部助成のお知らせ（PDF.521KB)<br>https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-ninnshinn/kodomo-ninnshinn-yobousessyu/20210501_mumps.pdf|\n|MRワクチン（任意）|MＲワクチンは定期予防接種として2回接種する機会がありますが、定期接種の対象年齢を過ぎてしまうと、「任意接種（保護者の判断で接種するかどうか決めるもの）」となります。<br>品川区では、ＭＲワクチンの対象年齢を過ぎて任意接種される方に接種費用を全額を助成します（2回まで）。<br>※あくまで定期予防接種を受けられなかった回数のみ助成を受けられます。<br><br>【対象】<br>2歳から19歳未満で、定期接種を受けられなかった方<br><br>2歳以降、年長になる前：MR1期が未接種の方<br>小学生以上、19歳未満：MRワクチンを1回しか受けていない方<br><br>【助成額】<br>全額助成＝無料（2回まで）<br><br>【助成の受け方】<br>ステップ1　母子健康手帳を持って区役所または保健センターへお越しください。予診票を交付します。<br>ステップ2　同封の品川区内の契約医療機関で接種予約をお取りください。<br>ステップ3　接種日当日、予防接種予診票と母子健康手帳を持参して接種します。<br><br>詳しくは麻しん・風しんワクチン任意接種費用の全額助成のページをご確認ください。<br>MR（麻しん・風しん混合）任意接種費用の全額助成のお知らせ(PDF)<br>https://www.city.shinagawa.tokyo.jp/contentshozon2022/20220401_MR_nini.pdf|\n|インフルエンザ|【対象】<br>生後6カ月から高校3年生まで<br><br>【接種期間】<br>10月1日から翌年1月31日まで<br><br>【助成額】<br>1回あたり1,000円助成<br><br>【助成回数】12歳以下：2回まで<br>13歳以上：1回まで<br><br>【助成の受け方】<br>ステップ1　品川区内の契約医療機関で接種予約をお取りください。<br>ステップ2　接種日当日、医療機関から配布される予診票を使って接種します。<br>ステップ3　接種後、医療機関に1,000円を差引いた金額をお支払いください。<br><br>※予診票はご自宅へ個別送付していません。接種時に医療機関で配布されます。|\n|男性のHPV(ヒトパピローマウイルス感染症)ワクチン|【対象】<br>小学6年生から高校1年生相当の男子<br><br>【助成額】<br>全額助成＝無料（3回まで）<br><br>【助成の受け方】<br>ステップ1　品川区内の契約医療機関で接種予約をお取りください。<br>ステップ2　接種日当日、医療機関から配布される予診票を使って接種します。<br><br>※予診票はご自宅へ個別送付していません。接種時に医療機関で配布されます。<br><br>詳しくは男性のＨＰＶワクチン任意予防接種の全額助成のページをご確認ください。<br>https://www.city.shinagawa.tokyo.jp/PC/kenkou/yobousessyu/20240313180658.html|\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "品川区内の契約医療機関"
+  },
+  "institutionName": {
+    "canonicalName": "任意予防接種",
+    "shortName": "任意予防接種（MRワクチン）"
+  },
+  "localGovernmentLink": {
+    "title": "任意予防接種",
+    "uri": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-ninnshinn/kodomo-ninnshinn-yobousessyu/hpg000033448.html#任意予防接種"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "品川区"
+  },
+  "procedureCounter": "品川区内の契約医療機関",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "ステップ1　母子健康手帳を持って区役所または保健センターへお越しください。予診票を交付します。\nステップ2　同封の品川区内の契約医療機関で接種予約をお取りください。\nステップ3　接種日当日、予防接種予診票と母子健康手帳を持参して接種します。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "小児任意予防接種費助成要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "品川区　こどもの予防接種（PDF.286KB)",
+      "uri": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-ninnshinn/kodomo-ninnshinn-yobousessyu/hpg000033448.html#%E5%AE%9F%E6%96%BD%E5%8C%BB%E7%99%82%E6%A9%9F%E9%96%A2"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。現在、定期接種以外で小学校就学前のお子さんが接種できるワクチンとしては、おたふくかぜ、インフルエンザなどがあります。\nこのうち品川区では、次の任意予防接種に対して、接種費用を助成しています。接種するかどうかについては、かかりつけ医とご相談のうえ、保護者の判断により決めてください。",
+  "support": {
+    "description": "MRワクチン",
+    "materiallySupport": "MRワクチン",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "2歳から19歳未満",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 19,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "2歳から19歳未満で、定期接種を受けられなかった方\n・2歳以降、年長になる前：MR1期が未接種の方\n・小学生以上、19歳未満：MRワクチンを1回しか受けていない方"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": true,
+  "utilization": "詳しくは麻しん・風しんワクチン任意接種費用の全額助成のページをご確認ください。;https://www.city.shinagawa.tokyo.jp/PC/kenkou/yobousessyu/hpg000027872.html",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "area": {
+    "areaCode": "132217;清瀬市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課子育て支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132217",
+    "psid": "psid3.0+3000020132217+1+UM27"
+  },
+  "belongings": "申請に必要な書類等\n1.ひとり親家庭等医療証交付申請書（窓口に用意してあります）\n2.申請者と対象児童の加入している医療保険の被保険者証\n3.認定調書（窓口に用意してあります）\n4.養育費に関する申告書（窓口に用意してあります）\n5.申請者の当該年度の課税・非課税証明書（又は所得証明書）…所得額や諸控除額、扶養人数、年税額等の記載のあるもの\n令和4年1月1日に清瀬市に住民登録がない方\n「令和4年度 課税・非課税証明書（所得証明書）」（令和3年分の所得等を証明するもの）\n（注1）課税・非課税証明書（所得証明書）は、令和4年1月1日時点で住民登録していた自治体で取得できます。\n（注2）源泉徴収票は、課税・非課税証明書（所得証明書）ではありません。\n6.扶養義務者の当該年度の課税・非課税証明書（又は所得証明書）\n令和4年1月1日に清瀬市に住民登録がない方\n「令和4年度 課税・非課税証明書（所得証明書）」（令和3年分の所得等を証明するもの）\n（注1）課税・非課税証明書（所得証明書）は、令和4年1月1日時点で住民登録していた自治体で取得できます。\n（注2）源泉徴収票は、課税・非課税証明書（所得証明書）ではありません。\n7.個人番号カードまたは通知カード\n8.上記「7.」の個人番号カードがない場合は、申請者本人の運転免許証やパスポートなどの顔写真付きの証明書\n9.上記「8.」の運転免許証等がない場合は、健康保険証と年金手帳など、申請者の氏名と住所または生年月日が記載された2つ以上の書類\n10.同住所かつ別世帯の扶養義務者（同居している親族等）がいる場合は、委任状または扶養義務者の健康保険証と、扶養義務者の個人番号カード、通知カードまたは個人番号付き住民票\n（注）　児童扶養手当証書の提示がある場合は、上記の4～6の書類は省略することができます。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都清瀬市中里5-842　しあわせ未来センター1階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て支援課子育て支援係",
+    "contactPhone": "042-497-2088",
+    "contactUrl": null,
+    "zipCode": "2048511"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "この制度は、ひとり親家庭等の方に対して医療費の一部、又は全部を助成することにより、保健の向上と福祉の増進を図ることを目的としています。\n\nひとり親家庭等の医療費助成制度について（新規・転入の方へ）\nひとり親家庭等の医療費助成対象者;https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatehojo/hitorioyakateihojo/1005300/1005301.html\nひとり親家庭等の開始日;https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatehojo/hitorioyakateihojo/1005300/1005303.html\nひとり親家庭等の医療費助成の申請方法;https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatehojo/hitorioyakateihojo/1005300/1005304.html\nひとり親家庭等の医療費助成の所得制限限度額等の一覧;https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatehojo/hitorioyakateihojo/1005300/1005302.html\nひとり親家庭等の医療費助成の範囲;https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatehojo/hitorioyakateihojo/1005300/1005305.html\n都外診療・補装具等の手続き（ひとり親家庭等）;https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatehojo/hitorioyakateihojo/1005300/1005306.html\nひとり親家庭等の医療費助成制度について（出生、転居等の変更）\nひとり親家庭等の医療費助成　届出が必要なとき;https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatehojo/hitorioyakateihojo/1005300/1005307.html\nよくある質問\n子育てに関する補助・助成金;https://www.city.kiyose.lg.jp/faq/kosodate_kyouiku/kosodatehojo/index.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "原則として、「医療証交付の請求日」から医療費助成の対象となります。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "ひとり親家庭医療費助成",
+    "shortName": "ひとり親家庭等の医療費助成"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親家庭等の医療費助成",
+    "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatehojo/hitorioyakateihojo/1005300/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "清瀬市"
+  },
+  "procedureCounter": "子育て支援課子育て支援係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "ひとり親家庭等医療費助成を受けるには、医療証の交付申請が必要です。\n\n交付申請は、対面による聴き取りが必須なため、子育て支援課子育て支援係のみで受け付けています。\n申請書は、子育て支援課子育て支援係に用意してありますので、必要書類を持参の上、ご申請ください。",
+  "procedurePeriod": {
+    "conditions": "原則として、「医療証交付の請求日」から医療費助成の対象となります。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2条～第7条の2",
+    "regulationName": "清瀬市ひとり親家庭等の医療費の助成に関する条例"
+  },
+  "relatedLink": [
+    {
+      "title": "医療費助成（乳幼児・義務教育就学児・高校生等）",
+      "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatehojo/jidouhojo/1005266/index.html"
+    },
+    {
+      "title": "児童扶養手当のご案内",
+      "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatehojo/hitorioyakateihojo/1004258.html"
+    },
+    {
+      "title": "ひとり親家庭への手当・医療費助成のてびき （PDF 568.9KB）",
+      "uri": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/005/304/hitorioyatebiki2020..pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭の母または父、および、そのお子さんの医療費に対して助成を行います。",
+  "support": {
+    "description": "ひとり親家庭等医療費助成制度の対象者の方が医療保険による療養の給付を受けた場合、自己負担分の一部または全部を助成いたします。\nただし、保険外併用療養費（選定療養、評価療養）や予防接種、薬の容器代等は助成対象となりません。",
+    "materiallySupport": null,
+    "monetarySupport": "ひとり親家庭等医療費助成制度の対象者の方が医療保険による療養の給付を受けた場合、自己負担分の一部または全部を助成いたします。\nただし、保険外併用療養費（選定療養、評価療養）や予防接種、薬の容器代等は助成対象となりません。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次のいずれかに該当する児童の父、又は母、若しくは養育者の方で、医療保険により医療費に関する給付が行われる方、又はこれに準ずる方\n\n父母が婚姻を解消した児童\n父、又は母が死亡した児童\n父、又は母が重度の障害の状態にある児童\n父、又は母の生死が明らかでない児童\n父、又は母が継続して1年以上遺棄している児童\n父、又は母が法令により1年以上拘禁されている児童\n母が婚姻によらないで懐胎した児童\n父、又は母が保護命令を受けた児童\n助成の対象とならない方\n次のいずれかに該当する方は対象者になりません。\n\n生活保護を受けている方\n助成対象児童が、児童福祉施設、その他の施設（国民健康保険法による世帯主若しくは社会保険各法による被保険者その他これに準ずるものが負担すべき額を、国または地方公共団体において負担している施設）に措置入所している方\n助成対象児童が、児童福祉法に規定する里親に委託されている方\n（注）なお、マル親医療証の交付には所得の審査があり、申請者または同居している扶養義務者（3親等以内の直系血族および兄弟姉妹）の所得が所得制限限度額以上である場合は対象にはなりません。"
+  },
+  "updateDate": "2023-02-24",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

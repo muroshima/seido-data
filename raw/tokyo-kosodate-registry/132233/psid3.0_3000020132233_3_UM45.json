@@ -1,0 +1,130 @@
+{
+  "area": {
+    "areaCode": "132233;武蔵村山市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部健康推進課健康推進係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132233",
+    "psid": "psid3.0+3000020132233+3+UM45"
+  },
+  "belongings": "保険証を忘れずに持参してください。また、各種医療証（乳・子・青・親・障等）をお持ちのかたは必ず保険証と一緒にお持ちください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康福祉部健康推進課健康推進係",
+    "contactPhone": "042-565-9315",
+    "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/e_07a/1000778",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "休日歯科急患診療所\n休日歯科診療は、歯科の急病のかたを対象として日曜及び年末年始に市内当番歯科医療機関で行っています。　詳しくは、武蔵村山市歯科医師会（電話：042-562-2743）までお問い合わせください。\n（注）受診の際は、保険証を忘れずに持参してください。また、各種医療証（乳・子・親・障等）をお持ちのかたは必ず保険証と一緒にお持ちください。\n\n|診療種別|開設日|受付時間|診療時間|会場・お問い合わせ|\n|:----|:----|:----|:----|:----|\n|休日歯科診療<br>（歯科急患）|日曜日・年末年始<br>（12月29日から1月3日）|（1）午前9時から午前11時30分まで<br>（2）午後1時から午後4時まで|（1）午前9時30分から正午まで<br>（2）午後1時から午後4時30分まで|市内当番歯科医療機関<br>（詳細は以下のリンクをご覧ください。）|\n\n休日歯科診療;https://www.city.musashimurayama.lg.jp/kurashi/kenkou/kyukyu/1017406/1000782.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "夜間・休日急病診療所",
+    "shortName": "休日歯科急患診療所"
+  },
+  "localGovernmentLink": {
+    "title": "急患診療のご案内",
+    "uri": "https://www.city.musashimurayama.lg.jp/kurashi/kenkou/kyukyu/1017406/1000778.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "武蔵村山市"
+  },
+  "procedureCounter": "武蔵村山市歯科医師会",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": "（1）午前9時から午前11時30分まで\n（2）午後1時から午後4時まで",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "休日歯科診療",
+      "uri": "https://www.city.musashimurayama.lg.jp/kurashi/kenkou/kyukyu/1017406/1000782.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "市では、休日等における歯科の急病のかたを対象として、当市歯科医師会の協力を得て、市内当番歯科医療機関で休日急患診療所を開設しています。　詳しくは、武蔵村山市歯科医師会（電話：042-562-2743）までお問い合わせください。",
+  "support": {
+    "description": "休日歯科診療",
+    "materiallySupport": "休日歯科診療",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "歯科の急病のかた"
+  },
+  "updateDate": "2022-12-06",
+  "useConsiderationFlag": false,
+  "utilization": "受診の際は、保険証を忘れずに持参してください。また、各種医療証（乳・子・親・障等）をお持ちのかたは必ず保険証と一緒にお持ちください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "（1）午前9時30分から正午まで\n（2）午後1時から午後4時30分まで",
+    "fromHM": null,
+    "toHM": null
+  }
+}

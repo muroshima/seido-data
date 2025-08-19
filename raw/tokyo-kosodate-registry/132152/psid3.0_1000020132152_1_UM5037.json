@@ -1,0 +1,130 @@
+{
+  "area": {
+    "areaCode": "132152;国立市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部 しょうがいしゃ支援課 相談支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132152",
+    "psid": "psid3.0+1000020132152+1+UM5037"
+  },
+  "belongings": "市民税課税(非課税)証明書・・・市役所税務課で発行します\n国民健康保険の方は保険に加入している方全員分(高校生以下は不要)\n国民健康保険以外の方は被保険者の方(保険料を支払っている方)の分\n市民税非課税世帯の方は、健康保険の種類にかかわらず、保護者全員の市民税非課税証明書が必要です。\n健康保険証のコピー\n国民健康保険の方は保険に加入している方全員分\n国民健康保険以外の方は被保険者の方と患者本人の分\nその他\n生活保護を受けている方は、生活保護受給証明書\n人工透析を受けている方は、特定疾病療養受療証のコピー\n免疫機能障害の方は、免疫機能障害意見書",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "国立市富士見台2-47-1 国立市役所 1階(5番窓口)",
+    "contactComment": "ファクス：042-573-1102",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康福祉部 しょうがいしゃ支援課 相談支援係",
+    "contactPhone": "042-576-2121",
+    "contactUrl": "https://www.city.kunitachi.tokyo.jp/cgi-bin/inquiry.php/32?page_no=1491",
+    "zipCode": "1868501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "自立支援医療 育成医療\n\n各種手帳を取得するには、下記リンクを参照してください。\n\n手帳制度について\n\n自立支援医療 育成医療\n対象\n保護者が東京都の市町村に在住し、児童が18歳未満であること。\n身体に機能障害があること(下記「対象障害・疾病」を参照)。\n手術等により確実な治療効果が期待できること。\n市町村民税(所得割)が23万5千円未満であること。世帯の市町村民税所得割が23万5千円以上の方は助成対象外ですが、「重度かつ継続」に該当する場合(小腸・腎臓・免疫機能障害)は助成対象となります。\n指定医療機関で治療すること。\n対象障害・疾病\n肢体不自由\n視覚障害\n聴覚・平衡機能障害\n音声・言語・そしゃく機能障害\n心臓障害 (手術の場合)\n腎臓障害\nその他の内臓障害\nヒト免疫不全ウイルスによる免疫機能の障害\n給付内容\n医療費(健康保険適用分)のうち 1 割と入院時の食事代を負担。ただし、医療費については住民税額により上限額を設定します。\n生活保護受給者は無料\n\n申請手続\n下記のものをお持ちになって、しょうがいしゃ支援課手当・給付係へ。\n\n1.自立支援医療費 (育成医療) 支給申請書\n2.自立支援医療費 (育成医療) 意見書\n3.自立支援医療費 (育成医療) 世帯調書\n4.市民税課税(非課税)証明書・・・市役所税務課で発行します\n・国民健康保険の方は保険に加入している方全員分(高校生以下は不要)\n・国民健康保険以外の方は被保険者の方(保険料を支払っている方)の分\n・市民税非課税世帯の方は、健康保険の種類にかかわらず、保護者全員の市民税非課税証明書が必要です。\n5.健康保険証のコピー\n・国民健康保険の方は保険に加入している方全員分\n・国民健康保険以外の方は被保険者の方と患者本人の分\n6.その他\n・生活保護を受けている方は、生活保護受給証明書\n・人工透析を受けている方は、特定疾病療養受療証のコピー\n・免疫機能障害の方は、免疫機能障害意見書\n1、2、3は手当・給付係の窓口にあります。ただし、意見書については医師及び病院に記入してもらってからお持ちください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度",
+    "shortName": "自立支援医療 育成医療"
+  },
+  "localGovernmentLink": {
+    "title": "自立支援医療 育成医療",
+    "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept03/Div02/Sec01/gyomu/0100/iryo/1464587039716.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "国立市"
+  },
+  "procedureCounter": "健康福祉部 しょうがいしゃ支援課 相談支援係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請手続\n下記のものをお持ちになって、しょうがいしゃ支援課手当・給付係へ。\n\n1.自立支援医療費 (育成医療) 支給申請書\n2.自立支援医療費 (育成医療) 意見書\n3.自立支援医療費 (育成医療) 世帯調書\n4.市民税課税(非課税)証明書・・・市役所税務課で発行します\n・国民健康保険の方は保険に加入している方全員分(高校生以下は不要)\n・国民健康保険以外の方は被保険者の方(保険料を支払っている方)の分\n・市民税非課税世帯の方は、健康保険の種類にかかわらず、保護者全員の市民税非課税証明書が必要です。\n5.健康保険証のコピー\n・国民健康保険の方は保険に加入している方全員分\n・国民健康保険以外の方は被保険者の方と患者本人の分\n6.その他\n・生活保護を受けている方は、生活保護受給証明書\n・人工透析を受けている方は、特定疾病療養受療証のコピー\n・免疫機能障害の方は、免疫機能障害意見書\n1、2、3は手当・給付係の窓口にあります。ただし、意見書については医師及び病院に記入してもらってからお持ちください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [
+    {
+      "title": "手帳制度について",
+      "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept03/Div02/Sec01/gyomu/0100/1464587038898.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+  "support": {
+    "description": "給付内容\n医療費(健康保険適用分)のうち 1 割と入院時の食事代を負担。ただし、医療費については住民税額により上限額を設定します。\n生活保護受給者は無料",
+    "materiallySupport": null,
+    "monetarySupport": "医療費(健康保険適用分)のうち 1 割と入院時の食事代を負担。ただし、医療費については住民税額により上限額を設定します。\n生活保護受給者は無料"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象\n保護者が東京都の市町村に在住し、児童が18歳未満であること。\n身体に機能障害があること(下記「対象障害・疾病」を参照)。\n手術等により確実な治療効果が期待できること。\n市町村民税(所得割)が23万5千円未満であること。世帯の市町村民税所得割が23万5千円以上の方は助成対象外ですが、「重度かつ継続」に該当する場合(小腸・腎臓・免疫機能障害)は助成対象となります。\n指定医療機関で治療すること。\n対象障害・疾病\n肢体不自由\n視覚障害\n聴覚・平衡機能障害\n音声・言語・そしゃく機能障害\n心臓障害 (手術の場合)\n腎臓障害\nその他の内臓障害\nヒト免疫不全ウイルスによる免疫機能の障害"
+  },
+  "updateDate": "2023-06-30",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

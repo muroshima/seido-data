@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保育課入園・認定担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+1+UM803"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市小川町2-1333　市役所2階",
+    "contactComment": "FAX：042-346-9200",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保育課入園・認定担当",
+    "contactPhone": "042-346-9601",
+    "contactUrl": null,
+    "zipCode": "1878701"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "利用者負担額（保育料）金額表\n利用者負担額（保育料）は、それぞれのご家庭の所得に応じて決定されます。\n\nなお、3歳児クラス以降につきましては幼児教育・保育の無償化に伴い保育料は0円となっています。\n\n具体的な金額については、下記の添付ファイルをご覧ください。\n\n添付ファイル\n利用者負担額（保育料）表　2号・3号（PDF 104.3KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/41609/041609/att_0000002.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "幼児教育・保育施設の保育料について",
+    "shortName": "利用者負担額（保育料）"
+  },
+  "localGovernmentLink": {
+    "title": "利用者負担額（保育料）",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/041/041609.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "小平市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第27条～第30条の2、第56条",
+    "regulationName": "子ども・子育て支援法、児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "利用者負担額（保育料）表　2号・3号（PDF 104.3KB）",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/41609/041609/att_0000002.pdf"
+    },
+    {
+      "title": "保育料の減免",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/003/003205.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子ども・子育て支援新制度による給付を受ける幼稚園や認可保育園、認定こども園、地域型保育事業（小規模保育・家庭的保育・居宅訪問型保育・事業所内保育）の保育料（利用者負担額）は、国が定めた額を上限として、小平市が認定区分ごとに、世帯の所得状況、利用時間（標準時間・短時間）などに応じて定めた額となります。\nそれ以外の私学助成の幼稚園や認可外保育施設などの利用料は、施設ごとに定めた額になります。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2023-10-02",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "133817;三宅村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉健康課 健康係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "4000020133817",
+    "psid": "psid3.0+4000020133817+1+UM1"
+  },
+  "belongings": "妊婦ご本人が申請する場合\n妊婦本人の個人番号カード、または個人番号通知カード\n妊婦本人の確認ができるもの（運転免許証、パスポートなどの写真付きのもの）\n家族等の代理人が申請する場合\n委任状\n代理人本人の確認ができるもの（運転免許証、パスポートなどの写真付きのもの）\n妊婦本人の個人番号カード、または個人番号通知カード",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三宅島三宅村阿古497",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "三宅村役場臨時庁舎　福祉健康課 健康係",
+    "contactPhone": "04994-5-0911",
+    "contactUrl": null,
+    "zipCode": "1001212"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊娠の届出\n三宅村にお住まいで、医療機関で妊娠の診断を受けられた方は、「妊娠届出書」をご提出ください。母子手帳を交付します。\n\n申請できる方・持ち物\n妊婦ご本人及び家族等の代理人の方により申請が可能です。\n\n妊娠届出時にアンケートと保健師による面接を行っています。届出時に面接ができなかった方には、後日、保健師が電話等により、体調を確認させていただきます。妊娠中から子育て期にわたる継続的な支援をさせていただくためにも、できる限り妊婦ご本人が届出をおこなうようにお願いいたします。\n\n他市町村から転入された場合も、下記窓口にて「妊婦転入届出書」をご提出ください。\n\n妊婦ご本人が申請する場合\n妊婦本人の個人番号カード、または個人番号通知カード\n妊婦本人の確認ができるもの（運転免許証、パスポートなどの写真付きのもの）\n家族等の代理人が申請する場合\n委任状\n代理人本人の確認ができるもの（運転免許証、パスポートなどの写真付きのもの）\n妊婦本人の個人番号カード、または個人番号通知カード\nダウンロード\n委任状PDFファイル(400KB);https://www.vill.miyake.tokyo.jp/kurashi/seikatsu_kankyou/ikuji_kyouiku/ninpu_nyuuyouji/files/No3.03.12.23.pdf\n届出窓口・受付時間\n福祉健康課　健康係\n\n8：30～17：00\n\n母子健康手帳\n母子健康手帳はお母さんと赤ちゃんの健康の記録のための、便利で大切な手帳です。診察を受けた時に記入してもらう項目以外にも、自分で記入するところも多くあります。妊娠中の経過などが記入されていると、里帰り出産などの際にこれまでの経過が分かり、診察の参考になります。また、赤ちゃんが大きくなってからも発育・発達の経過や予防接種の記録が役立ちますので、母と子の健康管理のためにぜひ活用しましょう。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊娠の届出・母子健康手帳の交付",
+    "shortName": "妊娠の届出・母子健康手帳の交付"
+  },
+  "localGovernmentLink": {
+    "title": "出産を迎える方",
+    "uri": "https://www.vill.miyake.tokyo.jp/kurashi/seikatsu_kankyou/ikuji_kyouiku/ninpu_nyuuyouji/syussan.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-19",
+    "updater": "三宅村"
+  },
+  "procedureCounter": "福祉健康課　健康係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "下記窓口にて「妊婦転入届出書」をご提出ください。\n届出窓口・受付時間\n福祉健康課　健康係\n\n8：30～17：00",
+  "procedurePeriod": {
+    "conditions": "届出窓口・受付時間\n福祉健康課　健康係\n\n8：30～17：00",
+    "fromHM": "08:30",
+    "fromYMD": null,
+    "toHM": "17:00",
+    "toYMD": null
+  },
+  "procedurePersons": "妊婦ご本人及び家族等の代理人の方",
+  "regulation": {
+    "regulationArticle": "第15条（妊娠の届出）、第16条（母子健康手帳）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠がわかったら妊娠の届出をしてください。妊娠の届出をした妊婦さんに母子健康手帳を交付します。母子健康手帳は、妊娠からお子さんが小学校に入学するまでの、母と子の健康の記録です。育児、予防接種、健康診査などの際に必要となります。",
+  "support": {
+    "description": "三宅村にお住まいで、医療機関で妊娠の診断を受けられた方は、「妊娠届出書」をご提出ください。母子手帳を交付します。\n妊娠届出時にアンケートと保健師による面接を行っています。届出時に面接ができなかった方には、後日、保健師が電話等により、体調を確認させていただきます。妊娠中から子育て期にわたる継続的な支援をさせていただくためにも、できる限り妊婦ご本人が届出をおこなうようにお願いいたします。",
+    "materiallySupport": "三宅村にお住まいで、医療機関で妊娠の診断を受けられた方は、「妊娠届出書」をご提出ください。母子手帳を交付します。\n妊娠届出時にアンケートと保健師による面接を行っています。届出時に面接ができなかった方には、後日、保健師が電話等により、体調を確認させていただきます。妊娠中から子育て期にわたる継続的な支援をさせていただくためにも、できる限り妊婦ご本人が届出をおこなうようにお願いいたします。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077",
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "三宅村にお住まいで、医療機関で妊娠の診断を受けられた方"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

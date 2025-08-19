@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康推進課管理・事業グループ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+1+UM29"
+  },
+  "belongings": "1.養育医療給付申請書\n区指定様式を申請窓口でお渡ししています。\n2.養育医療意見書\t\n区指定様式を申請窓口でお渡ししています。受け取った様式にて医療機関へ作成を依頼してください。\n3.世帯調書\t区指定様式を申請窓口でお渡ししています。\n4.所得証明関係書類(※)\t次のいずれかを提出してください\n・住民税額決定通知書のコピー（市町村民税所得割額がわかるもの）\n・住民税課税・非課税証明書\n〇住民税額確認年度\n\n4月～6月までに申請する場合…前年度の住民税額\n\n7月～翌年3月までに申請する場合…申請年度の住民税額\n\n〇住民税額確認対象者\n\n対象新生児と生計を一にするもの\n\n〇生活保護を受けている世帯の方\n\n生活保護受給世帯の証明書\n\n5.対象児の健康保険証の写し\t\n健康保険証が発行されていない場合は健康推進課管理・事業グループまでお問い合わせください。\n\n(※)4.所得証明関係書類については、3.世帯調書に個人番号(マイナンバー)を記入し、地方税関係情報の取得に同意したかたは省略することができます。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康推進課管理・事業グループ",
+    "contactPhone": "03-3987-4173",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "変更手続き\n認定を受けたかたの、住所、氏名、世帯、健康保険、医療機関などに変更があった場合には、変更の手続きが必要です。\n詳細については健康推進課管理・事業グループまでお問い合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "未熟児養育医療の給付",
+    "shortName": "未熟児のために養育医療"
+  },
+  "localGovernmentLink": {
+    "title": "未熟児のために養育医療",
+    "uri": "https://www.city.toshima.lg.jp/219/kenko/kenko/iryojose/001373.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": "池袋保健所,長崎健康相談所,豊島区役所4階池袋保健所出張窓口",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": "08:30",
+    "fromYMD": null,
+    "toHM": "17:00",
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第20条（養育医療）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "未熟児養育医療の給付とは、身体の発育が未熟なまま生まれ入院を必要とする乳児が、指定養育医療機関において入院治療を受ける場合に、その治療に要する医療費を公費により負担する制度です。ただし、世帯の所得税額に応じて、入院治療費の一部は自己負担となります。豊島区では養育医療に関して自己負担はありません。",
+  "support": {
+    "description": "養育医療券を医療機関の窓口に提示することで、指定養育医療機関における保険診療の医療費及び食事療養費が助成されます。",
+    "materiallySupport": null,
+    "monetarySupport": "指定養育医療機関における保険診療の医療費及び食事療養費が助成"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "089"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "出生時の体重が2,000グラム以下、または生活力が弱く、運動不安、けいれん等の症状で指定医療機関の医師が入院養育を必要と認めた未熟児"
+  },
+  "updateDate": "2024-03-26",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

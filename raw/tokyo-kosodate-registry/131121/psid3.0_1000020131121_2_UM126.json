@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131121;世田谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "学務課学事係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131121",
+    "psid": "psid3.0+1000020131121+2+UM126"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "世田谷区世田谷4丁目21番27号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "学務課学事係",
+    "contactPhone": "03-5432-2686",
+    "contactUrl": null,
+    "zipCode": "1548504"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "固定級（学びの多様化学校（不登校特例校）含む）と通級指導学級（特別支援教室含む）でお知らせの内容が異なります。\n令和6年度 就学奨励費のお知らせ（固定級）;https://www.city.setagaya.lg.jp/mokuji/kodomo/008/001/d00005869_d/fil/oshirase_s1.pdf\n令和6年度 就学奨励費のお知らせ（通級指導学級）;https://www.city.setagaya.lg.jp/mokuji/kodomo/008/001/d00005869_d/fil/oshirase_s2.pdf¥n※世田谷区立学校の場合、申請書は在籍している学級を通じて配布いたします。世田谷区立学校以外の特別支援学級等に在籍している方は、学務課学事係までお問い合わせください。¥n添付ファイル\n令和6年度 就学奨励費のお知らせ（固定級等）(ＰＤＦ形式 526キロバイト);https://www.city.setagaya.lg.jp/mokuji/kodomo/008/001/d00005869_d/fil/oshirase_s1.pdf\n令和6年度 就学奨励費のお知らせ（通級指導学級等）(ＰＤＦ形式 389キロバイト);https://www.city.setagaya.lg.jp/mokuji/kodomo/008/001/d00005869_d/fil/oshirase_s2.pdf¥n関連リンク\n就学援助費;https://www.city.setagaya.lg.jp/mokuji/fukushi/003/005/006/024/d00187228.html\n特別支援学級・特別支援教室;https://www.city.setagaya.lg.jp/mokuji/kusei/012/007/d00005867.html\n学びの多様化学校（不登校特例校）分教室「ねいろ」;https://www.city.setagaya.lg.jp/mokuji/kodomo/009/003/002/d00192417.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "小学校・中学校の就学援助費",
+    "shortName": "就学奨励費（特別支援学級）"
+  },
+  "localGovernmentLink": {
+    "title": "就学奨励費（特別支援学級）,",
+    "uri": "https://www.city.setagaya.lg.jp/02046/1303.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "世田谷区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "固定級（学びの多様化学校（不登校特例校）含む）と通級指導学級（特別支援教室含む）でお知らせの内容が異なります。¥n令和6年度 就学奨励費のお知らせ（固定級）;https://www.city.setagaya.lg.jp/documents/1303/oshirase_s1.pdf\n令和6年度 就学奨励費のお知らせ（通級指導学級）;https://www.city.setagaya.lg.jp/documents/1303/oshirase_s2.pdf¥n※世田谷区立学校の場合、申請書は在籍している学級を通じて配布いたします。世田谷区立学校以外の特別支援学級等に在籍している方は、学務課学事係までお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "就学援助費",
+      "uri": "https://www.city.setagaya.lg.jp/mokuji/fukushi/003/005/006/024/d00187228.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "特別支援学級等への就学に必要な費用の一部を支援しています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "005"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "092"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 6,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 15,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "世田谷区内に在住し、区市町村立小・中学校の特別支援学級等に在籍している児童・生徒の保護者"
+  },
+  "updateDate": "2024-04-11",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

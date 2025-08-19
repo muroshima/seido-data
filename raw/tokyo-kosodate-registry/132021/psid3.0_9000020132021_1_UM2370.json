@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132021;立川市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 保育課 入園認定係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020132021",
+    "psid": "psid3.0+9000020132021+1+UM2370"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "立川市泉町1156-9",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "（代表・内線）：042-523-2111（内線1325～1328）",
+    "contactName": "子ども家庭部 保育課 入園認定係",
+    "contactPhone": "042-528-4328",
+    "contactUrl": null,
+    "zipCode": "1908666"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "広域入所について\n\n立川市民で市外の保育施設の利用を希望する方\n原則、下表の通りです。申込みの結果については、立川市からお知らせします。\n場合によって例外があります。事前に入所希望の保育施設がある市区町村へご確認ください。\n受付窓口　立川市役所保育課\n受付期限　利用申込先の市区町村が定める締切日の1週間前\n必要書類　入所希望の保育施設がある市区町村へご確認ください。\n※市区町村によっては、市外の児童の利用申込を制限している場合があります。\n\n立川市外在住で立川市内の保育施設の利用を希望する方\n原則、下表の通りです。申込みの結果については、結果が決定した時点でお住まいの市区町村からお知らせします。\n場合によって例外があります。事前にお住いの市区町村にご確認ください。\n立川市に転入予定がない場合の制限　以下の申込みは受付できません\n・認可保育園の0～1歳クラス\n・地域型保育施設の全クラス\n・認定こども園の0～1歳クラス\n利用調整は全年齢について、立川市民が優先となります。\n受付窓口　お住まいの市区町村※立川市役所では受付できません。\n受付期限　立川市が定める期日の1週間前頃\n必要書類　1.利用申込書\n2.保育の必要性が確認できる書類\n3.令和6年度申し込みにかかる確認票（立川書式）\n4.マイナンバーが確認できる公的証明書および身分証明書の写し\n5.課税・非課税証明書（父母それぞれ1部必要）\n\n【立川市に転入予定がある場合】\n6.賃貸借契約書、建物の売買契約書、同居申立書など（転入先の住所・転入予定日がわかる書類の写し）\n入所月前月末日までに住民票を立川市に移し、立川市保育課で手続きをすることが条件です。\n利用調整は、立川市民と同様に行います。\n4月一次募集のみ6の書類は提出期限が12月15日です（立川市必着）。\n期限内に提出がない場合、立川市に転入予定がないものとして利用調整を行います（0～1歳クラス及び地域型保育施設は申請不可、2～5歳クラスは4月入所に限り二次からの利用調整）。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "広域入所（市外の認可保育所等への入所）",
+    "shortName": "広域入所"
+  },
+  "localGovernmentLink": {
+    "title": "保育施設の申し込み（令和6年度の入所分）",
+    "uri": "https://www.city.tachikawa.lg.jp/kosodate/m-kosodate/1004946/1005097/1005185.html#group2"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "立川市"
+  },
+  "procedureCounter": "立川市民で市外の保育施設の利用を希望する方　立川市役所保育課\n立川市外在住で立川市内の保育施設の利用を希望する方　お住まいの市区町村※立川市役所では受付できません。",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "事前に入所希望の保育施設がある市区町村へご確認ください。",
+  "procedurePeriod": {
+    "conditions": "利用申込先の市区町村が定める締切日の1週間前",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第3条第1項、56条の6第1項",
+    "regulationName": "子ども・子育て支援法、児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "「広域入所」とは、里帰り出産や保護者の勤務地の都合などにより、他の市区町村の保育所へ入所できる制度です。\n下記のいずれの場合も、お住まいの市区町村から保育の必要性について認定を受ける必要があります。\nA：立川市内にお住まいの方が、市外の認可保育所への入所を希望する場合\nB：市外にお住まいの方が、立川市内の認可保育所への入所を希望する場合",
+  "support": {
+    "description": "立川市民で市外の保育施設の利用\n立川市外在住で立川市内の保育施設の利用",
+    "materiallySupport": "立川市民で市外の保育施設の利用\n立川市外在住で立川市内の保育施設の利用",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "立川市民で市外の保育施設の利用を希望する方\n立川市外在住で立川市内の保育施設の利用を希望する方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "立川市民で市外の保育施設の利用を希望する方\n立川市外在住で立川市内の保育施設の利用を希望する方"
+  },
+  "updateDate": "2024-05-28",
+  "useConsiderationFlag": false,
+  "utilization": "事前に入所希望の保育施設がある市区町村へご確認ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

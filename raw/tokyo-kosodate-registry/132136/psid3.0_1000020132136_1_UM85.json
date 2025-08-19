@@ -1,0 +1,140 @@
+{
+  "area": {
+    "areaCode": "132136;東村山市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部保育幼稚園課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132136",
+    "psid": "psid3.0+1000020132136+1+UM85"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都東村山市本町1丁目2番地3",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": "042-393-5111",
+    "contactUrl": null,
+    "zipCode": "1898501"
+  },
+  "cost": null,
+  "costConditions": "利用料　：1日 2,500円　、4時間まで 1,500円",
+  "description": "病児・病後児保育\n\n病児・病後児保育とは\n病児・病後児保育とは、児童が病中又は病気の回復期にあって集団保育が困難な期間、保育所・医療機関等に付設された専用スペース等において保育及び看護ケアを行うという保育サービスです。\n病児・病後児保育を利用するためには、事前に利用登録が必要です。\n\n病児・病後児保育を利用できる方\n東村山市に居住する生後6か月から小学校3年生までのお子さん\n病気にかかっているまたはその回復期にあり、入院加療の必要はないものの安静の必要がある場合\n（注記）病児・病後児保育室を利用できない疾患があります。\n\n病児・病後児保育室の利用時間、利用料\n保育時間：月曜から金曜　午前8時から午後6時まで\n休日　　：土曜、日曜、祝日、年末年始（12月29日から翌1月3日）\n利用料　：1日 2,500円　、4時間まで 1,500円\n病児・病後児保育は予約制です。\n予約がない場合、保育室の利用はできませんので必ず事前予約をお願いします。\n（当日の急な利用の際にも、事前に電話で予約をお取りください。）\n\n病児・病後児保育の実施施設、利用方法、注意事項等\n病児・病後児保育の利用方法について;https://www.city.higashimurayama.tokyo.jp/kosodate/kyouikuhoikushisetsu/byouji/riyouhouhou/index.html\n病児・病後児保育の利用に際しての注意事項;https://www.city.higashimurayama.tokyo.jp/kosodate/kyouikuhoikushisetsu/byouji/cyuijikou/index.html\n病児・病後児保育　実施施設のご案内;https://www.city.higashimurayama.tokyo.jp/kosodate/kyouikuhoikushisetsu/byouji/tamahoku2.html",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "東村山市病児・病後児保育予約システム（外部サイト）",
+      "uri": "https://higashimurayama.byojiyoyaku.com/login"
+    }
+  ],
+  "holiday": "土曜、日曜、祝日、年末年始（12月29日から翌1月3日）",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "病児・病後児保育　実施施設のご案内;https://www.city.higashimurayama.tokyo.jp/kosodate/kyouikuhoikushisetsu/byouji/tamahoku2.html",
+    "implementationName": "病児・病後児保育　実施施設のご案内;https://www.city.higashimurayama.tokyo.jp/kosodate/kyouikuhoikushisetsu/byouji/tamahoku2.html"
+  },
+  "institutionName": {
+    "canonicalName": "病児・病後児保育",
+    "shortName": "病児・病後児保育"
+  },
+  "localGovernmentLink": {
+    "title": "病児・病後児保育",
+    "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/kyouikuhoikushisetsu/byouji/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "東村山市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "病児・病後児保育を利用するためには、事前に利用登録が必要です。\n\n病児・病後児保育の利用方法について;https://www.city.higashimurayama.tokyo.jp/kosodate/kyouikuhoikushisetsu/byouji/riyouhouhou/index.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第13項、第21条の9、第59条第11号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "病児・病後児保育　実施施設のご案内",
+      "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/kyouikuhoikushisetsu/byouji/tamahoku2.html"
+    },
+    {
+      "title": "病児・病後児保育の利用に際しての注意事項",
+      "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/kyouikuhoikushisetsu/byouji/cyuijikou/index.html"
+    },
+    {
+      "title": "病児・病後児保育の利用方法について",
+      "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/kyouikuhoikushisetsu/byouji/riyouhouhou/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童が病中又は病気の回復期にあって自宅での保育が困難な期間、医療機関等に付設された専用スペース等において保育及び看護ケアを行うという保育サービスです。",
+  "support": {
+    "description": "病児・病後児保育とは、児童が病中又は病気の回復期にあって集団保育が困難な期間、保育所・医療機関等に付設された専用スペース等において保育及び看護ケアを行うという保育サービスです。\n\n病児・病後児保育室の利用時間、利用料\n保育時間：月曜から金曜　午前8時から午後6時まで\n休日　　：土曜、日曜、祝日、年末年始（12月29日から翌1月3日）",
+    "materiallySupport": "病児・病後児保育とは、児童が病中又は病気の回復期にあって集団保育が困難な期間、保育所・医療機関等に付設された専用スペース等において保育及び看護ケアを行うという保育サービスです。\n\n病児・病後児保育室の利用時間、利用料\n保育時間：月曜から金曜　午前8時から午後6時まで\n休日　　：土曜、日曜、祝日、年末年始（12月29日から翌1月3日）",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後6か月から小学校3年生までのお子さん",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": 6
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "東村山市に居住する生後6か月から小学校3年生までのお子さん\n病気にかかっているまたはその回復期にあり、入院加療の必要はないものの安静の必要がある場合\n（注記）病児・病後児保育室を利用できない疾患があります。"
+  },
+  "updateDate": "2023-11-01",
+  "useConsiderationFlag": false,
+  "utilization": "病児・病後児保育は予約制です。\n予約がない場合、保育室の利用はできませんので必ず事前予約をお願いします。\n（当日の急な利用の際にも、事前に電話で予約をお取りください。）\n\n病児・病後児保育の利用に際しての注意事項;https://www.city.higashimurayama.tokyo.jp/kosodate/kyouikuhoikushisetsu/byouji/cyuijikou/index.html",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜から金曜　午前8時から午後6時まで",
+    "fromHM": "08:00",
+    "toHM": "18:00"
+  }
+}

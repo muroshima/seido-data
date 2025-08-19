@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 児童相談所相談課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM87"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 児童相談所相談課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e077/kuseijoho/gaiyo/soshiki/kodomo/childguidanceoffice.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子どもたちにとって家庭は最も大切な生活の場であり、親の愛情の中で健やかに成長するのが理想です。しかし、現実には仕事や通院などさまざまな事情により、家庭だけで子育てをするのは大変難しいことです。\nファミリー・サポートは、子育てのお手伝いをしたい方（協力会員）と、お手伝いを頼みたい方（依頼会員）がそれぞれファミリー・サポートの会の会員となり、地域で子育ての助け合いを行うものです。\n\nこの制度は、お互いの信頼関係によって成り立っています。会員は、プライバシーなどの個人情報保護に細心の注意をはらって活動しています。\n\nファミリー・サポートの援助活動の基本は、地域の皆さんによるボランティア活動ですが、依頼会員、協力会員がお互いに気兼ねをしないように、援助活動に対して、一定の報酬を定めています。\n報酬の支払い、受領は、会員同士で行っていただきます。\n報酬額\n|活動時間|援助報酬（お子さん一人1時間につき）|\n|:----|:----|\n|【基本時間】_・月曜日から土曜日の午前8時～午後7時_（祝日および年末年始をのぞく）|800円|\n|【時間外】_・午前8時よりも前の時間、午後7時を過ぎた時間_ ・日曜日・祝日・年末年始(12月29日から1月3日まで)|900円|\n\n注釈：兄弟姉妹一緒の活動の場合、活動時間が重なった時間のみ2人目は半額になります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "江戸川区中央3丁目4番18号（江戸川区児童相談所「はあとポート」3階）\n電話：03-5662-0364\nFAX：03-6231-4378",
+    "implementationName": "ファミリー・サポート・センター"
+  },
+  "institutionName": {
+    "canonicalName": "ファミリー・サポート・センター",
+    "shortName": "ファミリー・サポート・センター"
+  },
+  "localGovernmentLink": {
+    "title": "ファミリー・サポート・センターとは",
+    "uri": "https://www.city.edogawa.tokyo.jp/e077/kosodate/kosodate/hoiku/ichiji/familysupport/center/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第13項、第21条の9",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "江戸川区のファミリー・サポート・センターは、子育ての援助を受けたい人と援助を行いたい人が会員登録をし、【援助会員】が【依頼会員】に対してさまざまな育児の手助けをする事業です。",
+  "support": {
+    "description": "援助できること\n\n・保育園、幼稚園、すくすくスクールなどへの送迎と預かり\n・保育施設、降園後の預かり\n・兄弟姉妹の学校行事の際の預かり\n・保護者の病気や通院時の子どもの預かり\n・保護者の買い物やリフレッシュなどの際の子どもの預かり\n・お子さんをお預かりする場所は、原則として協力会員の自宅になります。\n\n援助できない場合\n\n・宿泊を伴う活動\n・留守宅への送迎（子どもの引き渡しは、大人のいる場所とします。）\n・料理や掃除などを含む家事援助\n・お子さんが病気の場合。\n・援助対象のお子さんやその兄弟姉妹が通う保育園・幼稚園・学校が、感染症が原因で休園・休校になった場合。\n・保護者の代わりに行事に参加すること（保護者会の参加や旗持ち当番など）\n\n協力会員が病気や急用などで活動できない場合があります。\n\n協力会員の活動時、自動車の利用はできません。\n\n活動場所や時間帯など、内容により協力会員のご紹介が難しい場合があります。",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "依頼会員\n・区内にお住まいかお勤めの方\n・援助活動が必要なお子さんがいる方\n\n依頼会員になるには(登録方法を確認)\nhttps://www.city.edogawa.tokyo.jp/e077/kosodate/kosodate/familysupport/center/iraikaiin.html\n\n協力会員\n・区内にお住まいの方\n・心身ともに健康で、適切な援助活動のできる方\n・センターの実施する基礎研修、説明会を受講した方\n\n協力会員になるには(登録方法を確認)\nhttps://www.city.edogawa.tokyo.jp/e077/kosodate/kosodate/familysupport/center/kyoryokukaiin.html"
+  },
+  "updateDate": "2021-10-13",
+  "useConsiderationFlag": false,
+  "utilization": "1.会員登録\n お手伝いを頼みたい方（依頼会員）は入会説明会に、お手伝いをしたい方（協力会員）は研修に参加し、会員登録をしていただきます。\n2.援助活動の依頼\n センターが依頼会員と協力会員のマッチングを行います。マッチング後、依頼会員と協力会員は事前に打ち合わせを行います。\n3.援助活動の実施\n 打ち合わせをして依頼会員と協力会員がお互い合意できた場合、援助活動が実施できます。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "受付時間：月曜日から金曜日（祝日・休日、年末年始を除く）の午前9時から午後5時まで",
+    "fromHM": "09:00",
+    "toHM": "17:00"
+  }
+}

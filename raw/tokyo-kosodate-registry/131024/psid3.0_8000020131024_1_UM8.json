@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131024;中央区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "中央区保健所健康推進課健康係\n\n〒104-0044　明石町12番1号　中央区保健所4階\n\n電話：03-3541-5930\n福祉保健部日本橋保健センター健康係\n\n〒103-0012　日本橋堀留町一丁目1番1号\n\n電話：03-3661-5071\n福祉保健部月島保健センター健康係\n\n〒104-0052　月島二丁目10番3号\n\n電話：03-5560-0765\n福祉保健部晴海保健センター健康係\n\n〒104-0053　晴海四丁目8番1号\n\n電話：03-6381-2972",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131024",
+    "psid": "psid3.0+8000020131024+1+UM8"
+  },
+  "belongings": "産前または産後健康診査受診票\n母子健康手帳\n使用している歯ブラシ",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "明石町12番1号　中央区保健所4階,日本橋堀留町一丁目1番1号,月島二丁目10番3号,晴海四丁目8番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "中央区保健所健康推進課健康係,福祉保健部日本橋保健センター健康係,福祉保健部月島保健センター健康係,福祉保健部晴海保健センター健康係",
+    "contactPhone": "03-3541-5930,03-3661-5071,03-5560-0765,03-6381-2972",
+    "contactUrl": null,
+    "zipCode": "1040044,1030012,1040052,1040053"
+  },
+  "cost": null,
+  "costConditions": "無料\n\n注記：むし歯の治療や歯石除去などを受けた場合の費用は自己負担です。",
+  "description": "産前・産後歯科健康診査\n妊娠中は、体の変調などから歯周病やむし歯にかかりやすく、進行もしやすい時期です。また、おなかの中で発育している赤ちゃんのためにも、お母さまのお口の健康を守ることがとても大切です。中央区では産前と産後に1回ずつ歯科健康診査を受診することができます。\n\n対象者\n産前歯科健康診査\n妊娠中の区民の方\n\n産後歯科健康診査\n出産後1年未満の区民の方\n\n実施場所\n中央区内の産前・産後歯科健康診査協力医療機関\n詳細は受診票に同封されている医療機関名簿をご覧ください（以下のPDFでもご確認いただけます）。\n\n令和5年度産前・産後歯科健康診査協力医療機関名簿（PDF：118KB）;https://www.city.chuo.lg.jp/documents/4556/20230401_sanzensangomeibo.pdf\n\n費用\n無料\n\n注記：むし歯の治療や歯石除去などを受けた場合の費用は自己負担です。\n\n内容\n歯科健診、口腔内検査、歯磨き等の指導\n\n持参するもの\n産前または産後健康診査受診票\n母子健康手帳\n使用している歯ブラシ\n受診票の通知\n産前歯科健康診査\n妊娠の届出時にお渡しする「母と子の保健バック」に受診票を同封しています。\n\n産後歯科健康診査\nお子さまの3、4か月児健康診査のお知らせ（郵送）に同封しています。\n\n注意事項\n健診を受診される際には、事前に医療機関にご予約をお願いします。\n健診に小さなお子さまをお連れになるときは、必ず事前に医療機関にご相談ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "中央区内の産前・産後歯科健康診査協力医療機関\n詳細は受診票に同封されている医療機関名簿をご覧ください（以下のPDFでもご確認いただけます）。\n\n令和5年度産前・産後歯科健康診査協力医療機関名簿（PDF：118KB）;https://www.city.chuo.lg.jp/documents/4556/20230401_sanzensangomeibo.pdf",
+    "implementationName": "中央区内の産前・産後歯科健康診査協力医療機関\n詳細は受診票に同封されている医療機関名簿をご覧ください（以下のPDFでもご確認いただけます）。\n\n令和5年度産前・産後歯科健康診査協力医療機関名簿（PDF：118KB）;https://www.city.chuo.lg.jp/documents/4556/20230401_sanzensangomeibo.pdf"
+  },
+  "institutionName": {
+    "canonicalName": "妊産婦の歯科健診",
+    "shortName": "産前・産後歯科健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "産前・産後歯科健康診査",
+    "uri": "https://www.city.chuo.lg.jp/a0031/kosodate/shussan/kenshin/sanzensango.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "中央区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "健診を受診される際には、事前に医療機関にご予約をお願いします。\n健診に小さなお子さまをお連れになるときは、必ず事前に医療機関にご相談ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠中や出産後は女性ホルモンの分泌の変化や食事回数の増加などから虫歯や歯周病になりやすく、進行しやすい時期です。こうした時期のお口の中の健康を維持するために、歯科健診をおすすめしています。健診には健康保険が適用されませんが、経済的負担を軽減するため、健診にかかる費用の一部を助成する妊産婦歯科健診受診票をお渡ししています。",
+  "support": {
+    "description": "歯科健診,口腔内検査,歯磨き等の指導",
+    "materiallySupport": "歯科健診,口腔内検査,歯磨き等の指導",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": "産前歯科健康診査\n妊娠中の区民の方\n\n産後歯科健康診査\n出産後1年未満の区民の方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "産前歯科健康診査\n妊娠中の区民の方\n\n産後歯科健康診査\n出産後1年未満の区民の方"
+  },
+  "updateDate": "2024-04-15",
+  "useConsiderationFlag": false,
+  "utilization": "産前歯科健康診査\n妊娠の届出時にお渡しする「母と子の保健バック」に受診票を同封しています。\n\n産後歯科健康診査\nお子さまの3、4か月児健康診査のお知らせ（郵送）に同封しています。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

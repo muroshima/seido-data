@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "133639;新島村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "新島村役場民生課福祉介護係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020133639",
+    "psid": "psid3.0+9000020133639+1+UM62"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都新島村本村1丁目1番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "107",
+    "contactName": "新島村役場民生課福祉介護係",
+    "contactPhone": "04992-5-0243",
+    "contactUrl": null,
+    "zipCode": "1000402"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "児童育成手当（障がい）\nホーム > くらしの情報 > 保険・年金・福祉> 福祉について> 児童・ひとり親福祉> 児童育成手当（障がい）\n\n支給対象\n20歳未満の児童を養育している方で、児童が次のいずれかに該当する場合\n\n身体障がい者手帳1級、2級程度の児童\n愛の手帳1~3級程度の児童\n脳性マヒ、進行性筋萎縮症の児童\n対象外\n児童が児童福祉施設に入所しているとき（通園施設等を除く）\n申請前の前年の所得が所得制限限度額以上のとき（1~5月分は前々年の所得）\n※詳しくは、お問い合わせください。\n\n手当額\n児童1人につき…月額15,500円\n\n所得限度額\n申請者の前年の所得が限度額以上のとき（1~5月は前々年の所得）は非該当です。\n\n|扶養親族等の数|本人|\n|:----|:----|\n|0人|3,604,000円|\n|1人|3,984,000円|\n|2人|4,364,000円|\n|3人|4,744,000円|\n|4人|5,124,000円|\n|5人|5,504,000円|\n|1人増す毎に右の金額を加算|380,000円|\n\n申請方法\n必要書類をお持ちになって、民生課福祉介護係または各支所に申請してください。\n\n申請が受理された月の翌月分から手当支給の対象となります。\n\n認定請求に必要な書類\n戸籍謄本（申請者および児童）\n前住所地の区市町村長が発行するその年の所得（課税・非課税）証明書\n（その年の1月2日以降に転入された方のみ必要。1~4月に申請する方は前年のもの）\n\n身体障がい者手帳または、愛の手帳\n※その他書類が必要となる場合もありますので、お問い合わせください。\n\n支払時期\n4か月ごとに申請者名義の口座に手当を支給します。\n\n2,3,4,5月分…6月中旬\n6,7,8,9月分…10月中旬\n10,11,12,1月分…2月中旬\n\n引き続き受給するには（現況届）\n児童手当を受けている方は、毎年6月の更新の手続き（現況届）が必要です。\n\n毎年、受給者の方に「現況届」用紙を郵送します。\n\n届きましたら、必要事項を記入の上、必要な書類を添付して窓口へ届出してください。\n\n届け出がありませんと、その年の6月分以降の手当てが受けられなくなります。\n\n受給されている方へ\n村外へ転出した場合、転出予定日の月で受給資格が失われます。\n\n必要な添付書類をお揃えの上、転入先の区市町村で申請手続きを行ってください。\n\n次のようなときは、届け出が必要です\n該当する児童が増えたとき\n受給者または児童の氏名・住所に変更があったとき\n振込先の金融口座に変更があったとき\n受給者または児童の婚姻、養子縁組等扶養関係に変更があったとき\n児童を養育しなくなったとき\n児童が施設に入所したとき",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "特別児童扶養手当",
+    "shortName": "児童育成手当（障がい）"
+  },
+  "localGovernmentLink": {
+    "title": "児童育成手当（障がい）",
+    "uri": "https://niijima.com/kurashi/hoken_nenkin/fukushi/jidou_hitorioya/jidouikusei_shougai.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "新島村"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "届きましたら、必要事項を記入の上、必要な書類を添付して窓口へ届出してください。\n\n届け出がありませんと、その年の6月分以降の手当てが受けられなくなります。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "児童手当を受けている方",
+  "regulation": {
+    "regulationArticle": "第2章",
+    "regulationName": "特別児童扶養手当等の支給に関する法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "20歳未満で、法令により定められた程度の障がいの状態にある児童を監護している父母（主として児童の生計を維持するいずれか一人）または父母にかわって児童を養育（児童と同居し、監護し、生計を維持）する方に支給されます。",
+  "support": {
+    "description": "児童1人につき…月額15,500円",
+    "materiallySupport": null,
+    "monetarySupport": "児童1人につき…月額15,500円"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "20歳未満の児童を養育している方で、児童が次のいずれかに該当する場合",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "支給対象\n20歳未満の児童を養育している方で、児童が次のいずれかに該当する場合\n\n身体障がい者手帳1級、2級程度の児童\n愛の手帳1~3級程度の児童\n脳性マヒ、進行性筋萎縮症の児童\n対象外\n児童が児童福祉施設に入所しているとき（通園施設等を除く）\n申請前の前年の所得が所得制限限度額以上のとき（1~5月分は前々年の所得）\n※詳しくは、お問い合わせください。"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": "引き続き受給するには（現況届）\n児童手当を受けている方は、毎年6月の更新の手続き（現況届）が必要です。\n\n毎年、受給者の方に「現況届」用紙を郵送します。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

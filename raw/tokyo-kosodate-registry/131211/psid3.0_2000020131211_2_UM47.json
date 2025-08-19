@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "131211;足立区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "衛生部保健予防課保健予防係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020131211",
+    "psid": "psid3.0+2000020131211+2+UM47"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "衛生部保健予防課保健予防係",
+    "contactPhone": "03-3880-5892",
+    "contactUrl": "https://www.city.adachi.tokyo.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "チャットボットLINEアカウント「妊娠したかも相談＠東京」\n都内にお住まいの方を対象に、「妊娠したかも？」という悩みや疑問に、チャットボット形式でお答えします。「電話やメールで相談するのは少し怖い、勇気がない」という方でも、２４時間３６５日誰でも気軽に使えます。詳細は以下をご覧ください。\n\nチャットボットLINEアカウント　妊娠したかも相談＠東京（外部サイトへリンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninshin-line-tokyo.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "足立区の妊娠・出産に関する相談",
+    "shortName": "チャットボットLINEアカウント「妊娠したかも相談＠東京」"
+  },
+  "localGovernmentLink": {
+    "title": "チャットボットLINEアカウント「妊娠したかも相談＠東京」",
+    "uri": "https://www.city.adachi.tokyo.jp/hoken/ninnshinnayami.html#p2"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "足立区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "「妊娠したかも？」という悩みや疑問に、チャットボット形式でお答えします。「電話やメールで相談するのは少し怖い、勇気がない」という方でも、２４時間３６５日誰でも気軽に使えます。詳細は以下をご覧ください。\n\nチャットボットLINEアカウント　妊娠したかも相談＠東京（外部サイトへリンク） ;https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninshin-line-tokyo.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "都内にお住まいの方",
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "チャットボットLINEアカウント　妊娠したかも相談＠東京（外部サイトへリンク）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninshin-line-tokyo.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "東京都では、都内にお住まいの方を対象に、「妊娠したかも？」という悩みや疑問に、チャットボット形式でお答えします。「電話やメールで相談するのは少し怖い、勇気がない」という方でも、24時間365日、誰でも気軽に使えます。",
+  "support": {
+    "description": "「妊娠したかも？」という悩みや疑問に、チャットボット形式でお答えします。",
+    "materiallySupport": "「妊娠したかも？」という悩みや疑問に、チャットボット形式でお答えします。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "都内にお住まいの方"
+  },
+  "updateDate": "2022-09-28",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

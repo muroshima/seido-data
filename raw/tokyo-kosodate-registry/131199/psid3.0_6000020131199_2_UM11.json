@@ -1,0 +1,137 @@
+{
+  "area": {
+    "areaCode": "131199;板橋区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康生きがい部 健康推進課 母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131199",
+    "psid": "psid3.0+6000020131199+2+UM11"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都板橋区板橋二丁目66番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康生きがい部 健康推進課 母子保健係",
+    "contactPhone": "03-3579-2313",
+    "contactUrl": "https://www.city.itabashi.tokyo.jp/kosodate/ninshin/ninshin/1047600.html",
+    "zipCode": "1738501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊娠8カ月の妊婦の方へ\n出産・子育て応援事業の「伴走型相談支援」の一環として、妊娠8か月頃を目安に対象の方へアンケートを送付します。アンケートはオンラインからの回答となります。また、ご希望の方には、保健師との面談や助産師の訪問(伴走型妊婦訪問事業)を行っています。\n\n助産師の訪問　(伴走型妊婦訪問事業)　について\n申込：下記の「妊娠8カ月アンケート回答フォーム」からお申し込みください。\n内容：助産師がご自宅にうかがい、出産から産後の生活に必要な準備、体調管理、育児についてのご相談を行います。\n費用：無料\n利用回数：妊娠28週以降から出産までの間に1回利用ができます。\n\n健康福祉センター保健師との面談について\n申込：下記の「妊娠8カ月アンケート回答フォーム」からお申し込みください。\n内容：健康福祉センターやご自宅にて、出産から産後の生活に必要な準備、体調管理、育児のご相談を行います。\n費用：無料\n\nアンケート回答フォーム\n妊娠8カ月アンケート回答フォーム(LoGoフォーム)（外部リンク）;https://logoform.jp/form/Rwxz/408219\n\n面談や訪問を希望される方へ\n・訪問や面談は、月曜日から金曜日(土日祝日および年末年始のぞく)の午前9時から午後5時の実施となります。\n・申込後、担当の助産師の携帯電話または健康福祉センターからお電話させていただき、面談の日時の調整をさせていただきます。ご連絡がつかない場合は、出産までに面談や訪問が実施できない場合がございます。\n・妊娠8か月アンケートおよび伴走型妊婦訪問・妊娠8か月面談は伴走型相談支援の一環として実施しますが、経済的支援に紐づくものではありません。アンケートの提出や訪問を受けたことによってクーポンを給付することはありませんのでご注意ください。\n\n関連リンク\n板橋区出産・子育て応援事業;https://www.city.itabashi.tokyo.jp/kosodate/ninshin/ninshin/1044059.html\n妊婦・出産ナビゲーション事業（妊婦面接）;https://www.city.itabashi.tokyo.jp/kosodate/ninshin/ninshin/1004064.html",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "妊娠8カ月アンケート回答フォーム(LoGoフォーム)（外部リンク）",
+      "uri": "https://logoform.jp/form/Rwxz/408219"
+    }
+  ],
+  "holiday": "土日祝日および年末年始",
+  "implementationPeriod": {
+    "conditions": "妊娠28週以降から出産までの間に1回",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊産婦訪問",
+    "shortName": "伴走型妊婦訪問事業"
+  },
+  "localGovernmentLink": {
+    "title": "妊娠8カ月の妊婦の方へ",
+    "uri": "https://www.city.itabashi.tokyo.jp/kosodate/ninshin/ninshin/1047600.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "板橋区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "下記の「妊娠8カ月アンケート回答フォーム」からお申し込みください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第17条（妊産婦の訪問指導等）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "妊婦・出産ナビゲーション事業（妊婦面接）",
+      "uri": "https://www.city.itabashi.tokyo.jp/kosodate/ninshin/ninshin/1004064.html"
+    },
+    {
+      "title": "板橋区出産・子育て応援事業",
+      "uri": "https://www.city.itabashi.tokyo.jp/kosodate/ninshin/ninshin/1044059.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊産婦の方（妊娠中または出産後1年以内）を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、妊娠期間中や出産後の不安や悩みについての相談等を行います。",
+  "support": {
+    "description": "保健師との面談や助産師の訪問",
+    "materiallySupport": "保健師との面談や助産師の訪問",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊娠8カ月の妊婦"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "申込後、担当の助産師の携帯電話または健康福祉センターからお電話させていただき、面談の日時の調整をさせていただきます。ご連絡がつかない場合は、出産までに面談や訪問が実施できない場合がございます。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日から金曜日(土日祝日および年末年始のぞく)の午前9時から午後5時",
+    "fromHM": "09:00",
+    "toHM": "17:00"
+  }
+}

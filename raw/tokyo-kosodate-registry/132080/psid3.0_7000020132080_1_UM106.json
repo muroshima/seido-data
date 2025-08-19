@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "132080;調布市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども生活部子ども政策課 ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020132080",
+    "psid": "psid3.0+7000020132080+1+UM106"
+  },
+  "belongings": null,
+  "capacity": "1時間あたり3人(1日最大6人)",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-499-6101",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども生活部子ども政策課",
+    "contactPhone": "042-481-7105,042-481-7106,042-481-7757",
+    "contactUrl": "https://www.city.chofu.lg.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "2時間まで500円、以降1時間ごとに500円\n(すこやか保育は幼児教育・保育の無償化の対象です。詳細は保育課(042-481-7132)へお問い合わせください。)",
+  "description": "すこやか保育\n講習会に参加してみたいな、美容院に行きたいな、ちょっとリフレッシュしたいななど、どんな理由でも必要があれば、お子さんをお預かりします。\n\n概要\n対象年齢\n市内在住の1歳から小学校6年生まで\n利用料金\n\n2時間まで500円、以降1時間ごとに500円\n(すこやか保育は幼児教育・保育の無償化の対象です。詳細は保育課(042-481-7132)へお問い合わせください。)\n利用日数\n月4回まで\n利用時間\n午前9時から午後5時まで\n利用定員\n1時間あたり3人(1日最大6人)\n申込方法\n利用日の1か月前の1日から利用日の前日(休館日の場合は休館日の前日)の正午までに、子ども家庭支援センターすこやかにて手続きをしてください。電話にて、空き状況の確認と仮予約ができます。\n申込先\n子ども家庭支援センターすこやか\n住所　調布市国領町3-1-38　ココスクエア2階\n電話　042-481-7733\n休館日　第3土曜日とその翌日、年末年始(12月29日から1月4日まで)\n詳しくは、「子ども家庭支援センターすこやか」の担当者までお問い合わせください。\n\n関連リンク\n「子ども家庭支援センターすこやか」ホームページ（外部リンク）;https://jigyodan-chofu.com/sukoyaka/\n幼児教育・保育の無償化;https://www.city.chofu.lg.jp/050020/p028000.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "調布市国領町3-1-38ココスクエア2階",
+    "implementationName": "子ども家庭支援センターすこやか"
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関するサポート",
+    "shortName": "すこやか保育"
+  },
+  "localGovernmentLink": {
+    "title": "すこやか保育",
+    "uri": "https://www.city.chofu.lg.jp/050010/p027008.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "調布市"
+  },
+  "procedureCounter": "子ども家庭支援センターすこやか",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申込方法\n利用日の28日前(4週間前)から利用日の前日(休館日の場合は休館日の前日)の正午までに、子ども家庭支援センターすこやかにて手続きをしてください。電話にて、空き状況の確認と仮予約ができます。\n\n申込先\n子ども家庭支援センターすこやか\n住所　調布市国領町3-1-38　ココスクエア2階\n電話　042-481-7733\n休館日　第3土曜日とその翌日、年末年始(12月29日から1月4日まで)\n詳しくは、「子ども家庭支援センターすこやか」の担当者までお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": "利用日の28日前(4週間前)から利用日の前日(休館日の場合は休館日の前日)の正午まで",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "幼児教育・保育の無償化",
+      "uri": "https://www.city.chofu.lg.jp/050020/p028000.html"
+    },
+    {
+      "title": "「子ども家庭支援センターすこやか」ホームページ（外部リンク）",
+      "uri": "https://jigyodan-chofu.com/sukoyaka/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "講習会に参加してみたいな、美容院に行きたいな、ちょっとリフレッシュしたいななど、どんな理由でも必要があれば、お子さんをお預かりします。",
+  "support": {
+    "description": "講習会に参加してみたいな、美容院に行きたいな、ちょっとリフレッシュしたいななど、どんな理由でも必要があれば、お子さんをお預かりします。",
+    "materiallySupport": "講習会に参加してみたいな、美容院に行きたいな、ちょっとリフレッシュしたいななど、どんな理由でも必要があれば、お子さんをお預かりします。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "市内在住の1歳から小学校6年生まで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "市内在住の1歳から小学校6年生まで"
+  },
+  "updateDate": "2024-02-14",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月4回まで",
+    "fromHM": "09:00",
+    "toHM": "17:00"
+  }
+}

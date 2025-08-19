@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "133817;三宅村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉健康課 福祉係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "4000020133817",
+    "psid": "psid3.0+4000020133817+1+UM27"
+  },
+  "belongings": "健康保険証と印鑑\n市区町村発行の所得証明書",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三宅島三宅村阿古497",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "三宅村役場臨時庁舎 福祉健康課 福祉係",
+    "contactPhone": "04994-5-0902",
+    "contactUrl": null,
+    "zipCode": "1001212"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ひとり親家庭医療費助成\n母子家庭、父子家庭などの親や児童(18歳の年度末まで)が病院などの医療機関で健康保険により診療を受けたとき、医療費の自己負担分を助成します。\n\n対象者\n児童を監護しているひとり親家庭等の母又は父\n両親がいない児童などを養育している養育者\nひとり親家庭等の児童又は養育者に養育されている児童で、18歳に達した日の属する年度の末日(障害がある場合は20歳未満)までの方\n助成内容\n国民健康保険や健康保険など各種医療保険の自己負担分から老人保健制度に準じた一部負担金を差し引いた額を助成します。ただし、入院時食事療養・生活療養標準負担額は助成しません。(住民税非課税の世帯は、医療保険の自己負担分から入院時食事療養・生活療養標準負担額を差し引いた額を助成します。)\n\n申請に必要なもの\n健康保険証と印鑑\n市区町村発行の所得証明書\n更新手続き等\n以下の場合には届出が必要です。\n\nひとり親家庭になったとき\n転入したとき\n転出したとき\nひとり親家庭でなくなったとき\n死亡したとき\n村内で住所を変更したとき\n保険証の種類や記号が変更したとき\n生活保護を受けるようになったとき\n所得制限\n所得制限PDFファイル(54KB);https://www.vill.miyake.tokyo.jp/kakuka/sonminseikatsu/files/maruoyashotokuseigen.pdfがあります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "ひとり親家庭医療費助成",
+    "shortName": "ひとり親家庭医療費助成"
+  },
+  "localGovernmentLink": {
+    "title": "児童手当と医療費助成",
+    "uri": "https://www.vill.miyake.tokyo.jp/kakuka/sonminseikatsu/teate_josei.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-19",
+    "updater": "三宅村"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "更新手続き等\n以下の場合には届出が必要です。\n\nひとり親家庭になったとき\n転入したとき\n転出したとき\nひとり親家庭でなくなったとき\n死亡したとき\n村内で住所を変更したとき\n保険証の種類や記号が変更したとき\n生活保護を受けるようになったとき\n所得制限\n所得制限PDFファイル(54KB);https://www.vill.miyake.tokyo.jp/kakuka/sonminseikatsu/files/maruoyashotokuseigen.pdfがあります。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "三宅村ひとり親家庭医療費助成に関する条例"
+  },
+  "relatedLink": [
+    {
+      "title": "所得制限PDFファイル(54KB)",
+      "uri": "https://www.vill.miyake.tokyo.jp/kakuka/sonminseikatsu/files/maruoyashotokuseigen.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭の母または父、および、そのお子さんの医療費に対して助成を行います。",
+  "support": {
+    "description": "助成内容\n国民健康保険や健康保険など各種医療保険の自己負担分から老人保健制度に準じた一部負担金を差し引いた額を助成します。ただし、入院時食事療養・生活療養標準負担額は助成しません。(住民税非課税の世帯は、医療保険の自己負担分から入院時食事療養・生活療養標準負担額を差し引いた額を助成します。)",
+    "materiallySupport": null,
+    "monetarySupport": "助成内容\n国民健康保険や健康保険など各種医療保険の自己負担分から老人保健制度に準じた一部負担金を差し引いた額を助成します。ただし、入院時食事療養・生活療養標準負担額は助成しません。(住民税非課税の世帯は、医療保険の自己負担分から入院時食事療養・生活療養標準負担額を差し引いた額を助成します。)"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "18歳に達した日の属する年度の末日(障害がある場合は20歳未満)までの方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象者\n児童を監護しているひとり親家庭等の母又は父\n両親がいない児童などを養育している養育者\nひとり親家庭等の児童又は養育者に養育されている児童で、18歳に達した日の属する年度の末日(障害がある場合は20歳未満)までの方"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

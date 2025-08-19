@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131156;杉並区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "杉並保健所健康推進課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131156",
+    "psid": "psid3.0+8000020131156+1+UM792"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都杉並区荻窪5丁目20番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "杉並保健所健康推進課",
+    "contactPhone": "03-3391-1355",
+    "contactUrl": null,
+    "zipCode": "1670051"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "1歳6か月児歯科健康診査\n対象者\n1歳7か月から2歳未満\n内容\n1歳6か月児健康診査に合わせて歯科健診、保健指導（ブラッシング指導を含む）を行っています。\n問い合わせ先\n各保健センター",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児の歯の健康診査（1歳6か月児歯科健康診査）",
+    "shortName": "1歳6か月児歯科健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "歯科健診・歯科相談",
+    "uri": "https://www.city.suginami.tokyo.jp/guide/kenko/soudan/1004798.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025-03-13",
+    "updater": "杉並区"
+  },
+  "procedureCounter": "各保健センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "各保健センター",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "1歳6か月児健康診査に合わせて歯科健診、保健指導（ブラッシング指導を含む）を行っています。",
+  "support": {
+    "description": "1歳6か月児健康診査に合わせて歯科健診、保健指導（ブラッシング指導を含む）を行っています。",
+    "materiallySupport": "1歳6か月児健康診査に合わせて歯科健診、保健指導（ブラッシング指導を含む）を行っています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "1歳7か月から2歳未満",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": 7
+    },
+    "lessThan": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "1歳7か月から2歳未満"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

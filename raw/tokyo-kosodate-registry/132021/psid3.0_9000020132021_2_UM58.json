@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132021;立川市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健医療部 保険年金課 賦課係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020132021",
+    "psid": "psid3.0+9000020132021+2+UM58"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "立川市泉町1156-9",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "（代表・内線）：042-523-2111（内線1406・1407・1416・1422）",
+    "contactName": "保健医療部 保険年金課 賦課係",
+    "contactPhone": "042-528-4314",
+    "contactUrl": null,
+    "zipCode": "1908666"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "立川市の独自制度で未就学児の均等割額を無料としました\n国制度で5割\\軽減、残りの5割を立川市独自に軽減します。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の育児に関する金銭的支援",
+    "shortName": "国民健康保険料（均等割額）の未就学児無料"
+  },
+  "localGovernmentLink": {
+    "title": "令和6年度国民健康保険料",
+    "uri": "https://www.city.tachikawa.lg.jp/kurashi/nenkin/1002478/1002510/1002554/1002560.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "立川市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": "2024-04-01",
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "立川市国民健康保険条例"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "立川市の独自制度で未就学児の均等割額を無料とします。",
+  "support": {
+    "description": "国制度で5割軽減、残りの5割を立川市独自に軽減します。",
+    "materiallySupport": null,
+    "monetarySupport": "国制度で5割軽減、残りの6割を立川市独自に軽減します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "未就学児"
+  },
+  "updateDate": "2024-06-20",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "132071;昭島市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "昭島市民図書館",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132071",
+    "psid": "psid3.0+8000020132071+1+UM105"
+  },
+  "belongings": "◇図書館の資料を借りるには、貸出券が必要です。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "◇動く図書館「もくせい号」は、市内１３ヶ所で本の貸出サービスを行います。利用の際は貸出券をお持ちください。貸出券をお忘れの際はスタッフへお声かけください。\n◇月２回隔週で巡回します。ただし、祝日、第１・第３木曜日、及び第５週は運休します。詳しくは巡回予定表をご覧ください。\n◇本の貸出期間は４週間です。（雑誌は２週間）\n◇雨天、雪の場合は運休します。（偕生園・昭島病院内・田中町住宅・東中神駅南口ロータリー除く。ただし荒天時はすべて中止とします。）\n◇もくせい号所蔵資料全てを巡回に持参することはできないため、もくせい号所蔵資料でご希望のものがある場合はご予約をお願いいたします。\n◇当面の間、昭島病院内と東京西徳洲会病院内の巡回については、運休させていただきます。\n令和６年度もくせい号巡回予定;https://www.library.akishima.tokyo.jp/bookmobile/pdf/【令和６年度】BM巡回予定HP掲載用.pdf\nもくせい号巡回案内地図;https://www.library.akishima.tokyo.jp/uploads/2022mokuseigouchizu.pdf\n\n|曜日|<|サービスステーション|時間|\n|:----|:----|:----|:----|\n|第１・第３|火|偕生園|午後2:15～3:00|\n|^|^|朝日町いこい公園|午後3:30～4:15|\n|^|水|昭島病院内|午後2:00～3:00|\n|^|^|武蔵野二丁目北児童遊園|午後3:30～4:15|\n|^|金|東京西徳洲会病院内|午後2:15～3:00|\n|^|^|田中町住宅|午後3:30～4:15|\n|第２・第４|火|大神会館|午後2:15～3:00|\n|^|^|北文化公園|午後3:30～4:15|\n|^|水|拝島公園|午後2:15～3:00|\n|^|^|東ノ岡児童遊園|午後3:30～4:15|\n|^|木|あおぞら公園|午後3:30～4:15|\n|^|金|西武拝島ハイツ|午後2:15～3:00|\n|^|^|堀向会館|午後3:30～4:15|\n|毎週|木|東中神駅南口ロータリー|午後6:00～8:00(雨天決行)|\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "【休館日】(１)　月曜日（祝日・振替休日と重なるときは開館し、その次の平日が休館日となります。）(２)　12月29日から１月４日まで(３)　特別整理期間",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "昭島市つつじが丘三丁目３番15号",
+    "implementationName": "昭島市民図書館"
+  },
+  "institutionName": {
+    "canonicalName": "図書館の児童サービス（ブックスタートなど）",
+    "shortName": "昭島市民図書館"
+  },
+  "localGovernmentLink": {
+    "title": "昭島市民図書館",
+    "uri": "https://www.library.akishima.tokyo.jp/"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-25",
+    "updater": "昭島市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "全て",
+    "regulationName": "昭島市民図書館条例、昭島市民図書館運営規則"
+  },
+  "relatedLink": [
+    {
+      "title": "あきしましみんとしょかんりようあんない（子ども用：A4三つ折り）",
+      "uri": "https://www.library.akishima.tokyo.jp/uploads/あきしましみんとしょかんりようあんない.pdf"
+    },
+    {
+      "title": "昭島市民図書館利用案内（大人用：A4三つ折り）",
+      "uri": "https://www.library.akishima.tokyo.jp/uploads/昭島市民図書館利用案内.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "図書館では、図書・雑誌・CDなどの貸出や調べもののお手伝い、読書相談、図書館利用に障害のある方へのサービスなどを行っています。昭島市には、市民図書館、分館・分室があるほか、移動図書館「もくせい号」が市内を巡回しています。",
+  "support": {
+    "description": "図書などの貸出のほか、おはなし会や子ども一時預かりサービスサービスを実施しています。",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": "◇図書館の資料を借りるには、貸出券が必要です。\n\n【児童サービス】\n☆絵本、ものがたり、趣味や知識の本、紙芝居、児童用の百科事典などがそろっています。\n☆お探しの児童書が見当たらないときは、スタッフにお尋ねください。\n☆子どもの読書、本に関する相談もお気軽にお尋ねください。\n☆おはなし会を開催しています。詳しくは、おはなし会の案内、ホームページをご確認ください。\n☆各館で子ども向けイベントを開催しています。詳しくは、チラシ・ポスター、ホームページ等をご確認ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "【開館時間】火曜日・水曜日・木曜日・金曜日（午前10時～午後８時）、土曜日・日曜日・祝日（午前10時～午後６時）",
+    "fromHM": null,
+    "toHM": null
+  }
+}

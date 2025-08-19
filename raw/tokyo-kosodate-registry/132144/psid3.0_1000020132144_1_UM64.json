@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132144;国分寺市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子ども子育て支援課　手当助成係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132144",
+    "psid": "psid3.0+1000020132144+1+UM64"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-325-1380",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子ども子育て支援課　手当助成係",
+    "contactPhone": "042-312-8652・8653",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "制度の概要\n\n東京都による小児慢性特定疾病にかかっている児童等の医療費を一部助成する制度です。\n対象疾患や制度の詳細については，本ページ下部の「関連情報」より東京都の情報でご確認ください。\n\n申請書類配布・申請受付窓口\n子ども子育て支援課　受付日時　平日午前8時30分～午後5時\n申請をご希望の方は、事前にお電話でお問い合わせのうえ、窓口までお越しください。\n\n対象者\n東京都に住所を有する満18歳未満の方で，小児慢性特定疾病医療費支援事業の対象疾病にかかっており，その状態が制度の定める認定基準に該当する方が対象です。\n（ただし，18歳に達した時点で小児慢性特定疾病医療受給者証を有し，かつ引き続き有効な医療受給者証を有する方に限り，満20歳未満まで延長可能となります。）\n\n助成の内容\n対象疾病の治療に要する医療費（保険診療分）\n入院時食事療養費標準負担額\n対象疾病に要する訪問看護費\n\n自己負担\n所得に応じて一部自己負担があります。申請に基づく東京都の審査で「月額自己負担限度額」が決まり，限度額を超える医療費が発生した場合，その超える額を助成します。\n\n指定医療機関\n東京都が指定した医療機関で医療を受けた場合のみ、医療費の助成が受けられます。\n指定医療機関以外で受診した場合は、原則として助成の対象とはなりません。\n\n申請の種類\n新規申請\n更新申請\n変更の届け出（氏名・住所・健康保険証などの変更）\n再交付申請（医療受給者証を紛失・破損した場合）\n\n制度に関する問い合わせ先\n東京都　福祉局　子供・子育て支援部　家庭支援課　母子医療助成担当\n電話　03-5320-4375",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "小児慢性特定疾病医療費の助成",
+    "shortName": "小児慢性特定疾病医療費助成制度"
+  },
+  "localGovernmentLink": {
+    "title": "小児慢性特定疾病医療費助成制度",
+    "uri": "https://www.city.kokubunji.tokyo.jp/kurashi/kodomo/teate/1012498/1001494.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "国分寺市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請をご希望の方は、事前にお電話でお問い合わせのうえ、窓口までお越しください。",
+  "procedurePeriod": {
+    "conditions": "受付日時　平日午前8時30分～午後5時\n申請をご希望の方は、事前にお電話でお問い合わせのうえ、窓口までお越しください。",
+    "fromHM": "08:30",
+    "fromYMD": null,
+    "toHM": "17:00",
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第19条の2～第19条の8",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "東京都福祉局－小児慢性疾患医療費助成制度の概要　（外部リンク）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/syoman/top.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子どもの慢性疾病のうち、治療期間が長く、医療費負担が高額となる疾病について、治療方法の確立と普及、患者家庭の医療費の負担軽減につながるよう、医療費の自己負担分を補助しています。",
+  "support": {
+    "description": "助成の内容\n対象疾病の治療に要する医療費（保険診療分）\n入院時食事療養費標準負担額\n対象疾病に要する訪問看護費",
+    "materiallySupport": null,
+    "monetarySupport": "助成の内容\n対象疾病の治療に要する医療費（保険診療分）\n入院時食事療養費標準負担額\n対象疾病に要する訪問看護費"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "東京都に住所を有する満18歳未満の方で，小児慢性特定疾病医療費支援事業の対象疾病にかかっており，その状態が制度の定める認定基準に該当する方が対象です。\n（ただし，18歳に達した時点で小児慢性特定疾病医療受給者証を有し，かつ引き続き有効な医療受給者証を有する方に限り，満20歳未満まで延長可能となります。）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "東京都に住所を有する満18歳未満の方で，小児慢性特定疾病医療費支援事業の対象疾病にかかっており，その状態が制度の定める認定基準に該当する方が対象です。\n（ただし，18歳に達した時点で小児慢性特定疾病医療受給者証を有し，かつ引き続き有効な医療受給者証を有する方に限り，満20歳未満まで延長可能となります。）"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": true,
+  "utilization": "申請をご希望の方は、事前にお電話でお問い合わせのうえ、窓口までお越しください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

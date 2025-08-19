@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132241;多摩市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康推進課（健康センター）母子担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132241",
+    "psid": "psid3.0+3000020132241+1+UM14"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都多摩市関戸四丁目19番5号",
+    "contactComment": "FAX：042-371-1235",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康推進課（健康センター）母子担当",
+    "contactPhone": "042-376-9177",
+    "contactUrl": null,
+    "zipCode": "2060011"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "赤ちゃんがお生まれになった全てのご家庭を生後4ヶ月までの間に、保健師・助産師・看護師等がお伺いします。子育てのさまざまな不安や悩みをお聞きし、子育て支援に関する情報提供等を行うとともに、安心して子育てができるよう育児や産後の生活などの相談をお受けいたします。\nご出産後、出生通知を電子で申請された方全員に家庭訪問をいたします。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "出生通知を電子で申請（外部リンク）",
+      "uri": "https://logoform.jp/form/4N4o/169112"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+    "shortName": "こんにちは赤ちゃん訪問事業"
+  },
+  "localGovernmentLink": {
+    "title": "こんにちは赤ちゃん訪問事業",
+    "uri": "https://www.city.tama.lg.jp/kosodate/1008018/1008021/1003421.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/20",
+    "updater": "多摩市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "赤ちゃんがお生まれになったら、2週間以内に出生通知を電子で申請してください。\n出生通知を電子で申請（外部リンク）;https://logoform.jp/form/4N4o/169112\n2週間前後でご記入いただいた電話番号にご連絡させていただきます。\n日中、主に赤ちゃんのお世話をされている方の電話番号をご記入ください。\n次の電話番号からご連絡いたします。090-6659-2093、090-6659-2152、080-7999-9649、080-7999-9672、042-376-9177\nまた、出生通知をお出しにならなかった方にも生後4ヶ月までの間にお伺いし、多摩市の子育て情報等をお渡しさせていただきます。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第21条の10の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "生後4か月を迎えるまでの乳児がいるご家庭には専門職のほか、研修を受けたスタッフが訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生後4ヶ月まで"
+  },
+  "updateDate": "2024/06/27",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

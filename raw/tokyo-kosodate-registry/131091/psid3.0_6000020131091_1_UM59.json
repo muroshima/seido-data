@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131091;品川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て応援課　ひとり親相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131091",
+    "psid": "psid3.0+6000020131091+1+UM59"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て応援課　ひとり親相談係",
+    "contactPhone": "03-5742-6589",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ひとり親家庭自立支援給付金事業\n\nひとり親家庭の経済的自立を促進するため、「就業に結びつきやすい技術や資格を得たい」「能力を高め増収を図りたい」というひとり親家庭のお母さんやお父さんに、次の給付金を支給します。\n\n■自立支援教育訓練給付金\n主体的な能力開発の取り組みを支援するため、母子家庭の母または父子家庭の父が対象の教育訓練を受講し修了した場合、経費の60％（12,001円～200,000円）を支給します。雇用保険法に基づく一般教育訓練給付金の支給を受けることができる方は、その支給額との差額を支給します。\n\n◇対象者\n品川区に住所を有するひとり親家庭の母または父で、以下の要件すべてを満たしている方\n1．20歳未満の児童を扶養していること。\n2．児童扶養手当を受給していること。または同等の所得水準であること。\n3．教育訓練講座を受講することが就業に必要と認められること。\n4．過去に本事業に基づく給付金を受給していないこと。\n\n◇対象講座\n雇用保険制度の教育訓練給付の指定教育訓練講座\n\n◇申請の流れ\n1．受講の申し込みをする前に、まずは子育て応援課にご連絡ください。電話で来所相談日を調整します。\n※申込後は受け付けられませんのでご注意ください。\n2．来所相談後、講座指定申請を行ってください。\n3．講座に申し込み、受講してください。\n4．講座終了後、1カ月以内に給付金支給申請を行ってください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援教育訓練給付金",
+    "shortName": "自立支援教育訓練給付金"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親家庭自立支援給付金事業",
+    "uri": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-hitorioya/hpg000016382.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "品川区"
+  },
+  "procedureCounter": "子育て応援課　ひとり親相談係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請の流れ\n1．受講の申し込みをする前に、まずは子育て応援課にご連絡ください。電話で来所相談日を調整します。\n※申込後は受け付けられませんのでご注意ください。\n2．来所相談後、講座指定申請を行ってください。\n3．講座に申し込み、受講してください。\n4．講座終了後、1カ月以内に給付金支給申請を行ってください。",
+  "procedurePeriod": {
+    "conditions": "・受講の申し込みをする前に、まずは子育て応援課にご連絡ください。電話で来所相談日を調整します。\n※申込後は受け付けられませんのでご注意ください。\n・講座終了後、1カ月以内に給付金支給申請を行ってください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第31条（母子家庭自立支援給付金）、第31条の10（父子家庭自立支援給付金）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "雇用保険による教育訓練給付の受給資格を持たない母子家庭の母が、就職やキャリアアップのために指定された教育訓練講座を受講し、修了した場合、受講に要した費用の一部が支給されます。\n※受講開始前に必ず事前相談を受けてください。",
+  "support": {
+    "description": "主体的な能力開発の取り組みを支援するため、母子家庭の母または父子家庭の父が対象の教育訓練を受講し修了した場合、経費の60％（12,001円～200,000円）を支給します。雇用保険法に基づく一般教育訓練給付金の支給を受けることができる方は、その支給額との差額を支給します。\n\n◇対象講座\n雇用保険制度の教育訓練給付の指定教育訓練講座",
+    "materiallySupport": null,
+    "monetarySupport": "主体的な能力開発の取り組みを支援するため、母子家庭の母または父子家庭の父が対象の教育訓練を受講し修了した場合、経費の60％（12,001円～200,000円）を支給します。雇用保険法に基づく一般教育訓練給付金の支給を受けることができる方は、その支給額との差額を支給します。\n\n◇対象講座\n雇用保険制度の教育訓練給付の指定教育訓練講座"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "20歳未満の児童",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "品川区に住所を有するひとり親家庭の母または父で、以下の要件すべてを満たしている方\n1．20歳未満の児童を扶養していること。\n2．児童扶養手当を受給していること。または同等の所得水準であること。\n3．教育訓練講座を受講することが就業に必要と認められること。\n4．過去に本事業に基づく給付金を受給していないこと。"
+  },
+  "updateDate": "2023-04-01",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

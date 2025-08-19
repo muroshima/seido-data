@@ -1,0 +1,153 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "みなと保健所健康推進課健康づくり係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+2+UM8"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファックス番号：03-3455-4539\n\n外国語対応が必要な人、通訳オペレーター、区の職員の3人で会話ができます。\n\n多言語対応三者通話サービス;https://www.multilingualinterpretercallservice.city.minato.tokyo.jp/kokusai",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "みなと保健所健康推進課健康づくり係",
+    "contactPhone": "03-6400-0083",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "お口の健診\nお口は会話をする、食事を楽しむ、表情をつくるなど心豊かな生活を末永く送るために欠かすことのできないものです。\nお口の健康状態は全身状態の健康とも深く関係していることがわかっています。むし歯や歯周病が代表ですが、そのほかにも口臭やかみ合わせ、口の渇き、噛む力や飲み込む機能の低下など、体調や年齢により問題はさまざまです。お口のトラブルを予防し、快適なお口で過ごすために好ましい生活習慣を身につけましょう。\n\n【受診券について】\n\n令和6年4月4日時点で港区に住民票のある、20歳・25歳、30歳以上の偶数年齢の方（令和7年3月31日時点）、\n\nもしくは、令和5年度に『お口の健診』または「口腔がん検診」受診歴のある方には、5月末に個別発送しています。\n\n個別通知がお手元にない方で、港区に住民票のある20歳以上もしくは妊婦の方は、\n\nお申し出いただければ受診券を送付いたしますので、保健所までお電話ください。電子申請も可能です。\n\nお申込先：みなと保健所　健康推進課　健康づくり係\n\n受付時間（月曜日から金曜日）：午前9時から午後5時まで\n\n電話番号：03-6400-0083\n\n電子申請（24時間受付）：受診券のお申し込みはこちら（外部サイトへリンク）;https://logoform.jp/form/Mt5V/388742\n\n※電子申請でのお申込みは、令和6年5月20日（月曜日）から令和7年1月20日（月曜日）までです。\n\n対象\n20歳以上の区民（現在、歯科治療中の方を除く）\n\n※妊娠中の方は20歳未満でも受診できます。\n\n実施期間\n前期：令和6年6月1日（土曜日）～令和6年8月31日（土曜日）\n\n後期：令和6年11月1日（金曜日）～令和7年1月31日（金曜日）\n\n※前期、後期にそれぞれ1回、受診することができます。\n\n実施場所\n『お口の健診』実施歯科医療機関で行います。\n\n受診希望の方は、名簿の『お口の健診』欄に〇のついている歯科医療機関へ、事前に予約をして下さい。\n\n『お口の健診』「口腔がん検診」実施歯科医療機関名簿（日本語・英語）（PDF：619KB）;https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/shinsa/documents/okuti-koukuugan-clinicrist.pdf\n\n※訪問対応・英語対応・障害者対応も行っております。詳細については、上記名簿をご覧ください。\n\n　状況によりご受診いただけない場合もありますので、詳細は歯科医療機関に直接お電話でご確認ください。\n\n内容\n問診、歯の診査、歯肉の診査、噛む機能（ガム）の検査、舌の汚れの検査、舌・口唇機能検査、嚥下機能検査（75歳以上のみ）、結果の説明、お口からの健康指導\n\nお口の健診票（英語対応）\n『お口の健診』 健診票（英語）75歳未満（PDF：1,867KB）;https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/shinsa/documents/r6okuti-75under.pdf\n『お口の健診』健診票（英語）75歳未満　受診者記入用 （PDF：2,659KB）;https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/shinsa/documents/r6okuti-75under-honninyou.pdf\n『お口の健診』健診票（英語）75歳以上 （PDF：2,571KB）;https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/shinsa/documents/r6okuti-75over.pdf\n『お口の健診』健診票（英語）75歳以上　受診者記入用（PDF：607KB）;https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/shinsa/documents/r6okuti-75over-honninyou.pdf",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "受診券のお申し込みはこちら",
+      "uri": "https://logoform.jp/form/Mt5V/388742"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "前期：令和6年6月1日（土曜日）～令和6年8月31日（土曜日）\n\n後期：令和6年11月1日（金曜日）～令和7年1月31日（金曜日）\n\n※前期、後期にそれぞれ1回、受診することができます。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "『お口の健診』「口腔がん検診」実施歯科医療機関名簿（日本語・英語）（PDF：619KB）;https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/shinsa/documents/okuti-koukuugan-clinicrist.pdf",
+    "implementationName": "『お口の健診』「口腔がん検診」実施歯科医療機関名簿（日本語・英語）（PDF：619KB）;https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/shinsa/documents/okuti-koukuugan-clinicrist.pdf"
+  },
+  "institutionName": {
+    "canonicalName": "妊産婦の歯科健診",
+    "shortName": "お口の健診"
+  },
+  "localGovernmentLink": {
+    "title": "お口の健診",
+    "uri": "https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/shinsa/okuchi.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "港区"
+  },
+  "procedureCounter": "みなと保健所健康推進課健康づくり係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "【受診券について】\n\n令和6年4月4日時点で港区に住民票のある、20歳・25歳、30歳以上の偶数年齢の方（令和7年3月31日時点）、\n\nもしくは、令和5年度に『お口の健診』または「口腔がん検診」受診歴のある方には、5月末に個別発送しています。\n\n個別通知がお手元にない方で、港区に住民票のある20歳以上もしくは妊婦の方は、\n\nお申し出いただければ受診券を送付いたしますので、保健所までお電話ください。電子申請も可能です。\n\nお申込先：みなと保健所　健康推進課　健康づくり係\n\n受付時間（月曜日から金曜日）：午前9時から午後5時まで\n\n電話番号：03-6400-0083\n\n電子申請（24時間受付）：受診券のお申し込みはこちら（外部サイトへリンク）;https://logoform.jp/form/Mt5V/388742\n\n※電子申請でのお申込みは、令和6年5月20日（月曜日）から令和7年1月20日（月曜日）までです。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "『お口の健診』健診票（英語）75歳未満　受診者記入用 （PDF：2",
+      "uri": "https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/shinsa/documents/r6okuti-75over.pdf"
+    },
+    {
+      "title": "867KB）",
+      "uri": "https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/shinsa/documents/r6okuti-75under-honninyou.pdf"
+    },
+    {
+      "title": "『お口の健診』 健診票（英語）75歳未満（PDF：1",
+      "uri": "https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/shinsa/documents/r6okuti-75under.pdf"
+    },
+    {
+      "title": "『お口の健診』「口腔がん検診」実施歯科医療機関名簿（日本語・英語）（PDF：619KB）",
+      "uri": "https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/shinsa/documents/okuti-koukuugan-clinicrist.pdf"
+    },
+    {
+      "title": "659KB）",
+      "uri": "https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/shinsa/documents/r6okuti-75over-honninyou.pdf"
+    },
+    {
+      "title": "受診券のお申し込みはこちら",
+      "uri": "https://logoform.jp/form/Mt5V/388742"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠中や出産後は女性ホルモンの分泌の変化や食事回数の増加などから虫歯や歯周病になりやすく、進行しやすい時期です。こうした時期のお口の中の健康を維持するために、歯科健診をおすすめしています。健診には健康保険が適用されませんが、経済的負担を軽減するため、健診にかかる費用を助成する受診券をお渡ししています。",
+  "support": {
+    "description": "問診、歯の診査、歯肉の診査、噛む機能（ガム）の検査、舌の汚れの検査、舌・口唇機能検査、嚥下機能検査（75歳以上のみ）、結果の説明、お口からの健康指導",
+    "materiallySupport": "問診、歯の診査、歯肉の診査、噛む機能（ガム）の検査、舌の汚れの検査、舌・口唇機能検査、嚥下機能検査（75歳以上のみ）、結果の説明、お口からの健康指導",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": "20歳以上の区民（現在治療中の方を除く）\n\n※妊娠中の方は20歳未満でも受診できます。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "20歳以上の区民（現在治療中の方を除く）\n\n※妊娠中の方は20歳未満でも受診できます。"
+  },
+  "updateDate": "2024-06-10",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

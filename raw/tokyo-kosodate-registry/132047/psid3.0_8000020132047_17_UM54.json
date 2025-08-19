@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132047;三鷹市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部 健康推進課 予防接種係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132047",
+    "psid": "psid3.0+8000020132047+17+UM54"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三鷹市新川六丁目37番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康福祉部 健康推進課 予防接種係",
+    "contactPhone": "0422-24-8050",
+    "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kenkou/index.html",
+    "zipCode": "1810004"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "長期の療養などで定期予防接種の対象年齢を過ぎてしまった場合\n長期にわたり療養を必要とする特定の疾病により、対象年齢内に定期予防接種を受けることができなかったと認められるかたは、一定の期間内であれば定期予防接種として接種を受けられる場合があります。\n\n下記の対象者に該当する場合で申請を希望するかたは、事前に対象条件や申請方法などを確認しますので、接種の前に健康推進課までご連絡ください。\n\n注意事項\n・提出いただく医師の理由書にかかる文書料については自己負担となります。\n・事後申請・払い戻しはお受けできかねますのでご注意ください。\n対象者\n次の1～3のいずれかの理由により、やむを得ず定期接種を受けることができなかったかたで、接種日時点で三鷹市に住民登録のあるかた（具体的な対象疾病の例については、本ページ下部に添付の厚生労働省資料をご覧ください）\n\n1.重症複合免疫不全症、無ガンマグロブリン血症、その他免疫の機能に支障を生じさせる重篤な疾病\n2.白血病、再生不良性貧血、重症筋無力症、若年性関節リウマチ、全身性エリテマトーデス、潰瘍性大腸炎、ネフローゼ症候群、その他免疫の機能を抑制する治療を必要とする重篤な疾病\n3.医学的知見に基づき、上記の1、2の疾病に準ずると認められるもの\n対象となる予防接種および接種期間\n子どもの予防接種\n定期予防接種のうちA類疾病が対象となり、接種できない事情がなくなってから2年間、本制度を利用しての接種が可能です。ただし、以下の4つのワクチンについては、別途年齢上限が定められています（ロタウイルスワクチンは対象外です）。\n\n・BCGワクチン：4歳に至るまで\n・小児用肺炎球菌ワクチン：6歳に至るまで\n・ヒブワクチン：10歳に至るまで\n・4種混合（DPT-IPV）ワクチン：15歳に至るまで\n高齢者の予防接種\n定期予防接種のうちB類疾病の肺炎球菌ワクチンのみが対象となり、インフルエンザワクチンは対象外です。接種できない事情がなくなってから1年間、本制度を利用しての接種が可能です。\n\n申請の流れ\n1.まずは担当医へご相談のうえ、上記の対象に該当しているか、本ページ下部に添付の「理由書」を医師が記載できるかをご確認ください。\n2.つぎに健康推進課へご連絡いただき、担当医とのご相談結果や予防接種をどちらの医療機関で接種されるかなどをお教えください。\n3.健康推進課でも対象であることが確認できましたら、同じく添付の「申請書」に必要事項を記載のうえ、母子手帳（出生届・予防接種履歴のページ）のコピーを添えて、健康推進課までご提出ください。\n4.申請後、2週間ほどで本制度での接種に必要な予診票等を交付します。\nお問い合わせ先\n健康福祉部健康推進課　保健総務係（三鷹市総合保健センター）\n電話　0422-24-8050\n\n添付ファイル\n対象疾病の例（厚生労働省資料）（PDF 151KB）;https://www.city.mitaka.lg.jp/c_service/099/attached/attach_99173_1.pdf\n理由書（長期療養）（PDF 105KB）;https://www.city.mitaka.lg.jp/c_service/099/attached/attach_99173_2.pdf\n申請書（長期療養）（PDF 89KB）;https://www.city.mitaka.lg.jp/c_service/099/attached/attach_99173_3.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "長期の療養などで定期予防接種の対象年齢を過ぎてしまった場合,子どもの予防接種,BCGワクチン"
+  },
+  "localGovernmentLink": {
+    "title": "長期療養などにより定期予防接種が受けられなかったかたへ",
+    "uri": "https://www.city.mitaka.lg.jp/c_service/099/099173.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "三鷹市"
+  },
+  "procedureCounter": "担当医,健康福祉部健康推進課　予防接種係（三鷹市総合保健センター）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "対象者に該当する場合で申請を希望するかたは、事前に対象条件や申請方法などを確認しますので、接種の前に健康推進課までご連絡ください。\n\n注意事項\n・提出いただく医師の理由書にかかる文書料については自己負担となります。\n・事後申請・払い戻しはお受けできかねますのでご注意ください。\n\n申請の流れ\n1.まずは担当医へご相談のうえ、上記の対象に該当しているか、本ページ下部に添付の「理由書」を医師が記載できるかをご確認ください。\n2.つぎに健康推進課へご連絡いただき、担当医とのご相談結果や予防接種をどちらの医療機関で接種されるかなどをお教えください。\n3.健康推進課でも対象であることが確認できましたら、同じく添付の「申請書」に必要事項を記載のうえ、母子手帳（出生届・予防接種履歴のページ）のコピーを添えて、健康推進課までご提出ください。\n4.申請後、2週間ほどで本制度での接種に必要な予診票等を交付します。\nお問い合わせ先\n健康福祉部健康推進課　保健総務係（三鷹市総合保健センター）\n電話　0422-24-8050\n\n添付ファイル\n対象疾病の例（厚生労働省資料）（PDF 151KB）;https://www.city.mitaka.lg.jp/c_service/099/attached/attach_99173_1.pdf\n理由書（長期療養）（PDF 105KB）;https://www.city.mitaka.lg.jp/c_service/099/attached/attach_99173_2.pdf\n申請書（長期療養）（PDF 89KB）;https://www.city.mitaka.lg.jp/c_service/099/attached/attach_99173_3.pdf",
+  "procedurePeriod": {
+    "conditions": "4歳に至るまで",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "対象者に該当する場合で申請を希望するかた",
+  "regulation": {
+    "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）",
+    "regulationName": "予防接種法"
+  },
+  "relatedLink": [
+    {
+      "title": "対象疾病の例（厚生労働省資料）（PDF 151KB）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/099/attached/attach_99173_1.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+  "support": {
+    "description": "対象年齢内に定期予防接種を受けることができなかったと認められるかたは、一定の期間内であれば定期予防接種として接種を受けられる場合があります。",
+    "materiallySupport": "対象年齢内に定期予防接種を受けることができなかったと認められるかたは、一定の期間内であれば定期予防接種として接種を受けられる場合があります。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "4歳に至るまで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 4,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象者\n次の1～3のいずれかの理由により、やむを得ず定期接種を受けることができなかったかたで、接種日時点で三鷹市に住民登録のあるかた（具体的な対象疾病の例については、本ページ下部に添付の厚生労働省資料をご覧ください）\n\n1.重症複合免疫不全症、無ガンマグロブリン血症、その他免疫の機能に支障を生じさせる重篤な疾病\n2.白血病、再生不良性貧血、重症筋無力症、若年性関節リウマチ、全身性エリテマトーデス、潰瘍性大腸炎、ネフローゼ症候群、その他免疫の機能を抑制する治療を必要とする重篤な疾病\n3.医学的知見に基づき、上記の1、2の疾病に準ずると認められるもの\n対象となる予防接種および接種期間\n子どもの予防接種\n\n・BCGワクチン：4歳に至るまで\n添付ファイル\n対象疾病の例（厚生労働省資料）（PDF 151KB）;https://www.city.mitaka.lg.jp/c_service/099/attached/attach_99173_1.pdf"
+  },
+  "updateDate": "2022-10-12",
+  "useConsiderationFlag": true,
+  "utilization": "対象者に該当する場合で申請を希望するかたは、事前に対象条件や申請方法などを確認しますので、接種の前に健康推進課までご連絡ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

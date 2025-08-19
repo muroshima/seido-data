@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健所保健予防課保健予防係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+23+UM54"
+  },
+  "belongings": "母子健康手帳",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健所保健予防課保健予防係",
+    "contactPhone": "042-725-5422",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "B型肝炎ワクチンが、2016年10月1日から定期予防接種になりました。\nB型肝炎ウイルスは、肝臓に感染し、一過性の感染あるいは持続感染を起こします。出生時や乳児期に感染すると、持続感染となりやすく、持続感染した人の一部が慢性肝炎を発症し、肝硬変、肝がんへと進行する危険があります。\n\nその他の定期の予防接種について\nヒブ\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1154.html\n\n小児用肺炎球菌\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1151.html\n\nロタウイルス感染症\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/8166.html\n\n四種混合<DPT-IPV>(ジフテリア、百日せき、破傷風、不活化ポリオ)\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1189.html\n\n不活化ポリオ\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1162.html\n\nBCG\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1152.html\n\n麻しん風しん<MR>\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1158.html\n\n水痘(水ぼうそう)\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1170.html\n\n日本脳炎\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1159.html\n\n二種混合<DT>(ジフテリア、破傷風)\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1160.html\n\n子宮頸がん予防ワクチン（HPVワクチン）\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1164.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "個別通知時期\n生後1か月になる月の末ごろ\n2回目以降については個別通知はいたしませんのでご注意下さい。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "町田市内の指定医療機関（以下のページをご覧ください）\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1155.html\n\n定期予防接種の実施医療機関\n\n八王子市・日野市・多摩市・稲城市・相模原市内の指定医療機関（以下のページをご覧ください）\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1153.html\n\n小児定期予防接種の相互乗入れを実施しています\n\n町田市・八王子市・日野市・多摩市・稲城市・相模原市内の指定医療機関以外（以下のページをご覧ください）\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/7807.html\n\n町田市外で子どもの定期予防接種を希望される方へ"
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "B型肝炎"
+  },
+  "localGovernmentLink": {
+    "title": "B型肝炎",
+    "uri": "https://kosodate-machida.tokyo.jp/mokuteki/1/10/kakusyuyobousessyu/2286.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "小児任意予防接種費助成要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "国立感染症研究所・感染症情報センター「予防接種のページ」（外部サイト）",
+      "uri": "http://idsc.nih.go.jp/vaccine/vaccine-j.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。B型肝炎ワクチンが、2016年10月1日から定期予防接種になりました。「B型肝炎ウイルス」は、肝臓に感染し、一過性の感染あるいは持続感染を起こします。出生時や乳児期に感染すると、持続感染となりやすく、持続感染した人の一部が慢性肝炎を発症し、肝硬変、肝がんへと進行する危険があります。",
+  "support": {
+    "description": "3回（27日以上の間隔で2回接種、さらに、初回接種から139日（19週6日）以上の間隔を置いて1回接種）",
+    "materiallySupport": "3回（27日以上の間隔で2回接種、さらに、初回接種から139日（19週6日）以上の間隔を置いて1回接種）",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "2016年4月1日以降に生まれた、1歳未満（1歳の誕生日の前日まで）のお子さん",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "2016年4月1日以降に生まれた、1歳未満（1歳の誕生日の前日まで）のお子さん\n\n母子感染症予防の対象として、健康保険によりB型肝炎ワクチンの投与（抗HBs人免疫グロブリンを併用）の全部又は一部を受けた方については定期の予防接種の対象者から除きます。"
+  },
+  "updateDate": "2021-04-01",
+  "useConsiderationFlag": true,
+  "utilization": "事前に医療機関へ予約し、母子健康手帳を持参して接種してください。\n\n母子健康手帳の持参がない場合は、原則として接種できません。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "診療時間等はこちらをご覧ください\n町田市医師会ホームページ（外部サイト）\nhttp://www.machida.tokyo.med.or.jp/?page_id=13\n\n各医療機関の情報を掲載しています。",
+    "fromHM": null,
+    "toHM": null
+  }
+}

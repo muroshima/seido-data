@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども生活部子ども総務課手当・医療費助成係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+1+UM63"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども生活部子ども総務課手当・医療費助成係",
+    "contactPhone": "042-724-2139",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/6",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "児童育成手当（障がい手当）（都制度）\nマイナンバー（個人番号）が必要です\n新規申請や監護養育している児童の人数が変わった場合のお届けにマイナンバー（個人番号）の記載が必要となります。\nご申請の際には、申請者、対象児童のマイナンバー（個人番号）のわかるもの（マイナンバーカード、マイナンバー通知カード）と申請者の本人確認書類（運転免許証、パスポート等）を合わせてお持ち下さい。（「申請に必要なものは？」をご参照下さい。）\n\n<その他の手当＞\n下記のリンクより対象ページをご確認ください。\nまた、20歳以上の方は大人の障がい手当がありますので、下記「障がい者のための福祉」をご覧ください。20歳以上の方を対象とした手当には、障がい者ご本人だけの所得を審査し、保護者の所得は審査しないものもあります。\n\n重度心身障害者手当（都制度）\n重度心身障害者手当（都制度）\nhttps://www.city.machida.tokyo.jp/iryo/syougai_hukushi/teatenenkin/20211116-judo.html\n\n特別児童扶養手当（国制度）\n特別児童扶養手当（国制度）\nhttps://www.city.machida.tokyo.jp/iryo/syougai_hukushi/teatenenkin/20211116-tokuji.html\n\n障害児福祉手当（国制度）\n障害児福祉手当（国制度）\nhttps://www.city.machida.tokyo.jp/iryo/syougai_hukushi/teatenenkin/20211116-shougaiji.html\n\n障がい者のための福祉\n障がい者のための福祉\nhttps://www.city.machida.tokyo.jp/iryo/syougai_hukushi/index.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "障害児福祉手当",
+    "shortName": "障がい児の手当"
+  },
+  "localGovernmentLink": {
+    "title": "障がい児の手当",
+    "uri": "https://kosodate-machida.tokyo.jp/mokuteki/2/5/5191.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第3章",
+    "regulationName": "特別児童扶養手当等の支給に関する法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "身体または精神に重度の障がいのある20歳未満の方で、日常生活において常時介護を必要とする方に対し、手当が支給されます。",
+  "support": {
+    "description": "月額 15,500円",
+    "materiallySupport": null,
+    "monetarySupport": "15500"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "078"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "・20歳に達する月までの間にある次の児童を養育している保護者\n身体障害者手帳おおむね1級～2級の児童\n愛の手帳おおむね1度～3度の児童\n脳性マヒまたは進行性筋萎縮症の児童\n・児童が児童福祉施設等に入所していないこと\n・保護者の所得が限度額を超えないこと（所得限度額表については下記リンクをご覧ください）\n児童育成手当 所得限度額表\nhttps://kosodate-machida.tokyo.jp/soshiki/4/1/6/1/473.html",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "・20歳に達する月までの間にある次の児童を養育している保護者\n身体障害者手帳おおむね1級～2級の児童\n愛の手帳おおむね1度～3度の児童\n脳性マヒまたは進行性筋萎縮症の児童\n・児童が児童福祉施設等に入所していないこと\n・保護者の所得が限度額を超えないこと（所得限度額表については下記リンクをご覧ください）\n児童育成手当 所得限度額表\nhttps://kosodate-machida.tokyo.jp/soshiki/4/1/6/1/473.html"
+  },
+  "updateDate": "2022-04-04",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

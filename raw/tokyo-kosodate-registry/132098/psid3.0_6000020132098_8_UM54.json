@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健所保健予防課保健予防係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+8+UM54"
+  },
+  "belongings": "母子健康手帳",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健所保健予防課保健予防係",
+    "contactPhone": "042-725-5422",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "肺炎球菌、小児用肺炎球菌ワクチンについて\n小児用肺炎球菌ワクチンは、ときに肺炎・中耳炎・化膿性髄膜炎などを起こす肺炎球菌に対するものです。肺炎球菌による化膿性髄膜炎は5歳未満で年間150人前後が発症していると推定されています。\n\n・小児用肺炎球菌の予防接種に使用するワクチンが切り替わりました\n厚生労働省からの通知により、2013年11月1日より小児用肺炎球菌ワクチンが沈降7価肺炎球菌結合型ワクチンから、沈降13価肺炎球菌結合型ワクチンへ変更となりました。\n沈降13価肺炎球菌結合型ワクチンに切り替わることにより、従来よりも多くの種類に対して予防効果が期待できると考えられています。詳しくは以下のページをご覧ください。\n\n厚生労働省ホームページ「小児用肺炎球菌ワクチンの切り替えに関するQ＆A」（外部サイト）\nhttps://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou28/qa_haienkyuukin.html\n\n・関連情報\n国立感染症研究所・感染症情報センター「予防接種のページ」（外部サイト）\nhttp://idsc.nih.go.jp/vaccine/vaccine-j.html\n\n各予防接種に関する情報を提供しています。\n\n・その他の定期の予防接種\nヒブ\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1154.html\nB型肝炎\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1177.html\nロタウイルス感染症\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/8166.html\n四種混合<DPT-IPV>(ジフテリア、百日せき、破傷風、不活化ポリオ)\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1189.html\n不活化ポリオ\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1162.html\nBCG\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1152.html\n麻しん風しん<MR>\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1158.html\n水痘(水ぼうそう)\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1170.html\n日本脳炎\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1159.html\n二種混合<DT>(ジフテリア、破傷風)\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1160.html\n子宮頸がん予防ワクチン（HPVワクチン）\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1164.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "・個別通知時期\n生後1か月になる月の末ごろ\n\n（町田市における予防接種の受け方についてのご案内も同封します）",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "実施医療機関\n町田市内の指定医療機関（以下のページをご覧下さい）\n\n定期予防接種の実施医療機関\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1155.html\n\n八王子市・日野市・多摩市・稲城市・相模原市内の指定医療機関（以下のページをご覧ください）\n\n小児定期予防接種の相互乗入れを実施しています\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1153.html\n\n町田市・八王子市・日野市・多摩市・稲城市・相模原市内の指定医療機関以外（以下のページをご覧ください）\n\n町田市外で子どもの定期予防接種を希望される方へ\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/7807.html"
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "小児用肺炎球菌（接種開始：生後2か月以上7か月未満）"
+  },
+  "localGovernmentLink": {
+    "title": "小児用肺炎球菌",
+    "uri": "https://kosodate-machida.tokyo.jp/mokuteki/1/10/kakusyuyobousessyu/2270.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "小児任意予防接種費助成要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "国立感染症研究所・感染症情報センター「予防接種のページ」（外部サイト）",
+      "uri": "http://idsc.nih.go.jp/vaccine/vaccine-j.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。（現在、定期接種以外で小学校就学前のお子さんが接種できるワクチンとしては、おたふくかぜ、インフルエンザなどがあります。）このうち町田市では、一部の任意予防接種に対して、接種費用を助成しています。接種するかどうかについては、かかりつけ医とご相談のうえ、保護者の判断により決めてください。「小児用肺炎球菌ワクチン」について：ときに肺炎・中耳炎・化膿性髄膜炎などを起こす肺炎球菌に対するものです。肺炎球菌による化膿性髄膜炎は5歳未満で年間150人前後が発症していると推定されています。",
+  "support": {
+    "description": "標準的には27日以上間隔を空けて3回接種（1歳未満）、その後60日以上間隔を空けて追加接種を1回（1歳以上1歳3ヶ月未満）\nただし、初回2回目及び3回目の接種は、2歳未満で接種することとし、それを超えた場合は接種は行わない（追加接種は実施可能）。また、初回2回目の接種は1歳未満で行うこととし、それを超えた場合は、初回3回目の接種は行わない（追加接種は実施可能）。",
+    "materiallySupport": "標準的には27日以上間隔を空けて3回接種（1歳未満）、その後60日以上間隔を空けて追加接種を1回（1歳以上1歳3ヶ月未満）\nただし、初回2回目及び3回目の接種は、2歳未満で接種することとし、それを超えた場合は接種は行わない（追加接種は実施可能）。また、初回2回目の接種は1歳未満で行うこととし、それを超えた場合は、初回3回目の接種は行わない（追加接種は実施可能）。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "接種開始：生後2か月以上7か月未満",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 2
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": 7
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "接種を開始する年齢によって、接種回数は異なります。\n接種開始：生後2か月以上7か月未満"
+  },
+  "updateDate": "2021-04-01",
+  "useConsiderationFlag": true,
+  "utilization": "事前に医療機関へ予約し、母子健康手帳を持参して接種してください。\n\n母子健康手帳の持参がないと、原則として接種できません。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "診療時間等はこちらをご覧ください\n町田市医師会ホームページ（外部サイト）\nhttps://www.machida.tokyo.med.or.jp/?page_id=13\n\n各医療機関の情報を掲載しています。",
+    "fromHM": null,
+    "toHM": null
+  }
+}

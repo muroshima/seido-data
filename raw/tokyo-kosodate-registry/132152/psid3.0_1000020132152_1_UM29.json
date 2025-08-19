@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "132152;国立市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子育て支援課 子ども保健・発達支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132152",
+    "psid": "psid3.0+1000020132152+1+UM29"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "国立市富士見台3-16-5(保健センター内)",
+    "contactComment": "ファクス：042-574-3930",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 子育て支援課 子ども保健・発達支援係",
+    "contactPhone": "042-574-3311",
+    "contactUrl": "https://www.city.kunitachi.tokyo.jp/cgi-bin/inquiry.php/54?page_no=2082",
+    "zipCode": "1860003"
+  },
+  "cost": null,
+  "costConditions": "医療保険を使って治療した場合の自己負担額が助成されますが、ご家族の収入に応じて費用の一部を負担していただきます。\n\n国立市こども医療費の医療証をお持ちの方は、費用の一部を負担していただく額を乳幼児医療費助成制度(マル乳)から充当することができます。(委任状の提出が必要です。)",
+  "description": "未熟児養育医療の給付制度\n対象者\n次のいずれかの症状に該当する未熟児で、入院して養育を受ける必要があると医師が認めた乳児(0歳児)が対象です。\n\n1.出生時体重が2,000グラム以下の乳児\n2.1以外の乳児で、生活力が特に弱く、下記に掲げるいずれかの症状を示す乳児\n給付の対象となる乳児の症状\n||区分|症状|\n|:----|:----|:----|\n|1|一般状況|1.運動不安・けいれん<br>2.運動異常|\n|2|体温|摂氏34度以下|\n|3|呼吸器・循環器|1.強度のチアノーゼが持続<br>2.チアノーゼ発作を繰り返す<br>3.呼吸数が毎分50以上で増加傾向<br>4.呼吸数が毎分30以下<br>5.出血傾向が強い|\n|4|消化器|1.生後24時間以上排便がない<br>2.生後48時間以上嘔吐が持続<br>3.血性吐物、血性便がある|\n|5|黄だん|1.生後数時間以内に出現<br>2.異常に強い黄疸がある<br>(症状が黄疸のみの場合は、中程度以上の黄疸とする。)|\nなお、医療費助成が受けられる医療機関は、全国の指定された養育医療機関です。\n\n養育医療について (PDFファイル: 200.5KB);https://www.city.kunitachi.tokyo.jp/material/files/group/44/youikuiryo.pdf\n\n手続き方法\n国立市子育て支援課子ども保健・発達支援係(保健センター内)に申請してください。\n\n国立市役所くにサポ(子育て支援係)(20番窓口)でも受け付けます。\n\nなお、手続きが遅れた場合は、医療費の助成が受けられないことがありますので、ご注意ください。\n\n必要書類\n1.養育医療給付申請書\n2.養育医療意見書\n3.養育医療世帯調書\n4.委任状\n5.同意書\n6.お子さんの保険証のコピー\n1から5の書類は上記の窓口に置いてあります。\n\n公費負担額\n医療保険を使って治療した場合の自己負担額が助成されますが、ご家族の収入に応じて費用の一部を負担していただきます。\n\n国立市こども医療費の医療証をお持ちの方は、費用の一部を負担していただく額を乳幼児医療費助成制度(マル乳)から充当することができます。(委任状の提出が必要です。)",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "https://www.city.kunitachi.tokyo.jp/material/files/group/44/youikuiryo.pdf",
+    "implementationName": "https://www.city.kunitachi.tokyo.jp/material/files/group/44/youikuiryo.pdf"
+  },
+  "institutionName": {
+    "canonicalName": "未熟児養育医療の給付",
+    "shortName": "未熟児養育医療の給付制度"
+  },
+  "localGovernmentLink": {
+    "title": "未熟児養育医療の給付制度",
+    "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec04/gyomu/kenkou/1461061259209.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "国立市"
+  },
+  "procedureCounter": "国立市子育て支援課子ども保健・発達支援係(保健センター内),国立市役所くにサポ(子育て支援係)(20番窓口)",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "手続き方法\n国立市子育て支援課子ども保健・発達支援係(保健センター内)に申請してください。\n\n国立市役所くにサポ(子育て支援係)(20番窓口)でも受け付けます。\n\nなお、手続きが遅れた場合は、医療費の助成が受けられないことがありますので、ご注意ください。\n\n必要書類\n1.養育医療給付申請書\n2.養育医療意見書\n3.養育医療世帯調書\n4.委任状\n5.同意書\n6.お子さんの保険証のコピー\n1から5の書類は上記の窓口に置いてあります。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第20条（養育医療）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "養育医療について (PDFファイル: 200.5KB)",
+      "uri": "https://www.city.kunitachi.tokyo.jp/material/files/group/44/youikuiryo.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "未熟児養育医療の給付とは、身体の発育が未熟なまま生まれ入院を必要とする乳児が、指定養育医療機関において入院治療を受ける場合に、その治療に要する医療費を公費により負担する制度です。ただし、世帯の所得税額に応じて、入院治療費の一部は自己負担となります。",
+  "support": {
+    "description": "未熟児養育医療の給付",
+    "materiallySupport": null,
+    "monetarySupport": "未熟児養育医療の給付"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "089"
+    ]
+  },
+  "target": {
+    "conditions": "乳児(0歳児)",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象者\n次のいずれかの症状に該当する未熟児で、入院して養育を受ける必要があると医師が認めた乳児(0歳児)が対象です。\n\n1.出生時体重が2,000グラム以下の乳児\n2.1以外の乳児で、生活力が特に弱く、下記に掲げるいずれかの症状を示す乳児\n給付の対象となる乳児の症状\n||区分|症状|\n|:----|:----|:----|\n|1|一般状況|1.運動不安・けいれん<br>2.運動異常|\n|2|体温|摂氏34度以下|\n|3|呼吸器・循環器|1.強度のチアノーゼが持続<br>2.チアノーゼ発作を繰り返す<br>3.呼吸数が毎分50以上で増加傾向<br>4.呼吸数が毎分30以下<br>5.出血傾向が強い|\n|4|消化器|1.生後24時間以上排便がない<br>2.生後48時間以上嘔吐が持続<br>3.血性吐物、血性便がある|\n|5|黄だん|1.生後数時間以内に出現<br>2.異常に強い黄疸がある<br>(症状が黄疸のみの場合は、中程度以上の黄疸とする。)|\n"
+  },
+  "updateDate": "2023-06-30",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

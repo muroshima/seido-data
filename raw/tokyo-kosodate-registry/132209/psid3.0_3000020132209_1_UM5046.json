@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132209;東大和市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども未来部保育課保育・幼稚園係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132209",
+    "psid": "psid3.0+3000020132209+1+UM5046"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都東大和市中央3-930",
+    "contactComment": "ファクス：042-563-5928",
+    "contactEmail": null,
+    "contactEx": "1751",
+    "contactName": "子ども未来部保育課保育・幼稚園係",
+    "contactPhone": "042-563-2111",
+    "contactUrl": "https://www.city.higashiyamato.lg.jp/cgi-bin/contacts/G400300200",
+    "zipCode": "2078585"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "認可保育園（保育所）、認定こども園（保育部分）、小規模保育施設、家庭的保育等を利用する人\n認可保育園（保育所）、認定こども園（保育部分）、小規模保育、家庭的保育等を利用するには、保育の必要性があり、教育・保育給付認定（2号、3号）が必要です。\n給食費について\n市内の認可保育園（保育所）・認定こども園（保育分）に通う3～5歳児クラスのお子さんについては、給食費（副食費）が保護者負担となります。給食費（主食費）については、市が負担します。\n\n給食費の支払い先は、ご利用の各保育施設になります。\n市内の認可保育園の給食費（副食費）は、月額4,500円です。\n※認定こども園（保育部分）及び、市外園の金額については、各保育施設にお問い合わせください。\n\n給食費の免除について\n以下のいずれかに該当する場合は、給食費（副食費）が免除となります。\n\n生活保護世帯のお子さん\n年収360万円未満相当の世帯のお子さん（4～8月は前年度、9～3月は当該年度の住民税所得割額で判定します）\n小学校就学前のお子さんの中で最年長のお子さんを第1子と数え、第3子以降のお子さん\n※免除対象となる方には、市から免除通知が送付されます。申請等の手続きは不要です。\n\n免除対象表\n|階層|第1子|第2子|第3子以降|\n|:----|:----|:----|:----|\n|A　生活保護世帯等|免除対象|免除対象|免除対象|\n|B　A階層を除き、市民税が非課税、所得割が非課税の世帯|免除対象|免除対象|免除対象|\n|C　所得割額が57,700円未満|免除対象|免除対象|免除対象|\n|D1　所得割額が57,700円から77,101円未満<br>うちひとり親家庭等|免除対象|免除対象|免除対象|\n|D1　所得割額が57,700円から77,101円未満<br>その他|免除対象外|免除対象外|免除対象|\n|D2　所得割額77,101円以上|免除対象外|免除対象外|免除対象|\n\n※所得割額は、父母の住民税所得割額の合計となります。父母が非課税で、同居している祖父母等がいる場合、祖父母等の所得割額も含めます。\n※住民税が未申告の方は、対象となりません。申告後に対象となる場合、保育課が申告等を把握した翌月から免除対象となります。\n申告後、保育課へ申告書の写しを速やかに提出ください。月を遡って免除対象にはなりませんのでご注意ください。\n※第3子以降とは、小学校就学前で最年長の子どもを第1子とカウントし、第3子以降の子どもを言う。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "副食費補助",
+    "shortName": "認可保育園（保育所）、認定こども園（保育部分）、小規模保育施設、家庭的保育等を利用する人"
+  },
+  "localGovernmentLink": {
+    "title": "幼児教育・保育の無償化",
+    "uri": "https://www.city.higashiyamato.lg.jp/kosodatekyoiku/hoiku/1003274/1003275.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "東大和市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "免除対象となる方には、市から免除通知が送付されます。申請等の手続きは不要です。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "東大和市では、一定の要件を満たしている世帯を対象に、保育所等で提供される給食等にかかる食材料費の一部（副食費）を免除しています。",
+  "support": {
+    "description": "給食費（副食費）が免除となります。",
+    "materiallySupport": null,
+    "monetarySupport": "給食費（副食費）が免除となります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "以下のいずれかに該当する場合は、給食費（副食費）が免除となります。\n\n生活保護世帯のお子さん\n年収360万円未満相当の世帯のお子さん（4～8月は前年度、9～3月は当該年度の住民税所得割額で判定します）\n小学校就学前のお子さんの中で最年長のお子さんを第1子と数え、第3子以降のお子さん\n※免除対象となる方には、市から免除通知が送付されます。申請等の手続きは不要です。\n\n免除対象表\n|階層|第1子|第2子|第3子以降|\n|:----|:----|:----|:----|\n|A　生活保護世帯等|免除対象|免除対象|免除対象|\n|B　A階層を除き、市民税が非課税、所得割が非課税の世帯|免除対象|免除対象|免除対象|\n|C　所得割額が57,700円未満|免除対象|免除対象|免除対象|\n|D1　所得割額が57,700円から77,101円未満<br>うちひとり親家庭等|免除対象|免除対象|免除対象|\n|D1　所得割額が57,700円から77,101円未満<br>その他|免除対象外|免除対象外|免除対象|\n|D2　所得割額77,101円以上|免除対象外|免除対象外|免除対象|\n\n※所得割額は、父母の住民税所得割額の合計となります。父母が非課税で、同居している祖父母等がいる場合、祖父母等の所得割額も含めます。\n※住民税が未申告の方は、対象となりません。申告後に対象となる場合、保育課が申告等を把握した翌月から免除対象となります。\n申告後、保育課へ申告書の写しを速やかに提出ください。月を遡って免除対象にはなりませんのでご注意ください。\n※第3子以降とは、小学校就学前で最年長の子どもを第1子とカウントし、第3子以降の子どもを言う。"
+  },
+  "updateDate": "2023-11-30",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

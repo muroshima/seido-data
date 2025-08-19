@@ -1,0 +1,136 @@
+{
+  "area": {
+    "areaCode": "132080;調布市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉健康部健康推進課 ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020132080",
+    "psid": "psid3.0+7000020132080+1+UM66"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-441-6101",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉健康部健康推進課",
+    "contactPhone": "042-441-6100",
+    "contactUrl": "https://www.city.chofu.lg.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "大気汚染医療費助成\n\n気管支ぜん息などの疾病をお持ちの方は、東京都より医療費の助成があります。\n\n対象となる疾病・対象年齢\n1.気管支ぜん息(全年齢)　(注)平成27年4月1日から、18歳以上は新規申請の対象外となります。\n\n2.慢性気管支炎(18歳未満)\n3.ぜん息性気管支炎(18歳未満)\n4.肺気腫(18歳未満)\n\n対象者\n上記の年齢で、次の3項目に該当する方\n1.東京都内に引き続き1年(3歳未満は6か月)以上住所を有する方\n2.健康保険に加入している方(被扶養者含む)\n3.申請日以降、喫煙しない方\n\n助成される内容\n医療券の有効期限内に、医療券に記載された疾病の治療に要した医療費のうち、健康保険を適応した後の自己負担額(入院時食事療養費の標準負担額を除く)\n\n申請場所\n保健センター4階(調布市民以外の方は、お住まいの区市町村担当窓口へ)\n\n注意\n本制度は、平成27年度4月1日から改正されます。\n改正の詳細は、下記の東京都のホームページからご確認ください。\n\n有効期間の延長\n「東京都における新型コロナウイルス感染症のまん延の影響を受けた者の権利利益の保全等を図るための特別措置に関する条例」(令和2年東京都条例第54号)の施行に伴い、一部の医療券について、有効期間の延長があります。詳細は、東京都ホームぺージをご覧ください。\n\n関連リンク\n医療券(気管支ぜん息)の更新を忘れずに;https://www.city.chofu.lg.jp/060070/p037070.html\n\n外部リンク\n東京都大気汚染医療費助成（外部リンク）;https://www.fukushihoken.metro.tokyo.lg.jp/kankyo/kankyo_eisei/taiki/iryouhi/index.html\n東京都ホームページ（外部リンク）;https://www.fukushihoken.metro.tokyo.lg.jp/kankyo/kankyo_eisei/taiki/iryouhi/tokubetsusochi.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "保健センター4階(調布市民以外の方は、お住まいの区市町村担当窓口へ)"
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の医療費助成制度",
+    "shortName": "大気汚染医療費助成"
+  },
+  "localGovernmentLink": {
+    "title": "大気汚染医療費助成",
+    "uri": "https://www.city.chofu.lg.jp/060070/p037076.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "調布市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "大気汚染に係る健康障害者に対する医療費の助成に関する条例"
+  },
+  "relatedLink": [
+    {
+      "title": "東京都大気汚染医療費助成（外部リンク）",
+      "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kankyo/kankyo_eisei/taiki/iryouhi/index.html"
+    },
+    {
+      "title": "東京都ホームページ（外部リンク）",
+      "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kankyo/kankyo_eisei/taiki/iryouhi/tokubetsusochi.html"
+    },
+    {
+      "title": "医療券(気管支ぜん息)の更新を忘れずに",
+      "uri": "https://www.city.chofu.lg.jp/060070/p037070.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "大気汚染の影響を受けると推定される疾病（気管支ぜん息など）にかかった方に対し、一定の要件を満たす場合に、医療費の助成をしています。",
+  "support": {
+    "description": "助成される内容\n医療券の有効期限内に、医療券に記載された疾病の治療に要した医療費のうち、健康保険を適応した後の自己負担額(入院時食事療養費の標準負担額を除く)",
+    "materiallySupport": null,
+    "monetarySupport": "助成される内容\n医療券の有効期限内に、医療券に記載された疾病の治療に要した医療費のうち、健康保険を適応した後の自己負担額(入院時食事療養費の標準負担額を除く)"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象となる疾病・対象年齢\n1.気管支ぜん息(全年齢)　(注)平成27年4月1日から、18歳以上は新規申請の対象外となります。\n2.慢性気管支炎(18歳未満)\n3.ぜん息性気管支炎(18歳未満)\n4.肺気腫(18歳未満)\n\n対象者\n上記の年齢で、次の3項目に該当する方\n1.東京都内に引き続き1年(3歳未満は6か月)以上住所を有する方\n2.健康保険に加入している方(被扶養者含む)\n3.申請日以降、喫煙しない方"
+  },
+  "updateDate": "2020-05-19",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132250;稲城市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども福祉部　子育て支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132250",
+    "psid": "psid3.0+2000020132250+1+UM29"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "稲城市東長沼2111番地",
+    "contactComment": "ファクス：042-377-4781",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども福祉部　子育て支援課",
+    "contactPhone": "042-378-2111",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "未熟児養育医療給付制度\n更新日：2023年7月6日\n未熟児養育医療とは\n身体の発育が未熟なままで生まれ、入院を必要とする乳児に対して、その治療に必要な医療費を市が負担する制度です。養育医療給付を受けることができるのは、全国の指定養育医療機関での治療に限られます。\nなお、世帯の特別区民税または市町村民税額に応じて、自己負担金が生じますが、乳幼児医療費助成制度（マル乳）を併用する場合は、自己負担金からマル乳助成分が差し引かれます。\n\n対象者\n稲城市に住所を有する未熟児で、次のいずれかに該当し、入院して養育を受ける必要があると医師が認めた乳児（0歳児）が対象となります。\n（1）出生時の体重が2,000グラム以下の乳児\n（2）前記（1）以外の乳児で、次に掲げるいずれかの症状を示す乳児\n対象となる症状\n|1.一般状態|（1）運動不安・けいれん<br>（2）運動異常|\n|2.体温|（1）摂氏34度以下|\n|3.呼吸器、循環器|（1）強度のチアノーゼが持続<br>（2）チアノーゼ発作を繰り返す<br>（3）呼吸数が毎分50以上で増加傾向<br>（4）呼吸数が毎分30以下<br>（5）出血傾向が強い|\n|4.消化器系|（1）生後24時間以上排便がない<br>（2）生後48時間以上嘔吐が持続<br>（3）血性吐物・血性便がある|\n|5.黄疸|生後数時間以内に現れるか、異常に強い黄疸のあるもの<br>（症状が黄疸のみの場合は、中程度異常の黄疸とする）|\n\n給付対象\n診察、薬剤または治療材料の支給、医学的処置、入院等に対して公費負担を受けられます。ただし、健康保険が適用される医療費（食事療養費を含む）が給付範囲となりますので、おむつ代や差額ベッド代などの保険適用外のものについては対象となりません。\n\n申請方法\n市役所2階子育て支援課手当助成係に下記の必要書類を提出し申請をしてください。\n注意：手続きが遅れた場合は、医療給付が受けられないことがありますので、ご注意ください。\n\n手続き可能日時\n開庁日の午前8時30分から午後5時\n注釈：休日開庁日を除く。\n\n必要書類\n（1）養育医療給付申請書\n申請者の方が記入してください。\n様式はこちら;https://www.city.inagi.tokyo.jp/shinseisho/soshikibetsu/kodomofukushibu/kosodatesien/iryoushou.htmlよりダウンロードしてください。\n（2）養育医療意見書\n指定養育医療機関（東京都福祉局ホームページへ外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/mijukuji.htmlの担当医師に作成してもらってください。\n（3）養育医療世帯調書\n申請者の方が記入してください。\n様式はこちら;https://www.city.inagi.tokyo.jp/shinseisho/soshikibetsu/kodomofukushibu/kosodatesien/iryoushou.htmlよりダウンロードしてください。\n（4）マイナンバーの確認書類\n「（3）養育医療世帯調書」へ記載した、マイナンバーの確認書類についての案内はこちら;https://www.city.inagi.tokyo.jp/kosodate/kosodate/teate_josei_kyuhu/jidouteatenado/mynumber_kankeisyorui.html\n（5）地方税関係情報照会の同意書\n注釈：次のいずれかに該当する方のみ提出が必要です。\n○申請日が1月から6月の場合で、前年の1月1日時点で稲城市に住民登録のない申請者及び同居者\n○申請日が7月から12月の場合で、当年の1月1日時点で稲城市に住民登録のない申請者及び同居者\n注釈：ご提出いただいた書類の審査の過程で追加の書類提出を求める場合があります。\n地方税関係情報照会の同意書（PDF：146KB）;https://www.city.inagi.tokyo.jp/kosodate/kosodate/teate_josei_kyuhu/jidouteatenado/youiku_iryou_kyufu.files/zeidouisyo_reiwa.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "未熟児養育医療の給付",
+    "shortName": "未熟児養育医療給付制度"
+  },
+  "localGovernmentLink": {
+    "title": "未熟児養育医療給付制度",
+    "uri": "https://www.city.inagi.tokyo.jp/kosodate/kosodate/teate_josei_kyuhu/jidouteatenado/youiku_iryou_kyufu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-05-29",
+    "updater": "稲城市"
+  },
+  "procedureCounter": "市役所2階子育て支援課手当助成係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請方法\n市役所2階子育て支援課手当助成係に下記の必要書類を提出し申請をしてください。\n注意：手続きが遅れた場合は、医療給付が受けられないことがありますので、ご注意ください。\n手続き可能日時\n開庁日の午前8時30分から午後5時\n注釈：休日開庁日を除く。\n必要書類\n（1）養育医療給付申請書\n申請者の方が記入してください。\n様式はこちら;https://www.city.inagi.tokyo.jp/shinseisho/soshikibetsu/kodomofukushibu/kosodatesien/iryoushou.htmlよりダウンロードしてください。\n（2）養育医療意見書\n指定養育医療機関（東京都福祉局ホームページへ外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/mijukuji.htmlの担当医師に作成してもらってください。\n（3）養育医療世帯調書\n申請者の方が記入してください。\n様式はこちら;https://www.city.inagi.tokyo.jp/shinseisho/soshikibetsu/kodomofukushibu/kosodatesien/iryoushou.htmlよりダウンロードしてください。\n（4）マイナンバーの確認書類\n「（3）養育医療世帯調書」へ記載した、マイナンバーの確認書類についての案内はこちら;https://www.city.inagi.tokyo.jp/kosodate/kosodate/teate_josei_kyuhu/jidouteatenado/mynumber_kankeisyorui.html\n（5）地方税関係情報照会の同意書\n注釈：次のいずれかに該当する方のみ提出が必要です。\n○申請日が1月から6月の場合で、前年の1月1日時点で稲城市に住民登録のない申請者及び同居者\n○申請日が7月から12月の場合で、当年の1月1日時点で稲城市に住民登録のない申請者及び同居者\n注釈：ご提出いただいた書類の審査の過程で追加の書類提出を求める場合があります。\n地方税関係情報照会の同意書（PDF：146KB）;https://www.city.inagi.tokyo.jp/kosodate/kosodate/teate_josei_kyuhu/jidouteatenado/youiku_iryou_kyufu.files/zeidouisyo_reiwa.pdf",
+  "procedurePeriod": {
+    "conditions": "開庁日の午前8時30分から午後5時\n注釈：休日開庁日を除く。",
+    "fromHM": "08:30",
+    "fromYMD": null,
+    "toHM": "17:00",
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第20条（養育医療）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "未熟児養育医療の給付とは、身体の発育が未熟なまま生まれ入院を必要とする乳児が、指定養育医療機関において入院治療を受ける場合に、その治療に要する医療費を公費により負担する制度です。ただし、世帯の所得税額に応じて、入院治療費の一部は自己負担となります。",
+  "support": {
+    "description": "給付対象\n診察、薬剤または治療材料の支給、医学的処置、入院等に対して公費負担を受けられます。ただし、健康保険が適用される医療費（食事療養費を含む）が給付範囲となりますので、おむつ代や差額ベッド代などの保険適用外のものについては対象となりません。",
+    "materiallySupport": null,
+    "monetarySupport": "給付対象\n診察、薬剤または治療材料の支給、医学的処置、入院等に対して公費負担を受けられます。ただし、健康保険が適用される医療費（食事療養費を含む）が給付範囲となりますので、おむつ代や差額ベッド代などの保険適用外のものについては対象となりません。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "089"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象者\n稲城市に住所を有する未熟児で、次のいずれかに該当し、入院して養育を受ける必要があると医師が認めた乳児（0歳児）が対象となります。\n（1）出生時の体重が2,000グラム以下の乳児\n（2）前記（1）以外の乳児で、次に掲げるいずれかの症状を示す乳児\n対象となる症状\n|1.一般状態|（1）運動不安・けいれん<br>（2）運動異常|\n|2.体温|（1）摂氏34度以下|\n|3.呼吸器、循環器|（1）強度のチアノーゼが持続<br>（2）チアノーゼ発作を繰り返す<br>（3）呼吸数が毎分50以上で増加傾向<br>（4）呼吸数が毎分30以下<br>（5）出血傾向が強い|\n|4.消化器系|（1）生後24時間以上排便がない<br>（2）生後48時間以上嘔吐が持続<br>（3）血性吐物・血性便がある|\n|5.黄疸|生後数時間以内に現れるか、異常に強い黄疸のあるもの<br>（症状が黄疸のみの場合は、中程度異常の黄疸とする）|"
+  },
+  "updateDate": "2023-07-06",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

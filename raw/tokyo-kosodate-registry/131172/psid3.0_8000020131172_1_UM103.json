@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "131172;北区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部保健サービス課王子健康支援センター,健康部保健サービス課赤羽健康支援センター,健康部保健サービス課滝野川健康支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131172",
+    "psid": "psid3.0+8000020131172+1+UM103"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都北区東十条2-7-3　北区保健所1階,東京都北区赤羽南1-13-1　赤羽会館6階,東京都北区西ヶ原1-19-12",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部保健サービス課王子健康支援センター,健康部保健サービス課赤羽健康支援センター,健康部保健サービス課滝野川健康支援センター",
+    "contactPhone": "03-3919-7588,03-3903-6481,03-3915-0184",
+    "contactUrl": null,
+    "zipCode": "1140001,1150044,1140024"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "育児相談・ふたご以上の子育てのために（ツインズ・イン・北区）\n受講にあたっては、以下の点についてご理解とご協力をお願いします。\n感染症対策のため、人数や時間等を調整して実施します。\n来所される方や、同居のご家族に発熱などの体調不良があった場合には、受講をお控えいただけますようお願いします。\n受付等で手指のアルコール消毒、受講中のマスクの着用のご協力をお願いします。\n \nふたごが生まれる。ふたごが生まれた。みつごが生まれる。みつごが生まれた。\n「おっぱいは二人いっぺんに飲ませるの？」「ふたご用のベビーカーって？」などなど。\nふたご以上ならではの悩みなどを交流していく会です。\n\n対象\n区内在住のふたご以上のお子さんたちとその保護者の方\n区内在住のふたご以上のお子さんを出産予定の方\n\n内容\n主に懇談会となります。\n\n会場\nhttps://www.city.kita.tokyo.jp/k-suishin/kosodate/nayami/twins2112.html\n申込方法・申込先\n事前予約制です。開催日は下記の日程表でご確認ください。\n申込は、実施会場の健康支援センターに電話にて、お問い合わせください。\n※定員に達し次第、締め切らせていただきます。\n※お住いの地域に関わらず、お申込ください。\n\n日程表\nhttps://www.city.kita.tokyo.jp/k-suishin/kosodate/nayami/twins2112.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "https://www.city.kita.tokyo.jp/k-suishin/kosodate/nayami/twins2112.html",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "東十条2-7-3　北区保健所2階講堂,赤羽南1-13-1　赤羽会館7階,西ケ原1-19-12　滝野川健康支援センター",
+    "implementationName": "王子健康支援センター,赤羽健康支援センター,滝野川健康支援センター"
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関する教室・講習会",
+    "shortName": "育児相談・ふたご以上の子育てのために（ツインズ・イン・北区）"
+  },
+  "localGovernmentLink": {
+    "title": "育児相談・ふたご以上の子育てのために（ツインズ・イン・北区）",
+    "uri": "https://www.city.kita.tokyo.jp/k-suishin/kosodate/nayami/twins2112.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "北区"
+  },
+  "procedureCounter": "実施会場の健康支援センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "事前予約制です。開催日は下記の日程表でご確認ください。\n\n申込は、実施会場の健康支援センターに電話にて、お問い合わせください。\n\n※定員に達し次第、締め切らせていただきます。\n\n※お住いの地域に関わらず、お申込ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第24条、第21条の9",
+    "regulationName": "学校教育法、児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "双子や三つ子など多胎児の、妊娠中や育児の悩みを話し合い、仲間作りの場となるツインズ・イン・北区を開催しています。保健師による相談コーナーもあります。",
+  "support": {
+    "description": "ふたご以上ならではの悩みなどを交流していく会\n内容\n主に懇談会となります。",
+    "materiallySupport": "ふたご以上ならではの悩みなどを交流していく会\n内容\n主に懇談会となります。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住のふたご以上のお子さんたちとその保護者の方\n区内在住のふたご以上のお子さんを出産予定の方"
+  },
+  "updateDate": "2024-04-23",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

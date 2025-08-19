@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "133647;神津島村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援センター,役場福祉課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020133647",
+    "psid": "psid3.0+9000020133647+1+UM83"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援センター,役場福祉課",
+    "contactPhone": "04992-8-1180,04992-8-0011",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "利用当日のお迎えの際にお支払いとなります。\n|利用者の区分|<|1 時間|2 時間|3 時間|4 時間|\n|:----|:----|:----|:----|:----|:----|\n|下記以外|3～6 歳|２００円|３００円|５００円|６００円|\n|^|０～2 歳|３００円|５００円|８００円|１０００円|\n|生活保護世帯に属する|<|０円|０円|０円|０円|\n\n※当日キャンセルの場合キャンセル料(利用予約分の料金)が発生します。(利用者本人の発熱・ケガなどのやむおえない場合は除きます)\n※やむを得ない場合の当日キャンセルは８：３０分までにご連絡ください。\n※連絡がない場合、予約時間を過ぎた場合は、理由を問わずキャンセル料が発生します。",
+  "description": "乳幼児一時預かり\n家庭で子どもを育てている方々への支援として一時預かりを行っています。ぜひご利用ください。\n・対象\n☆神津島村に住所を持つ、生後 6 ヶ月から就学前までの子\n☆保護者が下記の①～③の理由により、家庭での保育が一時的に困難となり、短時間の預かりが必要となる乳幼児\n ①保護者・兄弟姉妹が疾病のため通院\n ②保護者・兄弟姉妹が健診等を受診\n ③保護者がリフレッシュのため\n☆その他緊急的に預かりが必要と認められた子\n・場所 子ども家庭支援センター\n・利用日時\n月曜日～金曜日(年末年始・祝祭日は除く)、午前８時３０分～午後５時の間の１日４時間以内(間に合わない場合はご相談ください)。\n※リフレッシュ目的の場合は月３回まで\n※緊急、急用、学校行事、就労(日中預かる保護者がいない等)の場合は月１０回まで相談に応じます。\n・申し込み方法\n原則、利用日の５日前までに利用申請書を子ども家庭支援センターまたは役場福祉課にてご提出ください。利用の決定が決まりましたら、決定通知書を利用者ご本人にお渡しします。\n・利用料金\n利用当日のお迎えの際にお支払いとなります。\n|利用者の区分|<|1 時間|2 時間|3 時間|4 時間|\n|:----|:----|:----|:----|:----|:----|\n|下記以外|3～6 歳|２００円|３００円|５００円|６００円|\n|^|０～2 歳|３００円|５００円|８００円|１０００円|\n|生活保護世帯に属する|<|０円|０円|０円|０円|\n\n※当日キャンセルの場合キャンセル料(利用予約分の料金)が発生します。(利用者本人の発熱・ケガなどのやむおえない場合は除きます)\n※やむを得ない場合の当日キャンセルは８：３０分までにご連絡ください。\n※連絡がない場合、予約時間を過ぎた場合は、理由を問わずキャンセル料が発生します。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "子ども家庭支援センター"
+  },
+  "institutionName": {
+    "canonicalName": "一時預かり（一時保育）",
+    "shortName": "乳幼児一時預かり"
+  },
+  "localGovernmentLink": {
+    "title": "たのしい子育てをするために",
+    "uri": "https://www.vill.kouzushima.tokyo.jp/images/2023/03/20210318-tanosii.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-08-19",
+    "updater": "神津島村"
+  },
+  "procedureCounter": "子ども家庭支援センターまたは役場福祉課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "利用申請書を子ども家庭支援センターまたは役場福祉課にてご提出ください。利用の決定が決まりましたら、決定通知書を利用者ご本人にお渡しします。",
+  "procedurePeriod": {
+    "conditions": "原則、利用日の５日前までに利用申請書を子ども家庭支援センターまたは役場福祉課にてご提出ください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第7項、第21条の9、第59条第10号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者のパート就労や病気等による緊急時、育児疲れなどのリフレッシュのために、家庭において保育を受けることが一時的に困難となったお子さんを、地域子育て支援拠点などで一時的にお預かりしています。",
+  "support": {
+    "description": "家庭で子どもを育てている方々への支援として一時預かりを行っています。",
+    "materiallySupport": "家庭で子どもを育てている方々への支援として一時預かりを行っています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後 6 ヶ月から就学前までの子",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 6
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "☆神津島村に住所を持つ、生後 6 ヶ月から就学前までの子\n☆保護者が下記の①～③の理由により、家庭での保育が一時的に困難となり、短時間の預かりが必要となる乳幼児\n ①保護者・兄弟姉妹が疾病のため通院\n ②保護者・兄弟姉妹が健診等を受診\n ③保護者がリフレッシュのため\n☆その他緊急的に預かりが必要と認められた子"
+  },
+  "updateDate": "2021-03-18",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日～金曜日(年末年始・祝祭日は除く)、午前８時３０分～午後５時の間の１日４時間以内(間に合わない場合はご相談ください)。",
+    "fromHM": "08:30",
+    "toHM": "17:00"
+  }
+}

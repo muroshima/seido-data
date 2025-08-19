@@ -1,0 +1,159 @@
+{
+  "area": {
+    "areaCode": "132276;羽村市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子育て支援課（保育・幼稚園係）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132276",
+    "psid": "psid3.0+1000020132276+1+UM89"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "内線233",
+    "contactName": "子ども家庭部 子育て支援課（保育・幼稚園係）",
+    "contactPhone": "042-555-1111",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "保育園・幼稚園・認定こども園・認証保育所　施設案内\n初版公開日:[2023年03月01日]更新日：[2024年6月28日]ID:17324\n\n市内保育園、幼稚園、認定こども園、認証保育所の施設案内です。\n一日の流れや特色などが掲載されています。\n\n施設案内等\n保育園・幼稚園・認定こども園・認証保育所　施設案内\n施設案内 (PDF形式、12.82MB);https://www.city.hamura.tokyo.jp/cmsfiles/contents/0000017/17324/annnai.pdf\n保育園・幼稚園・認定こども園・認証保育所等の施設案内です。\nマップ① (PDF形式、1.06MB);https://www.city.hamura.tokyo.jp/cmsfiles/contents/0000017/17324/map2.pdf\n認可保育園、認定こども園【保育】、認証、家庭的保育者のマップです。\nマップ② (PDF形式、1.03MB);https://www.city.hamura.tokyo.jp/cmsfiles/contents/0000017/17324/map.pdf\n幼稚園、認定こども園【教育】のマップです。\n\n入所に関する手続きなど\n保育施設等の令和6年度利用申込みについて（別ウインドウで開く）;https://www.city.hamura.tokyo.jp/0000018137.html\n\nこの記事と同じ分類の記事\n利用者負担額（保育料）の第2子以降無償化に伴うご案内; https://www.city.hamura.tokyo.jp/0000017958.html\n保育園とは; https://www.city.hamura.tokyo.jp/0000001898.html\nはむら保育展; https://www.city.hamura.tokyo.jp/prsite/0000010571.html\n市内保育所等を紹介します（市内保育所等一覧）; https://www.city.hamura.tokyo.jp/prsite/0000000466.html\n保育施設等の令和6年度利用申込みについて; https://www.city.hamura.tokyo.jp/0000018137.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "認可保育所・認定こども園（保育園枠）一覧",
+    "shortName": "保育園・幼稚園・認定こども園・認証保育所　施設案内"
+  },
+  "localGovernmentLink": {
+    "title": "保育園・幼稚園・認定こども園・認証保育所　施設案内",
+    "uri": "https://www.city.hamura.tokyo.jp/0000017324.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "羽村市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "入所に関する手続きなど\n保育施設等の令和6年度利用申込みについて（別ウインドウで開く）;https://www.city.hamura.tokyo.jp/0000018137.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "マップ① (PDF形式、1.06MB)",
+      "uri": "https://www.city.hamura.tokyo.jp/cmsfiles/contents/0000017/17324/map2.pdf"
+    },
+    {
+      "title": "施設案内 (PDF形式、12.82MB)",
+      "uri": "https://www.city.hamura.tokyo.jp/cmsfiles/contents/0000017/17324/annnai.pdf"
+    },
+    {
+      "title": "マップ② (PDF形式、1.03MB)",
+      "uri": "https://www.city.hamura.tokyo.jp/cmsfiles/contents/0000017/17324/map.pdf"
+    },
+    {
+      "title": "利用者負担額（保育料）の第2子以降無償化に伴うご案内",
+      "uri": "https://www.city.hamura.tokyo.jp/0000017958.html"
+    },
+    {
+      "title": "保育施設等の令和6年度利用申込みについて",
+      "uri": "https://www.city.hamura.tokyo.jp/0000018137.html"
+    },
+    {
+      "title": "はむら保育展",
+      "uri": "https://www.city.hamura.tokyo.jp/prsite/0000010571.html"
+    },
+    {
+      "title": "保育園とは",
+      "uri": "https://www.city.hamura.tokyo.jp/0000001898.html"
+    },
+    {
+      "title": "保育施設等の令和6年度利用申込みについて（別ウインドウで開く）",
+      "uri": "https://www.city.hamura.tokyo.jp/0000018137.html"
+    },
+    {
+      "title": "市内保育所等を紹介します（市内保育所等一覧）",
+      "uri": "https://www.city.hamura.tokyo.jp/prsite/0000000466.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育園とは、保護者が仕事や病気などのために、家庭で充分に保育することができない子どもを、保護者に代わって保育することを目的とした児童福祉施設で、法的には保育所といいます。\n保育所（保育園）のうち、国が定めた設定基準をクリアし、都道府県知事（政令市・中核市では市長）に認可された保育園を「認可保育所」といいます。\n認可保育所には公立の保育園と私立の保育園があります。\n以下は、羽村市の認可保育所（保育園）および認定こども園の保育園枠の一覧です。",
+  "support": {
+    "description": "市内保育園、幼稚園、認定こども園、認証保育所の施設案内です。\n一日の流れや特色などが掲載されています。\n\n施設案内等\n保育園・幼稚園・認定こども園・認証保育所　施設案内\n施設案内 (PDF形式、12.82MB);https://www.city.hamura.tokyo.jp/cmsfiles/contents/0000017/17324/annnai.pdf\n保育園・幼稚園・認定こども園・認証保育所等の施設案内です。\nマップ① (PDF形式、1.06MB);https://www.city.hamura.tokyo.jp/cmsfiles/contents/0000017/17324/map2.pdf\n認可保育園、認定こども園【保育】、認証、家庭的保育者のマップです。\nマップ② (PDF形式、1.03MB);https://www.city.hamura.tokyo.jp/cmsfiles/contents/0000017/17324/map.pdf\n幼稚園、認定こども園【教育】のマップです。",
+    "materiallySupport": "市内保育園、幼稚園、認定こども園、認証保育所の施設案内です。\n一日の流れや特色などが掲載されています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-06-28",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

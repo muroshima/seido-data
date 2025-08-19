@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132128;日野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども部保育課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132128",
+    "psid": "psid3.0+1000020132128+1+UM93"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都日野市神明1丁目13番地の2　子ども包括支援センター1階",
+    "contactComment": "保育幼稚園係 042-514-8637　管理係 042-514-8638　整備調整係 042-514-8972,代表電話：042-585-1111",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども部保育課",
+    "contactPhone": "042-514-8637,042-514-8638,042-514-8972,042-585-1111",
+    "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120200",
+    "zipCode": "1910016"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "保育ママ（申込みは直接保育ママへ）\n保育ママ一覧\n|保育ママ名|受入年齢|受入週|定員|所在地|電話番号|認定年月|開設時間|保育料設定|\n|:----|:----|:----|:----|:----|:----|:----|:----|:----|\n|藤田由紀子|0歳から2歳|8週から|3人|百草917の1 エステート百草台1の102|042-592-9125|平成3年2月|7時30分から午後6時|月極め|\n\n※ 保育料:基本保育以外の保育は、別途時間外保育料金がかかります。\n※ 保育ママの入所に必要な書類\n児童委託申込書・保育委託契約書・在職証明書（母が勤務の場合）、母子手帳の写し（母親が出産予定の場合）、医師の診断書、入院証明書、障害者手帳の写し（母親もしくは看護を要する方が疾病・入院・通院の場合）・児童票\n※ 受入週等については、あくまでも目安ですので、施設とご相談下さい。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "家庭的保育（保育ママ）一覧",
+    "shortName": "保育ママ一覧"
+  },
+  "localGovernmentLink": {
+    "title": "日野市内保育施設の一覧表（令和6年度）",
+    "uri": "https://www.city.hino.lg.jp/kosodate/hoikuen/nyuen/1024910.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-19",
+    "updater": "日野市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第二章 家庭的保育事業",
+    "regulationName": "家庭的保育事業等の設備及び運営に関する基準"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "市区町村の認可事業として行われる家庭的保育（保育ママ）は、3歳未満の保育が必要なお子さんを、少人数（定員3人以下）で、日野市が認定した家庭的保育者の自宅などで預かるサービスです。家庭的な雰囲気の中できめ細かな保育を実施します。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

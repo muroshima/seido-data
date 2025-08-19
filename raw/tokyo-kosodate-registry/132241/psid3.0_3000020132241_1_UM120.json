@@ -1,0 +1,139 @@
+{
+  "area": {
+    "areaCode": "132241;多摩市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども・若者政策課 手当・医療・相談担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132241",
+    "psid": "psid3.0+3000020132241+1+UM120"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都多摩市関戸六丁目12番地1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども・若者政策課 手当・医療・相談担当",
+    "contactPhone": "042-338-6833",
+    "contactUrl": null,
+    "zipCode": "2068666"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "多摩市ひとり親家庭応援まめガイド　まめたま\nひとり親世帯の方が、多摩市で安心して生活を送れるように、制度や相談先の案内一覧が載ったまめガイド「まめたま」です。\n\n下記データを印刷する際は、A3用紙に両面印刷をし、マップ折（長辺を山折・谷折と蛇腹に折った後、長辺を半分に山折りする）をしてご活用ください。\n\n多摩市ひとり親家庭応援まめガイド　まめたま （PDF 8.7MB）;https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/462/mametama.pdf\n関連情報\nTAMA女性センター相談室;https://www.city.tama.lg.jp/kenkofukushi/danjyo/josei/1003354.html\n東京都ひとり親家庭支援センターはあと（外部リンク）;http://www.haat.or.jp/\nシングルママ・シングルパパ くらし応援ナビ Tokyo（外部リンク）;https://www.single-ouen-navi.metro.tokyo.lg.jp/",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関するその他のこと",
+    "shortName": "ひとり親家庭応援まめガイド　まめたま"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親家庭応援まめガイド　まめたま",
+    "uri": "https://www.city.tama.lg.jp/kurashi/soudan/support/1011744.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "多摩市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "東京都ひとり親家庭支援センターはあと（外部リンク）",
+      "uri": "http://www.haat.or.jp/"
+    },
+    {
+      "title": "多摩市ひとり親家庭応援まめガイド　まめたま （PDF 8.7MB）",
+      "uri": "https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/462/mametama.pdf"
+    },
+    {
+      "title": "TAMA女性センター相談室",
+      "uri": "https://www.city.tama.lg.jp/kenkofukushi/danjyo/josei/1003354.html"
+    },
+    {
+      "title": "シングルママ・シングルパパ くらし応援ナビ Tokyo（外部リンク）",
+      "uri": "https://www.single-ouen-navi.metro.tokyo.lg.jp/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親世帯の方が、多摩市で安心して生活を送れるように、制度や相談先の案内一覧が記載されたガイドです。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "ひとり親世帯"
+  },
+  "updateDate": "2023-03-23",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

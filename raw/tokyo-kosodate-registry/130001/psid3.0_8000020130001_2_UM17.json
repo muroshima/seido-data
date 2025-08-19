@@ -1,0 +1,172 @@
+{
+  "area": {
+    "areaCode": "130001;東京都",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉局子供・子育て支援部家庭支援課母子医療助成担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020130001",
+    "psid": "psid3.0+8000020130001+2+UM17"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子供・子育て支援部家庭支援課母子医療助成担当",
+    "contactPhone": "03-5320-4362",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "この事業における流産（いわゆる不育症）とは、反復流産及び習慣流産のことを指しています。\n生化学的妊娠（化学流産）、着床不全は含みません。\n\n１　対象となる検査\n対象となる検査は保険医療機関にて行った下記の検査に限られます。御確認ください。\n・子宮形態検査\n・内分泌検査\n・夫婦染色体検査\n・抗リン脂質抗体\n・血栓性素因スクリーニング（凝固因子検査）\n・絨毛染色体検査\n・先進医療として告示された不育症検査（厚生労働省からの通知により、変更される場合があります。）\n【先進医療の指定】\n　国の先進医療会議にて、順次認められていく仕組みです。詳しくは、下記「11 先進医療の取扱いについて」をご覧ください。\n\n２　対象となる期間及び費用\n夫または妻の検査開始日のうち、どちらか早い日を基準として、1年間が対象の期間となります。\nその間に、対象となる検査を受診した際にかかった費用が助成の対象となります。\n\n３　助成回数\n夫婦1組につき1回に限ります。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "LoGoフォーム",
+      "uri": "https://logoform.jp/form/tmgform/682137"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "・東京都が実施した調査において、ホームページへの掲載に同意をいただいた医療機関の一覧です。\n（検査項目については、御提出いただいた調査票のとおり掲載しております。）\n・医療機関により、実施している検査等の内容は異なりますので、受診される場合は、必ず事前に電話等で御確認ください。また、他の道府県にある医療機関（不育症検査を実施している医療機関など）については、各自治体のホームページなどで御確認ください。\n\n'不育症検査等実施医療機関一覧（Excel：35KB）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/fuikushoukensa/gaiyou.files/HP-ichiran-ver24.xlsx\n\n不育症検査等実施医療機関一覧（CSV：16KB）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/fuikushoukensa/gaiyou.files/HP-ichiran-ver24.csv",
+    "implementationName": "不育症検査等実施医療機関一覧"
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の不妊・不育症に関する助成",
+    "shortName": "不育症検査助成事業"
+  },
+  "localGovernmentLink": {
+    "title": "不育症検査助成事業の概要",
+    "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/fuikushoukensa/gaiyou.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-11-05",
+    "updater": "東京都"
+  },
+  "procedureCounter": "〒163-8001 東京都新宿区西新宿2－8－1 都庁第一本庁舎28階\n東京都福祉局 子供・子育て支援部 家庭支援課 母子医療助成担当",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": "検査終了日から6か月以内に申請してください。\nいかなる理由でも、申請期限を過ぎたものは受け付けることはできませんので、ご注意ください。\n\n【例】令和5年1月15日に検査が終了した場合は、令和5年7月14日までに申請してください。\n当日の消印までが有効です。\n\n【申請書類について】\n\n　　申請にあたっては、必要書類を全て揃えていただく必要がありますが、やむを得ず一部の書類の\n　　用意が間に合わない場合は、「申請書」と現時点で用意できる書類を必ず申請期限までに\n　　送付してください。\n\n　　お送りいただく際は、提出が遅れる旨を記入したメモを添えていただくようお願いいたします。\n\n　　その他の書類につきましては、準備ができ次第、提出をお願いいたします。\n　　その際も、書類の追加提出である旨を記入したメモを添えてお送りください。\n\n　　この場合、全ての書類がそろった段階で審査に進みますので、ご了承ください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "こちら",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/fuikushoukensa/gaiyou.files/jigyouQA-5.pdf"
+    },
+    {
+      "title": "厚労省通知（令和4年12月1日付子母発1201第1号）（PDF：67KB）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/fuikushoukensa/gaiyou.images/nagare.jpg"
+    },
+    {
+      "title": "『事業の御案内（PDF版）』や『申請書』・『証明書』などの様式は、申請様式のダウンロードページ",
+      "uri": "http://fuiku.jp/index.html"
+    },
+    {
+      "title": "「不育症管理に関する提言」改訂委員会編『不育症相談対応マニュアル』",
+      "uri": "http://fuiku.jp/common/pdf/manual.pdf"
+    },
+    {
+      "title": "不育症検査等実施医療機関一覧（CSV：16KB）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/fuikushoukensa/gaiyou.files/HP-ichiran-ver20.xlsx"
+    },
+    {
+      "title": "産婦人科診療ガイドライン産科編2020（日本産科婦人科学会・日本産婦人科医会発行）",
+      "uri": "https://www.jsog.or.jp/activity/pdf/gl_sanka_2020.pdf"
+    },
+    {
+      "title": "日本不育症学会",
+      "uri": "http://jpn-rpl.jp/Fuiku-Labo"
+    },
+    {
+      "title": "Ｑ＆Ａ（PDF：677KB）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/fuikushoukensa/gaiyou.files/1201-kunituuchi.pdf"
+    },
+    {
+      "title": "図",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/fuikushoukensa/youshiki.html"
+    },
+    {
+      "title": "こちら",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/fuikushoukensa/gaiyou.files/HP-ichiran-ver20.csv"
+    },
+    {
+      "title": "不育症検査等実施医療機関一覧（Excel：35KB）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/fuikushoukensa/youshiki.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": "平成31年4月1日以降に対象となる検査を開始した方",
+  "summary": "東京都では、妊娠はするものの、2回以上の流産や死産を繰り返し、結果的に子供を持てないとされるいわゆる不育症について、リスク因子を特定し、適切な治療及び出産につなげるため、検査に係る費用の一部を助成しています。",
+  "support": {
+    "description": "この事業における流産（いわゆる不育症）とは、反復流産及び習慣流産のことを指しています。\n生化学的妊娠（化学流産）、着床不全は含みません。\n\n１　対象となる検査\n対象となる検査は保険医療機関にて行った下記の検査に限られます。御確認ください。\n・子宮形態検査\n・内分泌検査\n・夫婦染色体検査\n・抗リン脂質抗体\n・血栓性素因スクリーニング（凝固因子検査）\n・絨毛染色体検査\n・先進医療として告示された不育症検査（厚生労働省からの通知により、変更される場合があります。）\n【先進医療の指定】\n　国の先進医療会議にて、順次認められていく仕組みです。詳しくは、下記「11 先進医療の取扱いについて」をご覧ください。\n\n２　対象となる期間及び費用\n夫または妻の検査開始日のうち、どちらか早い日を基準として、1年間が対象の期間となります。\nその間に、対象となる検査を受診した際にかかった費用が助成の対象となります。\n\n３　助成回数\n夫婦1組につき1回に限ります。",
+    "materiallySupport": null,
+    "monetarySupport": "対象となる検査について、5万円を上限に助成します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "1　検査開始日において夫婦（事実婚を含む。）であること\n2　検査開始日における妻の年齢が43歳未満であること\n　※夫婦いずれか早い日の検査開始日が基準となります\n3　検査開始日から申請日までの間、継続して都内に住民登録をしていること\n【法律婚の方】\n　（1）検査開始日から申請日までの間、婚姻関係があること\n　（2）夫婦いずれかが継続して都内に住民登録をしていること\n        （いずれかが都外在住の場合は、申請者は都内在住の方に限ります。）\n【事実婚の方】\n　（1）原則、夫婦が継続して都内に同一世帯として住民登録をしていること\n　　（住民票の続柄に「未届」又はこれに準ずる記載がある。）\n　（2）検査開始日から申請日までの間、他に法律上の配偶者がいないこと\n　　※同一世帯でない場合は、夫婦いずれかが継続して東京都内に住民登録をしているということに加え、申立書(PDF:77KB)（任意様式にて作成）を提出してください。\n4　助成対象期間内に保健医療機関において助成対象の検査を受けていること\n　（助成対象期間、助成対象の検査等の詳細は下記2以降をご参照ください。）\n5　2回以上の流産若しくは死産の既往があること又は医師に不育症と判断されたこと"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": "申請から振込までの流れ\n図;https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/fuikushoukensa/gaiyou.images/nagare.jpg\n申請書の受付から助成金の振込まで、概ね3～4か月ほどかかります。\n\n振込先口座について【ご注意ください】\n・振込先口座は、申請者名義の口座を指定してください。\n・ゆうちょ銀行の口座を振込先に指定する場合は、振込専用の店名・預金種目・口座番号が必要です。\n・全国銀行資金決済ネットワーク(全銀ネット)を利用している、全国の金融機関の本支店等に普通預金又は貯蓄預金をお持ちであれば、登録することができます。\n\n※ 全銀ネットを利用している金融機関については、「全銀ネット 利用可能金融機関一覧」をご覧ください。\n※ 振込先の口座内容（口座番号、口座名義等）がわかる部分の通帳のコピー（通帳がない場合は、キャッシュカードのコピー）の添付にご協力ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

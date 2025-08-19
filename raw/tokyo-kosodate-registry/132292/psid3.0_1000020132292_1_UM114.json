@@ -1,0 +1,148 @@
+{
+  "area": {
+    "areaCode": "132292;西東京市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132292",
+    "psid": "psid3.0+1000020132292+1+UM114"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "西東京市中町一丁目5番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康課",
+    "contactPhone": "042-438-4021",
+    "contactUrl": null,
+    "zipCode": "2028555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "救急病院など\n\n救急病院\n|名称|所在地|電話|\n|:----|:----|:----|\n|佐々総合病院（外部リンク）;http://www.sassa-hospital.com/|田無町四丁目24番15号|042-461-1535|\n|田無病院（外部リンク）;http://www.tanashi-hospital.or.jp/|緑町三丁目6番1号|042-461-2682|\n|西東京中央総合病院（外部リンク）;https://www.nishitokyo-chuobyoin.jp/|芝久保町二丁目4番19号|042-464-1511|\n|保谷厚生病院（外部リンク）;http://www.hoya-kosei.com/|栄町一丁目17番18号|042-424-6640|\n|公立昭和病院（外部リンク）;http://kouritu-showa.jp/|小平市花小金井八丁目1番1号|042-461-0052|\n|武蔵野徳洲会病院（外部リンク）;https://www.musatoku.com/|向台町三丁目5番48号|042-465-0700|\n\n下線のある病院名は、クリックしていただくと、それぞれの病院のホームページにリンクします。\n必ずお電話にて確認のうえ受診してください。\n\n救急相談・医療機関案内\n東京消防庁救急相談センター（24時間）（外部リンク）;http://www.tfd.metro.tokyo.jp/lfe/kyuu-adv/soudan-center.htm「＃7119」\n病院に行った方がいいか、救急車を呼んだ方がいいか迷ったら、下記にお問い合わせください。\n\n携帯電話、PHS、プッシュ回線からは、「＃7119」\nその他の電話やかからない場合は、電話：042-521-2323（多摩地区）\n東京版救急受診ガイド（web版）（外部リンク）;http://www.tfd.metro.tokyo.jp/hp-kyuuimuka/guide/main/index.html\n東京消防庁救急相談センターでの電話救急相談に準じたガイドです。\n主な19の症状について、利用者の方自らが症状をチェックしていくことで、傷病の緊急度などに関するアドバイスが得られます。\n※対応する症状\n緊急性の高い9症状と救急相談センターへの相談が多い10症状とをあわせた、計19症状です。\n\n小児救急電話相談（外部リンク）;http://www.mhlw.go.jp/topics/2006/10/tp1010-3.html「＃8000」\n小さなお子さんをお持ちの方が、休日・夜間の急な子どもの病気にどう対処したらいいか、病院の診療を受けた方がいいか迷ったら、下記にお問合せください。\n\n♯8000　（プッシュ回線の固定電話、携帯電話）\n電話:03-5285-8898　（ダイヤル回線・IP電話などすべての電話）\n医療情報ネット（外部リンク）;https://www.iryou.teikyouseido.mhlw.go.jp/\n身近な医療機関を様々な条件を設定して検索できます。一覧表示された医療機関名をクリックすることで、当該医療機関の詳しい情報を見ることができます。\n\n※検索条件の例\n受付時間・対応できる外国語・最寄り駅・診療の領域など\n※詳細情報の例\n救急告示病院・予約診療の有無・交通手段・対応可能な予防接種・保有施設・医療機器・対応可能な検査や病気・往診の実施など\n\n関連リンク\n市内医療機関案内;https://www.city.nishitokyo.lg.jp/kenko_hukusi/iryo_kansensho/sinaiiryo/index.html\n\n西東京市医師会（外部リンク）;http://www.nishitokyo-med.jp/\n市内医療機関が検索できます。\n\n西東京市歯科医師会（外部リンク）;http://www.0424ha.com/\n市内歯科医院を地図上から検索できます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "小児科救急",
+    "shortName": "救急病院"
+  },
+  "localGovernmentLink": {
+    "title": "救急病院など",
+    "uri": "https://www.city.nishitokyo.lg.jp/kurasi/iza/er.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-10",
+    "updater": "西東京市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "救急医療対策事業実施要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "佐々総合病院（外部リンク）",
+      "uri": "http://www.sassa-hospital.com/"
+    },
+    {
+      "title": "西東京中央総合病院（外部リンク）",
+      "uri": "https://www.nishitokyo-chuobyoin.jp/"
+    },
+    {
+      "title": "公立昭和病院（外部リンク）",
+      "uri": "http://kouritu-showa.jp/"
+    },
+    {
+      "title": "田無病院（外部リンク）",
+      "uri": "http://www.tanashi-hospital.or.jp/"
+    },
+    {
+      "title": "保谷厚生病院（外部リンク）",
+      "uri": "http://www.hoya-kosei.com/"
+    },
+    {
+      "title": "武蔵野徳洲会病院（外部リンク）",
+      "uri": "https://www.musatoku.com/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "西東京市では、休日や夜間に、救急の際の診療を行っています。",
+  "support": {
+    "description": "救急病院\n|名称|所在地|電話|\n|:----|:----|:----|\n|佐々総合病院（外部リンク）;http://www.sassa-hospital.com/|田無町四丁目24番15号|042-461-1535|\n|田無病院（外部リンク）;http://www.tanashi-hospital.or.jp/|緑町三丁目6番1号|042-461-2682|\n|西東京中央総合病院（外部リンク）;https://www.nishitokyo-chuobyoin.jp/|芝久保町二丁目4番19号|042-464-1511|\n|保谷厚生病院（外部リンク）;http://www.hoya-kosei.com/|栄町一丁目17番18号|042-424-6640|\n|公立昭和病院（外部リンク）;http://kouritu-showa.jp/|小平市花小金井八丁目1番1号|042-461-0052|\n|武蔵野徳洲会病院（外部リンク）;https://www.musatoku.com/|向台町三丁目5番48号|042-465-0700|\n\n下線のある病院名は、クリックしていただくと、それぞれの病院のホームページにリンクします。\n必ずお電話にて確認のうえ受診してください。",
+    "materiallySupport": "救急病院\n|名称|所在地|電話|\n|:----|:----|:----|\n|佐々総合病院（外部リンク）;http://www.sassa-hospital.com/|田無町四丁目24番15号|042-461-1535|\n|田無病院（外部リンク）;http://www.tanashi-hospital.or.jp/|緑町三丁目6番1号|042-461-2682|\n|西東京中央総合病院（外部リンク）;https://www.nishitokyo-chuobyoin.jp/|芝久保町二丁目4番19号|042-464-1511|\n|保谷厚生病院（外部リンク）;http://www.hoya-kosei.com/|栄町一丁目17番18号|042-424-6640|\n|公立昭和病院（外部リンク）;http://kouritu-showa.jp/|小平市花小金井八丁目1番1号|042-461-0052|\n|武蔵野徳洲会病院（外部リンク）;https://www.musatoku.com/|向台町三丁目5番48号|042-465-0700|\n\n下線のある病院名は、クリックしていただくと、それぞれの病院のホームページにリンクします。\n必ずお電話にて確認のうえ受診してください。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-04-10",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

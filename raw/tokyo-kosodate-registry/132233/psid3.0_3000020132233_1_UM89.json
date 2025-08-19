@@ -1,0 +1,175 @@
+{
+  "area": {
+    "areaCode": "132233;武蔵村山市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子ども育成課 保育・幼稚園係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132233",
+    "psid": "psid3.0+3000020132233+1+UM89"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "182・183・184",
+    "contactName": "子ども家庭部 子ども育成課 保育・幼稚園係",
+    "contactPhone": "042-565-1111",
+    "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/e_05a/1003712",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "https://www.city.musashimurayama.lg.jp/kosodate/odekake/shisetsu/1003735/1003737/index.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "認可保育所・認定こども園（保育園枠）一覧",
+    "shortName": "認可保育所等一覧"
+  },
+  "localGovernmentLink": {
+    "title": "認可保育所等一覧",
+    "uri": "https://www.city.musashimurayama.lg.jp/kosodate/odekake/shisetsu/1003735/1003737/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-11",
+    "updater": "武蔵村山市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "あゆみ保育園",
+      "uri": "http://www.ayumihoikuen.jp/"
+    },
+    {
+      "title": "聖光緑が丘保育園 ",
+      "uri": "http://www.seiko-midorigaoka.com/"
+    },
+    {
+      "title": "みらい保育園",
+      "uri": "http://www.keisho-nozomi-mirai.com/mirai/"
+    },
+    {
+      "title": "育成会めぐみ保育園",
+      "uri": "http://www.ans.co.jp/n/megumiikusei/"
+    },
+    {
+      "title": "村山中藤保育園「櫻」",
+      "uri": "http://nakatou.jp/"
+    },
+    {
+      "title": "聖光三ツ藤保育園",
+      "uri": "http://www.seiko-mitufuji.com/"
+    },
+    {
+      "title": "育成会ひまわり保育園",
+      "uri": "http://www.ans.co.jp/n/himawariikusei/"
+    },
+    {
+      "title": "つみき保育園（公私連携型保育所）",
+      "uri": "https://yamabukikai.or.jp/class/tsumiki.html"
+    },
+    {
+      "title": "つむぎ保育園",
+      "uri": "https://tsumugi.ed.jp/"
+    },
+    {
+      "title": "村山中藤保育園「白樺」",
+      "uri": "http://nakatou.jp/"
+    },
+    {
+      "title": "れんげ武蔵保育園",
+      "uri": "http://www.renge-en.org/%E5%90%84%E4%BA%8B%E6%A5%AD%E6%89%80/%E3%82%8C%E3%82%93%E3%81%92%E6%AD%A6%E8%94%B5%E4%BF%9D%E8%82%B2%E5%9C%92/"
+    },
+    {
+      "title": "きし保育園",
+      "uri": "http://kishihoikuen.ed.jp/"
+    },
+    {
+      "title": "まどか保育園",
+      "uri": "http://www.madoka-hoikuen.com/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育園とは、保護者が仕事や病気などのために、家庭で充分に保育することができない子どもを、保護者に代わって保育することを目的とした児童福祉施設で、法的には保育所といいます。\n保育所（保育園）のうち、国が定めた設定基準をクリアし、都道府県知事（政令市・中核市では市長）に認可された保育園を「認可保育所」といいます。\n認可保育所には公立の保育園と私立の保育園があります。\n以下は、武蔵村山市内の認可保育所（保育園）の一覧です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "保育年齢は当該年度の初日の前日の満年齢を基準とします。ただし、0歳児については、生後の日数を基準とします。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2023-09-07",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

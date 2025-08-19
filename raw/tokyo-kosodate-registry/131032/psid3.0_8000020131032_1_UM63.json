@@ -1,0 +1,134 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健福祉支援部障害者福祉課障害者給付係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+1+UM63"
+  },
+  "belongings": "新規申請に必要なもの（窓口で申請する場合）\n身体障害者手帳、愛の手帳または精神障害者保健福祉手帳（お持ちの人のみ）\n障害児本人名義の振り込み口座がわかるもの\n所定の診断書（各総合支所区民課の窓口にあります。）\nマイナンバーカード等（障害児本人および扶養義務者）\n※ その他必要な書類がありますのでお問い合わせください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "各総合支所　区民課　保健福祉係;https://www.city.minato.tokyo.jp/kenko/fukushi/shogaisha/madoguchi/sogo.html",
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "障害児福祉手当（国の制度）\n身体障害者マーク 知的障害者マーク 精神障害者マーク\n\n対象\n身体または精神に重度の障害がある20歳未満の人（おおむね身体障害者手帳1級および2級の一部、愛の手帳1度および2度の一部、もしくはそれと同等の疾病、精神障害）があり、日常生活において常時の介護を必要とする状態にある人。原則医師の診断書に基づいて判定します。\n詳しくはお問い合わせください。\n\n※ 区外からの転入で、前住所地で障害児福祉手当を受給していた人は異動の手続きが必要です。\n次のいずれかに該当する人は手当を受けられません。\n\n施設に入所している人\n障害を支給理由とする公的年金を受けている人\n※ 扶養義務者等の所得が限度額を超えているときは、支給が停止されます。\n支給開始月\n申請月の翌月から（新規）\n\n手当額\n月額：15,690円（令和6年4月1日現在）\n\n※ 手当額は物価スライド制で見直されることがあります。\n支払い方法\n申請のあった翌月分から、毎年2月、5月、8月、11月に、それぞれの前月までの分を障害児本人の口座に振り込みます。\n\n新規申請に必要なもの（窓口で申請する場合）\n身体障害者手帳、愛の手帳または精神障害者保健福祉手帳（お持ちの人のみ）\n障害児本人名義の振り込み口座がわかるもの\n所定の診断書（各総合支所区民課の窓口にあります。）\nマイナンバーカード等（障害児本人および扶養義務者）\n※ その他必要な書類がありますのでお問い合わせください。\n新規申請方法\n次のいずれかの方法で、申請を受け付けています。\n\n各総合支所　区民課　保健福祉係の窓口での申請\n電子申請（障害児福祉手当　新規申請）（外部サイトへリンク）;https://logoform.jp/form/Mt5V/484182\n手当を受給している方の変更等の申請方法（口座変更、資格喪失等）\n次のいずれかの方法で、申請を受け付けています。\n\n各総合支所　区民課　保健福祉係の窓口での申請\n電子申請\n口座振替変更届（外部サイトへリンク）;https://logoform.jp/form/Mt5V/464158\n氏名・住所変更届（外部サイトへリンク）;https://logoform.jp/form/Mt5V/464162\n資格喪失届（施設入所等）（外部サイトへリンク）;https://logoform.jp/form/Mt5V/478682\n死亡届（外部サイトへリンク）;https://logoform.jp/form/Mt5V/447458\n受給証明申請（外部サイトへリンク）;https://logoform.jp/form/Mt5V/447494\nお問い合わせ\n各総合支所　区民課　保健福祉係;https://www.city.minato.tokyo.jp/kenko/fukushi/shogaisha/madoguchi/sogo.html",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "電子申請（障害児福祉手当　新規申請）（外部サイトへリンク）",
+      "uri": "https://logoform.jp/form/Mt5V/484182"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "障害児福祉手当",
+    "shortName": "障害児福祉手当（国の制度）"
+  },
+  "localGovernmentLink": {
+    "title": "障害児福祉手当（国の制度）",
+    "uri": "https://www.city.minato.tokyo.jp/kenko/fukushi/shogaisha/teate/shogaiji.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "港区"
+  },
+  "procedureCounter": "各総合支所　区民課　保健福祉係;https://www.city.minato.tokyo.jp/kenko/fukushi/shogaisha/madoguchi/sogo.html",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "次のいずれかの方法で、申請を受け付けています。\n\n各総合支所　区民課　保健福祉係の窓口での申請\n電子申請（障害児福祉手当　新規申請）（外部サイトへリンク）;https://logoform.jp/form/Mt5V/484182",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第3章",
+    "regulationName": "特別児童扶養手当等の支給に関する法律"
+  },
+  "relatedLink": [
+    {
+      "title": "各総合支所　区民課　保健福祉係",
+      "uri": "https://www.city.minato.tokyo.jp/kenko/fukushi/shogaisha/madoguchi/sogo.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "身体または精神に重度の障がいのある20歳未満の方で、日常生活において常時介護を必要とする方に対し、手当が支給されます。",
+  "support": {
+    "description": "月額：15,690円（令和6年4月1日現在）",
+    "materiallySupport": null,
+    "monetarySupport": "月額：15,690円（令和6年4月1日現在）"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "20歳未満",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "身体または精神に重度の障害がある20歳未満の人（おおむね身体障害者手帳1級および2級の一部、愛の手帳1度および2度の一部、もしくはそれと同等の疾病、精神障害）があり、日常生活において常時の介護を必要とする状態にある人"
+  },
+  "updateDate": "2024-05-09",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

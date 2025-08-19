@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "133051;日の出町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "東京都日の出町福祉課子育て支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133051",
+    "psid": "psid3.0+1000020133051+1+UM5036"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡日の出町大字平井2780",
+    "contactComment": null,
+    "contactEmail": "kosodate@town.hinode.tokyo.jp",
+    "contactEx": null,
+    "contactName": "東京都日の出町福祉課子育て支援係",
+    "contactPhone": "042-588-4113",
+    "contactUrl": null,
+    "zipCode": "1900192"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "日の出町では、町内において、地域の子どもやその保護者が気楽に立ち寄り、栄養バランスの取れた食事をとりながら、相互に交流を行う場を提供する取組（子ども食堂）に要する経費の一部を補助します。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "こども食堂",
+    "shortName": "子ども食堂"
+  },
+  "localGovernmentLink": {
+    "title": "子ども食堂の運営に要する経費の一部を補助します",
+    "uri": "https://www.town.hinode.tokyo.jp/0000003926.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/20",
+    "updater": "日の出町"
+  },
+  "procedureCounter": "東京都日の出町福祉課子育て支援係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "交付申請書に必要事項を記入の上、福祉課子育て支援係へ提出",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": "各年度４月",
+    "toHM": null,
+    "toYMD": "各年度6月末"
+  },
+  "procedurePersons": "日の出町内において、子ども食堂を実施する者、子ども食堂を立ち上げる者のうち、補助対象条件に当てはまる者",
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "子ども食堂の運営に要する経費の一部を補助します",
+      "uri": "https://www.town.hinode.tokyo.jp/0000003926.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "「こども食堂」とは、こどもが一人でも行ける無料または低額の食堂です。こども食堂は、生活に困窮する子育て世帯への支援だけでなく、虐待の防止のための見守りや、地域の交流、こどもへの多様な経験の提供など様々な役割を担っており、国としてもこの取組を支援しています。",
+  "support": {
+    "description": "食材及び弁当の購入に要する経費、会場の使用に要する経費、消耗品の購入に要する経費、パンフレット等の印刷製本に要する経費、傷害保険等の保険に要する経費、設備の整備等に要する経費　など",
+    "materiallySupport": null,
+    "monetarySupport": "●運営費：子ども食堂の実施に要する経費の総額（子ども食堂を実施する月数に4万円を乗じて得た額を上限とする）　など\n※参加費、寄付金等の収入額を控除した額とする。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "日の出町内において、子ども食堂を実施する者、子ども食堂を立ち上げる者のうち、補助対象条件に当てはまる者"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

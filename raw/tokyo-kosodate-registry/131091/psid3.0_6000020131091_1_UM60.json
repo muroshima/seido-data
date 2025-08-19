@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131091;品川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て応援課　ひとり親相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131091",
+    "psid": "psid3.0+6000020131091+1+UM60"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て応援課　ひとり親相談係",
+    "contactPhone": "03-5742-6589",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ひとり親家庭自立支援給付金事業\n\nひとり親家庭の経済的自立を促進するため、「就業に結びつきやすい技術や資格を得たい」「能力を高め増収を図りたい」というひとり親家庭のお母さんやお父さんに、次の給付金を支給します。\n\n■高等職業訓練促進給付金等\n母子家庭の母または父子家庭の父が資格取得のため1年以上養成機関で修業する場合に、修業期間中の生活の負担軽減のため高等職業訓練促進給付金を支給するとともに、修了後には高等職業訓練修了支援給付金を支給します。\n\n◇支給額・支給期間\n||住民税非課税世帯|住民税課税世帯|支給期間|\n|:----|:----|:----|:----|\n|高等職業訓練促進給付金|月額100,000円|月額70,500円|修業期間の全期間（上限3年）|\n|高等職業訓練修了支援給付金|50,000円|25,000円|修了後に支給|\n\n◇対象者\n品川区に住所を有するひとり親家庭の母または父で、以下の要件すべてを満たしている方\n1．20歳未満の児童を扶養していること。\n2．児童扶養手当を受給していること。または同等の所得水準であること。\n3．対象資格を取得するために養成機関において1年以上の課程を修業し、その資格取得が見込まれること。\n4．就業または育児と修業の両立が困難であると認められること。\n5．過去に本事業に基づく給付金を受給していないこと。\n6．職業訓練受講給付金(求職者支援制度)や訓練延長給付、教育訓練支援給付金等、本事業と同趣旨の給付金を受給していないこと。 \n\n◇対象資格\n看護師、准看護師、介護福祉士、保育士、理学療法士、作業療法士、作業療法士、保健師、助産師、理容師、美容師、歯科衛生士、製菓衛生師、社会福祉士、調理師等\n\n◇申請の流れ\n1．子育て応援課にご連絡ください。電話で来所相談日を調整します。\n2．予約日に子育て応援課に来所してください。相談時にお聞きする資格取得の意欲や生活状況によっては、必要性が認められない場合がありますのでご了承ください。\n3．修業開始日以降に必要書類をそろえて支給申請を行ってください。給付金は、申請のあった日の属する月から支給します。\n4．修了支援給付金については、養成機関修了後30日以内に申請を行ってください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "高等職業訓練促進給付金",
+    "shortName": "高等職業訓練促進給付金等"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親家庭自立支援給付金事業",
+    "uri": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-hitorioya/hpg000016382.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "品川区"
+  },
+  "procedureCounter": "子育て応援課　ひとり親相談係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請の流れ\n1．子育て応援課にご連絡ください。電話で来所相談日を調整します。\n2．予約日に子育て応援課に来所してください。相談時にお聞きする資格取得の意欲や生活状況によっては、必要性が認められない場合がありますのでご了承ください。\n3．修業開始日以降に必要書類をそろえて支給申請を行ってください。給付金は、申請のあった日の属する月から支給します。\n4．修了支援給付金については、養成機関修了後30日以内に申請を行ってください。",
+  "procedurePeriod": {
+    "conditions": "修了支援給付金については、養成機関修了後30日以内に申請を行ってください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第31条（母子家庭自立支援給付金）、第31条の10（父子家庭自立支援給付金）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭の母または父が、就業に結びつきやすい対象資格（看護師や介護福祉士など）を取得するため1年以上（令和3年4月1日から令和4年3月31日までに修業を開始する場合には6月以上）、養成機関で修業する場合に、修業期間中の生活の負担軽減のために高等職業訓練促進給付金を、また修業終了時に高等職業訓練修了支援給付金を支給します。",
+  "support": {
+    "description": "母子家庭の母または父子家庭の父が資格取得のため1年以上養成機関で修業する場合に、修業期間中の生活の負担軽減のため高等職業訓練促進給付金を支給するとともに、修了後には高等職業訓練修了支援給付金を支給します。\n\n◇支給額・支給期間\n||住民税非課税世帯|住民税課税世帯|支給期間|\n|:----|:----|:----|:----|\n|高等職業訓練促進給付金|月額100,000円|月額70,500円|修業期間の全期間（上限3年）|\n|高等職業訓練修了支援給付金|50,000円|25,000円|修了後に支給|\n\n◇対象資格\n看護師、准看護師、介護福祉士、保育士、理学療法士、作業療法士、作業療法士、保健師、助産師、理容師、美容師、歯科衛生士、製菓衛生師、社会福祉士、調理師等",
+    "materiallySupport": null,
+    "monetarySupport": "母子家庭の母または父子家庭の父が資格取得のため1年以上養成機関で修業する場合に、修業期間中の生活の負担軽減のため高等職業訓練促進給付金を支給するとともに、修了後には高等職業訓練修了支援給付金を支給します。\n\n◇支給額・支給期間\n||住民税非課税世帯|住民税課税世帯|支給期間|\n|:----|:----|:----|:----|\n|高等職業訓練促進給付金|月額100,000円|月額70,500円|修業期間の全期間（上限3年）|\n|高等職業訓練修了支援給付金|50,000円|25,000円|修了後に支給|\n\n◇対象資格\n看護師、准看護師、介護福祉士、保育士、理学療法士、作業療法士、作業療法士、保健師、助産師、理容師、美容師、歯科衛生士、製菓衛生師、社会福祉士、調理師等"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "20歳未満の児童",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "品川区に住所を有するひとり親家庭の母または父で、以下の要件すべてを満たしている方\n1．20歳未満の児童を扶養していること。\n2．児童扶養手当を受給していること。または同等の所得水準であること。\n3．対象資格を取得するために養成機関において1年以上の課程を修業し、その資格取得が見込まれること。\n4．就業または育児と修業の両立が困難であると認められること。\n5．過去に本事業に基づく給付金を受給していないこと。\n6．職業訓練受講給付金(求職者支援制度)や訓練延長給付、教育訓練支援給付金等、本事業と同趣旨の給付金を受給していないこと。 "
+  },
+  "updateDate": "2023-04-01",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

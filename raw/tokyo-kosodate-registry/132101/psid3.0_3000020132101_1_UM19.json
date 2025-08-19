@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132101;小金井市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保険年金課国民健康保険係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132101",
+    "psid": "psid3.0+3000020132101+1+UM19"
+  },
+  "belongings": "・国民健康保険証\n・印かん\n・振込み先のわかるもの\n・母子健康手帳（死産・流産・海外出産の場合は医師の証明書）（注記：海外出産の場合は和訳文）\n・医療機関が発行した直接支払利用（非利用）に関する合意文書\n・医療機関発行の領収・明細書（注記：海外出産の場合は和訳文）\n・旅券・航空券その他の海外に渡航した事実が確認できる書類（査証（ビザ）等）の写し（注記：海外出産の場合のみ）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": "s030499(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+    "contactEx": null,
+    "contactName": "保険年金課国民健康保険係",
+    "contactPhone": "042-387-9833",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "国民健康保険の給付（出産、葬祭費、結核・精神医療給付など）\n更新日：2023年4月4日\n\n子どもが生まれたとき（出産育児一時金の支給）\n　小金井市国民健康保険被保険者が出産したときには、出産育児一時金として令和5年3月31日生まれまでは45万円、令和5年4月1日生まれ以降は50万円が支給されます。妊娠12週（85日）以降であれば、死産・流産を問わず支給されます。\n注記：小金井市国民健康保険以外にご加入の方は、加入している健康保険組合等にお問い合わせください。\n\n申請に必要なもの\n・国民健康保険証\n・印かん\n・振込み先のわかるもの\n・母子健康手帳（死産・流産・海外出産の場合は医師の証明書）（注記：海外出産の場合は和訳文）\n・医療機関が発行した直接支払利用（非利用）に関する合意文書\n・医療機関発行の領収・明細書（注記：海外出産の場合は和訳文）\n・旅券・航空券その他の海外に渡航した事実が確認できる書類（査証（ビザ）等）の写し（注記：海外出産の場合のみ）\n\n出産育児一時金の直接支払制度について\n　出産前に、被保険者が病院、助産所との間で出産育児一時金の支給及び受取に関する代理契約を結ぶことによって、出産費用のうち出産育児一時金の額（令和5年3月31日生まれまでは42万円を限度、令和5年4月1日生まれ以降は50万円）を、小金井市国保から病院や助産所に直接支払う制度です。この制度をご利用いただくと、出産費用のうち直接支払分を差し引いた額を病院等の窓口に支払うだけで済みますので、被保険者の経済的負担が軽減されます。\n注記：ご利用については、出産予定の病院、助産所に直接お問い合わせください。\n注記：小金井市国民健康保険の出産育児一時金は令和5年3月31日生まれまでは45万円、令和5年4月1日生まれ以降は50万円が支給されるため、直接支払制度をご利用の方も差額支給分について、出産後の支給申請が必要です。\n注記：直接支払制度に対応していない医療機関等の場合は、出産育児一時金貸付制度もありますので保険年金課にお問い合わせください。\n\n 出産育児一時金支給申請書兼請求書(令和5年3月31日生まれまで用）（PDF：348KB）;https://www.city.koganei.lg.jp/kurashi/427/hokenkyuuhu/D030501020201125.files/20230404syussannitiji202303312.pdf\n\n 出産育児一時金支給申請書兼請求書(令和5年4月1日生まれ以降用）（PDF：349KB）;https://www.city.koganei.lg.jp/kurashi/427/hokenkyuuhu/D030501020201125.files/20230404syussannitiji202304012.pdf\n\n注記：保険年金課宛電子メールについて\n　電子メールのお問い合わせでは、ご本人確認が困難であるため、個人情報保護の観点から個人の国民健康保険加入状況や、課税内容等についてはお答えできません。また、お急ぎの場合はお電話でお問い合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出産育児一時金",
+    "shortName": "出産育児一時金"
+  },
+  "localGovernmentLink": {
+    "title": "国民健康保険の給付（出産、葬祭費、結核・精神医療給付など）",
+    "uri": "https://www.city.koganei.lg.jp/smph/kurashi/427/hokenkyuuhu/D030501020201125.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-28",
+    "updater": "小金井市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請に必要なもの\n・国民健康保険証\n・印かん\n・振込み先のわかるもの\n・母子健康手帳（死産・流産・海外出産の場合は医師の証明書）（注記：海外出産の場合は和訳文）\n・医療機関が発行した直接支払利用（非利用）に関する合意文書\n・医療機関発行の領収・明細書（注記：海外出産の場合は和訳文）\n・旅券・航空券その他の海外に渡航した事実が確認できる書類（査証（ビザ）等）の写し（注記：海外出産の場合のみ）\n\n出産育児一時金の直接支払制度について\n　出産前に、被保険者が病院、助産所との間で出産育児一時金の支給及び受取に関する代理契約を結ぶことによって、出産費用のうち出産育児一時金の額（令和5年3月31日生まれまでは42万円を限度、令和5年4月1日生まれ以降は50万円）を、小金井市国保から病院や助産所に直接支払う制度です。この制度をご利用いただくと、出産費用のうち直接支払分を差し引いた額を病院等の窓口に支払うだけで済みますので、被保険者の経済的負担が軽減されます。\n注記：ご利用については、出産予定の病院、助産所に直接お問い合わせください。\n注記：小金井市国民健康保険の出産育児一時金は令和5年3月31日生まれまでは45万円、令和5年4月1日生まれ以降は50万円が支給されるため、直接支払制度をご利用の方も差額支給分について、出産後の支給申請が必要です。\n注記：直接支払制度に対応していない医療機関等の場合は、出産育児一時金貸付制度もありますので保険年金課にお問い合わせください。\n\n 出産育児一時金支給申請書兼請求書(令和5年3月31日生まれまで用）（PDF：348KB）;https://www.city.koganei.lg.jp/kurashi/427/hokenkyuuhu/D030501020201125.files/20230404syussannitiji202303312.pdf\n 出産育児一時金支給申請書兼請求書(令和5年4月1日生まれ以降用）（PDF：349KB）;https://www.city.koganei.lg.jp/kurashi/427/hokenkyuuhu/D030501020201125.files/20230404syussannitiji202304012.pdf\n\n注記：保険年金課宛電子メールについて\n　電子メールのお問い合わせでは、ご本人確認が困難であるため、個人情報保護の観点から個人の国民健康保険加入状況や、課税内容等についてはお答えできません。また、お急ぎの場合はお電話でお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条(第二節　その他の給付)",
+    "regulationName": "国民健康保険法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民健康保険に加入している方が出産したときは、その世帯主からの申請により、出産育児一時金を支給します。原則として直接支払制度により、医療機関に直接お支払いします。\nなお、直接支払制度に対応していない医療機関などで出産された場合も、「受取代理制度」や出産後の申請により、出産育児一時金の支給を受けることができます。",
+  "support": {
+    "description": "小金井市国民健康保険被保険者が出産したときには、出産育児一時金として令和5年3月31日生まれまでは45万円、令和5年4月1日生まれ以降は50万円が支給されます。妊娠12週（85日）以降であれば、死産・流産を問わず支給されます。",
+    "materiallySupport": null,
+    "monetarySupport": "小金井市国民健康保険被保険者が出産したときには、出産育児一時金として令和5年3月31日生まれまでは45万円、令和5年4月1日生まれ以降は50万円が支給されます。妊娠12週（85日）以降であれば、死産・流産を問わず支給されます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003",
+      "015"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "小金井市国民健康保険被保険者が出産したとき"
+  },
+  "updateDate": "2023-04-04",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援センター家庭相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+1+UM59"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "受付時間\n平日：午前8時30分～午後6時\n土曜日：午前8時30分～午後5時\n\n休日\n日曜、祝日、年末年始（12月29日～1月3日）",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援センター家庭相談係",
+    "contactPhone": "03-5962-7214",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ひとり親家庭自立支援教育訓練給付金\nひとり親家庭の父または母で、指定した職業能力開発のための講座を受講した者に対して、自立支援教育訓練給付金を支給します。講座申込・受講料払込より前の事前相談が必要です。\n\n対象講座\n雇用保険制度の指定教育訓練講座\n地域の実情に応じて区が指定した講座\n※講座受講前に講座指定の申し込みが必要です。\n\n支給額\n本人が支払った費用の60％\n※上限額・下限額があります。\n\n対象\n次のすべての要件を満たすひとり親家庭（20歳未満の子を扶養している世帯）の父または母\n・児童扶養手当の受給者あるいは同等の所得水準の方\n・当該教育訓練が適職に就くために必要であると認められる方\n・過去にひとり親家庭自立支援教育訓練給付金を受給していない方\n\n受付時間\n平日：午前8時30分～午後6時\n土曜日：午前8時30分～午後5時\n\n休日\n日曜、祝日、年末年始（12月29日～1月3日）\n\nお問い合わせ先\n子ども家庭支援センター家庭相談係\n\n03-5962-7214",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "日曜、祝日、年末年始（12月29日～1月3日）",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援教育訓練給付金",
+    "shortName": "ひとり親家庭自立支援教育訓練給付金"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親家庭の母親又は父親が就労のために職業能力開発のための講座や職業訓練を受けたいのですが、どのような支援がありますか。",
+    "uri": "https://www.city.minato.tokyo.jp/kateisoudan/faq/046.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "港区"
+  },
+  "procedureCounter": "子ども家庭支援センター家庭相談係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": "受付時間\n平日：午前8時30分～午後6時\n土曜日：午前8時30分～午後5時\n\n休日\n日曜、祝日、年末年始（12月29日～1月3日）",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第31条（母子家庭自立支援給付金）、第31条の10（父子家庭自立支援給付金）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "雇用保険による教育訓練給付の受給資格を持たない母子家庭の母が、就職やキャリアアップのために指定された教育訓練講座を受講し、修了した場合、受講に要した費用の一部が支給されます。\n※受講開始前に必ず事前相談を受けてください。",
+  "support": {
+    "description": "本人が支払った費用の60％\n※上限額・下限額があります。",
+    "materiallySupport": null,
+    "monetarySupport": "本人が支払った費用の60％\n※上限額・下限額があります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "20歳未満",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次のすべての要件を満たすひとり親家庭（20歳未満の子を扶養している世帯）の父または母\n・児童扶養手当の受給者あるいは同等の所得水準の方\n・当該教育訓練が適職に就くために必要であると認められる方\n・過去にひとり親家庭自立支援教育訓練給付金を受給していない方"
+  },
+  "updateDate": "2024-04-05",
+  "useConsiderationFlag": true,
+  "utilization": "講座申込・受講料払込より前の事前相談が必要です。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

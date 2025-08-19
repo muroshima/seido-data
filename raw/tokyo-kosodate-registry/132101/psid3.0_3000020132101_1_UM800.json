@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132101;小金井市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課子育て支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132101",
+    "psid": "psid3.0+3000020132101+1+UM800"
+  },
+  "belongings": "紙おむつ、ウェットティッシュや粉ミルク等の用意はしていませんので、ご持参ください。\n使用済みの紙おむつやウェットティッシュはお持ち帰り願います。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": "s050599(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。",
+    "contactEx": null,
+    "contactName": "子育て支援課子育て支援係",
+    "contactPhone": "042-387-9836",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "赤ちゃん休憩室\n更新日：2017年12月15日\n　市では、乳幼児連れの方が安心して外出できるよう、授乳やおむつ替えができる場所に、「赤ちゃん休憩室」としてマークを掲示していますので、ご紹介します。\n　各施設の開館時間などの詳細は各施設にお問合せください。各施設の案内はこちら; https://www.city.koganei.lg.jp/shisetsuannai/index.html。\n\n赤ちゃん休憩室マーク\n赤ちゃん休憩室一覧\nhttps://www.city.koganei.lg.jp/smph/kosodatekyoiku/434/kosodatesien/akachankyuukeishitu.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "赤ちゃん休憩室一覧\nhttps://www.city.koganei.lg.jp/smph/kosodatekyoiku/434/kosodatesien/akachankyuukeishitu.html"
+  },
+  "institutionName": {
+    "canonicalName": "授乳・おむつ替え施設（赤ちゃんの駅等）",
+    "shortName": "赤ちゃん休憩室"
+  },
+  "localGovernmentLink": {
+    "title": "赤ちゃん休憩室",
+    "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/434/kosodatesien/akachankyuukeishitu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "小金井市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "各施設の案内",
+      "uri": "https://www.city.koganei.lg.jp/shisetsuannai/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "小金井市では、乳幼児を抱える子育て家庭が安心して外出できる環境づくりを進めるため、公共施設の「おむつ替え」や「授乳」ができる場所に「赤ちゃん休憩室」としてマークを掲示し解放しています。",
+  "support": {
+    "description": "市では、乳幼児連れの方が安心して外出できるよう、授乳やおむつ替えができる場所に、「赤ちゃん休憩室」としてマークを掲示していますので、ご紹介します。\n　各施設の開館時間などの詳細は各施設にお問合せください。各施設の案内はこちら; https://www.city.koganei.lg.jp/shisetsuannai/index.html。",
+    "materiallySupport": "授乳やおむつ替えができる場所",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "乳幼児連れの方"
+  },
+  "updateDate": "2017-12-15",
+  "useConsiderationFlag": false,
+  "utilization": "紙おむつ、ウェットティッシュや粉ミルク等の用意はしていませんので、ご持参ください。\n使用済みの紙おむつやウェットティッシュはお持ち帰り願います。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "利用日時については各施設ごとの開館日、開館時間により異なります。",
+    "fromHM": null,
+    "toHM": null
+  }
+}

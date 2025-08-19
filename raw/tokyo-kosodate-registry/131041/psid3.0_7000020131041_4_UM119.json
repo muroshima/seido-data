@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131041;新宿区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子ども総合センター 子ども総合センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020131041",
+    "psid": "psid3.0+7000020131041+4+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "総合相談第一係 3232-0674\n相談専用電話　 3232-0675",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 子ども総合センター 子ども総合センター",
+    "contactPhone": "03-3232-0674,03-3232-0675",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "無料",
+  "description": "子育て訪問相談（子ども総合センター）\n最終更新日：2024年6月7日\n～　経験豊かな相談員が相談者の自宅に訪問し、\n子育てに関する相談をお聞きし、子育ての情報を提供します　～\n赤ちゃんの絵\n・子育てについて\n・お子さんのこと\n・お母さん自身のこと\n・その他\n一緒に考え、楽しい子育てしませんか？\n・子育てに関する地域の情報提供\n・遊びの紹介\n・離乳食の進め方等\n\nお気軽にお電話ください\n新宿区立子ども総合センター　　総合相談第一係訪問相談担当\n電話　：　03-3232-0675       FAX　：　03-3232-0666\n訪問時間　：　10:00～12:00,　13:00～16:00　（祝日を除く　月曜日～金曜日）\n費用　：　無料\n～～～申し込み時に伺います～～～\n☆住所\n☆保護者のお名前\n☆お子さんの生年月日と性別　（就学前のお子さんが対象です）\n☆訪問相談希望日時\n☆連絡先（電話）等\n＊個人情報は訪問相談以外には使用いたしません\n子育て訪問相談のチラシ [PDF形式：155KB] （新規ウィンドウ表示）;https://www.city.shinjuku.lg.jp/content/000104362.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "祝日",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "新宿区の子育てに関する相談",
+    "shortName": "子育て訪問相談"
+  },
+  "localGovernmentLink": {
+    "title": "子育て訪問相談（子ども総合センター）",
+    "uri": "https://www.city.shinjuku.lg.jp/kodomo/kosodatehoumonsoudan.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "新宿区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "お気軽にお電話ください\n新宿区立子ども総合センター　　総合相談第一係訪問相談担当\n電話　：　03-3232-0675       FAX　：　03-3232-0666\n訪問時間　：　10:00～12:00,　13:00～16:00　（祝日を除く　月曜日～金曜日）\n費用　：　無料\n～～～申し込み時に伺います～～～\n☆住所\n☆保護者のお名前\n☆お子さんの生年月日と性別　（就学前のお子さんが対象です）\n☆訪問相談希望日時\n☆連絡先（電話）等",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "子育て訪問相談のチラシ [PDF形式：155KB] （新規ウィンドウ表示）",
+      "uri": "https://www.city.shinjuku.lg.jp/content/000104362.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "経験豊かな相談員が相談者の自宅に訪問し、子育てに関する相談をお聞きしたり、子育ての情報を提供します",
+  "support": {
+    "description": "・子育てに関する地域の情報提供\n・遊びの紹介\n・離乳食の進め方等",
+    "materiallySupport": "・子育てに関する地域の情報提供\n・遊びの紹介\n・離乳食の進め方等",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-06-07",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "訪問時間　：　10:00～12:00,　13:00～16:00　（祝日を除く　月曜日～金曜日）",
+    "fromHM": null,
+    "toHM": null
+  }
+}

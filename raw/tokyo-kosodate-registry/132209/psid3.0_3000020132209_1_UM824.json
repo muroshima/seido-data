@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "132209;東大和市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健幸福祉部障害福祉課庶務係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132209",
+    "psid": "psid3.0+3000020132209+1+UM824"
+  },
+  "belongings": "必要書類等については以下の添付ファイルをご覧ください。\n申請に必要な書類について （PDF 105.3KB）;https://www.city.higashiyamato.lg.jp/_res/projects/default_project/_page_/001/003/027/hituyousyorui.pdf",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都東大和市中央3-930",
+    "contactComment": "FAX：042-563-5928",
+    "contactEmail": null,
+    "contactEx": "1122",
+    "contactName": "健幸福祉部障害福祉課庶務係",
+    "contactPhone": "042-563-2111",
+    "contactUrl": null,
+    "zipCode": "2078585"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "精神通院医療　《費用負担：有　所得制限：有》\n精神疾患のため通院による治療を受ける場合の医療費の自己負担を原則1割に軽減します。自己負担は原則1割ですが、利用者本人の収入や世帯の所得・疾患等に応じて負担上限月額が設定されています。\nまた、本制度は、精神通院医療に係る往診・デイケア・訪問看護・てんかんの診療及び薬代等も対象とします。なお、精神科以外での精神疾患の通院診療も対象となります。\n東京都の精神通院医療費助成制度\n東京都では、社会保険加入者、後期高齢者医療制度及び組合国保加入者で区市町村民税が非課税の世帯の方について、精神通院医療の自己負担額分を助成する制度を実施しています。\nまた、国民健康保険加入者については、国民健康保険より助成を行う制度があります。\n※市では申請書等の受理を行います。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度（精神通院医療）",
+    "shortName": "自立支援医療"
+  },
+  "localGovernmentLink": {
+    "title": "自立支援医療",
+    "uri": "https://www.city.higashiyamato.lg.jp/kenkofukushi/shogaisha/1002997/1003024/1003027.html#:~:text=%E7%B2%BE%E7%A5%9E%E7%96%BE%E6%82%A3%E3%81%AE%E3%81%9F%E3%82%81%E9%80%9A%E9%99%A2,%E7%AD%89%E3%82%82%E5%AF%BE%E8%B1%A1%E3%81%A8%E3%81%97%E3%81%BE%E3%81%99%E3%80%82"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/21",
+    "updater": "東大和市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "「精神保健及び精神障害者福祉に関する法律」第5条に規定する、精神疾患またはてんかんを有するもので、通院による治療を継続的に要する病態にある方"
+  },
+  "updateDate": "2024/11/26",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

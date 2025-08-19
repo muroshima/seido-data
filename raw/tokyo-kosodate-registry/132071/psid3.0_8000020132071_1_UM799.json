@@ -1,0 +1,166 @@
+{
+  "area": {
+    "areaCode": "132071;昭島市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子ども家庭センター担当 子ども家庭支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132071",
+    "psid": "psid3.0+8000020132071+1+UM799"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 子ども家庭センター担当 子ども家庭支援係",
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子ども家庭支援センター\n0歳から18歳未満の子育てに関する相談に応じています。\n自分自身のこと、子育てのこと、家族のこと、健康、発達のことなど、相談員が一緒に考え総合的に対応し、今後の方向性を探します。困ったなと感じたとき、お気軽にご相談ください。\n所在地はページ下部をご覧ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "こども家庭センター",
+    "shortName": "子ども家庭支援センター"
+  },
+  "localGovernmentLink": {
+    "title": "子ども家庭支援センター",
+    "uri": "https://www.city.akishima.lg.jp/li/020/010/180/"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/14",
+    "updater": "昭島市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "児童虐待防止講演会\nあきしま就学以降児童支援制度案内『きらり＋plus（プラス）』\nこどもそうだんまどぐちあんない",
+      "uri": "https://www.city.akishima.lg.jp/s064/010/010/010/110/20171023103149.html"
+    },
+    {
+      "title": "ショートステイ",
+      "uri": "https://www.city.akishima.lg.jp/s064/010/010/010/010/020/20180807173450.html"
+    },
+    {
+      "title": "育児講座",
+      "uri": "https://www.city.akishima.lg.jp/s064/010/010/010/010/030/20140910101254.html"
+    },
+    {
+      "title": "子育てグループネットワーク連絡会",
+      "uri": "https://www.city.akishima.lg.jp/s064/010/010/010/100/youikutaikennhappyoukai.html"
+    },
+    {
+      "title": "児童虐待相談",
+      "uri": "https://www.city.akishima.lg.jp/li/020/010/180/010/index.html"
+    },
+    {
+      "title": "育児支援ヘルパー",
+      "uri": "https://www.city.akishima.lg.jp/li/020/010/200/010/index.html"
+    },
+    {
+      "title": "養育家庭体験発表会",
+      "uri": "https://www.city.akishima.lg.jp/s064/010/010/010/130/20230531160937.html"
+    },
+    {
+      "title": "子育て相談",
+      "uri": "https://www.city.akishima.lg.jp/s064/010/010/010/010/100/20140910104352.html"
+    },
+    {
+      "title": "養育家庭になってみませんか？",
+      "uri": "https://www.city.akishima.lg.jp/s064/010/010/010/010/050/20140910153624.html"
+    },
+    {
+      "title": "所在地（施設マップ）",
+      "uri": "https://www.city.akishima.lg.jp/s064/010/010/010/010/020/20140910100154.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "昭島市の【子ども家庭支援センター】では、子育て家庭に対する相談等への対応、こどもの養育に関する支援などを行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

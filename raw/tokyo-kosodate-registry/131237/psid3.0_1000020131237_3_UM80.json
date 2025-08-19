@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局学務課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+3+UM80"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "教育委員会事務局学務課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e069/kuseijoho/gaiyo/soshiki/kyoiku/gakumu.html",
+    "zipCode": null
+  },
+  "cost": "500",
+  "costConditions": "日額500円です。（注）\n（注）「保育の必要性の認定」を受けた場合は、日額450円×利用日数が還付の対象となります。",
+  "description": "江戸川区にある区立幼稚園は、船堀幼稚園の1園となります。\n4・5歳児を対象にした2年保育です。\n\n|幼稚園名|所在地|電話番号|ホームページ|\n|:----|:----|:----|:----|\n|船堀幼稚園|船堀6丁目11番39号|03-3675-1131|江戸川区立船堀幼稚園ホームページhttp://edogawa.schoolweb.ne.jp/swas/index.php?id=1380002|",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "土曜日・日曜日・祝日や春季・夏季・冬季休業の間はお休み",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "船堀6丁目11番39号",
+    "implementationName": "船堀幼稚園"
+  },
+  "institutionName": {
+    "canonicalName": "幼稚園の利用について",
+    "shortName": "区立幼稚園のご案内"
+  },
+  "localGovernmentLink": {
+    "title": "区立幼稚園のご案内",
+    "uri": "https://www.city.edogawa.tokyo.jp/e069/kuseijoho/gaiyo/shisetsuguide/bunya/kosodate/kuritsu/youchien_annai.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "■途中入園について\n年度途中での入園受付は、幼稚園にて随時行っています。\n見学や申込み・空き状況に関することについては、幼稚園へ直接お問い合わせください。\n幼稚園見学後に途中入園を希望される方は、下記から電子申請をお願いします。\n・東京共同電子申請・届出サービス（外部サイトへリンク）（別ウィンドウで開きます）\nhttps://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1637129107392\nお知らせ\n令和6年4月より「ぴったりサービス（外部サイトへリンク）（別ウィンドウで開きます）」での電子申請を開始予定です。利用にはマイナンバーカードが必要です。\nhttps://app.oss.myna.go.jp/Application/procdetail/initGet?kc9XUt9I8/CU41afS8P1OaaLxX/9+D2bXPzn80LiqLRKeI438ftq6avj3ZAt+N8AsGjJJPWlo5kgDJnXrBarHDSV2L80auQvTNQrQg1iqMqleWT1BsrHI6Nutr/iFXsvpj/o6fqq68Wb9avJ8fB93Q==\n\n■次年度募集について\n次年度の新入園児募集は、11月2日・6日・7日に行います。\n募集の詳細については、入園・入学手続きhttps://www.city.edogawa.tokyo.jp/kosodate/kyoiku/kyouiku/tetuduki/nyuen_nyugaku/index.htmlのページをご覧ください。\n（入園見学説明会）（PDF：197KB）（別ウィンドウで開きます）\nhttps://www.city.edogawa.tokyo.jp/documents/8607/1.pdf\n（入園見学説明会 幼稚園紹介動画）（外部サイトへリンク）（別ウィンドウで開きます）\nhttps://sway.office.com/aH6HD1IRb8iMUwSb?ref=Link\n\n■昼食\n令和5年9月1日より、弁当給食を実施(無償化)します。\n\n■送迎\n通園バスがないため、保護者の方に送迎をしていただきます。\n\n■ショートサポート保育\n・教育時間の前後、希望者を対象に預かり保育を実施しています。\n・利用限度日数は12日/月です。\n・在園児であれば、どなたでも利用できます。利用する際は幼稚園にご連絡ください。\n\n■ショートサポート保育の保育時間\n1．午前7時30分から午前9時まで\n2．教育時間終了後から午後6時30分まで\n土曜日・日曜日・祝日や年末年始の間はお休みです。\n\n■費用\n日額500円です。（注）\n（注）「保育の必要性の認定」を受けた場合は、日額450円×利用日数が還付の対象となります。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第26条",
+    "regulationName": "学校教育法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "幼稚園とは、学校教育法に基づき、満3歳から小学校就学前までのお子さんに幼児教育を提供する施設（学校）です。1日4時間の教育を標準とし、小学校や中学校のように夏休みや春休みなどもありますが、多くの園で教育時間終了後や長期休暇中の預かりも行っています。江戸川区にある区立幼稚園は、船堀幼稚園の1園となります。",
+  "support": {
+    "description": "入園料・保育料\n令和元年10月から幼児教育・保育の無償化に伴い、入園料・保育料は無料になりました。\n\n上記以外の必要な費用は下記のとおりです。\n\n・園服代等の入園準備費　約20,000円(目安)\n・教材費、PTA会費等　月額2,500円\n\n昼食\n令和5年9月1日より、弁当給食を実施(無償化)します。\n\n送迎\n通園バスがないため、保護者の方に送迎をしていただきます。\n\nショートサポート保育\n・教育時間の前後、希望者を対象に預かり保育を実施しています。\n・利用限度日数は12日/月です。\n・在園児であれば、どなたでも利用できます。利用する際は幼稚園にご連絡ください。\n\nショートサポート保育の保育時間\n・午前7時30分から午前9時まで\n・教育時間終了後から午後6時30分まで\n\n土曜日・日曜日・祝日や年末年始の間はお休みです。\n\n親子ひろばあいあい\n就園前のお子様を対象に、幼稚園が主体となり地域の応援団として行っている子育て支援事業です。\n詳細については、幼稚園のホームページの配布物一覧（外部サイトへリンク）（別ウィンドウで開きます）をご覧ください。\nhttp://edogawa.schoolweb.ne.jp/swas/index.php?id=1380002&frame=haifu",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "入園申込みのできる方は、次の2点を満たしている必要があります。\n1・幼児の生年月日が、下記の年齢に該当すること。\n4歳児：平成30年（2018年）4月2日～平成31年（2019年）4月1日生まれ\n5歳児：平成29年（2017年）4月2日～平成30年（2018年）4月1日生まれ\n2・幼児と保護者の住所が入園する時点で江戸川区にあること。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 4,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 5,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "入園申込みのできる方は、次の2点を満たしている必要があります。\n1・幼児の生年月日が、下記の年齢に該当すること。\n4歳児：平成30年（2018年）4月2日～平成31年（2019年）4月1日生まれ\n5歳児：平成29年（2017年）4月2日～平成30年（2018年）4月1日生まれ\n2・幼児と保護者の住所が入園する時点で江戸川区にあること。\n\n認定要件\n・父母ともに就労している\n・自営業を開業する\n・求職活動をしている(3か月間のみ有効)\n・出産の予定がある(出産予定日の前後2か月間のみ有効)\n・病気になった、障がい者手帳が交付された\n・介護、看護を行う\n・就学する"
+  },
+  "updateDate": "2023-10-20",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "■教育時間\n・午前9時から午後2時までです。\n・第2・4水曜日は午前保育になります。\n・土曜日・日曜日・祝日や春季・夏季・冬季休業の間はお休みで、ショートサポート保育のみ実施しています。",
+    "fromHM": "09:00",
+    "toHM": "14:00"
+  }
+}

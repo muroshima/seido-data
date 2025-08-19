@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132241;多摩市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども・若者政策課 幼児教育・保育担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132241",
+    "psid": "psid3.0+3000020132241+1+UM805"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都多摩市関戸六丁目12番地1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども・若者政策課 幼児教育・保育担当",
+    "contactPhone": "042-338-6850",
+    "contactUrl": null,
+    "zipCode": "2068666"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "事業所内保育所\n\n事業所内保育所とは、会社や病院などの事業所の中に設置された、市区町村の認可を受けた保育施設です。その事業所に勤務する従業員の子どもと、事業所の所在する市区町村の子どもを一緒に保育します。\n\n名称\nサクラさーくる\n\n住所\n多摩市関戸2-43-1\n\n対象年齢\n0～2歳児\n\n開所時間\n平日7時30分～18時30分\n※延長保育に関しては施設にお問い合わせください。\n\n開所時間・定員など詳しくはお問い合わせください\n入所の申請・手続きに関すること\n多摩市役所子育て支援課\n電話番号　042-338-6850\n見学の申し込み\nサクラさーくる\n電話番号　042-337-3482",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "事業所内保育施設一覧",
+    "shortName": "事業所内保育所"
+  },
+  "localGovernmentLink": {
+    "title": "事業所内保育所",
+    "uri": "https://www.city.tama.lg.jp/kosodate/1008019/1008034/1003549.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "多摩市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "開所時間・定員など詳しくはお問い合わせください",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第五章 事業所内保育事業",
+    "regulationName": "家庭的保育事業等の設備及び運営に関する基準"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "市区町村の認可事業として行われる事業所内保育は、企業や病院などが従業員に対して仕事と子育ての両立支援策として実施するもので、従業員や職員のお子さんのほか、地域の保育が必要なお子さんも受け入れて、一緒に保育を行います。\n事業所内保育入所定員が20人以上の「保育所型事業所内保育」施設と6人以上19人以下の「小規模型事業所内保育」施設があります。",
+  "support": {
+    "description": "事業所内保育所とは、会社や病院などの事業所の中に設置された、市区町村の認可を受けた保育施設です。その事業所に勤務する従業員の子どもと、事業所の所在する市区町村の子どもを一緒に保育します。",
+    "materiallySupport": "事業所内保育所とは、会社や病院などの事業所の中に設置された、市区町村の認可を受けた保育施設です。その事業所に勤務する従業員の子どもと、事業所の所在する市区町村の子どもを一緒に保育します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "対象年齢\n0～2歳児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象年齢\n0～2歳児"
+  },
+  "updateDate": "2023-03-15",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "開所時間\n平日7時30分～18時30分\n※延長保育に関しては施設にお問い合わせください。",
+    "fromHM": "07:30",
+    "toHM": "18:30"
+  }
+}

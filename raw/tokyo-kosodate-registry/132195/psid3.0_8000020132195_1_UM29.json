@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "132195;狛江市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子ども家庭課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132195",
+    "psid": "psid3.0+8000020132195+1+UM29"
+  },
+  "belongings": "養育医療給付申請書\n養育医療意見書（指定医療機関の医師が記入）\n世帯調書\n所得税額証明書（所得税が課せられている方全員分）\n養育医療対象者の健康保険証（未発行の場合は、扶養者の健康保険証）\n委任状",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "狛江市元和泉二丁目35-1（あいとぴあセンター内）",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子ども家庭課母子保健係（あいとぴあセンター）",
+    "contactPhone": "03-5761-9200",
+    "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,132750,html",
+    "zipCode": "2010013"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "未熟児の養育医療\n下記対象者に該当する乳児（0歳児）の指定医療機関への入院にかかる費用について、保険適用後の自己負担額および食事療養費を助成します。\n\n※世帯の所得税額に応じて一部自己負担がありますが、乳幼児医療証（マル乳）をお持ちの方は養育医療申請時に併せて委任状を提出することで、市が代理で自己負担額を乳幼児医療に請求します。市が代理で請求することで、自己負担や納付の手間を省くことができますので、必ず乳幼児医療証の申請も行ってください。\n\n対象者\n狛江市内に住所を有する乳児で、次のいずれかに該当し、医師が入院養育を必要と認めた方\n\n出生時の体重が2,000グラム以下の方\n１以外の乳児で、生活力が特に弱く、次のいずれかの症状を示す\n 一般症状：\n（ア）運動不安・けいれん\n（イ）運動が異常に少ない\n体温が摂氏34度以下\n呼吸器、循環器系：\n（ア）強度のチアノーゼが持続するもの、チアノーゼ発作を繰り返す\n（イ）呼吸数が毎分50以上または毎分30以下\n（ウ）出血傾向が強い\n消化器系：\n（ア）生後24時間以上排便がない\n（イ）生後48時間以上おう吐が持続\n（ウ）血性吐物、血性便\n黄だん（生後数時間以内に現れるか、異常に強い黄だん）    \n申請方法\n出生後3カ月以内に必要書類を子ども家庭課（あいとぴあセンター）にご提出ください。\n必要書類の提出から2～3週間後に養育医療券を送付します。お手元に届きましたら、医療機関に提示してください。\n\n※必要書類の提出が出生後3カ月を過ぎた場合、助成を受けられないことがあります。\n※養育医療券を医療機関に提示するまで、医療費の支払いをしないでください。提示前に医療費を支払ってしまった場合、助成を受けられません。\n\n必要書類\n養育医療給付申請書\n養育医療意見書（指定医療機関の医師が記入）\n世帯調書\n所得税額証明書（所得税が課せられている方全員分）\n養育医療対象者の健康保険証（未発行の場合は、扶養者の健康保険証）\n委任状\n※1から3および6の書類は、子ども家庭課（あいとぴあセンター）または子ども若者政策課窓口でお渡ししています。\n\n※所得税額証明書の種類等詳細は、窓口でお渡しする「養育医療の申請をされる方へ」をよくお読みください。\n\n指定医療機関\n医療費助成を受けることのできる医療機関は、全国の指定された養育医療機関です。\n東京都が指定する医療機関の一覧は、未熟児の養育医療（東京都福祉保健局ホームページ・外部リンク）;http://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/mijukuji.htmlからご確認ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "未熟児養育医療の給付",
+    "shortName": "未熟児の養育医療"
+  },
+  "localGovernmentLink": {
+    "title": "未熟児の養育医療",
+    "uri": "https://www.city.komae.tokyo.jp/index.cfm/43,69943,330,html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "狛江市"
+  },
+  "procedureCounter": "狛江市子ども家庭部子ども家庭課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "出生後3カ月以内に必要書類を子ども家庭課（あいとぴあセンター）にご提出ください。\n必要書類の提出から2～3週間後に養育医療券を送付します。お手元に届きましたら、医療機関に提示してください。\n\n※必要書類の提出が出生後3カ月を過ぎた場合、助成を受けられないことがあります。\n※養育医療券を医療機関に提示するまで、医療費の支払いをしないでください。提示前に医療費を支払ってしまった場合、助成を受けられません。",
+  "procedurePeriod": {
+    "conditions": "出生後3カ月以内に必要書類を子ども家庭課（あいとぴあセンター）にご提出ください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第20条（養育医療）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "未熟児の養育医療（東京都福祉保健局ホームページ・外部リンク）",
+      "uri": "http://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/mijukuji.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "未熟児養育医療の給付とは、身体の発育が未熟なまま生まれ入院を必要とする乳児が、指定養育医療機関において入院治療を受ける場合に、その治療に要する医療費を公費により負担する制度です。ただし、世帯の所得税額に応じて、入院治療費の一部は自己負担となります。",
+  "support": {
+    "description": "下記対象者に該当する乳児（0歳児）の指定医療機関への入院にかかる費用について、保険適用後の自己負担額および食事療養費を助成します。\n\n※世帯の所得税額に応じて一部自己負担がありますが、乳幼児医療証（マル乳）をお持ちの方は養育医療申請時に併せて委任状を提出することで、市が代理で自己負担額を乳幼児医療に請求します。市が代理で請求することで、自己負担や納付の手間を省くことができますので、必ず乳幼児医療証の申請も行ってください。",
+    "materiallySupport": null,
+    "monetarySupport": "指定医療機関への入院にかかる費用について、保険適用後の自己負担額および食事療養費を助成します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "089"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "狛江市内に住所を有する乳児で、次のいずれかに該当し、医師が入院養育を必要と認めた方\n\n出生時の体重が2,000グラム以下の方\n１以外の乳児で、生活力が特に弱く、次のいずれかの症状を示す\n 一般症状：\n（ア）運動不安・けいれん\n（イ）運動が異常に少ない\n体温が摂氏34度以下\n呼吸器、循環器系：\n（ア）強度のチアノーゼが持続するもの、チアノーゼ発作を繰り返す\n（イ）呼吸数が毎分50以上または毎分30以下\n（ウ）出血傾向が強い\n消化器系：\n（ア）生後24時間以上排便がない\n（イ）生後48時間以上おう吐が持続\n（ウ）血性吐物、血性便\n黄だん（生後数時間以内に現れるか、異常に強い黄だん）"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

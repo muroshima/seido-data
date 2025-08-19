@@ -1,0 +1,183 @@
+{
+  "area": {
+    "areaCode": "131211;足立区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "地域のちから推進部住区推進課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020131211",
+    "psid": "psid3.0+2000020131211+2+UM112"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "地域のちから推進部住区推進課",
+    "contactPhone": "03-3880-5729",
+    "contactUrl": "https://www.city.adachi.tokyo.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "無料",
+  "description": "児童館子育てサロン\n区内全ての児童館で、0歳から就学前の乳幼児と保護者を対象に「児童館子育てサロン」を実施しています。\n児童館では、小学生以上の子どもたちが学校に行っている時間帯、広いスペースでのびのびと遊ぶことができます。また、親子を対象にした子育て相談や子育て講座、親子で参加できる事業を行っています。\n\n詳しい活動内容は、各児童館へ直接お問い合わせいただだくか、各住区（コミュニティ）センターのページをご覧ください。\n\n児童館子育てサロン\n◎利用できる場所・・・児童館ひろば\n\n◎利用できる日・・・小学校の授業のある月曜日から金曜日\n\n※月１回の館内整理日は休館となり、利用することができません。\n\n◎利用できる時間・・・午前１０時から午後1時まで\n\n児童館子育てサロン専用室がある児童館\n下記の区内１４か所の児童館に開館時間内であれば、いつでもご利用いただける乳幼児専用室があります。\n\n青井児童館;https://www.city.adachi.tokyo.jp/juku/j-aoi.html、栗島児童館;https://www.city.adachi.tokyo.jp/juku/j-kurisima.html、五反野児童館;https://www.city.adachi.tokyo.jp/juku/j-gotanno.html、千住あずま児童館;https://www.city.adachi.tokyo.jp/juku/j-azuma.html、千住柳町児童館;https://www.city.adachi.tokyo.jp/juku/j-yanagichou.html、渕江児童館;https://www.city.adachi.tokyo.jp/juku/j-futie.html、渕江住区センター分館;https://www.city.adachi.tokyo.jp/juku/30juku.html、竹の塚六月児童館;https://www.city.adachi.tokyo.jp/juku/j-rokugatu.html、入谷児童館;https://www.city.adachi.tokyo.jp/juku/j-iriya.html、東伊興住区センター分館;https://www.city.adachi.tokyo.jp/juku/j-seikatukan.html、東和児童館;https://www.city.adachi.tokyo.jp/juku/j-touwa.html、江南児童館;https://www.city.adachi.tokyo.jp/juku/j-kounan.html、鹿浜いきいき館;https://www.city.adachi.tokyo.jp/juku/shisetsu/jukucenter/022.html、西新井児童館;https://www.city.adachi.tokyo.jp/juku/j-nisiarai.html\n\n◎利用できる場所・・・子育てサロン専用室\n\n◎利用できる日・・・・月曜日から土曜日\n\n　※月１回の館内整理日は休館となり、利用することができません。\n\n◎利用できる時間・・・児童館の開館時間内\n\n児童館子育てサロンの他に、0歳から3歳のお子さんとお母さん・お父さんのための憩いの場として「子育てサロン」が区内に13ヶ所あります。\n\n子育てサロンについてはコチラからご覧ください;https://www.city.adachi.tokyo.jp/juku/k-kyoiku/kosodate/tsudoinoba-salon.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "日曜日及び祝日、月１回の館内整理日は休館",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "区内全ての児童館"
+  },
+  "institutionName": {
+    "canonicalName": "子育て広場",
+    "shortName": "児童館子育てサロン"
+  },
+  "localGovernmentLink": {
+    "title": "児童館子育てサロン",
+    "uri": "https://www.city.adachi.tokyo.jp/juku/jidoukannkosodatesaronn.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "足立区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第6項",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "五反野児童館",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-gotanno.html"
+    },
+    {
+      "title": "渕江児童館",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-futie.html"
+    },
+    {
+      "title": "東和児童館",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-touwa.html"
+    },
+    {
+      "title": "入谷児童館",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-iriya.html"
+    },
+    {
+      "title": "青井児童館",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-aoi.html"
+    },
+    {
+      "title": "江南児童館",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-kounan.html"
+    },
+    {
+      "title": "子育てサロンについてはコチラからご覧ください",
+      "uri": " https://www.city.adachi.tokyo.jp/juku/k-kyoiku/kosodate/tsudoinoba-salon.html"
+    },
+    {
+      "title": "千住柳町児童館",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-yanagichou.html"
+    },
+    {
+      "title": "竹の塚六月児童館",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-rokugatu.html"
+    },
+    {
+      "title": "栗島児童館",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-kurisima.html"
+    },
+    {
+      "title": "渕江住区センター分館",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/30juku.html"
+    },
+    {
+      "title": "西新井児童館",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-nisiarai.html"
+    },
+    {
+      "title": "千住あずま児童館",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-azuma.html"
+    },
+    {
+      "title": "東伊興住区センター分館",
+      "uri": ";https://www.city.adachi.tokyo.jp/juku/j-seikatukan.html"
+    },
+    {
+      "title": "鹿浜いきいき館",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/shisetsu/jukucenter/022.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "区内の児童館ひろばは、小学校就学前のお子さんが安心して遊べるスペースがあり、子育て中の親子が気軽に集い、仲間づくりを通して子育てに関する相談や情報交換等を行う機会を提供しています。また、お子さんの年齢に応じた各種イベントなども行っています。\n（イベントの詳細については、足立区サイトや区報などでお知らせしています。）",
+  "support": {
+    "description": "児童館では、小学生以上の子どもたちが学校に行っている時間帯、広いスペースでのびのびと遊ぶことができます。また、親子を対象にした子育て相談や子育て講座、親子で参加できる事業を行っています。",
+    "materiallySupport": "児童館では、小学生以上の子どもたちが学校に行っている時間帯、広いスペースでのびのびと遊ぶことができます。また、親子を対象にした子育て相談や子育て講座、親子で参加できる事業を行っています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0歳から就学前の乳幼児と保護者",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "0歳から就学前の乳幼児と保護者"
+  },
+  "updateDate": "2024-02-02",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "◎利用できる場所・・・児童館ひろば\n\n◎利用できる日・・・小学校の授業のある月曜日から金曜日\n\n　　　※月１回の館内整理日は休館となり、利用することができません。\n\n◎利用できる時間・・・午前１０時から午後1時まで\n◎利用できる場所・・・子育てサロン専用室\n\n◎利用できる日・・・・月曜日から土曜日\n\n　※月１回の館内整理日は休館となり、利用することができません。\n\n◎利用できる時間・・・児童館の開館時間内",
+    "fromHM": "10:00",
+    "toHM": "18:00"
+  }
+}

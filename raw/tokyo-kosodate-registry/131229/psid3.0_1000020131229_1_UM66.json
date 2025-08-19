@@ -1,0 +1,144 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "地域保健課地域医療係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+1+UM66"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区青戸4-15-14　健康プラザかつしか内",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "地域保健課地域医療係",
+    "contactPhone": "03-3602-1231",
+    "contactUrl": null,
+    "zipCode": "1250062"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の医療費助成制度（ぜん息など）",
+    "shortName": "大気汚染に係る健康障害者医療費助成制度"
+  },
+  "localGovernmentLink": {
+    "title": "大気汚染に係る健康障害者医療費助成制度　申請先・申請方法",
+    "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001791/1001856.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": "地域保健課地域医療係（健康プラザかつしか　2階）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "大気汚染に係る健康障害者医療費助成　申請先・申請書類",
+      "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001791/1001857.html"
+    },
+    {
+      "title": "大気汚染に係る健康障害者医療費助成　温水プール費用助成",
+      "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001791/1001860.html"
+    },
+    {
+      "title": "東京都ホームページ（外部リンク）",
+      "uri": "https://www.hokeniryo.metro.tokyo.lg.jp/kankyo//kankyo_eisei/taiki/iryouhi/index.html"
+    },
+    {
+      "title": "大気汚染に係る健康障害者医療費助成　医療費の請求方法",
+      "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001791/1001859.html"
+    },
+    {
+      "title": "大気汚染に係る健康障害者医療費助成　医療券の交付・有効期間",
+      "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001791/1001858.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "大気汚染の影響を受けると推定される疾病（気管支ぜん息など）にかかった方に対し、一定の要件を満たす場合に、医療費の助成をしています。",
+  "support": {
+    "description": "医療券に記載された疾病の医療費（診療等に係る費用の内、健康保険等を適用した後の自己負担額）を助成いたします。\nただし、医療券に記載された疾病外の治療に要した費用、申請に係る費用（主治医診療報告書作成料等）、入院時の食事療養・生活療養標準負担額、健康保険適用されない費用等については、対象外です。",
+    "materiallySupport": null,
+    "monetarySupport": "平成30年4月1日以降の診療分から、認定された病気に対する保険診療の窓口支払額のうち、6,000円を超える費用について助成いたします。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "078"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "以下のいずれにも該当する方\n・18歳未満の方（18歳の誕生日が属する月の末日までの間にある方を含む）\n・東京都内に引き続き1年（3歳未満は6か月）以上住所を有する方\n・気管支ぜん息、慢性気管支炎、ぜん息性気管支炎、肺気腫にかかられている方\n・健康保険に加入されている方\n・申請日以降喫煙しない方\n※18歳以上の方の新規申請は、平成27年3月31日を以って終了しています。"
+  },
+  "updateDate": "2023-04-04",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

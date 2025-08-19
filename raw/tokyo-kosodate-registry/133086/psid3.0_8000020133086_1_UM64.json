@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "133086;奥多摩町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉保健課 子育て推進係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020133086",
+    "psid": "psid3.0+8000020133086+1+UM64"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "奥多摩町小丹波108",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉保健課 子育て推進係",
+    "contactPhone": "0428-85-2611",
+    "contactUrl": null,
+    "zipCode": "1980105"
+  },
+  "cost": null,
+  "costConditions": "保護者等の所得に応じた自己負担額があります。",
+  "description": "小児慢性疾患の医療費助成 — 都\n●内容\n　下記の対象者の方が受ける医療のうち、認定された疾病の治療に要した医療費の自己負担額の一部を助成します。\n●条件\n　町内在住の原則18 歳未満の児童で、下記の対象疾患があり、認定基準に該当する病状の方が対象です。\n　　〈対象疾患〉\n　　悪性新生物、慢性腎疾患、慢性呼吸器疾患、慢性心疾患、内分泌疾患、膠原病、糖尿病、先天性代謝異常、血液疾患・免疫疾患、神経・筋疾患、慢性消化器疾患など\n　保護者等の所得に応じた自己負担額があります。\n●手続きに必要なもの\n　受付窓口で申請に必要な書類をお渡しします。添付書類等はその時にご説明しますので、後日提出をお願いします。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "小児慢性特定疾病医療費の助成",
+    "shortName": "小児慢性疾患の医療費助成"
+  },
+  "localGovernmentLink": {
+    "title": "奥多摩町の福祉サービス（母子・子育て編）2024年度版 (PDFファイル: 1.4MB)",
+    "uri": "https://www.town.okutama.tokyo.jp/material/files/group/7/fukushikosodate2024.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-12",
+    "updater": "奥多摩町"
+  },
+  "procedureCounter": "福祉保健課 子育て推進係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "受付窓口で申請に必要な書類をお渡しします。添付書類等はその時にご説明しますので、後日提出をお願いします。",
+  "procedurePeriod": {
+    "conditions": "後日提出をお願いします。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第19条の2～第19条の8",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子どもの慢性疾病のうち、治療期間が長く、医療費負担が高額となる疾病について、治療方法の確立と普及、患者家庭の医療費の負担軽減につながるよう、医療費の自己負担分を補助しています。",
+  "support": {
+    "description": "対象者の方が受ける医療のうち、認定された疾病の治療に要した医療費の自己負担額の一部を助成します。",
+    "materiallySupport": null,
+    "monetarySupport": "対象者の方が受ける医療のうち、認定された疾病の治療に要した医療費の自己負担額の一部を助成します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "原則18 歳未満の児童",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "町内在住の原則18 歳未満の児童で、下記の対象疾患があり、認定基準に該当する病状の方が対象です。\n〈対象疾患〉\n悪性新生物、慢性腎疾患、慢性呼吸器疾患、慢性心疾患、内分泌疾患、膠原病、糖尿病、先天性代謝異常、血液疾患・免疫疾患、神経・筋疾患、慢性消化器疾患など"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "受付窓口で申請に必要な書類をお渡しします。添付書類等はその時にご説明します",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

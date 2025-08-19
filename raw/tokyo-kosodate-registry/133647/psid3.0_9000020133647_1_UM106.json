@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "133647;神津島村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020133647",
+    "psid": "psid3.0+9000020133647+1+UM106"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健センター",
+    "contactPhone": "04992-8-0010",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": "300",
+  "costConditions": "3００円/1 時間 週 2 回、1 回 2 時間まで利用可",
+  "description": "家事育児サポーター派遣事業 よちよち応援隊\n「家事をする間、ちょっと子どもを見ていてほしい。」\n「夜泣きが続いて夜寝られないので、ちょっとだけでも昼間休みたい」ということはありませんか？\nよちよち応援隊は、家事育児サポーター(※NPO 法人潮彩の会委託)がご自宅を訪問し産後の家事・育児をサポートします。\n・利用できるのは神津島村に住所があり、①、②のいずれかを満たす方\n① 2 歳以下のお子さんがいる方(入園している 2 歳児は対象外)\n② 2 歳以下の多胎児がいる方\n・利用料金 3００円/1 時間 週 2 回、1 回 2 時間まで利用可\n・サービス内容\n【家事】\n食事の支度、衣類の洗濯、居室の清掃、買い物\n※家事は日常行われている程度の範囲です。家事の範疇を超えた作業はおこないません。\n【育児】\n乳児の兄・姉の世話、授乳、おむつ替え、沐浴の補助、育児に関する助言及び相談\n※保護者の目の届く範囲で家事・育児支援をします。利用者不在の状況での利用はできません。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関するサポート",
+    "shortName": "よちよち応援隊"
+  },
+  "localGovernmentLink": {
+    "title": "たのしい子育てをするために",
+    "uri": "https://www.vill.kouzushima.tokyo.jp/images/2023/03/20210318-tanosii.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-08-19",
+    "updater": "神津島村"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "よちよち応援隊は、家事育児サポーターがご自宅を訪問し産後の家事・育児をサポートします。",
+  "support": {
+    "description": "【家事】\n食事の支度、衣類の洗濯、居室の清掃、買い物\n※家事は日常行われている程度の範囲です。家事の範疇を超えた作業はおこないません。\n【育児】\n乳児の兄・姉の世話、授乳、おむつ替え、沐浴の補助、育児に関する助言及び相談",
+    "materiallySupport": "【家事】\n食事の支度、衣類の洗濯、居室の清掃、買い物\n※家事は日常行われている程度の範囲です。家事の範疇を超えた作業はおこないません。\n【育児】\n乳児の兄・姉の世話、授乳、おむつ替え、沐浴の補助、育児に関する助言及び相談",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "① 2 歳以下のお子さんがいる方(入園している 2 歳児は対象外)\n② 2 歳以下の多胎児がいる方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "神津島村に住所があり、①、②のいずれかを満たす方\n① 2 歳以下のお子さんがいる方(入園している 2 歳児は対象外)\n② 2 歳以下の多胎児がいる方"
+  },
+  "updateDate": "2021-03-18",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

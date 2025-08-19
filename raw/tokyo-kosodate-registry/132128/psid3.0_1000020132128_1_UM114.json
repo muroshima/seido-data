@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132128;日野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部健康課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132128",
+    "psid": "psid3.0+1000020132128+1+UM114"
+  },
+  "belongings": "保険証",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都日野市日野本町1丁目6番地の2　生活保健センター",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康福祉部健康課",
+    "contactPhone": "042-581-4111",
+    "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G110500",
+    "zipCode": "1910011"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "こども応急診療（平日準夜診療所）\nこのページの情報をツイッターでツイートできますこのページの情報をフェイスブックでシェアできますこのページの情報をラインでシェアできますページID1002365　 更新日 平成30年10月11日\n印刷　大きな文字で印刷\n\n平日（水曜・木曜・金曜日の午後7時30分から午後10時30分）の夜間診療を行うこども応急診療所のご案内です。\n\n必ず保険証をご持参下さい。また来院前には電話連絡をお願いします。\n\nこども応急診療（平日準夜診療所）\n地図：こども応急診療（平日準夜診療所）案内図\n診療日：水曜日・木曜日・金曜日※祝日・年末年始除く\n診療時間：午後7時30分から午後10時30分\n（受け付けは午後10時20分まで）\n診療科目：小児科（※中学生まで）\n場所：日野市高幡1011（福祉支援センター内）\n電話：042-592-9940",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "日野市高幡1011",
+    "implementationName": "福祉支援センター内"
+  },
+  "institutionName": {
+    "canonicalName": "小児科救急",
+    "shortName": "こども応急診療（平日準夜診療所）"
+  },
+  "localGovernmentLink": {
+    "title": "こども応急診療（平日準夜診療所）",
+    "uri": "https://www.city.hino.lg.jp/kurashi/annzen/iryo/1002365.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "日野市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第20条の2（医療施設の整備）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "日野市では、市内の小児科医がローテーションを組んで、休日や夜間に、赤ちゃんやお子さんが救急の際の診療を行っています。",
+  "support": {
+    "description": "平日（水曜・木曜・金曜日の午後7時30分から午後10時30分）の夜間診療を行う",
+    "materiallySupport": "平日（水曜・木曜・金曜日の午後7時30分から午後10時30分）の夜間診療を行う",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "中学生まで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "中学生まで"
+  },
+  "updateDate": "2018-10-11",
+  "useConsiderationFlag": false,
+  "utilization": "来院前には電話連絡をお願いします。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "診療日：水曜日・木曜日・金曜日※祝日・年末年始除く\n診療時間：午後7時30分から午後10時30分\n（受け付けは午後10時20分まで）",
+    "fromHM": "19:30",
+    "toHM": "22:20"
+  }
+}

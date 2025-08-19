@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132063;府中市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子ども家庭支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132063",
+    "psid": "psid3.0+8000020132063+1+UM782"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部子ども家庭支援課",
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "利用料：1人1日当たり1,800円\n食事代：1食当たり300円\n注記：市民税非課税世帯、生活保護受給世帯の方は利用料の減免を受けられます。減免を希望する方は、減免理由を証明する書類の写しを提出してください。ただし、利用料の減免を受けた場合でも、食事代は減免されないためご負担いただきます。",
+  "description": "ショートステイ事業\nこのページの情報をツイッターでシェアします\n\nこのページの情報をラインでシェアします\n\n最終更新日：2020年11月11日\n　保護者の出産や病気などによる入院、宿泊を伴う出張等の理由で養育が一時的に困難な家庭の子どもを預かります。通園・通学の援助も行います。\n\n施設\n子ども家庭支援センター「しらとり」;https://www.city.fuchu.tokyo.jp/shisetu/kosodate/shien/shiratori.html\n住所：府中市武蔵台1丁目10番地\n電話：042-367-8881\n期間\n　7日以内（年末年始を除く）\n\n対象\n　保護者の出産や病気などによる入院、宿泊を伴う出張等の理由で養育が一時的に困難な家庭の2歳から17歳までの市民\n\n費用\n利用料：1人1日当たり1,800円\n食事代：1食当たり300円\n注記：市民税非課税世帯、生活保護受給世帯の方は利用料の減免を受けられます。減免を希望する方は、減免理由を証明する書類の写しを提出してください。ただし、利用料の減免を受けた場合でも、食事代は減免されないためご負担いただきます。\n\n利用登録について\n利用には、事前に登録が必要です。\n施設に直接お申込みください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "年末年始を除く",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "府中市武蔵台1丁目10番地",
+    "implementationName": "子ども家庭支援センター「しらとり」"
+  },
+  "institutionName": {
+    "canonicalName": "ショートステイ（短期入所生活援助事業）",
+    "shortName": "ショートステイ事業"
+  },
+  "localGovernmentLink": {
+    "title": "ショートステイ事業",
+    "uri": "https://www.city.fuchu.tokyo.jp/kosodate/shussan/ichiji_enjo/short.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-25",
+    "updater": "府中市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "利用には、事前に登録が必要です。\n施設に直接お申込みください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第3項、第21条の9、第59条第6号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "子ども家庭支援センター「しらとり」",
+      "uri": "https://www.city.fuchu.tokyo.jp/shisetu/kosodate/shien/shiratori.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者の出産や病気などによる入院、宿泊を伴う出張等の理由で養育が一時的に困難な家庭の子どもを預かります。通園・通学の援助も行います。",
+  "support": {
+    "description": "保護者の出産や病気などによる入院、宿泊を伴う出張等の理由で養育が一時的に困難な家庭の子どもを預かります。通園・通学の援助も行います。\n\n施設\n子ども家庭支援センター「しらとり」;https://www.city.fuchu.tokyo.jp/shisetu/kosodate/shien/shiratori.html\n・住所：府中市武蔵台1丁目10番地\n・電話：042-367-8881\n期間\n　7日以内（年末年始を除く）",
+    "materiallySupport": "保護者の出産や病気などによる入院、宿泊を伴う出張等の理由で養育が一時的に困難な家庭の子どもを預かります。通園・通学の援助も行います。\n\n施設\n子ども家庭支援センター「しらとり」;https://www.city.fuchu.tokyo.jp/shisetu/kosodate/shien/shiratori.html\n・住所：府中市武蔵台1丁目10番地\n・電話：042-367-8881\n期間\n　7日以内（年末年始を除く）",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "2歳から17歳までの市民",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 17,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "保護者の出産や病気などによる入院、宿泊を伴う出張等の理由で養育が一時的に困難な家庭の2歳から17歳までの市民"
+  },
+  "updateDate": "2020-11-11",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "7日以内（年末年始を除く）",
+    "fromHM": null,
+    "toHM": null
+  }
+}

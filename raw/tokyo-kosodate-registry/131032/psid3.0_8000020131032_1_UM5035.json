@@ -1,0 +1,130 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健福祉支援部国保年金課資格保険料係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+1+UM5035"
+  },
+  "belongings": "・届出書 ・ 国民健康保険証 ・ マイナンバー確認書類 世帯主及び被保険者のマイナンバー関係書類\n\n・本人確認書類 被保険者のマイナンバーカード 、 運転免許証など\n\n・出産の事実のわかるもの 母子健康手帳など\n\n※出産後に届出を行う 場合 、 親子 関係を明らかにする書類が必要です 。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファックス番号：03-3578-2669\n\n外国語対応が必要な人、通訳オペレーター、区の職員の3人で会話ができます。\n\n多言語対応三者通話サービス;https://www.multilingualinterpretercallservice.city.minato.tokyo.jp/kokusai",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "港区国保年金課資格保険料係",
+    "contactPhone": "03-3578-2574,03-3578-2575,03-3578-2576,03-3578-2577,03-3578-2578",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "その年度に納める保険料の所得割額と均等割額から、出産被保険者の出産予定月（又は出産月）の前月から出産予定月（又は出産月）の翌々月（以下「産前産後期間」といいます。）相当分が減額されます 。\n※多胎妊娠の場合は出産予定月（又は出産月）の３ヶ月前から６ヶ月相当分が減額されます。※保険料が最高限度額の世帯については、軽減を適用しても減額とならない場合があります。※保険料が減額された場合、 払いすぎになった保険料は還付されます。※産前産後期間が年度をまたぐ場合、保険料は各年度毎に減額されます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "国民健康保険における産前産後期間保険料（税）免除",
+    "shortName": "産前産後期間の国民健康保険料の軽減制度"
+  },
+  "localGovernmentLink": {
+    "title": "国民健康保険の保険料",
+    "uri": "https://www.city.minato.tokyo.jp/shikaku/kurashi/hoken/kenkohoken/hokenryo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "港区"
+  },
+  "procedureCounter": "各地区総合支所区民課窓口サービス係（芝地区総合支所は相談担当へ）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "出産予定日の６ヶ月前から届出ができます。出産後の場合は、速やかに届け出てください。※保険料賦課権の時効が到来すると保険料が変更できなくなります。",
+  "procedurePeriod": {
+    "conditions": "出産予定日の６ヶ月前から届出ができます。出産後の場合は、速やかに届け出てください。※保険料賦課権の時効が到来すると保険料が変更できなくなります。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第19条の5（出産被保険者の保険料の減額）",
+    "regulationName": "港区国民健康保険条例"
+  },
+  "relatedLink": [
+    {
+      "title": "港区ホームページ（外部サイトへリンク）",
+      "uri": "https://www.city.minato.tokyo.jp"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "出産被保険者の産前産後期間相当分に係る保険料の所得割額と均等割額を免除します。単胎妊娠の場合は出産予定月（又は出産月）の前月から出産予定月（又は出産月）の翌々月相当分、多胎妊娠の場合は出産予定月（又は出産月）の３か月前から出産予定月（又は出産月）の翌々月相当分が対象となります。",
+  "support": {
+    "description": "その年度に納める保険料の所得割額と均等割額から、出産被保険者の出産予定月（又は出産月）の前月から出産予定月（又は出産月）の翌々月（以下「産前産後期間」といいます。）相当分が減額されます 。※多胎妊娠の場合は出産予定月（又は出産月）の３ヶ月前から６ヶ月相当分が減額されます。※保険料が最高限度額の世帯については、軽減を適用しても減額とならない場合があります。",
+    "materiallySupport": null,
+    "monetarySupport": "その年度に納める保険料の所得割額と均等割額から、出産被保険者の出産予定月（又は出産月）の前月から出産予定月（又は出産月）の翌々月（以下「産前産後期間」といいます。）相当分が減額されます 。※多胎妊娠の場合は出産予定月（又は出産月）の３ヶ月前から６ヶ月相当分が減額されます。※保険料が最高限度額の世帯については、軽減を適用しても減額とならない場合があります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003",
+      "015"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "令和５年 11 月１日以降に出産予定または出産した国民健康保険被保険者の方が対象です。妊娠85 日（４ヶ月）以上の出産が対象です（死産、流産、早産及び人工妊娠中絶の場合も含みます）。"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

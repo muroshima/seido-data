@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "児童相談課　相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+3+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区立石2-30-1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "児童相談課　相談係",
+    "contactPhone": "03-5698-0303",
+    "contactUrl": null,
+    "zipCode": "1240012"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "児童相談所相談窓口"
+  },
+  "institutionName": {
+    "canonicalName": "葛飾区の子育てに関する相談",
+    "shortName": "受け付ける相談の種類"
+  },
+  "localGovernmentLink": {
+    "title": "受け付ける相談の種類",
+    "uri": "https://www.city.katsushika.lg.jp/kurashi/1000061/1003783/1032187/1032264.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": "葛飾区児童相談所",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第12条",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "葛飾区児童相談所",
+      "uri": "https://www.city.katsushika.lg.jp/institution/1030224/1032184.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "葛飾区の子育てに関する相談",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "005"
+    ],
+    "contentsCode": [
+      "082"
+    ],
+    "targetCode": [
+      "087",
+      "092"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "18歳未満の子どもに関する相談を、本人、家族、学校、地域の方など、どなたからでも"
+  },
+  "updateDate": "2023-10-01",
+  "useConsiderationFlag": false,
+  "utilization": "まずはお電話でご相談ください。（平日8時30分～17時）",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": "08:30",
+    "toHM": "17:00"
+  }
+}

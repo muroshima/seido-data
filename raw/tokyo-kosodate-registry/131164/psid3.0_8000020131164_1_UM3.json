@@ -1,0 +1,148 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "総合窓口課戸籍グループ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+1+UM3"
+  },
+  "belongings": "出生届書（出生証明書欄に医師または助産婦の証明が必要）1通、母子健康手帳（里帰り出産などでお手元にない場合は、後日お持ちください。最初のページに受理者の印を押します。）\n\n（注意）\n\n出生証明書は原本の提出が必要です。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "総合窓口課戸籍グループ",
+    "contactPhone": "03-3981-4737",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "届出期間\n生まれた日から14日以内\n\n届出先\n1.届出人の所在地の区市町村\n2.子の本籍地\n3.子の出生地\n\n注意事項\n1.命名に使える文字の範囲は、「常用漢字」「人名用漢字」「ひらがな又はカタカナ」と戸籍法と戸籍法施行規則により定められています。\n\n使える漢字かどうかを確認したい場合は、法務省のホームページ「子の名に使える漢字（戸籍統一文字情報のページ）」から検索することができます。\n\n2.豊島区にお住まいのかた（住民登録をしているかた）は、下記の手続きも行ってください。\n\n・お子さんの住民登録\n・お子さんの乳幼児医療証\n・児童手当\n\n詳しい内容については、手続き確認シート（PDF：314KB）をご覧ください。\n\n3. 令和6年4月1日から婚姻解消の日から300日以内に子供が生まれた場合でも、再婚後の夫の子と推定されるようになりました（母が前夫以外の男性と再婚した場合を除く）。\n\nまた、嫡出否認権が母及び子にも認められ、訴えの出訴期間が1年から3年に変わりました。詳しくは「戸籍制度が変わります」をご確認ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出生届",
+    "shortName": "出生届"
+  },
+  "localGovernmentLink": {
+    "title": "赤ちゃんが生まれたときは（出生届）",
+    "uri": "https://www.city.toshima.lg.jp/094/tetsuzuki/todokede/todokede/000292.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": "窓口開設時間帯は、本庁舎3階総合窓口課4番窓口\nそれ以外の時間帯（閉庁時）は、本庁舎1階宿直室",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "窓口開設時間帯は、本庁舎3階総合窓口課4番窓口で受付しています。\nそれ以外の時間帯（閉庁時）は、本庁舎1階宿直室でお預りしています。区民事務所では受付できません。\n\n1.窓口開設時間\n\n・平日　月曜日から金曜日　8時30分から17時まで（祝日、年末年始を除く）\n・土曜日　9時から17時まで（土曜窓口は、システム整備の都合上、臨時で閉庁になる場合があります。）\n\n2.注意\n\n・届書の内容確認にはお時間がかかりますので、余裕をもってご来庁ください。\n・豊島区に住所のあるかたで、届出に伴い住所や氏名に変更があり、マイナンバーカード等の当日の変更を希望されるかたは、平日は15時まで土曜日は14時までにお越しください（届書の内容や窓口の状況により当日の変更ができない場合もあります）。ただし、第3土曜日はマイナンバーカードの手続きは行えません。\n・土曜窓口では、届書の内容に他の自治体に照会が必要な事項が含まれており当日に確認が取れない場合や、ご本人の確認ができない場合などはお預かりのみとなります。なお、第1土曜日、第3土曜日は全国的なシステムメンテナンスのため、他自治体の戸籍の確認ができません。\n・外国籍のかたの届出は書類の確認に時間がかかり、お待たせする時間が長くなる場合があります。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "父または母",
+  "regulation": {
+    "regulationArticle": "第49条、第52条",
+    "regulationName": "戸籍法"
+  },
+  "relatedLink": [
+    {
+      "title": "手続き確認シート（PDF：314KB)",
+      "uri": "https://www.city.toshima.lg.jp/094/tetsuzuki/todokede/todokede/documents/syussyoutetuzuukikakunin.pdf"
+    },
+    {
+      "title": "土曜窓口についてはこちら",
+      "uri": "https://www.city.toshima.lg.jp/096/kuse/shisetsu/madoguchi/006901.html"
+    },
+    {
+      "title": "法務省のホームページ（新しいウィンドウで開きます）",
+      "uri": "http://www.moj.go.jp/MINJI/minji86.html"
+    },
+    {
+      "title": "児童手当",
+      "uri": "https://www.city.toshima.lg.jp/261/kosodate/kosodate/teate-jose/017993.html"
+    },
+    {
+      "title": "お子さんの乳幼児医療証",
+      "uri": "https://www.city.toshima.lg.jp/261/kosodate/kosodate/teate-jose/015729.html"
+    },
+    {
+      "title": "「戸籍制度が変わります」",
+      "uri": "https://www.city.toshima.lg.jp/094/2402080846.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "出生届とは、生まれてきたお子さんの氏名等を戸籍に記載するための手続きです。\n戸籍に記載されることで、生まれてきたお子さんの親族関係が公的に証明されます。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "013"
+    ],
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "赤ちゃん"
+  },
+  "updateDate": "2024-06-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

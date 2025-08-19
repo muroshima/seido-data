@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部児童家庭課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+2+UM58"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部児童家庭課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e049/kuseijoho/gaiyo/soshiki/kodomo/jidou.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "児童育成手当とは、離婚・死亡・遺棄などの理由で、父親もしくは母親と生計を同じくしていない父子・母子世帯等の児童の福祉の増進を図るために設けられた手当です。\n申請・届出には必要書類のほか、「行政手続における特定の個人を識別するための番号の利用等に関する法律」に基づく、本人確認が必要です。詳細については下記マイナンバー（個人番号）制度にともなう本人確認について、及び「手当の手続き」をご覧ください。\n\nマイナンバー（個人番号）制度にともなう本人確認について\nhttps://www.city.edogawa.tokyo.jp/e049/kosodate/kosodate/teateshien/mynunber.html\n\n令和5年度より新たに対象となる方は、令和5年7月から申請できます（申請月の翌月分から支給されます）。\nご不明な点等ありましたら、江戸川区役所児童家庭課援護係【電話：03-5662-1259】までご連絡ください。\n\n所得制限\n＜所得制限限度額＞ 扶養親族等の数 \\t所得制限限度額\n|扶養親族等の数|所得制限限度額|\n|:----|:----|\n|0人|3,684,000円|\n|1人|4,064,000円|\n|2人|4,444,000円|\n|3人|4,824,000円|\n|4人|5,204,000円|\n|5人|5,584,000円|\n\n（注）所得の確認について（PDF：1,133KB）（別ウィンドウで開きます）\nhttps://www.city.edogawa.tokyo.jp/documents/7411/syotoku02.pdf\n（注）所得制限額一覧表には社会保険料相当額一律8万円を加算しています。\n（注）扶養親族等が6人以上の場合には、1人につき38万円を上記表の金額に加算した金額となります。\n（注）対象とする所得の計算方法\n対象とする所得＝収入-給与所得控除（営業収入等は必要経費）-各種控除（下表参照）\n（注）令和3年度所得より、給与所得又は公的年金等に係る所得を有する方は、その合計額から10万円（合計額が10万円を下回る場合はその額）を控除します。\n|寡婦（夫）控除|270,000|特別寡婦控除（注2）|350,000|\n|ひとり親控除（注3）|350,000|老人控除対象配偶者控除|100,000|\n|勤労学生控除|270,000|老人扶養親族控除|^|\n|障害者控除|270,000|雑損控除|控除相当額|\n\n|特別障害者控除|400,000|医療費控除|^|\n|特定扶養親族控除|250,000|小規模企業共済等掛金控除|^|\n|低未利用土地等を譲渡した場合の長期譲渡所得の特別控除（注3）|1,000,000|配偶者特別控除等|^|\n\n（注2）令和2年度所得まで適用します。\n（注3）令和3年度所得から適用します。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "児童育成手当の現況届;児童育成手当の支払金融機関変更届（支払金口座振替依頼書）",
+      "uri": "https://app.oss.myna.go.jp/Application/procdetail/initGet?kc9XUt9I8/CU41afS8P1OaaLxX/9+D2bXPzn80LiqLRKeI438ftq6avj3ZAt+N8A+Psf446rGFE/usTghDsQQSL9IOsxDTR992LYMqX0pXoVFgOIC99Q5PK7qiyun6/wK5aw3vC8oGnSBylekbN8RulWefcQVgHyD4Nnd9V19kHdbkzTmPdDQnbUSxUbimyM77e+ULgdgHJcbWyO9B7CRg0t0KpnS0iKHHhjzxNt/KUykD4LZOo5sQoo/vY5nY8V;https://app.oss.myna.go.jp/Application/procdetail/initGet?kc9XUt9I8/CU41afS8P1OaaLxX/9+D2bXPzn80LiqLRKeI438ftq6avj3ZAt+N8A+Psf446rGFE/usTghDsQQSL9IOsxDTR992LYMqX0pXoVFgOIC99Q5PK7qiyun6/wTUfIdITVtY7zes0gz/KmIT/+bh9yaxwAwZzU78pqkykvMYE6MRC3Tzkxx/pmaxKbXZBsi3NU3RbJ4pBrFPQZEWvgrLluIqbKmEKtxNnlZxV2CwJh1JGjgbsYoHO5dDyY"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "手当は、毎年2月（10月から1月分）、6月（2月から5月分）、10月（6月から9月分）の3回に分けて、ご指定の口座に振り込みます（各12日＜土曜、日曜、祭日の場合はその前日＞）。\n\nなお、金融機関によっては若干日数を要することがあります。\n\n振込前に通知等は送付していません。通帳記入で振込の確認をしてください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の育児に関する金銭的支援",
+    "shortName": "児童育成手当"
+  },
+  "localGovernmentLink": {
+    "title": "児童育成手当",
+    "uri": "https://www.city.edogawa.tokyo.jp/e049/kosodate/kosodate/teateshien/shisaku/teate/ikusei.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "江戸川区役所児童家庭課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "手当の手続き\n\n江戸川区役所児童家庭課の窓口で、面接を受けて必要な書類について確認し、申請書に添えて提出してください（申請時から1か月以上前に発行された証明書等では申請できませんのでご注意ください）。手当は、認定されたのち、受給することができます。\n\n申請・届出には必要書類のほか、「行政手続における特定個人を識別するための番号の利用等に関する法律」に基づく、本人確認が必要です。詳細についてはマイナンバー（個人番号）制度にともなう本人確認についてをご覧ください。また児童育成手当は本人のみの申請となり、代理人による申請は受付が出来ませんのでご注意ください。\nhttps://www.city.edogawa.tokyo.jp/e049/kosodate/kosodate/teateshien/mynunber.html\n\n児童育成手当を受給中の方へ\n\n手当を受給中に次のようなことがありましたら、速やかにお届けください。\n\n現況届\n\n児童育成手当を引き続き受けるためには、毎年8月末までに現況届を提出していただく必要があります。現況届を提出しませんと、手当のお支払ができなくなりますので、ご注意ください。届出用紙は毎年8月上旬にご自宅に送付させていただきます。\n現況届では、所得状況の調査も行いますので、所得税や特別区民税の申告をしていない方は、必ず申告してください。また現況届を審査した結果、引き続き手当を受給できる方には、「児童育成手当現況審査結果通知書」を送付します。\n\n申請内容の変更\n\n・区内で転居した\n・受給者又は児童の氏名を変更した\n・手当の振込先金融機関を変更したい\n・手当の対象児童と同居あるいは別居となった\n・受給者の所得を修正申告した\n\n資格の喪失、または減額\n\n・受給者（母又は父）が婚姻したり、事実上の婚姻と同様の状態になった\n・児童福祉施設に入所したり、里親に委託された\n・受給者が児童を監護しなくなった（面倒をみなくなった）\n・児童が養子縁組をして、ひとり親でなくなった\n・受給者が江戸川区に住所を有しなくなった\n・受給者または児童が死亡した\n・児童の父または母が行方不明や、児童を遺棄していることを理由に手当を受給している場合で、父もしくは母から手紙や連絡があった\n・拘禁中の父または母が刑務所から出所した（仮出所を含む）\n・外国籍の受給者の方で、「在留期間」が切れてしまい、「在留資格なし」の期間が発生した\n\n（注）受給資格がないまま手当を受給していると、遡(さかのぼ)って手当の全額を一括返還いただくことになります。ご注意ください。\n\n（注）対象児童が18歳年齢到達により、年度末の3月31日で「自然消滅」する場合、届出は必要ありません。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童育成手当とは、離婚・死亡・遺棄などの理由で、父親もしくは母親と生計を同じくしていない父子・母子世帯等の児童の福祉の増進を図るために設けられた手当です。",
+  "support": {
+    "description": "支給対象児童1人につき月額13,500円\n\n（注）児童育成手当は、課税所得に該当して「雑所得」に分類されます。受給者の方の所得によっては、所得税及び住民税（特別区民税・都民税）の申告が必要となる場合があります。\n\n詳しくは、住民税については、課税課課税第一係・課税第二係、所得税については、最寄りの税務署にお問い合わせください。",
+    "materiallySupport": null,
+    "monetarySupport": "13500"
+  },
+  "tag": {
+    "categoryCode": [
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "江戸川区内に住所があり、次の支給要件のいずれかに該当する児童（18歳に達する日以降の最初の3月31日までの間にある者）を監護している父または母、または父母に代わって児童を養育している方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "江戸川区内に住所があり、次の支給要件のいずれかに該当する児童（18歳に達する日以降の最初の3月31日までの間にある者）を監護している父または母、または父母に代わって児童を養育している方。\n\n（注）「障害手当」については、障害者福祉課自立援助係でおこなっています。\n\n支給要件\n\n・父母が婚姻を解消した児童\n・父又は母が死亡した児童\n・父又は母が下記の程度の障害にある児童\n・身体障害者手帳1級から2級程度、その他重度の内部障害を有するとき\n・精神に重度の障害を有し、常時介護を必要とする状態にあるとき\n・父又は母が生死不明である児童\n・父又は母から引き続き1年以上遺棄(いき)されている児童\n・父又は母が裁判所からの保護命令(注1)を受けた児童\n （注1）「配偶者からの暴力の防止及び被害者の保護に関する法律」第10条第1項の規定による保護命令で、母又は父の申し立てにより発せられたものに限る。\n・父又は母が法令により引き続き1年以上拘禁(こうきん)されている児童\n・母が婚姻しないで生まれた児童\n\n（注）原則父又は母と住所が別になる必要がありますが、障害要件等一部例外があります。\n\n次に該当する場合は受けられません\n\n・児童が児童福祉施設などに入所したとき\n・婚姻届をしていなくても、事実上の婚姻関係（内縁関係など）があるとき\n・父母または養育者の住所が江戸川区内にないとき"
+  },
+  "updateDate": "2024-02-14",
+  "useConsiderationFlag": true,
+  "utilization": "申請書のダウンロード\n\n下記の届出については、申請書をダウンロードし郵送で申請することができます。印刷する際には、必ずA4版の普通紙で印刷してください。\n手当の振込先金融機関を変更したいとき\n\n口座振替依頼書（PDF：112KB）（別ウィンドウで開きます）\n\n（注）口座番号と名義は、手当受給者ご本人様のものをご記入ください。\n（注）「通帳の表紙の裏面（店番・口座番号・口座名義が記載されている部分）」または「キャッシュカード（店番・口座番号・口座名義が記載されている部分）」の写しも一緒にお送りください。\n\n郵送先\n\n〒132-8501\n江戸川区中央一丁目4番1号\n江戸川区役所子ども家庭部児童家庭課援護係\n\n電子申請（ぴったりサービス）について\n\n以下の届出については、電子申請（ぴったりサービス）から届出の受付も行っています。\n\n・児童育成手当の現況届（外部サイトへリンク）（別ウィンドウで開きます）（注）受付期間：8月1日から8月31日\n・児童育成手当の支払金融機関変更届（支払金口座振替依頼書）（外部サイトへリンク）（別ウィンドウで開きます）\n\n電子申請（ぴったりサービス）の利用に必要なもの\n・個人番号カード（マイナンバーカード）\n・「パソコン及びICカードリーダライタ」又は「マイナンバーカードに対応したスマートフォン」\n・電子証明書の暗証番号\n\n（注）申請時点で児童育成手当の受給資格がある方が利用可能です。\n\n電子申請（ぴったりサービス）の手順について\n\n1.上記手続き一覧から、申請する手続きを選択する\n （例）「児童育成手当の現況届」\n2.マイナポータルサイトからログインする\n （注）利用者登録が完了していない方は、登録手続きからお願いします。\n 3.入力案内に沿って申請する\n\n申請状況の確認について\n\nマイナポータルにログイン（利用者登録）してから電子申請を行うと、手続きの処理状況（処理中、完了等）を確認できます。また、利用者登録時にメールアドレスを登録すると、区担当部署が手続きの処理状況を変更した際、登録したメールアドレスに通知がされます。\n\n使い方（外部サイトへリンク）（別ウィンドウで開きます）\n\n（注）ログインせずに電子申請を行った場合、手続きの申請状況を確認することはできません",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "窓口混雑予想と手続き時間のページ\nhttps://www.city.edogawa.tokyo.jp/e049/kosodate/kosodate/teateshien/madoguchikonzatsu.html",
+    "fromHM": null,
+    "toHM": null
+  }
+}

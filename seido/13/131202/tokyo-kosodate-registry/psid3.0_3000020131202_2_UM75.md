@@ -1,0 +1,40 @@
+---
+title: 地域型保育（小規模保育・家庭的保育（保育ママ）・事業所内保育・居宅訪問型保育）の利用について（家庭的保育事業（保育ママ））
+lg_code: '131202'
+lg_name: 練馬区
+support: 現物
+url: https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/hoiku/kateitekihoiku/hoikumama.html
+source: tokyo-kosodate-registry
+source_id: psid3.0_3000020131202_2_UM75
+source_updated: '2019-10-11'
+license: CC BY
+attribution: 東京都「東京デジタル2030ビジョン（こどもDX）子育て支援制度レジストリ 0-6歳制度」（2025-08-20 時点）を加工して作成
+---
+
+# 地域型保育（小規模保育・家庭的保育（保育ママ）・事業所内保育・居宅訪問型保育）の利用について（家庭的保育事業（保育ママ））
+
+## 概要
+
+「地域型保育」事業は、平成27年度施行の「子ども・子育て支援新制度」による、市区町村の認可事業です。保育の必要な3歳未満の子どもを対象とした「小規模保育」「家庭的保育（保育ママ）」「事業所内保育」「居宅訪問型保育」の4種類があり、市区町村ごとに地域の保育ニーズに合わせたサービスを実施することになっています。練馬区には現在、下記の保育サービスがあり、利用には保育の必要性の認定を受ける必要があります。
+
+## 対象者
+
+練馬区に保育の必要性の認定を申請し、3号（保育認定）と認定された健康な児童
+※保育認定については、「保育の必要性の認定について;https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/hoiku/hoikuen/zaien/hoikushikyuunintei.html」をご確認ください。
+
+## 支援内容
+
+保育士や教員などの資格を持つ、練馬区認定の家庭的保育者（保育ママ）が、自宅の一部を使って家庭的な雰囲気で保育をする地域型保育事業です。
+
+## 利用方法
+
+申込みについて;https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/hoiku/hoikuen/nyuuen/moushikomi/index.html
+
+## 根拠法令
+
+子ども・子育て支援法 第20条、第29条、第30条
+
+## 問い合わせ
+
+こども家庭部　保育課　地域型保育事業係
+03-5984-5845

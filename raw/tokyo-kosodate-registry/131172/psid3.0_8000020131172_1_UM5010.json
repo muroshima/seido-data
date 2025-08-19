@@ -1,0 +1,140 @@
+{
+  "area": {
+    "areaCode": "131172;北区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部保健サービス課保健サービス係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131172",
+    "psid": "psid3.0+8000020131172+1+UM5010"
+  },
+  "belongings": "新生児聴覚検査受診票",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都北区王子本町1-15-22　北区役所第一庁舎1階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部保健サービス課保健サービス係",
+    "contactPhone": "03-3908-7050",
+    "contactUrl": null,
+    "zipCode": "1148508"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "新生児聴覚検査\n新生児聴覚検査とは？\n新生児聴覚検査は、耳の聞こえ（聴覚）の障害を早い時期に発見するために、出生後間もない時期に実施する検査です。結果はパスとリファーがあり、パスは、「今のところ聞こえに問題はありません」という意味で、リファーは、「より詳しい検査が必要です」という意味です。より詳しい検査が必要となった赤ちゃんは、子どもの聞こえに関わる専門家が耳の発達に応じて慎重に診断します。この検査により、赤ちゃんの聞こえの問題は生後早期の検査がきっかけでわかることが多くなり、早い時期から赤ちゃんへの支援が開始されるようになっています。積極的に検査を受けましょう。\n\n新生児聴覚検査受診票の配布について\n　母子健康手帳交付時にお渡しする「母と子の保健バッグ」の中に新生児聴覚検査受診票を入れて配布しています。\n\n新生児聴覚検査の公費助成\n　平成31年4月1日以降に生まれた赤ちゃんに、検査費用の一部を助成します。\n助成を受けるためには、「新生児聴覚検査受診票」が必要です。この受診票は、生後1か月頃までにご利用ください。（有効期限：生後50日に達する日まで）\n\n新生児聴覚検査助成金について \n　里帰り出産等により東京都以外の医療機関で新生児聴覚検査を受けて、新生児聴覚検査受診票を使用できなかった場合は、実費に応じて助成します。（上限額あり）詳しくは、「新生児聴覚検査助成金」;https://www.city.kita.tokyo.jp/k-suishin/kosodate/ninshin/chokakujoseikin.htmlのページをご覧ください。\n\n新生児聴覚検査を受診できる医療機関\n都内委託医療機関は、東京都ホームページ（外部サイトへリンク）;http://www.fukushihoken.metro.tokyo.jp/kodomo/shussan/kenkou/baby_ear.htmlをご覧ください。\n\n関連リンク\n赤ちゃんの耳の聞こえについて（東京都ホームページ）（外部サイトへリンク） ;http://www.fukushihoken.metro.tokyo.jp/kodomo/shussan/kenkou/baby_ear.html\n妊娠中・産婦の方へ（新生児聴覚検査助成金）;https://www.city.kita.tokyo.jp/k-suishin/kosodate/ninshin/chokakujoseikin.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "新生児聴覚検査",
+    "shortName": "新生児聴覚検査"
+  },
+  "localGovernmentLink": {
+    "title": "新生児聴覚検査",
+    "uri": "https://www.city.kita.tokyo.jp/k-suishin/kosodate/ninshin/shinseijichokaku.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "北区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "助成を受けるためには、「新生児聴覚検査受診票」が必要です。この受診票は、生後1か月頃までにご利用ください。（有効期限：生後50日に達する日まで）",
+  "procedurePeriod": {
+    "conditions": "生後1か月頃までにご利用ください。（有効期限：生後50日に達する日まで）",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "「新生児聴覚検査の実施について」（平成19年1月29日雇児母発第0129002号厚生労働省雇用均等・児童家庭局母子保健課長通知）"
+  },
+  "relatedLink": [
+    {
+      "title": "妊娠中・産婦の方へ（新生児聴覚検査助成金）",
+      "uri": "https://www.city.kita.tokyo.jp/k-suishin/kosodate/ninshin/chokakujoseikin.html"
+    },
+    {
+      "title": "「新生児聴覚検査助成金」",
+      "uri": "https://www.city.kita.tokyo.jp/k-suishin/kosodate/ninshin/chokakujoseikin.html"
+    },
+    {
+      "title": "東京都ホームページ（外部サイトへリンク）",
+      "uri": "http://www.fukushihoken.metro.tokyo.jp/kodomo/shussan/kenkou/baby_ear.html"
+    },
+    {
+      "title": "赤ちゃんの耳の聞こえについて（東京都ホームページ）（外部サイトへリンク） ",
+      "uri": "http://www.fukushihoken.metro.tokyo.jp/kodomo/shussan/kenkou/baby_ear.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": "平成31年4月1日以降に生まれた赤ちゃん",
+  "summary": "聴覚障害は、早期発見・治療により言葉の発達などへの影響が最小限に抑えられることが分かっていることから、生まれたばかりの赤ちゃんに聴覚障害の疑いがないかを調べる新生児聴覚検査の費用の一部を助成しています。 ",
+  "support": {
+    "description": "検査費用の一部を助成します。",
+    "materiallySupport": null,
+    "monetarySupport": "検査費用の一部を助成します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後50日に達する日まで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "平成31年4月1日以降に生まれた赤ちゃん\n助成を受けるためには、「新生児聴覚検査受診票」が必要です。この受診票は、生後1か月頃までにご利用ください。（有効期限：生後50日に達する日まで）"
+  },
+  "updateDate": "2024-03-21",
+  "useConsiderationFlag": false,
+  "utilization": "母子健康手帳交付時にお渡しする「母と子の保健バッグ」の中に新生児聴覚検査受診票を入れて配布しています。\n",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

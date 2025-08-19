@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132225;東久留米市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉保健部　障害福祉課　地域支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132225",
+    "psid": "psid3.0+3000020132225+2+UM64"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都東久留米市本町3-3-1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉保健部　障害福祉課　地域支援係",
+    "contactPhone": "042-470-7747",
+    "contactUrl": "https://www.city.higashikurume.lg.jp/kurashi/fukushi/shogai/1000437.html",
+    "zipCode": "2038555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "難病医療費の助成\n対象\n国又は東京都の指定する難病に罹患している方。\n内容\n治療及び投薬等に係る健康保険内医療の自己負担分の一部または全額を助成。\n関連リンク\n東京都ホームページ（難病医療費等助成制度）\n\n（https://www.fukushihoken.metro.tokyo.lg.jp/iryo/nanbyo/portal/seido/index.html）\n\n問い合わせ\n障害福祉課　電話：042-470-7747",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "小児慢性特定疾病医療費の助成",
+    "shortName": "難病医療費の助成"
+  },
+  "localGovernmentLink": {
+    "title": "医療費の助成",
+    "uri": "https://www.city.higashikurume.lg.jp/kurashi/fukushi/shogai/1000437.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "東久留米市"
+  },
+  "procedureCounter": "障害福祉課　電話：042-470-7747",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "関連リンク\n東京都ホームページ（難病医療費等助成制度）\n\n（https://www.fukushihoken.metro.tokyo.lg.jp/iryo/nanbyo/portal/seido/index.html）\n\n問い合わせ\n障害福祉課　電話：042-470-7747",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第五条",
+    "regulationName": "難病の患者に対する医療等に関する法律"
+  },
+  "relatedLink": [
+    {
+      "title": "東京都ホームページ（難病医療費等助成制度）",
+      "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/iryo/nanbyo/portal/seido/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "治療方法の確立等に資するため、難病患者データの収集を効率的に行い治療研究を推進することに加え、効果的な治療方法が確立されるまでの間、長期の療養による医療費の経済的な負担が大きい患者を支援する制度です。",
+  "support": {
+    "description": "治療及び投薬等に係る健康保険内医療の自己負担分の一部または全額を助成。",
+    "materiallySupport": null,
+    "monetarySupport": "治療及び投薬等に係る健康保険内医療の自己負担分の一部または全額を助成。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "国又は東京都の指定する難病に罹患している方。"
+  },
+  "updateDate": "2021-03-15",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

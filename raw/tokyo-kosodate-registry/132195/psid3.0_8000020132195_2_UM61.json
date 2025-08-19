@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132195;狛江市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子ども若者政策課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132195",
+    "psid": "psid3.0+8000020132195+2+UM61"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子ども若者政策課企画政策係,助成支援係",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,105153,html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "所得に応じて、一部費用が自己負担になります。",
+  "description": "ひとり親ホームヘルプサービス\n　母子家庭のお母さんや父子家庭のお父さん、あるいはお子さんが、一時的な傷病などで日常生活にお困りのとき、またはひとり親家庭になった直後で生活が不安定なときに、育児や食事の世話などをお手伝いするホームヘルパーを派遣します。\n\n派遣対象\n次のいずれかに該当するとき\n\nひとり親家庭になってから２年以内の家庭で派遣が必要な場合\n小学校6年生を終了する前の児童がいる家庭で派遣が必要な場合\n親または中学生以下の子どもが一時的な傷病の場合\n親族等の冠婚葬祭に親が出席する場合\n日常の家事及び育児を行っている同居の祖父母等が一時的傷病の場合\n技能習得のための通学・就職活動、出産、学校の公式行事参加等の場合\n援助内容\n子どもの世話\n食事の支度\n掃除、整理整頓\n洗濯、被服の補修\nその他必要な用務\n費用\n所得に応じて、一部費用が自己負担になります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自のひとり親の方への金銭的支援",
+    "shortName": "ひとり親ホームヘルプサービス"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親ホームヘルプサービス",
+    "uri": "https://www.city.komae.tokyo.jp/index.cfm/44,17853,341,2078,html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "狛江市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第３条、第５条、第７条、第８条、第９条",
+    "regulationName": "狛江市ひとり親家庭ホームヘルプサービス事業実施要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "母子家庭のお母さんや父子家庭のお父さん、あるいはお子さんが、一時的な傷病などで日常生活にお困りのとき、またはひとり親家庭になった直後で生活が不安定なときに、育児や食事の世話などをお手伝いするホームヘルパーを派遣します。",
+  "support": {
+    "description": "母子家庭のお母さんや父子家庭のお父さん、あるいはお子さんが、一時的な傷病などで日常生活にお困りのとき、またはひとり親家庭になった直後で生活が不安定なときに、育児や食事の世話などをお手伝いするホームヘルパーを派遣します。\n\n援助内容\n子どもの世話\n食事の支度\n掃除、整理整頓\n洗濯、被服の補修\nその他必要な用務",
+    "materiallySupport": "子どもの世話\n食事の支度\n掃除、整理整頓\n洗濯、被服の補修\nその他必要な用務",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "派遣対象\n次のいずれかに該当するとき\n\nひとり親家庭になってから２年以内の家庭で派遣が必要な場合\n小学校6年生を終了する前の児童がいる家庭で派遣が必要な場合\n親または中学生以下の子どもが一時的な傷病の場合\n親族等の冠婚葬祭に親が出席する場合\n日常の家事及び育児を行っている同居の祖父母等が一時的傷病の場合\n技能習得のための通学・就職活動、出産、学校の公式行事参加等の場合"
+  },
+  "updateDate": "2020-06-16",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

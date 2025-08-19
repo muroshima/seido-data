@@ -1,0 +1,143 @@
+{
+  "area": {
+    "areaCode": "131075;墨田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "窓口課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131075",
+    "psid": "psid3.0+6000020131075+1+UM3"
+  },
+  "belongings": "出生届（右半面の出生証明書に、医師または助産師による証明のあるもの） 1通,親子健康手帳（母子健康手帳）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "窓口課　戸籍係",
+    "contactPhone": "03-5608-6107",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "30：子どもが生まれたときの届け出（出生届）をしたい。\n\nお子さんが生まれたら、病院から受け取った出生届を市区町村の窓口に提出してください。出生届によって戸籍に記録され、住民票にも記載されます。\nなお、お子さんが外国で生まれた場合や、父母ともに外国籍の方の場合は、添付書類等が異なりますのでお問い合わせください。\n〔届出期間〕\nお子さんが生まれた日から14日以内（出生日当日を含む）\n〔届出地〕\n住所地、本籍地、出生地のいずれかの区市役所・町村役場\n※出生届に伴う児童手当等の手続きも必要なため、できるだけ住所地へ届出をしてください。\n〔届出人〕\n父または母（父母が婚姻していない場合は母）\n※届出人が署名した届書を、代理人の方が窓口に持参することも可能です。\n〔必要なもの〕\n・出生届（右半面の出生証明書に医師又は助産師による証明のあるもの） 1通\n※出生届は、出生証明書が記載されたものを病院からお受け取りください。\n※医師等による出生証明書に間違いがないかをご確認のうえ、必ず原本にてお届けください。\n※お届け後に届書をお返しすることはできませんので、必要な方は事前にコピーをお取りください。コピーをお取りの際は、原本とお間違いのないようお気をつけください。\n・親子健康手帳（母子健康手帳）\n※里帰り出産等で持参できない場合は、届出済証明用シールをお渡しするので、後で貼付をお願いします。\n〔届出窓口・受付時間〕\n１．窓口課戸籍係：区役所1階4番\n【受付時間】\n・開庁日（祝日を除く月曜日から金曜日まで）：午前8時30分から午後5時まで\n・水曜夜間延長　毎週水曜日（祝日は除く。）：午後7時まで\n・第2、第4日曜日（祝日の場合も開庁します。）：午前9時から午後5時まで\n※水曜日の午後5時以降及び第2、第4日曜日は、書類審査に他市町村への照会が必要な場合、お預かりのみとなります。証明書類の発行はできません。\n※祝日、年末年始（12月29日から1月3日まで）は閉庁日ですので、夜間休日受付（宿直）へ届出をしてください。\n\n２．夜間休日受付（宿直）：区役所1階\n【受付時間】\n上記　1．以外の時間帯は夜間休日受付（宿直）にて受付をします。\n※届出はお預かりのみとなります。証明書類の発行はできません。\n関連リンク\n戸籍の届け出;https://www.city.sumida.lg.jp/kurashi/todokede_syoumei/koseki/koseki_todokede.html\n毎週水曜日の庁舎窓口の延長開設;https://www.city.sumida.lg.jp/kurashi/todokede_syoumei/suiyou_mado.html\n第2・4日曜日の庁舎窓口の延長開設;https://www.city.sumida.lg.jp/kurashi/todokede_syoumei/nitiyoumadoguti.html\n児童手当;https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/teate_jyosei_shien/teate_zyosei/teate/kodomo-teate.html\n子どもの医療費の助成;https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/teate_jyosei_shien/teate_zyosei/jyosei/nyuuyouji_iryouhi.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出生届",
+    "shortName": "出生届"
+  },
+  "localGovernmentLink": {
+    "title": "30：子どもが生まれたときの届け出（出生届）をしたい。",
+    "uri": "https://www.city.sumida.lg.jp/faq/kurashi/todokede_syoumei/koseki/30.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "墨田区"
+  },
+  "procedureCounter": "窓口課 戸籍係\n夜間休日受付（宿直）\n※時間外は、区役所1階の夜間休日受付（宿直）にて届書をお預かりします。ただし、証明書類の発行はできません。",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "〔届出地〕\n住所地、本籍地、出生地のいずれかの区市役所・町村役場\n※出生届に伴う児童手当等の手続きも必要なため、できるだけ住所地へ届出をしてください。\n※他区市町村へ届出をするときは、届出先にお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": "お子さんが生まれた日から14日以内（出生日当日を含む）",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "父または母（父母が婚姻していない場合は母）\n※届出人が署名した届書を、代理人の方が窓口に持参することも可能です。",
+  "regulation": {
+    "regulationArticle": "第49条、第52条",
+    "regulationName": "戸籍法"
+  },
+  "relatedLink": [
+    {
+      "title": "戸籍の届け出",
+      "uri": "https://www.city.sumida.lg.jp/kurashi/todokede_syoumei/koseki/koseki_todokede.html"
+    },
+    {
+      "title": "子どもの医療費の助成",
+      "uri": "https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/teate_jyosei_shien/teate_zyosei/jyosei/nyuuyouji_iryouhi.html"
+    },
+    {
+      "title": "児童手当",
+      "uri": "https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/teate_jyosei_shien/teate_zyosei/teate/kodomo-teate.html"
+    },
+    {
+      "title": "毎週水曜日の庁舎窓口の延長開設",
+      "uri": "https://www.city.sumida.lg.jp/kurashi/todokede_syoumei/suiyou_mado.html"
+    },
+    {
+      "title": "第2・4日曜日の庁舎窓口の延長開設",
+      "uri": "https://www.city.sumida.lg.jp/kurashi/todokede_syoumei/nitiyoumadoguti.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "出生届とは、生まれたお子さんを戸籍に記録し住民票にも記載するための手続きです。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2022-02-15",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

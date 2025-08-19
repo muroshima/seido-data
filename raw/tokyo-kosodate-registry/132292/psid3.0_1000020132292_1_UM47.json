@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "132292;西東京市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132292",
+    "psid": "psid3.0+1000020132292+1+UM47"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "西東京市中町一丁目5番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康課",
+    "contactPhone": "042-438-4037",
+    "contactUrl": null,
+    "zipCode": "2028555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊娠出産・子育てコンシェルジュ「いこいこ」\n\n妊娠期から出産、子育て期までのご相談をお受けします\n\n妊娠や出産は、新しい家族が増える喜びであるとともに、\n新しい生活になるという変化から、不安や戸惑いを感じることもあると思います。\n\n「いこいこ」は、これからの毎日を楽しみながら、豊かな妊娠期から子育て期を過ごすことができるよう、サポートします。\n\nあんなこと　こんなこと、いつでもご相談ください！\nおなかの赤ちゃんの成長や妊婦さんの体調の相談\n出産準備のこと、家族の健康のこと\n妊娠中の栄養、食事について\n健診費用、分娩費用のこと　など\n対象\n西東京市にお住まいのご妊娠中の方やそのご家族、\nまた就学前の児（主に0歳から3歳）を育てる保護者の方\n\n受付時間\n平日　午前9時から正午、午後1時から4時\n\n場所\n妊娠出産・子育てコンシェルジュ「いこいこ」\n（防災・保谷保健福祉総合センター　4階　健康課内）\n\n相談方法\nまずは、お電話にてご連絡ください。\n電話：042-438-4037\n\n保健師や助産師がご相談をお受けします。\n事前にお時間を決めた面接相談の他、お電話でのご相談も承ります。お気軽にご連絡ください。\n※ご希望される方は、面接やお電話、訪問にて継続的に相談ができます。\n\n「たまご面接（妊婦面接）」を実施しています\n妊娠届出時（母子健康手帳の交付時）に、たまご面接を実施しています。\n詳細は、こちらをご覧ください。\n\n「たまご面接（妊婦面接）」を実施しています;https://www.city.nishitokyo.lg.jp/kosodate/bosi/ninsin/tamagomennsetsu.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "平日　午前9時から正午、午後1時から4時",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "西東京市中町一丁目5番1号",
+    "implementationName": "防災・保谷保健福祉総合センター　4階　健康課内"
+  },
+  "institutionName": {
+    "canonicalName": "西東京市の妊娠・出産に関する相談",
+    "shortName": "妊娠出産・子育てコンシェルジュ「いこいこ」"
+  },
+  "localGovernmentLink": {
+    "title": "妊娠出産・子育てコンシェルジュ「いこいこ」",
+    "uri": "https://www.city.nishitokyo.lg.jp/kosodate/bosi/ninsin/ikoiko.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-10",
+    "updater": "西東京市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "たまご面接（妊婦面接）」を実施しています",
+      "uri": "https://www.city.nishitokyo.lg.jp/kosodate/bosi/ninsin/tamagomennsetsu.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠期から出産、子育て期までのご相談をお受けします。妊娠や出産は、新しい家族が増える喜びであるとともに、新しい生活になるという変化から、不安や戸惑いを感じることもあると思います。「いこいこ」は、これからの毎日を楽しみながら、豊かな妊娠期から子育て期を過ごすことができるよう、サポートします。",
+  "support": {
+    "description": "あんなこと　こんなこと、いつでもご相談ください！\nおなかの赤ちゃんの成長や妊婦さんの体調の相談\n出産準備のこと、家族の健康のこと\n妊娠中の栄養、食事について\n健診費用、分娩費用のこと　など",
+    "materiallySupport": "あんなこと　こんなこと、いつでもご相談ください！\nおなかの赤ちゃんの成長や妊婦さんの体調の相談\n出産準備のこと、家族の健康のこと\n妊娠中の栄養、食事について\n健診費用、分娩費用のこと　など",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "就学前の児（主に0歳から3歳）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "西東京市にお住まいのご妊娠中の方やそのご家族、また就学前の児（主に0歳から3歳）を育てる保護者の方"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "まずは、お電話にてご連絡ください。\n電話：042-438-4037\n\n保健師や助産師がご相談をお受けします。\n事前にお時間を決めた面接相談の他、お電話でのご相談も承ります。お気軽にご連絡ください。\n※ご希望される方は、面接やお電話、訪問にて継続的に相談ができます。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

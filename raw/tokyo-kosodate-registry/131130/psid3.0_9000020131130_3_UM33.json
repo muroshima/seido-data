@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "131130;渋谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "中央保健相談所保健サービス係,恵比寿保健相談所保健サービス係,幡ヶ谷保健相談所保健サービス係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020131130",
+    "psid": "psid3.0+9000020131130+3+UM33"
+  },
+  "belongings": "母子健康手帳、バスタオル",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "FAX03-5458-4944,FAX03-3443-6253,FAX03-3374-5985",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "中央保健相談所保健サービス係,恵比寿保健相談所保健サービス係,幡ヶ谷保健相談所保健サービス係",
+    "contactPhone": "03-3463-2439,03-3443-6251,03-3374-7591",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "母乳相談\n母乳相談に関する案内ページです。\n\n更新日\n\n2024年3月4日\n\n対象\n日時・場所\n持ち物\n申し込み\n授乳に関する相談（集団および個別相談）を助産師がお受けします。乳房の自己管理法を学びましょう。（事前申込は不要です）\n令和6年度 母乳相談のご案内（PDF 480KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/5df16d93fa894d3c8a64361393556056/R6bonyusoudan.pdf\nPDFファイルを見るには、Adobe社から無償配布されている Adobe Reader などのソフトウェアが必要です。 詳しくは、PDFファイルをご覧になるにはのページを参照してください。\n\n対象\n生後1～4か月（5か月未満）までの乳児を育てている母親（赤ちゃんと一緒におこしください）\n\n日時・場所\n日程表\nhttps://www.city.shibuya.tokyo.jp/kodomo/kodomo-sodan/shinseiji-sodan/bonyu_soudan.html\n持ち物\n母子健康手帳、バスタオル\n\n申し込み\n当日会場で（受付時間は、それぞれ終了の30分前まで）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "https://www.city.shibuya.tokyo.jp/kodomo/kodomo-sodan/shinseiji-sodan/bonyu_soudan.html",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "https://www.city.shibuya.tokyo.jp/kodomo/kodomo-sodan/shinseiji-sodan/bonyu_soudan.html"
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関する教室・講習会",
+    "shortName": "母乳相談"
+  },
+  "localGovernmentLink": {
+    "title": "母乳相談",
+    "uri": "https://www.city.shibuya.tokyo.jp/kodomo/kodomo-sodan/shinseiji-sodan/bonyu_soudan.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-24",
+    "updater": "渋谷区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "当日会場で（受付時間は、それぞれ終了の30分前まで）",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "令和6年度 母乳相談のご案内（PDF 480KB）",
+      "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/5df16d93fa894d3c8a64361393556056/R6bonyusoudan.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "授乳に関する相談（集団および個別相談）を助産師がお受けします。",
+  "support": {
+    "description": "授乳に関する相談（集団および個別相談）を助産師がお受けします。",
+    "materiallySupport": "授乳に関する相談（集団および個別相談）を助産師がお受けします。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後1～4か月（5か月未満）までの乳児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 1
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 4
+    },
+    "targetPersons": "生後1～4か月（5か月未満）までの乳児を育てている母親（赤ちゃんと一緒におこしください）"
+  },
+  "updateDate": "2024-03-04",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "みなと保健所健康推進課地域保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+10+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファックス番号：03-3455-4539\n\n外国語対応が必要な人、通訳オペレーター、区の職員の3人で会話ができます。\n\n多言語対応三者通話サービス;https://www.multilingualinterpretercallservice.city.minato.tokyo.jp/kokusai",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "みなと保健所健康推進課地域保健係",
+    "contactPhone": "03-6400-0084",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "助産師による相談窓口（港区）　相談専用ダイヤル03-3455-4431\n港区民の方を対象に、妊産婦さんの体調、妊娠・出産・育児等のお悩みや心配事について、助産師が電話や面接で相談をお受けします。\n\nお話を聴いた上で、妊産婦さんや赤ちゃん、ご家族の状況に合わせた個別のアドバイスを行います。\n\n助産師による相談窓口は、月曜日から金曜日（祝日、年末年始除く）に行っています。\n\nひとりで悩まず、お気軽にお電話ください。\n\n子ども・子育て情報;https://www.city.minato.tokyo.jp/kosodatesien/kosodate/index.html\n\n詳細\n相談日\n月曜日から金曜日（祝日、年末年始を除く）\n\n午前9時～午後5時\n\n対象者\n港区在住の妊産婦\n\n※区外の方は東京都の助産師相談;https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/midwife.html#tokyojosanshiをご利用ください。\n\n相談専用ダイヤル\n03-3455-4431\n\n場所\nみなと保健所;https://www.city.minato.tokyo.jp/shisetsu/hokenjo/hokenjo/00.html\n\n主な相談内容\n妊娠中の相談（体調、乳房の手入れ、出産・育児の準備など）\n産後の母体回復\n心身の不調\n授乳相談\n乳房ケア\n子どもの発育・発達\n子どもの体調\n育児全般（泣きへの対応、関わり方、生活リズム等）\n卒乳\n家族計画 など\n※母乳マッサージは行っていませんが、乳房のセルフケアについてお伝えできます。\n\n妊産婦向け助産師相談（東京都）\n妊娠中のこと、産後のこと、生まれてくる赤ちゃんのことでお悩みの妊婦さん・産婦さんを対象に、東京都助産師会の助産師がオンラインで相談をお受けします。\n\n詳細はこちらをご覧ください。⇒妊産婦向け助産師相談（東京都）（外部サイトへリンク）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/ninsanpu-online.html\n\n利用方法\n当相談窓口は、予約制です。以下予約サイトより、お申込みください。\n予約はこちらから（外部サイトへリンク）;https://coubic.com/jmat/974377\n相談希望日の30日前から2日前まで予約可能です。\n\n関連リンク\n\nみなとプレママ応援事業;https://www.city.minato.tokyo.jp/chiikihoken/puremama.html\n産後母子ケア宿泊型ショートステイ事業;https://www.city.minato.tokyo.jp/chiikihoken/kodomo/boshi-shortstay.html\nこんにちは赤ちゃん訪問;https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/1saimiman/homon.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "祝日、年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "みなと保健所;https://www.city.minato.tokyo.jp/shisetsu/hokenjo/hokenjo/00.html",
+    "implementationName": "みなと保健所;https://www.city.minato.tokyo.jp/shisetsu/hokenjo/hokenjo/00.html"
+  },
+  "institutionName": {
+    "canonicalName": "港区の子育てに関する相談",
+    "shortName": "助産師による相談窓口（港区）　相談専用ダイヤル03-3455-4431"
+  },
+  "localGovernmentLink": {
+    "title": "助産師による相談窓口（港区）　相談専用ダイヤル03-3455-4431",
+    "uri": "https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/midwife.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "港区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "妊産婦向け助産師相談（東京都）（外部サイトへリンク）",
+      "uri": "https://www.city.minato.tokyo.jp/shisetsu/hokenjo/hokenjo/00.html"
+    },
+    {
+      "title": "みなとプレママ応援事業",
+      "uri": "https://www.city.minato.tokyo.jp/chiikihoken/puremama.html"
+    },
+    {
+      "title": "こんにちは赤ちゃん訪問",
+      "uri": "https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/1saimiman/homon.html"
+    },
+    {
+      "title": "産後母子ケア宿泊型ショートステイ事業",
+      "uri": "https://www.city.minato.tokyo.jp/chiikihoken/kodomo/boshi-shortstay.html"
+    },
+    {
+      "title": "子ども・子育て情報",
+      "uri": "https://www.city.minato.tokyo.jp/kosodatesien/kosodate/index.html"
+    },
+    {
+      "title": "みなと保健所",
+      "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/ninsanpu-online.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "区民の方を対象に、妊産婦さんの体調、妊娠・出産・育児等のお悩みや心配事について、助産師が電話や面接で相談をお受けします。",
+  "support": {
+    "description": "主な相談内容\n妊娠中の相談（体調、乳房の手入れ、出産・育児の準備など）\n産後の母体回復\n心身の不調\n授乳相談\n乳房ケア\n子どもの発育・発達\n子どもの体調\n育児全般（泣きへの対応、関わり方、生活リズム等）\n卒乳\n家族計画など\n※母乳マッサージは行っていませんが、乳房のセルフケアについてお伝えできます。",
+    "materiallySupport": "主な相談内容\n妊娠中の相談（体調、乳房の手入れ、出産・育児の準備など）\n産後の母体回復\n心身の不調\n授乳相談\n乳房ケア\n子どもの発育・発達\n子どもの体調\n育児全般（泣きへの対応、関わり方、生活リズム等）\n卒乳\n家族計画など\n※母乳マッサージは行っていませんが、乳房のセルフケアについてお伝えできます。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "港区在住の妊産婦\n\n※区外の方は東京都の助産師相談;https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/midwife.html#tokyojosanshiをご利用ください。"
+  },
+  "updateDate": "2024-01-15",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "相談日\n月曜日から金曜日（祝日、年末年始を除く）\n\n午前9時～午後5時",
+    "fromHM": "09:00",
+    "toHM": "17:00"
+  }
+}

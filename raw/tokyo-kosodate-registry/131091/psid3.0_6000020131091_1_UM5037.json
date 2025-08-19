@@ -1,0 +1,134 @@
+{
+  "area": {
+    "areaCode": "131091;品川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健予防課　保健予防係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131091",
+    "psid": "psid3.0+6000020131091+1+UM5037"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "品川保健センター,大井保健センター,荏原保健センター",
+    "contactPhone": "03-3474-2000,03-3772-2666,03-5487-1310",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "助成の内容\n医療保険を使って治療した場合の自己負担3割相当分について助成されますが、1割相当分については医療機関にお支払いいただきます。\nただし保護者の区市町村民税（所得割）額および患者の障害等により負担上限額が設定されています。\n\n制度について東京都 ホームページ（外部リンク・別ウィンドウ表示）へ;http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/josei/iku_iryou.html",
+  "description": "自立支援医療（育成医療）の医療費助成\n\n手術によって改善が見込まれる障害や病気をお持ちのお子さんのための医療費助成制度です\n\n■対象となる方\n18歳未満で、下記の障害や病気を持っている方、またはこれをそのままにしておくと体に障害が残るおそれのある方で、入院を前提とした手術などによって障害の改善が見込まれる方。\n（一部の障害・病気では、入院しない場合でも対象となります。）\nただし区市町村民税（所得割）23万5千円以上の方は原則として対象外となりますが、一部認められる場合もあります。\n詳細はお問い合わせください。\n\n■対象となる障害や病気\n1. 肢体不自由（先天性股関節脱臼、水頭症、分娩麻痺など）\n2. 視覚障害（斜視、眼瞼下垂、未熟児網膜症など）\n3. 聴覚・平衡機能障害（外耳道閉鎖、慢性中耳炎、聴覚障害を伴う小耳症など）\n4. 音声・言語・そしゃく機能の障害（口蓋裂、口唇裂など）\n5. 心臓障害(手術による治療のみが対象です。心室中隔欠損、心房中隔欠損、ファロー四徴症、ペースメーカーの埋め込み手術など)\n6. 腎臓障害（腎移植、人工透析療法など）\n7. 小腸・その他の内臓障害・呼吸器・ぼうこう・直腸・小腸・その他の先天性内臓障害\n（漏斗胸、食道閉鎖、鎖肛など。但し、呼吸器、膀胱、直腸、小腸に障害のある方は先天性でなくても対象となる場合があります。）\n8. ヒト免疫不全ウイルスによる免疫機能障害\n\n■助成の内容\n医療保険を使って治療した場合の自己負担3割相当分について助成されますが、1割相当分については医療機関にお支払いいただきます。\nただし保護者の区市町村民税（所得割）額および患者の障害等により負担上限額が設定されています。\n\n制度について東京都 ホームページ（外部リンク・別ウィンドウ表示）へ;http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/josei/iku_iryou.html\n\n■助成が受けられる医療機関\n全国の指定された自立支援医療機関です。\n入院・手術などの予定が決まりましたら、あらかじめ保健センターへご連絡ください。\n\n◇「品川区子どもすこやか医療費助成制度」をご利用の方へ\n1. すこやか医療証をお持ちのお子さんで、自立支援医療（育成医療）の対象となる病気（1～8）に該当する場合は、保険証と自立支援医療証を医療機関に提出してください。\n2. 窓口では1割の自己負担をしていただきますが、子育て応援課に申請すれば、自己負担金分を助成します。\n\n「子どもすこやか医療費助成制度」へ;https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-iryohizyosei/hpg000017744.html\n「施設案内」保健センターへ;https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-kenkouhukushi/shisetsu-kenkouhukushi-hokenn/hpg000000208.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "助成が受けられる医療機関\n全国の指定された自立支援医療機関です。\n入院・手術などの予定が決まりましたら、あらかじめ保健センターへご連絡ください。"
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度",
+    "shortName": "自立支援医療（育成医療）"
+  },
+  "localGovernmentLink": {
+    "title": "自立支援医療（育成医療）",
+    "uri": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-iryohizyosei/hpg000027939.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "品川区"
+  },
+  "procedureCounter": "各保健センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "必要な書類を各保健センターへ提出",
+  "procedurePeriod": {
+    "conditions": "入院・手術などの予定が決まりましたら、あらかじめ保健センターへご連絡ください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [
+    {
+      "title": "「子どもすこやか医療費助成制度」へ",
+      "uri": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-iryohizyosei/hpg000017744.html"
+    },
+    {
+      "title": "「施設案内」保健センターへ",
+      "uri": "https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-kenkouhukushi/shisetsu-kenkouhukushi-hokenn/hpg000000208.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+  "support": {
+    "description": "手術によって改善が見込まれる障害や病気をお持ちのお子さんのための医療費助成制度です。\n\n対象となる障害や病気\n1. 肢体不自由（先天性股関節脱臼、水頭症、分娩麻痺など）\n2. 視覚障害（斜視、眼瞼下垂、未熟児網膜症など）\n3. 聴覚・平衡機能障害（外耳道閉鎖、慢性中耳炎、聴覚障害を伴う小耳症など）\n4. 音声・言語・そしゃく機能の障害（口蓋裂、口唇裂など）\n5. 心臓障害(手術による治療のみが対象です。心室中隔欠損、心房中隔欠損、ファロー四徴症、ペースメーカーの埋め込み手術など)\n6. 腎臓障害（腎移植、人工透析療法など）\n7. 小腸・その他の内臓障害・呼吸器・ぼうこう・直腸・小腸・その他の先天性内臓障害\n（漏斗胸、食道閉鎖、鎖肛など。但し、呼吸器、膀胱、直腸、小腸に障害のある方は先天性でなくても対象となる場合があります。）\n8. ヒト免疫不全ウイルスによる免疫機能障害",
+    "materiallySupport": null,
+    "monetarySupport": "手術によって改善が見込まれる障害や病気をお持ちのお子さんのための医療費助成制度です。\n\n対象となる障害や病気\n1. 肢体不自由（先天性股関節脱臼、水頭症、分娩麻痺など）\n2. 視覚障害（斜視、眼瞼下垂、未熟児網膜症など）\n3. 聴覚・平衡機能障害（外耳道閉鎖、慢性中耳炎、聴覚障害を伴う小耳症など）\n4. 音声・言語・そしゃく機能の障害（口蓋裂、口唇裂など）\n5. 心臓障害(手術による治療のみが対象です。心室中隔欠損、心房中隔欠損、ファロー四徴症、ペースメーカーの埋め込み手術など)\n6. 腎臓障害（腎移植、人工透析療法など）\n7. 小腸・その他の内臓障害・呼吸器・ぼうこう・直腸・小腸・その他の先天性内臓障害\n（漏斗胸、食道閉鎖、鎖肛など。但し、呼吸器、膀胱、直腸、小腸に障害のある方は先天性でなくても対象となる場合があります。）\n8. ヒト免疫不全ウイルスによる免疫機能障害"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "18歳未満",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "18歳未満で、下記の障害や病気を持っている方、またはこれをそのままにしておくと体に障害が残るおそれのある方で、入院を前提とした手術などによって障害の改善が見込まれる方。（一部の障害・病気では、入院しない場合でも対象となります。）\nただし区市町村民税（所得割）23万5千円以上の方は原則として対象外となりますが、一部認められる場合もあります。詳細はお問い合わせください。"
+  },
+  "updateDate": "2023-07-18",
+  "useConsiderationFlag": false,
+  "utilization": "自立支援医療受給者証を窓口で提示",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

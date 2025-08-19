@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131202;練馬区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "生活福祉課ひとり親家庭支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020131202",
+    "psid": "psid3.0+3000020131202+1+UM2366"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都練馬区豊玉北6丁目12番1号",
+    "contactComment": "月曜から金曜：午前8時30分から午後5時15分まで",
+    "contactEmail": null,
+    "contactEx": "8021",
+    "contactName": "生活福祉課ひとり親家庭支援係（本庁舎10階）",
+    "contactPhone": "03-5984-1319",
+    "contactUrl": null,
+    "zipCode": "1768501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ひとり親家庭高等学校卒業程度認定試験合格支援\n現在のページ\nトップページくらし・手続き人権・男女共同参画・その他福祉ひとり親家庭ひとり親家庭高等学校卒業程度認定試験合格支援\nページ番号：455-699-388\n\n更新日：2024年3月4日\n\n　20歳未満の児童を扶養しているひとり親家庭の親または児童が、高卒認定試験の対策のための講座を受講開始し、修了および合格した場合に、支払った受講経費の一部を支給します。\n\n対象者\n　練馬区内に住所を有し、20歳未満の児童を扶養しているひとり親家庭の親または児童（児童の場合は修了時および合格時において20歳未満であること）のうち、次のすべてにあてはまる方\n（1）児童扶養手当を受給しているか、同様の所得水準であること\n（2）就業経験、技能、資格の取得状況や労働市場の状況から判断して、高卒認定試験に合格することが、適職に就くために必要であると認められること\n（3）過去にこの制度を利用していないこと\n（4）大学入学資格を持っていないこと（高等学校卒業者、大学入学資格検定合格者、高卒認定試験合格者でないこと）\n\n対象講座\n　高卒認定試験の合格を目指す講座（通信制講座を含む）であって、区長が適当と認めて指定したもの\n\n支給額\n【通信制講座を受講する場合】\n（1）受講開始時給付金\n　支払った受講経費の40％相当額（上限10万円）を受講開始時に支給\n（2）受講修了時給付金\n　支払った受講経費の10％相当額（受講開始時給付金と合わせて上限12万5千円）を受講修了時に支給\n（3）合格時給付金\n　支払った受講経費の10％相当額を合格時に支給\n※（1）（2）（3）の合計額の上限は、15万円です。\n※（1）（2）は4千円を超えない場合、支給しません。\n\n【通学講座または通学講座および通信制講座を併用して受講する場合】\n（4）受講開始時給付金\n　支払った受講経費の40％相当額（上限20万円）を受講開始時に支給\n（5）受講修了時給付金\n　支払った受講経費の10％相当額（受講開始時給付金と合わせて上限25万円）を受講修了時に支給\n（6）合格時給付金\n　支払った受講経費の10％相当額を合格時に支給\n※（4）（5）（6）の合計額の上限は、30万円です。\n※（4）（5）は4千円を超えない場合、支給しません。\n\n申請方法\n審査があります。支給にあたり、自立支援プログラムを策定します。\n必ず受講申込前にひとり親家庭支援係までご相談ください。\n（受講中または受講後の申請はできません。）\n※相談や手続きにお時間・日数を要しますので、余裕を持ってお越しください。\n\nひとり親家庭住宅支援資金貸付（東京都社会福祉協議会）\n　児童扶養手当を受給している、または所得が受給相当額の方で、自立支援プログラム　;https://www.city.nerima.tokyo.jp/kurashi/jinken/hitorioya/syuurou.htmlを策定している方を対象に、東京都社会福祉協議会が家賃相当額を貸し付ける事業です。ひとり親家庭高等学校卒業程度認定試験合格支援を受けられる方も、条件を満たせば、対象となります。\n　貸付額は上限4万円、12か月間です。条件を満たせば、返済免除となります。\n　詳しくは東京都ホームページ（外部サイト）　;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/hitorioya_shien/syurou/koutoukashituke.htmlをご覧ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": "2017-04-01",
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "高等学校卒業程度認定試験合格支援事業給付金",
+    "shortName": "ひとり親家庭高等学校卒業程度認定試験合格支援"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親家庭高等学校卒業程度認定試験合格支援",
+    "uri": "https://www.city.nerima.tokyo.jp/kurashi/jinken/hitorioya/nintei.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "練馬区"
+  },
+  "procedureCounter": "生活福祉課ひとり親家庭支援係（本庁舎10階）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "審査があります。支給にあたり、自立支援プログラムを策定します。\n必ず受講申込前にひとり親家庭支援係までご相談ください。\n（受講中または受講後の申請はできません。）\n※相談や手続きにお時間・日数を要しますので、余裕を持ってお越しください。",
+  "procedurePeriod": {
+    "conditions": "月曜から金曜：午前8時30分から午後5時15分まで",
+    "fromHM": "08:30",
+    "fromYMD": null,
+    "toHM": "17:15",
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "実施要綱全体",
+    "regulationName": "ひとり親家庭高等学校卒業程度認定試験合格支援事業実施要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "自立支援プログラム　",
+      "uri": "https://www.city.nerima.tokyo.jp/kurashi/jinken/hitorioya/syuurou.html\nhttps://www.fukushihoken.metro.tokyo.lg.jp/kodomo/hitorioya_shien/syurou/koutoukashituke.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭の就職や転職の可能性を広げ、自立につなげていくため、ひとり親家庭の親またはお子さんが高卒認定試験合格のための講座（通信講座を含む）を受け、これを修了した時および合格したときに受講費用の一部を支給します。",
+  "support": {
+    "description": "【通信制講座を受講する場合】\n（1）受講開始時給付金\n支払った受講経費の40％相当額（上限10万円）を受講開始時に支給\n（2）受講修了時給付金\n支払った受講経費の10％相当額（受講開始時給付金と合わせて上限12万5千円）を受講修了時に支給\n（3）合格時給付金\n支払った受講経費の10％相当額を合格時に支給\n※（1）（2）（3）の合計額の上限は、15万円です。\n※（1）（2）は4千円を超えない場合、支給しません。\n\n【通学講座または通学講座および通信制講座を併用して受講する場合】\n（4）受講開始時給付金\n支払った受講経費の40％相当額（上限20万円）を受講開始時に支給\n（5）受講修了時給付金\n支払った受講経費の10％相当額（受講開始時給付金と合わせて上限25万円）を受講修了時に支給\n（6）合格時給付金\n支払った受講経費の10％相当額を合格時に支給\n※（4）（5）（6）の合計額の上限は、30万円です。\n※（4）（5）は4千円を超えない場合、支給しません。\n\n",
+    "materiallySupport": null,
+    "monetarySupport": "【通信制講座を受講する場合】\n（1）受講開始時給付金\n支払った受講経費の40％相当額（上限10万円）を受講開始時に支給\n（2）受講修了時給付金\n支払った受講経費の10％相当額（受講開始時給付金と合わせて上限12万5千円）を受講修了時に支給\n（3）合格時給付金\n支払った受講経費の10％相当額を合格時に支給\n※（1）（2）（3）の合計額の上限は、15万円です。\n※（1）（2）は4千円を超えない場合、支給しません。\n\n【通学講座または通学講座および通信制講座を併用して受講する場合】\n（4）受講開始時給付金\n支払った受講経費の40％相当額（上限20万円）を受講開始時に支給\n（5）受講修了時給付金\n支払った受講経費の10％相当額（受講開始時給付金と合わせて上限25万円）を受講修了時に支給\n（6）合格時給付金\n支払った受講経費の10％相当額を合格時に支給\n※（4）（5）（6）の合計額の上限は、30万円です。\n※（4）（5）は4千円を超えない場合、支給しません。\n\n"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "練馬内に住所を有するひとり親家庭の親および児童",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "練馬区内に住所を有し、20歳未満の児童を扶養しているひとり親家庭の親または児童（児童の場合は修了時および合格時において20歳未満であること）のうち、次のすべてにあてはまる方\n（1）児童扶養手当を受給しているか、同様の所得水準であること\n\n（2）就業経験、技能、資格の取得状況や労働市場の状況から判断して、高卒認定試験に合格することが、適職に就くために必要であると認められること\n（3）過去にこの制度を利用していないこと\n（4）大学入学資格を持っていないこと（高等学校卒業者、大学入学資格検定合格者、高卒認定試験合格者でないこと）"
+  },
+  "updateDate": "2024-03-04",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "生涯学習部中央図書館",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+1+UM105"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "生涯学習部中央図書館",
+    "contactPhone": "042-728-8220",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/21",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "よんだ本を「どくしょてちょう」にきろくして、スタンプとシールをゲットしよう！\n読書手帳イラストイメージ\n「どくしょてちょう」イラストイメージ\n\n「どくしょてちょう」は、町田市まちだしの図書館としょかんや移動図書館いどうとしょかん「そよかぜ号ごう」、町田市民文学館まちだしみんぶんがくかんことばらんどでもらえるよ！\n\nぜひ近ちかくの図書館としょかんまであそびにきてね♪\n\n＜もらえるところ＞\n・中央図書館ちゅうおうとしょかん\n・さるびあ図書館さるびあとしょかん\n・鶴川図書館つるかわとしょかん\n・鶴川駅前図書館つるかわえきまえとしょかん/rt>\n・金森図書館かなもりとしょかん\n・木曽山崎図書館きそやまざきとしょかん\n・忠生図書館ただおとしょかん\n・堺図書館さかいとしょかん\n・移動図書館いどうとしょかん「そよかぜ号ごう」\n・町田市民文学館まちだしみんぶんがくかんことばらんど\n\n＜つかいかた＞\n本ほんを1さつ読よみおわったら、「どくしょてちょう」にきろくしよう。てちょうにきろくすると、図書館としょかんでスタンプがおせるよ。\nスタンプが15こあつまったら、シールがもらえるよ！",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "・中央図書館ちゅうおうとしょかん\n・さるびあ図書館さるびあとしょかん\n・鶴川図書館つるかわとしょかん\n・鶴川駅前図書館つるかわえきまえとしょかん/rt>\n・金森図書館かなもりとしょかん\n・木曽山崎図書館きそやまざきとしょかん\n・忠生図書館ただおとしょかん\n・堺図書館さかいとしょかん\n・移動図書館いどうとしょかん「そよかぜ号ごう」\n・町田市民文学館まちだしみんぶんがくかんことばらんど"
+  },
+  "institutionName": {
+    "canonicalName": "図書館の児童サービス（ブックスタートなど）",
+    "shortName": "よんだ本を「どくしょてちょう」にきろくしよう！"
+  },
+  "localGovernmentLink": {
+    "title": "よんだ本を「どくしょてちょう」にきろくしよう！",
+    "uri": "https://kosodate-machida.tokyo.jp/mokuteki/5/toshokann/9977.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ブックスタートとは、赤ちゃんとその保護者に絵本をプレゼントし、絵本を開く楽しい体験とともに、心ふれあうきっかけをつくる活動です。",
+  "support": {
+    "description": "よんだ本を「どくしょてちょう」にきろく",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "092"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象者記載なし"
+  },
+  "updateDate": "2021-12-17",
+  "useConsiderationFlag": true,
+  "utilization": "本ほんを1さつ読よみおわったら、「どくしょてちょう」にきろくしよう。てちょうにきろくすると、図書館としょかんでスタンプがおせるよ。\nスタンプが15こあつまったら、シールがもらえるよ！",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

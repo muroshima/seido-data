@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "132021;立川市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子ども家庭センターこんにちは赤ちゃん係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020132021",
+    "psid": "psid3.0+9000020132021+1+UM13"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "立川市高松町3-22-9 健康会館内",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部子ども家庭センターこんにちは赤ちゃん係",
+    "contactPhone": "042-527-3234",
+    "contactUrl": null,
+    "zipCode": "1900011"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "赤ちゃんのいるすべてのご家庭を訪問します\n平成24年10月より赤ちゃんが生まれたすべてのご家庭を訪問するこんにちは赤ちゃん事業が始まりました。生後4か月を迎える日までの赤ちゃんのいるすべてのご家庭に、助産師・保健師がお伺いします。\n訪問までの流れ\nステップ1\n赤ちゃん連絡票をご記入ください。\n母子健康手帳交付時にお渡しした母と子の保健バッグに入っています。ホームページからもダウンロードできます。\nステップ2\n乳幼児医療証、児童手当の受付で、赤ちゃん連絡票をご提出ください。\n出産後14日以内に必ずご提出ください。\nステップ3\n保健師・助産師からお電話をおかけします。\n電話で、訪問の日程を調整します。\n赤ちゃん訪問では\n赤ちゃんの体重を量ります。\n育児やお母さんの健康について、ご相談ができます。\n地域の情報をお伝えします。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "新生児訪問",
+    "shortName": "こんにちは赤ちゃん事業"
+  },
+  "localGovernmentLink": {
+    "title": "こんにちは赤ちゃん事業",
+    "uri": "https://www.city.tachikawa.lg.jp/kenkosuishin/kosodate/ninshin/shussan/akachan.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "立川市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "ステップ1\n赤ちゃん連絡票をご記入ください。\n母子健康手帳交付時にお渡しした母と子の保健バッグに入っています。ホームページからもダウンロードできます。\n\nステップ2\n乳幼児医療証、児童手当の受付で、赤ちゃん連絡票をご提出ください。\n出産後14日以内に必ずご提出ください。\n\nステップ3\n保健師・助産師からお電話をおかけします。\n電話で、訪問の日程を調整します。",
+  "procedurePeriod": {
+    "conditions": "乳幼児医療証、児童手当の受付で、赤ちゃん連絡票をご提出ください。\n出産後14日以内に必ずご提出ください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第11条（新生児の訪問指導）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "赤ちゃん連絡票 （PDF 166.8KB）",
+      "uri": "https://www.city.tachikawa.lg.jp/_res/projects/default_project/_page_/001/005/210/akacyanhoumon0204.pdf"
+    },
+    {
+      "title": "赤ちゃん訪問案内 （PDF 312.6KB）",
+      "uri": "https://www.city.tachikawa.lg.jp/_res/projects/default_project/_page_/001/005/210/akacyanannai0204.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "新生児を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、健康や育児に関する相談などを行います。",
+  "support": {
+    "description": "赤ちゃん訪問では\n赤ちゃんの体重を量ります。\n育児やお母さんの健康について、ご相談ができます。\n地域の情報をお伝えします。",
+    "materiallySupport": "赤ちゃん訪問では\n赤ちゃんの体重を量ります。\n育児やお母さんの健康について、ご相談ができます。\n地域の情報をお伝えします。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 0,
+      "targetAgeOfMonths": 4
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "赤ちゃんが生まれたすべてのご家庭"
+  },
+  "updateDate": "2024-04-18",
+  "useConsiderationFlag": false,
+  "utilization": "ステップ1\n赤ちゃん連絡票をご記入ください。\n母子健康手帳交付時にお渡しした母と子の保健バッグに入っています。ホームページからもダウンロードできます。\n\nステップ2\n乳幼児医療証、児童手当の受付で、赤ちゃん連絡票をご提出ください。\n出産後14日以内に必ずご提出ください。\n\nステップ3\n保健師・助産師からお電話をおかけします。\n電話で、訪問の日程を調整します。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

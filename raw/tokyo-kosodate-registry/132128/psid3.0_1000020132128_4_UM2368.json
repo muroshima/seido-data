@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132128;日野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども部保育課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132128",
+    "psid": "psid3.0+1000020132128+4+UM2368"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都日野市神明1丁目13番地の2子ども包括支援センター1階",
+    "contactComment": "保育幼稚園係 042-514-8637管理係 042-514-8638整備調整係 042-514-8972,代表電話：042-585-1111",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども部保育課",
+    "contactPhone": "042-514-8637,042-514-8638,042-514-8972,042-585-1111",
+    "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120200",
+    "zipCode": "1910016"
+  },
+  "cost": null,
+  "costConditions": "通園送迎費、食材料費、行事費などは、これまでどおり保護者の皆様にご負担いただきます。ただし、年収360万円未満相当世帯（市民税所得割額より判定）の子ども達と全ての世帯の第3子以降の子ども達については、給食費のうち副食（おかず・おやつ等）の費用が免除されます。\n※第3子とは、同一世帯において、2人以上の就学前児童（兄姉）が次に挙げる施設を利用している場合です。〔国基準〕 　＊在籍証明書の提出が必要です。\n・特定教育・保育施設、私立幼稚園（新制度未移行園）、特定地域型保育事業 、特例保育、特別支援学校幼稚部、企業主導型保育事業 、児童心理治療施設に通所。\n・児童発達支援及び医療型児童発達支援、居宅訪問型児童発達支援を利用。",
+  "description": "幼稚園（新制度園、未移行園）、認定こども園\n|施設の種類|満3歳児|3歳から5歳|\n|:----|:----|:----|\n|幼稚園（新制度園）、認定こども園|所得階層に応じて決定している保育料（0円～25，700円）が無償|所得階層に応じて決定している保育料（0円～25，700円）が無償|\n|幼稚園（未移行園）|保育料のうち月額上限25，700円まで無償|保育料のうち月額上限25，700円まで無償|\n|預かり保育を利用する方<br>※保育の必要性の認定が必須|住民税非課税世帯に限り月額上限16，300円まで|月額上限11，300円まで|\n1満3歳児の無償化開始時期は、満3歳の誕生日の前日からとなります。\n2預かり保育を利用予定の方で無償化対象となるためには、「保育の必要性の認定」を受ける必要があります。※保育の必要性の認定とは、就労等の要件（例えば月48時間以上の労働）をいいます。\n3通園送迎費、食材料費、行事費などは、これまでどおり保護者の皆様にご負担いただきます。ただし、年収360万円未満相当世帯（市民税所得割額より判定）の子ども達と全ての世帯の第3子以降の子ども達については、給食費のうち副食（おかず・おやつ等）の費用が免除されます。\n※第3子とは、同一世帯において、2人以上の就学前児童（兄姉）が次に挙げる施設を利用している場合です。〔国基準〕 　＊在籍証明書の提出が必要です。\n・特定教育・保育施設、私立幼稚園（新制度未移行園）、特定地域型保育事業 、特例保育、特別支援学校幼稚部、企業主導型保育事業 、児童心理治療施設に通所。\n・児童発達支援及び医療型児童発達支援、居宅訪問型児童発達支援を利用。\n\n※未移行園については、補助金として年2回に分けて交付します。詳細は園を通じてお知らせいたします。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "満3歳児の無償化開始時期は、満3歳の誕生日の前日からとなります。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "幼児教育・保育の無償化",
+    "shortName": "幼児教育無償化:幼稚園（新制度園）、認定こども園"
+  },
+  "localGovernmentLink": {
+    "title": "幼児教育無償化について",
+    "uri": "https://www.city.hino.lg.jp/kosodate/hoikuen/mushouka/1012173/1012170.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-18",
+    "updater": "日野市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第27条～第30条（第二章 第三節 第三款 施設型給付費及び地域型保育給付費等の支給）、第30条の2(子育てのための施設等利用給付）)",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "幼児教育・保育の重要性や、子育てや教育にかかる費用負担の軽減を図る少子化対策の観点などから、3歳児クラス（年少）から5歳児クラス（年長）のお子さん、および住民税非課税世帯の0歳児クラスから2歳児クラスのお子さんを対象に、幼児教育・保育の無償化を実施しています。\n無償化の内容は、利用する施設・サービスごとに異なります。",
+  "support": {
+    "description": "所得階層に応じて決定している保育料（0円～25，700円）が無償",
+    "materiallySupport": null,
+    "monetarySupport": "所得階層に応じて決定している保育料（0円～25，700円）が無償"
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "満3歳児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "満3歳児"
+  },
+  "updateDate": "2021-09-24",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

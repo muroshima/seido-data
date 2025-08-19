@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "132209;東大和市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭センター子ども家庭相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132209",
+    "psid": "psid3.0+3000020132209+4+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都東大和市中央3-916-8",
+    "contactComment": "ファクス：042-565-3652",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭センター子ども家庭相談係",
+    "contactPhone": "042-565-3651",
+    "contactUrl": "https://www.city.higashiyamato.lg.jp/cgi-bin/contacts/G400200100",
+    "zipCode": "2078585"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ひとり親家庭等相談\n相談員がひとり親家庭（母子家庭、父子家庭）及び女性（10代から20代の若年女性を含みます。）のさまざまな相談に応じます。\n相談を希望されるかたは、事前に電話での予約をお願いします。\n\n【場所】　子ども家庭支援センター\n【日時】　月曜日から金曜日まで（午前9時から午後4時まで）\n東京都の支援情報\nひとり親になるとき、なったときの参考に、「ひとり親家庭サポートガイド」をご覧ください。\n\nひとり親家庭サポートガイド（外部リンク）新しいウィンドウで開きます;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/hitorioya_shien/kankoubutu/supportguide.files/supportguide.pdf\n「東京都ひとり親家庭支援センターはあと」は、生活相談、養育費相談、離婚前後の法律相談、面会交流支援等を行っています。令和2年に「はあと多摩」（立川市）が開設されました。\n\n東京都ひとり親家庭支援センターはあと（外部リンク）新しいウィンドウで開きます;http://www.haat.or.jp/\nひとり親のかた、これからひとり親になるかたのための、お金、住まい等の情報を集めた「シングルママ・シングルパパくらし応援ナビTokyo」は次のリンクをご覧ください。\n\nシングルママ・シングルパパくらし応援ナビTokyo（外部リンク）;https://www.single-ouen-navi.metro.tokyo.lg.jp/",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "子ども家庭支援センター"
+  },
+  "institutionName": {
+    "canonicalName": "東大和市の子育てに関する相談",
+    "shortName": "ひとり親家庭等相談"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親家庭等相談",
+    "uri": "https://www.city.higashiyamato.lg.jp/kosodatekyoiku/kosodate/1003229/1003235.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "東大和市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "相談を希望されるかたは、事前に電話での予約をお願いします。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "ひとり親家庭サポートガイド（外部リンク）",
+      "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/hitorioya_shien/kankoubutu/supportguide.files/supportguide.pdf"
+    },
+    {
+      "title": "東京都ひとり親家庭支援センターはあと（外部リンク）",
+      "uri": "http://www.haat.or.jp/"
+    },
+    {
+      "title": "シングルママ・シングルパパくらし応援ナビTokyo（外部リンク）",
+      "uri": "https://www.single-ouen-navi.metro.tokyo.lg.jp/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "相談員がひとり親家庭（母子家庭、父子家庭）及び女性（10代から20代の若年女性を含みます。）のさまざまな相談に応じます。\n相談を希望されるかたは、事前に電話での予約をお願いします。",
+  "support": {
+    "description": "相談員がひとり親家庭（母子家庭、父子家庭）及び女性（10代から20代の若年女性を含みます。）のさまざまな相談に応じます。\n相談を希望されるかたは、事前に電話での予約をお願いします。",
+    "materiallySupport": "相談員がひとり親家庭（母子家庭、父子家庭）及び女性（10代から20代の若年女性を含みます。）のさまざまな相談に応じます。\n相談を希望されるかたは、事前に電話での予約をお願いします。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "ひとり親家庭（母子家庭、父子家庭）及び女性（10代から20代の若年女性を含みます。）"
+  },
+  "updateDate": "2023-05-12",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日から金曜日まで（午前9時から午後4時まで）",
+    "fromHM": "09:00",
+    "toHM": "16:00"
+  }
+}

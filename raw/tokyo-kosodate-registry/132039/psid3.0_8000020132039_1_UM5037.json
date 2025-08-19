@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "132039;武蔵野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部 障害者福祉課 管理係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132039",
+    "psid": "psid3.0+8000020132039+1+UM5037"
+  },
+  "belongings": "健康保険証の写し（加入されている保険の種類により必要なものが異なります）\n被保険者の市民税所得割額が分かるもの(国民健康保険のかたは同一保険被保険者全員・社会保険等のかたは被保険者のもの)\n例 市民税都民税(非)課税通知書、国民健康保険納税額変更通知書、市民税・都民税特別徴収額の変更通知書(納税義務者用)、市民税都民税納税通知書など\n（注意）該当年度の1月1日時点で市内に住民票があり、本市で税情報を確認できるかたの分については提出が不要となる場合があります。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都武蔵野市緑町2-2-28",
+    "contactComment": "ファクス番号：0422-51-9239",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康福祉部 障害者福祉課 管理係",
+    "contactPhone": "0422-60-1904",
+    "contactUrl": "https://www.city.musashino.lg.jp/cgi-crm/CRM030/CRM030_001/G00700400/1006485",
+    "zipCode": "1808777"
+  },
+  "cost": null,
+  "costConditions": "医療費（保険診療）の自己負担は原則1割になります。ただし、世帯の所得水準や疾病に応じて月ごとの自己負担上限額が設定されています。",
+  "description": "自立支援医療(育成医療)\n\n指定された医療機関において、診療、薬剤の支給、手術その他の医療、看護、移送などを受けた際にかかる医療費の一部を補助します。\n\n対象\n保護者が本市に在住し、18歳未満で身体に障害を有するため手術等を必要とし、確実な治療効果が期待される児童。\n\n自己負担\n医療費（保険診療）の自己負担は原則1割になります。ただし、世帯の所得水準や疾病に応じて月ごとの自己負担上限額が設定されています。\n\n申請手続\n次のものをお持ちになって、障害者福祉課へ\n\n申請書\n自立支援医療(育成医療)意見書 (注意)主治医が記入\n世帯調書\n健康保険証の写し（加入されている保険の種類により必要なものが異なります）\n被保険者の市民税所得割額が分かるもの(国民健康保険のかたは同一保険被保険者全員・社会保険等のかたは被保険者のもの)\n例 市民税都民税(非)課税通知書、国民健康保険納税額変更通知書、市民税・都民税特別徴収額の変更通知書(納税義務者用)、市民税都民税納税通知書など\n（注意）該当年度の1月1日時点で市内に住民票があり、本市で税情報を確認できるかたの分については提出が不要となる場合があります。\n遅延理由書 (注意)申請日が治療開始日から3カ月を超えている場合に必要\n(注意)1の申請書、2の自立支援医療(育成医療)意見書、3の世帯調書、6の遅延理由書は、障害者福祉課窓口にあります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度",
+    "shortName": "自立支援医療（育成医療）"
+  },
+  "localGovernmentLink": {
+    "title": "自立支援医療(育成医療)",
+    "uri": "https://www.city.musashino.lg.jp/kenko_fukushi/shogaisha_fukushi/shien_josei/teate_kyufu/1006485.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "武蔵野市"
+  },
+  "procedureCounter": "障害者福祉課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "次のものをお持ちになって、障害者福祉課へ\n\n1.申請書\n2.自立支援医療(育成医療)意見書 (注意)主治医が記入\n3.世帯調書\n健康保険証の写し（加入されている保険の種類により必要なものが異なります）\n4.被保険者の市民税所得割額が分かるもの(国民健康保険のかたは同一保険被保険者全員・社会保険等のかたは被保険者のもの)\n例 市民税都民税(非)課税通知書、国民健康保険納税額変更通知書、市民税・都民税特別徴収額の変更通知書(納税義務者用)、市民税都民税納税通知書など\n（注意）該当年度の1月1日時点で市内に住民票があり、本市で税情報を確認できるかたの分については提出が不要となる場合があります。\n6.遅延理由書 (注意)申請日が治療開始日から3カ月を超えている場合に必要\n(注意)1の申請書、2の自立支援医療(育成医療)意見書、3の世帯調書、6の遅延理由書は、障害者福祉課窓口にあります。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+  "support": {
+    "description": "指定された医療機関において、診療、薬剤の支給、手術その他の医療、看護、移送などを受けた際にかかる医療費の一部を補助します。",
+    "materiallySupport": null,
+    "monetarySupport": "指定された医療機関において、診療、薬剤の支給、手術その他の医療、看護、移送などを受けた際にかかる医療費の一部を補助します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "保護者が本市に在住し、18歳未満で身体に障害を有するため手術等を必要とし、確実な治療効果が期待される児童"
+  },
+  "updateDate": "2024-01-29",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

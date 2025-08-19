@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "132209;東大和市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども未来部保育課保育・幼稚園係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132209",
+    "psid": "psid3.0+3000020132209+1+UM2372"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都東大和市中央3-930",
+    "contactComment": "ファクス：042-563-5928",
+    "contactEmail": null,
+    "contactEx": "1751",
+    "contactName": "子ども未来部保育課保育・幼稚園係",
+    "contactPhone": "042-563-2111",
+    "contactUrl": "https://www.city.higashiyamato.lg.jp/cgi-bin/contacts/G400300200",
+    "zipCode": "2078585"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "認可外保育施設等の利用\n認可外保育施設利用者に対する補助制度\n令和6年度認可外保育施設利用者に対する補助制度;https://www.city.higashiyamato.lg.jp/kosodatekyoiku/hoiku/1003257/1003270.html\n認証保育所\n認証保育所を利用する場合は、保護者と認証保育所との間で入園の手続きを直接行っていただきます。また、保育料については認証保育所が定める料金となります。\n\n東大和保育園（東大和市新堀1-1435-33、電話：042-562-1758）\n対象年齢：生後57日～3歳児未満の児童受入可能\n※利用申込みについては、園までご連絡ください\n\n東大和保育園（外部リンク）新しいウィンドウで開きます;http://higashiyamato-hoikuen2525.jimdo.com/\nベビーシッターなど\nベビーシッターなどの利用をご検討する際は、国の示す「ベビーシッターなどを利用するときの留意点（厚生労働省ホームページ）」をご参考ください。\n\nベビーシッターなどを利用するときの留意点（厚生労働省ホームページ）（外部リンク）;http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/kodomo_kosodate/babysitter/index.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "東大和市新堀1-1435-33",
+    "implementationName": "東大和保育園"
+  },
+  "institutionName": {
+    "canonicalName": "認可外保育施設の利用について",
+    "shortName": "認証保育所"
+  },
+  "localGovernmentLink": {
+    "title": "保育施設の入園手続き",
+    "uri": "https://www.city.higashiyamato.lg.jp/kosodatekyoiku/hoiku/1003257/1006640/1003263.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "東大和市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "利用申込みについては、園までご連絡ください",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第30条の4～10(第2章第4節第2款 施設等利用給付認定等)",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "令和6年度認可外保育施設利用者に対する補助制度",
+      "uri": "https://www.city.higashiyamato.lg.jp/kosodatekyoiku/hoiku/1003257/1003270.html"
+    },
+    {
+      "title": "ベビーシッターなどを利用するときの留意点（厚生労働省ホームページ）（外部リンク）",
+      "uri": "http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/kodomo_kosodate/babysitter/index.html"
+    },
+    {
+      "title": "東大和保育園（外部リンク）",
+      "uri": "http://higashiyamato-hoikuen2525.jimdo.com/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "東京都が定めた基準を満たしている保育施設です。保育時間、保育料については各保育施設で異なります。申請の受け付けや入園の決定は各保育施設が直接おこないます。詳細は各保育施設にお問い合わせください。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後57日～3歳児未満の児童",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生後57日～3歳児未満の児童"
+  },
+  "updateDate": "2024-04-18",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

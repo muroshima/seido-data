@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132144;国分寺市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部　生活福祉課　相談支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132144",
+    "psid": "psid3.0+1000020132144+1+UM28"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-325-9026",
+    "contactEmail": null,
+    "contactEx": "533",
+    "contactName": "福祉部　生活福祉課　相談支援係",
+    "contactPhone": "042-325-0111",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ひとり親世帯のかたを対象に、修学資金や就学支度資金などの貸し付け相談を受け付けています。貸付けが世帯の自立につながり、償還（返済）の見通しが立つかたの申請を受け付けし、審査を行います。\n申請から振込みまでには１か月以上かかります。\n来年度に高校・大学進学を控え、学費の支払いに不安のあるかたは早めにご相談ください。\n相談は電話や面接によりお受けします。なお、緊急時を除いて面接相談は事前に予約をお願いします。\n令和２年度より、国の制度として、収入の少ない家庭を対象とした高等教育の修学支援新制度の授業料等の減免・給付型奨学金制度が開始されています。その制度を利用できる場合は貸付可能額から必要額を算定して貸付けします。\n\n【相談時間】\n月～金曜日 午前9時～午後0時・午後1時～午後5時（受付＝午後4時まで）\n（祝日・年末年始を除く）\n【予約方法】\nお電話、または、市役所第２庁舎１階　生活福祉課窓口に直接ご来所ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "母子父子寡婦福祉資金",
+    "shortName": "母子及び父子・女性福祉資金の貸付け"
+  },
+  "localGovernmentLink": {
+    "title": "母子及び父子福祉資金・女性福祉資金の貸し付け",
+    "uri": "https://www.city.kokubunji.tokyo.jp/kurashi/1012309/shien/1018583.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-12",
+    "updater": "国分寺市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "貸付けが世帯の自立につながり、償還（返済）の見通しが立つかたの申請を受け付けし、審査を行います。\n\n相談は電話や面接によりお受けします。なお、緊急時を除いて面接相談は事前に予約をお願いします。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（母子福祉資金の貸付け）",
+    "regulationName": "母子父子寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "母子家庭の母、父子家庭の父、および寡婦の方の経済的自立や、扶養しているお子さんの福祉増進のために、必要な資金をお貸しする制度です。",
+  "support": {
+    "description": "修学資金や就学支度資金などの貸付け",
+    "materiallySupport": null,
+    "monetarySupport": "修学資金や就学支度資金などの貸付け"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "１　母子及び父子福祉資金\n母子家庭の母または父子家庭の父で、20歳未満の子どもを扶養しているかた\n\n2　女性福祉資金\n配偶者のいない女性で、次のいずれかに該当するかた\n（1）　親、子、兄弟姉妹などを扶養しているかた（所得制限なし）\n（2）　年間所得が2,036,000円以下で、かつて母子家庭の母として20歳未満の子を扶養したことのあるかた又は婚姻歴のある40歳以上のかた\n\n貸し付け内容で要件が異なります。詳しくはお問い合わせください"
+  },
+  "updateDate": "2024-05-17",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

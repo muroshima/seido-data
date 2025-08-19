@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "132217;清瀬市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援センター子ども家庭支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132217",
+    "psid": "psid3.0+3000020132217+1+UM799"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都清瀬市中里5-842　しあわせ未来センター2階",
+    "contactComment": "FAX：042-495-7711",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援センター子ども家庭支援係",
+    "contactPhone": "042-495-7701",
+    "contactUrl": null,
+    "zipCode": "2048511"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "清瀬市子ども家庭支援センターでは、18歳未満のお子さんと、その家庭に関するあらゆる相談をお受けしています。お子さん自身からの相談も受け付け、解決のお手伝いをします。¥n子育てをサポートする、様々な子育てサービスをご案内するなど、お悩みについての解決策を一緒に考える他、対応が出来る機関におつなぎすることもあります。¥nまた、子ども家庭支援センターでは、児童虐待に関する対応も行っております。「子どもに手をあげてしまうことがある」「カッとなって子どもの人格を否定する声かけをしてしまった」「虐待の恐れがある行為を見聞きした」等、少しでも気になることがございましたら、子ども家庭支援センターまでご連絡ください。児童相談所やその他関係機関等と連携を取りながら、問題の解決を図ります。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "子ども家庭支援センターへのお問い合わせ",
+      "uri": "https://www.city.kiyose.lg.jp/cgi-bin/enquetes/cd1a9c7475ef4f75999a418afa75625d"
+    }
+  ],
+  "holiday": "日曜・祭日・年末・年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "しあわせ未来センター"
+  },
+  "institutionName": {
+    "canonicalName": "こども家庭センター",
+    "shortName": "子ども家庭支援センター"
+  },
+  "localGovernmentLink": {
+    "title": "子ども家庭支援センター",
+    "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/1005251.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025-02-20",
+    "updater": "清瀬市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "子ども家庭支援センター",
+      "uri": "https://www.city.kiyose.lg.jp/shisetsu/kosodatesisetu/1001267.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "清瀬市の【子ども家庭支援センター】では、全ての妊産婦・子育て家庭に対する相談等への対応、サポートプランに基づく妊産婦の健康やこどもの養育に関する支援などを行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "清瀬市在住の18歳未満のお子さんがいるご家庭"
+  },
+  "updateDate": "2024/07/18",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": "09:00",
+    "toHM": "17:00"
+  }
+}

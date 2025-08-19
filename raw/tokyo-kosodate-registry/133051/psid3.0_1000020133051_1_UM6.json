@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "133051;日の出町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センター　相談係（母子保健担当）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133051",
+    "psid": "psid3.0+1000020133051+1+UM6"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡日の出町大字平井2780番地",
+    "contactComment": "午前8時30分から午後5時15分(土曜・日曜・祝日・年末年始を除く)",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭センター　相談係（母子保健担当）",
+    "contactPhone": "042-588-4310",
+    "contactUrl": null,
+    "zipCode": "1900192"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊婦健康診査\n○問 こども家庭センター042-588-4310¥n東京都の委託医療機関にて実施し、初診健診 1 回分とそれ以降の健診 13 回分、超音波検査４回分、子宮頸がん検診 1 回分の、受診票記載の検査項目を公費で負担します。里帰り出産、助産所での健診は償還払い制度があります。出産後 1 年以内に保健センターに申請してください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊婦健康診査",
+    "shortName": "妊婦健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "ひので子育て応援ガイド",
+    "uri": "https://www.town.hinode.tokyo.jp/0000001943.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "日の出町"
+  },
+  "procedureCounter": "こども家庭センター　相談係（母子保健担当）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊婦さんやお腹の赤ちゃんの健康状態を定期的に確認するのが妊婦健康診査です。妊婦さんの健康診査は、一般的に出産までに14回程度受診するのが望ましいとされています。しかし、妊娠は病気ではないため健康保険は適用されません。そこで、出産までの健診を受ける際の経済的な負担を軽くするため、妊婦健康診査費用の一部を助成する妊婦健康診査受診票をお渡ししています。",
+  "support": {
+    "description": "初診健診 1 回分とそれ以降の健診 13 回分、超音波検査４回分、子宮頸がん検診 1 回分の、受診票記載の検査項目を公費で負担します。",
+    "materiallySupport": "初診健診 1 回分とそれ以降の健診 13 回分、超音波検査４回分、子宮頸がん検診 1 回分の、受診票記載の検査項目を公費で負担します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

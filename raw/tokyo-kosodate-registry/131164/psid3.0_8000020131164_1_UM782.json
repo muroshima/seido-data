@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援センター管理グループ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+1+UM782"
+  },
+  "belongings": null,
+  "capacity": "施設により利用定員があります。利用を希望される場合は、まず電話でご相談ください。",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援センター管理グループ",
+    "contactPhone": "03-6858-7822",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "保護者が疾病等により、一時的に児童を養育することが困難になった場合に、保護者に代わって施設や区内協力家庭で養育します。　　\n\n養育の内容\n宿泊型\n\n受け入れ先\n\n|受け入れ先|対象年齢|施設概要|\n|:----|:----|:----|\n|聖オディリアホーム乳児院|生後43日～2歳未満|聖オディリアホーム乳児院（新しいウィンドウで開きます）;https://odilia.jp/odilia_home/kosodate|\n|社会福祉法人子供の家|2歳～高校3年生|社会福祉法人子供の家（新しいウィンドウで開きます）;http://www.kiyose-kodomonoie.com/region/|\n|社会福祉法人星美ホーム|2歳～高校3年生|社会福祉法人星美ホーム（新しいウィンドウで開きます）;https://www.seibi-home.jp/|\n|協力家庭1|2歳～高校3年生||\n|協力家庭2|2歳～高校3年生||\n|協力家庭3|2歳～高校3年生||\n\n上記「高校3年生」とは、18歳に達した日以後、最初の3月31日までに該当する児童を含みます。\n\n利用日数\n1回の利用につき6泊まで、4月からの1年間に12泊までとなります。\n\n利用料\n子どもショートステイ事業利用料金表\n\n|受け入れ先|利用料|例|\n|:----|:----|:----|\n|乳児院|1泊2日5,000円（2泊目以降は1日2,500円）|2泊3日の場合、7,500円|\n|その他施設・協力家庭|1泊2日6,000円（2泊目以降は1日3,000円）|2泊3日の場合、9,000円|\n\n減額免除制度あり\n非課税世帯：半額免除\n生活保護受給世帯：全額免除\n利用要件1のうち、入院することで保護者が不在となる場合：全額免除（保護者のうち一人が入院、もう一人が仕事のためにお子さんの養育ができないような場合は、免除の対象となりません）\n\nご案内リーフレット\n子どもショートステイについて【令和6年度】（PDF：507KB）\n\n協力家庭の募集\nご自宅でお子さんをお預かりできる「豊島区子どもショートステイ協力家庭」を募集しています。\n詳細は「子どもショートステイ協力家庭の募集について」をご参照ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "聖オディリアホーム乳児院;https://odilia.jp/odilia_home/kosodate\n社会福祉法人子供の家;https://www.kiyose-kodomonoie.com/\n社会福祉法人星美ホーム;https://www.seibi-home.jp/\n協力家庭1\n協力家庭2\n協力家庭3"
+  },
+  "institutionName": {
+    "canonicalName": "ショートステイ（宿泊保育）",
+    "shortName": "子どもショートステイ事業"
+  },
+  "localGovernmentLink": {
+    "title": "子どもショートステイ事業",
+    "uri": "https://www.city.toshima.lg.jp/528/kosodate/kosodate/shiencenter/001996.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": "受付時間：月曜日～金曜日、午前8時30分～午後5時00分\n\n東部子ども家庭支援センター：03-5980-5275\n西部子ども家庭支援センター：03-5966-3131\n（本庁舎）子育て支援課庶務・事業グループ：03-4566-2478",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "利用を希望される場合は、まず電話でご相談ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": "08:30",
+    "fromYMD": null,
+    "toHM": "17:00",
+    "toYMD": null
+  },
+  "procedurePersons": "保護者が以下のいずれかに該当し、児童を養育する者がいない場合　　\n1.保護者が、疾病・出産またはけが等により入院や加療、療養を要する場合　　\n2.保護者が、同居の親族等の疾病等により看護または介護に従事する場合　　\n3.保護者が、事故または災害にあった場合　　\n4.保護者の育児疲れ、看病疲れ、育児不安など身体上または精神上の事由による場合　　\n5.冠婚葬祭、出張、学校等の公的行事参加など社会的な事由による場合\n・児童の健康状態等によっては、お預かりできない場合があります。",
+  "regulation": {
+    "regulationArticle": "第6条の3第3項、第21条の9",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "「子どもショートステイ協力家庭の募集について」",
+      "uri": "https://www.city.toshima.lg.jp/528/kosodate/kosodate/shiencenter/2010051516.html"
+    },
+    {
+      "title": "子どもショートステイについて【令和6年度】（PDF：507KB）",
+      "uri": "https://www.city.toshima.lg.jp/528/kosodate/kosodate/shiencenter/documents/r6_shortstay.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者が入院や通院、出張などの理由で、一時的に家庭でお子さんをみられなくなったときに、児童養護施設、乳児院、母子生活支援施設等で、宿泊を伴ってお子さんをお預かりします。",
+  "support": {
+    "description": "減額免除制度あり\n非課税世帯：半額免除\n生活保護受給世帯：全額免除\n利用要件1のうち、入院することで保護者が不在となる場合：全額免除（保護者のうち一人が入院、もう一人が仕事のためにお子さんの養育ができないような場合は、免除の対象となりません）",
+    "materiallySupport": null,
+    "monetarySupport": "減額免除制度あり\n非課税世帯：半額免除\n生活保護受給世帯：全額免除\n利用要件1のうち、入院することで保護者が不在となる場合：全額免除（保護者のうち一人が入院、もう一人が仕事のためにお子さんの養育ができないような場合は、免除の対象となりません）"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内に住所のある、生後43日から18歳に達した日以後最初の3月31日までの児童。\nなお、受け入れ先によって対象年齢が異なります。"
+  },
+  "updateDate": "2024-04-17",
+  "useConsiderationFlag": false,
+  "utilization": "利用を希望される場合は、まず電話でご相談ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "132047;三鷹市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "市民部保険課国保給付係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132047",
+    "psid": "psid3.0+8000020132047+1+UM20"
+  },
+  "belongings": "・出産育児一時金直接支払制度を利用していない旨の記載のある医療機関等の発行する指定文書\n・母子手帳\n・上記、対象者の2に該当するかたは、診療費用の内訳が記載された請求書または領収書\n・世帯主の金融機関口座がわかるもの\n・被保険者資格が確認できるもの（マイナポータルの健康保険証の画面提示、資格確認書、資格情報のお知らせなど）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三鷹市野崎一丁目1番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "市民部 保険課 国保給付係",
+    "contactPhone": "0422-29-9215",
+    "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/hoken/index.html",
+    "zipCode": "1818555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子育て支援のための制度の内容\n　子育て支援のため、出産資金貸付があります。\n　国民健康保険加入世帯は、出産に必要な費用の一部を出産前に無利子で借りることができます。\n　希望されるかたは、以下に記載した内容を確認していただき必要なものを持参のうえ窓口にお越しください。\n\n支給要件\n　下記の対象者がいる場合、国民健康保険の世帯の世帯主に貸付をします。\n\n対象者\n　出産育児一時金直接支払制度をご利用にならず、次のいずれかの要件を満たす国民健康保険の被保険者。\n\n1.出産予定日が1カ月以内のかた\n2.妊娠4カ月以降のかたで、医療機関等から診療費用の請求を受けたかた。または請求された費用を支払われたかた。\n貸付金の額\n　上限40万円の範囲で必要な金額。\n\n返済方法\n　借り受けた金額は、出産後に支給される出産育児一時金（50万円）の一部を充当することにより返済していただきます。\n\n申請手続きについて\n　下記をお持ちのうえ、市役所1階9番保険課の窓口にお越しください。\n\n・出産育児一時金直接支払制度を利用していない旨の記載のある医療機関等の発行する指定文書\n・母子手帳\n・上記、対象者の2に該当するかたは、診療費用の内訳が記載された請求書または領収書\n・世帯主の金融機関口座がわかるもの\n・被保険者資格が確認できるもの（マイナポータルの健康保険証の画面提示、資格確認書、資格情報のお知らせなど）\n関連リンク\n出産育児一時金について;https://www.city.mitaka.lg.jp/c_service/016/016039.html\n出産育児一時金が50万円に変わります;https://www.city.mitaka.lg.jp/c_service/102/102049.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出産費貸付制度",
+    "shortName": "出産資金貸付制度"
+  },
+  "localGovernmentLink": {
+    "title": "出産資金貸付制度をご利用ください",
+    "uri": "https://www.city.mitaka.lg.jp/c_service/000/000435.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "三鷹市"
+  },
+  "procedureCounter": "市役所1階9番保険課の窓口",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "下記をお持ちのうえ、市役所1階9番保険課の窓口にお越しください。\n\n・出産育児一時金直接支払制度を利用していない旨の記載のある医療機関等の発行する指定文書\n・母子手帳\n・上記、対象者の2に該当するかたは、診療費用の内訳が記載された請求書または領収書\n・世帯主の金融機関口座がわかるもの\n・被保険者資格が確認できるもの（マイナポータルの健康保険証の画面提示、資格確認書、資格情報のお知らせなど）",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "出産育児一時金直接支払制度をご利用にならず、次のいずれかの要件を満たす国民健康保険の被保険者。\n\n1.出産予定日が1カ月以内のかた\n2.妊娠4カ月以降のかたで、医療機関等から診療費用の請求を受けたかた。または請求された費用を支払われたかた。",
+  "regulation": {
+    "regulationArticle": "第７条(第３章　出産資金）",
+    "regulationName": "三鷹市国民健康保険高額療養資金及び出産資金貸付基金条例"
+  },
+  "relatedLink": [
+    {
+      "title": "出産育児一時金が50万円に変わります",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/102/102049.html"
+    },
+    {
+      "title": "出産育児一時金について",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/016/016039.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "出産予定日前に出産費用の支払いが必要な方を対象に、出産育児一時金8割に相当する額を限度として出産費用の貸し付けを無利子で行います。",
+  "support": {
+    "description": "上限40万円の範囲で必要な金額。\n\n返済方法\n　借り受けた金額は、出産後に支給される出産育児一時金（50万円）の一部を充当することにより返済していただきます。",
+    "materiallySupport": null,
+    "monetarySupport": "上限40万円の範囲で必要な金額。\n\n返済方法\n　借り受けた金額は、出産後に支給される出産育児一時金（50万円）の一部を充当することにより返済していただきます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "出産育児一時金直接支払制度をご利用にならず、次のいずれかの要件を満たす国民健康保険の被保険者。\n\n1.出産予定日が1カ月以内のかた\n2.妊娠4カ月以降のかたで、医療機関等から診療費用の請求を受けたかた。または請求された費用を支払われたかた。"
+  },
+  "updateDate": "2024/12/02",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

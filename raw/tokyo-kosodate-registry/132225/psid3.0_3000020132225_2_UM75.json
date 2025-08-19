@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132225;東久留米市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子育て支援課　施設給付係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132225",
+    "psid": "psid3.0+3000020132225+2+UM75"
+  },
+  "belongings": null,
+  "capacity": "佐々木家庭保育室\n・0歳～2歳児定員：5人\n家庭保育室ピコロ\n・0歳～2歳児定員：5人\n西島家庭的保育室\n・0歳～2歳児定員：5人\n木村家庭的保育室\n・0歳～2歳児定員：5人\n小田家庭保育室\n・0歳～2歳児定員：3人\nあだち家庭保育室\n・0歳～2歳児定員：5人",
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都東久留米市本町3-3-1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子育て支援課　施設給付係",
+    "contactPhone": "042-470-7745",
+    "contactUrl": "https://www.city.higashikurume.lg.jp/kurashi/kosodate/hoiku/1004950.html",
+    "zipCode": "2038555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "市内には認可保育園のほかに、次のような家庭的保育施設があります。 こちらの施設は、東京都と東久留米市の設置基準を満たし、安全面や衛生面に十分な配慮を払って運営されています。ぜひ、ご利用ください。\n\n家庭的保育施設\n家庭的保育施設とは、保育士・教師・看護師等の有資格者で保育経験の豊富な方々による認可施設です。また、自宅の一部を開放して家庭的な雰囲気の中で、子どもたち一人ひとりを大切に保育しています。0歳～2歳児のお子さんをお預りします。\n\n佐々木家庭保育室\n・0歳～2歳児定員：5人\n・住所：東久留米市浅間町3-3-13（電話：080-3127-5932）\n家庭保育室ピコロ\n・0歳～2歳児定員：5人\n・住所：東久留米市中央町3-22-55（電話：090-4371-4950）\n西島家庭的保育室\n・0歳～2歳児定員：5人\n・住所：東久留米市学園町1-14-31（電話：090-8808-0624）\n木村家庭的保育室\n・0歳～2歳児定員：5人\n・住所：東久留米市南町4-3-22（電話：070-6550-4316）\n小田家庭保育室\n・0歳～2歳児定員：3人\n・住所：東久留米市柳窪4-10-14（電話：080-4115-6825）\nあだち家庭保育室\n・0歳～2歳児定員：5人\n・住所：東久留米市柳窪2-11-26（電話：090-8058-4118）\n申し込みは、認可保育園と同じく子育て支援課（市役所2階）で受け付けています。\n\n入所手続きなどの詳細;https://www.city.higashikurume.lg.jp/kurashi/kosodate/hoiku/1000470.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "東久留米市浅間町3-3-13（電話：080-3127-5932）,東久留米市中央町3-22-55（電話：090-4371-4950）,東久留米市学園町1-14-31（電話：090-8808-0624）,東久留米市南町4-3-22（電話：070-6550-4316）,東久留米市柳窪4-10-14（電話：080-4115-6825）,東久留米市柳窪2-11-26（電話：090-8058-4118）",
+    "implementationName": "佐々木家庭保育室,家庭保育室ピコロ,西島家庭的保育室,木村家庭的保育室,小田家庭保育室,あだち家庭保育室"
+  },
+  "institutionName": {
+    "canonicalName": "地域型保育（小規模保育・家庭的保育（保育ママ）・事業所内保育・居宅訪問型保育）の利用について",
+    "shortName": "家庭的保育施設"
+  },
+  "localGovernmentLink": {
+    "title": "家庭的保育施設",
+    "uri": "https://www.city.higashikurume.lg.jp/kurashi/kosodate/hoiku/1004950.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "東久留米市"
+  },
+  "procedureCounter": "子育て支援課（市役所2階）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申し込みは、認可保育園と同じく子育て支援課（市役所2階）で受け付けています。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第20条、第29条、第30条",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "入所手続きなどの詳細",
+      "uri": "https://www.city.higashikurume.lg.jp/kurashi/kosodate/hoiku/1000470.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "「地域型保育」事業は、平成27年度施行の「子ども・子育て支援新制度」による、市区町村の認可事業です。保育の必要な3歳未満の子どもを対象とした「小規模保育」「家庭的保育（保育ママ）」「事業所内保育」「居宅訪問型保育」の4種類があり、市区町村ごとに地域の保育ニーズに合わせたサービスを実施することになっています。東久留米市には現在、下記の保育サービスがあり、利用には保育の必要性の認定を受ける必要があります。",
+  "support": {
+    "description": "自宅の一部を開放して家庭的な雰囲気の中で、子どもたち一人ひとりを大切に保育しています。",
+    "materiallySupport": "自宅の一部を開放して家庭的な雰囲気の中で、子どもたち一人ひとりを大切に保育しています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0歳～2歳児のお子さん",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "0歳～2歳児のお子さん"
+  },
+  "updateDate": "2023-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131059;文京区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部幼児保育課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131059",
+    "psid": "psid3.0+6000020131059+1+UM74"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都文京区春日1丁目16番21号\n文京シビックセンター12階南側",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部幼児保育課",
+    "contactPhone": "03-5803-1189",
+    "contactUrl": "https://logoform.jp/form/6KSu/553771",
+    "zipCode": "1128555"
+  },
+  "cost": null,
+  "costConditions": "【幼稚園部分】\n基本保育料：0円\n預かり保育\n　月額：8900円\n　日額：450円\n※保育が必要な方は、預かり保育無償化の手続きが可能です。\n【保育所部分】\n児童のクラス年齢と世帯の住民税額（区民税所得割額）に応じて、決定します。",
+  "description": "認定こども園とは\n認定こども園では子どもの多様な育成環境を整えるため、幼稚園・保育園それぞれの良さを生かし、子どもの視点に立った施設運営を行います。\n区立幼稚園と同様の抽選により入園が決定する幼稚園部分（1号認定こども）と、認可保育所と同様の選考で入園が決定する保育所部分（2号認定こども）に分かれます。\n\t\n幼稚園部分\n教育課程に加え、預かり保育を実施します。給食の提供があります。\n\n保育所部分\n従来の保育時間の中で、認定こども園の強みを生かした質の高い教育・保育を実施します",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "変更届",
+      "uri": "https://logoform.jp/form/6KSu/612391"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "認定こども園の利用について",
+    "shortName": "認定こども園"
+  },
+  "localGovernmentLink": {
+    "title": "認定こども園について",
+    "uri": "https://www.city.bunkyo.lg.jp/b023/p001632.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-25",
+    "updater": "文京区"
+  },
+  "procedureCounter": "幼児保育課入園相談係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "必要書類を幼児保育課入園相談係へ提出（郵送可）又は電子申請にてお申込みください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第7条、第30条の11",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "認定こども園とは、0歳から就学前の子どもへ保育サービスを提供する「保育園機能」、3歳から就学前の子どもに幼児教育を提供する「幼稚園機能」、すべての子育て家庭を対象に、子育ての不安に対応した相談活動や親子が交流する場の提供などの「子育て支援機能」を併せ持つ施設です。\n「幼保連携型」「幼稚園型」「保育所型」「地方裁量型」の4タイプがあり、利用には、教育・保育の必要に応じた利用認定を受ける必要があります。",
+  "support": {
+    "description": "認定こども園は子どもの多様な育成環境を整えるため、幼稚園・保育園それぞれの良さを生かし、子どもの視点に立った施設運営を行います。",
+    "materiallySupport": "認定こども園は子どもの多様な育成環境を整えるため、幼稚園・保育園それぞれの良さを生かし、子どもの視点に立った施設運営を行います。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0歳児クラスから5歳児クラスまで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 5,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "【幼稚園部分】\n区内在住の3歳児～就学前の子ども\n【保育所部分】\n保育が必要と認められる0歳～小学校未就学の児童"
+  },
+  "updateDate": "2024-03-27",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

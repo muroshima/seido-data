@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "133086;奥多摩町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉保健課 福祉係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020133086",
+    "psid": "psid3.0+8000020133086+1+UM63"
+  },
+  "belongings": "・身体障害者手帳又は愛の手帳の写し\n・障害年金証書の写し",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "奥多摩町氷川1111",
+    "contactComment": "FAX：0428-83-2833",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉保健課 福祉係",
+    "contactPhone": "0428-83-2777",
+    "contactUrl": "https://www.town.okutama.tokyo.jp/cgi-bin/inquiry.php/15?page_no=1535",
+    "zipCode": "1980212"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "障害児福祉手当\n対象者\n20歳未満で身体又は精神に重度の障がいがあるため、日常生活において常時特別の介護を必要とする状態（おおむね身体障害者手帳1・2級程度、愛の手帳1・2度程度、もしくはそれと同様の疾病・精神障害）にある、在宅の方\nただし、施設に入所中あるいは3ヶ月を超えて入院中の方、当該障がいを支給理由とする公的年金を受給されている方は対象外です。\n申請には診断書の作成が必要です。\nまた、所得制限があります。\n支給額\n月額15,220円\n申請先\n保健福祉センター障がい者福祉担当\n必要なもの\n・身体障害者手帳又は愛の手帳の写し\n・申請書\n・診断書（所定の様式のもの）\n・所得状況届\n・支払金口座振替依頼書\n・障害年金証書の写し",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "障害児福祉手当",
+    "shortName": "障害児福祉手当"
+  },
+  "localGovernmentLink": {
+    "title": "障害児福祉手当",
+    "uri": "https://www.town.okutama.tokyo.jp/gyosei/4/shogaishafukushi/1535.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-12",
+    "updater": "奥多摩町"
+  },
+  "procedureCounter": "保健福祉センター障がい者福祉担当",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第3章",
+    "regulationName": "特別児童扶養手当等の支給に関する法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "身体または精神に重度の障がいのある20歳未満の方で、日常生活において常時介護を必要とする方に対し、手当が支給されます。",
+  "support": {
+    "description": "支給額\n月額15,220円",
+    "materiallySupport": null,
+    "monetarySupport": "月額15,220円"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "20歳未満の方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "20歳未満で身体又は精神に重度の障がいがあるため、日常生活において常時特別の介護を必要とする状態（おおむね身体障害者手帳1・2級程度、愛の手帳1・2度程度、もしくはそれと同様の疾病・精神障害）にある、在宅の方\nただし、施設に入所中あるいは3ヶ月を超えて入院中の方、当該障がいを支給理由とする公的年金を受給されている方は対象外です。\nまた、所得制限があります。"
+  },
+  "updateDate": "2023-10-16",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

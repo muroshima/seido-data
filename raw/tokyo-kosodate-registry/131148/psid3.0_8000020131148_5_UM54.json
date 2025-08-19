@@ -1,0 +1,164 @@
+{
+  "area": {
+    "areaCode": "131148;中野区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部保健予防課（中野区保健所）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131148",
+    "psid": "psid3.0+8000020131148+5+UM54"
+  },
+  "belongings": "接種当日は、予診票、母子健康手帳を、医療機関にお持ちください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康福祉部保健予防課（中野区保健所）",
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "費用は無料",
+  "description": "DPT-IPV（ジフテリア・百日せき・破傷風・ポリオの4種混合）第1期及びDT2期\n対象・接種回数等\n\nDPT-IPV第1期\n対象・接種回数等\n|対象年齢|生後2か月から7歳6か月未満|\n|接種回数|初回接種3回、追加接種1回の計4回|\n|接種間隔|初回は、20日以上（標準的には20～56日）の間隔をあけて3回<br>追加は初回接種終了後、6か月以上（標準は12か月以上18か月未満）の間隔をあけて1回|\n|予診票|生後2か月目に予診票綴り;https://www.city.tokyo-nakano.lg.jp/kenko_hukushi/kenshin_yobousessyu/yobosessyu/kodomo-yobosessyu/yoshinhyo.htmlとして郵送|\n・厚生労働省\n「予防接種法第5条第1項の規定による予防接種の実施について」の一部改正について（外部サイト）;https://www.mhlw.go.jp/content/001089225.pdf\n定期接種実施要領（外部サイト）;https://www.mhlw.go.jp/content/001092482.pdf\n\nDT2期\n対象・接種回数等\n|対象年齢|11歳から13歳未満（標準的には11～12歳未満）|\n|接種回数|1回|\n|予診票|11歳の誕生日の月末に郵送|\n\n接種方法\n・医療機関で実施する個別接種です。医療機関;https://www.city.tokyo-nakano.lg.jp/kenko_hukushi/kenshin_yobousessyu/yobosessyu/kodomo-yobosessyu/iryokikanichiran.htmlによって、接種の曜日・時間等が異なりますので、事前に医療機関にお問い合わせください。\n・接種当日は、予診票、母子健康手帳を、医療機関にお持ちください。\n・その他の注意は、予防接種を受けるときの注意にお進みください。\n\n参考リンク\n・日本ワクチン産業協会 よぼうせっしゅのはなし（日本語、English）（外部サイト）;http://www.wakutin.or.jp/popular/index.html\n・医薬品医療機器総合機構\n沈降精製百日せきジフテリア破傷風不活化ポリオ（セービン株）混合ワクチン（外部サイト）;https://www.pmda.go.jp/PmdaSearch/iyakuDetail/GeneralList/636140D\n沈降ジフテリア破傷風混合トキソイド（外部サイト）;https://www.pmda.go.jp/PmdaSearch/iyakuDetail/GeneralList/636140A\n・東京都感染症情報センター\nジフテリア（外部サイト）;https://idsc.tmiph.metro.tokyo.lg.jp/diseases/diphtheria/\n百日咳（外部サイト）;https://idsc.tmiph.metro.tokyo.lg.jp/diseases/pertussis/\n破傷風（外部サイト）;https://idsc.tmiph.metro.tokyo.lg.jp/diseases/tetanus/\nポリオ（外部サイト）;https://idsc.tmiph.metro.tokyo.lg.jp/diseases/poliomyelitis/\n\n関連情報\n・予防接種;https://www.city.tokyo-nakano.lg.jp/kenko_hukushi/kenshin_yobousessyu/yobosessyu/yobosessyu.html\n・東京都 予防接種制度について（外部サイト）;https://www.hokeniryo.metro.tokyo.lg.jp/kansen/yobousesshu.html\n・厚生労働省 予防接種情報（外部サイト）;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/yobou-sesshu/index.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "DPT-IPV（ジフテリア・百日せき・破傷風・ポリオの4種混合）第1期及びDT2期"
+  },
+  "localGovernmentLink": {
+    "title": "DPT-IPV（ジフテリア・百日せき・破傷風・ポリオの4種混合）第1期及びDT2期",
+    "uri": "https://www.city.tokyo-nakano.lg.jp/kenko_hukushi/kenshin_yobousessyu/yobosessyu/kodomo-yobosessyu/dpy-ipv.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "中野区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "接種方法\n・医療機関で実施する個別接種です。医療機関;https://www.city.tokyo-nakano.lg.jp/kenko_hukushi/kenshin_yobousessyu/yobosessyu/kodomo-yobosessyu/iryokikanichiran.htmlによって、接種の曜日・時間等が異なりますので、事前に医療機関にお問い合わせください。\n・接種当日は、予診票、母子健康手帳を、医療機関にお持ちください。\n・その他の注意は、予防接種を受けるときの注意;https://www.city.tokyo-nakano.lg.jp/kenko_hukushi/kenshin_yobousessyu/yobosessyu/kodomo-yobosessyu/cyui.htmlにお進みください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）",
+    "regulationName": "予防接種法"
+  },
+  "relatedLink": [
+    {
+      "title": "医薬品医療機器総合機構　沈降精製百日せきジフテリア破傷風不活化ポリオ（セービン株）混合ワクチン（外部サイト）",
+      "uri": "https://www.pmda.go.jp/PmdaSearch/iyakuDetail/GeneralList/636140D"
+    },
+    {
+      "title": "東京都感染症情報センター　ポリオ（外部サイト）",
+      "uri": "https://idsc.tmiph.metro.tokyo.lg.jp/diseases/poliomyelitis/"
+    },
+    {
+      "title": "東京都感染症情報センター　破傷風（外部サイト）",
+      "uri": "https://idsc.tmiph.metro.tokyo.lg.jp/diseases/tetanus/"
+    },
+    {
+      "title": "予防接種",
+      "uri": "https://www.city.tokyo-nakano.lg.jp/kenko_hukushi/kenshin_yobousessyu/yobosessyu/yobosessyu.html"
+    },
+    {
+      "title": "東京都感染症情報センター　百日咳（外部サイト）",
+      "uri": "https://idsc.tmiph.metro.tokyo.lg.jp/diseases/pertussis/"
+    },
+    {
+      "title": "医薬品医療機器総合機構　沈降ジフテリア破傷風混合トキソイド（外部サイト）",
+      "uri": "https://www.pmda.go.jp/PmdaSearch/iyakuDetail/GeneralList/636140A"
+    },
+    {
+      "title": "東京都感染症情報センター　ジフテリア（外部サイト）",
+      "uri": "https://idsc.tmiph.metro.tokyo.lg.jp/diseases/diphtheria/"
+    },
+    {
+      "title": "東京都 予防接種制度について（外部サイト）",
+      "uri": "https://www.hokeniryo.metro.tokyo.lg.jp/kansen/yobousesshu.html"
+    },
+    {
+      "title": "厚生労働省 予防接種情報（外部サイト）",
+      "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/yobou-sesshu/index.html"
+    },
+    {
+      "title": "日本ワクチン産業協会 よぼうせっしゅのはなし（日本語、English）（外部サイト）",
+      "uri": "http://www.wakutin.or.jp/popular/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+  "support": {
+    "description": "対象・接種回数等\n\nDPT-IPV第1期\n対象・接種回数等\n|対象年齢|生後2か月から7歳6か月未満|\n|接種回数|初回接種3回、追加接種1回の計4回|\n|接種間隔|初回は、20日以上（標準的には20～56日）の間隔をあけて3回<br>追加は初回接種終了後、6か月以上（標準は12か月以上18か月未満）の間隔をあけて1回|\n予診票|生後2か月目に予診票綴り;https://www.city.tokyo-nakano.lg.jp/kenko_hukushi/kenshin_yobousessyu/yobosessyu/kodomo-yobosessyu/yoshinhyo.htmlとして郵送|\n・厚生労働省\n「予防接種法第5条第1項の規定による予防接種の実施について」の一部改正について（外部サイト）;https://www.mhlw.go.jp/content/001089225.pdf\n定期接種実施要領（外部サイト）;https://www.mhlw.go.jp/content/001092482.pdf\n\nDT2期\n対象・接種回数等\n|対象年齢|11歳から13歳未満（標準的には11～12歳未満）|\n|接種回数|1回|\n|予診票|11歳の誕生日の月末に郵送|",
+    "materiallySupport": "対象・接種回数等\n\nDPT-IPV第1期\n対象・接種回数等\n|対象年齢|生後2か月から7歳6か月未満|\n|接種回数|初回接種3回、追加接種1回の計4回|\n|接種間隔|初回は、20日以上（標準的には20～56日）の間隔をあけて3回<br>追加は初回接種終了後、6か月以上（標準は12か月以上18か月未満）の間隔をあけて1回|\n予診票|生後2か月目に予診票綴り;https://www.city.tokyo-nakano.lg.jp/kenko_hukushi/kenshin_yobousessyu/yobosessyu/kodomo-yobosessyu/yoshinhyo.htmlとして郵送|\n・厚生労働省\n「予防接種法第5条第1項の規定による予防接種の実施について」の一部改正について（外部サイト）;https://www.mhlw.go.jp/content/001089225.pdf\n定期接種実施要領（外部サイト）;https://www.mhlw.go.jp/content/001092482.pdf\n\nDT2期\n対象・接種回数等\n|対象年齢|11歳から13歳未満（標準的には11～12歳未満）|\n|接種回数|1回|\n|予診票|11歳の誕生日の月末に郵送|",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "DPT-IPV第1期\n対象年齢　生後2か月から7歳6か月未満\n\nDT2期\n対象年齢　11歳から13歳未満（標準的には11～12歳未満）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "DPT-IPV第1期\n対象年齢　生後2か月から7歳6か月未満\n\nDT2期\n対象年齢 11歳から13歳未満（標準的には11～12歳未満）"
+  },
+  "updateDate": "2023-08-03",
+  "useConsiderationFlag": false,
+  "utilization": "DPT-IPV第1期\n予診票 生後2か月目に予診票綴り;https://www.city.tokyo-nakano.lg.jp/kenko_hukushi/kenshin_yobousessyu/yobosessyu/kodomo-yobosessyu/yoshinhyo.htmlとして郵送\n\nDT2期\n予診票 11歳の誕生日の月末に郵送",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

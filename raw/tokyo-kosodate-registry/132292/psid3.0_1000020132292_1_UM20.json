@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132292;西東京市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保険年金課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132292",
+    "psid": "psid3.0+1000020132292+1+UM20"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "西東京市南町五丁目6番13号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保険年金課",
+    "contactPhone": "042-460-9821",
+    "contactUrl": null,
+    "zipCode": "1888666"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "出産費資金貸付制度\n\n西東京市国民健康保険の被保険者の方が出産したときは、申請をすると「出産育児一時金」48万8千円または50万円が支給されます。\n「出産費資金貸付制度」とは、出産後にこの一時金の支給が見込まれる方で、出産予定日前に出産に要する費用が必要となったときに、一時金の支給額の8割以内（39万4百円または40万円以内）の資金を貸し付けする制度です。詳しくは田無庁舎2階保険年金課へお問い合わせください。\n\n対象\n（1）一時金の支給が見込まれる出産予定日まで1か月以内の方。\n（2）一時金の支給が見込まれる妊娠4か月以上の方で、その出産に要する費用の請求を医療機関等から受け、または支払った方。\n\n償還方法\n出産後に支給される一時金の中から精算します。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出産費貸付制度",
+    "shortName": "出産費資金貸付制度"
+  },
+  "localGovernmentLink": {
+    "title": "出産費資金貸付制度",
+    "uri": "https://www.city.nishitokyo.lg.jp/kurasi/kokuho/kyufu/syussannkasituke.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-11",
+    "updater": "西東京市"
+  },
+  "procedureCounter": "田無庁舎2階保険年金課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "詳しくは田無庁舎2階保険年金課へお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "国民健康保険出産費資金貸付基金条例"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "出産予定日前に出産費用の支払いが必要な方を対象に、出産育児一時金8割に相当する額を限度として出産費用の貸し付けを無利子で行います。",
+  "support": {
+    "description": "西東京市国民健康保険の被保険者の方が出産したときは、申請をすると「出産育児一時金」48万8千円または50万円が支給されます。\n「出産費資金貸付制度」とは、出産後にこの一時金の支給が見込まれる方で、出産予定日前に出産に要する費用が必要となったときに、一時金の支給額の8割以内（39万4百円または40万円以内）の資金を貸し付けする制度です。\n\n償還方法\n出産後に支給される一時金の中から精算します。",
+    "materiallySupport": null,
+    "monetarySupport": "一時金の支給額の8割以内（39万4百円または40万円以内）の資金を貸し付け"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "（1）一時金の支給が見込まれる出産予定日まで1か月以内の方。\n（2）一時金の支給が見込まれる妊娠4か月以上の方で、その出産に要する費用の請求を医療機関等から受け、または支払った方。"
+  },
+  "updateDate": "2023-04-19",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

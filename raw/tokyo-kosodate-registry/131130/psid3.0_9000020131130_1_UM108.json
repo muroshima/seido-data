@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131130;渋谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども青少年課子ども青少年育成係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020131130",
+    "psid": "psid3.0+9000020131130+1+UM108"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "FAX03-5458-4942",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども青少年課子ども青少年育成係",
+    "contactPhone": "03-3463-2578",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "無料",
+  "description": "児童および青少年の遊びや運動・文化芸術活動のための児童館です。防音設備のあるスタジオは、音楽やダンスなどの活動に利用できます。また、各種講座やイベントを開催しています。\n\n【施設内容】\n　・3階　ローラースケート場\n　・1階　自習室兼図書室、工作室、相談室\n　・地下1階　小中高サロン、音楽スタジオ\n　・地下2階　ダンススタジオ、アリーナ\n\n【利用時間】\n・団体利用の場合\n　　ダンススタジオ、音楽スタジオ：10時～20時まで\n（注）小学生を含む団体で午後6時以降利用する場合は保護者及び成人の同伴が必要です。\n・個人利用の場合\n　　アリーナ、小中高サロン、工作室、自習室兼図書室、クライミングウォール、相談室\n　　　小学生以下：10時～18時まで\n　　　中学生以上：10時～20時まで\n　　ローラースケート場：10時～18時まで\n（注）11月から翌年2月までは10時～17時まで、利用対象者は小学校1年生以上の児童及び青少年。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "月曜日（祝・休日にあたる場合は直後の平日）、第3日曜日、年末年始（12月29日〜1月3日）",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "渋谷区本町 6-6-2",
+    "implementationName": "児童青少年センターフレンズ本町"
+  },
+  "institutionName": {
+    "canonicalName": "児童館",
+    "shortName": "児童青少年センターフレンズ本町"
+  },
+  "localGovernmentLink": {
+    "title": "児童青少年センターフレンズ本町",
+    "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/kosodate/seinen/friends_honmachi.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-20",
+    "updater": "渋谷区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "予約方法や内容などは、フレンズ本町サイト（外部サイト）をご覧になるか、フレンズ本町（電話：03-3377-5160）へお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第2項、第7条の第4項、第40条",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "児童青少年センターフレンズ本町（外部サイト）",
+      "uri": "https://friends-shibuya.com/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童館は、お子さんに健全な遊びを提供し、健康増進を図るとともに、豊かな情操を育むことを目的としています。\n渋谷区の児童館には、お子さんが安心して遊べるスペースがあり、また各種イベントなども行っています。\n（イベントの詳細については、施設サイトや区報などでお知らせしています。）",
+  "support": {
+    "description": "児童および青少年の遊びや運動・文化芸術活動のための児童館です。防音設備のあるスタジオは、音楽やダンスなどの活動に利用できます。また、各種講座やイベントを開催しています。",
+    "materiallySupport": "【施設内容】\n　・3階　ローラースケート場\n　・1階　自習室兼図書室、工作室、相談室\n　・地下1階　小中高サロン、音楽スタジオ\n　・地下2階　ダンススタジオ、アリーナ",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0歳児～25歳",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 0
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "原則、渋谷区在住または在学の18歳以下で高校生までの人及びその保護者\n（注）当日の状況により渋谷区在住またが在学でない人、また概ね25歳以下の人もご利用いただけます。 \n（注）保護者のみの使用はできません"
+  },
+  "updateDate": "2023-03-17",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "小学生のみの利用は18時まで",
+    "fromHM": "10:00",
+    "toHM": "20:00"
+  }
+}

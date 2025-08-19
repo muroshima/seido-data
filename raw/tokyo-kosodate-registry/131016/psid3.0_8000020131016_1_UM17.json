@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "千代田保健所保健サービス課保健サービス係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+1+UM17"
+  },
+  "belongings": "1.不妊検査等助成申請書\n\n2.請求書\n\n3.東京都の不妊検査等助成承認決定通知書の写し\n\n4.東京都の不妊検査等助成事業受診等証明書の写し（東京都へ提出する前にコピーをとってください）\n4の医療機関・薬局証明欄に千代田区で助成を受けようとする自己負担額のすべてが記載されていない場合においては、別途、下記千代田区不妊検査等助成事業受診等証明書が必要です。4で証明した分も含めて証明書に記載してもらってください。\n\n5.千代田区不妊検査等助成事業受診等証明書\n\n6．前各号に掲げるもののほか区長が必要と認める書類",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区九段北1-2-14",
+    "contactComment": null,
+    "contactEmail": "hoken-service@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "千代田保健所保健サービス課保健サービス係",
+    "contactPhone": "03-6380-8552",
+    "contactUrl": null,
+    "zipCode": "1020073"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "不妊検査および一般不妊治療に要する費用の一部を助成します。\n不妊検査等助成チラシ（PDF：560KB）\n\n東京都の不妊検査等助成事業の問い合わせ先は、東京都福祉局子供・子育て支援部家庭支援課（外部サイトへリンク）です。\n\n助成対象期間\n\n不妊検査等開始日から1年間です。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の不妊・不育症に関する助成",
+    "shortName": "不妊検査等助成事業"
+  },
+  "localGovernmentLink": {
+    "title": "不妊検査等助成事業",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/teate/funinjose.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": "千代田保健所保健サービス課保健サービス係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請書類のご提出は、下記お問い合わせ先へのご郵送（当日消印有効）もしくは、千代田保健所保健サービス課保健サービス係窓口で受け付けています（各出張所、本庁舎総合窓口では受け付けていません）。\n\n申請期間\n\n東京都の助成決定日から1年間です。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "不妊検査等助成チラシ（PDF：560KB）",
+      "uri": "https://www.city.chiyoda.lg.jp/documents/16642/funinjose_3.pdf"
+    },
+    {
+      "title": "東京都福祉局子供・子育て支援部家庭支援課（外部サイトへリンク）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/funinkensa/gaiyou.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "不妊検査および一般不妊治療に要する費用の一部を助成します。",
+  "support": {
+    "description": "不妊検査等に要した医療費の自己負担額（食事療養標準負担額、個室使用料および文書料を除く）から東京都の不妊検査等助成事業により助成された額を差し引いた額について、2万5千円を上限に助成します。",
+    "materiallySupport": null,
+    "monetarySupport": "不妊検査等に要した医療費の自己負担額（食事療養標準負担額、個室使用料および文書料を除く）から東京都の不妊検査等助成事業により助成された額を差し引いた額について、2万5千円を上限に助成"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "000"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "東京都の不妊検査等助成事業の承認を受けている夫婦（婚姻の届出をしていないが、事実上婚姻関係と同様の状態にある方を含む）で、不妊検査開始日から申請時までの間、夫婦いずれかが千代田区に継続して住所を有している方。"
+  },
+  "updateDate": "2024-05-08",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131105;目黒区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保育計画課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131105",
+    "psid": "psid3.0+1000020131105+1+UM805"
+  },
+  "belongings": null,
+  "capacity": " ||0歳児|1歳児|2歳児|3歳児|4歳児|5歳児|計|\n|:----|:----|:----|:----|:----|:----|:----|:----|\n|従業員|4|3|5|11|11|11|45|\n|地域枠|4|5|6|―|―|―|15|\n|計|8|8\t|11|11|11|11|60|\n\n注意　目黒区における利用調整対象は、地域枠のみになります。また、地域枠での利用は、0歳児クラスから2歳児クラスまでに限られます。",
+  "class": 1,
+  "contact": {
+    "contactAddress": "目黒区上目黒二丁目19番15号",
+    "contactComment": "ファクス：03-5722-8715",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保育計画課",
+    "contactPhone": "03-5722-9866",
+    "contactUrl": null,
+    "zipCode": "1538573"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "施設\n事業所内保育所は2か所あります。\n\nJキッズピース三宿保育園\n優っくり保育園\nJキッズピース三宿保育園\n所在地\n目黒区東山二丁目26番\n\n設置者\n防衛省共済組合中央病院支部\n\n運営委託事業者\n社会福祉法人桑の実会\n\n電話番号\n03-6452-2680\n\nファックス\n03-6452-2681\n\n入所可能最小月齢\n生後57日目\n\n開所時間\n午前7時から午後6時まで\n\n延長保育\n午後6時から午後8時まで（詳細は施設へお問合せください。）\n\n定員\n||0歳児|1歳児|2歳児|3歳児|4歳児|5歳児|計|\n|:----|:----|:----|:----|:----|:----|:----|:----|\n|従業員|4|3|5|11|11|11|45|\n|地域枠|4|5|6|―|―|―|15|\n|計|8|8|11|11|11|11|60|\n注意　目黒区における利用調整対象は、地域枠のみになります。また、地域枠での利用は、0歳児クラスから2歳児クラスまでに限られます。\n\n優っくり保育園\n所在地\n目黒区中央町二丁目32番23号\n\n設置者・運営事業者\n社会福祉法人奉優会\n\n電話番号\n03-5734-1664\n\nファックス\n03-5734-1695\n\n入所可能最小月齢\n生後57日目\n\n開所時間\n午前7時15分から午後6時15分\n\n延長保育\n午後6時15分から午後7時15分\n\n定員\n ||0歳児|1歳児|2歳児|3歳児|4歳児|5歳児|計|\n|:----|:----|:----|:----|:----|:----|:----|:----|\n|従業員|1|1|1|―|―|―|3|\n|地域枠|2|3|3|―|―|―|8|\n|計|3|4|4|―|―|―|11|\n注意　目黒区における利用調整対象は、地域枠のみになります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "目黒区東山二丁目26番",
+    "implementationName": "Jキッズピース三宿保育園"
+  },
+  "institutionName": {
+    "canonicalName": "事業所内保育施設一覧",
+    "shortName": "事業所内保育所"
+  },
+  "localGovernmentLink": {
+    "title": "事業所内保育所",
+    "uri": "https://www.city.meguro.tokyo.jp/hoikukeikaku/kosodatekyouiku/hoikuennado/jigyousyonaihoiku.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "目黒区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第五章 事業所内保育事業",
+    "regulationName": "家庭的保育事業等の設備及び運営に関する基準"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "市区町村の認可事業として行われる事業所内保育は、企業や病院などが従業員に対して仕事と子育ての両立支援策として実施するもので、従業員や職員のお子さんのほか、地域の保育が必要なお子さんも受け入れて、一緒に保育を行います。\n事業所内保育入所定員が20人以上の「保育所型事業所内保育」施設と6人以上19人以下の「小規模型事業所内保育」施設があります。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "入所可能最小月齢\n生後57日目",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "開所時間\n午前7時から午後6時まで\n\n延長保育\n午後6時から午後8時まで（詳細は施設へお問合せください。）",
+    "fromHM": null,
+    "toHM": null
+  }
+}

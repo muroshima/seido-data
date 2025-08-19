@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課相談支援担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+5+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市小川町2-1333　市役所2階",
+    "contactComment": "FAX：042-346-9200",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て支援課相談支援担当",
+    "contactPhone": "042-346-9628",
+    "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+    "zipCode": "1878701"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ひとり親相談\nひとり親家庭（母子家庭、父子家庭、寡婦）の方の悩み事の相談や情報提供を行っています。\n\n小平市のひとり親相談\n母子・父子自立支援員が、ひとり親家庭（母子家庭、父子家庭、寡婦）の相談や必要な情報提供を行い、ひとり親家庭の方の自立を支援します。また、これからひとり親になる予定の方の相談も受け付けています。\n\nひとり親の手当、生活、住宅、子どもの養育、就労、離婚など生活全般の相談のほか、ひとり親家庭を対象とした資金貸付、ホームヘルプサービス、給付金など、各種制度の相談も行っています。\n\n小平市では、ひとり親家庭の方の各種支援制度やお役立ち情報を掲載した「ひとり親家庭応援ガイドブック」;https://www.city.kodaira.tokyo.jp/kurashi/061/061177.htmlを発行しています。\n\nひとり親家庭応援ガイドブック表紙の画像\nひとり親家庭応援ガイドブック表紙\n\n受付時間\n月曜～金曜日（祝日、年末年始を除く）　午前8時30分～午後4時\n\n相談方法\n電話、面談（要予約）\n042-341-1211（内線2442）\n\n受付場所\n子育て支援課 相談支援担当（市役所2階）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "祝日、年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "小平市小川町2-1333",
+    "implementationName": "子育て支援課 相談支援担当（市役所2階）"
+  },
+  "institutionName": {
+    "canonicalName": "小平市の子育てに関する相談",
+    "shortName": "ひとり親相談"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親相談",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/049/049815.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-11",
+    "updater": "小平市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "電話、面談（要予約）\n042-341-1211（内線2442）",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第8条（母子・父子自立支援員）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "「ひとり親家庭応援ガイドブック」",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/061/061177.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭などの悩みごと（生活・住宅・離婚・養育・就労等）について、情報提供・相談支援を行っています。",
+  "support": {
+    "description": "母子・父子自立支援員が、ひとり親家庭（母子家庭、父子家庭、寡婦）の相談や必要な情報提供を行い、ひとり親家庭の方の自立を支援します。また、これからひとり親になる予定の方の相談も受け付けています。\n\nひとり親の手当、生活、住宅、子どもの養育、就労、離婚など生活全般の相談のほか、ひとり親家庭を対象とした資金貸付、ホームヘルプサービス、給付金など、各種制度の相談も行っています。",
+    "materiallySupport": "母子・父子自立支援員が、ひとり親家庭（母子家庭、父子家庭、寡婦）の相談や必要な情報提供を行い、ひとり親家庭の方の自立を支援します。また、これからひとり親になる予定の方の相談も受け付けています。\n\nひとり親の手当、生活、住宅、子どもの養育、就労、離婚など生活全般の相談のほか、ひとり親家庭を対象とした資金貸付、ホームヘルプサービス、給付金など、各種制度の相談も行っています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "ひとり親相談\nひとり親家庭（母子家庭、父子家庭、寡婦）の方の悩み事の相談や情報提供を行っています。\n\n小平市のひとり親相談\n母子・父子自立支援員が、ひとり親家庭（母子家庭、父子家庭、寡婦）の相談や必要な情報提供を行い、ひとり親家庭の方の自立を支援します。また、これからひとり親になる予定の方の相談も受け付けています。\n\nひとり親の手当、生活、住宅、子どもの養育、就労、離婚など生活全般の相談のほか、ひとり親家庭を対象とした資金貸付、ホームヘルプサービス、給付金など、各種制度の相談も行っています。\n\n小平市では、ひとり親家庭の方の各種支援制度やお役立ち情報を掲載した「ひとり親家庭応援ガイドブック」;https://www.city.kodaira.tokyo.jp/kurashi/061/061177.htmlを発行しています。\n\nひとり親家庭応援ガイドブック表紙の画像\nひとり親家庭応援ガイドブック表紙\n\n受付時間\n月曜～金曜日（祝日、年末年始を除く）　午前8時30分～午後4時\n\n相談方法\n電話、面談（要予約）\n042-341-1211（内線2442）\n\n受付場所\n子育て支援課 相談支援担当（市役所2階）"
+  },
+  "updateDate": "2023-10-10",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜～金曜日（祝日、年末年始を除く）　午前8時30分～午後4時",
+    "fromHM": "08:30",
+    "toHM": "16:00"
+  }
+}

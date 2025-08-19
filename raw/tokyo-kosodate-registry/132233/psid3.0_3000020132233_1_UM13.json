@@ -1,0 +1,133 @@
+{
+  "area": {
+    "areaCode": "132233;武蔵村山市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子ども子育て支援課母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132233",
+    "psid": "psid3.0+3000020132233+1+UM13"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部子ども子育て支援課母子保健係",
+    "contactPhone": "042-564-5421",
+    "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/e_07c/1003730",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "こんにちは赤ちゃん訪問（乳児家庭全戸訪問事業）\n事業概要\n武蔵村山市では、保健師、助産師又は看護師が、赤ちゃんの生まれたすべてのご家庭に家庭訪問をさせていただく「こんにちは赤ちゃん訪問」を実施し、赤ちゃんの体重測定や育児の相談、育児支援サービスの紹介等をしています。\n家庭訪問は、母子健康手帳交付時にお渡ししている「赤ちゃん連絡票（出生通知表）」の返信等をもとに実施しています。\n赤ちゃんが生まれたら「赤ちゃん連絡票（出生通知表）」をなるべく早い時期に必ず提出してください。\n「赤ちゃん連絡票（出生通知票）」を紛失した方は、以下からダウンロードすることができます。\nまた、東京共同電子申請・届出サービスからも提出することができます。\n赤ちゃん連絡票（出生通知票） （PDF 167.5KB）;https://www.city.musashimurayama.lg.jp/_res/projects/default_project/_page_/001/003/730/renraku.pdf\n東京共同電子申請・届出サービス（外部リンク）;https://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?govCode=13223&procCode=11011787\n\n訪問時期\n対象となる乳児が、出生後4か月を迎えるまでの間に訪問します。\n具体的な訪問日程は、ご自宅を訪問する予定の訪問指導員（保健師、助産師又は看護師）から電話により調整させていただきます。また、訪問指導員は、訪問指導員証を携帯しています。\n\n子育て応援ギフトの支給\nこんにちは赤ちゃん訪問による面談（こんにちは赤ちゃん面談）をお受けいただいた方に、子育て応援ギフト（5万円相当）を支給します。\nご自宅を訪問する保健師、助産師又は看護師が、支給に必要な申請書の記入依頼と回収を行います。\n子育て応援ギフトは、申請内容の審査後、書留郵便で郵送します。郵送までに2か月程度の期間を要する場合がありますので、ご了承ください。\n\n関連情報\n出産子育て応援事業（伴走型相談支援と経済的支援の一体的実施）;https://www.city.musashimurayama.lg.jp/kosodate/todoke/1017327.html",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "東京共同電子申請・届出サービス（外部リンク）",
+      "uri": "https://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?govCode=13223&procCode=11011787"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "対象となる乳児が、出生後4か月を迎えるまでの間",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "自宅"
+  },
+  "institutionName": {
+    "canonicalName": "新生児訪問",
+    "shortName": "こんにちは赤ちゃん訪問（乳児家庭全戸訪問事業）"
+  },
+  "localGovernmentLink": {
+    "title": "こんにちは赤ちゃん訪問（乳児家庭全戸訪問事業）",
+    "uri": "https://www.city.musashimurayama.lg.jp/kosodate/todoke/1016360/1003730.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-01",
+    "updater": "武蔵村山市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "家庭訪問は、母子健康手帳交付時にお渡ししている「赤ちゃん連絡票（出生通知表）」の返信等をもとに実施しています。\n赤ちゃんが生まれたら「赤ちゃん連絡票（出生通知表）」をなるべく早い時期に必ず提出してください。\n「赤ちゃん連絡票（出生通知票）」を紛失した方は、以下からダウンロードすることができます。\nまた、東京共同電子申請・届出サービスからも提出することができます。\n赤ちゃん連絡票（出生通知票） （PDF 167.5KB）;https://www.city.musashimurayama.lg.jp/_res/projects/default_project/_page_/001/003/730/renraku.pdf\n東京共同電子申請・届出サービス（外部リンク）;https://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?govCode=13223&procCode=11011787",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第11条（新生児の訪問指導）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "出産子育て応援事業（伴走型相談支援と経済的支援の一体的実施）",
+      "uri": "https://www.city.musashimurayama.lg.jp/kosodate/todoke/1017327.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "新生児を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、健康や育児に関する相談などを行います。",
+  "support": {
+    "description": "赤ちゃんの体重測定や育児の相談、育児支援サービスの紹介等",
+    "materiallySupport": "赤ちゃんの体重測定や育児の相談、育児支援サービスの紹介等",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "赤ちゃんの生まれたすべてのご家庭"
+  },
+  "updateDate": "2023-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

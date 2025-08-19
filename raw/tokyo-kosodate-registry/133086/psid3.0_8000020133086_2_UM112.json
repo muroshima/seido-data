@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "133086;奥多摩町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉保健課 子育て推進係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020133086",
+    "psid": "psid3.0+8000020133086+2+UM112"
+  },
+  "belongings": null,
+  "capacity": "親子ペア 8組程度",
+  "class": 1,
+  "contact": {
+    "contactAddress": "奥多摩町小丹波108（こども家庭センター）​​​​​​",
+    "contactComment": "FAX：0428-85-1300",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉保健課 子育て推進係",
+    "contactPhone": "0428-85-2611",
+    "contactUrl": "https://www.town.okutama.tokyo.jp/cgi-bin/inquiry.php/16?page_no=828",
+    "zipCode": "1980105"
+  },
+  "cost": null,
+  "costConditions": "無料",
+  "description": "キッズ・リトミック\n♪親子でリトミックを楽しもう！！ \nリトミックは20世紀初頭にスイスの作曲家エミール・ジャック＝ダルクローズ博士によって創案された音楽教育法です。児童心理学、生理学の観点から幼児期の人格形成教育として知られています。講師の先生が毎回楽しいメニューを用意します。リズム遊びやからだを使った表現を通じて、親子で楽しみながら音楽に親しむ時間です♪みなさんの参加をお待ちしています。\n2024年度キッズ・リトミック＊＊＊参加者募集中 ！＊＊＊\n★開催日★ 6/18、 7/25、  9/3、  10/3   \n★時 間★ 15:00～15:45\n★場 所★ 文化会館 多目的ホール\n★対 象★ 町内在住で入会時に生後6か月以上の未就学児とその保護者\n★定 員★ 親子ペア 8組程度\n★参加費★ 無料  \n★講 師★ 小峰博美さん、梶川由佳さん\n★申し込み★ 5月31日金曜日までにお申し込みください。\n＊2回目以降からの参加も可能です。ご連絡ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "★開催日★ 6/18、 7/25、  9/3、  10/3   \n\n★時 間★ 15:00～15:45",
+    "fromHM": "15:00",
+    "fromYMD": null,
+    "toHM": "15:45",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "文化会館 多目的ホール"
+  },
+  "institutionName": {
+    "canonicalName": "子育て広場",
+    "shortName": "キッズ・リトミック"
+  },
+  "localGovernmentLink": {
+    "title": "キッズ・リトミック",
+    "uri": "https://www.town.okutama.tokyo.jp/1/fukushihokenka/kosodate_kyoiku/5/828.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-12",
+    "updater": "奥多摩町"
+  },
+  "procedureCounter": "こども家庭センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "★申し込み★ 5月31日金曜日までにお申し込みください。\n\n＊2回目以降からの参加も可能です。ご連絡ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第6項",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "奥多摩町内の子育てひろばは、小学校就学前のお子さんが安心して遊べるスペースがあり、子育て中の親子が気軽に集い、仲間づくりを通して子育てに関する相談や情報交換等を行う機会を提供しています。また、お子さんの年齢に応じた各種イベントなども行っています。\n（イベントの詳細については、奥多摩町サイトや市報などでお知らせしています。）",
+  "support": {
+    "description": "リトミックは20世紀初頭にスイスの作曲家エミール・ジャック＝ダルクローズ博士によって創案された音楽教育法です。児童心理学、生理学の観点から幼児期の人格形成教育として知られています。講師の先生が毎回楽しいメニューを用意します。リズム遊びやからだを使った表現を通じて、親子で楽しみながら音楽に親しむ時間です♪\n\n★講 師★ 小峰博美さん、梶川由佳さん",
+    "materiallySupport": "リトミックは20世紀初頭にスイスの作曲家エミール・ジャック＝ダルクローズ博士によって創案された音楽教育法です。児童心理学、生理学の観点から幼児期の人格形成教育として知られています。講師の先生が毎回楽しいメニューを用意します。リズム遊びやからだを使った表現を通じて、親子で楽しみながら音楽に親しむ時間です♪\n\n★講 師★ 小峰博美さん、梶川由佳さん",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "入会時に生後6か月以上の未就学児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 6
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "町内在住で入会時に生後6か月以上の未就学児とその保護者"
+  },
+  "updateDate": "2024-05-07",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

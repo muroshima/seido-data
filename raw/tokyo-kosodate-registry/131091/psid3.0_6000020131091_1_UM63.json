@@ -1,0 +1,133 @@
+{
+  "area": {
+    "areaCode": "131091;品川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "障害者支援課　障害給付事務係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131091",
+    "psid": "psid3.0+6000020131091+1+UM63"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "品川区広町2-1-36　品川区役所総合庁舎3階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "障害者支援課　障害給付事務係",
+    "contactPhone": "03-5742-7858",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "障害児福祉手当\n\n◇対象\n20歳未満の児童\n精神又は身体に著しく重度の障害を有するため、日常生活において常時の介護を必要とする状態にある在宅の方。\n\n次のいずれかに該当するときは支給されません。\n1. 施設に入所している児童\n2. 障害年金等を受給している児童\n3. 本人、扶養義務者等の所得が一定の額を超える方（所得限度額表(*1)参照）\n\n※(1)、(2)に該当する場合、手当を申請することができません。また、手当受給中の方は、受給資格が喪失し、支給は停止されます。\n※(3)に該当する場合、手当の支給は停止されます。\n\n◇手当額\n月額15,220円\n\n◇支払月\n2・5・8・11月\n\n◇その他の注意事項（特別障害者手当・障害児福祉手当・経過的福祉手当 共通）\n1. 特別障害者手当・障害児福祉手当・経過的福祉手当の受給者の方には、毎年8月12日から9月11日までの間に、現況届を提出していただきます。\n※　提出書類\n特別障害者手当　現況届・所得状況届・障害年金の受給額が確認できる資料\n障害児福祉手当　現況届・所得状況届\n経過的福祉手当　現況届・所得状況届・障害年金の受給状況調査の同意書\n\n2. 受給資格者または扶養義務者の方の所得が限度額を超えた場合には、手当の支給が停止されます。\n※　住民税の修正申告や更正決定などにより、所得額が見直された場合にはご相談ください。\n※　世帯構成の変更により扶養義務者が変わった場合も、ご連絡ください。\n\n3. 所得超過により支給が停止された方も、翌年度以降の所得が限度額内になれば、支給が再開されます。\n※　所得制限の対象期間（支給停止期間）は、8月から翌年7月です。\n\n4. 支給認定された場合、申請が受理された日の属する月の翌月から支給を開始します。\n※　申請書類が揃った時点で受理となるため、申請日が受理日とならない場合があります。\n\n(*1) 所得限度額表;https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-syogai/kenkou-syogai-siryo/hpg000000490.html\n特別障害者手当（外部リンク：東京都心身障害者福祉センターのWebページ）(別ウィンドウ表示);https://www.fukushi.metro.tokyo.lg.jp/shinsho/teate/toku_shou.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "障害児福祉手当",
+    "shortName": "障害児福祉手当"
+  },
+  "localGovernmentLink": {
+    "title": "特別障害者手当等（障害児福祉手当）",
+    "uri": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-syogai/kenkou-syogai-teate/hpg000000413.html#ji"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "品川区"
+  },
+  "procedureCounter": "障害者支援課　障害給付事務係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第3章",
+    "regulationName": "特別児童扶養手当等の支給に関する法律"
+  },
+  "relatedLink": [
+    {
+      "title": "経過的福祉手当",
+      "uri": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-syogai/kenkou-syogai-teate/hpg000000413.html#kei"
+    },
+    {
+      "title": "特別障害者手当",
+      "uri": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-syogai/kenkou-syogai-teate/hpg000000413.html#tok"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "身体または精神に重度の障がいのある20歳未満の方で、日常生活において常時介護を必要とする方に対し、手当が支給されます。",
+  "support": {
+    "description": "◇手当額\n月額15,690円\n\n◇支払月\n2・5・8・11月",
+    "materiallySupport": null,
+    "monetarySupport": "◇手当額\n月額15,690円\n\n◇支払月\n2・5・8・11月"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "20歳未満の児童",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "20歳未満の児童\n精神又は身体に著しく重度の障害を有するため、日常生活において常時の介護を必要とする状態にある在宅の方。\n\n次のいずれかに該当するときは支給されません。\n1. 施設に入所している児童\n2. 障害年金等を受給している児童\n3. 本人、扶養義務者等の所得が一定の額を超える方（所得限度額表(*1)参照）\n\n※(1)、(2)に該当する場合、手当を申請することができません。また、手当受給中の方は、受給資格が喪失し、支給は停止されます。\n※(3)に該当する場合、手当の支給は停止されます。\n\n(*1) 所得限度額表;https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-syogai/kenkou-syogai-siryo/hpg000000490.html"
+  },
+  "updateDate": "2023-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "その他の注意事項（特別障害者手当・障害児福祉手当・経過的福祉手当 共通）\n1. 特別障害者手当・障害児福祉手当・経過的福祉手当の受給者の方には、毎年8月12日から9月11日までの間に、現況届を提出していただきます。\n※　提出書類\n特別障害者手当　現況届・所得状況届・障害年金の受給額が確認できる資料\n障害児福祉手当　現況届・所得状況届\n経過的福祉手当　現況届・所得状況届・障害年金の受給状況調査の同意書\n\n2. 受給資格者または扶養義務者の方の所得が限度額を超えた場合には、手当の支給が停止されます。\n※　住民税の修正申告や更正決定などにより、所得額が見直された場合にはご相談ください。\n※　世帯構成の変更により扶養義務者が変わった場合も、ご連絡ください。\n\n3. 所得超過により支給が停止された方も、翌年度以降の所得が限度額内になれば、支給が再開されます。\n※　所得制限の対象期間（支給停止期間）は、8月から翌年7月です。\n\n4. 支給認定された場合、申請が受理された日の属する月の翌月から支給を開始します。\n※　申請書類が揃った時点で受理となるため、申請日が受理日とならない場合があります。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

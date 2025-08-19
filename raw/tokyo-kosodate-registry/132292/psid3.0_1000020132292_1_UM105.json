@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132292;西東京市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132292",
+    "psid": "psid3.0+1000020132292+1+UM105"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "図書館における乳幼児へのサービスについて～絵本と子育て事業を通して～\n１ ブックスタートとは\n“Share books with your baby”赤ちゃんにとっての絵本は「読む（read books）\nもの」ではなく、「読み手と共に楽しむ（share books）もの」だというコンセプ\nトのもと、1992 年イギリスバーミンガム市の事業として、健診時に読み聞かせ\nの体験と赤ちゃんに絵本のプレゼントを行う「ブックスタート」が開始した。\nそこから世界に広がり、日本では 2000 年「子ども読書年」に開かれた、子ど\nも読書年推進会議内で紹介され、ブックスタート室が発足。2001 年４月から 12\n市町村が新規事業としてブックスタートを開始した。\n2022 年 12 月 31 日時点で、全国で 1,425 自治体、都内では 42 自治体がブック\nスタート事業を実施している。\n２ 西東京市図書館での取組\n絵本に関心がある方にもない方にも、外国人親子にも、障害のある方にも、第\n一子にも末っ子にも、地域に暮らすすべての赤ちゃんと保護者が対象になり、絵\n本で心ふれあうひとときを届けることが、ブックスタートの基本になる。\nそれを踏まえ、西東京市図書館では、2003 年（平成 15 年）６月から「絵本と\n子育て事業」という名称で、健康推進課（現・健康課）との連携で開始した。\n３～４か月児健康診査会場に、図書館司書及び読み聞かせボランティアが赴き\n健診終了後に、子育てにおける絵本の役割や子どもの読書についてのアドバイ\nス、図書館おすすめ絵本を使用した読み聞かせの実演を行うとともに、０～３歳\n向け図書館おすすめ絵本リストと司書がセレクトした絵本を配布し、ご家庭で\nいつでも本を手にしてもらえる環境を提供している。\n新型コロナウイルス感染症拡大防止措置として、検査会場での案内は中止し\nているが、代わりに図書館窓口または郵送での配布は継続している。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "図書館の児童サービス（ブックスタートなど）",
+    "shortName": "絵本と子育て事業"
+  },
+  "localGovernmentLink": {
+    "title": "図書館における乳幼児へのサービスについて～絵本と子育て事業を通して～",
+    "uri": "https://www.city.nishitokyo.lg.jp/siseizyoho/sesaku_keikaku/sogo_kyouiku/shiryou/sougoukyouikukaigir4-3.files/r4-3_siryou2.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-11",
+    "updater": "西東京市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ブックスタートとは、赤ちゃんとその保護者に絵本をプレゼントし、絵本を開く楽しい体験とともに、心ふれあうきっかけをつくる活動です。",
+  "support": {
+    "description": "３～４か月児健康診査会場に、図書館司書及び読み聞かせボランティアが赴き健診終了後に、子育てにおける絵本の役割や子どもの読書についてのアドバイス、図書館おすすめ絵本を使用した読み聞かせの実演を行うとともに、０～３歳向け図書館おすすめ絵本リストと司書がセレクトした絵本を配布",
+    "materiallySupport": "３～４か月児健康診査会場に、図書館司書及び読み聞かせボランティアが赴き健診終了後に、子育てにおける絵本の役割や子どもの読書についてのアドバイス、図書館おすすめ絵本を使用した読み聞かせの実演を行うとともに、０～３歳向け図書館おすすめ絵本リストと司書がセレクトした絵本を配布",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "地域に暮らすすべての赤ちゃんと保護者"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

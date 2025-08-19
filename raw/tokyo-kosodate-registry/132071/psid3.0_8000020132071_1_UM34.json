@@ -1,0 +1,134 @@
+{
+  "area": {
+    "areaCode": "132071;昭島市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子ども家庭センター担当 母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132071",
+    "psid": "psid3.0+8000020132071+1+UM34"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "昭島市昭和町4-7-1",
+    "contactComment": "ファックス番号：042-544-7130",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 子ども家庭センター担当 母子保健係",
+    "contactPhone": "042-543-7303",
+    "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000053.html",
+    "zipCode": "1960015"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "「あきしま子育てアプリ」は、妊婦さんや未就学児がいるご家庭向けの子育てアプリです。\nスマートフォンやタブレット端末、パソコンに対応し、地域の子育て情報を、必要なときに、どこにいても入手することができます。\nまた、お子さんの予防接種は種類や接種回数も多く、どのように受けたらよいかママやパパの悩みのひとつです。「あきしま子育てアプリ」では、初めてのかたでもわかりやすくスケジュールを立てることができます。\n\n主な機能\n妊娠・出産や子育てに関する市からのお知らせやイベント情報の配信\n妊婦さんや未就学児がいるご家庭へ、地域の子育て情報や育児に役立つ情報が届きます。\n地域の子育て関連のお知らせやイベント情報をアプリ内で見ることができます。\n\n予防接種のスケジュールを管理\n接種ワクチンを選択すると、出生日と接種状況などから最適なスケジュールをお知らせします。\n登録した接種予定日が近づくとプッシュ通知でお知らせします。\n\n子育て支援施設の検索\n地域のあそび場所や保育園、幼稚園など育児に欠かせない施設を検索することができます。\n\n成長の記録\nおなかの赤ちゃんの様子や妊娠中の気持ち、お子さんの成長などを写真付きで日記のように残せます。お子さんの成長記録を共有でき、家族でお子さんの成長を見守れます。\n\n利用方法\nアプリ\n次の二次元コードを読み込むか、App StoreまたはGoogle Playで「母子モ」と検索してください。\n「母子モ」でダウンロード後、プロフィール登録でお住まいの地域の郵便番号を入力して、登録が完了します。\nアプリの利用は無料ですが、通信費は利用者負担です。\n昭島子育てアプリ　二次元コード\n\nWEBブラウザ\n「母子モ」の地域子育て情報をみるから「昭島市」バナーへアクセスしてください。\n\n関連リンク\n母子手帳アプリ「母子モ」への外部リンク;https://www.mchh.jp/login?lgcode=13207 （外部サイトにリンクします）\n（外部サイトにリンクします）",
+  "electronicSubmission": false,
+  "formLink": [
+    {
+      "title": "あきしま子育てアプリ",
+      "uri": "https://www.city.akishima.lg.jp/s049/020/010/020/20190627123908.html"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関するサポート",
+    "shortName": "あきしま子育てアプリ"
+  },
+  "localGovernmentLink": {
+    "title": "あきしま子育てアプリ",
+    "uri": "https://www.city.akishima.lg.jp/s049/020/010/020/20190627123908.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "昭島市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "利用方法\n\nアプリ\n二次元コードを読み込むか、App StoreまたはGoogle Playで「母子モ」と検索してください。\n「母子モ」でダウンロード後、プロフィール登録でお住まいの地域の郵便番号を入力して、登録が完了します。\nアプリの利用は無料ですが、通信費は利用者負担です。\n\nWEBブラウザ\n「母子モ」の地域子育て情報をみるから「昭島市」バナーへアクセスしてください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "あきしま子育てアプリ",
+      "uri": "https://www.mchh.jp/login?lgcode=13207"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "「あきしま子育てアプリ」は、妊婦さんや未就学児がいるご家庭向けの子育てアプリです。スマートフォンやタブレット端末、パソコンに対応し、地域の子育て情報を、必要なときに、どこにいても入手することができます。",
+  "support": {
+    "description": "「あきしま子育てアプリ」は、妊婦さんや未就学児がいるご家庭向けの子育てアプリです。\nスマートフォンやタブレット端末、パソコンに対応し、地域の子育て情報を、必要なときに、どこにいても入手することができます。\nまた、お子さんの予防接種は種類や接種回数も多く、どのように受けたらよいかママやパパの悩みのひとつです。「あきしま子育てアプリ」では、初めてのかたでもわかりやすくスケジュールを立てることができます。\n\n主な機能\n妊娠・出産や子育てに関する市からのお知らせやイベント情報の配信\n妊婦さんや未就学児がいるご家庭へ、地域の子育て情報や育児に役立つ情報が届きます。\n地域の子育て関連のお知らせやイベント情報をアプリ内で見ることができます。\n\n予防接種のスケジュールを管理\n接種ワクチンを選択すると、出生日と接種状況などから最適なスケジュールをお知らせします。\n登録した接種予定日が近づくとプッシュ通知でお知らせします。\n\n子育て支援施設の検索\n地域のあそび場所や保育園、幼稚園など育児に欠かせない施設を検索することができます。\n\n成長の記録\nおなかの赤ちゃんの様子や妊娠中の気持ち、お子さんの成長などを写真付きで日記のように残せます。お子さんの成長記録を共有でき、家族でお子さんの成長を見守れます。",
+    "materiallySupport": "「あきしま子育てアプリ」は、妊婦さんや未就学児がいるご家庭向けの子育てアプリです。\nスマートフォンやタブレット端末、パソコンに対応し、地域の子育て情報を、必要なときに、どこにいても入手することができます。\nまた、お子さんの予防接種は種類や接種回数も多く、どのように受けたらよいかママやパパの悩みのひとつです。「あきしま子育てアプリ」では、初めてのかたでもわかりやすくスケジュールを立てることができます。\n\n主な機能\n妊娠・出産や子育てに関する市からのお知らせやイベント情報の配信\n妊婦さんや未就学児がいるご家庭へ、地域の子育て情報や育児に役立つ情報が届きます。\n地域の子育て関連のお知らせやイベント情報をアプリ内で見ることができます。\n\n予防接種のスケジュールを管理\n接種ワクチンを選択すると、出生日と接種状況などから最適なスケジュールをお知らせします。\n登録した接種予定日が近づくとプッシュ通知でお知らせします。\n\n子育て支援施設の検索\n地域のあそび場所や保育園、幼稚園など育児に欠かせない施設を検索することができます。\n\n成長の記録\nおなかの赤ちゃんの様子や妊娠中の気持ち、お子さんの成長などを写真付きで日記のように残せます。お子さんの成長記録を共有でき、家族でお子さんの成長を見守れます。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "未就学児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "「あきしま子育てアプリ」は、妊婦さんや未就学児がいるご家庭向けの子育てアプリです。"
+  },
+  "updateDate": "2023-09-08",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

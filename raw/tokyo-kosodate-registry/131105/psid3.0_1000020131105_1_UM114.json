@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131105;目黒区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康推進課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131105",
+    "psid": "psid3.0+1000020131105+1+UM114"
+  },
+  "belongings": "健康保険証、医療証など",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス：03-5722-9329",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康推進課",
+    "contactPhone": "03-5722-9586",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "平日夜間の小児初期救急診療案内\n目次\n\n診療場所\n診療受付時間\n診療科目\n対象者\n初期救急診療は、入院を必要としない小児の救急患者に対する初期医療です。\n受診の際には、事前に電話でお問い合わせの上、健康保険証、医療証などをお持ちください。\n薬の処方は、原則、翌日かかりつけ医を受診されるまでの1日分を処方します。\nなお、証明書の発行はできません。\n\n診療場所\n東邦大学医療センター大橋病院; https://www.ohashi.med.toho-u.ac.jp/\n\n所在地　目黒区大橋二丁目22番36号\n電話番号　03-3468-1251\n\n診療受付時間\n月曜日から金曜日　午後7時15分から午後10時15分（祝日・休日を除く）\n\n診療科目\n小児科（内科）\n\n対象者\n15歳以下のかた",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "目黒区大橋二丁目22番36号",
+    "implementationName": "東邦大学医療センター大橋病院"
+  },
+  "institutionName": {
+    "canonicalName": "小児科救急",
+    "shortName": "平日夜間の小児初期救急診療案内"
+  },
+  "localGovernmentLink": {
+    "title": "平日夜間の小児初期救急診療案内",
+    "uri": "https://www.city.meguro.tokyo.jp/kenkousuishin/bousaianzen/kyuukyuu/shounishokikyuukyuuiryou.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "目黒区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "初期救急診療は、入院を必要としない小児の救急患者に対する初期医療です。\n受診の際には、事前に電話でお問い合わせの上、健康保険証、医療証などをお持ちください。\n薬の処方は、原則、翌日かかりつけ医を受診されるまでの1日分を処方します。\nなお、証明書の発行はできません。\n\n診療場所\n東邦大学医療センター大橋病院\n\n所在地　目黒区大橋二丁目22番36号\n電話番号　03-3468-1251\n\n診療受付時間\n月曜日から金曜日　午後7時15分から午後10時15分（祝日・休日を除く）\n\n診療科目\n小児科（内科）",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "救急医療対策事業実施要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "東邦大学医療センター大橋病院",
+      "uri": "https://www.ohashi.med.toho-u.ac.jp/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "目黒区では、休日や夜間に、赤ちゃんやお子さんが救急の際の診療を行っています。",
+  "support": {
+    "description": "診療科目\n小児科（内科）",
+    "materiallySupport": "診療科目\n小児科（内科）",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "15歳以下のかた",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 15,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "15歳以下のかた"
+  },
+  "updateDate": "2024-03-01",
+  "useConsiderationFlag": false,
+  "utilization": "受診の際には、事前に電話でお問い合わせの上、健康保険証、医療証などをお持ちください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日から金曜日　午後7時15分から午後10時15分（祝日・休日を除く）",
+    "fromHM": "19:15",
+    "toHM": "22:15"
+  }
+}

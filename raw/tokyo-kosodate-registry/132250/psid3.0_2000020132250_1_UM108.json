@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132250;稲城市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": null,
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132250",
+    "psid": "psid3.0+2000020132250+1+UM108"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス：042-378-5677",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども福祉部　児童青少年課",
+    "contactPhone": "042-378-2111",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "児童館\n中央文化センターを除く各文化センターにあります。児童館は､青少年の健全育成施設です。スポーツ・文化･情操活動を通して､成長発達を促します。\n開館時間\n午前9時から午後5時\n休館日\n日曜日\n国民の祝日\n年末年始（12月28日から1月4日）\nhttps://www.city.inagi.tokyo.jp/shisetsu/kosodate/index.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "休館日\n日曜日\n国民の祝日\n年末年始（12月28日から1月4日）",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "児童館",
+    "shortName": "児童館"
+  },
+  "localGovernmentLink": {
+    "title": "子育て",
+    "uri": "https://www.city.inagi.tokyo.jp/shisetsu/kosodate/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-06",
+    "updater": "稲城市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童館は、18歳未満のお子さんに健全な遊びを提供し、健康増進を図るとともに、豊かな情操を育むことを目的としています。\n稲城市の児童館には、小学校就学前のお子さんが安心して遊べるスペースがあり、またお子さんの年齢に応じた各種イベントなども行っています。\n（イベントの詳細については、稲城市サイトや市報などでお知らせしています。）",
+  "support": {
+    "description": "児童館\n中央文化センターを除く各文化センターにあります。児童館は､青少年の健全育成施設です。スポーツ・文化･情操活動を通して､成長発達を促します。\n開館時間\n午前9時から午後5時\n休館日\n日曜日\n国民の祝日\n年末年始（12月28日から1月4日）\nhttps://www.city.inagi.tokyo.jp/shisetsu/kosodate/index.html",
+    "materiallySupport": "児童館\n中央文化センターを除く各文化センターにあります。児童館は､青少年の健全育成施設です。スポーツ・文化･情操活動を通して､成長発達を促します。\n開館時間\n午前9時から午後5時\n休館日\n日曜日\n国民の祝日\n年末年始（12月28日から1月4日）\nhttps://www.city.inagi.tokyo.jp/shisetsu/kosodate/index.html",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": "09:00",
+    "toHM": "17:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132063;府中市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育部学務保健課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132063",
+    "psid": "psid3.0+8000020132063+1+UM126"
+  },
+  "belongings": "3　お申込み時に必要な証明書類 （PDF：178KB）;https://www.city.fuchu.tokyo.jp/kosodate/kyoiku/shogakukin/syugaku.files/R6syoumeisyo.pdf",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "府中市宮西町2丁目24番地",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "教育部学務保健課",
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": "1838703"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "就学援助費\nこのページの情報をツイッターでシェアします\n\nこのページの情報をラインでシェアします\n\n最終更新日：2024年4月1日\n就学援助制度（就学援助費）とは\n経済的な理由により、教育費の支払いにお困りの保護者に対して、給食費や学用品費などの一部を援助しています。援助を受けるには令和5年1月から12月までの世帯収入を対象とした審査があります。なお、特別な事情（急な失業、長期休職など）により家計が急変した場合は、援助可能な場合がありますので学務保健課までご相談ください。\n\n世帯員の中に前年の収入について未申告の方がいる場合、認定審査ができません。申告漏れがないようご注意ください。\n備考4:賃貸住宅にお住まいの方は上表の総収入金額に賃料（年額上限837,600円。共益費・駐車場代は除く）を加算できます。ただし、申込時に賃貸契約書の写し等、証明になる書類を必ず添付してください。\n受付期間\n令和6年4月30日（火曜日）まで（郵送の場合は4月30日消印有効）\n注記:5月1日以降も受付しておりますが、認定日が申込月の翌月となります（例:5月中に申込みした場合は6月分から受給となります）。申込みは令和7年2月末日まで受付けます。\n\n認定結果について\n5月までに申込みがあったものは7月上旬に認定結果を通知します。その他の申込み分については、随時、通知いたします。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "小学校・中学校の就学援助費",
+    "shortName": "就学援助費"
+  },
+  "localGovernmentLink": {
+    "title": "就学援助費",
+    "uri": "https://www.city.fuchu.tokyo.jp/kosodate/kyoiku/shogakukin/syugaku.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "府中市"
+  },
+  "procedureCounter": "府中市教育委員会教育部学務保健課学務係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申込書及び申込控えに必要事項を記入し、「お申込み時に必要な証明書類」を必ず添えて、市立学校または学務保健課（市役所本庁舎3階）にご提出ください。郵送でのお申込みもできます。\n郵送先:　〒183-8703　府中市宮西町2丁目24番地　府中市教育委員会教育部学務保健課学務係",
+  "procedurePeriod": {
+    "conditions": "令和6年4月30日（火曜日）まで（郵送の場合は4月30日消印有効）\n注記:5月1日以降も受付しておりますが、認定日が申込月の翌月となります（例:5月中に申込みした場合は6月分から受給となります）。申込みは令和7年2月末日まで受付けます。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第19条",
+    "regulationName": "学校教育法"
+  },
+  "relatedLink": [
+    {
+      "title": "就学援助よくある質問",
+      "uri": "https://www.city.fuchu.tokyo.jp/kosodate/kyoiku/shogakukin/syugaku.files/yokuarushitumon.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "経済的な理由により就学が困難と認められる、公立の小学校・中学校に通学する児童・生徒の保護者を対象に、学用品費、修学旅行費などを支給します。",
+  "support": {
+    "description": "次の費目について、援助します。\n学用品費等、入学準備金（5月申込分までが対象）：小学校 1年生、中学校1年生、通学費：小学校　実費（限度額19,100円）中学校　実費（限度額38,600円）医療費：実費（限度額6,000円）注記：治療前に別途申請が必要です\nわくわく自然教室費（旧称：セカンドスクール）：小学校5年生　実費\t\nふれあい自然教室費（旧称：中1移動教室）：中学校1年生　実費\n修学旅行費（小学校は日光移動教室）：小学校6年生　実費、中学校3年生　実費\n\n備考1:私立学校及び他市の公立学校に通学されている方は、学用品費等、入学準備金、修学旅行費（準備金含む）が支給対象となります。\n備考2:生活保護を受けている方は、わくわく自然教室費（準備金含む）、ふれあい自然教室費及び修学旅行費が支給対象となります。なお、生活保護受給世帯は申込みをする必要がありません。\n備考3:わくわく自然教室・ふれあい自然教室・修学旅行費については、実費分に加えて準備金を支給します。\n（生活保護を受けている方の修学旅行準備金は、保護費から支給されますので対象外です）\n備考4:わくわく自然教室・修学旅行費（準備金含む）及びふれあい自然教室費は、年度途中で転校した場合であっても支給されるのは年1回のみとなります。支給時期は行事実施後となります。\n備考5：令和5年度末より中学校入学準備金の単価が増額となりました。\n備考6:医療費及び通学費については、支給に条件があります。\n備考7:他市の公立小中学校に通われている方で、給食費を支払った場合、実費が支給対象となる場合があります。",
+    "materiallySupport": null,
+    "monetarySupport": "学用品費等（年額）：小学校 1年生12,612円、小学校2年生から6年生14,784円、中学校1年生23,880円、中学校2年生から3年生26,052円\n入学準備金（5月申込分までが対象）：小学校 1年生54,060円、中学校1年生63,000円\t\n通学費：小学校　実費（限度額19,100円）中学校　実費（限度額38,600円）\n医療費：実費（限度額6,000円）注記：治療前に別途申請が必要です\nわくわく自然教室費（旧称：セカンドスクール）：小学校5年生　実費\t\nふれあい自然教室費（旧称：中1移動教室）：中学校1年生　実費\n修学旅行費（小学校は日光移動教室）：小学校6年生　実費、中学校3年生　実費\n\nわくわく自然教室・ふれあい自然教室・修学旅行費については、実費分に加えて準備金を支給します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "005"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "092"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "府中市に住民登録があり、申込時に次のアまたはイのいずれかに該当する方が対象になります。\nア　生活保護を受けている方（注記：申込書の提出は不要です。）\nイ　次の1から9のうち、1つ以上あてはまる方\n\n1.生活保護法に基づく保護が停止又は廃止された。停止及び廃止後3ヶ月以内。\n2.世帯全員が市民税非課税又は減免されている。\n3.個人事業税が減免されている。\n4.固定資産税が減免されている。\n5.国民健康保険税の減免又は徴収猶予されている。\n6.児童扶養手当を受給している。\n7.生活福祉資金の貸付を受けている。\n8.東日本大震災等の大規模災害で被災し避難している。\n9.収入及び所得の合計が基準内にあり援助を必要としている。（基準額は次でご確認ください）\n世帯内における収入及び所得の基準額　（年間総収入金額／年間総所得金額）\n世帯人員2人の場合（約258万円／約162万円）\t\n世帯人員3人の場合（約334万円／約215万円）\n世帯人員4人の場合（約418万円／約280万円）\n世帯人員5人の場合（約472万円／約323万円）\n\n備考1:基準金額はモデルケースであり、ご家族の年齢等によって基準額が異なります。\n備考2:給与所得のみの方は「年間総収入金額」を、自営業等で事業所得のみの方は「年間総所得金額」を目安としてください。\n備考3:世帯員の中に令和4年の収入について未申告の方がいる場合、認定審査ができません。申告漏れがないようご注意ください。\n備考4:賃貸住宅にお住まいの方は上表の総収入金額に賃料（年額上限837,600円。共益費・駐車場代は除く）を加算できます。ただし、申込時に賃貸契約書の写し等、証明になる書類を必ず添付してください。"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

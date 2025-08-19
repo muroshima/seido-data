@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132080;調布市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉健康部健康推進課 ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020132080",
+    "psid": "psid3.0+7000020132080+1+UM49"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-441-6101",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉健康部健康推進課",
+    "contactPhone": "042-441-6100",
+    "contactUrl": "https://www.city.chofu.lg.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "乳幼児健康診査\n3・4か月児健康診査、1歳6か月児健康診査、3歳児健康診査は、健診日を指定して受診月の前月初旬に個別通知しています。転入などで通知が届かない方はご連絡ください。\n(注1)6月4日(火曜日)、7月11日(木曜日)の3・4か月児健診は中止します。\n(注2)個別通知に記載された指定日以外の日程で受診を希望する方は、事前に予約が必要です。\n乳幼児健康診査\n|3・4か月児|3か月から4か月の乳児|問診、身長・体重・頭囲の測定、診察、相談等|\n|1歳6か月児|1歳6か月から2歳未満の幼児|問診、身長・体重・頭囲の測定、診察(一般・歯科)、相談等|\n|3歳児|3歳から4歳未満の幼児|問診、身長・体重の測定、診察(一般・歯科)、尿・眼の検査、相談等|\n健康診査は保健センターで行います。\n\n6・7か月児、9・10か月児健康診査受診票は、3・4か月児健康診査にて配布します。個別医療機関での受診となります。\n令和6年度　調布市健康ガイド(PDF：1,856KB);https://www.city.chofu.lg.jp/documents/1026/r6guide.pdf\n\n(重要)6月4日(火曜日)、7月11日(木曜日)の3・4か月児健診は中止します。\n\n調布市以外の市区町村で健診を希望される方へ\n里帰り等の理由により、調布市で乳幼児健診を受診できない場合、滞在先の自治体で受診できる場合があります。詳細は市外で乳幼児健康診査を受けたいとき;https://www.city.chofu.lg.jp/060070/p037010.htmlをご確認ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "保健センター"
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児健康診査（6か月未満児）",
+    "shortName": "乳幼児健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "乳幼児健康診査",
+    "uri": "https://www.city.chofu.lg.jp/060070/p037016.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "調布市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "3・4か月児健康診査、1歳6か月児健康診査、3歳児健康診査は、健診日を指定して受診月の前月初旬に個別通知しています。転入などで通知が届かない方はご連絡ください。\n(注1)6月4日(火曜日)、7月11日(木曜日)の3・4か月児健診は中止します。\n(注2)個別通知に記載された指定日以外の日程で受診を希望する方は、事前に予約が必要です。\n\n乳幼児健康診査\n|3・4か月児|3か月から4か月の乳児|問診、身長・体重・頭囲の測定、診察、相談等|\n|1歳6か月児|1歳6か月から2歳未満の幼児|問診、身長・体重・頭囲の測定、診察(一般・歯科)、相談等|\n|3歳児|3歳から4歳未満の幼児|問診、身長・体重の測定、診察(一般・歯科)、尿・眼の検査、相談等|\n\n健康診査は保健センターで行います。\n6・7か月児、9・10か月児健康診査受診票は、3・4か月児健康診査にて配布します。個別医療機関での受診となります。\n令和6年度　調布市健康ガイド(PDF：1,856KB);https://www.city.chofu.lg.jp/documents/1026/r6guide.pdf\n(重要)6月4日(火曜日)、7月11日(木曜日)の3・4か月児健診は中止します。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "令和6年度　調布市健康ガイド(PDF：1",
+      "uri": "https://www.city.chofu.lg.jp/documents/1026/r6guide.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として3か月児健康診査を実施しています。",
+  "support": {
+    "description": "3・4か月児健康診査、1歳6か月児健康診査、3歳児健康診査は、健診日を指定して受診月の前月初旬に個別通知しています。転入などで通知が届かない方はご連絡ください。\n(注1)6月4日(火曜日)、7月11日(木曜日)の3・4か月児健診は中止します。\n(注2)個別通知に記載された指定日以外の日程で受診を希望する方は、事前に予約が必要です。\n\n乳幼児健康診査\n|3・4か月児|3か月から4か月の乳児|問診、身長・体重・頭囲の測定、診察、相談等|\n|1歳6か月児|1歳6か月から2歳未満の幼児|問診、身長・体重・頭囲の測定、診察(一般・歯科)、相談等|\n|3歳児|3歳から4歳未満の幼児|問診、身長・体重の測定、診察(一般・歯科)、尿・眼の検査、相談等|\n\n健康診査は保健センターで行います。\n6・7か月児、9・10か月児健康診査受診票は、3・4か月児健康診査にて配布します。個別医療機関での受診となります。\n令和6年度　調布市健康ガイド(PDF：1,856KB);https://www.city.chofu.lg.jp/documents/1026/r6guide.pdf\n(重要)6月4日(火曜日)、7月11日(木曜日)の3・4か月児健診は中止します。",
+    "materiallySupport": "3・4か月児健康診査、1歳6か月児健康診査、3歳児健康診査は、健診日を指定して受診月の前月初旬に個別通知しています。転入などで通知が届かない方はご連絡ください。\n(注1)6月4日(火曜日)、7月11日(木曜日)の3・4か月児健診は中止します。\n(注2)個別通知に記載された指定日以外の日程で受診を希望する方は、事前に予約が必要です。\n\n乳幼児健康診査\n|3・4か月児|3か月から4か月の乳児|問診、身長・体重・頭囲の測定、診察、相談等|\n|1歳6か月児|1歳6か月から2歳未満の幼児|問診、身長・体重・頭囲の測定、診察(一般・歯科)、相談等|\n|3歳児|3歳から4歳未満の幼児|問診、身長・体重の測定、診察(一般・歯科)、尿・眼の検査、相談等|\n\n健康診査は保健センターで行います。\n6・7か月児、9・10か月児健康診査受診票は、3・4か月児健康診査にて配布します。個別医療機関での受診となります。\n令和6年度　調布市健康ガイド(PDF：1,856KB);https://www.city.chofu.lg.jp/documents/1026/r6guide.pdf\n(重要)6月4日(火曜日)、7月11日(木曜日)の3・4か月児健診は中止します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "3か月から4か月の乳児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 3
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 4
+    },
+    "targetPersons": "3か月から4か月の乳児"
+  },
+  "updateDate": "2024-05-20",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

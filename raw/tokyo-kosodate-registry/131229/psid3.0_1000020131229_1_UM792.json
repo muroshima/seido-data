@@ -1,0 +1,136 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部健康推進課　歯科保健担当係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+1+UM792"
+  },
+  "belongings": "◆すくすく歯育て歯科健康診査受診券\n◆親子健康手帳（母子健康手帳）\n◆住所・氏名・生年月日が確認できるもの",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区青戸4-15-14　健康プラザかつしか内",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部健康推進課　歯科保健担当係",
+    "contactPhone": "03-3602-1268",
+    "contactUrl": null,
+    "zipCode": "1250062"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児の歯の健康診査（2歳児歯科健康診査）",
+    "shortName": "すくすく歯育て歯科健康診査（2歳児 歯科健診）"
+  },
+  "localGovernmentLink": {
+    "title": "すくすく歯育て歯科健康診査（2歳児 歯科健診）",
+    "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001804/1023236.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "乳幼児歯科健診・歯の健康教室について知りたいのですが。",
+      "uri": "https://www.city.katsushika.lg.jp/faq/1030271/1007657/1008223/1008283.html"
+    },
+    {
+      "title": "歯科保健",
+      "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1019946/index.html"
+    },
+    {
+      "title": "2歳未満の子どもにマスクは不要、むしろ危険！（外部リンク）",
+      "uri": "https://www.jpa-web.org/dcms_media/other/2saimiman_qanda20200609.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "２歳は奥歯が生えるなど口の中が大きく変化し、飲み物や食べ物の種類が増えるため、むし歯になりやすい時期です。むし歯の原因となるミュータンス菌は、徐々に身近な人たちからお子さんに感染することが分かってきており、子どものミュータンス菌が主に母親由来のことが多いことから母子伝播という言葉も使われています。この健診は、歯科健診とあわせて予防処置が受けられます。継続的に受診していくことで、お子さんの健やかな歯と口を守り育てていきましょう。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "子どもは3歳までに2回受けられます。\n①2歳児とその母親★\n★母親の受診が難しい場合は健康推進課にご相談ください。\n②2歳児のみ\n※対象者には受診券等を、原則2歳の誕生月下旬に郵送します。"
+  },
+  "updateDate": "2024-04-02",
+  "useConsiderationFlag": false,
+  "utilization": "受診期間内に受診を希望する歯科医療機関に電話等で事前予約をする\nその際に「葛飾区すくすく歯育て歯科健康診査を希望」と伝えてください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

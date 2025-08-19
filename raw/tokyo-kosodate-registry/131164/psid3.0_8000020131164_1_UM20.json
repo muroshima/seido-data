@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "国民健康保険課給付グループ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+1+UM20"
+  },
+  "belongings": "申請に必要なもの　　\n1.母子健康手帳　　\n2.出産予定のかたの保険証　　\n3.世帯主の印鑑（朱肉が使える認印）　　\n4.銀行等の口座がわかるもの",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "国民健康保険課給付グループ",
+    "contactPhone": "03-3981-1296",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "豊島区国保から出産育児一時金の支給が見込まれ、出産予定日まで1か月以内のかたに、出産費資金をお貸しします。貸付額は40万円以内（無利子）。\n　　\n妊娠4か月以上で、出産費を医療機関等に支払う必要が生じているかたはご相談ください。　　\n\nなお、返済は出産育児一時金が支給される際に清算します。　　\n\n返済は、出産育児一時金の支給時に清算します。直接支払制度や受取代理制度を申請する方は利用できません。",
+  "electronicSubmission": true,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "出産予定日まで1か月以内",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出産費貸付制度",
+    "shortName": "出産費資金の貸付"
+  },
+  "localGovernmentLink": {
+    "title": "出産費資金の貸付",
+    "uri": "https://www.city.toshima.lg.jp/112/tetsuzuki/nenkin/kenkohoken/kyufu/018205.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "妊娠4か月以上で、出産費を医療機関等に支払う必要が生じているかた",
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "出産予定日前に出産費用の支払いが必要な方を対象に、出産育児一時金8割に相当する額を限度として出産費用の貸し付けを無利子で行います。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": "妊娠4か月以上で、出産費を医療機関等に支払う必要が生じているかたはご相談ください。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "豊島区国保から出産育児一時金の支給が見込まれ、出産予定日まで1か月以内のかた"
+  },
+  "updateDate": "2023-04-27",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

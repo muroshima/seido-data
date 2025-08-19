@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "131024;中央区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "中央区保健所健康推進課感染症対策係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131024",
+    "psid": "psid3.0+8000020131024+1+UM66"
+  },
+  "belongings": "1.療育給付申請書\n2.療育給付意見書\n3.世帯調書\n4.所得税額証明書等\n（1から3の書類は保健所にあります）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "明石町12-1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "中央区保健所健康推進課感染症対策係",
+    "contactPhone": "03-3541-5988",
+    "contactUrl": null,
+    "zipCode": "1040044"
+  },
+  "cost": null,
+  "costConditions": "ご家族の収入に応じて、治療に要する費用の全部又は一部を負担していただきます。",
+  "description": "結核児童の療育給付\n対象者\n18歳未満の児童で、結核にかかっている方のうち、その治療のため医師が長期の入院を必要と認めた方が対象です。療育給付の適用を受けようとする方は、あらかじめ感染症の予防及び感染症の患者に対する医療に関する法律の医療給付の承認を得てください。\n\n必要書類\n保健所に申請します。なお、手続きが遅れた場合は、医療費の助成が受けられないことがありますので、ご注意ください。\n\n療育給付申請書\n療育給付意見書\n世帯調書\n所得税額証明書等\n（1から3の書類は保健所にあります）\n\n指定療育機関\n医療費助成を受けることのできる医療機関は、全国の指定された療育機関になります。\n東京都内の指定療育機関は、下記よりご確認ください。\n\n結核児童の療育給付（東京都福祉局）（外部サイトへリンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/k_ryouiku.html\n公費負担額\n医療保険を適用して治療した場合の患者自己負担額が助成されますが、ご家族の収入に応じて、治療に要する費用の全部又は一部を負担していただきます。また、対象の方には、療養生活に必要な日用品と学校教育を受けるのに必要な学用品を支給します。\n\n関連リンク\n結核児童の療育給付（東京都福祉局）（外部サイトへリンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/k_ryouiku.html\n結核;https://www.city.chuo.lg.jp/a0031/kenkouiryou/iryou/kansen/kekkaku.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "医療費助成を受けることのできる医療機関は、全国の指定された療育機関になります。\n東京都内の指定療育機関は、下記よりご確認ください。\n\n結核児童の療育給付（東京都福祉局）（外部サイトへリンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/k_ryouiku.html",
+    "implementationName": "医療費助成を受けることのできる医療機関は、全国の指定された療育機関になります。\n東京都内の指定療育機関は、下記よりご確認ください。\n\n結核児童の療育給付（東京都福祉局）（外部サイトへリンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/k_ryouiku.html"
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の医療費助成制度",
+    "shortName": "結核児童の療育給付"
+  },
+  "localGovernmentLink": {
+    "title": "結核児童の療育給付",
+    "uri": "https://www.city.chuo.lg.jp/a0031/kosodate/kosodate/teatejosei/iryouhijosei/kekkaku.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-24",
+    "updater": "中央区"
+  },
+  "procedureCounter": "保健所",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "必要書類\n保健所に申請します。なお、手続きが遅れた場合は、医療費の助成が受けられないことがありますので、ご注意ください。\n\n1.療育給付申請書\n2.療育給付意見書\n3.世帯調書\n4.所得税額証明書等\n（1から3の書類は保健所にあります）",
+  "procedurePeriod": {
+    "conditions": "なお、手続きが遅れた場合は、医療費の助成が受けられないことがありますので、ご注意ください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "大気汚染に係る健康障害者に対する医療費の助成に関する条例"
+  },
+  "relatedLink": [
+    {
+      "title": "結核",
+      "uri": "https://www.city.chuo.lg.jp/a0031/kenkouiryou/iryou/kansen/kekkaku.html"
+    },
+    {
+      "title": "結核児童の療育給付（東京都福祉局）（外部サイトへリンク）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/k_ryouiku.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "18歳未満の児童で、結核にかかっている方のうち、その治療のため医師が長期の入院を必要と認めた方を対象に、療養費の給付を行います。",
+  "support": {
+    "description": "医療保険を適用して治療した場合の患者自己負担額が助成されますが、ご家族の収入に応じて、治療に要する費用の全部又は一部を負担していただきます。また、対象の方には、療養生活に必要な日用品と学校教育を受けるのに必要な学用品を支給します。",
+    "materiallySupport": "また、対象の方には、療養生活に必要な日用品と学校教育を受けるのに必要な学用品を支給します。",
+    "monetarySupport": "医療保険を適用して治療した場合の患者自己負担額が助成されますが、ご家族の収入に応じて、治療に要する費用の全部又は一部を負担していただきます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "18歳未満の児童で、結核にかかっている方のうち、その治療のため医師が長期の入院を必要と認めた方が対象です。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "18歳未満の児童で、結核にかかっている方のうち、その治療のため医師が長期の入院を必要と認めた方が対象です。療育給付の適用を受けようとする方は、あらかじめ感染症の予防及び感染症の患者に対する医療に関する法律の医療給付の承認を得てください。"
+  },
+  "updateDate": "2024-03-18",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

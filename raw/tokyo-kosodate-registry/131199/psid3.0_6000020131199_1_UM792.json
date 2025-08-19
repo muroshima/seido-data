@@ -1,0 +1,168 @@
+{
+  "area": {
+    "areaCode": "131199;板橋区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康生きがい部 健康推進課 母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131199",
+    "psid": "psid3.0+6000020131199+1+UM792"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都板橋区板橋二丁目66番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康生きがい部 健康推進課 母子保健係",
+    "contactPhone": "03-3579-2313",
+    "contactUrl": "https://www.city.itabashi.tokyo.jp/faq/kosodate/kenkou/nyuuji/index.html,https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/004/088/1.6shikar5.pdf,https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/004/088/1.6shika5060202.pdf,https://www.city.itabashi.tokyo.jp/kosodate/kenko/shinsa/1022311.html,https://www.city.itabashi.tokyo.jp/kusei/soshiki/kenkoikigai/1006932.html,https://www.city.itabashi.tokyo.jp/kusei/soshiki/kenkoikigai/1006933.html,https://www.city.itabashi.tokyo.jp/kusei/soshiki/kenkoikigai/1006934.html,https://www.city.itabashi.tokyo.jp/kusei/soshiki/kenkoikigai/1006935.html,https://www.city.itabashi.tokyo.jp/kusei/soshiki/kenkoikigai/1006936.html,https://www.city.itabashi.tokyo.jp/tetsuduki/koseki/mynumber/1048712/1001636.html,https://www.city.itabashi.tokyo.jp/tetsuduki/koseki/mynumber/1001633.html",
+    "zipCode": "1738501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "歯科健診、育児・栄養・心理相談、ぜんそく予防健診の問診",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "1歳6か月児歯科健康診査日程表【令和5年2月～令和6年3月実施分】 （PDF 386.5KB）;https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/004/088/1.6shikar5.pdf\n1歳6か月児歯科健康診査日程表【令和6年2月～令和7年3月実施分】 （PDF 389.6KB）;https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/004/088/1.6shika5060202.pdf",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "健康福祉センター"
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児の歯の健康診査（▲歳児歯科健康診査）",
+    "shortName": "1歳6か月児歯科健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "乳幼児健康診査",
+    "uri": "https://www.city.itabashi.tokyo.jp/kosodate/ninshin/shusan/1032721.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "板橋区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "担当地域以外の健康福祉センターで受診を希望する場合は「健康診査のお知らせ」が届きましたら、お早めにご希望の健康福祉センターへお申込みください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "マイナポータル（自己情報等表示・ぴったりサービス）について",
+      "uri": "https://www.city.itabashi.tokyo.jp/tetsuduki/koseki/mynumber/1001633.html"
+    },
+    {
+      "title": "乳幼児健康診査　よくある質問",
+      "uri": "https://www.city.itabashi.tokyo.jp/faq/kosodate/kenkou/nyuuji/index.html"
+    },
+    {
+      "title": "1歳6か月児歯科健康診査日程表【令和5年2月～令和6年3月実施分】 （PDF 386.5KB）",
+      "uri": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/004/088/1.6shikar5.pdf"
+    },
+    {
+      "title": "1歳6か月児歯科健康診査日程表【令和6年2月～令和7年3月実施分】 （PDF 389.6KB）",
+      "uri": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/004/088/1.6shika5060202.pdf"
+    },
+    {
+      "title": "里帰り等で乳幼児健康診査を希望される方へ",
+      "uri": "https://www.city.itabashi.tokyo.jp/kosodate/kenko/shinsa/1022311.html"
+    },
+    {
+      "title": "健康生きがい部　板橋健康福祉センター",
+      "uri": "https://www.city.itabashi.tokyo.jp/kusei/soshiki/kenkoikigai/1006932.html"
+    },
+    {
+      "title": "健康生きがい部　上板橋健康福祉センター",
+      "uri": "https://www.city.itabashi.tokyo.jp/kusei/soshiki/kenkoikigai/1006933.html"
+    },
+    {
+      "title": "健康生きがい部　赤塚健康福祉センター",
+      "uri": "https://www.city.itabashi.tokyo.jp/kusei/soshiki/kenkoikigai/1006934.html"
+    },
+    {
+      "title": "健康生きがい部　志村健康福祉センター",
+      "uri": "https://www.city.itabashi.tokyo.jp/kusei/soshiki/kenkoikigai/1006935.html"
+    },
+    {
+      "title": "健康生きがい部　高島平健康福祉センター",
+      "uri": "https://www.city.itabashi.tokyo.jp/kusei/soshiki/kenkoikigai/1006936.html"
+    },
+    {
+      "title": "マイナンバーカード（個人番号カード）に関して",
+      "uri": "https://www.city.itabashi.tokyo.jp/tetsuduki/koseki/mynumber/1048712/1001636.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "板橋区では1歳6か月児歯科健康診査を各健康福祉センターで実施しています。",
+  "support": {
+    "description": "歯科健診、育児・栄養・心理相談、ぜんそく予防健診の問診",
+    "materiallySupport": "歯科健診、育児・栄養・心理相談、ぜんそく予防健診の問診",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "1歳6か月児"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "お知らせの方法：1歳5か月になる月の下旬に郵送（日程は下記）",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

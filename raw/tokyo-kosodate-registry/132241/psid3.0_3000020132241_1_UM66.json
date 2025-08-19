@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "132241;多摩市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉総務課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132241",
+    "psid": "psid3.0+3000020132241+1+UM66"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都多摩市関戸六丁目12番地1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉総務課 福祉総務担当4",
+    "contactPhone": "042-400-0868",
+    "contactUrl": null,
+    "zipCode": "2068666"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "大気汚染医療費助成制度\n対象疾病（続発症を含む）\n気管支ぜん息\n慢性気管支炎\nぜん息性気管支炎\n肺気しゅ\n対象となるのは、次の5つの要件を全て満たす方です。\n1.18歳未満の方（18歳の誕生日が属する月の末日までの間にある方を含む）\n2.現に上記対象疾病にかかっている方\n3.都内に引き続き1年（3歳未満は6か月以上）以上お住まいの方（住民登録されている方）\n4.健康保険等に加入している方\n5.申請日以降喫煙しない方\n1～5をすべて満たしていることが必要です。\n\n助成内容\n生年月日が平成9年4月1日以前の方は、認定された疾病に対する保険診療の窓口支払額のうち、月額6千円までが自己負担となります。\n同じ月に支払った各医療機関等（病院・診療所・薬局）の医療費を合算し、月額の合計が6千円に達したときは、その月はそれ以上の自己負担はありません。\n月額の自己負担額は、各医療機関等（病院・診療所・薬局）で「自己負担限度額管理票（東京都大気汚染医療費助成用）」に記載してもらい、管理してください。\n医療券の有効期間は、市役所で申請書を受理した日から、\n\n2年を経過した日以降の直近の誕生日の属する月の末日まで\n18歳の誕生日の属する月の末日まで\nのいずれか短い方となります（医療券に記載されます）。\n\n詳しくは下記東京都保健医療局大気汚染医療費助成のホームページを参照ください。\n\n東京都保健医療局大気汚染医療費助成制度の助成の内容及び方法（外部リンク）;https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/taiki/iryouhi/naiyou.html\n申請書類の配布・受付窓口\n申請書類の配布・申請受付は、福祉総務課です。\n\n新規申請の手続き\n申請書類は、福祉総務課で配布しています。\n\n東京都保健医療局大気汚染医療費助成制度の新規申請手続（外部リンク）;https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/taiki/iryouhi/shinki.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の医療費助成制度",
+    "shortName": "大気汚染医療費助成制度"
+  },
+  "localGovernmentLink": {
+    "title": "大気汚染医療費助成制度",
+    "uri": "https://www.city.tama.lg.jp/kenkofukushi/1008237/shien/kyufu/1003110.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "多摩市"
+  },
+  "procedureCounter": "福祉総務課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請書類の配布・受付窓口\n申請書類の配布・申請受付は、福祉総務課です。\n\n新規申請の手続き\n申請書類は、福祉総務課で配布しています。\n\n東京都保健医療局大気汚染医療費助成制度の新規申請手続（外部リンク）;https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/taiki/iryouhi/shinki.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第３条・第4条",
+    "regulationName": "東京都大気汚染に係る健康障害者に対する医療費の助成に関する条例"
+  },
+  "relatedLink": [
+    {
+      "title": "東京都保健医療局大気汚染医療費助成制度の新規申請手続（外部リンク）",
+      "uri": "https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/taiki/iryouhi/shinki.html"
+    },
+    {
+      "title": "東京都保健医療局大気汚染医療費助成制度の助成の内容及び方法（外部リンク）",
+      "uri": "https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/taiki/iryouhi/naiyou.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "大気汚染の影響を受けると推定される疾病（気管支ぜん息など）にかかった方に対し、一定の要件を満たす場合に、医療費の助成をしています。",
+  "support": {
+    "description": "助成内容\n生年月日が平成9年4月1日以前の方は、認定された疾病に対する保険診療の窓口支払額のうち、月額6千円までが自己負担となります。自己負担が生じるのは、生年月日が平成9年4月1日以前の方です。\n同じ月に支払った各医療機関等（病院・診療所・薬局）の医療費を合算し、月額の合計が6千円に達したときは、その月はそれ以上の自己負担はありません。\n月額の自己負担額は、各医療機関等（病院・診療所・薬局）で「自己負担限度額管理票（東京都大気汚染医療費助成用）」に記載してもらい、管理してください。\n医療券の有効期間は、市役所で申請書を受理した日から、\n\n1.2年を経過した日以降の直近の誕生日の属する月の末日まで\n2.18歳の誕生日の属する月の末日まで\nのいずれか短い方となります（医療券に記載されます）。\n\n詳しくは下記東京都保健医療局大気汚染医療費助成のホームページを参照ください。\n\n東京都保健医療局大気汚染医療費助成制度の助成の内容及び方法;https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/taiki/iryouhi/naiyou.html",
+    "materiallySupport": null,
+    "monetarySupport": "助成内容\n生年月日が平成9年4月1日以前の方は、認定された疾病に対する保険診療の窓口支払額のうち、月額6千円までが自己負担となります。自己負担が生じるのは、生年月日が平成9年4月1日以前の方です。\n同じ月に支払った各医療機関等（病院・診療所・薬局）の医療費を合算し、月額の合計が6千円に達したときは、その月はそれ以上の自己負担はありません。\n月額の自己負担額は、各医療機関等（病院・診療所・薬局）で「自己負担限度額管理票（東京都大気汚染医療費助成用）」に記載してもらい、管理してください。\n医療券の有効期間は、市役所で申請書を受理した日から、\n\n1.2年を経過した日以降の直近の誕生日の属する月の末日まで\n2.18歳の誕生日の属する月の末日まで\nのいずれか短い方となります（医療券に記載されます）。\n\n詳しくは下記東京都保健医療局大気汚染医療費助成のホームページを参照ください。\n\n東京都保健医療局大気汚染医療費助成制度の助成の内容及び方法;https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/taiki/iryouhi/naiyou.html"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "18歳未満の方（18歳の誕生日が属する月の末日までの間にある方を含む）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象となるのは、次の5つの要件を全て満たす方です。\n1.18歳未満の方（18歳の誕生日が属する月の末日までの間にある方を含む）\n2.現に上記対象疾病にかかっている方\n3.都内に引き続き1年（3歳未満は6か月以上）以上お住まいの方（住民登録されている方）\n4.健康保険等に加入している方\n5.申請日以降喫煙しない方\n1～5をすべて満たしていることが必要です。"
+  },
+  "updateDate": "2023-08-07",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

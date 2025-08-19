@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子育て支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+2+UM83"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部子育て支援課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e047/kuseijoho/gaiyo/soshiki/kodomo/kosodate.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "利用の開始時期、可能な時間、料金などは実施施設によって異なります。詳しくは各施設にお問い合わせください。\n\n利用料金が無償化の対象となる場合があります。\nhttps://www.city.edogawa.tokyo.jp/e047/kosodate/kosodate/mushouka.html",
+  "description": "保護者の通院、冠婚葬祭への出席やリフレッシュなど様々な理由で一時的にお子さんを預けたいときに、ご利用いただけます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "平井6丁目53番7号\n江戸川4丁目23番地\n大杉3丁目23番17号\n中央1丁目1番15号\n北小岩5丁目27番16号\n南小岩3丁目6番8号\n江戸川1丁目11番3号\n東葛西6丁目37番20号\n北葛西2丁目12番13号\n中葛西4丁目12番15号\n中葛西3丁目3番6号\n中央1丁目15番24号\n船堀4丁目7番13号1階\n中葛西6丁目17番9号1階\n中葛西3丁目35番1号2階\n平井7丁目21番6号\n松島1丁目38番1号\n一之江3丁目13番7号\n北小岩2丁目14番17号\n南小岩4丁目5番8号\n南篠崎3丁目12番8号\n宇喜田町175番地\n\n江戸川3丁目8番地",
+    "implementationName": "実施施設一覧表\n|施設区分|地区|実施施設及び利用案内|住所|電話番号|利用定員|利用年齢|利用時間(注))祝日・年末年始を除く|\n|:----|:----|:----|:----|:----|:----|:----|:----|\n|私立の保育施設|小松川|光徳保育園https://www.koutoku.ed.jp/|平井6丁目53番7号|03-3618-0511|4名|8か月から就学前|月曜から金曜_午前9時から午後4時|\n|^|中央|みづえ保育園https://miduehoikuen.com/|江戸川4丁目23番地|03-3651-9007|2名|1歳から就学前|月曜から金曜_午前9時から午後4時|\n|^|^|ゆずりは保育園http://www.aiikukai.or.jp/yuzuriha/|大杉3丁目23番17号|03-6231-5400|2名|1歳から就学前|月曜から金曜_午前9時から午後4時|\n|^|^|ほほえみ保育園分園|中央1丁目1番15号|03-5661-2333|4名|1歳から就学前|月曜から金曜_午前9時から午後5時|\n|^|小岩|小岩みどり保育園|北小岩5丁目27番16号|03-3671-5983|2名|1歳から就学前|月曜から金曜_午前9時から午後4時|\n|^|小岩|ルーテル保育園https://www.lutheran-koiwachurch.jp/|南小岩3丁目6番8号|03-3650-2540|6人|6か月から就学前|月曜から金曜_午前9時から午後4時|\n|^|東部|江戸川保育園https://edogawa-hoikuen.com/ichiji_kintaro|江戸川1丁目11番3号|03-3677-4611|2人|6か月から就学前|月曜から金曜_午前9時から午後5時|\n|^|葛西東|アスク東葛西第二保育https://www.nihonhoiku.co.jp/blog/higashikasai2/ 受付フォームhttps://coubic.com/nhkikaku/810325/express|東葛西6丁目37番20号|03-5659-0150|3名|1歳から就学前|月曜から金曜_午前9時から午後4時|\n|認定こども園|葛西北|葛西めぐみこども園http://megumi.ed.jp/kasai-top.html|北葛西2丁目12番13号|03-6808-7121|6名|1歳から就学前|月曜から金曜_午前10時から午後3時|\n|^|葛西東|プレスクール仲よしこども園|中葛西4丁目12番15号|03-5659-0260|3名|4か月から就学前|・月曜から金曜_午前7時から午後8時_・土曜_午前7時から午後6時|\n|^|^|プレスクール第2仲よしこども園|中葛西3丁目3番6号|03-3680-8636|9名|4か月から就学前|・月曜から金曜_午前7時から午後8時_・土曜_午前7時から午後6時|\n|企業主導型保育所|中央|ニコニコ保育園えどがわ|中央1丁目15番24号|03-5879-4513|1名|1歳から2歳|月曜から金曜_午前10時から午後4時|\n|^|葛西北|すくすく保育園船堀園|船堀4丁目7番13号1階|03-5878-0136|1名|6か月から2歳|月曜から金曜_午前9時から午後5時|\n|^|葛西東|おれんじハウス中葛西保育園https://orangebaby-nakakasai.resv.jp/|中葛西6丁目17番9号1階|03-5878-0501|6名|4か月から就学前|・月曜・木曜 (0歳児)_・火曜・金曜 (1～5歳児) _午前9時から午後0時30分|\n|^|^|仲よし駅前保育園https://www.nakayoshihoikuen.com/house/ekimae|中葛西3丁目35番1号2階|03-3680-8497|3名|4か月から2歳|月曜から土曜_午前7時から午後8時_(注)土曜は午後6時まで|\n|子育てひろば|小松川|共育プラザ平井https://hirai-kyopla.com/hiroba|平井7丁目21番6号|03-3618-4031|2名|1歳から就学前|月曜から金曜_午前9時から12時_午後1時から5時_(注)1回3時間以内|\n|^|中央|共育プラザ中央https://kyoiku-plaza-chuo.tokyo/kosodateoyako/ichijiazukari/|松島1丁目38番1号|03-5662-7661|2名|1歳から3歳11カ月|月曜から金曜_午前9時から12時_午後1時から4時_(注)1回2時間以内|\n|^|^|共育プラザ一之江https://mommy-ichinoe.com/|一之江3丁目13番7号|03-3562-5911|3名|1歳から就学前|月曜から金曜_午前9時から午後4時_(注)1回3時間以内|\n|^|小岩|共育プラザ小岩https://mommy-koiwa.com/|北小岩2丁目14番17号|03-3672-0604|3名|1歳から就学前|月曜から金曜_午前9時から午後4時_(注)1回3時間以内|\n|^|小岩|共育プラザ南小岩https://minamikoiwa-kyopla.com/|南小岩4丁目5番8号|03-3673-2206|2名|1歳から3歳|月曜から金曜_午前9時から12時_午後1時から5時_(注)1回3時間以内|\n|^|東部|共育プラザ南篠崎https://mommy-minamisinozaki.com/|南篠崎3丁目12番8号|03-3678-8241|2名|1歳から就学前|月曜から金曜_午前9時から午後4時_(注)1回3時間以内|\n|^|葛西北|共育プラザ葛西https://mommy-kasai.com/temporalcustody/|宇喜田町175番地|03-3688-8611|4名|1歳から就学前|月曜から金曜_午前9時から12時_午後1時から4時_(注)1回2時間以内|\n\n以下の保育園については、当分の間、一時保育事業を休止いたします。再開が決まりましたら、ホームページ等でお知らせいたします。\n一時保育を休止している保育園の一覧表\n|施設区分|地区|実施施設及び利用案内|住所|電話番号|利用定員|利用年齢|利用時間(注))祝日・年末年始を除く|\n|:----|:----|:----|:----|:----|:----|:----|:----|\n|私立の保育施設|東部|ルンビニー保育園のホームページhttps://lumbi.ed.jp/nursery.php|江戸川3丁目8番地|03-3670-0134|2名|1歳から就学前|月曜から金曜_午前9時から午後5時|"
+  },
+  "institutionName": {
+    "canonicalName": "一時預かり（一時保育）",
+    "shortName": "一時保育"
+  },
+  "localGovernmentLink": {
+    "title": "一時保育",
+    "uri": "https://www.city.edogawa.tokyo.jp/e047/kosodate/kosodate/hoiku/ichiji/ichijihoiku.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "ご利用には実施施設で事前登録が必要です。\n実施施設に直接電話でご確認の上、登録ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第7項、第21条の9",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者のパート就労や病気等による緊急時、育児疲れなどのリフレッシュのために、家庭において保育を受けることが一時的に困難となったお子さんを、保育園や子育てひろばなどで一時的にお預かりしています。",
+  "support": {
+    "description": "保護者の通院、冠婚葬祭への出席やリフレッシュなど様々な理由で一時的にお子さんを預けたいときに、ご利用いただけます。",
+    "materiallySupport": "保護者の通院、冠婚葬祭への出席やリフレッシュなど様々な理由で一時的にお子さんを預けたいときに、ご利用いただけます。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "就学前の、健康で集団保育が可能なお子さんです。"
+  },
+  "updateDate": "2024-01-10",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "area": {
+    "areaCode": "132021;立川市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子ども家庭センター子ども健診係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020132021",
+    "psid": "psid3.0+9000020132021+1+UM7"
+  },
+  "belongings": "１ 里帰り出産等妊婦健康診査受診費用助成金交付申請書\n ※振込先は出産された方名義の口座になります。\n※交付申請書は健康推進課へご連絡いただくかホームページからダウンロードできます。\n２ 親子健康手帳（妊娠中の経過欄などをコピーさせていただきます）\n３ 都外の医療機関又は助産所で受診した妊婦健康診査の領収書の写し\n４ 未使用の妊婦健康診査受診票、妊婦超音波検査受診票、妊婦子宮頸がん検診受診票",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "立川市高松町3-22-9 健康会館内",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部子ども家庭センター子ども健診係",
+    "contactPhone": "042-527-3234",
+    "contactUrl": null,
+    "zipCode": "1900011"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊婦健康診査受診票を使用せずに、都外の医療機関又は助産所で妊婦健康診査を自費（保険適用外）で受診した妊婦の方に、健診費用の一部を助成します。\n●助成対象者\n次の全ての条件を満たした方が対象となります。\n１ 妊婦健康診査受診日に立川市に住民登録がある。\n２ 都外の医療機関又は助産所で受診した。（日本国内に限る）\n３ 未使用の妊婦健康診査受診票（又は妊婦超音波検査受診票、妊婦子宮頸がん検診受診票）を持っている。\n４ 出産日（流産又は死産の場合は、最後に受診した日）から１年以内の申請である。\n●助成の内容\n未使用の受診票１枚に対して下表の額を限度に支払った費用を助成します。\n受診票に記載されている検査項目が助成の対象となります。\n\n|受診票の種類|妊婦健康診査<br>（１回目）|妊婦健康診査<br>（２回目以降）|妊婦超音波検査|妊婦子宮頸がん検診|\n|:----|:----|:----|:----|:----|\n|助成限度額|１０，８５０円|５，０７０円|５，３００円|３，４００円|\n※ 助産所での受診は、妊婦健康診査（２回目以降）のみが助成対象になります。\n●申請書類\n１ 里帰り出産等妊婦健康診査受診費用助成金交付申請書\n ※振込先は出産された方名義の口座になります。\n※交付申請書は健康推進課へご連絡いただくかホームページからダウンロードできます。\n２ 親子健康手帳（妊娠中の経過欄などをコピーさせていただきます）\n３ 都外の医療機関又は助産所で受診した妊婦健康診査の領収書の写し\n４ 未使用の妊婦健康診査受診票、妊婦超音波検査受診票、妊婦子宮頸がん検診受診票\n●助産所での受診について\n助産所で受診する場合は、医療機関でなければ受診できない検査等がありますので、助産師とよく相談して医療機関と連携し安全で安心して出産できるようにしてください。\n※申請場所は市役所本庁ではなく健康会館になりますのでお気を付けください。\n申請・問合せ先\n〒190-0011 立川市高松町３－２２－９\n立川市福祉保健部健康推進課\n母子保健係（健康会館内）☎042-527-3234\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "里帰り出産時の妊婦健康診査の費用助成",
+    "shortName": "里帰り出産等妊婦健康診査受診費用助成"
+  },
+  "localGovernmentLink": {
+    "title": "里帰り出産等妊婦健康診査受診費用助成金のお知らせ",
+    "uri": "https://www.city.tachikawa.lg.jp/_res/projects/default_project/_page_/001/005/224/satogaerizyoseikinoshirase.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "立川市"
+  },
+  "procedureCounter": "立川市福祉保健部健康推進課\n母子保健係（健康会館内）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "妊婦健康診査について （PDF 177.9KB）",
+      "uri": "https://www.city.tachikawa.lg.jp/_res/projects/default_project/_page_/001/005/224/ninnpukennkoushinsanituite.pdf"
+    },
+    {
+      "title": "里帰り出産等妊婦健康診査受診費用助成金のお知らせ （PDF 151.8KB）",
+      "uri": "https://www.city.tachikawa.lg.jp/_res/projects/default_project/_page_/001/005/224/satogaerizyoseikinoshirase.pdf"
+    },
+    {
+      "title": "里帰り出産等妊婦健康診査受診費用助成金交付申請書 （PDF 141.4KB）",
+      "uri": "https://www.city.tachikawa.lg.jp/_res/projects/default_project/_page_/001/005/224/satogaeri.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "立川市にお住まいの妊婦さんが、里帰り出産などで立川市の委託医療機関以外の病院や助産所で妊婦健康診査を受診した場合、その健診にかかった費用の一部を償還払い（後払い）します。",
+  "support": {
+    "description": "●助成の内容\n未使用の受診票１枚に対して下表の額を限度に支払った費用を助成します。\n受診票に記載されている検査項目が助成の対象となります。\n\n|受診票の種類|妊婦健康診査<br>（１回目）|妊婦健康診査<br>（２回目以降）|妊婦超音波検査|妊婦子宮頸がん検診|\n|:----|:----|:----|:----|:----|\n|助成限度額|１０，９８０円|５，１４０円|５，３００円|３，４００円|\n",
+    "materiallySupport": null,
+    "monetarySupport": "●助成の内容\n未使用の受診票１枚に対して下表の額を限度に支払った費用を助成します。\n受診票に記載されている検査項目が助成の対象となります。\n\n|受診票の種類|妊婦健康診査<br>（１回目）|妊婦健康診査<br>（２回目以降）|妊婦超音波検査|妊婦子宮頸がん検診|\n|:----|:----|:----|:----|:----|\n|助成限度額|１０，９８０円|５，１４０円|５，３００円|３，４００円|\n※ 助産所での受診は、妊婦健康診査（２回目以降）のみが助成対象になります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次の全ての条件を満たした方が対象となります。\n１ 妊婦健康診査受診日に立川市に住民登録がある。\n２ 都外の医療機関又は助産所で受診した。（日本国内に限る）\n３ 未使用の妊婦健康診査受診票（又は妊婦超音波検査受診票、妊婦子宮頸がん検診受診票）を持っている。\n４ 出産日（流産又は死産の場合は、最後に受診した日）から１年以内の申請である。"
+  },
+  "updateDate": "2024-04-18",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

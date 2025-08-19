@@ -1,0 +1,139 @@
+{
+  "area": {
+    "areaCode": "132080;調布市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども生活部子ども政策課 ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020132080",
+    "psid": "psid3.0+7000020132080+2+UM25"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-499-6101",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども生活部子ども政策課",
+    "contactPhone": "042-481-7106,042-481-7757",
+    "contactUrl": "https://www.city.chofu.lg.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ベビーシッター及び家事・育児支援サービス利用料助成\n保護者の方が、一時的にお子様を保育できない時に、自宅で民間のベビーシッターを利用した場合の利用料の一部を助成します。\n出産直後の保護者の方が、自宅で民間の家事・育児支援サービスを利用した場合の利用料の一部を助成します。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "子ども生活部子ども政策課"
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自のベビーシッター費用の助成",
+    "shortName": "ベビーシッター及び家事・育児支援サービス利用料助成"
+  },
+  "localGovernmentLink": {
+    "title": "ベビーシッター及び家事・育児支援サービス利用料助成",
+    "uri": "https://www.city.chofu.lg.jp/050010/p027007.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "調布市"
+  },
+  "procedureCounter": "子ども生活部子ども政策課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請方法\n申請書及び委任状に必要事項を明記し、必要書類(領収書及び利用明細書)を添えて子ども政策課に直接持参するか、または郵送してください。\n(注)申請書及び委任状は子ども政策課にもあります。\n(注)申請書及び委任状はダウンロードファイルからも入手可能です。\n(注)令和4年5月1日より、申請書及び委任状の書式を変更しています。ダウンロードファイルには最新版を掲載していますので、以前印刷したものをコピーして使用している場合などは、お手元の申請書がダウンロードファイルと同じものか、記入前に必ず確認をお願いします。",
+  "procedurePeriod": {
+    "conditions": "申請期限\nベビーシッターまたは家事・育児支援サービスを利用した日を含めて3か月以内にご申請ください。この期限内に申請がない場合は、利用料が助成されませんのでご注意ください。\n(注)郵送による申請の場合、市役所到着日が申請日となります。\n(注)複数の利用日がある場合は、利用した最初の日から3か月以内に申請をしてください。\n(注)年間限度額は、利用日ではなく申請日を基準に計算します。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "幼児教育・保育の無償化",
+      "uri": "https://www.city.chofu.lg.jp/050020/p028000.html"
+    },
+    {
+      "title": "一般社団法人ドゥーラ協会(外部リンク)",
+      "uri": "https://www.doulajapan.com/"
+    },
+    {
+      "title": "公益社団法人全国保育サービス協会(外部リンク)",
+      "uri": "http://www.acsa.jp/"
+    },
+    {
+      "title": "ベビーシッターなどを利用するときの留意点(こども家庭庁ホームページ)(外部リンク)",
+      "uri": "https://www.cfa.go.jp/policies/hoiku/ninkagai/tsuuchi/babysitter"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ベビーシッターを利用する際の費用の一部を負担する制度です｡",
+  "support": {
+    "description": "保護者の方が、一時的にお子様を保育できない時に、自宅で民間のベビーシッターを利用した場合の利用料の一部を助成します。\n出産直後の保護者の方が、自宅で民間の家事・育児支援サービスを利用した場合の利用料の一部を助成します。",
+    "materiallySupport": null,
+    "monetarySupport": "助成金額\n事業者に支払った助成対象サービス利用料の2分の1（１年度あたりの上限額あり。）"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "小学校3年生までの児童の保護者（家事・育児支援サービスの助成対象者は1歳未満の児童の保護者）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "利用日時点で市内に住所を有する小学校3年生までの児童の保護者（家事・育児支援サービスの助成対象者は利用日時点で市内に住所を有する1歳未満の児童の保護者）"
+  },
+  "updateDate": "2024-07-13",
+  "useConsiderationFlag": false,
+  "utilization": "利用の流れ\n対象事業者の中から事業者を選び、直接利用契約を行います。\nベビーシッターを利用し、利用料を直接事業者にお支払いください。\n申請書類を添えて調布市に助成金の申請を行います。\n助成金が指定の口座に振り込まれます。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

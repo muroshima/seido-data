@@ -1,0 +1,136 @@
+{
+  "area": {
+    "areaCode": "131156;杉並区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": null,
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131156",
+    "psid": "psid3.0+8000020131156+1+UM14"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "荻窪保健センター,高井戸保健センター,高円寺保健センター,上井草保健センター,和泉保健センター",
+    "contactPhone": "荻窪保健センター　電話：03-3391-0015,高井戸保健センター　電話：03-3334-4304,高円寺保健センター　電話：03-3311-0116,上井草保健センター　電話：03-3394-1212,和泉保健センター　電話：03-3313-9331",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": "無料",
+  "costConditions": null,
+  "description": "赤ちゃんが生まれたら、全てのご家庭に訪問します\n保護者の方が安心して子育てができるよう、保健師または助産師がご自宅を訪問します。お気軽に相談ください。\n\n里帰り出産先で訪問を希望する場合\n里帰り等により他の区市町村ですこやか赤ちゃん訪問を希望する場合は、滞在先の区市町村に直接お問い合わせください。区市町村によってはご希望に添えない場合もあります。問い合わせの結果は、杉並区の担当地域の保健センターにご連絡ください。\nまた、里帰り先から戻られましたら、担当地域の保健センターにご連絡ください。\n\n杉並区内で里帰り出産する場合は、杉並区内の担当地域の保健センターへご相談ください。\n\n担当区域の保健センターの一覧は、下記のページをご覧ください。\n\n福祉事務所・保健センターの所管区域;https://www.city.suginami.tokyo.jp/guide/annai/shokan/1004469.html\n",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "すこやか赤ちゃん連絡票提出フォーム（LoGoフォーム）",
+      "uri": "https://logoform.jp/form/Y4gR/471205"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+    "shortName": "すこやか赤ちゃん訪問"
+  },
+  "localGovernmentLink": {
+    "title": "すこやか赤ちゃん訪問（生後4か月までの全戸訪問）",
+    "uri": "https://www.city.suginami.tokyo.jp/s054/1027.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/21",
+    "updater": "杉並区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "1．赤ちゃんが生まれたら、お早めに「すこやか赤ちゃん連絡票」をご提出ください。\n\n提出方法（以下いずれかの方法）\n\n電子申請\n下記「すこやか赤ちゃん連絡票提出フォーム（LoGoフォーム）」をクリックまたは2次元コードを読み取り、必要事項を入力の上、提出してください。\nなお、はがきにも同様の2次元コードが記載されています。\nはがき（令和6年4月1日以降に妊娠の届出をされた方にお渡しした母子健康手帳に綴じ込まれています。）\n郵送または杉並区の窓口（出生届と同時）に提出してください。\nすこやか赤ちゃん連絡票提出フォーム（LoGoフォーム）（外部リンク）;https://logoform.jp/form/Y4gR/471205新しいウィンドウで開きます\n\n2．提出された連絡票をもとに、訪問する保健師または助産師から日程調整のお電話をします。\n（注）携帯電話からご連絡する場合があります。\n\n里帰り中の方は、杉並区のご自宅に戻られてから訪問します。",
+  "procedurePeriod": {
+    "conditions": "お休み：土曜日・日曜日、祝日",
+    "fromHM": "08:30",
+    "fromYMD": null,
+    "toHM": "17:00",
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第21条の10の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "保健所・保健センター",
+      "uri": "https://www.city.suginami.tokyo.jp/kusei/gaiyou/shisetsu/genre/hoken/hokeniryou/hokenjo/index.html"
+    },
+    {
+      "title": "杉並区出産・子育て応援事業",
+      "uri": "https://www.city.suginami.tokyo.jp/s054/1125.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "生後4か月を迎えるまでの乳児がいるご家庭には専門職のほか、研修を受けたスタッフが訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+  "support": {
+    "description": "赤ちゃんの体重測定、保護者の体調の相談、授乳・子育ての相談、地域の子育て情報やサービスのご案内、子育て応援ギフトの案内など",
+    "materiallySupport": "赤ちゃんの体重測定、保護者の体調の相談、授乳・子育ての相談、地域の子育て情報やサービスのご案内、子育て応援ギフトの案内など",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後4か月までの赤ちゃんがいる全てのご家庭",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生後4か月までの赤ちゃんがいる全てのご家庭"
+  },
+  "updateDate": "2024/03/25",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

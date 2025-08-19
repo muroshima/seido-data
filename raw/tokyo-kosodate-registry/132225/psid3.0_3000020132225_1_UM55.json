@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132225;東久留米市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉保健部　健康課　予防係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132225",
+    "psid": "psid3.0+3000020132225+1+UM55"
+  },
+  "belongings": "該当する疾病にかかっていたことや、やむを得ず予防接種を受けることができなかったと判断した理由などを記載した医師の診断書など",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都東久留米市滝山4-3-14",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉保健部　健康課　予防係",
+    "contactPhone": "042-477-0030",
+    "contactUrl": "https://www.city.higashikurume.lg.jp/kurashi/kenko/chusha/1009253.html",
+    "zipCode": "2030033"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "東久留米市医師会では、おたふくかぜ予防接種費用の一部助成を行っております。\nこの予防接種は、東久留米市が実施している法定の予防接種と異なり、保護者の方が接種を判断する任意の予防接種です。接種をご希望される方は、医師とご相談の上、ご利用ください。\n\n対象者\n東久留米市に住民登録があり、これまでにおたふくかぜに罹患したことがなく、過去に1回もおたふくかぜ予防接種を受けていない1歳から2歳の誕生日前日までの方\n接種回数\n1回\n実施方法及び実施場所\n個別接種\n予診票の置かれている市内指定医療機関（要予約）\n\n自己負担金\n2,000円\n持ち物\n予診票・母子健康手帳・本人確認書類（保険証、乳幼児医療証等）\nお問い合わせ先\n東久留米市医師会 　電話：042-473-5661\n実施医療機関一覧\n\n|医療機関名|住所|電話番号|\n|:----|:----|:----|\n|細井医院|東本町4－3|042-471-0130|\n|石橋クリニック|東本町8－9|042-477-5566|\n|いくせ医院|新川町1－4－18|042-471-2304|\n|ひばりヶ丘診療所|学園町2－11－14|042-421-0973|\n|大塚小児科アレルギー科クリニック|本町3－1－23|042-479-7300|\n|富士見通り診療所|本町3－3－23|042-471-2291|\n|アルテミスウイメンズホスピタル|中央町1－1－20|042-472-6111|\n|前沢医院|前沢2－10－9|042-471-0154|\n|さくらんぼキッズクリニック|南町4－1－17|042-497-6200|\n|長生医院|滝山7－3－17|042-473-1117|\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "任意予防接種",
+    "shortName": "おたふくかぜ予防接種（任意接種）接種費用の一部助成"
+  },
+  "localGovernmentLink": {
+    "title": "お子さんの予防接種",
+    "uri": "https://www.city.higashikurume.lg.jp/kurashi/kenko/chusha/1009253.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-10",
+    "updater": "東久留米市"
+  },
+  "procedureCounter": "東久留米市医師会　電話042－473－5661",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "詳細については、東久留米市医師会へお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。現在、定期接種以外で小学校就学前のお子さんが接種できるワクチンとしては、おたふくかぜ、インフルエンザなどがあります。\nこのうち東久留米市では、次の任意予防接種に対して、接種費用を助成しています。接種するかどうかについては、かかりつけ医とご相談のうえ、保護者の判断により決めてください。",
+  "support": {
+    "description": "接種費用の一部助成を行っています。",
+    "materiallySupport": null,
+    "monetarySupport": "接種費用の一部助成を行っています。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "1歳～2歳の誕生日前日までの方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "東久留米市に住民登録があり、過去に1回もおたふくかぜに罹患したことがなく、過去に1回も「おたふくかぜ予防接種」を受けていない1歳～2歳の誕生日前日までの方"
+  },
+  "updateDate": "2024-04-11",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132063;府中市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子ども家庭支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132063",
+    "psid": "psid3.0+8000020132063+1+UM119"
+  },
+  "belongings": "母子健康手帳",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援課母子保健係",
+    "contactPhone": "042-368-5333",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "無料",
+  "description": "離乳食相談のお知らせ（6月実施分）\n最終更新日：2024年5月25日\n離乳食の進め方や与え方など、お食事のお悩みに栄養士がマンツーマンでお答えします。\nお気軽にご相談ください。\n\n6月の開催日（予約制）\n日程\n令和6年6月3日（月曜日） 27日（木曜日）\n\n時間\n午前10時5分から午後3時\n\n場所\n子育て世代包括支援センター「みらい」　（フォーリス3階）;https://www.city.fuchu.tokyo.jp/shisetu/kosodate/houkatsushien-mirai/mirai.html\n\n費用\n無料\n\n持ち物\n母子健康手帳\n\n申込み\n開催日の3週間前から下記の方法でお申込みできます。なお、LINE申し込みは3日前が締切となっておりますので、それ以降の場合は電話で申し込みください。\n・子ども家庭支援課母子保健係（電話：042-368-5333）\n・外部サイトへリンク　新規ウインドウで開きます。府中市LINE公式アカウント（外部サイト）\n\n「みらい」では感染症対策として保護者の方のマスク着用を推奨いたします。お子様や保護者の方の体調がすぐれないときは来所をお控えください。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "府中市LINE公式アカウント（外部サイト）",
+      "uri": "https://liff.line.me/1645278921-kWRPP32q/?accountId=fuchu_city"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "日程\n令和6年6月3日（月曜日） 27日（木曜日）\n\n時間\n午前10時5分から午後3時",
+    "fromHM": "10:05",
+    "fromYMD": null,
+    "toHM": "15:00",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "子育て世代包括支援センター「みらい」　（フォーリス3階）;https://www.city.fuchu.tokyo.jp/shisetu/kosodate/houkatsushien-mirai/mirai.html"
+  },
+  "institutionName": {
+    "canonicalName": "府中市の子育てに関する相談",
+    "shortName": "離乳食相談"
+  },
+  "localGovernmentLink": {
+    "title": "離乳食相談のお知らせ（6月実施分）",
+    "uri": "https://www.city.fuchu.tokyo.jp/kosodate/shussan/boshinokenko/jigyo/rinyuusyokusoudann.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "府中市"
+  },
+  "procedureCounter": "子ども家庭支援課母子保健係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": "開催日の3週間前から下記の方法でお申込みできます。なお、LINE申し込みは3日前が締切となっておりますので、それ以降の場合は電話で申し込みください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "離乳食の進め方や与え方など、お食事のお悩みに栄養士がマンツーマンでお答えします。\nお気軽にご相談ください。",
+  "support": {
+    "description": "離乳食の進め方や与え方など、お食事のお悩みに栄養士がマンツーマンでお答えします。\n\n「みらい」では感染症対策として保護者の方のマスク着用を推奨いたします。お子様や保護者の方の体調がすぐれないときは来所をお控えください。",
+    "materiallySupport": "離乳食の進め方や与え方など、お食事のお悩みに栄養士がマンツーマンでお答えします。\n\n「みらい」では感染症対策として保護者の方のマスク着用を推奨いたします。お子様や保護者の方の体調がすぐれないときは来所をお控えください。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-05-25",
+  "useConsiderationFlag": false,
+  "utilization": "開催日の3週間前から下記の方法でお申込みできます。・子ども家庭支援課母子保健係（電話：042-368-5333）\n・府中市LINE公式アカウント（外部サイト）;https://liff.line.me/1645278921-kWRPP32q/?accountId=fuchu_city",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

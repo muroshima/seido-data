@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "133051;日の出町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "東京都 日の出町　福祉課地域支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133051",
+    "psid": "psid3.0+1000020133051+1+UM824"
+  },
+  "belongings": "・自立支援医療費（精神通院）支給認定申請書\n・自立支援医療診断書（精神通院）\n・健康保険証\n・個人番号が確認できるもの（個人番号カード・通知カード等）\n・本人確認ができるもの（運転免許証・パスポート・障害者手帳等）\n\n＊受診者が18歳未満の場合においては受診者及び保護者のマイナンバーが確認できる書類が必要になります。\n＊手帳の再交付・住所変更・紛失した時などにも手続きが必要です。詳しくは地域支援係まで問い合わせてください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "292293294",
+    "contactName": "東京都 日の出町　福祉課地域支援係",
+    "contactPhone": "042-588-4112",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": "原則として1割負担",
+  "costConditions": null,
+  "description": "所得制限\n一定の所得以上の方は対象とならない場合があります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度（精神通院医療）",
+    "shortName": "精神通院医療給付（自立支援医療）"
+  },
+  "localGovernmentLink": {
+    "title": "障害のある方（手当・医療助成関係）の福祉制度",
+    "uri": "https://www.town.hinode.tokyo.jp/0000000112.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/18",
+    "updater": "日の出町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+  "support": {
+    "description": "精神疾患のため継続的に通院が必要な方の自己負担分の医療費が一部助成されます。",
+    "materiallySupport": null,
+    "monetarySupport": "精神疾患のため継続的に通院が必要な方の自己負担分の医療費が一部助成されます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "精神障がいおよび当該精神障がいに起因して生じた疾病の方で、通院による精神医療を継続的に必要とする方"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

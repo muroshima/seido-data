@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "千代田保健所健康推進課感染症対策係（予防接種担当）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+1+UM55"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区九段北1-2-14",
+    "contactComment": null,
+    "contactEmail": "kenkousuishin@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "千代田保健所健康推進課感染症対策係（予防接種担当）",
+    "contactPhone": "03-5211-8172",
+    "contactUrl": null,
+    "zipCode": "1020073"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "この助成制度は、MR1期または2期の接種を受けていない2歳から高校生相当以下のお子様を対象にしたものです。\nMR（麻しん風しん混合）ワクチンは、1回の接種だけでは免疫が付かない方が5パーセント程度いると言われています。また、1回の接種で免疫が付いたものの、時間の経過とともに免疫が低下してしまう場合もあります。そのため、2回の接種が勧められています。\n千代田区では、MR（麻しん風しん混合）ワクチン1期・2期の対象年齢を過ぎてしまったお子さんに、接種費用の助成を行います。\n\n実施場所\n「令和6年度千代田区定期予防接種・任意予防接種指定医療機関名簿（令和6年4月1日現在）（PDF：586KB）」をご覧ください。\n千代田区内の指定医療機関以外で接種した場合は全額自己負担となります。\n\n接種ワクチン\nMR（麻しん風しん混合）ワクチン\n\nAdobe Acrobat Readerのダウンロードページへ\nPDF形式のファイルをご覧いただく場合には、Adobe Acrobat Readerが必要です。Adobe Acrobat Readerをお持ちでない方は、バナーのリンク先から無料ダウンロードしてください。　　\n\nお問い合わせ\nファクス：03-5211-8192",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "千代田区内の指定医療機関"
+  },
+  "institutionName": {
+    "canonicalName": "任意予防接種",
+    "shortName": "MR（麻しん風しん混合）ワクチン任意予防接種費用助成"
+  },
+  "localGovernmentLink": {
+    "title": "MR（麻しん風しん混合）ワクチン任意予防接種費用助成",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/yobosesshu/muryosesshu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": "予診票専用ダイヤル",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "予診票専用ダイヤル03-6256-9005へ電話、またはメールでお申し込みください。\nメールアドレス：kenkousuishin@city.chiyoda.lg.jp\nメールの場合は、\n件名を「任意MR予診票希望」とし、本文に次の項目を記入してください。\n1.お子さんの氏名（フリガナ）\n2.生年月日\n3.住所\n4.連絡先電話番号（注意）\n お申込後、1週間以内にお手元に届かない場合は、お手数ですがお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "令和6年度千代田区定期予防接種・任意予防接種指定医療機関名簿（令和6年4月1日現在）（PDF：586KB）",
+      "uri": "https://www.city.chiyoda.lg.jp/documents/1306/r60401yobo-iryomeibo.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。現在、定期接種以外で小学校就学前のお子さんが接種できるワクチンとしては、おたふくかぜ、インフルエンザなどがあります。\nこのうち千代田区では、次の任意予防接種に対して、接種費用を助成しています。接種するかどうかについては、かかりつけ医とご相談のうえ、保護者の判断により決めてください。",
+  "support": {
+    "description": "助成回数\n1.1回\n2.最大2回（逸した接種機会の回数に応じて）\n\n接種費用\n無料",
+    "materiallySupport": null,
+    "monetarySupport": "助成回数\n1.1回\n2.最大2回（逸した接種機会の回数に応じて）\n\n接種費用\n無料"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "2歳以上幼稚園・保育園年中相当年齢以下,小学校1年生以上高校3年生相当年齢以下",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "MR1期または2期の接種を受けていない2歳から高校生相当以下のお子様"
+  },
+  "updateDate": "2024-04-02",
+  "useConsiderationFlag": false,
+  "utilization": "他の任意予防接種と異なり、予防接種予診票は医療機関に置いていません。接種前に、予診票専用ダイヤル（03-6256-9005）へご連絡のうえ、予防接種予診票を取り寄せてから接種を受けてください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

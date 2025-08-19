@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部健康サービス課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+3+UM15"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部健康サービス課",
+    "contactPhone": "03-5661-2466",
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+    "zipCode": null
+  },
+  "cost": "3000",
+  "costConditions": "1回3,000円\n\n 住民税非課税世帯、生活保護世帯は全額免除されます。\n\n施設までの往復の交通費はご自身の負担となります。",
+  "description": "産後ケア（デイサービス型）事業は日帰りタイプの産後ケアです。産後のお母さんの心身をゆっくり休めたり、助産師による授乳指導や育児相談が受けられます。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "電子申請サービス",
+      "uri": "https://logoform.jp/form/L6MJ/436449"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "利用時間\n午前10時から午後3時まで\n\n（注意：実施施設により終了時間が異なる場合があります。詳しくは各施設にお問い合わせください。）",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "対象になるお子さんの月齢等利用に関する詳細は、各施設にお問合せください。\n\n産後ケア事業利用後、必要に応じて実施施設と区の保健師が連絡を取りながら育児を支援させていただきます。\n\n■産前産後ケアセンター東峯サライ\n東峯サライ（江東区木場6丁目11番3号）（外部サイトへリンク）（別ウィンドウで開きます）\n\n予約専用電話：03-3615-1111\nお問合せ電話：03-3646-0303\n■綾瀬産婦人科外来併設綾瀬産後ケア\n綾瀬産後ケア（葛飾区小菅4丁目8番10号）（外部サイトへリンク）（別ウィンドウで開きます）\n\n予約・問合せ電話：03-3838-6588\n■五の橋産婦人科\n五の橋産婦人科（江東区亀戸6丁目1番6号）（外部サイトへリンク）（別ウィンドウで開きます）\n\n予約・問合せ電話：03-3636-6000\n■まつしま病院（令和5年6月から）\nまつしま病院（江戸川区松島1丁目41番29号）（外部サイトへリンク）（別ウィンドウで開きます）\n\n予約・問合せ電話：03-3653-5541\n■東京臨海病院（令和5年7月から）\n東京臨海病院（江戸川区臨海町1丁目4番2号）（外部サイトへリンク）（別ウィンドウで開きます）\n\n予約・問合せ電話：03-5605-8815（予約センター）\n■ファミール産院えどがわ（令和6年4月から）\n\nファミール産院えどがわ（江戸川区一之江8丁目15番3号（外部サイトへリンク）（別ウィンドウで開きます））\n\n・予約・問合せ電話：03-3656-5750\n■賛育会病院（令和6年4月から）\n賛育会病院（墨田区太平3丁目20番2号）（外部サイトへリンク）（別ウィンドウで開きます）\n\n・予約・問合せ電話：03-3622-9103（予約センター）\n\n・予約受付時間：月曜日から金曜日　9時00分から16時00分"
+  },
+  "institutionName": {
+    "canonicalName": "産後ケア事業",
+    "shortName": "産後ケア（デイサービス型）事業"
+  },
+  "localGovernmentLink": {
+    "title": "産後ケア（デイサービス型）事業",
+    "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/sangokea/tuusyo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "健康サービス課母子保健係\n電話：03-5661-2466\n（注）土曜日・日曜日・祝日・年末年始を除く午前8時30分から午後5時",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "利用手順（1）利用申請と承認番号の取得（施設の予約には承認番号が必要です）\n電子申請又は郵送申請（郵便料金は自己負担）で利用申請をしてください。申請後【承認番号】を発行致します。\n\n申請は妊娠28週（8か月）から可能です。（但し、利用日に区民でないと使えません。）\nお急ぎの方は【承認番号】を電話でお伝えしますので、電子申請後に母子保健係（電話：03-5661-2466）までお電話ください。\n利用手順（2）【承認番号】を利用した施設の予約\n申請内容を確認後、【承認番号】を記載した「利用承認通知書」をご自宅に郵送します。（お急ぎの方は【承認番号】を電話でお伝えしますので、電子申請後に母子保健係（電話：03-5661-2466）までお電話ください。）\n\n【承認番号】を取得したら利用したい施設の予約又は仮予約が取れます。直接利用施設にお問い合わせください。\n宿泊型とデイサービス型それぞれの【承認番号】を発行します。\n（注）予約の際に【承認番号】が必要となります。申請前の予約はできません。\n\n利用手順（3）施設利用当日に「利用承認通知書」を提示する\n「利用承認通知書」は支払いに必要になります。大切に保管してください。\n\n（注）「利用申請承認通知書」は1度の申請で宿泊型は5日まで、デイサービス型は2回まで利用できます。大切に保管してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第17条の2（産後ケア事業）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "産後のお母さんとお子さんに対して、助産師等専門職による母子ケアを提供する事業です。",
+  "support": {
+    "description": "1回の出産につき2回まで\n（注）利用日前日の正午以降のキャンセルは、利用1回とみなします。",
+    "materiallySupport": "・お母さんのケア（健康状態の確認、休養の確保など）\n・赤ちゃんのケア（健康観察、体重等の発育の確認など）\n・授乳や育児に関する相談・指導等\n・食事の提供（利用日の昼食のみ）",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "江戸川区に住民登録があり、産後ケアを希望する産後4か月未満のお母さんとその赤ちゃん\n（注意：実施施設によって利用できるお子さんの月齢が異なります。詳しくは各施設にお問い合わせください。）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": 4
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "江戸川区に住民登録があり、産後ケアを希望する産後4か月未満のお母さんとその赤ちゃん\n（注意：実施施設によって利用できるお子さんの月齢が異なります。詳しくは各施設にお問い合わせください。）"
+  },
+  "updateDate": "2023-10-31",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "利用時間\n午前10時から午後3時まで\n\n（注意：実施施設により終了時間が異なる場合があります。詳しくは各施設にお問い合わせください。）",
+    "fromHM": "10:00",
+    "toHM": "15:00"
+  }
+}

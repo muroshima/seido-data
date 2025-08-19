@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "132292;西東京市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132292",
+    "psid": "psid3.0+1000020132292+1+UM112"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "西東京市住吉町六丁目15番6号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援センター",
+    "contactPhone": "042-425-3303",
+    "contactUrl": null,
+    "zipCode": "2020005"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "https://www.city.nishitokyo.lg.jp/kosodate/KO/tiikikosodatesienkyoten.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育て広場",
+    "shortName": "子育てひろば（地域子育て支援拠点）"
+  },
+  "localGovernmentLink": {
+    "title": "子育てひろば（地域子育て支援拠点）",
+    "uri": "https://www.city.nishitokyo.lg.jp/kosodate/KO/tiikikosodatesienkyoten.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-11",
+    "updater": "西東京市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第6項",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "のどか広場",
+      "uri": "https://www.city.nishitokyo.lg.jp/kosodate/nodoka/hiroba_nodoka.html"
+    },
+    {
+      "title": "子育て広場「利用案内」",
+      "uri": "https://www.city.nishitokyo.lg.jp/kosodate/nodoka/sisetukaiho.html"
+    },
+    {
+      "title": "ピッコロ広場",
+      "uri": "https://www.city.nishitokyo.lg.jp/kosodate/nodoka/hiroba_pikkoro.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "西東京市では市内の地域子育て支援センターなどを子育て支援拠点として、子育て中の親子が気軽に集い、相互交流や子育ての不安・悩みを相談できる場を提供しています。また、地域の子育て関連情報の提供や、子育て支援に関する講習なども実施しています。",
+  "support": {
+    "description": "子育てひろば（地域子育て支援拠点）は、乳幼児と保護者が一緒に遊んで過ごせる場所です。利用者同士の交流や、情報交換、子育て相談もできます。市内には、地域子育て支援センター5か所、児童館11か所と、のどか広場・ピッコロ広場があります。\n\n子育てひろばでは・子育てひろばには\n1　親子で遊んだり、交流したりできる場所があります\n2　子育て相談ができます\n3　子育てに関するいろいろな情報があります\n4　子育てに関する講座を行っています\n\n子ども家庭支援センター担当　子育てひろば\n|ひろば名称|概要|<|\n|:----|:----|:----|\n|のどか広場;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/hiroba_nodoka.html|所在地|住吉町六丁目15番6号　住吉会館2階|\n|^|開設日・時間|日曜日から土曜日　午前10時から午後5時|\n|^|休館日|祝日、年末年始|\n|^|対象年齢|0歳から3歳|\n|^|館庭|利用可能（月曜日から金曜日　午後1時から5時）|\n|^|授乳スペース|あり|\n|^|食事スペース|午前10時から午後4時30分まで利用可能|\n|^|その他|専門職（保育士）がいます。駐車場があります。|\n|ピッコロ広場;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/hiroba_pikkoro.html|所在地|田無町三丁目7番2号　コール田無3階|\n|^|開設日・時間|火曜日から日曜日　午前10時から午後5時|\n|^|休館日|月曜日（月曜日が祝日の場合開設し、火曜日が休み）、年末年始|\n|^|対象年齢|0歳から3歳|\n|^|館庭|なし|\n|^|授乳スペース|あり|\n|^|食事スペース|午前10時から午後4時30分まで利用可能|\n|^|その他|専門職（保育士）がいます。|\n\n子育て広場「利用案内」;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/sisetukaiho.html",
+    "materiallySupport": "子育てひろば（地域子育て支援拠点）は、乳幼児と保護者が一緒に遊んで過ごせる場所です。利用者同士の交流や、情報交換、子育て相談もできます。市内には、地域子育て支援センター5か所、児童館11か所と、のどか広場・ピッコロ広場があります。\n\n子育てひろばでは・子育てひろばには\n1　親子で遊んだり、交流したりできる場所があります\n2　子育て相談ができます\n3　子育てに関するいろいろな情報があります\n4　子育てに関する講座を行っています\n\n子ども家庭支援センター担当　子育てひろば\n|ひろば名称|概要|<|\n|:----|:----|:----|\n|のどか広場;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/hiroba_nodoka.html|所在地|住吉町六丁目15番6号　住吉会館2階|\n|^|開設日・時間|日曜日から土曜日　午前10時から午後5時|\n|^|休館日|祝日、年末年始|\n|^|対象年齢|0歳から3歳|\n|^|館庭|利用可能（月曜日から金曜日　午後1時から5時）|\n|^|授乳スペース|あり|\n|^|食事スペース|午前10時から午後4時30分まで利用可能|\n|^|その他|専門職（保育士）がいます。駐車場があります。|\n|ピッコロ広場;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/hiroba_pikkoro.html|所在地|田無町三丁目7番2号　コール田無3階|\n|^|開設日・時間|火曜日から日曜日　午前10時から午後5時|\n|^|休館日|月曜日（月曜日が祝日の場合開設し、火曜日が休み）、年末年始|\n|^|対象年齢|0歳から3歳|\n|^|館庭|なし|\n|^|授乳スペース|あり|\n|^|食事スペース|午前10時から午後4時30分まで利用可能|\n|^|その他|専門職（保育士）がいます。|\n\n子育て広場「利用案内」;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/sisetukaiho.html",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0歳から3歳",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "0歳から3歳"
+  },
+  "updateDate": "2022-07-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "のどか広場\n日曜日から土曜日　午前10時から午後5時\nピッコロ広場\n火曜日から日曜日　午前10時から午後5時",
+    "fromHM": "10:00",
+    "toHM": "17:00"
+  }
+}

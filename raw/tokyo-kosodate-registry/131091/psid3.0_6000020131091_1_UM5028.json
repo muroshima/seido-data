@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131091;品川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども育成課子どもの居場所担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131091",
+    "psid": "psid3.0+6000020131091+1+UM5028"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども育成課子どもの居場所担当",
+    "contactPhone": "03-5742-6596",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "すまいるスクールは、全ての品川区立小学校や、義務教育学校（以下、小学校）にあり、利用にあたっては登録が必要です。利用開始希望月により、登録および申請の期限があります。すまいるスクールの詳しい内容につきましては、『令和6年度品川区すまいるスクールカラーパンフレット』をご覧ください。内容をよくお読みいただき、ご理解の上、お手続きください。\n\n令和6年度品川区すまいるスクールカラーパンフレット(PDF : 5MB)；https://www.city.shinagawa.tokyo.jp/ct/pdf/20240109124409_1.pdf\n\n令和7年度すまいるスクール利用登録のご案内\n利用登録にあたっては、『令和7年度すまいるスクール利用登録のご案内』をお読みください。\n令和6年度に登録がある方も、改めて利用登録が必要です。\n\n令和7年度すまいるスクール利用登録のご案内(PDF : 5MB);https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-smileschool/20250107141629.htmlpdf/220250107141629_10.pdf\n\n利用登録の受付期間\n利用開始希望月により、登録および申請の期限があります。\n|利用月|一斉受付（4月利用の場合）|随時受付（5月以降の利用の場合）| |\n|:----|:----|:----|:----|\n|利用開始日|令和7年4月1日 |令和7年5月以降　毎月1日| |\n|受付期間| |令和7年5月1日からの利用登録受付| |\n| |令和7年1月17日（金）～2月18日（火）|　令和7年3月11日（火）～4月10日（木）| |\n| |日曜、祝日を除く午前9時30分～午後7時|令和7年6月以降| |\n| | |　利用希望の前々月11日～前月10日まで(日曜、祝日の場合は翌日）| |\n| | |　日曜、祝日、年末年始を除く午前9時30分～午後7時| |\n|申し込み|在学中または就学予定の小学校のすまいるスクールに|同左| |\n|方法 |保護者が直接持参 |区外からの転入等、やむを得ない理由により、一斉受付期間や、| |\n| | |毎月の締め切りまでに申請できない場合は、各すまいるスクール、| |\n| |区立学校以外の方は、下記(＊)のとおり|または子ども育成課にご相談ください。| |\n|承認通知|時間延長利用希望者のみ承認通知を発送|時間延長利用希望者のみ承認通知を発送| |\n| |(3月下旬に発送予定)|(締切日より約2週間後に発送予定）| |\n|その他 |（空欄） | 各種変更届や、時間延長利用希望も上記受付期間に提出| |\n＊すまいるスクールを初めて利用する区立学校以外の小学校等に就学、在学する児童の場合、\n   子ども育成課にて利用登録手続きを行ってください。（土日祝を除く午前8時30分～午後5時）\n\n登録・変更に必要な書類様式等\n・利用登録に必要な書類は、ホームページよりダウンロードし印刷していただくか、各すまいるスクール・子ども育成課にも用意があります。\n\n・必要な書類をA4に印刷してご利用ください。\n\n・『令和7年度すまいるスクール利用登録兼利用児童調査票』は表と裏があります。両面印刷をして両方にご記入ください。\n\n・『口座振替依頼書』は3枚複写の書類です。各すまいるスクール・子ども育成課にあります。\n\n・利用登録手続き後に登録内容に変更が生じた場合は、変更内容に応じた変更届をすまいるスクールにご提出ください。\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "全ての品川区立小学校や、義務教育学校"
+  },
+  "institutionName": {
+    "canonicalName": "放課後子供教室",
+    "shortName": "すまいるスクール"
+  },
+  "localGovernmentLink": {
+    "title": "令和7年度すまいるスクールの手続きおよび必要書類について",
+    "uri": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-smileschool/20250107141629.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/20",
+    "updater": "品川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "地域住民の参画を得て、放課後等に区内在住の小学生を対象として、学習や体験・交流といった多様な活動を行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "\n1.品川区立学校および義務教育学校（前期課程）に就学、在学する児童\n2.区内在住で、区立学校以外の小学校等（特別支援学校および各種学校を含む)に就学、在学する児童\n(注)区立学校に在籍する児童で、医療的ケアを必要とする場合は、事前にご相談ください。"
+  },
+  "updateDate": "2024/01/11",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

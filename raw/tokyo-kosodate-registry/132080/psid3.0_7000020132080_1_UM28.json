@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132080;調布市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども生活部子ども家庭課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020132080",
+    "psid": "psid3.0+7000020132080+1+UM28"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-499-6101",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども生活部子ども家庭課",
+    "contactPhone": "042-481-7093",
+    "contactUrl": "https://www.city.chofu.lg.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "母子及び父子福祉資金貸付\n\n母子及び父子福祉資金\nひとり親家庭の方々が経済的に自立して、安定した生活を送るために必要とする資金の貸付を行っています。\n貸付を受けられる方\n都内に6ヶ月以上住んでいて、20歳未満の子どもを扶養している母子家庭の母及び父子家庭の父。\n(注)平成26年10月1日より、世帯で20歳未満の子どもを扶養していれば、20歳以上の子どものための貸付を利用することができるようになりました。\n連帯保証人\n独立して生活を営んでいる方で、この資金について他に保証をしていない方が1人必要です。居住地域に関する規程があります。\n資金の種類\n修学・就職・転宅等、目的により12種類の資金にわかれており、上限額があります。必要な額を個々のお話を伺った上で貸付けます。貸付の条件・基準に照らして審査があります。\n相談・申請について\n申請にあたっては、母子・父子自立支援員との来所による事前相談が必要です。\n支払い後のご相談、申請受付はできませんので、詳細及び相談予約は、子ども家庭課までお問い合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "子ども生活部子ども家庭課"
+  },
+  "institutionName": {
+    "canonicalName": "母子父子寡婦福祉資金",
+    "shortName": "母子及び父子福祉資金貸付"
+  },
+  "localGovernmentLink": {
+    "title": "母子及び父子福祉資金貸付",
+    "uri": "https://www.city.chofu.lg.jp/050030/p029020.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "調布市"
+  },
+  "procedureCounter": "子ども生活部子ども家庭課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "相談・申請について\n申請にあたっては、母子・父子自立支援員との来所による事前相談が必要です。\n支払い後のご相談、申請受付はできませんので、詳細及び相談予約は、子ども家庭課までお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（母子福祉資金の貸付け）、第14条（母子・父子福祉団体に対する貸付け）、第31条の6（父子福祉資金の貸付け）、第32条（寡婦福祉資金の貸付け）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "母子家庭の母、父子家庭の父、および寡婦の方の経済的自立や、扶養しているお子さんの福祉増進のために、必要な資金をお貸しする制度です。",
+  "support": {
+    "description": "ひとり親家庭の方々が経済的に自立して、安定した生活を送るために必要とする資金の貸付を行っています。",
+    "materiallySupport": null,
+    "monetarySupport": "ひとり親家庭の方々が経済的に自立して、安定した生活を送るために必要とする資金の貸付を行っています。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "都内に6ヶ月以上住んでいて、20歳未満の子どもを扶養している母子家庭の母及び父子家庭の父。\n(注)平成26年10月1日より、世帯で20歳未満の子どもを扶養していれば、20歳以上の子どものための貸付を利用することができるようになりました。"
+  },
+  "updateDate": "2024-06-28",
+  "useConsiderationFlag": false,
+  "utilization": "相談・申請について\n申請にあたっては、母子・父子自立支援員との来所による事前相談が必要です。\n支払い後のご相談、申請受付はできませんので、詳細及び相談予約は、子ども家庭課までお問い合わせください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "児童相談所児童相談課児童福祉係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+5+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "南青山5-7-11",
+    "contactComment": "ファックス番号：03-5962-6509\n\n外国語対応が必要な人、通訳オペレーター、区の職員の3人で会話ができます。\n\n多言語対応三者通話サービス;https://www.multilingualinterpretercallservice.city.minato.tokyo.jp/kokusai",
+    "contactEmail": null,
+    "contactEx": "3944",
+    "contactName": "児童相談所児童相談課児童福祉係",
+    "contactPhone": "03-5962-6500",
+    "contactUrl": null,
+    "zipCode": "1070062"
+  },
+  "cost": null,
+  "costConditions": "無料",
+  "description": "親子のための相談LINE\n子育てや親子関係について悩んだときに子ども（18歳未満）やその保護者などが相談できます\n「親子のための相談LINE」は港区に在住の18歳未満の児童及びその保護者や関係者はLINEでの相談ができます。\n\n 匿名（LINE上のアイコンとニックネーム）でも相談ができます。\n\n 相談内容の秘密は守られます。\n\n相談の流れ\n1:LINE公式アカウント「親子のための相談LINE」を友達追加\n\n2:住んでいる都道府県と市区町村を登録\n\n3:注意事項と町人数を確認し相談システムのリンクを開く\n\n4:相談支援システムに利用者情報を入力する\n\n5:相談内容を送信する\n\n6:相談員とやりとりをします\n\nアクセス方法\n親子のための相談LINE;https://www.city.minato.tokyo.jp/jidofukushi/images/soudanline.png\n\n☜左の二次元コードを読み取って、友達登録をしてご利用ください。\n\n対応日時\n対応日　：通年(土日祝日も含）\n\n対応時間：13時～21時　※やりとりができる時間は左記のみですが、24時間受付をしています。\n\n上記時間では間に合わない、すぐに相談をしたい時にはLINE上から「児童相談所虐待対応ダイヤル189」で電話をするか、\n\n「港区児童虐待相談ダイヤル」へご連絡ください。\n\n関連リンク\n\nこども家庭庁「親子のための相談LINE」（外部サイトへリンク）;http://www.cfa.go.jp/policies/jidougyakutai/oyako-line/",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "こちら",
+      "uri": "https://line.me/R/ti/p/@778asdia"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "南青山5-7-11",
+    "implementationName": "児童相談所"
+  },
+  "institutionName": {
+    "canonicalName": "港区の子育てに関する相談",
+    "shortName": "親子のための相談LINE"
+  },
+  "localGovernmentLink": {
+    "title": "親子のための相談LINE",
+    "uri": "https://www.city.minato.tokyo.jp/jidofukushi/soudanline.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "港区"
+  },
+  "procedureCounter": "港区児童相談所児童相談課児童福祉係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "オンライン",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "児童、保護者",
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "こども家庭庁「親子のための相談LINE」（外部サイトへリンク）",
+      "uri": "http://www.cfa.go.jp/policies/jidougyakutai/oyako-line/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "者と一緒に解決策を考え、現状に即した対応ができるよう相談体制の充実を図ります。",
+  "support": {
+    "description": "「親子のための相談LINE」は港区に在住の18歳未満の児童及びその保護者や関係者はLINEでの相談ができます。\n\n匿名（LINE上のアイコンとニックネーム）でも相談ができます。\n\n相談内容の秘密は守られます。",
+    "materiallySupport": "「親子のための相談LINE」は港区に在住の18歳未満の児童及びその保護者や関係者はLINEでの相談ができます。\n\n匿名（LINE上のアイコンとニックネーム）でも相談ができます。\n\n相談内容の秘密は守られます。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "18歳未満",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "港区に在住の18歳未満の児童及びその保護者や関係者"
+  },
+  "updateDate": "2024-01-04",
+  "useConsiderationFlag": false,
+  "utilization": "相談の流れ\n1:LINE公式アカウント「親子のための相談LINE」を友達追加\n\n2:住んでいる都道府県と市区町村を登録\n\n3:注意事項と町人数を確認し相談システムのリンクを開く\n\n4:相談支援システムに利用者情報を入力する\n\n5:相談内容を送信する\n\n6:相談員とやりとりをします\n\nアクセス方法\n親子のための相談LINE;https://www.city.minato.tokyo.jp/jidofukushi/images/soudanline.png\n\n☜左の二次元コードを読み取って、友達登録をしてご利用ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "対応日　：通年(土日祝日も含）\n\n対応時間：13時～21時　※やりとりができる時間は左記のみですが、24時間受付をしています。\n\n上記時間では間に合わない、すぐに相談をしたい時にはLINE上から「児童相談所虐待対応ダイヤル189」で電話をするか、「港区児童虐待相談ダイヤル」へご連絡ください。",
+    "fromHM": "13:00",
+    "toHM": "21:00"
+  }
+}

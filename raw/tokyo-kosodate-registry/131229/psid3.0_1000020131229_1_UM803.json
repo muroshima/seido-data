@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て施設支援課私立保育所係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+1+UM803"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区立石5-13-1　葛飾区役所4階　401番子育て支援窓口",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て施設支援課私立保育所係",
+    "contactPhone": "03-5654-8297",
+    "contactUrl": null,
+    "zipCode": "1248555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "幼児教育・保育施設の保育料について",
+    "shortName": "保育料等への補助"
+  },
+  "localGovernmentLink": {
+    "title": "幼児教育・保育の無償化の概要",
+    "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1030197/1021308/1021309.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第27条～第30条の2",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子ども・子育て支援新制度による給付を受ける認可保育園、認定こども園、地域型保育事業（小規模保育・家庭的保育・事業所内保育所の一部（地域枠））の保育料（利用者負担額）は、国が定めた額を上限として、葛飾区が認定区分ごとに、世帯の所得状況、利用時間（標準時間・短時間）などに応じて定めた額となります。\nそれ以外の私学助成の幼稚園や認可外保育施設などの利用料は、施設ごとに定めた額になります。",
+  "support": {
+    "description": "葛飾区独自の制度を実施しています\n保育料等への補助\n\n認可保育所、認定こども園、新制度幼稚園の保育料\n全額無償化されます。\nまた、新制度幼稚園及び認定こども園（1号認定子ども）に在籍する対象児童の保護者に対し、特定負担額（基準以上の職員を配置するための人件費や施設維持費等）について助成します。（認可保育所は該当しません。）\n\n　詳細は以下をご覧ください。\n・認可保育所・認定こども園（保育部分）（1）;https://www.city.katsushika.lg.jp/kosodate/1000056/1030197/1021308/1021371/1021544.html\n・認可保育所・認定こども園（保育部分）（2）;https://www.city.katsushika.lg.jp/kosodate/1000056/1030197/1021308/1021371/1021545.html\n\n新制度への未移行私立幼稚園の保育料\n　国の制度に葛飾区独自で上乗せ補助を実施しています。詳細は以下をご覧ください。\n・私立幼稚園・認定こども園（教育部分）・預かり保育;https://www.city.katsushika.lg.jp/kosodate/1000056/1030197/1021308/1021371/1021376.html\n\n認可外保育施設等の保育料\n　認証保育所及び指導監督基準を満たした認可外保育施設は、国制度に葛飾区独自で上乗せ補助を実施しています。\n\n　葛飾区では、保育の質の確保・向上を早期に図るため、葛飾区特定子ども・子育て支援施設等の基準を定める条例を制定し、令和3年4月から、国の基準（指導監督基準）を満たさない認可外保育施設を無償化の対象外とします。\n　\n詳細は以下をご覧ください。\n\n・認証保育所について;https://www.city.katsushika.lg.jp/kosodate/1000056/1030197/1021308/1021371/1021550.html\n・認可外保育施設について;https://www.city.katsushika.lg.jp/kosodate/1000056/1030197/1021308/1021371/1021546.html\n\n食材料費（主食費と副食費）補助\n\n　無償化に伴い、実費徴収とされた3歳以上および0から2歳児の非課税世帯の児童（無償化対象児童）1人当たり月額7,830円を上限に食材料費に補助します。区から直接、対象施設に助成するため、保護者は食材料費の負担がありません。\n\n【対象施設】\n　認可保育所、幼稚園、認定こども園、認証保育所、認可外保育施設、一時保育等の子育て支援サービス",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 5,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "3歳から5歳までの子ども並びに0歳から2歳までのうち非課税世帯の子ども"
+  },
+  "updateDate": "2023-09-22",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

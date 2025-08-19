@@ -1,0 +1,148 @@
+{
+  "area": {
+    "areaCode": "132012;八王子市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康医療部大横保健福祉センター（保健担当）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132012",
+    "psid": "psid3.0+1000020132012+3+UM31"
+  },
+  "belongings": null,
+  "capacity": "15組",
+  "class": 1,
+  "contact": {
+    "contactAddress": "八王子市大横町11-35",
+    "contactComment": "ファックス：042-627-5887",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康医療部大横保健福祉センター（保健担当）",
+    "contactPhone": "042-625-9200",
+    "contactUrl": "https://www.city.hachioji.tokyo.jp/inquiry/mailform450600.html",
+    "zipCode": "1920062"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "オンラインパパママクラス\nミーティングアプリ「Zoom」を利用したオンラインによるクラスです。\n\n※他のクラスとの併用ができます。\n\n対象：市内在住の方で、妊婦（初産・経産・週数を問いません）とその家族\n\n（妊婦もしくはパートナーお1人からご参加いただけます）\n\n内容：助産師による講話と交流\n\n(1)助産師による沐浴の実演・講話、歯科衛生士の講義\n\n(2)助産師・保健師（出産準備、出産後のお話）\n\n栄養士（妊娠後期の食事から授乳中の食事）\n\n歯科衛生士（妊婦さんとご家族のお口の健康・赤ちゃんのむし歯予防）\n\n時間：午後1時30分～3時30分\n\n申込方法：電子申請での申込みとなります。\n\n令和6年度日程\n\n|開催日|担当|申込期間|定員（先着順）|\n|:----|:----|:----|:----|\n|令和6年（2024年）7月26日（金）|東浅川保健福祉センター|6月15日（土）～7月10日（水）|15組|\n|令和6年（2024年）9月18日（水）|南大沢保健福祉センター|8月15日（木）～9月10日（火）|15組|\n|令和6年（2024年）12月12日（木）|大横保健福祉センター|11月1日（金）～11月30日（土）|15組|\n",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "東京共同電子申請・届出サービス（外部リンク）",
+      "uri": "https://www.shinsei.elg-front.jp/tokyo2/navi/procList.do?fromAction=1&govCode=13201&keyWord=201109"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": "13:30",
+    "fromYMD": null,
+    "toHM": "15:30",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "ミーティングアプリ「Zoom」"
+  },
+  "institutionName": {
+    "canonicalName": "両親学級・妊婦学級",
+    "shortName": "オンラインパパママクラス"
+  },
+  "localGovernmentLink": {
+    "title": "妊婦さんとご家族のための講座(保健福祉センター)",
+    "uri": "https://kosodate.city.hachioji.tokyo.jp/mokuteki/sodanshitai/ninshinnikansurusodan/1753.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-18",
+    "updater": "八王子市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "電子申請での申込みとなります。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "令和6年度妊婦さんとご家族のための講座のご案内(PDFファイル:154.2KB)",
+      "uri": "https://kosodate.city.hachioji.tokyo.jp/material/files/group/10/kouza.pdf"
+    },
+    {
+      "title": "東京都助産師会（外部リンク）",
+      "uri": "http://jmat.jp/top/yutube"
+    },
+    {
+      "title": "各保健福祉センター連絡先・地図 (PDFファイル: 461.1KB)",
+      "uri": "https://kosodate.city.hachioji.tokyo.jp/material/files/group/10/2.pdf"
+    },
+    {
+      "title": "令和6年度日程",
+      "uri": "https://kosodate.city.hachioji.tokyo.jp/material/images/group/10/heijitsu2.png"
+    },
+    {
+      "title": "八南助産師会 オンラインクラス（外部リンク）",
+      "uri": "https://hachinan-midwife.com/online-class/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "お母さん（とお父さん）が安心して赤ちゃんを迎えられるように、八王子市では産科医師、歯科医師、保健師、栄養士、助産師などによる妊娠、出産、育児、栄養などに関する講義を開いています。これからお母さん（お父さん）になられる方同士の交流の場にもなりますので、ぜひお気軽にご参加ください。",
+  "support": {
+    "description": "内容：助産師による講話と交流\n\n(1)助産師による沐浴の実演・講話、歯科衛生士の講義\n\n(2)助産師・保健師（出産準備、出産後のお話）\n\n栄養士（妊娠後期の食事から授乳中の食事）\n歯科衛生士（妊婦さんとご家族のお口の健康・赤ちゃんのむし歯予防）",
+    "materiallySupport": "内容：助産師による講話と交流\n\n(1)助産師による沐浴の実演・講話、歯科衛生士の講義\n\n(2)助産師・保健師（出産準備、出産後のお話）\n\n栄養士（妊娠後期の食事から授乳中の食事）\n歯科衛生士（妊婦さんとご家族のお口の健康・赤ちゃんのむし歯予防）",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "市内在住の方で、妊婦（初産・経産・週数を問いません）とその家族\n（妊婦もしくはパートナーお1人からご参加いただけます）"
+  },
+  "updateDate": "2023-12-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "午後1時30分～3時30分",
+    "fromHM": "13:30",
+    "toHM": "15:30"
+  }
+}

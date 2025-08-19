@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131130;渋谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "地域保健課地域医療係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020131130",
+    "psid": "psid3.0+9000020131130+3+UM66"
+  },
+  "belongings": "自立支援医療費（育成医療）支給認定申請書（新規）,　自立支援医療（育成医療）意見書,世帯調書,健康保険証（お子さんと同一の医療保険の加入関係を示すもの。）,同一世帯の所得の状況が確認できる書類,個人番号（マイナンバー）の記載に必要な書類,人工透析療法を受けている場合は、特定疾病療養受給者証の写し,免疫機能障害の方は、免疫機能障害意見書",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "FAX03-5458-4937",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "地域保健課地域医療係",
+    "contactPhone": "03-3463-2433",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "育成医療による医療費助成\n身体に障がいのある18歳未満の児童で、手術などにより回復が見込まれる人に医療の給付をします。\n\n更新日\n\n2023年3月17日\n\n対象\n給付内容\n申請方法\n申請書類の配布・提出先\n対象\n18歳未満で下記の障がいがあり、手術などにより確実な治療効果が期待できる児童。（注）指定自立支援医療機関の意見書が必要です。\n\n肢体不自由\n視覚障害\n聴覚・平衡機能障害\n音声機能・言語機能またはそしゃく機能障害\n心臓機能障害\n腎臓機能障害\n小腸機能障害\n肝臓機能障害\nそのほかの内臓の障害（注）呼吸器、膀胱、直腸、小腸機能障害をのぞく内臓障害は、先天性疾病のものに限ります。\nヒト免疫不全ウイルスによる免疫機能障害\n給付内容\n認定された疾病の治療（保険診療のみ）にかかる医療費の一部を助成します。原則として、医療費の1割が自己負担となります。ただし、世帯の所得により自己負担上限額が設定されています。\n\n申請方法\n自立支援医療（育成医療）の支給認定申請について（PDF 548KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/801a64338ee742b9ac08b2974e8b7752/assets_kodomo_000069842.pdfをご覧ください。（注）所得制限があります。申請手続きを始める前に確認してください。\n\n申請書類の配布・提出先\n渋谷区保健所地域保健課地域医療係　区役所本庁舎7階",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の医療費助成制度",
+    "shortName": "育成医療による医療費助成"
+  },
+  "localGovernmentLink": {
+    "title": "育成医療による医療費助成",
+    "uri": "https://www.city.shibuya.tokyo.jp/kodomo/kodomo-teate-josei/iryo-josei/ikusei_j.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "渋谷区"
+  },
+  "procedureCounter": "渋谷区保健所地域保健課地域医療係　区役所本庁舎7階",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [
+    {
+      "title": "自立支援医療（育成医療）の支給認定申請について（PDF 548KB）",
+      "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/801a64338ee742b9ac08b2974e8b7752/assets_kodomo_000069842.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "身体に障がいのある18歳未満の児童で、手術などにより回復が見込まれる人に医療の給付をします。",
+  "support": {
+    "description": "認定された疾病の治療（保険診療のみ）にかかる医療費の一部を助成します。原則として、医療費の1割が自己負担となります。ただし、世帯の所得により自己負担上限額が設定されています。",
+    "materiallySupport": null,
+    "monetarySupport": "認定された疾病の治療（保険診療のみ）にかかる医療費の一部を助成します。原則として、医療費の1割が自己負担となります。ただし、世帯の所得により自己負担上限額が設定されています。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "18歳未満",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "18歳未満で下記の障がいがあり、手術などにより確実な治療効果が期待できる児童。（注）指定自立支援医療機関の意見書が必要です。\n\n肢体不自由\n視覚障害\n聴覚・平衡機能障害\n音声機能・言語機能またはそしゃく機能障害\n心臓機能障害\n腎臓機能障害\n小腸機能障害\n肝臓機能障害\nそのほかの内臓の障害（注）呼吸器、膀胱、直腸、小腸機能障害をのぞく内臓障害は、先天性疾病のものに限ります。\nヒト免疫不全ウイルスによる免疫機能障害"
+  },
+  "updateDate": "2023-03-17",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

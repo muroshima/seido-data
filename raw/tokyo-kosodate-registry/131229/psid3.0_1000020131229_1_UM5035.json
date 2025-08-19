@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "国保年金課資格係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+1+UM5035"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "国保年金課資格係",
+    "contactPhone": "03-5654-8210",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "出産予\n定日の6か月前から届出ができます。出産後に届出することもできます。\n\n※出産後に届出をする場合、対象となる年度の最初の保険料の納期翌日から2年を経過した日以降は、保険料を免除することができなくなる場合がありますのでご注意ください。",
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "国民健康保険料の免除（産前産後期間）",
+    "shortName": "産前産後期間に係る国民健康保険料の免除制度"
+  },
+  "localGovernmentLink": {
+    "title": "国民健康保険料の産前産後期間相当分が免除されます。",
+    "uri": "https://www.city.katsushika.lg.jp/kurashi/1000049/1001690/1033959.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": "国保年金課資格係　区役所3階315番",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "出産予定日の6か月前から届出ができます。出産後に届出することもできます。\n\n※出産後に届出をする場合、対象となる年度の最初の保険料の納期翌日から2年を経過した日以降は、保険料を免除することができなくなる場合がありますのでご注意ください。\n届出に必要な書類\n（1）　届出書　（下記の添付ファイルからダウンロードして印刷してください。）\n\n（2）　母子健康手帳（親子健康手帳）など\n\n（3）　届出人の本人確認資料（葛飾区の国民健康保険証、運転免許証、マイナンバーカードなど）\n\n \n\n郵送の場合は、届出書と一緒に母子健康手帳（親子健康手帳）の表紙と出生証明または出産予定日のページをコピーして同封してください。\n\n届出先\n（窓口）国保年金課資格係　区役所3階315番\n\n（郵送）〒124-8555　東京都葛飾区立石5丁目13番1号　葛飾区役所国保年金課資格係あて\n\n添付ファイル\n産前産後期間に係る国民健康保険料軽減届出書 （PDF 83.7KB）https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/033/959/todokedesyo.pdf",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "全世代対応型の持続可能な社会保障制度を構築するための健康保険法等の一部を改正する法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民健康保険の被保険者が出産した場合には、出産前後の一定期間の国民健康保険料が免除される制度です。出産予定日の６か月前から申請が出来ます。出産後も申請が可能です。詳しくは区HP又は国保年金課資格係までお問合せください。",
+  "support": {
+    "description": "出産予定日又は出産日が属する月の前月から4か月間の国民健康保険料が免除されます。\nなお、多胎妊娠の場合は、出産予定日又は出産日が属する月の3か月前から6か月間の国民健康保険料が免除されます。\n※出産とは、妊娠85日（4ヶ月）以上の出産をいいます。（死産、流産、早産及び人工中絶の場合も含みます。）",
+    "materiallySupport": null,
+    "monetarySupport": "出産予定日又は出産日が属する月の前月から4か月間の国民健康保険料が免除されます。\nなお、多胎妊娠の場合は、出産予定日又は出産日が属する月の3か月前から6か月間の国民健康保険料が免除されます。\n※出産とは、妊娠85日（4ヶ月）以上の出産をいいます。（死産、流産、早産及び人工中絶の場合も含みます。）"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003",
+      "015"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "1.葛飾区国民健康保険に加入している方で、令和5年11月1日以降に出産予定又は出産した方（以下、「出産被保険者」といいます。）2.妊娠85日（4ヶ月）以上の出産（死産・流産・早産及び人工妊娠中絶の場合も含みます。）が対象となります。\n\n※対象となる出産被保険者の方以外の世帯主、世帯員分の保険料は免除の対象となりません。"
+  },
+  "updateDate": "2024-09-06",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

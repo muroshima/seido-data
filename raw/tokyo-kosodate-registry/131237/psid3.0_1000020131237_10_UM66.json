@@ -1,0 +1,118 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部健康サービス課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+10+UM66"
+  },
+  "belongings": "・必要書類など\n自立支援医療（育成医療）申請書（保護者が記入）\n・自立支援医療（育成医療）意見書（主治医が記入（3ヶ月以内のもの））;https://www.city.edogawa.tokyo.jp/documents/7650/ikuseiiryoikensyo.pdf\n・世帯調書（本人（子ども）と同じ健康保険に加入している方全員）\n・健康保険証（国民健康保険とそれ以外で異なります）\n・本人確認書類（確認のため必ずお持ちください）\n・申請に必要な書類は、各健康サポートセンター;https://www.city.edogawa.tokyo.jp/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/index.htmlで配布しています。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部健康サービス課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "この制度は、体、眼、耳、心臓、腎臓、その他の内臓の障害、免疫の機能障害がある方で手術などにより確実な治療効果が期待できる方に必要な医療の給付を行うものです。\n給付が決定されますと、受給者証が交付されます。指定医療機関の窓口に受給者証と保険証を提示することにより医療の給付を受けることができます。\n（注）なお、この制度は江戸川区が実施する乳幼児医療費助成制度に優先して適用されます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の医療費助成制度（ぜん息など）",
+    "shortName": "自立支援医療（育成医療）"
+  },
+  "localGovernmentLink": {
+    "title": "自立支援医療（育成医療）",
+    "uri": "https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kodomo/iryohi/ikuseiiryou.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "各健康サポートセンター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "窓口申請",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第52条",
+    "regulationName": "障害者総合支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "この制度は、体、眼、耳、心臓、腎臓、その他の内臓の障害、免疫の機能障害がある方で手術などにより確実な治療効果が期待できる方に必要な医療の給付を行うものです。給付が決定されますと、受給者証が交付され、指定医療機関の窓口に受給者証と保険証を提示することにより医療の給付を受けることができます。",
+  "support": {
+    "description": "医療費（健康保険適用分）の自己負担額のうち、一部を住民税額に応じて助成します。",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": null,
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": null
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "18歳未満の方で下記の機能障害（将来機能障害が見込まれるものも含む）があり、入院・手術により機能回復が見込まれるもの。\nただし、特別区民税（所得割）が23万5千円以上の世帯の方は原則として対象外（注）となります。\n\n・肢体不自由\n・視覚障害\n・聴覚・平衡機能障害\n・音声・言語・そしゃく機能障害\n・心臓機能障害\n・小腸機能障害\n・肝臓機能障害\n・腎臓機能障害\n・その他の先天性内臓障害\n・免疫機能障害\n\n注釈1：歯科矯正・リハビリ・免疫機能の障害については、通院のみでも対象です。\n注釈2：そけいヘルニア（嵌頓を起こし、緊急手術を行う場合は支給対象）・陰のう水腫・臍ヘルニアは対象外です。\n注釈3：肢体不自由については、治療用装具を着装した場合は、健康保険から給付されない残額について一部を育成医療で給付します。医療券交付の際、請求方法の説明書を同封します。\n\n医療費助成が受けられる医療機関は全国の指定された指定自立支援医療機関（育成医療）です。また、事前申請が原則です。入院・手術が決まりましたら、早めに申請してください。\n（注）「重度かつ継続」の障害に該当する場合や18歳以下の扶養人数によっては対象となる場合がありますので、内容については、担当にお問い合わせください。"
+  },
+  "updateDate": "2024-03-01",
+  "useConsiderationFlag": false,
+  "utilization": "指定医療機関の窓口で受給者証と保険証を提示してください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

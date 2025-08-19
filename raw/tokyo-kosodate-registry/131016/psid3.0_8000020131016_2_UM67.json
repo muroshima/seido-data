@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局子ども部児童・家庭支援センター発達支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+2+UM67"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区神田司町2-16　神田さくら館6階",
+    "contactComment": null,
+    "contactEmail": "hattatsusoudan@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "教育委員会事務局子ども部児童・家庭支援センター発達支援係",
+    "contactPhone": "03-5296-9281",
+    "contactUrl": null,
+    "zipCode": "1010048"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "発達障害等の児童が専門機関で相談・療育・検査を受けた場合に、その経費を負担した児童の保護者の経済的負担を軽減するため、経費の助成を行っています。\n\n詳細は、「療育経費助成の案内（PDF：246KB）;https://www.city.chiyoda.lg.jp/documents/1298/ryoikujosei_6.pdf」をご覧ください。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "ポータルサイト（外部サイトへリンク）",
+      "uri": "https://chiyoda-portal.my.site.com/ctz/topPage"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の障がいのあるお子さんなどへの金銭的支援",
+    "shortName": "療育経費助成制度"
+  },
+  "localGovernmentLink": {
+    "title": "療育経費助成制度",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/ko-shogai/goriyo/ryoiku.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": "児童・家庭支援センター（神田司町2-16 神田さくら館6階）発達支援担当",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "ポータルサイト（外部サイトへリンク）でのオンライン申請もしくは申請書類に、相談・療育・検査等を受けた専門機関等の領収書（原本）を添付し、児童・家庭支援センター（神田司町2-16 神田さくら館6階）発達支援担当に申請してください。所得制限はありません。詳しくはお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "療育経費助成の案内（PDF：246KB）",
+      "uri": "https://www.city.chiyoda.lg.jp/documents/1298/ryoikujosei_6.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "発達障害等の児童が専門機関で相談・療育・検査を受けた場合に、その経費を負担した児童の保護者の経済的負担を軽減するため、経費の助成を行っています。",
+  "support": {
+    "description": "1か月にかかった経費の3分の2（令和6年3月分までは2分の1）の額を対象に、お子さん1人あたり、月額10,000円を限度として助成します。",
+    "materiallySupport": null,
+    "monetarySupport": "お子さん1人あたり、月額10,000円を限度として助成します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住の0歳から18歳未満のお子さんの保護者（お子さんは、身体障害者手帳や愛の手帳の有無は問いません）"
+  },
+  "updateDate": "2024-04-19",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

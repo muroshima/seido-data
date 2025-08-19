@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132128;日野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども部保育課保育幼稚園係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132128",
+    "psid": "psid3.0+1000020132128+1+UM2370"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都日野市神明1丁目13番地の2子ども包括支援センター1階",
+    "contactComment": "直通電話：042-514-8637,代表電話：042-585-1111",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども部保育課保育幼稚園係",
+    "contactPhone": "042-514-8637,042-585-1111",
+    "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120200",
+    "zipCode": "1910016"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "日野市外の保育施設を希望する方（転出予定あり・なし）\n希望する施設が所在する区市町村によって申込締切日、必要書類、申込条件、希望施設記入数の上限が異なりますので、所在する区市町村に直接確認してください。区市町村に必要書類等確認後、希望する施設が所在する区市町村の申込締切日の1週間前までに、必要書類を日野市役所2階保育課窓口に提出してください。\n\nまた、転出予定がある方は、選考結果に関わらず、入所希望月の前月末日までに転出先での転入手続のほかに保育担当部署でも手続が必要となります。この手続を行わないと、入所が内定していても取消しになりますので、ご注意ください。\n\n転出予定がない場合、日野市様式の申込書および必要書類以外に希望する施設が所在する区市町村様式の申込書が必要となる場合があります。希望する施設が所在する区市町村によって異なりますので、所在する区市町村に直接確認してください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "広域入所（市外の認可保育所等への入所）",
+    "shortName": "日野市外の保育施設を希望する方（転出予定あり・なし）"
+  },
+  "localGovernmentLink": {
+    "title": "保育施設利用申込み上の注意（令和6年度）",
+    "uri": "https://www.city.hino.lg.jp/kosodate/hoikuen/nyuen/1024901.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-19",
+    "updater": "日野市"
+  },
+  "procedureCounter": "子ども部保育課保育幼稚園係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "希望する施設が所在する区市町村によって申込締切日、必要書類、申込条件、希望施設記入数の上限が異なりますので、所在する区市町村に直接確認してください。区市町村に必要書類等確認後、希望する施設が所在する区市町村の申込締切日の1週間前までに、必要書類を保育課窓口に提出してください。\n\nまた、転出予定がある方は、選考結果に関わらず、入所希望月の前月末日までに転出先での転入手続のほかに保育担当部署でも手続が必要となります。この手続を行わないと、入所が内定していても取消しになりますので、ご注意ください。\n\n転出予定がない場合、日野市様式の申込書および必要書類以外に希望する施設が所在する区市町村様式の申込書が必要となる場合があります。希望する施設が所在する区市町村によって異なりますので、所在する区市町村に直接確認してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第3条第1項、56条の6第1項",
+    "regulationName": "子ども・子育て支援法、児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "「広域入所」とは、里帰り出産や保護者の勤務地の都合などにより、他の市区町村の保育所へ入所できる制度です。\n下記のいずれの場合も、お住まいの市区町村から保育の必要性について認定を受ける必要があります。\nA：日野市内にお住まいの方が、市外の認可保育所への入所を希望する場合\nB：市外にお住まいの方が、日野市内の認可保育所への入所を希望する場合",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "日野市外の保育施設を希望する方"
+  },
+  "updateDate": "2024-04-18",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

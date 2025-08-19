@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131113;大田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "各地域健康課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131113",
+    "psid": "psid3.0+1000020131113+1+UM49"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "大田区大森西一丁目12番1号,大田区雪谷大塚町4番6号,大田区蒲田本町二丁目1番1号,大田区東糀谷一丁目21番15号",
+    "contactComment": "FAX ：03-5764-0659,FAX ：03-3726-6331,FAX ：03-5713-0290,FAX ：03-6423-8838",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "各地域健康課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/c_chiikikenkou.html,大森地域健康課,調布地域健康課,蒲田地域健康課,糀谷・羽田地域健康課",
+    "contactPhone": "03-5764-0661,03-3726-4145,03-5713-1701,03-3743-4161",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "乳幼児健康診査\nページ番号：345230893\n更新日：2022年7月1日\n　子どもの健やかな成育のために、各種健診を行っています。くわしくは、各地域健康課までお問合せください。\n\n4か月児\n実施場所\n各地域健康課\n\n通知方法\n各地域健康課から事前に個別通知します。\n\n6か月から7か月児\n実施場所\n都内の契約医療機関\n\n通知方法\n4か月児健康診査の案内に「乳児（6・7か月）健康診査受診票」が同封されています。\nそれを持参して、医療機関でお受けください。\n\n詳細はこちらのページをご覧ください。;https://www.city.ota.tokyo.jp/seikatsu/kodomo/hoken/nyuuyioujikensin_06m-07m.html\n\n9か月から10か月児\n実施場所\n都内の契約医療機関\n\n通知方法\n4か月児健康診査の案内に「乳児（9・10か月）健康診査受診票」が同封されています。\nそれを持参して、医療機関でお受けください。\n\n詳細はこちらのページをご覧ください。;https://www.city.ota.tokyo.jp/seikatsu/kodomo/hoken/nyuuyioujikensin_09m-10m.html\n\n1歳6か月児\n実施場所\n各地域健康課\n\n通知方法\n各地域健康課から事前に個別通知します。\n\n3歳児\n実施場所\n各地域健康課\n\n通知方法\n各地域健康課から事前に個別通知します。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "各地域健康課"
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児健康診査（6か月未満児）",
+    "shortName": "4か月児"
+  },
+  "localGovernmentLink": {
+    "title": "乳幼児健康診査",
+    "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/hoken/nyuyoujikenkou.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "大田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "くわしくは、各地域健康課までお問合せください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "各地域健康課",
+      "uri": "https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/c_chiikikenkou.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として4か月児健康診査を実施しています。",
+  "support": {
+    "description": "子どもの健やかな成育のために、各種健診を行っています。くわしくは、各地域健康課までお問合せください。",
+    "materiallySupport": "子どもの健やかな成育のために、各種健診を行っています。くわしくは、各地域健康課までお問合せください。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "4か月児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 4
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 4
+    },
+    "targetPersons": "4か月児"
+  },
+  "updateDate": "2022-07-01",
+  "useConsiderationFlag": false,
+  "utilization": "各地域健康課から事前に個別通知します。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

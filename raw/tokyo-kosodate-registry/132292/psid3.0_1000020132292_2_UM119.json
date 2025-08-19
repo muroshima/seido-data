@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132292;西東京市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132292",
+    "psid": "psid3.0+1000020132292+2+UM119"
+  },
+  "belongings": "母子健康手帳\n記入済みアンケート（個別通知に同封）\nその他お子さんに必要なもの（オムツ、ゴミ袋、水分など）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "西東京市中町一丁目5番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康課",
+    "contactPhone": "042-438-4037",
+    "contactUrl": null,
+    "zipCode": "2028555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "2歳児すくすく相談会\n\n2歳のお誕生日、おめでとうございます！\n2歳のお誕生日を迎えられ、かわいさも増してくる反面、子育てが大変に感じられる頃ではありませんか？\nこの会は、お子様と一緒に楽しく遊び、子育ての相談や身長・体重測定ができます。ご希望の方には個別相談もあります。\n特に1歳6か月児健康診査が未受診の方は、この機会にぜひご参加ください。\n\n対象\n2歳から2歳6か月のお子さんとその保護者の方\nお誕生日を迎えられる前月頃にご案内を郵送しています。転入等でご希望の方はご連絡ください。\n\n内容\n親子遊び\n食事の話\n身体測定\n問診\n歯みがきの話\n希望の方に個別相談（保育・栄養・母乳・心理）\n（注記）医師の診察はありません\n（注記）所要時間　1時間から1時間30分程度\n\n会場\n防災・保谷保健福祉総合センター;https://www.city.nishitokyo.lg.jp/sisetu/city/hoyachosha/bousai_houyahokenhukushisougou.html　2階\n（注記）駐車券は必ず会場（受付）にご提示ください。\n\n日程\nhttps://www.city.nishitokyo.lg.jp/kosodate/bosi/soudan/2saijiclass.html\n\n受付時間\n午前9時から10時\n\n持ち物\n母子健康手帳\n記入済みアンケート（個別通知に同封）\nその他お子さんに必要なもの（オムツ、ゴミ袋、水分など）\nその他\nオムツは各自お持ち帰りください。\n会場内での水分補給以外の飲食はご遠慮ください。\n持ち物（貴重品・靴・バギーなど）の盗難紛失については責任を負いかねます。各自で管理をお願いします。\n開催時の感染予防対策\n発熱やせき等の風邪症状のある方など、体調不良の場合は参加を見合わせてください。\n原則として、お子様一人につき、保護者の方一人でお越しください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "日程\n個別にご案内します。\n日程の変更を希望される方は、下記日程表を参照の上、ご希望日の前日までにご連絡ください。\n曜日は全て火曜日です。\n\n|実施月|実施日|\n|:----|:----|\n|令和6年4月|9日・23日|\n|5月|21日・28日|\n|6月|11日・25日|\n|7月|9日・23日|\n|8月|6日・20日|\n|9月|3日・17日|\n|10月|8日・22日|\n|11月|12日・26日|\n|12月|10日・24日|\n|令和7年1月|14日・28日|\n|2月|4日・25日|\n|3月|11日・25日|\n\n受付時間\n午前9時から10時",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "西東京市中町一丁目5番1号",
+    "implementationName": "防災・保谷保健福祉総合センター　2階"
+  },
+  "institutionName": {
+    "canonicalName": "西東京市の子育てに関する相談",
+    "shortName": "2歳児すくすく相談会"
+  },
+  "localGovernmentLink": {
+    "title": "2歳児すくすく相談会",
+    "uri": "https://www.city.nishitokyo.lg.jp/kosodate/bosi/soudan/2saijiclass.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-10",
+    "updater": "西東京市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "防災・保谷保健福祉総合センター",
+      "uri": "https://www.city.nishitokyo.lg.jp/sisetu/city/hoyachosha/bousai_houyahokenhukushisougou.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "この会は、お子様と一緒に楽しく遊び、子育ての相談や身長・体重測定ができます。ご希望の方には個別相談もあります。",
+  "support": {
+    "description": "親子遊び\n食事の話\n身体測定\n問診\n歯みがきの話\n希望の方に個別相談（保育・栄養・母乳・心理）\n（注記）医師の診察はありません\n（注記）所要時間　1時間から1時間30分程度",
+    "materiallySupport": "親子遊び\n食事の話\n身体測定\n問診\n歯みがきの話\n希望の方に個別相談（保育・栄養・母乳・心理）\n（注記）医師の診察はありません\n（注記）所要時間　1時間から1時間30分程度",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "2歳から2歳6か月",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": 6
+    },
+    "targetPersons": "2歳から2歳6か月のお子さんとその保護者の方"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "お誕生日を迎えられる前月頃にご案内を郵送しています。転入等でご希望の方はご連絡ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

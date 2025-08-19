@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132055;青梅市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保険年金課給付係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132055",
+    "psid": "psid3.0+8000020132055+1+UM19"
+  },
+  "belongings": "申請に必要なもの\n保険証、印鑑、医療機関等発行の分娩にかかる領収書、医療機関直接支払制度合意文書、母子手帳、世帯主名義の預金通帳",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "青梅市東青梅1-11-1",
+    "contactComment": "Fax：0428-22-3508",
+    "contactEmail": null,
+    "contactEx": "2116・2119",
+    "contactName": "保険年金課給付係",
+    "contactPhone": "0428-22-1111",
+    "contactUrl": null,
+    "zipCode": "1988701"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "国民健康保険で受けられる給付\n国民健康保険では、被保険者のみなさまに、次のような給付をしています。\n・療養の給付と窓口での負担割合（一部負担金）\n・やむを得ない理由で保険証を持たずに治療を受けたときなど（療養費）\n・医療費が高額になったとき（高額療養費）\n・高額医療・介護合算制度（高額介護合算療養費）\n・子どもが生まれたとき（出産育児一時金）\n・被保険者が亡くなられたとき（葬祭費）\n・移送の費用がかかったとき（移送費）\n・一部負担金の減免、徴収猶予制度\n\n子どもが生まれたとき（出産育児一時金）\n青梅市国民健康保険の被保険者の方が出産されると、世帯主に出産育児一時金が支給されます。\n・妊娠85日以上の死産・流産も含まれます。\n・以前に加入されていた健康保険から出産育児一時金の給付を受ける場合は、青梅市からの支給はありません。\n・出産育児一時金は50万円です。（令和5年4月1日以降の出産）\n・令和5年3月31日以前の出産は42万円です。\n・原則として医療保険者（市）から出産育児一時金を、病院などへ直接支払います。\n・青梅市の国民健康保険以外の保険に加入されている方は、加入中の健康保険にお問い合わせください。\n・直接支払制度の申請は、出産を取り扱う医療機関等に保険証を提示して行ってください。\n1.出産費用が50万円（42万円）を超える場合は、その差額分は退院時に病院などにお支払いください。また、50万円（42万円）未満の場合は、その差額分を医療保険者（市）に請求することができます。\n2.出産育児一時金が医療保険者（市）から病院などに直接支払われることを望まれない場合は、出産後に医療保険者（市）から受け取る方法をご利用頂くことも可能です。（ただし、出産費用を退院時に病院などへいったんご自身でお支払いいただくことになります。）\n3.1の差額請求、または2の直接支払制度を利用しなかった場合、支給を受けるためには、保険年金課給付係窓口への申請が必要です。\nなお、直接支払制度を行っていない医療機関等もありますので、事前に医療機関等へ確認してください。\n\n申請に必要なもの\n保険証、印鑑、医療機関等発行の分娩にかかる領収書、医療機関直接支払制度合意文書、母子手帳、世帯主名義の預金通帳\n\nダウンロードできる各種様式\n・出産育児一時金支給請求書 [PDFファイル／50KB];https://www.city.ome.tokyo.jp/uploaded/attachment/53043.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "国民健康保険における出産育児一時金",
+    "shortName": "子どもが生まれたとき（出産育児一時金）"
+  },
+  "localGovernmentLink": {
+    "title": "国民健康保険で受けられる給付",
+    "uri": "https://www.city.ome.tokyo.jp/soshiki/18/721.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-01",
+    "updater": "青梅市"
+  },
+  "procedureCounter": "保険年金課給付係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "原則として医療保険者（市）から出産育児一時金を、病院などへ直接支払います（直接支払制度）。\n直接支払制度の利用や出産費用によって手続きが異なります。以下をご参照ください。\n・直接支払制度を利用し、出産費用が50万円を超える場合\n50万円を超えた金額を病院等にお支払いください。（市役所での手続きはありません）\n・直接支払制度を利用し、出産費用が50万円未満の場合\n差額分を支給することができます。「申請に必要なもの」を持参のうえ、市役所（保険年金課）までお越しください。\n・直接支払制度を利用しない場合\n出産費用を病院等にお支払いいただいた後に出産育児一時金を支給することができます。「申請に必要なもの」を持参のうえ、市役所（保険年金課）までお越しください。\n\n※直接支払制度の申請は、出産を取り扱う医療機関等に保険証を提示して行ってください。\n※青梅市の国民健康保険以外の保険に加入されている方は、加入中の健康保険にお問い合わせください。\n※直接支払制度を行っていない医療機関等もありますので、事前に医療機関等へ確認してください。",
+  "procedurePeriod": {
+    "conditions": "届出時期\n出産日から２年以内",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条(第二節　その他の給付)",
+    "regulationName": "国民健康保険法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民健康保険に加入している方が出産したときは、その世帯主からの申請により、出産育児一時金を支給します。原則として直接支払制度により、医療機関に直接お支払いします。なお、直接支払制度に対応していない医療機関などで出産された場合も、「受取代理制度」や出産後の申請により、出産育児一時金の支給を受けることができます。",
+  "support": {
+    "description": "・出産育児一時金は50万円です。（令和5年4月1日以降の出産）\n・令和5年3月31日以前の出産は42万円です。\n・原則として医療保険者（市）から出産育児一時金を、病院などへ直接支払います。",
+    "materiallySupport": null,
+    "monetarySupport": "・出産育児一時金は50万円です。（令和5年4月1日以降の出産）\n・令和5年3月31日以前の出産は42万円です。\n・原則として医療保険者（市）から出産育児一時金を、病院などへ直接支払います。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003",
+      "015"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "青梅市国民健康保険の被保険者の方が出産されると、世帯主に出産育児一時金が支給されます。\n・妊娠85日以上の死産・流産も含まれます。\n・以前に加入されていた健康保険から出産育児一時金の給付を受ける場合は、青梅市からの支給はありません。\n・青梅市の国民健康保険以外の保険に加入されている方は、加入中の健康保険にお問い合わせください。"
+  },
+  "updateDate": "2024-02-26",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

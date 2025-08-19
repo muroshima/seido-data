@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "133035;瑞穂町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部 子ども家庭センター課 母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133035",
+    "psid": "psid3.0+1000020133035+1+UM13"
+  },
+  "belongings": "出生連絡票",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡瑞穂町大字石畑1970番地",
+    "contactComment": "受付時間 平日の午前8時30分から午後5時まで",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部 子ども家庭センター課 母子保健係",
+    "contactPhone": "042-557-5098",
+    "contactUrl": "https://www.town.mizuho.tokyo.jp/dept/130000/130300/130302/index.html",
+    "zipCode": "1901211"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "新生児訪問・乳児家庭全戸訪問\n\n保健師または助産師がすべてのご家庭に訪問し、お母さんや赤ちゃんのご様子を伺います。\nまた、産後のお母さんの健康や赤ちゃんの育児等についてのご相談もお受けします。\n\n赤ちゃんが生まれたら妊娠届出の際にお渡しした「出生連絡票」を提出してください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "新生児訪問",
+    "shortName": "新生児訪問・乳児家庭全戸訪問"
+  },
+  "localGovernmentLink": {
+    "title": "新生児訪問・乳児家庭全戸訪問",
+    "uri": "https://www.town.mizuho.tokyo.jp/kosodate/002/p001206.html"
+  },
+  "odInformation": {
+    "content": "所管部署名称を変更",
+    "updateDate": "2024-09-13",
+    "updater": "瑞穂町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "赤ちゃんが生まれたら妊娠届出の際にお渡しした「出生連絡票」を提出してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第11条（新生児の訪問指導）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "ゆりかごステーション（子育て世代包括支援センター）",
+      "uri": "https://www.town.mizuho.tokyo.jp/kosodate/002/p001208.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "新生児を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、健康や育児に関する相談などを行います。",
+  "support": {
+    "description": "保健師または助産師がすべてのご家庭に訪問し、お母さんや赤ちゃんのご様子を伺います。\nまた、産後のお母さんの健康や赤ちゃんの育児等についてのご相談もお受けします。",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "新生児,乳児"
+  },
+  "updateDate": "2017-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132039;武蔵野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "武蔵野市役所　健康福祉部　保険年金課国保年金係　国民年金担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132039",
+    "psid": "psid3.0+8000020132039+1+UM793"
+  },
+  "belongings": "出産前届出の場合は母子手帳など。\n出産後届出の場合は原則不要ですが、添付書類が必要なかたもいらっしゃるので事前にお問い合わせください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都武蔵野市緑町2-2-28",
+    "contactComment": "ファクス番号：0422-51-9301",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "武蔵野市役所　健康福祉部　保険年金課国保年金係　国民年金担当",
+    "contactPhone": "0422-60-1837",
+    "contactUrl": "https://www.city.musashino.lg.jp/cgi-crm/CRM030/CRM030_001/G00400400/1022870",
+    "zipCode": "1808777"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "平成31年4月より産前産後期間の国民年金保険料の免除制度が始まりました\n\n産前産後期間の国民年金保険料の免除制度について\n出産予定日または出産日が属する月の前月から4カ月間の国民年金保険料が免除されます。なお、多胎妊娠の場合は、出産予定日または出産日が属する月の3カ月前から6カ月間の国民年金保険料が免除されます。\n\n（注意）出産とは、妊娠85日（4カ月）以上の分娩をいい、死産、流産、早産、人工妊娠中絶されたかたを含みます。\n\n対象\n国民年金第1号被保険者のかたで、出産日が平成31年2月1日以降のかた。\n\n（注意）厚生年金加入者（第2号）は、勤務先でお手続きください。厚生年金加入者の扶養になっているかた（第3号）は、お手続き不要です。\n\n届出時期\n出産予定日の6カ月前から届出可能です。\n\n添付書類\n出産前届出の場合は母子手帳など。\n\n出産後届出の場合は原則不要ですが、添付書類が必要なかたもいらっしゃるので事前にお問い合わせください。\n\n問い合わせ・受付\n保険年金課国民年金窓口 0422-60-1837\n\n（注意）武蔵野市以外にお住まいのかたは、住民登録のある市区町村の年金担当窓口にお問い合わせください。\n\n関連情報リンク\n（日本年金機構ホームページ）平成31年4月から国民年金保険料の産前産後期間の免除制度が始まります（外部リンク）;https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "産前産後期間の国民年金保険料免除",
+    "shortName": "産前産後期間の国民年金保険料の免除制度"
+  },
+  "localGovernmentLink": {
+    "title": "平成31年4月より産前産後期間の国民年金保険料の免除制度が始まりました",
+    "uri": "https://www.city.musashino.lg.jp/kurashi_tetsuzuki/kokuminkenkouhoken_kokuminnenkin/kokuminnenkin/1022870.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "武蔵野市"
+  },
+  "procedureCounter": "保険年金課国民年金窓口 ",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "問い合わせ・受付\n保険年金課国民年金窓口 0422-60-1837\n（注意）武蔵野市以外にお住まいのかたは、住民登録のある市区町村の年金担当窓口にお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": "出産予定日の6カ月前から届出可能です。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第88条の2（保険料の納付義務）",
+    "regulationName": "国民年金法"
+  },
+  "relatedLink": [
+    {
+      "title": "（日本年金機構ホームページ）平成31年4月から国民年金保険料の産前産後期間の免除制度が始まります（外部リンク）",
+      "uri": "https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民年金の第1号被保険者が出産した場合には、出産前後の一定期間の国民年金保険料が免除されます。\n免除期間は年金額を計算する際、保険料を納めた期間として扱われます。",
+  "support": {
+    "description": "出産予定日または出産日が属する月の前月から4カ月間の国民年金保険料が免除されます。なお、多胎妊娠の場合は、出産予定日または出産日が属する月の3カ月前から6カ月間の国民年金保険料が免除されます。\n（注意）出産とは、妊娠85日（4カ月）以上の分娩をいい、死産、流産、早産、人工妊娠中絶されたかたを含みます。",
+    "materiallySupport": null,
+    "monetarySupport": "出産予定日または出産日が属する月の前月から4カ月間の国民年金保険料が免除されます。なお、多胎妊娠の場合は、出産予定日または出産日が属する月の3カ月前から6カ月間の国民年金保険料が免除されます。\n（注意）出産とは、妊娠85日（4カ月）以上の分娩をいい、死産、流産、早産、人工妊娠中絶されたかたを含みます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "016"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "国民年金第1号被保険者のかたで、出産日が平成31年2月1日以降のかた。"
+  },
+  "updateDate": "2022-11-28",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

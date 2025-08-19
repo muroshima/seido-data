@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "133051;日の出町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "図書館",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133051",
+    "psid": "psid3.0+1000020133051+1+UM105"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡日の出町大字平井2780番地",
+    "contactComment": "ファクス: 042-597－3496",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "日の出町　図書館",
+    "contactPhone": "042-597-3496",
+    "contactUrl": null,
+    "zipCode": "1900192"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "おはなし会¥n¥n子どもたちに本の楽しさをしってもらえるように、定期的にお話会を開催しています。¥n絵本や語り、手遊びなど・・・ぜひ、お気軽にお越しください。¥n¥n本館（幼児コーナー）¥n木曜日　午前10時30分～11時 　幼児対象¥n第2・第4土曜日　午前10時30分～11時　 児童対象¥n都合により変更させていただく場合があります。¥n¥n幼児コーナー¥nお子様と一緒に安心して本にふれ合っていただけます。¥n（床がじゅうたんになっていますのでペッタリと座れます。）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "木曜日　午前10時30分～11時 　幼児対象¥n第2・第4土曜日　午前10時30分～11時　 児童対象",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "本館（幼児コーナー）"
+  },
+  "institutionName": {
+    "canonicalName": "図書館の児童サービス（ブックスタートなど）",
+    "shortName": "おはなし会"
+  },
+  "localGovernmentLink": {
+    "title": "おはなし会の日程",
+    "uri": "https://www.town.hinode.tokyo.jp/category/3-7-2-5-0-0-0-0-0-0.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "日の出町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子どもたちに本の楽しさをしってもらえるように、定期的にお話会を開催しています。¥n読み聞かせ、語り、手遊び等行っています。",
+  "support": {
+    "description": "子どもたちに本の楽しさをしってもらえるように、定期的にお話会を開催しています。¥n絵本や語り、手遊びなど・・・ぜひ、お気軽にお越しください。¥n本館（幼児コーナー）¥n木曜日　午前10時30分～11時 　幼児対象¥n第2・第4土曜日　午前10時30分～11時　 児童対象¥n都合により変更させていただく場合があります。",
+    "materiallySupport": "子どもたちに本の楽しさをしってもらえるように、定期的にお話会を開催しています。¥n絵本や語り、手遊びなど・・・ぜひ、お気軽にお越しください。¥n本館（幼児コーナー）¥n木曜日　午前10時30分～11時 　幼児対象¥n第2・第4土曜日　午前10時30分～11時　 児童対象¥n都合により変更させていただく場合があります。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "幼児、児童",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "幼児、児童"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部健康サービス課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM103"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部健康サービス課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "父親に必要なマインドや育児スキルが学べて、オンラインでパパ友同士で子育てを語れる。これからの育児を楽しむコツ満載の育児ゼミを開講しました。\nクラスは0歳、1歳、2歳の3クラスをご用意しています。参加はパパ一人でも、お子さんと一緒でもOK！詳しくは下記をご覧ください。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "【江戸川区】パパとパートナーのための育児ゼミ 2023 お申込みフォーム",
+      "uri": "https://62f6479a.form.kintoneapp.com/public/5bcc149af98c85ed8d9dd3d7ad890c6bf930a19d400386f270182d813ffdddcc"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関する教室・講習会",
+    "shortName": "パパとパートナーのための育児ゼミ"
+  },
+  "localGovernmentLink": {
+    "title": "パパとパートナーのための育児ゼミ",
+    "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/kosodate/papazemi.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "NPO法人ファザーリング・ジャパン事務局\n電話：090-5216-8780\n メールアドレス：gyoumu@fathering.jp",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "下記のお申し込みフォームで申し込み期間内にお申し込みください。\n・申込が定員を超えた場合は先着順となります。\n・申込み後にキャンセルされる場合は下記お問い合わせ先にご連絡ください。\n下記URLをクリックしていただくと、申し込みフォームが開きます。\n申込受付期間外は申込みフォームを開くことができません。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "父親に必要なマインドや育児スキルが学べて、オンラインでパパ友同士で子育てを語れる。これからの育児を楽しむコツ満載の育児ゼミを開講しました。",
+  "support": {
+    "description": "クラスの内容\nパパとパートナーのための育児ゼミ",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "江戸川区に住民登録がある方で、下記の対象者に含まれている方。\n|対象者|クラス名|\n|:----|:----|\n|妊婦の夫（パートナー）から0歳児のパパまで|ハイハイクラス|\n|お子さんが1歳前後のパパ|ヨチヨチクラス|\n|お子さんが2歳前後のパパ|イヤイヤクラス|\n",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "江戸川区に住民登録がある方で、下記の対象者に含まれている方。\n|対象者|クラス名|\n|:----|:----|\n|妊婦の夫（パートナー）から0歳児のパパまで|ハイハイクラス|\n|お子さんが1歳前後のパパ|ヨチヨチクラス|\n|お子さんが2歳前後のパパ|イヤイヤクラス|\n"
+  },
+  "updateDate": "2023-11-27",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

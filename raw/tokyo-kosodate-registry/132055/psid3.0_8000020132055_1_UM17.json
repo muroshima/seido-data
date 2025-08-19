@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132055;青梅市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センター管理係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132055",
+    "psid": "psid3.0+8000020132055+1+UM17"
+  },
+  "belongings": "必要書類\n以下の書類を揃えて郵送または窓口へ提出してください。\n1.青梅市特定不妊治療費(先進医療)助成金交付申請書 [PDFファイル／89KB];https://www.city.ome.tokyo.jp/uploaded/attachment/52174.pdf\n2.東京都へ申請した特定不妊治療費（先進医療）助成事業受診等証明書の写し\n​3.東京都から交付された特定不妊治療費助成承認決定通知書の写し",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭センター管理係",
+    "contactPhone": "0428-23-2191",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "青梅市特定不妊治療(先進医療)助成金\n不妊治療における経済的負担を軽減するため、特定不妊治療(保険診療)と併せて行った「先進医療」について、東京都の特定不妊治療費(先進医療)助成に上乗せして費用の一部助成を行います。\nこの制度は東京都特定不妊治療費(先進医療)助成事業＜外部リンク＞の決定を受けた方のみが対象になります。\n\n助成内容\n1回の治療につき、保険診療と併せて行った「先進医療」の金額のうち、東京都の助成額を差し引いた額から5万円を上限に助成します。\n\n助成の例\n特定不妊治療(先進医療)助成イメージ;https://www.city.ome.tokyo.jp/uploaded/image/18986.png\n\n助成対象者\n次の1から3の要件をすべて満たす方が対象になります。\n1.東京都特定不妊治療費(先進医療)助成(以下「都助成」)の決定を受けている。\n2.特定不妊治療(先進医療)を受けた方またはその配偶者が東京都への申請日時点から引き続き青梅市内に住所を有する。\n3.他の区市町村から同種の助成金の交付を受けていないこと。\n\n申請ができる期間\n東京都特定不妊治療(先進医療)助成金の決定を受けた日から1年以内が申請可能な期間です。\n例：令和6年4月1日に東京都から交付決定を受けた場合\n→令和7年3月31日までが申請可能期間です。​\n\n必要書類\n以下の書類を揃えて郵送または窓口へ提出してください\n1.青梅市特定不妊治療費(先進医療)助成金交付申請書 [PDFファイル／89KB;https://www.city.ome.tokyo.jp/uploaded/attachment/52174.pdf]\n2.東京都へ申請した特定不妊治療費（先進医療）助成事業受診等証明書の写し\n​3.東京都から交付された特定不妊治療費助成承認決定通知書の写し\n\n提出先\n〒198-0042\n青梅市東青梅1-174-1\n​こども家庭センター　管理係",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の不妊・不育症に関する助成",
+    "shortName": "青梅市特定不妊治療(先進医療)助成金"
+  },
+  "localGovernmentLink": {
+    "title": "青梅市特定不妊治療(先進医療)助成金",
+    "uri": "https://www.city.ome.tokyo.jp/soshiki/74/69646.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-12",
+    "updater": "青梅市"
+  },
+  "procedureCounter": "〒198-0042\n青梅市東青梅1-174-1\n​こども家庭センター　管理係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請ができる期間\n東京都特定不妊治療(先進医療)助成金の決定を受けた日から1年以内が申請可能な期間です。\n例：令和6年4月1日に東京都から交付決定を受けた場合\n→令和7年3月31日までが申請可能期間です。​\n\n必要書類\n以下の書類を揃えて郵送または窓口へ提出してください。\n1.青梅市特定不妊治療費(先進医療)助成金交付申請書 [PDFファイル／89KB];https://www.city.ome.tokyo.jp/uploaded/attachment/52174.pdf\n2.東京都へ申請した特定不妊治療費（先進医療）助成事業受診等証明書の写し\n​3.東京都から交付された特定不妊治療費助成承認決定通知書の写し\n\n提出先\n〒198-0042\n青梅市東青梅1-174-1\n​こども家庭センター　管理係",
+  "procedurePeriod": {
+    "conditions": "申請ができる期間\n東京都特定不妊治療(先進医療)助成金の決定を受けた日から1年以内が申請可能な期間です。\n例：令和6年4月1日に東京都から交付決定を受けた場合\n→令和7年3月31日までが申請可能期間です。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "青梅市特定不妊治療費（先進医療）助成金交付要綱 "
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "東京都では、人工授精に係る保険適用外治療（※）の費用の一部について、独自に助成を行っています。※産科、婦人科、産婦人科、泌尿器科を標榜する医療機関において実施した、医師の診断に基づく治療に限ります。",
+  "support": {
+    "description": "青梅市特定不妊治療(先進医療)助成金\n不妊治療における経済的負担を軽減するため、特定不妊治療(保険診療)と併せて行った「先進医療」について、東京都の特定不妊治療費(先進医療)助成に上乗せして費用の一部助成を行います。\nこの制度は東京都特定不妊治療費(先進医療)助成事業;https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/funin-senshiniryou/gaiyou.html＜外部リンク＞の決定を受けた方のみが対象になります。\n\n助成内容\n1回の治療につき、保険診療と併せて行った「先進医療」の金額のうち、東京都の助成額を差し引いた額から5万円を上限に助成します。",
+    "materiallySupport": null,
+    "monetarySupport": "1回の治療につき、保険診療と併せて行った「先進医療」の金額のうち、東京都の助成額を差し引いた額から5万円を上限に助成します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "助成対象者\n次の1から3の要件をすべて満たす方が対象になります。\n1.東京都特定不妊治療費(先進医療)助成(以下「都助成」)の決定を受けている。\n2.特定不妊治療(先進医療)を受けた方またはその配偶者が東京都への申請日時点から引き続き青梅市内に住所を有する。\n3.他の区市町村から同種の助成金の交付を受けていないこと。"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": true,
+  "utilization": "この制度は東京都特定不妊治療費(先進医療)助成事業;https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/funin-senshiniryou/gaiyou.html＜外部リンク＞の決定を受けた方のみが対象になります。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

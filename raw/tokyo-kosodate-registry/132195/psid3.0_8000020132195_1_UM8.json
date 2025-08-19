@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132195;狛江市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子ども家庭課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132195",
+    "psid": "psid3.0+8000020132195+1+UM8"
+  },
+  "belongings": "狛江市妊産婦歯科健康診査のお知らせ兼受診票\n（妊婦の方は「母と子の保健バッグ」の中に、産婦の方は「3～4カ月児健康診査のご案内」と一緒にお渡ししています。）\n母子健康手帳\n保険証\n歯ブラシ\n※受診票をお持ちではない方は、子ども家庭課母子保健係へお問い合わせください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子ども家庭課母子保健係（あいとぴあセンター）",
+    "contactPhone": "03-5761-9200,03-5761-7990",
+    "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,132750,html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "無料",
+  "description": "妊産婦歯科健診\n妊婦歯科健診を受けましょう妊娠すると、お口の環境が変わり、虫歯や歯周病にかかりやすくなります。第1子だけでなく、第2子・第3子妊娠中の方もぜひ受診しましょう。\n\n体調が安定した妊娠中期（5～6カ月頃）にご受診ください。\n\n対象\n狛江市在住の妊娠中の方、狛江市在住の出産後1年以内の産婦の方 \n\n内容\n歯科健診と保健指導\n\n利用方法\n以下の狛江市妊産婦歯科健康診査実施医療機関に直接予約して、受診してください。\n|医療機関名|電話番号|\n|:----|:----|\n|しまの歯科医院|03-3430-5060|\n|杉田歯科医院|03-3488-3375|\n|松本歯科医院|03-3480-5511|\n|大中歯科医院|03-3489-3905|\n|和泉歯科医院|03-3480-3280|\n|関谷歯科医院|033488-3345|\n|歯科　鈴木クリニック|03-3488-8858|\n|あさがお歯科　狛江|03-5761-4418|\n|塩谷歯科医院|03-3480-1967|\n|岡本歯科医院|03-5497-1747|\n|石川歯科医院|03-3430-4184|\n|長谷川歯科医院|03-3488-5536|\n|花井歯科医院|03-3480-8748|\n|たかはし歯科医院|03-3430-8855|\n|こうだ歯科医院|03-3488-2528|\n|久保田歯科医院|03-3430-1820|\n|なかつか歯科医院|03-5438-7233|\n|津江歯科医院|03-3480-2501|\n|島田歯科医院|03-3489-7272|\n|青山歯科医院|03-3489-1793|\n|松浦歯科医院|03-3489-2867|\n\n\\持ち物\n狛江市妊産婦歯科健康診査のお知らせ兼受診票\n（妊婦の方は「母と子の保健バッグ」の中に、産婦の方は「3～4カ月児健康診査のご案内」と一緒にお渡ししています。）\n母子健康手帳\n保険証\n歯ブラシ\n※受診票をお持ちではない方は、子ども家庭課母子保健係へお問い合わせください。\n\n費用\n無料",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "|医療機関名|電話番号|\n|:----|:----|\n|しまの歯科医院|03-3430-5060|\n|杉田歯科医院|03-3488-3375|\n|松本歯科医院|03-3480-5511|\n|大中歯科医院|03-3489-3905|\n|和泉歯科医院|03-3480-3280|\n|関谷歯科医院|033488-3345|\n|歯科　鈴木クリニック|03-3488-8858|\n|あさがお歯科　狛江|03-5761-4418|\n|塩谷歯科医院|03-3480-1967|\n|岡本歯科医院|03-5497-1747|\n|石川歯科医院|03-3430-4184|\n|長谷川歯科医院|03-3488-5536|\n|花井歯科医院|03-3480-8748|\n|たかはし歯科医院|03-3430-8855|\n|こうだ歯科医院|03-3488-2528|\n|久保田歯科医院|03-3430-1820|\n|なかつか歯科医院|03-5438-7233|\n|津江歯科医院|03-3480-2501|\n|島田歯科医院|03-3489-7272|\n|青山歯科医院|03-3489-1793|\n|松浦歯科医院|03-3489-2867|\n"
+  },
+  "institutionName": {
+    "canonicalName": "妊産婦の歯科健診",
+    "shortName": "妊産婦歯科健診"
+  },
+  "localGovernmentLink": {
+    "title": "妊産婦歯科健診",
+    "uri": "https://www.city.komae.tokyo.jp/index.cfm/43,114669,330,html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "狛江市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠中や出産後は女性ホルモンの分泌の変化や食事回数の増加などから虫歯や歯周病になりやすく、進行しやすい時期です。こうした時期のお口の中の健康を維持するために、歯科健診をおすすめしています。健診には健康保険が適用されませんが、経済的負担を軽減するため、健診にかかる費用を助成する妊産婦歯科健診受診票をお渡ししています。",
+  "support": {
+    "description": "歯科健診と保健指導",
+    "materiallySupport": "歯科健診と保健指導",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "狛江市在住の妊娠中の方、狛江市在住の出産後1年以内の産婦の方"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "以下の狛江市妊産婦歯科健康診査実施医療機関に直接予約して、受診してください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

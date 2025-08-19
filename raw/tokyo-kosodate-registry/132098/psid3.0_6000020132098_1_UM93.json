@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども生活部保育・幼稚園課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+1+UM93"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "家庭的保育者（保育ママ）一覧",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "Mammy's保育ルーム\nhttps://kosodate-machida.tokyo.jp/soshiki/4/3/8/4/323.html\nつぼみ保育室\nhttps://kosodate-machida.tokyo.jp/soshiki/4/3/8/4/328.html\nプチ コパン保育室\nhttps://kosodate-machida.tokyo.jp/soshiki/4/3/8/4/326.html\n家庭的保育室種まく人\nhttps://kosodate-machida.tokyo.jp/soshiki/4/3/8/4/327.html\n野いちご保育室\nhttps://kosodate-machida.tokyo.jp/soshiki/4/3/8/4/325.html\nゆりかご保育室\nhttps://kosodate-machida.tokyo.jp/soshiki/4/3/8/4/329.html\nAloha Keiki 家庭保育室\nhttps://kosodate-machida.tokyo.jp/soshiki/4/3/8/4/1329.html\nぐりーんぴーす家庭保育室\nhttps://kosodate-machida.tokyo.jp/soshiki/4/3/8/4/1330.html\nにじの丘 家庭保育室\nhttps://kosodate-machida.tokyo.jp/soshiki/4/3/8/4/1334.html\nひだまり保育室\nhttps://kosodate-machida.tokyo.jp/soshiki/4/3/8/4/1331.html\nほほえみ家庭保育室\nhttps://kosodate-machida.tokyo.jp/soshiki/4/3/8/4/1332.html\nスナグル・ポット 保育ルーム\nhttps://kosodate-machida.tokyo.jp/soshiki/4/3/8/4/1335.html\nティンクほいくしつ\nhttps://kosodate-machida.tokyo.jp/soshiki/4/3/8/4/1337.html"
+  },
+  "institutionName": {
+    "canonicalName": "家庭的保育（保育ママ）一覧",
+    "shortName": "家庭的保育者（保育ママ）一覧"
+  },
+  "localGovernmentLink": {
+    "title": "家庭的保育者（保育ママ）一覧",
+    "uri": "https://kosodate-machida.tokyo.jp/soshiki/4/3/8/4/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "市区町村の認可事業として行われる家庭的保育（保育ママ）は、3歳未満の保育が必要なお子さんを、少人数（定員5人以下）で、町田市が認定した家庭的保育者の自宅などで預かるサービスです。家庭的な雰囲気の中できめ細かな保育を実施します。",
+  "support": {
+    "description": "保育ママ",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象者記載なし"
+  },
+  "updateDate": "2022-07-01",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

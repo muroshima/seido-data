@@ -1,0 +1,153 @@
+{
+  "area": {
+    "areaCode": "131172;北区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部保健サービス課保健サービス係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131172",
+    "psid": "psid3.0+8000020131172+2+UM5011"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都北区王子本町1-15-22　北区役所第一庁舎1階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健サービス課保健サービス係,王子健康支援センター,赤羽健康支援センター,滝野川健康支援センター",
+    "contactPhone": "03-3908-7050,03-3919-7588,03-3903-6481,03-3915-0184",
+    "contactUrl": null,
+    "zipCode": "1148508"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "2　妊娠後期のアンケート及び面談\n妊娠6か月以降の方に郵送でアンケートを実施します。\n希望される方には、助産師または保健師が面談します。\n\nお問い合わせ先\n保健サービス課保健サービス係　電話　03-3908-7050\n王子健康支援センター　電話　03-3919-7588\n赤羽健康支援センター　電話　03-3903-6481\n滝野川健康支援センター　電話　03-3915-0184",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "伴走型相談支援",
+    "shortName": "妊娠後期のアンケート及び面談"
+  },
+  "localGovernmentLink": {
+    "title": "北区出産・子育て応援事業について",
+    "uri": "https://www.city.kita.tokyo.jp/k-suishin/kosodate/ninshin/syussankosodateouen.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "北区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "別紙：伴走型相談支援及び出産・子育て応援給付金の一体的実施事業実施要綱「伴走型相談支援」（別添１）",
+    "regulationName": "伴走型相談支援及び出産・子育て応援給付金の一体的実施事業の実施について（子発1226第1号 令和4年12月26日）"
+  },
+  "relatedLink": [
+    {
+      "title": "厚生労働省ホームページ「出産・子育て応援交付金」（外部サイトへリンク）",
+      "uri": "https://www.mhlw.go.jp/stf/newpage_29323.html"
+    },
+    {
+      "title": "東京都出産・子育て応援事業（外部サイトへリンク）※令和5年4月1日以降に出産された方向け",
+      "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/shussan/tokyo_shussankosodateouen.html"
+    },
+    {
+      "title": "東京都出産応援事業（外部サイトへリンク）※令和5年3月31日までに出産された方向け",
+      "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/shussan/tokyo_shussanouen.html"
+    },
+    {
+      "title": "妊娠中の方へ（はぴママたまご面接）（サイト内ページ）",
+      "uri": "https://www.city.kita.tokyo.jp/k-suishin/kosodate/ninshin/happymama.html"
+    },
+    {
+      "title": "はぴママひよこ面接（サイト内ページ）",
+      "uri": "https://www.city.kita.tokyo.jp/koka/hapimamahiyoko.html"
+    },
+    {
+      "title": "みんなでお祝い輝きバースデー～子育て応援団事業～（サイト内ページ）",
+      "uri": "https://www.city.kita.tokyo.jp/k-mirai/kosodate/shien/kosodate/iwai.html"
+    },
+    {
+      "title": "赤ちゃん訪問（新生児訪問）（サイト内ページ）",
+      "uri": "https://www.city.kita.tokyo.jp/k-suishin/kosodate/ninshin/shinsei.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "すべての妊婦さんと子育て家庭が安心して出産・子育てができるように、妊娠から出産・子育てまでの一貫した「伴走型相談支援」を実施しています。",
+  "support": {
+    "description": "妊娠後期のアンケート及び面談\n妊娠6か月以降の方に郵送でアンケートを実施します。\n\n希望される方には、助産師または保健師が面談します。",
+    "materiallySupport": "妊娠後期のアンケート及び面談\n妊娠6か月以降の方に郵送でアンケートを実施します。\n\n希望される方には、助産師または保健師が面談します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊娠6か月以降の方"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "妊娠6か月以降の方に郵送でアンケートを実施します。\n\n希望される方には、助産師または保健師が面談します。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部保健予防課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+3+UM55"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部保健予防課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e054/kuseijoho/gaiyo/soshiki/kenko/hokenyobo.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "接種した費用の償還払いはありません。",
+  "description": "江戸川区では、令和4年10月接種分より、江戸川区内の契約医療機関で、おたふくかぜワクチン任意接種費用の一部助成を実施しています。なお、償還払いはありません。\nおたふくかぜ予防接種は、任意予防接種であり、義務付けはありません。\n接種を希望される方は、医師とよく相談のうえ、接種してください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "1回目：1歳になる月の上旬\n2回目：小学校就学前年度の4月上旬\n（注）事業開始の令和4年10月には次の対象者に予診票を送付しました。\n1回目：1歳（令和3年10月生まれまで）から令和4年度中に5歳になる方\n1回目・2回目：令和4年度中に6歳になる方",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "区内指定医療機関;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/iryokikan.html"
+  },
+  "institutionName": {
+    "canonicalName": "任意予防接種",
+    "shortName": "おたふくかぜワクチン任意接種費用の一部助成（区独自事業）"
+  },
+  "localGovernmentLink": {
+    "title": "おたふくかぜワクチン任意接種費用の一部助成のお知らせ（区独自事業）",
+    "uri": "https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/otahuku.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "任意予防接種等実施要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "江戸川区では、令和4年10月接種分より、江戸川区内の契約医療機関で、おたふくかぜワクチン任意接種費用の一部助成を実施しています。なお、償還払いはありません。\nおたふくかぜ予防接種は、任意予防接種であり、義務付けはありません。\n接種を希望される方は、医師とよく相談のうえ、接種してください。",
+  "support": {
+    "description": "接種1回につき上限3,000円を2回まで助成します。\n（注）任意接種ですので、接種費用は医療機関により異なります。接種費用から助成額3,000円を差し引いた額を実施医療機関でお支払いください。\n（注）おたふくかぜワクチン任意予防接種を既に1回接種した方は1回まで助成します。\n（注）予診のみの方は助成の対象から除きます。\n以下に該当する方は、自己負担免除となります。助成額3,000円の予診票が届いた場合は、予診票を各窓口に持参し、無料接種のための手続きを受けてください。\n生活保護受給者→受付窓口：生活援護第一課、生活援護第二課及び生活援護第三課\n「中国残留邦人等の円滑な帰国の促進並びに永住帰国した中国残留邦人等及び特定配偶者の自立の支援に関する法律」による支援給付受給者→受付窓口：生活援護第一課（生活援護第二課及び生活援護第三課では受け付けていませんのでご注意ください。）",
+    "materiallySupport": null,
+    "monetarySupport": "3000"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "接種日時点で江戸川区に住民登録がある満1歳から小学校就学前年度のお子様",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 6,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "接種日時点で江戸川区に住民登録がある満1歳から小学校就学前年度のお子様\n\n（注）既におたふくかぜ予防接種を2回受けた方、おたふくかぜに罹患したことがある方は対象外です。"
+  },
+  "updateDate": "2023-03-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

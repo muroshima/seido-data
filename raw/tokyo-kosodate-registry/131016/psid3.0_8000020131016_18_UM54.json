@@ -1,0 +1,173 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "千代田保健所健康推進課感染症対策係（予診票専用ダイヤル）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+18+UM54"
+  },
+  "belongings": "（1）予診票\n（2）母子健康手帳\n（3）健康保険証\n（4）（お持ちの場合）高校生等医療証\n\n生活保護を受けている方は、高校生等医療証の代わりに、生活支援課（区役所3階）発行の証明書を持参してください。無料で接種できます。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区九段北1-2-14",
+    "contactComment": null,
+    "contactEmail": "kenkousuishin@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "千代田保健所健康推進課感染症対策係（予診票専用ダイヤル）",
+    "contactPhone": "03-6256-9005",
+    "contactUrl": null,
+    "zipCode": "1020073"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "キャッチアップ接種は令和7年3月末までです。\nHPVワクチンは平成25年度から令和3年度まで、積極的勧奨（個別に接種をお勧めする取組）が差し控えられていました。その間に接種を逃した定期接種対象の方に接種機会を提供しています。\n標準的なスケジュールでは、3回接種完了までに6か月かかります。接種希望の方は、1回目の接種を令和6年9月末までに受けるようにしましょう。\n\n9価HPVワクチン（シルガード9）の定期接種化が決定\nこれまで、9価HPVワクチン（シルガード9）は定期接種ではなく接種を希望する場合は自費接種となっていましたが、第50回厚生科学審議会予防接種・ワクチン分科会予防接種基本方針部会（令和4年11月8日開催）、第41回厚生科学審議会予防接種ワクチン分科会（令和4年11月18日）において、定期接種化に向けた議論が行われ令和5年4月から9価HPVワクチン（シルガード9）を定期接種で使用可能とする方針が了承されました。\n詳細は、「第41回厚生科学審議会予防接種・ワクチン分科会（令和4年11月8日開催）（PDF：3,330KB）」資料をご覧ください。\nHPVワクチンは平成25年4月から定期予防接種になりましたが、副反応の報告が相次いだため、同年6月から積極的接種勧奨の差し控えの措置を継続していました。\nしかし、令和3年11月26日付け厚生労働省通知により、積極的接種勧奨が再開となりました。\n公平な接種機会を確保するため、接種を差し控えていた方を対象に、定期予防接種の対象年齢を超えてHPVワクチンを接種する機会を設けます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": "2025-03-31"
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "HPV（ヒトパピローマウイルス）ワクチンキャッチアップ接種"
+  },
+  "localGovernmentLink": {
+    "title": "【平成9年度～平成19年度生まれの女性へ】HPV（ヒトパピローマウイルス）ワクチンキャッチアップ接種および償還払い",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/yobosesshu/hpv-catchupsesshu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "対象者のうち、新たにキャッチアップ接種の対象に含まれる平成19年（2007年）4月2日～平成20年（2008年）4月1日生まれの女性へ令和6年3月27日に予診票を送付予定です。\n\n（注意） 平成9年（1997年）4月2日～平成18年（2006年）4月1日生まれの方へは令和4年7月5日に、平成18年（2006年）4月2日～平成19年（2007年）4月1日に予診票を送付しています。なお、すでに予診票の交付を受けている方の中には、予診票に9価ワクチンについての記載がないものを受け取っている場合があります。（予診票の使用ワクチン欄に「シルガード9」が追加されたものが新予診票となります。）\n\nその場合でも、予診票はそのまま使用することができます。医療機関が手書きで「シルガード9」と記入します。\n\n予診票がお手元にない方や千代田区に転入された方については、感染症対策係（予防接種担当）まで直接お問い合わせください。\n\n予防接種予診票の申込\nお問い合わせ先の千代田保健所健康推進課感染症対策係（予防接種担当）へ、メールか電話で申し込んでください。\n\nメールの場合は、件名を「HPVワクチン予診票希望」とし、本文に以下の項目を記入してください。\n\n・氏名（フリガナ）\n・生年月日\n・住所\n・日中連絡の取れる電話番号\n・HPVワクチンの接種履歴（どのワクチン種を何回接種済みか）\n・予診票希望枚数（過去に接種した回数で枚数が異なります）\n（注意）申込の内容に問題がない場合は、返信していません。\n\n（注意）申込後、1週間以内にお手元に届かない場合は、お手数ですがお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）",
+    "regulationName": "予防接種法"
+  },
+  "relatedLink": [
+    {
+      "title": "ガーダシル（4価ワクチン）（PDF：1",
+      "uri": "https://www.city.chiyoda.lg.jp/documents/28094/vaccine-2ka.pdf"
+    },
+    {
+      "title": "【平成9年度～平成19年度生まれの女性へ】HPV（ヒトパピローマウイルス）ワクチンキャッチアップ接種および償還払い",
+      "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou/hpv_catch-up-vaccination.html"
+    },
+    {
+      "title": "令和6年度千代田区HPVワクチン定期予防接種指定医療機関名簿（令和6年6月1日現在）（PDF：541KB）",
+      "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/yobosesshu/hpv.html"
+    },
+    {
+      "title": "HPVワクチンに関するQ＆A（外部サイトへリンク）",
+      "uri": "https://www.city.chiyoda.lg.jp/documents/28094/r60708hpvwakuchin-meibo.pdf"
+    },
+    {
+      "title": "サーバリックス（2価ワクチン）（PDF：594KB）",
+      "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou/hpv_qa.html"
+    },
+    {
+      "title": "101KB）",
+      "uri": "https://www.city.chiyoda.lg.jp/documents/28094/vaccine-4ka.pdf"
+    },
+    {
+      "title": "シルガード9（9価ワクチン）（PDF：713KB）",
+      "uri": "https://www.city.chiyoda.lg.jp/documents/28094/vaccine-9ka.pdf"
+    },
+    {
+      "title": "HPV（ヒトパピローマウイルス）ワクチン任意予防接種費用償還払い",
+      "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/yobosesshu/hpv-shokambarai.html"
+    },
+    {
+      "title": "各都道府県において協力医療機関（外部サイトへリンク）",
+      "uri": "https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou28/medical_institution/index.html"
+    },
+    {
+      "title": "お住まいの都道府県に設置された相談窓口（外部サイトへリンク）",
+      "uri": "https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou28/madoguchi/index.html"
+    },
+    {
+      "title": "厚生労働省 感染症・予防接種相談窓口（外部サイトへリンク）",
+      "uri": "https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou01/inful_consult.html"
+    },
+    {
+      "title": " 予防接種後健康被害救済制度について（PDF：564KB）",
+      "uri": "https://www.city.chiyoda.lg.jp/documents/28094/kenkohigai-kyusaiseido.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+  "support": {
+    "description": "接種費用",
+    "materiallySupport": null,
+    "monetarySupport": "接種費用"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "092"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "以下の条件にすべて該当する方\n\n・千代田区に住民登録がある\n・平成9年（1997年）4月2日～平成20年（2008年）4月1日生まれの女性\n・HPVワクチンの接種を完了していない"
+  },
+  "updateDate": "2024-09-04",
+  "useConsiderationFlag": false,
+  "utilization": "（１）指定医療機関へ予約してください。\n（２）接種当日は（1）予診票、（2）母子健康手帳、（3）健康保険証、（4）（お持ちの場合）高校生等医療証をお持ちください。\n（３）疑問や不安があるときは、接種医師にご相談ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132241;多摩市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センター母子保健担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132241",
+    "psid": "psid3.0+3000020132241+1+UM8"
+  },
+  "belongings": "母子健康手帳（親子健康手帳）、いつも使っている歯ブラシ",
+  "capacity": "20人",
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都多摩市関戸四丁目19番5号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭センター母子保健担当",
+    "contactPhone": "042-376-9177",
+    "contactUrl": null,
+    "zipCode": "2060011"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊婦歯科健康診査\n\n妊娠中は、ホルモンのバランスの変化やつわりによる歯みがき不足などが原因で歯ぐきが腫れやすくなったり、むし歯になりやすくなります。むし歯菌は、親からうつるといわれています。おなかの赤ちゃんのために、妊娠期からのむし歯予防・歯周病予防を始めましょう！！\n\n妊婦歯科相談概要\n対象\n多摩市在住の妊娠している方（なるべく妊娠6～7か月の安定期にご利用ください）\n歯科医院で定期健診をしていない方\n場所\n健康センター2階\n\n予約制（申し込み先着順）\n[定員]　20人\n\n[予約時間]　13時20分、13時50分、14時20分、14時50分\n\n内容\n歯科相談、歯みがき実習、かかりつけ歯科の相談等\n\n持ち物\n母子健康手帳（親子健康手帳）、いつも使っている歯ブラシ\n\nその他\n日程は、たま広報等で再度ご確認ください。\n予約制ですので必ず事前にお申し込みください。\n体調のよい時期（安定期等）に受診してください。\n欠席される場合には、ご連絡ください。\n\n参加者の声\n「今までは意識していなかったけれど、ハミガキの仕方がわかって良かった。」\n「引っ越してきてから歯の健診は久しぶり、かかりつけ歯科の相談ができて良かった。」\n等。\n\n申込・問い合わせ\nこども家庭センター母子保健担当電話番号：042-376-9177\n\n実施予定日\n令和7年 6月25日（水曜日）\n令和7年8月 27日（水曜日）\n令和7年10月29日（水曜日）\n令和8年 1月28日（水曜日）\n令和7年3月25日（水曜日）\n関連情報\n市立健康センター(施設案内);https://www.city.tama.lg.jp/map/iryo/1002738.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "日程は、たま広報等で再度ご確認ください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊産婦の歯科健診",
+    "shortName": "妊婦歯科相談"
+  },
+  "localGovernmentLink": {
+    "title": "妊婦歯科相談",
+    "uri": "https://www.city.tama.lg.jp/kosodate/1008018/1008020/1003405.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "多摩市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "市立健康センター(施設案内)",
+      "uri": "https://www.city.tama.lg.jp/map/iryo/1002738.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠中や出産後は女性ホルモンの分泌の変化や食事回数の増加などから虫歯や歯周病になりやすく、進行しやすい時期です。こうした時期のお口の中の健康を維持するために、歯科相談を実施しています。おなかの赤ちゃんのために、妊娠期からの虫歯予防を始めましょう。",
+  "support": {
+    "description": "歯科相談、歯みがき実習、かかりつけ歯科の相談等",
+    "materiallySupport": "歯科相談、歯みがき実習、かかりつけ歯科の相談等",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "・多摩市在住の妊娠している方（なるべく妊娠6～7か月の安定期にご利用ください）\n・歯科医院で定期健診をしていない方"
+  },
+  "updateDate": "2024-01-26",
+  "useConsiderationFlag": false,
+  "utilization": "予約制（申し込み先着順）\n[定員]　20人\n\n[予約時間]　13時20分、13時50分、14時20分、14時50分",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "[予約時間]　13時20分、13時50分、14時20分、14時50分",
+    "fromHM": null,
+    "toHM": null
+  }
+}

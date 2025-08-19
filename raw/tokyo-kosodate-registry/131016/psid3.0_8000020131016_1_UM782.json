@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局子ども部児童・家庭支援センター子ども家庭相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+1+UM782"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区神田司町2-16　神田さくら館6階",
+    "contactComment": null,
+    "contactEmail": "jidousoudan@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "教育委員会事務局子ども部児童・家庭支援センター子ども家庭相談係",
+    "contactPhone": "03-5298-5521",
+    "contactUrl": null,
+    "zipCode": "1010048"
+  },
+  "cost": "3000",
+  "costConditions": "1人1泊につき",
+  "description": "区内にお住まいの生後0歳（2か月程度）から小学校6年生までのお子さんを、保護者の疾病等の条件に加え、一時的に育児が困難になっていると区が認定した家庭のお子さんをお泊まりでお預かりします。\n\n利用できる日・時間帯\n\n1回につき、6泊以内（1泊は、宿泊を伴う24時間以内）原則1か月につき、6泊以内（1世帯）\n・入所時間：午前9時から午後5時まで（預かり施設により若干前後します）\n・退所時間：翌日午前9時から午後5時まで（預かり施設により若干前後します）\n（注意） 受け入れ先の状況で前後する場合があります。\n\nお預かりする場所\n\n・お子さんの年齢や認定状況により下記のいずれかから区で決定をします。\n・利用決定後、事前に見学を行うことが可能です。\n\n負担費用\n\n1人1泊につき、3,000円（減免制度あり）\n料金は、後日お送りする納付書を使用し、金融機関でお支払いください。\n利用中に要した緊急の医療費、通園もしくは通学に要した交通費などは、実費分を直接施設へお支払いください。\n\n減免制度\n\n申請する場合は、住民税課税証明書を添付してください。\n1.生活保護受給・住民税非課税世帯 0円\n2.住民税均等割のみ課税世帯 1,500円",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "ショートステイ（宿泊）",
+    "shortName": "子どもショートステイ（乳児院、協力家庭）"
+  },
+  "localGovernmentLink": {
+    "title": "子どもショートステイ（乳児院、協力家庭）",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/ichijiteki/shortstay.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": "千代田区立児童・家庭支援センター 子ども家庭相談係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第3項、第21条の9",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "千代田フレンズ ～夜間・宿泊等で子どもをお預かり",
+      "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/ichijiteki/chiyodafriends.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "区内にお住まいの生後0歳（2か月程度）から小学校6年生までのお子さんを、保護者の疾病等の条件に加え、一時的に育児が困難になっていると区が認定した家庭のお子さんをお泊まりでお預かりします。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 2
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "・区内にお住まいの生後0歳（2か月程度）から小学校6年生までのお子さん\n・区内に保護者と児童の住民票があること\n・保護者の疾病などの条件に加え、一時的に家庭で養育することが困難であると区が認定した家庭"
+  },
+  "updateDate": "2023-04-05",
+  "useConsiderationFlag": true,
+  "utilization": "利用要件を確認し根拠資料を用意のうえ、児童・家庭支援センターへお電話ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": "09:00",
+    "toHM": "17:00"
+  }
+}

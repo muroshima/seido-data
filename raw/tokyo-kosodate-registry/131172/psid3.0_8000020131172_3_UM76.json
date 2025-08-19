@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "131172;北区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども未来部保育課入園相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131172",
+    "psid": "psid3.0+8000020131172+3+UM76"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都北区王子本町1-15-22北区役所第一庁舎2階1番",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども未来部保育課入園相談係",
+    "contactPhone": "03-3908-9129",
+    "contactUrl": null,
+    "zipCode": "1148508"
+  },
+  "cost": "300",
+  "costConditions": "1回あたり児童1人につき300円",
+  "description": "保育園（一日単位の延長保育）\n時間内スポット利用～保育短時間認定を受けた方～\n　保育短時間認定を受けた方で、急な残業などにより8時間を超えて開園時間の範囲内で保育園を利用する場合は、追加で利用料金が発生します。なお、延長保育実施園で午後6時15分（小規模保育事業の一部は午後6時30分）以降も保育園を利用する場合は、時間外スポット保育料が発生します。\n\n利用料金（公立保育園）\n　1回あたり児童1人につき300円\n\n申し込み方法\n　各園に直接お申し込みください。\n\n関連リンク\n保育園（支給認定）;https://www.city.kita.tokyo.jp/k-hoiku/kosodate/hoikuen/hoikuen/moshikomi/sikyunintei.html\n保育園（月ぎめ延長保育）;https://www.city.kita.tokyo.jp/k-hoiku/kosodate/hoikuen/hoikuen/moshikomi/encho.html ",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "延長保育",
+    "shortName": "保育園（一日単位の延長保育）（時間内スポット利用～保育短時間認定を受けた方～）"
+  },
+  "localGovernmentLink": {
+    "title": "保育園（一日単位の延長保育）",
+    "uri": "https://www.city.kita.tokyo.jp/k-hoiku/kosodate/hoikuen/hoikuen/moshikomi/supot.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "北区"
+  },
+  "procedureCounter": "各園",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "各園に直接お申し込みください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第59条第2号",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "保育園（月ぎめ延長保育） ",
+      "uri": "https://www.city.kita.tokyo.jp/k-hoiku/kosodate/hoikuen/hoikuen/moshikomi/encho.html"
+    },
+    {
+      "title": "保育園（支給認定）",
+      "uri": "https://www.city.kita.tokyo.jp/k-hoiku/kosodate/hoikuen/hoikuen/moshikomi/sikyunintei.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育短時間認定を受けた方で、急な残業などにより8時間を超えて開園時間の範囲内で保育園を利用する場合は、追加で利用料金が発生します。なお、延長保育実施園で午後6時15分（小規模保育事業の一部は午後6時30分）以降も保育園を利用する場合は、時間外スポット保育料が発生します。",
+  "support": {
+    "description": "保育短時間認定を受けた方で、急な残業などにより8時間を超えて開園時間の範囲内で保育園を利用する場合は、追加で利用料金が発生します。なお、延長保育実施園で午後6時15分（小規模保育事業の一部は午後6時30分）以降も保育園を利用する場合は、時間外スポット保育料が発生します。",
+    "materiallySupport": "保育短時間認定を受けた方で、急な残業などにより8時間を超えて開園時間の範囲内で保育園を利用する場合は、追加で利用料金が発生します。なお、延長保育実施園で午後6時15分（小規模保育事業の一部は午後6時30分）以降も保育園を利用する場合は、時間外スポット保育料が発生します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "保育短時間認定を受けた方で、急な残業などにより8時間を超えて開園時間の範囲内で保育園を利用する場合"
+  },
+  "updateDate": "2021-08-17",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

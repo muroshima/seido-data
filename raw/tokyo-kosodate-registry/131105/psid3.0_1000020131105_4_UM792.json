@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131105;目黒区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健予防課, 碑文谷保健センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131105",
+    "psid": "psid3.0+1000020131105+4+UM792"
+  },
+  "belongings": "受診票",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "目黒区上目黒二丁目19番15号,目黒区碑文谷四丁目16番18号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健予防課,碑文谷保健センター",
+    "contactPhone": "03-5722-7057,03-3711-6446",
+    "contactUrl": null,
+    "zipCode": "1538573,1520003"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "5・6歳児フッ素塗布事業\n目次\n\n対象者\n受診方法\n健診内容\n受診期間\n費用\nむし歯予防・歯質（ししつ）強化のため、永久歯の萌出期（ほうしゅつき）に効果的なフッ素塗布を実施しています。\n\n対象者\n区内在住で、当該年度（4月から翌年3月まで）に6歳になる幼児\n\n受診方法\n対象者には、6月末に「5・6歳児フッ素塗布受診券」をお送りしますので、目黒区内の実施医療機関で受診してください。\n\n5・6歳児フッ素塗布事業実施医療機関一覧（令和6年7月1日現在）（PDF：337KB）;https://www.city.meguro.tokyo.jp/documents/3980/6saihusso-jissiiryoukikann0701.pdf\n\n健診内容\nフッ素塗布\nむし歯、不正咬合、その他異常の有無\nプラークの有無\n受診期間\n令和6年7月1日から令和7年1月31日まで\n受診期間を過ぎた場合は、受診できませんのでご注意ください。\n\n費用\n無料です。ただし、受診券に書かれている診査項目以外の検査、治療を行った場合は、料金をお支払いください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "当年度の7月1日から1月31日の間",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "https://www.city.meguro.tokyo.jp/documents/3980/6saihusso-jissiiryoukikann0701.pdf",
+    "implementationName": "https://www.city.meguro.tokyo.jp/documents/3980/6saihusso-jissiiryoukikann0701.pdf"
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児の歯の健康診査（5～6歳児歯科健康診査）",
+    "shortName": "5~6歳児フッ素塗布事業"
+  },
+  "localGovernmentLink": {
+    "title": "5~6歳児フッ素塗布事業",
+    "uri": "https://www.city.meguro.tokyo.jp/hokenyobou/kosodatekyouiku/kosodate/fusso.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "目黒区"
+  },
+  "procedureCounter": "保健予防課（目黒区総合庁舎本館3階）,碑文谷保健センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第3章　第6条",
+    "regulationName": "地域保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "5・6歳児フッ素塗布事業実施医療機関一覧（令和6年7月1日現在）",
+      "uri": "https://www.city.meguro.tokyo.jp/documents/3980/6saihusso-jissiiryoukikann0701.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "むし歯予防・歯質（ししつ）強化のため、永久歯の萌出期（ほうしゅつき）に効果的なフッ素塗布を実施しています。",
+  "support": {
+    "description": "無料です。ただし、受診券に書かれている診査項目以外の検査、治療を行った場合は、料金をお支払いください。",
+    "materiallySupport": null,
+    "monetarySupport": "無料です。ただし、受診券に書かれている診査項目以外の検査、治療を行った場合は、料金をお支払いください。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 5,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 6,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住で、当該年度（4月から翌年3月まで）に6歳になる幼児"
+  },
+  "updateDate": "2024-06-15",
+  "useConsiderationFlag": false,
+  "utilization": "対象者には、6月末に「5・6歳児フッ素塗布受診券」をお送りしますので、目黒区内の実施医療機関で受診してください。\n\n5・6歳児フッ素塗布事業実施医療機関一覧（令和6年7月1日現在）（PDF：337KB）;https://www.city.meguro.tokyo.jp/documents/3980/6saihusso-jissiiryoukikann0701.pdf",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "当年度の7月1日から1月31日の間",
+    "fromHM": null,
+    "toHM": null
+  }
+}

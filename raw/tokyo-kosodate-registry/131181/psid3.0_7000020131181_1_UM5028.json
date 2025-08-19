@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "131181;荒川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部児童青少年課事業支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020131181",
+    "psid": "psid3.0+7000020131181+1+UM5028"
+  },
+  "belongings": "登録申請書・登録申請時確認票に保険料",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "荒川区荒川二丁目2番3号（本庁舎2階）",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "3832",
+    "contactName": "子ども家庭部児童青少年課事業支援係",
+    "contactPhone": "03-3802-3111",
+    "contactUrl": null,
+    "zipCode": "1168501"
+  },
+  "cost": "無料",
+  "costConditions": "活動中の事故に備えて、実費でスポーツ安全保険料（年額800円）が掛かります。\n活動で材料費が必要な場合は、実費負担となります。",
+  "description": "放課後や夏休みなどに、学校内で安全に、安心して過ごせる場所を提供するとともに、子どもたちの自主的な参加のもと、地域の方々の協力を得ながら、遊びをはじめ体験学習やスポーツ・文化活動などを通して子ども同士の交流や地域との交流を図る事業です。平成28年度から、区内小学校全校で実施しています。\nお子さんやご家族に発熱や風邪の症状がある場合は、ご利用をお控えください。ご理解ご協力のほどよろしくお願いします。\nにこにこすくーる利用日のイメージ（PDF：71KB）;https://www.city.arakawa.tokyo.jp/documents/1135/riyoubiime-ji.pdf\n各種書類はページ下部「登録申請書類」からダウンロードできますので、ご利用ください。\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "日曜、祝日、年末年始（12月29日から1月3日まで）はお休みです。\nその他、学校の行事等によりお休みになる場合があります。",
+  "implementationPeriod": {
+    "conditions": "月曜から土曜まで",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "区内小学校全校"
+  },
+  "institutionName": {
+    "canonicalName": "放課後子供教室",
+    "shortName": "放課後子ども教室（にこにこすくーる）"
+  },
+  "localGovernmentLink": {
+    "title": "放課後子ども教室（にこにこすくーる）の事業内容",
+    "uri": "https://www.city.arakawa.tokyo.jp/a036/kosodate/houkago/jigyonaiyo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/25",
+    "updater": "荒川区"
+  },
+  "procedureCounter": "各にこにこすくーるの受付",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "登録申請書・登録申請時確認票に保険料を添えて、保護者の方が直接各にこにこすくーるの受付までご持参ください（お子さんには持たせないでください）。\nなお、学校内の学童クラブ（一体型総合プラン実施校）を利用する児童は、別途にこにこすくーるに登録しなくても利用できます。",
+  "procedurePeriod": {
+    "conditions": "令和6年度途中からの利用については、申請日により利用開始日が異なります。\n毎月10日までの申請・・・翌月1日からの利用\n毎月25日までの申請・・・翌月16日からの利用",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "放課後こども教室（にこにこすくーる）の施設案内",
+      "uri": "https://www.city.arakawa.tokyo.jp/a036/kosodate/houkago/nikonikoschool.html"
+    },
+    {
+      "title": "放課後子ども総合プランについて",
+      "uri": "https://www.city.arakawa.tokyo.jp/a036/kosodate/houkago/sougoupuran.html"
+    },
+    {
+      "title": "学童クラブ・にこにこすくーるに関するメール配信(放課後児童事業配信システム）のご案内",
+      "uri": "https://www.city.arakawa.tokyo.jp/a036/kosodate/houkago/houkagojidoujigyoujouhouhaishin.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "にこにこすくーるは、放課後や夏休み等に小学校の校庭、体育館等を活用し、子どもたちの安全・安心な活動拠点（居場所）を設け、子どもたちの自主的な参加のもとに、地域の方々の協力を得て、遊びをはじめ、体験学習や、スポーツ・文化活動等の交流を図る事業です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "1年生から6年生",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "1年生から6年生の児童のうち、下記条件を満たす者\n区内小学校に在籍する児童\n区内小学校に在籍しない児童のうち、区内小学校の通学区域内に住居を有する児童\n※注釈　学童クラブと異なり、保護者の就労等の条件はありません。"
+  },
+  "updateDate": "2024/11/01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜から金曜　授業終了後から午後5時\n土曜　午前9時から午後5時\n学校休業日　午前9時から午後5時\n※注釈　ただし、放課後子ども教室一覧（令和6年度現在）（PDF：8KB）;https://www.city.arakawa.tokyo.jp/documents/1135/6ichiran.pdfの★印の施設については、午後6時まで（土曜日は午後5時まで）です。\n※要件を満たす方は、学校の長期休業期間中の午前8時15分、8時30分からの受け入れ制度を申請により利用できます。",
+    "fromHM": null,
+    "toHM": null
+  }
+}

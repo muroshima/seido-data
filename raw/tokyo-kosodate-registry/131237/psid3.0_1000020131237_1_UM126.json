@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局学務課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM126"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "教育委員会事務局学務課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e069/kuseijoho/gaiyo/soshiki/kyoiku/gakumu.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "就学援助のご案内\n\n就学援助制度とは、経済的に就学が困難なご家庭に、学校生活で必要な費用の一部を江戸川区が援助する制度です。就学援助は保護者の申請に基づき、世帯全体の前年所得額を基準とします。\n\n就学援助費申請のお知らせ（PDF：993KB）（別ウィンドウで開きます）\nhttps://www.city.edogawa.tokyo.jp/documents/8766/5osirase.pdf\n\n支給方法について\n\n上記の各援助費（学校給食費・医療費を除く）は、区から保護者口座に直接振込をします。入金は、8月以降を予定しています。なお、学校給食費は学校長の口座へ振込みいたします。\n（注）江戸川区立以外の小学校・中学校に在籍している方は翌年の4月頃に、一年分を一括で振込みいたします。\n\nその他\n\n就学援助の制度は、認定された方に就学援助費を支給するものであり、教材費等の納付が免除されるものではありません。学校納付金については、学校の指示に従って納めてください。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "電子申請システム（外部サイトへリンク）（別ウィンドウで開きます）;ぴったりサービス（外部サイトへリンク）（別ウィンドウで開きます）",
+      "uri": "https://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?fromAction=1&govCode=13123&keyWord=1000840&procCode=11013305;https://app.oss.myna.go.jp/Application/procdetail/initGet?kc9XUt9I8/CU41afS8P1OaaLxX/9+D2bXPzn80LiqLRKeI438ftq6avj3ZAt+N8AW9q6EDQcH6gd79sU8Jz/WDkumilvLbbCkze8C79kjkQd0qVNG53HDV+kdQaO5xfqGcX0haZaG8l6AxAmPd0ijg=="
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "小学校・中学校の就学援助費",
+    "shortName": "就学援助費"
+  },
+  "localGovernmentLink": {
+    "title": "就学援助費",
+    "uri": "https://www.city.edogawa.tokyo.jp/e069/kosodate/kyoiku/kyouiku/tetuduki/shugakuenjo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "就学援助の申請手続き\n江戸川区立小学校・中学校に在籍している児童生徒の保護者の方\n\n毎年4月に学校を通じて申請書を配付します。就学援助を希望される方は、必要事項を記入して、学校に提出してください。年度の途中でも申請できます。\n江戸川区立以外の国公立の小学校・中学校に在籍している児童生徒の保護者の方\n\n就学援助を希望される方は、毎年度申請が必要です。年度の途中でも申請できます。申請書類は直接、学務課学事係に受け取りにきていただくか、郵送にて請求ください。なお、令和5年度より電子申請を受け付けております。\n申請書類の郵送請求方法\n\n1.就学援助申請書類請求書\n    請求書に必要事項をご記入ください。請求書をダウンロードできない場合は、白紙等に次の必要事項をご記入ください。1枚で3名分まで請求できます。\n    請求書（PDF：5KB）（別ウィンドウで開きます）\nhttps://www.city.edogawa.tokyo.jp/documents/8766/seikyuusyo.pdf\n    ・請求者（保護者）氏名\n    ・請求者（保護者）連絡先\n    ・求者（保護者）住所\n    ・就学援助を申請する児童生徒の氏名・在籍校名\n2.返信用封筒\n    お手持ちの封筒に、請求者（保護者）の郵便番号・住所・氏名を記入し、94円切手を貼ってください。\n3.請求先\n    お手持ちの封筒に請求書・返信用封筒を同封の上、以下の宛先に請求ください。\n    〒132-8501（住所の記入は不要）\n    江戸川区教育委員会事務局学務課学事係宛\n\n就学援助費の申請方法\n\n1.電子申請\n    東京共同電子申請・届出サービスから申請を受付します。下記の「電子申請システム」から申請画面へお進みください。なお、申請完了後、メールが届きますのでご確認ください。\n    電子申請システム（外部サイトへリンク）（別ウィンドウで開きます）\nhttps://www.shinsei.elg-front.jp/tokyo2/navi/procList.do?fromAction=1&govCode=13123&keyWord=1000840\n    ≪お知らせ≫令和6年4月より「ぴったりサービス（外部サイトへリンク）（別ウィンドウで開きます）」での電子申請を開始予定です。利用にはマイナンバーカードが必要です。\nhttps://app.oss.myna.go.jp/Application/procdetail/initGet?kc9XUt9I8/CU41afS8P1OaaLxX/9+D2bXPzn80LiqLRKeI438ftq6avj3ZAt+N8AW9q6EDQcH6gd79sU8Jz/WDkumilvLbbCkze8C79kjkQd0qVNG53HDV+kdQaO5xfqGcX0haZaG8l6AxAmPd0ijg==\n2.郵送提出\n    申請書に必要事項を記入し、ご郵送ください。\n    【郵送先】\n    〒132-8501江戸川区中央1丁目4番1号\n    江戸川区教育委員会事務局学務課学事係宛\n    普通郵便では、郵便事故の際に補償ができません。追跡サービス付き郵便物でのご利用をお勧めします。\n3.窓口にて申請\n    申請書に必要事項を記入し、学務課学事係（本庁舎4階5番）にご提出ください。。\n\n注意事項\n\n1.江戸川区立の小・中学校に在籍している場合、電子申請はできません。在籍校から配布される申請書にてご申請ください。\n2.下記に該当する場合は電子データによる添付書類が必要となります。\n   ・【令和5年1月2日以降に江戸川区に転入された方】\n        令和5年度課税・非課税証明書、所得証明書等（令和4年分の所得金額・扶養情報が記載されているもの）\n   ・【家族の中に江戸川区以外に住民登録をしている人がいる方（単身赴任の父母・遠隔地扶養の子）】\n        令和5年度課税・非課税証明書、所得証明書等（令和4年分の所得金額及び扶養情報が記載されているもの。自治体によって名称が異なります）\n        住所、氏名及び生年月日がわかる書類（住民票、保険証の写し等）\n\n区域外就学援助費のお知らせ（PDF：163KB）（別ウィンドウで開きます）\nhttps://www.city.edogawa.tokyo.jp/documents/8766/kuikigaiosirase.pdf",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第19条",
+    "regulationName": "学校教育法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "経済的な理由により就学が困難と認められる、公立の小学校・中学校に通学する児童・生徒の保護者を対象に、学用品費、修学旅行費、給食費などを支給します。",
+  "support": {
+    "description": "1.学用品・通学用品費\n2.学校給食費\n3.校外活動費\n4.新入学児童生徒学用品費\n5.修学旅行費\n6.林間学校費\n7.音楽鑑賞教室費\n8.セカンドスクール費（小学校のみ）\n9.ウィンタースクール費（小学校のみ）\n10.スケート教室費（小学校のみ）\n11.卒業記念アルバム費\n12.クラブ活動費（中学校のみ。ボール等、部員全員が共通に使用・負担するものに限る）\n13.医療費（学校保健安全法に基づくもの。虫歯・中耳炎などの学校病のみ）\n14.通学費（特別支援学級通級者・日本語学級通級者のみ）\n\n（注1）生活保護を受けている方の1、2、4、12、14の援助費は、福祉事務所から支給されます。\n（注2）認定結果が出る前に行う行事などの費用は、認定後支給します。\n（注3）13の医療費については、医療機関を受診する際、医療券を交付します。\n就学援助の詳細については認定者のみなさんへ（PDF：504KB）（別ウィンドウで開きます）をご覧ください。\n医療券交付の手続きには、平成28年1月からマイナンバーを利用します。\n番号確認と本人確認を行いますので、ご協力をお願いします。\n詳しくは江戸川区でマイナンバーを利用する主な事務のページをご覧ください。\n（注4）江戸川区では令和元年度小学校・中学校へ入学のお子さまがいる方より、新入学児童生徒学用品費の前倒し支給を行っております。小学校に入学されるお子さまがいる方には、別途「新入学児童生徒学用品費の前倒し支給」の申請書をご自宅に郵送いたします。詳しくは、新入学児童生徒学用品費の前倒し支給のページをご覧ください。\nhttps://www.city.edogawa.tokyo.jp/documents/8766/5ninteisyanominasan.pdf\nhttps://www.city.edogawa.tokyo.jp/e038/kurashi/mynumber/seido/seidotoha/omonagyomu.html#CMSmyna\nhttps://www.city.edogawa.tokyo.jp/e069/kosodate/kyoiku/kyouiku/tetuduki/2020sinniyuugakugakuyouhinnhi.html",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "078"
+    ],
+    "targetCode": [
+      "087",
+      "092"
+    ]
+  },
+  "target": {
+    "conditions": "江戸川区に住んでいて、江戸川区立または国公立の小学校・中学校、不登校特例校に通学しているお子様がいるご家庭",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 6,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 15,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "江戸川区に住んでいて、江戸川区立または国公立の小学校・中学校、不登校特例校に通学しているお子様がいるご家庭で、次のいずれかに該当するご家庭が対象となります。\n江戸川区以外にお住まいの方は、住所地の教育委員会にご相談ください。\n\n1.生活保護を受けている方\n2.前年度又は当年度中に生活保護の廃止・停止を受けた方\n3.世帯全員の前年合計所得が基準以下の方\n\n|世帯構成例|<|前年中の世帯所得|\n|:----|:----|:----|\n|2人|父または母33歳、子ども（小1）|227万円以下|\n|^|父または母38歳、子ども（中1）|242万円以下|\n|3人|父35歳、母31歳、子ども（小1）|289万円以下|\n|^|父39歳、母37歳、子ども（中1）|306万円以下|\n|4人|父38歳、母33歳、子ども（小3、4歳）|319万円以下|\n|^|父42歳、母38歳、子ども（中1、小4）|350万円以下|\n|5人|父38歳、母32歳、子ども（小4、小2）、祖母65歳|372万円以下|\n|^|父48歳、母45歳、子ども（高校生、中2、小4）|390万円以下|\n\n上記表は大体の目安であり、世帯構成・年齢等により変わります。\n\n世帯所得は、世帯構成員の年齢等により世帯ごとに異なりますので、お問い合わせいただいても審査前に世帯所得の計算をすることはできません。"
+  },
+  "updateDate": "2023-11-06",
+  "useConsiderationFlag": false,
+  "utilization": "認定結果の通知\n\n1.江戸川区立の小学校・中学校に在籍している方については7月以降にご自宅へ郵送で通知します。\n2.江戸川区立以外の小学校・中学校に在籍している方については10月以降にご自宅へ郵送で通知します。\n\n結果内容は以下の通りです。\n\n・【要保護・準要保護】\n    援助が受けられます。援助の内容は同封の「就学援助認定者のみなさんへ」をご確認ください。\n・【準要保護（費目認定）】\n    「給食費」のみ援助が受けられます。\n・【否認定】\n    ご家族の収入額が認定基準を超えているため、本年度は援助を受けることはできません。\n・【保留】\n    下記の理由により認定の可否を保留にしています。期限までに手続きがない場合は審査できませんので、申請を無効とさせていただきます。\n        （例1）令和5年○月○日現在、ご家族に収入等の確認ができない方がいるため、審査できません。令和5年1月1日現在、江戸川区にご住所がある方は収入の有無にかかわらず、○月○日までに区役所4階の課税課で税の申告をしてください。\n        （例2）令和5年○月○日現在、ご家族に収入等の確認ができない方がいるため審査できません。令和5年1月2日以降江戸川区に転入された方は、令和4年分の所得を証明するもの（令和5年度課税証明書）を○月○日までには学務課学事係へ提出してください。\n        （例3）申請書の内容が確認できないため保留です。○月○日までに学務課学事係にお問い合わせください。\n        （例4）令和5年○月○日現在、ご家族に収入等の確認ができない方がいるため審査できません。江戸川区外に住民登録をしている方がいる場合は、その方の令和4年分の所得を証明するもの（令和5年度課税証明書等）と氏名・住所・生年月日がわかる書類（住民票・保険証の写し等）を○月○日までに学校又は学務課学事係へ提出してください。令和5年1月2日以降江戸川区に転入された方は、令和4年分の所得を証明するもの（令和5年度課税証明書等）を○月○日までに学校又は学務課学事係へ提出してください。\n・【審査不能】\n    期限まで手続きがなかったため、審査することができませんでした。そのためこの申請は無効となります。なお、再申請は随時受付けしますが、認定された場合、援助が受けられるのは再申請があった月からとなります。\n・【受給資格喪失】\n    受給資格喪失のため、喪失日以降援助を受けることができません。\n\n否認定の結果が出ている場合でも、家族状況の急変（離婚・主たる生計者である保護者の死亡）、主たる生計者である保護者のリストラ、倒産による失業、事故・病気等の事由で再申請が可能な場合があります。詳しくは学務課学事係へご相談ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

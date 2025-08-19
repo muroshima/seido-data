@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131091;品川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て応援課 家庭支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131091",
+    "psid": "psid3.0+6000020131091+1+UM5036"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て応援課 家庭支援係",
+    "contactPhone": "03-5742-6385",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": "無料または安価な費用",
+  "costConditions": null,
+  "description": "子ども食堂とは\n子ども食堂は、子どもが一人でも安心して入れる食堂です。\n地域やＮＰＯの方などが、自宅でひとりで食事をとる子どもたちへ、みんなで食べる楽しさや温かさを提供したいと活動しています。\n\n利用したいときは\n子ども食堂はボランティアの方が運営しています。\nお店の広さや利用できる対象者もそれぞれ違いますので、みんなで楽しく食事ができるようマナーを守って利用しましょう。\n詳しくは「しながわ子ども食堂マップ」をご覧ください。\n\n子ども食堂を応援してください\n子ども食堂は、子どもたちに気軽に利用してもらえるよう、無料または安価な費用しかいただいていません。\nそのため、皆さまの幅広いご支援を必要としています。\n\nしながわ子ども食堂ネットワーク(品川区社会福祉協議会)(別ウィンドウ表示);https://shinashakyo.jp/kodomonet/\nしながわ子ども食堂ネットワーク(フェイスブック)(別ウィンドウ表示);https://www.facebook.com/people/%E3%81%97%E3%81%AA%E3%81%8C%E3%82%8F%E5%AD%90%E3%81%A9%E3%82%82%E9%A3%9F%E5%A0%82%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%93%81%E5%B7%9D%E5%8C%BA%E7%A4%BE%E4%BC%9A%E7%A6%8F%E7%A5%89%E5%8D%94%E8%AD%B0%E4%BC%9A/100068452306293/?hc_ref=ARQBFrZg8ATBczvWObRoMK35Yk0oj3FSUve_CinLZnM-TPvMR3J3zDJOEa9nkwqp5Ao",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "こども食堂",
+    "shortName": "子ども食堂"
+  },
+  "localGovernmentLink": {
+    "title": "しながわ子ども食堂ネットワーク",
+    "uri": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-kateisoudan/hpg000032527.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/19",
+    "updater": "品川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "「こども食堂」とは、こどもが一人でも行ける無料または低額の食堂です。こども食堂は、生活に困窮する子育て世帯への支援だけでなく、虐待の防止のための見守りや、地域の交流、こどもへの多様な経験の提供など様々な役割を担っており、国としてもこの取組を支援しています。",
+  "support": {
+    "description": "食事",
+    "materiallySupport": "食事",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "子ども"
+  },
+  "updateDate": "2021/01/16",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

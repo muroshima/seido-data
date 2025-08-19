@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132195;狛江市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　児童育成課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132195",
+    "psid": "psid3.0+8000020132195+1+UM5028"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "狛江市和泉本町一丁目1番5号",
+    "contactComment": "電話番号　保育・幼稚園担当：03-3430-1280　保育園等管理・運営支援担当：03-6698-0762　放課後対策推進担当：03-3430-1281",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　児童育成課",
+    "contactPhone": "03-3430-1280,03-6698-0762,03-3430-1281",
+    "contactUrl": null,
+    "zipCode": "2018585"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "KoKoAは、放課後等の子ども達の居場所づくりのため、小学校施設等を活用して、子ども達の安心・安全な活動拠点を設け、また1年生から6年生まで、学年の異なる子ども達が一緒の場で遊ぶことにより人間関係を深めることを目的として実施しています。\n\n市内6つの小学校すべてでKoKoAを実施しています。\n\n参加は登録制です。各小学校ごとに登録を行っています。毎年度当初に学校を通じて利用登録申込書を配布します。必要事項を記入し、事前に登録をお願いします。年度途中でも登録はできます。\n\n※詳細はこまえ子育てねっとをご確認ください。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "児童育成課お問い合わせフォーム ",
+      "uri": "https://www.city.komae.tokyo.jp/index.cfm/4"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "放課後子供教室",
+    "shortName": "KoKoA（放課後子ども教室）"
+  },
+  "localGovernmentLink": {
+    "title": "KoKoA（放課後子ども教室）",
+    "uri": "https://komae-kosodate.net/article_docs/260.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025-02-27",
+    "updater": "狛江市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "地域住民の参画を得て、放課後等に全ての児童を対象として、学習や体験・交流といった多様な活動を行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024/09/26",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

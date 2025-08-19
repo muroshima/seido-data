@@ -1,0 +1,133 @@
+{
+  "area": {
+    "areaCode": "132039;武蔵野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部 障害者福祉課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132039",
+    "psid": "psid3.0+8000020132039+1+UM63"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都武蔵野市緑町2-2-28",
+    "contactComment": "ファクス番号：0422-51-9239",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康福祉部 障害者福祉課",
+    "contactPhone": "0422-60-1847",
+    "contactUrl": "https://www.city.musashino.lg.jp/cgi-crm/CRM030/CRM030_001/G00700400/1006741",
+    "zipCode": "1808777"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "障害児福祉手当(国制度)\n\n重度の障害の状態にあるため、日常生活に常時特別の介護を要するかたに手当を支給します。\n(注意)令和3年全国消費者物価指数の実績値の公表に伴い、次の各手当の月額が令和4年4月分より改定されました。\n\n特別障害者手当\n対象 20歳以上で著しく重度の障害の状態にあるため、日常生活に常時特別の介護が必要なかた。認定の目安は以下のとおりです。\n身体障害者手帳1級または2級程度の障害があり、条件を満たしているかた\n愛の手帳1度または2度程度の障害があり、条件を満たしているかた\n常時特別の介護を要する上記に準ずる疾病、精神障害(発達障害・高次脳機能障害を含む)の状態にあるかた\n制限 次のいずれかに該当するかたは受給できません。\n施設に入所しているかた\n病院、診療所に3カ月を超えて入院をされているかた\n本人または扶養義務者の所得が一定額を超えるかた (支給停止となりますが、認定は受けられます)\n手当月額 27,980円 (手当額は国基準により改定されることがあります)\n障害児福祉手当\n対象 20歳未満で重度の障害があり、日常生活に常時介護が必要なかた。認定の目安は以下のとおりです。\n身体障害者手帳1級または2級程度の障害があり、条件を満たしているかた\n愛の手帳1度または2度程度の障害があり、条件を満たしているかた\n常時介護を要する上記に準ずる疾病、精神障害(発達障害・高次脳機能障害を含む）の状態にあるかた\n制限 次のいずれかに該当するかたは受給できません。\n施設に入所しているかた\n障害年金等を受給しているかた\n本人または扶養義務者の所得が一定額を超えるかた (支給停止となりますが、認定は受けられます)\n手当月額 15,220円 (手当額は国基準により改定されることがあります)\n支給方法\n2月、5月、8月、11月にそれぞれ前月までの3カ月分を本人の銀行口座に振り込みます。\n(認定の申請をした日の属する月の翌月から該当。ただし、支給停止の場合を除く）\n\n手続き等\n障害の程度については、所定の診断書で医師が判定します(診断書の用紙は障害者福祉課で配付しています)。\n各種手帳を取得していなくても申請できます。\n関連情報リンク\n特別障害者手当(厚生労働省)（外部リンク）;http://www.mhlw.go.jp/bunya/shougaihoken/jidou/tokubetsu.html\n障害児福祉手当(厚生労働省)（外部リンク）;http://www.mhlw.go.jp/bunya/shougaihoken/jidou/hukushi.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "障害児福祉手当",
+    "shortName": "障害児福祉手当"
+  },
+  "localGovernmentLink": {
+    "title": "障害児福祉手当(国制度)",
+    "uri": "https://www.city.musashino.lg.jp/shussan_kodomo_kyoiku/kodomo_kosodate/teate_josei/shogaiji/1006741.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "武蔵野市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "手続き等\n障害の程度については、所定の診断書で医師が判定します(診断書の用紙は障害者福祉課で配付しています)。\n各種手帳を取得していなくても申請できます。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第3章",
+    "regulationName": "特別児童扶養手当等の支給に関する法律"
+  },
+  "relatedLink": [
+    {
+      "title": "障害児福祉手当(厚生労働省)（外部リンク）",
+      "uri": "https://www.mhlw.go.jp/bunya/shougaihoken/jidou/tokubetsu.html"
+    },
+    {
+      "title": "特別障害者手当(厚生労働省)（外部リンク）",
+      "uri": "https://www.mhlw.go.jp/bunya/shougaihoken/jidou/tokubetsu.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "身体または精神に重度の障がいのある20歳未満の方で、日常生活において常時介護を必要とする方に対し、手当が支給されます。",
+  "support": {
+    "description": "対象 20歳未満で重度の障害があり、日常生活に常時介護が必要なかた。認定の目安は以下のとおりです。\n身体障害者手帳1級または2級程度の障害があり、条件を満たしているかた\n愛の手帳1度または2度程度の障害があり、条件を満たしているかた\n常時介護を要する上記に準ずる疾病、精神障害(発達障害・高次脳機能障害を含む）の状態にあるかた\n制限 次のいずれかに該当するかたは受給できません。\n施設に入所しているかた\n障害年金等を受給しているかた\n本人または扶養義務者の所得が一定額を超えるかた (支給停止となりますが、認定は受けられます)\n手当月額 15,220円 (手当額は国基準により改定されることがあります)",
+    "materiallySupport": null,
+    "monetarySupport": "手当月額 15,220円 (手当額は国基準により改定されることがあります)"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象 20歳未満で重度の障害があり、日常生活に常時介護が必要なかた。認定の目安は以下のとおりです。\n身体障害者手帳1級または2級程度の障害があり、条件を満たしているかた\n愛の手帳1度または2度程度の障害があり、条件を満たしているかた\n常時介護を要する上記に準ずる疾病、精神障害(発達障害・高次脳機能障害を含む）の状態にあるかた\n制限 次のいずれかに該当するかたは受給できません。\n施設に入所しているかた\n障害年金等を受給しているかた\n本人または扶養義務者の所得が一定額を超えるかた (支給停止となりますが、認定は受けられます)"
+  },
+  "updateDate": "2023-04-28",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

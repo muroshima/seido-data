@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "131199;板橋区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭総合支援センター 支援課 管理・サービス調整係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131199",
+    "psid": "psid3.0+6000020131199+6+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都板橋区本町24-17",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭総合支援センター 支援課 管理・サービス調整係",
+    "contactPhone": "03-5944-2371",
+    "contactUrl": "https://www.city.itabashi.tokyo.jp/cgi-crm/CRM030/CRM030_001/G5007000000/1004691",
+    "zipCode": "1730001"
+  },
+  "cost": null,
+  "costConditions": "無料",
+  "description": "子どもなんでも相談\n\n令和3年4月1日より相談受付時間を24時間365日に拡大しました。子育ての不安や悩み、困っていることや、わからないことなど、どうぞお気軽にご相談ください。子育てに関することであれば、なんでもご相談いただけます。相談内容については秘密を守ります。\n\n相談対象\n・子ども(0歳から18歳未満)\n・子育て中の父母または養育者\n・子育てに関係している方\n\n相談方法\n電話相談\n24時間365日電話相談を受付しております。(匿名の相談にも応じます)\n注：乳幼児の健康相談については、このページの一番下にあるリンク先にアクセスしていただくと、気になる症状などに対し対話（チャット）形式で自動応答いたします。\n\n相談内容\nお子さん自身の相談、保護者の方からの子育ての相談などができます。相談内容によって保健、保育、心理、福祉などの専門スタッフが対応します。ちょっとした不安から深刻な相談まで広く対応しています。\n内容については、全て秘密を守ります。\n\n費用\n無料\n\n問い合わせ\n電話番号 0120-925-610　(子どもなんでも相談)　\n注：24時間365日受付しております。\n\n関連リンク\n乳幼児健康相談チャットボット（外部リンク）; https://app.chatplus.jp/chat/visitor/368ba3b6_1?t=btn\n子育てについてのご質問がある方はどうぞ（外部リンク）; https://app.chatplus.jp/chat/visitor/aaecf614_1?t=btn",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "24時間365日",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "板橋区の子育てに関する相談",
+    "shortName": "子どもなんでも相談"
+  },
+  "localGovernmentLink": {
+    "title": "子どもなんでも相談",
+    "uri": "https://www.city.itabashi.tokyo.jp/kosodate/soudan/kosodate/1004691.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-01",
+    "updater": "板橋区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "子育てについてのご質問がある方はどうぞ（外部リンク）",
+      "uri": "https://app.chatplus.jp/chat/visitor/aaecf614_1?t=btn"
+    },
+    {
+      "title": "乳幼児健康相談チャットボット（外部リンク）",
+      "uri": "https://app.chatplus.jp/chat/visitor/368ba3b6_1?t=btn"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子育ての不安や悩み、困っていることや、わからないことなど、どうぞお気軽にご相談ください。子育てに関することであれば、なんでもご相談いただけます。相談内容については秘密を守ります。",
+  "support": {
+    "description": "令和3年4月1日より相談受付時間を24時間365日に拡大しました。子育ての不安や悩み、困っていることや、わからないことなど、どうぞお気軽にご相談ください。子育てに関することであれば、なんでもご相談いただけます。相談内容については秘密を守ります。\n電話番号 0120-925-610　(子どもなんでも相談)　\n24時間365日電話相談を受付しております。(匿名の相談にも応じます)\n注：乳幼児の健康相談については、このページの一番下にあるリンク先にアクセスしていただくと、気になる症状などに対し対話（チャット）形式で自動応答いたします。\n\n相談内容\nお子さん自身の相談、保護者の方からの子育ての相談などができます。相談内容によって保健、保育、心理、福祉などの専門スタッフが対応します。ちょっとした不安から深刻な相談まで広く対応しています。\n内容については、全て秘密を守ります。",
+    "materiallySupport": "令和3年4月1日より相談受付時間を24時間365日に拡大しました。子育ての不安や悩み、困っていることや、わからないことなど、どうぞお気軽にご相談ください。子育てに関することであれば、なんでもご相談いただけます。相談内容については秘密を守ります。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0歳から18歳未満",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "・子ども(0歳から18歳未満)\n・子育て中の父母または養育者\n・子育てに関係している方"
+  },
+  "updateDate": "2022-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "24時間365日",
+    "fromHM": null,
+    "toHM": null
+  }
+}

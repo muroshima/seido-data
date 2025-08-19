@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131156;杉並区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部地域子育て支援課母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131156",
+    "psid": "psid3.0+8000020131156+1+UM6"
+  },
+  "belongings": "受診票、母子健康手帳",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都杉並区阿佐谷南1丁目15番1号",
+    "contactComment": "（代表）",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部地域子育て支援課母子保健係",
+    "contactPhone": "03-3312-2111",
+    "contactUrl": null,
+    "zipCode": "1668570"
+  },
+  "cost": null,
+  "costConditions": "受診票に記載の検査項目の費用を一部公費負担していますが、他に受けた検査については自己負担になります。\n自己負担額は、受診機関・検査項目によって異なりますので、詳細は受診機関にお問い合わせください。",
+  "description": "https://www.city.suginami.tokyo.jp/s054/1110.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "都内の指定医療機関等"
+  },
+  "institutionName": {
+    "canonicalName": "妊婦健康診査",
+    "shortName": "妊婦健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "妊婦健康診査・新生児聴覚検査・妊婦歯科健康診査・産婦健康診査",
+    "uri": "https://www.city.suginami.tokyo.jp/s054/1110.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025-03-13",
+    "updater": "杉並区"
+  },
+  "procedureCounter": "医療機関等",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "妊婦健康診査の度に、医療機関等へ事前に受診票を提出して受診してください。",
+  "procedurePeriod": {
+    "conditions": "妊娠期間中",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "妊婦",
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "杉並区　妊婦健康診査・産婦健康診査　指定機関名簿 （PDF 100.3KB）",
+      "uri": "https://www.city.suginami.tokyo.jp/s054/1110.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊婦さんやお腹の赤ちゃんの健康状態を定期的に確認するのが妊婦健康診査です。妊婦さんの健康診査は、一般的に出産までに14回程度受診するのが望ましいとされています。しかし、妊娠は病気ではないため健康保険は適用されません。そこで、出産までの健診を受ける際の経済的な負担を軽くするため、妊婦健康診査費用の一部を助成する妊婦健康診査受診票をお渡ししています。",
+  "support": {
+    "description": "定期的に妊婦健康診査を受けましょう。",
+    "materiallySupport": "受診票は都内の指定医療機関等で利用できます。（都外の医療機関等の場合は5を参照）",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊婦"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "妊婦健康診査の度に、医療機関等へ事前に受診票を提出",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

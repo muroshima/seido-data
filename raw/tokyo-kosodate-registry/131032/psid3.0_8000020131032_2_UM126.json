@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局学校教育部学務課学校運営支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+2+UM126"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファックス番号：03-3578-2759\n\n外国語対応が必要な人、通訳オペレーター、区の職員の3人で会話ができます。\n\n多言語対応三者通話サービス;https://www.multilingualinterpretercallservice.city.minato.tokyo.jp/kokusai",
+    "contactEmail": null,
+    "contactEx": "2731",
+    "contactName": "教育委員会事務局学校教育部学務課学校運営支援係",
+    "contactPhone": "03-3578-2111",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "新入学学用品費の入学前支給\n就学援助の支給費目のうち、新入学に必要な経費を援助する新入学学用品費については、小・中学校の入学前に支給しています。\n\nご希望の場合は下記事項をお読みの上、申請してください。\n\n小学校入学前支給\n今年度の新入学学用品費の入学前支給の詳細については、区ホームページまたはお知らせをご覧ください。\n\n支給を受けられる方\n以下のすべてに該当する方\n\n港区にお住まいの方（令和７年4月の小学校の入学前に区外に転出する方は申請できません）\nお子さまが令和７年4月に学校教育法１条に規定する小学校または義務教育学校の前期課程に入学予定の方\n令和６年度就学援助の準要保護に該当する方（詳しくはホームページををご参照ください。）\n※生活保護を受けている方は、生活保護費から同様の費用が支給されます。そのため、申請の必要はありません。\n\n注意事項\n令和７年4月に学校教育法第1条に規定する学校として認められていないインターナショナルスクール等に入学を予定している方や、入学前に港区外に転出する予定の方は申請しないでください。上記事実があった場合は、新入学学用品費を返還していただくことになります。\n入学後に引き続き就学援助の受給を希望される場合には、入学後も忘れずに申請してください（入学後の申請書類は別途案内されます）。\n世帯の状況や所得額によっては、年度により認定結果が異なります。あらかじめご了承ください。\n新入学学用品費の入学前支給を受けた場合、入学後に就学援助で準要保護認定とされても、新入学学用品費は支給されません。\n新入学学用品費を入学前に受給していない場合でも、入学後に就学援助を申請し、準要保護認定であった場合は、同様の金額を支給します。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "小学校・中学校の就学援助費",
+    "shortName": "小学校入学前支給"
+  },
+  "localGovernmentLink": {
+    "title": "新入学学用品費の入学前支給",
+    "uri": "https://www.city.minato.tokyo.jp/gakkouuneishien/20171218.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-18",
+    "updater": "港区"
+  },
+  "procedureCounter": "教育委員会事務局学校教育部学務課学校運営支援係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "オンライン申請（区ホームページまたはお知らせをご確認ください。）",
+  "procedurePeriod": {
+    "conditions": "区ホームページまたはお知らせをご確認下さい。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "保護者",
+  "regulation": {
+    "regulationArticle": "第19条",
+    "regulationName": "学校教育法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "経済的な理由により就学が困難と認められる、国公私立の小学校・中学校に通学する児童・生徒の保護者を対象に、学用品費、校外学習費などを支給します。",
+  "support": {
+    "description": "今年度の新入学学用品費の入学前支給の詳細については、区ホームページをご覧ください。",
+    "materiallySupport": null,
+    "monetarySupport": "今年度の新入学学用品費の入学前支給の詳細については、区ホームページをご覧ください。\n\n"
+  },
+  "tag": {
+    "categoryCode": [
+      "005"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "092"
+    ]
+  },
+  "target": {
+    "conditions": "お子さまが令和７年4月に学校教育法１条に規定する小学校または義務教育学校の前期課程に入学予定",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "以下のすべてに該当する方\n\n港区にお住まいの方（令和７年4月の小学校の入学前に区外に転出する方は申請できません）\nお子さまが令和７年4月に学校教育法１条に規定する小学校または義務教育学校の前期課程に入学予定の方\n令和６年度就学援助の準要保護に該当する方（詳しくはホームページをご参照ください。）\n※生活保護を受けている方は、生活保護費から同様の費用が支給されます。そのため、申請の必要はありません。"
+  },
+  "updateDate": "2023-12-20",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

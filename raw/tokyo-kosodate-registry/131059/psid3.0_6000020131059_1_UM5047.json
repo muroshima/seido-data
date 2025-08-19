@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131059;文京区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部幼児保育課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131059",
+    "psid": "psid3.0+6000020131059+1+UM5047"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都文京区春日1丁目16番21号 文京シビックセンター12階南側",
+    "contactComment": "FAX：03-5803-1346",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部幼児保育課",
+    "contactPhone": "03-5803-1190",
+    "contactUrl": null,
+    "zipCode": "1128555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "医療的ケアの実施を必要とする場合は、受け入れ可能園が限られています。\n医療的ケアの実施の可否については、観察保育を実施の上、医療的ケア判定会において判定いたします。\nまた、医療的ケア判定会にかける医療的行為の目安は下表のとおりです。なお、医療的ケアの判定にあたっては一定の期間を要するため、入所選考前から観察保育等を実施する場合があります。\n\n医療的ケア区分について\n\n|区分|医療的ケア判定会にかける目安|【例】医療行為（医療的ケア）|\n|:----|:----|:----|\n|A|保育時間内の医療的ケアの実施あり\n【判定会の対象】|・気管切開（喀痰吸引、吸入含む）\n・在宅人工呼吸器\n・在宅酸素療法\n・経管栄養（経鼻カテーテル、胃ろう、腸ろう）\n・血糖測定、インスリン注射\n・導尿\nなど|\n|B※1|保育時間内の医療的ケアの実施なし\n【判定会の対象外】\n（ただし保育時間内の観察・配慮が必要な場合は、主治医意見書の提出が必要となり、入所まで一定の期間を要する場合があります。）|・人工肛門\n・腎ろう\n・在宅中心静脈栄養（CVカテーテル留置等）\n・透析（カテーテル留置等）\n・区分Aの内、保育時間内の医療的ケアの実施等がないもの※2|\n※1　対象児童は、原則区立園で受け入れる。\n※2　保育時間内に日常的な医療的ケアが必要になった場合は区分Aとする。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "保育所等における医療的ケア児への支援",
+    "shortName": "医療的ケアを必要とする場合"
+  },
+  "localGovernmentLink": {
+    "title": "医療的ケアを必要とする場合",
+    "uri": "https://www.city.bunkyo.lg.jp/b023/p001776.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/03/04",
+    "updater": "文京区"
+  },
+  "procedureCounter": "お問い合わせ先はこちらからご覧ください。;https://www.city.bunkyo.lg.jp/b023/p001785/index.html",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条第1項",
+    "regulationName": "医療的ケア児及びその家族に対する支援に関する法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育所等において看護師等を配置し、医療的ケア児の受入れ体制を整備しております。",
+  "support": {
+    "description": "居宅訪問型保育事業;https://www.city.bunkyo.lg.jp/b023/p001816.html\n重症心身障害児等や医療的ケアの必要な児童に対し、それぞれの児童の状態に応じた保育サービスをご家庭において1対1で提供する事業です。",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024/11/01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

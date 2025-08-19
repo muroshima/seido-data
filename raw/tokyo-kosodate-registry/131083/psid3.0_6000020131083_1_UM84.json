@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "131083;江東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども未来部 保育政策課,こども未来部 保育支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131083",
+    "psid": "psid3.0+6000020131083+1+UM84"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "（区立保育園について）　保育政策課 施設管理係,（区立・私立幼稚園・認定こども園について）　学務課 幼稚園係,（私立保育園について）　保育支援課 事業支援係",
+    "contactPhone": "03-3647-9094,03-3647-9703,03-3647-9084",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "未就園児の定期的な預かり事業（あずかーる）\n未就園児の定期的な預かり事業（あずかーる）とは\n　保護者の就労の有無に関わらず、保育園や幼稚園を普段利用していない未就園児を対象に、保育園の空きスペース等を活用し、お子さんをお預かりする事業です。\n\n実施園\n　事業を実施する区立保育園、区立幼稚園、私立幼稚園、認定こども園　\n\n　（私立保育園はただいま準備中です）\n\n対象児童\n　区内在住で、保育園や幼稚園等に在籍していないお子さん\n\n対象年齢、利用時間等\n　実施園により対象年齢や利用時間その他各種条件が異なるため、詳細は下記関連リンクから各園の情報をご確認ください。\n\n申込方法\n　申し込みいただく施設によって、申し込み方法が異なります、ご注意ください。\n\n区立保育園・区立幼稚園\n　　　電子申請システム「LoGoフォーム」を利用します。\n\n　　　各施設の申込は指定された申込期限内に下記関連リンクから行ってください。\n\n　　　区立保育園と区立幼稚園を同時に申し込むことはできません（両方お申込みの場合はいずれも無効になります）。\n\n私立幼稚園・認定こども園\n　　　各施設にお申込みください。\n\n私立保育園（ただいま準備中です）\n関連リンク\n未就園児の定期的な預かり事業（区立幼稚園）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/581111/azuka-ru.html\n未就園児の定期的な預かり事業（区立保育園）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/285002/misyuuennzi_shiozaki.html\n未就園児の定期的な預かり事業（私立幼稚園・認定こども園）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/581111/shiritsumisyuennzi.html\n未就園児の定期的な預かり事業（私立保育園）※ただいま準備中です、お待ちください。",
+  "electronicSubmission": true,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "実施園\n　事業を実施する区立保育園、区立幼稚園、私立幼稚園、認定こども園　\n\n　（私立保育園はただいま準備中です）"
+  },
+  "institutionName": {
+    "canonicalName": "一時保育の定期利用（特定保育・非定型保育など）",
+    "shortName": "未就園児の定期的な預かり事業（あずかーる）"
+  },
+  "localGovernmentLink": {
+    "title": "未就園児の定期的な預かり事業（あずかーる）",
+    "uri": "https://www.city.koto.lg.jp/285002/misyuuennzi.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "江東区"
+  },
+  "procedureCounter": "私立幼稚園・認定こども園\n各施設にお申込みください。",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申し込みいただく施設によって、申し込み方法が異なります、ご注意ください。\n\n区立保育園・区立幼稚園\n　　　電子申請システム「LoGoフォーム」を利用します。\n\n　　　各施設の申込は指定された申込期限内に下記関連リンクから行ってください。\n\n　　　区立保育園と区立幼稚園を同時に申し込むことはできません（両方お申込みの場合はいずれも無効になります）。\n\n私立幼稚園・認定こども園\n　　　各施設にお申込みください。\n\n私立保育園（ただいま準備中です）",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第7項、第21条の9、第59条第10号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "未就園児の定期的な預かり事業（区立幼稚園）（別ウィンドウで開きます）",
+      "uri": "https://www.city.koto.lg.jp/581111/azuka-ru.html"
+    },
+    {
+      "title": "未就園児の定期的な預かり事業（区立保育園）（別ウィンドウで開きます）",
+      "uri": "https://www.city.koto.lg.jp/285002/misyuuennzi_shiozaki.html"
+    },
+    {
+      "title": "未就園児の定期的な預かり事業（私立幼稚園・認定こども園）（別ウィンドウで開きます）",
+      "uri": "https://www.city.koto.lg.jp/581111/shiritsumisyuennzi.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者の就労の有無に関わらず、保育園や幼稚園を普段利用していない未就園児を対象に、保育園の空きスペース等を活用し、お子さんをお預かりする事業です",
+  "support": {
+    "description": "保護者の就労の有無に関わらず、保育園や幼稚園を普段利用していない未就園児を対象に、保育園の空きスペース等を活用し、お子さんをお預かりする事業です。\n\n関連リンク\n未就園児の定期的な預かり事業（区立幼稚園）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/581111/azuka-ru.html\n未就園児の定期的な預かり事業（区立保育園）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/285002/misyuuennzi_shiozaki.html\n未就園児の定期的な預かり事業（私立幼稚園・認定こども園）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/581111/shiritsumisyuennzi.html\n未就園児の定期的な預かり事業（私立保育園）※ただいま準備中です、お待ちください。",
+    "materiallySupport": "保護者の就労の有無に関わらず、保育園や幼稚園を普段利用していない未就園児を対象に、保育園の空きスペース等を活用し、お子さんをお預かりする事業です。\n\n関連リンク\n未就園児の定期的な預かり事業（区立幼稚園）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/581111/azuka-ru.html\n未就園児の定期的な預かり事業（区立保育園）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/285002/misyuuennzi_shiozaki.html\n未就園児の定期的な預かり事業（私立幼稚園・認定こども園）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/581111/shiritsumisyuennzi.html\n未就園児の定期的な預かり事業（私立保育園）※ただいま準備中です、お待ちください。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象児童\n　区内在住で、保育園や幼稚園等に在籍していないお子さん\n\n対象年齢、利用時間等\n　実施園により対象年齢や利用時間その他各種条件が異なるため、詳細は下記関連リンクから各園の情報をご確認ください。\n\n関連リンク\n未就園児の定期的な預かり事業（区立幼稚園）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/581111/azuka-ru.html\n未就園児の定期的な預かり事業（区立保育園）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/285002/misyuuennzi_shiozaki.html\n未就園児の定期的な預かり事業（私立幼稚園・認定こども園）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/581111/shiritsumisyuennzi.html\n未就園児の定期的な預かり事業（私立保育園）※ただいま準備中です、お待ちください。"
+  },
+  "updateDate": "2024-06-12",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

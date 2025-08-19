@@ -1,0 +1,133 @@
+{
+  "area": {
+    "areaCode": "132063;府中市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子ども家庭支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132063",
+    "psid": "psid3.0+8000020132063+1+UM29"
+  },
+  "belongings": "4.課税（非課税）証明書\n5.健康保険証\n6.乳幼児医療証またはひとり親家庭等医療証\n9.個人番号確認書類（個人番号カード・個人番号通知カード・個人番号が記載された住民票のいずれか）\n10.本人確認書類（個人番号カード・運転免許証・パスポート等）\n\n注記：課税（非課税）証明書は、申請時期と市内への転入時期により、省略できる場合があります。下記の「課税（非課税）証明書について」を参考に証明書を提出してください。\n\n課税（非課税）証明書について （PDF：41KB）;https://www.city.fuchu.tokyo.jp/kosodate/shussan/boshinokenko/youikuiryo.files/reiwa2-zeishoumeinitusite.pdf",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援課母子保健係",
+    "contactPhone": "042-368-5333",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "未熟児養育医療の申請最終更新日：2022年7月1日\n概要説明\n府中市にお住まいの新生児で、指定医療機関において医師が入院して養育よういくを受ける必要があると認めた未熟児みじゅくじの、健康保険診療でかかった医療費の自己負担分を助成じょせいします。\n\n対象者\n下記のいずれかに該当する1歳の誕生日の前々日までの未熟児\n\n出生時体重が2,000グラム以下\n生活力が特に薄弱はくじゃくであって、次のいずれかの症状がある方\n運動不安・けいれん・運動異常\n体温が摂氏せっし34度以下\n呼吸器、循環器系（強度のチアノーゼが持続、呼吸数が毎分30以下等）\n消化器系（生後24時間以上排便がない、48時間以上嘔吐が持続等）\n黄おうだん（生後数時間以内に出現、異常に強い場合等）\n注記：症状の内容や受診医療機関によって給付対象とならない場合がありますので、事前に子ども家庭支援課にご相談ください。\n\n自己負担金\n指定養育医療機関における入院医療について、医療保険を適用した後の自己負担分を助成（看護料・移送費を除き、現物給付扱い）します。\n注記：市町村民税額により決定された徴収基準月額に基づき算出された負担金を徴収しますが、負担金については、乳幼児医療制度による助成じょせいがあります。（委任状の提出が必要です。）\n\n手続き方法\n必要書類\n　1から3、7、8の書類は子ども家庭支援課にあります。\n\n養育医療申請書\n養育医療意見書\n世帯調書\n課税（非課税）証明書\n健康保険証\n乳幼児医療証またはひとり親家庭等医療証\n医療助成費支給申込書\n委任状\n個人番号確認書類（個人番号カード・個人番号通知カード・個人番号が記載された住民票のいずれか）\n本人確認書類（個人番号カード・運転免許証・パスポート等）\n注記：課税（非課税）証明書は、申請時期と市内への転入時期により、省略できる場合があります。下記の「課税（非課税）証明書について」を参考に証明書を提出してください。\n\nファイルダウンロード　新規ウインドウで開きます。課税（非課税）証明書について （PDF：41KB）\n\n受付窓口\n子育て世代包括支援センター「みらい」\n\n問合せ先\n子ども家庭支援課母子保健係（電話：042-368-5333）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "未熟児養育医療の給付",
+    "shortName": "未熟児養育医療"
+  },
+  "localGovernmentLink": {
+    "title": "未熟児養育医療の申請",
+    "uri": "https://www.city.fuchu.tokyo.jp/kosodate/shussan/boshinokenko/youikuiryo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "府中市"
+  },
+  "procedureCounter": "子育て世代包括支援センター「みらい」;https://www.city.fuchu.tokyo.jp/shisetu/kosodate/houkatsushien-mirai/mirai.html",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第20条（養育医療）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "課税（非課税）証明書について （PDF：41KB）",
+      "uri": "https://www.city.fuchu.tokyo.jp/kosodate/shussan/boshinokenko/youikuiryo.files/reiwa2-zeishoumeinitusite.pdf"
+    },
+    {
+      "title": "子育て世代包括支援センター「みらい」",
+      "uri": "https://www.city.fuchu.tokyo.jp/shisetu/kosodate/houkatsushien-mirai/mirai.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "未熟児養育医療の給付とは、身体の発育が未熟なまま生まれ入院を必要とする乳児が、指定養育医療機関において入院治療を受ける場合に、その治療に要する医療費を公費により負担する制度です。ただし、世帯の所得税額に応じて、入院治療費の一部は自己負担となります。",
+  "support": {
+    "description": "指定養育医療機関における入院医療について、医療保険を適用した後の自己負担分を助成（看護料・移送費を除き、現物給付扱い）します。\n注記：市町村民税額により決定された徴収基準月額に基づき算出された負担金を徴収しますが、負担金については、乳幼児医療制度による助成じょせいがあります。（委任状の提出が必要です。）",
+    "materiallySupport": null,
+    "monetarySupport": "指定養育医療機関における入院医療について、医療保険を適用した後の自己負担分を助成（看護料・移送費を除き、現物給付扱い）します。\n注記：市町村民税額により決定された徴収基準月額に基づき算出された負担金を徴収しますが、負担金については、乳幼児医療制度による助成じょせいがあります。（委任状の提出が必要です。）"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "089"
+    ]
+  },
+  "target": {
+    "conditions": "新生児で、指定医療機関において医師が入院して養育よういくを受ける必要があると認めた未熟児みじゅくじ",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "概要説明\n府中市にお住まいの新生児で、指定医療機関において医師が入院して養育よういくを受ける必要があると認めた未熟児みじゅくじ\n\n対象者\n下記のいずれかに該当する1歳の誕生日の前々日までの未熟児\n\n・出生時体重が2,000グラム以下\n・生活力が特に薄弱はくじゃくであって、次のいずれかの症状がある方\n・運動不安・けいれん・運動異常\n・体温が摂氏せっし34度以下\n・呼吸器、循環器系（強度のチアノーゼが持続、呼吸数が毎分30以下等）\n・消化器系（生後24時間以上排便がない、48時間以上嘔吐が持続等）\n・黄おうだん（生後数時間以内に出現、異常に強い場合等）\n注記：症状の内容や受診医療機関によって給付対象とならない場合がありますので、事前に子ども家庭支援課にご相談ください"
+  },
+  "updateDate": "2022-07-01",
+  "useConsiderationFlag": false,
+  "utilization": "症状の内容や受診医療機関によって給付対象とならない場合がありますので、事前に子ども家庭支援課にご相談ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

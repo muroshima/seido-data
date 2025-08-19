@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康推進課庶務担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+1+UM66"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市学園東町1-19-12　健康センター1階",
+    "contactComment": "FAX：042-346-3705",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康推進課庶務担当",
+    "contactPhone": "042-346-9641",
+    "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+    "zipCode": "1870043"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "大気汚染関連疾病の患者さんへ\n\n大気汚染医療費助成制度\n東京都では都独自の制度として、大気汚染の影響を受けると推定される疾病（気管支ぜん息等）をり患している方に対し、一定の要件を満たす場合に、医療費の助成をしています。\n\n対象となる方（つぎのすべてに該当する方）\n以下の1から5までの全てを満たしている方が対象です。\n\n1　18歳未満の方（18歳の誕生日が属する月の末日までの間にある方を含む。）\n\n（注）18歳以上の方（上記に該当しない方）の新規申請の受付は、平成27年3月31日までで終了しました。\n\n現在認定を受けて有効な医療券をお持ちの方で、生年月日が平成9年4月1日以前の方は、更新申請のみ可能です。\n\n2　以下のいずれかにり患している方\n\n(1)気管支ぜん息\n\n(2)慢性気管支炎\n\n(3)ぜん息性気管支炎\n\n(4)肺気しゅ\n\n(5)(1)~(4)の続発症\n\n3　東京都内に引き続き1年（3歳未満は6か月）以上住所を有する方（東京都内に住民登録をしている必要があります。）\n\n4　健康保険等に加入されている方\n\n5　申請日以降喫煙しない方\n\n助成内容\n医療券の有効期間内に医療券に記載された疾病の治療に要した医療費のうち、保険適用後の金額を助成します（ただし、18歳以上の方で引き続き助成を受けている方は月額6,000円を上限とする自己負担があります）。\n\n（注）他の法令等の規定により給付が行われる場合は、その額を控除した後の金額を助成します。\n\n助成期間\n健康推進課の窓口で申請書を受理した日から起算して\n\n（1）2年を経過した日以降の直近の誕生日の属する月の末日まで\n\n（2）18歳の誕生日の属する月の末日まで\n\nのいずれか短い方となります。\n\n上記(1)について・・・引き続き助成を希望される場合、更新申請をすることができます。\n\n誕生日が平成9年4月2日以降の方で、現在お持ちの医療券が18歳の誕生日の属する月の末日を越えている場合、その有効期間中は引き続き利用可能ですが、以後の更新はできません。\n\n詳しくは>>東京都大気汚染医療費助成のページへ（外部リンク）\n\n申請受付\n〒187-0043 小平市学園東町1-19-12　\n\n小平市健康センター\n\n健康推進課庶務担当\n\n電話：042-346-9641\n\n申請に必要な書類は、健康推進課庶務担当窓口でお渡しします。\n\n問合せ\n東京都保健医療局健康安全部環境保健衛生課環境保健担当\n\n電話：03-5320-4491",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の医療費助成制度",
+    "shortName": "大気汚染医療費助成制度"
+  },
+  "localGovernmentLink": {
+    "title": "大気汚染関連疾病の患者さんへ",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/002/002617.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "小平市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "〒187-0043 小平市学園東町1-19-12　\n\n小平市健康センター\n\n健康推進課庶務担当\n\n電話：042-346-9641\n\n申請に必要な書類は、健康推進課庶務担当窓口でお渡しします。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "大気汚染に係る健康障害者に対する医療費の助成に関する条例"
+  },
+  "relatedLink": [
+    {
+      "title": ">>東京都大気汚染医療費助成のページへ（外部リンク）",
+      "uri": "https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/taiki/iryouhi/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "東京都では都独自の制度として、大気汚染の影響を受けると推定される疾病（気管支ぜん息等）をり患している方に対し、一定の要件を満たす場合に、医療費の助成をしています。",
+  "support": {
+    "description": "医療券の有効期間内に医療券に記載された疾病の治療に要した医療費のうち、保険適用後の金額を助成します（ただし、18歳以上の方で引き続き助成を受けている方は月額6,000円を上限とする自己負担があります）。\n\n（注）他の法令等の規定により給付が行われる場合は、その額を控除した後の金額を助成します。",
+    "materiallySupport": null,
+    "monetarySupport": "医療券の有効期間内に医療券に記載された疾病の治療に要した医療費のうち、保険適用後の金額を助成します（ただし、18歳以上の方で引き続き助成を受けている方は月額6,000円を上限とする自己負担があります）。\n\n（注）他の法令等の規定により給付が行われる場合は、その額を控除した後の金額を助成します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "18歳未満の方（18歳の誕生日が属する月の末日までの間にある方を含む。）\n\n　（注）18歳以上の方（上記に該当しない方）の新規申請の受付は、平成27年3月31日までで終了しました。\n\n　現在認定を受けて有効な医療券をお持ちの方で、生年月日が平成9年4月1日以前の方は、更新申請のみ可能です。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "以下の1から5までの全てを満たしている方が対象です。\n\n1　18歳未満の方（18歳の誕生日が属する月の末日までの間にある方を含む。）\n\n（注）18歳以上の方（上記に該当しない方）の新規申請の受付は、平成27年3月31日までで終了しました。\n\n現在認定を受けて有効な医療券をお持ちの方で、生年月日が平成9年4月1日以前の方は、更新申請のみ可能です。\n\n2　以下のいずれかにり患している方\n\n(1)気管支ぜん息\n\n(2)慢性気管支炎\n\n(3)ぜん息性気管支炎\n\n(4)肺気しゅ\n\n(5)(1)~(4)の続発症\n\n3　東京都内に引き続き1年（3歳未満は6か月）以上住所を有する方（東京都内に住民登録をしている必要があります。）\n\n4　健康保険等に加入されている方\n\n5　申請日以降喫煙しない方"
+  },
+  "updateDate": "2023-09-20",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

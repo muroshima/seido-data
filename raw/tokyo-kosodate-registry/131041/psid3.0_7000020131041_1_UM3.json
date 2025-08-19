@@ -1,0 +1,139 @@
+{
+  "area": {
+    "areaCode": "131041;新宿区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "地域振興部 戸籍住民課 戸籍係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020131041",
+    "psid": "psid3.0+7000020131041+1+UM3"
+  },
+  "belongings": "届書（右側に医師・助産師が記入した出生証明書の原本）\n※国外で生まれた日本国籍のお子さんの場合は取り扱いが異なりますので、事前にお問い合わせください。\n母子健康手帳",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "FAX：03-3209-1728",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "地域振興部 戸籍住民課 戸籍係",
+    "contactPhone": "03-5273-3506",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "出生届\n最終更新日：2024年3月1日\n　お子さんが生まれたら届出るものです。\n届出期間\n国内で出生…生まれた日を含め14日以内（14日目が区役所の閉庁日にあたるときは、翌開庁日）\n外国で出生…生まれた日を含め3ヶ月以内\n子の名前について\n　お子さんの名前に使える文字は、常用漢字、人名用漢字、カタカナ、ひらがなです。詳しくは法務省ホームページ;http://www.moj.go.jp/MINJI/minji86.htmlをご参照ください。\n届出地（以下のいずれかの市区町村の役所で届出できます。）\n届出人の所在地（住民登録地）\nお子さんの入籍すべき本籍地\n出生地\n※住民登録地以外で届出するときは、お子さんの住民票が作られるまでに日数がかかり、お子さんに関する各種手当等がすぐに受けられない場合があります。あらかじめ住民登録をする役所にご相談ください。\n※新宿区に届出するときの、受付窓口と時間はこちら;https://www.city.shinjuku.lg.jp/todokede/koseki02_000002.htmlを参照ください。\n届出人（届書に署名する人。なお、押印については任意です。）\n父母の婚姻中に生まれた子（嫡出子）…父または母、もしくは父母の連署\n婚姻中でないときに生まれた子（嫡出でない子）…母\n※父と母が届出人になるときは2人の署名、生年月日の記入が必要です。\n※出生届の受理証明書;https://www.city.shinjuku.lg.jp/todokede/koseki02_000009.htmlは、届出人のみ請求できます。代理の方が請求する場合は、届出人の委任状が必要です 。\n届出に必要なもの\n届書（右側に医師・助産師が記入した出生証明書の原本）\n※国外で生まれた日本国籍のお子さんの場合は取り扱いが異なりますので、事前にお問い合わせください。\n母子健康手帳\n \n父母が外国籍の場合\n父母が外国籍のお子さんも日本で生まれた場合は届出が必要です。\n詳細については下記リンク先をご参照ください。\n出生届（父母が外国籍の場合）;https://www.city.shinjuku.lg.jp/todokede/koseki02_002022.html\n注意事項\n・国外で生まれたお子さんで、日本国籍と外国籍を取得した方は、出生から3ヶ月以内に日本国籍を留保する旨の申出をする必要があります。国籍留保しなければ出生にさかのぼって日本国籍を失いますので、手続きの詳細についてはご相談ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出生届",
+    "shortName": "出生届"
+  },
+  "localGovernmentLink": {
+    "title": "出生届",
+    "uri": "https://www.city.shinjuku.lg.jp/todokede/koseki02_000003.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "新宿区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "届出地（以下のいずれかの市区町村の役所で届出できます。）\n・届出人の所在地（住民登録地）\n・お子さんの入籍すべき本籍地\n・出生地\n※住民登録地以外で届出するときは、お子さんの住民票が作られるまでに日数がかかり、お子さんに関する各種手当等がすぐに受けられない場合があります。あらかじめ住民登録をする役所にご相談ください。\n※新宿区に届出するときの、受付窓口と時間はこちら; https://www.city.shinjuku.lg.jp/todokede/koseki02_000002.htmlを参照ください。\n\n届出に必要なもの\n・届書（右側に医師・助産師が記入した出生証明書の原本）\n※国外で生まれた日本国籍のお子さんの場合は取り扱いが異なりますので、事前にお問い合わせください。\n・母子健康手帳",
+  "procedurePeriod": {
+    "conditions": "国内で出生…生まれた日を含め14日以内（14日目が区役所の閉庁日にあたるときは、翌開庁日）\n外国で出生…生まれた日を含め3ヶ月以内",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "届出人（届書に署名する人。なお、押印については任意です。）\n・父母の婚姻中に生まれた子（嫡出子）…父または母、もしくは父母の連署\n・婚姻中でないときに生まれた子（嫡出でない子）…母\n※父と母が届出人になるときは2人の署名、生年月日の記入が必要です。\n※出生届の受理証明書;https://www.city.shinjuku.lg.jp/todokede/koseki02_000009.htmlは、届出人のみ請求できます。代理の方が請求する場合は、届出人の委任状が必要です 。",
+  "regulation": {
+    "regulationArticle": "第49条、第52条",
+    "regulationName": "戸籍法"
+  },
+  "relatedLink": [
+    {
+      "title": "ホームページ",
+      "uri": "http://www.moj.go.jp/MINJI/minji86.html"
+    },
+    {
+      "title": "こちら",
+      "uri": "https://www.city.shinjuku.lg.jp/todokede/koseki02_000002.html"
+    },
+    {
+      "title": "出生届（父母が外国籍の場合）",
+      "uri": "https://www.city.shinjuku.lg.jp/todokede/koseki02_002022.html"
+    },
+    {
+      "title": "受理証明書",
+      "uri": "https://www.city.shinjuku.lg.jp/todokede/koseki02_000009.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "お子さんが生まれたら届出るものです。生まれた日を含め14日以内に、住所地、本籍地または生まれた場所の市区町村に届け出てください。必要な書類は、出生届書、母子健康手帳です。父母が外国籍のお子さんも日本で生まれた場合は届出が必要です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "届出人（届書に署名する人。なお、押印については任意です。）\n・父母の婚姻中に生まれた子（嫡出子）…父または母、もしくは父母の連署\n・婚姻中でないときに生まれた子（嫡出でない子）…母\n※父と母が届出人になるときは2人の署名、生年月日の記入が必要です。\n※出生届の受理証明書;https://www.city.shinjuku.lg.jp/todokede/koseki02_000009.htmlは、届出人のみ請求できます。代理の方が請求する場合は、届出人の委任状が必要です 。"
+  },
+  "updateDate": "2024-03-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

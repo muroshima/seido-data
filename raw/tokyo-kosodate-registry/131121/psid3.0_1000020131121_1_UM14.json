@@ -1,0 +1,136 @@
+{
+  "area": {
+    "areaCode": "131121;世田谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康推進課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131121",
+    "psid": "psid3.0+1000020131121+1+UM14"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "世田谷地域,北沢地域,玉川地域,砧地域,烏山地域",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "世田谷総合支所健康づくり課,北沢総合支所健康づくり課,玉川総合支所健康づくり課,砧総合支所健康づくり課,烏山総合支所健康づくり課",
+    "contactPhone": "03-5432-2896,03-6804-9667,03-3702-1982,03-3483-3166,03-3308-8246",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "目次\n\n申込可能な申請方法\n申請の内容\n内容\n対象者\n申請時期\n必要書類\n申請はこちらから\n関連リンク\n申込可能な申請方法\n\nオンライン\n\n窓口\n利用不可能\n\n郵送\n\n電話\n利用不可能\n\nファクシミリ\n利用不可能\n\nメール\n利用不可能\n\nコンビニ\n利用不可能\n\n申請の内容\n内容\n「母子健康手帳」に綴じこまれている「赤ちゃん訪問連絡票（出生通知票）」の提出を電子申請で行うものです。\n\n（ご注意）戸籍係の出生届の手続きではありません。\n\n生後4か月までのお子様のいるすべての家庭を助産師・保健師が訪問し、赤ちゃんとお母様の健康や育児についてのご相談や、区内の子育て情報の提供を行います。\n「赤ちゃん訪問連絡票（出生通知票）」は乳幼児健診や予防接種等のご案内の大切な資料になりますので、必ず申請をお願いいたします。\n\n補足\nこの手続は申請者ID登録をしなくても申請できます。\nお名前が決まっていない場合、氏名欄は空白で結構です。\n\n必要書類\n申請時、必要な書類はありません。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "乳児期家庭訪問相談申請（赤ちゃん訪問連絡票（出生通知票）の申請）",
+      "uri": "https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1709606138909"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+    "shortName": "乳児期家庭訪問相談（赤ちゃん訪問連絡票（出生通知票））"
+  },
+  "localGovernmentLink": {
+    "title": "乳児期家庭訪問相談（赤ちゃん訪問連絡票（出生通知票））申請",
+    "uri": "https://www.city.setagaya.lg.jp/02244/8065.html#p8"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025-02-17",
+    "updater": "世田谷区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請はこちらから\n電子申請システムへ\n",
+  "procedurePeriod": {
+    "conditions": "申請時期\n出生後、できるだけ2週間以内にお願いします。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第21条の10の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "乳児期家庭訪問相談申請（赤ちゃん訪問連絡票（出生通知票）の申請）",
+      "uri": "https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1709606138909"
+    },
+    {
+      "title": "東京共同電子申請・届出サービス　（世田谷区トップページ）",
+      "uri": "https://www.shinsei.elg-front.jp/tokyo2/navi/govTop.do?govCode=13112"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "生後4か月を迎えるまでのお子様のいるすべての家庭を助産師・保健師が訪問し、赤ちゃんとお母様の健康や育児についてのご相談や区内の子育て情報の提供を行います。",
+  "support": {
+    "description": "出生通知票を提出し、乳児期家庭訪問を受けた方には、子育て応援ギフトを支給します。",
+    "materiallySupport": null,
+    "monetarySupport": "子育て応援ギフトを支給します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 4
+    },
+    "targetPersons": "生後4か月までのお子様のいるすべての家庭。"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "下記「電子申請システムへ」から申請画面にお進みください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

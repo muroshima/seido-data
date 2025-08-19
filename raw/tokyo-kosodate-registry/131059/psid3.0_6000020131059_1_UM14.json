@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131059;文京区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健衛生部・文京保健所保健サービスセンター,保健衛生部・文京保健所保健サービスセンター本郷支所",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131059",
+    "psid": "psid3.0+6000020131059+1+UM14"
+  },
+  "belongings": "事前準備のお願い\n○同封アンケート用紙のご記入\n○母子健康手帳\n○バスタオル（体重測定時に使用）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都文京区春日1丁目16番21号 シビックセンター3階(健診フロア）、8階北側（事務室）,東京都文京区千駄木5丁目20番18号",
+    "contactComment": "FAX：03-5803-1371",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健衛生部・文京保健所保健サービスセンター,保健衛生部・文京保健所保健サービスセンター本郷支所",
+    "contactPhone": "03-5803-1807,03-3821-5106",
+    "contactUrl": "https://logoform.jp/form/6KSu/554248",
+    "zipCode": "1128555,1130022"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "出産後の早い時期は、お母さん自身の体調も整わないことが多く、赤ちゃんとの生活にも慣れず、不安になりやすい時期です。\nひとりで不安を抱え込まずに、ぜひ「こんにちは赤ちゃん訪問（新生児訪問）事業」をご利用ください。費用は無料です。\n今後の子育て情報もご案内します。\n○「こんにちは赤ちゃん訪問」は、これまでの「新生児訪問」の対象を拡大し、赤ちゃんが生まれたすべてのご家庭を助産師又は保健師が訪問するものです。\n同封のアンケートにつきましては、事前にご記入いただき、訪問時に保健師もしくは助産師にお渡しください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "○ご家庭内に、体温が37.5度以上またはかぜ症状の方がいらっしゃる場合は、訪問を延期・中止とさせて頂きます。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+    "shortName": "こんにちは赤ちゃん訪問（新生児訪問）"
+  },
+  "localGovernmentLink": {
+    "title": "こんにちは赤ちゃん訪問（新生児訪問）",
+    "uri": "https://www.city.bunkyo.lg.jp/b029/p001542.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/03/10",
+    "updater": "文京区"
+  },
+  "procedureCounter": "保健サービスセンター管轄表\n| |保健サービスセンター|保健サービスセンター本郷支所|\n|:----|:----|:----|\n|お住まいの地域|後楽1・2丁目|白山1・5丁目|\n| |春日1・2丁目|本郷3・7丁目|\n| |小石川1・2・3・4・5丁目|湯島1・2・3・4丁目|\n| |白山2・3・4丁目|西片2丁目|\n| |千石1・2・3・4丁目|向丘1・2丁目|\n| |水道1・2丁目|弥生1・2丁目|\n| |小日向1・2・3・4丁目|根津1・2丁目|\n| |大塚1・2・3・4・5・6丁目|千駄木1・2・3・4・5丁目|\n| |関口1・2・3丁目|本駒込1・2・3・4・5・6丁目|\n| |目白台1・2・3丁目| |\n| |音羽1・2丁目| |\n| |本郷1・2丁目| |\n| |本郷4・5・6丁目| |\n| |西片1丁目| |",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第21条の10の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "生後4か月を迎えるまでの乳児がいるご家庭には専門職のほか、研修を受けたスタッフが訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+  "support": {
+    "description": "○赤ちゃんの体重測定や育児の相談\n○産後の体調についての相談\n○子育て情報の提供",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住で、生後4か月までの乳児と保護者"
+  },
+  "updateDate": "2024/05/13",
+  "useConsiderationFlag": false,
+  "utilization": "赤ちゃんが生まれたらすぐに、「母と子の保健バック」または「母子手帳」に入っている『出生通知票』を郵送してください。\n『出生通知票』をもとに、助産師又は保健師が日程調整のお電話をしてから家庭訪問します。日程調整のお電話は、携帯電話からご連絡させていただく場合がありますのでご了承ください。\n転入等で『出生通知票』がない方、里帰り出産の方は、お問い合わせください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

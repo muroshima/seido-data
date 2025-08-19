@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132276;羽村市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "羽村市子ども家庭部子育て支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132276",
+    "psid": "psid3.0+1000020132276+1+UM5047"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都羽村市緑ヶ丘5丁目2番地1",
+    "contactComment": "（児童青少年係）内線262,（保育・幼稚園係）内線231,FAX：042-554-2921",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "羽村市子ども家庭部子育て支援課",
+    "contactPhone": "042-555-1111",
+    "contactUrl": "https://www.city.hamura.tokyo.jp/mailform/inquiry.cgi?so=307078d452c2d09ed796f615a7aad68676a41b1d&ref=https%3A%2F%2Fwww.city.hamura.tokyo.jp%2F0000015157.html",
+    "zipCode": "2058601"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "医療的ケアを必要とする児童について、市内の保育施設（認可保育園及び幼保連携型認定こども園等）で受入れを行っています。\n受入れについては、「保育施設への医療的ケア児の受入れガイドライン（令和3年3月）」に沿って実施します。\n医療的ケアを必要とする児童で、保育施設の利用を希望する方は、下記注意事項をご確認のうえ事前にご相談ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "保育所等における医療的ケア児への支援",
+    "shortName": "医療的ケアを必要とする児童の保育施設の利用について"
+  },
+  "localGovernmentLink": {
+    "title": "医療的ケアを必要とする児童の保育施設の利用について",
+    "uri": "https://www.city.hamura.tokyo.jp/0000015157.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/20",
+    "updater": "羽村市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申込みに関する注意事項\n・保育施設を利用するには、保育を必要とする事由（就労・疾病など）が必要です。仕事を探す「求職」の要件もありますが、入所後3か月以内に就労の要件を満たすことが条件です。\n・ガイドラインに沿って手続きを進めてから申請となります。毎月の入所の場合、遅くとも入所希望月の2か月前にはご相談ください。なお、4月入所は前年12月頃に申請がありますので、遅くとも10月までにはご相談ください。\n・事前のご相談なく申請された場合には、希望月からの入所申請として受け付けできない場合があります。\n保育施設への医療的ケア児の受入れガイドライン\nガイドライン (PDF形式、459.40KB);https://www.city.hamura.tokyo.jp/cmsfiles/contents/0000015/15157/care-guide.pdf",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条第1項",
+    "regulationName": "医療的ケア児及びその家族に対する支援に関する法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育所等において看護師等を配置し、医療的ケア児の受入れ体制を整備しております。",
+  "support": {
+    "description": "なお、ガイドラインで受入れ可としている医療的ケアは以下の通りです。\n受け入れ可能な医療的ケア\n1.吸引（口腔内・鼻腔内・気管カニューレ内）\n2.経管栄養（経鼻経管栄養・胃ろう・腸ろう）\n3.導尿\n4.エアウェイの管理\n5.酸素療法（在宅酸素療法）の管理\n6.人工呼吸器の管理\n7.吸入（薬剤）\n8.気管切開部や胃ろう部、腸ろう部の管理\n9.血糖値測定及びその後の処置（その後の処置にはインスリン注射を含む）\nただし、上記のケアであっても、必要な対応の度合いによっては受け入れられない場合があります。",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2023/01/30",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131130;渋谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "地域学校支援課放課後クラブ推進係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020131130",
+    "psid": "psid3.0+9000020131130+1+UM5028"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "地域学校支援課放課後クラブ推進係",
+    "contactPhone": "電話\n\n03-3463-3068",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": "無料",
+  "costConditions": "登録時の保険料(800円)および、おやつ代(1食70円程度)、放課後クラブ事業の教材費などの実費については保護者負担",
+  "description": "渋谷区では、全区立小学校内に放課後クラブを開設しています。 保護者の就労状況にかかわらず、全ての児童を対象とし、学校や地域との連携により、児童一人ひとりを健やかに育てていくことを目指しています。 児童は、学校施設という安全な環境のもとで、友達とスポーツ、ゲーム、工作などをして楽しく放課後の時間を過ごすとともに、宿題や反復学習にも取り組みます。 教育的視点に基づいた、文化的活動・スポーツ活動・学習活動のほか、異年齢交流や地域の人との交流の機会を提供し、集団生活の中で児童の自主性、社会性及び創造性を養います。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "日曜日、祝・休日、年末年始（12月29日～1月3日）",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "神南小学校,臨川小学校,長谷戸小学校,広尾小学校,猿楽小学校,加計塚小学校,常磐松小学校,幡代小学校,上原小学校,笹塚小学校,西原小学校,富谷小学校,中幡小学校,千駄ヶ谷小学校,鳩森小学校,神宮前小学校,渋谷本町学園小学校,代々木山谷小学校"
+  },
+  "institutionName": {
+    "canonicalName": "放課後子供教室",
+    "shortName": "放課後クラブ"
+  },
+  "localGovernmentLink": {
+    "title": "放課後クラブ",
+    "uri": "https://www.city.shibuya.tokyo.jp/kodomo/gakko-kyoiku/hokago-kurabu/hokagokurabu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/26",
+    "updater": "渋谷区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "各放課後クラブ室へ、必要な書類と保険料（800円）を添えて申請",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "全ての区立小学校内に放課後クラブを設置し、希望する児童を受け入れています。児童は学校施設という安全な環境のもと、学習・遊び・読書等のほか、様々なクラブ事業に参加するなどして放課後の時間を過ごしています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住の小学1年生～6年生の全児童"
+  },
+  "updateDate": "2024/10/07",
+  "useConsiderationFlag": false,
+  "utilization": "各放課後クラブへ申請を行う。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": "A会員…学校運営日　放課後\nB会員…学校運営日　放課後\n学校休業日　各学校の開門時間\n土曜日　9: 00",
+    "toHM": "A会員…学校運営日　17: 00\nB会員…学校運営日　18:00\n（特別延長は19: 30）\n学校休業日　18: 00\n（特別延長は19: 30）\n土曜日　18: 00"
+  }
+}

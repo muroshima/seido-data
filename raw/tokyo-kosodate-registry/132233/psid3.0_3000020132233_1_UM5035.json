@@ -1,0 +1,130 @@
+{
+  "area": {
+    "areaCode": "132233;武蔵村山市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "市民部保険年金課国民健康保険係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132233",
+    "psid": "psid3.0+3000020132233+1+UM5035"
+  },
+  "belongings": "1.「産前産後期間に係る保険税軽減届出書」\n2.母子健康手帳など出産予定日や妊娠の状態が確認できるもの\n3.届出者の本人確認書類と国民健康保険証\n4.個人番号を確認できる書類",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "132・134・137",
+    "contactName": "市民部保険年金課国民健康保険係",
+    "contactPhone": "042-565-1111",
+    "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/c_02a/1019814",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "産前産後期間の国民健康保険税の軽減について\n産前産後期間に係る国民健康保険税を軽減する制度が始まりました\n国民健康保険の被保険者が出産予定または出産した場合には、国民健康保険税が軽減となります。\n国民健康保険の世帯主からの届出が必要ですが、「出産育児一時金」の支給（直接支払制度など）等により、出産の事実が確認できる場合、届出は不要です。\n\n対象者\n令和5年11月1日以降に出産したまたは出産予定の国民健康保険被保険者のかた\nなお、出産とは妊娠85日（4か月）以上の出産（死産、流産、早産及び人工妊娠中絶の場合を含む）のことをいいます。\n\n軽減の対象期間\n単胎妊娠：出産した（出産予定）月の前月から出産した（出産予定）月の翌々月までの計4か月分\n多胎妊娠：出産した（出産予定）月の3か月前から出産した（出産予定）月の翌々月までの計6か月分\n\n| |3か月前|2か月前|1か月前|出産月|1か月後|2か月後|\n|:----|:----|:----|:----|:----|:----|:----|\n|単胎妊娠|||○|○|○|○|\n|多胎妊娠|○|○|○|○|○|○|\n\n〇がついた期間が軽減の対象期間です。\nただし、制度開始が令和6年1月であることから、令和5年11月に出産した場合は令和6年1月分、令和5年12月に出産した場合は令和6年1月分及び2月分の国民健康保険税が軽減されます。令和6年1月より前の期間については軽減の対象とはなりません。\n\n軽減される保険税\n出産する被保険者の国民健康保険税の所得割額と均等割額を軽減します。\n\n届出と必要書類\n出産予定日の6か月前から届出ができます。直接支払制度を利用されないかたは、届出が必要です。\n1.「産前産後期間に係る保険税軽減届出書」\n2.母子健康手帳など出産予定日や妊娠の状態が確認できるもの\n3.届出者の本人確認書類と国民健康保険証\n4.個人番号を確認できる書類\n\n添付ファイル\n産前産後リーフレット （PDF 360.4KB）;https://www.city.musashimurayama.lg.jp/_res/projects/default_project/_page_/001/019/814/r5sanzensangoreef.pdf\n産前産後期間に係る保険税軽減届出書 （PDF 92.2KB）;https://www.city.musashimurayama.lg.jp/_res/projects/default_project/_page_/001/019/814/keigentodoke.pdf\n産前産後期間に係る保険税軽減届出書（記入例） （PDF 182.8KB）;https://www.city.musashimurayama.lg.jp/_res/projects/default_project/_page_/001/019/814/keigentodokekinyurei.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "国民健康保険における産前産後期間保険料（税）免除",
+    "shortName": "産前産後期間の国民健康保険税の軽減"
+  },
+  "localGovernmentLink": {
+    "title": "産前産後期間の国民健康保険税の軽減について",
+    "uri": "https://www.city.musashimurayama.lg.jp/kurashi/hoken/kenkouhoken/1019814.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-05-29",
+    "updater": "武蔵村山市"
+  },
+  "procedureCounter": "保険年金課 国民健康保険係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "出産予定日の6か月前から届出ができます。直接支払制度を利用されないかたは、届出が必要です。\n1.「産前産後期間に係る保険税軽減届出書」\n2.母子健康手帳など出産予定日や妊娠の状態が確認できるもの\n3.届出者の本人確認書類と国民健康保険証\n4.個人番号を確認できる書類",
+  "procedurePeriod": {
+    "conditions": "出産予定日の6か月前から届出ができます。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "産前産後リーフレット （PDF 360.4KB）",
+      "uri": "https://www.city.musashimurayama.lg.jp/_res/projects/default_project/_page_/001/019/814/r5sanzensangoreef.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民健康保険の出産する被保険者に係る産前産後期間相当分（４ヶ月分）の均等割保険料と所得割保険料が免除されます。",
+  "support": {
+    "description": "軽減の対象期間\n単胎妊娠：出産した（出産予定）月の前月から出産した（出産予定）月の翌々月までの計4か月分\n多胎妊娠：出産した（出産予定）月の3か月前から出産した（出産予定）月の翌々月までの計6か月分\n\n| |3か月前|2か月前|1か月前|出産月|1か月後|2か月後|\n|:----|:----|:----|:----|:----|:----|:----|\n|単胎妊娠|||○|○|○|○|\n|多胎妊娠|○|○|○|○|○|○|\n\n〇がついた期間が軽減の対象期間です。\nただし、制度開始が令和6年1月であることから、令和5年11月に出産した場合は令和6年1月分、令和5年12月に出産した場合は令和6年1月分及び2月分の国民健康保険税が軽減されます。令和6年1月より前の期間については軽減の対象とはなりません。\n\n軽減される保険税\n出産する被保険者の国民健康保険税の所得割額と均等割額を軽減します。",
+    "materiallySupport": null,
+    "monetarySupport": "軽減の対象期間\n単胎妊娠：出産した（出産予定）月の前月から出産した（出産予定）月の翌々月までの計4か月分\n多胎妊娠：出産した（出産予定）月の3か月前から出産した（出産予定）月の翌々月までの計6か月分\n\n| |3か月前|2か月前|1か月前|出産月|1か月後|2か月後|\n|:----|:----|:----|:----|:----|:----|:----|\n|単胎妊娠|||○|○|○|○|\n|多胎妊娠|○|○|○|○|○|○|\n\n〇がついた期間が軽減の対象期間です。\nただし、制度開始が令和6年1月であることから、令和5年11月に出産した場合は令和6年1月分、令和5年12月に出産した場合は令和6年1月分及び2月分の国民健康保険税が軽減されます。令和6年1月より前の期間については軽減の対象とはなりません。\n\n軽減される保険税\n出産する被保険者の国民健康保険税の所得割額と均等割額を軽減します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003",
+      "015"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 75,
+      "targetAgeOfMonths": 0
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "令和5年11月1日以降に出産したまたは出産予定の国民健康保険被保険者のかた\nなお、出産とは妊娠85日（4か月）以上の出産（死産、流産、早産及び人工妊娠中絶の場合を含む）のことをいいます。"
+  },
+  "updateDate": "2024-01-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

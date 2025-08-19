@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援部子ども若者支援課子ども給付係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+1+UM22"
+  },
+  "belongings": "母子健康手帳",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "（代表）,（代表）,（代表）,（代表）,（代表）",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "芝地区総合支所区民課保健福祉係,麻布地区総合支所区民課保健福祉係,赤坂地区総合支所区民課保健福祉係,高輪地区総合支所区民課保健福祉係,芝浦港南地区総合支所区民課保健福祉係",
+    "contactPhone": "03-3578-3111,03-3583-4151,03-5413-7011,03-5421-7611,03-3456-4151",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "コミュニティバス乗車券発行\n事業の目的\nこの乗車券を提示することで「港区コミュニティバス」（ちぃばす）及び、「港区台場シャトルバス」（お台場レインボーバス）が利用でき、妊産婦の通院・日常生活上の移動の利便性の向上と子育て支援を図ります。\n\n交付対象者\n母子保健法に定義された妊産婦\n\n申請方法\n母子健康手帳を提示して発行を受けてください。\n\n有効期間\n母子健康手帳が発行された日から、出産日から1年後の前月末まで\n\nただし、多胎児（双子や三つ子など）を出産された場合は、出産日から3年後の前月末まで\n\n交付枚数\n妊産婦1人につき1枚\n\nただし、多胎児（双子や三つ子など）を出産された場合は、出産後に、お子様の人数と同数になるように追加交付します。\n\n例：双子の場合、妊婦となったときに1枚交付し、出産後に1枚追加交付します。\n\n利用方法\nコミュニティバス及び台場シャトルバス乗車時に「港区コミュニティバス乗車券」を提示してください。\n※乗車1回につき、記名のある人のうち２人が無料になります。(令和5年4月以降）\n\n申請先\n各総合支所区民課保健福祉係（台場分室でも申請できます。）\n\nコミュニティバス乗車券発行に関するお問い合わせ\n芝地区総合支所区民課保健福祉係　03-3578-3111（代表）\n\n麻布地区総合支所区民課保健福祉係　03-3583-4151（代表）\n\n赤坂地区総合支所区民課保健福祉係　03-5413-7011（代表）\n\n高輪地区総合支所区民課保健福祉係　03-5421-7611（代表）\n\n芝浦港南地区総合支所区民課保健福祉係　03-3456-4151（代表）\n\nバスの運行に関するお問い合わせ\n・港区コミュニティバス（ちぃばす）\n\nちぃばすお客様窓口（（株）フジエクスプレス）　03-3455-2213\n\n・台場シャトルバス（お台場レインボーバス）\n\n株式会社kmモビリティサービス 03-6423-2805",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "令和5年4月以降",
+    "fromHM": null,
+    "fromYMD": "2023-04-01",
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関する金銭的支援",
+    "shortName": "コミュニティバス乗車券発行"
+  },
+  "localGovernmentLink": {
+    "title": "コミュニティバス乗車券発行",
+    "uri": "https://www.city.minato.tokyo.jp/kodomokyufu/kenko/ninshin/community-bus.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "港区"
+  },
+  "procedureCounter": "各総合支所区民課保健福祉係（台場分室でも申請できます。）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "母子健康手帳を提示して発行を受けてください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2条",
+    "regulationName": "港区コミュニティバス乗車券の発行及び利用助成要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "港区では、妊産婦の通院・日常生活上の移動の利便性の向上と子育て支援を図るために、港区コミュニティバス乗車券をお渡しています。妊婦さんが産婦人科への通院や外出をする際にご利用いただけます。",
+  "support": {
+    "description": "交付枚数\n妊産婦1人につき1枚\n\nただし、多胎児（双子や三つ子など）を出産された場合は、出産後に、お子様の人数と同数になるように追加交付します。\n\n例：双子の場合、妊婦となったときに1枚交付し、出産後に1枚追加交付します。\n\n利用方法\nコミュニティバス及び台場シャトルバス乗車時に「港区コミュニティバス乗車券」を提示してください。\n※乗車1回につき、記名のある人のうち２人が無料になります。(令和5年4月以降）",
+    "materiallySupport": null,
+    "monetarySupport": "交付枚数\n妊産婦1人につき1枚\n\nただし、多胎児（双子や三つ子など）を出産された場合は、出産後に、お子様の人数と同数になるように追加交付します。\n\n例：双子の場合、妊婦となったときに1枚交付し、出産後に1枚追加交付します。\n\n利用方法\nコミュニティバス及び台場シャトルバス乗車時に「港区コミュニティバス乗車券」を提示してください。\n※乗車1回につき、記名のある人のうち２人が無料になります。(令和5年4月以降）"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "母子保健法に定義された妊産婦"
+  },
+  "updateDate": "2024-01-12",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

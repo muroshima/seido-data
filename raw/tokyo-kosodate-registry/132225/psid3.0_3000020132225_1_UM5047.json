@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132225;東久留米市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子育て支援課　保育・幼稚園係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132225",
+    "psid": "psid3.0+3000020132225+1+UM5047"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都東久留米市本町3-3-1",
+    "contactComment": "FAX：042-470-7807",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子育て支援課　保育・幼稚園係",
+    "contactPhone": "042-470-7745",
+    "contactUrl": "https://www.city.higashikurume.lg.jp/cgi-bin/contacts/g070202",
+    "zipCode": "2038555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "市内の保育施設等において、医療的ケアを必要とする児童の受け入れに関して、「東久留米市保育施設等における医療的ケアの実施に関するガイドライン」を策定しました。医療的ケアが必要な児童の保育を希望する場合は事前にご相談ください。\n東久留米市認可保育施設等における医療的ケアの実施に関するガイドライン（令和5年12月） （PDF 1.3MB）;https://www.city.higashikurume.lg.jp/_res/projects/default_project/_page_/001/023/059/ikea_hoiku_guideline.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "保育所等における医療的ケア児への支援",
+    "shortName": "医療的ケアが必要な児童の保育について"
+  },
+  "localGovernmentLink": {
+    "title": "医療的ケアが必要な児童の保育について",
+    "uri": "https://www.city.higashikurume.lg.jp/shinseisho/hoiku/1023059.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/17",
+    "updater": "東久留米市"
+  },
+  "procedureCounter": "連絡先：子ども家庭部　子育て支援課　電話　042－470－7745",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "必要な医療的ケアについてお伺いし、申し込みに当たって必要な書類等についてもご案内いたしますので、入所を希望される方はご相談ください。\nなお、ご相談の際は、可能な限り、事前に子育て支援課にお電話でご連絡をいただき、ご予約された上でお越し願います。\n連絡先：子ども家庭部　子育て支援課\n電話　042－470－7745",
+  "procedurePeriod": {
+    "conditions": "4月1日入所を希望されている方は、前年の9月末頃までにご相談ください。その他の入所月については、随時、ご相談を受け付けておりますが、認可保育施設の空き状況によっては受入れが難しくなる可能性がありますので、予めご了承ください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "医療的ケア児の入所申し込みを希望される保護者の方",
+  "regulation": {
+    "regulationArticle": "第9条第1項",
+    "regulationName": "医療的ケア児及びその家族に対する支援に関する法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "医療的ケアを必要とする児童に関して、「東久留米市保育施設等における医療的ケアの実施に関するガイドライン」に沿って受け入れ調整を行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "保育施設等の状況に鑑みて受入れが可能と判断される園児（次のような例）\n・集団保育が可能と主治医が判断し、日々の通所ができること。\n・日常的に保護者が行っている医療的ケアが確立し、安定した医療的ケアが行われていること。\n・保育施設等において医療的ケアが行われることについて支障がないと主治医が認めていること。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "保育施設等の状況に鑑みて受入れが可能と判断される園児"
+  },
+  "updateDate": "2024/01/25",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

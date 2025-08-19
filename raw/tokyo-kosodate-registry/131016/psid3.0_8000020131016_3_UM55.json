@@ -1,0 +1,139 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "千代田保健所健康推進課感染症対策係（予防接種担当）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+3+UM55"
+  },
+  "belongings": "・接種費用の支払いを証明できる書類の原本（領収書、明細書、支払証明書等）\n・接種記録が確認できる書類の写し（母子健康手帳の予防接種の記録欄、予診票等）\n（注意） 書類が無い場合はヒトパピローマウイルス感染症に係る任意接種償還払い申請用証明書（様式第2号）（PDF：257KB）を医療機関で証明してもらってください。\n・振込希望先金融機関の通帳またはキャッシュカードのコピー（口座番号等確認用）\n・【代理人が申請する場合】申請者（代理人）の氏名・住所・生年月日が確認できる書類の写し（運転免許証、健康保険証（両面）などいずれかの公的証明書）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区九段北1-2-14",
+    "contactComment": null,
+    "contactEmail": "kenkousuishin@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "千代田保健所健康推進課感染症対策係（予防接種担当）",
+    "contactPhone": "03-5211-8172",
+    "contactUrl": null,
+    "zipCode": "1020073"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "過去に自己負担でHPVワクチン予防接種を受けられた方へ、費用の一部または全部を助成します。\n\n申請期限 \n\n令和7年3月31日まで\n（注意） 郵送の場合は必着\n\n接種後に健康異常があるとき\n\nまずは接種を受けた医師・かかりつけ医師にご相談ください。\n各都道府県において協力医療機関（外部サイトへリンク）も選定されています。協力医療機関の受診については、接種を受けた医師・かかりつけ医師にご相談ください。\n\n不安や疑問、困ったことがあるとき\n\nお住まいの都道府県に設置された相談窓口（外部サイトへリンク）があります。\n\nHPVワクチンを含む予防接種、インフルエンザ、性感染症、その他の感染症全般について相談したいとき\n\n厚生労働省 感染症・予防接種相談窓口（外部サイトへリンク）へお問い合わせください。\n\n健康被害救済制度\n\n予防接種は感染症を防ぐために重要なものですが、極めてまれに健康被害の発生がみられます。\n\n万が一、定期予防接種による健康被害が発生した場合には、救済給付を行うための制度があります。詳しくは「予防接種後健康被害救済制度について（PDF：564KB）」のリーフレットをご覧ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "任意予防接種",
+    "shortName": "HPV（ヒトパピローマウイルス）ワクチン任意予防接種費用償還払い"
+  },
+  "localGovernmentLink": {
+    "title": "HPV（ヒトパピローマウイルス）ワクチン任意予防接種費用償還払い",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/yobosesshu/hpv-shokambarai.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": "千代田保健所健康推進課保健予防係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "窓口または郵送で受付します。\n\n必要書類を千代田保健所健康推進課保健予防係（〒102-0073九段北1-2-14千代田保健所5階）まで郵送かお持ち込みによりご申請ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": "2025-03-31"
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "設置された相談窓口（外部サイトへリンク）",
+      "uri": "https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou28/madoguchi/index.html"
+    },
+    {
+      "title": "協力医療機関（外部サイトへリンク）",
+      "uri": "https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou28/medical_institution/index.html"
+    },
+    {
+      "title": "厚生労働省 感染症・予防接種相談窓口（外部サイトへリンク）",
+      "uri": "https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou01/inful_consult.html"
+    },
+    {
+      "title": "予防接種後健康被害救済制度について（PDF：564KB）",
+      "uri": "https://www.city.chiyoda.lg.jp/documents/30744/kenkohigai-kyusaiseido.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。現在、定期接種以外で小学校就学前のお子さんが接種できるワクチンとしては、おたふくかぜ、インフルエンザなどがあります。\nこのうち千代田区では、次の任意予防接種に対して、接種費用を助成しています。接種するかどうかについては、かかりつけ医とご相談のうえ、保護者の判断により決めてください。",
+  "support": {
+    "description": "助成額\n実費負担した接種費用の一部\n\n（注意）ただし、1回接種あたり2価・4価HPVワクチンは17,556円、9価HPVワクチンは17,578円を上限とします。",
+    "materiallySupport": null,
+    "monetarySupport": "助成額\n実費負担した接種費用の一部\n\n（注意）ただし、1回接種あたり2価・4価HPVワクチンは17,556円、9価HPVワクチンは17,578円を上限とします。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "下記のいずれかに該当する方\n\n平成9年4月2日から平成17年4月1日に生まれた女性で、以下のすべての条件に該当する方\n\n1.令和4年4月1日時点で千代田区に住民登録がある\n（注意） 令和4年4月2日以降に千代田区へ転入された方は、令和4年4月1日時点で住所のある自治体にお問い合わせください。\n2.16歳になる日に属する年度（高校1年生相当）の3月31日までに3回の接種を完了していない\n3.17歳になる日に属する年度（高校2年生相当）の4月1日から令和4年3月31日までに日本国内の医療機関で2価HPVワクチン（サーバリックス）または4価HPVワクチン（ガーダシル）の任意接種を受け、実費を負担した\n4.償還払いを受けようとする接種回数分について、キャッチアップ接種を受けていない\n5.過去に償還払いと同種のものと千代田区が認める費用助成を受けていない\n\n平成9年4月2日から平成23年4月1日に生まれた女性で、以下のすべての条件に該当する方\n1.令和4年10月4日から令和5年3月31日までの間に日本国内の医療機関で9価HPVワクチン（シルガード）の任意接種を受け、実費を負担した\n2.接種日時点で千代田区に住民登録がある\n3.償還払いを受けようとする接種回数分について、2価HPVワクチン（サーバリックス）または4価HPVワクチン（ガーダシル）の定期接種またはキャッチアップ接種を受けていない"
+  },
+  "updateDate": "2024-03-25",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "area": {
+    "areaCode": "131075;墨田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康推進課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131075",
+    "psid": "psid3.0+6000020131075+1+UM13"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康推進課",
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "こんにちは赤ちゃん事業（新生児訪問）・妊婦訪問\n\n● こんにちは赤ちゃん事業（新生児訪問）\n墨田区では、生後120日になるまでのすべての赤ちゃんを訪問する「こんにちは赤ちゃん事業（新生児訪問）」を実施しています。赤ちゃんが生まれたら、親子健康手帳（母子健康手帳）に綴じこまれている『出生通知票（赤ちゃん訪問連絡票）』を記入し、できるだけお早めに郵送してください。赤ちゃんのお名前が決まっていないときは、赤ちゃんの氏名欄は空欄のままで大丈夫です。出生通知票が届きましたら、ご住所地の管轄の保健センター;https://www.city.sumida.lg.jp/kenko_fukushi/kenko/oyako_kenko/kankatutiiki.htmlから訪問の日程調整のためにお電話をさせていただきます。\n\n赤ちゃん訪問ってどんなことをするの？\n保健センターの保健師・助産師が赤ちゃんのいるご家庭を訪問し、発育や育児などのご相談をお受けします。\n\n赤ちゃんの体重測定・授乳や発育などの育児の相談\n赤ちゃんとの生活のおはなし\nお母さんの体調などのご相談）\n健診・予防接種のご案内\n地域の子育てサービスのご紹介\n「出生通知票（赤ちゃん訪問連絡票）」とは？\n出生通知票は親子健康手帳（母子健康手帳）に綴じこまれています。\n出生通知票は出生届;https://www.city.sumida.lg.jp/faq/kurashi/todokede_syoumei/koseki/30.htmlとは異なりますので別々に提出してください。\n出生通知票に記載された個人情報は、赤ちゃん訪問以外の目的では使用しません。ただし、里帰り先等への訪問をご希望の場合は、滞在先の自治体へ情報共有させていただきますので予めご了承ください。\n里帰り先へ訪問してほしいときは？\n里帰り先やその他の滞在先で訪問を受けたいときは、出生通知票の「訪問してほしい場所」の欄に訪問先の情報を記入してください。ご提出いただいた出生通知票に基づき、ご住所地の管轄の保健センター;https://www.city.sumida.lg.jp/kenko_fukushi/kenko/oyako_kenko/kankatutiiki.htmlから滞在先の自治体へ訪問を依頼します（この際、出生通知票の記載内容を滞在先の自治体に共有させていただきます。）。ただし、自治体によっては赤ちゃん訪問を実施していないところがあります。\n\n区外に引っ越したときは？\n区外に引っ越したときは、出生通知票を提出する必要はありません。新しい住所地の自治体の担当部署に電話をして、墨田区から転入してきたことと新生児訪問を受けたいということを伝えてください。\n\n子育て応援ギフトを給付しています\n赤ちゃん訪問を受けたご家庭には、後日、「子育て応援ギフト（電子クーポン10万円分）」申請のご案内を郵送いたします。子育て応援ギフトについては、こちらのページ;https://www.city.sumida.lg.jp/kenko_fukushi/kenko/oyako_kenko/syussan_junbi_class/skogift.htmlをご覧ください。\n\n● 関連リンク\n子育て応援サイト;https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/index.html\n\n産後のお母さんを応援！産後ケア事業;https://www.city.sumida.lg.jp/kenko_fukushi/kenko/oyako_kenko/sangoriyou/sangocarenyubocare.html\n\n墨田区 出産・子育て応援交付金給付（伴走型相談支援）事業について(出産応援ギフト・子育て応援ギフト);https://www.city.sumida.lg.jp/kenko_fukushi/kenko/oyako_kenko/syussan_junbi_class/skogift.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "新生児訪問",
+    "shortName": "こんにちは赤ちゃん事業（新生児訪問）"
+  },
+  "localGovernmentLink": {
+    "title": "こんにちは赤ちゃん事業（新生児訪問）・妊婦訪問",
+    "uri": "https://www.city.sumida.lg.jp/kenko_fukushi/kenko/oyako_kenko/syussan_junbi_class/akatyanhoumon.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "墨田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第11条（新生児の訪問指導）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "ご住所地の管轄の保健センター",
+      "uri": "https://www.city.sumida.lg.jp/kenko_fukushi/kenko/oyako_kenko/kankatutiiki.html"
+    },
+    {
+      "title": "出生届",
+      "uri": "https://www.city.sumida.lg.jp/faq/kurashi/todokede_syoumei/koseki/30.html"
+    },
+    {
+      "title": "産後のお母さんを応援！産後ケア事業",
+      "uri": "https://www.city.sumida.lg.jp/kenko_fukushi/kenko/oyako_kenko/sangoriyou/sangocarenyubocare.html"
+    },
+    {
+      "title": "子育て応援ギフトについて",
+      "uri": "https://www.city.sumida.lg.jp/kenko_fukushi/kenko/oyako_kenko/syussan_junbi_class/skogift.html"
+    },
+    {
+      "title": "墨田区 出産・子育て応援交付金給付（伴走型相談支援）事業について(出産応援ギフト・子育て応援ギフト)",
+      "uri": "https://www.city.sumida.lg.jp/kenko_fukushi/kenko/oyako_kenko/syussan_junbi_class/skogift.html"
+    },
+    {
+      "title": "子育て応援サイト",
+      "uri": "https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "新生児を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、健康や育児に関する相談などを行います。",
+  "support": {
+    "description": "保健センターの保健師・助産師が赤ちゃんのいるご家庭を訪問し、発育や育児などのご相談をお受けします。\n\n赤ちゃんの体重測定・授乳や発育などの育児の相談\n赤ちゃんとの生活のおはなし\nお母さんの体調などのご相談）\n健診・予防接種のご案内\n地域の子育てサービスのご紹介\n\n子育て応援ギフトを給付しています\n赤ちゃん訪問を受けたご家庭には、後日、「子育て応援ギフト（電子クーポン10万円分）」申請のご案内を郵送いたします。子育て応援ギフトについては、こちらのページ;https://www.city.sumida.lg.jp/kenko_fukushi/kenko/oyako_kenko/syussan_junbi_class/skogift.htmlをご覧ください。",
+    "materiallySupport": "保健センターの保健師・助産師が赤ちゃんのいるご家庭を訪問し、発育や育児などのご相談をお受けします。\n\n赤ちゃんの体重測定・授乳や発育などの育児の相談\n赤ちゃんとの生活のおはなし\nお母さんの体調などのご相談）\n健診・予防接種のご案内\n地域の子育てサービスのご紹介",
+    "monetarySupport": "赤ちゃん訪問を受けたご家庭には、後日、「子育て応援ギフト（電子クーポン10万円分）」申請のご案内を郵送いたします。子育て応援ギフトについては、こちらのページ;https://www.city.sumida.lg.jp/kenko_fukushi/kenko/oyako_kenko/syussan_junbi_class/skogift.htmlをご覧ください。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後120日になるまで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生後120日になるまでのすべての赤ちゃん"
+  },
+  "updateDate": "2024-06-21",
+  "useConsiderationFlag": false,
+  "utilization": "赤ちゃんが生まれたら、親子健康手帳（母子健康手帳）に綴じこまれている『出生通知票（赤ちゃん訪問連絡票）』を記入し、できるだけお早めに郵送してください。赤ちゃんのお名前が決まっていないときは、赤ちゃんの氏名欄は空欄のままで大丈夫です。出生通知票が届きましたら、ご住所地の管轄の保健センター;https://www.city.sumida.lg.jp/kenko_fukushi/kenko/oyako_kenko/kankatutiiki.htmlから訪問の日程調整のためにお電話をさせていただきます。\n\n「出生通知票（赤ちゃん訪問連絡票）」とは？\n出生通知票は親子健康手帳（母子健康手帳）に綴じこまれています。\n出生通知票は出生届;https://www.city.sumida.lg.jp/faq/kurashi/todokede_syoumei/koseki/30.htmlとは異なりますので別々に提出してください。\n出生通知票に記載された個人情報は、赤ちゃん訪問以外の目的では使用しません。ただし、里帰り先等への訪問をご希望の場合は、滞在先の自治体へ情報共有させていただきますので予めご了承ください。\n\n里帰り先へ訪問してほしいときは？\n里帰り先やその他の滞在先で訪問を受けたいときは、出生通知票の「訪問してほしい場所」の欄に訪問先の情報を記入してください。ご提出いただいた出生通知票に基づき、ご住所地の管轄の保健センター;https://www.city.sumida.lg.jp/kenko_fukushi/kenko/oyako_kenko/kankatutiiki.htmlから滞在先の自治体へ訪問を依頼します（この際、出生通知票の記載内容を滞在先の自治体に共有させていただきます。）。ただし、自治体によっては赤ちゃん訪問を実施していないところがあります。\n\n区外に引っ越したときは？\n区外に引っ越したときは、出生通知票を提出する必要はありません。新しい住所地の自治体の担当部署に電話をして、墨田区から転入してきたことと新生児訪問を受けたいということを伝えてください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

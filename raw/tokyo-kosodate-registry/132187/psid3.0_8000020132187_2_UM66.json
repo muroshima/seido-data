@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132187;福生市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子ども育成課　手当助成係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132187",
+    "psid": "psid3.0+8000020132187+2+UM66"
+  },
+  "belongings": "申請方法\n申請には次のものが必要になります\n・保健センターにてお渡しする申請書類一式（認定申請書・主治医診療報告書・健康に関する質問票）\n・住民票\n　申請日前1か月以内に発行されたもの\n　1年以上（3歳未満は6か月以上）東京都に在住していることがわかるもの\n・健康保険証の写し\n　高齢受給者証をお持ちの方はその写しもご提出ください\n提出先\n保健センター",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "福生市福生2125-3（福生市保健センター）",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子ども育成課　手当助成係",
+    "contactPhone": "042-551-1737",
+    "contactUrl": null,
+    "zipCode": "1970011"
+  },
+  "cost": null,
+  "costConditions": "原則として、自己負担額は医療費の1割です。ただし、住民税額等により、自己負担上限額が設定されます。\nまた、入院時の食事療養費は自己負担となります。",
+  "description": "身体に機能障害がある児童の医療費の一部を助成します。\n\n制度の概要\n次の条件をすべて満たした児童の医療費の一部を助成します。\n住民税額により、保護者の方の自己負担があるほか、保護者には所得制限があります。\n1.保護者が市内に在住し、児童が満18歳未満であること。\n2.身体に機能障害を有する児童、または現存する疾患に係る医療を行わないと将来障害を残すと認められる児童であること。\n3.手術等によって確実な治療効果が期待できること。\n4.市町村民税（所得割）が23万5千円未満であること。\n（注意）扶養控除が廃止される前の算定金額になります。詳しくはお問合せください。\n「重度かつ継続」での障害に該当する場合は市町村民税（所得割）が23万5千円以上であっても対象となりますので、内容についてはお問合せください。\n5.指定医療機関で治療すること。\n注意事項\nこの制度は事前申請が原則です。治療の予定が決まりましたら、意見書等の必要書類を案内しますので、できるだけ早くご相談ください。なお、手続きが遅れた場合は、医療費の支給が受けられないことがありますのでご注意ください。\n医療費は育成医療を優先して支払い、残りの自己負担分を他制度（乳幼児医療費助成制度、義務教育就学児医療費助成制度、ひとり親家庭等医療費助成制度）で助成します。対象となる方は、必ず申請を行ってください。\n対象となる障害・疾患\n対象となる障害や疾患は次のとおりです。\n\n肢体不自由\n視覚障害\n聴覚・平衡機能障害\n音声・言語・そしゃく機能障害\n心臓機能障害\n腎臓（じんぞう）機能障害\n小腸機能障害\n肝臓機能障害\nその他の先天性内臓機能障害\n免疫機能障害\n自己負担\n原則として、自己負担額は医療費の1割です。ただし、住民税額等により、自己負担上限額が設定されます。\nまた、入院時の食事療養費は自己負担となります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の医療費助成制度",
+    "shortName": "自立支援医療（育成医療）"
+  },
+  "localGovernmentLink": {
+    "title": "自立支援医療（育成医療）",
+    "uri": "https://www.city.fussa.tokyo.jp/life/child/rearing/1002523.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "福生市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "この制度は事前申請が原則です。治療の予定が決まりましたら、意見書等の必要書類を案内しますので、できるだけ早くご相談ください。なお、手続きが遅れた場合は、医療費の支給が受けられないことがありますのでご注意ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "身体に機能障害がある児童の医療費の一部を助成します。",
+  "support": {
+    "description": "医療費は育成医療を優先して支払い、残りの自己負担分を他制度（乳幼児医療費助成制度、義務教育就学児医療費助成制度、ひとり親家庭等医療費助成制度）で助成します。対象となる方は、必ず申請を行ってください。\n\n対象となる障害・疾患\n対象となる障害や疾患は次のとおりです。\n\n自己負担\n原則として、自己負担額は医療費の1割です。ただし、住民税額等により、自己負担上限額が設定されます。\nまた、入院時の食事療養費は自己負担となります。\n・肢体不自由\n・視覚障害\n・聴覚・平衡機能障害\n・音声・言語・そしゃく機能障害\n・心臓機能障害\n・腎臓（じんぞう）機能障害",
+    "materiallySupport": null,
+    "monetarySupport": "医療費は育成医療を優先して支払い、残りの自己負担分を他制度（乳幼児医療費助成制度、義務教育就学児医療費助成制度、ひとり親家庭等医療費助成制度）で助成します。対象となる方は、必ず申請を行ってください。\n\n対象となる障害・疾患\n対象となる障害や疾患は次のとおりです。\n\n自己負担\n原則として、自己負担額は医療費の1割です。ただし、住民税額等により、自己負担上限額が設定されます。\nまた、入院時の食事療養費は自己負担となります。\n・肢体不自由\n・視覚障害\n・聴覚・平衡機能障害\n・音声・言語・そしゃく機能障害\n・心臓機能障害\n・腎臓（じんぞう）機能障害"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "保護者が市内に在住し、児童が満18歳未満であること。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次の条件をすべて満たした児童の医療費の一部を助成します。\n住民税額により、保護者の方の自己負担があるほか、保護者には所得制限があります。\n1.保護者が市内に在住し、児童が満18歳未満であること。\n2.身体に機能障害を有する児童、または現存する疾患に係る医療を行わないと将来障害を残すと認められる児童であること。\n3.手術等によって確実な治療効果が期待できること。\n4.市町村民税（所得割）が23万5千円未満であること。\n（注意）扶養控除が廃止される前の算定金額になります。詳しくはお問合せください。\n「重度かつ継続」での障害に該当する場合は市町村民税（所得割）が23万5千円以上であっても対象となりますので、内容についてはお問合せください。\n5.指定医療機関で治療すること。"
+  },
+  "updateDate": "2016-08-30",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

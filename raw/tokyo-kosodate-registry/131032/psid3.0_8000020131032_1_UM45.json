@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "みなと保健所保健予防課保健予防係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+1+UM45"
+  },
+  "belongings": "健康保険証・診療費",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "港区三田一丁目4番10号",
+    "contactComment": "ファックス番号：03-3455-4460\n\n外国語対応が必要な人、通訳オペレーター、区の職員の3人で会話ができます。\n\n多言語対応三者通話サービス;https://www.multilingualinterpretercallservice.city.minato.tokyo.jp/kokusai",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "みなと保健所保健予防課保健予防係",
+    "contactPhone": "03-6400-0080",
+    "contactUrl": null,
+    "zipCode": "1088315"
+  },
+  "cost": null,
+  "costConditions": "診療費（時間外や休日の加算があります。）",
+  "description": "休日（日曜・祝日・年末年始）の急病患者を対象に休日診療を行っています。休日診療当番医療機関が輪番で診察を行います。受診の際には健康保険証・診療費（時間外や休日の加算があります。）をお持ちください。また急遽変更になる場合もありますので、あらかじめ電話でご確認の上、お訪ねください。\n※小児初期救急診療についてはこちらをクリックしてください。;https://www.city.minato.tokyo.jp/hokenyobou/kenko/kenko/kyujitsu.html#shonishoki",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "休日診療（輪番制）：午前9時から午後5時\n休日準夜診療（輪番制）：午後5時から午後10時\n※受診するときは、あらかじめ電話で診療時間等をお問い合わせください。\n\n",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "輪番制で実施",
+    "implementationName": "輪番制で実施"
+  },
+  "institutionName": {
+    "canonicalName": "夜間・休日急病診療所",
+    "shortName": "休日診療"
+  },
+  "localGovernmentLink": {
+    "title": "休日診療・小児初期救急診療",
+    "uri": "https://www.city.minato.tokyo.jp/hokenyobou/kenko/kenko/kyujitsu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "港区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "港区では、休日（日曜・祝日・年末年始）の急病患者を対象に、休日診療当番医療機関が輪番で診察を実施しています。\n「休日診療」https://www.city.minato.tokyo.jp/hokenyobou/kenko/kenko/kyujitsu.html",
+  "support": {
+    "description": "休日診療",
+    "materiallySupport": "休日診療",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "休日（日曜・祝日・年末年始）の急病患者"
+  },
+  "updateDate": "2024-06-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

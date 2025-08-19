@@ -1,0 +1,142 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センター母子保健担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+1+UM5011"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市学園東町1-19-12　健康センター1階",
+    "contactComment": "FAX：042-346-3705",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭センター母子保健担当",
+    "contactPhone": "042-346-3701",
+    "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+    "zipCode": "1870043"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊娠8か月ごろに子育て支援アプリを活用して、妊娠8か月アンケートを実施しています。ご希望の方には妊娠中に保健師や助産師による家庭訪問を行います。妊娠中の体調や出産に向けて不安なことがありましたら、お気軽にご相談ください。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "こだっこWeb予約",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/082/082914.html"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "伴走型相談支援",
+    "shortName": "妊娠８か月アンケート"
+  },
+  "localGovernmentLink": {
+    "title": "出産・子育て応援事業",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/104/104797.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "小平市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "別紙：伴走型相談支援及び出産・子育て応援給付金の一体的実施事業実施要綱「伴走型相談支援」（別添１）",
+    "regulationName": "伴走型相談支援及び出産・子育て応援給付金の一体的実施事業の実施について（子発1226第1号 令和4年12月26日）"
+  },
+  "relatedLink": [
+    {
+      "title": "【東京都】東京都出産応援事業～赤ちゃんファースト～（令和５年3月31日までに出産された方向け）（外部リンク）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/shussan/tokyo_shussanouen.html"
+    },
+    {
+      "title": "【子ども家庭庁】妊婦・子育て家庭への伴走型相談支援と経済的支援の一体的実施（外部リンク）",
+      "uri": "https://www.cfa.go.jp/policies/shussan-kosodate/"
+    },
+    {
+      "title": "【東京都】出産・子育て応援事業～赤ちゃんファースト～（令和5年4月1日以降に出産される方向け）（外部リンク）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/shussan/tokyo_shussankosodateouen.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "すべての妊婦さんと子育て家庭が安心して出産・子育てができるように、妊娠から出産・子育てまでの一貫した「伴走型相談支援」を実施しています。",
+  "support": {
+    "description": "小平市では伴走型相談支援として、妊娠8か月ごろに子育て支援アプリを活用して、妊娠8か月アンケートを実施しています。",
+    "materiallySupport": "妊娠8か月アンケート",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-04-03",
+  "useConsiderationFlag": false,
+  "utilization": "小平市子育て支援アプリをダウンロードのうえ、出産予定日やお子さまの誕生日などの会員情報を必ずご登録ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

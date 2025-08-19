@@ -1,0 +1,118 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子育て支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM805"
+  },
+  "belongings": null,
+  "capacity": "|施設名称|所在地|電話番号|定員|<|<|<|<|<|連携施設|受入人数|\n|^|^|^|0歳|1歳|2歳|合計|地域枠数|延長保育|^|^|\n|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|\n|アゼリーアネックス保育園;https://koujukai.azalee.or.jp/childcare/anex-nursery/|大杉2丁目10番16号|03-5607-7860|5|7|7|19|11|9|アゼリー保育園;http://hoikuen.azalee.or.jp/|7|\n|江東園つばき保育園;http://www.kotoen.or.jp/jigyou/tubakihoiku.html|春江町2丁目5番15号|03-5664-0245|3|8|8|19|15|9|江戸川保育園;http://edogawa-hoikuen.com/|2|\n|^|^|^|^|^|^|^|^|^|おひさま保育園|6|\n|タムスわんぱく保育園瑞江;https://mizue-hoikuen.tums.jp/|瑞江2丁目22番12号|03-5664-6888|15|15|15|45|12|3|聖明幼稚園;http://www.kinder.jp/seimei-k/|4|",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部子育て支援課",
+    "contactPhone": null,
+    "contactUrl": "https://faq.city.edogawa.tokyo.jp/cgi-bin/faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "地域枠の入園の申し込み手続きや利用者負担額（保育料）は認可保育園と同様です。保育内容等の詳細は、施設に直接お問い合わせください。\n卒園後、連携施設への入園を希望する場合は、受け入れ人数の範囲内で優先的に入園することができます。\n連携施設への入園についてご不明な点は、各事業所内保育所までお問い合わせください。\n\n事業所内保育所一覧\n|施設名称|所在地|電話番号|定員|<|<|<|<|<|連携施設|受入人数|\n|^|^|^|0歳|1歳|2歳|合計|地域枠数|延長保育|^|^|\n|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|\n|アゼリーアネックス保育園;https://koujukai.azalee.or.jp/childcare/anex-nursery/|大杉2丁目10番16号|03-5607-7860|5|7|7|19|11|9|アゼリー保育園;http://hoikuen.azalee.or.jp/|7|\n|江東園つばき保育園;http://www.kotoen.or.jp/jigyou/tubakihoiku.html|春江町2丁目5番15号|03-5664-0245|3|8|8|19|15|9|江戸川保育園;http://edogawa-hoikuen.com/|2|\n|^|^|^|^|^|^|^|^|^|おひさま保育園|6|\n|タムスわんぱく保育園瑞江;https://mizue-hoikuen.tums.jp/|瑞江2丁目22番12号|03-5664-6888|15|15|15|45|12|3|聖明幼稚園;http://www.kinder.jp/seimei-k/|4|",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "|施設名称|所在地|電話番号|定員|<|<|<|<|<|連携施設|受入人数|\n|^|^|^|0歳|1歳|2歳|合計|地域枠数|延長保育|^|^|\n|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|\n|アゼリーアネックス保育園;https://koujukai.azalee.or.jp/childcare/anex-nursery/|大杉2丁目10番16号|03-5607-7860|5|7|7|19|11|9|アゼリー保育園;http://hoikuen.azalee.or.jp/|7|\n|江東園つばき保育園;http://www.kotoen.or.jp/jigyou/tubakihoiku.html|春江町2丁目5番15号|03-5664-0245|3|8|8|19|15|9|江戸川保育園;http://edogawa-hoikuen.com/|2|\n|^|^|^|^|^|^|^|^|^|おひさま保育園|6|\n|タムスわんぱく保育園瑞江;https://mizue-hoikuen.tums.jp/|瑞江2丁目22番12号|03-5664-6888|15|15|15|45|12|3|聖明幼稚園;http://www.kinder.jp/seimei-k/|4|",
+    "implementationName": "|施設名称|所在地|電話番号|定員|<|<|<|<|<|連携施設|受入人数|\n|^|^|^|0歳|1歳|2歳|合計|地域枠数|延長保育|^|^|\n|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|\n|アゼリーアネックス保育園;https://koujukai.azalee.or.jp/childcare/anex-nursery/|大杉2丁目10番16号|03-5607-7860|5|7|7|19|11|9|アゼリー保育園;http://hoikuen.azalee.or.jp/|7|\n|江東園つばき保育園;http://www.kotoen.or.jp/jigyou/tubakihoiku.html|春江町2丁目5番15号|03-5664-0245|3|8|8|19|15|9|江戸川保育園;http://edogawa-hoikuen.com/|2|\n|^|^|^|^|^|^|^|^|^|おひさま保育園|6|\n|タムスわんぱく保育園瑞江;https://mizue-hoikuen.tums.jp/|瑞江2丁目22番12号|03-5664-6888|15|15|15|45|12|3|聖明幼稚園;http://www.kinder.jp/seimei-k/|4|"
+  },
+  "institutionName": {
+    "canonicalName": "事業所内保育施設一覧",
+    "shortName": "事業所内保育所"
+  },
+  "localGovernmentLink": {
+    "title": "事業所内保育所",
+    "uri": "https://www.city.edogawa.tokyo.jp/e047/kuseijoho/gaiyo/shisetsuguide/bunya/kosodate/jigyoshonai.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "小規模保育所とは、少人数（定員6～19人）の0歳から2歳までのお子さんを対象に家庭的保育に近い雰囲気のもと、きめ細やかな保育を行う施設です。入園の申し込み手続きや利用者負担額（保育料）は認可保育園と同様です。保育内容等の詳細は、施設に直接お問い合わせください。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": null,
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": null
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "従業員の子どもと地域の子ども"
+  },
+  "updateDate": "2022-08-02",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

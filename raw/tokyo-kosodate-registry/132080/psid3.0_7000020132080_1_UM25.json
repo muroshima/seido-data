@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "132080;調布市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども生活部子ども政策課 ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020132080",
+    "psid": "psid3.0+7000020132080+1+UM25"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-499-6101",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども生活部子ども政策課",
+    "contactPhone": "042-481-7106,042-481-7757",
+    "contactUrl": "https://www.city.chofu.lg.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ベビーシッター利用支援事業(一時預かり利用支援）\n日常生活上の突発的な事情等により一時的にベビーシッターによる保育を必要とする保護者に対し、その利用料の一部を助成します。\n※事業者から請求される料金のうち「純然たる保育サービス提供対価」のみが対象",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": "2024-07-01",
+    "toHM": null,
+    "toYMD": "2025-03-31"
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "子ども生活部子ども政策課 "
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自のベビーシッター費用の助成",
+    "shortName": "ベビーシッター利用支援事業(一時預かり利用支援)"
+  },
+  "localGovernmentLink": {
+    "title": "ベビーシッター利用支援事業(一時預かり利用支援)",
+    "uri": "https://www.city.chofu.lg.jp/050010/p027102.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "調布市"
+  },
+  "procedureCounter": "子ども生活部子ども政策課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請方法\n申請書類を子ども政策課に御提出ください（窓口，郵送）。\n市様式（助成金交付申請書，利用内訳表）は市ホームページに掲載及び子ども政策課窓口(市役所3階)でお渡しいたします。\n領収書，利用明細書，ベビーシッター要件証明書はベビーシッター事業者が発行します。",
+  "procedurePeriod": {
+    "conditions": "申請スケジュール\n\t３か月に１回申請締切を設けています。年度により異なりますので，締切日はホームページをご確認ください。なお，年度の最終締め切り後にご提出いただく場合は助成が受けられませんのでご注意ください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "ベビーシッター利用支援事業(一時預かり利用支援)認定事業者一覧(東京都福祉局ホームページ)(外部リンク)",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/hoiku/bs/itijiazukarijigyoushalist.html"
+    },
+    {
+      "title": "ベビーシッターなどを利用するときの留意点(こども家庭庁ホームページ)(外部リンク)",
+      "uri": "https://www.cfa.go.jp/policies/hoiku/ninkagai/tsuuchi/babysitter"
+    },
+    {
+      "title": "幼児教育・保育の無償化",
+      "uri": "https://www.city.chofu.lg.jp/050020/p028000.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ベビーシッターを利用する際の費用の一部を負担する制度です｡",
+  "support": {
+    "description": "日常生活上の突発的な事情等により一時的にベビーシッターによる保育を必要とする保護者に対し、その利用料の一部を助成します。",
+    "materiallySupport": null,
+    "monetarySupport": "対象利用料\n事業者から請求される料金のうち「純然たる保育サービス提供対価」のみが対象（１時間あたりの上限額及び１年度あたりの上限利用時間あり。）"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "小学校3年生までの児童の保護者",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "利用日時点で市内に住所を有する小学校3年生までの児童の保護者"
+  },
+  "updateDate": "2024-07-13",
+  "useConsiderationFlag": false,
+  "utilization": "利用の流れ\n東京都の認定事業者から事業者を選び、直接利用契約を行います。その際に「東京都のベビーシッター利用支援事業(一時預かり利用支援)を活用したい」旨を必ず事業者にお伝えください。\nベビーシッターを利用し、利用料を直接事業者にお支払いください。また、事業者からベビーシッター要件証明書の交付を受けてください。\n申請書類を添えて助成金の申請を行います。\n助成金が指定の口座に振り込まれます。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

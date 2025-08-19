@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "132225;東久留米市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　児童青少年課　児童青少年係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132225",
+    "psid": "psid3.0+3000020132225+3+UM79"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都東久留米市本町3-3-1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　児童青少年課　児童青少年係",
+    "contactPhone": "042-470-7735",
+    "contactUrl": "https://www.city.higashikurume.lg.jp/shinseisho/gakudo/1001564.html",
+    "zipCode": "2038555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "東久留米市立学童保育所入所のしおり（令和7年度版）、児童調査表\n※令和7年4月1日から学童保育所を利用される方はこちらからダウンロードしてください。\n\n東久留米市立学童保育所入所のしおり（令和7年度版） （PDF 568.8KB）新しいウィンドウで開きます;https://www.city.higashikurume.lg.jp/_res/projects/default_project/_page_/001/001/564/r7shiori.pdf\n学童保育所　児童調査表（令和7年度版） （PDF 151.8KB）新しいウィンドウで開きます;https://www.city.higashikurume.lg.jp/_res/projects/default_project/_page_/001/001/564/r7jidotyosahyou.pdf\n【記入例】学童保育所　児童調査表（令和7年度版） （PDF 411.2KB）新しいウィンドウで開きます;https://www.city.higashikurume.lg.jp/_res/projects/default_project/_page_/001/001/564/r7jidotyousahyoukinyurei.pdf\n児童調査表記入上の注意点 （PDF 91.7KB）新しいウィンドウで開きます;https://www.city.higashikurume.lg.jp/_res/projects/default_project/_page_/001/001/564/r7kinyujyonotyuiten.pdf\n心身状況表（PDF91.1KB）新しいウィンドウで開きます;https://www.city.higashikurume.lg.jp/_res/projects/default_project/_page_/001/001/564/shinshinjyokyo.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "放課後児童クラブ",
+    "shortName": "学童保育所入所のしおり、児童調査表"
+  },
+  "localGovernmentLink": {
+    "title": "学童保育所入所のしおり、児童調査表",
+    "uri": "https://www.city.higashikurume.lg.jp/shinseisho/gakudo/1001564.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "東久留米市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第2項",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "東久留米市立学童保育所入所のしおり（令和7年度版） （PDF 568.8KB）新しいウィンドウで開きます",
+      "uri": "https://www.city.higashikurume.lg.jp/_res/projects/default_project/_page_/001/001/564/r7shiori.pdf"
+    },
+    {
+      "title": "児童調査表記入上の注意点 （PDF 91.7KB）新しいウィンドウで開きます",
+      "uri": "https://www.city.higashikurume.lg.jp/_res/projects/default_project/_page_/001/001/564/r7kinyujyonotyuiten.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "放課後児童クラブは、保護者が就労などにより、昼間家庭にいない小学校に就学しているお子さんに対し、適切な遊びおよび生活の場を与え、児童の健全な育成および保護者の就労と子育ての両立支援を図ることを目的としています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "005"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-03-31",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

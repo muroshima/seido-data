@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132187;福生市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "企画財政部　秘書広報課　広報広聴係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132187",
+    "psid": "psid3.0+8000020132187+5+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都福生市本町5",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "企画財政部　秘書広報課　広報広聴係",
+    "contactPhone": "042-551-1529",
+    "contactUrl": null,
+    "zipCode": "1978501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "非行問題やひきこもりなどお子さんに関する様々なお悩みについて、専門の相談員が相談を伺い一緒に考えていきます。\n\n相談日\n毎月第3金曜日 午前9時から午後4時30分\n\n※祝日にともなう閉庁日等の関係で、相談日を変更して実施する場合があります。\n\n今月・来月の市民相談日程;https://www.city.fussa.tokyo.jp/life/consultation/thismonth/index.html\n場所\n市役所1階1番　秘書広報課広報広聴係内第1相談室\n\n対象\n市内在住の方\n\n予約\n警視庁八王子少年センターへ\n電話：042-679-1082\n\n※相談日の前日までに予約が必要です。\n\n相談員\n八王子少年センター相談員",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "毎月第3金曜日 午前9時から午後4時30分\n\n※祝日にともなう閉庁日等の関係で、相談日を変更して実施する場合があります。\n\n今月・来月の市民相談日程;https://www.city.fussa.tokyo.jp/life/consultation/thismonth/index.html",
+    "fromHM": "09:00",
+    "fromYMD": null,
+    "toHM": "16:30",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "市役所1階1番　秘書広報課広報広聴係内第1相談室"
+  },
+  "institutionName": {
+    "canonicalName": "福生市の子育てに関する相談",
+    "shortName": "少年相談"
+  },
+  "localGovernmentLink": {
+    "title": "少年相談",
+    "uri": "https://www.city.fussa.tokyo.jp/life/consultation/1014288/1014413.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "福生市"
+  },
+  "procedureCounter": "警視庁八王子少年センターへ\n電話：042-679-1082",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "警視庁八王子少年センターへ\n電話：042-679-1082\n\n※相談日の前日までに予約が必要です。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "今月・来月の市民相談日程",
+      "uri": "https://www.city.fussa.tokyo.jp/life/consultation/thismonth/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "非行問題やひきこもりなどお子さんに関する様々なお悩みについて、専門の相談員が相談を伺い一緒に考えていきます。",
+  "support": {
+    "description": "非行問題やひきこもりなどお子さんに関する様々なお悩みについて、専門の相談員が相談を伺い一緒に考えていきます。",
+    "materiallySupport": "非行問題やひきこもりなどお子さんに関する様々なお悩みについて、専門の相談員が相談を伺い一緒に考えていきます。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "市内在住の方"
+  },
+  "updateDate": "2022-03-08",
+  "useConsiderationFlag": false,
+  "utilization": "警視庁八王子少年センターへ\n電話：042-679-1082\n\n※相談日の前日までに予約が必要です。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "毎月第3金曜日 午前9時から午後4時30分\n\n※祝日にともなう閉庁日等の関係で、相談日を変更して実施する場合があります。\n\n今月・来月の市民相談日程;https://www.city.fussa.tokyo.jp/life/consultation/thismonth/index.html",
+    "fromHM": "09:00",
+    "toHM": "16:30"
+  }
+}

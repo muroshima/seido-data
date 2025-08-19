@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132250;稲城市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども福祉部　おやこ包括支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132250",
+    "psid": "psid3.0+2000020132250+1+UM50"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "稲城市百村112番地の1（稲城市保健センター内）",
+    "contactComment": "ファクス：042-377-4944",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども福祉部　おやこ包括支援センター",
+    "contactPhone": "042-378-3434",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "6カ月から7カ月児健康診査\n更新日：2020年12月1日\n対象\n満6カ月から7カ月の乳児\n実施場所\n東京都内の指定医療機関\n稲城市内で受診できる医療機関一覧（PDF：147KB）;https://www.city.inagi.tokyo.jp/kosodate/oyakohoukatsushien_center/nyuuyouzhikenshin/6_7kagetsuji.files/iryoukikanichiran-0210.pdf\n内容\n乳児期の満6カ月から7カ月の時期に1回、東京都内の指定医療機関で、受診票を利用し健康診査を受けることができます。\n受診票の配布\n保健センターで実施している3カ月から4カ月児健康診査の時に配布しています。\nなお、3カ月から4カ月児健康診査を受診後に稲城市に転入した方はお問い合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "https://www.city.inagi.tokyo.jp/kosodate/oyakohoukatsushien_center/nyuuyouzhikenshin/6_7kagetsuji.files/iryoukikanichiran-0210.pdf"
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+    "shortName": "6カ月から7カ月児健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "6カ月から7カ月児健康診査",
+    "uri": "https://www.city.inagi.tokyo.jp/kosodate/oyakohoukatsushien_center/nyuuyouzhikenshin/6_7kagetsuji.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "稲城市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "受診票の配布\n保健センターで実施している3カ月から4カ月児健康診査の時に配布しています。\nなお、3カ月から4カ月児健康診査を受診後に稲城市に転入した方はお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として6カ月から7カ月児健康診査を実施しています。",
+  "support": {
+    "description": "内容\n乳児期の満6カ月から7カ月の時期に1回、東京都内の指定医療機関で、受診票を利用し健康診査を受けることができます。\n受診票の配布\n保健センターで実施している3カ月から4カ月児健康診査の時に配布しています。\nなお、3カ月から4カ月児健康診査を受診後に稲城市に転入した方はお問い合わせください。",
+    "materiallySupport": "内容\n乳児期の満6カ月から7カ月の時期に1回、東京都内の指定医療機関で、受診票を利用し健康診査を受けることができます。\n受診票の配布\n保健センターで実施している3カ月から4カ月児健康診査の時に配布しています。\nなお、3カ月から4カ月児健康診査を受診後に稲城市に転入した方はお問い合わせください。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "満6カ月から7カ月の乳児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 6
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 7
+    },
+    "targetPersons": "対象\n満6カ月から7カ月の乳児"
+  },
+  "updateDate": "2020-12-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

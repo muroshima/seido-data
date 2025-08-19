@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "総務部人権・男女共同参画推進センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM61"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "江戸川区瑞江2丁目9番15号（人権・男女共同参画推進センター）",
+    "contactComment": "03-6231-8150（直通）",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "総務部人権・男女共同参画推進センター",
+    "contactPhone": "03-6231-8150",
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e090/kuseijoho/gaiyo/soshiki/soumu/jinken.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "所得制限があります。詳しくはお問い合わせください。",
+  "description": "電子申請（ぴったりサービス）について\n以下の届出については、電子申請（ぴったりサービス）から届出の受付も行っています。\n・ひとり親家庭民間賃貸住宅家賃助成の対象資格喪失の報告\n（注）現在、本助成金を受給されている方のみ利用できる手続きです。\n\n電子申請（ぴったりサービス）の利用に必要なもの\n・個人番号カード（マイナンバーカード）\n・「パソコン及びICカードリーダライタ」又は「マイナンバーカードに対応したスマートフォン」\n・電子証明書の暗証番号\n\n電子申請（ぴったりサービス）の手順について\n1.ひとり親家庭民間賃貸住宅家賃助成の対象資格喪失の報告（ぴったりサービス）（外部サイトへリンク）（別ウィンドウで開きます）を開く\nhttps://app.oss.myna.go.jp/Application/procdetail/initGet?kc9XUt9I8/CU41afS8P1OaaLxX/9+D2bXPzn80LiqLRKeI438ftq6avj3ZAt+N8ANT5DJOjI0U5PL91mG803CY2QAH4JNC0GqeXcgU/GCLnbBkGVRrODx6cRJLYELF/3TVppTgcDH4BGkyvrjd+IsA==\n2.マイナポータルにログイン（利用者登録）する\n3.入力案内に沿って申請\n\n（注）申請内容に確認事項が発生した場合、電話にてご連絡させていただく場合がございます。ご了承ください。\n\n申請状況の確認について\n\nマイナポータルにログイン（利用者登録）してから電子申請を行うと、手続きの処理状況（処理中、完了等）を確認できます。\nまた、ログイン（利用者登録）時にメールアドレスの登録をすると、区担当部署が手続きの処理状況を変更した際、登録したメールアドレスに通知が届きます。\n\n使い方（外部サイトへリンク）（別ウィンドウで開きます）\nhttps://img.myna.go.jp/manual/sitemap.html\n\n（注）ログインせずに電子申請を行った場合、手続きの申請状況を確認することはできません。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "ひとり親家庭民間賃貸住宅家賃助成の対象資格喪失の報告",
+      "uri": "https://app.oss.myna.go.jp/Application/procdetail/initGet?kc9XUt9I8/CU41afS8P1OaaLxX/9+D2bXPzn80LiqLRKeI438ftq6avj3ZAt+N8ANT5DJOjI0U5PL91mG803CY2QAH4JNC0GqeXcgU/GCLnbBkGVRrODx6cRJLYELF/3TVppTgcDH4BGkyvrjd+IsA=="
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自のひとり親の方への金銭的支援",
+    "shortName": "ひとり親家庭民間賃貸住宅家賃等助成"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親家庭民間賃貸住宅家賃等助成",
+    "uri": "https://www.city.edogawa.tokyo.jp/e090/kosodate/kosodate/teateshien/shisaku/jutakuyachin.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "人権・男女共同参画推進センター相談啓発係\n住所：江戸川区瑞江2丁目9番15号（人権・男女共同参画推進センター）\n電話：03-6231-8150（直通）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第31条（母子家庭自立支援給付金）、第31条の10（父子家庭自立支援給付金）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭の世帯（18歳未満の児童とで構成する世帯）が、民間賃貸住宅に居住していて、老朽化による建物の取り壊しで家主から立ち退きを求められているとき、転居後の家賃などの一部を助成して、住まいの安定を図ります。（所得制限があります。詳しくはお問い合わせください。）",
+  "support": {
+    "description": "ひとり親家庭民間賃貸住宅家賃等助成",
+    "materiallySupport": "ひとり親家庭民間賃貸住宅家賃等助成",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "ひとり親家庭の世帯（18歳未満の児童とで構成する世帯）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "ひとり親家庭の世帯（18歳未満の児童とで構成する世帯）"
+  },
+  "updateDate": "2023-10-06",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

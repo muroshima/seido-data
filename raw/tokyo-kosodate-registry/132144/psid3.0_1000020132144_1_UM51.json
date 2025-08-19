@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132144;国分寺市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子育て相談室　母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132144",
+    "psid": "psid3.0+1000020132144+1+UM51"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-320-1181",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子育て相談室　母子保健係",
+    "contactPhone": "042-321-1801",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "体調等の理由で日程を変更する場合は、必ず下記問い合わせ先へ、ご連絡をお願いします。連絡なく別の日にお越しいただいても、受診できませんのでご了承ください。\n\n1歳6か月児健康診査（いずみ保健センターでの集団健診）\nお子様が1歳6か月を迎える月に、健診のお日にちと受付時間が表記された健診のご案内を発送しています。\n\n都合の悪い場合には、事前に日程変更のお電話をお願いします。\n\n（注釈）転入の方は、お手数ですが下記問い合わせ先へお電話をください。\n\n会場案内\nいずみ保健センター\n\n（注釈）ご来場の際はなるべく公共交通機関をご利用ください。\n\n対象者\n健診日に1歳6か月を迎えているお子さんとその保護者様（受診期限は、2歳になる前日の健診日までです）。\n\n（注釈）混雑緩和のため、付き添いの方はおひとりまでとさせていただいております。難しい場合はお電話でお問い合わせください。\n\n内容\nオリエンテーション・予診・身体計測・内科健診・歯科健診・はみがき相談・個別相談（保健・栄養・心理/希望者のみ）\n\n費用\n無料\n\n令和7年4月から令和8年3月の日程\n日程ごとの対象者と案内発送時期は目安です。対象者数により前後する場合がございますので、個別通知でご確認ください。\n\nお手元に受診票が届いていない方や転入された方でまだ健診を受けていない方は、お電話でお問い合わせください。\n\n|月|実施日|対象者（目安）|案内発送時期|\n|:----|:----|:----|:----|\n|4月|16日（水曜日）・25日（金曜日）|令和5年9月生まれ|3月上旬|\n|5月|14日（水曜日）・23日（金曜日）|令和5年10月生まれ|4月上旬|\n|6月|11日（水曜日）・27日（金曜日）|令和5年11月生まれ|5月上旬|\n|7月|2日（水曜日）・25日（金曜日）|令和5年12月生まれ|6月上旬|\n|8月|6日（水曜日）・22日（金曜日）|令和6年1月生まれ|7月上旬|\n|9月|10日（水曜日）・26日（金曜日）|令和6年2月生まれ|8月上旬|\n|10月|15日（水曜日）|令和6年3月生まれ|9月上旬|\n|11月|5日（水曜日）・21日（金曜日）|令和6年4月生まれ|10月上旬|\n|12月|3日（水曜日）・19日（金曜日）|令和6年5月生まれ|11月上旬|\n|1月|14日（水曜日）・23日（金曜日）|令和6年6月生まれ|12月上旬|\n|2月|4日（水曜日）・20日（金曜日）|令和6年7月生まれ|1月上旬|\n|3月|11日（水曜日）・27日（金曜日）|令和6年8月生まれ|2月上旬|\n\n（注釈）対象者の受診時期は前後する場合があります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "|月|実施日|対象者（目安）|案内発送時期|\n|:----|:----|:----|:----|\n|4月|17日（水曜日）・26日（金曜日）|令和4年9月生まれ|3月上旬|\n|5月|15日（水曜日）・24日（金曜日）|令和4年10月生まれ|4月上旬|\n|6月|19日（金曜日）・28日（金曜日）|令和4年11月生まれ|5月上旬|\n|7月|17日（水曜日）・26日（金曜日）|令和4年12月生まれ|6月上旬|\n|8月|21日（水曜日）・30日（金曜日）|令和5年1月生まれ|7月上旬|\n|9月|18日（水曜日）・27日（金曜日）|令和5年2月生まれ|8月上旬|\n|10月|16日（水曜日）・25日（金曜日）|令和5年3月生まれ|9月上旬|\n|11月|20日（水曜日）・22日（金曜日）|令和5年4月生まれ|10月上旬|\n|12月|18日（水曜日）・20日（金曜日）|令和5年5月生まれ|11月上旬|\n|1月|15日（水曜日）・24日（金曜日）|令和5年6月生まれ|12月上旬|\n|2月|19日（水曜日）・28日（金曜日）|令和5年7月生まれ|1月上旬|\n|3月|19日（水曜日）・21日（金曜日）|令和5年8月生まれ|2月上旬|\n",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "いずみ保健センター"
+  },
+  "institutionName": {
+    "canonicalName": "1歳6か月児健康診査",
+    "shortName": "1歳6か月児健康診査（令和7年度）"
+  },
+  "localGovernmentLink": {
+    "title": "1歳6か月児健康診査（令和6年度）",
+    "uri": "https://www.city.kokubunji.tokyo.jp/kurashi/kodomo/kenkou/1012503/1025402.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "国分寺市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "個別通知",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2条（健康診査の種類）",
+    "regulationName": "国分寺市母子健康診査の実施に関する規則"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "1歳6か月の頃は乳児期から幼児期に移行する大切な時期です。国分寺市では1歳6か月児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+  "support": {
+    "description": "オリエンテーション・予診・身体計測・内科健診・歯科健診・はみがき相談・個別相談（保健・栄養・心理/希望者のみ）",
+    "materiallySupport": "オリエンテーション・予診・身体計測・内科健診・歯科健診・はみがき相談・個別相談（保健・栄養・心理/希望者のみ）",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "健診日に1歳6か月を迎えているお子さん",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": 6
+    },
+    "lessThan": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "健診日に1歳6か月を迎えているお子さんとその保護者様（受診期限は、2歳になる前日の健診日までです）。"
+  },
+  "updateDate": "2025/03/31",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": "12:20",
+    "toHM": "15:30"
+  }
+}

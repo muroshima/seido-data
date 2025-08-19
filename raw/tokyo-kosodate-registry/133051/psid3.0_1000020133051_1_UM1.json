@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "133051;日の出町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センター　相談係（母子保健担当）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133051",
+    "psid": "psid3.0+1000020133051+1+UM1"
+  },
+  "belongings": "届出人は認印をお持ちください¥n¥n＊代理申請の場合は、委任状と代理人の本人確認書類が必要です",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡日の出町大字平井2780番地",
+    "contactComment": "ファクス: 042-597-6177,役場開庁時間午前8時30分から午後5時15分(土曜・日曜・祝日・年末年始を除く)",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭センター　相談係（母子保健担当）",
+    "contactPhone": "042-588-4310",
+    "contactUrl": null,
+    "zipCode": "1900192"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊娠届（母子手帳・母子健康バックの交付）¥n妊娠したら妊娠届を出し、母子健康手帳の交付を受けましょう。母子健康手帳は、妊娠経過や出産の状況、お子さんの成長、予防接種などの記録をする大切なものです。また、この手帳と一緒に妊婦健康診査受診票などが入った「母と子の保健バッグ」をお渡しします。¥n¥n・妊娠した方一人ひとりに安心して出産をしていただくため、保健師との面接を行います¥n・面接時間は、30分程度です¥n・本人・代理人ともに届出できます。届出人は認印をお持ちください¥n・妊娠届出書（こども家庭センターにあります）に、週数・出産予定日・検査を受けた医療機関名を記入していただきますので、ご確認の上お越しください¥n＊保健師が不在の時がありますので、事前に下記の問い合わせ先にご連絡ください¥n¥n届け出の際の必要書類¥n・マイナンバーカード¥n・顔写真付きの本人確認書類（マイナンバーカード、運転免許証など）¥n＊マイナンバーカードをお持ちの方は本人確認書類の必要はありません¥n＊上記がない方はご相談ください¥n＊代理申請の場合は、委任状と代理人の本人確認書類が必要です¥n委任状¥n¥n （ファイル名：boshitechouininjyou.pdf サイズ：43.37KB）;https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000001/1943/boshitechouininjyou.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊娠の届出・母子健康手帳の交付",
+    "shortName": "妊娠届（母子手帳・母子健康バックの交付）"
+  },
+  "localGovernmentLink": {
+    "title": "妊娠から出産まで",
+    "uri": "https://www.town.hinode.tokyo.jp/0000001943.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "日の出町"
+  },
+  "procedureCounter": "こども家庭センター　相談係（母子保健担当）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "事前に下記の問い合わせ先にご連絡ください¥n日の出町役場こども家庭センター　相談係（母子保健担当）電話  042-588-4310",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "本人・代理人ともに届出できます。届出人は認印をお持ちください",
+  "regulation": {
+    "regulationArticle": "第15条（妊娠の届出）、第16条（母子健康手帳）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠がわかったら妊娠の届出をしてください。妊娠の届出をした妊婦さんに母子健康手帳を交付します。母子健康手帳は、妊娠からお子さんが小学校に入学するまでの、母と子の健康の記録です。育児、予防接種、健康診査などの際に必要となります。",
+  "support": {
+    "description": "母子手帳・母子健康バックの交付¥n妊娠した方一人ひとりに安心して出産をしていただくため、保健師との面接を行います",
+    "materiallySupport": "母子手帳・母子健康バックの交付¥n妊娠した方一人ひとりに安心して出産をしていただくため、保健師との面接を行います",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077",
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": "妊娠届出書（こども家庭センターにあります）に、週数・出産予定日・検査を受けた医療機関名を記入していただきますので、ご確認の上お越しください",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

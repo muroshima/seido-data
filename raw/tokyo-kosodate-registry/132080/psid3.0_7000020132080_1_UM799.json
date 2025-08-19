@@ -1,0 +1,130 @@
+{
+  "area": {
+    "areaCode": "132080;調布市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "調布市子ども生活部子ども政策課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020132080",
+    "psid": "psid3.0+7000020132080+1+UM799"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "調布市子ども生活部子ども政策課",
+    "contactPhone": "電話番号：042-481-7105・7106・7757",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "すこやかの事業について、詳しくはホームページをご覧ください。\n「子ども家庭支援センターすこやか」ホームページ(外部リンク);https://jigyodan-chofu.com/sukoyaka/\n\n広場開放事業(屋根のある公園)\n親子で自由に遊べます。ボールプールや積み木等のおもちゃもたくさんあります。\n\n乳幼児交流事業\n親子で楽しく遊べる場、仲間づくりの場を提供しています。\n\n子ども・家庭総合相談\n子育てに関する悩み(子どもの発達・発育・行動等)の相談を、専門の相談員がお受けします。\n\n子どもショートステイ事業\n保護者が出張や出産などの時にお子様を預けることができます。\n\nすこやか保育\nお子様を日中お預かりします。利用の理由は問いません。\n\nトワイライトステイ事業\n仕事などで恒常的に保護者の帰宅が遅い場合、お子様をお預かりします。\n\nファミリー・サポート・センター事業\n保育等の援助を受けたい方(依頼会員)と援助できる方(協力会員)とが相互に助け合うシステムです。アドバイザーが、会員のニーズに合わせてコーディネイトします。\n\n産前・産後支援ヘルパー事業(ベイビーすこやか)\n産前・産後において、家事や育児のお手伝いを希望される方にヘルパーを派遣します。\n\n学習事業(エンゼル大学)\n子育てや子どもに関する知識を得るため、子どもの生活・子どもとの過ごし方などの身近なテーマでわかりやすい講座を行っています。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "第3土曜日とその翌日、年末年始(12月29日から1月4日まで)",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "調布市国領町3-1-38ココスクエア2階",
+    "implementationName": "子ども家庭支援センターすこやか"
+  },
+  "institutionName": {
+    "canonicalName": "こども家庭センター",
+    "shortName": "子ども家庭支援センターすこやか"
+  },
+  "localGovernmentLink": {
+    "title": "子ども家庭支援センターすこやか",
+    "uri": "https://www.city.chofu.lg.jp/050010/p027080.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/21",
+    "updater": "調布市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "「子ども家庭支援センターすこやか」ホームページ",
+      "uri": "https://jigyodan-chofu.com/sukoyaka/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "調布市の【子ども家庭支援センターすこやか】では、18歳までのお子さんとその保護者の方の総合相談や子育て情報の提供のほか、交流事業、一時預かり事業などの子育て支援事業を行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "18歳までのお子さんとその保護者"
+  },
+  "updateDate": "2023/09/11",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": "09:00",
+    "toHM": "17:00"
+  }
+}

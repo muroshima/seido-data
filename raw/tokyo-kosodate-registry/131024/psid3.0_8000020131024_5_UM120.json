@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131024;中央区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉保健部子育て支援課子育て支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131024",
+    "psid": "psid3.0+8000020131024+5+UM120"
+  },
+  "belongings": "乳幼児医療証（マル乳医療証）又は子ども医療証（マル子医療証）を入園窓口で提示\n\n注記：高校生等医療証（マル青医療証）は助成対象外です。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "築地一丁目1番1号　本庁舎6階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉保健部子育て支援課子育て支援係",
+    "contactPhone": "03-6278-8403,03-6278-8421",
+    "contactUrl": null,
+    "zipCode": "1048404"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "親子で親しむ浜離宮\n概要\n一年を通じて季節ごとの花が咲き、緑あふれる浜離宮恩賜庭園で自然に親しみ、親子でゆっくりとした時間を満喫してもらうため、子どもと同伴する保護者等の入場料を区が負担します。\n\n無料入園期間及び開園時間\n令和6年5月7日（火曜日）から令和7年3月31日（月曜日）まで\n（令和6年12月29日から令和7年1月1日を除く）\n午前9時から午後5時まで\n浜離宮恩賜庭園の開園状況に準じます。\n開園状況については、下記浜離宮恩賜公園公式ホームページをご確認ください。\n\n浜離宮恩賜庭園公式ホームページ（外部サイトへリンク）;http://www.tokyo-park.or.jp/park/format/index028.html\n\n各出入口の利用時間\n大手門口及び中の御門口\n午前9時から午後5時まで（入園は午後4時30分まで）\n\n対象者\n中央区在住の0歳から中学生までの子どもがいる家庭\n\n入園料\n子ども1人につき保護者（同伴者）2人まで入園料無料\n注記：水上バスで来園の場合は対象外です。\n\n入園方法\n乳幼児医療証（マル乳医療証）又は子ども医療証（マル子医療証）を入園窓口で提示\n\n注記：高校生等医療証（マル青医療証）は助成対象外です。\n\n交通案内\n東京メトロ日比谷線、都営浅草線「東銀座駅」から徒歩14分\n都営大江戸線「築地市場駅」から徒歩7分\n庭園ご利用のお願い\n遊具（ボール、なわとびなど）を使用して遊ぶことはできません。\nご休憩等で敷物を利用する場合は、内堀広場・野外卓広場をご利用ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "令和6年12月29日から令和7年1月1日",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関するその他のこと",
+    "shortName": "親子で親しむ浜離宮"
+  },
+  "localGovernmentLink": {
+    "title": "親子で親しむ浜離宮",
+    "uri": "https://www.city.chuo.lg.jp/a0020/kosodate/kosodate/shien/asobu/oyakohamarikyu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "中央区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "乳幼児医療証（マル乳医療証）又は子ども医療証（マル子医療証）を入園窓口で提示\n注記：高校生等医療証（マル青医療証）は助成対象外です。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "一年を通じて季節ごとの花が咲き、緑あふれる浜離宮恩賜庭園で自然に親しみ、親子でゆっくりとした時間を満喫してもらうため、子どもと同伴する保護者等の入場料を区が負担します。",
+  "support": {
+    "description": "子ども1人につき保護者（同伴者）2人まで入園料無料\n注記：水上バスで来園の場合は対象外です。",
+    "materiallySupport": null,
+    "monetarySupport": "子ども1人につき保護者（同伴者）3人まで入園料無料\n注記：水上バスで来園の場合は対象外です。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "中央区在住の0歳から中学生までの子どもがいる家庭",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 15,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "中央区在住の0歳から中学生までの子どもがいる家庭"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "乳幼児医療証（マル乳医療証）又は子ども医療証（マル子医療証）を入園窓口で提示\n注記：高校生等医療証（マル青医療証）は助成対象外です。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": "09:00",
+    "toHM": "17:00"
+  }
+}

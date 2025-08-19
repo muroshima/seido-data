@@ -1,0 +1,186 @@
+{
+  "area": {
+    "areaCode": "132136;東村山市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132136",
+    "psid": "psid3.0+1000020132136+1+UM799"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東村山市本町1丁目2番地3号　いきいきプラザ3階",
+    "contactComment": null,
+    "contactEmail": "kikasete@m01.city.higashimurayama.tokyo.jp",
+    "contactEx": null,
+    "contactName": "子ども家庭支援センター",
+    "contactPhone": "電話：042-393-5111（市役所代表）,相談専用電話：042-390-2271",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子ども家庭支援センター\nページ番号：17221\n子ども家庭支援センターは、あらゆる相談を受けています。\n「どこに相談したらいいか分からない」\n「ちょっと話を聞いてほしい」など、\nお話を伺いながら、必要に応じて各種情報提供や専門機関やサービスの紹介をします。\n子どものことで心配ごとや気になること、何でも相談できる窓口です。どうぞお気軽に相談ください。　\n\n地域活動室\n保護者のかたが就労や通院で週1から週3だけ保育が必要な場合または病気や出産等で入院するなど家庭での保育が一時的に困難となった場合に日中お子さんをお預かりする制度です。\n【こども家庭庁】「親子のための相談LINE」をご利用ください\n子ども家庭支援センターの案内\nhttps://www.city.higashimurayama.tokyo.jp/kosodate/sodan/kosodate/images/index_IMG_0905.JPG\n受付カウンター\nhttps://www.city.higashimurayama.tokyo.jp/kosodate/sodan/kosodate/images/index_IMG_0911.JPG\n子育て情報コーナー\nhttps://www.city.higashimurayama.tokyo.jp/kosodate/sodan/kosodate/images/index_IMG_0907.JPG\nラウンジ\n受付カウンターすぐ近くに子育て情報関連のリーフレットやパンフレット等を集めた棚と、自由にくつろいでいただける共有スペースも設けてあります。\n\n地域活動室\n市内の子育てサークルや子育て支援活動を行っているNPO団体等にご利用いただける活動室を設けています。\n\n所在地\nファクス：042-390-2270\n\nご相談の方はこちら\n\n開所時間\n\n交通案内\nグリーンバス東村山市役所下車（東村山市役所へは平日の9時から午後5時の間のみ運行しています。）\n東村山駅東口から徒歩約12分\n久米川駅北口から徒歩約7分\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "土曜・日曜・祝日・年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "東村山市本町1丁目2番地3号　いきいきプラザ3階",
+    "implementationName": "子ども家庭支援センター"
+  },
+  "institutionName": {
+    "canonicalName": "こども家庭センター",
+    "shortName": "子ども家庭支援センター"
+  },
+  "localGovernmentLink": {
+    "title": "子ども家庭支援センター",
+    "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/sodan/kosodate/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/21",
+    "updater": "東村山市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "市役所、いきいきプラザ",
+      "uri": "https://www.city.higashimurayama.tokyo.jp/shisetsu/shi/shi/index.html"
+    },
+    {
+      "title": "要保護児童対策地域協議会",
+      "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/sodan/kosodate/youtaikyo2.html"
+    },
+    {
+      "title": "体罰等によらない子育てのために",
+      "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/sodan/kosodate/kodomokatei2070.html"
+    },
+    {
+      "title": "一時保育",
+      "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/shien/ichiji/ichijihoiku.html"
+    },
+    {
+      "title": "子ども相談室",
+      "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/gakko/sodan/kodomosoudanshitsu.html"
+    },
+    {
+      "title": "【こども家庭庁】「親子のための相談LINE」をご利用ください",
+      "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/sodan/kosodate/kodomokatei20190625.html"
+    },
+    {
+      "title": "ひとりで悩まずに、誰かに相談してみませんか",
+      "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/sodan/kosodate/sougou.html"
+    },
+    {
+      "title": "児童虐待防止（相談・連絡先）",
+      "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/sodan/kosodate/gyakutaibousi.html"
+    },
+    {
+      "title": "子どもショートステイ",
+      "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/sodan/kosodate/sho-tosutei.html"
+    },
+    {
+      "title": "リンク集",
+      "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/sodan/kosodate/linku.html"
+    },
+    {
+      "title": "児童虐待かなと思ったら、189番（いちはやく）",
+      "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/sodan/kosodate/kodomokatei20180611.html"
+    },
+    {
+      "title": "児童虐待の未然防止と早期発見に向けた情報共有等に関する協定",
+      "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/sodan/kosodate/jidou-kyoutei.html"
+    },
+    {
+      "title": "子育てサークル",
+      "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/sodan/kosodate/sa-kuru.html"
+    },
+    {
+      "title": "児童虐待に対する取り組み",
+      "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/sodan/kosodate/kokasen.html"
+    },
+    {
+      "title": "地域活動室",
+      "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/sodan/kosodate/tiikiriyou/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "東村山市の【子ども家庭支援センター】では、全ての妊産婦・子育て家庭に対する相談等への対応、サポートプランに基づく妊産婦の健康やこどもの養育に関する支援などを行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "0歳から18歳未満の子ども自身、その保護者や家族・関係者、子どもに関わる個人・グループ"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜から金曜",
+    "fromHM": "09:00",
+    "toHM": "17:00"
+  }
+}

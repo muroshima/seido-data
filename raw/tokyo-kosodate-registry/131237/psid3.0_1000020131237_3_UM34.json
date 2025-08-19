@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部健康サービス課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+3+UM34"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部健康サービス課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊娠や出産に関する様々な悩みについて、相談に応じています。\n\n妊娠したけれどちょっと不安、ちょっと心配…誰かに相談したい。\nなかなか妊娠できない、妊娠しても継続しない…。\n妊娠中の体調のことが気になっている。\n出産費用が心配。\n出産後の子育てに不安がある。\nひとりで悩まずお気軽にご相談ください。",
+  "electronicSubmission": true,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "各健康サポートセンターには保健師がいますので、お気軽にご相談ください。\n月曜日から金曜日（祝日・祭日、年末年始を除く）午前8時30分から午後5時\n\n・中央健康サポートセンター\n電話：03-5661-2467\n・小岩健康サポートセンター\n電話：03-3658-3171\n・東部健康サポートセンター\n電話：03-3678-6441\n・清新町健康サポートセンター\n電話：03-3878-1221\n・葛西健康サポートセンター\n電話：03-3688-0154\n・鹿骨健康サポートセンター\n電話：03-3678-8711\n・小松川健康サポートセンター\n電話：03-3683-5531\n・なぎさ健康サポートセンター\n電話：03-5675-2515"
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関するサポート",
+    "shortName": "妊娠・出産に関する相談"
+  },
+  "localGovernmentLink": {
+    "title": "妊娠・出産に関する相談",
+    "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/ninshinsoudan.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "妊娠届・親子健康手帳（母子健康手帳）;妊婦健診;ハローベビー教室;東京都妊活課（外部サイトへリンク）（別ウィンドウで開きます）",
+      "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/boshitecho.html;https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/ninpukenshin.html;https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/hellobaby.html;https://www.ninkatsuka.metro.tokyo.lg.jp/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠や出産に関する様々な悩みについて、相談に応じています。",
+  "support": {
+    "description": "健康サポートセンター\n妊娠相談ほっとライン\nLINE「妊娠したかも相談＠東京」\n妊産婦向け助産師オンライン相談\n不妊・不育ホットライン\n東京都女性のための健康ホットライン",
+    "materiallySupport": "健康サポートセンター\n妊娠相談ほっとライン\nLINE「妊娠したかも相談＠東京」\n妊産婦向け助産師オンライン相談\n不妊・不育ホットライン\n東京都女性のための健康ホットライン",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088",
+      "089",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象者記載なし"
+  },
+  "updateDate": "2023-08-08",
+  "useConsiderationFlag": false,
+  "utilization": "妊娠相談ほっとライン\n妊娠や出産に関する様々な悩みについて、専門の相談員が電話やメールで相談に応じています。\n月曜日から日曜日（元日を除く）午前10時から午後10時\n電話：03-5339-1133\n\nメール相談の方法、詳細は下記、東京都福祉保健局のホームページをご覧ください。\n\n妊娠相談ほっとライン（外部サイトへリンク）（別ウィンドウで開きます）\nhttp://www.fukushihoken.metro.tokyo.jp/kodomo/sodan/ninshin-hotline.html\n\nLINE「妊娠したかも相談＠東京」\n「妊娠したかも」「避妊に失敗したかも」「アフターピルの飲み方は？」などの質問や疑問、悩みや疑問に、チャットボット形式でお答えします。24時間365日、LINEで気軽に使えます。\n\n方法1：下記の二次元コードを読み取る。\nLINE相談二次元コード\n方法2：「ホーム」＞「友だち追加」＞「検索」でID「@ninshin_tokyo」を検索する。\n妊産婦向け助産師オンライン相談\nコロナ禍で不安や悩みを抱える妊産婦さんを対象に、東京都助産師会の助産師がオンラインで相談に応じています。相談は予約制です。\n\n開設期間：令和3年1月4日から令和6年3月31日まで\n\n相談時間\n\n月・水・金・土曜日　午前10時から午後5時\n毎月第2・第4日曜日　午前10時から午後3時\n年末年始（12月29日～1月3日）を除く\n1回30分要予約（30日前から2日前まで予約可能）\n予約、詳細は下記、東京都福祉保健局のホームページをご覧ください。\n\n妊産婦向け助産師オンライン相談（外部サイトへリンク）（別ウィンドウで開きます）\nhttps://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/ninsanpu-online.html\n\n不妊・不育ホットライン\n不妊症や不育症の悩みについて、専門の研修を受けたピアカウンセラーが相談に応じたり、検査や治療に関する情報提供を行っています。\n\n火曜日（祝日・年末年始を除く）午前10時から午後7時\n毎月1回土曜日　午前10時から午後4時まで（詳細は下記、東京都福祉保健局のホームページをご覧ください。）\n電話：03-3235-7455\n\n詳細は下記、東京都福祉保健局のホームページをご覧ください。\n\n不妊・不育ホットライン（外部サイトへリンク）（別ウィンドウで開きます）\nhttps://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/h_soudan.html\n\n東京都女性のための健康ホットライン\n思春期の悩みや更年期の不調、避妊に関すること、婦人科疾患など、年齢を問わず女性ならではのからだとこころの悩みに、看護師などの専門職が電話やメールでご相談に応じます。\n月曜日から金曜日（元日を除く）午前10時から午後4時\n電話：03-5339-1155\n\nメール相談の方法、詳細は下記、東京都福祉保健局のホームページをご覧ください。\n\n東京都女性のための健康ホットライン（外部サイトへリンク）（別ウィンドウで開きます）\nhttp://www.fukushihoken.metro.tokyo.jp/kodomo/sodan/w_soudan.html",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

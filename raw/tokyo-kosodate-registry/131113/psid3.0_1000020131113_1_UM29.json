@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "131113;大田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "各地域健康課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131113",
+    "psid": "psid3.0+1000020131113+1+UM29"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "大田区大森西一丁目12番1号,大田区雪谷大塚町4番6号,大田区蒲田本町二丁目1番1号,大田区東糀谷一丁目21番15号",
+    "contactComment": "FAX ：03-5764-0659,FAX ：03-3726-6331,FAX ：03-5713-0290,FAX ：03-6423-8838",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "各地域健康課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/c_chiikikenkou.html,大森地域健康課,調布地域健康課,蒲田地域健康課,糀谷・羽田地域健康課",
+    "contactPhone": "03-5764-0661,03-3726-4145,03-5713-1701,03-3743-4161",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "こどもの疾病\nページ番号：666623137\n更新日：2022年7月1日\n子どもの疾病に対する医療費助成\n18歳未満のお子さんが、次の疾病でお困りのとき、医療費を助成します。\n\n小児慢性特定疾病\nお問い合わせ先：各地域健康課\n\n下記の疾病の治療を受けている方の医療費を助成します。保護者の所得に応じて、一部自己負担があります。\n\n対象となる疾病：悪性新生物、慢性腎疾患、慢性呼吸器疾患、慢性心疾患、内分泌疾患、膠原病、糖尿病、先天性代謝異常、血液疾患、神経・筋疾患、慢性消化器疾患　等\n\n小児慢性特定疾病医療受給者証をお持ちで条件を満たす方については、小児慢性特定疾病児童日常生活用具給付の制度があります。詳しくはこちらをご確認ください。\n\n小児慢性特定疾病児童日常生活用具給付;https://www.city.ota.tokyo.jp/seikatsu/fukushi/shougai/seikatsushien/otetsudai/otetsudai/shounimansei.html\n\n療育給付\nお問い合わせ先：各地域健康課\n\n骨関節結核、その他の結核にかかっていて、入院が必要と認められる方。\n\n育成医療\nお問い合わせ先：各地域健康課\n\n肢体不自由、視覚障害、聴覚機能障害、平衡機能障害、音声、言語、そしゃく機能障害、心臓、腎臓、その他の内臓障害のため手術が必要であり、治療効果が確実に期待される方。指定医療機関で治療する場合、健康保険自己負担分を助成します。ただし、保護者の所得に応じ、一部負担があります。\n\n自立支援医療費自己負担上限額;https://www.city.ota.tokyo.jp/seikatsu/fukushi/shougai/iryo/iryou/ikuseiiryou.html\n\n小児精神障害\nお問い合わせ先：各地域健康課\n東京都健康局精神保健福祉課\n電話：03-5320-4462\n\n都立中部総合精神保健福祉センター\n電話：03-3302-7871\n（精神疾患により、精神病院に入院した方）\n\n大気汚染による疾病\nお問い合わせ先：健康医療政策課\n電話：03-5744-1246\n慢性気管支炎、気管支ぜん息、ぜん息性気管支炎、肺気しゅ、およびこれらの続発症にかかっていて、引き続き1年以上東京都内に住所を有する方（3歳未満は6か月）\nぜんそく児医療費助成の申請などの詳細;https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/josei/taikiosen.html\n\n未熟児のための養育医療\nお問い合わせ先：各地域健康課\n\n身体の発達が未熟のまま生まれた赤ちゃんで、規定の症状を有し、入院養育を必要とする場合は、健康保険自己負担分を助成します。ただし、保護者の所得に応じ、一部負担があります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "未熟児養育医療の給付",
+    "shortName": "未熟児のための養育医療"
+  },
+  "localGovernmentLink": {
+    "title": "こどもの疾病",
+    "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/iryo_josei/shippei.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "大田区"
+  },
+  "procedureCounter": "各地域健康課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "お問い合わせ先：各地域健康課",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第20条（養育医療）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "各地域健康課",
+      "uri": "https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/c_chiikikenkou.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "未熟児養育医療の給付とは、身体の発育が未熟なまま生まれ入院を必要とする乳児が、指定養育医療機関において入院治療を受ける場合に、その治療に要する医療費を公費により負担する制度です。ただし、世帯の所得税額に応じて、入院治療費の一部は自己負担となります。",
+  "support": {
+    "description": "健康保険自己負担分を助成します。ただし、保護者の所得に応じ、一部負担があります。",
+    "materiallySupport": null,
+    "monetarySupport": "健康保険自己負担分を助成します。ただし、保護者の所得に応じ、一部負担があります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "089"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "身体の発達が未熟のまま生まれた赤ちゃんで、規定の症状を有し、入院養育を必要とする場合"
+  },
+  "updateDate": "2022-07-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

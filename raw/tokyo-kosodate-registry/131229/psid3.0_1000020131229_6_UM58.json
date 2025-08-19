@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局学務課　給食保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+6+UM58"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区立石5-13-1 葛飾区役所4階 428番窓口",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "教育委員会事務局学務課　給食保健係",
+    "contactPhone": "03-5654-8461",
+    "contactUrl": null,
+    "zipCode": "1248555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の育児に関する金銭的支援",
+    "shortName": "学校給食費の完全無償化"
+  },
+  "localGovernmentLink": {
+    "title": "学校給食費",
+    "uri": "https://www.city.katsushika.lg.jp/kosodate/1000057/1002476/1028742.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": "在籍している学校",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "「葛飾区立小・中学校給食費補助金同意書兼委任状」を、在籍している学校に提出してください。「葛飾区立小・中学校給食費補助金同意書兼委任状」を期限までに提出されなかった場合、学校給食費は保護者負担となります。必ずご提出ください。\n※区立小・中学校に入学又は転入した際に提出をお願いします。\n※委任状は、児童・生徒1人につき1枚提出が必要です。\n※区立学校間で転校した場合は、転校先の学校に委任状を再度提出してください。\n※前年度以前に既に提出された委任状は、次年度以降も、その学校に在籍している期間は有効なものとして取り扱います。委任の取下げを希望する場合は、学校長へお申し出ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "葛飾区で、学校給食費の完全無償化を実施しています。",
+  "support": {
+    "description": "保護者の委任を受け、月ごとに各学校長が区へ補助金交付を申請します。\n申請内容を審査後、学校給食費相当の補助金を区が各学校長に交付します。\nそのため、委任状を提出した保護者は学校長に給食費を支払う必要はありません。\n※食物アレルギー対応などで給食を喫食しながら一部弁当を持参する場合、弁当代は補助の対象外となります。\n※毎日弁当を持参し、給食を全く食べないお子さんのいる保護者の方には、学校を通じて別途補助の案内を行います。",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "005"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "092"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "葛飾区立の小・中学校に在籍し、給食提供を受ける児童・生徒の保護者"
+  },
+  "updateDate": "2024-04-16",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

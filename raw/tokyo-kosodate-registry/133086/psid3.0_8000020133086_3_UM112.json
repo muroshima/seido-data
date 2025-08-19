@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "133086;奥多摩町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉保健課 子育て推進係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020133086",
+    "psid": "psid3.0+8000020133086+3+UM112"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "奥多摩町小丹波108（こども家庭センター）​​​​​​",
+    "contactComment": "FAX：0428-85-1300",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉保健課 子育て推進係",
+    "contactPhone": "0428-85-2611",
+    "contactUrl": "https://www.town.okutama.tokyo.jp/cgi-bin/inquiry.php/16?page_no=624",
+    "zipCode": "1980105"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "絵本といっしょ\nお子さんと一緒に絵本の世界を楽しみませんか\n「絵本といっしょ」は、毎月第2月曜日（祝日を除く）に、相談員が乳幼児向けの絵本の紹介や読み聞かせ、紙芝居、手遊び、ペープサートなどを行っています。\n地域の大人の方の参加も大歓迎！！予約の必要はありません。お気軽に覗きに来てください！\n＜会場と時間＞\n●会場：きこりん2階\n●時間：11時から11時40分\n＜2024年度開催予定日＞\n4月8日、5月13日、6月10日、7月8日、8月お休み（祝日）、9月9日、10月お休み（祝日）、\n11月11日、12月9日、1月お休み（祝日）、2月10日、3月10日\n＊＊4月8日のようす＊＊\nhttps://www.town.okutama.tokyo.jp/material/images/group/7/IMG_5408.JPG\n♪はじまるよ～♪手遊び上手だね～\nhttps://www.town.okutama.tokyo.jp/material/images/group/7/IMG_5416.JPG\n大きな絵本「だるまさんの」\nhttps://www.town.okutama.tokyo.jp/material/images/group/7/IMG_5422.JPG\nセンサリーボトルを作ってみよう！\nhttps://www.town.okutama.tokyo.jp/material/images/group/7/IMG_5427.JPG\nみんな笑顔✨✨✨",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "●時間：11時から11時40分\n\n＜2024年度開催予定日＞\n4月8日、5月13日、6月10日、7月8日、8月お休み（祝日）、9月9日、10月お休み（祝日）、11月11日、12月9日、1月お休み（祝日）、2月10日、3月10日",
+    "fromHM": "11:00",
+    "fromYMD": null,
+    "toHM": "11:40",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "きこりん2階"
+  },
+  "institutionName": {
+    "canonicalName": "子育て広場",
+    "shortName": "絵本といっしょ"
+  },
+  "localGovernmentLink": {
+    "title": "絵本といっしょ",
+    "uri": "https://www.town.okutama.tokyo.jp/1/fukushihokenka/kosodate_kyoiku/1/624.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-12",
+    "updater": "奥多摩町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第6項",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "奥多摩町内の子育てひろばは、小学校就学前のお子さんが安心して遊べるスペースがあり、子育て中の親子が気軽に集い、仲間づくりを通して子育てに関する相談や情報交換等を行う機会を提供しています。また、お子さんの年齢に応じた各種イベントなども行っています。\n（イベントの詳細については、奥多摩町サイトや市報などでお知らせしています。）",
+  "support": {
+    "description": "相談員が乳幼児向けの絵本の紹介や読み聞かせ、紙芝居、手遊び、ペープサートなどを行っています。",
+    "materiallySupport": "相談員が乳幼児向けの絵本の紹介や読み聞かせ、紙芝居、手遊び、ペープサートなどを行っています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "地域の大人の方の参加も大歓迎！！"
+  },
+  "updateDate": "2024-05-08",
+  "useConsiderationFlag": false,
+  "utilization": "予約の必要はありません。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

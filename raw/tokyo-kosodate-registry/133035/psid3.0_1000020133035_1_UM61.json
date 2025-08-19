@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "133035;瑞穂町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部 子育て応援課 子育て支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133035",
+    "psid": "psid3.0+1000020133035+1+UM61"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡瑞穂町大字箱根ケ崎2335番地",
+    "contactComment": "受付時間 平日の午前8時30分から午後5時まで",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部 子育て応援課 子育て支援係",
+    "contactPhone": "042-557-7624",
+    "contactUrl": "https://www.town.mizuho.tokyo.jp/inquiry/mailform130151.html?PAGE_NO=6252",
+    "zipCode": "1901292"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ひとり親家庭の「働きたい！」を応援します。\n仕事をするために必要な能力や経験を再確認しましょう。応募書類の書き方や面接のアドバイスもします。\n個別相談により自分に合った仕事は何か、今の仕事を長く続けるコツなどを客観的に見ていくお手伝いをします。\n必要な資格や技術を身に着けるための方法と、さまざまな制度の利用について情報提供します。資格によっては「母子家庭および父子家庭自立支援給付金事業」により、取り組みを助成します。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自のひとり親の方への金銭的支援",
+    "shortName": "ひとり親家庭に向けた支援（相談・自立支援）"
+  },
+  "localGovernmentLink": {
+    "title": "貸付・給付、就業支援　東京都の支援",
+    "uri": "https://www.town.mizuho.tokyo.jp/kosodate/011/p006252.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "瑞穂町"
+  },
+  "procedureCounter": "東京都西多摩福祉事務所\n電話0428-22-1168",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第31条（母子家庭自立支援給付金）、第31条の10（父子家庭自立支援給付金）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "・生活の不安や心配ごとなどご相談ください;・東京都西多摩福祉事務所 (外部リンク)",
+      "uri": "https://www.town.mizuho.tokyo.jp/kenkofukushi/005/p005504.html;https://www.fukushihoken.metro.tokyo.lg.jp/nishifuku/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭に向けた支援（相談・自立支援）として、瑞穂町にお住まいの児童扶養手当受給者の方に対して、それぞれの状況、ニーズ等に応じた『自立支援プログラム』を策定し、ハローワーク等の関係機関と連携を図ることにより、ひとり親家庭の就業を支援します。",
+  "support": {
+    "description": "ひとり親家庭の「働きたい！」を応援します。\n\n仕事をするために必要な能力や経験を再確認しましょう。応募書類の書き方や面接のアドバイスもします。\n\n個別相談により自分に合った仕事は何か、今の仕事を長く続けるコツなどを客観的に見ていくお手伝いをします。\n\n必要な資格や技術を身に着けるための方法と、さまざまな制度の利用について情報提供します。資格によっては「母子家庭および父子家庭自立支援給付金事業」により、取り組みを助成します。",
+    "materiallySupport": "ひとり親家庭の就業を支援します。_\n資格によっては「母子家庭および父子家庭自立支援給付金事業」により、取り組みを助成します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "瑞穂町にお住まいの児童扶養手当受給者の方"
+  },
+  "updateDate": "2022-04-15",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

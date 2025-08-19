@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子育て支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+2+UM80"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部子育て支援課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e047/kuseijoho/gaiyo/soshiki/kodomo/kosodate.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "私立幼稚園一覧・入園受け入れ状況\n入園については施設との直接契約となりますので、各私立幼稚園に直接お問い合わせください。\n私立幼稚園への入園・保育料などについて\nhttps://www.city.edogawa.tokyo.jp/e047/kosodate/kosodate/hoiku/nitijou/shiritsu.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "小松川1丁目2番11号\n平井6丁目17番30号\n大杉1丁目22番1号\n一之江2丁目11番6号\n東小松川2丁目17番14号\n松島4丁目34番2号\n西一之江2丁目28番18号\n西一之江1丁目3番22号\n西一之江3丁目33番1号\n松本2丁目18番5号\n一之江7丁目45番6号\n松江3丁目11番24号\n二之江町1379番地\n北葛西4丁目3番13号\n北葛西2丁目25番15号\n北葛西2丁目25番4号\n東葛西4丁目27番3号\n南葛西4丁目17番6号\n南葛西7丁目2番54号\n中葛西4丁目16番11号\n清新町1丁目1番40号\n清新町1丁目4番17号\n北小岩2丁目20番18号\n西小岩2丁目2番20号\n西小岩3丁目17番9号\n西小岩4丁目4番1号\n南小岩8丁目21番11号\n南篠崎4丁目20番22号\n江戸川3丁目31番地\n江戸川1丁目26番29号\n瑞江2丁目9番3号\n江戸川3丁目8番地1\n鹿骨3丁目8番3号\n篠崎町2丁目64番6号\n上篠崎1丁目22番11号\n上篠崎1丁目4番11号",
+    "implementationName": "地区別一覧\n記載されている受入状況は令和6年1月1日（月曜日）現在の状況です。\n直近の状況とは異なる場合がございますので、詳細については各園に直接お問い合わせください。\n（注）受入状況の表記について\n○：空き有り\n△：転入者等・要相談\n×：空き無し\n―：該当クラス無し\n\n■小松川地区\n小松川地区　入園受入状況\n|園名|所在地|電話|新制度|令和6年1月途中入園受入状況|<|<|<|令和6年4月新入園受入状況|<|<|<|\n|^|^|^|^|満3歳|3歳|4歳|5歳|満3歳|3歳|4歳|5歳|\n|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|\n|小松川めぐみ幼稚園http://www.megumi.ed.jp/komatugawa-top.html|小松川1丁目2番11号|03-3638-0050| |○|○|○|○|○|○|○|○|\n|明聖第一幼稚園http://meisei.main.jp/info/index.html|平井6丁目17番30号|03-3613-2633| |△|○|△|×|○|○|△|△|\n\n■中央地区\n中央地区　入園受入状況\n|園名|所在地|電話|新制度|令和6年1月途中入園受入状況|<|<|<|令和6年4月新入園受入状況|<|<|<|\n|^|^|^|^|満3歳|3歳|4歳|5歳|満3歳|3歳|4歳|5歳|\n|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|\n|大杉神明幼稚園http://www.eshiyo.com/yochien/oosugishinmei.htm|大杉1丁目22番1号|03-3652-7409| |○|○|○|○|○|○|〇|〇|\n|かんしち幼稚園http://www.ans.co.jp/k/kanshichi/|一之江2丁目11番6号|03-3651-3749| |ー|×|×|×|ー|〇|×|×|\n|源法寺幼稚園https://yochien.genpoji.jp/|東小松川2丁目17番14号|03-3653-9011| |○|○|○|○|○|○|○|○|\n|新小岩幼稚園http://www.shinkoiwa-kinder.com/|松島4丁目34番2号|03-3651-0963| |×|○|○|×|△|×|〇|△|\n|東一の江こども園http://www.hik.ed.jp/|西一之江2丁目28番18号|03-3653-4726|〇|×|×|△|×|△|△|×|△|\n|東小松川幼稚園https://higashi-komatsugawa.jp/|西一之江1丁目3番22号|03-3651-5705| |○|○|○|○|〇|〇|〇|〇|\n|松江ひかり幼稚園http://matsuehikari.kids.coocan.jp/|西一之江3丁目33番1号|03-3651-6877| |○|○|○|△|〇|〇|〇|△|\n|松本幼稚園http://matsumoto.ed.jp|松本2丁目18番5号|03-3654-6437|○|〇|○|〇|△|〇|〇|〇|△|\n|みなもと幼稚園http://www.eshiyo.com/yochien/minamoto.htm|一之江7丁目45番6号|03-3656-4764|○|ー|○|○|×|ー|〇|〇|〇|\n|明聖第二幼稚園http://meisei.main.jp/corner36/index.html|松江3丁目11番24号|03-3654-8737| |○|○|○|×|〇|〇|〇|〇|\n\n■葛西地区\n葛西地区　入園受入状況\n|園名|所在地|電話|新制度|令和6年1月途中入園受入状況|<|<|<|令和6年4月新入園受入状況|<|<|<|\n|^|^|^|^|満3歳|3歳|4歳|5歳|満3歳|3歳|4歳|5歳|\n|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|\n|二ノ江幼稚園http://ninoeyouchien.floppy.jp/|二之江町1379番地|03-3687-6392| |○|○|○|○|〇|〇|〇|〇|\n|宇喜田幼稚園http://www.ukita-yochien.com/|北葛西4丁目3番13号|03-3688-6336|○|ー|ー|×|×|ー|ー|△|×|\n|江戸川めぐみ幼稚園http://www.megumi.ed.jp/edogawa-top.html|北葛西2丁目25番15号|03-3688-7771| |×|△|×|×|〇|〇|×|×|\n|葛西めぐみこども園http://www.megumi.ed.jp/kasai-top.html|北葛西2丁目25番4号|03-5667-1170|〇|ー|×|×|×|ー|〇|〇|〇|\n|杉の子育英幼稚園http://www.suginoko-ikuei.ed.jp/|東葛西4丁目27番3号|03-5696-5560| |×|×|×|×|×|△|△|△|\n|聖いずみ幼稚園http://www.seiizumi-kids.jp/|南葛西4丁目17番6号|03-3688-5550| |〇|〇|〇|×|〇|〇|〇|×|\n|なぎさ幼稚園http://nagisa.azalee.or.jp/|南葛西7丁目2番54号|03-3675-3370| |×|×|×|×|×|〇|×|×|\n|ばとうばし幼稚園http://www.batoubashi.ed.jp/|中葛西4丁目16番11号|03-3689-4413|○|ー|△|△|×|ー|△|△|△|\n|江戸川幼稚園http://edogawa.azalee.or.jp/|清新町1丁目1番40号|03-3675-3374| |×|×|×|×|△|△|〇|〇|\n|清新めぐみ幼稚園http://www.megumi.ed.jp/seishin-top.html|清新町1丁目4番17号|03-3878-1201| |ー|×|〇|〇|ー|〇|〇|〇|\n\n■小岩地区\n小岩地区　入園受入状況\n|園名|所在地|電話|新制度|令和6年1月途中入園受入状況|<|<|<|令和6年4月新入園受入状況|<|<|<|\n|^|^|^|^|満3歳|3歳|4歳|5歳|満3歳|3歳|4歳|5歳|\n|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|\n|江戸川双葉幼稚園http://www.futaba.ac.jp/|北小岩2丁目20番18号|03-3657-1959|○|ー|×|×|〇|ー|〇|×|×|\n|上一色幼稚園https://kamiisshiki.com/|西小岩2丁目2番20号|03-3657-2318|○|〇|○|○|×|△|〇|〇|△|\n|西小岩幼稚園http://nishikoiwa.ed.jp/|西小岩3丁目17番9号|03-3657-5333|○|○|○|△|×|○|○|○|△|\n|レジナ幼稚園https://regina-kg.ed.jp/|西小岩4丁目4番1号|03-3659-3776|○|○|△|△|△|○|○|△|△|\n|江戸川白百合幼稚園http://edogawa-shirayuri.ed.jp/|南小岩8丁目21番11号|03-3657-1818|○|ー|○|×|×|ー|○|△|×|\n\n■東部地区\n東部地区　入園受入状況\n|園名|所在地|電話|新制度|令和6年1月途中入園受入状況|<|<|<|令和6年4月新入園受入状況|<|<|<|\n|^|^|^|^|満3歳|3歳|4歳|5歳|満3歳|3歳|4歳|5歳|\n|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|\n|暁幼稚園https://www.edogawa-akatsuki.ed.jp/|南篠崎4丁目20番22号|03-3670-4976| |○|△|△|△|○|△|△|△|\n|浄興幼稚園https://jyoukouyouchien.com/|江戸川3丁目31番地|03-3679-2649| |×|○|○|○|×|×|○|○|\n|聖明幼稚園http://www.kinder.jp/seimei-k/|江戸川1丁目26番29号|03-3670-6996| |○|○|○|○|○|○|○|○|\n|明聖第三幼稚園http://meisei.main.jp/corner35/index.html|瑞江2丁目9番3号|03-3670-0274| |×|○|○|×|○|○|○|×|\n|明福寺ルンビニー学園幼稚園http://lumbi.ed.jp/|江戸川3丁目8番地1|03-3670-0134| |×|○|○|○|○|○|○|○|\n\n■鹿骨地区\n鹿骨地区　受入状況\n|園名|所在地|電話|新制度|令和6年1月途中入園受入状況|<|<|<|令和6年4月新入園受入状況|<|<|<|\n|^|^|^|^|満3歳|3歳|4歳|5歳|満3歳|3歳|4歳|5歳|\n|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|\n|こじか幼稚園http://www.kojika-youchien.jp/|鹿骨3丁目8番3号|03-3670-3715|○|ー|○|○|○|ー|○|○|○|\n|篠崎若葉幼稚園（認定こども園）http://www.shinozaki.ed.jp/|篠崎町2丁目64番6号|03-3670-9495|○|×|△|○|○|○|○|○|○|\n|浅間幼稚園http://sengen-youchien.com/|上篠崎1丁目22番11号|03-3670-1687| |×|×|×|×|×|×|△|×|\n|第二押上幼稚園http://www.oshiage2.jp/|上篠崎1丁目4番11号|03-3670-1890|○|〇|〇|○|×|○|○|○|○|\n"
+  },
+  "institutionName": {
+    "canonicalName": "幼稚園の利用について",
+    "shortName": "私立幼稚園"
+  },
+  "localGovernmentLink": {
+    "title": "私立幼稚園",
+    "uri": "https://www.city.edogawa.tokyo.jp/e047/kuseijoho/gaiyo/shisetsuguide/bunya/kosodate/shiritsu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第26条",
+    "regulationName": "学校教育法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "幼稚園とは、学校教育法に基づき、満3歳から小学校就学前までのお子さんに幼児教育を提供する施設（学校）です。1日4時間の教育を標準とし、小学校や中学校のように夏休みや春休みなどもありますが、多くの園で教育時間終了後や長期休暇中の預かりも行っています。私立幼稚園一覧・入園受け入れ状況、入園については施設との直接契約となりますので、各私立幼稚園に直接お問い合わせください。",
+  "support": {
+    "description": "私立幼稚園",
+    "materiallySupport": "私立幼稚園",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 5,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象者記載なし"
+  },
+  "updateDate": "2024-01-04",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "文化共育部文化課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+2+UM105"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "文化共育部文化課;https://www.city.edogawa.tokyo.jp/e026/kuseijoho/gaiyo/soshiki/bunka/bunka.html",
+    "contactPhone": null,
+    "contactUrl": "https://faq.city.edogawa.tokyo.jp/cgi-bin/faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "電子図書サービス\n日本語での読書が難しい在住外国人の方や、視覚障害者等の文字が読みにくいという方にもっと読書を楽しんでいただくため、電子図書サービスを用意しています。\n[[画像]]（電子図書サービスサイト/別ウィンドウ）;https://edogawa-library-e-book-service.overdrive.com/\n\n電子図書サービスの内容\n1.電子図書サービス\n洋書（英語・中国語・韓国語）を中心にご利用いただけます。また、日本語の資料として、青空文庫（著作権切れの資料等）があります。\n\nご案内チラシ\n日本語版（PDF：6,482KB）;https://www.city.edogawa.tokyo.jp/documents/1328/densitirasi.pdf\n英語版（PDF：6,451KB）;https://www.city.edogawa.tokyo.jp/documents/1328/densienglish.pdf\n韓国語版（PDF：6,492KB）;https://www.city.edogawa.tokyo.jp/documents/1328/densikankoku.pdf\n中国語版（簡体字）（PDF：6,341KB）;https://www.city.edogawa.tokyo.jp/documents/1328/densityugokukantai.pdf\n中国語版（繁体字）（PDF：6,415KB）;https://www.city.edogawa.tokyo.jp/documents/1328/densityugokuha.pdf\n\n2.アクセシブルライブラリー（視覚障害者専用サイト）\n音声読み上げ機能を使って電子図書を楽しむことができます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "図書館の児童サービス（ブックスタートなど）",
+    "shortName": "電子図書サービス"
+  },
+  "localGovernmentLink": {
+    "title": "図書館",
+    "uri": "https://www.city.edogawa.tokyo.jp/e026/kuseijoho/gaiyo/shisetsuguide/bunya/gakko/toshokan.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "お問い合わせは、お近くの図書館へお願いいたします。\n江戸川区立図書館ホームページ;https://www.library.city.edogawa.tokyo.jp/toshow/wp/info.php",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "日本語での読書が難しい在住外国人の方や、視覚障害者等の文字が読みにくいという方にもっと読書を楽しんでいただくため、電子図書サービスを用意しています",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": null,
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": null
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "1.電子図書サービス\n区内在住で区立図書館の「かしだしけん」をお持ちの方\n2.アクセシブルライブラリー（視覚障害者専用サイト）\n区内在住で区立図書館の「かしだしけん」および障害者手帳（視覚障害）をお持ちの方"
+  },
+  "updateDate": "2024-03-05",
+  "useConsiderationFlag": true,
+  "utilization": "電子図書サービスの利用方法\n図書館窓口で利用申込を行ってください。電子図書サービス専用のIDと初期パスワードを交付いたします。\n\n貸出点数上限：2点\n貸出期間：2週間（24時間利用可）\n詳細につきましては、「電子図書サービス利用案内」「アクセシブルライブラリー利用案内」をご覧ください。\n\n電子図書サービス利用案内\n日本語版（PDF：91KB）;https://www.city.edogawa.tokyo.jp/documents/1328/odannai20220925.pdf\n英語版（PDF：109KB）;https://www.city.edogawa.tokyo.jp/documents/1328/odenglish_1.pdf\n韓国語版（PDF：163KB）別ウィンドウで開きます\n中国語版（簡体字）（PDF：111KB）;https://www.city.edogawa.tokyo.jp/documents/1328/odkankoku.pdf\n中国語版（繁体字）（PDF：197KB）;https://www.city.edogawa.tokyo.jp/documents/1328/odtyugokut.pdf\nアクセシブルライブラリー利用案内（PDF：297KB）;https://www.city.edogawa.tokyo.jp/documents/1328/alannai20220925.pdf",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

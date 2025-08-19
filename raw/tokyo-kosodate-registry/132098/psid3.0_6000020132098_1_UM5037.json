@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健所 保健予防課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+1+UM5037"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健所 保健予防課",
+    "contactPhone": "042-725-5422",
+    "contactUrl": "https://www.city.machida.tokyo.jp/cgi-bin/formmail/formmail.cgi?d=mail114",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "身体に機能障害がある児童に対して、その障がいに関わる医療費を助成します。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度（育成医療）",
+    "shortName": "自立支援医療（育成医療）"
+  },
+  "localGovernmentLink": {
+    "title": "自立支援医療（育成医療）",
+    "uri": "https://www.city.machida.tokyo.jp/iryo/hokenjo/josei/jiritsushien.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-10-24",
+    "updater": "町田市"
+  },
+  "procedureCounter": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/iku_iryou.html",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+  "support": {
+    "description": "医療保険各法による医療給付を優先し、その残額から自己負担額を控除した額を助成します。\n原則、治療費の1割が自己負担額（※）となります。また、入院時の食事療養費は、自己負担となります。\n※自己負担額については、世帯の所得に応じた月額上限額が設定されています。",
+    "materiallySupport": null,
+    "monetarySupport": "医療保険各法による医療給付を優先し、その残額から自己負担額を控除した額を助成します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "対象となる障害や病気は次のとおりです。\n1肢体不自由\n2視覚障害\n3聴覚・平衡機能障害\n4音声・言語・そしゃく機能障害\n5心臓機能障害\n6腎臓（じんぞう）機能障害\n7小腸機能障害\n8肝臓機能障害\n9その他の先天性内臓障害\n10免疫機能障害",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "保護者が東京都に住所を有する18歳未満の児童で、身体に障害を有する方、または、現存する疾患が、当該障害または疾患に係る医療を行わないときは、将来において障害を残すと認められる方で、手術等によって障害の改善が見込まれる方が対象です。\nただし、区市町村民税（所得割）が23万5千円以上（平成19年7月1日施行）の世帯の方は、原則として対象外（※）となります。\n\n※「重度かつ継続」の障害に該当する場合は、経過措置（令和6年9年3月31日まで）により対象となります。"
+  },
+  "updateDate": "2023-07-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

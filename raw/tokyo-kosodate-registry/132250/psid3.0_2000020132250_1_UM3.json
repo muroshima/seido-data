@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132250;稲城市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "市民部　市民課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132250",
+    "psid": "psid3.0+2000020132250+1+UM3"
+  },
+  "belongings": "届け出に必要なもの\n1 出生届書（医師または助産師の証明が必要）\n2 母子健康手帳\n注意：外国籍の方は別途書類が必要な場合がありますので、あらかじめ戸籍係までお問い合わせください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "稲城市東長沼2111番地",
+    "contactComment": "ファクス：042-377-4781",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "市民部　市民課",
+    "contactPhone": "042-378-2111",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "出生届\n更新日：2022年3月17日\n\n期間\n子供が生まれた日から数えて14日以内\n\n届け出場所\nお子さんの本籍地の市区町村役場\nお子さんの生まれたところの市区町村役場\n届け出人の所在地の市区町村役場\n\n届け出人\n父または母\n法定代理人\n同居者\n医師\n助産師\nその他の立会者\n注意：原則父母が届け出人となります。その他の方が届け出人となる場合はあらかじめ戸籍係までお問い合わせください。\n\n届け出に必要なもの\n1 出生届書（医師または助産師の証明が必要）\n2 母子健康手帳\n注意：外国籍の方は別途書類が必要な場合がありますので、あらかじめ戸籍係までお問い合わせください。\n\n出生に伴う手続き\n出生に伴う主な手続きは次のとおりです。\n出産育児一時金の申請;https://www.city.inagi.tokyo.jp/kenko/kokuho/ichijikin.html\n国民健康保険への加入;https://www.city.inagi.tokyo.jp/kenko/kokuho/todokede.html\n児童手当の申請;https://www.city.inagi.tokyo.jp/kosodate/kosodate/teate_josei_kyuhu/jidouteatenado/zidoteate24.html\n乳幼児医療費助成制度の申請;https://www.city.inagi.tokyo.jp/kosodate/kosodate/teate_josei_kyuhu/jidouteatenado/nyuuyouji.html\n出生通知票の送付\n注意：必要となる手続きなどは個人によって異なりますので、事前に各担当課にお問い合わせください。\n\n手続き可能日時\n開庁日の午前8時30分から午後5時\n備考：休日開庁日は午前8時30分から午前11時45分、午後1時から午後5時\n上記以外の時間帯は、市役所宿直室にて受け付けます。\n休日開庁日及び市役所宿直室で受け付ける場合は「預かり」のみとなります。\n備考：出張所では戸籍に関する届け出は受け付けていません。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出生届",
+    "shortName": "出生届"
+  },
+  "localGovernmentLink": {
+    "title": "出生届",
+    "uri": "https://www.city.inagi.tokyo.jp/kurashi/tetsuzuki/koseki/shusshou.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-05-27",
+    "updater": "稲城市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "届け出に必要なもの\n1 出生届書（医師または助産師の証明が必要）\n2 母子健康手帳\n注意：外国籍の方は別途書類が必要な場合がありますので、あらかじめ戸籍係までお問い合わせください。\n\n出生に伴う手続き\n出生に伴う主な手続きは次のとおりです。\n出産育児一時金の申請;https://www.city.inagi.tokyo.jp/kenko/kokuho/ichijikin.html\n国民健康保険への加入;https://www.city.inagi.tokyo.jp/kenko/kokuho/todokede.html\n児童手当の申請;https://www.city.inagi.tokyo.jp/kosodate/kosodate/teate_josei_kyuhu/jidouteatenado/zidoteate24.html\n乳幼児医療費助成制度の申請;https://www.city.inagi.tokyo.jp/kosodate/kosodate/teate_josei_kyuhu/jidouteatenado/nyuuyouji.html\n出生通知票の送付\n注意：必要となる手続きなどは個人によって異なりますので、事前に各担当課にお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": "開庁日の午前8時30分から午後5時\n備考：休日開庁日は午前8時30分から午前11時45分、午後1時から午後5時\n上記以外の時間帯は、市役所宿直室にて受け付けます。\n休日開庁日及び市役所宿直室で受け付ける場合は「預かり」のみとなります。\n備考：出張所では戸籍に関する届け出は受け付けていません。",
+    "fromHM": "08:30",
+    "fromYMD": null,
+    "toHM": "17:00",
+    "toYMD": null
+  },
+  "procedurePersons": "父または母\n法定代理人\n同居者\n医師\n助産師\nその他の立会者\n注意：原則父母が届け出人となります。その他の方が届け出人となる場合はあらかじめ戸籍係までお問い合わせください。",
+  "regulation": {
+    "regulationArticle": "第49条、第52条",
+    "regulationName": "戸籍法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "出生届とは、生まれてきたお子さんの氏名等を戸籍に記載するための手続きです。\n戸籍に記載されることで、生まれてきたお子さんの親族関係が公的に証明されます。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "届け出人\n父または母\n法定代理人\n同居者\n医師\n助産師\nその他の立会者\n注意：原則父母が届け出人となります。その他の方が届け出人となる場合はあらかじめ戸籍係までお問い合わせください。"
+  },
+  "updateDate": "2022-03-17",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

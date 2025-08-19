@@ -1,0 +1,144 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部健康サービス課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM14"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部健康サービス課母子保健係",
+    "contactPhone": "03-5661-2466",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": "無料",
+  "costConditions": null,
+  "description": "新生児訪問は、乳児健康診査までの赤ちゃんのご自宅へ助産師や保健師がお伺いし、赤ちゃんの成長や保育、お母さんの体調、育児に関する悩みや不安などについてのご相談をお受けしています。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "新生児訪問の申請（里帰り先等江戸川区住民票以外への訪問希望者用）",
+      "uri": "https://logoform.jp/form/L6MJ/445335"
+    },
+    {
+      "title": "新生児訪問の申請（江戸川区のご自宅への訪問希望者用）",
+      "uri": "https://logoform.jp/form/L6MJ/438126"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "自宅"
+  },
+  "institutionName": {
+    "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+    "shortName": "新生児訪問"
+  },
+  "localGovernmentLink": {
+    "title": "新生児訪問",
+    "uri": "https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kodomo/homon.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/17",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "次の（1）（2）のいずれかの方法でご申請ください。内容に不備等があった場合は健康サービス課母子保健係からご連絡します。\n\n（1）子育て応援アプリ　ぴよナビえどがわ\n\n（2）電子申請サービス\n\n江戸川区以外で母子健康手帳を交付された方や、双子など多胎児の方、里帰り先で訪問を希望される方は、電子申請サービスからお申し込みください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第11条,19条,第21条の10の２",
+    "regulationName": "母子保健法,児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "子育て応援アプリ「ぴよナビ えどがわ」",
+      "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/piyonabi.html"
+    },
+    {
+      "title": "出産・子育て応援給付金事業(国事業）",
+      "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/shussankosodatekouhukin.html"
+    },
+    {
+      "title": "低体重児出生届の電子申請ページ",
+      "uri": "https://app.oss.myna.go.jp/Application/procdetail/initGet?kc9XUt9I8/CU41afS8P1OaaLxX/9+D2bXPzn80LiqLRKeI438ftq6avj3ZAt+N8AcoQuG3PXNguA/exUOrTECpoRgQMvC1nFYsqZ30Du7y0e5dVC/9bMTh67hHd8S3kP1AUfH2H7xLaG6Dw/5qKrNQ=="
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "新生児訪問は、乳児健康診査までの赤ちゃんのご自宅へ助産師や保健師がお伺いし、赤ちゃんの成長や保育、お母さんの体調、育児に関する悩みや不安などについてのご相談を無料でお受けしています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": 4
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "出生届を提出し、生後4か月を迎えるまでの赤ちゃんがいるご家庭"
+  },
+  "updateDate": "2024/08/29",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

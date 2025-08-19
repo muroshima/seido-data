@@ -1,0 +1,184 @@
+{
+  "area": {
+    "areaCode": "132047;三鷹市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "都市整備部 緑と公園課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132047",
+    "psid": "psid3.0+8000020132047+3+UM576"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三鷹市野崎一丁目1番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "都市整備部 緑と公園課",
+    "contactPhone": "0422-29-9789",
+    "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/midori/index.html",
+    "zipCode": "1818555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "中原もみじ防災公園（中原一丁目）;https://www.city.mitaka.lg.jp/c_service/098/098560.html\n中原こぶし児童遊園（中原一丁目）;https://www.city.mitaka.lg.jp/c_service/088/088752.html\n中原かしの木児童遊園（中原一丁目）;https://www.city.mitaka.lg.jp/c_service/089/089513.html\n中原すくすく児童遊園（中原一丁目）;https://www.city.mitaka.lg.jp/c_service/089/089519.html\n中仙川児童公園（中原二丁目）;https://www.city.mitaka.lg.jp/c_service/090/090315.html\n中原緑地（中原二丁目）;https://www.city.mitaka.lg.jp/c_service/088/088879.html\n中原くすのき児童遊園（中原二丁目）;https://www.city.mitaka.lg.jp/c_service/089/089515.html\n中原さつき児童遊園（中原三丁目）;https://www.city.mitaka.lg.jp/c_service/089/089521.html\n中原高架下児童遊園（中原三丁目）;https://www.city.mitaka.lg.jp/c_service/089/089514.html\n中原児童公園（中原四丁目）;https://www.city.mitaka.lg.jp/c_service/088/088876.html\n中原雑木林公園（中原四丁目）;https://www.city.mitaka.lg.jp/c_service/088/088878.html\n中原つつじヶ丘児童遊園（中原四丁目）;https://www.city.mitaka.lg.jp/c_service/089/089518.html\n中仙川いちょう児童遊園（中原四丁目）;https://www.city.mitaka.lg.jp/c_service/089/089517.html\n中原青少年広場（中原四丁目）;https://www.city.mitaka.lg.jp/c_service/089/089674.html\n中原きのみ児童遊園（中原四丁目）;https://www.city.mitaka.lg.jp/c_service/089/089516.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "児童遊園",
+    "shortName": "児童遊園,エリア別公園一覧（中原）"
+  },
+  "localGovernmentLink": {
+    "title": "エリア別公園一覧（中原）",
+    "uri": "https://www.city.mitaka.lg.jp/c_categories/index06002001008.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "三鷹市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "中原こぶし児童遊園（中原一丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/088/088752.html"
+    },
+    {
+      "title": "中原すくすく児童遊園（中原一丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/089/089519.html"
+    },
+    {
+      "title": "中仙川児童公園（中原二丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/090/090315.html"
+    },
+    {
+      "title": "中原緑地（中原二丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/088/088879.html"
+    },
+    {
+      "title": "中原もみじ防災公園（中原一丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/098/098560.html"
+    },
+    {
+      "title": "中原くすのき児童遊園（中原二丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/089/089515.html"
+    },
+    {
+      "title": "中原さつき児童遊園（中原三丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/089/089521.html"
+    },
+    {
+      "title": "中原高架下児童遊園（中原三丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/089/089514.html"
+    },
+    {
+      "title": "中原児童公園（中原四丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/088/088876.html"
+    },
+    {
+      "title": "中原雑木林公園（中原四丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/088/088878.html"
+    },
+    {
+      "title": "中原つつじヶ丘児童遊園（中原四丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/089/089518.html"
+    },
+    {
+      "title": "中仙川いちょう児童遊園（中原四丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/089/089517.html"
+    },
+    {
+      "title": "中原青少年広場（中原四丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/089/089674.html"
+    },
+    {
+      "title": "中原きのみ児童遊園（中原四丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/089/089516.html"
+    },
+    {
+      "title": "中原かしの木児童遊園（中原一丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/089/089513.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童遊園は、屋外にある公園に類似した施設です。18歳未満のお子さんに健全な遊びを提供し、健康増進を図るとともに、豊かな情操を育むことを目的としています。\n三鷹市の児童遊園の一覧は、三鷹市サイトなどでお知らせしています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087",
+      "092"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

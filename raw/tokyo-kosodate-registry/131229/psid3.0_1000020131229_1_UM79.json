@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局放課後支援課 放課後支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+1+UM79"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区立石5-13-1　葛飾区役所4階　407番窓口",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "教育委員会事務局放課後支援課 放課後支援係",
+    "contactPhone": "03-5654-7613",
+    "contactUrl": null,
+    "zipCode": "1248555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "放課後児童クラブ",
+    "shortName": "学童保育クラブ入会"
+  },
+  "localGovernmentLink": {
+    "title": "学童",
+    "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1002335/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": "学童保育クラブ",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "学童保育クラブは、公立と社会福祉法人等が運営する私立があります。私立は、申請手続きや選考等を公立に準じて、行っています。入会をご希望の場合、入会の要件や必要書類、受付期間等をご確認の上、第１希望の学童保育クラブの窓口へ直接申請してください。\n\n随時入会\n随時入会の受付期間は、公立と私立で異なります。公立は入会希望月の前月10日まで（10日が土・日曜、祝日の場合には、その直前の開庁日まで）に申請してください。私立は、直接施設にお問い合わせください。\n\n新年度入会（4月一斉入会）\n新年度入会の受付期間や申請書の配布開始時期は、前年度10月下旬頃に広報かつしかやホームページにてご案内します。公立・私立とも受付期間は同じです。\n\n申請書配布場所\n区内各学童保育クラブ（公立・私立）、区内各児童館、区内各子ども未来プラザ、区役所4階401子育て支援窓口\n※申請書類は区ホームページからもダウンロードできます。\n※新年度入会につきましては、申請書配布開始時期、ダウンロード可能時期は前年度の10月下旬以降になります。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第2項",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "葛飾区では、保護者とその同居者の就労・疾病等を理由に、監護が必要な小学生のお子さんを対象に学童保育クラブでお預かりします。学童保育クラブは、公立と社会福祉法人等が運営する私立があります。入会をご希望の場合、入会の要件や必要書類、受付期間等をご確認の上、第１希望の学童保育クラブの窓口へ直接申請してください。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "092"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "保護者とその同居者の就労・疾病等を理由に、概ね週3日以上（日曜日を除く）、放課後（14時以降）、監護が必要な小学生のお子さん（心身に障害等のあるお子さんの場合は、入会の要件のあるお子さんのうち、医療行為を必要とせず、集団生活が可能な方）。"
+  },
+  "updateDate": "2024-06-12",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

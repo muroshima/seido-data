@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局子ども部子育て推進課手当・医療係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+1+UM22"
+  },
+  "belongings": "・誕生準備手当認定請求書\n・母子手帳の該当ページの写し\n（請求者の住所・氏名が記載されているページと、妊娠20週目に入っていることがわかる検診記録のページの写しをご提出ください。）\n・本人確認書類の写し（ポータルサイトでの申請に限る）\n\n（注意） 本人確認書類として認められるものは、運転免許証・パスポート・マイナンバーカード・在留カードなどです。\n\n（注意）窓口または郵送での申請において、手当の受領を委任する場合は、認定請求書の委任欄に委任者の署名と捺印が必要です（受領の委任先は配偶者に限ります）。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区九段南1-2-1",
+    "contactComment": null,
+    "contactEmail": "kosodatesuishin@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "教育委員会事務局子ども部子育て推進課手当・医療係",
+    "contactPhone": "03-5211-4230",
+    "contactUrl": null,
+    "zipCode": "1028688"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "支給時期等\n\n請求内容を審査のうえ、請求からおおむね2か月以内に、ご指定の金融機関口座へ振り込みます。\n\n請求期間\n\n妊娠第20週～誕生した子の1歳の誕生日前日までの間",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "ポータルサイト_手続き詳細（外部サイトへリンク）",
+      "uri": "https://chiyoda-portal.my.site.com/ctz/appMngDef/a042w000011GZoSAAW/am000000019"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関する金銭的支援",
+    "shortName": "誕生準備手当"
+  },
+  "localGovernmentLink": {
+    "title": "誕生準備手当",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/ninshin/junbiteate.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": "申請の受付は、次の場所で行っています。なお、郵送の場合は、1の子育て推進課へお送りください。\n\n1.千代田区役所2階子育て推進課\n〒102-8688千代田区九段南1-2-1\n電話番号：03-5211-4230\n2.区内各出張所\n3.千代田保健所保健サービス課\n4.ポータルサイト\nオンライン申請等の詳細はポータルサイト_手続き詳細（外部サイトへリンク）をご覧ください。\n（注意） ポータルサイトの利用方法については、「千代田区ポータルサイト」をご覧ください。",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "千代田区ポータルサイト",
+      "uri": "https://www.city.chiyoda.lg.jp/koho/kuse/johosesaku/portalsite-kaishi.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "千代田区では、妊娠20週以降から出産までの方で、千代田区内に住所（住民登録）を有している方に、一時金を支給します。",
+  "support": {
+    "description": "一妊娠につき、一時金として 45,000円を支給します（多児妊娠・出産でも、同額です）。",
+    "materiallySupport": null,
+    "monetarySupport": "一妊娠につき、一時金として 45,000円を支給します（多児妊娠・出産でも、同額です）。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊娠20週以降から出産までの方で、千代田区内に住所（住民登録）を有している方\n（注釈）流産または死産の場合でも支給します。"
+  },
+  "updateDate": "2024-04-10",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

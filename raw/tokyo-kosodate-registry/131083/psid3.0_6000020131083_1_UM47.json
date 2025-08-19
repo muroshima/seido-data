@@ -1,0 +1,142 @@
+{
+  "area": {
+    "areaCode": "131083;江東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部 保健予防課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131083",
+    "psid": "psid3.0+6000020131083+1+UM47"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都江東区東陽2-1-1",
+    "contactComment": "ファックス：03-3615-7171",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部（保健所） 保健予防課 保健係",
+    "contactPhone": "03-3647-5906",
+    "contactUrl": "https://www.city.koto.lg.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": "1350016"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊娠・出産に関する相談先\n東京都 妊娠相談ほっとライン\n　東京都では、都内にお住まいの方を対象に、妊娠や出産に関する様々な悩みについて、電話やメールで相談に応じています。\n\n○ 思いがけない妊娠、予定外の妊娠にとまどっている方\n○ 妊娠したかもしれないと不安になっている方\n○ 妊娠中の体調のことで悩んでいる方\n○ 出産費用が心配な方\n\n　そのほか様々な悩みを抱える方からの相談に看護師などの専門職が対応し、内容によっては適切な関係機関の紹介も行います。匿名で相談できます。\n\n電話相談\n〇 電話番号　03-5339-1133\n\n〇 受付時間　午前10時から午後10時まで　月曜日から日曜日　※元日はお休み\n\nメール\n「東京都 妊娠相談ほっとライン」サイトの専用フォームから必要項目を入力して送信してください。\n\n「東京都 妊娠相談ほっとライン」（外部サイトへリンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninshin-hotline.html\n\nチャットボットLINEアカウント「妊娠したかも相談@東京」\n都内にお住まいの方を対象に、「妊娠したかも？」という悩みや疑問に、チャットボット形式でお答えします。「電話やメールで相談するのは少し怖い、勇気がない」という方でも、24時間365日、誰でも気軽に使えます。\n\nチャットボットLINEアカウント「妊娠したかも相談＠東京」（外部サイトへリンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninshin-line-tokyo.html\n\n妊産婦向け助産師相談\nWeb会議システムを利用したオンライン相談（予約制）\n妊娠中のこと、産後のこと、生まれてくる赤ちゃんのことでお悩みの妊婦さん・産婦さんを対象に、東京都助産師会の助産師がオンラインで相談をお受けします。\n\nそのほか、訪問や電話による相談（令和6年3月31日まで）もございます。\n\n妊産婦向け助産師相談（外部サイトへリンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninsanpu-online.html",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "「東京都 妊娠相談ほっとライン」（外部サイトへリンク）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninshin-hotline.html"
+    }
+  ],
+  "holiday": "※元日はお休み",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "江東区の妊娠・出産に関する相談",
+    "shortName": "妊娠・出産に関する相談先"
+  },
+  "localGovernmentLink": {
+    "title": "妊娠・出産に関する相談先",
+    "uri": "https://www.city.koto.lg.jp/260501/kodomo/ninshinshussan/ninshin/97700.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-28",
+    "updater": "江東区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "「東京都 妊娠相談ほっとライン」（外部サイトへリンク）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninshin-hotline.html"
+    },
+    {
+      "title": "チャットボットLINEアカウント「妊娠したかも相談＠東京」（外部サイトへリンク）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninshin-line-tokyo.html"
+    },
+    {
+      "title": "妊産婦向け助産師相談（外部サイトへリンク）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninsanpu-online.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "東京都では、都内にお住まいの方を対象に、妊娠や出産に関する様々な悩みについて、電話やメールで相談に応じています。",
+  "support": {
+    "description": "東京都では、都内にお住まいの方を対象に、妊娠や出産に関する様々な悩みについて、電話やメールで相談に応じています。\n\n○ 思いがけない妊娠、予定外の妊娠にとまどっている方\n○ 妊娠したかもしれないと不安になっている方\n○ 妊娠中の体調のことで悩んでいる方\n○ 出産費用が心配な方\n\n　そのほか様々な悩みを抱える方からの相談に看護師などの専門職が対応し、内容によっては適切な関係機関の紹介も行います。匿名で相談できます。\n\n電話相談\n〇 電話番号　03-5339-1133\n\n〇 受付時間　午前10時から午後10時まで　月曜日から日曜日　※元日はお休み\n\nメール\n「東京都 妊娠相談ほっとライン」サイトの専用フォームから必要項目を入力して送信してください。\n\n「東京都 妊娠相談ほっとライン」（外部サイトへリンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninshin-hotline.html",
+    "materiallySupport": "東京都では、都内にお住まいの方を対象に、妊娠や出産に関する様々な悩みについて、電話やメールで相談に応じています。\n\n○ 思いがけない妊娠、予定外の妊娠にとまどっている方\n○ 妊娠したかもしれないと不安になっている方\n○ 妊娠中の体調のことで悩んでいる方\n○ 出産費用が心配な方\n\n　そのほか様々な悩みを抱える方からの相談に看護師などの専門職が対応し、内容によっては適切な関係機関の紹介も行います。匿名で相談できます。\n\n電話相談\n〇 電話番号　03-5339-1133\n\n〇 受付時間　午前10時から午後10時まで　月曜日から日曜日　※元日はお休み\n\nメール\n「東京都 妊娠相談ほっとライン」サイトの専用フォームから必要項目を入力して送信してください。\n\n「東京都 妊娠相談ほっとライン」（外部サイトへリンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninshin-hotline.html",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "都内にお住まいの方"
+  },
+  "updateDate": "2023-08-16",
+  "useConsiderationFlag": false,
+  "utilization": "電話相談,メール",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "午前10時から午後10時まで　月曜日から日曜日　※元日はお休み",
+    "fromHM": "10:00",
+    "toHM": "22:00"
+  }
+}

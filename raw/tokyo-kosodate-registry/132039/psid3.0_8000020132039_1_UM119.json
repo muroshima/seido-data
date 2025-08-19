@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132039;武蔵野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子ども子育て支援課子ども家庭支援センター　子ども家庭相談担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132039",
+    "psid": "psid3.0+8000020132039+1+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都武蔵野市緑町2-2-28",
+    "contactComment": "ファクス番号：0422-51-9417",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子ども子育て支援課子ども家庭支援センター　子ども家庭相談担当",
+    "contactPhone": "0422-60-1850",
+    "contactUrl": "https://www.city.musashino.lg.jp/cgi-crm/CRM030/CRM030_001/G00800100/1006794",
+    "zipCode": "1808777"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子どもとその家庭に関する総合相談\n\n子どもに関する悩みや相談は子ども家庭支援センターへ。電話、来所、訪問相談を受けています。\n相談専用電話：0422-55-9002、フリーダイヤル：0120-839-002(通話料無料)\n子育ての大変さ、だれか聞いてよ。離乳食っていつから始めるの？子育てに関するサービスについて知りたいな。お父さん、お母さんのことで悩んでいるの。妻が出産の時、上の子を預けられるところはないかなあ。産前産後の体調が悪いのでヘルパーをお願いできないかなあ。近所の家から毎日泣き声が…ちょっと心配。\n\n子どもやその家庭のことで悩みや相談ごとがあったら、まずは子ども家庭支援センターへ連絡を。経験豊富なスタッフが対応します。\n\n市役所3階子ども家庭支援センターにお越しになっての来所相談や、お宅へうかがう訪問相談も行っています。\n\n電話相談\n月曜日から土曜日まで(祝日・年末年始を除く)午前8時30分～午後10時まで\nフリーダイヤル：0120-839-002(通話料無料)\nまたは電話番号：0422-55-9002\n\n来所相談・訪問相談\n月曜日から土曜日まで(祝日・年末年始を除く)午前8時30分～午後10時まで\nフリーダイヤル：0120-839-002(通話料無料)\nまたは電話番号：0422-55-9002\n\n来所相談・訪問相談\n月曜日から金曜日まで(祝日・年末年始を除く)午前8時30分～午後5時まで\n\n添付ファイル\n武蔵野市子ども家庭支援センター リーフレット （PDF 1.7MB）;https://www.city.musashino.lg.jp/_res/projects/default_project/_page_/001/006/794/R5kokasenleaf.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "月曜日から土曜日まで(祝日・年末年始を除く)",
+    "fromHM": "08:30",
+    "fromYMD": null,
+    "toHM": "22:00",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "東京都武蔵野市緑町2-2-28",
+    "implementationName": "市役所3階子ども家庭支援センターにお越しになっての来所相談や、お宅へうかがう訪問相談も行っています。"
+  },
+  "institutionName": {
+    "canonicalName": "武蔵野市の子育てに関する相談",
+    "shortName": "子どもとその家庭に関する総合相談"
+  },
+  "localGovernmentLink": {
+    "title": "子どもとその家庭に関する総合相談",
+    "uri": "https://www.city.musashino.lg.jp/shussan_kodomo_kyoiku/kodomo_kosodate/kosodateshien/kodomokatei/1006794.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "武蔵野市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "武蔵野市子ども家庭支援センター リーフレット （PDF 1.7MB）",
+      "uri": "https://www.city.musashino.lg.jp/_res/projects/default_project/_page_/001/006/794/R5kokasenleaf.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子どもに関する悩みや相談は子ども家庭支援センターへ。電話、来所、訪問相談を受けています。\n相談専用電話：0422-55-9002、フリーダイヤル：0120-839-002(通話料無料)",
+  "support": {
+    "description": "子どもに関する悩みや相談は子ども家庭支援センターへ。電話、来所、訪問相談を受けています。\n相談専用電話：0422-55-9002、フリーダイヤル：0120-839-002(通話料無料)\n子育ての大変さ、だれか聞いてよ。離乳食っていつから始めるの？子育てに関するサービスについて知りたいな。お父さん、お母さんのことで悩んでいるの。妻が出産の時、上の子を預けられるところはないかなあ。産前産後の体調が悪いのでヘルパーをお願いできないかなあ。近所の家から毎日泣き声が…ちょっと心配。\n\n子どもやその家庭のことで悩みや相談ごとがあったら、まずは子ども家庭支援センターへ連絡を。経験豊富なスタッフが対応します。\n\n市役所3階子ども家庭支援センターにお越しになっての来所相談や、お宅へうかがう訪問相談も行っています。\n\n電話相談\n月曜日から土曜日まで(祝日・年末年始を除く)午前8時30分～午後10時まで\nフリーダイヤル：0120-839-002(通話料無料)\nまたは電話番号：0422-55-9002\n\n来所相談・訪問相談\n月曜日から土曜日まで(祝日・年末年始を除く)午前8時30分～午後10時まで\nフリーダイヤル：0120-839-002(通話料無料)\nまたは電話番号：0422-55-9002\n\n来所相談・訪問相談\n月曜日から金曜日まで(祝日・年末年始を除く)午前8時30分～午後5時まで",
+    "materiallySupport": "子どもに関する悩みや相談は子ども家庭支援センターへ。電話、来所、訪問相談を受けています。\n相談専用電話：0422-55-9002、フリーダイヤル：0120-839-002(通話料無料)",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-04-13",
+  "useConsiderationFlag": false,
+  "utilization": "電話、来所、訪問相談を受けています。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日から金曜日まで(祝日・年末年始を除く)",
+    "fromHM": "08:30",
+    "toHM": "22:00"
+  }
+}

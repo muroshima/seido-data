@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "132241;多摩市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども・若者政策課 幼児教育・保育担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132241",
+    "psid": "psid3.0+3000020132241+1+UM74"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都多摩市関戸六丁目12番地1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども・若者政策課 幼児教育・保育担当",
+    "contactPhone": "042-338-6850",
+    "contactUrl": null,
+    "zipCode": "2068666"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "認定こども園への入所申請について\n\n認定こども園は、就学前の子どもに教育・保育・子育て支援を一体的に提供する認可施設です。\n教育・保育給付認定区分と希望順位によって、申請時期や申請先が異なりますのでご注意ください。\n\n多摩市には3園あります\n\nおだ認定こども園\n認定こども園多摩みゆき幼稚園\n認定こども園東京大谷幼稚園\nおだ認定こども園ホームページ（外部リンク）;http://www.odakids.com/\n認定こども園多摩みゆき幼稚園ホームページ（外部リンク）;http://tamamiyuki.com/\n東京大谷幼稚園ホームページ（外部リンク）;https://www.tokyo-otani.com/\n認定こども園に直接入所申請する方\n3～5歳（1号認定）の方（保育の必要性のない方）\n施設によって受付日が異なりますので、施設にお問い合わせください\n3～5歳（2号認定）で認定こども園が第1希望の方\n施設によって受付日が異なりますので、施設にお問い合わせください\n4月入園の願書は毎年10月15日以降に認定こども園で配布が始まります。詳しくは施設にお問い合わせください。\n\n多摩市役所に申請する方\n0～2歳（3号認定）の方\n3～5歳（2号認定）で認定こども園が第2希望以下の方\n申請時期に関しては、「令和3年度保育所等入所のしおり」9～11ページを参照してください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "認定こども園の利用について",
+    "shortName": "認定こども園への入所申請"
+  },
+  "localGovernmentLink": {
+    "title": "認定こども園への入所申請について",
+    "uri": "https://www.city.tama.lg.jp/kosodate/1008019/1008034/1003557.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "多摩市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "認定こども園は、就学前の子どもに教育・保育・子育て支援を一体的に提供する認可施設です。\n教育・保育給付認定区分と希望順位によって、申請時期や申請先が異なりますのでご注意ください。\n\n多摩市には3園あります\n\n1.おだ認定こども園\n2.認定こども園多摩みゆき幼稚園\n3.認定こども園東京大谷幼稚園\nおだ認定こども園ホームページ; https://www.odakids.com/\n認定こども園多摩みゆき幼稚園ホームページ; https://tamamiyuki.com/\n東京大谷幼稚園ホームページ; https://www.tokyo-otani.com/\n認定こども園に直接入所申請する方\n3～5歳（1号認定）の方（保育の必要性のない方）\n施設によって受付日が異なりますので、施設にお問い合わせください\n3～5歳（2号認定）で認定こども園が第1希望の方\n施設によって受付日が異なりますので、施設にお問い合わせください\n4月入園の願書は毎年10月15日以降に認定こども園で配布が始まります。詳しくは施設にお問い合わせください。\n\n多摩市役所に申請する方\n0～2歳（3号認定）の方\n3～5歳（2号認定）で認定こども園が第2希望以下の方\n申請時期に関しては、「令和3年度保育所等入所のしおり」9～11ページを参照してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第7条、第30条の11",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "認定こども園多摩みゆき幼稚園ホームページ（外部リンク）",
+      "uri": "http://tamamiyuki.com/"
+    },
+    {
+      "title": "おだ認定こども園ホームページ（外部リンク）",
+      "uri": "http://www.odakids.com/"
+    },
+    {
+      "title": "東京大谷幼稚園ホームページ（外部リンク）",
+      "uri": "https://www.tokyo-otani.com/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "認定こども園とは、0歳から就学前の子どもへ保育サービスを提供する「保育園機能」、3歳から就学前の子どもに幼児教育を提供する「幼稚園機能」、すべての子育て家庭を対象に、子育ての不安に対応した相談活動や親子が交流する場の提供などの「子育て支援機能」を併せ持つ施設です。\n「幼保連携型」「幼稚園型」「保育所型」「地方裁量型」の4タイプがあり、利用には、教育・保育の必要に応じた利用認定を受ける必要があります。",
+  "support": {
+    "description": "認定こども園は、就学前の子どもに教育・保育・子育て支援を一体的に提供する認可施設です。\n教育・保育給付認定区分と希望順位によって、申請時期や申請先が異なりますのでご注意ください。\n\n多摩市には3園あります\n\n1.おだ認定こども園\n2.認定こども園多摩みゆき幼稚園\n3.認定こども園東京大谷幼稚園\nおだ認定こども園ホームページ; https://www.odakids.com/\n認定こども園多摩みゆき幼稚園ホームページ; https://tamamiyuki.com/\n東京大谷幼稚園ホームページ; https://www.tokyo-otani.com/",
+    "materiallySupport": "認定こども園は、就学前の子どもに教育・保育・子育て支援を一体的に提供する認可施設です。\n教育・保育給付認定区分と希望順位によって、申請時期や申請先が異なりますのでご注意ください。\n\n多摩市には3園あります\n\n1.おだ認定こども園\n2.認定こども園多摩みゆき幼稚園\n3.認定こども園東京大谷幼稚園\nおだ認定こども園ホームページ; https://www.odakids.com/\n認定こども園多摩みゆき幼稚園ホームページ; https://tamamiyuki.com/\n東京大谷幼稚園ホームページ; https://www.tokyo-otani.com/",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "認定こども園に直接入所申請する方\n3～5歳（1号認定）の方（保育の必要性のない方）\n施設によって受付日が異なりますので、施設にお問い合わせください\n3～5歳（2号認定）で認定こども園が第1希望の方\n施設によって受付日が異なりますので、施設にお問い合わせください\n4月入園の願書は毎年10月15日以降に認定こども園で配布が始まります。詳しくは施設にお問い合わせください。\n\n多摩市役所に申請する方\n0～2歳（3号認定）の方\n3～5歳（2号認定）で認定こども園が第2希望以下の方\n申請時期に関しては、「令和3年度保育所等入所のしおり」9～11ページを参照してください。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "3～5歳（1号認定）の方\n3～5歳（2号認定）で認定こども園が第1希望の方\n0～2歳（3号認定）の方\n3～5歳（2号認定）で認定こども園が第2希望以下の方"
+  },
+  "updateDate": "2023-03-16",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

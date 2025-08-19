@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132021;立川市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子ども政策課 子ども政策係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020132021",
+    "psid": "psid3.0+9000020132021+2+UM106"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "立川市泉町1156-9",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 子ども政策課 手当・医療費給付係",
+    "contactPhone": "042-528-4342",
+    "contactUrl": null,
+    "zipCode": "1908666"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子育て応援Webサイト「ママフレ」をご利用ください\n\nページ番号1005063　 更新日 2024年4月17日\n\nXポストする　フェイスブックシェアする　ライン共有する　いいね！　印刷　大きな文字で印刷\n\nイラスト：立川市官民協働事業子育て応援サイト\n\n子育てに忙しい保護者の方々の「必要な情報にもっと簡単にアクセスしたい」との声に応えて、民間事業者（株式会社アスコエパートナーズ）との協働事業により、子育てに関する行政サービス情報をさがしやすく、わかりやすく紹介する子育て応援Webサイト「ママフレ」を作成しました。\n\n子育て応援Webサイト「ママフレ」の特徴\n\n妊娠、出産、子育てに関する行政サービス情報を「届出」「健康」「おかね」「あずける」「学ぶ・出かける」「相談」「病院・救急」にカテゴリー分類するなど、民間事業者のノウハウを活かして、わかりやすく掲載しています。\n忙しい子育ての合間でも、知りたい情報が簡単に素早く、検索できるようにスマートフォンを意識したレイアウトで構成されています。\n各ページは、【概要】についてコンパクトに情報を掲載するとともに、さらに詳しく知りたい方のために、市ホームページの該当ページにリンクも張っています。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関するサポート",
+    "shortName": "子育て応援Webサイト「ママフレ」"
+  },
+  "localGovernmentLink": {
+    "title": "子育て応援Webサイト「ママフレ」をご利用ください",
+    "uri": "https://www.city.tachikawa.lg.jp/kosodate/m-kosodate/1004942/1005038/1005063.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "立川市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "子育て応援サイト（外部リンク）",
+      "uri": "https://tachikawa-city.mamafre.jp/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子育てに忙しい保護者の方々の「必要な情報にもっと簡単にアクセスしたい」との声に応えて、民間事業者（株式会社アスコエパートナーズ）との協働事業により、子育てに関する行政サービス情報をさがしやすく、わかりやすく紹介する子育て応援Webサイト「ママフレ」を作成しました。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-04-17",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

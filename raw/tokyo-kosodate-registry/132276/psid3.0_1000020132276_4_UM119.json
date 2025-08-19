@@ -1,0 +1,143 @@
+{
+  "area": {
+    "areaCode": "132276;羽村市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子育て相談課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132276",
+    "psid": "psid3.0+1000020132276+4+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "（母子保健・相談係）内線694",
+    "contactName": "子ども家庭部 子育て相談課",
+    "contactPhone": "042-555-1111",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子どもの発達に関する総合相談窓口\n初版公開日:[2024年03月19日]ID:13330\n\nお子さんの発達の気がかり・不安・心配ごとのご相談をお受けしています\nお子さんの発達に関して、「気がかりがある」「困っている」「周囲の人から指摘があって心配になった」、、、。このようなことがあれば、ご相談ください。一人で、家族で、抱え込まないことが大切です。お子さんの状態を見立てて、できることを一緒に考えていきましょう。下記のようなお子さんの心配や困りごとを、臨床心理士、言語聴覚士が相談をお受けしています。\nまずはお電話ください。\n\n対象\n市内在住の0歳～18歳未満のお子さんとその保護者\n\n場所\n羽村市保健センター\n\n臨床心理士との相談（発達全般）\n・落ち着きがない\n・集中力がない\n・集団生活が苦手\n・ボーっとしていることが多い\n・怒ったり泣いたりするとなかなかおさまらない\n・他の子どもたちとうまくかかわれない\n・食事、排泄、着替え等、身のまわりのことができない\n・目が合いにくい　　など\n\n相談の申込み\n・面接は保健センター開所日の9時30分から午後4時（12時から午後1時を除く）まで受け付けています。\n・まずはお電話ください。相談したい内容をお聞きして面接日時を決めます。\n・1回の面接はおおむね1時間です。\n\n申込み・問い合わせ\n羽村市子育て相談課母子保健・相談係　保健センター内\n電話：042-555-1111内線694\n月～金曜日（祝日・年末年始を除く）午前8時30分～午後5時\n\nこの記事と同じ分類の記事\n育児相談について; https://www.city.hamura.tokyo.jp/prsite/0000014896.html\n妊産婦メンタルヘルス相談; https://www.city.hamura.tokyo.jp/prsite/0000013789.html\n妊産婦・子育てメール相談のお知らせ; https://www.city.hamura.tokyo.jp/prsite/0000014055.html\nご利用ください　「出産・子育てオンライン相談」; https://www.city.hamura.tokyo.jp/prsite/0000013987.html\nひきこもりに関する相談等について; https://www.city.hamura.tokyo.jp/prsite/0000010204.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "保健センター開所日の9時30分から午後4時（12時から午後1時を除く）まで受け付け\n1回の面接はおおむね1時間",
+    "fromHM": "09:30",
+    "fromYMD": null,
+    "toHM": "16:00",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "羽村市保健センター"
+  },
+  "institutionName": {
+    "canonicalName": "羽村市の子育てに関する相談",
+    "shortName": "臨床心理士との相談（発達全般）"
+  },
+  "localGovernmentLink": {
+    "title": "子どもの発達に関する総合相談窓口",
+    "uri": "https://www.city.hamura.tokyo.jp/prsite/0000013330.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "羽村市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "まずはお電話ください。相談したい内容をお聞きして面接日時を決めます。\n申込み・問い合わせ\n羽村市子育て相談課母子保健・相談係　保健センター内\n電話：042-555-1111内線694\n月～金曜日（祝日・年末年始を除く）午前8時30分～午後5時",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "妊産婦・子育てメール相談のお知らせ",
+      "uri": "https://www.city.hamura.tokyo.jp/prsite/0000014055.html"
+    },
+    {
+      "title": "育児相談について",
+      "uri": "https://www.city.hamura.tokyo.jp/prsite/0000014896.html"
+    },
+    {
+      "title": "ご利用ください　「出産・子育てオンライン相談」",
+      "uri": "https://www.city.hamura.tokyo.jp/prsite/0000013987.html"
+    },
+    {
+      "title": "ひきこもりに関する相談等について",
+      "uri": "https://www.city.hamura.tokyo.jp/prsite/0000010204.html"
+    },
+    {
+      "title": "妊産婦メンタルヘルス相談",
+      "uri": "https://www.city.hamura.tokyo.jp/prsite/0000013789.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "お子さんの発達の気がかり・不安・心配ごとのご相談をお受けしています。",
+  "support": {
+    "description": "お子さんの発達の気がかり・不安・心配ごとのご相談をお受けしています\nお子さんの発達に関して、「気がかりがある」「困っている」「周囲の人から指摘があって心配になった」、、、。このようなことがあれば、ご相談ください。一人で、家族で、抱え込まないことが大切です。お子さんの状態を見立てて、できることを一緒に考えていきましょう。下記のようなお子さんの心配や困りごとを、臨床心理士、言語聴覚士が相談をお受けしています。\n\n臨床心理士との相談（発達全般）\n・落ち着きがない\n・集中力がない\n・集団生活が苦手\n・ボーっとしていることが多い\n・怒ったり泣いたりするとなかなかおさまらない\n・他の子どもたちとうまくかかわれない\n・食事、排泄、着替え等、身のまわりのことができない\n・目が合いにくい　など\n\n相談の申込み\n・面接は保健センター開所日の9時30分から午後4時（12時から午後1時を除く）まで受け付けています。\n・まずはお電話ください。相談したい内容をお聞きして面接日時を決めます。\n・1回の面接はおおむね1時間です。",
+    "materiallySupport": "お子さんの心配や困りごとを、臨床心理士、言語聴覚士が相談をお受けしています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0歳～18歳未満",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": 0
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": 0
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "市内在住の0歳～18歳未満のお子さんとその保護者"
+  },
+  "updateDate": "2024-03-19",
+  "useConsiderationFlag": false,
+  "utilization": "まずはお電話ください。相談したい内容をお聞きして面接日時を決めます。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "保健センター開所日の9時30分から午後4時（12時から午後1時を除く）まで受け付け\n1回の面接はおおむね1時間",
+    "fromHM": "09:30",
+    "toHM": "16:00"
+  }
+}

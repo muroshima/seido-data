@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "133051;日の出町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "学校教育課 指導室　指導・学務係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133051",
+    "psid": "psid3.0+1000020133051+4+UM2369"
+  },
+  "belongings": "保育の必要性に係る届出書及び必要書類",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡日の出町大字平井2780番地",
+    "contactComment": "ファクス: 042-597-6698",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "学校教育課（指導室）指導・学務係",
+    "contactPhone": "042-588-5649",
+    "contactUrl": null,
+    "zipCode": "1900192"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "（2）日の出町私立幼稚園等園児保護者補助金（預かり保育料）¥n対象の方¥n町内に住所を有し、町が保育の必要性があると確認した第2子以降の0歳児から2歳児まで及び満3歳に達する園児の保護者で預かり保育料を納入している方¥n支給方法¥n年間2回、保護者名義の金融機関の口座に振り込みます。¥n振込時期：前期分(4月から9月)は、10月下旬¥n後期分(10月から3月)は、4月下旬¥n補助金額¥n0歳から2歳児：幼稚園型Ⅱ一時預かり保育料(月額上限額42,000円）¥n満3歳児：預かり保育料（日額上限額450円×預かり保育利用日数）¥n※いずれも、上限額に満たない場合には、実際に支払った保育料を限度とする。¥n申請に必要なもの¥n保育の必要性に係る届出書及び必要書類¥n※幼稚園等に在園する園児1名につき1枚提出¥n申請窓口¥n在籍する各園へ届出書等を提出してください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の幼児教育・保育施設の補助・減免",
+    "shortName": "日の出町私立幼稚園等園児保護者補助金"
+  },
+  "localGovernmentLink": {
+    "title": "教育費の補助",
+    "uri": "https://www.town.hinode.tokyo.jp/0000002267.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "日の出町"
+  },
+  "procedureCounter": "在籍する各園",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請に必要なもの¥n保育の必要性に係る届出書及び必要書類¥n※幼稚園等に在園する園児1名につき1枚提出¥n申請窓口¥n在籍する各園へ届出書等を提出してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第４条",
+    "regulationName": "日の出町私立幼稚園等園児保護者補助金交付要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "「幼児教育・保育の無償化」の対象とならない幼児教育施設に通うお子さんの保護者の経済的負担を軽減するために、日の出町独自に利用料の助成を行っています。",
+  "support": {
+    "description": "年間2回、保護者名義の金融機関の口座に振り込みます。¥n振込時期：前期分(4月から9月)は、10月下旬¥n後期分(10月から3月)は、4月下旬¥n補助金額¥n0歳から2歳児：幼稚園型Ⅱ一時預かり保育料(月額上限額42,000円）¥n満3歳児：預かり保育料（日額上限額450円×預かり保育利用日数）¥n※いずれも、上限額に満たない場合には、実際支払った保育料を限度とする。",
+    "materiallySupport": null,
+    "monetarySupport": "年間2回、保護者名義の金融機関の口座に振り込みます。¥n振込時期：前期分(4月から9月)は、10月下旬¥n後期分(10月から3月)は、4月下旬¥n補助金額¥n0歳から2歳児：幼稚園型Ⅱ一時預かり保育料(月額上限額42,000円）¥n満3歳児：預かり保育料（日額上限額450円×預かり保育利用日数）¥n※いずれも、上限額に満たない場合には、実際支払った保育料を限度とする。"
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "町が保育の必要性があると確認した第2子以降の0歳児から2歳児まで及び満3歳に達する園児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "町内に住所を有し、町が保育の必要性があると確認した第2子以降の0歳児から2歳児まで及び満3歳に達する園児の保護者で預かり保育料を納入している方"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

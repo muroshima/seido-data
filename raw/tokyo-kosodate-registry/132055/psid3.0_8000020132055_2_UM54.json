@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "132055;青梅市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センター管理係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132055",
+    "psid": "psid3.0+8000020132055+2+UM54"
+  },
+  "belongings": "母子健康手帳・予診票",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭センター管理係",
+    "contactPhone": "0428-23-2191",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "B型肝炎\n病気の概要\nB型肝炎は、B型肝炎ウイルス感染によっておこる肝臓の病気です。\nB型肝炎ウイルスへの感染は、B型肝炎ウイルスに感染した血液等に接触した場合に、感染を起こすことがあり、一過性の感染で終わる場合と、そのまま感染している状態が続いてしまう場合（この状態をキャリアといいます）があります。また、経過の違いから、急性肝炎と慢性肝炎があり、急性肝炎は稀に劇症化する場合もあることから注意が必要です。キャリアになると慢性肝炎になることがあり、そのうち一部の人では肝硬変や肝がんなど命に関わる病気を引き起こすこともあります。（引用元：厚生労働省ホームページ）\n\n対象者\n平成28年4月1日以降に生まれた方で、1歳に至るまでの間にある方。\n注）母子感染予防のためのB型肝炎ワクチン接種を含む治療を受けた方については、健康保険給付の対象となっていることから、定期接種の対象者となりません。\n\nワクチン接種スケジュールと予診票の通知時期\n標準的な接種スケジュール（計3回接種する）\n組換え沈降B型肝炎ワクチンを生後2か月の時に1回目を接種し、接種翌日から27日以上の間隔を空けて2回目を接種。\n1回目の接種翌日から139日以上の間隔を空けて3回目を接種する。（引用元：2016年度版予防接種に関するQ＆A集）\n注）すでに任意接種によって定期接種と同様の方法で接種している方に関しては、接種済みの回数を除いたものが接種回数となります。\n\n予診票の通知時期\n生後2か月の誕生日の翌月までに3回分の予診票を通知します。\n\nその他\n厚生労働省ホームページ\nB型肝炎;http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000137555.html＜外部リンク＞\n\n厚生労働省リーフレット\n啓発ツール;http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/keihatsu_tool/index.html＜外部リンク＞",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "https://www.city.ome.tokyo.jp/uploaded/attachment/49792.pdf",
+    "implementationName": "https://www.city.ome.tokyo.jp/uploaded/attachment/49792.pdf"
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "B型肝炎"
+  },
+  "localGovernmentLink": {
+    "title": "B型肝炎",
+    "uri": "https://www.city.ome.tokyo.jp/soshiki/74/66945.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-12",
+    "updater": "青梅市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "青梅市が発行する予診票、母子健康手帳を持って市内協力医療機関で接種",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）",
+    "regulationName": "予防接種法"
+  },
+  "relatedLink": [
+    {
+      "title": "厚生労働省リーフレット啓発ツール＜外部リンク＞",
+      "uri": "http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/keihatsu_tool/index.html"
+    },
+    {
+      "title": "厚生労働省ホームページB型肝炎＜外部リンク＞",
+      "uri": "http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000137555.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+  "support": {
+    "description": "病気の概要\nB型肝炎は、B型肝炎ウイルス感染によっておこる肝臓の病気です。\nB型肝炎ウイルスへの感染は、B型肝炎ウイルスに感染した血液等に接触した場合に、感染を起こすことがあり、一過性の感染で終わる場合と、そのまま感染している状態が続いてしまう場合（この状態をキャリアといいます）があります。また、経過の違いから、急性肝炎と慢性肝炎があり、急性肝炎は稀に劇症化する場合もあることから注意が必要です。キャリアになると慢性肝炎になることがあり、そのうち一部の人では肝硬変や肝がんなど命に関わる病気を引き起こすこともあります。（引用元：厚生労働省ホームページ）\n\n対象者\n平成28年4月1日以降に生まれた方で、1歳に至るまでの間にある方。\n注）母子感染予防のためのB型肝炎ワクチン接種を含む治療を受けた方については、健康保険給付の対象となっていることから、定期接種の対象者となりません。\n\nワクチン接種スケジュールと予診票の通知時期\n標準的な接種スケジュール（計3回接種する）\n組換え沈降B型肝炎ワクチンを生後2か月の時に1回目を接種し、接種翌日から27日以上の間隔を空けて2回目を接種。\n1回目の接種翌日から139日以上の間隔を空けて3回目を接種する。（引用元：2016年度版予防接種に関するQ＆A集）\n注）すでに任意接種によって定期接種と同様の方法で接種している方に関しては、接種済みの回数を除いたものが接種回数となります。\n\n予診票の通知時期\n生後2か月の誕生日の翌月までに3回分の予診票を通知します。",
+    "materiallySupport": "予防接種",
+    "monetarySupport": "接種回数：3回"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "1歳に至るまでの間にある方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 2
+    },
+    "lessThan": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "平成28年4月1日以降に生まれた方で、1歳に至るまでの間にある方。\n注）母子感染予防のためのB型肝炎ワクチン接種を含む治療を受けた方については、健康保険給付の対象となっていることから、定期接種の対象者となりません。"
+  },
+  "updateDate": "2023-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "生後2か月の誕生日の翌月までに3回分の予診票を通知します。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

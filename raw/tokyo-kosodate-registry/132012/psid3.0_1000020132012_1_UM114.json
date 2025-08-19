@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132012;八王子市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康医療部健康医療政策課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132012",
+    "psid": "psid3.0+1000020132012+1+UM114"
+  },
+  "belongings": "保険証",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "八王子市散田町3-10-1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "南多摩病院（小児科）",
+    "contactPhone": "042-663-0111",
+    "contactUrl": null,
+    "zipCode": "1930832"
+  },
+  "cost": null,
+  "costConditions": "診療内容に応じて費用が発生します。",
+  "description": "小児救急（随時24時間）\nお子さんに緊急で治療が必要な場合には、南多摩病院が診療します。来院する前にはお電話を。\n\n南多摩病院（小児科）\n\n郵便番号 193-0832 東京都八王子市散田町3-10-1\n\n電話番号 042-663-0111",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "〒193-0832\n八王子市散田町3-10-1",
+    "implementationName": "南多摩病院"
+  },
+  "institutionName": {
+    "canonicalName": "小児科救急",
+    "shortName": "子どもの救急"
+  },
+  "localGovernmentLink": {
+    "title": "救急診療・救急相談・医療機関を探す",
+    "uri": "https://www.city.hachioji.tokyo.jp/emergency/medical/p005723.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-28",
+    "updater": "八王子市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "八王子市では、市内医療機関（南多摩病院）で、随時24時間、お子さんに緊急で治療が必要な場合診療を行っています。",
+  "support": {
+    "description": "小児科",
+    "materiallySupport": "小児科",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "お子さんに緊急で治療が必要な場合"
+  },
+  "updateDate": "2024-04-22",
+  "useConsiderationFlag": false,
+  "utilization": "来院前にお電話をしてください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

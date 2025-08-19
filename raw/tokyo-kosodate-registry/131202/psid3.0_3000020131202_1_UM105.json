@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131202;練馬区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "練馬区立光が丘図書館",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020131202",
+    "psid": "psid3.0+3000020131202+1+UM105"
+  },
+  "belongings": "「絵本引換券」と「母子健康手帳」",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都練馬区光が丘4-1-5",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "練馬区立光が丘図書館",
+    "contactPhone": "03-5383-6500",
+    "contactUrl": null,
+    "zipCode": "1790072"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ブックスタート\n各図書館のブックスタート日程表\n各図書館でブックスタートを実施しています。\n館によって曜日や時間が異なりますので、日程表をご確認ください。\nご存知ですか？ブックスタート\n練馬区では、絵本を通じて親子のふれあいを深め、また絵本に親しんでもらえるように、ブックスタート事業を実施しています。\nブックスタートでは、絵本をお渡しするだけでなく、近隣の子育て支援施設のご紹介、読み聞かせ、わらべうた・手あそびの紹介などを、約30分行っています。\n絵本等の引き換えについて\n絵本セットの引き換え対象の方は下記のとおりです。\n対象者\t練馬区で4か月児健康診査の対象となる乳児とその保護者（絵本の引き換えは赤ちゃん一人につき1回限り）\n引換日\tブックスタート各図書館日程表をご覧ください。\n引換方法\t「絵本引換券」と「母子健康手帳」をお持ちの上、赤ちゃんとご一緒に所定の時間に各図書館へお越しください。\nブックスタートの様子\n赤ちゃんと楽しい絵本やわらべうたの時間をすごしていただきます。\nお忘れではありませんか？「絵本引換券」\n絵本セット赤ちゃんの4か月児健康診査の時にお受け取りになった「絵本引換券」が、まだお手元に残っていませんか。\n写真の「絵本セット」と交換します。\n絵本引換券を受け取ってから、赤ちゃんが1歳くらいまでの間にお越しください。\n「絵本引換券」が見当たらない場合や、赤ちゃんが1歳を過ぎてしまっていても、絵本の引換ができます。\nご不明な点は最寄りの図書館へお問い合わせください。\n図書館からのお願い\n赤ちゃんとご一緒にお越しください。（ベビーカーでおいでになれます。）\nブックスタート実施日に都合の悪い方は、図書館へお問い合わせください。\n開始時間になりましたら事業を始めます。時間までにご来館ください。\nなお、大泉図書館については、指定された時間の間にご来館ください。\n発熱やせきなどの症状がある場合は、参加をお控え下さい。当日の健康状態によりましては、参加を見合わせていただくことがありますので、予めご了承ください。\n感染症等の状況により事業を中止または日程の変更をする場合があります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "図書館の児童サービス（ブックスタートなど）",
+    "shortName": "ブックスタート事業"
+  },
+  "localGovernmentLink": {
+    "title": "ブックスタート",
+    "uri": "https://www.lib.nerima.tokyo.jp/viewer/info.html?id=2"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "練馬区"
+  },
+  "procedureCounter": "各図書館",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "「絵本引換券」と「母子健康手帳」をお持ちの上、所定の時間に各図書館へお越しください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "要綱全体",
+    "regulationName": "練馬区ブックスタート事業実施要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ブックスタートとは、赤ちゃんとその保護者に絵本をプレゼントし、絵本を開く楽しい体験とともに、心ふれあうきっかけをつくる活動です。",
+  "support": {
+    "description": "ブックスタートでは、絵本をお渡しするだけでなく親子のふれあいと本についてのお話し、読み聞かせ、わらべうた・手あそびの紹介などを30分位行っています。",
+    "materiallySupport": "ブックスタートでは、絵本をお渡しするだけでなく親子のふれあいと本についてのお話し、読み聞かせ、わらべうた・手あそびの紹介などを30分位行っています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "4か月児健康診査の対象となる乳児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "練馬区で4か月児健康診査の対象となる乳児とその保護者（絵本の引き換えは赤ちゃん一人につき１回限り）"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

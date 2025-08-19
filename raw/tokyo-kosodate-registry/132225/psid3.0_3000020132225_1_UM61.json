@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132225;東久留米市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　児童青少年課　助成支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132225",
+    "psid": "psid3.0+3000020132225+1+UM61"
+  },
+  "belongings": "1.借家賃貸借契約書の写し\n2.申請者名義の口座のわかるもの\n注意：その他、ご事情により別途書類が必要となる場合があります。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都東久留米市本町3-3-1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　児童青少年課　助成支援係",
+    "contactPhone": "042-470-7736",
+    "contactUrl": "https://www.city.higashikurume.lg.jp/kurashi/kosodate/teate/1000455.html",
+    "zipCode": "2038555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "\n対象となる方\n18歳未満のお子さま（又は20歳未満で児童扶養手当、特別児童扶養手当、児童育成手当、ひとり親家庭等医療費助成制度の障害の要件で認定を受けたお子さま）と同居するひとり親家庭等であって、次の要件を満たす方。\n\n1.自らが居住する民間賃貸住宅を賃借し、その賃借料を支払っている方\n2.所得制限限度額未満の方\n3.その他で住宅にかかる公的扶助を受けていない方\n注意：ここでいう民間賃貸住宅とは、公営住宅のほか、社宅、官舎、寮、独立行政法人都市再生機構住宅（UR賃貸住宅）、及び元配偶者、三親等以内の親族が所有する住宅を除く市内に所在する賃貸住宅を指します。\n\n所得制限限度額\n|扶養親族等の人数|所得額|\n|:----|:----|\n|0人|2,080,000円未満|\n|1人|2,460,000円未満|\n|2人|2,840,000円未満|\n|3人|3,220,000円未満|\n|4人|3,600,000円未満|\n|5人|3,980,000円未満|\n\n・5人以降一人増すごとに加算する金額：380,000円\n・老人控除対象配偶者又は老人扶養親族1人につき加算する金額：100,000円\n・特定扶養親族又は16歳以上19歳未満の控除象扶養親族1人につき加算する金額：250,000円\n・給与所得又は公的年金等に係る所得を有する場合は、その合計額から一律10万円を控除します。\n所得から控除する金額\n・社会保険料相当額（一律）：80,000円\n・障害、勤労学生、寡婦控除：270,000円\n・特別障害者控除：400,000円\n・ひとり親控除：350,000円\n・雑損、医療費、小規模企業共済掛金控除：控除相当額\n・配偶者特別控除：控除相当額\n手当額（月額）\n3,500円\n\n支給方法\n支給は申請日の属する月分からとなります。\n\n支払い月は年3回（2月・6月・10月）です。各支払い月の15日頃（金融機関により若干前後します）に、前月分までをお届けの口座に振り込みます。\n\n申請に必要なもの\n1.借家賃貸借契約書の写し\n2.申請者名義の口座のわかるもの\n注意：その他、ご事情により別途書類が必要となる場合があります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自のひとり親の方への金銭的支援",
+    "shortName": "ひとり親家庭住宅手当"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親家庭住宅手当（市の制度）",
+    "uri": "https://www.city.higashikurume.lg.jp/kurashi/kosodate/teate/1000455.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "東久留米市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "所得制限限度額\n|扶養親族等の人数|所得額|\n|:----|:----|\n|0人|1,920,000円未満|\n|1人|2,300,000円未満|\n|2人|2,680,000円未満|\n|3人|3,060,000円未満|\n|4人|3,440,000円未満|\n|5人|3,820,000円未満|\n・5人以降一人増すごとに加算する金額：380,000円\n・老人控除対象配偶者又は老人扶養親族1人につき加算する金額：100,000円\n・特定扶養親族又は16歳以上19歳未満の控除象扶養親族1人につき加算する金額：250,000円\n・給与所得又は公的年金等に係る所得を有する場合は、その合計額から一律10万円を控除します。\n所得から控除する金額\n・社会保険料相当額（一律）：80,000円\n・障害、勤労学生、寡婦控除：270,000円\n・特別障害者控除：400,000円\n・ひとり親控除：350,000円\n・雑損、医療費、小規模企業共済掛金控除：控除相当額\n・配偶者特別控除：控除相当額\n\n支給方法\n支給は申請日の属する月分からとなります。\n\n支払い月は年3回（2月・6月・10月）です。各支払い月の15日頃（金融機関により若干前後します）に、前月分までをお届けの口座に振り込みます。\n\n申請に必要なもの\n1.借家賃貸借契約書の写し\n2.申請者名義の口座のわかるもの\n注意：その他、ご事情により別途書類が必要となる場合があります。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "18歳未満のお子さま（又は20歳未満で児童扶養手当、特別児童扶養手当、児童育成手当、ひとり親家庭等医療費助成制度の障害の要件で認定を受けたお子さま）と同居するひとり親家庭等であって、次の要件を満たす方。\n\n1.自らが居住する民間賃貸住宅を賃借し、その賃借料を支払っている方\n2.所得制限限度額未満の方\n3.その他で住宅にかかる公的扶助を受けていない方\n注意：ここでいう民間賃貸住宅とは、公営住宅のほか、社宅、官舎、寮、独立行政法人都市再生機構住宅（UR賃貸住宅）、及び元配偶者、三親等以内の親族が所有する住宅を除く市内に所在する賃貸住宅を指します。",
+  "regulation": {
+    "regulationArticle": "要綱全体で制度を規定",
+    "regulationName": "東久留米市ひとり親家庭住宅手当支給実施要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "東久留米市では、18歳未満のお子さま（又は20歳未満で児童扶養手当、特別児童扶養手当、児童育成手当、ひとり親家庭等医療費助成制度の障害の要件で認定を受けたお子さま）と同居するひとり親家庭等であって、①自らが居住する民間賃貸住宅を賃借し、その賃借料を支払っている方、②所得制限限度額未満の方、③その他で住宅にかかる公的扶助を受けていない方に対して、ひとり親家庭住宅手当を支給しています。",
+  "support": {
+    "description": "手当額（月額）\n3,500円",
+    "materiallySupport": null,
+    "monetarySupport": "手当額（月額）\n3,500円"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "18歳未満のお子さま（又は20歳未満で児童扶養手当、特別児童扶養手当、児童育成手当、ひとり親家庭等医療費助成制度の障害の要件で認定を受けたお子さま）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "18歳未満のお子さま（又は20歳未満で児童扶養手当、特別児童扶養手当、児童育成手当、ひとり親家庭等医療費助成制度の障害の要件で認定を受けたお子さま）と同居するひとり親家庭等であって、次の要件を満たす方。\n\n1.自らが居住する民間賃貸住宅を賃借し、その賃借料を支払っている方\n2.所得制限限度額未満の方\n3.その他で住宅にかかる公的扶助を受けていない方\n注意：ここでいう民間賃貸住宅とは、公営住宅のほか、社宅、官舎、寮、独立行政法人都市再生機構住宅（UR賃貸住宅）、及び元配偶者、三親等以内の親族が所有する住宅を除く市内に所在する賃貸住宅を指します。"
+  },
+  "updateDate": "2021-06-01",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

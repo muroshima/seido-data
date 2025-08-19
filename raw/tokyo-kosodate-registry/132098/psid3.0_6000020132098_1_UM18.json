@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健所保健予防課保健予防係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+1+UM18"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健所保健予防課保健予防係",
+    "contactPhone": "042-725-5422",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊娠高血圧症候群等の医療費助成\n\n本制度は、妊娠高血圧症候群等の入院治療に係る医療費の自己負担額（食事療養費標準負担額を除く保険適用分）を助成するものです。\n申請者が医療費の支給認定を申請した後、支給が認定された場合は、当市から申請者に医療券を郵送します。申請者が医療機関に医療券を提示するか、当市に当該医療に要した費用を請求することにより、申請者が医療費の助成を受けることができます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊娠高血圧症候群（妊娠中毒症）に関する助成",
+    "shortName": "妊娠高血圧症候群等の医療費助成"
+  },
+  "localGovernmentLink": {
+    "title": "妊娠高血圧症候群等の医療費助成",
+    "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/8/11468.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": "申請受付窓口（担当）\n〒194-8520\n町田市森野2-2-22 町田市役所市庁舎7階（704番窓口）\n担当：保健所保健予防課保健予防係\n電話：042-725-5422\nファックス：050-3161-8634",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請方法\n申請書類を以下の申請受付窓口まで送付いただくか、ご持参ください。\n（注記）申請書類については、申請受付窓口までお問い合わせください。\n\n申請受付窓口（担当）\n〒194-8520\n町田市森野2-2-22 町田市役所市庁舎7階（704番窓口）\n担当：保健所保健予防課保健予防係\n電話：042-725-5422\nファックス：050-3161-8634\n\n医療券交付までの流れ\n申請受付窓口にて申請を受理してから、審査が完了するまで、3週間程度の時間を要します。医療費の支給が認定された場合は、申請者に医療券を郵送します。\nなお、申請に不備があった場合、審査に要する時間が通常より長くなる場合があります。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "妊娠高血圧症候群等に係る医療費助成の認定基準(PDFファイル:319.4KB)",
+      "uri": "https://kosodate-machida.tokyo.jp/material/files/group/4/kouketuatukizyun.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠高血圧症候群等の入院治療に係る医療費（食事療養費標準負担額を除く保険適用分）の自己負担額を助成するものです。",
+  "support": {
+    "description": "妊娠高血圧症候群等の入院治療に係る医療費の自己負担額を助成するものです。\n申請者が医療費の支給認定を申請した後、支給が認定された場合は、当市から申請者に医療券を郵送します。申請者が医療機関に医療券を提示するか、当市に当該医療に要した費用を請求することにより、申請者が医療費の助成を受けることができます。",
+    "materiallySupport": "医療券を交付し、妊娠高血圧症候群等の入院治療に係る医療費の自己負担額を助成します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "町田市内に在住する方で、妊娠高血圧症候群等の対象疾病にかかっており、下記の要件1または2のいずれかを満たす方。\n\n1.前年分の総所得税額が3万円以下の世帯に属する方\n2.対象疾病による入院見込み期間が26日以上の方\n\n対象疾病\n・妊娠高血圧症候群およびその関連疾患\n・糖尿病\n・貧血\n・産科出血\n・心疾患\n対象疾病には、それぞれ認定基準があります。認定基準を満たさない場合は、医療費の支給対象となりません。妊娠高血圧症候群等に係る医療費助成の認定基準(PDFファイル:319.4KB);https://kosodate-machida.tokyo.jp/material/files/group/4/kouketuatukizyun.pdf"
+  },
+  "updateDate": "2024-03-21",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

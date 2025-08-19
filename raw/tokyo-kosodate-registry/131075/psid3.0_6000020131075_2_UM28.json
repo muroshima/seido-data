@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131075;墨田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "生活福祉課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131075",
+    "psid": "psid3.0+6000020131075+2+UM28"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "生活福祉課 相談係",
+    "contactPhone": "03-5608-6154",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "生活資金の貸し付け\n\n東京都母子及び父子福祉資金\n20歳未満の子を扶養しているひとり親家庭の方に必要な資金をお貸しします。事前相談が必要です。\n申請を受けてから、資金を交付するまでに通常1か月以上かかります。お早めに、まずはご相談ください。\n\n対象者\n区内に住所があり、次の要件を全て満たす方\n（1）都内に6か月以上住んでいる\n（2）20歳未満のお子さんを扶養している\n（3）貸付けが自立につながると判断される\n（4）償還（返済）の計画が立てられる\n\n資金の種類\n修学資金、就学支度資金、転宅資金、生活資金等\n資金の種類、各資金の貸付額及び具体的な要件については、お問い合わせください。\n※支払い済みの資金、滞納、借金返済のための貸付けはできませんので、ご注意ください。\n※原則、連帯保証人を立てていただく必要があります。また、有利子の貸付けとなることもあります。\n\n問い合わせ先\n生活福祉課 相談係\n電話：03-5608-6154",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "母子父子寡婦福祉資金",
+    "shortName": "東京都母子及び父子福祉資金"
+  },
+  "localGovernmentLink": {
+    "title": "生活資金の貸し付け",
+    "uri": "https://www.city.sumida.lg.jp/kenko_fukushi/seikatuhukusi/seikatu_kasituke.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-28",
+    "updater": "墨田区"
+  },
+  "procedureCounter": "生活福祉課 相談係\n電話：03-5608-6154",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（母子福祉資金の貸付け）、第14条（母子・父子福祉団体に対する貸付け）、第31条の6（父子福祉資金の貸付け）、第32条（寡婦福祉資金の貸付け）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "母子家庭の母、父子家庭の父、および寡婦の方の経済的自立や、扶養しているお子さんの福祉増進のために、必要な資金をお貸しする制度です。",
+  "support": {
+    "description": "20歳未満の子を扶養しているひとり親家庭の方に必要な資金をお貸しします。\n資金の種類\n修学資金、就学支度資金、転宅資金、生活資金等\n資金の種類、各資金の貸付額及び具体的な要件については、お問い合わせください。\n※支払い済みの資金、滞納、借金返済のための貸付けはできませんので、ご注意ください。\n※原則、連帯保証人を立てていただく必要があります。また、有利子の貸付けとなることもあります。",
+    "materiallySupport": null,
+    "monetarySupport": "20歳未満の子を扶養しているひとり親家庭の方に必要な資金をお貸しします。\n資金の種類\n修学資金、就学支度資金、転宅資金、生活資金等\n資金の種類、各資金の貸付額及び具体的な要件については、お問い合わせください。\n※支払い済みの資金、滞納、借金返済のための貸付けはできませんので、ご注意ください。\n※原則、連帯保証人を立てていただく必要があります。また、有利子の貸付けとなることもあります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内に住所があり、次の要件を全て満たす方\n（1）都内に6か月以上住んでいる\n（2）20歳未満のお子さんを扶養している\n（3）貸付けが自立につながると判断される\n（4）償還（返済）の計画が立てられる"
+  },
+  "updateDate": "2023-02-20",
+  "useConsiderationFlag": false,
+  "utilization": "事前相談が必要です。\n申請を受けてから、資金を交付するまでに通常1か月以上かかります。お早めに、まずはご相談ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

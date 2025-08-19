@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "132055;青梅市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て応援課子育て推進係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132055",
+    "psid": "psid3.0+8000020132055+4+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "青梅市新町2-21-9",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て支援センター",
+    "contactPhone": "0428-31-1318",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子育て支援センター「はぐはぐ」\n子育て支援センター「はぐはぐ」は、子育て中の親子や子どもたちが自由にのびのびと遊べる場です。\nまた、子育てに関する情報や相談も受けられます。お気軽にご利用ください。\n\n利用に際してのお願い\n・体調不良の方は利用を控えてください。\n・手洗い（アルコール消毒も可）をしてからご利用ください。\n\n利用時間\n・午前9時～午後5時\n\n休館日\n第2月曜日（この日が祝日の場合はその翌平日）、年末年始（12月29日から1月3日まで）\n（台風や大雪など、危険を伴うと判断された気象条件で急な休館となる場合があります。）\n\nこども家庭センター巡回相談\nこども家庭センターの相談員が巡回相談を実施します。日ごろ、子育てについての悩みや不安、知りたいことなど、お気軽にご相談ください。\n・日時　毎月第2水曜日（この日が祝日の場合は、第3水曜日）、午前10時30分から11時30分まで\n\n電話による子育てに関する相談\n電話による子育てに関する簡易な相談はお受けしておりますので、お子様のことなどでスタッフとお話ししたいことがございましたら、お気軽にご連絡ください。（相談対応時間：午前10時～午後4時）\n\n「はぐはぐ」　だより\nはぐはぐだより　5月号 [PDFファイル／1.1MB];https://www.city.ome.tokyo.jp/uploaded/attachment/55103.pdf\nはぐはぐだより　6月号 [PDFファイル／1.59MB]https://www.city.ome.tokyo.jp/uploaded/attachment/55563.pdf\n \n子育て支援の画像のびのびと自由に遊べる子育て支援センターの画像;https://www.city.ome.tokyo.jp/uploaded/image/1037.png\n\n問い合わせ\n子育て支援センター（青梅市新町2-21-9）電話0428-31-1318",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "毎月第2水曜日（この日が祝日の場合は、第3水曜日）",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "青梅市新町2-21-9",
+    "implementationName": "子育て支援センター"
+  },
+  "institutionName": {
+    "canonicalName": "青梅市の子育てに関する相談",
+    "shortName": "こども家庭センター巡回相談"
+  },
+  "localGovernmentLink": {
+    "title": "子育て支援センター「はぐはぐ」",
+    "uri": "https://www.city.ome.tokyo.jp/soshiki/34/43.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-12",
+    "updater": "青梅市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "はぐはぐだより　6月号 [PDFファイル／1.59MB]",
+      "uri": "https://www.city.ome.tokyo.jp/uploaded/attachment/55563.pdf"
+    },
+    {
+      "title": "はぐはぐだより　5月号 [PDFファイル／1.1MB]",
+      "uri": "https://www.city.ome.tokyo.jp/uploaded/attachment/55103.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "こども家庭センターの相談員が巡回相談を実施します。日ごろ、子育てについての悩みや不安、知りたいことなど、お気軽にご相談ください。",
+  "support": {
+    "description": "こども家庭センター巡回相談\nこども家庭センターの相談員が巡回相談を実施します。日ごろ、子育てについての悩みや不安、知りたいことなど、お気軽にご相談ください。\n・日時　毎月第2水曜日（この日が祝日の場合は、第3水曜日）、午前10時30分から11時30分まで",
+    "materiallySupport": "こども家庭センター巡回相談\nこども家庭センターの相談員が巡回相談を実施します。日ごろ、子育てについての悩みや不安、知りたいことなど、お気軽にご相談ください。\n・日時　毎月第2水曜日（この日が祝日の場合は、第3水曜日）、午前10時30分から11時30分まで",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "子育て中の親子や子どもたち"
+  },
+  "updateDate": "2024-05-27",
+  "useConsiderationFlag": false,
+  "utilization": "こども家庭センターの相談員が巡回相談を実施します。日ごろ、子育てについての悩みや不安、知りたいことなど、お気軽にご相談ください。\n・日時　毎月第2水曜日（この日が祝日の場合は、第3水曜日）、午前10時30分から11時30分まで",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": "10:30",
+    "toHM": "11:30"
+  }
+}

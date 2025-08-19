@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局子ども部子ども支援課入園審査係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+1+UM82"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区九段南1-2-1",
+    "contactComment": null,
+    "contactEmail": "kodomoshien@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "教育委員会事務局子ども部子ども支援課入園審査係",
+    "contactPhone": "03-5211-4119",
+    "contactUrl": null,
+    "zipCode": "1028688"
+  },
+  "cost": "100",
+  "costConditions": "1時間につき",
+  "description": "保護者が一時的な事由により、通常の教育時間以外に保育が必要な場合に、在籍園でお子さんをお預かりする制度です。こども園・幼稚園における預かり保育は、「幼稚園教育要領」に基づいた教育時間終了後の教育活動です。専任の教員が付き、一人一人の子どもの状態に合わせ、無理なく安全にまた、教育活動として計画して、実施します。\n園によって内容や実施日、時間が異なりますので、詳細は各園にお問い合わせください。\n\n※3歳児は、園での生活に慣れてから、各園の判断で開始時期を決定のうえ、実施します。\n※行事等により預かり保育を実施していない日があります。\n\n料金\n1時間につき100円\n※幼保一体施設とこども園は、短時間保育の休業日に給食時間を超えて保育する場合に、給食代300円がかかります。\n※こども園は、午後3時を超えて保育する場合に、おやつ代100円がかかります。\n\n保護者が就労等により保育ができない状況にあるお子さんは、事前に「施設等利用給付認定（新2号）」を受けることで、預かり保育利用料が、幼児教育・保育の無償化対象となる場合があります。なお、おやつ代・給食代は、無償化の対象ではありません。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "幼稚園での預かり保育",
+    "shortName": "区立幼稚園・こども園預かり保育"
+  },
+  "localGovernmentLink": {
+    "title": "区立幼稚園・こども園預かりの保育",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/yochien/azukari.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": "各園",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "在園している園にお問い合わせください。\n\n・麹町幼稚園（電話番号：03-3263-7330）\n・九段幼稚園（電話番号：03-3263-0567）\n・番町幼稚園（電話番号：03-3263-3725）\n・お茶の水幼稚園（電話番号：03-3263-2355）\n・千代田幼稚園（電話番号：03-3256-1709）\n・昌平幼稚園（電話番号：03-3251-0768）\n・いずみこども園（電話番号：03-3866-9938）\n・ふじみこども園（電話番号：03-3263-1009）",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第21条の9",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "幼児教育・保育の無償化",
+      "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/hoikumushoka.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者が一時的な事由により、通常の教育時間以外に保育が必要な場合に、在籍園でお子さんをお預かりしています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2023-10-05",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "【幼稚園・幼保一体施設】\n教育時間終了後から午後4時30分までの間で、保護者が希望する時間\n【こども園】\n午前7時30分から教育時間開始までと、教育時間終了後から午後6時30分までの間で、保護者が希望する時間",
+    "fromHM": null,
+    "toHM": null
+  }
+}

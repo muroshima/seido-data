@@ -1,0 +1,140 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "いきいき生活部 保険年金課 国民年金係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+1+UM793"
+  },
+  "belongings": "本人確認書類：年金手帳、免許証またはマイナンバーカード等\n母子健康手帳：妊娠85日以上の死産、流産等の場合は「死産証明書」、「死胎埋火葬許可証」、「母子健康手帳」のいずれか",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "いきいき生活部 保険年金課 国民年金係",
+    "contactPhone": "042-724-2127",
+    "contactUrl": "https://www.city.machida.tokyo.jp/cgi-bin/formmail/ssl/ssl_goiken/formmail.cgi?d=ssl_goiken&bu=006&ka=001",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "2019年4月から国民年金保険料の産前産後期間の免除制度が始まりました\n\n2019年4月から国民年金保険料の産前産後期間の免除制度が始まりました\n次世代育成支援の観点から、国民年金第1号被保険者が出産を行った際には、出産前後の一定期間の国民年金保険料が免除される制度が始まりました。\n\n産前産後期間の免除制度は法定免除、一般免除猶予制度、学生納付特例制度に優先して適用されます。また、所得制限はありません。\n\n産前産後免除制度リーフレット(厚生労働省)（PDF・1,627KB）;https://www.city.machida.tokyo.jp/kurashi/hoken/nenkin/nenkin_menjoseido/sanzensango_t.files/sanzensango.pdf\n\n対象となる方\n国民年金第1号被保険者で、出産日が2019年2月1日以降の方。\n\n国民年金保険料が免除される期間\n出産予定日又は出産日が属する月の前月から4か月間の国民年金保険料が免除されます。\nなお、多胎妊娠の場合は、出産予定日又は出産日が属する月の3か月前から6か月間の国民年金保険料が免除されます。\n\n※出産とは、妊娠85日（4か月）以上の出産をいいます。（死産、流産、早産、人工妊娠中絶された方を含みます）\n\n産前産後期間として認められた期間は、保険料を納めた期間として扱われます。\n\n産前産後免除の対象期間例（PDF・42KB）;https://www.city.machida.tokyo.jp/kurashi/hoken/nenkin/nenkin_menjoseido/sanzensango_t.files/sanzensango2.pdf\n\n施行日\n2019年4月1日\n\n申請方法\n出産予定日の6か月前から提出が可能です。\n申請に時効はありません。2019年4月1日以降いつでも申請できます。\n\n手続きに必要なもの\n本人確認書類：年金手帳、免許証またはマイナンバーカード等\n母子健康手帳：妊娠85日以上の死産、流産等の場合は「死産証明書」、「死胎埋火葬許可証」、「母子健康手帳」のいずれか\n\n申請先\n保険年金課国民年金係105窓口、または各市民センター窓口\n（町田市に住民登録がない方は、住民登録地である市区町村役場の国民年金担当窓口で申請書を提出してください）\n\n出産予定日が変更になった場合\n産前産後期間の免除を申請後に、出産日が変更になった場合は、原則変更の手続きは必要ありません。\nただし、変更をすることで免除される期間が増える場合などは、変更の手続きを行うことができます。\n\n変更の手続きが必要となる例（PDF・98KB）;https://www.city.machida.tokyo.jp/kurashi/hoken/nenkin/nenkin_menjoseido/sanzensango_t.files/sanzensango.k.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出産前後の国民年金保険料免除",
+    "shortName": "2019年4月から国民年金保険料の産前産後期間の免除制度が始まりました"
+  },
+  "localGovernmentLink": {
+    "title": "2019年4月から国民年金保険料の産前産後期間の免除制度が始まりました",
+    "uri": "https://www.city.machida.tokyo.jp/kurashi/hoken/nenkin/nenkin_menjoseido/sanzensango_t.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": "保険年金課国民年金係105窓口、または各市民センター窓口\n（町田市に住民登録がない方は、住民登録地である市区町村役場の国民年金担当窓口で申請書を提出してください）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請方法\n出産予定日の6か月前から提出が可能です。\n申請に時効はありません。2019年4月1日以降いつでも申請できます。,出産予定日が変更になった場合\n産前産後期間の免除を申請後に、出産日が変更になった場合は、原則変更の手続きは必要ありません。\nただし、変更をすることで免除される期間が増える場合などは、変更の手続きを行うことができます。\n変更の手続きが必要となる例（PDF・98KB）;https://www.city.machida.tokyo.jp/kurashi/hoken/nenkin/nenkin_menjoseido/sanzensango_t.files/sanzensango.k.pdf",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第88条の2（保険料の納付義務）",
+    "regulationName": "国民年金法"
+  },
+  "relatedLink": [
+    {
+      "title": "産前産後免除の対象期間例（PDF・42KB）",
+      "uri": "https://www.city.machida.tokyo.jp/kurashi/hoken/nenkin/nenkin_menjoseido/sanzensango_t.files/sanzensango.k.pdf"
+    },
+    {
+      "title": "変更の手続きが必要となる例（PDF・98KB）",
+      "uri": "https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html"
+    },
+    {
+      "title": "産前産後免除制度リーフレット(厚生労働省)（PDF・1",
+      "uri": "https://www.city.machida.tokyo.jp/kurashi/hoken/nenkin/nenkin_menjoseido/sanzensango_t.files/sanzensango.pdf"
+    },
+    {
+      "title": "627KB）",
+      "uri": "https://www.city.machida.tokyo.jp/kurashi/hoken/nenkin/nenkin_menjoseido/sanzensango_t.files/sanzensango2.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": "施行日\n2019年4月1日",
+  "summary": "国民年金の第1号被保険者が出産した場合には、出産前後の一定期間の国民年金保険料が免除されます。免除期間は年金額を計算する際、保険料を納めた期間として扱われます。",
+  "support": {
+    "description": "法定免除、一般免除猶予制度、学生納付特例制度に優先して適用されます。また、所得制限はありません。,国民年金保険料が免除される期間\n出産予定日又は出産日が属する月の前月から4か月間の国民年金保険料が免除されます。\nなお、多胎妊娠の場合は、出産予定日又は出産日が属する月の3か月前から6か月間の国民年金保険料が免除されます。\n\n※出産とは、妊娠85日（4か月）以上の出産をいいます。（死産、流産、早産、人工妊娠中絶された方を含みます）\n\n産前産後期間として認められた期間は、保険料を納めた期間として扱われます。\n産前産後免除の対象期間例（PDF・42KB）https://www.city.machida.tokyo.jp/kurashi/hoken/nenkin/nenkin_menjoseido/sanzensango_t.files/sanzensango2.pdf",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "078",
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "国民年金第1号被保険者で、出産日が2019年2月1日以降の方。"
+  },
+  "updateDate": "2023-06-29",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131067;台東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "障害福祉課給付担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131067",
+    "psid": "psid3.0+6000020131067+5+UM120"
+  },
+  "belongings": "手続きに必要なもの\n身体障害者手帳・愛の手帳（お持ちの場合）　\n印鑑（スタンプ印不可）\n本人及び扶養義務者等の個人番号、又は通知カードと身分証明書",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "台東区東上野4-5-6",
+    "contactComment": null,
+    "contactEmail": "s-fuku@city.taito.tokyo.jp",
+    "contactEx": "2723",
+    "contactName": "障害福祉課給付担当",
+    "contactPhone": "03-5246-1201",
+    "contactUrl": null,
+    "zipCode": "1108615"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "対象\n６５歳未満の重度障害のある方で、次のいずれかに該当する方\n重度の知的障害者で、著しい精神症状などのため、常時複雑な介護を必要とする方\n重度の知的障害と重度の身体障害が重複している方\n重度の肢体不自由者で、両上肢・両下肢とも機能が失われ、座っていることが困難な程度以上の障害のある方\n※各種手帳を取得していなくても可\n注意点\nこの手当に該当する障害の程度は、身体障害者手帳１・２級、愛の手帳１・２度と判定されただけでは支給要件に該当せず、一定の障害要件に該当する必要があります。障害の程度の判定は、東京都心身障害者福祉センターで行います。\n支給制限\n次のいずれかに該当する方は支給されません。\n施設に入所している方\n病院、診療所に継続して３か月を超えて入院している方\n２０歳未満は扶養義務者、２０歳以上は受給者本人の所得が限度額を超えている方\n所得制限基準額一覧（PDF：80KB）;https://www.city.taito.lg.jp/kenkohukusi/shogai/teate/shaji/juudosyougaisyateate.files/syotokusaisin.pdf\n手当額\n月額60,000円\n支給方法\n申請のあった月の分から、本人名義の預金口座に振り込みます。\n手続きに必要な物\n身体障害者手帳・愛の手帳（お持ちの場合）\n印鑑（スタンプ印不可）\n個人番号（本人及び扶養義務者）、本人確認ができるもの;https://www.city.taito.lg.jp/kenkohukusi/shogai/service/bangoseido/honnninnkakunin.html\n未婚の母又は未婚の父が地方税法上の寡婦控除又は寡夫控除のみなし適用の申請を行う場合には、その事実を明らかにすることができる書類\n転入の方は本人（20歳未満は扶養義務者）の前年の所得が分かる（非）課税証明書\n窓口\n障害福祉課（2階10番窓口）\n\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関するその他のこと",
+    "shortName": "東京都重度心身障害者手当"
+  },
+  "localGovernmentLink": {
+    "title": "重度心身障害者手当（都の制度）",
+    "uri": "https://www.city.taito.lg.jp/kenkohukusi/shogai/teate/shaji/juudosyougaisyateate.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "台東区"
+  },
+  "procedureCounter": "障害福祉課（2階10番窓口）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "手続きに必要なもの\n身体障害者手帳・愛の手帳（お持ちの場合）　\n印鑑（スタンプ印不可）\n本人及び扶養義務者等の個人番号、又は通知カードと身分証明書\n窓口\n障害福祉課（2階10番窓口）",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "東京都重度心身障害者手当条例"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "心身に重い障害を有し、かつ日常生活において常時複雑な介護を必要とする方に手当を支給します。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": "月額60,000円"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象\n６５歳未満の重度障害のある方で、次のいずれかに該当する方\n重度の知的障害者で、著しい精神症状などのため、常時複雑な介護を必要とする方\n重度の知的障害と重度の身体障害が重複している方\n重度の肢体不自由者で、両上肢・両下肢とも機能が失われ、座っていることが困難な程度以上の障害のある方\n※各種手帳を取得していなくても可\n注意点\nこの手当に該当する障害の程度は、身体障害者手帳１・２級、愛の手帳１・２度と判定されただけでは支給要件に該当せず、一定の障害要件に該当する必要があります。障害の程度の判定は、東京都心身障害者福祉センターで行います。\n支給制限\n次のいずれかに該当する方は支給されません。\n施設に入所している方\n病院、診療所に継続して３か月を超えて入院している方\n２０歳未満は扶養義務者、２０歳以上は受給者本人の所得が限度額を超えている方"
+  },
+  "updateDate": "2020-10-06",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

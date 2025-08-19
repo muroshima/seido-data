@@ -1,0 +1,199 @@
+{
+  "area": {
+    "areaCode": "131105;目黒区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課 子育て支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131105",
+    "psid": "psid3.0+1000020131105+1+UM95"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て支援課 子育て支援係",
+    "contactPhone": "03-5722-9892",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "https://www.city.meguro.tokyo.jp/kosodateshien/shisetsu/kyouikukosodate/shiritsu.html#p2",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "新制度の幼稚園・認定こども園（幼稚園枠）一覧",
+    "shortName": "私立幼稚園（子ども・子育て支援新制度に移行している幼稚園）"
+  },
+  "localGovernmentLink": {
+    "title": "私立幼稚園一覧",
+    "uri": "https://www.city.meguro.tokyo.jp/kosodateshien/shisetsu/kyouikukosodate/shiritsu.html#p2"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "目黒区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "恵泉バプテスト教会附属めぐみ幼稚園のホームページ",
+      "uri": "http://www.keisen-baptist.jp/"
+    },
+    {
+      "title": "育英幼稚園ホームページ",
+      "uri": "https://www.ikuei-meguro.com/"
+    },
+    {
+      "title": "円融寺幼稚園のホームページ",
+      "uri": "https://www.enyuji-kids.com/"
+    },
+    {
+      "title": "アゼィリア幼稚園ホームページ",
+      "uri": "http://www.azaleakg.net/"
+    },
+    {
+      "title": "駒場幼稚園のホームページ",
+      "uri": "http://www.komaba.ed.jp/"
+    },
+    {
+      "title": "枝光会駒場幼稚園のホームページ",
+      "uri": "https://shikoukai.ed.jp/komaba/"
+    },
+    {
+      "title": "枝光学園幼稚園のホームページ",
+      "uri": "https://shikoukai.ed.jp/nakameguro/"
+    },
+    {
+      "title": "志のぶ幼稚園のホームページ",
+      "uri": "https://www.shinobu-kg.com/"
+    },
+    {
+      "title": "中目黒幼稚園のホームページ",
+      "uri": "http://www.nakamekids.ed.jp/"
+    },
+    {
+      "title": "目黒日本大学幼稚園のホームページ",
+      "uri": "https://www.meguro-nichidai.ed.jp/kinder/"
+    },
+    {
+      "title": "碑文谷教会付属幼稚園のホームページ",
+      "uri": "http://www.himonya-church.org/"
+    },
+    {
+      "title": "平塚幼稚園のホームページ",
+      "uri": "https://www.hiratsuka.ed.jp/"
+    },
+    {
+      "title": "べテル幼稚園のホームページ",
+      "uri": "https://bethel-k.ed.jp/"
+    },
+    {
+      "title": "目黒サレジオ幼稚園のホームページ",
+      "uri": "https://m-salesio.com/"
+    },
+    {
+      "title": "目黒幼稚園のホームページ",
+      "uri": "http://meguro-kdg.ed.jp/"
+    },
+    {
+      "title": "祐天寺付属幼稚園のホームページ",
+      "uri": "http://www.yutenji.or.jp/youchien/"
+    },
+    {
+      "title": "若草幼稚園のホームページ",
+      "uri": "http://www.wakakusa.iplus.to/"
+    },
+    {
+      "title": "私立幼稚園の補助金",
+      "uri": "https://www.city.meguro.tokyo.jp/kosodateshien/kosodatekyouiku/hoikuennado/hojokin.html"
+    },
+    {
+      "title": " 私立幼稚園等園児に対する預かり保育料補助",
+      "uri": " https://www.city.meguro.tokyo.jp/kosodateshien/kosodatekyouiku/hoikuennado/azukarihoikuhozyokinn2019.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "私立幼稚園には、新制度による給付を受ける幼稚園と、新制度には移行せず、私学助成を受けて運営している幼稚園があります。\n以下は、目黒区内の新制度による給付を受ける幼稚園の一覧です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

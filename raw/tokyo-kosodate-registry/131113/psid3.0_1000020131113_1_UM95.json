@@ -1,0 +1,175 @@
+{
+  "area": {
+    "areaCode": "131113;大田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育総務課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131113",
+    "psid": "psid3.0+1000020131113+1+UM95"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "新制度幼稚園\n\n大森聖マリア幼稚園;https://www.city.ota.tokyo.jp/shisetsu/youchien/shin/seimaria.html\n大田こまどり幼稚園;https://www.city.ota.tokyo.jp/shisetsu/youchien/shin/komadori.html\n北糀谷幼稚園;https://www.city.ota.tokyo.jp/shisetsu/youchien/shin/kitakojiya.html\n大森ルーテル幼稚園;https://www.city.ota.tokyo.jp/shisetsu/youchien/shin/oomoriruteru.html\n雪ヶ谷ルーテル幼稚園;https://www.city.ota.tokyo.jp/shisetsu/youchien/shin/yukigayaruter.html\n若草幼稚園;https://www.city.ota.tokyo.jp/shisetsu/youchien/shin/wakakusa.html\n蒲田ルーテル幼稚園;https://www.city.ota.tokyo.jp/shisetsu/youchien/shin/kamataruteru.html\n田園調布幼稚園;https://www.city.ota.tokyo.jp/shisetsu/youchien/shin/dentyou.html\n田園調布ルーテル幼稚園;https://www.city.ota.tokyo.jp/shisetsu/youchien/shin/dentyouruteru.html\n福音ルーテル教会大岡山幼稚園;https://www.city.ota.tokyo.jp/shisetsu/youchien/shin/oookayama.html\nめぐみ幼稚園;https://www.city.ota.tokyo.jp/shisetsu/youchien/shin/megumi.html\nぶどうの木幼稚園;https://www.city.ota.tokyo.jp/shisetsu/youchien/shin/budounoki.html\n東京昭和幼稚園;https://www.city.ota.tokyo.jp/shisetsu/youchien/shin/shouwa.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "新制度の幼稚園・認定こども園（幼稚園枠）一覧",
+    "shortName": "新制度幼稚園"
+  },
+  "localGovernmentLink": {
+    "title": "新制度幼稚園",
+    "uri": "https://www.city.ota.tokyo.jp/shisetsu/youchien/shin/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "大田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "ぶどうの木幼稚園",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/youchien/shin/budounoki.html"
+    },
+    {
+      "title": "雪ヶ谷ルーテル幼稚園",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/youchien/shin/yukigayaruter.html"
+    },
+    {
+      "title": "北糀谷幼稚園",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/youchien/shin/kitakojiya.html"
+    },
+    {
+      "title": "田園調布幼稚園",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/youchien/shin/dentyou.html"
+    },
+    {
+      "title": "大森ルーテル幼稚園",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/youchien/shin/oomoriruteru.html"
+    },
+    {
+      "title": "蒲田ルーテル幼稚園",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/youchien/shin/kamataruteru.html"
+    },
+    {
+      "title": "めぐみ幼稚園",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/youchien/shin/megumi.html"
+    },
+    {
+      "title": "東京昭和幼稚園",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/youchien/shin/shouwa.html"
+    },
+    {
+      "title": "若草幼稚園",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/youchien/shin/wakakusa.html"
+    },
+    {
+      "title": "福音ルーテル教会大岡山幼稚園",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/youchien/shin/oookayama.html"
+    },
+    {
+      "title": "大森聖マリア幼稚園",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/youchien/shin/seimaria.html"
+    },
+    {
+      "title": "大田こまどり幼稚園",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/youchien/shin/komadori.html"
+    },
+    {
+      "title": "田園調布ルーテル幼稚園",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/youchien/shin/dentyouruteru.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "幼稚園には公立の幼稚園と私立の幼稚園があります。\n私立幼稚園には、新制度による給付を受ける幼稚園と、新制度には移行せず、私学助成を受けて運営している幼稚園があります。\n以下は、大田区内の新制度による給付を受ける幼稚園の一覧です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

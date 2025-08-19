@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "133078;檜原村\t",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "やすらぎの里 福祉けんこう課 子育て支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020133078",
+    "psid": "psid3.0+8000020133078+1+UM63"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "FAX 042-519-9789",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "やすらぎの里 福祉けんこう課 子育て支援係",
+    "contactPhone": "042-598-3122",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "障害福祉、児童福祉の事業等がまとめられた冊子を作成したのでお知らせいたします。\nまた、ホームページ以外でも下記の窓口で配布を行っております。\n・やすらぎの里（福祉けんこう課）\n・檜原村役場（村民課）\n\n檜原の障害福祉について\n檜原の障害福祉(ファイル名：syougai-r5.pdf サイズ：1.07MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf\n\n檜原の児童福祉について\n檜原の児童福祉(ファイル名：zidou-r5.pdf サイズ：1.21MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "障害児福祉手当",
+    "shortName": "障害児福祉手当（国）"
+  },
+  "localGovernmentLink": {
+    "title": "障害児福祉手当（国）",
+    "uri": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-25",
+    "updater": "檜原村"
+  },
+  "procedureCounter": "やすらぎの里 福祉けんこう課 子育て支援係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "●手続きに必要なもの\n①申請書 ②印鑑（認印）③診断書（所定のもの）④住民票（世帯全員）⑤所得状況届（前年度の所得額） ⑥現況届 ⑦身体障害者手帳又は愛の手帳の写し ⑧支払金口座振替依頼書２枚（本人名義の口座）⑨障害年金証書の写し ⑩東京都重度心身障害者手当認定書の写し（診断書省略可）⑪個人番号（マイナンバー）のわかるもの",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第3章",
+    "regulationName": "特別児童扶養手当等の支給に関する法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "身体または精神に重度の障がいのある20歳未満の方で、日常生活において常時介護を必要とする方に対し、手当が支給されます。",
+  "support": {
+    "description": "●内容\n月額１５，２２０円（令和５年～）※月額は年度により変動する場合があります。\n年に一回、所得状況届と現況届の提出があります。\n\n\n●支払方法\n申請のあった月の翌月分から５月（２月～４月分）、８月（５月～７月分）、１１月（８月～１０月分）、２月（１１月～１月分）に所定の金融機関に振り込まれます。",
+    "materiallySupport": null,
+    "monetarySupport": "月額１５，２２０円（令和５年～）※月額は年度により変動する場合があります。\n年に一回、所得状況届と現況届の提出があります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "東京都内に住所がある方で、20歳未満で身体又は精神に著しく重度の障害があるため、日常生活において常時特別の介護を必要とする状態（おおむね身体障害者手帳１級及び２級の一部程度、愛の手帳１度及び２度の一部程度、もしくはそれと同等の疾病・精神障害）にある方が対象です。前年の所得が一定の限度額以上の方、施設等に入所している方、当該障害を支給理由とする年金を受給されている方は対象外です。"
+  },
+  "updateDate": "2023-06-25",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

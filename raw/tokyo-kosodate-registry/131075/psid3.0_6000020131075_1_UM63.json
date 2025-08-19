@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "131075;墨田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "障害者福祉課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131075",
+    "psid": "psid3.0+6000020131075+1+UM63"
+  },
+  "belongings": "申請に必要なもの\n申請書一式（障害者福祉課の窓口にあります。出張所での受け取りはできません。）\n医師の診断書（障害者福祉課の窓口に診断書の様式があります。出張所での受け取りはできません。）\n印鑑（朱肉をつかうもの）\n障害児本人名義の振込口座がわかるもの（預金通帳など）\n個人番号（マイナンバー）カード",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "障害者福祉課障害者給付係",
+    "contactPhone": "03-5608-6163",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "障害児福祉手当（国の制度）\n対象\n20歳未満であって、次のいずれかの重度の障害に該当し、日常生活において常時介護を必要とする方\n身体障害者手帳1級程度及び2級程度の方\n愛の手帳1度程度及び2度程度の方\n上記と同等の疾病、精神障害の方\n手当額・支給時期\n手当額\n月額15,690円（令和6年度）\n申請手続きをされた翌月分から手当が支給されます。\n手当の月額は、「物価スライド制」の適用により変動することがあります。\n\n支払方法\n次の表のとおり、本人の銀行口座へお振り込みします。\n\n|手当|支給時期|\n|:----|:----|\n|2月分から4月分|5月10日|\n|5月分から7月分|8月10日|\n|8月分から10月分|11月10日|\n|11月分から翌年1月分|2月10日|\n\n（注釈1）10日が休日・祝日の場合、直前の平日が振込日となります。\n\n支給制限\n次のいずれかにあてはまる場合は、手当の対象になりません。\n\n本人の所得が限度額を超えている場合\n本人の所得が所得制限基準一覧表;https://www.city.sumida.lg.jp/kenko_fukushi/syougai/kijun/syotokuseigenkijyun.htmlに定める限度額を超えている場合、手当の対象になりません。\n\n配偶者または扶養義務者の所得が制限額以上の場合\n配偶者または扶養義務者の所得が 所得制限基準一覧表;https://www.city.sumida.lg.jp/kenko_fukushi/syougai/kijun/syotokuseigenkijyun.htmlに定める額以上の場合、手当の対象になりません。\n\n施設に入所されている場合\n手当の支給対象となるかは、施設の種類により異なります。\nよくお問い合わせいただく施設については次の表のとおりです。表以外の施設に入所されている場合は、お手数ですが、障害者福祉課障害者給付係までお問い合わせください。（ページ下部に連絡先が掲載されています。）\n\n|施設一覧|支給対象|\n|:----|:----|\n|母子生活支援施設|対象です|\n|児童自立支援施設|対象です|\n|障害児入所施設|対象になりません|\n|乳児院|対象になりません|\n|児童養護施設|対象になりません|\n|救護施設|対象になりません|\n|更生施設|対象になりません|\n\n申請に必要なもの\n申請書一式（障害者福祉課の窓口にあります。出張所での受け取りはできません。）\n医師の診断書（障害者福祉課の窓口に診断書の様式があります。出張所での受け取りはできません。）\n印鑑（朱肉をつかうもの）\n障害児本人名義の振込口座がわかるもの（預金通帳など）\n申請方法\n障害者福祉課窓口で診断書の様式を受け取り、医師の診断書を作成してもらってください。\n上記の「申請に必要なもの」を準備し、障害者福祉課の窓口にお持ちください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "障害児福祉手当",
+    "shortName": "障害児福祉手当（国の制度）"
+  },
+  "localGovernmentLink": {
+    "title": "障害児福祉手当（国の制度）",
+    "uri": "https://www.city.sumida.lg.jp/kenko_fukushi/syougai/teate_nenkin_iryou/syougaizi_hukusi.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-01",
+    "updater": "墨田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請に必要なもの\n申請書一式（障害者福祉課の窓口にあります。出張所での受け取りはできません。）\n医師の診断書（障害者福祉課の窓口に診断書の様式があります。出張所での受け取りはできません。）\n印鑑（朱肉をつかうもの）\n障害児本人名義の振込口座がわかるもの（預金通帳など）\n個人番号（マイナンバー）カード\n申請方法\n障害者福祉課窓口で診断書の様式を受け取り、医師の診断書を作成してもらってください。\n上記の「申請に必要なもの」を準備し、障害者福祉課の窓口にお持ちください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第3章",
+    "regulationName": "特別児童扶養手当等の支給に関する法律"
+  },
+  "relatedLink": [
+    {
+      "title": "所得制限基準一覧表",
+      "uri": "https://www.city.sumida.lg.jp/kenko_fukushi/syougai/kijun/syotokuseigenkijyun.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "20歳未満であって、身体または精神に重度の障がいがあり、日常生活において常時介護を必要とする方に対して手当が支給されます。",
+  "support": {
+    "description": "手当額・支給時期\n手当額\n月額15,690円（令和6年度）\n申請手続きをされた翌月分から手当が支給されます。\n手当の月額は、「物価スライド制」の適用により変動することがあります。\n\n支払方法\n次の表のとおり、本人の銀行口座へお振り込みします。\n\n|手当|支給時期|\n|:----|:----|\n|2月分から4月分|5月10日|\n|5月分から7月分|8月10日|\n|8月分から10月分|11月10日|\n|11月分から翌年1月分|2月10日|\n\n（注釈1）10日が休日・祝日の場合、直前の平日が振込日となります。",
+    "materiallySupport": null,
+    "monetarySupport": "月額15,690円（令和6年度）"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "20歳未満であって、身体または精神に重度の障がいがあり、日常生活において常時介護を必要とする方\n\n身体障害者手帳1級程度及び2級程度の方\n愛の手帳1度程度及び2度程度の方\n上記と同等の疾病、精神障害の方\n\n支給制限\n次のいずれかにあてはまる場合は、手当の対象になりません。\n\n本人の所得が限度額を超えている場合\n本人の所得が所得制限基準一覧表;https://www.city.sumida.lg.jp/kenko_fukushi/syougai/kijun/syotokuseigenkijyun.htmlに定める限度額を超えている場合、手当の対象になりません。\n\n配偶者または扶養義務者の所得が制限額以上の場合\n配偶者または扶養義務者の所得が 所得制限基準一覧表;https://www.city.sumida.lg.jp/kenko_fukushi/syougai/kijun/syotokuseigenkijyun.htmlに定める額以上の場合、手当の対象になりません。\n\n施設に入所されている場合\n手当の支給対象となるかは、施設の種類により異なります。\nよくお問い合わせいただく施設については次の表のとおりです。表以外の施設に入所されている場合は、お手数ですが、障害者福祉課障害者給付係までお問い合わせください。（ページ下部に連絡先が掲載されています。）\n\n|施設一覧|支給対象|\n|:----|:----|\n|母子生活支援施設|対象です|\n|児童自立支援施設|対象です|\n|障害児入所施設|対象になりません|\n|乳児院|対象になりません|\n|児童養護施設|対象になりません|\n|救護施設|対象になりません|\n|更生施設|対象になりません|\n"
+  },
+  "updateDate": "2024-07-01",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

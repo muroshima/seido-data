@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131156;杉並区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部地域子育て支援課母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131156",
+    "psid": "psid3.0+8000020131156+1+UM10"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都杉並区阿佐谷南1丁目15番1号",
+    "contactComment": "（代表）",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部地域子育て支援課母子保健係",
+    "contactPhone": "03-3312-2111",
+    "contactUrl": null,
+    "zipCode": "1668570"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "先天性代謝異常等検査\nページ番号1004682　 更新日 令和2年1月28日 印刷\n\n赤ちゃんの病気の早期発見・早期治療のために、フェニルケトン尿症など、先天性代謝異常等の検査を行っています。\n\nこれらの病気は、心身の発達に必要なある種の酵素が生まれつき欠けていたり、ホルモン合成の異常が原因で起こるものです。\nまた、これらの病気は、放置していると心身の発達の妨げとなりますが、早期に発見し治療することで発症を防ぐことができます。\n\n検査方法\n生後5日から7日（生まれた日を1日とする）の赤ちゃんの足の裏から、ごく少量の血液を採って検査します。\n\n都内の医療機関で出産する場合\n検査費用東京都が負担しますので、無料です。\nただし、医療機関で行う採血にかかる費用（採血料）は、保護者の負担になります。検査の申し込み申込書は医療機関にあります。出産された医療機関にて「先天性代謝異常等検査申込書」に必要事項を記入しお申し込みください。検査結果の確認採血してから、おおむね1週間以降に、採血した医療機関へ報告されます。\n保護者の方は医療機関で検査結果を確認してください。\n東京都以外の医療機関において出産する場合（里帰り等）\n全国どの道府県でも検査を実施しています。費用や申込方法は出産予定の医療機関または道府県庁、政令市の母子保健事業担当係にお問い合わせください。\n\n関連情報\n保健所・保健センター;https://www.city.suginami.tokyo.jp/shisetsu/hoken/hokenjo/index.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "先天性代謝異常等検査",
+    "shortName": "先天性代謝異常等検査"
+  },
+  "localGovernmentLink": {
+    "title": "先天性代謝異常等検査",
+    "uri": "https://www.city.suginami.tokyo.jp/s054/1026.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025-03-13",
+    "updater": "杉並区"
+  },
+  "procedureCounter": "出産された医療機関",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申込書は医療機関にあります。出産された医療機関にて「先天性代謝異常等検査申込書」に必要事項を記入しお申し込みください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "東京都ではフェニルケトン尿症等の先天性代謝異常や先天性甲状腺機能低下症（クレチン症）などの内分泌疾患を早期に発見するために、先天性代謝異常等検査を行っています。\nこれらの疾患を放っておくと、生まれた時は健康に見えても、身体障害や知的障害が発生したり、時には生命の危険にさらされたりする場合もあります。しかし、疾患を早期に発見し、適切な治療を続けることで、障害などの発生を未然に防ぐことができます。",
+  "support": {
+    "description": "赤ちゃんの病気の早期発見・早期治療のために、フェニルケトン尿症など、先天性代謝異常等の検査を行っています。",
+    "materiallySupport": "赤ちゃんの病気の早期発見・早期治療のために、フェニルケトン尿症など、先天性代謝異常等の検査を行っています。",
+    "monetarySupport": "検査費用東京都が負担しますので、無料です。\nただし、医療機関で行う採血にかかる費用（採血料）は、保護者の負担になります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": "生後5日から7日（生まれた日を1日とする）の赤ちゃん",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生後5日から7日（生まれた日を1日とする）の赤ちゃん"
+  },
+  "updateDate": "2020-01-28",
+  "useConsiderationFlag": false,
+  "utilization": "申込書は医療機関にあります。出産された医療機関にて「先天性代謝異常等検査申込書」に必要事項を記入しお申し込みください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

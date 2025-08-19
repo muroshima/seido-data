@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132292;西東京市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132292",
+    "psid": "psid3.0+1000020132292+1+UM791"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "西東京市中町一丁目5番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康課",
+    "contactPhone": "042-438-4037",
+    "contactUrl": null,
+    "zipCode": "2028555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "赤ちゃん訪問（新生児・産婦訪問）\n\nご出産おめでとうございます。\n市では、赤ちゃんやお母さんの健康のために、赤ちゃんがお生まれになった全てのご家庭を助産師または保健師が訪問する『赤ちゃん訪問（新生児・産婦訪問）』を行っています。\n赤ちゃんがお生まれになったら、赤ちゃん訪問はがき（出生通知票）を速やかに郵送してください。\n\n赤ちゃん訪問はがきは、母子健康手帳交付の際にお渡ししている「母と子の保健ファイル」に同封されています。\n紛失や転入などで赤ちゃん訪問はがきをお持ちでない方は電話でもお受けできます。健康課までご連絡ください。\n\n訪問の内容\n助産師または保健師がご自宅にお伺いし、赤ちゃんの体重測定、発育・発達状況の確認、授乳相談、お母さんの体調の相談、地域情報の紹介などを行います。\n\nみなさまに安心してご利用いただけるよう、訪問の際は身分証明書を提示いたします。\n不審に思われた場合は、身分証明書の提示を求めてください。\n\n西東京市外に里帰りする方\n里帰り先で訪問を希望する場合には、直接里帰り先の区市町村にお問い合わせください。\n里帰り後に西東京市で訪問を希望される方は、『赤ちゃん訪問はがき』に、西東京市にお帰りになるおおよその日程をご記入ください。3か月から4か月児健康診査の前まで訪問することができます。\n\n市内に里帰りされている方\n訪問を希望されるご家庭にお伺いします。健康課へお問い合わせください。\n\n関連リンク\n子どもの定期予防接種費用助成（償還払い）制度;https://www.city.nishitokyo.lg.jp/kosodate/bosi/yobosessyu/kodomoyobosesshushokan.html\n里帰り先で予防接種を希望される方はこちらもご覧ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出生連絡票・低体重児出生届",
+    "shortName": "赤ちゃん訪問はがき（出生通知票）"
+  },
+  "localGovernmentLink": {
+    "title": "赤ちゃん訪問（新生児・産婦訪問）",
+    "uri": "https://www.city.nishitokyo.lg.jp/kosodate/bosi/syussan/shinseijihoumon.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-10",
+    "updater": "西東京市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "赤ちゃんがお生まれになったら、赤ちゃん訪問はがき（出生通知票）を速やかに郵送してください。\n赤ちゃん訪問はがきは、母子健康手帳交付の際にお渡ししている「母と子の保健ファイル」に同封されています。\n紛失や転入などで赤ちゃん訪問はがきをお持ちでない方は電話でもお受けできます。健康課までご連絡ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第18条（低体重児の届出）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "子どもの定期予防接種費用助成（償還払い）制度",
+      "uri": "https://www.city.nishitokyo.lg.jp/kosodate/bosi/yobosessyu/kodomoyobosesshushokan.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "赤ちゃんが生まれたら、母子健康手帳交付の際にお渡ししている「母と子の保健ファイル」に同封されている赤ちゃん訪問はがき（出生通知票）を記入して、郵送してください。出生通知票をもとに、「赤ちゃん訪問（新生児・産婦訪問）」のご連絡をします。",
+  "support": {
+    "description": "助産師または保健師がご自宅にお伺いし、赤ちゃんの体重測定、発育・発達状況の確認、授乳相談、お母さんの体調の相談、地域情報の紹介などを行います。",
+    "materiallySupport": "助産師または保健師がご自宅にお伺いし、赤ちゃんの体重測定、発育・発達状況の確認、授乳相談、お母さんの体調の相談、地域情報の紹介などを行います。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "赤ちゃんがお生まれになった全てのご家庭"
+  },
+  "updateDate": "2024-04-16",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "133035;瑞穂町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部　子ども家庭センター課　子ども家庭支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133035",
+    "psid": "psid3.0+1000020133035+2+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡瑞穂町大字石畑1972番地",
+    "contactComment": "受付時間 平日の午前8時30分から午後5時まで",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部子ども家庭センター課　子ども家庭支援係",
+    "contactPhone": "042-568-0051",
+    "contactUrl": "https://www.town.mizuho.tokyo.jp/dept/130000/130150/130154/index.html",
+    "zipCode": "1901211"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "東京都では、児童相談体制強化に向けた取組の一つとして、児童虐待を防止するためのLINEを活用した子どもや保護者からの相談窓口を設置しています。「親の気持ちが分からない」「一番身近な家族のこと。相談したくても、知っている人には相談しづらい」\n\n親子のかかわりで困っていることや子育ての悩みも、LINEでなら話せるかもしれません。ひとりで抱え込まず、気軽に相談してみてください。",
+  "electronicSubmission": true,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "瑞穂町の子育てに関する相談",
+    "shortName": "東京都で児童虐待を防止するためのLINE相談（子ゴコロ・親ゴコロ＠東京）"
+  },
+  "localGovernmentLink": {
+    "title": "東京都で児童虐待を防止するためのLINE相談（子ゴコロ・親ゴコロ＠東京）",
+    "uri": "https://www.town.mizuho.tokyo.jp/kosodate/006/001/p006452.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/03/10",
+    "updater": "瑞穂町"
+  },
+  "procedureCounter": "お問い合わせ先\n東京都福祉保健局少子社会対策部計画課\n電話03-5230-4137",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "東京都では、児童相談体制強化に向けた取組の一つとして、児童虐待を防止するためのLINEを活用した子どもや保護者からの相談窓口を設置しています。「親の気持ちが分からない」「一番身近な家族のこと。相談したくても、知っている人には相談しづらい」\n\n親子のかかわりで困っていることや子育ての悩みも、LINEでなら話せるかもしれません。ひとりで抱え込まず、気軽に相談してみてください。",
+  "support": {
+    "description": "LINEアカウント名\n子ゴコロ・親ゴコロ相談＠東京\n\n児童虐待の通告も受けるの？\n児童虐待の通告は、児童相談所全国共通ダイヤル189（いちはやく）番をご利用ください。\n児童相談所全国共通ダイヤル189番については「児童虐待かもと思ったら189（いちはやく）番へ」をご覧ください。https://www.town.mizuho.tokyo.jp/kosodate/006/006/p006479.html",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "都内にお住いの児童（18歳未満）と保護者の方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "都内にお住いの児童（18歳未満）と保護者の方"
+  },
+  "updateDate": "2020-05-01",
+  "useConsiderationFlag": false,
+  "utilization": "友だち追加ボタンをクリックするか、QRコードを読み取り、友だち追加登録をして、相談してください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "平日\n9時～23時まで（受付は22時30分まで）\n\n土日祝日\n9時～17時まで",
+    "fromHM": "09:00",
+    "toHM": null
+  }
+}

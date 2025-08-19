@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132250;稲城市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども福祉部　子育て支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132250",
+    "psid": "psid3.0+2000020132250+1+UM40"
+  },
+  "belongings": "申請時に必要なもの\n母子健康手帳\n印鑑\n健康保険の被保険者証\n申請者の【個人番号カード】または【通知カード】及び【本人確認書類（運転免許証・パスポート等）】等（詳細については面接のご予約の際、担当者にお問合せください。）\n注釈：その他必要に応じて後日関係書類の提出をお願いすることがあります。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "稲城市東長沼2111番地",
+    "contactComment": "ファクス：042-377-4781",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども福祉部　子育て支援課",
+    "contactPhone": "042-378-2111",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "入院助産\n更新日：2021年4月14日\n出産にあたり、経済的理由により入院して出産することができない方の出産費用を助成する制度です。\n（出産前に申請することが必要ですので、お早めにご相談ください）\n\n対象となりうる世帯\n\n次に該当する世帯は制度の対象になる可能性があります\n（A）生活保護世帯及び、中国残留邦人等の円滑な帰国の促進及び永住帰国後の自立の支援に関する法律による支援給付受給世帯\n（B）住民税非課税世帯\n（C）住民税課税世帯のうち、税額が均等割額のみの世帯\n注意：出産育児一時金等の額により対象とならない場合がございます。\n\n助成内容\n出産に要する費用が助成されます。\n注意1：助産施設として、認可されている病産院等に入院することが必要です。\n稲城市内の認可施設（令和3年4月現在）\n稲城市立病院　　稲城市大丸1171　TEL　377-0931\n稲城市外の認可された病産院等は東京都保健福祉局ホームページ（外部リンク）;http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/josei/josan.htmlをご覧ください。\n注意2：住民税額等に応じて利用者負担費用が発生する場合もあります\n\n申請方法\n担当者との面接の後、申込書にご記入いただきます。\n（面接は事前にお電話にてご予約されることをおすすめします。また、所要時間は1時間程度いただいております。）\n\n申請時に必要なもの\n母子健康手帳\n印鑑\n健康保険の被保険者証\n申請者の【個人番号カード】または【通知カード】及び【本人確認書類（運転免許証・パスポート等）】等（詳細については面接のご予約の際、担当者にお問合せください。）\n注釈：その他必要に応じて後日関係書類の提出をお願いすることがあります。\n\n手続き可能日時\n開庁日の午前8時30分から午後5時\n注釈：休日開庁日を除く。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "助産制度",
+    "shortName": "入院助産"
+  },
+  "localGovernmentLink": {
+    "title": "入院助産",
+    "uri": "https://www.city.inagi.tokyo.jp/kenko/seikatsuhukushi/seikatsukonkyuu_teisyotokusya/nyuinzyosan.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-03",
+    "updater": "稲城市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請方法\n担当者との面接の後、申込書にご記入いただきます。\n（面接は事前にお電話にてご予約されることをおすすめします。また、所要時間は1時間程度いただいております。）",
+  "procedurePeriod": {
+    "conditions": "開庁日の午前8時30分から午後5時\n注釈：休日開庁日を除く。",
+    "fromHM": "08:30",
+    "fromYMD": null,
+    "toHM": "17:00",
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第22条",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "東京都保健福祉局ホームページ（外部リンク）",
+      "uri": "http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/josei/josan.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "経済的な理由で、病院や助産所での出産が困難な妊産婦の方を対象に、稲城市の指定の助産施設で出産する際の費用を助成しています。\n事前に申請が必要です。",
+  "support": {
+    "description": "助成内容\n出産に要する費用が助成されます。\n注意1：助産施設として、認可されている病産院等に入院することが必要です。\n稲城市内の認可施設（令和3年4月現在）\n稲城市立病院　　稲城市大丸1171　TEL　377-0931\n稲城市外の認可された病産院等は東京都保健福祉局ホームページ（外部リンク）;http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/josei/josan.htmlをご覧ください。\n注意2：住民税額等に応じて利用者負担費用が発生する場合もあります",
+    "materiallySupport": null,
+    "monetarySupport": "助成内容\n出産に要する費用が助成されます。\n注意1：助産施設として、認可されている病産院等に入院することが必要です。\n稲城市内の認可施設（令和3年4月現在）\n稲城市立病院　　稲城市大丸1171　TEL　377-0931\n稲城市外の認可された病産院等は東京都保健福祉局ホームページ（外部リンク）;http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/josei/josan.htmlをご覧ください。\n注意2：住民税額等に応じて利用者負担費用が発生する場合もあります"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象となりうる世帯\n次に該当する世帯は制度の対象になる可能性があります\n（A）生活保護世帯及び、中国残留邦人等の円滑な帰国の促進及び永住帰国後の自立の支援に関する法律による支援給付受給世帯\n（B）住民税非課税世帯\n（C）住民税課税世帯のうち、税額が均等割額のみの世帯\n注意：出産育児一時金等の額により対象とならない場合がございます。"
+  },
+  "updateDate": "2021-04-14",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131105;目黒区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "国保年金課 給付係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131105",
+    "psid": "psid3.0+1000020131105+1+UM20"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "目黒区上目黒二丁目19番15号",
+    "contactComment": "ファクス：03-5722-9339",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "国保年金課 給付係",
+    "contactPhone": "03-5722-9811",
+    "contactUrl": null,
+    "zipCode": "1538573"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "国民健康保険　出産育児一時金\n目次\n\n給付内容;https://www.city.meguro.tokyo.jp/kokuho/kurashi/kokuho/shussan_itijikin.html#p1\n申請に必要なもの;https://www.city.meguro.tokyo.jp/kokuho/kurashi/kokuho/shussan_itijikin.html#p2\n出産費の貸し付け;https://www.city.meguro.tokyo.jp/kokuho/kurashi/kokuho/shussan_itijikin.html#p3\n関連するページ;https://www.city.meguro.tokyo.jp/kokuho/kurashi/kokuho/shussan_itijikin.html#p4\n給付内容\n国民健康保険の被保険者が出産したとき、その世帯主に出産育児一時金として50万円（注記）が支給されます。妊娠満12週（85日）以降であれば、死産・流産でも支給されます。その場合は、医師の証明書が必要です。\n\nただし、目黒区の国民健康保険に加入後6か月以内の出産で、以前の健康保険などから出産育児一時金に相当する給付を被保険者の選択により受けとる場合は支給されません。\nなお、申請できる期間は、出産日の翌日から2年間です。\n\n（注記）出産日が令和5年3月31日以前のときは、42万円が支給されます。\n\n直接支払制度\n出産前に医療機関等に保険証を提示し、出産育児一時金の申請・受給を医療機関等に任せる旨の書面を被保険者と当該医療機関等で取り交わすことで、出産育児一時金を目黒区から直接医療機関等へ支払う「直接支払制度」を利用することができます。\n直接支払制度を利用されるかたは、区役所での手続きは必要ありません。\nただし、出産費用が出産育児一時金支給額未満の場合は、区から世帯主あてに申請書類を送付しますので、差額をご請求ください。\nご不明な点はお問い合わせください。\n\n受取代理制度について\n直接支払制度が利用できない小規模な医療機関等で出産する場合、あらかじめ国保年金課給付係で手続きすることにより医療機関が本人に代わって出産育児一時金を受取る受取代理制度があります。ただし、医療機関によっては利用できない場合もありますので、事前にお問い合わせください。\n\n直接支払制度、受取代理制度を利用しない場合\n出産後に目黒区に出産育児一時金の申請をしていただきます。\n\n申請に必要なもの\n出産育児一時金支給申請書;https://www.city.meguro.tokyo.jp/kokuho/kusei/onlineservice/ichijikin.html\n国民健康保険被保険者証（出産したかたのもの）\n出産の事実を証明するもの（出産の証明のある母子健康手帳など）\n医療機関・助産所から交付される「直接支払制度に関する合意文書」\n出産費用の領収・明細書\n妊娠満12週（85日）以降の流産・死産の場合は、医師の証明書等\n出産者と同一の国保世帯以外のかたが手続きをする場合\n出産者と同一の国保世帯以外のかたが手続きをする場合は、上記のものと併せて、世帯主の委任状、世帯主の預金口座が分るものと来庁者の身分証明書（運転免許証等）をお持ちください。\n\n海外で出産した場合\n海外で出産した場合は出産したかたが帰国後の申請となり、次のものが必要です。\n\n国民健康保険被保険者証（出産したかたのもの）\n出生証明書（和訳添付）\n出産したかたの出入国日がわかるパスポート\nなお、出産したかたに確認等がありますので、申請は窓口での受付になります。\n\n出産費の貸し付け\n直接支払制度に対応していない医療機関等での出産など、出産費用の支払いにお困りのかたには、出産費の貸し付けを行っています。詳しくはお問合せください。\n\n関連するページ\n国民健康保険に関する申請書;https://www.city.meguro.tokyo.jp/kusei/onlineservice/download/kokuho/index.html\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出産費貸付制度",
+    "shortName": "国民健康保険　出産費の貸し付け"
+  },
+  "localGovernmentLink": {
+    "title": "国民健康保険　出産育児一時金",
+    "uri": "https://www.city.meguro.tokyo.jp/kokuho/kurashi/kokuho/shussan_itijikin.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "目黒区"
+  },
+  "procedureCounter": "国保年金課給付係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "目黒区国民健康保険高額療養費・出産費資金貸付基金条例"
+  },
+  "relatedLink": [
+    {
+      "title": "国民健康保険に関する申請書",
+      "uri": "https://www.city.meguro.tokyo.jp/kusei/onlineservice/download/kokuho/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "出産予定日前に出産費用の支払いが必要な方を対象に、出産育児一時金8割に相当する額を限度として出産費用の貸し付けを無利子で行います。",
+  "support": {
+    "description": "直接支払制度に対応していない医療機関等での出産など、出産費用の支払いにお困りのかたには、出産費の貸し付けを行っています。詳しくはお問合せください。",
+    "materiallySupport": null,
+    "monetarySupport": "直接支払制度に対応していない医療機関等での出産など、出産費用の支払いにお困りのかたには、出産費の貸し付けを行っています。詳しくはお問合せください。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "直接支払制度に対応していない医療機関等での出産など、出産費用の支払いにお困りのかたには、出産費の貸し付けを行っています。詳しくはお問合せください。"
+  },
+  "updateDate": "2023-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

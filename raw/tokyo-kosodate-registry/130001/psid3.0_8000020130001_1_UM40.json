@@ -1,0 +1,163 @@
+{
+  "area": {
+    "areaCode": "130001;東京都",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉局子供・子育て支援部 家庭支援課 母子医療助成担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020130001",
+    "psid": "psid3.0+8000020130001+1+UM40"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子供・子育て支援部 家庭支援課 母子医療助成担当",
+    "contactPhone": "03-5320-4375",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "出産に要する費用が助成されます。ただし、所得税額等に応じて利用者負担があります。",
+  "description": "入院助産（出産費用の助成）\n出産に当たって、保健上必要であるにもかかわらず、経済的な理由で病院又は助産所に入院できない妊産婦の方を対象に、その費用を助成します。\n対象者\n都内にお住まいの妊産婦の方で、その方の属する世帯が次の各号のいずれかに該当し、経済的な理由で病院又は助産所に入院できない場合に対象となります。\nなお、区・市によっては、対象者の要件が異なる場合がありますので、お住まいの区・市役所にお問合せください。\n生活保護世帯、中国残留邦人等の円滑な帰国の促進並びに永住帰国した中国残留邦人等及び特定配偶者の自立の支援に関する法律による支援給付受給世帯\n住民税非課税世帯\n当該年度（4月から6月までについては前年度）に支払った特別区民税又は市町村民税所得割の額が19，000円以下の世帯（ただし、健康保険等から給付を受けることのできる出産一時金等の額が48万8千円以上の場合を除く）\n手続方法\n福祉事務所又は区・市役所の窓口に申請してください。\n要件\n助産施設一覧（Excel：19KB）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/josan.files/060115zyosanshisetu.xlsx\n助産施設一覧（PDF：140KB）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/josan.files/060115zyosanshisetu.pdf\n助産施設として認可されている病院等に入院することが必要です。\nなお、児童相談所設置区（港区・世田谷区・中野区・豊島区・荒川区・板橋区・葛飾区・江戸川区）及び中核市（八王子市）に所在する施設については、各区市に御確認ください。\n公費負担額\n出産に要する費用が助成されます。ただし、所得税額等に応じて利用者負担があります。\n児童相談所設置区及び中核市\n児童相談所設置区及び中核市の入院助産に関する情報は、下記リンク先よりご確認ください。なお、リンクを掲載していない区市に関しては、個別に検索の上、お問合せをお願いします。\n世田谷区;https://www.city.setagaya.lg.jp/mokuji/kodomo/001/002/d00025768.html\n中野区;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/teate/shien/syussanhiyo.html\n豊島区;https://www.city.toshima.lg.jp/259/kosodate/ninshin/shussanmade/001342.html\n荒川区;https://www.city.arakawa.tokyo.jp/a035/ninshinshussan/joseikyuufu/josanhiyo.html\n板橋区;https://www.city.itabashi.tokyo.jp/kosodate/teate/ninshin/1004614.html\n葛飾区;https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1002074.html\n江戸川区;https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/nyuinjosan.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "助産施設一覧（Excel：19KB）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/josan.files/060115zyosanshisetu.xlsx,助産施設一覧（PDF：140KB）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/josan.files/060115zyosanshisetu.pdf"
+  },
+  "institutionName": {
+    "canonicalName": "助産制度",
+    "shortName": "入院助産（出産費用の助成）"
+  },
+  "localGovernmentLink": {
+    "title": "入院助産（出産費用の助成）",
+    "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/josan.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-11-05",
+    "updater": "東京都"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "福祉事務所又は区・市役所の窓口に申請してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第22条",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "荒川区",
+      "uri": "https://www.city.arakawa.tokyo.jp/a035/ninshinshussan/joseikyuufu/josanhiyo.html"
+    },
+    {
+      "title": "葛飾区",
+      "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1002074.html"
+    },
+    {
+      "title": "助産施設一覧（Excel：19KB）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/josan.files/060115zyosanshisetu.xlsx"
+    },
+    {
+      "title": "板橋区",
+      "uri": "https://www.city.itabashi.tokyo.jp/kosodate/teate/ninshin/1004614.html"
+    },
+    {
+      "title": "豊島区",
+      "uri": "https://www.city.toshima.lg.jp/259/kosodate/ninshin/shussanmade/001342.html"
+    },
+    {
+      "title": "助産施設一覧（PDF：140KB）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/josan.files/060115zyosanshisetu.pdf"
+    },
+    {
+      "title": "中野区",
+      "uri": "https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/teate/shien/syussanhiyo.html"
+    },
+    {
+      "title": "世田谷区",
+      "uri": "https://www.city.setagaya.lg.jp/mokuji/kodomo/001/002/d00025768.html"
+    },
+    {
+      "title": "江戸川区",
+      "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/nyuinjosan.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "経済的な理由で、病院や助産所での出産が困難な妊産婦の方を対象に、出産に係る費用を助成します。",
+  "support": {
+    "description": "出産に当たって、保健上必要であるにもかかわらず、経済的な理由で病院又は助産所に入院できない妊産婦の方を対象に、その費用を助成します。",
+    "materiallySupport": null,
+    "monetarySupport": "出産に当たって、保健上必要であるにもかかわらず、経済的な理由で病院又は助産所に入院できない妊産婦の方を対象に、その費用を助成します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088",
+      "089",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "都内にお住まいの妊産婦の方で、その方の属する世帯が次の各号のいずれかに該当し、経済的な理由で病院又は助産所に入院できない場合に対象となります。\nなお、区・市によっては、対象者の要件が異なる場合がありますので、お住まいの区・市役所にお問合せください。\n1.生活保護世帯、中国残留邦人等の円滑な帰国の促進並びに永住帰国した中国残留邦人等及び特定配偶者の自立の支援に関する法律による支援給付受給世帯\n2.住民税非課税世帯\n3.当該年度（4月から6月までについては前年度）に支払った特別区民税又は市町村民税所得割の額が19，000円以下の世帯（ただし、健康保険等から給付を受けることのできる出産一時金等の額が48万8千円以上の場合を除く）"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

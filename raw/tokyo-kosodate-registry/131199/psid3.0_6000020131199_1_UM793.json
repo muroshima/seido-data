@@ -1,0 +1,137 @@
+{
+  "area": {
+    "areaCode": "131199;板橋区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康生きがい部 国保年金課 国民年金係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131199",
+    "psid": "psid3.0+6000020131199+1+UM793"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都板橋区板橋二丁目66番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康生きがい部 国保年金課 国民年金係",
+    "contactPhone": "03-3579-2431",
+    "contactUrl": "https://www.city.itabashi.tokyo.jp/cgi-crm/CRM030/CRM030_001/G3503700000/1003188",
+    "zipCode": "1738501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "産前産後期間の国民年金保険料免除制度\n\n国民年金加入、免除・納付猶予、学生納付特例の手続きについて、一部郵送による申請をご案内しております。ご希望の場合は、確認事項がございますので、お電話で国保年金課国民年金係にお問い合わせください。（電話番号：03-3579-2431）\n産前産後免除の手続きは、マイナポータルを活用した電子申請もご利用いただくことが可能です。対象となるサービスやご利用方法については、本ページ下部の日本年金機構ホームページ「電子申請（マイナポータル）」をご確認ください。\n次世代育成支援の観点から、国民年金第1号被保険者が出産を行った際には、出産前後の一定期間の国民年金保険料が免除されます。\n\n国民年金保険料が免除される期間\n出産予定日または出産日が属する月の前月から4か月間の国民年金保険料が免除されます。\nなお、多胎妊娠の場合は、出産予定日または出産日が属する月の3か月前から6か月間の国民年金保険料が免除されます。\n注：出産とは、妊娠85日（4か月）以上の出産をいいます（死産、流産、早産、人工妊娠中絶された方を含みます）。\n「保険料が免除された期間」は、保険料を納付したものとして、老齢基礎年金の受給額に反映されます。\n\n対象となる方\n「国民年金第1号被保険者」で出産日が平成31年2月1日以降の方\n\n施行日\n平成31年4月1日\n\n手続きに必要なもの\n・本人の確認ができるもの(マイナンバーカード・運転免許証・パスポート等)\n・基礎年金番号通知書または年金手帳等の基礎年金番号を明らかにすることができる書類\n・母子健康手帳等(出産日及び親子関係を明らかにする書類)\n注：母子健康手帳等は出産前出産後に関わらずお持ちください\n\n手続きをする場所\n・国保年金課国民年金係(南館2階25番窓口)\n注：区民事務所ではお手続きできません\n・板橋年金事務所\n住所：板橋一丁目47番4号\n電話番号：03-3962-1481（音声案内［2］→［2］）\n\nその他\n国民年金保険料の産前産後期間の免除制度にかかる詳細については、以下の関連リンクをご覧ください。\n\n関連リンク\n日本年金機構ホームページ「国民年金保険料の産前産後期間の免除制度」（外部リンク）; https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html\n日本年金機構ホームページ「産前産後期間の免除制度にかかるQ＆A」（外部リンク）; https://www.nenkin.go.jp/service/kokunen/menjo/20180810.files/QA.pdf\n日本年金機構ホームページ「電子申請（マイナポータル）」（外部リンク）; https://www.nenkin.go.jp/denshibenri_kojin/denshibenri_kojin/mynaportal.html#cms011",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "日本年金機構ホームページ「電子申請（マイナポータル）」（外部リンク）",
+      "uri": "https://www.nenkin.go.jp/denshibenri_kojin/denshibenri_kojin/mynaportal.html#cms011"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "産前産後期間の国民年金保険料免除",
+    "shortName": "産前産後期間の国民年金保険料免除制度"
+  },
+  "localGovernmentLink": {
+    "title": "産前産後期間の国民年金保険料免除制度",
+    "uri": "https://www.city.itabashi.tokyo.jp/kenko/kokuho/nenkin/hokenryo/1003188.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "板橋区"
+  },
+  "procedureCounter": "・国保年金課国民年金係(南館2階25番窓口)\n注：区民事務所ではお手続きできません\n・板橋年金事務所\n住所：板橋一丁目47番4号\n電話番号：03-3962-1481（音声案内［2］→［2］）\n日本年金機構ホームページ「電子申請（マイナポータル）」（外部リンク）; https://www.nenkin.go.jp/denshibenri_kojin/denshibenri_kojin/mynaportal.html#cms011",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "手続きに必要なもの\n・本人の確認ができるもの(マイナンバーカード・運転免許証・パスポート等)\n・基礎年金番号通知書または年金手帳等の基礎年金番号を明らかにすることができる書類\n・母子健康手帳等(出産日及び親子関係を明らかにする書類)\n注：母子健康手帳等は出産前出産後に関わらずお持ちください\n\n手続きをする場所\n・国保年金課国民年金係(南館2階25番窓口)\n注：区民事務所ではお手続きできません\n・板橋年金事務所\n住所：板橋一丁目47番4号\n電話番号：03-3962-1481（音声案内［2］→［2］）\n\n日本年金機構ホームページ「電子申請（マイナポータル）」（外部リンク）; https://www.nenkin.go.jp/denshibenri_kojin/denshibenri_kojin/mynaportal.html#cms011",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第88条の2（保険料の納付義務）",
+    "regulationName": "国民年金法"
+  },
+  "relatedLink": [
+    {
+      "title": "日本年金機構ホームページ「産前産後期間の免除制度にかかるQ＆A」（外部リンク）",
+      "uri": "https://www.nenkin.go.jp/service/kokunen/menjo/20180810.files/QA.pdf"
+    },
+    {
+      "title": "日本年金機構ホームページ「国民年金保険料の産前産後期間の免除制度」（外部リンク）",
+      "uri": "https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": "出産日が平成31年2月1日以降の方",
+  "summary": "国民年金の第1号被保険者が出産した場合には、出産前後の一定期間の国民年金保険料が免除されます。\n免除期間は年金額を計算する際、保険料を納めた期間として老齢基礎年金の受給額に反映されます。",
+  "support": {
+    "description": "国民年金加入、免除・納付猶予、学生納付特例の手続きについて、一部郵送による申請をご案内しております。ご希望の場合は、確認事項がございますので、お電話で国保年金課国民年金係にお問い合わせください。（電話番号：03-3579-2431）\n産前産後免除の手続きは、マイナポータルを活用した電子申請もご利用いただくことが可能です。対象となるサービスやご利用方法については、本ページ下部の日本年金機構ホームページ「電子申請（マイナポータル）」をご確認ください。\n次世代育成支援の観点から、国民年金第1号被保険者が出産を行った際には、出産前後の一定期間の国民年金保険料が免除されます。\n\n国民年金保険料が免除される期間\n出産予定日または出産日が属する月の前月から4か月間の国民年金保険料が免除されます。\nなお、多胎妊娠の場合は、出産予定日または出産日が属する月の3か月前から6か月間の国民年金保険料が免除されます。\n注：出産とは、妊娠85日（4か月）以上の出産をいいます（死産、流産、早産、人工妊娠中絶された方を含みます）。\n「保険料が免除された期間」は、保険料を納付したものとして、老齢基礎年金の受給額に反映されます。\n国民年金保険料の産前産後期間の免除制度にかかる詳細については、以下の関連リンクをご覧ください。\n関連リンク\n日本年金機構ホームページ「国民年金保険料の産前産後期間の免除制度」（外部リンク）; https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html\n日本年金機構ホームページ「産前産後期間の免除制度にかかるQ＆A」（外部リンク）; https://www.nenkin.go.jp/service/kokunen/menjo/20180810.files/QA.pdf",
+    "materiallySupport": null,
+    "monetarySupport": "出産予定日または出産日が属する月の前月から4か月間の国民年金保険料が免除"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "016"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "「国民年金第1号被保険者」で出産日が平成31年2月1日以降の方"
+  },
+  "updateDate": "2024-04-12",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "132039;武蔵野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子ども育成課（保育認定担当）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132039",
+    "psid": "psid3.0+8000020132039+1+UM5047"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都武蔵野市緑町2-2-28",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 子ども育成課（保育認定担当）",
+    "contactPhone": "電話番号：0422-60-1854",
+    "contactUrl": null,
+    "zipCode": "1808777"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "医療的ケアが必要な児童の保育について\nこのページの情報をXでポストできます;https://twitter.com/intent/tweet?text=%E5%8C%BB%E7%99%82%E7%9A%84%E3%82%B1%E3%82%A2%E3%81%8C%E5%BF%85%E8%A6%81%E3%81%AA%E5%85%90%E7%AB%A5%E3%81%AE%E4%BF%9D%E8%82%B2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%ef%bd%9c%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%85%AC%E5%BC%8F%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8&url=https%3A%2F%2Fwww.city.musashino.lg.jp%2Fshussan_kodomo_kyoiku%2Fkodomo_kosodate%2Fhoikuen_yochien_kodomoen%2Fninkahoikusho_chiikihoikujigyo%2Ftokubetsuhoiku%2F1040160.htmlページ番号1040160\n印刷\n\n大きな文字で印刷\n市立保育園において医療的ケアが必要な児童の保育を行っています。\n医療的ケアが必要な児童の保育を希望する場合は事前にご相談ください。\n\n医療的ケアの実施について\n医療的ケアを実施する保育園\n市立保育園4園\n\n入所時期\n各年度4月1日（一斉入所）、10月1日\n\n注意\nガイドライン\n様式\n関連情報リンク",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": "2023/04/01",
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "南保育園,境保育園,境南保育園,吉祥寺保育園"
+  },
+  "institutionName": {
+    "canonicalName": "保育所等における医療的ケア児への支援",
+    "shortName": "医療的ケアが必要な児童の保育"
+  },
+  "localGovernmentLink": {
+    "title": "医療的ケアが必要な児童の保育について",
+    "uri": "https://www.city.musashino.lg.jp/shussan_kodomo_kyoiku/kodomo_kosodate/hoikuen_yochien_kodomoen/ninkahoikusho_chiikihoikujigyo/tokubetsuhoiku/1040160.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/17",
+    "updater": "武蔵野市"
+  },
+  "procedureCounter": "子ども家庭部 子ども育成課（保育認定担当）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "事前相談\n申込に際しては事前相談が必要です。下記問い合わせ先までご相談ください。",
+  "procedurePeriod": {
+    "conditions": "申込受付期間\n|入所時期|申込受付期間|\n|:----|:----|\n|令和7年4月1日（一斉入所）|令和6年10月25日（金曜日）から同年11月11日（月曜日）|\n|令和7年10月1日|令和7年6月2日（月曜日）から同月10日（火曜日）|,4月入所を希望の場合は前年9月末ごろまでにご相談ください。\n10月入所を希望の場合は同年3月末頃までにご相談ください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条第1項",
+    "regulationName": "医療的ケア児及びその家族に対する支援に関する法律"
+  },
+  "relatedLink": [
+    {
+      "title": "武蔵野市立保育園における医療的ケアのガイドライン",
+      "uri": "https://www.city.musashino.lg.jp/_res/projects/default_project/_page_/001/040/160/R6ikeagaidorain.pdf"
+    },
+    {
+      "title": "医療的ケア指示書",
+      "uri": "https://www.city.musashino.lg.jp/shinseisho/shussan_kodomo_kyoiku/hoikuen_yochien_kodomoen/1044255.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育所等において看護師等を配置し、医療的ケア児の受入れ体制を整備しております。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024/09/13",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "134210;小笠原村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "村民課福祉係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020134210",
+    "psid": "psid3.0+6000020134210+1+UM799"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都小笠原村父島字西町,東京都小笠原村母島字元地",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "小笠原村役場,母島支所",
+    "contactPhone": "04998-2-3939,04998-3-2111",
+    "contactUrl": null,
+    "zipCode": "1002101,1002211"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "小笠原村では福祉係内に設置しています。妊娠期も含め、子どもと子育て家庭に関する相談を受付け、その内容に応じて、医療機関や児童相談センターなどの関係機関と連携して支援等を行っています。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "日曜日及び土曜日、国民の祝日に関する法律（昭和２３年法律第１７８号）に規定する休日、１月２日及び１月３日並びに１２月２９日から１２月３１日までの日",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": "2024-04-01",
+    "toHM": null,
+    "toYMD": "2025-03-31"
+  },
+  "implementationPlace": {
+    "implementationAddress": "東京都小笠原村父島字西町、東京都小笠原村母島字元地",
+    "implementationName": "小笠原村村民課福祉係"
+  },
+  "institutionName": {
+    "canonicalName": "こども家庭センター",
+    "shortName": "子供家庭支援センター、子育て世帯包括支援センター"
+  },
+  "localGovernmentLink": {
+    "title": "子育て支援",
+    "uri": "https://www.vill.ogasawara.tokyo.jp/sonmin/kosodate/"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/26",
+    "updater": "小笠原村"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": "2024-04-01",
+    "toHM": null,
+    "toYMD": "2025-03-31"
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "小笠原村の【子供家庭支援センター、子育て世帯包括支援センター】では、全ての妊産婦・子育て家庭に対する相談等への対応、サポートプランに基づく妊産婦の健康やこどもの養育に関する支援などを行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": 0
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "支援センター事業の対象者は、村内に在住する又は在学する１８歳未満の児童及びその保護者並びに子どもと家庭の支援に関わる活動を行い又は行おうとする団体及び個人とする。ただし、村長が特に必要があると認めるときは、この限りでない。"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": "役場（母島支所）にてご予約を受付しております。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": "08:00",
+    "toHM": "17:30"
+  }
+}

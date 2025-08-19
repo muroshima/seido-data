@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健所保健予防課母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+2+UM15"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健所保健予防課母子保健係",
+    "contactPhone": "042-725-5471",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+    "zipCode": null
+  },
+  "cost": "3000",
+  "costConditions": "1日につき",
+  "description": "医療機関・助産院で休息、授乳・育児などの指導や助産師のケアを受けられる宿泊型・日帰り型と、助産師に訪問してもらいご自宅でも相談やアドバイスが受けられる訪問型があります。\n\n利用の可否を判断するために、保健師等が状況をお伺いすることがあります。\n\n2023年4月から、所得にかかわらない減額制度を開始しました。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "東京共同電子申請・届出サービス",
+      "uri": "https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1611558587286"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "5日まで\n10：00~17：00\n（昼食付）",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "宿泊型・日帰り型実施施設\n宿泊型・日帰り型の産後ケア事業を実施している施設は次のとおりです。\n\n施設名をクリックすると外部リンクとなります。参考にご覧ください。また、PDFファイルでパンフレットがご覧いただけます\n\n【町田市内】\n\n・としの助産院（パンフレット(PDFファイル:377.4KB)）\nhttps://kosodate-machida.tokyo.jp/mokuteki/1/9/4184.html\nhttps://kosodate-machida.tokyo.jp/mokuteki/1/9/4184.html\n・町田市民病院 (パンフレット(PDFファイル:222KB)）\nhttps://kosodate-machida.tokyo.jp/material/files/group/4/siminn.pdf\n・鶴川台ウイメンズクリニック （パンフレット(PDFファイル:185.2KB)）\nhttps://tsurukawadai-lp.jp/\nhttps://kosodate-machida.tokyo.jp/material/files/group/4/turukawa.pdf\n・都南産婦人科 \n・おなごサロンはぴねす助産院（日帰り型のみ実施）（パンフレット(PDFファイル:1.6MB)）\nhttps://sanba.mom/\nhttps://kosodate-machida.tokyo.jp/material/files/group/4/onago.pdf\n【八王子市】\n・みなみ野グリーンゲイブルズクリニック （パンフレット(PDFファイル:148.5KB)）\nhttps://minamino-greengables.jp/\nhttps://kosodate-machida.tokyo.jp/material/files/group/4/minamino.pdf\n【川崎市】\n・新百合ヶ丘総合病院 （パンフレット(PDFファイル:203.4KB)）\nhttps://www.shinyuri-hospital.com/department/21_obstetrics_and_gynecology/obstetrical/after_care.html\nhttps://kosodate-machida.tokyo.jp/material/files/group/4/sinnyuri.pdf\n【相模原市】\n・相模野病院 (パンフレット(PDFファイル:208.9KB))\nhttps://sagamino.jcho.go.jp/perinatal-medical/\nhttps://kosodate-machida.tokyo.jp/material/files/group/4/sagamino.pdf\n・marimo助産院（宿泊型のみ実施）(パンフレット(PDFファイル:163.2KB))\nhttps://www.marimo-josanin.com/\nhttps://kosodate-machida.tokyo.jp/material/files/group/4/marimo.pdf\n・くわのき助産院\nhttp://kuwanoki-josanin.com/\n・相模原協同病院（宿泊型のみ実施）\nhttps://www.sagamiharahp.com/departments/obstetrics_and_gynecology/06.html\n・淵野辺総合病院（宿泊型のみ実施 要相談）"
+  },
+  "institutionName": {
+    "canonicalName": "産後ケア事業",
+    "shortName": "産後ケアのご案内（日帰り型）"
+  },
+  "localGovernmentLink": {
+    "title": "産後ケアのご案内",
+    "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/8/4182.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第17条の2（産後ケア事業）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "出産を終えた退院後、お母さんと赤ちゃんの生活リズムづくりや、心身の安定を図るため、施設においてショートステイ（宿泊）やデイサービス（日帰り）で、助産師などが母子の心身ケアと育児サポートを行います。「出産後、自宅に帰っても家族の手伝いがなくて不安」「体調が優れない」「授乳がうまくいかない」など、出産後のサポートが必要なお母さんが、赤ちゃんと一緒に利用できます。",
+  "support": {
+    "description": "日帰り型",
+    "materiallySupport": "日帰り型",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "産後3か月未満の\n\nお母さんと赤ちゃん",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": 3
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "利用対象は町田市に住民登録がある方です。"
+  },
+  "updateDate": "2023-11-27",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

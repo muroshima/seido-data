@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "131067;台東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "浅草保健相談センター　母子健康包括支援担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131067",
+    "psid": "psid3.0+6000020131067+2+UM47"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "浅草保健相談センター　母子健康包括支援担当",
+    "contactPhone": "03-3844-8177",
+    "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080700",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "都内にお住まいの方を対象に、「妊娠したかも?」という悩みや疑問に、チャットボット形式でお答えします。\n「電話やメールで相談するのは少し怖い、勇気がない」という方でも、24時間365日、誰でも気軽にご利用できます。\n\n≪こんな質問にお答えします≫\n◆妊娠したかも?妊娠の確かめ方を知りたい。\n◆避妊に失敗したかも。緊急避妊ってどうやるの?\n◆妊娠についての基礎知識や、避妊方法、妊娠が判明した時にするべきことを知りたい。\n\nLINEアカウント名\n「妊娠したかも相談＠東京」\n\n実施時間\n24時間365日\n\n利用方法\n下記のいずれかの方法で、友達登録をしてご利用ください。\n1.QRコードを読み取る\nhttps://www.city.taito.lg.jp/kosodatekyouiku/kosodate/nenrei/ninshinki/soudan_shien/ninshinsoudan.images/linesoudan.png\n2.「ホーム」>「友だち追加」>「検索」でID「＠ninshin_tokyo」を検索\n\nLINEの利用に当たって\nご本人の同意がない限り、個人情報や相談内容を第三者に公開することはありませんので、安心してご相談ください。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "妊娠したかも相談＠東京",
+      "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/nenrei/ninshinki/soudan_shien/ninshinsoudan.images/linesoudan.png"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "24時間365日",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "台東区の妊娠・出産に関する相談",
+    "shortName": "妊娠したかも相談＠東京"
+  },
+  "localGovernmentLink": {
+    "title": "妊娠・出産に関するご相談",
+    "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/nenrei/ninshinki/soudan_shien/ninshinsoudan.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "台東区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "利用方法\n下記のいずれかの方法で、友達登録をしてご利用ください。\n1.QRコードを読み取る;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/nenrei/ninshinki/soudan_shien/ninshinsoudan.images/linesoudan.png2.「ホーム」>「友だち追加」>「検索」でID「＠ninshin_tokyo」を検索",
+  "procedurePeriod": {
+    "conditions": "24時間365日",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "都内にお住まいの方を対象に、「妊娠したかも?」という悩みや疑問に、チャットボット形式でお答えします。",
+  "support": {
+    "description": "悩みや疑問に、チャットボット形式でお答えします",
+    "materiallySupport": "悩みや疑問に、チャットボット形式でお答えします",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "都内にお住まいの方"
+  },
+  "updateDate": "2023-07-04",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "24時間365日",
+    "fromHM": null,
+    "toHM": null
+  }
+}

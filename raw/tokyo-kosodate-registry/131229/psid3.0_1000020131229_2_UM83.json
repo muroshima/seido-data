@@ -1,0 +1,144 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て施設支援課私立保育所係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+2+UM83"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区立石5-13-1　葛飾区役所4階　401番子育て支援窓口",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て施設支援課私立保育所係",
+    "contactPhone": "03-5654-8297",
+    "contactUrl": null,
+    "zipCode": "1248555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "一時預かり（一時保育）",
+    "shortName": "一時保育"
+  },
+  "localGovernmentLink": {
+    "title": "一時保育",
+    "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1002333/1002377.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第7項、第21条の9",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "休日保育",
+      "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1002333/1002381.html"
+    },
+    {
+      "title": "一時的に子どもを預けることはできますか。",
+      "uri": "https://www.city.katsushika.lg.jp/faq/1030278/1007663/1008610/1008650.html"
+    },
+    {
+      "title": "子育て支援サービスの無償化について",
+      "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1030197/1021308/1021371/1021551.html"
+    },
+    {
+      "title": "一時保育案内（令和6年度版）（4月現在）（PDF 387.2KB）",
+      "uri": "https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/002/377/r6.4.1ichiji.pdf"
+    },
+    {
+      "title": "家庭で保育する児童が一時保育を利用した際の助成金について",
+      "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1002333/1031663.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者のパート就労や病気等による緊急時、育児疲れなどのリフレッシュのために、家庭において保育を受けることが一時的に困難となったお子さんを、保育施設で一時的にお預かりしています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "1. 区内在住の方\n2. 保育園や幼稚園に通っていない方\n（※1）幼稚園に通っている方で、預かり保育を実施していない時間帯や幼稚園がお休みの場合はご利用できます。一時保育の利用を予定している保育園から、通っている幼稚園の状況を確認させていただく場合があります。\n（※2） 認定こども園に通っている方で、新1号認定を受けている場合は（※1）と同じ条件でご利用できますが、新2号認定・新3号認定を受けている場合はご利用できません。"
+  },
+  "updateDate": "2024-04-23",
+  "useConsiderationFlag": false,
+  "utilization": "1. 各保育施設にお電話等でお問い合わせください。\n2. 事前に利用登録を済ませてください。\n　※ 登録料がかかる施設もあります。\n　※ お子さんの状況をお伺いするために、登録時に簡単な面談を行う場合があります。\n3. お電話等で利用予約をお申込みください。\n4. 利用当日、お子さんと一緒に登園してください。\n5. 料金は、利用当日に直接保育施設へお支払いください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

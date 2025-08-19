@@ -1,0 +1,140 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康推進課管理・事業グループ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+1+UM792"
+  },
+  "belongings": "母子健康手帳、1歳児歯科健診のお知らせ、1歳児歯科健診アンケート、いつも使っている口腔ケアグッズ（歯ブラシ等）\n\nバスタオル⇒歯科健健診時、歯科医師の膝の上にお子さんを寝かせる際使用します。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康推進課管理・事業グループ",
+    "contactPhone": "03-3987-4173",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "1歳のころの生活習慣は、むし歯の分かれ道です\n\n1歳のころには歯が生えてきますね。歯の生えはじめから、むし歯予防を始めましょう。\n\n乳歯がむし歯になってしまうと、ごはんが食べにくい、よくかめないなど、全身の栄養状態に影響が出たり、歯並びが悪くなる、発音がうまくできない、永久歯もむし歯になりやすいなど、様々なリスクがあります。\n\n乳歯のむし歯は進行が速く、悪化するまで気づきにくい特徴がありますので、ぜひ歯科健診を受けましょう。\n\n豊島区では1歳児歯科健診を行なっています。この機会にぜひ歯科健診においでください。\n\n1歳児歯科健診受診にあたってのお願い\n\n1.お子さんや付き添いの保護者のかたが、風邪の症状や37.5度以上の発熱があるなどお身体の具合が悪い場合は、受診を見合わせてください。\n\n2.ご自宅で検温し、アンケートの記入欄に記入してお持ちください。\n\n3.診察室内では、付き添いの保護者のかたのマスク着用にご協力お願いいたします。\n\n4.「1歳児歯科健診アンケート」を記入してお持ちください。未記入の場合、順番が遅くなる場合があります。\n\n5.お車での来所はご遠慮ください。\n\n6.当保健所ではベビーカーなど貴重品盗難に関して管理責任を負うことはできません。\n\n受付場所\n豊島区東池袋4丁目42番16号\n受付時間\n午前9時から9時30分まで\n\n内容\n\n1.歯科医師による歯科健診\n2.歯科衛生士による歯磨きアドバイス\n3.保健師によるミニ講座「生活リズムとお子さんの発達について」\n4.栄養士によるミニ講座「お子さんの食事について」\nすべてを受診すると、概ね1時間から1時間30分かかります。\n\n費用:無料\n\n日程:すべて木曜日　詳しくは豊島区ホームページをご覧ください。\n\n通知された健診日にお越しになれない場合には、予約変更が可能です。\n\n実施日の前々日までにお電話で変更してください。\n\n予約変更専用番号03-3987-4244\n\n【内容に関するお問い合わせ】\n\n池袋保健所健康推進課03-3987-4173",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": "09:00",
+    "fromYMD": null,
+    "toHM": "09:30",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "池袋保健所1階「鬼子母神plus」"
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児の歯の健康診査（1歳児歯科健康診査）",
+    "shortName": "1歳児歯科健診"
+  },
+  "localGovernmentLink": {
+    "title": "1歳児歯科健診",
+    "uri": "https://www.city.toshima.lg.jp/219/kenko/1602241308.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": "池袋保健所1階「鬼子母神plus」",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "101KB）",
+      "uri": "https://www.city.toshima.lg.jp/219/kenko/documents/map_20191015ikebukurohokennjokariitenn.pdf"
+    },
+    {
+      "title": "こども歯科健診（4歳未満まで）",
+      "uri": "https://www.city.toshima.lg.jp/219/kosodate/kosodate/kenko/013117.html"
+    },
+    {
+      "title": "（移転先住所）豊島区東池袋4丁目42番16号※クリックすると地図が表示されます（PDF：751KB）",
+      "uri": "https://www.city.toshima.lg.jp/219/kenko/1602241430.html"
+    },
+    {
+      "title": "1歳児歯科健診時にお配りしている資料はこちら（PDF：1",
+      "uri": "https://www.city.toshima.lg.jp/219/kenko/documents/202402ver1.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "乳歯が生えそろうこの時期は、むし歯が急増する時期でもあります。1歳児歯科健康診査を受けて、むし歯の予防と早期発見をめざしましょう。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住の1歳児\n概ね1歳3か月まで受診可能です。"
+  },
+  "updateDate": "2024-02-09",
+  "useConsiderationFlag": false,
+  "utilization": "対象のかたにはお誕生日の前月に健診日のご案内を郵送します。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131075;墨田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康推進課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131075",
+    "psid": "psid3.0+6000020131075+2+UM50"
+  },
+  "belongings": "乳児健康診査受診票",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "向島保健センター,本所保健センター",
+    "contactPhone": "03-3611-6135,03-3622-9137",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "母と子の健康診査\n\n妊婦健康診査、乳幼児健診についてのお知らせ\n〈感染症の感染防止に関わるお願い〉\n発熱（37.5℃以上）、かぜの症状（鼻水・鼻づまり、せき、のどの痛み）、息苦しさ、吐き気など、体調のすぐれない方は、来所をお控えください。\n※会場の都合により付き添いの保護者の方は、原則1名でお願いいたします。\nお子さまについて、ご心配等ございましたら、向島保健センター・本所保健センターまでご相談ください。\n\n乳児健康診査（6か月から7か月児、9か月から10か月児）\n|対象|区内在住の6か月から7か月児<br>区内在住の9か月から10か月児|\n|内容|医療機関での健診|\n|会場|都内指定医療機関|\n|実施日|医療機関にお問い合わせください。|\n|受診方法|墨田区が発行する「乳児健康診査票」で受診してください。<br>「乳児健康診査票」は乳児健康診査（3か月から4か月）時にお渡しします。|\n|問合せ先|向島保健センター　電話：03-3611-6135<br>本所保健センター　電話：03-3622-9137|\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "実施日\t医療機関にお問い合わせください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "都内指定医療機関"
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+    "shortName": "乳児健康診査（9か月から10か月児）"
+  },
+  "localGovernmentLink": {
+    "title": "母と子の健康診査",
+    "uri": "https://www.city.sumida.lg.jp/kenko_fukushi/kenko/oyako_kenko/ikuji_gakkyu/hahatoko_kenkou_sins.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "墨田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として乳幼児健康診査9か月から10か月児を実施しています。",
+  "support": {
+    "description": "医療機関での健診",
+    "materiallySupport": "医療機関での健診",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "区内在住の9か月から10か月児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 9
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": 10
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住の9か月から10か月児"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "墨田区が発行する「乳児健康診査票」で受診してください。\n「乳児健康診査票」は乳児健康診査（3か月から4か月）時にお渡しします。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

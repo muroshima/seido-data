@@ -1,0 +1,144 @@
+{
+  "area": {
+    "areaCode": "131075;墨田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康推進課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131075",
+    "psid": "psid3.0+6000020131075+1+UM17"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康推進課",
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "不妊症・不育症についての知識、助成、相談\n\n不妊症・不育症の基礎知識\n不妊症とは\n妊娠を望む男女が一定期間妊娠しない場合、不妊症の可能性があります。\n不育症とは\n一般的に、原因の如何にかかわらず流産を2回繰り返す場合を不育症といいます。\nそれぞれ「妊娠支援ポータルサイト東京都　妊活課（外部サイト）;https://www.ninkatsuka.metro.tokyo.lg.jp/」に詳細が載っているため、妊娠のメカニズムとともにご参照ください。\n不妊治療等への助成\n不妊検査等助成 （外部サイト）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/josei/funinkensa/index.html\n特定不妊治療費の助成 （外部サイト）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/josei/funin/index.html\n不育症検査助成 （外部サイト）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/josei/fuikushoukensa/index.html\n不妊・不育に関する相談\n不妊・不育ホットライン （外部サイト）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/h_soudan.html\n専門の研修を受けたピア（仲間）カウンセラーによる不妊や不育に関する相談、検査や治療についての情報提供を行っています。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の不妊・不育症に関する助成",
+    "shortName": "不妊症・不育症についての知識、助成、相談"
+  },
+  "localGovernmentLink": {
+    "title": "不妊症・不育症についての知識、助成、相談",
+    "uri": "https://www.city.sumida.lg.jp/kenko_fukushi/kenko/oyako_kenko/kibou/hunin.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "墨田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "東京都特定不妊治療費助成事業費補助金交付要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "不妊・不育ホットライン （外部サイト）",
+      "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/h_soudan.html"
+    },
+    {
+      "title": "不育症検査助成 （外部サイト）",
+      "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/josei/fuikushoukensa/index.html"
+    },
+    {
+      "title": "特定不妊治療費の助成 （外部サイト）",
+      "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/josei/funin/index.html"
+    },
+    {
+      "title": "妊娠支援ポータルサイト東京都　妊活課（外部サイト）",
+      "uri": "https://www.ninkatsuka.metro.tokyo.lg.jp/"
+    },
+    {
+      "title": "不妊検査等助成 （外部サイト）",
+      "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/josei/funinkensa/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "東京都では、人工授精に係る保険適用外治療（※）の費用の一部について、独自に助成を行っています。\n※産科、婦人科、産婦人科、泌尿器科を標榜する医療機関において実施した、医師の診断に基づく治療に限ります。",
+  "support": {
+    "description": "不妊検査等助成 （外部サイト）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/josei/funinkensa/index.html\n特定不妊治療費の助成 （外部サイト）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/josei/funin/index.html\n不育症検査助成 （外部サイト）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/josei/fuikushoukensa/index.html",
+    "materiallySupport": null,
+    "monetarySupport": "不妊検査等助成 （外部サイト）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/josei/funinkensa/index.html\n特定不妊治療費の助成 （外部サイト）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/josei/funin/index.html\n不育症検査助成 （外部サイト）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/josei/fuikushoukensa/index.html"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2023-01-16",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

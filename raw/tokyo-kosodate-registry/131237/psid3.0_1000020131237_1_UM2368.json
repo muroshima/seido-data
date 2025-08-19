@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部保育課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM2368"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部保育課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e048/kuseijoho/gaiyo/soshiki/kodomo/hoiku.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "令和5年10月から認可保育施設等に通う第2子保育料を無償化しました。\n\n対象施設・サービス\n認可保育施設\n\n・認可保育園（区立・私立）\n・認定こども園（2号・3号）\n・地域型保育事業（小規模保育・事業所内保育・家庭的保育・居宅訪問型保育）\n\nその他の対象施設・サービス\n\n・認証保育所\n    （注）補助の額に上限があります。詳細は認証保育所保育料負担軽減補助金ページをご確認ください。\n・江戸川区の保育ママ",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "幼児教育・保育の無償化",
+    "shortName": "認可保育施設等における第2子保育料の無償化"
+  },
+  "localGovernmentLink": {
+    "title": "認可保育施設等における第2子保育料の無償化",
+    "uri": "https://www.city.edogawa.tokyo.jp/e048/kosodate/kosodate/hoiku/azukeru/hoikuryomusyo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "無償化に伴う手続き\n原則として手続き不要です。ただし、認可保育施設をご利用の方が以下（1）（2）のケースに該当する場合は、必要書類を提出してください。\n（1）認可保育施設の入園申し込み以降に世帯員等の変更があった場合\n教育・保育給付認定変更申請書（兼変更届）https://www.city.edogawa.tokyo.jp/e048/kuseijoho/denshi/download/d_tanjo/hoiku/sikyuninteihenko.html\n（2）別世帯のお子さんがいる場合（学校の寮に入っており、住所を異動している場合など）\n多子世帯状況申告書https://www.city.edogawa.tokyo.jp/e048/kuseijoho/denshi/download/d_tanjo/hoiku/tasisetai_sinseisyo.html\n戸籍全部事項証明書および別世帯のお子さんの住民票\n\n認証保育所をご利用の場合\n認証保育所をご利用の方は下記ページをご確認ください。\n認証保育所保育料負担軽減補助金https://www.city.edogawa.tokyo.jp/e047/kosodate/kosodate/hoiku/nitijou/futankegen.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第27条～第30条の2",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "幼児教育・保育の無償化",
+  "support": {
+    "description": "無償化の対象は月額保育料のみです。以下の費用は対象外となります。\n\n・月額延長保育料\n・スポット延長保育料\n・日用品、文房具代、園服、おむつ代、行事代等の各施設で徴収する費用\n\n実費徴収となる費用については、各施設にお問い合わせください。",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象となる児童\n\n現に監護しており、生計を同一にしているお子さんが2人以上いる世帯の第2子以降。\n（注）江戸川区外から通園しているお子さんの保育料については、住所地の自治体へお問い合わせください。"
+  },
+  "updateDate": "2023-11-10",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

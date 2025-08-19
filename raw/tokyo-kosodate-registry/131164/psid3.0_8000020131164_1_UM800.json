@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康推進課管理・事業グループ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+1+UM800"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康推進課管理・事業グループ",
+    "contactPhone": "03-3987-4173",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊娠期から出産・子育て期までの切れ目のない相談支援と経済的支援を行っています。\n経済的支援\n申請時点で豊島区に住民登録があることが要件となります。\n①出産応援ギフト\n妊娠届を提出し、ゆりかご面接をしたかたに、５万円相当のギフトカードを差し上げます。\n※流産・死産の場合も支給対象者となります。\n②子育て応援ギフト\n赤ちゃん訪問をされたかたに、新生児1人につき10万円相当(国事業の5万円分+都事業の5万円分)のギフトカードを差し上げます。\n①②とも出産育児関連用品や家電製品等に使用できる東京都赤ちゃんファースト事業のギフトカードです。\n伴走型支援\n以下の内容の相談を行っています。\n妊娠届出後、助産師による「ゆりかご面接」、妊娠8か月頃に「妊娠8か月を迎えた妊婦へのアンケート」及び相談や支援が必要なかたへの面談。\n出産後、保健師または助産師による「赤ちゃん訪問」。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "伴走型相談支援",
+    "shortName": "出産・子育て応援給付金"
+  },
+  "localGovernmentLink": {
+    "title": "出産・子育て応援事業について",
+    "uri": "https://www.city.toshima.lg.jp/219/kosodate/ninshin/shussanmade/syussankosodateouen.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "東京都福祉局HP「東京都出産・子育て応援事業～赤ちゃんファーストを継続します～」(外部サイト)",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/shussan/tokyo_shussankosodateouen.html"
+    },
+    {
+      "title": "子ども家庭庁HP「妊婦・子育て家庭への伴走型相談支援と経済的支援の一体的実施（出産・子育て応援交付金）」(外部サイト)",
+      "uri": "https://www.cfa.go.jp/policies/shussan-kosodate/"
+    },
+    {
+      "title": "妊娠から出産・子育て期の相談支援および経済的支援について",
+      "uri": "https://www.city.toshima.lg.jp/219/kosodate/ninshin/2303161305.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠期から出産・子育て期までの切れ目のない相談支援と経済的支援を行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-01-15",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

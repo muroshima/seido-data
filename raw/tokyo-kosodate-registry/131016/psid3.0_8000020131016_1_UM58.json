@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "千代田保健所健康推進課感染症対策係（予防接種担当）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+1+UM58"
+  },
+  "belongings": "母子健康手帳の予防接種実施状況が記録された部分の写し、または接種履歴が確認できるものの写し（予診票、接種済証明書等）\n（注意） その他、追加で書類のご提出をお願いすることがあります。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区九段北1-2-14",
+    "contactComment": null,
+    "contactEmail": "kenkousuishin@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "千代田保健所健康推進課感染症対策係（予防接種担当）",
+    "contactPhone": "03-5211-8172",
+    "contactUrl": null,
+    "zipCode": "1020073"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "疾病の治療として、骨髄移植手術を受けた等の特別な事情により免疫が消失し、接種済みの定期予防接種による予防効果が期待できず、再接種により免疫を得られる効果が期待できると医師に判断されたお子さんが、任意で再度、当該予防接種を受ける場合の接種費用を助成します。\n\n（注意） 助成を受けるには事前申請が必要です。事前申請を行わずに再接種を受けた場合は、費用助成の対象外となりますのでご注意ください。\n\n（注意） ロタウイルスは再接種の対象外です。\n（注意） 各予防接種には再接種を受けられる年齢に上限があります。下表をご参照ください。\n\n予防接種の種類　上限年齢\n五種混合（DPT-IPV-Hib）　15歳未満\n（注意） 令和6年4月1日から追加\nヒブ　10歳未満\n小児用肺炎球菌　6歳未満\n四種混合（DPT-IPV）　15歳未満\n三種混合（DPT）　20歳未満\n不活化ポリオ（IPV）　20歳未満\nBCG　4歳未満\nB型肝炎　20歳未満\n水痘　20歳未満\nMR（麻しん風しん混合）　20歳未満\n麻しん　20歳未満\n風しん　20歳未満\n日本脳炎　20歳未満\n二種混合（DT）2期　20歳未満\nHPV（子宮頸がん予防）　20歳未満\n\n助成の流れ\n1.事前申請\n再接種を受ける前に必要書類を添えて申請書をご提出ください。\n2.助成対象の認定\n申請書類を受理した後、助成対象かどうかを審査します。審査の結果、申請者宛てに助成対象認定通知書または助成対象不認定通知書を送付します。\n（注意） 審査には1週間から2週間程度お時間がかかります。余裕をもってご申請ください。\n3.再接種\n申請された医療機関で再接種を受けてください。接種費用は一度全額自己負担でお支払いください。\n4.償還払いの申請\n最初の再接種日から1年以内に、以下の書類を健康推進課感染症対策係（予防接種担当）へ郵送または窓口でご提出ください。\n　1.千代田区予防接種再接種費用助成金交付請求書兼口座振替依頼書（第4号様式）\n　（注意） こちらの書類は助成対象認定通知書と一緒に送付します。\n　2.再接種を受けた予防接種の種類とかかった金額が分かる領収書原本および診療明細書原本\n　3.再接種の接種記録が確認できるものの写し（母子健康手帳の接種記録欄、予診票等）\n　4.助成対象認定通知書の写し\n5.助成金の振込\n指定された口座へ助成金を振り込みます。\n\n任意の予防接種による健康被害救済制度\n万が一、任意の予防接種を受けて健康被害が生じた場合は、独立行政法人医薬品医療機器総合機構の救済制度に基づく補償と、本区が加入している自治体賠償保険の補償を、それぞれ受けることができます。接種した医療機関にご相談のうえ、千代田保健所へご連絡ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の育児に関する金銭的支援",
+    "shortName": "特別な事情によって免疫が消失したお子さんに対する予防接種再接種費用の助成"
+  },
+  "localGovernmentLink": {
+    "title": "特別な事情によって免疫が消失したお子さんに対する予防接種再接種費用の助成",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/yobosesshu/tokubetsu-saisesshuhiyo-josei.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": "健康推進課感染症対策係（予防接種担当）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "必ず事前に、以下の書類を健康推進課感染症対策係（予防接種担当）へ郵送または窓口でご提出ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "独立行政法人医薬品医療機器総合機構 医薬品副作用被害救済制度（外部サイトへリンク）",
+      "uri": "https://www.pmda.go.jp/kenkouhigai_camp/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "疾病の治療として、骨髄移植手術を受けた等の特別な事情により免疫が消失し、接種済みの定期予防接種による予防効果が期待できず、再接種により免疫を得られる効果が期待できると医師に判断されたお子さんが、任意で再度、当該予防接種を受ける場合の接種費用を助成します。",
+  "support": {
+    "description": "疾病の治療として、骨髄移植手術を受けた等の特別な事情により免疫が消失し、接種済みの定期予防接種による予防効果が期待できず、再接種により免疫を得られる効果が期待できると医師に判断されたお子さんが、任意で再度、当該予防接種を受ける場合の接種費用を助成します。",
+    "materiallySupport": null,
+    "monetarySupport": "当該再接種に要した費用の一部または全額\n（注意） 接種をした年度において千代田区が定める助成上限額があります。\n（注意） 接種費用以外の費用（申請に要した文書発行料等）は助成対象外です。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "各予防接種には再接種を受けられる年齢に上限あり。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "以下に掲げるすべての要件を満たす方\n1.疾病の治療として、骨髄移植手術を受けた等の特別の事情により接種済みの定期予防接種の予防効果が期待できず、再接種が必要と医師に判断されていること\n2.日本国内の医療機関で再接種を受ける日において20歳未満であり、千代田区に住民登録があること\n3.接種済みの定期予防接種が予防接種実施規則の規定を遵守した接種であること"
+  },
+  "updateDate": "2024-04-19",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

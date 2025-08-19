@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131202;練馬区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭部　保育課　保育認定係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020131202",
+    "psid": "psid3.0+3000020131202+1+UM5046"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都練馬区豊玉北6丁目12番1号",
+    "contactComment": "ファクス：03-5984-1220",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭部　保育課　保育認定係",
+    "contactPhone": "03-5984-1479",
+    "contactUrl": "https://www.city.nerima.tokyo.jp/cgi-bin/formmail/formmail.cgi?d=060030030000",
+    "zipCode": "1768501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "副食費\n幼児教育・保育無償化以降の3歳から5歳児クラスにおける副食費（おかず・おやつ代等）は原則実費負担となりましたが、練馬区では子どもたちの食育の推進と子育て世帯の負担軽減のため、練馬区に住所を有する世帯については区でその費用を全額賄っています。\n練馬区では、副食費を全階層無償とするため、国基準の副食費徴収免除者に対する法令に定めた通知は省略といたします。\nなお、練馬区外にお住まいで練馬区内の保育所をご利用の方は、自治体により取り扱いが異なりますので、お住まいの自治体へ直接お問い合わせください。\n副食費が徴収となる方は、納付書により金融機関でお支払いいただきます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "副食費補助",
+    "shortName": "副食費"
+  },
+  "localGovernmentLink": {
+    "title": "保育料の決定・納入方法",
+    "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/hoiku/hoikuen/zaien/hoikuryou/hoikuryou.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "練馬区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "練馬区では、一定の要件を満たしている世帯を対象に、保育所等で提供される給食等にかかる食材料費の一部（副食費）を免除しています。",
+  "support": {
+    "description": "副食費を全階層無償",
+    "materiallySupport": null,
+    "monetarySupport": "副食費を全階層無償"
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "3歳から5歳児クラス",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "幼児教育・保育無償化以降の3歳から5歳児クラス"
+  },
+  "updateDate": "2023-09-27",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

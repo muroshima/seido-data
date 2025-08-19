@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "132233;武蔵村山市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部健康推進課健康推進係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132233",
+    "psid": "psid3.0+3000020132233+2+UM45"
+  },
+  "belongings": "保険証を忘れずに持参してください。また、各種医療証（乳・子・青・親・障等）をお持ちのかたは必ず保険証と一緒にお持ちください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康福祉部健康推進課健康推進係",
+    "contactPhone": "042-565-9315",
+    "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/e_07a/1000778",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "休日急患診療所\n休日診療は、内科・小児科の急病のかたを対象として日曜・祝日及び年末年始、休日準夜診療は、日曜・祝日の夜間に、保健相談センター1階で行っています。\n（注）受診の際は、事前にお電話（042-564-4114）をしてください。保険証を忘れずに持参してください。また、各種医療証（乳・子・親・障等）をお持ちのかたは必ず保険証と一緒にお持ちください。\n\n|診療種別|開設日|受付時間|診療時間|会場・お問い合わせ|\n|:----|:----|:----|:----|:----|\n|休日診療<br>（内科・小児科）|日曜日・祝日及び年末年始<br>（12月30日から1月3日）|（1）午前9時から午前11時30分まで<br>（2）午後1時から午後4時まで|（1）午前9時30分から正午まで<br>（2）午後1時から午後4時30分まで|市立保健相談センター1階<br>（電話042-564-4114）|\n|休日準夜診療<br>（内科・小児科）|日曜日・祝日<br>（年末年始は実施していません。）|午後5時30分から午後8時30分まで|午後6時から午後9時まで|^|\n\n市立保健相談センター\n地図:https://www.city.musashimurayama.lg.jp/_res/projects/default_project/_page_/001/000/778/map.gif\n\n所在地：武蔵村山市本町1-23",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "武蔵村山市本町1-23",
+    "implementationName": "市立保健相談センター1階"
+  },
+  "institutionName": {
+    "canonicalName": "夜間・休日急病診療所",
+    "shortName": "休日急患診療所\n（休日準夜診療）"
+  },
+  "localGovernmentLink": {
+    "title": "急患診療のご案内",
+    "uri": "https://www.city.musashimurayama.lg.jp/kurashi/kenkou/kyukyu/1017406/1000778.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "武蔵村山市"
+  },
+  "procedureCounter": "市立保健相談センター1階",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": "午後5時30分から午後8時30分まで",
+    "fromHM": "17:30",
+    "fromYMD": null,
+    "toHM": "20:30",
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "市では、休日等における内科・小児科の急病のかたを対象として、当市医師会の協力を得て、休日急患診療所を開設しています。",
+  "support": {
+    "description": "休日準夜診療（内科・小児科）",
+    "materiallySupport": "休日準夜診療（内科・小児科）",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "内科・小児科の急病のかた"
+  },
+  "updateDate": "2022-12-06",
+  "useConsiderationFlag": false,
+  "utilization": "受診の際は、事前にお電話（042-564-4114）をしてください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "受付時間　午後5時30分から午後8時30分まで￥\n診療時間　午後6時から午後9時まで",
+    "fromHM": null,
+    "toHM": null
+  }
+}

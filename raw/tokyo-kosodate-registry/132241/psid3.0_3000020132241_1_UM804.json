@@ -1,0 +1,151 @@
+{
+  "area": {
+    "areaCode": "132241;多摩市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども・若者政策課 幼児教育・保育担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132241",
+    "psid": "psid3.0+3000020132241+1+UM804"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都多摩市関戸六丁目12番地1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども・若者政策課 幼児教育・保育担当",
+    "contactPhone": "042-338-6850",
+    "contactUrl": null,
+    "zipCode": "2068666"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "小規模保育事業所を紹介します！\n\n小規模保育事業所\n小規模保育事業所は、認可保育所と同様に日中お子さんをご家庭で保育できない場合に2歳児クラスまでの乳幼児を対象に原則19人以下の少人数で保育する施設です。\n\nイラスト：小規模保育事業所\n\n小規模保育事業所1 （Png 192.1KB）;https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/548/1.png\nイラスト：小規模保育事業所2\n\n小規模保育事業所2 （Png 420.9KB）;https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/548/2.png\n令和4年度入所をご希望の方は下記の「令和4年度保育所等入所のしおり」をご確認ください。\n\n最新の空き状況は次のリンクをご覧ください。\n\n認可保育所・地域型保育施設・認証保育所の空き状況(令和6年6月入所分);認可保育所・地域型保育施設・認証保育所の空き状況(令和6年6月入所分)\n小規模保育事業所　しおりでの各園の紹介ページ\nどんぐり保育室 （PDF 816.6KB）;https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/548/donn.pdf\nこころプティ保育園 （PDF 646.8KB）;https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/548/putti.pdf\nさっちゃんルーム （PDF 595.9KB）;https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/548/sattya.pdf\nあおぞらルーム （PDF 709.9KB）;https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/548/aoru.pdf\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "小規模保育施設一覧",
+    "shortName": "小規模保育事業所"
+  },
+  "localGovernmentLink": {
+    "title": "小規模保育事業所",
+    "uri": "https://www.city.tama.lg.jp/kosodate/1008019/1008034/1003548.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "多摩市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "入所をご希望の方は、該当年度の「保育所等入所のしおり」をご確認ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第三章 小規模保育事業",
+    "regulationName": "家庭的保育事業等の設備及び運営に関する基準"
+  },
+  "relatedLink": [
+    {
+      "title": "小規模保育事業所2 （Png 420.9KB）",
+      "uri": "https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/548/2.png"
+    },
+    {
+      "title": "どんぐり保育室 （PDF 816.6KB）",
+      "uri": "https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/548/donn.pdf"
+    },
+    {
+      "title": "あおぞらルーム （PDF 709.9KB）",
+      "uri": "https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/548/aoru.pdf"
+    },
+    {
+      "title": "さっちゃんルーム （PDF 595.9KB）",
+      "uri": "https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/548/sattya.pdf"
+    },
+    {
+      "title": "こころプティ保育園 （PDF 646.8KB）",
+      "uri": "https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/548/putti.pdf"
+    },
+    {
+      "title": "認可保育所・地域型保育施設・認証保育所の空き状況(令和6年6月入所分)",
+      "uri": "https://www.city.tama.lg.jp/kosodate/1008019/1008034/1003518.html"
+    },
+    {
+      "title": "小規模保育事業所1 （Png 192.1KB）",
+      "uri": "https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/548/1.png"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "市区町村の認可事業として行われる小規模保育では、3歳未満の保育が必要なお子さんを、比較的小規模（定員6人以上19人以下）で、家庭的保育に近い雰囲気のもとで、きめ細かな保育を実施しています。\n保育所分園に近いA型、家庭的保育（グループ型小規模保育）に近いC型と、その中間的なB型の3タイプがあります。",
+  "support": {
+    "description": "小規模保育事業所\n小規模保育事業所は、認可保育所と同様に日中お子さんをご家庭で保育できない場合に2歳児クラスまでの乳幼児を対象に原則19人以下の少人数で保育する施設です。\n小規模保育事業所1 （Png 192.1KB）; https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/548/1.png\n小規模保育事業所2 （Png 420.9KB）; https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/548/2.png\n令和4年度入所をご希望の方は下記の「令和4年度保育所等入所のしおり」をご確認ください。\n最新の空き状況は次のリンクをご覧ください。\n認可保育所・地域型保育施設・認証保育所の空き状況(令和6年5月入所分); https://www.city.tama.lg.jp/kosodate/1008019/1008034/1003518.html\n小規模保育事業所　しおりでの各園の紹介ページ\nどんぐり保育室 （PDF 816.6KB）; https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/548/donn.pdf\nこころプティ保育園 （PDF 646.8KB）; https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/548/putti.pdf\nさっちゃんルーム （PDF 595.9KB）; https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/548/sattya.pdf\nあおぞらルーム （PDF 709.9KB）;https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/548/aoru.pdf",
+    "materiallySupport": "小規模保育事業所\n小規模保育事業所は、認可保育所と同様に日中お子さんをご家庭で保育できない場合に2歳児クラスまでの乳幼児を対象に原則19人以下の少人数で保育する施設です。\n小規模保育事業所1 （Png 192.1KB）; https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/548/1.png\n小規模保育事業所2 （Png 420.9KB）; https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/548/2.png\n令和4年度入所をご希望の方は下記の「令和4年度保育所等入所のしおり」をご確認ください。\n最新の空き状況は次のリンクをご覧ください。\n認可保育所・地域型保育施設・認証保育所の空き状況(令和6年5月入所分); https://www.city.tama.lg.jp/kosodate/1008019/1008034/1003518.html\n小規模保育事業所　しおりでの各園の紹介ページ\nどんぐり保育室 （PDF 816.6KB）; https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/548/donn.pdf\nこころプティ保育園 （PDF 646.8KB）; https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/548/putti.pdf\nさっちゃんルーム （PDF 595.9KB）; https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/548/sattya.pdf\nあおぞらルーム （PDF 709.9KB）;https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/548/aoru.pdf",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "2歳児クラスまでの乳幼児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "日中お子さんをご家庭で保育できない場合に2歳児クラスまでの乳幼児を対象に原則19人以下の少人数で保育する施設です。"
+  },
+  "updateDate": "2023-03-15",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜～土曜\n8:00～17:00\n※延長は18:00まで",
+    "fromHM": "08:00",
+    "toHM": "17:00"
+  }
+}

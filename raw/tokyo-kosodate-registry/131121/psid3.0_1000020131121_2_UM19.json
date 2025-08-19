@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "131121;世田谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "国保・年金課　保険給付",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131121",
+    "psid": "psid3.0+1000020131121+2+UM19"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "国保・年金課　保険給付",
+    "contactPhone": "03-5432-2349",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "出産育児一時金の支給について\n内容\n世田谷区の国民健康保険加入者が出産したときに出産育児一時金が支給されます。妊娠85日以上であれば、死産・流産（医師等の証明が必要）も支給されます。\nただし、職場の健康保険等に1年以上本人として加入していた方が退職後6か月以内に出産した場合は、職場の健康保険等から出産育児一時金等が支給されることがあります。支給額等給付内容は加入していた健康保険等へご確認ください。\nなお、加入していた健康保険等から支給を受ける場合には、国民健康保険からは支給されません。¥n支給額\n50万円（お子様1児あたり）【令和5年4月1日出産より】¥n申請期限\n出産の翌日から2年を経過すると時効となり、支給されませんのでご注意ください。¥n海外出産の場合の支給・申請方法\n出産した方が帰国してからのお手続きとなります。償還払のみ利用でき、申請により出産育児一時金を世帯主に支給します。詳しくは、国保・年金課 保険給付へお問い合わせください。¥n申請方法\n出産した方が帰国後、窓口で申請してください。郵送での申請はできません。申請書類受理後、約1か月後に世帯主の銀行口座に振込みます。¥n申請に必要な書類\n1.出産育児一時金支給申請書\n2.医師等が発行した出生証明書（和訳を添付してください）\n3.出産した方の帰国日が確認できる書類（パスポート等）の原本 \n4.出産した方の保険証\n5.世帯主と出産した方のマイナンバーカード（個人番号カード）または通知カード\n6.世帯主の口座番号等がわかるもの\n7.本人確認資料 \n   本人確認資料とは、運転免許証、パスポート（日本国発行のもの）、マイナンバーカードなど官公署発行の写真入り証明書です。詳しくは、国保・年金課 保険給付へお問い合わせください。¥n申請のできるところ\n国保・年金課 保険給付(世田谷区役所 第2庁舎 2階 26番窓口);https://www.city.setagaya.lg.jp/mokuji/kusei/012/001/001/d00006140.html\n総合支所くみん窓口;https://www.city.setagaya.lg.jp/mokuji/kusei/011/002/d00005266.html\n出張所;https://www.city.setagaya.lg.jp/mokuji/kusei/011/002/d00005266.html\n（郵送、まちづくりセンターでは申請できません。）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出産育児一時金",
+    "shortName": "出産育児一時金の支給（海外出産）"
+  },
+  "localGovernmentLink": {
+    "title": "出産育児一時金の支給",
+    "uri": "https://www.city.setagaya.lg.jp/mokuji/kurashi/003/002/005/d00025445.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-11",
+    "updater": "世田谷区"
+  },
+  "procedureCounter": "国保・年金課 保険給付(世田谷区役所 第2庁舎 2階 26番窓口);https://www.city.setagaya.lg.jp/mokuji/kusei/012/001/001/d00006140.html\n総合支所くみん窓口;https://www.city.setagaya.lg.jp/mokuji/kusei/011/002/d00005266.html\n出張所;https://www.city.setagaya.lg.jp/mokuji/kusei/011/002/d00005266.html\n（郵送やまちづくりセンターでは申請できません。）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "海外出産の場合の支給・申請方法\n出産した方が帰国してからのお手続きとなります。申請により出産育児一時金を世帯主に支給します。詳しくは、国保・年金課 保険給付へお問い合わせください。¥n申請方法\n出産した方が帰国後、窓口で申請してください。郵送での申請はできません。申請書類受理後、約1か月後に世帯主の銀行口座に振込みます。¥n申請に必要な書類\n1.出産育児一時金支給申請書\n2.医師等が発行した出生証明書（和訳を添付してください）\n3.出産した方の帰国日が確認できる書類（パスポート等）の原本 \n4.出産した方の保険証\n5.世帯主と出産した方のマイナンバーカード（個人番号カード）または通知カード\n6.世帯主の口座番号等がわかるもの\n7.本人確認資料 \n　本人確認資料とは、運転免許証、パスポート（日本国発行のもの）、マイナンバーカードなど官公署発行の写真入り証明書です。詳しくは、国保・年金課 保険給付へお問い合わせください。¥n申請のできるところ\n国保・年金課 保険給付(世田谷区役所 第2庁舎 2階 26番窓口);https://www.city.setagaya.lg.jp/mokuji/kusei/012/001/001/d00006140.html\n総合支所くみん窓口;https://www.city.setagaya.lg.jp/mokuji/kusei/011/002/d00005266.html\n出張所;https://www.city.setagaya.lg.jp/mokuji/kusei/011/002/d00005266.html\n（郵送、まちづくりセンターでは申請できません。）",
+  "procedurePeriod": {
+    "conditions": "出産の翌日から2年を経過すると時効となり、支給されませんのでご注意ください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条(第二節　その他の給付)",
+    "regulationName": "国民健康保険法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民健康保険に加入している方が海外で出産したときは、その世帯主からの申請により、出産育児一時金を支給します。",
+  "support": {
+    "description": "50万円（お子様1児あたり）【令和5年4月1日出産より】",
+    "materiallySupport": null,
+    "monetarySupport": "50万円（お子様1児あたり）【令和5年4月1日出産より】\n"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003",
+      "015"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "世田谷区の国民健康保険加入者が出産したときに出産育児一時金が支給されます。妊娠85日以上であれば、死産・流産（医師等の証明が必要）も支給されます。\nただし、職場の健康保険等に1年以上本人として加入していた方が退職後6か月以内に出産した場合は、職場の健康保険等から出産育児一時金等が支給されることがあります。支給額等給付内容は加入していた健康保険等へご確認ください。\nなお、加入していた健康保険等から支給を受ける場合には、国民健康保険からは支給されません。"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

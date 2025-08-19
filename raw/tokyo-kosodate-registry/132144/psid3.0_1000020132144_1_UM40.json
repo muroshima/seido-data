@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "132144;国分寺市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部　生活福祉課　相談支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132144",
+    "psid": "psid3.0+1000020132144+1+UM40"
+  },
+  "belongings": "1　前年度市町村民税課税証明書または非課税証明書（ただし、7月以降の助産の実施については当該年度）\n\n2　健康保険の被保険者証\n\n3　母子健康手帳\n\n4　個人番号確認書類・身元確認書類・外国人登録済証明書の写し（日本国籍がない場合）\n\n5　分娩を予定している医療機関等の診察券",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-325-9026",
+    "contactEmail": null,
+    "contactEx": "586",
+    "contactName": "福祉部　生活福祉課　相談支援係",
+    "contactPhone": "042-325-0111",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "入院して分娩する必要があるにもかかわらず、経済的にその費用を支払うことが困難な妊産婦の方に対し、その費用を助成する制度です。\n申請は出産予定日の４か月前から受付けます。世帯の状況や課税状況等により制度の対象とならない場合があります。また、施設によっては制度の利用ができない場合がありますので、お早めに一度ご相談ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "助産制度",
+    "shortName": "入院助産"
+  },
+  "localGovernmentLink": {
+    "title": "入院助産",
+    "uri": "https://www.city.kokubunji.tokyo.jp/kurashi/1010846/1010847/1024361.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-12",
+    "updater": "国分寺市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請は、出産予定日の４か月前から受付しますが、世帯の状況や課税状況等により助産の対象とならない場合があります。\n入院施設を決める前に、お早めに一度ご相談ください。\n\n【申請に必要な書類等】\n1　前年度市町村民税課税証明書または非課税証明書（ただし、7月以降の助産の実施については当該年度）\n2　健康保険の被保険者証\n3　母子健康手帳\n4　個人番号確認書類・身元確認書類・外国人登録済証明書の写し（日本国籍がない場合）\n5　分娩を予定している医療機関等の診察券",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "1　生活保護世帯\n\n2　同一の住居に居住し、生計を同じにしている世帯全員の市町村民税が非課税である世帯\n\n3　当該年度（4月から6月までについては前年度）に支払った市町村民税所得割の額が19,000円以下の世帯\n\n　ただし、健康保険等に加入し、488,000円以上の出産一時金等を受け取ることができる場合を除きます。",
+  "regulation": {
+    "regulationArticle": "第22条",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "助産施設一覧 （PDF 111.9KB）",
+      "uri": "https://www.city.kokubunji.tokyo.jp/_res/projects/default_project/_page_/001/024/361/20240515-2.pdf"
+    },
+    {
+      "title": "入院助産のしおり （PDF 116.5KB）",
+      "uri": "https://www.city.kokubunji.tokyo.jp/_res/projects/default_project/_page_/001/024/361/20240515.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "入院して分娩する必要があるにもかかわらず、経済的にその費用を支払うことが困難な妊産婦の方に対し、その費用を助成する制度です。",
+  "support": {
+    "description": "助産が決定した場合、出産に要する費用は、国分寺市から病院・助産院に支払います。\n利用者の世帯の収入に応じて一部自己負担（徴収金）があります。\n\n徴収金額\n【A階層】生活保護世帯\n基本徴収額：０円、加算して徴収する額：なし\n【B階層】市町村民税非課税世帯\n基本徴収額：0円、加算して徴収する額：出産一時金等給付額の10％\n【C階層】市町村民税が均等割の額のみの課税世帯\n基本徴収額：4,500円、加算して徴収する額：出産一時金等給付額の15％\n【D階層】市町村民税所得割の額の区分が次の区分に該当する世帯\n■第１階層\n基本徴収額：9,000円以下、加算して徴収する額：出産一時金等給付額の15％\n■第2階層\n基本徴収額：9,001円以上19,000円以下、加算して徴収する額：出産一時金等給付額の25％",
+    "materiallySupport": null,
+    "monetarySupport": "助産が決定した場合、出産に要する費用は、国分寺市から病院・助産院に支払います。\n利用者の世帯の収入に応じて一部自己負担（徴収金）があります。\n\n徴収金額\n【A階層】生活保護世帯\n基本徴収額：０円、加算して徴収する額：なし\n【B階層】市町村民税非課税世帯\n基本徴収額：0円、加算して徴収する額：出産一時金等給付額の10％\n【C階層】市町村民税が均等割の額のみの課税世帯\n基本徴収額：4,500円、加算して徴収する額：出産一時金等給付額の15％\n【D階層】市町村民税所得割の額の区分が次の区分に該当する世帯\n■第１階層\n基本徴収額：9,000円以下、加算して徴収する額：出産一時金等給付額の15％\n■第2階層\n基本徴収額：9,001円以上19,000円以下、加算して徴収する額：出産一時金等給付額の25％"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "1～３のいずれかに該当する方が対象です。\n\n1　生活保護世帯\n2　同一の住居に居住し、生計を同じにしている世帯全員の市町村民税が非課税である世帯\n3　当該年度（4月から6月までについては前年度）に支払った市町村民税所得割の額が19,000円以下の世帯（ただし、健康保険等に加入し、488,000円以上の出産一時金等を受け取ることができる場合を除きます。）"
+  },
+  "updateDate": "2024-05-17",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

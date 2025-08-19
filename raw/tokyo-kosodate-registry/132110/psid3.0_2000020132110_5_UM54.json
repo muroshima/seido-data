@@ -1,0 +1,145 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康推進課予防接種担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+5+UM54"
+  },
+  "belongings": "予診票",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市学園東町1-19-12　健康センター1階",
+    "contactComment": "FAX：042-346-3705",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康推進課予防接種担当",
+    "contactPhone": "042-346-3700",
+    "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+    "zipCode": "1870043"
+  },
+  "cost": null,
+  "costConditions": "無料（償還払いの場合は、「市が定める上限額」と「実際の接種費用」のいずれか少ない方の金額）",
+  "description": "こどもの予防接種\n定期予防接種について\n予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。\n接種に必要な予診票は、市が定めるスケジュールに沿って、住民登録がある住所へ郵送いたします。\n接種当日は、予診票に必要事項を記入しお持ちください。\n小平市以外で発行された予診票は使用できません。\n市内に住所のない方は、小平市の予診票は使用できません。\n予診票の交付申請について\n小平市に転入された方、予診票を紛失等された方は、下記の方法で予診票の交付申請ができます。\n\n電話・アプリでのご申請の場合、予診票の郵送に1～2週間程度かかりますので、お急ぎの場合は窓口でのご申請をお願いします。\n\n窓口での申請\n母子健康手帳を持って健康推進課の窓口（小平市健康センター1階）にお越しください。その場で確認し、予診票をお渡しいたします。\n\n電話での交付申請\n母子健康手帳をお手元にご用意の上、健康推進課予防接種担当（042-346-3700）までお電話ください。\n\nアプリからの申請\n子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」;https://www.city.kodaira.tokyo.jp/kurashi/085/085402.htmlから交付申請ができます。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/085/085402.html"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "市内指定医療機関（予防接種医療機関一覧（PDF 248.7KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000030.pdf）"
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "ロタウイルス感染症（ロタテック）"
+  },
+  "localGovernmentLink": {
+    "title": "こどもの予防接種",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/026/026942.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "小平市"
+  },
+  "procedureCounter": "健康推進課の窓口（小平市健康センター1階）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "小平市に転入された方、予診票を紛失等された方は、下記の方法で予診票の交付申請ができます。\n\n電話・アプリでのご申請の場合、予診票の郵送に1～2週間程度かかりますので、お急ぎの場合は窓口でのご申請をお願いします。\n\n窓口での申請\n母子健康手帳を持って健康推進課の窓口（小平市健康センター1階）にお越しください。その場で確認し、予診票をお渡しいたします。\n\n電話での交付申請\n母子健康手帳をお手元にご用意の上、健康推進課予防接種担当（042-346-3700）までお電話ください。\n\nアプリからの申請\n子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」;https://www.city.kodaira.tokyo.jp/kurashi/085/085402.htmlから交付申請ができます。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）",
+    "regulationName": "予防接種法"
+  },
+  "relatedLink": [
+    {
+      "title": "定期予防接種一覧（PDF 350.5KB）",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/026/026942.html"
+    },
+    {
+      "title": "予防接種医療機関一覧（PDF 248.7KB）",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000030.pdf"
+    },
+    {
+      "title": "ワクチンの供給状況について（外部リンク）",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000012.pdf"
+    },
+    {
+      "title": "ロタウイルス感染症説明書（PDF 337.7KB）",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000031.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+  "support": {
+    "description": "予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。",
+    "materiallySupport": "予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "出生６週０日後から３２週０日後まで\n※初回接種は出生１４週６日まで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "出生６週０日後から３２週０日後まで\n※初回接種は出生１４週６日まで"
+  },
+  "updateDate": "2024-05-02",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "132241;多摩市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "市民課 戸籍担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132241",
+    "psid": "psid3.0+3000020132241+1+UM3"
+  },
+  "belongings": "届書　1通（医師、助産師等が作成した出生証明書付き出生届）\n母子健康手帳",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都多摩市関戸六丁目12番地1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "市民課 戸籍担当",
+    "contactPhone": "042-338-6898",
+    "contactUrl": null,
+    "zipCode": "2068666"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "出生届を出される方へ\n\n出生届について\n届出期間\n生まれた日を含めて14日以内\n\n（14日目が閉庁日の場合、翌開庁日が期日となります）\n\n届出人\n父または母\n\n届出地\n届出人の所在地\n本籍地\n出生地\n届出に必要なもの\n届書　1通（医師、助産師等が作成した出生証明書付き出生届）\n母子健康手帳\n多摩市の届出場所\n市役所1階市民課\n聖蹟桜ヶ丘駅出張所（ヴィータ・コミューネ7階）\n多摩センター駅出張所（多摩センターSC2階）\n注意　出張所では、戸籍専門の職員がいないため確認に時間がかかります。\n\n届出時間\n月曜日から金曜日（祝日・年末年始を除く）8時30分～17時\n\n上記の時間以外は本庁舎地下1階の市役所庁舎管理室の夜間休日窓口で届書をお預かりいたします。\n注意　夜間休日窓口でお預かりした届書は翌開庁日に内容を確認させていただきます。なお、母子健康手帳の出生届出済証明欄への記載ができませんので後日、平日の窓口にお越しください。また、不備等があった場合は、ご連絡を致します。訂正等のために平日の窓口に再度来ていただくこともありますのでご承知おきください。\n\nその他の注意点\n外国で出産された場合やお父様お母様が外国籍の方については、事前にお問い合わせください。\n\n多摩市にお住まいの方は出生届出後に児童手当等の申請が可能なので、できるだけ平日の多摩市役所本庁にて出生届を提出していただくことをおすすめします。\n\n戸籍への記載は受理日から通常7日間前後時間を要します。また、届書の内容によっては、それ以上の日数を要する場合があります。お急ぎの方は届出の際にご相談ください。\n\n出生届に伴う市役所内での手続については下の『「出生」手続きチェックリスト』と「赤ちゃんが生まれたら」でご確認ください。\nお子様のお名前に使用できる漢字については「法務省　子の名に使える漢字」でご確認ください。\n「出生」手続きチェックリスト （PDF 596.7KB）;https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/001/763/syussyou.pdf\n法務省　子の名に使える漢字（外部リンク）;https://www.moj.go.jp/MINJI/minji86.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出生届",
+    "shortName": "出生届"
+  },
+  "localGovernmentLink": {
+    "title": "出生届を出される方へ",
+    "uri": "https://www.city.tama.lg.jp/kurashi/jumin/koseki/1001763.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "多摩市"
+  },
+  "procedureCounter": "市役所1階市民課\n聖蹟桜ヶ丘駅出張所（ヴィータ・コミューネ7階）\n多摩センター駅出張所（多摩センターSC2階）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "届出期間\n生まれた日を含めて14日以内\n\n（14日目が閉庁日の場合、翌開庁日が期日となります）\n\n届出人\n父または母\n\n届出地\n届出人の所在地\n本籍地\n出生地\n届出に必要なもの\n届書　1通（医師、助産師等が作成した出生証明書付き出生届）\n母子健康手帳\n多摩市の届出場所\n市役所1階市民課\n聖蹟桜ヶ丘駅出張所（ヴィータ・コミューネ7階）\n多摩センター駅出張所（多摩センターSC2階）\n注意　出張所では、戸籍専門の職員がいないため確認に時間がかかります。\n\n届出時間\n月曜日から金曜日（祝日・年末年始を除く）8時30分～17時\n\n上記の時間以外は本庁舎地下1階の市役所庁舎管理室の夜間休日窓口で届書をお預かりいたします。\n注意　夜間休日窓口でお預かりした届書は翌開庁日に内容を確認させていただきます。なお、母子健康手帳の出生届出済証明欄への記載ができませんので後日、平日の窓口にお越しください。また、不備等があった場合は、ご連絡を致します。訂正等のために平日の窓口に再度来ていただくこともありますのでご承知おきください。",
+  "procedurePeriod": {
+    "conditions": "生まれた日を含めて14日以内\n\n（14日目が閉庁日の場合、翌開庁日が期日となります）\n\n届出時間\n月曜日から金曜日（祝日・年末年始を除く）8時30分～17時",
+    "fromHM": "08:30",
+    "fromYMD": null,
+    "toHM": "17:00",
+    "toYMD": null
+  },
+  "procedurePersons": "出生届を出される方",
+  "regulation": {
+    "regulationArticle": "第49条、第52条",
+    "regulationName": "戸籍法"
+  },
+  "relatedLink": [
+    {
+      "title": "法務省　子の名に使える漢字（外部リンク）",
+      "uri": "https://www.moj.go.jp/MINJI/minji86.html"
+    },
+    {
+      "title": "「出生」手続きチェックリスト （PDF 596.7KB）",
+      "uri": "https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/001/763/syussyou.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "出生届とは、生まれてきたお子さんの氏名等を戸籍に記載するための手続きです。戸籍に記載されることで、生まれてきたお子さんの親族関係が公的に証明されます。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "出生届を出される方"
+  },
+  "updateDate": "2023-03-09",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

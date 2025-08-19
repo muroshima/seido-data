@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康推進課管理・事業グループ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+1+UM5010"
+  },
+  "belongings": "新生児聴覚検査受診票",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康推進課管理・事業グループ",
+    "contactPhone": "03-3987-4173",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "新生児聴覚検査の費用助成を行っています。　\n　\n新生児聴覚検査をすべての赤ちゃんに安心してお受けいただくために、検査費用の一部を助成します。\n\n「新生児聴覚検査」とは\n　\n生まれてすぐの赤ちゃんに、聴覚障害の疑いがないかを調べる検査のことです。ささやき程度の音を赤ちゃんが眠っている間に聞かせ、その反応をみるもので、数分で行うことができ痛みもありません。　　\n\n聴覚障害は早期に適切な支援を開始することで言葉の発達などへの影響が最小限に抑えられますので検査を受けることをお勧めします。\n\n都内で新生児聴覚検査を受けることができる医療機関一覧が、東京都福祉局のホームページに掲載されています。\n赤ちゃんの耳のきこえについて（東京都福祉局）;https://www.fukushi.metro.tokyo.lg.jp/nantyou_children_support/center/\n\n東京都難聴児相談支援センター・東京都難聴児支援ポータルサイトのご案内\n東京都では、難聴のお子さんのため、東京都難聴児相談支援センター・東京都難聴児支援ポータルサイトを令和6年3月1日から開設しています。詳しくは下記リンクからご確認ください。\n\n東京都難聴児相談支援センター;https://www.fukushi.metro.tokyo.lg.jp/nantyou_children_support/center/\n主に新生児聴覚検査でリファー（要再検査）となったお子さんとそのご家族を対象に、早期に療育・教育につながることを支援するため設立された相談支援機関です。\n\n東京都難聴児支援ポータルサイト;https://www.fukushi.metro.tokyo.lg.jp/nantyou_children_support/\n難聴児支援に関する情報を一元的に発信するために開設したサイトです。\n難聴の疑いがあるお子さんに役立つ情報も発信しています。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "都内で新生児聴覚検査を受けることができる医療機関"
+  },
+  "institutionName": {
+    "canonicalName": "新生児聴覚検査",
+    "shortName": "新生児聴覚検査費用助成"
+  },
+  "localGovernmentLink": {
+    "title": "新生児聴覚検査費用助成のご案内",
+    "uri": "https://www.city.toshima.lg.jp/219/kosodate/ninshin/1902121543.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "里帰り出産等妊婦健康診査助成金及び新生児聴覚検査助成金のお知らせ",
+      "uri": "https://www.city.toshima.lg.jp/219/kosodate/ninshin/shussanmade/013360.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "新生児聴覚検査をすべての赤ちゃんに安心してお受けいただくために、検査費用の一部を助成します。",
+  "support": {
+    "description": "新生児聴覚検査をすべての赤ちゃんに安心してお受けいただくために、検査費用の一部を助成します。",
+    "materiallySupport": null,
+    "monetarySupport": "新生児聴覚検査をすべての赤ちゃんに安心してお受けいただくために、検査費用の一部を助成します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生まれてすぐの赤ちゃん"
+  },
+  "updateDate": "2024-03-05",
+  "useConsiderationFlag": false,
+  "utilization": "・助成を受けるには、「新生児聴覚検査受診票」が必要です。\n・受診票は、妊娠届出をしたときに、妊婦健康診査受診票と一緒にお渡ししています。\n・東京都以外から転入してきた方は、妊婦健康診査受診票とともに、引きかえます。\n・里帰り出産等で、東京都以外の医療機関で検査をおこなった場合には、全額自己負担しておいていただき、後日申請により助成額を指定口座に振込いたします。詳しくは里帰り出産等妊婦健康診査助成金及び新生児聴覚検査助成金のお知らせをご覧ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

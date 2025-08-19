@@ -1,0 +1,133 @@
+{
+  "area": {
+    "areaCode": "132195;狛江市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子ども発達支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132195",
+    "psid": "psid3.0+8000020132195+1+UM785"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子ども発達支援課",
+    "contactPhone": "03-5761-9012",
+    "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,105100,html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "|生活保護世帯|なし|\n|:----|:----|\n|市民税非課税世帯|１時間　　500円　　30分　250円|\n|上記以外の世帯|１時間　1,000円　　30分　500円|\n",
+  "description": "育児支援ヘルパー派遣事業\n　出産前後、体調不良のため育児や家事が困難で、代わりにしてくれる人が身近にいない家庭に対して、ヘルパーを派遣し家事や育児の援助等をすることで、お母さんの精神的・肉体的負担を軽減し、産前産後の生活を支援します。\n\n利用対象者\n狛江市内在住で、出産前後に、昼間、家事や育児などを手伝ってくれる人のいない家庭\n※ただし、第１子の育児中に限り、父親が育児休暇を取得している家庭もこれに該当する。\n\n利用時間\n出産予定日の１カ月前から、出産後１年以内で15日間（日曜日・祝日・年末年始は除く）\n※ただし、多胎の場合は出産後１年以内の間で、この15日間とは別に15日間\n\n利用時間\n午前８時30分から午後６時までの間の４時間以内。派遣回数は１日１回とする。\n※１回につき１時間以上の場合、30分単位で利用可能\n\nサービス内容\n育児に関すること（授乳、沐浴、おむつ交換、兄弟の育児に関すること）\n家事に関すること（食事の準備や片付け、買い物、居室の掃除、洗濯など）\nその他必要な助言・相談（育児の助言・相談など）\n費用の負担\n|生活保護世帯|なし|\n|:----|:----|\n|市民税非課税世帯|１時間　　500円　　30分　250円|\n|上記以外の世帯|１時間　1,000円　　30分　500円|\n\n※市民税非課税世帯とは、申請のあった日の属する年度（４月から６月は前年度）の市区町村民税が非課税の世帯\n\nその他\n費用は利用後、市からの請求に基づき納付していただきます。\nヘルパーは、市と委託契約したＮＰＯ法人から派遣されます。\n原則として、利用したい日の１カ月前までに、相談・申し込みをしてください。\n急な事態のときも、ご相談ください。\n申し込み・問い合わせ\n狛江市子ども家庭支援センター\n電話　（５４３８）６６０5\n\n※ご利用をご希望の場合は、まずはお電話ください。\n\n育児支援ヘルパー利用案内（令和２年４月改訂版）.pdf [224KB pdfファイル];https://www.city.komae.tokyo.jp/index.cfm/43,17909,c,html/17909/20200317-164340.pdf\n\n育児支援ヘルパー派遣利用申請書のダウンロードのページへ;https://www.city.komae.tokyo.jp/index.cfm/41,101929,310,1987,html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "日曜日・祝日・年末年始",
+  "implementationPeriod": {
+    "conditions": "出産予定日の１カ月前から、出産後１年以内で15日間（日曜日・祝日・年末年始は除く）\n※ただし、多胎の場合は出産日から１年以内の間で、この15日間とは別に15日間",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "産前産後ヘルパーの派遣",
+    "shortName": "育児支援ヘルパー派遣事業"
+  },
+  "localGovernmentLink": {
+    "title": "育児支援ヘルパー派遣事業",
+    "uri": "https://www.city.komae.tokyo.jp/index.cfm/43,17909,331,2053,html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "狛江市"
+  },
+  "procedureCounter": "狛江市子ども家庭支援センター\n電話　（５４３８）６６０5",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "狛江市子ども家庭支援センター\n電話　（５４３８）６６０5\n\n※ご利用をご希望の場合は、まずはお電話ください。\n\n育児支援ヘルパー利用案内（令和２年４月改訂版）.pdf [224KB pdfファイル] ;https://www.city.komae.tokyo.jp/index.cfm/43,17909,c,html/17909/20200317-164340.pdf\n\n育児支援ヘルパー派遣利用申請書のダウンロードのページへ;https://www.city.komae.tokyo.jp/index.cfm/41,101929,310,1987,html\n原則として、利用したい日の１カ月前までに、相談・申し込みをしてください。\n急な事態のときも、ご相談ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "狛江市育児支援ヘルパー派遣事業実施要綱（平成19年３月30日要綱第29号）"
+  },
+  "relatedLink": [
+    {
+      "title": "育児支援ヘルパー派遣利用申請書のダウンロードのページへ",
+      "uri": "17909"
+    },
+    {
+      "title": "育児支援ヘルパー利用案内（令和2年4月改訂版）.pdf［224KB pdfファイル］",
+      "uri": "https://www.city.komae.tokyo.jp/index.cfm/43"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "産前産後の体調不良などにより、家事や育児が困難なご家庭に、日常的な掃除・洗濯・食事の支度などの家事や、もく浴・おむつ交換・きょうだいのお世話などの育児を手伝うホームヘルパーを派遣します。",
+  "support": {
+    "description": "育児に関すること（授乳、沐浴、おむつ交換、兄弟の育児に関すること）\n家事に関すること（食事の準備や片付け、買い物、居室の掃除、洗濯など）\nその他必要な助言・相談（育児の助言・相談など）",
+    "materiallySupport": "育児に関すること（授乳、沐浴、おむつ交換、兄弟の育児に関すること）\n家事に関すること（食事の準備や片付け、買い物、居室の掃除、洗濯など）\nその他必要な助言・相談（育児の助言・相談など）",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "狛江市内在住で、出産前後に、昼間、家事や育児などを手伝ってくれる人のいない家庭"
+  },
+  "updateDate": "2020-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "狛江市子ども家庭支援センター\n電話　（５４３８）６６０5\n\n※ご利用をご希望の場合は、まずはお電話ください。\n\n育児支援ヘルパー利用案内（令和２年４月改訂版）.pdf [224KB pdfファイル];https://www.city.komae.tokyo.jp/index.cfm/43,17909,c,html/17909/20200317-164340.pdf \n\n育児支援ヘルパー派遣利用申請書のダウンロードのページへ;https://www.city.komae.tokyo.jp/index.cfm/41,101929,310,1987,html\n原則として、利用したい日の１カ月前までに、相談・申し込みをしてください。\n急な事態のときも、ご相談ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "午前８時30分から午後６時までの間の４時間以内（１日２回に分けての利用も可）\n※１回につき１時間以上の場合、30分単位で利用可能",
+    "fromHM": "08:30",
+    "toHM": "18:00"
+  }
+}

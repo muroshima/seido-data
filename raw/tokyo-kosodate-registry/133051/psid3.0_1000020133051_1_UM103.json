@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "133051;日の出町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センター 相談係（子ども家庭支援センター）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133051",
+    "psid": "psid3.0+1000020133051+1+UM103"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡日の出町大字平井2780番地",
+    "contactComment": "ファクス: 042-597-6177",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭センター 相談係（子ども家庭支援センター）",
+    "contactPhone": "042-597-6177",
+    "contactUrl": null,
+    "zipCode": "1900192"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子育ての息抜きをしたい・ママ友をつくりたい¥n子育て支援と参加者同士の交流を目的に、毎月、ヨガ教室、子育てサロン等の事業を行っています。¥n事業はすべて予約申込み制となっております。受付は原則前月1日から開始です。申込みはこども家庭センターに直接電話または来所にて行ってください。¥n事業日程・内容は、変更になることがあります。当該月の「広報ひので」掲載内容で確認してください。¥n¥n令和5年度の事業風景¥nヨガの写真¥n「ママさんヨガ」の風景¥n¥nオリジナルコースター作成¥n子育てサロン「オリジナルコースター作成」の風景¥n¥nママさんバランスボール¥n子育てサロン「ママさんバランスボール」の風景¥n¥n事業の年間予定について¥n事業年間予定表;https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000000/935/nennkanngyouziyotei.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "事業の年間予定について¥n事業年間予定表;https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000000/935/nennkanngyouziyotei.pdf",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関する教室・講習会",
+    "shortName": "ヨガ教室、子育てサロン等の事業"
+  },
+  "localGovernmentLink": {
+    "title": "子育ての息抜きをしたい・ママ友をつくりたい",
+    "uri": "https://www.town.hinode.tokyo.jp/0000000935.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "日の出町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "事業はすべて予約申込み制となっております。受付は原則前月1日から開始です。申込みはこども家庭センターに直接電話または来所にて行ってください。",
+  "procedurePeriod": {
+    "conditions": "受付は原則前月1日から開始",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第24条、第21条の9",
+    "regulationName": "学校教育法、児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "事業年間予定表",
+      "uri": "https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000000/935/nennkanngyouziyotei.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "お母さん向けのヨガ教室や親子で楽しむリトミック等、子育てサロンを開催しています。保育士による託児もあります。",
+  "support": {
+    "description": "子育て支援と参加者同士の交流を目的に、毎月、ヨガ教室、子育てサロン等の事業を行っています。",
+    "materiallySupport": "子育て支援と参加者同士の交流を目的に、毎月、ヨガ教室、子育てサロン等の事業を行っています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

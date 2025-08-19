@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131156;杉並区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部地域子育て支援課子育て支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131156",
+    "psid": "psid3.0+8000020131156+2+UM106"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都杉並区阿佐谷南1丁目15番1号",
+    "contactComment": "（代表）",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部地域子育て支援課子育て支援係",
+    "contactPhone": "03-3312-2111",
+    "contactUrl": null,
+    "zipCode": "1668570"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "https://www.city.suginami.tokyo.jp/s054/1141.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関するサポート",
+    "shortName": "多胎児家庭タクシー利用券の交付"
+  },
+  "localGovernmentLink": {
+    "title": "多胎児家庭支援事業",
+    "uri": "https://www.city.suginami.tokyo.jp/s054/1141.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025-03-13",
+    "updater": "杉並区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "杉並区多胎児家庭タクシー利用券交付要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "面接終了後に、区が実施する乳幼児健康診査や予防接種、多胎児のつどい等を利用する際に使用できるタクシー利用券を交付しています。",
+  "support": {
+    "description": "1世帯につき、0歳時、1歳時、2歳時に各1回、24,000円分のタクシー利用券を交付します。",
+    "materiallySupport": null,
+    "monetarySupport": "1世帯につき、0歳時、1歳時、2歳時に各1回、24,000円分のタクシー利用券を交付します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "各保健センターの担当保健師による「さくらんぼ面接」受ける必要があります。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "杉並区内在住で3歳未満の多胎児を同一世帯で養育する世帯"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "133621;利島村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "住民課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133621",
+    "psid": "psid3.0+1000020133621+1+UM89"
+  },
+  "belongings": null,
+  "capacity": "25名",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "利島村役場　住民課",
+    "contactPhone": "04992-9-0013",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "|名称|住所|定員|\n|:----|:----|:----|\n|利島保育園|利島村1542|25名|\n\n人口300人ほどの小さな島にある村内唯一の保育園です。園児たちの散歩コースは、椿山や小中学校の芝生の校庭など。海に目を向けると水平線がくっきりと見えたり、山の植物の移り変わりを楽しんだりと、日頃から自然豊かな環境を満喫しながら、五感で季節を感じ、日々の新たな発見を保育士と共に体感しています。\n※0歳児の受け入れはしていません。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "利島村1542",
+    "implementationName": "利島保育園"
+  },
+  "institutionName": {
+    "canonicalName": "認可保育所・認定こども園（保育園枠）一覧",
+    "shortName": "利島村立利島保育園"
+  },
+  "localGovernmentLink": {
+    "title": "保育園",
+    "uri": "https://www.toshimamura.org/life/marriage/kindergarten.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "利島村"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育園とは、保護者が仕事や病気などのために、家庭で充分に保育することができない子どもを、保護者に代わって保育することを目的とした児童福祉施設で、法的には保育所といいます。\n保育所（保育園）のうち、国が定めた設定基準をクリアし、都道府県知事（政令市・中核市では市長）に認可された保育園を「認可保育所」といいます。\n認可保育所には公立の保育園と私立の保育園があります。\n以下は、利島村内の認可保育所（保育園）および認定こども園の保育園枠の一覧です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

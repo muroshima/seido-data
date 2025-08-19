@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131211;足立区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局子ども家庭部幼稚園・地域保育課私立幼稚園第一係・第二係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020131211",
+    "psid": "psid3.0+2000020131211+1+UM82"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "教育委員会事務局子ども家庭部幼稚園・地域保育課私立幼稚園第一係・第二係",
+    "contactPhone": "03-3880-6147",
+    "contactUrl": "https://www.city.adachi.tokyo.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "私立幼稚園の預かり保育\n足立区内の私立幼稚園では、『預かり保育』という制度を設けてお子様をお預かりしています。『預かり保育』とは、保護者の希望に応じて、平日（月から金）の4時間を標準とする幼稚園の教育時間の前後に、幼稚園において教育活動等を行うものです。園によっては、土曜・長期休暇期間中（春・夏・冬）も実施しています。\n\n詳細は各幼稚園にお問い合わせください。\n\n 私立幼稚園・預かり保育一覧（令和5年5月1日現在）（PDF：172KB）;https://www.city.adachi.tokyo.jp/documents/9943/r5azukarihoikuitirann.pdf\n\n ",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "幼稚園・認定こども園での預かり保育",
+    "shortName": "私立幼稚園の預かり保育"
+  },
+  "localGovernmentLink": {
+    "title": "足立区私立幼稚園のご案内",
+    "uri": "https://www.city.adachi.tokyo.jp/kodomokate/k-kyoiku/kosodate/yochien-shiritsu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-28",
+    "updater": "足立区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第21条の9",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "私立幼稚園・預かり保育一覧（令和5年5月1日現在）（PDF：172KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/documents/9943/r5azukarihoikuitirann.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "幼稚園や認定こども園（幼稚園枠）では、教育時間の開始前や終了後、夏休みなどの幼稚園休園日に、お子さんをお預かりしています。\n通常の保育料に加え、別途利用料が必要です。",
+  "support": {
+    "description": "平日（月から金）の4時間を標準とする幼稚園の教育時間の前後に、幼稚園において教育活動等を行うものです。",
+    "materiallySupport": "平日（月から金）の4時間を標準とする幼稚園の教育時間の前後に、幼稚園において教育活動等を行う",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-04-05",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部健康サービス課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+4+UM34"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部健康サービス課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+    "zipCode": null
+  },
+  "cost": "0",
+  "costConditions": "相談料はすべて無料です。",
+  "description": "妊娠や出産に関する戸惑いや不安について、様々な方法で相談に応じています。相談料はすべて無料です。ひとりで悩まず、まずはご相談ください。（インターネット接続料金は除く）\n\n相談例\n・妊娠したかも、彼女を妊娠させたかも…誰にも相談できない。\n・妊娠したけれど不安、心配、こわい、どうしたらいいか分からない…\n・一人で産んで育てたいけど、できるか分からない…\n・中絶するのこわい…",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "妊娠相談ほっとライン",
+      "uri": "http://familycare.sociohealth.co.jp/tokyo/soudan/"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "・中央健康サポートセンター\n 電話：03-5661-2467\n・小岩健康サポートセンター\n 電話：03-3658-3171\n・東部健康サポートセンター\n 電話：03-3678-6441\n・清新町健康サポートセンター\n 電話：03-3878-1221\n・葛西健康サポートセンター\n 電話：03-3688-0154\n・鹿骨健康サポートセンター\n 電話：03-3678-8711\n・小松川健康サポートセンター\n 電話：03-3683-5531\n・なぎさ健康サポートセンター\n 電話：03-5675-2515"
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関するサポート",
+    "shortName": "妊娠にとまどい、出産に不安を抱えている方へ"
+  },
+  "localGovernmentLink": {
+    "title": "妊娠にとまどい、出産に不安を抱えている方へ",
+    "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/ninshintomadoi.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "1.LINE\n2.Eメール\n3.電話・面接など\n\nひとりで悩まずご相談ください。\n\nLINE「妊娠したかも相談＠東京」\n\n「妊娠したかも」「避妊に失敗したかも」「アフターピルの飲み方は？」などの質問や疑問、悩みに、チャットボット形式でお答えします。\n\n 手段：LINE\n 時間：24時間365日\n\n 方法1：下記の二次元コードを読み取る。\n LINE相談の二次元コード\n 方法2：「ホーム」＞「友だち追加」＞「検索」でID「@ninshin_tokyo」を検索する。\n\n妊娠相談ほっとライン（外部サイトへリンク）（別ウィンドウで開きます）\n\n妊娠や出産に関する様々な悩みについて、専門の相談員が相談に応じています。\n\n手段：電話・Eメール\n電話での相談時間：元日（1月1日）を除く10時00分から22時00分まで\n電話番号：03-5339-1133\n\nEメールでの相談を希望される方は、下記「妊娠相談ほっとライン」をクリックしてください。\n\n妊娠相談ほっとラインメール相談リンク\n（外部サイトへリンク）（別ウィンドウで開きます）\nhttp://familycare.sociohealth.co.jp/tokyo/soudan/\n委託先：株式会社法研",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠や出産に関する戸惑いや不安について、様々な方法で相談に応じています。相談料はすべて無料です。ひとりで悩まず、まずはご相談ください。（インターネット接続料金は除く）",
+  "support": {
+    "description": "妊娠や出産に関する戸惑いや不安について、様々な方法で相談に応じています。",
+    "materiallySupport": "妊娠や出産に関する戸惑いや不安について、様々な方法で相談に応じています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088",
+      "089",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象者記載なし"
+  },
+  "updateDate": "2023-03-19",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "健康サポートセンターには保健師がおり、電話・面接・訪問でのご相談が可能です。\n月曜日から金曜日（祝日・祭日、年末年始を除く）午前8時30分から午後5時\n　チャットボットでは２４時間３６５日、Eメールでは元日（1月1日）を除く10時00分から22時00分まで相談が可能です。",
+    "fromHM": "08:30",
+    "toHM": "17:00"
+  }
+}

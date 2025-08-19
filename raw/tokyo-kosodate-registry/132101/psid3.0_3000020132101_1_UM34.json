@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132101;小金井市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センター母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132101",
+    "psid": "psid3.0+3000020132101+1+UM34"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小金井市貫井北町5丁目18番18号　保健センター",
+    "contactComment": null,
+    "contactEmail": "s050899(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+    "contactEx": null,
+    "contactName": "こども家庭センター母子保健係",
+    "contactPhone": "042-321-6296",
+    "contactUrl": null,
+    "zipCode": "1840015"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ファーストバースデーサポート事業\n更新日：2024年4月1日\n\n市内在住の1歳を迎えるお子さんがいるご家庭の子育てを応援するために、電子ギフトを配付して、子育て支援の情報提供、ご家庭の状況把握や相談支援を行います。\n\n対象\n市内に住所を有する1歳に達する子ども（以下「1歳児」という。）を育てる世帯に属する者\n\n注記：事業開始年度が令和3年度のため、令和2年4月1日生まれ以降の1歳児の方が対象となります。\n\n育児パッケージの内容\n令和6年3月31日以前に１歳を迎えられた対象のお子様\n\n電子ギフト（第1子：1万円、第2子：2万円、第3子以降：3万円）\n\n令和6年4月1日以降に1歳を迎えられた対象のお子様\n\n電子ギフト（第1子：6万円、第2子：7万円、第3子以降：8万円）\n\n注記：第何子の数え方は、申請日時点で、同じ世帯の住民票に住民登録があり、家計を同一にし、養育している18歳未満のお子さんの人数に対し、対象者が何番目の子どもに当たるかで決定します。\n\nまた、東京都発行の「体罰などによらない子育てハンドブック」、「とうきょう子育て応援ブック」等も送付いたします。\n\n配付方法\n（1）対象者へ\n\n　 　こども家庭センターよりお知らせ\n\n　　「子育てアンケート」のご案内を送付します。\n\n　　 注記：1歳に達する月の月末に対象者へ送付いたします。\n\n（2）「子育てアンケート」のご案内のＱＲコードからアンケートに回答いただくと電子ギフトが受け取れます。\n\n（3）保健師より「子育てアンケート」の内容に応じて、お電話にて子育て相談・子育てサービスの情報提供を行 います。\n\n ファーストバースデーサポート事業チラシ（PDF：125KB）;https://www.city.koganei.lg.jp/kenkofukuhsi/kenkosodan/bosihokenjigyo/D0506153943495.files/fasutobas6.4.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関するサポート",
+    "shortName": "ファーストバースデーサポート事業"
+  },
+  "localGovernmentLink": {
+    "title": "ファーストバースデーサポート事業",
+    "uri": "https://www.city.koganei.lg.jp/smph/kenkofukuhsi/kenkosodan/bosihokenjigyo/D0506153943495.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "小金井市"
+  },
+  "procedureCounter": "こども家庭センター母子保健係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "（1）対象者へ\n\n　 　こども家庭センターよりお知らせ\n\n　　「子育てアンケート」のご案内を送付します。\n\n　　 注記：1歳に達する月の月末に対象者へ送付いたします。\n\n（2）「子育てアンケート」のご案内のＱＲコードからアンケートに回答いただくと電子ギフトが受け取れます。\n\n（3）保健師より「子育てアンケート」の内容に応じて、お電話にて子育て相談・子育てサービスの情報提供を行います。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "市内在住の1歳を迎えるお子さんがいるご家庭の子育てを応援するために、子育てアンケートを送付し、子育て支援の情報提供やご家庭の困りごと等相談支援を行います。アンケート返信のあった方を対象に、電子ギフトを配付しています。",
+  "support": {
+    "description": "令和6年3月31日以前に１歳を迎えられた対象のお子様\n\n電子ギフト（第1子：1万円、第2子：2万円、第3子以降：3万円）\n\n令和6年4月1日以降に1歳を迎えられた対象のお子様\n\n電子ギフト（第1子：6万円、第2子：7万円、第3子以降：8万円）\n\n注記：第何子の数え方は、申請日時点で、同じ世帯の住民票に住民登録があり、家計を同一にし、養育している18歳未満のお子さんの人数に対し、対象者が何番目の子どもに当たるかで決定します。\n\nまた、東京都発行の「体罰などによらない子育てハンドブック」、「とうきょう子育て応援ブック」等も送付いたします。",
+    "materiallySupport": "東京都発行の「体罰などによらない子育てハンドブック」、「とうきょう子育て応援ブック」等も送付いたします。",
+    "monetarySupport": "令和6年3月31日以前に１歳を迎えられた対象のお子様\n\n電子ギフト（第1子：1万円、第2子：2万円、第3子以降：3万円）\n\n令和6年4月1日以降に1歳を迎えられた対象のお子様\n\n電子ギフト（第1子：6万円、第2子：7万円、第3子以降：8万円）"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "事業開始年度が令和3年度のため、令和2年4月1日生まれ以降の1歳児の方が対象となります。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "市内に住所を有する1歳に達する子ども（以下「1歳児」という。）を育てる世帯に属する者\n注記：事業開始年度が令和3年度のため、令和2年4月1日生まれ以降の1歳児の方が対象となります。"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

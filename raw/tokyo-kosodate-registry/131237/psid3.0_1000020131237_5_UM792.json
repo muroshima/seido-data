@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部健康サービス課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+5+UM792"
+  },
+  "belongings": "母子健康手帳\n健康保険証\n３歳児健康診査のお知らせ兼３歳児健康診査の問診票\nタオル",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部健康サービス課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "感染拡大防止の観点から予約制となります。\n\nご予約については、3歳児健康診査のお知らせ（対象者に郵送）をご覧ください。\n\n健康サポートセンターへ来る時のお願い\n\n・感染予防にご協力をお願いします。\n・健康サポートセンターに来るすべての方は自宅で検温をして来てください。\n・健診は最小限の人数で来てください。\n\n以下に該当する方は来所をご遠慮ください。\n\n・37.5℃以上の発熱、咳などの症状、体調のすぐれない場合\n\nご理解ご協力をよろしくお願いします。\n\n3歳の頃の子どもの歯の情報のページへ\nhttps://www.city.edogawa.tokyo.jp/kenko/kenko/kenkodukuri/shika/kodomo/index.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "3歳に達する月の下旬に、案内を郵送します。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "健康サポートセンター\nhttps://www.city.edogawa.tokyo.jp/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/index.html\n\n    会場変更はできません。\n    車での来所はご遠慮ください。"
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児の歯の健康診査（3歳児歯科健康診査）",
+    "shortName": "3歳児歯科健診"
+  },
+  "localGovernmentLink": {
+    "title": "3歳児歯科健診",
+    "uri": "https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kenkodukuri/shika/ha_kutisoudan/3shika.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "3歳に達する月の下旬に、案内を郵送します。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "3歳の頃の子どもの歯の情報のページへ",
+      "uri": "https://www.city.edogawa.tokyo.jp/kenko/kenko/kenkodukuri/shika/kodomo/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "満3歳に達し、4歳未満のお子様とその保護者を対象に、歯科医師による歯科健診、歯科衛生士による歯科相談を実施しております。内科健診、尿検査等と同時に行っています。ご予約については、3歳児健康診査のお知らせ（対象者に郵送）をご覧ください。",
+  "support": {
+    "description": "・歯科医師による歯科健診\n・歯科衛生士による歯科相談\n\n内科健診、尿検査等と同時に行っています。",
+    "materiallySupport": "・歯科医師による歯科健診\n・歯科衛生士による歯科相談\n\n内科健診、尿検査等と同時に行っています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 4,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "満3歳に達し、4歳未満のお子様とその保護者"
+  },
+  "updateDate": "2023-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "■健康サポートセンターに来る時のお願い\n・感染予防にご協力をお願いします。\n・健康サポートセンターに来るすべての方は自宅で検温をして来てください。\n・健診は最小限の人数で来てください。\n\n以下に該当する方は来所をご遠慮ください。\n・37.5℃以上の発熱、咳などの症状、体調のすぐれない場合\nご理解ご協力をよろしくお願いいたします。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

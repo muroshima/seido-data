@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132012;八王子市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康医療部保健対策課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132012",
+    "psid": "psid3.0+1000020132012+1+UM18"
+  },
+  "belongings": "1 医療費助成申請書\n2 診断書（発行から３か月以内）\n3 世帯調書\n4 所得税額等を証明する書類（入院見込み期間が26日以上の方は必要ありません。）\n5 健康保険証のコピー",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "八王子市保健所保健対策課",
+    "contactPhone": "042-645-5162",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "医療券に記載された有効期間、病名の治療にかかるものに限ります。有効期間外のもの、健康保険適用外の差額ベッド代、文書料等は助成されません。",
+  "description": "妊娠高血圧症候群等の医療費助成\n更新日：2021年03月24日\n対象となる疾病\n妊娠高血圧症候群及びその関連疾患\n糖尿病及び妊娠糖尿病\n貧血\n産科出血\n心疾患\n（補足）疾病ごとに認定基準があります。\n\n対象者\n八王子市に住所を有し、妊娠高血圧症候群などにより入院治療を必要とする妊産婦で、次のいずれかの条件を満たす方が対象です。\n\n前年の所得税額が30,000円以下の世帯に属する方\n1以外の方で、入院見込み期間が26日以上の方\n公費負担額\n医療保険を使って入院治療した場合の自己負担額が助成されます。\n\n（ただし、入院時食事療養費の標準負担額は、自己負担となります。）\n\n必要書類\n医療費助成申請書\n診断書（発行から3か月以内）\n世帯調書\n所得税額証明書類等（所得税が課せられてる方全員のもの）\n健康保険証の写し\n遅延理由書（退院後に申請される場合）\n申請期間\n原則として事前申請になります。ただし、退院日から3か月以内であれば遡って申請することができます。\n\n申請の受付および必要書類の配布場所\n八王子市大横保健福祉センター （受付時間 平日 午前9時から午後5時）\n八王子市東浅川保健福祉センター（受付時間 平日 午前9時から午後5時 (注意)毎月第2月曜日休館）\n八王子市南大沢保健福祉センター（受付時間 平日 午前9時から午後5時）\n必要書類の配布場所\n申請に必要な書類は、保健センターのほか、以下の窓口でも配布しています。\n\n八王子市保健所3階 保健対策課\n八王子市保健所\n八王子市役所本庁舎1階 地域医療政策課\n八王子市役所本庁舎;https://www.city.hachioji.tokyo.jp/shisetsu/001/p012054.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "原則として、診断書に記載された入院見込み期間。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊娠高血圧症候群（妊娠中毒症）に関する助成",
+    "shortName": "妊娠高血圧症候群等の医療費助成"
+  },
+  "localGovernmentLink": {
+    "title": "妊娠高血圧症候群等の医療費助成",
+    "uri": "https://kosodate.city.hachioji.tokyo.jp/mokuteki/shiritai/teate_joseinado/ninshinchu/1134.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-23",
+    "updater": "八王子市"
+  },
+  "procedureCounter": "・大横保健福祉センター\n・東浅川保健福祉センター\n・南大沢保健福祉センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "必要書類を、以下の窓口まで提出。\n・大横保健福祉センター\n・東浅川保健福祉センター\n・南大沢保健福祉センター",
+  "procedurePeriod": {
+    "conditions": "原則として事前申請になります。ただし、退院日から3か月以内であれば遡って申請することができます。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "八王子市妊娠高血圧症候群等医療費助成実施要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠高血圧症候群等の入院治療に係る医療費（食事療養標準負担額を除く保険適用分）の自己負担額を助成するものです。認定されると、医療券が交付されます。病院の窓口に医療券と保険証を提示することにより、医療費助成を受けることができます。",
+  "support": {
+    "description": "健康保険適用分の入院時食事療養標準負担額を除く自己負担額を助成します。（ただし、医療券に記載された有効期間、病名の治療にかかるものに限ります。有効期間外のもの、健康保険適用外の差額ベッド代、文書料等は助成されません。）",
+    "materiallySupport": null,
+    "monetarySupport": "健康保険適用分の入院時食事療養標準負担額を除く自己負担額を助成します。（ただし、医療券に記載された有効期間、病名の治療にかかるものに限ります。有効期間外のもの、健康保険適用外の差額ベッド代、文書料等は助成されません。）"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "市内に在住する、妊娠高血圧症候群等の対象疾病に罹患し、下記の要件（１）または（２）を満たす方。\n（１）前年分の総所得税額が30,000円以下の世帯に属する方（ただし住宅借入金等特別控除は含まれませんので、控除前の金額でご確認ください。）\n（２）入院見込み期間が26日以上の方"
+  },
+  "updateDate": "2021-03-24",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

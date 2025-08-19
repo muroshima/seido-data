@@ -1,0 +1,140 @@
+{
+  "area": {
+    "areaCode": "132152;国立市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子育て支援課 子育て支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132152",
+    "psid": "psid3.0+1000020132152+2+UM23"
+  },
+  "belongings": "医療証",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "国立市富士見台2-47-1 国立市役所 1階(20番窓口)",
+    "contactComment": "ファクス：042-576-2283",
+    "contactEmail": "sec_kosodateshien@city.kunitachi.lg.jp",
+    "contactEx": "(内線：156、157)",
+    "contactName": "子ども家庭部 子育て支援課 子育て支援係",
+    "contactPhone": "042-576-2111",
+    "contactUrl": "https://www.city.kunitachi.tokyo.jp/cgi-bin/inquiry.php/52?page_no=1756",
+    "zipCode": "1868501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "5.受給中の届出について\n以下のような場合には、医療証を添えて、子育て支援課 子育て支援係 に届出が必要です。\n\n「変更届」の提出が必要な場合\n申請者が市外へ転出するとき\n氏名が変わったとき\n対象児童の加入健康保険が変わったとき\n(新しい健康保険証の写しもご提出ください。)\n変更届 (PDFファイル: 66.7KB); https://www.city.kunitachi.tokyo.jp/material/files/group/42/henkousyoumetu.pdf\n\n「消滅届」の提出が必要な場合\n対象児童が市外へ転出するとき\n申請者が対象児童を養育しなくなった場合\n健康保険に加入しなくなったとき\n生活保護を受けるようになったとき\n児童福祉施設その他の施設に「措置」により入所したとき\n小規模住居型児童養育事業を行う者または里親に委託されたとき\n偽りその他不正の行為によって、医療費の助成を受けたときは、助成を受けた額の全部または一部を返還しなければならないことがあります。\n\n消滅届 (PDFファイル: 66.7KB); https://www.city.kunitachi.tokyo.jp/material/files/group/42/henkousyoumetu.pdf\n\n「再交付申請書」の提出が必要な場合\n医療証を紛失・汚損したとき\n再交付申請書 (PDFファイル: 45.5KB); https://www.city.kunitachi.tokyo.jp/material/files/group/42/saikoufu.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児医療費（子ども医療費）の助成",
+    "shortName": "受給中の届出"
+  },
+  "localGovernmentLink": {
+    "title": "こども医療費助成制度",
+    "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec01/gyomu/0244/0247/1464586820241.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "国立市"
+  },
+  "procedureCounter": "子育て支援課 子育て支援係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "以下のような場合には、医療証を添えて、子育て支援課 子育て支援係 に届出が必要です。\n\n「変更届」の提出が必要な場合\n申請者が市外へ転出するとき\n氏名が変わったとき\n対象児童の加入健康保険が変わったとき\n(新しい健康保険証の写しもご提出ください。)\n変更届 (PDFファイル: 66.7KB); https://www.city.kunitachi.tokyo.jp/material/files/group/42/henkousyoumetu.pdf\n\n「消滅届」の提出が必要な場合\n対象児童が市外へ転出するとき\n申請者が対象児童を養育しなくなった場合\n健康保険に加入しなくなったとき\n生活保護を受けるようになったとき\n児童福祉施設その他の施設に「措置」により入所したとき\n小規模住居型児童養育事業を行う者または里親に委託されたとき\n偽りその他不正の行為によって、医療費の助成を受けたときは、助成を受けた額の全部または一部を返還しなければならないことがあります。\n\n消滅届 (PDFファイル: 66.7KB); https://www.city.kunitachi.tokyo.jp/material/files/group/42/henkousyoumetu.pdf\n\n「再交付申請書」の提出が必要な場合\n医療証を紛失・汚損したとき\n再交付申請書 (PDFファイル: 45.5KB); https://www.city.kunitachi.tokyo.jp/material/files/group/42/saikoufu.pdf",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "国立市こどもの医療費の助成に関する条例及び施行規則"
+  },
+  "relatedLink": [
+    {
+      "title": "児童手当・特例給付",
+      "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec01/gyomu/0244/0247/1464586826663.html"
+    },
+    {
+      "title": "子育て",
+      "uri": "https://www.city.kunitachi.tokyo.jp/kosodate/kosodate/index.html"
+    },
+    {
+      "title": "子どものいる家庭への手当・助成",
+      "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec01/gyomu/0244/0247/index.html"
+    },
+    {
+      "title": "こども医療費助成制度 対象者の拡大について(令和5年4月1日から)",
+      "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec01/gyomu/0244/0247/8597.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子どもの保健対策を充実し、子育て世帯の経済的負担を軽減するため、お子さんが病気やけがなどにより健康保険を使って医療機関で受診した場合、保険診療の自己負担分（2割または3割）の一部を助成しています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "「変更届」の提出が必要な場合\n申請者が市外へ転出するとき\n氏名が変わったとき\n対象児童の加入健康保険が変わったとき\n(新しい健康保険証の写しもご提出ください。)\n変更届 (PDFファイル: 66.7KB); https://www.city.kunitachi.tokyo.jp/material/files/group/42/henkousyoumetu.pdf\n\n「消滅届」の提出が必要な場合\n対象児童が市外へ転出するとき\n申請者が対象児童を養育しなくなった場合\n健康保険に加入しなくなったとき\n生活保護を受けるようになったとき\n児童福祉施設その他の施設に「措置」により入所したとき\n小規模住居型児童養育事業を行う者または里親に委託されたとき\n偽りその他不正の行為によって、医療費の助成を受けたときは、助成を受けた額の全部または一部を返還しなければならないことがあります。\n\n消滅届 (PDFファイル: 66.7KB); https://www.city.kunitachi.tokyo.jp/material/files/group/42/henkousyoumetu.pdf\n\n「再交付申請書」の提出が必要な場合\n医療証を紛失・汚損したとき\n再交付申請書 (PDFファイル: 45.5KB); https://www.city.kunitachi.tokyo.jp/material/files/group/42/saikoufu.pdf"
+  },
+  "updateDate": "2024-05-21",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

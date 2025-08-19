@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "障がい者支援課相談支援制度担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+5+UM78"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市小川町2-1333　健康福祉事務センター2階",
+    "contactComment": "FAX：042-346-9541",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "障がい者支援課相談支援制度担当",
+    "contactPhone": "042-312-1385",
+    "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+    "zipCode": "1878701"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "児童発達支援センター\n児童発達支援センターでは、就学前の児童を対象に療育を行うほか、18歳未満のお子さまとご家族を対象に発達支援相談を受けるなど、さまざまな支援を行っています。\n\n令和4年4月に小平市立たいよう福祉センターの機能の一つとして、児童発達支援センターが開設しました。\n\n児童発達支援センターでは、就学前の児童を対象に療育を行うほか、18歳未満のお子さまとご家族を対象に、発達支援相談を受けるなど、さまざまな支援を行っています。\n\nお子さまの発達についての相談がございましたら、児童発達支援センターへお問い合わせください。\n\n児童発達支援センターとは\n障がい児の通園事業をはじめ、地域の障がい児やその家族からの相談、障がい児を預かる施設への援助・助言を行うなど、地域の中核的な役割を担い、併せて発達を支援するための窓口を行います。\n\n事業内容\n【発達支援相談】\n\n発達が気になる子どもや保護者の相談や助言を行います。\n\n【児童発達支援】\n\n就学前の児童に、集団や個別での訓練や遊びを通して心身の発達を促すとともに、保護者への指導、助言を行います。\n\n【保育所等訪問支援】\n\n保育所等を利用中の障がい児に対して、訪問により保育所等における集団生活の適応のための専門的な支援を提供します。\n\n利用時間\n月曜～金曜日（祝日、年末年始を除く）午前9時～午後5時\n\n所在地\n〒187-0035　小平市小川西町5-25-15（小平市立たいよう福祉センター内）\n\nアクセス\n【鉄道】\n\n1　JR中央線国分寺駅乗り換え、西武国分寺線小川駅西口下車、徒歩7分\n\n2　西武新宿線・拝島線小川駅西口下車、徒歩7分\n\n【車】\n\n府中街道「小平六小正門前」交差点を曲がり直進、西武線踏切をこえ、つきあたりの信号「西部市民センター西」を右折、次のT字路を左折、最初の信号が「児童発達支援センター」です。\n\n児童発達支援センター　案内図\n問合わせ\n電話　042-347-1131",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "祝日、年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "小平市小川西町5-25-15（小平市立たいよう福祉センター内）",
+    "implementationName": "児童発達支援センター"
+  },
+  "institutionName": {
+    "canonicalName": "障がい児保育",
+    "shortName": "児童発達支援センター"
+  },
+  "localGovernmentLink": {
+    "title": "児童発達支援センター",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/096/096822.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "小平市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "問合わせ\n電話　042-347-1131",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "障害児保育事業実施要領"
+  },
+  "relatedLink": [
+    {
+      "title": "児童発達支援センター（社会福祉法人小平市社会福祉協議会）（外部リンク）",
+      "uri": "https://www.syakaifukushi.kodaira.tokyo.jp/service/kids-support.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "集団保育が可能で心身に障がいがあるお子さんを、健常児と一緒に保育し相互の健全な育成を図ります。",
+  "support": {
+    "description": "就学前の児童を対象に療育を行うほか、18歳未満のお子さまとご家族を対象に、発達支援相談を受けるなど、さまざまな支援を行っています",
+    "materiallySupport": "就学前の児童を対象に療育を行うほか、18歳未満のお子さまとご家族を対象に、発達支援相談を受けるなど、さまざまな支援を行っています",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "18歳未満のお子さま",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "18歳未満のお子さまとご家族"
+  },
+  "updateDate": "2024-12-23",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜～金曜日（祝日、年末年始を除く）午前9時～午後5時",
+    "fromHM": "09:00",
+    "toHM": "17:00"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "area": {
+    "areaCode": "131121;世田谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "世田谷保健所健康推進課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131121",
+    "psid": "psid3.0+1000020131121+2+UM1"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "世田谷保健所　健康推進課",
+    "contactPhone": "03-5432-2446",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "令和5年5月1日から、マイナポータルの「ぴったりサービス」から妊娠の届出のオンライン申請ができるようになりました。¥n対象者\n区内在住で妊娠された方\n※オンライン申請は、妊娠された方ご本人のみが申請可能です。¥n申請に必要なもの\n（1）マイナンバーカード\n（2）マイナポータルアプリがインストールされている（1）が読取可能なスマートフォン、またはパソコンとICカードリーダー¥n申請方法\nマイナポータル;https://myna.go.jp/SCK1501_02_001/SCK1501_02_001_Init.formから申請\n（手順）\n　『 マイナポータル 』 トップページの 「手続の検索 ・電子申請 」\n→「お住いの市区町村への手続 （ぴったりサービス）」\n→「 1 市区町村を選択：東京都 世田谷区」「 2 検索条件を設定；カテゴリ：妊娠・出産」 この条件で検索\n→「妊娠の届出（オンライン申請） 」¥n申請後に必要な手続きの流れ【重要】\nマイナポータルによる申請のみでは、母子健康手帳や妊婦健康診査受診票が入った母と子の保健バッグ等のお受け取りはできません。\n　オンライン申請後、妊娠期面接予約システムのURLを記載した申請完了メールを申請者の方に自動送付しますので、ネウボラ面接（妊娠期面接）をご予約いただき、お住まいの地域の総合支所保健福祉センター健康づくり課に来庁の上、ネウボラ面接（妊娠期面接）をお受けいただき、母子健康手帳や母と子の保健バッグ等をお受け取りください。\n　なお、次回の健診日が近い等、妊婦健康診査受診票が早めに必要な方は、住所地管轄の保健福祉センター健康づくり課までお問い合わせください。\n　 妊娠期面接予約、住所地管轄の健康づくり課の連絡先は、下記、世田谷区ホームページＨＰ「ネウボラ面接（妊娠期面接・産後面接）」をご覧ください。\n　ネウボラ面接（妊娠期面接・産後面接）;https://www.city.setagaya.lg.jp/mokuji/kodomo/001/001/d00186107.html¥n「マイナポータル」とは\n行政手続きの検索やオンライン申請ができる自分専用のサイトです。利用のためには、マイナンバーカードの取得、インターネットアクセス端末が必要になります。¥n関連リンク\nネウボラ面接（妊娠期面接・産後面接）;https://www.city.setagaya.lg.jp/mokuji/kodomo/001/001/d00186107.html\nマイナポータルトップページ;https://myna.go.jp/SCK1501_02_001/SCK1501_02_001_Init.form",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "マイナポータル",
+      "uri": "https://myna.go.jp/search"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊娠の届出・母子健康手帳の交付",
+    "shortName": "オンライン申請による妊娠届"
+  },
+  "localGovernmentLink": {
+    "title": "マイナポータルの「ぴったりサービス」で妊娠の届出ができます",
+    "uri": "https://www.city.setagaya.lg.jp/mokuji/kodomo/001/001/d00203578.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "世田谷区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請に必要なもの\n（1）マイナンバーカード\n（2）マイナポータルアプリがインストールされている（1）が読取可能なスマートフォン、またはパソコンとICカードリーダー¥n申請方法\nマイナポータル;https://myna.go.jp/SCK1501_02_001/SCK1501_02_001_Init.formから申請\n（手順）\n　『 マイナポータル 』 トップページの 「手続の検索 ・電子申請 」\n→「お住いの市区町村への手続 （ぴったりサービス）」\n→「 1 市区町村を選択：東京都 世田谷区」「 2 検索条件を設定；カテゴリ：妊娠・出産」 この条件で検索\n→「妊娠の届出（オンライン申請） 」¥n申請後に必要な手続きの流れ【重要】\nマイナポータルによる申請のみでは、母子健康手帳や妊婦健康診査受診票が入った母と子の保健バッグ等のお受け取りはできません。\n　オンライン申請後、妊娠期面接予約システムのURLを記載した申請完了メールを申請者の方に自動送付しますので、ネウボラ面接（妊娠期面接）をご予約いただき、お住まいの地域の総合支所保健福祉センター健康づくり課に来庁の上、ネウボラ面接（妊娠期面接）をお受けいただき、母子健康手帳や母と子の保健バッグ等をお受け取りください。\n　なお、次回の健診日が近い等、妊婦健康診査受診票が早めに必要な方は、住所地管轄の保健福祉センター健康づくり課までお問い合わせください。\n　 妊娠期面接予約、住所地管轄の健康づくり課の連絡先は、下記、世田谷区ホームページＨＰ「ネウボラ面接（妊娠期面接・産後面接）」をご覧ください。\n　ネウボラ面接（妊娠期面接・産後面接）;https://www.city.setagaya.lg.jp/mokuji/kodomo/001/001/d00186107.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "区内在住で妊娠された方\n※オンライン申請は、妊娠された方ご本人のみが申請可能です。",
+  "regulation": {
+    "regulationArticle": "第15条（妊娠の届出）、第16条（母子健康手帳）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "ネウボラ面接（妊娠期面接・産後面接）",
+      "uri": "https://www.city.setagaya.lg.jp/mokuji/kodomo/001/001/d00186107.html"
+    },
+    {
+      "title": "マイナポータルトップページ",
+      "uri": "https://myna.go.jp/SCK1501_02_001/SCK1501_02_001_Init.form"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "マイナポータルの「ぴったりサービス」から妊娠の届出のオンライン申請ができるようになりました。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077",
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住で妊娠された方\n※オンライン申請は、妊娠された方ご本人のみが申請可能です。"
+  },
+  "updateDate": "2023-05-01",
+  "useConsiderationFlag": false,
+  "utilization": "申請方法\nマイナポータル;https://myna.go.jp/SCK1501_02_001/SCK1501_02_001_Init.formから申請\n（手順）\n　『 マイナポータル 』 トップページの 「手続の検索 ・電子申請 」\n→「お住いの市区町村への手続 （ぴったりサービス）」\n→「 1 市区町村を選択：東京都 世田谷区」「 2 検索条件を設定；カテゴリ：妊娠・出産」 この条件で検索\n→「妊娠の届出（オンライン申請） 」",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "area": {
+    "areaCode": "131041;新宿区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部 保健予防課 保健予防課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020131041",
+    "psid": "psid3.0+7000020131041+3+UM55"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都新宿区新宿5-18-21 第2分庁舎分館1階",
+    "contactComment": "ＦＡＸ：03-5273-3820",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部 保健予防課 保健予防課",
+    "contactPhone": "03-5273-3859",
+    "contactUrl": null,
+    "zipCode": "1600022"
+  },
+  "cost": "0",
+  "costConditions": "無料",
+  "description": "MR(麻しん風しん混合)ワクチン定期接種未接種者への任意接種の全額助成を実施しています\n最終更新日：2024年5月17日\n平成28年4月1日から、新宿区に住民登録があるお子さまで、MRワクチン定期接種（※）未接種者を対象として、任意接種費用の全額助成を実施しています。\n予防接種を受けるには、区発行の予診票が必要です。ご希望の方は、予診票を郵送いたしますので、電子申請または保健予防課（03－5273－3859）までお問い合わせください。\n予診票は新宿区内と一部隣接区の指定医療機関でのみ使用できます。それ以外の医療機関では使用できません。\n全額自己負担で既に接種したMR予防接種の償還払いは行っておりません。\n※MRワクチン定期接種対象者\n　　第1期……1歳～2歳未満\n　　第2期……幼稚園・保育園・子ども園等の年長児相当年齢\n ★麻しん又は風しんの単体ワクチンでの接種を特に希望する場合は、単体ワクチンの予診票を発行しますので、保健予防課（03－5273－3859）までお問い合わせください。\n対象者\n2歳以上18歳以下の定期接種未接種の方（ただし定期接種対象者（年長児）を除く）\n接種回数\n最大2回（未接種回数分）\n接種費用\n無料\n接種方法\n区発行の予診票を下記指定医療機関にお持ちください。\n予診票請求方法\n電子申請;https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?acs=shinjukuyoshinhyoまたは保健予防課(03-5273-3859)までお問い合わせください。\n接種場所\n新宿区及び一部隣接区の予防接種受託医療機関\n子どもの予防接種受託医療機関名簿 [PDF形式：874KB] （新規ウィンドウ表示）;https://www.city.shinjuku.lg.jp/content/000359333.pdf\n隣接区　任意予防接種医療機関名簿 [PDF形式：166KB] （新規ウィンドウ表示）;https://www.city.shinjuku.lg.jp/content/000351752.pdf",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "東京共同電子申請・届出サービス",
+      "uri": "https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?acs=shinjukuyoshinhyo"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "子どもの予防接種受託医療機関名簿 [PDF形式：874KB] （新規ウィンドウ表示）;https://www.city.shinjuku.lg.jp/content/000359333.pdf,隣接区　任意予防接種医療機関名簿 [PDF形式：166KB] （新規ウィンドウ表示）;https://www.city.shinjuku.lg.jp/content/000351752.pdf",
+    "implementationName": "子どもの予防接種受託医療機関名簿 [PDF形式：874KB] （新規ウィンドウ表示）;https://www.city.shinjuku.lg.jp/content/000359333.pdf,隣接区　任意予防接種医療機関名簿 [PDF形式：166KB] （新規ウィンドウ表示）;https://www.city.shinjuku.lg.jp/content/000351752.pdf"
+  },
+  "institutionName": {
+    "canonicalName": "任意予防接種",
+    "shortName": "MR（定期未接種者用）"
+  },
+  "localGovernmentLink": {
+    "title": "MR(麻しん風しん混合)ワクチン定期接種未接種者への任意接種の全額助成を実施しています",
+    "uri": "https://www.city.shinjuku.lg.jp/kenkou/yobo01_002236.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-28",
+    "updater": "新宿区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "予診票請求方法\n電子申請;https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?acs=shinjukuyoshinhyoまたは保健予防課(03-5273-3859)までお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "新宿区に住民登録のある助成接種対象年齢の児童、その保護者等",
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "新宿区任意の麻しん又は風しんワクチン接種事業実施要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "隣接区　任意予防接種医療機関名簿 [PDF形式：166KB] （新規ウィンドウ表示）",
+      "uri": "https://www.city.shinjuku.lg.jp/content/000351752.pdf"
+    },
+    {
+      "title": "子どもの予防接種受託医療機関名簿 [PDF形式：874KB] （新規ウィンドウ表示）",
+      "uri": "https://www.city.shinjuku.lg.jp/content/000359333.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。現在、定期接種以外で小学校就学前のお子さんが接種できるワクチンとしては、おたふくかぜ、インフルエンザなどがあります。\nこのうち新宿区では、次の任意予防接種に対して、接種費用を助成しています。接種するかどうかについては、かかりつけ医とご相談のうえ、保護者の判断により決めてください。",
+  "support": {
+    "description": "接種回数\n最大2回（未接種回数分）",
+    "materiallySupport": "接種回数\n最大2回（未接種回数分）",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "2歳以上18歳以下",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": 0
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 18,
+      "targetAgeOfMonths": 0
+    },
+    "targetPersons": "2歳以上18歳以下の定期接種未接種の方（ただし、定期接種対象者（年長児）を除く）"
+  },
+  "updateDate": "2024-05-17",
+  "useConsiderationFlag": false,
+  "utilization": "接種方法\n区発行の予診票を下記指定医療機関にお持ちください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

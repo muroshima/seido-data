@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "総務部人権・男女共同参画推進センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+3+UM28"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "総務部人権・男女共同参画推進センター",
+    "contactPhone": "03-6231-8150",
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e090/kuseijoho/gaiyo/soshiki/soumu/jinken.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "利子\n無利子",
+  "description": "江戸川区内に3ヶ月以上居住し、20歳未満の子を扶養し就労している母子家庭の母のための貸付金です。災害・疾病等の突然の出費のため生活資金が不足し、かつ資金を他から借りることが困難な方に15万円以内で資金をお貸しします。なお、この貸付金は家賃や光熱水費等の滞納分の支払いには利用できません。\n\nご相談は予約制となりますので、来所前にお電話にてご予約をお願いいたします。ご予約の際に相談概要の聞きとりをいたします。\n\n違約金\n返済期限が過ぎると、年7.3パーセントの違約金をいただくことになります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "母子父子寡婦福祉資金",
+    "shortName": "江戸川区母子福祉生活一時資金"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親家庭への融資（東京都母子及び父子福祉資金）母子家庭への融資（江戸川区母子福祉生活一時資金）",
+    "uri": "https://www.city.edogawa.tokyo.jp/e090/kosodate/kosodate/teateshien/shisaku/yushi.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "人権・男女共同参画推進センター相談啓発係\n住所：江戸川区瑞江2丁目9番15号（人権・男女共同参画推進センター）\n電話：03-6231-8150（直通）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": "返済期間\n貸付の翌月から20か月以内",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（母子福祉資金の貸付け）、第14条（母子・父子福祉団体に対する貸付け）、第31条の6（父子福祉資金の貸付け）、第32条（寡婦福祉資金の貸付け）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "江戸川区内に3ヶ月以上居住し、20歳未満の子を扶養し就労している母子家庭の母のための貸付金です。災害・疾病等の突然の出費のため生活資金が不足し、かつ資金を他から借りることが困難な方に15万円以内で資金をお貸しします。なお、この貸付金は家賃や光熱水費等の滞納分の支払いには利用できません。ご相談は予約制となりますので、来所前にお電話にてご予約をお願いいたします。",
+  "support": {
+    "description": "15万円\n貸付の要件等により貸付額を決めさせていただきます。",
+    "materiallySupport": null,
+    "monetarySupport": "150000"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "078"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "江戸川区内に3ヶ月以上居住し、20歳未満の子を扶養し就労している母子家庭の母",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "貸付を受けることができる方\n\n    区内に引き続き3か月以上居住している方。\n    生活保護を受けていない方。\n    勤務先に生活資金等の貸付制度がない方。\n    江戸川区生活一時資金を借りていない方。\n    この資金の貸付を受けた後、返済が確実である（働いている）方。\n\n借りられる要件\n\n    災害等により、住宅又は家財に被害を受けた場合。\n    本人又は同居の親族が疾病又は障害を受け、治療に要する費用に困窮する場合。\n    食料その他日常の生活必需品の購入に困窮する場合。\n    本人又は同居の親族の結婚、就職又は葬祭等のため支出を要する場合。\n    冠婚葬祭等で、やむを得ない理由により旅行するため支出を要する場合。"
+  },
+  "updateDate": "2023-09-06",
+  "useConsiderationFlag": false,
+  "utilization": "返済方法\n毎月決められた金額を返済していただきます（均等月賦返済）。\n毎月末に指定いただいた口座より引き落としとなります。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

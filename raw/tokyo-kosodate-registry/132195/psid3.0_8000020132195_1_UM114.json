@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132195;狛江市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子ども家庭課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132195",
+    "psid": "psid3.0+8000020132195+1+UM114"
+  },
+  "belongings": "健康保険証",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子ども家庭課母子保健係（あいとぴあセンター）",
+    "contactPhone": "03-5761-9200,03-5761-7990",
+    "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,132750,html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "平日夜間小児初期救急のご案内\n　狛江市では、当市医師会・調布市医師会・東京慈恵会医科大学附属第三病院の協力を得て、調布市とともに小児初期救急平日夜間診療を開設しています。お子さんが急病の際にはご利用ください。\n※受診の際は、健康保険証をお持ちください。\n\n●診療日　月～金曜日(病院が指定した日)\n　※事前に電話をしてください。　直通電話０３(３４８８)２０６１\n●診療時間　午後７時～午後１０時(受付は午後９時３０分までです)\n●開設場所　東京慈恵会医科大学附属第三病院内狛江・調布小児初期救急平日準夜間診察室\n●対象　１５歳以下のお子さん\n●診療科目　小児科(小児科医が診療します)\n\n※上記以外の救急診療は、慈恵医大第三病院へ問い合わせください。電話０３(３４８０)１１５１\n※詳しくは、下記の東京慈恵会医科大学附属第三病院のホームページをご覧ください。\n   東京慈恵会医科大学附属第三病院のホームページ;http://www.jikei.ac.jp/hospital/daisan/syoniyakan.html\n \nhttps://www.city.komae.tokyo.jp/images/content/7370/byouin.jpg",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "月～金曜日(病院が指定した日)\n午後７時～午後１０時(受付は午後９時３０分までです)\n上記以外の救急診療は、慈恵医大第三病院へ問い合わせください。電話０３(３４８０)１１５１",
+    "fromHM": "19:00",
+    "fromYMD": null,
+    "toHM": "22:00",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "東京慈恵会医科大学附属第三病院内狛江・調布小児初期救急平日準夜間診察室"
+  },
+  "institutionName": {
+    "canonicalName": "小児科救急",
+    "shortName": "平日夜間小児初期救急のご案内"
+  },
+  "localGovernmentLink": {
+    "title": "平日夜間小児初期救急のご案内",
+    "uri": "https://www.city.komae.tokyo.jp/index.cfm/42,7370,329,html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "狛江市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第２条、第３条、第４条、第６条",
+    "regulationName": "狛江市小児初期救急平日準夜間診療事業実施要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "東京慈恵会医科大学附属第三病院のホームページ",
+      "uri": "http://www.jikei.ac.jp/hospital/daisan/syoniyakan.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "東京慈恵会医科大学附属第三病院内狛江・調布小児初期救急平日準夜間診察室",
+  "support": {
+    "description": "狛江市では、当市医師会・調布市医師会・東京慈恵会医科大学附属第三病院の協力を得て、調布市とともに小児初期救急平日夜間診療を開設しています。お子さんが急病の際にはご利用ください。",
+    "materiallySupport": "当市医師会・調布市医師会・東京慈恵会医科大学附属第三病院の協力を得て、調布市とともに小児初期救急平日夜間診療を開設",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 15,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "１５歳以下のお子さん"
+  },
+  "updateDate": "2019-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "事前に電話をしてください。　直通電話０３(３４８８)２０６１",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

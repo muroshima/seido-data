@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132233;武蔵村山市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子ども育成課 保育・幼稚園係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132233",
+    "psid": "psid3.0+3000020132233+1+UM804"
+  },
+  "belongings": null,
+  "capacity": "18",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "182・183・184",
+    "contactName": "子ども家庭部 子ども育成課 保育・幼稚園係",
+    "contactPhone": "042-565-1111",
+    "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/e_05a/1003737",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "認可保育所等一覧\n小規模保育事業所一覧\n\n|保育所名・所在地|電話|受入年齢|保育短時間|保育標準時間|延長保育（保育標準時間を超えるもの）|認可定員|\n|:----|:----|:----|:----|:----|:----|:----|\n|大南つぼみ保育園;https://www.ans.co.jp/n/oominamitsubomi/<br>大南3-94-1|566-5605|57日目以上|午前8時30分～午後4時30分|午前7時30分～午後6時30分|なし|18人|\n\nお申込みについては、13園の保育所と同様に市役所子ども青少年課窓口にて受け付けております。お申込み期限・必要書類等につきましても、13園の保育所と同様です。\n対象児童は、0歳児から2歳児までです。3歳児以降も保育園を希望される場合は、改めてお申し込みが必要となります。その際、連携施設にお申込みされる場合は、選考における指数加点の対象となる予定です。\n保育年齢は当該年度の初日の前日の満年齢を基準とします。ただし、0歳児については、生後の日数を基準とします。\n延長保育に関しましては、実施をしておりません。\n児童の保育状況や施設の受け入れ状況等により利用できる保育時間が異なる場合があります。詳しくは、直接施設へお問い合わせください。\n保育料に関しましては、施設へ直接納付していただきます。お支払方法や納期限などの詳細は、直接施設へお問い合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "小規模保育施設一覧",
+    "shortName": "小規模保育事業所"
+  },
+  "localGovernmentLink": {
+    "title": "認可保育所等一覧",
+    "uri": "https://www.city.musashimurayama.lg.jp/kosodate/odekake/shisetsu/1003735/1003737/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-11",
+    "updater": "武蔵村山市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "お申込みについては、13園の保育所と同様に市役所子ども育成課窓口にて受け付けております。お申込み期限・必要書類等につきましても、13園の保育所と同様です。",
+  "procedurePeriod": {
+    "conditions": "入所希望月の前月1日から15日まで（15日が土、日曜日、祝祭日の場合は、その前の開庁日まで）,翌年度4月1日からの入所については、市報及びホームページに掲載しますので、11月以降の市報又はホームページをご覧ください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第三章 小規模保育事業",
+    "regulationName": "家庭的保育事業等の設備及び運営に関する基準"
+  },
+  "relatedLink": [
+    {
+      "title": "大南つぼみ保育園",
+      "uri": "https://www.ans.co.jp/n/oominamitsubomi/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "市区町村の認可事業として行われる小規模保育では、3歳未満の保育が必要なお子さんを、比較的小規模（定員6人以上19人以下）で、家庭的保育に近い雰囲気のもとで、きめ細かな保育を実施しています。\n保育所分園に近いA型、家庭的保育（グループ型小規模保育）に近いC型と、その中間的なB型の3タイプがあります。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0歳児から2歳児まで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象児童は、0歳児から2歳児までです。3歳児以降も保育園を希望される場合は、改めてお申し込みが必要となります。その際、連携施設にお申込みされる場合は、選考における指数加点の対象となる予定です。"
+  },
+  "updateDate": "2023-09-07",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "午前8時30分～午後4時30分,午前7時30分～午後6時30分",
+    "fromHM": null,
+    "toHM": null
+  }
+}

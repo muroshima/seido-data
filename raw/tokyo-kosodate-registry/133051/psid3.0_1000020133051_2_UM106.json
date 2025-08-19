@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "133051;日の出町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉課子育て支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133051",
+    "psid": "psid3.0+1000020133051+2+UM106"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡日の出町大字平井2780番地",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "299",
+    "contactName": "福祉課子育て支援係",
+    "contactPhone": "042-588-4113",
+    "contactUrl": null,
+    "zipCode": "1900192"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "日の出町未来わくわく支援金¥n交付額¥nこども1人につき月額5,000円（令和5年度に限り、月額7,000円）¥n¥n※こども（出生児から15歳に達する日以後の最初の3月31日までの間にある方）¥n¥n支給要件¥n・日の出町に引き続き1年居住し、かつ住民登録があり、こどもと同居している保護者¥n¥n・上記に該当している方で、かつ、養育しているこどもの生計を主に維持している保護者　（※原則、児童手当を受給されている方です）¥n¥n※重要！　支給を受ける方について、今までは保護者間で受け取る方をお選びいただけましたが、他の制度との整合性を図るため、こどもの生計を主に維持している方（原則、児童手当の受給者）に変更となります。このため、こどもが2人以上の場合に保護者間で分けて受給することや、期ごとの申請者の変更はできません。¥n¥n支給月¥n4月～7月分⇒8月、8月～11月分⇒12月、12月～3月分⇒4月¥n¥n・令和5年度の初回の振り込みは、令和5年8月中旬を予定しております。¥n¥n支給方法¥n指定口座へ振り込み¥n¥n支給停止となる方¥n申請者本人または配偶者に、前年度以前に賦課された町税、国民健康保険税、学童クラブ育成料及び保育所等の利用者負担額（保育料）につきまして滞納がある方は支給停止となりますので、心当たりのある方は早めの解消をお願いします。¥n¥n※重要！　支給停止となる滞納判定期間が、前年度賦課以前2年から前年度賦課以前すべてに変更となります。¥n¥n申請にあたっての注意点¥n・未来わくわく支援金は雑所得として扱われ、課税の対象となります。¥n¥n・町及び教育委員会が所管する、保護者に支払義務のある費用について滞納が認められた場合は、未来わくわく支援金から優先的に滞納額を徴収します。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関するサポート",
+    "shortName": "日の出町未来わくわく支援金"
+  },
+  "localGovernmentLink": {
+    "title": "日の出町未来わくわく支援金",
+    "uri": "https://www.town.hinode.tokyo.jp/0000003417.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "日の出町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "条例全体",
+    "regulationName": "日の出町未来わくわく支援金の支給に関する条例"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "中学3年生までのこどもがいる世帯の保護者に、こども1人につき月額5,000円のわくわく支援金を年3期に分けて支給しています。",
+  "support": {
+    "description": "こども1人につき月額5,000円",
+    "materiallySupport": null,
+    "monetarySupport": "こども1人につき月額5,000円"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "出生児から15歳に達する日以後の最初の3月31日までの間にある方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 15,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "・日の出町に引き続き1年居住し、かつ住民登録があり、こどもと同居している保護者¥n・上記に該当している方で、かつ、養育しているこどもの生計を主に維持している保護者　（※原則、児童手当を受給されている方です）¥n※重要！　支給を受ける方について、今までは保護者間で受け取る方をお選びいただけましたが、他の制度との整合性を図るため、こどもの生計を主に維持している方（原則、児童手当の受給者）に変更となります。このため、こどもが2人以上の場合に保護者間で分けて受給することや、期ごとの申請者の変更はできません。"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

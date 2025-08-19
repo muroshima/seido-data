@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132063;府中市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子ども家庭支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132063",
+    "psid": "psid3.0+8000020132063+6+UM112"
+  },
+  "belongings": null,
+  "capacity": "午前／午後 各4組 年齢制限有り（詳細はブックントイホームページでご確認ください）\n　2Ｆ：午前／午後 各4組 年齢制限を設けていないフリースペース",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": "042-403-6426",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子育てひろば　Book＆Toy～ブックントイ～（運営：ＮＰＯ法人ブックントイ）\n最終更新日：2024年4月1日\nBook＆Toy～ブックントイ～（運営：ＮＰＯ法人ブックントイ）\nBook＆Toy～ブックントイ～は、木のおもちゃの色合いや、ぬくもりに触れながら親子でゆったり過ごせる遊びのスペースです。小児科すみれクリニックと連携し、第1、第3木曜日に運動発達相談（予約制）も実施しています。活動の様子は随時ＳＮＳで更新しています。\n\nhttps://www.city.fuchu.tokyo.jp/kosodate/shussan/oyako/booktoy.images/IMG_1838.jpg\n\n施設案内\n　住　所\n　　府中市片町2-23-6\n\n　電話番号\n　　042-403-6426\n\n対象者\n0歳から3歳児とその保護者\n\n開催日時\n　月曜日から金曜日　9時30分から12時30分／13時から15時（12時30分から13時は閉館）\n　注記：土曜日、日曜日、祝日、年末年始は休館\n\n利用方法\nBook＆Toy～ブックントイ～では、新型コロナウイルス感染症の感染予防として「密」を避けるため、事前予約を用いて利用制限を設けております。\nまた、利用の際には、新型コロナウイルス感染症予防対策として、手洗いや大人の方のマスクの着用などをお願いします。\n\n　利用人数\n　1Ｆ：午前／午後 各4組 年齢制限有り（詳細はブックントイホームページ等でご確認ください）\n　2Ｆ：午前／午後 各4組 年齢制限を設けていないフリースペース\n\n　予約方法\n　(1)　当日予約　午前9時15分から 午前・午後　各2組\n　(2)　事前予約　午前9時45分から 午前・午後　各2組\n　注記：2週間先まで予約可能、各家庭1週間1回までとさせていただきます。\n\n　予約先\n　042-403-6426\n\n関連情報\nBook＆Toy～ブックントイ～　ホームページ（外部サイト）;https://bookntoyyoyaku.wixsite.com/website",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "土曜日、日曜日、祝日、年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "府中市片町2-23-6",
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育て広場",
+    "shortName": "子育てひろば　Book＆Toy～ブックントイ～"
+  },
+  "localGovernmentLink": {
+    "title": "子育てひろば　Book＆Toy～ブックントイ～（運営：ＮＰＯ法人ブックントイ）",
+    "uri": "https://www.city.fuchu.tokyo.jp/kosodate/shussan/oyako/booktoy.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "府中市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "開所日午前9時15分から電話（042-403-6426）または来所にて予約　 午前・午後　各4組",
+  "procedurePeriod": {
+    "conditions": "2週間先まで予約可能",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第6項",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "Book＆Toy～ブックントイ～　ホームページ（外部サイト）",
+      "uri": "https://bookntoyyoyaku.wixsite.com/website"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "乳幼児とその保護者が木のおもちゃの色合いや、ぬくもりに触れながら親子でゆったり過ごせる遊びのスペースです。小児科すみれクリニックと連携し、運動発達相談（予約制）も実施しています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後2か月から3歳児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 2
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "0歳から3歳児とその保護者"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日から金曜日　9時30分から11時30分／13時から15時（12時30分から13時は閉館）",
+    "fromHM": null,
+    "toHM": null
+  }
+}

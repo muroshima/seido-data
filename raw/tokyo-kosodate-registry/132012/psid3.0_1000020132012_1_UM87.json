@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132012;八王子市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子ども家庭支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132012",
+    "psid": "psid3.0+1000020132012+1+UM87"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "八王子市明神町3-19-2（東京たま未来メッセ庁舎・会議室棟4階八王子市保健所内",
+    "contactComment": "ファックス：042-656-8226",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部子ども家庭支援センター",
+    "contactPhone": "042-656-8225",
+    "contactUrl": "https://www.city.hachioji.tokyo.jp/inquiry/mailform470600.html",
+    "zipCode": "1920046"
+  },
+  "cost": null,
+  "costConditions": "|活動日|活動開始時間|基準額|\n|:----|:----|:----|:----|\n|月曜日～金曜日|7:00～18:00|700円|\n|^|6:30～6:59の間<br>18:01～18:30の間|800円|\n|^|6:29以前<br>18:31以降|900円|\n|土曜・日曜・祝日|全日|900円|\n|病気回復期|全日|900円|\n",
+  "description": "八王子ファミリー・サポート・センターとは\n更新日：2024年02月24日\n八王子ファミリー・サポート・センターでは、子育ての手助けをしてほしい方（依頼会員）と、お手伝いができる方（提供会員）が会員登録し、地域の中で子育てを助け合う活動をしています。\n\nサポート内容\n保育園・幼稚園・学童保育所などの開始前や終了後の預かりや送迎\n習い事への送迎\n保護者の外出の際の一時的な預かり …など\n（※買い物や掃除、洗濯などの家事援助はサポート対象外です）\n\n登録方法\n依頼会員になるには\n〈対象〉八王子市に在住し、小学校6年生までのお子さんと同居する保護者の方\n\n〈登録方法〉説明会（毎月開催）に参加し、会員申請書を提出する\n\nファミリー・サポート・センター依頼会員になるための「説明会」;https://kosodate.city.hachioji.tokyo.jp/soshiki/kodomokateishiencenter/577.html\n\n提供会員になるには\n〈対象〉八王子市に在住し、心身ともに健康で子育て支援に意欲のある18歳以上の方\n\n〈登録方法〉保育サポート講習を全て受講し、会員申請書を提出する\n\n※「保育サポート講習」では、市内の小児科医や大学教授などを講師に迎え、子どもの発育や保育について学びます。提供会員として、安全にサポートするための大切な講習です。\n\nファミリー・サポート・センター提供会員になるための「保育サポート講習」;https://kosodate.city.hachioji.tokyo.jp/soshiki/kodomokateishiencenter/588.html\n\nサポート開始までの流れ（概略）\nhttps://kosodate.city.hachioji.tokyo.jp/material/images/group/6/fscsapotonagare.jpg\n\n謝礼について\nサポートの謝礼として、依頼会員から提供会員への支払いがあります。\nhttps://kosodate.city.hachioji.tokyo.jp/material/images/group/6/fsc2023081.jpg\n\n（1時間あたりの料金）\n\n謝礼のほかに、おやつ代や交通費等がかかる場合は実費負担になります\n万が一の事故に備えて、ファミリー・サポート・センター補償保険に加入しています\n八王子市ファミリー・サポート・センターのきまり (PDFファイル: 144.4KB);https://kosodate.city.hachioji.tokyo.jp/material/files/group/6/fsc-kimari.pdf\n\n八王子ファミリー・サポート・センター事務局\n\n〒192-0082\n\n八王子市東町5-6クリエイトホール地下1階（子ども家庭支援センター内）\n\n電話番号 ：042-648-2157\n\nファックス：042-656-8226\n\n開所時間：月～金曜日 午前9時から午後7時まで\n\n 土曜日 午前9時から午後5時まで\n\nただし、日曜日・祝日・クリエイトホール休館日（毎月第1火曜日）・年末年始（12/29～1/3)はお休み\n\n地図（Googleマップのサイト）;https://www.google.co.jp/maps/place/35%C2%B039%2731.0%22N+139%C2%B020%2723.9%22E/@35.6586145,139.3399806,19z/data=!4m5!3m4!1s0x0:0x0!8m2!3d35.6586145!4d139.3399806?hl=ja\n\nファミリー・サポート・センター 各種リンク\nファミリー・サポート・センター お知らせ;https://kosodate.city.hachioji.tokyo.jp/mokuteki/azuketai/ichijitekinaazukari/family_support_center/976.html\n\nファミリー・サポート・センター会報誌「エイトキッズ」;https://kosodate.city.hachioji.tokyo.jp/mokuteki/azuketai/ichijitekinaazukari/family_support_center/2756.html\n\nファミリー・サポート・センター事業の幼児教育・保育の無償化について;https://kosodate.city.hachioji.tokyo.jp/mokuteki/azuketai/ichijitekinaazukari/family_support_center/973.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "ファミリー・サポート・センター",
+    "shortName": "八王子ファミリー・サポート・センター"
+  },
+  "localGovernmentLink": {
+    "title": "八王子ファミリー・サポート・センターとは",
+    "uri": "https://kosodate.city.hachioji.tokyo.jp/mokuteki/azuketai/ichijitekinaazukari/family_support_center/1044.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-01",
+    "updater": "八王子市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "〈登録方法〉依頼会員：説明会（毎月開催）に参加し、会員申請書を提出する　提供会員：保育サポート講習を全て受講し、会員申請書を提出する\n\n※「保育サポート講習」では、市内の小児科医や大学教授などを講師に迎え、子どもの発育や保育について学びます。提供会員として、安全にサポートするための大切な講習です。\n\nファミリー・サポート・センター提供会員になるための「保育サポート講習」;https://kosodate.city.hachioji.tokyo.jp/soshiki/kodomokateishiencenter/588.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第14項、第21条の9、第59条第12号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "ファミリー・サポート・センター",
+      "uri": "https://kosodate.city.hachioji.tokyo.jp/mokuteki/azuketai/ichijitekinaazukari/family_support_center/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "八王子市のファミリー・サポート・センターは、子育ての援助を受けたい人と援助を行いたい人が会員登録をし、提供会員が依頼会員に対してさまざまな育児の手助けをする事業です。",
+  "support": {
+    "description": "保育園・幼稚園・学童保育所などの開始前や終了後の預かりや送迎\n習い事への送迎\n保護者の外出の際の一時的な預かり …など\n（※買い物や掃除、洗濯などの家事援助はサポート対象外です）",
+    "materiallySupport": "保育園・幼稚園・学童保育所などの開始前や終了後の預かりや送迎\n習い事への送迎\n保護者の外出の際の一時的な預かり …など\n（※買い物や掃除、洗濯などの家事援助はサポート対象外です）",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "八王子市に在住し、小学校6年生までのお子さんと同居する保護者の方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "八王子市に在住し、小学校6年生までのお子さんと同居する保護者の方"
+  },
+  "updateDate": "2024-02-24",
+  "useConsiderationFlag": false,
+  "utilization": "https://kosodate.city.hachioji.tokyo.jp/material/images/group/6/fscsapotonagare.jpg",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

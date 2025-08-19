@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132292;西東京市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "地域共生課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132292",
+    "psid": "psid3.0+1000020132292+1+UM40"
+  },
+  "belongings": "健康保険証の写し、マイナンバーの確認できる物、母子健康手帳の写し、世帯の収入状況を証明する書類の写し",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "西東京市南町五丁目6番13号",
+    "contactComment": null,
+    "contactEmail": "kyousei@city.nishitokyo.lg.jp",
+    "contactEx": null,
+    "contactName": "健康福祉部 地域共生課 相談窓口係",
+    "contactPhone": "042-420-2808",
+    "contactUrl": null,
+    "zipCode": "1888666"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "入院助産\n西東京市に住居を有し、保健上必要があるにもかかわらず、経済的理由により入院助産を受けることができないと福祉事務所長が認めた妊産婦に対し、助産施設への入所を実施します。\n\n実施内容\n助産の実施に要する費用（入院料、処置料、分べん介助料等）について、一定の基準で扶助します。\n世帯の所得に応じて、自己負担金が生じる場合があります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "助産制度",
+    "shortName": "入院助産"
+  },
+  "localGovernmentLink": {
+    "title": "入院助産",
+    "uri": "https://www.city.nishitokyo.lg.jp/kenko_hukusi/seikatuenzyo/201504010004.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "西東京市"
+  },
+  "procedureCounter": "田無庁舎１階　福祉丸ごと相談窓口内",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "窓口",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "妊産婦",
+  "regulation": {
+    "regulationArticle": "第22条",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "経済的な理由で、病院や助産所での出産が困難な妊産婦の方を対象に、西東京市の指定の助産施設で出産する際の費用を助成しています。\n事前に申請が必要です。",
+  "support": {
+    "description": "助産の実施に要する費用（入院料、処置料、分べん介助料等）について、一定の基準で扶助します。\n世帯の所得に応じて、自己負担金が生じる場合があります。",
+    "materiallySupport": null,
+    "monetarySupport": "助産の実施に要する費用（入院料、処置料、分べん介助料等）について、一定の基準で扶助します。\n世帯の所得に応じて、自己負担金が生じる場合があります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "西東京市に住居を有し、保健上必要があるにもかかわらず、経済的理由により入院助産を受けることができないと福祉事務所長が認めた妊産婦"
+  },
+  "updateDate": "2020-02-25",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

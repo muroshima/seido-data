@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "133647;神津島村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "島しょ保健所",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020133647",
+    "psid": "psid3.0+9000020133647+2+UM66"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "島しょ保健所",
+    "contactPhone": "04992-8-0880",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "結核児童の療育給付\n保護者が神津島村に住所を有する 18 歳未満の児童で、結核にかかっている方のうち、その治療のため医師が長期の入院を必要と認めた方が対象です。\n医療費助成を受けることのできる医療機関は、全国の指定された療育機関になります。また、医療保険を適用して治療した場合の患者自己負担額が助成されますが、ご家族の収入に応じて、治療に要する費用の全部又は一部を負担していただきます。\n詳しくは島しょ保健所神津島支所にお問い合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の医療費助成制度",
+    "shortName": "結核児童の療育給付"
+  },
+  "localGovernmentLink": {
+    "title": "病気になったときには",
+    "uri": "https://www.vill.kouzushima.tokyo.jp/images/2023/03/20210318-byouki.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-08-19",
+    "updater": "神津島村"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "大気汚染に係る健康障害者に対する医療費の助成に関する条例"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "大気汚染の影響を受けると推定される疾病（気管支ぜん息など）にかかった方に対し、一定の要件を満たす場合に、医療費の助成をしています。",
+  "support": {
+    "description": "医療費助成を受けることのできる医療機関は、全国の指定された療育機関になります。また、医療保険を適用して治療した場合の患者自己負担額が助成されますが、ご家族の収入に応じて、治療に要する費用の全部又は一部を負担していただきます。",
+    "materiallySupport": null,
+    "monetarySupport": "医療費助成を受けることのできる医療機関は、全国の指定された療育機関になります。また、医療保険を適用して治療した場合の患者自己負担額が助成されますが、ご家族の収入に応じて、治療に要する費用の全部又は一部を負担していただきます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "18 歳未満の児童",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "保護者が神津島村に住所を有する 18 歳未満の児童で、結核にかかっている方のうち、その治療のため医師が長期の入院を必要と認めた方"
+  },
+  "updateDate": "2021-03-18",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

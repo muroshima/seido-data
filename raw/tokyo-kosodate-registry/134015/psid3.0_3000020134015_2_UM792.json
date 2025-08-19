@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "134015;八丈町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉健康課保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020134015",
+    "psid": "psid3.0+3000020134015+2+UM792"
+  },
+  "belongings": "母子健康手帳\nいつも使用しているお子さんの歯ブラシ",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉健康課保健係",
+    "contactPhone": "04996-2-5570",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "⑥歯科健康診査\n【対象】 １歳児、2 歳児、4 歳児\n【必要なもの】①母子健康手帳\n②問診票（事前に送付します。）\n③いつも使用しているお子さんの歯ブラシ\n【健診会場】八丈町保健福祉センター\n※八丈町保健福祉センターで実施する健診は、実施時期、必要なものなどを記載した通知文を郵送します。病院で受けていただく健診は、個別に受診していただくため通知文が郵送されませんので、お子さまの対象年齢内で健診を受診していただくようお願いします。\n※未就学児のいる世帯で転入された方は、前自治体での健診や予防接種などの状況を確認したうえで、八丈町でのサービスについてお知らせしますのでお問合せください。\n【お問合せ先】福祉健康課保健係 ℡ 04996-2-5570",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "八丈町保健福祉センター"
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児の歯の健康診査（2歳児歯科健康診査）",
+    "shortName": "２歳児歯科健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "はちじょう子育てガイド",
+    "uri": "http://www.town.hachijo.tokyo.jp/kokasen/wp-content/uploads/2016/04/6ffc5a0436b28d855f1d36e25bd6c2bd.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-13",
+    "updater": "八丈町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "乳歯が生えそろうこの時期は、むし歯が急増する時期でもあります。【2歳児】歯科健康診査を受けて、むし歯の予防と早期発見をめざしましょう。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "２歳児"
+  },
+  "updateDate": "2016-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "八丈町保健福祉センターで実施する健診は、実施時期、必要なものなどを記載した通知文を郵送します。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

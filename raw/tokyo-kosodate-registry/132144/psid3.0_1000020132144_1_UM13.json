@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132144;国分寺市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子育て相談室　母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132144",
+    "psid": "psid3.0+1000020132144+1+UM13"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-320-1181",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子育て相談室　母子保健係",
+    "contactPhone": "042-321-1801",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "産婦・新生児訪問を全ての家庭を対象に行なっています\n児童福祉法改正により、お子さんが産まれた全ての家庭を対象とし、出生後120日以内に訪問指導員（助産師または保健師）が訪問しています。また、里帰りにて国分寺市にいるかたや、里帰りで出生後120日以降に帰ってくるかたも、ご相談いただければ訪問しています。\n訪問は『出生通知書』に基づいて行なっています。妊娠届申請・母子健康手帳交付時に、母子健康手帳にはさんである「出生通知書」のはがきを送付してください。下記リンクからの提出も可能です。https://logoform.jp/form/vHtF/778973\n\n「出生通知書」を市に提出していただくと、訪問指導員（市で委託している助産師）が事前に電話連絡し、訪問をします。\n訪問では、お子さんやお母さんの心や体の健康状態の確認や、育児の相談、母子サービスの紹介等をしています。\n\n赤ちゃんが生まれたら;https://www.city.kokubunji.tokyo.jp/kurashi/kodomo/shussan/1001101.html\n国分寺市出産・子育て応援事業;https://www.city.kokubunji.tokyo.jp/kurashi/kodomo/shussan/1029975.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "出生後120日以内に訪問指導員（助産師または保健師）が訪問しています。また、里帰りにて国分寺市にいるかたや、里帰りで出生後120日以降に帰ってくるかたも、ご相談いただければ訪問しています。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "新生児訪問",
+    "shortName": "こんにちは赤ちゃん事業（乳児家庭全戸訪問事業）"
+  },
+  "localGovernmentLink": {
+    "title": "「こんにちは赤ちゃん事業（乳児家庭全戸訪問事業）」",
+    "uri": "https://www.city.kokubunji.tokyo.jp/kurashi/kodomo/shussan/1001100.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "国分寺市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "訪問は『出生通知書』に基づいて行なっています。妊娠届申請・母子手帳交付時にお渡しした「母と子の保健バック」に入っている「出生通知書」はがきを送付してください。下記リンクからの提出も可能です。https://logoform.jp/form/vHtF/778973\n「出生通知書」を提出していただくと、訪問指導員（市で委託している助産師）が事前に電話連絡し、訪問をします。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第11条（新生児の訪問指導）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "新生児を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、健康や育児に関する相談などを行います。",
+  "support": {
+    "description": "出生後120日以内に訪問指導員（助産師または保健師）が訪問しています。また、里帰りにて国分寺市にいるかたや、里帰りで出生後120日以降に帰ってくるかたも、ご相談いただければ訪問しています。",
+    "materiallySupport": "出生後120日以内に訪問指導員（助産師または保健師）が訪問しています。また、里帰りにて国分寺市にいるかたや、里帰りで出生後120日以降に帰ってくるかたも、ご相談いただければ訪問しています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "お子さんが産まれた全ての家庭"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

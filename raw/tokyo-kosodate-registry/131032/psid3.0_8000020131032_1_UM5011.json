@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "みなと保健所健康推進課地域保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+1+UM5011"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "出産・子育て応援事業専用窓口",
+    "contactPhone": "03-6722-0310",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "出産・子育て応援事業について(国の出産・子育て応援給付金)\n\n妊娠期から出産・子育てまで一貫した伴走型相談支援（全ての妊婦・子育て家庭に対して身近で相談に応じ、様々なニーズに即した必要なサービスへつなげる支援）と、経済的支援（妊娠期「出産応援ギフト」として5万円相当、出生後に「子育て応援ギフト」として10万円相当※東京都赤ちゃんファースト５万円相当含む）を一体として実施する事業を開始します。ギフトは、子育て関連用品等に使用できる東京都発行のクーポン券です。※本事業は流産、死産、新生児死亡で大切な命をなくされた方も対象となります。本事業を希望される方は別途、問合わせ先までご連絡ください。\n\nみなとプレママ応援事業;https://www.city.minato.tokyo.jp/chiikihoken/puremama.html\n港区の全ての妊婦の方を対象に助産師等が面談を行い、タクシーの乗車や育児用品等の購入にご利用いただける商品券（1万円分）を育児パッケージとして配布いたします。（出産応援ギフトの申請も合わせて受付します。詳しくは経済的支援;https://www.city.minato.tokyo.jp/chiikihoken/kodomo/syusankosodate.html#keizaitekisienをご確認ください。）\n\nお問い合わせ\n出産・子育て応援事業専用窓口\n\n電話番号：03-6722-0310",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "伴走型相談支援",
+    "shortName": "みなとプレママ応援事業"
+  },
+  "localGovernmentLink": {
+    "title": "出産・子育て応援事業について(国の出産・子育て応援給付金)",
+    "uri": "https://www.city.minato.tokyo.jp/chiikihoken/kodomo/syusankosodate.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "港区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "別紙：伴走型相談支援及び出産・子育て応援給付金の一体的実施事業実施要綱「伴走型相談支援」（別添１） ",
+    "regulationName": "伴走型相談支援及び出産・子育て応援給付金の一体的実施事業の実施について（子発1226第1号 令和4年12月26日）"
+  },
+  "relatedLink": [
+    {
+      "title": "みなとプレママ応援事業",
+      "uri": "https://www.city.minato.tokyo.jp/chiikihoken/puremama.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "すべての妊婦さんと子育て家庭が安心して出産・子育てができるように、妊娠から出産・子育てまでの一貫した「伴走型相談支援」を実施しています。",
+  "support": {
+    "description": "助産師等が面談",
+    "materiallySupport": "助産師等が面談",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "港区の全ての妊婦"
+  },
+  "updateDate": "2024-05-18",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132128;日野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部健康課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132128",
+    "psid": "psid3.0+1000020132128+1+UM792"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都日野市日野本町1丁目6番地の2生活保健センター",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康福祉部健康課",
+    "contactPhone": "042-581-4111",
+    "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120303",
+    "zipCode": "1910011"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "乳幼児健康診査（3歳児）\nページID1003913　 更新日 令和6年3月29日\n\n感染症対策について、受診される方へのご理解とご協力のお願い\n【感染症対策について】\n\n来所の際には、手洗い、咳エチケット等の感染対策にご協力ください\n健診対象のお子様や付き添いの方が、発熱（37.5度以上）等の体調不良がある場合には、無理をなさらず、次回以降の受診への変更をご検討ください。また、感染性の疾患で医療機関を受診された（または、受診される）場合は、医師に集団健診について参加の可否を確認していただくようお願いいたします\n会場では、各箇所に消毒液を設置し適宜換気を行っています。また、人との距離を保てるよう会場を広く取り、密にならないよう受付時間を設定しています。少人数でのご参加にご協力をお願いいたします。なお、ご事情のある方は、事前に母子保健係へお問い合わせください。\n【問い合わせ】子ども家庭支援センター母子保健係　電話042-843-3663\n\n対象\n3歳から4歳未満のお子さま\n\n内容\n尿検査、目と耳の検査、問診、医師・歯科医師による診察など\n\n日時\n対象の方には個別に通知いたします。\n\n当日に尿検査ができず、後日再提出をご案内させていただいた方は、3歳児健康診査実施日の12時35分～午後1時35分の間にお越しください。\n\n会場\n生活・保健センター\n\n※会場である生活・保健センターの駐車場には限りがございます。ご都合によりお車でお越しになる際には、お時間に余裕をもって、当施設の駐車場または周辺の有料駐車場等をご利用いただき、それ以外にはお停めになりませんようお願いいたします。\n\n生活・保健センター（施設案内のページ）;https://www.city.hino.lg.jp/shisetsu/shiyakusho/desakli/1000917.html\nその他\n健診日の変更や健診アンケートの回答入力は、個別にお送りする通知をご確認ください。\n日野市に転入された方は、転入された時期により、3歳児健康診査の通知発送が間に合わない場合があります。対象の方でまだ受診されていない場合は、子ども家庭支援センター母子保健係（042-843-3663）へご連絡ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "対象の方には個別に通知いたします。\n\n当日に尿検査ができず、後日再提出をご案内させていただいた方は、3歳児健康診査実施日の12時35分～午後1時35分の間にお越しください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "生活・保健センター"
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児の歯の健康診査（3歳児歯科健康診査）",
+    "shortName": "乳幼児健康診査（3歳児）"
+  },
+  "localGovernmentLink": {
+    "title": "乳幼児健康診査（3歳児）",
+    "uri": "https://www.city.hino.lg.jp/kosodate/kenko/kenshin/1003913.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-08-01",
+    "updater": "日野市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "健診日の変更や健診アンケートの回答入力は、個別にお送りする通知をご確認ください。\n日野市に転入された方は、転入された時期により、3歳児健康診査の通知発送が間に合わない場合があります。対象の方でまだ受診されていない場合は、子ども家庭支援センター母子保健係（042-843-3663）へご連絡ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "生活・保健センター（施設案内のページ）",
+      "uri": "https://www.city.hino.lg.jp/shisetsu/shiyakusho/desakli/1000917.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "乳歯が生えそろうこの時期は、むし歯が急増する時期でもあります。3歳児歯科健康診査を受けて、むし歯の予防と早期発見をめざしましょう。",
+  "support": {
+    "description": "尿検査、目と耳の検査、問診、医師・歯科医師による診察など",
+    "materiallySupport": "尿検査、目と耳の検査、問診、医師・歯科医師による診察など",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "3歳から4歳未満のお子さま",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 4,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "3歳から4歳未満のお子さま"
+  },
+  "updateDate": "2024-03-29",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

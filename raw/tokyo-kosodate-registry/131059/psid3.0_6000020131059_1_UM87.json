@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131059;文京区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子育て支援課子ども施策推進担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131059",
+    "psid": "psid3.0+6000020131059+1+UM87"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都文京区春日1丁目16番21号\n文京シビックセンター5階南側",
+    "contactComment": "ファクス番号：03-5803-1345",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部子育て支援課子ども施策推進担当",
+    "contactPhone": "03-5803-1256",
+    "contactUrl": "https://logoform.jp/form/6KSu/553764",
+    "zipCode": "1128555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ファミリー・サポート・センター事業\n送迎等の子育ての援助を受けたい方（依頼会員）と援助を行いたい方（提供会員）が登録して会員になり、地域の中で助け合いながら子育てをする会員組織の相互援助活動です。\n\n詳しくは、文京区社会福祉協議会のページをご覧ください。\n\nファミリー・サポート・センター事業（外部リンク）;https://www.bunsyakyo.or.jp/service/family_support（文京区社会福祉協議会のページにリンクします）\nご利用には会員登録が必要です。ご希望の方は、文京区社会福祉協議会にお問い合わせください。\n電話番号：03-3812-3043\n\n利用料の助成制度\n平成30年度より、前年度住民税非課税の世帯や生活保護を受けている世帯を対象に保育利用料の半額を助成し、経済的な負担の軽減を図る制度を実施しています。\n\n詳細は「子育て支援事業利用料等助成制度」;https://www.city.bunkyo.lg.jp/b022/p001699.htmlをご確認ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "ファミリー・サポート・センター",
+    "shortName": "ファミリー・サポート・センター事業"
+  },
+  "localGovernmentLink": {
+    "title": "ファミリー・サポート・センター事業",
+    "uri": "https://www.city.bunkyo.lg.jp/b022/p001700.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "文京区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "ご利用には会員登録が必要です。ご希望の方は、文京区社会福祉協議会にお問い合わせください。\n電話番号：03-3812-3043",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第14項、第21条の9、第59条第12号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "ファミリー・サポート・センター事業（外部リンク）",
+      "uri": "https://www.bunsyakyo.or.jp/service/family_support"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "文京区のファミリー・サポート・センターは、子育ての援助を受けたい人と援助を行いたい人が会員登録をし、提供会員が依頼会員に対してさまざまな育児の手助けをする事業です。",
+  "support": {
+    "description": "送迎等の子育ての援助を受けたい方（依頼会員）と援助を行いたい方（提供会員）が登録して会員になり、地域の中で助け合いながら子育てをする会員組織の相互援助活動です。\n\n詳しくは、文京区社会福祉協議会のページをご覧ください。",
+    "materiallySupport": "送迎等の子育ての援助を受けたい方（依頼会員）と援助を行いたい方（提供会員）が登録して会員になり、地域の中で助け合いながら子育てをする会員組織の相互援助活動です。\n\n詳しくは、文京区社会福祉協議会のページをご覧ください。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 4
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 12,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住で、生後４か月からおおむね１２歳以下の子どもを持つ保護者"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

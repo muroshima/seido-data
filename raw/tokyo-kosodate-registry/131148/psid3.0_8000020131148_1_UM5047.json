@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131148;中野区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども教育部　育成活動推進課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131148",
+    "psid": "psid3.0+8000020131148+1+UM5047"
+  },
+  "belongings": "学童クラブ利用申請に必要な書類(区立学童クラブ利用申請書、就労証明書、勤務実績表等、就労等実績申出書、その他証明書、申出書、在学証明書、カリキュラム等、診断書(区様式)、障害者手帳、愛の手帳、精神障害者保健福祉手帳の写し)、医療的ケア申請書及び同意書、主治医の意見書",
+  "capacity": "あり（各学童クラブによる）",
+  "class": 1,
+  "contact": {
+    "contactAddress": "中野区中野4－11－19区役所7階",
+    "contactComment": null,
+    "contactEmail": "tiikikodomotyousei@city.tokyo-nakano.lg.jp",
+    "contactEx": null,
+    "contactName": "子ども教育部 育成活動推進課 学童クラブ事業係",
+    "contactPhone": "03-3228-8884",
+    "contactUrl": "https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/gakko/ibasyo/gakudou/index.html",
+    "zipCode": null
+  },
+  "cost": "5600",
+  "costConditions": "1.学童クラブ利用児童が複数いる世帯：2人目以降 保育料月額2,800円 / 2.生活保護受給世帯、令和6年度潤民税非課税世帯、令和6年度就学援助受給世帯：保育料免除 / 3.「学童クラブ利用休止届」を提出し、1日も利用しなかった月：保育料免除 / 4.アレルギーなどにより、学童クラブが用意するおやつを食べることができない児童：保育料月額4,000円 / 5. 上記1かつ4に該当する児童：保育料月額2,000円",
+  "description": "令和7年度学童クラブ利用のご案内¥nページID：854244948¥n医療的ケアを必要とするお子さんの学童クラブ利用について¥n学童クラブの利用希望があり、医療的ケアが必要な場合は、区の担当者が直接お会いして医療的ケアの利用を申請するための手続きや提出が必要な書類などについてご説明いたします。¥nなお、申請には以下の書類提出が必要となります。¥n(1)学童クラブ利用申請書類、(2)医療的ケア申請書、(3)医療的ケアを必要とする児童の学童クラブの利用に関する同意書、(4)医療的ケアに関する主治医意見書",
+  "electronicSubmission": true,
+  "formLink": [],
+  "holiday": "日曜日、祝日、年末年始、その他区長が必要と認めた日",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": "2025/04/01",
+    "toHM": null,
+    "toYMD": "2026/03/31"
+  },
+  "implementationPlace": {
+    "implementationAddress": "弥生町4－27－11みなみの小学校内、南台3－44－9南台小学校内、本町3－16－1中野第一小学校内、本町2－32－14朝日が丘児童館内、中野1－26－1谷戸小学校内、中央1－49－1塔山小学校内、本町4－8－16宮の台児童館内、中央5－43－1桃花小学校内、中野6－10－6文園児童館内、上高田1－2－28白桜小学校内、新井4－19－26令和小学校内、新井5－4－17新井薬師児童館内、江原町1－39－1江原小学校内、江古田2－13－28江古田小学校内、丸山1－17－1緑野小学校内、新井2－48－10野方児童館内、野方6－35－13北原児童館内、大和町2－8－12大和児童館内、大和町4－14－9大和西児童館内、大和町4－26－5美鳩小学校内、鷺宮4－7－3鷺の杜小学校内、白鷺3－15－5西中野児童館内、上鷺宮5－1－1武蔵台小学校内、上鷺宮3－9－19かみさぎ児童館内",
+    "implementationName": "区立学童クラブ"
+  },
+  "institutionName": {
+    "canonicalName": "保育所等における医療的ケア児への支援",
+    "shortName": "制度なし"
+  },
+  "localGovernmentLink": {
+    "title": "令和7年度学童クラブ利用のご案内\nページID：854244948",
+    "uri": "https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/gakko/ibasyo/gakudou/r6gakudoclub-annai.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/18",
+    "updater": "中野区"
+  },
+  "procedureCounter": "区立学童クラブ(日曜日、祝日を除く)、中野区役所7階窓口(土曜日、日曜日、祝日を除く)、電子申請",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "医療的ケアが必要な場合は、事前に地域子ども施設調整係(03-3228-8934)までご相談ください。",
+  "procedurePeriod": {
+    "conditions": "第2期申請受付(定員に空きがある学童クラブのみ)：令和7年2月1日(土)から令和7年2月10日(月)まで",
+    "fromHM": "区立学童クラブ：10:00から(月曜日から金曜日)、8:30から(土曜日) / 区役所7階窓口：8:30から(月曜日から金曜日) / 電子申請：受付開始日の8:30から",
+    "fromYMD": "2024/11/15",
+    "toHM": "区立学童クラブ：18:30まで(月曜日から金曜日)、17:30まで(土曜日) / 区役所7階窓口：17:30まで(月曜日から金曜日) / 電子申請：受付終了日の17:00まで",
+    "toYMD": "2024/12/13"
+  },
+  "procedurePersons": "保護者",
+  "regulation": {
+    "regulationArticle": "第9条第1項",
+    "regulationName": "医療的ケア児及びその家族に対する支援に関する法律"
+  },
+  "relatedLink": [
+    {
+      "title": "学童クラブ",
+      "uri": "https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/gakko/ibasyo/gakudou/gakudoclub.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育所等において看護師等を配置し、医療的ケア児の受入れ体制を整備しております。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "ただし、4年生から6年生は、特別な支援を必要とする児童。(特別な支援を必要とする児童とは、身体障碍者手帳、愛の手帳等の認定を受けている、あるいは発達について病院で診断を受け、施設等に通所や相談をしていることと併せて、自己管理が難しく放課後自立した生活が困難と判断されるお子さんです。)",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 6,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 12,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "保護者の就労等の理由により、放課後に家庭で保護を受けられない児童で医療的ケアが必要な方"
+  },
+  "updateDate": "2024/11/01",
+  "useConsiderationFlag": false,
+  "utilization": "学童クラブの利用希望があり、医療的ケアが必要な場合は、区の担当者が直接お会いして医療的ケアの利用を申請するための手続きや提出が必要な書類などについてご説明いたします。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "土曜(授業無し)、学校休業日：8:00～19:00",
+    "fromHM": "当該小学校の授業終了時",
+    "toHM": "19:00"
+  }
+}

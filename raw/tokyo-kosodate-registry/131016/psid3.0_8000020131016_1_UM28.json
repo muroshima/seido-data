@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健福祉部生活支援課生活支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+1+UM28"
+  },
+  "belongings": "1.貸付申請書\n2.戸籍謄本\n3.ご世帯の全員に係る住民票記載事項証明書\n4.印鑑登録証明書\n5.資金の種類に応じ必要な書類（詳細についてはお問い合わせください）\n\n連帯保証人が1人必要です。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区九段南1-2-1",
+    "contactComment": null,
+    "contactEmail": "seikatsushien@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "保健福祉部生活支援課生活支援係",
+    "contactPhone": "03-5211-4126",
+    "contactUrl": null,
+    "zipCode": "1028688"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "20歳未満の児童を扶養し、都内に6か月以上居住しているひとり親家庭などに対し、経済的に自立して安定した生活を送るために必要な資金をお貸しします。\n\n平成28年1月1日から手続きにマイナンバー（個人番号）が必要です。\n\n母子および父子福祉資金の一覧\n\n事業開始資金\n事業を開始するのに必要な設備費・什器・機会等の購入資金\n\n事業継続資金\n現在営んでいる事業を継続するために必要な商品、材料等を購入する運転資金\n\n技能習得資金\n事業を開始しまたは就職するために必要な知識技能を習得するために必要な資金\n\n修業資金（注意1）\n児童が事業を開始しまたは就職するために必要な知識技能を習得させるために必要な資金\n\n就職支度資金\n就職するために直接必要な被服、履物および通勤用等自動車等を購入する資金\n\n医療介護資金\n医療または介護保険によるサービス（介護）を受けるために必要な資金\n\n生活資金\n1.技能習得資金または医療介護資金の貸付を受けている期間中の生活を維持するために必要な資金\n2.母子家庭または父子家庭になって7年未満の方で、生活の安定を図るために必要な資金（生活安定貸付期間2年間）\n3.失業している期間中（ただし離職した日から1年以内）の生活を維持するために必要な資金（失業貸付期間1年以内）\n\n住宅資金\n自己所有の住宅の建設、購入、および現に居住する住宅の増改築・補修または保全に必要な資金\n\n転宅資金\n転居に必要な敷金・前家賃・運送代にあてるための資金\n\n結婚資金（注意1）\n児童の結婚に際し必要な資金\n\n特例児童扶養資金\n児童の扶養に必要な資金（平成14年7月に児童扶養手当を受給していた者で、14年8月に児童扶養手当の一部の支給制限を受けた者）\n\n修学資金（注意1）\n高校、短大、大学、高専または専修学校に就学させるために必要な資金\n\n就学支度資金（注意1）\n1.小学校・中学校に入学するために必要な資金（所得税非課税世帯の方）\n2.高校、高専、専修学校、短大または大学に入学するために必要な資金\n3.知識技能を習得させる施設であって厚生大臣が定める修業施設へ入所するために必要な資金\n\nご注意\n\n1.平成26年10月1日から、修業資金・結婚資金・修学資金・就学支度資金（項目1の「小学校・中学校に入学するために必要な資金」の場合を除く）については、世帯で20歳未満のお子さんを扶養していれば、20歳以上のお子さんのために貸し付けを利用できるようになりました。\n2.貸付金額・償還期間・利子等、詳細についてはお問い合わせください。\n3.貸付にあたっては審査を行います。審査の結果、貸付の目的を達成することが困難と認められるときや、事業計画が適切でないときは、お貸しできない場合があります。\n4.貸付にあたっては、母子・父子自立支援員との面接が必要です。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "母子父子寡婦福祉資金",
+    "shortName": "東京都母子および父子福祉資金"
+  },
+  "localGovernmentLink": {
+    "title": "東京都母子および父子福祉資金",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/hitorioya/teate/boshi-02.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（母子福祉資金の貸付け）、第14条（母子・父子福祉団体に対する貸付け）、第31条の6（父子福祉資金の貸付け）、第32条（寡婦福祉資金の貸付け）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "母子家庭の母、父子家庭の父、および寡婦の方の経済的自立や、扶養しているお子さんの福祉増進のために、必要な資金をお貸しする制度です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "20歳未満の児童を扶養し、都内に6か月以上居住しているひとり親家庭や、父母のいない児童\n\n修学資金・就学支度資金・転宅資金については、都内に6か月以上居住されてない場合でも貸付けます。"
+  },
+  "updateDate": "2016-02-16",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

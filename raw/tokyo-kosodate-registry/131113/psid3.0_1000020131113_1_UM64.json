@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "131113;大田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "各地域健康課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131113",
+    "psid": "psid3.0+1000020131113+1+UM64"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "大田区大森西一丁目12番1号,大田区雪谷大塚町4番6号,大田区蒲田本町二丁目1番1号,大田区東糀谷一丁目21番15号",
+    "contactComment": "FAX ：03-5764-0659,FAX ：03-3726-6331,FAX ：03-5713-0290,FAX ：03-6423-8838",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "各地域健康課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/c_chiikikenkou.html,大森地域健康課,調布地域健康課,蒲田地域健康課,糀谷・羽田地域健康課",
+    "contactPhone": "03-5764-0661,03-3726-4145,03-5713-1701,03-3743-4161",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "小児慢性特定疾病\nページ番号：773001933\n更新日：2022年7月1日\nお問い合わせ先：各地域健康課\n\n　18歳未満で下記の疾病の治療を受けている方の医療費を助成します。保護者の所得に応じて、一部自己負担があります。\n\n対象となる疾病：悪性新生物、慢性腎疾患、慢性呼吸器疾患、慢性心疾患、内分泌疾患、膠原病、糖尿病、先天性代謝異常、血液疾患、神経・筋疾患、慢性消化器疾患　等\n\n　小児慢性特定疾病医療受給者証をお持ちで条件を満たす方については、小児慢性特定疾病児童日常生活用具給付の制度があります。詳しくはこちらをご確認ください。\n\n小児慢性特定疾病児童日常生活用具給付について;https://www.city.ota.tokyo.jp/seikatsu/fukushi/shougai/seikatsushien/otetsudai/otetsudai/shounimansei.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "小児慢性特定疾病医療費の助成",
+    "shortName": "小児慢性特定疾病"
+  },
+  "localGovernmentLink": {
+    "title": "小児慢性特定疾病",
+    "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/josei/shouji.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "大田区"
+  },
+  "procedureCounter": "各地域健康課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "お問い合わせ先：各地域健康課\n\n小児慢性特定疾病医療受給者証をお持ちで条件を満たす方については、小児慢性特定疾病児童日常生活用具給付の制度があります。詳しくはこちらをご確認ください。\n\n小児慢性特定疾病児童日常生活用具給付について;https://www.city.ota.tokyo.jp/seikatsu/fukushi/shougai/seikatsushien/otetsudai/otetsudai/shounimansei.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第19条の2～第19条の8",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "地域健康課",
+      "uri": "https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/c_chiikikenkou.html"
+    },
+    {
+      "title": "小児慢性特定疾病児童日常生活用具給付について",
+      "uri": "https://www.city.ota.tokyo.jp/seikatsu/fukushi/shougai/seikatsushien/otetsudai/otetsudai/shounimansei.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子どもの慢性疾病のうち、治療期間が長く、医療費負担が高額となる疾病について、治療方法の確立と普及、患者家庭の医療費の負担軽減につながるよう、医療費の自己負担分を補助しています。",
+  "support": {
+    "description": "18歳未満で下記の疾病の治療を受けている方の医療費を助成します。保護者の所得に応じて、一部自己負担があります。\n\n対象となる疾病：悪性新生物、慢性腎疾患、慢性呼吸器疾患、慢性心疾患、内分泌疾患、膠原病、糖尿病、先天性代謝異常、血液疾患、神経・筋疾患、慢性消化器疾患　等",
+    "materiallySupport": null,
+    "monetarySupport": "18歳未満で下記の疾病の治療を受けている方の医療費を助成します。保護者の所得に応じて、一部自己負担があります。\n\n対象となる疾病：悪性新生物、慢性腎疾患、慢性呼吸器疾患、慢性心疾患、内分泌疾患、膠原病、糖尿病、先天性代謝異常、血液疾患、神経・筋疾患、慢性消化器疾患　等"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "18歳未満で下記の疾病の治療を受けている方の医療費を助成します。保護者の所得に応じて、一部自己負担があります。\n\n対象となる疾病：悪性新生物、慢性腎疾患、慢性呼吸器疾患、慢性心疾患、内分泌疾患、膠原病、糖尿病、先天性代謝異常、血液疾患、神経・筋疾患、慢性消化器疾患　等",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "18歳未満で下記の疾病の治療を受けている方の医療費を助成します。保護者の所得に応じて、一部自己負担があります。\n\n対象となる疾病：悪性新生物、慢性腎疾患、慢性呼吸器疾患、慢性心疾患、内分泌疾患、膠原病、糖尿病、先天性代謝異常、血液疾患、神経・筋疾患、慢性消化器疾患　等"
+  },
+  "updateDate": "2022-07-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

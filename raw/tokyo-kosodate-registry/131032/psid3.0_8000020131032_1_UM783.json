@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援部子ども家庭支援センター子ども家庭サービス係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+1+UM783"
+  },
+  "belongings": null,
+  "capacity": "10人",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファックス番号：03-5962-7205\n\n外国語対応が必要な人、通訳オペレーター、区の職員の3人で会話ができます。\n\n多言語対応三者通話サービス;https://www.multilingualinterpretercallservice.city.minato.tokyo.jp/kokusai",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援部子ども家庭支援センター子ども家庭サービス係",
+    "contactPhone": "03-5962-7201",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "月曜～土曜：2,000円日曜・祝日：2,500円※夕食代1食500円",
+  "description": "みなと子育て応援プラザPokke（ぽっけ）\nPokke（ぽっけ）では、「子育てひろば」「一時預かり」「トワイライトステイ（夜間保育）」「ショートステイ（宿泊保育）」の4つの事業を行っています。「子育てひろば」はお子さんと一緒にお母さんやお父さんも気軽に集えて、仲間づくりができる場所です。また、ご家庭の事情にあわせてお子さんをお預かりするサービスが充実しています。\n\n【所在地】芝5-18-1-102\n【連絡先】電話：03-6435-0411Fax：03-6435-0412\n【最寄り駅】都営地下鉄浅草線、三田線三田駅A8出口徒歩1分（エレベーターあり）\nJR山手線、京浜東北線田町駅三田口（西口）徒歩3分\nみなと子育て応援プラザPokke（ぽっけ）へ行くには;https://www.city.minato.tokyo.jp/kodomo/kodomo/kodomo/shienshisetsu/24/access.html\nみなと子育て応援プラザPokke（ぽっけ）のホームページへ（外部サイトへリンク）;https://minato-pokke.com/\n\nトワイライトステイ\n保護者が残業などで夜間に育児ができないときに、夕食を提供しお子さんをお預かりします。\n\n【対象】区内在住の生後6か月～中学3年生\n【休業日】臨時休業日、年末年始\n【実施時間】午後5時～午後10時\n【定員】10人\n【利用料】月曜～土曜：2,000円日曜・祝日：2,500円※夕食代1食500円",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "臨時休業日、年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "トワイライトステイ（夜間養護等事業）",
+    "shortName": "トワイライトステイ"
+  },
+  "localGovernmentLink": {
+    "title": "みなと子育て応援プラザPokke（ぽっけ）",
+    "uri": "https://www.city.minato.tokyo.jp/kodomo/kodomo/kodomo/shienshisetsu/24/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "港区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第3項、第21条の9、第59条第6号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "みなと子育て応援プラザPokke（ぽっけ）のホームページへ（外部サイトへリンク）",
+      "uri": "https://minato-pokke.com/"
+    },
+    {
+      "title": "みなと子育て応援プラザPokke（ぽっけ）へ行くには",
+      "uri": "https://www.city.minato.tokyo.jp/kodomo/kodomo/kodomo/shienshisetsu/24/access.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者が入院や通院、出張や残業などの理由で、平日の夜間や休日に一時的に家庭でお子さんの面倒をみられなくなったときに、お近くの児童養護施設、乳児院、母子生活支援施設でお預かりします。",
+  "support": {
+    "description": "保護者が残業などで夜間に育児ができないときに、夕食を提供しお子さんをお預かりします。",
+    "materiallySupport": "保護者が残業などで夜間に育児ができないときに、夕食を提供しお子さんをお預かりします。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後6か月～中学3年生",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 6
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住の生後6か月～中学3年生"
+  },
+  "updateDate": "2022-07-22",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "午後5時～午後10時",
+    "fromHM": "17:00",
+    "toHM": "22:00"
+  }
+}

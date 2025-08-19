@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "131121;世田谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保育認定・調整課　認可外保育施設担当（届出）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131121",
+    "psid": "psid3.0+1000020131121+2+UM91"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "区内施設で空き数を公開可能な施設のみ掲載しています。\n更新日は、原則として第1週金曜日の翌日土曜日です。（月1回）\n現在空きがなくても、キャンセル等により今後空きが発生する場合があります。最新の空き状況や申込方法については、直接施設へお問い合わせください。\nhttps://www.city.setagaya.lg.jp/mokuji/kodomo/003/004/d00164202.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "認可外保育施設一覧",
+    "shortName": "企業主導型保育事業（空き数）"
+  },
+  "localGovernmentLink": {
+    "title": "企業主導型保育事業（空き数）",
+    "uri": "https://www.city.setagaya.lg.jp/mokuji/kodomo/003/004/d00164202.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-22",
+    "updater": "世田谷区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "認証保育所（空き数）",
+      "uri": "https://www.city.setagaya.lg.jp/mokuji/kodomo/003/004/d00160133.html"
+    },
+    {
+      "title": "保育室（空き数）",
+      "uri": "https://www.city.setagaya.lg.jp/mokuji/kodomo/003/004/d00160129.html"
+    },
+    {
+      "title": "保育ママ（定員・空き数）",
+      "uri": "https://www.city.setagaya.lg.jp/mokuji/kodomo/003/004/d00160131.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "区内の企業主導型保育施設のうち、公開可能な施設について、月に１回、空き数を公開しています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "企業主導型保育施設のご利用を希望される方\n※認可外保育施設であるため、保護者は、施設と直接契約を行います。\n※対象年齢、保育内容、保育時間、料金などは、各施設により異なりますので、施設と十分に話し合いの上、利用申込みについては直接施設へお問合せください。"
+  },
+  "updateDate": "2024-07-06",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

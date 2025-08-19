@@ -1,0 +1,134 @@
+{
+  "area": {
+    "areaCode": "132080;調布市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉健康部健康推進課 ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020132080",
+    "psid": "psid3.0+7000020132080+1+UM47"
+  },
+  "belongings": "準備するもの\nスマートフォン、タブレット、Webカメラ付きのパソコンなど(Wi-fi環境推奨)\nメールアドレス",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-441-6101",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉健康部健康推進課 ",
+    "contactPhone": "042-441-6100",
+    "contactUrl": "https://www.city.chofu.lg.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊娠・子育てに関するオンライン相談\n\n妊娠、出産や育児の不安や悩みを一人で抱えていませんか。\n新型コロナウイルス感染症等の影響から、健康推進課(保健センター)に来所することが困難な方を対象に、ご自宅などから安心してオンラインで相談ができるようになりました。\nオンライン相談は、「Zoom」を利用します。スマートフォンやタブレットなどを使用される場合は、アプリをインストールしてください。\n希望する方は、下記の注意事項をご確認の上、お申し込みください。\nオンライン相談による母子健康手帳の交付、ゆりかご調布面接については次のリンクをご覧ください。\n母子健康手帳の交付・ゆりかご調布面接(予約制);https://www.city.chofu.lg.jp/060070/p037029.html\n\n\n対象者\n調布市内在住の妊婦\n子育て中の方(主に乳幼児)\n\n面接日時\n月曜から金曜日(祝日、年末年始を除く)\n午前10時から、午前11時から、正午から、午後1時から、午後2時から、午後3時から(面接時間は30分程度)\n\n準備するもの\nスマートフォン、タブレット、Webカメラ付きのパソコンなど(Wi-fi環境推奨)\nメールアドレス\n\n申し込み手順\n1.希望日の3日前(土曜日・日曜日、祝日、年末年始を除く)までに電子申請にて申し込み\n(注)申し込み状況によりご希望に添えないことがあります\n「妊娠、子育てに関するオンライン相談」申し込み(LoGoフォーム)（外部リンク）;https://logoform.jp/form/tbbj/217529\n2.予約の確認が取れましたら健康推進課から、電子申請で登録されたメールアドレスへ、面接日時、URL・ミーティング番号・パスワードなどを送付します\nkenkou@city.chofu.lg.jpからのメールが受診できるように設定をお願いします\n3.面接日当日、サイトにアクセスし、ミーティング番号・パスワードを入力し利用してください\n\nZoom利用の際の注意事項\nZoomをインストールする際は、Zoom公式ホームページから最新バージョンをインストールしてください。\nオンライン面接にあたって、Zoomアカウントの作成は必要ありません。そのため、アプリの利用は無料ですが、利用にあたっての通信料は自己負担となります。Wi-Fiに接続するなど安定したネットワーク環境で行うことをお薦めいたします。\n第三者にIDとパスワードは公表しないでください。\n参加にあたってはカメラはONにしてください。\nミーティングの録画・録音・撮影はご遠慮ください。\nZoomアプリ利用により発生するいかなる損失や被害について、一切責任を負いません。\nZoomの手順は次のダウンロード文書をご覧ください。\nZoom手順（PDF：336KB）;https://www.city.chofu.lg.jp/documents/1469/1234_1.pdf",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "「妊娠、子育てに関するオンライン相談」申し込み(LoGoフォーム)（外部リンク）",
+      "uri": "https://logoform.jp/form/tbbj/217529"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "調布市の妊娠・出産に関する相談",
+    "shortName": "妊娠・子育てに関するオンライン相談"
+  },
+  "localGovernmentLink": {
+    "title": "妊娠・子育てに関するオンライン相談",
+    "uri": "https://www.city.chofu.lg.jp/060070/p037137.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "調布市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申し込み手順\n1.希望日の3日前(土曜日・日曜日、祝日、年末年始を除く)までに電子申請にて申し込み\n(注)申し込み状況によりご希望に添えないことがあります\n「妊娠、子育てに関するオンライン相談」申し込み(LoGoフォーム)（外部リンク）;https://logoform.jp/form/tbbj/217529\n2.予約の確認が取れましたら健康推進課から、電子申請で登録されたメールアドレスへ、面接日時、URL・ミーティング番号・パスワードなどを送付します\nkenkou@city.chofu.lg.jpからのメールが受診できるように設定をお願いします\n3.面接日当日、サイトにアクセスし、ミーティング番号・パスワードを入力し利用してください",
+  "procedurePeriod": {
+    "conditions": "希望日の3日前(土曜日・日曜日、祝日、年末年始を除く)までに電子申請にて申し込み\n(注)申し込み状況によりご希望に添えないことがあります\n「妊娠、子育てに関するオンライン相談」申し込み(LoGoフォーム)（外部リンク）;https://logoform.jp/form/tbbj/217529",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "Zoom手順（PDF：336KB）",
+      "uri": "https://www.city.chofu.lg.jp/documents/1469/1234_1.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ご自宅などからオンラインで相談ができるようになりました。オンライン相談は、「Zoom」を利用します。スマートフォンやタブレットなどを使用される場合は、アプリをインストールしてください。",
+  "support": {
+    "description": "妊娠、出産や育児の不安や悩みを一人で抱えていませんか。\n新型コロナウイルス感染症等の影響から、健康推進課(保健センター)に来所することが困難な方を対象に、ご自宅などから安心してオンラインで相談ができるようになりました。\nオンライン相談は、「Zoom」を利用します。スマートフォンやタブレットなどを使用される場合は、アプリをインストールしてください。\n希望する方は、下記の注意事項をご確認の上、お申し込みください。\nオンライン相談による母子健康手帳の交付、ゆりかご調布面接については次のリンクをご覧ください。\n母子健康手帳の交付・ゆりかご調布面接(予約制);https://www.city.chofu.lg.jp/060070/p037029.html",
+    "materiallySupport": "妊娠、出産や育児の不安や悩みを一人で抱えていませんか。\n新型コロナウイルス感染症等の影響から、健康推進課(保健センター)に来所することが困難な方を対象に、ご自宅などから安心してオンラインで相談ができるようになりました。\nオンライン相談は、「Zoom」を利用します。スマートフォンやタブレットなどを使用される場合は、アプリをインストールしてください。\n希望する方は、下記の注意事項をご確認の上、お申し込みください。\nオンライン相談による母子健康手帳の交付、ゆりかご調布面接については次のリンクをご覧ください。\n母子健康手帳の交付・ゆりかご調布面接(予約制);https://www.city.chofu.lg.jp/060070/p037029.html",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象者\n調布市内在住の妊婦\n子育て中の方(主に乳幼児)"
+  },
+  "updateDate": "2023-03-31",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

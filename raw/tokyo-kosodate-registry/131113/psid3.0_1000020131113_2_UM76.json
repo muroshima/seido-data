@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131113;大田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保育サービス課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131113",
+    "psid": "psid3.0+1000020131113+2+UM76"
+  },
+  "belongings": null,
+  "capacity": "5人（1歳児および1歳クラス2人、2歳クラス2人、3歳クラス以上1人）",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保育サービス課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/hoikusabisu.html",
+    "contactPhone": "03-5744-1280",
+    "contactUrl": "https://www.city.ota.tokyo.jp/cgi-bin/form_enq/formmail.cgi?d=hoiku",
+    "zipCode": null
+  },
+  "cost": "400",
+  "costConditions": "1時間400円",
+  "description": "区立区営保育園のスポット延長保育\n \n1.利用対象\n　利用月の1日現在、満1歳以上で延長保育に適応できる在園児で、勤務の都合で18時15分までのお迎えに間に合わない世帯。\n\n2.利用時間\n18時15分から19時15分\n\n保育短時間認定の児童は、8時30分から17時15分のうち8時間を超える利用をする場合\n（例）8時30分から17時50分までのお預け\n→8時30分から預けている方は、16時30分までが保育短時間認定での利用時間となります。\n　そのため1時間20分の超過で2時間分の利用料金が発生します。\n\n3.実施日\n月曜日から金曜日まで（祝祭日を除く）\n土曜日は実施していません。\n\n4.食事\n補食を提供します。\n\n5.定員\n5人（1歳児および1歳クラス2人、2歳クラス2人、3歳クラス以上1人）\n\n6.利用料金\n1時間400円\n\n7.支払方法\n　利用した翌月末に、通常保育料と同じ口座による口座振替で納付（口座振替の手続きが済んでいない方は納付書により金融機関で納付）\n\n8.申込み方法、利用調整方法、通知\n利用前月の15日から20日（15日又は、20日が日曜日、祝祭日の場合はその翌平日）までに「スポット延長保育利用申込書」による保育園への申込みが原則ですが、4月のスポット利用希望の場合は、申込時期を入園申込みのしおりで確認し、内定した保育園に申込んでください。このときの申込利用日数は延べ4日以内です。（この期間内は申込順ではありません。）\n定員を超えた場合はくじ引きにより利用者を決定します。\n予約状況は利用前月の25日（25日が日曜日、祝祭日の場合はその翌平日）の、午前12時に保育園に掲示します。保育園に電話でお問い合わせください。空きがある場合、登園日の午後5時まで先着順に受付（電話でも可）します。\n「スポット延長保育利用申込書」は在園（内定した）保育園にあります。また、大田区ホームページからダウンロード;https://www.city.ota.tokyo.jp/download/kodomo/hoikuen/moushikomi.htmlもできます。\n\n区立区営保育園の利用についての注意事項\n延長保育、スポット延長保育の利用者以外の方で、お迎えが午後6時15分を過ぎた場合（土曜日も含む）は、児童1人につき、スポット延長保育料金と同額を徴収させていただきます。\n延長保育、スポット延長保育の利用者の方で、お迎えが申込みされた延長保育時間、スポット延長保育時間を過ぎた場合は、児童1人につきスポット延長保育料金を徴収させていただきます。なお、1および2において、通常の保育料が0円のＡ階層、Ｂ階層の方、および0歳児などの延長保育、スポット延長保育の対象でない方の場合も、徴収させていただきます。このとき、「補食」の提供はありません。\n公共の交通機関の遅延による場合も「補食」の提供はありませんが、「遅延証明」の提出（後日の提出でも可）があれば、スポット延長保育料金はかかりません。\n延長保育とスポット延長保育は、保育料（通常の保育料、延長保育料、スポット延長保育料）を滞納されるとご利用いただけなくなります。スポット延長保育料督促状、スポット延長保育料催告書は、保育園経由で通知します。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "祝祭日を除く,土曜日は実施していません。",
+  "implementationPeriod": {
+    "conditions": "月曜日から金曜日まで（祝祭日を除く）\n土曜日は実施していません。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "延長保育",
+    "shortName": "区立区営保育園のスポット延長保育"
+  },
+  "localGovernmentLink": {
+    "title": "区立区営保育園のスポット延長保育",
+    "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/hoiku/hogosya/enchou/kuei_supotto.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "大田区"
+  },
+  "procedureCounter": "保育園",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "利用前月の15日から20日（15日又は、20日が日曜日、祝祭日の場合はその翌平日）までに「スポット延長保育利用申込書」による保育園への申込みが原則ですが、4月のスポット利用希望の場合は、申込時期を入園申込みのしおりで確認し、内定した保育園に申込んでください。このときの申込利用日数は延べ4日以内です。（この期間内は申込順ではありません。）\n定員を超えた場合はくじ引きにより利用者を決定します。\n予約状況は利用前月の25日（25日が日曜日、祝祭日の場合はその翌平日）の、午前12時に保育園に掲示します。保育園に電話でお問い合わせください。空きがある場合、登園日の午後5時まで先着順に受付（電話でも可）します。\n「スポット延長保育利用申込書」は在園（内定した）保育園にあります。また、大田区ホームページからダウンロード;https://www.city.ota.tokyo.jp/download/kodomo/hoikuen/moushikomi.htmlもできます。",
+  "procedurePeriod": {
+    "conditions": "利用前月の15日から20日（15日又は、20日が日曜日、祝祭日の場合はその翌平日）までに「スポット延長保育利用申込書」による保育園への申込みが原則ですが、4月のスポット利用希望の場合は、申込時期を入園申込みのしおりで確認し、内定した保育園に申込んでください。このときの申込利用日数は延べ4日以内です。（この期間内は申込順ではありません。）",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第59条第2号",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "大田区内の保育園（保育所）や認定こども園、地域型保育施設では、保護者の勤務時間などにより、認定を受けた時間帯を超えて保育が必要なお子さんを対象に、別途料金を徴収のうえで、延長保育を実施しています。",
+  "support": {
+    "description": "18時15分から19時15分",
+    "materiallySupport": "18時15分から19時15分",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "利用月の1日現在、満1歳以上",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "利用月の1日現在、満1歳以上で延長保育に適応できる在園児で、勤務の都合で18時15分までのお迎えに間に合わない世帯"
+  },
+  "updateDate": "2024-04-05",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "18時15分から19時15分\n\n保育短時間認定の児童は、8時30分から17時15分のうち8時間を超える利用をする場合\n（例）8時30分から17時50分までのお預け\n→8時30分から預けている方は、16時30分までが保育短時間認定での利用時間となります。\n　そのため1時間20分の超過で2時間分の利用料金が発生します。",
+    "fromHM": "18:15",
+    "toHM": "19:15"
+  }
+}

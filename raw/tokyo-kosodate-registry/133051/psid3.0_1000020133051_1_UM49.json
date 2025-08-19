@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "133051;日の出町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センター　相談係（母子保健担当）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133051",
+    "psid": "psid3.0+1000020133051+1+UM49"
+  },
+  "belongings": "母子手帳、受診票、バスタオル¥nお母さんの採尿容器",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭センター　相談係（母子保健担当）",
+    "contactPhone": "042-588-4310",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "無料",
+  "description": "３～４か月児健診：¥n３か月から5か月のお子さんに郵送でご案内しています¥n受付時間：午後１：００～１：１５¥n|検診日|対象者|\n|:----|:----|\n|５月１７日（金）| R５.12.16生 ～ R６. 2.17生|\n|７月１９日（金）| R６. 2.18生 ～4.19生|\n|９月２０日（金）|R６. 4.20生 ～6.20生|\n|１１月１５日（金） |R６. 6.21生 ～8.15生|\n|１月１７日（金）|R６. 8.16生 ～ 10.17生|\n|３月２１日（金）|R６.10.18生 ～ 12.21生|\n¥n持ち物：母子手帳、受診票、バスタオル¥n　　　 お母さんの採尿容器",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000000/136/kodomonokenshin2024.pdf",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "こども家庭センター（保健センター内）"
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児健康診査（6か月未満児）",
+    "shortName": "３～４か月児健診"
+  },
+  "localGovernmentLink": {
+    "title": "令和６年度　　日の出町こどもの健診母子相談スケジュール",
+    "uri": "https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000000/136/kodomonokenshin2024.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "日の出町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として3か月～4か月児健康診査を実施しています。",
+  "support": {
+    "description": "集団健診",
+    "materiallySupport": "集団健診",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "３か月から5か月のお子さん",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 3
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 5
+    },
+    "targetPersons": "３か月から5か月のお子さん"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

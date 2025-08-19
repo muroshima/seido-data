@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131091;品川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康課　保健衛生係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131091",
+    "psid": "psid3.0+6000020131091+1+UM2"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康課　保健衛生係",
+    "contactPhone": "03-5742-6743",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ご存知ですか？「マタニティマーク」\n\nマタニティマーク１\nマタニティマークは、妊産婦の方であることを周りの方に知らせるマークです。\n妊産婦の方にやさしい環境づくりをめざして、厚生労働省より発表があり、最近、乗り物や街で見かけることがあるのではないでしょうか。\n\n妊娠中、特に初期は、赤ちゃんの成長はもちろん、お母さんの健康を維持するためのとても大切な時期です。\nしかし外見からは、妊婦であるかどうか判断しにくかったり、つらい症状が、ある場合もあります。\n\nこのマークをつけている方を見かけたら、思いやりのある心遣いをお願いします。\n未来のお母さんと赤ちゃんをみんなのやさしさでサポートしましょう！\n\nマタニティマークのダウンロード（厚生労働省）;http://www.mhlw.go.jp/seisaku/2009/12/04.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "マタニティマーク",
+    "shortName": "マタニティマーク"
+  },
+  "localGovernmentLink": {
+    "title": "ご存知ですか？「マタニティマーク」",
+    "uri": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-ninnshinn/hpg000002861.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "品川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "マタニティマークのダウンロード（厚生労働省）",
+      "uri": "https://www.mhlw.go.jp/seisaku/2009/12/04.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "品川区では、妊娠の届出の際に、母子健康手帳と共にマタニティマーク入りキーホルダーをお渡ししています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊産婦の方"
+  },
+  "updateDate": "2020-06-05",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

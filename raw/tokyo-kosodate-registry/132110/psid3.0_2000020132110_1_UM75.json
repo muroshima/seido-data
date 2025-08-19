@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保育課幼稚園・認可外保育施設担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+1+UM75"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市小川町2-1333　市役所2階",
+    "contactComment": "FAX：042-346-9200",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保育課幼稚園・認可外保育施設担当",
+    "contactPhone": "042-346-9645",
+    "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+    "zipCode": "1878701"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "企業主導型保育施設\n【企業主導型保育施設の特徴】\n\n子ども・子育て拠出金を負担している企業が、主に従業員の子どもを対象として、国の助成を受けて設置する保育施設です。自社等の従業員が利用する「従業員枠」の他に、地域の住民等が利用する「地域枠」があり、従業員の子どものみでなく、保育を必要とする地域の子どもも利用することができます。\n\n【市内の企業主導型保育施設一覧】\n\n|施設名|所在地|電話番号|対象年齢|\n|:----|:----|:----|:----|\n|こだきしゅコスモ保育園|花小金井南町1-25-33　1F|042-466-8484|1～5歳|\n（注）利用にあたっては、利用者と保育施設との直接契約になりますので、定員、保育時間、保育料、申込み方法などについては、直接施設にお問い合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "花小金井南町1-25-33　1F",
+    "implementationName": "こだきしゅコスモ保育園"
+  },
+  "institutionName": {
+    "canonicalName": "地域型保育（小規模保育・家庭的保育（保育ママ）・事業所内保育・居宅訪問型保育）の利用について",
+    "shortName": "企業主導型保育施設"
+  },
+  "localGovernmentLink": {
+    "title": "企業主導型保育施設",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/076/076220.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "小平市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "利用にあたっては、利用者と保育施設との直接契約になりますので、定員、保育時間、保育料、申込み方法などについては、直接施設にお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第20条、第29条、第30条",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "こだきしゅコスモ保育園（コスモ保育園グループ）ホームページ（外部リンク）",
+      "uri": "http://otaira.jp/"
+    },
+    {
+      "title": "認証保育所、認定家庭福祉員、企業主導型保育施設入所可能人数",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/003/003619.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "「地域型保育」事業は、平成27年度施行の「子ども・子育て支援新制度」による、市区町村の認可事業です。保育の必要な3歳未満の子どもを対象とした「小規模保育」「家庭的保育（保育ママ）」「事業所内保育」「居宅訪問型保育」の4種類があり、市区町村ごとに地域の保育ニーズに合わせたサービスを実施することになっています。小平市には現在、下記の保育サービスがあり、利用には保育の必要性の認定を受ける必要があります。",
+  "support": {
+    "description": "子ども・子育て拠出金を負担している企業が、主に従業員の子どもを対象として、国の助成を受けて設置する保育施設です。自社等の従業員が利用する「従業員枠」の他に、地域の住民等が利用する「地域枠」があり、従業員の子どものみでなく、保育を必要とする地域の子どもも利用することができます。",
+    "materiallySupport": "子ども・子育て拠出金を負担している企業が、主に従業員の子どもを対象として、国の助成を受けて設置する保育施設です。自社等の従業員が利用する「従業員枠」の他に、地域の住民等が利用する「地域枠」があり、従業員の子どものみでなく、保育を必要とする地域の子どもも利用することができます。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "1～5歳",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 5,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "従業員の子ども,保育を必要とする地域の子ども"
+  },
+  "updateDate": "2023-10-03",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

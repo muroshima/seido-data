@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132195;狛江市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子ども若者政策課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132195",
+    "psid": "psid3.0+8000020132195+1+UM60"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子ども若者政策課助成支援係",
+    "contactPhone": "03-3430-1277",
+    "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,105153,html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "母子（父子）家庭高等職業訓練促進給付金\n母子家庭の母または父子家庭の父が、看護師などの資格を取得するため１年以上（令和6年3月31日までに修業を開始するときは6カ月以上）養成機関において修業する場合、一定期間、経済的な支援を行います（上限4年）。\n\n支給対象者\n市内在住の母子家庭の母または父子家庭の父で、次のすべての要件を満たす方\n\n20歳未満の児童を養育している。\n児童扶養手当の支給（全部支給または一部支給）を受けている、もしくは児童扶養手当の支給水準と同等の所得水準である。\n養成機関において、1年以上（令和6年3月31日までに修業を開始するときは6カ月以上）の課程を修業し、資格の取得が見込まれる。\n就業または育児と修業の両立が経済的に困難である。\n原則、過去に当該給付金の支給を受けていない。\nこの給付金と趣旨を同じくする他の給付を受けていない。\n既に納期の経過した市税を完納している。\n支給の対象となる資格\n看護師、准看護師、介護福祉士、保育士、理学療法士、作業療法士、保健師、助産師、理容師、美容師、歯科衛生士、社会福祉士、製菓衛生士、調理師、シスコシステムズ認定資格、LPI認定資格、その他市長が特に認める資格\n\n支給額\n1. 高等職業訓練促進給付金\n就業中の母子家庭の母または父子家庭の父の生活費の負担を軽減するため、修業期間のうち一定の期間における給付金を申請月分から支給します。\n\n※市民税非課税世帯：月額100,000円、市民税課税世帯：月額70,500円\n　（養成機関における過程の修了までの期間の最後の12月については、上記の金額に40,000円加算します。）\n審査\n給付にあたっては審査があります。\n\n事前相談\n担当窓口に電話予約の上、事前相談が必要です。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "高等職業訓練促進給付金",
+    "shortName": "母子（父子）家庭高等職業訓練促進給付金"
+  },
+  "localGovernmentLink": {
+    "title": "母子（父子）家庭高等職業訓練促進給付金",
+    "uri": "https://www.city.komae.tokyo.jp/index.cfm/44,115234,341,2078,html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "狛江市"
+  },
+  "procedureCounter": "子ども家庭部　子ども若者政策課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "担当窓口に電話予約の上、事前相談が必要です。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第31条（母子家庭自立支援給付金）、第31条の10（父子家庭自立支援給付金）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭の母または父が、就業に結びつきやすい対象資格（看護師や介護福祉士など）を取得するため1年以上（令和3年4月1日から令和4年3月31日までに修業を開始する場合には6月以上）、養成機関で修業する場合に、修業期間中の生活の負担軽減のために高等職業訓練促進給付金を、また修業終了時に高等職業訓練修了支援給付金を支給します。",
+  "support": {
+    "description": "支給の対象となる資格\n看護師、准看護師、介護福祉士、保育士、理学療法士、作業療法士、保健師、助産師、理容師、美容師、歯科衛生士、社会福祉士、製菓衛生士、調理師、シスコシステムズ認定資格、LPI認定資格、その他市長が特に認める資格\n\n支給額\n1. 高等職業訓練促進給付金\n就業中の母子家庭の母または父子家庭の父の生活費の負担を軽減するため、修業期間のうち一定の期間における給付金を申請月分から支給します。\n\n※市民税非課税世帯：月額100,000円、市民税課税世帯：月額70,500円\n　（養成機関における過程の修了までの期間の最後の12月については、上記の金額に40,000円加算します。）\n\n審査\n給付にあたっては審査があります。",
+    "materiallySupport": "支給の対象となる資格\n看護師、准看護師、介護福祉士、保育士、理学療法士、作業療法士、保健師、助産師、理容師、美容師、歯科衛生士、社会福祉士、製菓衛生士、調理師、シスコシステムズ認定資格、LPI認定資格、その他市長が特に認める資格",
+    "monetarySupport": "市民税非課税世帯：月額100,000円、市民税課税世帯：月額70,500円\n　（養成機関における過程の修了までの期間の最後の12月については、上記の金額に40,000円加算します。）"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "20歳未満の児童",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "市内在住の母子家庭の母または父子家庭の父で、次のすべての要件を満たす方\n\n20歳未満の児童を養育している。\n児童扶養手当の支給（全部支給または一部支給）を受けている、もしくは児童扶養手当の支給水準と同等の所得水準である。\n養成機関において、1年以上（令和6年3月31日までに修業を開始するときは6カ月以上）の課程を修業し、資格の取得が見込まれる。\n就業または育児と修業の両立が経済的に困難である。\n原則、過去に当該給付金の支給を受けていない。\nこの給付金と趣旨を同じくする他の給付を受けていない。\n既に納期の経過した市税を完納している。\n支給の対象となる資格\n看護師、准看護師、介護福祉士、保育士、理学療法士、作業療法士、保健師、助産師、理容師、美容師、歯科衛生士、社会福祉士、製菓衛生士、調理師、シスコシステムズ認定資格、LPI認定資格、その他市長が特に認める資格"
+  },
+  "updateDate": "2023-07-12",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

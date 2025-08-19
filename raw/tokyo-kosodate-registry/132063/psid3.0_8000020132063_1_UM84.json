@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132063;府中市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部保育支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132063",
+    "psid": "psid3.0+8000020132063+1+UM84"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部保育支援課",
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "保育時間、施設、児童の年齢などによって異なります。直接各施設へお問合せください。",
+  "description": "一時預かり・定期利用保育事業\n最終更新日：2024年4月1日\n定期利用保育事業\n保護者が月に48時間以上の就労のため、月を単位として複数月にわたり継続的に保育を必要としている場合に利用できます。\n\n共通事項\n対象\n原則、保育所等に通かよっていない（在籍していない）健康な0歳から小学校就学前までの児童\n注記：お子さんの予防接種の受診状況や満期出産でない乳児などは、お預かりできない場合があります。\n\n保育時間\n直接各施設へお問合せください。\n\n費用\n保育時間、施設、児童の年齢などによって異なります。直接各施設へお問合せください。\n\n申込み\n直接各施設へ\n\n一時預かり及び定期利用保育を実施している施設\nhttps://www.city.fuchu.tokyo.jp/kosodate/shussan/ichiji_enjo/ichiji.html\n定期利用保育のみ実施している施設\nhttps://www.city.fuchu.tokyo.jp/kosodate/shussan/ichiji_enjo/ichiji.html\n注記：2歳児のみ\n\n定期利用保育を利用した際の助成金\n対象\n0歳児クラスから2歳児クラスまでの市町村民税課税世帯に属する第2子以降の児童\n注記：0歳児クラスから2歳児クラスまでの市町村民税非課税世帯及び3歳児クラスから5歳児クラスまでの児童は、無償化の対象です。\n幼児教育・保育の無償化について;https://www.city.fuchu.tokyo.jp/kosodate/shussan/hoikujo/youjikyouikuhoikumusyouka.html\n\n対象期間\n令和5年10月1日利用分から\n\n補助金額\n月額42,000円\n（補助金額が実際に納付した保育料の額を超える時は、当該保育料の額を限度とします。）\n\n申込み方法\n対象の方には、利用している施設を通して、申込みに当たって必要な書類等を配布し、申込みを受け付けます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "一時保育の定期利用（特定保育・非定型保育など）",
+    "shortName": "定期利用保育事業"
+  },
+  "localGovernmentLink": {
+    "title": "一時預かり・定期利用保育事業",
+    "uri": "https://www.city.fuchu.tokyo.jp/kosodate/shussan/ichiji_enjo/ichiji.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-11",
+    "updater": "府中市"
+  },
+  "procedureCounter": "各施設",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申込み\n直接各施設へ",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第7項、第21条の9、第59条第10号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者が月に48時間以上の就労のため、月を単位として複数月にわたり継続的に保育を必要としている場合に利用できます。",
+  "support": {
+    "description": "保護者が月に48時間以上の就労のため、月を単位として複数月にわたり継続的に保育を必要としている場合に利用できます。",
+    "materiallySupport": "保護者が月に48時間以上の就労のため、月を単位として複数月にわたり継続的に保育を必要としている場合に利用できます。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0歳から小学校就学前までの児童",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "原則、保育所等に通かよっていない（在籍していない）健康な0歳から小学校就学前までの児童\n注記：お子さんの予防接種の受診状況や満期出産でない乳児などは、お預かりできない場合があります。"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

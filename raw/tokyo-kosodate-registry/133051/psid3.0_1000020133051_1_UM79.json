@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "133051;日の出町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉課子育て支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133051",
+    "psid": "psid3.0+1000020133051+1+UM79"
+  },
+  "belongings": "所定の申請書¥n保護者の勤務証明書等¥n※保護者の状況により添付書類が異なります。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡日の出町大字平井2780番地",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "299",
+    "contactName": "福祉課子育て支援係",
+    "contactPhone": "042-588-4113",
+    "contactUrl": null,
+    "zipCode": "1900192"
+  },
+  "cost": null,
+  "costConditions": "育成料　　月額4,000円¥n間食費　　月額1,500円",
+  "description": "学童クラブ¥n放課後、家庭において適切な監護を受けられない小学校低学年を一定時間保育します。¥n¥n条件¥n放課後帰宅しても保護者の労働または疾病等の理由により適切な監護が受けられない小学校1～4年生までの児童。¥n¥n所得制限¥nなし¥n¥n費用負担¥n育成料　　月額4,000円¥n間食費　　月額1,500円¥n申請手続き¥n所定の申請書¥n保護者の勤務証明書等¥n※保護者の状況により添付書類が異なります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "放課後児童クラブ",
+    "shortName": "学童クラブ"
+  },
+  "localGovernmentLink": {
+    "title": "学童クラブと児童館",
+    "uri": "https://www.town.hinode.tokyo.jp/0000000121.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "日の出町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "・所定の申請書¥n・保護者の勤務証明書等¥n※保護者の状況により添付書類が異なります。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第2項",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "放課後児童クラブは、保護者が就労などにより、昼間家庭にいない小学校に就学しているお子さんに対し、適切な遊びおよび生活の場を与え、児童の健全な育成および保護者の就労と子育ての両立支援を図ることを目的としています。",
+  "support": {
+    "description": "一定時間保育",
+    "materiallySupport": "一定時間保育",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "005"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "小学校1～4年生",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "放課後帰宅しても保護者の労働または疾病等の理由により適切な監護が受けられない小学校1～4年生までの児童。"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "132241;多摩市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども・若者政策課　子ども・若者政策担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132241",
+    "psid": "psid3.0+3000020132241+1+UM800"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都多摩市関戸六丁目12番地1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": "042-338-6958",
+    "contactUrl": null,
+    "zipCode": "2068666"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "赤ちゃん・ふらっと事業(授乳やおむつ替えのためのスペース)\n\n本事業は、保育所、児童館、公民館、図書館及びその他不特定多数の者が利用する施設等において、授乳及びおむつ替え等のための施設設備の設置を促進するとともに、都民に赤ちゃん・ふらっとの所在等を広く周知することにより、乳幼児を持つ親が安心して外出を楽しめる環境を整備することを目的とした東京都の事業です。\n\n「赤ちゃん・ふらっと」とは\n「赤ちゃん・ふらっと」は、赤ちゃんを連れた方が安心して外出を楽しめるように、授乳やおむつ替え等のためにふらっと立ち寄ることのできるスペースの愛称です。\n\n「赤ちゃん・ふらっと」として東京都へ届け出をしている施設には、入口などに適合証を掲示しておりますので、お気軽にご利用ください。\n\n※各施設において、授乳やおむつ替え等を行うことができます。\n\nイラスト：赤ちゃん・ふらっとマーク;https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/418/m.gif\n赤ちゃん・ふらっと施設一覧\n施設一覧の最新情報については、東京都福祉保健局公式ホームページよりご覧ください。\n東京都の子育て情報サイト とうきょう子育てスイッチのホームページでもご覧いただけます。\n\n東京都福祉保健局ホームページ（外部リンク）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/akachanflat.html\n東京都の子育て情報サイト　とうきょう子育てスイッチ（外部リンク）;https://kosodateswitch.metro.tokyo.lg.jp/",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "授乳・おむつ替え施設（赤ちゃんの駅等）",
+    "shortName": "赤ちゃん・ふらっと"
+  },
+  "localGovernmentLink": {
+    "title": "赤ちゃん・ふらっと事業(授乳やおむつ替えのためのスペース)",
+    "uri": "https://www.city.tama.lg.jp/kosodate/1008019/1008027/1003418.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "多摩市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "イラスト：赤ちゃん・ふらっとマーク",
+      "uri": "https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/418/m.gif"
+    },
+    {
+      "title": "東京都の子育て情報サイト　とうきょう子育てスイッチ（外部リンク）",
+      "uri": "https://kosodateswitch.metro.tokyo.lg.jp/"
+    },
+    {
+      "title": "東京都福祉保健局ホームページ（外部リンク）",
+      "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/akachanflat.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "多摩市では、乳幼児を抱える子育て家庭が安心して外出できる環境づくりを進めるため、公共施設のほか民間施設の協力を得て「おむつ替え」や「授乳」ができる赤ちゃんの駅を整備し、地域全体で子育てを支える仕組みづくりを進めています。\nまた、東京都でも県内の民間施設を含めて同事業を実施しており、指定施設には、入り口付近にそれぞれ案内標示を設置しています。",
+  "support": {
+    "description": "授乳やおむつ替え等のためにふらっと立ち寄ることのできるスペース",
+    "materiallySupport": "授乳やおむつ替え等のためにふらっと立ち寄ることのできるスペース",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2023-03-15",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131156;杉並区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健福祉部障害者施策課障害者手当・医療係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131156",
+    "psid": "psid3.0+8000020131156+1+UM62"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都杉並区阿佐谷南1丁目15番1号",
+    "contactComment": "（直通）",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健福祉部障害者施策課障害者手当・医療係",
+    "contactPhone": "03-5307-0781",
+    "contactUrl": null,
+    "zipCode": "1668570"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "特別児童扶養手当（国の制度）\nページ番号1008533　 更新日 令和7年4月1日 印刷\n\n心身の障害の程度が以下の対象状態にある20歳未満の児童を養育している方が申請により受けられる手当です。\n\n対象\n障害の程度が次のいずれかに該当する20歳未満の児童を養育している方に手当を支給します。複数の障害がある場合は、個々の障害の程度が以下より軽度でも該当となることがあります。\n注：原則所定の診断書で障害程度の判定をします。\n\n身体障害者手帳1～3級程度（下肢障害については4級の一部を含む）\n愛の手帳1～3度程度\n日常生活において常に介護・保護が必要、もしくは著しい制限を受ける精神障害や内部障害・疾患等を持つ児童\n支給制限\n次のいずれかに該当する方は受けられません。\n\n児童が障害を理由とする公的な年金を受給している方\n児童が児童福祉施設等に入所している方\n注：受給者・配偶者・扶養義務者の所得が所得制限基準額の限度額以上の方は、資格を取得することはできますが、支給は停止します。（詳しくは関連情報「各種手当等の所得制限基準額」をご覧ください。）\n\n手当額\n額については毎年見直しがあります。また障害程度によって額は1級もしくは2級に分かれます。\n\n手当1級：月額56,800円（令和7年4月から）\n手当2級：月額37,830円（令和7年4月から）\n\n支払方法\n下記の支払い月に受給者指定の金融機関口座へ振り込みます。\n\n4月（12月分から3月分）\n8月（4月分から7月分）\n11月（8月分から11月分）\n申請方法と必要書類\n申請方法\n必要書類を持って、障害者施策課障害者手当・医療係へお越しください。\n\n郵送による申請をご希望の方は、申請書等をお送りしますので、お問い合わせください。\n郵送による申請は、障害者施策課に申請書が届いた日をもって申請日とします。なお、郵送事故による申請書の未着や延着についての責任は負いかねます。\n\n郵送先\n〒166-8570 杉並区阿佐谷南1丁目15番1号\n 杉並区役所 障害者施策課 障害者手当・医療係\n\n必要書類\n所定の診断書（用紙は障害者施策課にあります。）\n注：身体障害者手帳や愛の手帳をお持ちの場合、障害等級や手帳内容によっては、診断書の省略ができる場合があります。事前にお問い合わせください。\n請求者及び児童の戸籍謄本（発行から1か月以内のもの）\n受給者となる方名義の預金通帳\n申請書に記載する方全員の個人番号確認書類（マイナンバーカードなど）\n関連情報\n各種手当等の所得制限基準額;https://www.city.suginami.tokyo.jp/s036/8067.html（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/shinsho/teate/toku_ji.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "特別児童扶養手当",
+    "shortName": "特別児童扶養手当（国の制度）"
+  },
+  "localGovernmentLink": {
+    "title": "特別児童扶養手当（国の制度）",
+    "uri": "https://www.city.suginami.tokyo.jp/normalife/nenkin/teate/1008533.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025-03-13",
+    "updater": "杉並区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "必要書類を持って、障害者施策課障害者手当・医療係へお越しください。\n\n郵送による申請をご希望の方は、申請書等をお送りしますので、お問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2章",
+    "regulationName": "特別児童扶養手当等の支給に関する法律"
+  },
+  "relatedLink": [
+    {
+      "title": "各種手当等の所得制限基準額",
+      "uri": "https://www.city.suginami.tokyo.jp/normalife/nenkin/teate/1008539.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "20歳未満で、法令により定められた程度の障がいの状態にある児童を監護している父母（主として児童の生計を維持するいずれか一人）または父母にかわって児童を養育（児童と同居し、監護し、生計を維持）する方に支給されます。",
+  "support": {
+    "description": "手当額については毎年見直しがあります。また障害程度によって額は1級もしくは2級に分かれます。\n\n手当1級：月額56,800円（令和7年4月から）\n手当2級：月額37,830円（令和7年4月から）",
+    "materiallySupport": null,
+    "monetarySupport": "手当額については毎年見直しがあります。また障害程度によって額は1級もしくは2級に分かれます。\n\n手当1級：月額56,800円（令和7年4月から）\n手当2級：月額37,830円（令和7年4月から）"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "障害の程度が次のいずれかに該当する20歳未満の児童を養育している方に手当を支給します。複数の障害がある場合は、個々の障害の程度が以下より軽度でも該当となることがあります。\n注：原則所定の診断書で障害程度の判定をします。\n\n身体障害者手帳1～3級程度（下肢障害については4級の一部を含む）\n愛の手帳1～3度程度\n日常生活において常に介護・保護が必要、もしくは著しい制限を受ける精神障害や内部障害・疾患等を持つ児童"
+  },
+  "updateDate": "2025-04-01",
+  "useConsiderationFlag": true,
+  "utilization": "必要書類を持って、障害者施策課障害者手当・医療係へお越しください。\n郵送による申請をご希望の方は、申請書等をお送りしますので、お問い合わせください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

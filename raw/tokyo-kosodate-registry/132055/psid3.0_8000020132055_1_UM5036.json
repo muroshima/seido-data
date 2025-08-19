@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "132055;青梅市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て応援課 子育て推進係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132055",
+    "psid": "psid3.0+8000020132055+1+UM5036"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "青梅市東青梅1-11-1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "内線2142",
+    "contactName": "子育て応援課 子育て推進係",
+    "contactPhone": "Tel：0428-22-1111",
+    "contactUrl": null,
+    "zipCode": "1988701"
+  },
+  "cost": "無料または安価",
+  "costConditions": null,
+  "description": "子ども食堂\n子ども食堂とは\n\n市内の子ども食堂\n実施内容については、各子ども食堂へお問い合わせください。\n\n市内の子ども食堂\n|食堂名|所在地|電話番号|実施日|\n|:----|:----|:----|:----|\n|武尊塾|青梅市東青梅3-22-4　東京武尊会館|0428-20-0770|毎週月･木曜日|\n|すぺーすまゆだま|青梅市友田町3-96-1|0428-78-3304|毎週金曜日|\n|か～もくの会|青梅市勝沼3-78　KTホール|0428-24-8981|毎週火曜日|\n|子どもFREE・CAFE|青梅市勝沼3-78　KTホール|0428-24-8981|毎週水～日曜日|\n|なかま亭|青梅市今寺4-6-25|0428-32-8825|毎週土曜日|\n|子ども食堂どんぐりやま|青梅市今寺3-379-8|090-3049-4691|第2水曜日|\n|子ども食堂かすみ|青梅市藤橋2-614-18　福わ家|090-3049-4691|第4金曜日|\n|Kanpa cafe mio|青梅市勝沼3-78（KTホールぶらりカフェ）|080-5487-9798|休止中|\n| |青梅市友田町3-96-1（すぺーすまゆだま）| |休止中|\n|和楽食堂|青梅市今井2丁目　七日市場公会堂|090-5586-9494|第3土曜日|\n|CAFE TOIRO|青梅市野上町3-19-4|0428-84-2650|毎週水･金曜日|\n子ども食堂関連通知、リンク",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "青梅市東青梅3-22-4　東京武尊会館,青梅市友田町3-96-1,青梅市勝沼3-78　KTホール,青梅市勝沼3-78　KTホール,青梅市今寺4-6-25,青梅市今寺3-379-8,青梅市藤橋2-614-18　福わ家,青梅市勝沼3-78（KTホールぶらりカフェ）\n青梅市友田町3-96-1（すぺーすまゆだま）,青梅市今井2丁目　七日市場公会堂,青梅市野上町3-19-4",
+    "implementationName": "武尊塾,すぺーすまゆだま,か～もくの会,子どもFREE・CAFÉ,なかま亭,子ども食堂どんぐりやま,子ども食堂かすみ,Kanpa cafe mio,和楽食堂,CAFE TOIRO"
+  },
+  "institutionName": {
+    "canonicalName": "こども食堂",
+    "shortName": "子ども食堂"
+  },
+  "localGovernmentLink": {
+    "title": "子ども食堂",
+    "uri": "https://www.city.ome.tokyo.jp/soshiki/34/25828.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025-02-28",
+    "updater": "青梅市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "子ども食堂の活動に関する連携・協力の推進及び子ども食堂の運営上注意すべき事項の周知について（平成30年6月28日）",
+      "uri": "https://www.city.ome.tokyo.jp/uploaded/attachment/16781.pdf"
+    },
+    {
+      "title": "子ども食堂における衛生管理のポイント（厚生労働省サイト）",
+      "uri": "https://www.mhlw.go.jp/stf/newpage_00381.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "「こども食堂」とは、こどもが一人でも行ける無料または低額の食堂です。こども食堂は、生活に困窮する子育て世帯への支援だけでなく、虐待の防止のための見守りや、地域の交流、こどもへの多様な経験の提供など様々な役割を担っており、国としてもこの取組を支援しています。",
+  "support": {
+    "description": "無料または安価で栄養のある食事や温かな団らんを提供する取り組みです。",
+    "materiallySupport": "栄養のある食事",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2023/11/15",
+  "useConsiderationFlag": false,
+  "utilization": "子どもが一人でも行ける",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "毎週月･木曜日,毎週金曜日,毎週火曜日,毎週水～日曜日,毎週土曜日,第2水曜日,第4金曜日,休止中,第3土曜日,毎週水･金曜日",
+    "fromHM": null,
+    "toHM": null
+  }
+}

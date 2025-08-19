@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "小平市子ども家庭支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+1+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市小川東町4-2-1小平元気村おがわ東2F",
+    "contactComment": "相談専用電話　042-348-2102\n虐待ほっとライン(虐待相談専用ダイヤル）　042-347-3192　FAX 042-348-2101",
+    "contactEmail": "kodomokatei_kodaira@unchusha.com",
+    "contactEx": null,
+    "contactName": "小平市子ども家庭支援センター",
+    "contactPhone": "042-348-2102,042-347-3192",
+    "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+    "zipCode": "1870031"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子どもと家庭に関するあらゆる相談・子育て情報の提供や児童虐待に関する相談を行っています。\n電話、メール、来館での相談ができます。面接相談をご希望の方は事前にご連絡ください。\n\n虐待の疑いや発見した場合は、ご連絡ください。ご連絡頂いた方の情報がもれたり、虐待ではなかったとしても責任を問われたりすることはあります。\n(注)受付時間外は、児童相談所虐待対応ダイヤル189（いちはやく）へご連絡ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "日曜日、月曜日、祝日、12月29日から1月3日までの年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "小平市の子育てに関する相談",
+    "shortName": "子ども家庭支援センター"
+  },
+  "localGovernmentLink": {
+    "title": "子育ての不安や悩みは子ども家庭支援センターへ",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/084/084591.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "小平市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "とうきょう福祉ナビゲーション（外部リンク）",
+      "uri": "https://www.fukunavi.or.jp/fukunavi/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子ども家庭支援センターは、0歳から18歳までの子どもと家庭の総合窓口です。一人で抱え込まずご相談ください。",
+  "support": {
+    "description": "こどもと家庭の総合相談を行っています。",
+    "materiallySupport": "電話相談\nメール相談\n来館での相談（面接を希望の場合は事前連絡をお願いします）",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0歳から18歳まで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "0歳から18歳までの子どもと家庭"
+  },
+  "updateDate": "2023-02-06",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "開館日\n火曜日から土曜日まで（祝日、年末年始を除く）\n開館時間\n午前10時から午後6時まで",
+    "fromHM": "10:00",
+    "toHM": "18:00"
+  }
+}

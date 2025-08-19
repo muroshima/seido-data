@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "131199;板橋区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部 生活支援課 福祉資金係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131199",
+    "psid": "psid3.0+6000020131199+1+UM20"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都板橋区板橋二丁目66番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部 生活支援課 福祉資金係",
+    "contactPhone": "03-3579-2353",
+    "contactUrl": "https://www.city.itabashi.tokyo.jp/cgi-crm/CRM030/CRM030_001/G4501000000/1002507",
+    "zipCode": "1738501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "応急福祉資金の貸付\n病気・災害その他特別な理由により応急にその費用を必要とする低所得者の方に、生活つなぎ資金を無利子でお貸しします。原則、連帯保証人または保証人が1人必要です。\n必ずお電話で福祉資金係（電話03-3579-2353)へご予約のうえ、ご来庁ください。\n\n貸付対象者\n次のすべての要件を満たす方\n・応急に費用を必要とする方（生活保護を受けている方等を除く）で、他から借り受けることが困難である（注1）\n・償還が確実である(例：特別区民税及び都民税等の納入状況が良好であること。板橋区が貸付けを行う他福祉資金に滞納がないこと等)\n・世帯主である\n・原則区内に住所を有する\n・この資金の貸付けを受けていない\n・この資金の（連帯）保証人になっていない\n・収入が基準額（注2）以下である\n・暴力団員又はその関係者でない\n（注1）他の生活福祉資金等を借り受けることができる方は貸付できません。\n（注2）貸付区分が「葬儀費等」の場合は生活保護法による基準生活費の額の4.5倍の額、「出産費等」「一般」の場合は1.5倍の額\n\n貸付区分・貸付対象費用・貸付限度額\n下表参照\n貸付区分・貸付対象費用・貸付限度額など\n|区分|貸付対象費用|貸付限度額|保証人|\n|:----|:----|:----|:----|\n|葬儀費など|葬儀費<br>災害復旧費<br>医療費|35万円以内|連帯保証人1人|\n|出産費など|出産費<br>権利金など借家に要する費用|25万円以内|連帯保証人1人|\n|一般|日常生活に要する費用|13万円以内|保証人1人|\n\nいずれも無利子。違約金年10.95％\n\n審査\n貸付けにあたっては審査を行います。負債等の状況によっては、貸付けできない場合があります。\n\n返済方法\n・葬儀費・出産費等\n貸付けを受けた月の翌月から据置期間6か月。最大30回以内の均等月賦返済\n・一般\n貸付けを受けた月の翌月から20回以内の均等月賦返済\n\n違約金\n指定日までに返済がないときは、元金に年10.95％の違約金が生じます。\n\n保証人について\n連帯保証人または保証人は、次のすべての要件を満たすことが必要です。\n・原則として区内に3か月以上引き続き居住している\n・一定の職業を有し、借受申込者と同等以上の収入を得ている者であって、独立の生計を営んでいる成年者である\n・この資金の貸付けを受けていない\n\n申込について\n必ず貸付けを希望する本人がおいでください。（来庁前にお電話ください。）\n要件審査、現金準備等があるため、貸付けには5日程度（土日祝日除く）かかり、複数回の来庁が必要です。\n\n区以外の団体の貸付制度\n東京都社会福祉協議会\n各種貸付制度があります。それぞれ条件がありますので、詳しくは板橋区社会福祉協議会（電話03-3964-0556）へお問い合わせいただくか、ホームページ（このページの下部にリンクがあります）をご覧ください。ただし、収入がないか又は少ないために恒常的に生活全般に困窮している世帯は対象外となります。\n\n東京都中小企業従業員生活資金融資制度「さわやか」\n東京都では、都内に在勤または在住の中小企業従業員の方に、生活資金を低利で融資しています。詳しくはお近くの中央労働金庫（板橋支店　電話番号03-3962-3311）にお問い合わせいただくか、ホームページ（このページの下部にリンクがあります）をご覧ください。\n\n関連リンク\n板橋区社会福祉協議会(生活福祉資金のご案内）（外部リンク）;http://www.itabashishakyo.jp/modules/smartsection/item.php?itemid=6\n東京都中小企業従業員生活資金融資制度「さわやか」（外部リンク）;http://www.hataraku.metro.tokyo.jp/fukuri/yushi/index.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出産費貸付制度",
+    "shortName": "応急福祉資金の貸付"
+  },
+  "localGovernmentLink": {
+    "title": "応急福祉資金の貸付",
+    "uri": "https://www.city.itabashi.tokyo.jp/kenko/soudan/enjo/1002507.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "板橋区"
+  },
+  "procedureCounter": "福祉資金係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "必ずお電話で福祉資金係（電話03-3579-2353)へご予約のうえ、ご来庁ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "貸付けを希望する本人",
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "東京都板橋区応急福祉資金貸付条例、東京都板橋区応急福祉資金貸付条例施行規則"
+  },
+  "relatedLink": [
+    {
+      "title": "板橋区社会福祉協議会(生活福祉資金のご案内）（外部リンク）",
+      "uri": "http://www.itabashishakyo.jp/modules/smartsection/item.php?itemid=6"
+    },
+    {
+      "title": "東京都中小企業従業員生活資金融資制度「さわやか」（外部リンク）",
+      "uri": "http://www.hataraku.metro.tokyo.jp/fukuri/yushi/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "病気・災害その他特別な理由により応急にその費用を必要とする低所得の方に、生活つなぎ資金を無利子でお貸しします。原則、連帯保証人または保証人が1人必要です。",
+  "support": {
+    "description": "貸付区分・貸付対象費用・貸付限度額など\n|区分|貸付対象費用|貸付限度額|保証人|\n|:----|:----|:----|:----|\n|葬儀費など|葬儀費<br>災害復旧費<br>医療費|35万円以内|連帯保証人1人|\n|出産費など|出産費<br>権利金など借家に要する費用|25万円以内|連帯保証人1人|\n|一般|日常生活に要する費用|13万円以内|保証人1人|",
+    "materiallySupport": null,
+    "monetarySupport": "貸付区分・貸付対象費用・貸付限度額など\n|区分|貸付対象費用|貸付限度額|保証人|\n|:----|:----|:----|:----|\n|葬儀費など|葬儀費<br>災害復旧費<br>医療費|35万円以内|連帯保証人1人|\n|出産費など|出産費<br>権利金など借家に要する費用|25万円以内|連帯保証人1人|\n|一般|日常生活に要する費用|13万円以内|保証人1人|"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次のすべての要件を満たす方\n\n・応急に費用を必要とする方（生活保護を受けている方等を除く）で、他から借り受けることが困難である（注1）\n・償還が確実である(例：特別区民税及び都民税等の納入状況が良好であること。板橋区が貸付けを行う他福祉資金に滞納がないこと等)\n・世帯主である\n・原則区内に住所を有する\n・この資金の貸付けを受けていない\n・この資金の（連帯）保証人になっていない\n・収入が基準額（注2）以下である\n・暴力団員又はその関係者でない\n\n（注1）他の生活福祉資金等を借り受けることができる方は貸付できません。\n（注2）貸付区分が「葬儀費等」の場合は生活保護法による基準生活費の額の4.5倍の額、「出産費等」「一般」の場合は1.5倍の額"
+  },
+  "updateDate": "2024-04-30",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども生活部子ども家庭支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+1+UM785"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども生活部子ども家庭支援課",
+    "contactPhone": "042-724-4419",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/9",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "・2時間1,640円（1時間820円）（午後6時から午後7時は1時間1,025円）（市民税が非課税の世帯、生活保護受給世帯は費用が免除されます）。\n・三つ子以上は1日500円。\n・ヘルパーの交通費実費（公共交通機関代、コインパーキング代等）（費用免除対象の方も支払いが必要です）。\n・キャンセル料（派遣日前日の午後5時以降のキャンセルは820円のキャンセル料が発生します。）",
+  "description": "産後のお母さんと赤ちゃんに関する沐浴や授乳、食事の準備や洗濯、掃除、健診の付き添いなどにヘルパーを派遣します。\n\n支援を希望する場合には、子ども家庭支援課へご連絡ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "産前産後ヘルパーの派遣",
+    "shortName": "育児支援ヘルパー（産後のお母さんと赤ちゃん向け）"
+  },
+  "localGovernmentLink": {
+    "title": "育児支援ヘルパー（産後のお母さんと赤ちゃん向け）",
+    "uri": "https://kosodate-machida.tokyo.jp/soshiki/4/5/5/1181.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "子ども家庭支援課にお電話でお申し込みください。\n子ども家庭支援課の職員とヘルパーコーディネーターが訪問し、申請を受付けます。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "産前産後の体調不良などにより、家事や育児が困難なご家庭に、日常的な掃除・洗濯・食事の支度などの家事や、もく浴・おむつ交換・きょうだいのお世話などの育児を手伝うホームヘルパーを派遣します。",
+  "support": {
+    "description": "一般の家事援助ヘルパーとは異なり、サービスの内容には制限があります。\nお申込みの際、ご希望の支援内容をご相談ください。\n\n育児に関する援助及び助言、相談\n沐浴、授乳、オムツ交換の支援\n兄姉児の幼稚園・保育園等の送迎\n（移動は徒歩または公共交通機関のみ利用し、ヘルパーの交通費実費は利用者が負担となります。詳細は相談してください。）\n家事に関する援助\n食事の準備、簡単な掃除、衣類の洗濯、買い物など軽易な家事\n\n健診等への付き添い\n一ヶ月健診など乳幼児健診等の付き添い(移動は徒歩または公共交通機関のみを利用、ヘルパーの交通費は利用者が負担となります)",
+    "materiallySupport": "一般の家事援助ヘルパーとは異なり、サービスの内容には制限があります。\nお申込みの際、ご希望の支援内容をご相談ください。\n\n育児に関する援助及び助言、相談\n沐浴、授乳、オムツ交換の支援\n兄姉児の幼稚園・保育園等の送迎\n（移動は徒歩または公共交通機関のみ利用し、ヘルパーの交通費実費は利用者が負担となります。詳細は相談してください。）\n家事に関する援助\n食事の準備、簡単な掃除、衣類の洗濯、買い物など軽易な家事\n\n健診等への付き添い\n一ヶ月健診など乳幼児健診等の付き添い(移動は徒歩または公共交通機関のみを利用、ヘルパーの交通費は利用者が負担となります)",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "派遣時間\n\n単体児は、出産し退院した翌日から満2歳の前日まで（累計60時間まで）\n（注記）ただし、状況によって累計60時間利用後も利用することができます（3か月につき60時間）。継続利用を希望する場合は、職員が訪問などで状況確認を行い、審査後、利用の可否を決定します。\n2.双子は、出産し退院した翌日から満3歳の誕生日前日まで（0歳から2歳まで年間360時間、2歳から3歳まで年間120時間）\n3.三つ子以上は、出産し退院した翌日から満4歳の誕生日の前日まで（0歳から2歳まで年間360時間、2歳から4歳まで年間120時間）\n4.午前8時～午後7時まで、1日連続して2時間（3・4時間の利用を希望する場合はご相談ください）の利用。\n5.保育園・幼稚園に入園した場合は利用できません。（但し、双子、三つ子以上は利用が可能です）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "町田市に住民登録している保護者\n\n町田市に里帰りしている保護者"
+  },
+  "updateDate": "2023-04-18",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "1.単体児は、出産し退院した翌日から満2歳の前日まで（累計60時間まで）\n（注記）ただし、状況によって累計60時間利用後も利用することができます（3か月につき60時間）。継続利用を希望する場合は、職員が訪問などで状況確認を行い、審査後、利用の可否を決定します。\n\n2.双子は、出産し退院した翌日から満3歳の誕生日前日まで（0歳から2歳まで年間360時間、2歳から3歳まで年間120時間）\n3.三つ子以上は、出産し退院した翌日から満4歳の誕生日の前日まで（0歳から2歳まで年間360時間、2歳から4歳まで年間120時間）\n4.午前8時～午後7時まで、1日連続して2時間（3・4時間の利用を希望する場合はご相談ください）の利用。\n5.保育園・幼稚園に入園した場合は利用できません。（但し、双子、三つ子以上は利用が可能です）",
+    "fromHM": "08:00",
+    "toHM": "19:00"
+  }
+}

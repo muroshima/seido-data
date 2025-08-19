@@ -1,0 +1,143 @@
+{
+  "area": {
+    "areaCode": "131130;渋谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "学務課学事係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020131130",
+    "psid": "psid3.0+9000020131130+1+UM71"
+  },
+  "belongings": "教育・保育支給認定兼施設等利用給付認定申請書,保育が必要な状況を証明する書類（保護者全員分）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "学務課学事係",
+    "contactPhone": "03-3463-2986",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "幼児教育の無償化について（公立幼稚園）\n幼児教育の無償化が実施されております。\n\n更新日\n\n2024年1月10日\n\n保育の必要性の認定について\n確認済みの子ども・子育て支援施設等について\n令和元年10月より、幼児教育の無償化が実施されました。公立幼稚園（臨川幼稚園・広尾幼稚園・本町幼稚園）にお通いの方の手続きについてご案内いたします。\n（注）保育園・幼保一元化施設に関することは、幼児教育の無償化について（保育）;https://www.city.shibuya.tokyo.jp/kodomo/kodomo-teate-josei/hoiku-josei/youjikyouikumusyou.htmlのページをご覧ください。\n（注）私立幼稚園等に関することは幼児教育の無償化について（私立幼稚園等）;https://www.city.shibuya.tokyo.jp/kodomo/kodomo-teate-josei/kodomo-teate/musyo_shiritsuyouchien.htmlのページをご覧ください。\n\n保育の必要性の認定について\n預かり保育及び認可外施設等を利用した際に助成の対象となるためには、保育の必要性があり、区から認定されている必要があります。施設等利用開始日までに申請をしてください。手続きの詳細については次の案内をご覧ください。\n\n幼児教育無償化に伴う保育の必要性の認定手続きについて（PDF 639KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/48a90083d2e9475284f5afca541b8416/youjikyouikunomusyouka_kourituyoutien1.pdf\n確認済みの子ども・子育て支援施設等について\n特定子ども・子育て支援施設一覧（区立幼稚園）（PDF 45KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/e3b080727b5a4fb2bb35f5b8cf05c2fc/youjikyouikunomusyouka_kourituyoutien2.pdf\n（注）認可外施設等の確認済み施設については、幼児教育の無償化について（保育）;https://www.city.shibuya.tokyo.jp/kodomo/kodomo-teate-josei/hoiku-josei/youjikyouikumusyou.htmlのページをご覧ください。\n\nPDFファイルを見るには、Adobe社から無償配布されている Adobe Reader などのソフトウェアが必要です。\n詳しくは、PDFファイルをご覧になるにはのページを参照してください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子どものための教育・保育給付認定（1号・2号・3号）",
+    "shortName": "幼児教育の無償化について（公立幼稚園）"
+  },
+  "localGovernmentLink": {
+    "title": "幼児教育の無償化について（公立幼稚園）",
+    "uri": "https://www.city.shibuya.tokyo.jp/kodomo/gakko-kyoiku/shugakumae/page_em_00015.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "渋谷区"
+  },
+  "procedureCounter": "学務課学事係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "預かり保育及び認可外施設等を利用した際に助成の対象となるためには、保育の必要性があり、区から認定されている必要があります。施設等利用開始日までに申請をしてください。手続きの詳細については次の案内をご覧ください。\n\n幼児教育無償化に伴う保育の必要性の認定手続きについて（PDF 639KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/48a90083d2e9475284f5afca541b8416/youjikyouikunomusyouka_kourituyoutien1.pdf",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第19条（支給要件）・第20条（市町村の認定等）",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "幼児教育の無償化について（保育）",
+      "uri": "https://www.city.shibuya.tokyo.jp/kodomo/kodomo-teate-josei/hoiku-josei/youjikyouikumusyou.html"
+    },
+    {
+      "title": "幼児教育無償化に伴う保育の必要性の認定手続きについて（PDF 639KB）",
+      "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/48a90083d2e9475284f5afca541b8416/youjikyouikunomusyouka_kourituyoutien1.pdf"
+    },
+    {
+      "title": "幼児教育の無償化について（私立幼稚園等）",
+      "uri": "https://www.city.shibuya.tokyo.jp/kodomo/kodomo-teate-josei/kodomo-teate/musyo_shiritsuyouchien.html"
+    },
+    {
+      "title": "幼児教育の無償化について（保育）",
+      "uri": "https://www.city.shibuya.tokyo.jp/kodomo/kodomo-teate-josei/hoiku-josei/youjikyouikumusyou.html"
+    },
+    {
+      "title": "特定子ども・子育て支援施設一覧（区立幼稚園）（PDF 45KB）",
+      "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/e3b080727b5a4fb2bb35f5b8cf05c2fc/youjikyouikunomusyouka_kourituyoutien2.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子ども・子育て支援新制度による給付を受ける幼稚園や認可保育園、認定こども園、地域型保育事業（小規模保育・家庭的保育・居宅訪問型保育・事業所内保育）を利用するには、お子さんの年齢や保育の必要性の有無、保育の必要量に応じた認定を受ける必要があります。\n\nまた、企業主導型保育（地域枠）については、お住まいの自治体から教育・保育給付認定を受けることで、「幼児教育・保育の無償化」による助成を受けることができます。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "公立幼稚園（臨川幼稚園・広尾幼稚園・本町幼稚園）にお通いの方"
+  },
+  "updateDate": "2024-01-10",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

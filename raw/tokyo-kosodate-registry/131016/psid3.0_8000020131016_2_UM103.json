@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "千代田保健所保健サービス課保健相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+2+UM103"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区九段北1-2-14",
+    "contactComment": null,
+    "contactEmail": "hokensoudan@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "千代田保健所保健サービス課保健相談係",
+    "contactPhone": "03-5211-8175",
+    "contactUrl": null,
+    "zipCode": "1020073"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "いつでも気軽に参加することができるよう、動画を見て学べる講座と、アレルギー専門医・環境衛生監視員によるWEB講座を開催しています。みなさま、ぜひご参加ください。\n\n動画講座\n気管支喘息編\n「気管支喘息とは」「気管支喘息の診断」「治療の基本」についてお話しています。\n\n再生時間は15分程度です。\nhttps://youtu.be/3iZ352FhJxg\n\n（注意） この動画の内容は収録時点（令和6年2月14日）での情報となりますのでご注意ください。治療は自己判断せず、医師と相談の上進めてください。\n\nアトピー性皮膚炎編\n「アトピー性皮膚炎とは」「アトピー性皮膚炎の診断」「治療の基本」についてお話しています。\n\n再生時間は15分程度です。\nhttps://youtu.be/jhz4DwOYcmI\n\n（注意） この動画の内容は収録時点（令和6年2月14日）での情報となりますのでご注意ください。治療は自己判断せず、医師と相談の上進めてください。\n\n食物アレルギー編\n「食物アレルギーとは」「食物アレルギーの診断方法」「食物アレルギーの管理」「経口免疫療法」についてお話しています。\n\n再生時間は20分程度です。\nhttps://youtu.be/ody1THuDGQs\n\n（注意） この動画の内容は収録時点（令和6年2月14日）での情報となりますのでご注意ください。治療は自己判断せず、医師と相談の上進めてください。\n\nWEB講座\nアレルギー疾患の正しい知識を得ていただくために、アレルギー専門医、環境衛生監視員によるWeb講演を行います。\n\n（注意） 令和5年度のアレルギー予防教室は終了しました。令和6年度の開催日等は未定です。\n\n・令和5年度アレルギー予防教室ちらし（PDF：198KB）;https://www.city.chiyoda.lg.jp/documents/28502/chirashi_1.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関する教室・講習会",
+    "shortName": "アレルギー予防教室"
+  },
+  "localGovernmentLink": {
+    "title": "アレルギー予防教室",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/allergy-yobo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第９条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "令和5年度アレルギー予防教室ちらし（PDF：198KB）",
+      "uri": "https://www.city.chiyoda.lg.jp/documents/28502/chirashi_1.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "お子さんのアレルギーに関する正しい知識を得ていただくために、アレルギー予防教室を開催しています。\n\n",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住・在学・在園の乳幼児～中学生の保護者、妊婦"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

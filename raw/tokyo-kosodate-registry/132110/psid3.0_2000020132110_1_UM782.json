@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "小平市子ども家庭支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+1+UM782"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市小川東町4-2-1小平元気村おがわ東2F",
+    "contactComment": "FAX 042-348-2101",
+    "contactEmail": "kodomokatei_kodaira@unchusha.com",
+    "contactEx": null,
+    "contactName": "小平市子ども家庭支援センター",
+    "contactPhone": "042-348-2100",
+    "contactUrl": null,
+    "zipCode": "1870031"
+  },
+  "cost": null,
+  "costConditions": "|利用区分|利用時間|利用料金|\n|:----|:----|:----|\n|日帰り|午前10時～午後8時|1日3,000円|\n|宿泊|午前10時～翌日午前10時|1泊5,100円|",
+  "description": "子どもショートステイ\n保護者の疾病・出産等により家庭において保育ができないお子さんを一時的に市が指定する施設で養育します。\n\n対象\n市内に居住する2歳から中学3年生までのお子さん\n\n利用要件\nお問い合わせください。\n\n利用期間\n1回あたり7日以内です。ただし、利用終了後、引き続き同じ利用要件での再利用はできません。\n\n実施施設\n社会福祉法人　東京サレジオ学園（住所：上水南町4-7-1）\n\n利用区分・利用料金\n|利用区分|利用時間|利用料金|\n|:----|:----|:----|\n|日帰り|午前10時～午後8時|1日3,000円|\n|宿泊|午前10時～翌日午前10時|1泊5,100円|\n\n留意事項\n生活保護世帯、市民税非課税世帯及びひとり親家庭の医療費助成を受けている世帯は、減免制度があります。\n利用料金には、食事代が含まれます。\n12月30日から1月3日までは、利用できません。\n利用開始の前日午後5時以降に利用を取りやめた場合は、キャンセル料がかかります。\n定員を超えた場合、お子さんが感染症の病気の場合は、利用できませんのでご了承ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "12月30日から1月3日まで",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "上水南町4-7-1",
+    "implementationName": "社会福祉法人　東京サレジオ学園"
+  },
+  "institutionName": {
+    "canonicalName": "ショートステイ（短期入所生活援助事業）",
+    "shortName": "子どもショートステイ"
+  },
+  "localGovernmentLink": {
+    "title": "子どもショートステイ",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/049/049321.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "小平市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "お問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第3項、第21条の9、第59条第6号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者が入院や通院、出張などの理由で、一時的に家庭でお子さんの面倒をみられなくなったときに、お近くの児童養護施設、乳児院、母子生活支援施設で、宿泊を伴ってお子さんをお預かりします。",
+  "support": {
+    "description": "保護者の疾病・出産等により家庭において保育ができないお子さんを一時的に市が指定する施設で養育",
+    "materiallySupport": "保護者の疾病・出産等により家庭において保育ができないお子さんを一時的に市が指定する施設で養育",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "2歳から中学3年生まで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "市内に居住する2歳から中学3年生までのお子さん"
+  },
+  "updateDate": "2018-08-13",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "|利用区分|利用時間|利用料金|\n|:----|:----|:----|\n|日帰り|午前10時～午後8時|1日3,000円|\n|宿泊|午前10時～翌日午前10時|1泊5,100円|",
+    "fromHM": null,
+    "toHM": null
+  }
+}

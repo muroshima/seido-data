@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132063;府中市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": null,
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132063",
+    "psid": "psid3.0+8000020132063+1+UM93"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子育て\n地域型保育事業所（家庭的保育事業所・小規模保育事業所・事業所内保育事業所）\n対象児童\n0歳児から2歳児\n注記：家庭的保育事業・小規模保育事業・事業所内保育事業（地域枠のみ）に入所した児童は、2歳児クラス修了後に連携施設に繰り上がります。詳しくは地域型保育事業【家庭的保育事業・小規模保育事業】について;https://www.city.fuchu.tokyo.jp/kosodate/shussan/hoikujo/kateiteki_hoiku.html、地域型保育事業【事業所内保育事業】について;https://www.city.fuchu.tokyo.jp/kosodate/shussan/hoikujo/chiikigata.htmlをご覧ください。\n家庭的保育事業所\nhttps://www.city.fuchu.tokyo.jp/shisetu/kosodate/index.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "家庭的保育（保育ママ）一覧",
+    "shortName": "家庭的保育事業所"
+  },
+  "localGovernmentLink": {
+    "title": "子育て",
+    "uri": "https://www.city.fuchu.tokyo.jp/shisetu/kosodate/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-11",
+    "updater": "府中市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第二章 家庭的保育事業",
+    "regulationName": "家庭的保育事業等の設備及び運営に関する基準"
+  },
+  "relatedLink": [
+    {
+      "title": "地域型保育事業【家庭的保育事業・小規模保育事業】について",
+      "uri": "https://www.city.fuchu.tokyo.jp/kosodate/shussan/hoikujo/kateiteki_hoiku.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "市区町村の認可事業として行われる家庭的保育（保育ママ）は、3歳未満の保育が必要なお子さんを、少人数（定員5人以下）で、府中市が認定した家庭的保育者の自宅などで預かるサービスです。家庭的な雰囲気の中できめ細かな保育を実施します。",
+  "support": {
+    "description": "https://www.city.fuchu.tokyo.jp/shisetu/kosodate/index.html",
+    "materiallySupport": "https://www.city.fuchu.tokyo.jp/shisetu/kosodate/index.html",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

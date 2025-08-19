@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭部 こども家庭センター母子保健担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+1+UM14"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市学園東町1-19-12　健康センター1階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭部 こども家庭センター母子保健担当",
+    "contactPhone": "電話：042-346-3701",
+    "contactUrl": null,
+    "zipCode": "1870043"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "新生児・産婦訪問\n印刷する\n\nツイートする;http://twitter.com/share?url=https%3A%2F%2Fwww.city.kodaira.tokyo.jp%2Fkurashi%2F006%2F006110.html&text=%E6%96%B0%E7%94%9F%E5%85%90%E3%83%BB%E7%94%A3%E5%A9%A6%E8%A8%AA%E5%95%8F%7c%E5%B0%8F%E5%B9%B3%E5%B8%82\nFacebookでシェアする;http://www.facebook.com/share.php?u=https%3A%2F%2Fwww.city.kodaira.tokyo.jp%2Fkurashi%2F006%2F006110.html\nLINEで送る;http://line.me/R/msg/text/?https%3A%2F%2Fwww.city.kodaira.tokyo.jp%2Fkurashi%2F006%2F006110.html\n出産された全員の方に助産師や保健師が訪問しています。\n\n新生児・産婦訪問\n小平市こども家庭センターでは赤ちゃんやお母さんの健康のために、出産された全員の方に保健師や助産師が訪問しています。\n\n 訪問では、赤ちゃんの体重測定、育児の相談、お母さんの健康についての相談などができます。\n\n訪問者\n保健師や助産師が訪問します。（小平市職員証や訪問指導員証を携帯しています。）\n\n添付ファイル",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+    "shortName": "新生児・産婦訪問"
+  },
+  "localGovernmentLink": {
+    "title": "新生児・産婦訪問",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/006/006110.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/12",
+    "updater": "小平市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請方法\n母子健康手帳交付時にお渡ししている「母と子の保健バッグ」に同封しているお誕生連絡票（出生通知票）を出産後1か月以内に同封の返信用封筒でこども家庭センター（健康センター内）まで郵送してください。（封筒の差出有効期間を経過しても、そのまま使用できますので、切手を貼らずに投函してください。）\n\n（注）紛失した場合には下の添付ファイル「お誕生連絡票」をプリントアウトしてお使いください。",
+  "procedurePeriod": {
+    "conditions": "出産後1か月以内",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第21条の10の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "生後4か月を迎えるまでの乳児がいるご家庭に保健師や助産師の専門職が訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": 4
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象者\n生後4か月に達する日までの全ての方"
+  },
+  "updateDate": "2024/04/16",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

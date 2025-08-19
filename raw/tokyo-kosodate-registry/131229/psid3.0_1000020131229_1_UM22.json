@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て応援課　子育て応援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+1+UM22"
+  },
+  "belongings": "「本人確認書類（運転免許証、パスポートなど）」及び「申請者名義の普通預金通帳」又は「キャッシュカード」",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区立石5-13-1 葛飾区役所4階 401番子育て支援窓口",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て応援課　子育て応援係",
+    "contactPhone": "03-5654-6357",
+    "contactUrl": null,
+    "zipCode": "1248555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": true,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関する金銭的支援",
+    "shortName": "かつしか出産応援給付金"
+  },
+  "localGovernmentLink": {
+    "title": "かつしか出産応援給付金について",
+    "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1031538.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "出生した児童の「児童手当の認定請求をするとき」又は「出生した児童の乳幼児医療証の交付申請をするとき」と同時に、同一書式により本給付金の申請をお受けします。\n本給付金申請の際は「本人確認書類（運転免許証、パスポートなど）」及び「申請者名義の普通預金通帳」又は「キャッシュカード」が必要となります。\n\n（注釈1）\n　郵送申請の場合は、「本人確認書類」及び「申請者名義の普通預金通帳」又は「キャッシュカード」のコピーを添付してください。\n（注釈2）\n　児童手当の額改定申請の場合、通常は申請書への振込口座の記入は不要ですが、児童手当の額改定申請と併せて本給付金を申請する場合は、申請書に本給付金の振込口座の情報を記入していただきます。（児童手当の受取口座と同一の口座情報を記入いただいても問題ありません。）\n　（注釈3）\n　本給付金は、公金受取口座登録制度を利用することができないため、申請書に本給付金の振込口座の情報を記入していただきます。（公金受取口座と同一の口座情報を記入いただいても問題ありません。）\n\n申請期限は、出生または転入により支給対象者となった日から起算して1年以内です。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "子ども医療費助成（乳幼児医療証、子ども医療証、高校生等医療証）",
+      "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1002336/1002421.html"
+    },
+    {
+      "title": "児童手当",
+      "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1002336/1002411.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子どもを産み育てる子育て世帯を応援するために、児童を養育する方に対して「かつしか出産応援給付金」を支給します。",
+  "support": {
+    "description": "対象児童を養育する方に対し、所得制限なしで給付金を支給します。\n対象児童一人当たり一律5万円（1回に限ります。）",
+    "materiallySupport": null,
+    "monetarySupport": "対象児童一人当たり一律5万円（1回に限ります。）"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "1歳の誕生日の前日までに区民となっている方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "1歳の誕生日の前日までに区民となっている方が対象児童となります。"
+  },
+  "updateDate": "2023-03-20",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

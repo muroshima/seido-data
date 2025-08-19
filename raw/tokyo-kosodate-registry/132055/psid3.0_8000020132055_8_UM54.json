@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132055;青梅市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センター管理係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132055",
+    "psid": "psid3.0+8000020132055+8+UM54"
+  },
+  "belongings": "母子健康手帳・予診票",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭センター管理係",
+    "contactPhone": "0428-23-2191",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "MR（麻しん・風しん）\n病気の概要（麻しん）\n麻しんは麻しんウイルスによって引き起こされる急性の全身感染症として知られています。\n麻しんウイルスの感染経路は、空気感染、飛沫感染、接触感染で、その感染力は非常に強いと言われています。免疫を持っていない人が感染するとほぼ100％発症し、一度感染して発症すると一生免疫が持続すると言われています。また、麻しんウイルスは、ヒトからヒトへ感染すると言われています。\n感染すると約10日後に発熱や咳、鼻水といった風邪のような症状が現れます。2～3日熱が続いた後、39℃以上の高熱と発疹が出現します。肺炎、中耳炎を合併しやすく、患者1000人に1人の割合で脳炎が発症すると言われています。死亡する割合も、先進国であっても1000人に1人と言われています。\n近年はワクチンの2回接種が行われ、麻しんに感染する方の人数は減っています。（引用元：厚生労働省ホームページ）\n\n病気の概要（風しん）\n風疹ウイルスによっておこる急性の発疹性感染症で、流行は春先から初夏にかけて多くみられます。潜伏期間は2～3週間（平均16～18日）で、主な症状として発疹、発熱、リンパ節の腫れが認められます。ウイルスに感染しても明らかな症状がでることがないまま免疫ができてしまう（不顕性感染）人が15～30％程度いるようです。一度かかると、大部分の人は生涯風疹にかかることはありません。従来、集団生活にはいる1～9歳ころ（1～4歳児と小学校の低学年）に多く発生をみていましたが、近年は多くが成人男性となっています。風疹ウイルスは患者さんの飛まつ（唾液のしぶき）などによってほかの人にうつります。発疹のでる2～3日まえから発疹がでたあとの5日くらいまでの患者さんは感染力があると考えられています。感染力は、麻疹（はしか）や水痘（水ぼうそう）ほどは強くありません。\n風疹の症状は子どもでは比較的軽いのですが、まれに脳炎、血小板減少性紫斑病などの合併症が、2,000人から5,000人に一人くらいの割合で発生することがあります。その点では軽視できない病気です。また、大人がかかると、発熱や発疹の期間が子どもに比べて長く、関節痛がひどいことが多いとされています。一週間以上仕事を休まなければならない場合もあります。（引用元：国立感染症研究所ホームページ）\n\nワクチン接種スケジュールと予診票の通知時期\n第1期\n接種スケジュール\n1歳から2歳に至るまでの間に1回接種してください。\n予診票の通知時期\n1歳の誕生月までに1枚の予診票を通知します。\n\n第2期\n接種スケジュール\n小学校入学前の1年間に1回接種してください。\n予診票の通知時期\n小学校入学の前の年の4月に1枚の予診票を通知します。\n\n関連リンク\n麻しん・風しん-厚生労働省;http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/kekkaku-kansenshou21/index.html＜外部リンク＞",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "https://www.city.ome.tokyo.jp/uploaded/attachment/49792.pdf",
+    "implementationName": "https://www.city.ome.tokyo.jp/uploaded/attachment/49792.pdf"
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "MR（麻しん・風しん） 第1期"
+  },
+  "localGovernmentLink": {
+    "title": "MR（麻しん・風しん）",
+    "uri": "https://www.city.ome.tokyo.jp/soshiki/74/66950.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-12",
+    "updater": "青梅市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "青梅市が発行する予診票、母子健康手帳を持って市内協力医療機関で接種",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）",
+    "regulationName": "予防接種法"
+  },
+  "relatedLink": [
+    {
+      "title": "麻しん・風しん-厚生労働省＜外部リンク＞",
+      "uri": "http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/kekkaku-kansenshou21/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+  "support": {
+    "description": "病気の概要（麻しん）\n麻しんは麻しんウイルスによって引き起こされる急性の全身感染症として知られています。\n麻しんウイルスの感染経路は、空気感染、飛沫感染、接触感染で、その感染力は非常に強いと言われています。免疫を持っていない人が感染するとほぼ100％発症し、一度感染して発症すると一生免疫が持続すると言われています。また、麻しんウイルスは、ヒトからヒトへ感染すると言われています。\n感染すると約10日後に発熱や咳、鼻水といった風邪のような症状が現れます。2～3日熱が続いた後、39℃以上の高熱と発疹が出現します。肺炎、中耳炎を合併しやすく、患者1000人に1人の割合で脳炎が発症すると言われています。死亡する割合も、先進国であっても1000人に1人と言われています。\n近年はワクチンの2回接種が行われ、麻しんに感染する方の人数は減っています。（引用元：厚生労働省ホームページ）\n\n病気の概要（風しん）\n風疹ウイルスによっておこる急性の発疹性感染症で、流行は春先から初夏にかけて多くみられます。潜伏期間は2～3週間（平均16～18日）で、主な症状として発疹、発熱、リンパ節の腫れが認められます。ウイルスに感染しても明らかな症状がでることがないまま免疫ができてしまう（不顕性感染）人が15～30％程度いるようです。一度かかると、大部分の人は生涯風疹にかかることはありません。従来、集団生活にはいる1～9歳ころ（1～4歳児と小学校の低学年）に多く発生をみていましたが、近年は多くが成人男性となっています。風疹ウイルスは患者さんの飛まつ（唾液のしぶき）などによってほかの人にうつります。発疹のでる2～3日まえから発疹がでたあとの5日くらいまでの患者さんは感染力があると考えられています。感染力は、麻疹（はしか）や水痘（水ぼうそう）ほどは強くありません。\n風疹の症状は子どもでは比較的軽いのですが、まれに脳炎、血小板減少性紫斑病などの合併症が、2,000人から5,000人に一人くらいの割合で発生することがあります。その点では軽視できない病気です。また、大人がかかると、発熱や発疹の期間が子どもに比べて長く、関節痛がひどいことが多いとされています。一週間以上仕事を休まなければならない場合もあります。（引用元：国立感染症研究所ホームページ）\n\nワクチン接種スケジュールと予診票の通知時期\n第1期\n接種スケジュール\n1歳から2歳に至るまでの間に1回接種してください。\n予診票の通知時期\n1歳の誕生月までに1枚の予診票を通知します。\n\n第2期\n接種スケジュール\n小学校入学前の1年間に1回接種してください。\n予診票の通知時期\n小学校入学の前の年の4月に1枚の予診票を通知します。",
+    "materiallySupport": "予防接種",
+    "monetarySupport": "接種回数：第1期1回"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "1歳から2歳に至るまでの間",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "1歳から2歳に至るまでの間に1回接種してください。"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "第1期\n予診票の通知時期\n1歳の誕生月までに1枚の予診票を通知します。\n\n第2期\n予診票の通知時期\n小学校入学の前の年の4月に1枚の予診票を通知します。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

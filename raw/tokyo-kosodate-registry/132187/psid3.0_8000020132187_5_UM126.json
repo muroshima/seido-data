@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132187;福生市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会教育部　学務課　学務・給食係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132187",
+    "psid": "psid3.0+8000020132187+5+UM126"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都福生市本町5（学務）,東京都福生市熊川1606-1（防災食育センター）",
+    "contactComment": "042-551-1948（学務）,042-551-8351（防災食育センター）",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "教育委員会教育部　学務課　学務・給食係",
+    "contactPhone": "042-551-1948,042-551-8351",
+    "contactUrl": null,
+    "zipCode": "1978501,1970003"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "就学援助費等を受けられる目安となる年間所得額については「援助を受けられる所得の目安の参考例」に記載してありますが、その目安を上回る所得の方でも、特別支援学級（通級指導学級・特別支援教室を除く）に通学する児童・生徒を監護されている保護者の方の経済的負担を軽減するために、必要な経費を援助する制度です。申請書様式は就学援助申請書をご利用ください。\n\n特別支援教育就学奨励費について （PDF 101.0KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/001/430/syoureihi2024.pdf\n【English】特別支援教育就学奨励費について （PDF 195.7KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/001/430/syoureihi_eng2024.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "小学校・中学校の就学援助費",
+    "shortName": "特別支援教育就学奨励制度"
+  },
+  "localGovernmentLink": {
+    "title": "就学援助・特別支援教育就学奨励制度",
+    "uri": "https://www.city.fussa.tokyo.jp/education/education/jyosei/1001430.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "福生市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第19条",
+    "regulationName": "学校教育法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "経済的な理由により就学が困難と認められる、公立の小学校・中学校に通学する児童・生徒の保護者を対象に、学用品費、修学旅行費、給食費などを支給します。",
+  "support": {
+    "description": "就学援助費等を受けられる目安となる年間所得額については「援助を受けられる所得の目安の参考例」に記載してありますが、その目安を上回る所得の方でも、特別支援学級（通級指導学級・特別支援教室を除く）に通学する児童・生徒を監護されている保護者の方の経済的負担を軽減するために、必要な経費を援助する制度です。",
+    "materiallySupport": null,
+    "monetarySupport": "経費を援助"
+  },
+  "tag": {
+    "categoryCode": [
+      "005"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "092"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "特別支援学級（通級指導学級・特別支援教室を除く）に通学する児童・生徒を監護されている保護者の方"
+  },
+  "updateDate": "2024-05-13",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

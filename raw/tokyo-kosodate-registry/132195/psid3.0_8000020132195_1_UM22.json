@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132195;狛江市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子ども家庭課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132195",
+    "psid": "psid3.0+8000020132195+1+UM22"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子ども家庭課母子保健係（あいとぴあセンター）",
+    "contactPhone": "03-5761-9200,03-5761-7990",
+    "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,132750,html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "初回産科受診費用助成金\n狛江市では、低所得世帯の方が、令和5年4月1日以降に妊娠判定のため、医療機関を受診した費用（初回産科受診費用）の一部を助成します。\n初回の産科受診費用だけではなく、妊娠・出産には様々なご心配があるかと思います。まずは、子ども家庭課母子保健係保健師へご相談ください。\n\n対象\n妊娠判定のため、医療機関を受診した日に狛江市に狛江市に住所を有する女性で、生活保護世帯、中国残留邦人等支援世帯、住民税非課税世帯の方\n\n助成対象費用\n国内の医療機関で、令和5年4月1日以降に受診した妊娠判定に要する診察、尿検査、超音波検査（受診した医療機関が必要と判断した場合に限る）の初回受診費用\n\n助成額（上限額）\n1回の受診につき、10,000円を上限額として、1年度内に2回まで。\n\n※ただし、実際に支払った妊娠判定に係る受診費用と上限額を比較して、低い金額が助成額となります。\n\n手続きについて\n償還払いになります。\n申請は、子ども家庭課母子保健係窓口か専用フォームからの電子申請となります。\n\n申請に必要なもの\n妊娠判定に要した受診費用が分かる領収書（妊婦氏名、受診日、医療機関名等が記入されたもの）\n世帯の所得状況が分かる書類（生活保護受給証明書、課税証明等）\n申請\n申請専用フォーム（外部リンク）;https://logoform.jp/form/SuTL/279213\n\n※窓口で申請される方は、狛江市初回産科受診費用助成金交付申請書 [54KB pdfファイル];https://www.city.komae.tokyo.jp/index.cfm/43,128420,c,html/128420/20230627-174504.pdfもご記入ください（子ども家庭課窓口でも備えてあります）。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "申請専用フォーム（外部リンク）",
+      "uri": "https://logoform.jp/form/SuTL/279213"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関する金銭的支援",
+    "shortName": "初回産科受診費用助成金"
+  },
+  "localGovernmentLink": {
+    "title": "初回産科受診費用助成金",
+    "uri": "https://www.city.komae.tokyo.jp/index.cfm/43,128420,330,html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "狛江市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "償還払いになります。\n申請は、子ども家庭課母子保健係窓口か専用フォームからの電子申請となります。\n\n申請に必要なもの\n妊娠判定に要した受診費用が分かる領収書（妊婦氏名、受診日、医療機関名等が記入されたもの）\n世帯の所得状況が分かる書類（生活保護受給証明書、課税証明等）",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第２条、第3条、第６条、第７条",
+    "regulationName": "狛江市初回産科受診費用助成金交付要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "低所得世帯の方が、妊娠判定のために産科を受診した際の費用を助成します。",
+  "support": {
+    "description": "助成対象費用\n国内の医療機関で、令和5年4月1日以降に受診した妊娠判定に要する診察、尿検査、超音波検査（受診した医療機関が必要と判断した場合に限る）の初回受診費用\n\n助成額（上限額）\n1回の受診につき、10,000円を上限額として、1年度内に2回まで。\n\n※ただし、実際に支払った妊娠判定に係る受診費用と上限額を比較して、低い金額が助成額となります。",
+    "materiallySupport": null,
+    "monetarySupport": "助成対象費用\n国内の医療機関で、令和5年4月1日以降に受診した妊娠判定に要する診察、尿検査、超音波検査（受診した医療機関が必要と判断した場合に限る）の初回受診費用\n\n助成額（上限額）\n1回の受診につき、10,000円を上限額として、1年度内に2回まで。\n\n※ただし、実際に支払った妊娠判定に係る受診費用と上限額を比較して、低い金額が助成額となります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊娠判定のため、医療機関を受診した日に狛江市に狛江市に住所を有する女性で、生活保護世帯、中国残留邦人等支援世帯、住民税非課税世帯の方"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

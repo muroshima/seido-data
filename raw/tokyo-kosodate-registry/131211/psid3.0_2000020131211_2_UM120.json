@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131211;足立区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部障がい福祉課障がい給付係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020131211",
+    "psid": "psid3.0+2000020131211+2+UM120"
+  },
+  "belongings": "申請書および注文票",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "足立区中央本町一丁目17番1号　",
+    "contactComment": null,
+    "contactEmail": "s-fukusi@city.adachi.tokyo.jp",
+    "contactEx": null,
+    "contactName": "福祉部障がい福祉課障がい給付係",
+    "contactPhone": "03-3880-5472",
+    "contactUrl": "https://www.city.adachi.tokyo.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": "1208510"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "紙おむつの支給\n\n重度心身障がい等のために、常時失禁状態にある障がい者（児）に対して、紙おむつを支給または費用を助成します。\n対象\n\n生活保護を受給していない方で、次のいずれかに該当する方\n\n重度心身障害者手当（都手当）を受給している方\n特別障害者手当・障害児福祉手当（国手当）を受給している方（所得超過により支給停止されている方を含みます。）\n\n給付内容\n現物支給\n\n区が指定したカタログ掲載品の中から希望の商品を選択することができます。\n各製品には点数がついており、一ヶ月当たりの上限ポイント60点の範囲内で注文できます。\n費用助成\n\n助成金額：月額6,000円以内\n\n支給申請をして認定された方のうち、病院などへ入院等(介護療養型医療施設、介護医療院への入院は対象外)で紙おむつの持ち込みができない場合に限り、月額6,000円を限度に紙おむつ代を助成します。費用助成の申請をして認定された翌月分からが対象となります。助成金の支払いには、毎年3月、7月、11月に高齢者地域包括ケア推進課窓口にて請求の手続きが必要です。\n支給制限\n\n介護保険施設（特別養護老人ホーム（介護老人福祉施設）・介護老人保健施設・介護療養型医療施設・介護医療院）に入所中の方\n生活保護を受給中の方\n\n申請書・注文票\n\n障がい者紙おむつ申請書（PDF：214KB）\n障がい者紙おむつ注文票（小人用）（PDF：174KB）\n障がい者紙おむつ注文票（大人用）（PDF：184KB）\n障がい者紙おむつカタログ（小人用）（PDF：361KB）\n障がい者紙おむつカタログ（大人用）（PDF：1,231KB）\n\n申請場所\n\n高齢者地域包括ケア推進課在宅支援係 （足立区役所北館１階）\n\n足立福祉事務所各課の総合相談窓口",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関するその他のこと",
+    "shortName": "紙おむつの支給"
+  },
+  "localGovernmentLink": {
+    "title": "紙おむつの支給",
+    "uri": "https://www.city.adachi.tokyo.jp/shogai/fukushi-kenko/shinshin/techo-nichijo-omutsu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-18",
+    "updater": "足立区"
+  },
+  "procedureCounter": "高齢者地域包括ケア推進課在宅支援係 （足立区役所北館１階）または足立福祉事務所各課の総合相談窓口",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請書および注文票を提出",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "申請者および申請代行者",
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "足立区紙おむつ等支給事業実施要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "重度心身障がい等のために、常時失禁状態にある障がい者（児）に対して、紙おむつを支給または費用を助成します。",
+  "support": {
+    "description": "重度心身障がい等のために、常時失禁状態にある障がい者（児）に対して、紙おむつを支給または費用を助成します。",
+    "materiallySupport": "現物支給\n\n区が指定したカタログ掲載品の中から希望の商品を選択することができます。\n各製品には点数がついており、一ヶ月当たりの上限ポイント60点の範囲内で注文できます。",
+    "monetarySupport": "費用助成\n\n助成金額：月額6,000円以内"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生活保護を受給していない方で、次のいずれかに該当する方\n\n重度心身障害者手当（都手当）を受給している方\n特別障害者手当・障害児福祉手当（国手当）を受給している方（所得超過により支給停止されている方を含みます。）"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

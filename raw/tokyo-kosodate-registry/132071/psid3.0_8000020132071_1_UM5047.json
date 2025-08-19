@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132071;昭島市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子ども育成支援課 保育所幼稚園係（1階17番窓口）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132071",
+    "psid": "psid3.0+8000020132071+1+UM5047"
+  },
+  "belongings": null,
+  "capacity": "受け入れ施設の状況や医療的ケア児の様態により、受け入れ人数は異なる",
+  "class": 1,
+  "contact": {
+    "contactAddress": "昭島市田中町1-17-1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "内線番号：2162から2165",
+    "contactName": "子ども家庭部 子ども育成支援課 保育所幼稚園係（1階17番窓口）",
+    "contactPhone": "電話番号：042-544-5111,042-544-4189（直通）",
+    "contactUrl": null,
+    "zipCode": "1968511"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "医療的ケア児の保育施設入所について\n\n医療的ケア児とは\n医療的ケア児とは、日常生活を送るうえで、経管栄養、たん吸引などの医療的な生活援助が必要なお子さんのことです。\n\n\n入所相談\n\n注）令和6年10月の改定により、受け入れ要件が緩和されました。\n保育施設の受け入れ要件、および受入れ可能な保育時間が変更になりました。\n詳細は、ガイドラインの確認または保育所幼稚園係までお問い合わせください。\n\n保育施設における医療的ケアの実施\n必須条件\n保護者の就労等の理由により、保育施設で保育を行うことが必要と認められること\n保育施設の入所について、主治医の許可があること\n受け入れ期間については、4月1日及び10月1日の入所を基本とする\n\n実施する医療的ケアの種類\n経管栄養（鼻くうに留置されている管からの栄養、胃ろう、腸ろう）\nたん吸引（口くう・鼻くう内吸引、気管切開部からの吸引・衛生管理）\n酸素療法（酸素カヌラ、酸素マスク）\n導尿（看護師による導尿や自己導尿）\nインスリン注射\nストーマ管理\n\n保育施設の受け入れ要件\n在宅生活が安定していること\n3か月の間、入退院を繰り返していないこと\n対象年齢の予防接種が完了していること\n医療的ケアにより事故や感染症が起こりにくいと主治医が判断していること\n日常的に他の児童から隔離した場での保育が必要でないこと\n\n実施施設および受け入れ人数\n指定した保育施設等\n\n受け入れ可能な保育時間\n医療的ケアを実施できる時間の範囲として、原則の範囲となります。（宿泊を伴う活動については、実施対象外です。）\nそのほかにも申込みにあたっての注意事項等がございますので、相談時にお問い合わせください。\n\n\n医療的ケア児保育園等入園に関するガイドライン（令和6年10月改定）\n医療的ケア児を受け入れるにあたり「医療的ケア児保育園等入園に関するガイドライン」が策定されました。\n注）ガイドラインは、令和6年10月に改正されました。\n\n医療的ケア児に関わる看護師および保育士の募集\n医療的ケア児を保育するため、保育施設で働く看護師および保育士を募集しています。\n\n詳しくは保育所幼稚園係にお問い合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "保育所等における医療的ケア児への支援",
+    "shortName": "医療的ケア児の保育施設入所"
+  },
+  "localGovernmentLink": {
+    "title": "医療的ケア児の保育施設入所について",
+    "uri": "https://www.city.akishima.lg.jp/s058/010/010/010/2015/170/20220926202621.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/04",
+    "updater": "昭島市"
+  },
+  "procedureCounter": "子ども家庭部 子ども育成支援課 保育所幼稚園係（1階17番窓口）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "保育施設へ入所を希望するかたの相談に応じます。必要なケアの種類などによっては、入所できない場合がありますので、必ず相談してください（申込不要／電話での相談も可）。",
+  "procedurePeriod": {
+    "conditions": "申請については、入所月の6か月前から市に相談及び手続を行うこと",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条第1項",
+    "regulationName": "医療的ケア児及びその家族に対する支援に関する法律"
+  },
+  "relatedLink": [
+    {
+      "title": "医療的ケア児保育園等入園に関するガイドライン",
+      "uri": "https://www.city.akishima.lg.jp/s058/010/010/010/2015/170/iryoutekicare_guideline_r6.10kaitei.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育所等において看護師等を配置し、医療的ケア児の受入れ体制を整備しております。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象児童\n集団生活が可能（主治医意見書等で判断）な児童"
+  },
+  "updateDate": "2024/09/30",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "1日8時間,ただし、7時～18時の間で、保護者の勤務時間（通勤時間を含む）等、保育を必要とする時間で、医療的ケアの内容や児童の容態を考慮し、看護師の確保等、保育所等における受入れ体制が整えられた場合において、保育所等と保護者の同意の上で、利用可能な時間を決定することができます。\n原則、平日（月曜日から金曜日まで）の利用となります。",
+    "fromHM": "08:30",
+    "toHM": "17:00"
+  }
+}

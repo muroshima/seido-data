@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "生活振興部区民課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM3"
+  },
+  "belongings": "1.出生届\n2.母子健康手帳（母子手帳）（出生届出済証明を記入するため）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "生活振興部区民課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e031/kuseijoho/gaiyo/soshiki/seikatsu/kumin.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "届出期間\n\n生まれた日から14日以内\n（注）生まれた日を1日目と数え、14日目までに届出してください。14日目が閉庁日（土曜日・日曜日・祝日・年末年始）の場合は、翌開庁日が届出期限となります。\n\n子の名に使える漢字\n\n常用漢字、人名用漢字、ひらがな、カタカナ\n（注）子の名に使える漢字については法務省ホームページ「子の名に使える漢字」をご覧ください。;https://www.moj.go.jp/MINJI/minji86.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出生届",
+    "shortName": "出生届"
+  },
+  "localGovernmentLink": {
+    "title": "出生届",
+    "uri": "https://www.city.edogawa.tokyo.jp/e031/kurashi/todoke/koseki/shussei.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "届出地\n\n父母の本籍地、または届出人の所在地（住所地）、あるいは出生地の区市町村\n\n届出先\n\n戸籍の届出は区民課・各事務所の戸籍住民係で受付しています。また、郵送による届出も可能です。\n戸籍の届出受付窓口；https://www.city.edogawa.tokyo.jp/e031/kurashi/todoke/koseki/madoguchi.htm\n郵送による戸籍の届出;https://www.city.edogawa.tokyo.jp/e031/kurashi/todoke/koseki/yuusoutodoke.html",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "必要なもの\n\n出生届（出生証明書欄に医師または助産師の記入・署名があるもの）\n（注）黒いボールペン・インクでご記入ください。鉛筆や消えるボールペンなどは使用不可。\n（注）届出用紙は全国共通です。通常、出産後に病院・産院等からもらえます。\n母子健康手帳（母子手帳）（出生届出済証明を記入するため）\n母子手帳がなくても届出はできます。届出時に母子手帳がない場合は、窓口で出生届出済証明書をお渡ししますので、ご自身で母子手帳に貼付してください。\n夜間休日に届出する場合は、受付窓口で届出済証明の記入ができないため、母子手帳は持参不要です。\n\nお知らせ\n令和3年9月1日より戸籍届書への押印義務が廃止され、押印は任意となりました。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "父または母\n父または母が届出できない場合は、以下の順に届出してください。\n\n(1)同居者\n(2)出産に立ち会った医師\n(3)助産師\n(4)その他の立会人\n（注）届出人は原則として子の父または母です。父母が婚姻中でない場合は母が届出人になります。\n（注）届出人が署名したあと、窓口に届書を持参するのは代理の方でも構いません。",
+  "regulation": {
+    "regulationArticle": "第49条（出生の届出）、第50条（子の名に用いる文字）、第51条（出生の届出地）、第52条（届出義務者・資格者）",
+    "regulationName": "戸籍法"
+  },
+  "relatedLink": [
+    {
+      "title": "戸籍の届出についてのよくある質問と回答",
+      "uri": "https://www.city.edogawa.tokyo.jp/e031/kurashi/todoke/koseki/yokuarusitumon.html?mode=preview"
+    },
+    {
+      "title": "子育て応援サイト（子育て世代を支援するための、お役立ち情報まとめページ）",
+      "uri": "https://www.city.edogawa.tokyo.jp/kosodate/kosodate_ouen/index.html"
+    },
+    {
+      "title": "乳児養育手当（ゼロ歳児",
+      "uri": "https://www.city.edogawa.tokyo.jp/e049/kosodate/kosodate/teateshien/youiku.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "出生届とは、生まれてきたお子さんの氏名等を戸籍に記載するための手続きです。戸籍に記載されることで、生まれてきたお子さんの親族関係が公的に証明されます。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": null,
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": null
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2022-04-13",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

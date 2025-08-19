@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "133035;瑞穂町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部 子ども家庭センター課 母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133035",
+    "psid": "psid3.0+1000020133035+1+UM34"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡瑞穂町大字石畑1970番地",
+    "contactComment": "受付時間 平日の午前8時30分から午後5時まで",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部子ども家庭センター課 母子保健係",
+    "contactPhone": "042-557-5098",
+    "contactUrl": "https://www.town.mizuho.tokyo.jp/inquiry/mailform130302.html?PAGE_NO=6716",
+    "zipCode": "1901211"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "・子育て経験者として相談に応じます\n日々の子育てで「これでいいのかな？」「他の人はどうしているんだろう？」などと思うことがありませんか？子育ての先輩としてママの話を聞いたり、子育ての経験談をお伝えしたりします。\n\n・地域の子育て情報などをお伝えします\n同じ地域で暮らす住民として、お子さんを連れて出かけられる遊び場や、便利なサービスなどを経験者としての目線でお伝えします。\n\n（注意）赤ちゃんへの直接的なお世話や家事援助、買い物支援などを提供することはできません。\n\n希望される方は、ゆりかごステーションへご連絡ください。\n\nすまいるとーくのご案内（外側）(PDF形式 461KB)\nhttps://www.town.mizuho.tokyo.jp/kosodate/002/p006716_d/fil/smile-talk_flyer_1.pdf\nすまいるとーくのご案内（内側） (PDF形式 459KB)\nhttps://www.town.mizuho.tokyo.jp/kosodate/002/p006716_d/fil/smile-talk_flyer_2.pdf\nすまいるとーくのご案内（紹介文） (PDF形式 434KB)\nhttps://www.town.mizuho.tokyo.jp/kosodate/002/p006716_d/fil/smile-talk_flyer_3.pdf\n※PDFファイルの閲覧には、Adobe Acrobat Reader DC(外部リンク)が必要です。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関するサポート",
+    "shortName": "すまいるとーく"
+  },
+  "localGovernmentLink": {
+    "title": "すまいるとーくをご利用ください",
+    "uri": "https://www.town.mizuho.tokyo.jp/kosodate/002/p006716.html"
+  },
+  "odInformation": {
+    "content": "所管部署名称を変更",
+    "updateDate": "2024-09-13",
+    "updater": "瑞穂町"
+  },
+  "procedureCounter": "ゆりかごステーション（保健センター内）の母子保健コーディネーターまでご連絡ください。\n（電話）\n042-557-5098\nhttps://www.town.mizuho.tokyo.jp/kosodate/002/p001208.html",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "ゆりかごステーション（子育て世代包括支援センター）",
+      "uri": "https://www.town.mizuho.tokyo.jp/kosodate/002/p001208.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "瑞穂町や近隣市の住民で、子育て経験があり、養成研修を受けた「母子保健サポーター」が各ご家庭を訪問し、妊婦さんや産後のママのご相談に応じるサービスです。町では、現在3人の母子保健サポーターが登録しています。",
+  "support": {
+    "description": "|利用日数|<|\n|種類|利用日数※1|\n|:----|:----|\n|妊娠中|5日まで|\n|産後12か月まで※2|5日まで|\n\n※1 双子の場合、7日まで\n※2 産後、必要に応じて2回まで申請することができます。\n1回の利用時間は概ね1時間弱です。",
+    "materiallySupport": "|利用日数|<|\n|種類|利用日数※1|\n|:----|:----|\n|妊娠中|5日まで|\n|産後12か月まで※2|5日まで|\n\n※1 双子の場合、7日まで\n※2 産後、必要に応じて2回まで申請することができます。\n1回の利用時間は概ね1時間弱です。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088",
+      "089",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "瑞穂町に住民票がある妊娠中の方、または産後6か月までの方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 6
+    },
+    "targetPersons": "瑞穂町に住民票がある妊娠中の方、または産後6か月までの方\nただし、双子などの場合は利用できる期間が延長できます。"
+  },
+  "updateDate": "2021-03-31",
+  "useConsiderationFlag": false,
+  "utilization": "1. 利用申し込み\nゆりかごステーション（保健センター内）の母子保健コーディネーターまでご連絡ください。（電話）\n042(557)5098\n\n2．ゆりかごプランの作成\n母子保健コーディネーターが家庭訪問をします。妊婦さんまたは産後のママと赤ちゃんの状況を確認し、必要なサービスのご紹介や利用方法の説明をしながら、ゆりかごプラン（支援計画）を作成します。\nゆりかごプランで、すまいるとーくのご利用が適切と確認できたら、申請に必要な書類をお渡しし、利用方法をご説明します。\n（注意）申請の後に、申請内容に変更が必要になった場合、利用を取りやめる場合は、母子保健コーディネーターにご連絡をお願いします。\n\n3．利用の決定\n申請書類がすべて提出されてから保健センターで審査を行い、利用の可否を通知します。サービスを利用する場合は、通知に同封する「利用者カード」を母子保健サポーターに提示してください。\n\nはじめて利用するとき\n訪問する母子保健サポーターをご紹介するため、母子保健コーディネーターが一緒に訪問します。\n訪問の日程は母子保健コーディネーターからご連絡し、事前にお約束させていただきます。\n\n引き続き利用するとき\n訪問の際に次回訪問の希望がはっきりしていれば、当日直接ご希望をお伝えください。\n後日電話などでご連絡いただく場合は、母子保健コーディネーターを通して日程調整をさせていただきます。\n\n4．ママと赤ちゃんのご様子の確認\nサービス利用後のご様子を確認するため、母子保健コーディネーターが電話や家庭訪問などでご様子をお聞きします。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

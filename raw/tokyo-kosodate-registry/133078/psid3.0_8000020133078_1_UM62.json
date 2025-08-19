@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "133078;檜原村\t",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "やすらぎの里 福祉けんこう課 子育て支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020133078",
+    "psid": "psid3.0+8000020133078+1+UM62"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "FAX 042-519-9789",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "やすらぎの里 福祉けんこう課 子育て支援係",
+    "contactPhone": "042-598-3122",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "障害福祉、児童福祉の事業等がまとめられた冊子を作成したのでお知らせいたします。\nまた、ホームページ以外でも下記の窓口で配布を行っております。\n・やすらぎの里（福祉けんこう課）\n・檜原村役場（村民課）\n\n檜原の障害福祉について\n檜原の障害福祉(ファイル名：syougai-r5.pdf サイズ：1.07MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf\n\n檜原の児童福祉について\n檜原の児童福祉(ファイル名：zidou-r5.pdf サイズ：1.21MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "特別児童扶養手当",
+    "shortName": "特別児童扶養手当（国制度） "
+  },
+  "localGovernmentLink": {
+    "title": "特別児童扶養手当（国制度）",
+    "uri": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/zidou-r5.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-25",
+    "updater": "檜原村"
+  },
+  "procedureCounter": "やすらぎの里 福祉けんこう課 子育て支援係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "●申請手続きに必要なもの\n①請求者および児童の戸籍謄本\n②当年度の課税証明書（所得・扶養人数・控除記載のあるもの。1月1日現在、他の区市町村に住所があった方のみ。1月から6月申請の場合は、前年度の課税証明書）\n③身体障害者手帳・愛の手帳・診断書（障害の程度により異なる）\n④世帯全員の住民票\n⑤請求者の口座番号が確認できるもの（通帳など）\n※②及び④は、公簿等で確認できる時は省略できる場合があります。\n※住所、氏名、支給制限に該当、支給要件に該当しなくなった等の各種変更の際は、届出が必要となりますので、届出をお願いいたします。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2章",
+    "regulationName": "特別児童扶養手当等の支給に関する法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "20歳未満で、法令により定められた程度の障がいの状態にある児童を監護している父母（主として児童の生計を維持するいずれか一人）または父母にかわって児童を養育（児童と同居し、監護し、生計を維持）する方に支給されます。",
+  "support": {
+    "description": "●手当額（令和4年4月～）\n特児等級 1級月額52,400円\n2級月額34,900円\n※特児障害は手当上の等級です。手帳の等級とは異なります。\n\n●受付窓口\nやすらぎの里 福祉けんこう課 福祉係 電話 598-3121 FAX 598-1263\n\n●支払方法\n原則として、4月（12月～3月分）・8月（4月～7月分）・12月（8月～11月分）に受給者の口座へまとめて振り込みます。ただし、申請した月の翌月分からの支給になります。",
+    "materiallySupport": null,
+    "monetarySupport": "●手当額（令和4年4月～）\n特児等級 1級月額52,400円\n2級月額34,900円\n※特児障害は手当上の等級です。手帳の等級とは異なります。\n\n●受付窓口\nやすらぎの里 福祉けんこう課 福祉係 電話 598-3121 FAX 598-1263\n\n●支払方法\n原則として、4月（12月～3月分）・8月（4月～7月分）・12月（8月～11月分）に受給者の口座へまとめて振り込みます。ただし、申請した月の翌月分からの支給になります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "●対象者\n次のいずれかの障害を有する20歳未満の児童を監護している父・母又は養育者\n・身体障害\nおおむね身体障害者手帳1級～3級程度（下肢障害については4級の一部を含む）\n疾患により長期にわたる安静を必要とする程度の状態にあるものなど\n・知的障害\nおおむね愛の手帳1～3度程度\n・精神障害\n上記と同程度の障害（自閉スペクトラム症等により日常生活に著しい制限を受ける方等）\n・重複障害\n複数の障害がある場合（上肢4級+下肢6級など）は、個々の障害の程度が上記より軽度でも該当となることがあります。\n\n●対象外\n①児童が施設に入所しているとき、②児童が障害を理由とする公的年金を受けているとき、③父母又は養育者及びその扶養義務者の所得が基準額以上であるときは支給されません。"
+  },
+  "updateDate": "2023-06-25",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

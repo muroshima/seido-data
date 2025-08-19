@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健所保健予防課保健予防係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+3+UM55"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健所保健予防課保健予防係",
+    "contactPhone": "042-725-5422",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "全額自己負担となります。医療機関によって費用が異なりますので、直接各医療機関にお問い合わせ下さい。",
+  "description": "このページでは、任意で受けていただける予防接種についてご紹介しています。\n\n・おたくふかぜ\nおたふくかぜの主な症状は、耳の下、頬の後ろ側、あごの下など耳下腺部または顎下腺部の腫れです。合併症では無菌性髄膜炎が最も多く、頻度は少ないですが、脳炎、膵臓炎、成人男性では精巣炎などが知られています。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "こちらでご紹介している任意予防接種が受けられる病院については、直接各医療機関にお問い合わせ下さい"
+  },
+  "institutionName": {
+    "canonicalName": "任意予防接種",
+    "shortName": "その他の任意予防接種"
+  },
+  "localGovernmentLink": {
+    "title": "その他の任意予防接種",
+    "uri": "https://kosodate-machida.tokyo.jp/mokuteki/1/10/kakusyuyobousessyu/2284.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "小児任意予防接種費助成要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。現在、定期接種以外で小学校就学前のお子さんが接種できるワクチンとしては、おたふくかぜ、インフルエンザなどがあります。このページでは、任意で受けていただける予防接種についてご紹介しています。接種するかどうかについては、かかりつけ医とご相談のうえ、保護者の判断により決めてください。「おたくふかぜ」について：おたふくかぜの主な症状は、耳の下、頬の後ろ側、あごの下など耳下腺部または顎下腺部の腫れです。合併症では無菌性髄膜炎が最も多く、頻度は少ないですが、脳炎、膵臓炎、成人男性では精巣炎などが知られています。",
+  "support": {
+    "description": "任意で受けていただける予防接種\n・おたふくかぜ",
+    "materiallySupport": "任意で受けていただける予防接種\n・おたふくかぜ",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象者記載なし"
+  },
+  "updateDate": "2020-09-01",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

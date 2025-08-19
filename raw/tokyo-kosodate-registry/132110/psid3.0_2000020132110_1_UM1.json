@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センター母子保健担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+1+UM1"
+  },
+  "belongings": "妊婦本人が届け出する場合\nマイナンバーが確認できるもの（マイナンバーカード、通知カードなど）\n妊婦の本人確認ができるもの（マイナンバーカード、運転免許証、パスポートなど）\n\n代理人が届け出する場合\n妊婦本人のマイナンバーが確認できるもの\n委任状（受付窓口にあります。ページ下からダウンロードもできます。）\n代理人の本人確認ができるもの（マイナンバーカード、運転免許証、パスポートなど）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市学園東町1-19-12　健康センター1階",
+    "contactComment": "FAX：042-346-3705",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭センター母子保健担当",
+    "contactPhone": "042-346-3701",
+    "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+    "zipCode": "1870043"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊娠届を提出された方を対象に母子健康手帳や妊婦健康診査受診票等の交付、マタニティサポート面談を行っています。\nマタニティサポート面談を受けた方には、出産応援ギフトおよび育児パッケージをお渡しします。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "こだっこWeb予約",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/8601/008601/att_0000007.png"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊娠の届出・母子健康手帳の交付",
+    "shortName": "母子健康手帳の交付"
+  },
+  "localGovernmentLink": {
+    "title": "妊娠した方は（母子健康手帳など）",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/008/008601.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "小平市"
+  },
+  "procedureCounter": "|場所|曜日|時間帯|備考|\n|:----|:----|:----|:----|健康センター|月曜日～金曜日|午前８時３０分～午後５時|マタニティサポート面談は予約優先|\n|保険年金課（市役所1階）|土曜日|午前８時３０分～午後０時１５分|母子手帳交付のみ|\n|花小金井南公民館|火曜日|午前９時～午後４時|要予約|\n|小川西町地域センター|火曜日(午前)、木曜日（午後）|午前：９時～正午、午後：１時～午後４時|要予約|",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "手続き窓口に来所",
+  "procedurePeriod": {
+    "conditions": "妊娠の確定診を受けたら早めに母子手帳をお受け取りください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "妊婦本人,代理人",
+  "regulation": {
+    "regulationArticle": "第15条（妊娠の届出）、第16条（母子健康手帳）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠がわかったら妊娠の届出をしてください。妊娠の届出をした妊婦さんに母子健康手帳を交付します。母子健康手帳は、妊娠からお子さんが小学校に入学するまでの、母と子の健康の記録です。育児、予防接種、健康診査などの際に必要となります。",
+  "support": {
+    "description": "母子健康手帳や妊婦健康診査受診票等の交付、マタニティサポート面談を行っています。",
+    "materiallySupport": "母子健康手帳や妊婦健康診査受診票等の交付、母子保健サービスの案内、妊娠・出産・子育てに関する相談を行っています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077",
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊婦の方"
+  },
+  "updateDate": "2024-05-22",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

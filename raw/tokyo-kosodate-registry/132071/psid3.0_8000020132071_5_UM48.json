@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132071;昭島市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子ども育成支援課 地域支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132071",
+    "psid": "psid3.0+8000020132071+5+UM48"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "昭島市田中町1-17-1",
+    "contactComment": "042-544-5111（内線番号：2170から2171）,042-544-4190（直通）ファックス番号：042-546-8855",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 子ども育成支援課 地域支援係",
+    "contactPhone": "042-544-4190",
+    "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000277.html",
+    "zipCode": "1968511"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "多子世帯出生祝贈呈\n子どもを生み育てやすい環境づくりの推進のため、第2子以降の出生に対し、地域特産品のお祝いを贈呈します。\n\n対象\n市内在住で第2子以降のお子さんを出生した家庭\n\n配付方法\n子ども家庭センター担当母子保健係の助産師や保健師がこんにちは赤ちゃん訪問事業;https://www.city.akishima.lg.jp/s049/010/010/040/010/20140916191458.html の際、贈呈いたします。\n\n記念品\n本藍染ガーゼハンカチ\n\n本藍染め\n\n本藍染とは？\n\n藍染めの青い色は「JAPAN BLUE」として、世界に知られるほど深く鮮やかな日本の色です。\n本藍染めは化学染料や薬品を一切使用せず、昔ながらの技法で天然の灰汁（あく）とすくもを発酵させ藍建てをし、できた藍で一枚一枚手間暇かけて染めていきます。\n藍建ての際にはきれいな水が必要となり、昭島の上質な地下水を利用し、『昭島発』の本藍染めをお届けします。\n\n藍には次のような特徴があるといわれています。\n\n肌荒れ、冷え性を防ぐ。\n防虫効果・殺菌効果。\nアトピーやあせもになりにくい。\n水虫にもなりにくい。\n赤ちゃんの肌着などに評判。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊娠・出産に関するその他のこと",
+    "shortName": "多子世帯出生祝贈呈事業"
+  },
+  "localGovernmentLink": {
+    "title": "多子世帯出生祝贈呈事業",
+    "uri": "https://www.city.akishima.lg.jp/s0585/010/010/130/020/20150625180506.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-28",
+    "updater": "昭島市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子どもを生み育てやすい環境づくりの推進のため、第2子以降の出生に対し、地域特産品のお祝いを贈呈します。",
+  "support": {
+    "description": "子どもを生み育てやすい環境づくりの推進のため、第2子以降の出生に対し、地域特産品のお祝いを贈呈します。\n記念品\n本藍染ガーゼハンカチ",
+    "materiallySupport": "子どもを生み育てやすい環境づくりの推進のため、第2子以降の出生に対し、地域特産品のお祝いを贈呈します。\n記念品\n本藍染ガーゼハンカチ",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "市内在住で第2子以降のお子さんを出生した家庭"
+  },
+  "updateDate": "2024-04-12",
+  "useConsiderationFlag": false,
+  "utilization": "配付方法\n子ども家庭センター担当母子保健係の助産師や保健師がこんにちは赤ちゃん訪問事業;https://www.city.akishima.lg.jp/s049/010/010/040/010/20140916191458.html の際、贈呈いたします。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

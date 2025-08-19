@@ -1,0 +1,133 @@
+{
+  "area": {
+    "areaCode": "132250;稲城市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども福祉部　おやこ包括支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132250",
+    "psid": "psid3.0+2000020132250+1+UM47"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "稲城市百村112番地の1（稲城市保健センター内）",
+    "contactComment": "ファクス：042-377-4944",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども福祉部　おやこ包括支援センター",
+    "contactPhone": "042-378-3434",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊婦さんオンライン面接\n更新日：2024年5月1日\n体調不良等で自宅安静や入院中の方は、専用アプリを使ってオンライン面接を受けることができます。安心して出産・子育ての準備ができるよう保健師等が面接させていただきます。産前産後の生活に関することやきょうだい児の対応についてのご相談などにお役立てください。\n面接は、月曜から金曜（年末年始・祝日を除く）午前9時から午後3時45分の間で、面接時間は30分程度です。\n\n予約の手順\nおやこ包括支援センターに電話でご相談ください。\n現在の体調や妊娠経過などについてうかがいます。\n電話相談後、下記の添付書類をおやこ包括支援センターに送ってください。\n電話相談後、オンライン面接実施が決定しましたら下記の添付書類「妊婦さん面接アンケート」と「妊娠ギフト申請書」（希望者のみ）を印刷しおやこ包括支援センターまで郵便で送ってください。（送料はお客様負担となります。なお「妊娠ギフト申請書」はロックがかかっています。電話でパスワードをお伝えします。）印刷が難しい場合はご相談ください。\n郵送先：郵便番号206－0804　東京都稲城市百村112－1　稲城市保健センター2階　おやこ包括支援センター宛て\n書類をおやこ包括支援センターで受理しましたら面接日時を決定します。\n\n1.書類をおやこ包括支援センターにて受理しましたら、電話番号070－1431－4330でご連絡します。面接日時を決定し、予約番号をお伝えします。\n2.母子手帳アプリ「梨の子いなぎ（母子モ）」内の「オンライン面接はこちらから」からシステムにメールを送信してください。その際にお伝えした面接日時と予約番号の入力が必要となります。\n3.システムからオンライン面接用URLがメール送信されます。\n4.予約日時になりましたら、URLから入室し面接を始めます。\n5.面接終了後、「育児パッケージ」と「妊娠ギフト」（申請希望者のみ）を書留にて送付いたします。\n妊婦さん面接アンケート\n妊婦さん面接アンケート（PDF：246KB）;https://www.city.inagi.tokyo.jp/kosodate/oyakohoukatsushien_center/ninshin/ninpumensetsu/online_mensetsu.files/ninpusannmennsetu.pdf\n妊娠ギフト申請書\n妊娠ギフト申請書（PDF：445KB）;https://www.city.inagi.tokyo.jp/kosodate/oyakohoukatsushien_center/ninshin/ninpumensetsu/online_mensetsu.files/ninnsinngihutosinnsei.pdf\nロックがかかっています。オンライン面接が決定しましたら電話でパスワードをお伝えします。\n母子手帳アプリ「梨の子いなぎ」\n母子手帳アプリ「梨の子いなぎ」;https://www.city.inagi.tokyo.jp/kosodate/oyakohoukatsushien_center/ninshin/boshihokennabi.html\n里帰り等により、住民登録地以外への送付を希望される場合\n里帰り等により、住民登録地以外の住所への送付を希望される場合には、送付先変更届をご提出ください。\n注釈：送付先変更届をご提出の場合は、必ず本人確認書類を添付してください。\n送付先変更届（PDF：85KB）;https://www.city.inagi.tokyo.jp/kosodate/oyakohoukatsushien_center/ninshin/ninpumensetsu/online_mensetsu.files/ikujisouhusaki.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "面接は、月曜から金曜（年末年始・祝日を除く）午前9時から午後3時45分の間で、面接時間は30分程度です。",
+    "fromHM": "09:00",
+    "fromYMD": null,
+    "toHM": "15:45",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "稲城市の妊娠・出産に関する相談",
+    "shortName": "妊婦さんオンライン面接"
+  },
+  "localGovernmentLink": {
+    "title": "妊婦さんオンライン面接",
+    "uri": "https://www.city.inagi.tokyo.jp/kosodate/oyakohoukatsushien_center/ninshin/ninpumensetsu/online_mensetsu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-03",
+    "updater": "稲城市"
+  },
+  "procedureCounter": "おやこ包括支援センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "予約の手順\nおやこ包括支援センターに電話でご相談ください。\n現在の体調や妊娠経過などについてうかがいます。\n電話相談後、下記の添付書類をおやこ包括支援センターに送ってください。\n電話相談後、オンライン面接実施が決定しましたら下記の添付書類「妊婦さん面接アンケート」と「妊娠ギフト申請書」（希望者のみ）を印刷しおやこ包括支援センターまで郵便で送ってください。（送料はお客様負担となります。なお「妊娠ギフト申請書」はロックがかかっています。電話でパスワードをお伝えします。）印刷が難しい場合はご相談ください。\n郵送先：郵便番号206－0804　東京都稲城市百村112－1　稲城市保健センター2階　おやこ包括支援センター宛て\n書類をおやこ包括支援センターで受理しましたら面接日時を決定します。\n1.書類をおやこ包括支援センターにて受理しましたら、電話番号070－1431－4330でご連絡します。面接日時を決定し、予約番号をお伝えします。\n2.母子手帳アプリ「梨の子いなぎ（母子モ）」内の「オンライン面接はこちらから」からシステムにメールを送信してください。その際にお伝えした面接日時と予約番号の入力が必要となります。\n3.システムからオンライン面接用URLがメール送信されます。\n4.予約日時になりましたら、URLから入室し面接を始めます。\n5.面接終了後、「育児パッケージ」と「妊娠ギフト」（申請希望者のみ）を書留にて送付いたします。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "妊婦さん面接アンケート（PDF：246KB）",
+      "uri": "https://www.city.inagi.tokyo.jp/kosodate/oyakohoukatsushien_center/ninshin/ninpumensetsu/online_mensetsu.files/ninpusannmennsetu.pdf"
+    },
+    {
+      "title": "母子手帳アプリ「梨の子いなぎ」",
+      "uri": "https://www.city.inagi.tokyo.jp/kosodate/oyakohoukatsushien_center/ninshin/boshihokennabi."
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "体調不良等で自宅安静や入院中の方は、専用アプリを使ってオンライン面接を受けることができます。安心して出産・子育ての準備ができるよう保健師等が面接させていただきます。産前産後の生活に関することやきょうだい児の対応についてのご相談などにお役立てください。",
+  "support": {
+    "description": "体調不良等で自宅安静や入院中の方は、専用アプリを使ってオンライン面接を受けることができます。安心して出産・子育ての準備ができるよう保健師等が面接させていただきます。産前産後の生活に関することやきょうだい児の対応についてのご相談などにお役立てください。",
+    "materiallySupport": "体調不良等で自宅安静や入院中の方は、専用アプリを使ってオンライン面接を受けることができます。安心して出産・子育ての準備ができるよう保健師等が面接させていただきます。産前産後の生活に関することやきょうだい児の対応についてのご相談などにお役立てください。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "体調不良等で自宅安静や入院中の方"
+  },
+  "updateDate": "2024-05-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

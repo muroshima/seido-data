@@ -1,0 +1,133 @@
+{
+  "area": {
+    "areaCode": "131113;大田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康づくり課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131113",
+    "psid": "psid3.0+1000020131113+2+UM5011"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "すこやか赤ちゃん訪問\n\n保健師・助産師が訪問します\n生後4か月までのすべての赤ちゃんを対象に、助産師や保健師が家庭を訪問し赤ちゃんの発育や健康状態等を確認しながら、お母さんの健康や子育ての相談をお受けします。母子保健サービスや子育て情報などもご案内します。（無料）　　\n大田区では、提出いただいた「出生通知書」（すこやか赤ちゃん訪問依頼書）をもとに、助産師・保健師が訪問を実施します。\nなお、すこやか赤ちゃん訪問の際は、携帯電話または地域健康課からご連絡差し上げます。\n\n申し込み方法\n赤ちゃんが生まれたら、母子健康手帳交付時にお渡ししている妊婦健康診査の受診票セットについているハガキ「出生通知書」（すこやか赤ちゃん訪問依頼書）をできるだけ14日以内に投函してください。\n　転入や紛失等でハガキがない場合は、お住まいを管轄する地域健康課または健康づくり課までお問合せください。\n\n大森地域健康課　03-5764-0661\n調布地域健康課　03-3726-4145\n蒲田地域健康課　03-5713-1701\n糀谷・羽田地域健康課　03-3743-4161\n健康づくり課　　　　03-5744-1661\nお住いの地域健康課管轄一覧　（PDF：667KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/shussan/sukoyaka-akachan-houmon.files/kannkatu.pdf\n\n里帰り先での訪問を希望する場合\n里帰り先での訪問を希望される場合は、お住まいを管轄する地域健康課にお問い合わせ下さい。\n\n出産・子育て応援事業について\nすこやか赤ちゃん訪問を受けた方には「子育て応援ギフト」の申請ができます。\n出産・子育て応援事業;https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/syussankosodate.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "伴走型相談支援",
+    "shortName": "すこやか赤ちゃん訪問"
+  },
+  "localGovernmentLink": {
+    "title": "すこやか赤ちゃん訪問",
+    "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/shussan/sukoyaka-akachan-houmon.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "大田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "赤ちゃんが生まれたら、母子健康手帳交付時にお渡ししている妊婦健康診査の受診票セットについているハガキ「出生通知書」（すこやか赤ちゃん訪問依頼書）をできるだけ14日以内に投函してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "別紙：伴走型相談支援及び出産・子育て応援給付金の一体的実施事業実施要綱「伴走型相談支援」（別添１）",
+    "regulationName": "伴走型相談支援及び出産・子育て応援給付金の一体的実施事業の実施について（子発1226第1号 令和4年12月26日）"
+  },
+  "relatedLink": [
+    {
+      "title": "お住いの地域健康課管轄一覧",
+      "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/shussan/sukoyaka-akachan-houmon.files/kannkatu.pdf"
+    },
+    {
+      "title": "出産・子育て応援事業",
+      "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/syussankosodate.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "すべての妊婦さんと子育て家庭が安心して出産・子育てができるように、妊娠から出産・子育てまでの一貫した「伴走型相談支援」を実施しています。",
+  "support": {
+    "description": "生後4か月までのすべての赤ちゃんを対象に、助産師や保健師が家庭を訪問し赤ちゃんの発育や健康状態等を確認しながら、お母さんの健康や子育ての相談をお受けします。母子保健サービスや子育て情報などもご案内します。",
+    "materiallySupport": "生後4か月までのすべての赤ちゃんを対象に、助産師や保健師が家庭を訪問し赤ちゃんの発育や健康状態等を確認しながら、お母さんの健康や子育ての相談をお受けします。母子保健サービスや子育て情報などもご案内します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後4か月までのすべての赤ちゃん",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 4
+    },
+    "targetPersons": "生後4か月までのすべての赤ちゃん"
+  },
+  "updateDate": "2023-11-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

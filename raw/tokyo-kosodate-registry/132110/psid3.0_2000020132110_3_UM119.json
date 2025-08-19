@@ -1,0 +1,143 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "小平市教育相談室",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+3+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市小川東町4-2-1　小平元気村おがわ東3階",
+    "contactComment": "FAX：042-343-9410",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "小平市教育相談室",
+    "contactPhone": "042-343-9411",
+    "contactUrl": null,
+    "zipCode": "1870031"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "教育相談\n教育相談室（小平元気村おがわ東内）\n幼児、小・中学生の学習・不登校・集団になじめない・気になる癖など、こどもの行動について心配なことは、教育相談室をご利用ください。\n\n電話：042-343-9411\n\n来所相談\n月曜～金曜（水曜は午後2時から、祝日は除く）午前11時～午後6時（予約制）（受付は午後5時まで）\n\n電話相談\n月曜～金曜（水曜は午後1時から、祝日は除く）午前10時30分～午後6時（受付は午後5時30分まで）\n\n東京都教育相談センター(外部リンク;https://e-sodan.metro.tokyo.lg.jp/)\n幼児から高校生相当年齢までの方の友人関係、いじめ、家族関係、学校生活、不登校の悩みや不安等、子供の性格や行動、しつけ、発達障害、自傷行為、家庭内暴力、不登校等、高校への進級・進路などに関する相談を、原則、都内在住・在籍の幼児から高校生相当の年齢までの方、その保護者・親族及び教職員から受け付けています。\n\n教育相談一般・東京都いじめ相談ホットライン\n電話：0120-53-8288（24時間365日受付）\n\n高校進級・進路・入学相談\n電話：03-3360-4175\n\n通訳を介した外国人児童・生徒の高校等進路・教育相談\n電話：0120-53-8288\n\n小平児童相談所（外部リンク;https://www.fukushihoken.metro.tokyo.lg.jp/jicen/info/jisou_info/kodaira.html）\n性格行動、精神や身体の発達、非行、虐待などの専門的な相談をはじめ、18歳未満のこどものあらゆる相談に応じます。性格行動、精神や身体の発達、非行、虐待などの専門的な相談をはじめ、18歳未満のこどものあらゆる相談に応じます。\n\n住所：小平市花小金井1-31-24(東京都多摩小平保健所内3階)\n\n電話：042-467-3711",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "小平市小川東町4-2-1　小平元気村おがわ東3階",
+    "implementationName": "教育相談室"
+  },
+  "institutionName": {
+    "canonicalName": "小平市の子育てに関する相談",
+    "shortName": "教育相談"
+  },
+  "localGovernmentLink": {
+    "title": "教育相談",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/001/001254.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "小平市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "高校・専門学校など",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/001/001253.html"
+    },
+    {
+      "title": "(外部リンク)",
+      "uri": "https://e-sodan.metro.tokyo.lg.jp/"
+    },
+    {
+      "title": "小・中学校への入学・転学、就学相談",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/000/000147.html"
+    },
+    {
+      "title": "（外部リンク）",
+      "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/jicen/info/jisou_info/kodaira.html"
+    },
+    {
+      "title": "小平市教育支援室 あゆみ教室",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/022/022308.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "お子さんの学習・不登校・集団になじめない・性格・気になるくせなど、心配ごとの相談をお受けいたします。",
+  "support": {
+    "description": "幼児、小・中学生の学習・不登校・集団になじめない・気になる癖など、こどもの行動について心配なことは、教育相談室をご利用ください。",
+    "materiallySupport": "幼児、小・中学生の学習・不登校・集団になじめない・気になる癖など、こどもの行動について心配なことは、教育相談室をご利用ください。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2023-12-28",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "来所相談\n月曜～金曜（水曜は午後2時から、祝日は除く）午前11時～午後6時（予約制）（受付は午後5時まで）\n\n電話相談\n月曜～金曜（水曜は午後1時から、祝日は除く）午前10時30分～午後6時（受付は午後5時30分まで）",
+    "fromHM": null,
+    "toHM": null
+  }
+}

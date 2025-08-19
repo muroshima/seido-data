@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "131059;文京区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育推進部教育総務課庶務係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131059",
+    "psid": "psid3.0+6000020131059+1+UM95"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都文京区春日1丁目16番21号\n文京シビックセンター20階南側",
+    "contactComment": "ファクス番号：03-5803-1366",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "教育推進部教育総務課庶務係",
+    "contactPhone": "03-5803-1291",
+    "contactUrl": "https://logoform.jp/form/6KSu/554415",
+    "zipCode": "1128555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "https://www.city.bunkyo.lg.jp/b047/p002098.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "https://www.city.bunkyo.lg.jp/b047/p002098.html",
+    "implementationName": "https://www.city.bunkyo.lg.jp/b047/p002098.html"
+  },
+  "institutionName": {
+    "canonicalName": "新制度の幼稚園・認定こども園（幼稚園枠）一覧",
+    "shortName": "幼稚園一覧"
+  },
+  "localGovernmentLink": {
+    "title": "区立幼稚園ホームページ",
+    "uri": "https://www.city.bunkyo.lg.jp/b047/p002098.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-25",
+    "updater": "文京区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第26条、全条",
+    "regulationName": "学校教育法、就学前の子どもに関する教育、保育等の総合的な提供の推進に関する法律"
+  },
+  "relatedLink": [
+    {
+      "title": "※私立幼稚園に関することは、こちらへ。",
+      "uri": "https://www.city.bunkyo.lg.jp/kosodatekyouiku/hoikuenhoka/shiritsu/index.html"
+    },
+    {
+      "title": "※区立幼稚園の入園などに関することは、こちらへ。",
+      "uri": "https://www.city.bunkyo.lg.jp/b023/p001597/index.html"
+    },
+    {
+      "title": "※学校教育に関することは、こちらへ。",
+      "uri": "https://www.city.bunkyo.lg.jp/kosodatekyouiku/kyouiku/gakkou/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "幼稚園には公立の幼稚園と私立の幼稚園があります。\n私立幼稚園には、新制度による給付を受ける幼稚園と、新制度には移行せず、私学助成を受けて運営している幼稚園があります。\n以下は、文京区内の公立幼稚園と、新制度による給付を受ける幼稚園、および、認定こども園の幼稚園枠の一覧です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2018-04-24",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

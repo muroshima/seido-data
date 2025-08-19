@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131172;北区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部保健サービス課保健サービス係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131172",
+    "psid": "psid3.0+8000020131172+2+UM9"
+  },
+  "belongings": "[1]母子健康手帳\n[2]当該妊婦健康診査（15回目から19回目）の領収書 ・診療明細書（原本） \n[3]振込口座のわかるもの（通帳等、旧姓の口座は振込不可）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "健康部保健サービス課保健サービス係",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部保健サービス課保健サービス係",
+    "contactPhone": "03-3908-7050",
+    "contactUrl": null,
+    "zipCode": "1148508"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊娠中・産婦の方へ（多胎妊婦健康診査助成金）\n　北区では、多胎妊娠に伴い、14回を超えて自費負担により受診した妊婦健康診査の費用のうち、5回分までの費用の全部または一部を助成します。（上限額あり）\n\n助成対象となる妊婦健康診査\n保険適用外（自費）であること。\n母子健康手帳交付日以降かつ令和5年4月1日以降の受診であること。\n受診日現在、北区に住民登録があること。\n受診日現在、多胎妊婦であること。\n国内受診機関で受診していること。（海外での受診は対象外となります。）\n保健指導票の交付を受けていないこと。（ただし、保健指導票の交付を受けた場合でも、助産所で受診した場合には、対象となります。）\n既に交付されている妊婦健康診査受診票14回分をすべて使用した後の、15回目から19回目までの妊婦健康診査であること。\n受診票の検査項目に対応するものであること。（教材費・文書料・予防接種費用等の受診票検査項目に対応しないものは対象外となります。）\n\n支給上限額　\n　○【令和5年4月1日～令和6年3月31日の受診】\n          妊婦健康診査1回につき5,090円\n　   【令和6年4月1日以降の受診】\n          妊婦健康診査1回につき5,140円\n　○妊婦1人あたり5回を限度\n\n 申請方法\n　出産後（出産前に北区から転出した場合は転出後）に申請してください。\n　申請書・請求書は北区役所保健サービス課保健サービス係窓口にあります。申請の際には以下の必要書類等をご持参ください。\n　[1]母子健康手帳\n　[2]当該妊婦健康診査（15回目から19回目）の領収書 ・診療明細書（原本） \n　[3]振込口座のわかるもの（通帳等、旧姓の口座は振込不可）\n ※令和6年4月1日から請求書への押印が不要になりました。\n　※北区から転出して、北区役所申請窓口に来ることができない場合は、申請書類を郵送いたします。下記までご連絡ください。\n\n支払方法\n口座振替により支給します。\n申請から2ヶ月以内に、申請書にご記入いただいた住所へ交付決定通知書を送付します。\n交付決定通知送付後、2～3週間で請求書にご記入いただいた金融機関の口座へお振込みします。\n\n申請期限\n出産日から1年以内です。（出産前に北区から転出した場合には、北区転出日から1年以内です。）\n※1年を経過してからの申請はできませんので、ご注意ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊産婦向け健診",
+    "shortName": "妊娠中・産婦の方へ（多胎妊婦健康診査助成金）"
+  },
+  "localGovernmentLink": {
+    "title": "妊娠中・産婦の方へ（多胎妊婦健康診査助成金）",
+    "uri": "https://www.city.kita.tokyo.jp/k-suishin/kosodate/ninshin/tatai.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "北区"
+  },
+  "procedureCounter": "北区役所保健サービス課保健サービス係窓口",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "出産後（出産前に北区から転出した場合は転出後）に申請してください。\n　申請書・請求書は北区役所保健サービス課保健サービス係窓口にあります。申請の際には以下の必要書類等をご持参ください。\n　[1]母子健康手帳\n　[2]当該妊婦健康診査（15回目から19回目）の領収書 ・診療明細書（原本） \n　[3]振込口座のわかるもの（通帳等、旧姓の口座は振込不可）\n ※令和6年4月1日から請求書への押印が不要になりました。\n　※北区から転出して、北区役所申請窓口に来ることができない場合は、申請書類を郵送いたします。下記までご連絡ください。",
+  "procedurePeriod": {
+    "conditions": "出産日から1年以内です。（出産前に北区から転出した場合には、北区転出日から1年以内です。）\n\n※1年を経過してからの申請はできませんので、ご注意ください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "北区では、多胎妊娠に伴い、14回を超えて自費負担により受診した妊婦健康診査の費用のうち、5回分までの費用の全部または一部を助成します。（上限額あり）",
+  "support": {
+    "description": "支給上限額　\n　○【令和5年4月1日～令和6年3月31日の受診】\n          妊婦健康診査1回につき5,090円\n　   【令和6年4月1日以降の受診】\n          妊婦健康診査1回につき5,140円\n　○妊婦1人あたり5回を限度",
+    "materiallySupport": null,
+    "monetarySupport": "支給上限額　\n　○【令和5年4月1日～令和6年3月31日の受診】\n          妊婦健康診査1回につき5,090円\n　   【令和6年4月1日以降の受診】\n          妊婦健康診査1回につき5,140円\n　○妊婦1人あたり5回を限度"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊娠中・産婦の方\n\n助成対象となる妊婦健康診査\n保険適用外（自費）であること。\n母子健康手帳交付日以降かつ令和5年4月1日以降の受診であること。\n受診日現在、北区に住民登録があること。\n受診日現在、多胎妊婦であること。\n国内受診機関で受診していること。（海外での受診は対象外となります。）\n保健指導票の交付を受けていないこと。（ただし、保健指導票の交付を受けた場合でも、助産所で受診した場合には、対象となります。）\n既に交付されている妊婦健康診査受診票14回分をすべて使用した後の、15回目から19回目までの妊婦健康診査であること。\n受診票の検査項目に対応するものであること。（教材費・文書料・予防接種費用等の受診票検査項目に対応しないものは対象外となります。）"
+  },
+  "updateDate": "2024-04-08",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

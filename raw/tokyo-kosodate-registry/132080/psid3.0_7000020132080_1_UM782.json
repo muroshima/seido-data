@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "132080;調布市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども生活部子ども政策課 ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020132080",
+    "psid": "psid3.0+7000020132080+1+UM782"
+  },
+  "belongings": null,
+  "capacity": "1.子ども家庭支援センターすこやか 5人\n2.調布学園 (児童養護施設)5人",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-499-6101",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども生活部子ども政策課",
+    "contactPhone": "042-481-7105,042-481-7106,042-481-7757",
+    "contactUrl": "https://www.city.chofu.lg.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "1日1,500円\n(食費は別途負担あり。朝食250円、昼食450円、夕食500円)\n(注)生活保護、市民税非課税及びひとり親医療証の交付を受けている世帯は、証明できるものの提示により、利用料が免除になります。",
+  "description": "子どもショートステイ\n病気、出産、家族の看護、冠婚葬祭等で一時的にお子さんの世話ができないときに、お子さんをお預りします。\n\n概要\n対象年齢\n市内在住の1歳6か月から小学校6年生まで\n利用料金\n1日1,500円\n(食費は別途負担あり。朝食250円、昼食450円、夕食500円)\n(注)生活保護、市民税非課税及びひとり親医療証の交付を受けている世帯は、証明できるものの提示により、利用料が免除になります。\n利用日数\n1回につき最大7日まで\n利用時間\n午前8時30分から午後10時まで(宿泊もできます)\n\n利用定員\n1.子ども家庭支援センターすこやか 5人\n2.調布学園 (児童養護施設)5人\n場所\n1.子ども家庭支援センターすこやか\n住所　調布市国領町3-1-38 ココスクエア2階\n電話　042-481-7733\n(注)毎月第3土曜日とその翌日、年末年始(12月29日から1月4日まで)は、休館日のため実施なし。\n2.調布学園\n住所　調布市富士見町3-18-3\n電話　042-483-7611\n申込方法\n利用日の1か月前の1日から利用日の前日(休館日の場合は休館日の前日)の正午までに、子ども家庭支援センターすこやかにて手続きをしてください。\n電話で空き状況の確認と仮予約ができます。(調布学園でのショートステイをご希望の方も、申込先はすこやかになります。)\n詳しくは、「子ども家庭支援センターすこやか」の担当者までお問い合わせください。\n\n外部リンク\n「子ども家庭支援センター すこやか」ホームページ（外部リンク）;https://jigyodan-chofu.com/sukoyaka/\n「社会福祉法人六踏園 調布学園」ホームページ（外部リンク）;https://chofugakuen.com/",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "調布市国領町3-1-38 ココスクエア2階,調布市富士見町3-18-3",
+    "implementationName": "子ども家庭支援センターすこやか,調布学園"
+  },
+  "institutionName": {
+    "canonicalName": "ショートステイ（短期入所生活援助事業）",
+    "shortName": "子どもショートステイ"
+  },
+  "localGovernmentLink": {
+    "title": "子どもショートステイ",
+    "uri": "https://www.city.chofu.lg.jp/050010/p027009.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "調布市"
+  },
+  "procedureCounter": "子ども家庭支援センターすこやか",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "利用日の1か月前の1日から利用日の前日(休館日の場合は休館日の前日)の正午までに、子ども家庭支援センターすこやかにて手続きをしてください。\n電話で空き状況の確認と仮予約ができます。(調布学園でのショートステイをご希望の方も、申込先はすこやかになります。)\n詳しくは、「子ども家庭支援センターすこやか」の担当者までお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第3項、第21条の9、第59条第6号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "「社会福祉法人六踏園 調布学園」ホームページ（外部リンク）",
+      "uri": "https://chofugakuen.com/"
+    },
+    {
+      "title": "「子ども家庭支援センター すこやか」ホームページ（外部リンク）",
+      "uri": "https://jigyodan-chofu.com/sukoyaka/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者が入院や通院、出張などの理由で、一時的に家庭でお子さんの面倒をみられなくなったときに、お子さんをお預かりします。",
+  "support": {
+    "description": "病気、出産、家族の看護、冠婚葬祭等で一時的にお子さんの世話ができないときに、お子さんをお預りします。",
+    "materiallySupport": "病気、出産、家族の看護、冠婚葬祭等で一時的にお子さんの世話ができないときに、お子さんをお預りします。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "市内在住の1歳6か月から小学校6年生まで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": 6
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "市内在住の1歳6か月から小学校6年生まで"
+  },
+  "updateDate": "2024-01-11",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "午前8時30分から午後10時まで(宿泊もできます)",
+    "fromHM": "08:30",
+    "toHM": "22:00"
+  }
+}

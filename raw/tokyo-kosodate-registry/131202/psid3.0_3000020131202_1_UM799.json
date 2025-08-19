@@ -1,0 +1,254 @@
+{
+  "area": {
+    "areaCode": "131202;練馬区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020131202",
+    "psid": "psid3.0+3000020131202+1+UM799"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援センター,地域子ども家庭支援センター練馬,地域子ども家庭支援センター光が丘,地域子ども家庭支援センター貫井,地域子ども家庭支援センター大泉,地域子ども家庭支援センター関",
+    "contactPhone": "電話：03-3993-8155,電話：03-6758-0141,電話：03-5997-7759,電話：03-3577-9820,電話：03-3925-6713,電話：03-5927-5911",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子ども家庭支援センターでは、子どもと子育て家庭に関するあらゆるご相談に応じ、相談内容に応じた専門機関やサービスの紹介、利用の調整等を行っています。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "日曜,祝休日・年末年始を除く",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "子ども家庭支援センター,地域子ども家庭支援センター練馬,地域子ども家庭支援センター光が丘,地域子ども家庭支援センター貫井,地域子ども家庭支援センター大泉,地域子ども家庭支援センター関"
+  },
+  "institutionName": {
+    "canonicalName": "こども家庭センター",
+    "shortName": "子ども家庭支援センター"
+  },
+  "localGovernmentLink": {
+    "title": "子ども家庭支援センター",
+    "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/sodan/kodomokateicenter/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/03/07",
+    "updater": "練馬区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "子育て支援啓発講座「ノーバディ―ズ・パーフェクト～完璧な親なんていない～」",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/sodan/kodomokateicenter/np.html"
+    },
+    {
+      "title": "多胎児家庭の交流会",
+      "uri": "https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/nyuyoji/tataizinokai/index.html"
+    },
+    {
+      "title": "ファミリーサポート",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/hoiku/itijiteki_hoiku/familysupport.html"
+    },
+    {
+      "title": "乳幼児一時預かり",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/hoiku/itijiteki_hoiku/nyuuyoujiazukari.html"
+    },
+    {
+      "title": "ファミサポホーム",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/hoiku/itijiteki_hoiku/famisapohome.html"
+    },
+    {
+      "title": "ベビーシッター利用支援事業（一時預かり利用支援）",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/hoiku/itijiteki_hoiku/babysitter.html"
+    },
+    {
+      "title": "東京都の里親（養育家庭）制度について",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/sodan/kodomokateicenter/tokyo_satooya.html"
+    },
+    {
+      "title": "子育てのひろばぴよぴよ",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/asobi/hiroba.html"
+    },
+    {
+      "title": "（子どものみなさんへ）こんなことがあったら、でんわしてね",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/sodan/kodomokateicenter/kodomo_gyakutai_sos.html"
+    },
+    {
+      "title": "「地域で見守る　みんなの子」児童虐待防止の取組",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/sodan/kodomokateicenter/mimamoru.html"
+    },
+    {
+      "title": "子どもショートステイ",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/hoiku/shortstay.html"
+    },
+    {
+      "title": "たたかない・どならない子育てのために",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/sodan/kodomokateicenter/tatakanai_kosodate.html"
+    },
+    {
+      "title": "体罰などによる子どもの身体と心への影響",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/sodan/kodomokateicenter/taibatsu_batsu.html"
+    },
+    {
+      "title": "子どもへの虐待とは？",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/sodan/kodomokateicenter/kodomogyakutai_about.html"
+    },
+    {
+      "title": "おひさまぴよぴよ",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/asobi/ohipiyo.html"
+    },
+    {
+      "title": "児童虐待SOS～子どもを虐待から守るために～",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/zidougyakutaisos.html"
+    },
+    {
+      "title": "地域子ども家庭支援センター関",
+      "uri": "https://www.city.nerima.tokyo.jp/shisetsu/kodomo/kodomokateishien/seki.html"
+    },
+    {
+      "title": "子どもトワイライトステイ",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/hoiku/twilightstay.html"
+    },
+    {
+      "title": "地域子ども家庭支援センター大泉",
+      "uri": "https://www.city.nerima.tokyo.jp/shisetsu/kodomo/kodomokateishien/oizumi.html"
+    },
+    {
+      "title": "地域子ども家庭支援センター貫井",
+      "uri": "https://www.city.nerima.tokyo.jp/shisetsu/kodomo/kodomokateishien/nukui.html"
+    },
+    {
+      "title": "地域子ども家庭支援センター光が丘",
+      "uri": "https://www.city.nerima.tokyo.jp/shisetsu/kodomo/kodomokateishien/hikarigaoka.html"
+    },
+    {
+      "title": "育児支援ヘルパー",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/sodan/kodomokateicenter/helper.html"
+    },
+    {
+      "title": "地域子ども家庭支援センター練馬",
+      "uri": "https://www.city.nerima.tokyo.jp/shisetsu/kodomo/kodomokateishien/kitabunsitu.html"
+    },
+    {
+      "title": "ヤングケアラーかも？と思ったら、相談してください",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/sodan/kodomokateicenter/young_carer.html"
+    },
+    {
+      "title": "子育てスタート応援券",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/sodan/kodomokateicenter/kododateouenken.html"
+    },
+    {
+      "title": "子ども家庭支援センター",
+      "uri": "https://www.city.nerima.tokyo.jp/shisetsu/kodomo/kodomokateishien/nerima.html"
+    },
+    {
+      "title": "ねりこそ＠なび",
+      "uri": "https://nerima-kosodate.net/"
+    },
+    {
+      "title": "すくすくアドバイザー",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/sodan/sukusukuadobaiza/index.html"
+    },
+    {
+      "title": "赤ちゃんスポット",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/asobi/akachan.html"
+    },
+    {
+      "title": "地域活動室のご利用",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/sodan/kodomokateicenter/tiikikatudousitu.html"
+    },
+    {
+      "title": "練馬区立子ども家庭支援センター公式X（旧Twitter）",
+      "uri": "https://x.com/nerima_kodomo"
+    },
+    {
+      "title": "のびのびひろば",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/asobi/nobinobihiroba.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "練馬区の【子ども家庭支援センター】では、全ての妊産婦・子育て家庭に対する相談等への対応、サポートプランに基づく妊産婦の健康やこどもの養育に関する支援などを行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜から金曜\n　午前8時30分から午後7時00分まで\n土曜\n　午前8時30分から午後5時00分まで,月曜から金曜　午前9時から午後7時まで\n土曜　午前9時から午後5時まで,月曜から土曜　午前9時から午後5時まで",
+    "fromHM": null,
+    "toHM": null
+  }
+}

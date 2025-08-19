@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132071;昭島市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子ども家庭センター担当 母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132071",
+    "psid": "psid3.0+8000020132071+1+UM11"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "昭島市昭和町4-7-1",
+    "contactComment": "ファックス番号：042-544-7130",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 子ども家庭センター担当 母子保健係",
+    "contactPhone": "042-543-7303",
+    "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000053.html",
+    "zipCode": "1960015"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "あきしま出産・子育て応援事業\n国の出産・子育て応援交付金を活用し、妊娠中から出産・子育て期まで安心して過ごしていただけるように、伴走型相談支援と経済的支援を一体的に実施する「あきしま出産・子育て応援事業」を令和5年2月1日より開始しました。\nなお、経済的支援については、令和4年4月1日から令和5年1月31日までに出生されたお子さんも遡及して支給の対象になります。\n||妊娠届提出後|妊娠7～8か月頃|出産後|育児期|\n|:----|:----|:----|:----|:----|\n|伴走型相談支援|ゆりかご・あきしま面談|妊婦8か月面談|こんにちは赤ちゃん訪問|個別相談・面談、情報提供等|\n|経済的支援|あきしまゆりかごギフト（5万円相当）||あきしまみらいギフト（5万円相当）<br>（注）令和5年4月1日以降に出生したお子さまは10万円相当||\n参考：こども家庭庁ホームページ「妊婦・子育て家庭への伴走型相談支援と経済的支援の一体的実施（出産・子育て応援交付金）」;https://www.cfa.go.jp/policies/shussan-kosodate/(外部サイトにリンクします)\n\n伴走型相談支援\n妊産婦のかたが抱える様々な不安を解消するため、妊娠届出時や妊娠8か月時、産後のこんにちは赤ちゃん訪問にて保健師や助産師が面談を行うほか、随時、相談支援を行います。\n\nゆりかご・あきしま面談\n安心して出産を迎えていただくため、妊娠期間中に、保健師または助産師が妊婦のかた全員と面談します。\n\n妊婦8か月面談\n妊娠8か月を迎える全ての妊婦さんを対象にアンケートを送付します。アンケートに記載のQRコードから回答してください。QRコードからの回答が難しい場合、郵送での返送も可能です。その場合は切手と封筒のご準備をお願いいたします。アンケートにご回答いただいたかたのうち、希望者には保健師や助産師などの専門職による面談を実施します。\n（QRコードは株式会社デンソーウェーブの登録商標です。）\n\nこんにちは赤ちゃん訪問\n生後4か月までのお子さんのいる全てのご家庭に、保健師または助産師が訪問し、お子さんの体重測定や健康状態を確認します。また、子育て情報の提供や乳児健診のご案内をします。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊産婦訪問",
+    "shortName": "あきしま出産・子育て応援事業「ゆりかご・あきしま面談」「妊婦8か月面談」"
+  },
+  "localGovernmentLink": {
+    "title": "あきしま出産・子育て応援事業",
+    "uri": "https://www.city.akishima.lg.jp/s049/020/010/060/20200925151717.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "昭島市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "妊婦8か月面談\nアンケートに記載のQRコードから回答してください。QRコードからの回答が難しい場合、郵送での返送も可能です。その場合は切手と封筒のご準備をお願いいたします。アンケートにご回答いただいたかたのうち、希望者には保健師や助産師などの専門職による面談を実施します。\n（QRコードは株式会社デンソーウェーブの登録商標です。）",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第17条（妊産婦の訪問指導等）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "こども家庭庁ホームページ「妊婦・子育て家庭への伴走型相談支援と経済的支援の一体的実施（出産・子育て応援交付金）」",
+      "uri": "https://www.cfa.go.jp/policies/shussan-kosodate/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊産婦の方（妊娠中または出産後1年以内）を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、妊娠期間中や出産後の不安や悩みについての相談等を行います。",
+  "support": {
+    "description": "ゆりかご・あきしま面談\n妊娠期間中に、保健師または助産師が妊婦のかた全員と面談\n\n妊婦8か月面談\n妊娠8か月を迎える全ての妊婦さんを対象にアンケートを送付します。アンケートに記載のQRコードから回答してください。QRコードからの回答が難しい場合、郵送での返送も可能です。その場合は切手と封筒のご準備をお願いいたします。アンケートにご回答いただいたかたのうち、希望者には保健師や助産師などの専門職による面談を実施します。\n（QRコードは株式会社デンソーウェーブの登録商標です。）",
+    "materiallySupport": "ゆりかご・あきしま面談\n妊娠期間中に、保健師または助産師が妊婦のかた全員と面談\n\n妊婦8か月面談\n妊娠8か月を迎える全ての妊婦さんを対象にアンケートを送付します。アンケートに記載のQRコードから回答してください。QRコードからの回答が難しい場合、郵送での返送も可能です。その場合は切手と封筒のご準備をお願いいたします。アンケートにご回答いただいたかたのうち、希望者には保健師や助産師などの専門職による面談を実施します。\n（QRコードは株式会社デンソーウェーブの登録商標です。）",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "ゆりかご・あきしま面談\n安心して出産を迎えていただくため、妊娠期間中に、保健師または助産師が妊婦のかた全員と面談します。\n\n妊婦8か月面談\n妊娠8か月を迎える全ての妊婦さんを対象にアンケートを送付します。アンケートに記載のQRコードから回答してください。QRコードからの回答が難しい場合、郵送での返送も可能です。その場合は切手と封筒のご準備をお願いいたします。アンケートにご回答いただいたかたのうち、希望者には保健師や助産師などの専門職による面談を実施します。\n（QRコードは株式会社デンソーウェーブの登録商標です。）"
+  },
+  "updateDate": "2023-09-28",
+  "useConsiderationFlag": false,
+  "utilization": "妊婦8か月面談\n妊娠8か月を迎える全ての妊婦さんを対象にアンケートを送付します。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

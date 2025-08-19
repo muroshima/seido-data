@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局子ども部子育て推進課手当・医療係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+1+UM69"
+  },
+  "belongings": "・申請書（千代田区外国人学校児童・生徒保護者補助金交付申請書（両面））\n・児童・生徒在籍証明書\n・請求書\n・印鑑\n・就学義務猶予（または免除）許可書の写し（お子様が日本国籍を含む重国籍の場合）\n\n交付は前期と後期に分けて行い、申請書、児童・生徒在籍証明書、請求書は各外国人学校を通じて配布します。年度途中に千代田区に転入した場合については、子育て推進課手当・医療係までお問い合わせください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区九段南1-2-1",
+    "contactComment": null,
+    "contactEmail": "kosodatesuishin@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "教育委員会事務局子ども部子育て推進課手当・医療係",
+    "contactPhone": "03-5211-4230",
+    "contactUrl": null,
+    "zipCode": "1028688"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "区内に住所を有し、義務教育相当の外国人学校に通学している児童生徒の保護者に補助金を交付します。\n\n申請書配布時期\n・前期（4月～9月）分は、9月に学校を通じ申請書の配付を行います。\n・後期（10月～3月）分は、2月に学校を通じ申請書の配付を行います。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の遺児の方への金銭的支援",
+    "shortName": "外国人学校児童・生徒保護者補助金"
+  },
+  "localGovernmentLink": {
+    "title": "外国人学校児童・生徒保護者補助金",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/teate/gaikokujin.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": "子育て推進課手当・医療係（電話番号：03-5211-4230）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "子育て推進課手当・医療係へ、郵送または直接窓口にご提出ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第19条",
+    "regulationName": "学校教育法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "区内に住所を有し、義務教育相当の外国人学校に通学している児童生徒の保護者に補助金を交付します。",
+  "support": {
+    "description": "児童・生徒一人につき・月額6,000円（ただし、保護者が外国人学校に納入した授業料を限度とする）",
+    "materiallySupport": null,
+    "monetarySupport": "児童・生徒一人につき・月額6,000円（ただし、保護者が外国人学校に納入した授業料を限度とする）"
+  },
+  "tag": {
+    "categoryCode": [
+      "005"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "保護者\n・千代田区に住民登録があること\n・児童・生徒の在籍する外国人学校※に授業料を納入していること\n・児童・生徒が日本国籍を含む重国籍を有している場合、学校教育法に基づく就学義務の猶予または免除を受けていること\n\n児童・生徒\n・義務教育相当の年齢であること\n・義務教育相当の課程の外国人学校※に通学していること\n・外国籍または日本国籍を含む重国籍を有していること（日本国籍のみの場合は対象外です）\n\n※外国人学校は、学校教育法に基づく各種学校として認可されていること"
+  },
+  "updateDate": "2015-04-03",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

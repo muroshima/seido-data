@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て応援課子育て応援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+1+UM785"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区立石5-13-1　葛飾区役所4階　401番子育て支援窓口",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て応援課子育て応援係",
+    "contactPhone": "03-5654-6357",
+    "contactUrl": null,
+    "zipCode": "1248555"
+  },
+  "cost": "300",
+  "costConditions": "家事サポーター1人当たり1時間",
+  "description": null,
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "【既申請者のみ】家事サポーター利用券追加申請（電子申請）（外部リンク）",
+      "uri": "https://logoform.jp/form/Ehiz/245865"
+    },
+    {
+      "title": "家事サポーター利用申請（電子申請）【3歳未満児養育世帯の方はこちら】（外部リンク）",
+      "uri": "https://logoform.jp/form/Ehiz/67803"
+    },
+    {
+      "title": "家事サポーター利用申請（電子申請）【多胎妊婦の方はこちら】（外部リンク）",
+      "uri": "https://logoform.jp/form/Ehiz/67928"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "産前産後ヘルパーの派遣",
+    "shortName": "子育て家庭等家事サポーター派遣事業"
+  },
+  "localGovernmentLink": {
+    "title": "子育て家庭家事サポーター派遣事業",
+    "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1002333/1025713.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": "区役所4階子育て応援課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "次のいずれかの方法で申請ください。\n●申請書（所定様式）を区役所4階子育て応援課に持参もしくは、郵送にて提出。\n●電子申請システムによる申請",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "区内在住の3歳未満の子どもを育てる家庭及び多胎妊婦の方がいる家庭を支援するため、家事支援や外出時の補助を行う家事サポーターの派遣に対して、利用料の一部補助を行います。",
+  "support": {
+    "description": "区内在住の3歳未満の子どもを育てる家庭及び多胎妊婦の方がいる家庭を支援するため、家事支援や外出時の補助を行う家事サポーターの派遣に対して、利用料の一部補助を行います。\n\n利用料金\n家事サポーター1人当たり1時間300円\n\n※別途、家事サポーターがご自宅へ訪問する際、交通費がかかった場合、利用者にご負担いただきます。",
+    "materiallySupport": null,
+    "monetarySupport": "区内在住の3歳未満の子どもを育てる家庭及び多胎妊婦の方がいる家庭を支援するため、家事支援や外出時の補助を行う家事サポーターの派遣に対して、利用料の一部補助を行います。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "3歳の誕生日を迎える前日まで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "以下の要件全てに該当される方が対象となります。\n\n〇葛飾区にお住まいの方\n〇申請時点で、3歳未満の子どもを養育している世帯又は多胎妊婦の方がいる世帯\n（3歳の誕生日を迎える前日まで）\n※妊婦の方（多胎妊婦は除く）は、出生前の申請はできません。お手数ですが、出生後の申請をお願いします。\n※多胎妊婦の方は、妊娠届提出後の申請をお願いします。"
+  },
+  "updateDate": "2024-05-22",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

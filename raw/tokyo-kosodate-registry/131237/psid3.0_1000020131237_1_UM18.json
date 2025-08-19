@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部健康サービス課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM18"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部健康サービス課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊娠高血圧症候群等医療費の助成について\n\n妊娠高血圧症候群等の入院治療を必要とする方で、所得や病状等が一定の要件にあるときは、医療費の助成を行います。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊娠高血圧症候群（妊娠中毒症）に関する助成",
+    "shortName": "妊娠高血圧症候群等医療費の助成"
+  },
+  "localGovernmentLink": {
+    "title": "妊娠時の医療費助成",
+    "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/ninshin.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "各健康サポートセンター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "窓口申請\n原則、入院前または入院中の申請になります。診断がつき次第、早急に申請をしてください。\nただし、事前に書類が整わない場合等の理由がある場合、退院日から3カ月以内までは申請することができます。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠高血圧症候群などにより、前年分の所得税額（住宅取得控除等税額控除前）が3万円以下の世帯に属する方または26日以上入院が必要な方を対象に入院医療費を助成します。",
+  "support": {
+    "description": "入院治療費に要する費用で、健康保険適用後の自己負担額を助成します。\nただし、入院時食事療養費標準負担額については自己負担となります。\nなお、自己負担額が高額療養費制度に該当する場合は、その限度額までを助成します。",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象者\n区内に住所を有する方で、対象となる病気の認定基準を満たし、次のいずれかに該当する方\n\n1.前年分の所得税額（住宅取得控除等税額控除前）が3万円以下の世帯に属する方\n2.入院見込み期間が26日以上、または入院実績が26日以上の方\n\n（注）生活保護世帯に属する方は対象となりません。\n\n対象となる病気\n妊娠により入院治療を必要とする、次の疾病及びその続発症が対象です。\n\n1.妊娠高血圧症候群及びその関連疾患\n2.糖尿病及び妊娠糖尿病\n3.貧血\n4.産科出血\n5.心疾患\n\n（注）対象疾病には認定基準が定められておりますので、詳しくはお問い合わせください。\n\n注意事項\n対象疾病以外の事由（例：切迫流産、前置胎盤、帝王切開、分娩等）によるものは助成の対象外となります。入院（見込）期間の算定についても、対象疾病以外の事由によるものについては、認定の対象外となります。審査の結果によっては、対象疾病に係る入院治療であると認められず、認定ができない場合がありますので、あらかじめご承知ください。"
+  },
+  "updateDate": "2023-03-01",
+  "useConsiderationFlag": false,
+  "utilization": "認定された場合、妊娠高血圧症候群等医療費助成決定通知書と医療券を交付します。\n事前に申請された方は、医療券を医療機関の窓口に提示し精算してください。\n病院への支払が済んでいる場合は、申請により助成費についてお支払いたします。詳しくはお問い合わせください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

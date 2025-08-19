@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131024;中央区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉保健部子育て支援課子育て支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131024",
+    "psid": "psid3.0+8000020131024+4+UM120"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "築地一丁目1番1号　本庁舎6階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉保健部子育て支援課子育て支援係",
+    "contactPhone": "03-6278-8403,03-6278-8421",
+    "contactUrl": null,
+    "zipCode": "1048404"
+  },
+  "cost": null,
+  "costConditions": "申請者本人の所得に応じた費用負担があります",
+  "description": "ひとり親家庭ホームヘルプサービス\n概要\n義務教育修了前のお子さんがいるひとり親家庭で、一時的に家事又は育児の日常生活に支障が生じている場合に、ホームヘルパーを派遣します。\n\n派遣要件\nひとり親家庭となってから2年以内で、生活環境が激変したため日常生活を営むのに支障が生じているとき\n技能習得のため、職業能力開発センター等に通学するとき\n就職活動を行うとき\nひとり親または児童が、一時的な病気、事故、災害等で一時的に支援が必要なとき\n冠婚葬祭、学校行事など一時的に支援が必要なとき\nただし、派遣要件4もしくは5については、同一事由による派遣は1か月のみとします。\n\n支援の内容\n育児援助\n自宅での子どもの見守り、身の回りの世話、保育園への送迎等\n\n家事援助\n掃除、洗濯、食事の用意等\n\n派遣時間・回数\n派遣時間\n午前7時から午後10時\n\n育児援助\n2時間以上4時間以内\n\n家事援助\n2時間以内\n\nその他一時的に支援が必要な場合\n2時間以上8時間以内\n\n派遣回数\n原則として月12回まで\n（上記、派遣要件の2に該当する場合は月24回まで、派遣要件4もしくは5に該当する場合は月4回まで。）\nただし、上記1の要件でひとり親になってから1年以上経過している場合は、月8回まで\n\n費用\n申請者の所得に応じた額となります。（午前7時から9時、17時から22時の時間帯は付加分が加算されます。）\n\n利用にあたって\n利用の前に、区役所6階子育て支援課で「登録申請」が必要です。\n詳しくは下記までお問い合わせください。\n\nホームヘルプサービスパンフレット（PDF：52KB）;https://www.city.chuo.lg.jp/documents/4897/homuherupu.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関するその他のこと",
+    "shortName": "ひとり親家庭ホームヘルプサービス"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親家庭ホームヘルプサービス",
+    "uri": "https://www.city.chuo.lg.jp/a0020/kosodate/kosodate/hitorioya/kashitsuke/hormuherupu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "中央区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "利用登録申請書と必要書類を添えて子育て支援課窓口で申込んでください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "利用者本人",
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "中央区ひとり親家庭ホームヘルプサービス事業実施要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭で日常生活を営むのに著しく支障が生じたときに、ホームヘルパーを派遣します。",
+  "support": {
+    "description": "ホームヘルパーの派遣",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "義務教育修了前の児童がいるひとり親家庭"
+  },
+  "updateDate": "2023-10-02",
+  "useConsiderationFlag": true,
+  "utilization": "申請に必要な書類については必ず事前にお問い合わせください。申請の内容によっては、その他の提出書類が必要になる場合があります。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

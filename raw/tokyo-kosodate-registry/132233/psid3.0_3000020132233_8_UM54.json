@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132233;武蔵村山市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部健康推進課健康推進係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132233",
+    "psid": "psid3.0+3000020132233+8+UM54"
+  },
+  "belongings": "予診票・母子健康手帳",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康福祉部健康推進課健康推進係",
+    "contactPhone": "042-565-9315",
+    "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/e_07a/1012088",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "水痘（水ぼうそう）\n予防接種法に基づき、下記のとおり個別接種で実施しています。該当者には個別に通知しておりますが、転入等で本市の予診票のない方は、母子手帳を持参のうえ、保健相談センターまでお越しください。\n\n対象者\n生後1歳から3歳未満\n＊既に水痘（水ぼうそう）にかかったことがある方は、接種対象外となります。\n\n接種回数・方法\n2回　乾燥弱毒生水痘ワクチンを使用し、皮下接種\n\n接種間隔\n標準的な接種間隔\n1回目：生後1歳～1歳3か月未満\n2回目：初回終了後3か月以上（標準的には6か月～12か月）\n\n実施場所\n指定の個別予防接種実施医療機関\n＊実施時間や予約等については、各医療機関にお問い合わせください。\n＊検温は、接種医療機関で行います。\n\n持ち物\n予診票、母子健康手帳\n\n注意事項\n接種には、お子さんの日頃の健康状態をよく知っていて、医師の質問に責任を持って答えられる保護者の方がお連れください。\n他市（協定している近隣市）の医療機関でも接種できます。対象医療機関につきましては、保健相談センターまで御連絡ください。\n接種後、身体に異常が認められる場合は、医師の指示を受けてください。\n\n病気の説明\n水痘とは、いわゆる「水ぼうそう」のことで、水痘帯状疱疹ウイルスによって引き起こされる発疹性の病気です。空気感染、飛沫感染、接触感染により広がり、その潜伏期間は感染から2週間程度と言われています。発疹の発現する前から発熱が認められ、典型的な症例では、発疹は紅斑（皮膚の表面が赤くなること）から始まり、水疱、膿疱（粘度のある液体が含まれる水疱）を経て痂皮化（かさぶたになること）して治癒するとされています。一部は重症化し、近年の統計によれば、我が国では水痘は年間100万人程度が発症し、4,000人程度が入院、20人程度が死亡していると推定されています。\n水痘は主に小児の病気で、9歳以下での発症が90％以上を占めると言われています。小児における重症化は、熱性痙攣、肺炎、気管支炎等の合併症によるものです。成人での水痘も稀に見られますが、成人に水痘が発症した場合、水痘そのものが重症化するリスクが高いと言われています。\n\nワクチンの有効性について\n水痘にはワクチンがあり、現在国内では乾燥弱毒生水痘ワクチンが用いられています。水痘ワクチンの1回の接種により重症の水痘をほぼ100％予防でき、2回の接種により軽症の水痘も含めて予防できると考えられています。\n\n副反応\n稀に報告される重い副反応としては、アナフィラキシー様症状、急性血小板減少性紫斑病等があります。その他、一定の頻度で見られるとして報告されている副反応については次のとおりである。\n過敏症：接種直後から翌日に発疹、じんましん、紅斑、そう痒、発熱等があらわれることがあります。\n全身症状：発熱、発疹が見られることがあります。一過性で通常、数日中に消失するとされています。\n局所症状：発赤、腫脹、硬結等があらわれることがあります。\n\n接種感覚（別の種類の予防接種を行うまでの間隔）\n注射生ワクチンを接種した後に、別の種類の注射生ワクチンを接種する場合は、27日以上あけてください。\nなお、令和2年10月の法改正により、経口生ワクチン、不活化ワクチンに関する接種間隔の制限はなくなりました。\n＊同時接種については、医師が必要と認めた場合に限り接種できます。\n＊ただし、同一ワクチンを複数回接種する場合の接種間隔の制限は従来どおりになりますのでご注意ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "標準的な接種間隔\n1回目：生後1歳～1歳3か月未満\n2回目：初回終了後3か月以上（標準的には6か月～12か月）",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "指定の個別予防接種実施医療機関\n＊実施時間や予約等については、各医療機関にお問い合わせください。\n＊検温は、接種医療機関で行います。"
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "水痘（水ぼうそう）"
+  },
+  "localGovernmentLink": {
+    "title": "水痘（水ぼうそう）",
+    "uri": "https://www.city.musashimurayama.lg.jp/kosodate/kenshin/yobousesshu/1003776.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "武蔵村山市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）",
+    "regulationName": "予防接種法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+  "support": {
+    "description": "2回　乾燥弱毒生水痘ワクチンを使用し、皮下接種",
+    "materiallySupport": "2回　乾燥弱毒生水痘ワクチンを使用し、皮下接種",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後1歳から3歳未満",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生後1歳から3歳未満\n＊既に水痘（水ぼうそう）にかかったことがある方は、接種対象外となります。"
+  },
+  "updateDate": "2020-10-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

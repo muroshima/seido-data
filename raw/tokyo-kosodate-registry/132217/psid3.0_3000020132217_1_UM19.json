@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132217;清瀬市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保険年金課国保係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132217",
+    "psid": "psid3.0+3000020132217+1+UM19"
+  },
+  "belongings": "基本的に、市より出産医療機関等に直接支払をしますので、申請は不要です。直接払いを希望しない場合や海外出産の場合は下記のものが必要です。\n\n直接払いを使用しない場合\n国民健康保険被保険者証\n分娩・医療機関発行の領収・明細書\n直接支払制度不活用の分娩・医療機関との合意文書\n領収書\n海外出産\n国民健康保険被保険者証\nパスポート\n出生の証明\n※出産をした事実の確認できる医療・行政機関等の証明（和訳が必要です）\n領収書",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都清瀬市中里5-842　清瀬市役所1階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保険年金課国保係",
+    "contactPhone": "042-497-2047",
+    "contactUrl": null,
+    "zipCode": "2048511"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "1．対象者\n清瀬市の国民健康保険に加入している方がお産（妊娠12週以上の死産・流産を含む）をしたとき（お産の日から6か月前まで職場の健康保険に本人が加入していた場合は除きます）\n\n2．支給額\n1人500,000円\n\n令和5年4月1日より420,000円から500,000円に改定しました。\n\n3．申請方法\n基本的に、市より出産医療機関等に直接支払をしますので、申請は不要です。直接払いを希望しない場合や海外出産の場合は下記のものが必要です。\n\n直接払いを使用しない場合\n国民健康保険被保険者証\n分娩・医療機関発行の領収・明細書\n直接支払制度不活用の分娩・医療機関との合意文書\n領収書\n海外出産\n国民健康保険被保険者証\nパスポート\n出生の証明\n※出産をした事実の確認できる医療・行政機関等の証明（和訳が必要です）\n領収書\n出産日の翌日から2年を経過すると支給されませんのでご注意ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出産育児一時金",
+    "shortName": "出産育児一時金"
+  },
+  "localGovernmentLink": {
+    "title": "出産育児一時金",
+    "uri": "https://www.city.kiyose.lg.jp/kurashi/kokuhonenkin/kokuminkenkouhoken/1003660/1003663.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "清瀬市"
+  },
+  "procedureCounter": "保険年金課国保係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "基本的に、市より出産医療機関等に直接支払をしますので、申請は不要です。直接払いを希望しない場合や海外出産の場合は下記のものが必要です。\n\n直接払いを使用しない場合\n国民健康保険被保険者証\n分娩・医療機関発行の領収・明細書\n直接支払制度不活用の分娩・医療機関との合意文書\n領収書\n海外出産\n国民健康保険被保険者証\nパスポート\n出生の証明\n※出産をした事実の確認できる医療・行政機関等の証明（和訳が必要です）\n領収書\n出産日の翌日から2年を経過すると支給されませんのでご注意ください。",
+  "procedurePeriod": {
+    "conditions": "出産日の翌日から2年を経過すると支給されませんのでご注意ください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条(第二節　その他の給付)",
+    "regulationName": "国民健康保険法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民健康保険に加入している方が出産したときは、その世帯主からの申請により、出産育児一時金を支給します。原則として直接支払制度により、医療機関に直接お支払いします。\nなお、直接支払制度に対応していない医療機関などで出産された場合も、「受取代理制度」や出産後の申請により、出産育児一時金の支給を受けることができます。",
+  "support": {
+    "description": "1人500,000円",
+    "materiallySupport": null,
+    "monetarySupport": "1人500,000円"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003",
+      "015"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "清瀬市の国民健康保険に加入している方がお産（妊娠12週以上の死産・流産を含む）をしたとき（お産の日から6か月前まで職場の健康保険に本人が加入していた場合は除きます）"
+  },
+  "updateDate": "2023-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

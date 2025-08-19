@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131067;台東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "台東区役所　総務課総務係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131067",
+    "psid": "psid3.0+6000020131067+2+UM120"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "台東区東上野4丁目5番6号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "台東区役所　総務課総務係",
+    "contactPhone": "03-5246-1082",
+    "contactUrl": null,
+    "zipCode": "1108615"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子ども・子育て支援法に基づく地域子ども・子育て支援事業として、地域や保護者のニーズに応えて地域のなかで重要な役割を果たしている、小学校就学前の幼児を対象とした多様な集団活動などについて、保護者の経済的負担の軽減を図ることを目的に利用料の全部または一部の支援をいたします。\n\n対象施設\nこの制度を利用する場合、施設はあらかじめ基準適合審査を申請し、台東区から対象施設としての決定を受ける必要があります。\n本制度の利用を希望する施設の方は、確認フローチャート及び対象施設等の決定基準を確認のうえ、下記担当までご連絡ください。\n 確認フローチャート及び対象施設等の決定基準（PDF：397KB）\nhttps://www.city.taito.lg.jp/kosodatekyouiku/shuudankatudou/01584375202301241.files/flowchart.pdf\n\n対象幼児\n以下のすべてを満たす必要があります。\n•台東区民のうち満3歳以上の小学校就学前の幼児。\n•幼児教育・保育の無償化の給付（子どものための教育・保育給付、子育てのための施設等利用給付）を受けていないこと。\n•企業主導型保育事業を利用していないこと。\n•対象施設等をおおむね1日4時間以上8時間未満、週5日以上、年間39週以上利用し、当該利用日の属する月の初日に在籍していること。\n\n給付基準額\n対象幼児1人につき月額20,000円（上限）を保護者に給付\n※対象施設として決定した日の属する年度の前年度以前、過去3カ年の平均月額利用料が2万円を下回る幼児は、当該平均月額利用料とします。\n\n申請方法\n基準適合審査申請により対象となった施設に、保護者宛の申請書をお送りいたします。\n申請時期：年2回\n　　　　　前期分（4月から9月分）　　→　10月\n　　　　　後期分（10月から3月分） 　→　 3月",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関するその他のこと",
+    "shortName": "台東区における小学校就学前の子どもを対象とした多様な集団活動事業の利用支援事業"
+  },
+  "localGovernmentLink": {
+    "title": "台東区における小学校就学前の子どもを対象とした多様な集団活動事業の利用支援について",
+    "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/shuudankatudou/01584375202301241.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "台東区"
+  },
+  "procedureCounter": "台東区役所　総務課総務係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "基準適合審査申請により対象となった施設に、保護者宛の申請書をお送りいたします。\n申請書を記載して総務課総務係にご提出ください。\n申請時期：年2回\n　　　　　前期分（4月から9月分）　　→　10月\n　　　　　後期分（10月から3月分） 　→　 3月",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第５９条第１項第４号、なし",
+    "regulationName": "子ども・子育て支援法、台東区における小学校就学前の子どもを対象とした多様な集団活動事業の利用支援事業実施要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "小学校就学前の子どもを対象とした多様な集団活動を利用する幼児に係る利用料に関する支援を行うことにより、保護者の経済的負担の軽減を図ります。",
+  "support": {
+    "description": "対象幼児1人につき月額20,000円（上限）を保護者に給付\n※対象施設として決定した日の属する年度の前年度以前、過去3カ年の平均月額利用料が2万円を下回る幼児は、当該平均月額利用料とします。",
+    "materiallySupport": null,
+    "monetarySupport": "対象幼児1人につき月額20,000円（上限）を保護者に給付\n※対象施設として決定した日の属する年度の前年度以前、過去3カ年の平均月額利用料が2万円を下回る幼児は、当該平均月額利用料とします。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "満3歳以上の小学校就学前の幼児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "台東区から対象施設としての決定を受けた施設を利用し、以下のすべてを満たすもの。\n•台東区民のうち満3歳以上の小学校就学前の幼児。\n•幼児教育・保育の無償化の給付（子どものための教育・保育給付、子育てのための施設等利用給付）を受けていないこと。\n•企業主導型保育事業を利用していないこと。\n•対象施設等をおおむね1日4時間以上8時間未満、週5日以上、年間39週以上利用し、当該利用日の属する月の初日に在籍していること。"
+  },
+  "updateDate": "2023-01-25",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132225;東久留米市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉保健部　障害福祉課　福祉支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132225",
+    "psid": "psid3.0+3000020132225+1+UM63"
+  },
+  "belongings": "専用の診断書等",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都東久留米市本町3-3-1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉保健部　障害福祉課　福祉支援係",
+    "contactPhone": "042-470-7747",
+    "contactUrl": "https://www.city.higashikurume.lg.jp/kurashi/fukushi/shogai/1000434.html",
+    "zipCode": "2038555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "障害児福祉手当\n対象\n　20歳未満で、精神又は身体に重度の障害を有するため、日常生活において常時の介護を必要とする状態にある在宅の方。\n\n　※認定を受けるためには専用の診断書等の提出が必要です。\n\n内容\n　月額15,690円（令和7年3月まで）\n\n　月額16,100円（令和7年4月から）\n\n　（所得制限等あり）\n\n問い合わせ\n　障害福祉課　電話：042-470-7747\n特別障害者手当\n対象\n　20歳以上で、精神又は身体に著しく重度の障害を有するため、日常生活において常時特別な介護を必要とする状態にある在宅の方。\n\n　※認定を受けるためには専用の診断書等の提出が必要です。\n\n内容\n　月額28,840円（令和7年3月まで）\n\n　月額29,590円（令和7年4月から）\n\n　（所得制限等あり）\n\n問い合わせ\n　障害福祉課　電話：042-470-7747\n心身障害者福祉手当\n対象\n　身体障害者手帳1級から4級（20歳未満は3、4級）、愛の手帳1度から4度（20歳未満は4度）、国の難病医療費助成の受給者、脳性マヒ、進行性筋萎縮症の方で、施設に入所していない方。\n受給制限\n　・65歳以上の新規申請は行えません（転入者を除く）\n　・本人（20歳未満は扶養義務者）の所得制限あり\n内容\n　月額 15,500円（身体障害者手帳1、2級、愛の手帳1度から3度、脳性マヒ、進行性筋萎縮症）\n\n　月額   4,000円（身体障害者手帳3、4級、愛の手帳4度、国の難病医療費助成の受給者）\n\n住宅加算\n　下記条件をすべて満たす方には、月額3,500円の住宅加算が適用されます。\n\n　・身体障害者手帳1、2級、愛の手帳1度から3度、脳性マヒ、進行性筋萎縮症の方\n　・市内の民間アパート、借家等にお住まいの方\n　・住民税非課税世帯の方\n　・市より他の住宅扶助を受けていない方\n問い合わせ\n　障害福祉課　電話：042-470-7747\n重度心身障害者手当\n対象\n　・重度の知的障害であって、日常生活について常時複雑な配慮を必要とする程度の著しい精神症状を有する方\n　・重度の知的障害と身体障害を重複して有する方\n　・重度の肢体不自由であって、両上肢及び両下肢の機能が失われ、かつ、座っていることが困難な程度以上の身体障害を有する方\n　※認定を受けるためには、障害程度の判定を受けることが必要です。\n\n　※次のいずれかに該当する方は申請ができません。\n\n　1.65歳以上で新規申請の方\n　2.病院又は診療所に継続して3か月を超えて入院されている方\n　3.施設等に入所されている方\n内容\n　月額60,000円（所得制限等あり）\n問い合わせ\n　障害福祉課　電話：042-470-7747",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "障害児福祉手当",
+    "shortName": "障害児福祉手当"
+  },
+  "localGovernmentLink": {
+    "title": "障害者のための手当",
+    "uri": "https://www.city.higashikurume.lg.jp/kurashi/fukushi/shogai/1000434.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "東久留米市"
+  },
+  "procedureCounter": "障害福祉課　電話：042-470-7747",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "※認定を受けるためには専用の診断書等の提出が必要です。\n\n問い合わせ　障害福祉課　電話：042-470-7747",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第3章",
+    "regulationName": "特別児童扶養手当等の支給に関する法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "身体または精神に重度の障がいのある20歳未満の方で、日常生活において常時介護を必要とする方に対し、手当が支給されます。",
+  "support": {
+    "description": "月額15,690円（令和7年3月まで）\n\n月額16,100円（令和7年4月から）\n\n（所得制限等あり）",
+    "materiallySupport": null,
+    "monetarySupport": "月額15,690円（令和7年3月まで）\n\n月額16,100円（令和7年4月から）\n\n（所得制限等あり）"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "20歳未満",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "20歳未満で、精神又は身体に重度の障害を有するため、日常生活において常時の介護を必要とする状態にある在宅の方。"
+  },
+  "updateDate": "2024-05-29",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

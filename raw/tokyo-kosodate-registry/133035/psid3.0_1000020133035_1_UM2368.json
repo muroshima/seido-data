@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "133035;瑞穂町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部 子育て応援課 保育・幼稚園係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133035",
+    "psid": "psid3.0+1000020133035+1+UM2368"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡瑞穂町大字箱根ケ崎2335番地",
+    "contactComment": "受付時間 平日の午前8時30分から午後5時まで",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部 子育て応援課 保育・幼稚園係",
+    "contactPhone": "042-557-8658",
+    "contactUrl": "https://www.town.mizuho.tokyo.jp/dept/130000/130150/130152/index.html",
+    "zipCode": "1901292"
+  },
+  "cost": null,
+  "costConditions": "給食費の支払\n幼児教育・保育の無償化に伴い、保育料は無償になりますが、副食費（おかず代）については、引き続き保護者の負担になります。\nまた、幼児教育・保育の無償化に伴い、副食費（おかず代）の支払先が各園に変更になります。\n各園で指定される支払方法、期日でお支払いただくことになりますので、ご理解、ご協力をお願いします。",
+  "description": "3歳児から5歳児（小学校就学前まで）の子どもの教育・保育に係る利用料（保育料）の無償化の概要については、次のとおりです。\n\n保育園、認定こども園（保育所部分）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "幼児教育・保育の無償化",
+    "shortName": "幼児教育・保育の無償化について"
+  },
+  "localGovernmentLink": {
+    "title": "幼児教育・保育の無償化",
+    "uri": "https://www.town.mizuho.tokyo.jp/kosodate/004/006/p006946.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "瑞穂町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "手続\n教育・保育給付認定（2号認定、3号認定）がされているため、必要ありません。\n預かり保育の保育料が無償化の対象になるためには、施設等利用給付認定（2号認定、3号認定）が必要になります。\n手続方法や必要書類などは、次の「新制度移行園お知らせ文」をご覧ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第27条～第30条（第二章 第三節 第三款 施設型給付費及び地域型保育給付費等の支給）、第30条の2(子育てのための施設等利用給付）)",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "幼児教育・保育の重要性や、子育てや教育にかかる費用負担の軽減を図る少子化対策の観点などから、3歳児クラス（年少）から5歳児クラス（年長）のお子さん、および住民税非課税世帯の0歳児クラスから2歳児クラスのお子さんを対象に、幼児教育・保育の無償化を実施しています。無償化の内容は、利用する施設・サービスごとに異なります。",
+  "support": {
+    "description": "保育料\n※通園送迎費、給食費（食材料費）、行事費、延長保育料などは、これまでのとおり保護者の負担になります。\nただし、市町村民税所得割額57，700円未満（ひとり親世帯等については、77，101円未満）の世帯の子どもと、すべての世帯の第3子（保育所等に通っている子どものうち最年長者から数えて3番目の子ども）以降の子どもについては、給食費（食材料費）のうち、副食費（おかず代）の費用が免除されます。\n副食費（おかず代）の費用の免除世帯へは、町からお知らせします。（副食費（おかず代）の免除について、手続などは必要ありません。）\n\n給食費の支払\n幼児教育・保育の無償化に伴い、保育料は無償になりますが、副食費（おかず代）については、引き続き保護者の負担になります。\nまた、幼児教育・保育の無償化に伴い、副食費（おかず代）の支払先が各園に変更になります。\n各園で指定される支払方法、期日でお支払いただくことになりますので、ご理解、ご協力をお願いします。",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "3歳児から5歳児（小学校就学前まで）で保育園等に通園する子ども\n（0歳児から2歳児については、住民税非課税世帯を対象として利用料（保育料）が無償化されます。）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 5,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "3歳児から5歳児（小学校就学前まで）で保育園等に通園する子ども\n（0歳児から2歳児については、住民税非課税世帯を対象として利用料（保育料）が無償化されます。）"
+  },
+  "updateDate": "2023-05-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

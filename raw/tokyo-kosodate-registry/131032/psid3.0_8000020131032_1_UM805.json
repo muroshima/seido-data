@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援部子ども政策課子ども政策推進係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+1+UM805"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファックス番号：03-3578-2384\n\n外国語対応が必要な人、通訳オペレーター、区の職員の3人で会話ができます。\n\n多言語対応三者通話サービス;https://www.multilingualinterpretercallservice.city.minato.tokyo.jp/kokusai",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援部子ども政策課子ども政策推進係",
+    "contactPhone": "03-3578-2680",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "認可外保育施設等の各種届出・報告・確認申請について（設置者用）\n港区内に、認可外保育施設または認可外の居宅訪問型保育事業（いわゆるベビーシッター業）を新たに設置する場合、設置者は、港区長へ届け出ることが義務付けられています。届出事項に変更が生じた場合、事業の休止・廃止をする場合なども、その都度届出が必要です。\n\n事業開始の日及び変更等があった日から、それぞれ1か月以内に届け出てください。\n\nまた、年1回以上の運営状況報告、事故等の発生時や長期滞在している児童がいる場合などの報告が必要です。\n\n1　届出済み認可外保育施設一覧\n届出のあった認可外保育施設の一覧です。（令和6年5月1日現在※最新）\n\n認可外保育施設一覧（ベビーホテル・事業所内・院内・その他）（PDF：245KB）;https://www.city.minato.tokyo.jp/hoikuseisaku/documents/ninnkagai_20240501.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "事業所内保育施設一覧",
+    "shortName": "認可外保育施設等の各種届出・報告・確認申請について（設置者用）"
+  },
+  "localGovernmentLink": {
+    "title": "認可外保育施設等の各種届出・報告・確認申請について（設置者用）",
+    "uri": "https://www.city.minato.tokyo.jp/hoikuseisaku/ninkagai_shinki.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "港区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第五章 事業所内保育事業",
+    "regulationName": "家庭的保育事業等の設備及び運営に関する基準"
+  },
+  "relatedLink": [
+    {
+      "title": "認可外保育施設一覧（ベビーホテル・事業所内・院内・その他）（PDF：245KB）",
+      "uri": "https://www.city.minato.tokyo.jp/hoikuseisaku/documents/ninnkagai_20240501.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "市区町村の認可事業として行われる事業所内保育は、企業や病院などが従業員に対して仕事と子育ての両立支援策として実施するもので、従業員や職員のお子さんのほか、地域の保育が必要なお子さんも受け入れて、一緒に保育を行います。\n事業所内保育入所定員が20人以上の「保育所型事業所内保育」施設と6人以上19人以下の「小規模型事業所内保育」施設があります。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-05-13",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

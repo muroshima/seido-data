@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131083;江東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部 保健予防課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131083",
+    "psid": "psid3.0+6000020131083+1+UM5012"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都江東区東陽2-1-1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部（保健所） 保健予防課 保健係",
+    "contactPhone": "03-3647-5906",
+    "contactUrl": "https://www.city.koto.lg.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": "1350016"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "不育症検査助成事業\n東京都では、検査により不育症のリスク因子を特定し、適切な治療及び出産につなげることができるよう、不育症検査にかかる費用の一部を助成しています。詳しくは下記リンクをご覧ください。\n\n関連リンク\n東京都不育症検査助成事業の概要（外部サイトへリンク）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/josei/fuikushoukensa/gaiyou.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "不育症検査費用の助成",
+    "shortName": "不育症検査助成事業"
+  },
+  "localGovernmentLink": {
+    "title": "不育症検査助成事業",
+    "uri": "https://www.city.koto.lg.jp/260501/hoken/fuikusyou.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-19",
+    "updater": "江東区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条第2項",
+    "regulationName": "少子化社会対策基本法"
+  },
+  "relatedLink": [
+    {
+      "title": "東京都不育症検査助成事業の概要（外部サイトへリンク）",
+      "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/josei/fuikushoukensa/gaiyou.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "不育症とは、妊娠したものの流産・死産を2回以上繰り返すことをいいます。（江東区では）検査により不育症のリスク因子を特定し、適切な治療及び出産につなげることができるよう、不育症検査に係る費用の一部を助成しています。",
+  "support": {
+    "description": "東京都では、検査により不育症のリスク因子を特定し、適切な治療及び出産につなげることができるよう、不育症検査にかかる費用の一部を助成しています。詳しくは下記リンクをご覧ください。",
+    "materiallySupport": null,
+    "monetarySupport": "東京都では、検査により不育症のリスク因子を特定し、適切な治療及び出産につなげることができるよう、不育症検査にかかる費用の一部を助成しています。詳しくは下記リンクをご覧ください。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2022-09-09",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

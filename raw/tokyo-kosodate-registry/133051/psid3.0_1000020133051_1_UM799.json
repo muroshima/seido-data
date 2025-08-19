@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "133051;日の出町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "東京都 日の出町　 こども家庭センター 相談係（子ども家庭支援センター）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133051",
+    "psid": "psid3.0+1000020133051+1+UM799"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "東京都 日の出町　 こども家庭センター 相談係（子ども家庭支援センター）",
+    "contactPhone": "042-597-6177、042-588-4310",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "こども家庭センターとは\n\n子どもや家庭に関する相談ができます。\nこども家庭センターでは、0~18歳未満のお子さんとその家庭に関する相談を受けています。訪問や来所のほか電話でも受けています。\n\nお子さんを一時的に預けたいときの申請受付をしています。\n乳幼児ショートステイの申請受付を、こども家庭センターで行っています。保育園の一時保育については、ご希望の保育園に直接問い合わせてください。\n\n子育てに関する事業を行っています。\n子育ての支援と参加者同士の交流を目的に、「ママさんヨガ」「親子リトミック」「子育てサロン」等の事業を行っています。\n\n「新生児訪問」や「こんにちは赤ちゃん訪問」（乳児家庭全戸訪問事業）を行っています。\n赤ちゃんがお生まれになったご家庭を訪問し、子育てに関する不安や悩みについての相談に応じるほか、子育てに関する情報、子育て支援サービスの紹介などを行います。赤ちゃんが（原則）4ヵ月に達するまでに訪問を行います。\n\n児童虐待の防止に関わる活動を行っています。\n要保護児童対策地域協議会を中心に関係機関と連携し、児童虐待の予防・早期発見を行っています。妊娠届出時の面接や産後ケア事業、乳幼児健康診査を行っています。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "こども家庭センター",
+    "shortName": "こども家庭センター"
+  },
+  "localGovernmentLink": {
+    "title": "こども家庭センター",
+    "uri": "https://www.town.hinode.tokyo.jp/0000000867.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/26",
+    "updater": "日の出町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "日の出町の【こども家庭センター】では、全ての妊産婦・子育て家庭に対する相談等への対応、サポートプランに基づく妊産婦の健康やこどもの養育に関する支援などを行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0~18歳未満",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "0~18歳未満のお子さんとその家庭"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

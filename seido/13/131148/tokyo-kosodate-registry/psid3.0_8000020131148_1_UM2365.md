@@ -1,0 +1,79 @@
+---
+title: 企業主導型ベビーシッター利用者支援事業（ベビーシッター利用支援事業（事業者連携型））
+lg_code: '131148'
+lg_name: 中野区
+support: 金銭・現物
+url: https://logoform.jp/form/Trw5/515646
+source: tokyo-kosodate-registry
+source_id: psid3.0_8000020131148_1_UM2365
+source_updated: '2024-07-04'
+license: CC BY
+attribution: 東京都「東京デジタル2030ビジョン（こどもDX）子育て支援制度レジストリ 0-6歳制度」（2025-08-20 時点）を加工して作成
+---
+
+# 企業主導型ベビーシッター利用者支援事業（ベビーシッター利用支援事業（事業者連携型））
+
+## 概要
+
+仕事や職場復帰のために利用する民間のベビーシッター費用や、多胎児（双子や三つ子など）を養育しているご家庭で、民間のベビーシッターを利用した場合の利用料の一部を助成します。本制度は、「企業主導型ベビーシッター利用者支援事業」として内閣府が行うもので、利用者は、務め先の事業主から交付を受けた割引券を使用することで、利用料の割引を受けることができます。
+
+## 対象者
+
+お子さんが0歳児から5歳児（保育所等の0歳児から5歳児クラスに該当する児童）の保護者のうち、次のいずれかに該当する方。
+1.待機児童の保護者：保育認定を受け、保育所等に入所申込みをした結果、入所保留となりお子さんが待機児童となっている保護者
+※保育所等の入所承諾の辞退や利用解除をした場合、辞退対象月（利用解除月）が属する年度末まで利用できません。
+2.育児休業満了者：保育所等の0歳児クラスに入所申込みせず（保育認定は必要です）、1年間の育児休業を満了した後に、お子さんの1歳の誕生日から復職する保護者で、復職日の翌年度1歳クラス（4月入所）への保育所等の入所申込みをする方。
+3.夜間帯保育を必要とする保護者 ：保育認定を受けた保護者のうち、夜間の時間帯（午後10時から翌朝7時まで）に週に1回以上就労等の理由で保育を必要とする保護者（継続して夜間帯に保育が必要な状況にあることが条件です。
+
+お子さんが0歳児から5歳児（保育所等の0歳児から5歳児クラスに該当する児童）
+
+## 支援内容
+
+補助金
+交通費補助
+本事業によりベビーシッターが利用者宅に通う際の交通費については、月額20,000円を上限とした補助制度があります。 （交通費補助金電子申請フォーム（外部サイト））;https://logoform.jp/f/1wcmu
+
+多子世帯負担軽減
+
+0～2歳児クラス（課税世帯）第2子以降の児童の令和5年10月以降の利用料金（助成券を利用した場合）について、月額33,000円を上限に補助する制度があります。申請には、事業者が発行する領収書の写し及び領収金額の内訳がわかる書類が必要です。（多子世帯負担軽減補助金申請フォーム（外部サイト））https://logoform.jp/f/rJLU6
+
+施設等利用費
+施設等利用給付認定を取得し、無償化対象事業者を利用した場合の保育料について、0～2歳児クラス（非課税世帯）の方は月額42,000円、3～5歳児クラスの方は、月額37,000円を上限に補助する制度があります。申請に必要な書類は「【幼児教育・保育無償化】認可外保育施設等を利用される方の現況調査・請求手続きについて」;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/ninkagai/musyoka-tetsuduki.htmlをご確認ください。ただし、在籍している保育所や幼稚園がある場合は対象外となる場合があります。
+
+提供するサービス内容
+東京都の認定事業者（東京都福祉局ホームページ（外部サイト）;http://www.fukushihoken.metro.tokyo.lg.jp/kodomo/hoiku/bs/jigyoushalist.htmlをご確認ください。） が乳幼児の自宅にベビーシッターを派遣し、保育を行います。
+・保育以外の家事援助、兄弟姉妹の送迎等はできません。食事はあらかじめ保護者が用意したものを提供します。
+・その他、詳しいサービス内容及び利用上の注意点等は、添付ファイル「東京都ベビーシッター利用支援事業利用案内 （PDF形式：3,027KB）;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/ichijihoiku/azukari/babysitter-annai.files/R6panhuretto.pdf」をご確認ください。
+・本事業の利用者は、保育所等の利用調整の際に、調整指数の加点（認可外保育施設等利用者と同等）が受けられます。
+
+## 利用方法
+
+申請方法
+1.利用希望者は、 添付ファイル「東京都ベビーシッター利用支援事業利用案内（PDF形式：3,027KB） ;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/ichijihoiku/azukari/babysitter-annai.files/R6panhuretto.pdf」及び「ベビーシッター利用支援事業利用約款」（PDF形式：231KB）;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/ichijihoiku/azukari/babysitter-annai.files/R6riyouyakkan.pdfを必ずお読みください。利用約款の全ての内容に同意いただくことが利用の条件となります。
+2.上記2点を確認後、対象者確認申請を電子申請（電子申請フォーム（外部サイト）;https://logoform.jp/form/Trw5/515646）で行うか（夜間帯の保護者は下記の添付書類が必要）、添付ファイル「ベビーシッター利用支援事業 対象者確認申請書」（PDF形式：143KB）;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/ichijihoiku/azukari/babysitter-annai.files/kakuninnshinnsei.pdfを記入し、添付書類(夜間帯の保護者のみ）と共に郵送または中野区役所3階11番窓口（子ども総合窓口）に提出します。（添付書類）　夜間帯保育を必要とする保護者…就労証明書など夜間帯保育を必要とすることを確認できる書類
+3.区は審査の上、対象者に「ベビーシッター利用支援事業 対象者確認書」を郵送で交付します。
+ベビーシッター利用支援事業 対象者確認書（見本）（PDF形式：56KB）;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/ichijihoiku/azukari/babysitter-annai.files/kakuninnsyo.pdf
+4.利用者はベビーシッター利用支援事業認定事業者（外部サイト）;http://www.fukushi.metro.tokyo.lg.jp/kodomo/hoiku/bs/jigyoushalist.htmlの中から事業者を選び、対象者確認書を提示の上、契約を締結します。
+事業者に連絡する際は、東京都ベビーシッター利用支援事業の利用者である旨お伝えください。
+5.利用者は契約締結後、ベビーシッター利用開始日の10日前（土日祝日を除く）までに契約書を持参の上、「ベビーシッター利用支援事業 アカウント発行申請書」（PDF形式：83KB）;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/ichijihoiku/azukari/babysitter-annai.files/akaunnto.pdf（対象者確認書と同時に送付します）を中野区役所3階11番窓口（子ども総合窓口）に提出します。 （窓口での確認事項があるため、郵送での申請はお受けしていません。ご了承ください。）
+6.区は審査の上、アカウント発行申請書を東京都に送付します。
+Web上の専用システムで助成券を発行するためのアカウントが、東京都が事業を委託する公益財団法人全国保育サービス協会から郵送されます。
+7.ベビーシッターの利用を開始し復職後、「復職証明書（PDF形式：194KB）;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/ichijihoiku/azukari/babysitter-annai.files/hukusyokusyoumeisyo.pdf」を郵送または中野区役所3階11番窓口（子ども総合窓口）に提出します。 （待機児童の保護者、育児休業満了者のみ）
+
+利用上の注意
+1.利用者は添付ファイル「ベビーシッター利用支援事業利用約款」（PDF形式：231KB）;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/ichijihoiku/azukari/babysitter-annai.files/R6riyouyakkan.pdfの第9条（利用者の責務）にある手続きを必ず行ってください。
+2.サービス利用期間中に同利用約款第11条の要件に該当することになった場合は、当初区が対象者確認書で利用を認めた利用期間内であっても利用終了となります。
+3.助成券は券に指定された月及び対象児童以外に利用することはできません。また余った場合でも1日や1月の上限を超えて利用したり、保育料以外の入会金やベビーシッターの交通費の割引に利用したりすることはできません。
+4.当事業はベビーシッターを直接あっせんする事業ではないため、利用希望者のベビーシッター利用を保証するものではありません。またベビーシッター事業者との契約に関するトラブルについては区及び東京都は一切関与できません。契約の際には内容を十分確認してください。
+5.現在、認証保育所等保護者補助金の支給を受けている方は、本制度との併用（併給）はできません。どちらか一方をお選びください。
+6.ご利用の際には、「ベビーシッターなどを利用するときの留意点（厚生労働省）」（外部サイト）;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/kodomo_kosodate/babysitter/index.htmlの確認もお願いします。
+
+## 根拠法令
+
+子ども・子育て支援法 第59条の2第1項
+
+## 問い合わせ
+
+子ども教育部 保育園・幼稚園課 幼稚園・認可外保育係
+中野区役所3階　子ども総合窓口
+03-3228-5681

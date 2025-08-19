@@ -1,0 +1,139 @@
+{
+  "area": {
+    "areaCode": "132101;小金井市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "児童青少年課児童青少年係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132101",
+    "psid": "psid3.0+3000020132101+1+UM108"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小金井市本町5丁目4番25号",
+    "contactComment": null,
+    "contactEmail": "s050699(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+    "contactEx": null,
+    "contactName": "児童青少年課本町児童館",
+    "contactPhone": "042-383-1176",
+    "contactUrl": null,
+    "zipCode": "1840004"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子どもたちがいつでも思いっきり遊ぶことができ、保護者も集うことができるのが児童館です。\n乳幼児から小学生、中・高校生世代まで、市内4つの児童館でさまざまな活動が行われています。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "日曜日、5月5日を除く祝日、5月7日、月末館内整理日、年末年始（12月28日から1月4日まで）",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "小金井市本町5丁目4番25号,小金井市東町4丁目25番7号,小金井市貫井南町4丁目3番23号 貫井南センター1F,小金井市緑町4丁目18番25号",
+    "implementationName": "本町児童館・東児童館・貫井南児童館・緑児童館\n東児童館"
+  },
+  "institutionName": {
+    "canonicalName": "児童館",
+    "shortName": "児童館"
+  },
+  "localGovernmentLink": {
+    "title": "児童館の利用について",
+    "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/jidokan/jidoukan2/jidoukanriyou/jidoukan2023.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "小金井市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "児童館の子育て支援事業「子育てひろば」のお知らせ",
+      "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/jidokan/jidoukan2/kosodatehiroba/index.html"
+    },
+    {
+      "title": "主な児童館の行事",
+      "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/jidokan/jidoukan2/jidoukan/index.html"
+    },
+    {
+      "title": "小金井市移動児童館「わんぱく号」のお知らせ",
+      "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/jidokan/jidoukan2/wanpaku/index.html"
+    },
+    {
+      "title": "小金井市児童館中・高校生世代事業のお知らせ",
+      "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/jidokan/jidoukan2/supesuattonukui/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童館は、18歳未満のお子さんに健全な遊びを提供し、健康増進を図るとともに、豊かな情操を育むことを目的としています。\n小金井市の児童館には、小学校就学前のお子さんが安心して遊べるスペースがあり、またお子さんの年齢に応じた各種イベントなども行っています。\n（イベントの詳細については、小金井市サイトや市報などでお知らせしています。）",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": 0
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "市内在住の18歳未満の児童"
+  },
+  "updateDate": "2023-04-15",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "本町児童館・貫井南児童館・緑児童館\n午前9時から午後5時30分まで\n東児童館\n午前9時から午後6時まで\n　注記：各館小学校3年生以下が午後5時以降利用する場合は、保護者の申込みが必要です。",
+    "fromHM": null,
+    "toHM": null
+  }
+}

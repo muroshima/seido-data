@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132152;国立市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子育て支援課 子ども保健・発達支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132152",
+    "psid": "psid3.0+1000020132152+1+UM5009"
+  },
+  "belongings": "母子健康手帳と生活保護受給者証明書または支援給付受給証明書、住民税非課税証明書",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "国立市富士見台3-16-5(保健センター内)",
+    "contactComment": "ファクス：042-574-3930",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 子育て支援課 子ども保健・発達支援係",
+    "contactPhone": "042-574-3311",
+    "contactUrl": "https://www.city.kunitachi.tokyo.jp/cgi-bin/inquiry.php/54?page_no=8552",
+    "zipCode": "1860003"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊産婦・乳幼児保健指導票の発行\n\n「生活保護世帯」、「支援給付費受給世帯」、「住民税非課税世帯」の方を対象に保健指導票を発行しています。\nこの指導票で、妊産婦、乳児健診(1か月健診)が無料になります。(医療機関は指定されています)\n\n該当の方は、母子健康手帳と生活保護受給者証明書または支援給付受給証明書、住民税非課税証明書を持参して、子育て支援課子ども保健・発達支援係(保健センター内)で申請してください。\n同一世帯に属している方全員について、生活保護の受給者であること、支援給付受給者であること、または住民税が非課税であることが分かる証明が必要です。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "産婦健康診査の費用助成",
+    "shortName": "妊産婦・乳幼児保健指導票の発行"
+  },
+  "localGovernmentLink": {
+    "title": "妊産婦・乳幼児保健指導票の発行",
+    "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec04/gyomu/0248/0130/8950.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "国立市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "該当の方は、母子健康手帳と生活保護受給者証明書または支援給付受給証明書、住民税非課税証明書を持参して、子育て支援課子ども保健・発達支援係(保健センター内)で申請してください。\n同一世帯に属している方全員について、生活保護の受給者であること、支援給付受給者であること、または住民税が非課税であることが分かる証明が必要です。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "産後の初期段階における母子に対する支援を強化し、妊娠期から子育て期にわたる切れ目のない支援を行うため、出産後間もない時期の産婦に対する健康診査費用を助成します。産婦健康診査は産後2週間、産後０か月など出産後間もない時期の産婦向けの健康診査で、母体の身体的機能の回復や授乳状況、精神状態の把握を行います。",
+  "support": {
+    "description": "妊産婦・乳幼児保健指導票の発行\n更新日：2023年06月30日\n「生活保護世帯」、「支援給付費受給世帯」、「住民税非課税世帯」の方を対象に保健指導票を発行しています。\nこの指導票で、妊産婦、乳児健診(1か月健診)が無料になります。(医療機関は指定されています)\n\n該当の方は、母子健康手帳と生活保護受給者証明書または支援給付受給証明書、住民税非課税証明書を持参して、子育て支援課子ども保健・発達支援係(保健センター内)で申請してください。\n同一世帯に属している方全員について、生活保護の受給者であること、支援給付受給者であること、または住民税が非課税であることが分かる証明が必要です。",
+    "materiallySupport": null,
+    "monetarySupport": "妊産婦、乳児健診(1か月健診)が無料になります。(医療機関は指定されています）"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "「生活保護世帯」、「支援給付費受給世帯」、「住民税非課税世帯」の方"
+  },
+  "updateDate": "2023-06-30",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

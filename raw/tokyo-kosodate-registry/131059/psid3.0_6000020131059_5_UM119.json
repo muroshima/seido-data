@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131059;文京区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健衛生部・文京保健所保健サービスセンター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131059",
+    "psid": "psid3.0+6000020131059+5+UM119"
+  },
+  "belongings": "母子健康手帳・お口の健康ノート（お持ちの方のみ）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都文京区春日1丁目16番21号\nシビックセンター3階(健診フロア）、8階北側（事務室）",
+    "contactComment": "ファクス番号：03-5803-1371",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健衛生部・文京保健所保健サービスセンター",
+    "contactPhone": "03-5803-1807",
+    "contactUrl": "https://logoform.jp/form/6KSu/554248",
+    "zipCode": "1128555"
+  },
+  "cost": "640",
+  "costConditions": "3歳までは、定期健診と歯科医師の指示の下、有料（640円）でフッ化物塗布を実施",
+  "description": "歯科保健相談\n内容\n歯科医師・歯科衛生士が、歯科相談、歯科健診、むし歯の予防方法などについてのアドバイスを行います。\n\n3歳までは、定期健診と歯科医師の指示の下、有料（640円）でフッ化物塗布を実施\n\n対象\n0歳～就学前の乳幼児（定期健診は3歳まで）\n\n曜日・時間\n開催曜日木曜日\n\n受付時間13時～14時30分（申込時に時間指定）\n\n申込方法\n事前予約制\n\n保健サービスセンターへ電話にて申込\n\n持ち物\n母子健康手帳・お口の健康ノート（お持ちの方のみ）\n\n令和6年度の各センターの日程\n保健サービスセンターの開催日\n|月|日|\n|:----|:----|\n|4月|4日、11日、18日、25日|\n|5月|9日、16日、23日|\n|6月|6日、13日、20日、27日|\n|7月|4日、11日、18日、25日|\n|8月|1日、8日、22日|\n|9月|5日、12日、19日、26日|\n|10月|3日、10日、17日、24日|\n|11月|7日、14日、28日|\n|12月|5日、12日、19日、26日|\n|1月|9日、16日、23日、30日|\n|2月|6日、13日、20日、27日|\n|3月|6日、13日、27日|\n\n保健サービスセンター本郷支所の開催日\n|月|日|\n|:----|:----|\n|4月|4日、18日|\n|5月|16日、23日|\n|6月|6日、20日|\n|7月|4日、18日|\n|8月|1日、29日|\n|9月|5日、19日|\n|10月|3日、17日|\n|11月|7日、21日|\n|12月|12日、26日|\n|1月|16日、23日|\n|2月|6日、20日|\n|3月|6日、27日|\n\nお住まいの地域を管轄する保健サービスセンター\n|保健サービスセンター|後楽1・2丁目、春日1・2丁目、小石川1～5丁目、白山2・3・4丁目、千石1～4丁目、水道1・2丁目、小日向1～4丁目<br>大塚1～6丁目、関口1～3丁目、目白台1～3丁目、音羽1・2丁目、本郷1・2丁目、本郷4・5・6丁目、西片1丁目|\n|保健サービスセンター<br>本郷支所|白山1・5丁目、本郷3・7丁目、湯島1～4丁目、西片2丁目、向丘1・2丁目<br>弥生1・2丁目、根津1・2丁目、千駄木1～5丁目、本駒込1～6丁目|\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "曜日・時間\n開催曜日木曜日\n\n受付時間13時～14時30分（申込時に時間指定）\n保健サービスセンターの開催日\n|月|日|\n|:----|:----|\n|4月|4日、11日、18日、25日|\n|5月|9日、16日、23日|\n|6月|6日、13日、20日、27日|\n|7月|4日、11日、18日、25日|\n|8月|1日、8日、22日|\n|9月|5日、12日、19日、26日|\n|10月|3日、10日、17日、24日|\n|11月|7日、14日、28日|\n|12月|5日、12日、19日、26日|\n|1月|9日、16日、23日、30日|\n|2月|6日、13日、20日、27日|\n|3月|6日、13日、27日|\n\n保健サービスセンター本郷支所の開催日\n|月|日|\n|:----|:----|\n|4月|4日、18日|\n|5月|16日、23日|\n|6月|6日、20日|\n|7月|4日、18日|\n|8月|1日、29日|\n|9月|5日、19日|\n|10月|3日、17日|\n|11月|7日、21日|\n|12月|12日、26日|\n|1月|16日、23日|\n|2月|6日、20日|\n|3月|6日、27日|\n",
+    "fromHM": "13:00",
+    "fromYMD": null,
+    "toHM": "14:30",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "保健サービスセンター,保健サービスセンター本郷支所"
+  },
+  "institutionName": {
+    "canonicalName": "文京区の子育てに関する相談",
+    "shortName": "歯科保健相談"
+  },
+  "localGovernmentLink": {
+    "title": "歯科保健相談",
+    "uri": "https://www.city.bunkyo.lg.jp/b029/p001591.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "文京区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "事前予約制\n\n保健サービスセンターへ電話にて申込",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条",
+    "regulationName": "母子保健法・口腔保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "歯科医師・歯科衛生士が、歯科相談、歯科健診、歯科保健指導及び希望者にフッ化物塗布を実施します",
+  "support": {
+    "description": "歯科医師・歯科衛生士が、歯科相談、歯科健診、むし歯の予防方法などについてのアドバイスを行います。",
+    "materiallySupport": "歯科医師・歯科衛生士が、歯科相談、歯科健診、むし歯の予防方法などについてのアドバイスを行います。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0歳～就学前の乳幼児（定期健診は3歳まで）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "0歳～就学前の乳幼児（定期健診は3歳まで）"
+  },
+  "updateDate": "2024-05-28",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

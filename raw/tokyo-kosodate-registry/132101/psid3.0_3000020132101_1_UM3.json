@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132101;小金井市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "市民課戸籍係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132101",
+    "psid": "psid3.0+3000020132101+1+UM3"
+  },
+  "belongings": "出生届　1通\n\n母子健康手帳\n（母子健康手帳は後日でも構いません）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小金井市本町6-6-3",
+    "contactComment": null,
+    "contactEmail": "s030199@koganei-shi.jp\n",
+    "contactEx": null,
+    "contactName": "市民課戸籍係",
+    "contactPhone": "042-387-9816",
+    "contactUrl": null,
+    "zipCode": "1848504"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "出生届\n更新日：2024年3月1日\n\nお子さまが生まれたときに必要な届出です。\n\n届出期間\n生まれた日から14日以内にお届けください。（生まれた日を1日目として数えます。）14日目が市役所の閉庁日（土日・祝日）にあたる場合は、翌開庁日までにお届けください。\n国外で生まれた場合は3ヵ月以内です。なお、国外で出生し、外国籍も取得された場合は国籍留保の届出も必要です。\n\n届出地\n子の本籍地または届出人の所在地の市区町村役場です。出生地の市区町村役場でも届出ができます。\n\n届出人\n原則として、父または母です。（父母両方が届出人になることもできます。）\n父母が離婚しているか未婚の場合は母です。\n\n届出に必要なもの\n出生届　1通\n　出生届書（医師等により右半分の「出生証明書」に記入済みのもの）が医療機関等で渡されますので、左半分（届出人欄に署名が必要）にご記入の上、お届けください。\n　命名は常用漢字、人名用漢字、ひらがな、カタカナを使用してください。\n　名前に使える漢字については、外部サイトへリンク　新規ウインドウで開きます。こちら（外部サイト）;https://www.moj.go.jp/MINJI/minji86.htmlをご参照ください。\n\n母子健康手帳\n　出生届出済証明を行いますので、ご持参ください。当日ご持参が難しい場合は、後日でも可能です。（市役所の開庁日に市民課戸籍係にお持ちください。）\n　出生届出済証明は、出生届を提出した市区町村役場でしかできませんのでご注意ください。\n\n届出と同日にできる手続（夜間休日窓口を除く）\n出産育児一時金請求書の市区町村長証明の発行（社会保険加入者対象）\n提出先で用意されている上記請求書用紙をお持ちください。「市区町村長が証明するところ」欄に証明します。（手数料は無料です）\n運転免許証、パスポートなどの本人確認書類;https://www.city.koganei.lg.jp/smph/kurashi/410/zyumininkankoseki/413/shimin29.htmlをお持ちください。\n父母以外の方が来庁された場合は、父または母の委任状と来庁された方の本人確認書類;https://www.city.koganei.lg.jp/smph/kurashi/410/zyumininkankoseki/413/shimin29.htmlが必要です。\n届書に記入された住所及び本籍が小金井市の方は、休日開庁時でも発行できる場合があります。\n\n他部署での手続き\n小金井市にお住まいの方\n\n乳幼児医療費助成医療証交付申請;https://www.city.koganei.lg.jp/smph/kosodatekyoiku/N84/iryohi/yoji_iryo/kosodateshien08.html\n児童手当申請;https://www.city.koganei.lg.jp/smph/kosodatekyoiku/N84/kakusyuteate/jidoteate/jidouteateseidogaiyo.html\n\n小金井市で国民健康保険に加入の方\n\n子どもの国民健康保険の加入;https://www.city.koganei.lg.jp/smph/kurashi/427/shikaku/sikakuidounado.html\n出産育児一時金の申請;https://www.city.koganei.lg.jp/smph/kurashi/427/hokenkyuuhu/D030501020201125.html（子どもの母が国民健康保険に加入している場合）\n\n注意事項\n上記届出により、戸籍の記載、住民票の作成が順次行われます。\n\n夜間・休日の戸籍届出について\n夜間・休日の戸籍の届出については、こちら;https://www.city.koganei.lg.jp/smph/kurashi/410/zyumininkankoseki/412/051.htmlをご覧ください。\n\n記入例\n 出生届の記入例はこちら（PDF：204KB）;https://www.city.koganei.lg.jp/kurashi/410/zyumininkankoseki/412/syussyou.files/shussho.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出生届",
+    "shortName": "出生届"
+  },
+  "localGovernmentLink": {
+    "title": "出生届",
+    "uri": "https://www.city.koganei.lg.jp/smph/kurashi/410/zyumininkankoseki/412/syussyou.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-01",
+    "updater": "小金井市"
+  },
+  "procedureCounter": "届出地\n子の本籍地または届出人の所在地の市区町村役場です。出生地の市区町村役場でも届出ができます。\n\n夜間・休日の戸籍届出について;https://www.city.koganei.lg.jp/smph/kurashi/410/zyumininkankoseki/412/051.html",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "お子さまが生まれたときに必要な届出です。\n\n出生届書（医師等により右半分の「出生証明書」に記入済みのもの）が医療機関等で渡されますので、左半分（届出人欄に署名が必要）にご記入の上、お届けください。\n\n命名は常用漢字、人名用漢字、ひらがな、カタカナを使用してください。",
+  "procedurePeriod": {
+    "conditions": "生まれた日から14日以内にお届けください。（生まれた日を1日目として数えます。）14日目が市役所の閉庁日（土日・祝日）にあたる場合は、翌開庁日までにお届けください。\n国外で生まれた場合は3か月以内です。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "原則として父または母です。\n父母両方が届出人になることもできます。\n父母が離婚しているか未婚の場合は母です。",
+  "regulation": {
+    "regulationArticle": "第49条～第52条",
+    "regulationName": "戸籍法"
+  },
+  "relatedLink": [
+    {
+      "title": "名前に使える漢字について（法務省サイト）",
+      "uri": "https://www.moj.go.jp/MINJI/minji86.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "出生届とは、生まれてきたお子さんの氏名等を戸籍に記載するための手続きです。\n戸籍に記載されることで、生まれてきたお子さんの親族関係が公的に証明されます。\nあわせて、母子健康手帳に出生届出済証明を行います。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "お子さま"
+  },
+  "updateDate": "2024-03-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

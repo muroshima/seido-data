@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131156;杉並区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "各保健センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131156",
+    "psid": "psid3.0+8000020131156+3+UM792"
+  },
+  "belongings": "母子健康手帳、フェイスタオル、普段使用している歯ブラシ",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "荻窪保健センター,高井戸保健センター,高円寺保健センター,上井草保健センター,和泉保健センター",
+    "contactPhone": "03-3391-0015,03-3334-4304,03-3311-0116,03-3394-1212,03-3313-9331",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "乳幼児の歯科健診・歯みがきデビュー教室\nページ番号1037更新日令和7年4月1日\n\n歯みがきデビュー教室\n上の前歯が生えた生後8か月から1歳3か月までのお子さんと保護者を対象に、歯みがきやむし歯予防についてのお話と歯みがきの練習を行っています。（歯科健診はありません）\n予約制となりますので、以下の申込フォームからお申し込みください。\n\n歯みがきデビュー教室申込フォーム（外部リンク）;https://logoform.jp/form/Y4gR/415885\n0歳からの歯みがき・歯科健診（乳幼児歯科相談）\n0歳から５歳までの方を対象に、歯みがきや生活習慣などの相談と歯科医師による歯科健診を行っています。\n予約制となりますので、以下の申込フォームからお申し込みください。\n\n0歳からの歯みがき・歯科健診（乳幼児歯科相談）申込フォーム（外部リンク）;https://logoform.jp/form/Y4gR/415885\n日程は以下のページをご覧ください。\n\n各種健康相談（出産・育児関連）;https://www.city.suginami.tokyo.jp/s048/953.html\n1歳6か月児歯科健康診査、3歳児歯科健康診査\n1歳6か月児健康診査、3歳児健康診査に合わせて、歯科健康診査を行っています。\n\nお問い合わせ時間\n午前8時30分～午後5時（土曜日、日曜日、祝日を除く）\n\n関連情報\n保健所・保健センター;https://www.city.suginami.tokyo.jp/kusei/gaiyou/shisetsu/genre/hoken/hokeniryou/hokenjo/index.html",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "0歳からの歯みがき・歯科健診（乳幼児歯科相談）申込フォーム（外部リンク）",
+      "uri": "https://logoform.jp/form/Y4gR/415885"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "各保健センター"
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児の歯の健康診査（0歳児歯科健康診査）",
+    "shortName": "0歳からの歯みがき・歯科健診（乳幼児歯科相談）"
+  },
+  "localGovernmentLink": {
+    "title": "乳幼児の歯科健診・歯みがきデビュー教室",
+    "uri": "https://www.city.suginami.tokyo.jp/s051/1037.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025-03-13",
+    "updater": "杉並区"
+  },
+  "procedureCounter": "各保健センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "0歳からの歯みがき・歯科健診（乳幼児歯科相談）申込フォーム（外部リンク）;https://logoform.jp/form/Y4gR/415885",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "乳幼児の口腔疾患の発生及び重症化を防止し、口腔の疾患及び発達に関する保護者の不安を軽減するために、歯科医師による口腔内診査と歯科衛生士による歯科保健指導及び予防処置を行います。",
+  "support": {
+    "description": "歯やお口に関して心配なことがあるお子さんや1歳6か月児あるいは3歳児歯科健康診査などでむし歯になりやすいと判断されたお子さんに、歯みがきや生活習慣などの相談と歯科医師による歯科健診を行っています。",
+    "materiallySupport": "歯やお口に関して心配なことがあるお子さんや1歳6か月児あるいは3歳児歯科健康診査などでむし歯になりやすいと判断されたお子さんに、歯みがきや生活習慣などの相談と歯科医師による歯科健診を行っています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0歳から5歳までのお子さん",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 5,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "0歳から5歳までのお子さん"
+  },
+  "updateDate": "2025-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "0歳からの歯みがき・歯科健診（乳幼児歯科相談）申込フォーム（外部リンク）;https://logoform.jp/form/Y4gR/415885",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

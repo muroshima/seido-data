@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "134015;八丈町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉健康課障がい福祉係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020134015",
+    "psid": "psid3.0+3000020134015+1+UM66"
+  },
+  "belongings": "①申請者（生計の主の方）と生まれたお子さんの保険証\n※申請時に生まれたお子さんの保険証がない場合は、後日お持ちください。\n②申請者の印鑑\n③世帯全員の住民票",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉健康課障がい福祉係",
+    "contactPhone": "04996-2-5570",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "⑥大気汚染による疾病の医療費助成\n気管支ぜん息など大気汚染の影響による疾病にかかる医療費のうち、健康保険を適用した後の自己負担分を助成します。\n【手続き場所】福祉健康課障がい福祉係\n【申請期間】住民となった日から 14 日以内\n【必要書類】①申請者（生計の主の方）と生まれたお子さんの保険証\n ※申請時に生まれたお子さんの保険証がない場合は、後日お持ちください。\n②申請者の印鑑\n③世帯全員の住民票\n【その他】18 歳未満対象\n⇒気管支ぜん息、慢性気管支炎、ぜん息性気管支炎、肺気しゅ\n【お問合せ先】福祉健康課障がい福祉係 ℡ 04996-2-5570",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の医療費助成制度",
+    "shortName": "大気汚染による疾病の医療費助成"
+  },
+  "localGovernmentLink": {
+    "title": "はちじょう子育てガイド",
+    "uri": "http://www.town.hachijo.tokyo.jp/kokasen/wp-content/uploads/2016/04/6ffc5a0436b28d855f1d36e25bd6c2bd.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-13",
+    "updater": "八丈町"
+  },
+  "procedureCounter": "福祉健康課障がい福祉係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "【必要書類】①申請者（生計の主の方）と生まれたお子さんの保険証\n※申請時に生まれたお子さんの保険証がない場合は、後日お持ちください。\n②申請者の印鑑\n③世帯全員の住民票",
+  "procedurePeriod": {
+    "conditions": "住民となった日から14日以内",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "大気汚染に係る健康障害者に対する医療費の助成に関する条例"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "大気汚染の影響を受けると推定される疾病（気管支ぜん息など）にかかった方に対し、一定の要件を満たす場合に、医療費の助成をしています。",
+  "support": {
+    "description": "気管支ぜん息など大気汚染の影響による疾病にかかる医療費のうち、健康保険を適用した後の自己負担分を助成します。",
+    "materiallySupport": null,
+    "monetarySupport": "気管支ぜん息など大気汚染の影響による疾病にかかる医療費のうち、健康保険を適用した後の自己負担分を助成します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "18 歳未満対象\n⇒気管支ぜん息、慢性気管支炎、ぜん息性気管支炎、肺気しゅ",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "18 歳未満対象\n⇒気管支ぜん息、慢性気管支炎、ぜん息性気管支炎、肺気しゅ"
+  },
+  "updateDate": "2016-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

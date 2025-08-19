@@ -1,0 +1,144 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部健康サービス課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM798"
+  },
+  "belongings": "母子健康手帳",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部健康サービス課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "そろそろ4か月を迎える赤ちゃんのために、各健康サポートセンターでは離乳食講習会を行っています。初めて離乳食を始める方は、ご参加ください。（調理実演有）\n日程を確認していただき、受講希望のサポートセンターにお電話でお申込みください。\n\n来所されるすべての方は、ご自宅で検温をお願いします。発熱や咳などの症状や体調のすぐれない方は来所をご遠慮ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "離乳食講習会の日程（PDF：566KB）（別ウィンドウで開きます）\nhttps://www.city.edogawa.tokyo.jp/documents/18326/rinyuushokukoushuukai.pdf",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "各健康サポートセンター"
+  },
+  "institutionName": {
+    "canonicalName": "離乳食教室",
+    "shortName": "離乳食講習会のご案内"
+  },
+  "localGovernmentLink": {
+    "title": "離乳食講習会のご案内",
+    "uri": "https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kodomo/kenshin/rinyuushokukousyuukai.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第3条（乳幼児の健康の保持増進）、9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "1．始める時期と準備について（外部サイトへリンク）（別ウィンドウで開きます）",
+      "uri": "https://youtu.be/tj90xh2kLSU"
+    },
+    {
+      "title": "3．離乳初期のメニューについて（外部サイトへリンク）（別ウィンドウで開きます）",
+      "uri": "https://youtu.be/3NyReucMgyI"
+    },
+    {
+      "title": "・赤ちゃんの栄養：離乳食",
+      "uri": "https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kenkodukuri/eiyo/point/akachan.html"
+    },
+    {
+      "title": "・栄養相談（予約制）",
+      "uri": "https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kenkodukuri/eiyo/sodanbi.html"
+    },
+    {
+      "title": "2．月齢に応じた進め方の目安について（外部サイトへリンク）（別ウィンドウで開きます）",
+      "uri": "https://youtu.be/nQCgaQKDS5"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "そろそろ4か月を迎える赤ちゃんのために、各健康サポートセンターでは離乳食講習会を行っています。初めて離乳食を始める方は、ご参加ください。（調理実演有）日程を確認していただき、受講希望のサポートセンターにお電話でお申込みください。",
+  "support": {
+    "description": "離乳食の進め方を調理実演を交えながらお話します。",
+    "materiallySupport": "離乳食の進め方を調理実演を交えながらお話します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "4から5か月頃のお子様の保護者",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 4
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 5
+    },
+    "targetPersons": "4から5か月頃のお子様の保護者"
+  },
+  "updateDate": "2023-04-03",
+  "useConsiderationFlag": false,
+  "utilization": "日程を確認していただき、受講希望のサポートセンターにお電話でお申込みください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

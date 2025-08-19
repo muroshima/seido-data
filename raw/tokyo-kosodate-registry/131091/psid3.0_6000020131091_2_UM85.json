@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131091;品川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保育施設運営課　運営支援担当（区立）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131091",
+    "psid": "psid3.0+6000020131091+2+UM85"
+  },
+  "belongings": "病後児保育医師連絡票\n病後児保育家庭連絡票\n年度内初めてのご利用の場合、病後児保育個人カード",
+  "capacity": "各園4人",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保育施設運営課　運営支援担当（区立）",
+    "contactPhone": "03-5742-6724",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "■利用料\n認可保育園の在園児は無料。その他のお子さんは1日2,000円\n\n■利用料助成制度\n品川区の病後児保育施設を利用した方のうち、区内在住の一部のご家庭に対し、利用料の助成をしています。\n\n＜対象世帯＞\n・生活保護世帯\n・住民税非課税世帯\n・住民税均等割のみ課税世帯\n\n利用料助成ご案内(PDF : 44KB) ;https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000033507_16.pdf\n利用料助成申請書(PDF : 97KB);https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000033507_14.pdf\n利用料助成口座振替依頼書(PDF : 36KB);https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000033507_12.pdf",
+  "description": "病後児保育\n\n■病後児保育とは\n区内在住で、保育園や幼稚園等に通園しているお子さんが病気の回復期のため集団保育が困難で、保護者が勤務の都合上、家庭で保育ができない場合にお子さんを保育園で一時的にお預かりします。\n\n■実施園\n西大井、西五反田、清水台、どんぐりの各保育園\n\n病後児保育のご案内(PDF : 109KB);https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000033507_15.pdf\n\n■対象\n生後6カ月～就学前まで\n\n■利用日時\n医師連絡票の発効日から7日間以内で、医師が必要と判断した期間\n月～土曜日(祝祭日、12月29日～1月3日は除く) 午前7時30分から午後6時30分までの必要な時間\n\n※どんぐり保育園のみ午前8時30分から午後6時までの必要な時間\n\n■申込方法\n実施園に電話で空き状況を確認し、主治医の診察を受け「品川区病後児保育医師連絡票」（所定様式）を記入してもらってから、利用する前日までに直接保育園に利用日時を予約してください。\n\n※病後児保育の当日予約の受付および土曜日における予約の受付はできません。\n月曜日の利用は、前週の金曜日（金曜日が休日の場合はその前日）午前9時から午後5時までに予約してください。\n\n病後児保育医師連絡票(PDF : 57KB) ;https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000033507_8.pdf\n病後児保育家庭連絡票(PDF : 33KB);https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000033507_9.pdf\n\n年度内初めてのご利用の場合必要なもの。\n病後児保育個人カード(PDF : 31KB);https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000033507_3.pdf\n\n■利用料\n認可保育園の在園児は無料。その他のお子さんは1日2,000円\n\n■利用料助成制度\n品川区の病後児保育施設を利用した方のうち、区内在住の一部のご家庭に対し、利用料の助成をしています。\n\n＜対象世帯＞\n・生活保護世帯\n・住民税非課税世帯\n・住民税均等割のみ課税世帯\n\n利用料助成ご案内(PDF : 44KB) ;https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000033507_16.pdf\n利用料助成申請書(PDF : 97KB);https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000033507_14.pdf\n利用料助成口座振替依頼書(PDF : 36KB);https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000033507_12.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "祝祭日、12月29日～1月3日",
+  "implementationPeriod": {
+    "conditions": "医師連絡票の発効日から7日間以内で、医師が必要と判断した期間\n月～土曜日",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "実施園\n西大井、西五反田、清水台、どんぐりの各保育園\n\n病後児保育のご案内(PDF : 109KB);https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000033507_15.pdf"
+  },
+  "institutionName": {
+    "canonicalName": "病児・病後児保育",
+    "shortName": "病後児保育"
+  },
+  "localGovernmentLink": {
+    "title": "病後児保育",
+    "uri": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-hoyou/kodomo-hoyou-ichizi/hpg000033507.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "品川区"
+  },
+  "procedureCounter": "実施園",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申込方法\n実施園に電話で空き状況を確認し、主治医の診察を受け「品川区病後児保育医師連絡票」（所定様式）を記入してもらってから、利用する前日までに直接保育園に利用日時を予約してください。\n\n※病後児保育の当日予約の受付および土曜日における予約の受付はできません。\n月曜日の利用は、前週の金曜日（金曜日が休日の場合はその前日）午前9時から午後5時までに予約してください。\n\n病後児保育医師連絡票(PDF : 57KB) ;https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000033507_8.pdf\n病後児保育家庭連絡票(PDF : 33KB);https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000033507_9.pdf\n\n年度内初めてのご利用の場合必要なもの。\n病後児保育個人カード(PDF : 31KB);https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000033507_3.pdf",
+  "procedurePeriod": {
+    "conditions": "病後児保育の当日予約の受付および土曜日における予約の受付はできません。\n月曜日の利用は、前週の金曜日（金曜日が休日の場合はその前日）午前9時から午後5時までに予約してください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第13項、第21条の9、第59条第11号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育所などに通所しているお子さんが病気や病気の回復期にあることから保育所での集団保育が困難で、かつ、保護者の就労などにより家庭で保育を行うことができない場合、病児・病後児保育を行っている施設で一時的に預かります。",
+  "support": {
+    "description": "区内在住で、保育園や幼稚園等に通園しているお子さんが病気の回復期のため集団保育が困難で、保護者が勤務の都合上、家庭で保育ができない場合にお子さんを保育園で一時的にお預かりします。",
+    "materiallySupport": "区内在住で、保育園や幼稚園等に通園しているお子さんが病気の回復期のため集団保育が困難で、保護者が勤務の都合上、家庭で保育ができない場合にお子さんを保育園で一時的にお預かりします。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後6カ月～就学前まで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 6,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生後6カ月～就学前まで"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "午前7時30分から午後6時30分までの必要な時間\n\n※どんぐり保育園のみ午前8時30分から午後6時までの必要な時間",
+    "fromHM": null,
+    "toHM": null
+  }
+}

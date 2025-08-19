@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "131148;中野区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども教育部保育園・幼稚園課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131148",
+    "psid": "psid3.0+8000020131148+1+UM76"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども教育部保育園・幼稚園課",
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "延長保育料（日々利用） （円）\n階層 世帯全員の区民税額 保育料\n18：15～19：15\nA 生活保護受給世帯 0\nB 現年度分住民税非課税世帯 0\nC Ａ階層およびＢ階層以外の世帯 500\n※　私立保育園は各園が定めます。",
+  "description": "保育所等の延長保育について（申込み・解除）\n延長保育の利用申込みをしたい方、延長保育の利用をやめたい方へのご案内です。\n\n利用申込みをする方\n中野区保育所等のごあんない（PDF形式：11,940KB）;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/hoikuen/zaienji/encyohoiku.files/goannai2023.pdfに、詳しい内容（37ページ）や月額利用の書類提出締切日（7ページ）を記載しています。\n\n区立保育所に在園の場合\n届出方法\n月額利用をご希望の方は、中野区保育入園係へお申込みが必要です。\nこちらの入力フォーム（外部サイト）;https://logoform.jp/form/Trw5/488847から電子申請してください。（保護者一部ずつ就労証明書を添付してください。）\nもしくは、教育保育給付支給認定申請書をダウンロードして記入し、保護者の就労証明書とあわせて、区役所窓口での直接提出、郵送での提出も可能です。\n※必ず上記様式の「保育を希望する利用時間」の該当項目にチェックをお願い致します。\n郵送先\n〒164-8501（住所不要）中野区役所　保育園・幼稚園課　保育入園係\n日額利用をご希望の方は、直接保育所へご相談ください。\n\n私立保育所・認定こども園・地域型保育事業に在園の場合\n各施設ごとに申し込みを受付けています。直接施設にご相談ください。\n延長保育を停止する場合も、直接施設に手続きを行ってください。\n認可居宅訪問型保育事業では延長保育を行っておりません。\n\n利用を解除したい方\n解除日の月末までに手続きをしてください。月途中の解除はできません。\n例えば、6月末で延長保育の利用をやめたい場合（7月以降は利用しない場合）は、6月末までに手続きが必要です。\n\n届出方法\nこちらの入力フォーム（外部サイト）;https://logoform.jp/form/Trw5/481492から電子申請してください。\n延長保育利用解除申出書（PDF形式：38KB）;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/hoikuen/zaienji/encyohoiku.files/enntyouhoikukaijyo.pdfをダウンロードして記入し、在園中の区立保育園や区役所窓口での直接提出、郵送での提出も可能です。\n郵送先\n〒164-8501（住所不要）中野区役所　保育園・幼稚園課　教育・保育支給認定係",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "区立保育園　延長保育の利用解除の申し出",
+      "uri": "https://logoform.jp/form/Trw5/481492"
+    },
+    {
+      "title": "延長保育利用申込み",
+      "uri": "https://logoform.jp/form/Trw5/488847"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "延長保育",
+    "shortName": "保育所等の延長保育（申込み・解除）"
+  },
+  "localGovernmentLink": {
+    "title": "保育所等の延長保育について（申込み・解除）",
+    "uri": "https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/hoikuen/zaienji/encyohoiku.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "中野区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "利用申込みをする方\n中野区保育所等のごあんない（PDF形式：11,940KB）;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/hoikuen/zaienji/encyohoiku.files/goannai2023.pdfに、詳しい内容（37ページ）や月額利用の書類提出締切日（7ページ）を記載しています。\n\n区立保育所に在園の場合\n届出方法\n月額利用をご希望の方は、中野区保育入園係へお申込みが必要です。\nこちらの入力フォーム（外部サイト）;https://logoform.jp/form/Trw5/488847から電子申請してください。（保護者一部ずつ就労証明書を添付してください。）\nもしくは、教育保育給付支給認定申請書をダウンロードして記入し、保護者の就労証明書とあわせて、区役所窓口での直接提出、郵送での提出も可能です。\n※必ず上記様式の「保育を希望する利用時間」の該当項目にチェックをお願い致します。\n郵送先\n〒164-8501（住所不要）中野区役所　保育園・幼稚園課　保育入園係\n日額利用をご希望の方は、直接保育所へご相談ください。\n\n私立保育所・認定こども園・地域型保育事業に在園の場合\n各施設ごとに申し込みを受付けています。直接施設にご相談ください。\n延長保育を停止する場合も、直接施設に手続きを行ってください。\n認可居宅訪問型保育事業では延長保育を行っておりません。\n\n利用を解除したい方\n解除日の月末までに手続きをしてください。月途中の解除はできません。\n例えば、6月末で延長保育の利用をやめたい場合（7月以降は利用しない場合）は、6月末までに手続きが必要です。\n\n届出方法\nこちらの入力フォーム（外部サイト）;https://logoform.jp/form/Trw5/481492から電子申請してください。\n延長保育利用解除申出書（PDF形式：38KB）;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/hoikuen/zaienji/encyohoiku.files/enntyouhoikukaijyo.pdfをダウンロードして記入し、在園中の区立保育園や区役所窓口での直接提出、郵送での提出も可能です。\n郵送先\n〒164-8501（住所不要）中野区役所　保育園・幼稚園課　教育・保育支給認定係",
+  "procedurePeriod": {
+    "conditions": "中野区保育所等のごあんない（PDF形式：11,940KB）;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/hoikuen/zaienji/encyohoiku.files/goannai2023.pdfに月額利用の書類提出締切日（7ページ）を記載しています。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第59条第2号",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "中野区内の保育園（保育所）や認定こども園、地域型保育施設では、保護者の勤務時間などにより、認定を受けた時間帯を超えて保育が必要なお子さんを対象に、別途料金を徴収のうえで、延長保育を実施しています。",
+  "support": {
+    "description": "中野区保育所等のごあんない（PDF形式：11,940KB）;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/hoikuen/zaienji/encyohoiku.files/goannai2023.pdf（37～38ページ）",
+    "materiallySupport": "中野区保育所等のごあんない（PDF形式：11,940KB）;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/hoikuen/zaienji/encyohoiku.files/goannai2023.pdf（37～38ページ）",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "（区立保育所に在園の場合、私立保育所・認定こども園・地域型保育事業に在園の場合）延長保育の利用申込みをしたい方、延長保育の利用をやめたい方"
+  },
+  "updateDate": "2024-03-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

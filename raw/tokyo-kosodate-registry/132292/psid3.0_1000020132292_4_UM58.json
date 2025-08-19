@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132292;西東京市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132292",
+    "psid": "psid3.0+1000020132292+4+UM58"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "西東京市中町一丁目5番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康課",
+    "contactPhone": "042-438-4021",
+    "contactUrl": null,
+    "zipCode": "2028555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "バースデーサポート事業\n\nバースデーサポート事業\n令和5年9月から、1歳を迎えられたお子様がいるご家庭の子育てを応援するため、バースデーサポート事業を実施しています。\n\nアンケートについて\n1歳の誕生日の月末以降に市から子育てに関するアンケート等をお送りいたします。\nご回答をいただいたご家庭に、後日ギフトをお送りいたします。\nなお、ギフトの送付は回答日（郵送の場合は、市の収受日）時点で、お子様と保護者の方の住民票が西東京市にある場合に限ります。\n\nギフトについて\nアンケートにご回答いただいたご家庭に、家事・育児を応援するためのギフトをお送りいたします。\nギフトの内容は次のとおりです。\n\n・令和5年度中に1歳になるお子様（令和4年4月1日から令和5年3月31日生まれ）がいるご家庭\nこども商品券またはクオカードペイ（いずれかのうち一方を選びいただけます。）\n第1子：10,000円相当\n第2子：20,000円相当\n第3子以降：30,000円相当\n\n・令和6年度中に1歳になるお子様（令和5年4月1日から令和6年3月31日生まれ）がいるご家庭\nデジタルギフト\n第1子：60,000円相当\n第2子：70,000円相当\n第3子以降：80,000円相当\n\nギフト発送までの流れ\n「西東京市バースデーサポートギフト　アンケートのご案内」の送付\n1歳の誕生日の月末以降に西東京市バースデーサポート事業に関するご案内を郵送します。\n\nアンケート回答及びギフト申請方法\nインターネット及び郵送で回答（ギフトの申請）をすることができます。\nインターネットの場合…同封されている「西東京市バースデーサポートギフト　アンケートのご案内」に記載されている二次元コードから回答（ギフトの申請）をしてください。\n郵送の場合…同封されている「西東京市バースデーサポートギフトアンケート」にご記入の上、同封の返信用封筒にお入れいただきご返送ください。\n\nギフトの発送\n回答日（郵送申請の場合は、市の収受日）の翌月末以降にギフトを発送いたします。\n\nギフトについて\nギフトの利用方法や有効期限については、ギフトに記載されている問合せ先までご連絡ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の育児に関する金銭的支援",
+    "shortName": "バースデーサポート事業"
+  },
+  "localGovernmentLink": {
+    "title": "バースデーサポート事業",
+    "uri": "https://www.city.nishitokyo.lg.jp/kosodate/bosi/birthday_support.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-10",
+    "updater": "西東京市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "アンケート回答及びギフト申請方法\nインターネット及び郵送で回答（ギフトの申請）をすることができます。\nインターネットの場合…同封されている「西東京市バースデーサポートギフト　アンケートのご案内」に記載されている二次元コードから回答（ギフトの申請）をしてください。\n郵送の場合…同封されている「西東京市バースデーサポートギフトアンケート」にご記入の上、同封の返信用封筒にお入れいただきご返送ください。\n\nギフトの発送\n回答日（郵送申請の場合は、市の収受日）の翌月末以降にギフトを発送いたします。\n\nギフトについて\nギフトの利用方法や有効期限については、ギフトに記載されている問合せ先までご連絡ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "西東京市では、令和5年9月から、1歳を迎えられたお子様がいるご家庭の子育てを応援するため、バースデーサポート事業を実施しています。",
+  "support": {
+    "description": "アンケートにご回答いただいたご家庭に、家事・育児を応援するためのギフトをお送りいたします。\nギフトの内容は次のとおりです。\n\n・令和5年度中に1歳になるお子様（令和4年4月1日から令和5年3月31日生まれ）がいるご家庭\nこども商品券またはクオカードペイ（いずれかのうち一方を選びいただけます。）\n第1子：10,000円相当\n第2子：20,000円相当\n第3子以降：30,000円相当\n\n・令和6年度中に1歳になるお子様（令和5年4月1日から令和6年3月31日生まれ）がいるご家庭\nデジタルギフト\n第1子：60,000円相当\n第2子：70,000円相当\n第3子以降：80,000円相当",
+    "materiallySupport": null,
+    "monetarySupport": "アンケートにご回答いただいたご家庭に、家事・育児を応援するためのギフトをお送りいたします。\nギフトの内容は次のとおりです。\n\n・令和5年度中に1歳になるお子様（令和4年4月1日から令和5年3月31日生まれ）がいるご家庭\nこども商品券またはクオカードペイ（いずれかのうち一方を選びいただけます。）\n第1子：10,000円相当\n第2子：20,000円相当\n第3子以降：30,000円相当\n\n・令和6年度中に1歳になるお子様（令和5年4月1日から令和6年3月31日生まれ）がいるご家庭\nデジタルギフト\n第1子：60,000円相当\n第2子：70,000円相当\n第3子以降：80,000円相当"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "1歳を迎えられたお子様",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "1歳を迎えられたお子様がいるご家庭"
+  },
+  "updateDate": "2024-04-30",
+  "useConsiderationFlag": false,
+  "utilization": "1歳の誕生日の月末以降に市から子育てに関するアンケート等をお送りいたします。\nご回答をいただいたご家庭に、後日ギフトをお送りいたします。\nなお、ギフトの送付は回答日（郵送の場合は、市の収受日）時点で、お子様と保護者の方の住民票が西東京市にある場合に限ります。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

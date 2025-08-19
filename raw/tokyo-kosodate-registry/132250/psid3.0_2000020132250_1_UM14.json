@@ -1,0 +1,136 @@
+{
+  "area": {
+    "areaCode": "132250;稲城市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "稲城市　子ども福祉部　おやこ包括支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132250",
+    "psid": "psid3.0+2000020132250+1+UM14"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "稲城市百村112番地の1（稲城市保健センター内）",
+    "contactComment": "FAX：042-377-4944",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "稲城市　子ども福祉部　おやこ包括支援センター",
+    "contactPhone": "042-378-3434",
+    "contactUrl": "https://www.city.inagi.tokyo.jp/cgi-bin/form_enq/formmail.cgi?d=toiawase",
+    "zipCode": "2060804"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "あかちゃん訪問は、お子さんがお生まれになった すべてのご家庭に保健師・訪問指導員がお伺いしています。\nお子さんが生まれたら、必ず出生通知票をご提出ください（お子さんの名前は空欄でも結構です）。\n出生通知票により、新生児・未熟児の訪問や相談等をお受けします。\nあかちゃん訪問で産婦さんとお子さんとお会いでき、申請を頂いた方に「あかちゃんギフト（電子カタログギフト10万円分:国及び東京都出産・子育て応援事業）」をお渡しします。\n里帰り先への訪問希望の方\n稲城市以外の市区町村に里帰り中で、里帰り先に訪問を希望される方は、以下の流れをご確認ください。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "稲城市新生児訪問指導（他市依頼）電子申請はこちらから",
+      "uri": "https://www.city.inagi.tokyo.jp/kosodate/kosodate/1010148/1004683/1004708/1004713.html"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+    "shortName": "あかちゃん訪問を受けた方に「あかちゃんギフト」をお渡しします"
+  },
+  "localGovernmentLink": {
+    "title": "あかちゃん訪問を受けた方に「あかちゃんギフト」をお渡しします",
+    "uri": "https://www.city.inagi.tokyo.jp/kosodate/kosodate/1010148/1004683/1004708/1004713.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/20",
+    "updater": "稲城市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "出生通知票は、妊娠届の際に交付した母子健康手帳と一緒にお渡ししております。（チラシの二次元コードまたははがき）\n里帰りなどで、自宅に戻るのが遅くなる方でも、出生通知票を必ずご提出ください。\nまた、稲城市以外で母子健康手帳の交付を受けた方は、稲城市おやこ包括支援センター（042‐378‐3434）に連絡してください。\n注意：出生通知票は、低出生体重児の届け出（母子保健法第18条に基づく、出生時の体重が2,500グラム未満のお子さんの届け出）も兼ねています。",
+  "procedurePeriod": {
+    "conditions": "他自治体であかちゃん訪問（新生児訪問指導）を受けるまでの流れ\n1.保護者が受けたい自治体（市区町村）に、稲城市民があかちゃん訪問を受けられるか等を確認する。\n2.保護者が稲城市おやこ包括支援センターへ、電子申請する。（以下リンクより）\n3.稲城市おやこ包括支援センターが、「依頼書」を作成し、1で確認した自治体に送付する。\n4.\\依頼先の自治体から、保護者にあかちゃん訪問の連絡があります。\n（注）「あかちゃんギフト」をご希望の方は稲城市でもあかちゃん訪問を受ける必要があります。\n稲城市新生児訪問指導（他市依頼）電子申請はこちらから;https://logoform.jp/form/KPTZ/570463",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第21条の10の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "稲城市ファミリー・サポート・センター事業",
+      "uri": " https://www.city.inagi.tokyo.jp/smph/kosodate/kosodate/kosodate_hojo/kosodate.html"
+    },
+    {
+      "title": "育児支援ヘルパー事業",
+      "uri": "https://www.city.inagi.tokyo.jp/smph/kosodate/asobi/ikujishienhelper.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "生後4か月を迎えるまでの乳児がいるご家庭には専門職のほか、研修を受けたスタッフが訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+  "support": {
+    "description": "・お子さんの健康状態及び発育状況の観察（体重測定もあります）\n・授乳、子育てに関する相談\n・お母さん自身の健康相談\n・行政サービス（健診、予防接種、相談窓口など）の案内",
+    "materiallySupport": null,
+    "monetarySupport": "対象者（あかちゃんギフト）\n次の要件を満たす方\n1.お子さん及び養育している方の住民登録が、あかちゃん訪問を受けた日に稲城市内にあること\n2.あかちゃんギフト申請書を提出し、今後の伴走型支援（各期のアンケート、健康診査など）を受けていただける方\n3.生後4か月までにあかちゃん訪問を受けた方（里帰り先で訪問を受けた方も稲城市で訪問を受ける必要があります。）\n（注）\n（1）他の自治体（転入前自治体など）で同様のギフト（出産・子育て応援交付金による子育て応援ギフト）を受け取った方を除く\n（2）以下の項目に該当する場合は、おやこ包括支援センターまでご相談ください。\n・海外で出産し帰国した\n・父母が離婚協議中\n・乳児が施設に入所した\n・里親委託された\n・DVを理由に避難している\n・乳児が出生後に亡くなられた\n東京都事業のご案内\n令和5年4月1日以降に出生した児を養育している方\n東京都ホームページ　「東京都出産・子育て応援事業から赤ちゃんファーストを継続しますから」;https://www.fukushi.metro.tokyo.lg.jp/kodomo/shussan/tokyo_shussankosodateouen\nあかちゃんギフトについて\nギフトはお子さん一人につき10万円相当の「電子カタログギフト」です。　\nお渡しの流れ\n1.保護者が出生通知票を市に送ります。\n2.あかちゃん訪問の日程を調整します。（複数の携帯電話から連絡します）\n3.あかちゃん訪問に伺い、産婦さんとお子さんにお会いします。申請書（同意欄に署名したもの）をいただきます。\n4.「電子カタログギフト」のホームページにアクセスする、URL、ID、パスワードを配布します。\n5.養育者が「電子カタログギフト」サイトにアクセスし、商品を選びます。\n6.選んだ商品が届きます。\n（注意）電子カタログギフトの サイトの利用期限は初回登録から6か月間です。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生後4カ月までのお子さんがいるご家庭"
+  },
+  "updateDate": "2024/07/08",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

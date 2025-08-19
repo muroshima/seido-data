@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "133035;瑞穂町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "協働推進部 安全・安心課 安全係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133035",
+    "psid": "psid3.0+1000020133035+6+UM115"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡瑞穂町大字箱根ケ崎2335番地",
+    "contactComment": "受付時間 平日の午前8時30分から午後5時まで",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "協働推進部 安全・安心課 安全係",
+    "contactPhone": "042-557-7610",
+    "contactUrl": "https://www.town.mizuho.tokyo.jp/dept/180000/120500/120302/index.html",
+    "zipCode": "1901292"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子どもの交通事故防止のために\n小学校入学前の準備\n小学生の交通事故は登下校中のものが多いです。小学校入学前に通学路を親子で確認しましょう。\n・危険箇所を確認し、親子で共有しましょう。事故防止だけでなく、防犯にもつながります。\n・交差点や横断歩道、信号機のある場所を把握し、子どもの交通行動を確認しましょう。\n\n具体的な言葉で話す\n・交通ルールを教える時\nその行動の理由、何のためにするのかを伝えましょう。\n(例)横断歩道の渡り方\n×「右左右だよ、よく見てね。」\n〇「右左で車や自転車は来ていないかな、もう一度右を見て渡れるか確認しよう。」\n\n・子どもが道路の向かい側から飛び出そうとしている時\n×「危ない！」と叫ぶ\n⇒子どもはそれを聞くと、危ないから安全なところ(母親・父親などのいる場所)へ行かなければと考え、そのまま飛び出してしまいます。\n〇「止まって」「動かないで」「待って」と指示を出す\n⇒子どもは指示に従ってとまるので、飛び出しません。\n\n保護者が正しい交通ルールで行動\n保護者は子どもにとって最も身近な指導者です。子どもは大人の行動をまねし、それが正しいものと思います。\n保護者やまわりの大人が交通ルールやマナーを守り、正しいお手本を見せることで、子どもにも正しい交通ルールが身につきます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関する相談窓口一覧",
+    "shortName": "子どもと高齢者の交通事故防止"
+  },
+  "localGovernmentLink": {
+    "title": "子どもと高齢者の交通事故防止",
+    "uri": "https://www.town.mizuho.tokyo.jp/kankyo/004/006/p009291.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "瑞穂町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第30条の4第2項",
+    "regulationName": "医療法"
+  },
+  "relatedLink": [
+    {
+      "title": "警視庁ホームページ(なくそう子どもの交通事故) (外部リンク);警視庁ホームページ(高齢者の交通事故防止) (外部リンク)",
+      "uri": "https://www.keishicho.metro.tokyo.lg.jp/kotsu/jikoboshi/kids/kodomo01.html;https://www.keishicho.metro.tokyo.lg.jp/kotsu/jikoboshi/koreisha/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "瑞穂町内の子育てに関する相談窓口の一覧です。",
+  "support": {
+    "description": "交通事故防止",
+    "materiallySupport": "交通事故防止",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "小学校入学前"
+  },
+  "updateDate": "2023-02-22",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

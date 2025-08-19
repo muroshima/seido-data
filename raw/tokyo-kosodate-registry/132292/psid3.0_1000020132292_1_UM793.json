@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132292;西東京市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保険年金課国民年金係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132292",
+    "psid": "psid3.0+1000020132292+1+UM793"
+  },
+  "belongings": "●本人確認書類：マイナンバーカード、運転免許証、パスポート、在留カード等\n（注意）届出者が被保険者と同一世帯の者でない場合は、委任状をご用意ください（代理人の本人確認書類も必要です。）\n●基礎年金番号または個人番号の確認書類：マイナンバーカード、マイナンバーの記載がある住民票の写し、年金手帳、基礎年金番号通知書等のいずれか一つ\n●出産日もしくは出産予定日の確認\n出産前：母子健康手帳など出産予定日を確認できる書類\n出産後：出産日が市役所で確認できる場合は原則不要。ただし、被保険者と子が別世帯の場合は、出生証明書など出産日及び親子関係を明らかにする書類が必要",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "西東京市南町五丁目6番13号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保険年金課国民年金係",
+    "contactPhone": "042-460-9825",
+    "contactUrl": null,
+    "zipCode": "1888666"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "出産前後の一定期間の国民年金保険料が免除されます\n\n産前産後期間の保険料免除制度\n国民年金第1号被保険者の方が出産した際に、届出によって出産前後の一定期間の国民年金保険料が免除される制度が、平成31年（2019年）から開始しました。\n\n産前産後期間の免除制度では、保険料の免除が認定された期間も、保険料を納付したものとして老齢基礎年金の金額に反映されます。\n産前産後期間の免除期間も、付加保険料は納付できます。\nまた、届出を行う期間について、すでに国民年金保険料免除・猶予、学生納付特例、法定免除が承認されている場合でも届出ができます。\n\n対象者\n国民年金第1号被保険者で、出産予定日または出産日が平成31年2月1日以降の方\nただし、国民年金の任意加入期間は対象になりません。また、免除の対象となるのは、制度開始の平成31年4月以降となります。\n\n免除期間\n出産予定日または出産日が属する月の前月から4か月間の国民年金保険料が免除されます。\nなお、多胎妊娠の場合は、出産予定日または出産日が属する月の3か月前から最大6か月間の国民年金保険料が免除されます。\n（注意）出産とは、妊娠85日（4か月）以上の出産をいいます。（死産、流産、早産された方を含みます。）\n\n届出方法\n出産予定日の6か月前から届出できます。\n届出期限はありませんので、出産後でも届出できますが、届出をしないと免除にはなりません。\n\n必要書類\n●本人確認書類：マイナンバーカード、運転免許証、パスポート、在留カード等\n（注意）届出者が被保険者と同一世帯の者でない場合は、委任状をご用意ください（代理人の本人確認書類も必要です。）\n●基礎年金番号または個人番号の確認書類：マイナンバーカード、マイナンバーの記載がある住民票の写し、年金手帳、基礎年金番号通知書等のいずれか一つ\n●出産日もしくは出産予定日の確認\n出産前：母子健康手帳など出産予定日を確認できる書類\n出産後：出産日が市役所で確認できる場合は原則不要。ただし、被保険者と子が別世帯の場合は、出生証明書など出産日及び親子関係を明らかにする書類が必要\n\n届出先\n保険年金課国民年金係（田無庁舎）または市民課総合窓口係（防災・保谷保健福祉総合センター）\n\n申請書\n日本年金機構ホームページから届出用紙【国民年金被保険者関係届出書（申出書）等】をダウンロードできます。\n日本年金機構ホームページ（外部リンク）;http://www.nenkin.go.jp/service/kokunen/menjo/20180810.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "産前産後期間の国民年金保険料免除",
+    "shortName": "産前産後期間の保険料免除制度"
+  },
+  "localGovernmentLink": {
+    "title": "出産前後の一定期間の国民年金保険料が免除されます",
+    "uri": "https://www.city.nishitokyo.lg.jp/kurasi/nenkin/sanzensango.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-11",
+    "updater": "西東京市"
+  },
+  "procedureCounter": "保険年金課国民年金係（田無庁舎）または市民課総合窓口係（防災・保谷保健福祉総合センター）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "出産予定日の6か月前から届出できます。\n届出期限はありませんので、出産後でも届出できますが、届出をしないと免除にはなりません。\n\n申請書\n日本年金機構ホームページから届出用紙【国民年金被保険者関係届出書（申出書）等】をダウンロードできます。\n日本年金機構ホームページ（外部リンク）;http://www.nenkin.go.jp/service/kokunen/menjo/20180810.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第88条の2（保険料の納付義務）",
+    "regulationName": "国民年金法"
+  },
+  "relatedLink": [
+    {
+      "title": "日本年金機構ホームページ（外部リンク）",
+      "uri": "http://www.nenkin.go.jp/service/kokunen/menjo/20180810.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": "出産予定日または出産日が平成31年2月1日以降",
+  "summary": "国民年金の第1号被保険者が出産した場合には、出産前後の一定期間の国民年金保険料が免除されます。\n免除期間は年金額を計算する際、保険料を納めた期間として扱われます。",
+  "support": {
+    "description": "出産予定日または出産日が属する月の前月から4か月間の国民年金保険料が免除されます。\nなお、多胎妊娠の場合は、出産予定日または出産日が属する月の3か月前から最大6か月間の国民年金保険料が免除されます。\n（注意）出産とは、妊娠85日（4か月）以上の出産をいいます。（死産、流産、早産された方を含みます。）",
+    "materiallySupport": null,
+    "monetarySupport": "出産予定日または出産日が属する月の前月から4か月間の国民年金保険料が免除されます。\nなお、多胎妊娠の場合は、出産予定日または出産日が属する月の3か月前から最大6か月間の国民年金保険料が免除されます。\n（注意）出産とは、妊娠85日（4か月）以上の出産をいいます。（死産、流産、早産された方を含みます。）"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "016"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "国民年金第1号被保険者で、出産予定日または出産日が平成31年2月1日以降の方\nただし、国民年金の任意加入期間は対象になりません。また、免除の対象となるのは、制度開始の平成31年4月以降となります。"
+  },
+  "updateDate": "2023-08-14",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

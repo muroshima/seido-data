@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども生活部子ども家庭支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+1+UM28"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども生活部子ども家庭支援課",
+    "contactPhone": "042-724-4419",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/9",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "母子及び父子福祉資金\n都内にお住まいで、20歳未満のお子さん等を扶養している母子家庭の母・父子家庭の父等を対象とした資金の貸付けです。\n貸し付けが自立につながると判断され、返済計画を立てることができる方が対象となります。\n\n資金の種類や条件等の詳細・ご相談につきましては、子ども家庭支援課にお問い合わせください。\n・貸付の決定に当たっては審査を行います。\n・審査の結果、貸付けできない場合もありますのでご了承ください。\n・審査及び交付に時間がかかりますので、余裕をもって必ず事前にご相談ください。",
+  "electronicSubmission": false,
+  "formLink": [
+    {
+      "title": "町田市Web口座振替受付サービス（母子・父子、女性福祉資金償還）",
+      "uri": "https://koukin-koufuri.jp/machida_city/GPFMCD01010Action_doInit.action?tax_fee=0150"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "母子父子寡婦福祉資金",
+    "shortName": "母子福祉資金・父子福祉資金"
+  },
+  "localGovernmentLink": {
+    "title": "母子福祉資金・父子福祉資金",
+    "uri": "https://kosodate-machida.tokyo.jp/soshiki/4/5/7/1183.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（母子福祉資金の貸付け）、第14条（母子・父子福祉団体に対する貸付け）、第31条の6（父子福祉資金の貸付け）、第32条（寡婦福祉資金の貸付け）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "母子家庭の母、父子家庭の父、および寡婦の方の経済的自立や、扶養しているお子さんの福祉増進のために、必要な資金をお貸しする制度です。",
+  "support": {
+    "description": "都内にお住まいで、20歳未満のお子さん等を扶養している母子家庭の母・父子家庭の父等を対象とした資金の貸付けです。貸し付けが自立につながると判断され、返済計画を立てることができる方が対象となります。資金の種類や条件等の詳細・ご相談につきましては、子ども家庭支援課にお問い合わせください。貸付の決定に当たっては審査を行います。審査の結果、貸付けできない場合もありますのでご了承ください。審査及び交付に時間がかかりますので、余裕をもって必ず事前にご相談ください。",
+    "materiallySupport": "資金の貸付け",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "078"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "都内にお住まいで、20歳未満のお子さん等を扶養している母子家庭の母・父子家庭の父等",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "都内にお住まいで、20歳未満のお子さん等を扶養している母子家庭の母・父子家庭の父等"
+  },
+  "updateDate": "2022-11-01",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

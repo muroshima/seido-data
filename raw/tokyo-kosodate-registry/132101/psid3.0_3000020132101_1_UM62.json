@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132101;小金井市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "自立生活支援課障害福祉係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132101",
+    "psid": "psid3.0+3000020132101+1+UM62"
+  },
+  "belongings": "判定基準が手帳の基準と異なり、所定の診断書が必要となりますので（一部診断書省略可）、一度窓口までご相談ください。申請書類等をご案内させていただきます。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": "s050299(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。\n\n小金井市役所",
+    "contactEx": null,
+    "contactName": "自立生活支援課障害福祉係",
+    "contactPhone": "042-387-9842",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "特別児童扶養手当\n更新日：2024年4月1日\n\n対象者\n　20歳未満で、法令により定められた程度の障害を有する児童を監護する父母又は養育者。おおむね以下に該当します。\n身体障害　おおむね身体障害者手帳1級から3級程度（下肢障害については4級の一部を含む）の疾患により\n　　　　　長期にわたる安静を必要とする程度の状態にあるものなど\n知的障害　おおむね愛の手帳1度から3度程度\n精神障害　上記と同程度の障害（自閉スペクトラム症等により日常生活に著しい制限を受ける方等）\n重複障害　複数の障害がある場合は、個々の障害の程度が上記より軽度な場合でも該当となることがあります。\n\n制限\n・　前年の所得が一定額を超えている方　　所得制限表;https://www.city.koganei.lg.jp/smph/kenkofukuhsi/shogaishafukushi/teateshougai/syotoku_teate.html\n・　対象児童が施設等に入所している方\n・　対象児童が日本国内に住所を有しない方\n・　対象児童が当該障害を支給事由とする年金を受給している方\n・　受給者（申請者）が日本国内に住所を有しない方\n\n内容\n　特別児童扶養手当1級認定（おおむね身体障害者手帳1級・2級、愛の手帳1度・2度）の場合は手当月額55,350円を、特別児童扶養手当2級認定（おおむね身体障害者手帳3級、愛の手帳3度）の場合は手当月額36,860円を、4月・8月・11月にそれぞれ前月までの4か月分を金融機関（ゆうちょ銀行を含む）口座へ振り込みます。\n　なお、申請のあった月の翌月分から支給します。\n\n手続き方法\n　判定基準が手帳の基準と異なり、所定の診断書が必要となりますので（一部診断書省略可）、一度窓口までご相談ください。申請書類等をご案内させていただきます。\n\n関連リンク\n東京都心身障害者福祉センター「特別児童扶養手当（国制度）」\n外部サイトへリンク　https：//www.fukushihoken.metro.tokyo.lg.jp/shinsho/teate/toku_ji.html（外部サイト）;https://www.fukushi.metro.tokyo.lg.jp/shinsho//teate/toku_ji.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "特別児童扶養手当",
+    "shortName": "特別児童扶養手当"
+  },
+  "localGovernmentLink": {
+    "title": "特別児童扶養手当",
+    "uri": "https://www.city.koganei.lg.jp/smph/kenkofukuhsi/shogaishafukushi/teateshougai/tokuji.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "小金井市"
+  },
+  "procedureCounter": "自立生活支援課障害福祉係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "判定基準が手帳の基準と異なり、所定の診断書が必要となりますので（一部診断書省略可）、一度窓口までご相談ください。申請書類等をご案内させていただきます。",
+  "procedurePeriod": {
+    "conditions": "申請のあった月の翌月分から支給します。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2章",
+    "regulationName": "特別児童扶養手当等の支給に関する法律"
+  },
+  "relatedLink": [
+    {
+      "title": "東京都心身障害者福祉センター「特別児童扶養手当（国制度）」",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/shinsho//teate/toku_ji.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "20歳未満で、法令により定められた程度の障がいの状態にある児童を監護している父母（主として児童の生計を維持するいずれか一人）または父母にかわって児童を養育（児童と同居し、監護し、生計を維持）する方に支給されます。",
+  "support": {
+    "description": "特別児童扶養手当1級認定（おおむね身体障害者手帳1級・2級、愛の手帳1度・2度）の場合は手当月額55,350円を、特別児童扶養手当2級認定（おおむね身体障害者手帳3級、愛の手帳3度）の場合は手当月額36,860円を、4月・8月・11月にそれぞれ前月までの4か月分を金融機関（ゆうちょ銀行を含む）口座へ振り込みます。\n　なお、申請のあった月の翌月分から支給します。",
+    "materiallySupport": null,
+    "monetarySupport": "特別児童扶養手当1級認定（おおむね身体障害者手帳1級・2級、愛の手帳1度・2度）の場合は手当月額55,350円を、特別児童扶養手当2級認定（おおむね身体障害者手帳3級、愛の手帳3度）の場合は手当月額36,860円を、4月・8月・11月にそれぞれ前月までの4か月分を金融機関（ゆうちょ銀行を含む）口座へ振り込みます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "20歳未満で、法令により定められた程度の障害を有する児童を監護する父母又は養育者。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": 0
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "20歳未満で、法令により定められた程度の障害を有する児童を監護する父母又は養育者。おおむね以下に該当します。\n身体障害　おおむね身体障害者手帳1級から3級程度（下肢障害については4級の一部を含む）の疾患により長期にわたる安静を必要とする程度の状態にあるものなど\n知的障害　おおむね愛の手帳1度から3度程度\n精神障害　上記と同程度の障害（自閉スペクトラム症等により日常生活に著しい制限を受ける方等）\n重複障害　複数の障害がある場合は、個々の障害の程度が上記より軽度な場合でも該当となることがあります。"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

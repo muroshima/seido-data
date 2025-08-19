@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健所保健予防課母子保健係（事業担当）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+6+UM34"
+  },
+  "belongings": "母子手帳\nフェイスタオル3枚（母乳で濡れてもよい長方形の大きめのタオル）\nバスタオル2枚\n濡れたタオルを持ち帰るためのビニール袋",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健所保健予防課母子保健係（事業担当）",
+    "contactPhone": "042-725-5127",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子育て・思春期・更年期\n～女性のいろいろな相談と乳房マッサージ～\n\n妊娠中の生活、こんな事をやっても大丈夫？\n出産の経過はどんな感じ？初めてのお産は時間がかかるの？\n母乳が足りているか不安。\n赤ちゃんの睡眠リズムが、不安定だけど大丈夫？\n思春期の体の変化について聞きたい。\nこんな症状は更年期かしら？\n家族計画の相談がしたい。\n子どもが欲しいけど妊娠しない。\n助産師が対応します。お気軽にご相談ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "健康福祉会館2階\n\n大きな地図を見る（GoogleMapページへ）\nhttps://www.google.co.jp/maps?q=35.5462033,139.4500744&ll=35.5462033,139.4500744&z=17"
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関するサポート",
+    "shortName": "母性保健相談・母乳育児相談（乳房マッサージと来所でのご相談（予約制））"
+  },
+  "localGovernmentLink": {
+    "title": "母性保健相談・母乳育児相談",
+    "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/10/1126.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "乳房マッサージと来所でのご相談（予約制）\n申込受付電話\n042-725-5419\n\n・乳房マッサージは、1回の出産で授乳中に1回、卒乳時に1回ご利用できます。（授乳中に2回の利用はできません。）\n・1ヵ月未満の児の来所は、感染予防のためご遠慮ください。\n・卒乳・断乳での利用は、必ず事前に助産師への電話相談、または乳幼児母性相談をご利用の上、予約をお取りください。\n・保育スタッフはいません。見守る必要があるお子さまをお連れになると、マッサージに十分な時間をとれなくなる場合があります。ご了承ください。お連れになる際の安全管理は保護者の方となります。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第15条（妊娠の届出）、第16条（母子健康手帳）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子育て・思春期・更年期の方に対して、女性のいろいろな相談と乳房マッサージなど助産師が対応します。お気軽にご相談ください。",
+  "support": {
+    "description": "乳房マッサージと来所でのご相談（予約制）",
+    "materiallySupport": "乳房マッサージと来所でのご相談（予約制）",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "078"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "町田市内にお住まいの方\n\n（生後4か月未満で町田市に里帰り中の方も利用可能です。）"
+  },
+  "updateDate": "2023-03-06",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "毎週木曜日（年末年始、祝日を除く）\n\n午前（午前9時45分から正午）、午後（午後1時から午後3時）、それぞれ5枠。\n\n1枠30分程度です。",
+    "fromHM": "09:45",
+    "toHM": "15:00"
+  }
+}

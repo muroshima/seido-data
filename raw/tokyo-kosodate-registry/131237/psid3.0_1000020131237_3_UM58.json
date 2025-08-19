@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部児童家庭課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+3+UM58"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部児童家庭課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e049/kuseijoho/gaiyo/soshiki/kodomo/jidou.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "児童扶養手当認定後、江戸川区役所（本庁舎2階4番）児童家庭課窓口で以下の手続きができます。\n\n（注）児童扶養手当の支給停止及び資格喪失された場合（児童扶養手当証書がない方）は対象外となります。\n\n（注2）生活保護受給者の方は生活援護第1課・第2課又は第3課より交付されますので、児童家庭課では交付しません。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の育児に関する金銭的支援",
+    "shortName": "都営交通無料乗車券・JR定期乗車券割引証明書の発行"
+  },
+  "localGovernmentLink": {
+    "title": "都営交通無料乗車券・JR定期乗車券割引証明書の発行",
+    "uri": "https://www.city.edogawa.tokyo.jp/e049/kosodate/kosodate/teateshien/shisaku/teate/joshaken.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "都営交通無料乗車券の申請\n更新手続き\n・通用期限が切れる月の1日から（土曜日・日曜日・祝日を除く）更新手続きができます。\n・都営無料乗車券（ICカード式）をご利用している方は更新が可能であることを確認し「更新確認書」をお渡しします。区で発行した更新確認書類と都営無料乗車券（ICカード式）をお持ちの上、都営地下鉄、日暮里・舎人ライナーの定期券発売所でICカードの更新手続きをお申し込みください。通用期限が切れている場合は、新たに磁気式の無料乗車券を発行します。\n\n再発行手続き\n・都営無料乗車券（磁気式）の紛失、破損、磁気不良、記載事項が読めなくなった場合は児童家庭課窓口で再発行の申請をしてください。\n・紛失後の再発行は1回に限り受けることができます。2回目以降の再発行はできませんのでご注意ください。\n・再発行後に紛失した無料乗車券が見つかった場合は、古い乗車券を児童家庭課に返却してください。この場合、再発行の手続は、取り消すことができます。\n・都営無料乗車券（ICカード式）の紛失につきましては、ご本人確認できるものを持参し駅やバス窓口など(一部を除く)で再発行手続きをしてください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "都営交通無料乗車券・JR定期乗車券割引のサービスが受けられます。児童扶養手当認定後、江戸川区役所（本庁舎2階4番）児童家庭課窓口で手続きができます。",
+  "support": {
+    "description": "都営交通無料乗車券の申請\n\n児童扶養手当受給世帯員のうち一人に、申請により都営交通無料乗車券を交付します。\n都営地下鉄全線、都営バス（江東01を除く。）、都電、日暮里・舎人ライナーでご利用いただけます。\n詳しい内容につきましては、東京都交通局のホームページ（外部サイトへリンク）（別ウィンドウで開きます）をご覧ください。\nhttp://www.kotsu.metro.tokyo.jp/other/kanren/fare/free.html\n\nJR通勤定期券の割引の申請\n児童扶養手当受給世帯の方には、JR通勤定期を3割引きで購入できる証明書を交付できます。\n\n児童家庭課窓口で申請を行い「特定者資格証明書」と「特定者用定期乗車券購入証明書」の発行を受けてから、JR通勤定期券購入時にJRの窓口で提示してください。",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "児童扶養手当受給世帯",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象者記載なし"
+  },
+  "updateDate": "2022-07-06",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

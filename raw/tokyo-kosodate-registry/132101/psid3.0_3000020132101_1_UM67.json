@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132101;小金井市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "自立生活支援課障害福祉係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132101",
+    "psid": "psid3.0+3000020132101+1+UM67"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "心身障害者福祉手当\n更新日：2013年4月1日\n\n対象\n\n手当対象等級表\n||手当月額|対     象|\n|:----|:----|:----|\n|(1)|  15,500 円 |２０歳以上で、<br>身体障害者手帳1級・2級の方、<br>愛の手帳1度から3度の方、<br>脳性麻痺および進行性筋萎縮症の方|\n|(2)|   9,500 円 |20歳未満で、児童育成手当の障害手当受給者を除く<br>身体障害者手帳1級・2級の方、<br>愛の手帳1度から3度の方、<br>脳性麻痺および進行性筋萎縮症の方|\n|(3)|  6,500 円 |身体障害者手帳3級・4級の方、\\<br>愛の手帳4度の方|\n|(4)|   1,500 円 | 身体障害者手帳5級・6級の方|\n \n内容\n4月・8月・12月にそれぞれ前月までの4か月分を本人名義の口座に振り込みます。\n制限\n・20歳以上は本人（20歳未満は保護者）の所得が一定額を超える方　所得制限表\n・施設に入所している方\n・65歳以上で手帳を取得した方\n・児童育成手当の障害手当を受けている方\n\n手続き方法\n対象となる方につきましては、身体障害者手帳のご申請時にご案内いたします。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の障がいのあるお子さんなどへの金銭的支援",
+    "shortName": "心身障害者福祉手当"
+  },
+  "localGovernmentLink": {
+    "title": "心身障害者福祉手当",
+    "uri": "https://www.city.koganei.lg.jp/kenkofukuhsi/shogaishafukushi/teateshougai/sinsyou.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "小金井市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第２条",
+    "regulationName": "小金井市心身障害者福祉手当条例"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "20歳未満の障害のあるお子さんを対象に、手当を支給しています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "２０歳未満で、児童育成手当の障害手当受給者を除く\n 身体障害者手帳1級・2級の方、\n 愛の手帳1度から3度の方、\n 脳性麻痺および進行性筋萎縮症の方。\n身体障害者手帳3級・4級の方、\n 愛の手帳4度の方。\n身体障害者手帳5級・6級の方。"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

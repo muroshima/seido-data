@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "133817;三宅村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉健康課 健康係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "4000020133817",
+    "psid": "psid3.0+4000020133817+1+UM6"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三宅島三宅村阿古497",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "三宅村役場臨時庁舎　福祉健康課 健康係",
+    "contactPhone": "04994-5-0911",
+    "contactUrl": null,
+    "zipCode": "1001212"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊婦健康診査\n本来、妊婦健康診査は自由診療(保険外診療)ですが、都内妊婦健康診査委託医療機関では受診票に記載されている検査項目が公費負担の対象となります。妊婦さんが受ける健康診査のうち、特に分娩の安全性や母子感染を防ぐために必要な項目となっており、妊婦健康診査は14回、超音波検査・子宮頸がん検診は1回受けられます。\n\n転入・転出の場合は下記お問い合わせ先までご連絡ください。\n\n公費負担額(令和6年4月1日現在)\n1回目：10,980円\n\n2回目以降：5,140円\n\n妊婦超音波検査：5,300円\n\n妊婦子宮頸がん検診：3,400円",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊婦健康診査",
+    "shortName": "妊婦健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "出産を迎える方",
+    "uri": "https://www.vill.miyake.tokyo.jp/kurashi/seikatsu_kankyou/ikuji_kyouiku/ninpu_nyuuyouji/syussan.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-19",
+    "updater": "三宅村"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊婦さんやお腹の赤ちゃんの健康状態を定期的に確認するのが妊婦健康診査です。妊婦さんの健康診査は、一般的に出産までに14回程度受診するのが望ましいとされています。しかし、妊娠は病気ではないため健康保険は適用されません。そこで、出産までの健診を受ける際の経済的な負担を軽くするため、妊婦健康診査費用の一部を助成する妊婦健康診査受診票をお渡ししています。",
+  "support": {
+    "description": "本来、妊婦健康診査は自由診療(保険外診療)ですが、都内妊婦健康診査委託医療機関では受診票に記載されている検査項目が公費負担の対象となります。妊婦さんが受ける健康診査のうち、特に分娩の安全性や母子感染を防ぐために必要な項目となっており、妊婦健康診査は14回、超音波検査・子宮頸がん検診は1回受けられます。\n\n転入・転出の場合は下記お問い合わせ先までご連絡ください。\n\n公費負担額(令和6年4月1日現在)\n1回目：10,980円\n\n2回目以降：5,140円\n\n妊婦超音波検査：5,300円\n\n妊婦子宮頸がん検診：3,400円",
+    "materiallySupport": null,
+    "monetarySupport": "本来、妊婦健康診査は自由診療(保険外診療)ですが、都内妊婦健康診査委託医療機関では受診票に記載されている検査項目が公費負担の対象となります。妊婦さんが受ける健康診査のうち、特に分娩の安全性や母子感染を防ぐために必要な項目となっており、妊婦健康診査は14回、超音波検査・子宮頸がん検診は1回受けられます。\n\n転入・転出の場合は下記お問い合わせ先までご連絡ください。\n\n公費負担額(令和6年4月1日現在)\n1回目：10,980円\n\n2回目以降：5,140円\n\n妊婦超音波検査：5,300円\n\n妊婦子宮頸がん検診：3,400円"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊婦"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "みなと保健所健康推進課地域保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+2+UM106"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファックス番号：03-3455-4539\n\n外国語対応が必要な人、通訳オペレーター、区の職員の3人で会話ができます。\n\n多言語対応三者通話サービス;https://www.multilingualinterpretercallservice.city.minato.tokyo.jp/kokusai",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "みなと保健所健康推進課地域保健係",
+    "contactPhone": "03-6400-0084",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子ども健康読本\n港区では、学童期からの健康全般に関する知識の普及を図るため、小学校高学年を対象として、感染症予防や生活習慣病、エイズ等についての正しい知識、喫煙、飲酒・覚せい剤などの影響を盛り込んだ資料を作成しております。\n\nご活用ください。\n\n対象\n区立小学校6年生児童\n※保護者の方、私立小学校に通っている児童の方も、ご利用ください。\n\n利用方法\nホームページから必要なページをダウンロードしてご利用ください。\n\n関連情報\n令和5年度子ども健康読本（PDF：3,632KB）;https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/yakudatsu/documents/r5kodomokenkoudokuhon.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関するサポート",
+    "shortName": "子ども健康読本"
+  },
+  "localGovernmentLink": {
+    "title": "子ども健康読本",
+    "uri": "https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/yakudatsu/kodomokenko.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "港区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "学童期からの健康全般に関する知識の普及を図るため、小学校高学年を対象として、感染症予防や生活習慣病、エイズ等についての正しい知識、喫煙、飲酒・覚せい剤などの影響を盛り込んだ冊子を作成しています。ホームページでダウンロードができます。また、学校で使用している電子教材として使用できるようにしています。",
+  "support": {
+    "description": "令和5年度子ども健康読本（PDF：3,632KB）;https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/yakudatsu/documents/r5kodomokenkoudokuhon.pdf",
+    "materiallySupport": "令和5年度子ども健康読本（PDF：3,632KB）;https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/yakudatsu/documents/r5kodomokenkoudokuhon.pdf",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "小学校6年生",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区立小学校6年生児童\n※保護者の方、私立小学校に通っている児童の方も、ご利用ください。"
+  },
+  "updateDate": "2024-01-26",
+  "useConsiderationFlag": false,
+  "utilization": "ホームページから必要なページをダウンロードしてご利用ください。\n\n関連情報\n令和5年度子ども健康読本（PDF：3,632KB）;https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/yakudatsu/documents/r5kodomokenkoudokuhon.pdf",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

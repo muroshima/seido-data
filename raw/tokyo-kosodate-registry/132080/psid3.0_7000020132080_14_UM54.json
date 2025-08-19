@@ -1,0 +1,136 @@
+{
+  "area": {
+    "areaCode": "132080;調布市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉健康部健康推進課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020132080",
+    "psid": "psid3.0+7000020132080+14+UM54"
+  },
+  "belongings": "持ち物\n母子健康手帳\n予診票(お持ちでない場合は市内指定医療機関で受け取るか、健康推進課へお問い合わせください)",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-441-6101",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉健康部健康推進課 ",
+    "contactPhone": "042-441-6100",
+    "contactUrl": "https://www.city.chofu.lg.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "日本脳炎の特例措置\n日本脳炎の予防接種は、接種後に重い病気になられた事例があったことをきっかけに、平成17年度から平成21年度まで、予防接種のご案内を行っていませんでした。その後、平成21年6月に新たなワクチンにて接種が再開され、現在は通常どおり接種を受けられるようになっています。\n対象者の方で、日本脳炎の予防接種を受ける機会を逃している場合は、対象期間の間、不足回数分を特例措置として無料(公費負担)で接種することができます。\n\n対象者\n平成7年4月2日から平成19年4月1日生まれの方\n(20歳未満の間、全4回の接種のうち不足回数を接種することができます。)\n\n接種回数と接種間隔\n今までに1回も接種をしていない方\n1.第1期初回\n6日以上(標準的には6から28日)の間隔で2回\n2.第1期追加\n第1期初回接種終了後6か月以上(標準的にはおおむね1年)の間隔で1回\n3.第2期\n第1期追加接種終了後6日以上の間隔で1回\n1から3回接種をしている方\n6日以上の間隔で計4回のうち不足回数分を接種\n(注)具体的な接種スケジュールは、かかりつけ医とよくご相談ください。\n\n(注)具体的な接種スケジュールは、かかりつけ医とよくご相談ください。\n\n接種場所(事前にご予約をお願いします)\n市内指定医療機関(関連リンク「子どもの予防接種」をご覧ください)\n世田谷区、狛江市、三鷹市、府中市の指定医療機関\n\n持ち物\n母子健康手帳\n予診票(お持ちでない場合は市内指定医療機関で受け取るか、健康推進課へお問い合わせください)\n\n関連リンク\n子どもの予防接種;https://www.city.chofu.lg.jp/060070/p037052.html\n\nダウンロード\n日本脳炎のお知らせ(PDF：329KB);https://www.city.chofu.lg.jp/documents/1663/nihonnouenosirase.pdf\n日本脳炎ワクチン接種に関するQ&A(PDF：197KB);https://www.city.chofu.lg.jp/documents/1663/qa_1.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "接種場所(事前にご予約をお願いします)\n市内指定医療機関(関連リンク「子どもの予防接種」をご覧ください)\n世田谷区、狛江市、三鷹市、府中市の指定医療機関"
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "日本脳炎の特例措置"
+  },
+  "localGovernmentLink": {
+    "title": "日本脳炎の特例措置",
+    "uri": "https://www.city.chofu.lg.jp/060070/p037053.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "調布市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "接種場所(事前にご予約をお願いします)\n市内指定医療機関(関連リンク「子どもの予防接種」をご覧ください)\n世田谷区、狛江市、三鷹市、府中市の指定医療機関",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）",
+    "regulationName": "予防接種法"
+  },
+  "relatedLink": [
+    {
+      "title": "日本脳炎ワクチン接種に関するQ&A(PDF：197KB)",
+      "uri": "https://www.city.chofu.lg.jp/documents/1663/qa_1.pdf"
+    },
+    {
+      "title": "子どもの予防接種",
+      "uri": "https://www.city.chofu.lg.jp/060070/p037052.html"
+    },
+    {
+      "title": "日本脳炎のお知らせ(PDF：329KB)",
+      "uri": "https://www.city.chofu.lg.jp/documents/1663/nihonnouenosirase.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+  "support": {
+    "description": "日本脳炎の予防接種は、接種後に重い病気になられた事例があったことをきっかけに、平成17年度から平成21年度まで、予防接種のご案内を行っていませんでした。その後、平成21年6月に新たなワクチンにて接種が再開され、現在は通常どおり接種を受けられるようになっています。\n対象者の方で、日本脳炎の予防接種を受ける機会を逃している場合は、対象期間の間、不足回数分を特例措置として無料(公費負担)で接種することができます。\n\n対象者\n平成7年4月2日から平成19年4月1日生まれの方\n(20歳未満の間、全4回の接種のうち不足回数を接種することができます。)\n\n接種回数と接種間隔\n今までに1回も接種をしていない方\n1.第1期初回\n6日以上(標準的には6から28日)の間隔で2回\n2.第1期追加\n第1期初回接種終了後6か月以上(標準的にはおおむね1年)の間隔で1回\n3.第2期\n第1期追加接種終了後6日以上の間隔で1回\n1から3回接種をしている方\n6日以上の間隔で計4回のうち不足回数分を接種\n(注)具体的な接種スケジュールは、かかりつけ医とよくご相談ください。\n(注)具体的な接種スケジュールは、かかりつけ医とよくご相談ください。",
+    "materiallySupport": "接種回数と接種間隔\n今までに1回も接種をしていない方\n1.第1期初回\n6日以上(標準的には6から28日)の間隔で2回\n2.第1期追加\n第1期初回接種終了後6か月以上(標準的にはおおむね1年)の間隔で1回\n3.第2期\n第1期追加接種終了後6日以上の間隔で1回\n1から3回接種をしている方\n6日以上の間隔で計4回のうち不足回数分を接種\n(注)具体的な接種スケジュールは、かかりつけ医とよくご相談ください。\n(注)具体的な接種スケジュールは、かかりつけ医とよくご相談ください。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "平成7年4月2日から平成19年4月1日生まれの方\n(20歳未満の間、全4回の接種のうち不足回数を接種することができます。)"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

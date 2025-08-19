@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健所保健予防課保健予防係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+5+UM55"
+  },
+  "belongings": "・本人確認書類（運転免許証やマイナンバーカード等）\n・抗体検査の結果がわかるもの（※予防接種を受ける場合）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健所保健予防課保健予防係",
+    "contactPhone": "042-725-5422",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "風しんは、免疫のない女性が妊娠中（特に妊娠初期）に感染すると、胎児が先天性風しん症候群となるおそれがあり、注意すべき疾患です。\n\nこうした状況に対処するため、町田市では風しん抗体検査と予防接種の費用助成を以下のとおり行います。\n\n予防接種を行うには、まず抗体検査が必要です。\n\n風しんと先天性風しん症候群について\n・風しん：風しんウイルスの飛沫感染によって発症します。ウイルスに感染してもすぐには発症せず、約14日から21日の潜伏期間がみられます。その後、麻しんよりも淡い色の赤い発しん、発熱、首の後ろのリンパ節が腫れるなどの症状が現れます。\n・先天性風しん症候群：妊娠初期の妊婦が風しんウイルスに感染すると、胎児が風しんウイルスに感染し、難聴、心疾患、白内障、精神運動発達遅滞等の障害をもった赤ちゃんが生まれる可能性があります。\n\n予防接種のワクチンについて\n医療機関とご相談の上、以下のいずれかのワクチンを接種してください。\n\n・風しん単体ワクチン\n・MR（麻しん風しん混合）ワクチン",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "町田市内の指定医療機関（以下のPDFファイルをご覧ください）\n\n風しん抗体検査・予防接種実施医療機関一覧表 (PDFファイル: 131.8KB)\nhttps://kosodate-machida.tokyo.jp/material/files/group/4/20230401ninni.pdf"
+  },
+  "institutionName": {
+    "canonicalName": "任意予防接種",
+    "shortName": "風しん抗体検査と予防接種の費用を助成"
+  },
+  "localGovernmentLink": {
+    "title": "風しん抗体検査と予防接種の費用を助成",
+    "uri": "https://kosodate-machida.tokyo.jp/mokuteki/1/9/3181.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "風しんは、免疫のない女性が妊娠中（特に妊娠初期）に感染すると、胎児が先天性風しん症候群となるおそれがあり、注意すべき疾患です。こうした状況に対処するため、町田市では風しん抗体検査と、抗体検査の結果抗体価が低かった方への予防接種の費用助成を行います。",
+  "support": {
+    "description": "風しん抗体検査の費用助成",
+    "materiallySupport": "抗体検査の費用助成",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "19歳以上の町田市民で、以下のいずれかに該当する方\n\n1．妊娠を予定または希望する女性\n\n2．1．の配偶者等同居者\n\n3．妊婦の配偶者等同居者",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 19,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "19歳以上の町田市民で、以下のいずれかに該当する方\n\n1．妊娠を予定または希望する女性\n2．1．の配偶者等同居者\n3．妊婦の配偶者等同居者\n\n※1962（昭和37）年4月2日から1979（昭和54）年4月1日の間に生まれた男性は、町田市発行のクーポン券をご使用ください。クーポン券をご利用の際の実施医療機関は下記ページよりご確認ください。\n\n風しんの追加的対策（抗体検査・第5期定期接種）について\nhttps://www.city.machida.tokyo.jp/iryo/iryo/yobousessyu/fusin5.html"
+  },
+  "updateDate": "2023-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "実施医療機関に事前に予約をしたうえで、検査・予防接種を受けてください。\n\n※一覧表に載っていない医療機関で検査・予防接種された場合は、助成の対象となりませんのでご注意ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "診療時間等はこちらをご覧ください\n町田市医師会ホームページ（外部サイト）\nhttps://www.machida.tokyo.med.or.jp/?page_id=13\n\n各医療機関の情報を掲載しています。",
+    "fromHM": null,
+    "toHM": null
+  }
+}

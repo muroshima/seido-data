@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132250;稲城市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども福祉部　おやこ包括支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132250",
+    "psid": "psid3.0+2000020132250+1+UM8"
+  },
+  "belongings": "持ち物\n母子健康手帳\nハブラシ\nコップ\nバスタオル",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "稲城市百村112番地の1（稲城市保健センター内）",
+    "contactComment": "ファクス：042-377-4944",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども福祉部　おやこ包括支援センター",
+    "contactPhone": "042-378-3434",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊婦歯科健康診査\n更新日：2024年4月1日\n妊娠中は、口の中や生活が変化して、むし歯や歯周病になりやすく、歯周病にかかると低体重児や早産のリスクが高まるので、お口のケアが大切です。歯科健診でお口の中を確認しましょう。\n\n対象\n稲城市在住の安定期を迎えた妊婦さん\n\n健診日\n令和6年4月12日、5月10日、6月7日、7月5日、9月6日、10月4日、11月8日、12月6日、令和7年1月10日、3月7日\n実施はすべて金曜日\n\n受付時間\n会場が密になるのを避けるため、時間帯を分けてご案内させていただいております。\n1.午後1時20分から午後1時35分\n2.午後1時40分から午後1時55分\n3.午後2時から午後2時15分\n\n会場\n保健センター;https://www.city.inagi.tokyo.jp/shisetsu/fukushi/kenkou/hoken_center.html\n\n内容\n1.歯科医師による診察\n2.歯科衛生士によるブラッシング等の個別相談\n\n持ち物\n母子健康手帳\nハブラシ\nコップ\nバスタオル\n\n費用\n無料\n\n申込方法・申込先\n前日までに電話でお申し込みください。\n【電話受付時間】平日午前8時30分から午後5時\nおやこ包括支援センター　電話　042-378-3434",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "健診日\n令和6年4月12日、5月10日、6月7日、7月5日、9月6日、10月4日、11月8日、12月6日、令和7年1月10日、3月7日実施はすべて金曜日\n\n受付時間\n会場が密になるのを避けるため、時間帯を分けてご案内させていただいております。\n1.午後1時20分から午後1時35分\n2.午後1時40分から午後1時55分\n3.午後2時から午後2時15分",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "保健センター"
+  },
+  "institutionName": {
+    "canonicalName": "妊産婦の歯科健診",
+    "shortName": "妊婦歯科健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "妊婦歯科健康診査",
+    "uri": "https://www.city.inagi.tokyo.jp/kosodate/oyakohoukatsushien_center/ninshin/shika_kenshin.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "稲城市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申込方法・申込先\n前日までに電話でお申し込みください。\n【電話受付時間】平日午前8時30分から午後5時\nおやこ包括支援センター　電話042-378-3434",
+  "procedurePeriod": {
+    "conditions": "前日までに電話でお申し込みください。",
+    "fromHM": "08:30",
+    "fromYMD": null,
+    "toHM": "17:00",
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠中は、口の中や生活が変化して、むし歯や歯周病になりやすく、歯周病にかかると低体重児や早産のリスクが高まるので、お口のケアが大切です。歯科健診でお口の中を確認しましょう。",
+  "support": {
+    "description": "内容\n1.歯科医師による診察\n2.歯科衛生士によるブラッシング等の個別相談",
+    "materiallySupport": "内容\n1.歯科医師による診察\n2.歯科衛生士によるブラッシング等の個別相談",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "稲城市在住の安定期を迎えた妊婦さん"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

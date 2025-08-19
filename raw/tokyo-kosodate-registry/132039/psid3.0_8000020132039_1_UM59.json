@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132039;武蔵野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子ども子育て支援課子ども家庭支援センター　ひとり親支援担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132039",
+    "psid": "psid3.0+8000020132039+1+UM59"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都武蔵野市緑町2-2-28",
+    "contactComment": "ファクス番号：0422-51-9417",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子ども子育て支援課子ども家庭支援センター　ひとり親支援担当",
+    "contactPhone": "0422-60-1850",
+    "contactUrl": "https://www.city.musashino.lg.jp/cgi-crm/CRM030/CRM030_001/G00800100/1006729",
+    "zipCode": "1808777"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "母子家庭等自立支援給付金事業\n20歳未満のお子さんを扶養している母子家庭の母及び父子家庭の父の就職に有利な資格取得や技能修得のための修学や受講を支援します。\n\n自立支援教育訓練給付金は受講前に、高等職業訓練促進給付金は受験前に、母子・父子自立支援員との面談が必須です。\n希望者は事前に電話で面談の予約をお願いします。 事前審査の後、本申請になります。\n両制度とも、児童扶養手当同等の所得制限等の受給要件があり、給付は原則1回です。\n母子家庭等自立支援給付金事業の内容\n|給付金等種別|内容|\n|:----|:----|\n|自立支援教育訓練給付金|対象教育訓練（注意1）を受講し、修了した場合にその経費の60％を支給します。支給上限額は20万円（専門実践教育訓練は修学年数×40万円、最大160万円）です。受講開始前に申請が必要です。<br>(注意2)雇用保険法に基づく教育訓練給付金の支給を受けることができる場合は、その支給額との差額を支給します。<br>いずれの場合も1万2千円を超えない場合は支給しません。|\n|高等職業訓練促進給付金|修業年限1年以上の養成機関で、看護師、准看護師、介護福祉士、保育士、理学療法士、作業療法士、美容師、調理師、歯科衛生士、社会福祉士、製菓衛生士等の資格取得のための修業中のかたに、修業期間の全期間（上限48月）支給します。支給額は、市町村民税が非課税世帯のかたは月額10万円（修業期間の最後の12月は月額14万円）、課税世帯のかたは月額7万500円（修業期間の最後の12月は月額11万500円）です。<br>(注意3)通信教育によるものは対象となりません。<br>(注意4)介護福祉士、保育士は、ハローワークの職業訓練を優先します。（国の求職者支援制度による職業訓練受講給付の対象となる場合）|\n\n(注意1)指定講座を探したいかたは下記をご覧ください。\n\n教育訓練講座検索システム（外部リンク）;https://www.kyufu.mhlw.go.jp/kensaku/",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援教育訓練給付金",
+    "shortName": "自立支援教育訓練給付金"
+  },
+  "localGovernmentLink": {
+    "title": "母子家庭等自立支援給付金事業",
+    "uri": "https://www.city.musashino.lg.jp/shussan_kodomo_kyoiku/kodomo_kosodate/teate_josei/hitorioya/1006729.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "武蔵野市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "20歳未満のお子さんを扶養している母子家庭の母及び父子家庭の父の就職に有利な資格取得や技能修得のための修学や受講を支援します。\n\n・自立支援教育訓練給付金は受講前に、高等職業訓練促進給付金は受験前に、母子・父子自立支援員との面談が必須です。\n・希望者は事前に電話で面談の予約をお願いします。 事前審査の後、本申請になります。\n・両制度とも、児童扶養手当同等の所得制限等の受給要件があり、給付は原則1回です。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第31条（母子家庭自立支援給付金）、第31条の10（父子家庭自立支援給付金）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "雇用保険による教育訓練給付の受給資格を持たない母子家庭の母が、就職やキャリアアップのために指定された教育訓練講座を受講し、修了した場合、受講に要した費用の一部が支給されます。\n※受講開始前に必ず事前相談を受けてください。",
+  "support": {
+    "description": "|給付金等種別|内容|\n|:----|:----|\n|自立支援教育訓練給付金|対象教育訓練（注意1）を受講し、修了した場合にその経費の60％を支給します。支給上限額は20万円（専門実践教育訓練は修学年数×40万円、最大160万円）です。受講開始前に申請が必要です。<br>(注意2)雇用保険法に基づく教育訓練給付金の支給を受けることができる場合は、その支給額との差額を支給します。<br>いずれの場合も1万2千円を超えない場合は支給しません。|\n|高等職業訓練促進給付金|修業年限1年以上の養成機関で、看護師、准看護師、介護福祉士、保育士、理学療法士、作業療法士、美容師、調理師、歯科衛生士、社会福祉士、製菓衛生士等の資格取得のための修業中のかたに、修業期間の全期間（上限48月）支給します。支給額は、市町村民税が非課税世帯のかたは月額10万円（修業期間の最後の12月は月額14万円）、課税世帯のかたは月額7万500円（修業期間の最後の12月は月額11万500円）です。<br>(注意3)通信教育によるものは対象となりません。<br>(注意4)介護福祉士、保育士は、ハローワークの職業訓練を優先します。（国の求職者支援制度による職業訓練受講給付の対象となる場合）|\n\n(注意1)指定講座を探したいかたは下記をご覧ください。\n\n教育訓練講座検索システム（外部リンク）;https://www.kyufu.mhlw.go.jp/kensaku/\"",
+    "materiallySupport": null,
+    "monetarySupport": "対象教育訓練（注意1）を受講し、修了した場合にその経費の60％を支給します。支給上限額は20万円（専門実践教育訓練は修学年数×40万円、最大160万円）です。受講開始前に申請が必要です。\n(注意2)雇用保険法に基づく教育訓練給付金の支給を受けることができる場合は、その支給額との差額を支給します。\nいずれの場合も1万2千円を超えない場合は支給しません。\n\n(注意1)指定講座を探したいかたは下記をご覧ください。\n教育訓練講座検索システム（外部リンク）;https://www.kyufu.mhlw.go.jp/kensaku/"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "20歳未満のお子さんを扶養している母子家庭の母及び父子家庭の父",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "20歳未満のお子さんを扶養している母子家庭の母及び父子家庭の父"
+  },
+  "updateDate": "2023-03-23",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

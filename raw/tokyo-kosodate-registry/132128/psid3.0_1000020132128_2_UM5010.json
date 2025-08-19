@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132128;日野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども部子ども家庭支援センター母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132128",
+    "psid": "psid3.0+1000020132128+2+UM5010"
+  },
+  "belongings": "1申請書（※用紙は子ども家庭支援センター母子保健係にあります）\n2新生児聴覚検査受診票\n3受診した都外医療機関が発行した領収書の原本\n（お持ちの方は明細書もご用意ください。）\n4母子健康手帳（※検査結果が記載又は添付されていること）\n5預金通帳（保護者名義）\n6印鑑",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都日野市神明1丁目13番地の2子ども包括支援センター2階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども部子ども家庭支援センター母子保健係",
+    "contactPhone": "042-843-3663",
+    "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120303",
+    "zipCode": "1910016"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "新生児聴覚検査受診費助成制度\nページID1011586　 更新日 令和6年5月27日\n\n里帰り出産等で、都外医療機関で新生児聴覚検査を受診した方へ\n指定医療機関以外での新生児聴覚検査の受診費用の負担軽減を図り、お子さまの健やかな成長を支援するために、平成31年4月1日から新生児聴覚検査受診費助成事業が開始されました。\n\n東京都外の医療機関など、新生児聴覚検査受診票が利用できない医療機関で、新生児聴覚検査の費用を全額自己負担した方に対し、新生児聴覚検査受診費助成金を交付します。\n\n1．対象者\n下記の1.2.3のすべてに該当する方\n\n1都外医療機関（国内に限る）などで新生児聴覚検査を受診したために、新生児聴覚検査受診票を利用できなかった\n2新生児聴覚検査の受診日において、日野市内に住所がある\n2．助成の対象外の検査\n次に該当する新生児聴覚検査は対象となりません。\n\n1保険診療対象の医療費として自己負担額が発生した\n2受診票を利用した\n3他の区市町村で同様の助成を受けた\n4国外で受診した\n5生後51日以降に受診した\n3．助成できる金額\n3,000円を上限とした実費額\n\n※限度額については、新生児聴覚検査受診票の都の指定した基準単価に準じ変更になります。\n\n4．申請に必要なもの\n1申請書（※用紙は子ども家庭支援センター母子保健係にあります）\n2新生児聴覚検査受診票\n3受診した都外医療機関が発行した領収書の原本\n（お持ちの方は明細書もご用意ください。）\n4母子健康手帳（※検査結果が記載又は添付されていること）\n5預金通帳（保護者名義）\n6印鑑\n※確定申告の医療費控除を予定している方は、確定申告の前に助成金の申請をしてください。\n\n5．申請期限\n新生児聴覚検査を受診した日から1年以内\n\n6．申請場所\n子ども家庭支援センター母子保健係（子ども包括支援センターみらいく2階）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "新生児聴覚検査",
+    "shortName": "新生児聴覚検査受診費助成制度"
+  },
+  "localGovernmentLink": {
+    "title": "新生児聴覚検査受診費助成制度",
+    "uri": "https://www.city.hino.lg.jp/kosodate/kenko/kenshin/1011586.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "日野市"
+  },
+  "procedureCounter": "子ども家庭支援センター母子保健係（子ども包括支援センターみらいく2階）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "4．申請に必要なもの\n1申請書（※用紙は子ども家庭支援センター母子保健係にあります）\n2新生児聴覚検査受診票\n3受診した都外医療機関が発行した領収書の原本\n（お持ちの方は明細書もご用意ください。）\n4母子健康手帳（※検査結果が記載又は添付されていること）\n5預金通帳（保護者名義）\n6印鑑\n※確定申告の医療費控除を予定している方は、確定申告の前に助成金の申請をしてください。\n\n5．申請期限\n新生児聴覚検査を受診した日から1年以内\n\n6．申請場所\n子ども家庭支援センター母子保健係（子ども包括支援センターみらいく2階）",
+  "procedurePeriod": {
+    "conditions": "新生児聴覚検査を受診した日から1年以内",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "「新生児聴覚検査の実施について」（平成19年1月29日雇児母発第0129002号厚生労働省雇用均等・児童家庭局母子保健課長通知）"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "東京都外の医療機関など、新生児聴覚検査受診票が利用できない医療機関で、新生児聴覚検査の費用を全額自己負担した方に対し、そのかかった費用の一部を償還払い（後払い）します。",
+  "support": {
+    "description": "3,000円を上限とした実費額\n\n※限度額については、新生児聴覚検査受診票の都の指定した基準単価に準じ変更になります。",
+    "materiallySupport": null,
+    "monetarySupport": "3,000円を上限とした実費額\n\n※限度額については、新生児聴覚検査受診票の都の指定した基準単価に準じ変更になります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "1．対象者\n下記の1.2.3のすべてに該当する方\n\n1都外医療機関（国内に限る）などで新生児聴覚検査を受診したために、新生児聴覚検査受診票を利用できなかった\n2新生児聴覚検査の受診日において、日野市内に住所がある\n\n2．助成の対象外の検査\n次に該当する新生児聴覚検査は対象となりません。\n\n1保険診療対象の医療費として自己負担額が発生した\n2受診票を利用した\n3他の区市町村で同様の助成を受けた\n4国外で受診した\n5生後51日以降に受診した"
+  },
+  "updateDate": "2024-05-27",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

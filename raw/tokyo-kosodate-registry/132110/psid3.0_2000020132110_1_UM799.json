@@ -1,0 +1,130 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭部 こども家庭センター庶務担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+1+UM799"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市学園東町1-19-12　健康センター4階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭部 こども家庭センター庶務担当",
+    "contactPhone": "電話：042-346-3703",
+    "contactUrl": null,
+    "zipCode": "1870043"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "こども家庭センターの紹介\n印刷する\n\nツイートする;http://twitter.com/share?url=https%3A%2F%2Fwww.city.kodaira.tokyo.jp%2Fsections%2Fkodomokatei%2Findex.html&text=%E3%81%93%E3%81%A9%E3%82%82%E5%AE%B6%E5%BA%AD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E7%B4%B9%E4%BB%8B%7c%E5%B0%8F%E5%B9%B3%E5%B8%82\nFacebookでシェアする;http://www.facebook.com/share.php?u=https%3A%2F%2Fwww.city.kodaira.tokyo.jp%2Fsections%2Fkodomokatei%2Findex.html\nLINEで送る;http://line.me/R/msg/text/?https%3A%2F%2Fwww.city.kodaira.tokyo.jp%2Fsections%2Fkodomokatei%2Findex.html\n母子健康手帳の交付・マタニティサポート面談、乳幼児健康診査、離乳食教室、乳幼児歯科相談、こどもとその家族の健康相談などのほか、子ども家庭支援センターの運営を行っています。\n\n所在地\n\n電話番号\n042-346-3701（母子保健担当）\n042-346-3702（子ども家庭支援センター担当）\n042-346-3703（庶務担当）\n電子メールアドレス\nkodomokatei-c@city.kodaira.lg.jp\n\nFAX\n042-346-3705\n\n仕事紹介\n母子保健担当\n母子保健（母子健康手帳の交付、新生児訪問、乳幼児健康診査、離乳食教室、乳幼児歯科相談等）に関することを行っています。\n\n子ども家庭支援センター担当\n子ども家庭支援センターの運営、児童虐待防止対策に関することを行っています。\n\n庶務担当\nこども家庭センターの庶務、妊婦健康診査費助成に関することを行っています。\n\n関連ページ",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "小平市学園東町1-19-12　小平市健康センター内",
+    "implementationName": "こども家庭センター"
+  },
+  "institutionName": {
+    "canonicalName": "こども家庭センター",
+    "shortName": "こども家庭センター"
+  },
+  "localGovernmentLink": {
+    "title": "こども家庭センターの紹介",
+    "uri": "https://www.city.kodaira.tokyo.jp/sections/kodomokatei/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/12",
+    "updater": "小平市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "子ども家庭支援センター",
+      "uri": "https://fukushi.unchusha.com/kodomokatei_kodaira/toppage.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "小平市の【こども家庭センター】では、全ての妊産婦・子育て家庭に対する相談等への対応、サポートプランに基づく妊産婦の健康やこどもの養育に関する支援などを行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024/10/03",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

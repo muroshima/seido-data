@@ -1,0 +1,133 @@
+{
+  "area": {
+    "areaCode": "131067;台東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "台東保健所　保健予防課予防担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131067",
+    "psid": "psid3.0+6000020131067+14+UM54"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "台東保健所　保健予防課予防担当",
+    "contactPhone": "03-3847-9471",
+    "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080600",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "令和2年10月1日から定期予防接種になりました。\n\n対象者\n令和2年8月1日以降に出生した者\n\n接種時期・接種回数\n2種類のワクチンがあり、接種時期・接種回数が異なります。\n効果・安全性に違いはありません。\n途中でワクチンを変えることはできません。同じワクチンで、決められた回数の接種をします。\nなお、ワクチンを変えなければならない特段の事情がある場合は、事前に下記問合せ先までご相談ください。\n\n|ワクチン名|ロタリックス|ロタテック|\n|:----|:----|:----|\n|接種対象期間|出生6週0日後～24週0日後|出生6週0日後～32週0日後|\n|接種回数・接種間隔|2回（27日以上の間隔をあける）|3回（27日以上の間隔をあける）|\n\n標準的な接種期間\n初回接種：生後2月から出生14週6日後まで\n出生15週0日後以降の初回接種は、安全性の観点からおすすめしません。\n\n通知時期\n生後1か月頃\n\n予防接種のスケジュール管理は「ワクチン・ナビ」をご利用ください。\n予防接種情報サービス　「おまかせ予防接種！ワクチン・ナビ」（通称「ワク・ナビ」）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/wakunabi.html",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "「おまかせ予防接種！ワクチン・ナビ」（外部サイト）",
+      "uri": "http://taito.city-hc.jp/"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "ロタウイルスワクチン"
+  },
+  "localGovernmentLink": {
+    "title": "ロタウイルスワクチン",
+    "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/rota/rota.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "台東区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "予防接種のスケジュール管理は「ワクチン・ナビ」をご利用ください。\n予防接種情報サービス　「おまかせ予防接種！ワクチン・ナビ」（通称「ワク・ナビ」）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/wakunabi.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）",
+    "regulationName": "予防接種法"
+  },
+  "relatedLink": [
+    {
+      "title": "予防接種情報サービス　「おまかせ予防接種！ワクチン・ナビ」（通称「ワク・ナビ」）",
+      "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/wakunabi.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+  "support": {
+    "description": "ロタリックス 2回（27日以上の間隔をあける）",
+    "materiallySupport": "ロタリックス 2回（27日以上の間隔をあける）",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "出生6週0日後～24週0日後",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "令和2年8月1日以降に出生した者"
+  },
+  "updateDate": "2020-10-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

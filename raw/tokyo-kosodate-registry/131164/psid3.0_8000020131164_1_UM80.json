@@ -1,0 +1,160 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "庶務課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+1+UM80"
+  },
+  "belongings": null,
+  "capacity": "各園4歳児クラス30名、5歳児クラス30名",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "庶務課",
+    "contactPhone": "03-4566-2777",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "令和元年10月より無償となりました。なお、教材費等は別途費用がかかります。",
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "土曜日・日曜日・祝日・春季休業・夏季休業・冬季休業",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "豊島区西巣鴨2-14-11,豊島区池袋3-30-22,豊島区南長崎4-12-7",
+    "implementationName": "西巣鴨幼稚園,池袋幼稚園,南長崎幼稚園"
+  },
+  "institutionName": {
+    "canonicalName": "幼稚園の利用について",
+    "shortName": "区立幼稚園"
+  },
+  "localGovernmentLink": {
+    "title": "区立幼稚園",
+    "uri": "https://www.city.toshima.lg.jp/kosodate/gakko/shisetsu/yo/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "■入園等の案内について\n入園等についての案内は以下のページをご覧ください。\n\n区立幼稚園入園等の案内\nhttps://www.city.toshima.lg.jp/492/kosodate/gakko/yochien/kuritsu/003213.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第26条",
+    "regulationName": "学校教育法"
+  },
+  "relatedLink": [
+    {
+      "title": "預かり保育",
+      "uri": "https://www.city.toshima.lg.jp/492/kosodate/gakko/yochien/kuritsu/021980.html"
+    },
+    {
+      "title": "子ども・子育て支援新制度について（区立幼稚園）",
+      "uri": "https://www.city.toshima.lg.jp/492/kosodate/gakko/yochien/kuritsu/033824.html"
+    },
+    {
+      "title": "西巣鴨幼稚園",
+      "uri": "https://www.city.toshima.lg.jp/347/shisetsu/gakko/001.html"
+    },
+    {
+      "title": "池袋幼稚園",
+      "uri": "https://www.city.toshima.lg.jp/347/shisetsu/gakko/002.html"
+    },
+    {
+      "title": "区立幼稚園入園等の案内",
+      "uri": "https://www.city.toshima.lg.jp/492/kosodate/gakko/yochien/kuritsu/003213.html"
+    },
+    {
+      "title": "南長崎幼稚園",
+      "uri": "https://www.city.toshima.lg.jp/347/shisetsu/gakko/003.html"
+    },
+    {
+      "title": "長期休業中の預かり保育について",
+      "uri": "https://www.city.toshima.lg.jp/492/1912251656.html"
+    },
+    {
+      "title": "令和6年度区立幼稚園新入園募集",
+      "uri": "https://www.city.toshima.lg.jp/492/kosodate/gakko/yochien/kuritsu/2109131323.html\n"
+    },
+    {
+      "title": "幼児教育無償化について（区立幼稚園）",
+      "uri": "https://www.city.toshima.lg.jp/262/2302081615.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "幼稚園とは、学校教育法に基づき、満3歳から小学校就学前までのお子さんに幼児教育を提供する施設（学校）です。1日4時間の教育を標準とし、小学校や中学校のように夏休みや春休みなどもありますが、多くの園で教育時間終了後や長期休暇中の預かりも行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "申請資格\n・満4歳児\n・満5歳児\n・豊島区に住所を有し、現に居住している幼児"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": "09:00",
+    "toHM": "14:00"
+  }
+}

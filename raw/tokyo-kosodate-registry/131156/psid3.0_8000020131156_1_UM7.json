@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131156;杉並区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部地域子育て支援課母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131156",
+    "psid": "psid3.0+8000020131156+1+UM7"
+  },
+  "belongings": "（1）未使用の受診票（都内で交付されたもの・全て）\n（2）母子健康手帳（原本）\n（3）母子健康手帳の「妊娠中の経過」のページのコピー（提出用）\n（4）受診機関の領収書・明細書（原本と提出用コピー）\n（5）印鑑（朱肉を使うもの）\n（6）金融機関の通帳またはキャッシュカード（振込先がわかるもの）\n（注）振込先の口座名義が妊産婦本人以外の場合、申請書の委任状欄に妊産婦本人の署名及び押印（朱肉を使うもの）が必要となります。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都杉並区阿佐谷南1丁目15番1号",
+    "contactComment": "（代表）",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部地域子育て支援課母子保健係",
+    "contactPhone": "03-3312-2111",
+    "contactUrl": null,
+    "zipCode": "1668570"
+  },
+  "cost": null,
+  "costConditions": "受診票は使用できません。未使用の受診票の枚数内で、受診された実費分の一部（上限金額あり）を助成します。\n必ず受診機関で、領収書・明細書を受け取り、母子健康手帳に妊婦健康診査の記録をしてもらってください。\n申請期間は、出産後1年以内（お子様の誕生日の前日まで）、1回限りです。",
+  "description": "https://www.city.suginami.tokyo.jp/s054/1110.htmlhttps://www.city.suginami.tokyo.jp/s054/shinseisho/8707.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "都外の医療機関等"
+  },
+  "institutionName": {
+    "canonicalName": "里帰り出産時の妊婦健康診査の費用助成",
+    "shortName": "里帰り等で都外の医療機関等で妊婦健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "妊婦健康診査等費用助成申請書（里帰り出産等で受診票を使用できなかった場合の申請）",
+    "uri": "https://www.city.suginami.tokyo.jp/s054/shinseisho/8707.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025-03-13",
+    "updater": "杉並区"
+  },
+  "procedureCounter": "保健センターまたは区役所地域子育て支援課母子保健係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "以下のものをそろえて、担当地域の保健センターまたは区役所地域子育て支援課母子保健係で費用助成の申請をしてください。\n（1）未使用の受診票（都内で交付されたもの・全て）\n（2）母子健康手帳（原本）\n（3）母子健康手帳の「妊娠中の経過」のページのコピー（提出用）\n（4）受診機関の領収書・明細書（原本と提出用コピー）\n（5）印鑑（朱肉を使うもの）\n（6）金融機関の通帳またはキャッシュカード（振込先がわかるもの）\n（注）振込先の口座名義が妊産婦本人以外の場合、申請書の委任状欄に妊産婦本人の署名及び押印（朱肉を使うもの）が必要となります。\n申請に来所できない場合は、以下の書類を担当地域の保健センター宛に郵送してください。\n受付の翌月中旬頃、助成金額を決定し、決定通知書と領収書原本を返送します。\n（注）領収書の返送を急ぐ場合は、確認次第領収書のみ先に返送します。メモを添付の上、切手を貼付した領収書の返送用封筒を同封してください。ただし、その場合でも返却には2～3週間、日数を要します。\n\n申請に必要な書類\n杉並区妊婦健康診査等費用助成申請書兼支払金口座振替依頼書\n （ダウンロード後記入例を参考に記入し、朱肉を使う印で押印してください）\n母子健康手帳のコピー（表紙・出生届出済証明・妊娠中の経過のページ）\n新生児聴覚検査受診結果記入書（ダウンロードし、記入してください）\n助成対象全ての妊婦健康診査と新生児聴覚検査の負担したことがわかる領収書原本とコピー・明細書のコピー\n（注）原本返却が不要の方は、原本のみで申請可能ですが返却できませんのでご了承ください。\n振込先の通帳またはキャッシュカードのコピー（口座番号・支店名の確認ができるもの）\n未使用の受診票（都内で交付されたもの）全部\n（注）書類の内容について、問い合わせする場合があります。申請書の電話番号欄には、日中連絡のつく番号をご記入ください。",
+  "procedurePeriod": {
+    "conditions": "出産後1年以内（お子様の誕生日の前日まで）",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "届出：申請者本人でなくても可能\n申請者：下記条件を全て満たす産婦または妊婦\n\n未使用の受診票（都内で交付されたもの）がある。\n都外の医療機関等で妊婦健康診査、新生児聴覚検査を受診し、負担したことがわかる受診機関の領収書・明細書がある。\n受診日に杉並区に住民登録がある",
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "杉並区にお住まいの妊婦さんが、里帰り出産などで杉並区の委託医療機関以外の病院や助産所で妊婦健康診査を受診した場合、その健診にかかった費用の一部を償還払い（後払い）します。",
+  "support": {
+    "description": "受診票は使用できません。未使用の受診票の枚数内で、受診された実費分の一部（上限金額あり）を助成します。",
+    "materiallySupport": null,
+    "monetarySupport": "未使用の受診票の枚数内で、受診された実費分の一部（上限金額あり）を助成します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊婦"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "受診機関で、領収書・明細書を受け取り、母子健康手帳に妊婦健康診査の記録をしてもらってください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

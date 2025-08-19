@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "131202;練馬区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "区民部　戸籍住民課　戸籍第一係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020131202",
+    "psid": "psid3.0+3000020131202+1+UM3"
+  },
+  "belongings": "・届書1通　（出生証明書が出生届に付いていますので、医師または助産師に記入してもらってください）\n・母子健康手帳　（休日・夜間窓口の場合、母子手帳をいったんお預かりして後日取りにいらしていただくか、郵送料を負担いただいて簡易書留で郵送させていただくことになります）\n・国民健康保険証　（加入者のみ）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都練馬区豊玉北6丁目12番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "区民部　戸籍住民課　戸籍第一係 ,区民部　戸籍住民課　戸籍第二係\n",
+    "contactPhone": "03-5984-4530,03-3995-1105",
+    "contactUrl": "https://www.city.nerima.tokyo.jp/cgi-bin/formmail/formmail.cgi?d=050010010000",
+    "zipCode": "1768501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "出生届\n届出人\n父または母 （ご本人が署名してください）\n父母連名で届け出ることもできます （お二人の署名・生年月日をお書きください）。\n父または母が届け出ることができないときはお問い合わせください。\n\n届出先\n本籍地、または出生地、あるいは届出人の住所地の区市町村の戸籍窓口\n\n受付時間および受付場所\n○平日（月曜～金曜）の午前8時30分～午後5時\n　　戸籍第一係　（練馬区役所本庁舎2階）\n　　戸籍第二係　（石神井庁舎2階）\n○平日の午後5時～翌午前8時30分や土曜・日曜・祝日・年末年始は、休日・夜間窓口で届出書をお預かりします。\n　＜休日・夜間窓口＞\n　　練馬区役所西庁舎1階\n休日・夜間窓口の場合、母子手帳をお預かりすることになりますので、あらかじめご了承ください。\n\n戸籍に関するよくある質問\nよくある質問と回答のページ（外部サイト）;https://www.call-center.jp/faq_nerima/result_attstep.asp?detailid=7,8　をご覧ください。\n\n記載要領・記載例\n出生届の記載要領・記載例（法務省ホームページ）（PDFで開きます）（外部サイト）;http://www.moj.go.jp/content/001295267.pdf\n\n届出期間\n生まれた日から14日以内 （生まれた日を入れて14日です）\nただし、最終日が土曜・日曜・祝日の場合は翌開庁日まで\n\n必要なもの\n・届書1通　（出生証明書が出生届に付いていますので、医師または助産師に記入してもらってください）\n・母子健康手帳　（休日・夜間窓口の場合、母子手帳をいったんお預かりして後日取りにいらしていただくか、郵送料を負担いただいて簡易書留で郵送させていただくことになります）\n・国民健康保険証　（加入者のみ）\n\n備考\n赤ちゃんのお名前に使える字は、常用漢字、人名用漢字、ひらがな、カタカナに限ります。\n\n赤ちゃんの名前に使える漢字 （外部サイト）;http://www.moj.go.jp/MINJI/minji86.html\n\n法務省のホームページです。\n\n窓口\n区民部　戸籍住民課　戸籍第一係　電話：03-5984-4530（直通）　（本庁舎2階）\n区民部　戸籍住民課　戸籍第二係　電話：03-3995-1105　（石神井庁舎2階）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出生届",
+    "shortName": "出生届"
+  },
+  "localGovernmentLink": {
+    "title": "出生届",
+    "uri": "https://www.city.nerima.tokyo.jp/kurashi/koseki/todokede/shussei25.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "練馬区"
+  },
+  "procedureCounter": "○平日（月曜～金曜）の午前8時30分～午後5時\n　　戸籍第一係　（練馬区役所本庁舎2階）\n　　戸籍第二係　（石神井庁舎2階）\n○平日の午後5時～翌午前8時30分や土曜・日曜・祝日・年末年始は、休日・夜間窓口で届出書をお預かりします。\n　＜休日・夜間窓口＞\n　　練馬区役所西庁舎1階",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": "○平日（月曜～金曜）の午前8時30分～午後5時\n　　戸籍第一係　（練馬区役所本庁舎2階）\n　　戸籍第二係　（石神井庁舎2階）\n○平日の午後5時～翌午前8時30分や土曜・日曜・祝日・年末年始は、休日・夜間窓口で届出書をお預かりします。\n　＜休日・夜間窓口＞\n　　練馬区役所西庁舎1階\n生まれた日から14日以内 （生まれた日を入れて14日です）\nただし、最終日が土曜・日曜・祝日の場合は翌開庁日まで",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "父または母 （ご本人が署名してください）\n父母連名で届け出ることもできます （お二人の署名・生年月日をお書きください）。",
+  "regulation": {
+    "regulationArticle": "第49条、第52条",
+    "regulationName": "戸籍法"
+  },
+  "relatedLink": [
+    {
+      "title": "赤ちゃんの名前に使える漢字 （外部サイト）",
+      "uri": "8"
+    },
+    {
+      "title": "よくある質問と回答のページ（外部サイト）",
+      "uri": "https://www.call-center.jp/faq_nerima/result_attstep.asp?detailid=7"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "出生届とは、生まれてきたお子さんの氏名等を戸籍に記載するための手続きです。\n戸籍に記載されることで、生まれてきたお子さんの親族関係が公的に証明されます。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "父または母 （ご本人が署名してください）\n父母連名で届け出ることもできます （お二人の署名・生年月日をお書きください）。\n父または母が届け出ることができないときはお問い合わせください。"
+  },
+  "updateDate": "2023-09-28",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

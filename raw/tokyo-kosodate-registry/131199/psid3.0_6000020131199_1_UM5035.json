@@ -1,0 +1,138 @@
+{
+  "area": {
+    "areaCode": "131199;板橋区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康生きがい部 国保年金課 国保資格係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131199",
+    "psid": "psid3.0+6000020131199+1+UM5035"
+  },
+  "belongings": "（1）産前産後期間に係る保険料減額届出書\n（2）届出書の添付書類\n　ア 出産予定日（出産後届出の場合は出産日）を確認できる書類\n　例 母子健康手帳\n　イ 単胎妊娠又は多胎妊娠の別を確認できる書類\n　例 母子健康手帳\n　ウ 出産した被保険者と当該出産に係る子との身分を明らかにできる書類※\n　※出産後の届出のみ\n　例 母子健康手帳、出生証明書、死産証書（死胎検案書）等\n（3） 来庁者の本人確認ができるもの（マイナンバーカード・運転免許証、在留カード等）\n（4） 世帯主と出産被保険者のマイナンバー（個人番号）が確認できる書類\n（5） 同一世帯以外の方が届出する場合は委任状",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都板橋区板橋二丁目66番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康生きがい部 国保年金課 国保資格係",
+    "contactPhone": "03-3579-2406",
+    "contactUrl": "https://www.city.itabashi.tokyo.jp/cgi-crm/CRM030/CRM030_001/G3503700000/1050045",
+    "zipCode": "1738501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "産前産後期間に係る保険料減額について\n令和6年1月より、産前産後期間に係る保険料の減額制度が開始されました。\n届出により、出産する被保険者に係る産前産後期間相当分（4か月間）の保険料を減額します。\n\n対象となる方や届出方法等、制度の詳細につきましては、関連リンクより、「国民健康保険料の軽減・減免」のページをご確認ください。\n\n添付ファイル\n産前産後保険料減額リーフレット （PDF 795.3KB）;https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/050/045/ri-huretto.pdf\n\n関連リンク\n国民健康保険料の軽減・減免;https://www.city.itabashi.tokyo.jp/kenko/kokuho/kokuho/hokenryo/1003138.html\n産前産後期間に係る保険料減額届出書;https://www.city.itabashi.tokyo.jp/kenko/kokuho/kokuho/shinsei/1049855.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "国民健康保険における産前産後期間保険料（税）免除",
+    "shortName": "国民健康保険における産前産後期間保険料（税）免除"
+  },
+  "localGovernmentLink": {
+    "title": "産前産後期間に係る保険料減額について",
+    "uri": "https://www.city.itabashi.tokyo.jp/kenko/kokuho/kokuho/1050045.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "板橋区"
+  },
+  "procedureCounter": "国保年金課（南館2階22番窓口）\n各区民事務所",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "出産予定日の6か月前から届出ができます。出産後の届出も可能です。",
+  "procedurePeriod": {
+    "conditions": "出産予定日の6か月前から届出ができます。出産後の届出も可能です。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "産前産後保険料減額リーフレット （PDF 795.3KB）",
+      "uri": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/050/045/ri-huretto.pdf"
+    },
+    {
+      "title": "国民健康保険料の軽減・減免",
+      "uri": "https://www.city.itabashi.tokyo.jp/kenko/kokuho/kokuho/hokenryo/1003138.html"
+    },
+    {
+      "title": "産前産後期間に係る保険料減額届出書",
+      "uri": "https://www.city.itabashi.tokyo.jp/kenko/kokuho/kokuho/shinsei/1049855.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民健康保険の出産する被保険者に係る産前産後期間相当分（４ヶ月分）の均等割保険料と所得割保険料が免除されます。",
+  "support": {
+    "description": "出産する被保険者に係る産前産後期間相当分（4か月間）の保険料を減額",
+    "materiallySupport": null,
+    "monetarySupport": "出産する被保険者に係る産前産後期間相当分（4か月間）の保険料を減額"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003",
+      "015"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "令和５年11月１日以降に出産された国民健康保険被保険者の方が対象です。\n妊娠85日（４か月）以上の出産が対象です（死産、流産、早産及び人工妊娠中絶の場合も含みます）。"
+  },
+  "updateDate": "2024-01-04",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

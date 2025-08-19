@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "131091;品川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131091",
+    "psid": "psid3.0+6000020131091+2+UM785"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "受付時間：午前8時30分～午後5時（土・日・祝日・年末年始除く）",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援センター",
+    "contactPhone": "03-6421-5281",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "助成金額\n支援サービス：1時間につき2,700円\nプランニング：利用者につき1回限り1,000円\n",
+  "description": "産後の家事・育児支援のヘルパー等の利用助成\n多胎児家庭の家事・育児支援のヘルパー等の利用助成\n\n生後1歳未満（多胎児家庭は妊娠中から3歳未満）の乳幼児を養育している家庭を対象に、心と体のケアに対応できる家事・育児支援ヘルパー（区と提携）を利用された場合、サービス利用費の一部を助成します。\n\n◇対象\n単胎児：生後1歳未満（1歳誕生日前々日まで）\n多胎児：妊娠中から生後3歳未満（3歳誕生日前々日まで）\n\n◇上限時間\n単胎児\n第一子：60時間、第二子以降で出生時にすぐ上の兄姉が3歳未満：180時間、第二子以降で出生時にすぐ上の兄姉が3歳以上：60時間\n多胎児\n妊娠中～1歳誕生日前々日：240時間、1歳誕生日前日～2歳誕生日前々日：180時間、2歳誕生日前日～3歳誕生日前々日：120時間\n\n◇助成金額\n支援サービス：1時間につき2,700円\nプランニング：利用者につき1回限り1,000円",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "生後1歳未満（多胎児家庭は妊娠中から3歳未満）\n",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "各家庭"
+  },
+  "institutionName": {
+    "canonicalName": "産前産後ヘルパーの派遣",
+    "shortName": "産後の家事・育児支援のヘルパー等の利用助成\n多胎児家庭の家事・育児支援のヘルパー等の利用助成"
+  },
+  "localGovernmentLink": {
+    "title": "産後の家事・育児支援のヘルパー等の利用助成,多胎児家庭の家事・育児支援のヘルパー等の利用助成",
+    "uri": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-kateisoudan/hpg000027978.html,https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-kateisoudan/20210312164557.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "品川区"
+  },
+  "procedureCounter": "子ども家庭支援センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "ご不明点がある場合は、子ども家庭支援センター管理係にお電話にてお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "品川区産後家事育児支援訪問費助成事業実施要綱、品川区多胎児家庭家事育児支援訪問費助成事業実施要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "生後1歳未満（多胎児家庭は妊娠中から3歳未満）の乳幼児を養育している家庭を対象に、心と体のケアに対応できる家事・育児支援ヘルパー（区と提携）を利用された場合、サービス利用費の一部を助成します。",
+  "support": {
+    "description": "生後1歳未満（多胎児家庭は妊娠中から3歳未満）の乳幼児を養育している家庭を対象に、心と体のケアに対応できる家事・育児支援ヘルパー（区と提携）を利用された場合、サービス利用費の一部を助成します。",
+    "materiallySupport": "生後1歳未満（多胎児家庭は妊娠中から3歳未満）の乳幼児を養育している家庭を対象に、心と体のケアに対応できる家事・育児支援ヘルパー（区と提携）を利用された場合、サービス利用費の一部を助成します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "・生後1歳未満（多胎児家庭は妊娠中から3歳未満）の乳幼児を養育している方\n・品川区に住民票のある方\n・品川区と提携している事業者から支援サービスを受け、利用料をお支払いした方"
+  },
+  "updateDate": "2022-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "上限時間\n単胎児\n第一子：60時間、第二子以降で出生時にすぐ上の兄姉が3歳未満：180時間、第二子以降で出生時にすぐ上の兄姉が3歳以上：60時間\n多胎児\n妊娠中～1歳誕生日前々日：240時間、1歳誕生日前日～2歳誕生日前々日：180時間、2歳誕生日前日～3歳誕生日前々日：120時間",
+    "fromHM": null,
+    "toHM": null
+  }
+}

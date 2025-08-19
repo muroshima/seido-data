@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132128;日野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部　健康課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132128",
+    "psid": "psid3.0+1000020132128+1+UM55"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都日野市日野本町1丁目6番地の2　生活保健センター",
+    "contactComment": "ファクス：042-583-2400",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康福祉部　健康課",
+    "contactPhone": "042-581-4111",
+    "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G110500",
+    "zipCode": "1910011"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "造血幹細胞移植その他の治療により免疫が消失した子どもに対する任意予防接種に係る費用の助成について\nこのページの情報をツイッターでツイートできますこのページの情報をフェイスブックでシェアできますこのページの情報をラインでシェアできますページID1017086　 更新日 令和3年6月15日\n印刷　大きな文字で印刷\n\n事業概要\n病気の治療のため造血幹細胞移植その他の治療により予防接種の免疫が消失し、接種済みの定期予防接種の効果が期待できず、再接種により免疫を得られる効果が期待できると医師に判断された方が、任意で予防接種を受ける場合に接種費用を助成します。\n\n※事前の申請が必要となりますので、詳しくは健康課までお問い合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "任意予防接種",
+    "shortName": "造血幹細胞移植その他の治療により免疫が消失した子どもに対する任意予防接種"
+  },
+  "localGovernmentLink": {
+    "title": "造血幹細胞移植その他の治療により免疫が消失した子どもに対する任意予防接種に係る費用の助成について",
+    "uri": "https://www.city.hino.lg.jp/kosodate/kenko/yobochusha/1017086.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "日野市"
+  },
+  "procedureCounter": "健康福祉部　健康課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "事前の申請が必要となりますので、詳しくは健康課までお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第三条（乳幼児の健康の保持増進）、第五条（国及び地方公共団体の責務）",
+    "regulationName": "小児任意予防接種費助成要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。現在、定期接種以外で小学校就学前のお子さんが接種できるワクチンとしては、おたふくかぜ、インフルエンザなどがあります。\nこのうち日野市では、次の任意予防接種に対して、接種費用を助成しています。接種するかどうかについては、かかりつけ医とご相談のうえ、保護者の判断により決めてください。",
+  "support": {
+    "description": "任意で予防接種を受ける場合に接種費用を助成",
+    "materiallySupport": null,
+    "monetarySupport": "任意で予防接種を受ける場合に接種費用を助成"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "病気の治療のため造血幹細胞移植その他の治療により予防接種の免疫が消失し、接種済みの定期予防接種の効果が期待できず、再接種により免疫を得られる効果が期待できると医師に判断された方"
+  },
+  "updateDate": "2021-06-15",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

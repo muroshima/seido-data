@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健所保健予防課母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+1+UM10"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健所保健予防課母子保健係",
+    "contactPhone": "042-725-5471",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "採血にかかる費用はご負担が発生します。",
+  "description": "先天性代謝異常等検査\n先天性代謝異常等検査\nフェニールケトン尿症、先天性甲状腺機能低下症等の早期発見の検査です。\n\n生後5日から7日の赤ちゃんの足の裏からごく微量の血液をとり検査する方法が広く行われています。\n\n都内の医療機関で出産し、検査を受ける場合は、東京都が検査料を負担します。都外の場合は、医療機関のある道府県又は政令市が負担します。いずれの場合も採血にかかる費用はご負担が発生します。\n\n申込方法等の詳細は、出産予定の医療機関にお問い合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "出産予定の医療機関"
+  },
+  "institutionName": {
+    "canonicalName": "先天性代謝異常等検査",
+    "shortName": "先天性代謝異常等検査"
+  },
+  "localGovernmentLink": {
+    "title": "先天性代謝異常等検査",
+    "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/8/1121.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "フェニールケトン尿症、先天性甲状腺機能低下症等の早期発見の検査です。生後5日から7日の赤ちゃんの足の裏からごく微量の血液をとり検査する方法が広く行われています。",
+  "support": {
+    "description": "都内の医療機関で出産し、検査を受ける場合は、東京都が検査料を負担します。都外の場合は、医療機関のある道府県又は政令市が負担します。いずれの場合も採血にかかる費用はご負担が発生します。\n\n申込方法等の詳細は、出産予定の医療機関にお問い合わせください。",
+    "materiallySupport": "都内の医療機関で出産し、検査を受ける場合は、東京都が検査料を負担します。都外の場合は、医療機関のある道府県又は政令市が負担します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "078"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後5日から7日の赤ちゃん",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生後5日から7日の赤ちゃん"
+  },
+  "updateDate": "2023-01-25",
+  "useConsiderationFlag": false,
+  "utilization": "申込方法等の詳細は、出産予定の医療機関にお問い合わせください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

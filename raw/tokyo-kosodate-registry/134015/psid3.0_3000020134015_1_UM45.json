@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "134015;八丈町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "町立八丈病院",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020134015",
+    "psid": "psid3.0+3000020134015+1+UM45"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都八丈島八丈町三根26番地11",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "町立八丈病院",
+    "contactPhone": "04996-2-1188",
+    "contactUrl": null,
+    "zipCode": "1001511"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "救急外来のご案内とお願い\n当院では、午後時間外の受診（午後の予約外来は除く）および当直帯での受診の際は、救急外来での対応を行っております。\n救急外来では原則として初期対応になり、長期間の処方や精密検査は常設診療科の外来受診にて行います（ただし、救急車対応や緊急性のある病状の場合はその限りではありません）。\n当直帯では医師１名が対応しているため、緊急性や重症度の高い患者様の診療中の場合には、しばらくお待ちいただくこともございます。何卒ご理解いただけますよう、よろしくお願い申し上げます。\nまた、体調不良で数日様子を見られてから当直帯に受診されることで治療に難渋する方もお見受けいたします。できるだけ早期に通常時間内にご受診いただくことをお勧めいたします。\n\n当直帯（平日午後17:15から翌日8:30、および休日）での受診の際には、まずは当院にお電話いただき、宿直事務から受診方法のご案内をさせていただきます。\nまた、新型コロナウイルスの院内感染を防ぐため、発熱や感冒様症状などについてご確認させていただきます。\nもし感染の疑いがあると当直医によって判断された場合、来院時の待機場所（自家用車内や救急外来前室など）をご案内いたします。\n何卒、ご協力をお願い申し上げます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "八丈町三根26番地11",
+    "implementationName": "町立八丈病院"
+  },
+  "institutionName": {
+    "canonicalName": "夜間・休日急病診療所",
+    "shortName": "救急外来"
+  },
+  "localGovernmentLink": {
+    "title": "救急外来のご案内とお願い",
+    "uri": "https://www.town.hachijo.tokyo.jp/kakuka/kigyou/hospital_firstaid.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-13",
+    "updater": "八丈町"
+  },
+  "procedureCounter": "町立八丈病院",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "八丈町では、夜間や日曜・祝日、年末年始に、市内の医療機関の協力のもと、当番制で診療を行っています。",
+  "support": {
+    "description": "救急外来",
+    "materiallySupport": "救急外来",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": "まずは当院にお電話いただき、宿直事務から受診方法のご案内をさせていただきます。\nまた、新型コロナウイルスの院内感染を防ぐため、発熱や感冒様症状などについてご確認させていただきます。\nもし感染の疑いがあると当直医によって判断された場合、来院時の待機場所（自家用車内や救急外来前室など）をご案内いたします。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "当直帯（平日午後17:15から翌日8:30、および休日）",
+    "fromHM": "17:15",
+    "toHM": "08:30"
+  }
+}

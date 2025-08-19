@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131105;目黒区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131105",
+    "psid": "psid3.0+1000020131105+4+UM112"
+  },
+  "belongings": null,
+  "capacity": "10組",
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都目黒区上目黒2-19-15",
+    "contactComment": "ファクス：03‐3715‐7604",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て支援課",
+    "contactPhone": "03-6459-5835",
+    "contactUrl": null,
+    "zipCode": "1538573"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "アソシエとりつだいベビーラボ\n都立大学にある子育てふれあいひろばです。\n株式会社アソシエ・インターナショナルが運営しています。\n\n場所：東京都目黒区平町一丁目25番21号 2階\n電話：03-6459-5835\n開室時間：月曜日から金曜日　午前10時から午後0時30分　午後1時30分から午後4時\nアソシエとりつだいベビーラボ; https://associe-international.co.jp/%E6%96%BD%E8%A8%AD%E7%B4%B9%E4%BB%8B/toritudai-baby/",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "東京都目黒区平町一丁目25番21号 2階",
+    "implementationName": "アソシエとりつだいベビーラボ"
+  },
+  "institutionName": {
+    "canonicalName": "子育て広場",
+    "shortName": "目黒区地域子育てふれあいひろば"
+  },
+  "localGovernmentLink": {
+    "title": "子育てふれあいひろば",
+    "uri": "https://www.city.meguro.tokyo.jp/kosodateshien/kosodatekyouiku/kosodate/kosodate_hiroba.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "目黒区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条",
+    "regulationName": "目黒区地域子育てふれあいひろば事業実施要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "アソシエとりつだいベビーラボ",
+      "uri": "https://associe-international.co.jp/%E6%96%BD%E8%A8%AD%E7%B4%B9%E4%BB%8B/toritudai-baby/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "区内の子育てひろばは、小学校就学前のお子さんが安心して遊べるスペースがあり、子育て中の親子が気軽に集い、仲間づくりを通して子育てに関する相談や情報交換等を行う機会を提供しています。また、お子さんの年齢に応じた各種イベントなども行っています。\n（イベントの詳細については、目黒区サイトや市報などでお知らせしています。）",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "2歳児クラスまでのお子さん"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "LINE予約",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "開室時間：月曜日から金曜日　午前10時から午後0時30分　午後1時30分から午後4時",
+    "fromHM": "10:00",
+    "toHM": "16:00"
+  }
+}

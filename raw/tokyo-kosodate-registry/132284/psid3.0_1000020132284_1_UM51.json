@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132284;あきる野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭部 こども家庭センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132284",
+    "psid": "psid3.0+1000020132284+1+UM51"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭部 こども家庭センター母子保健係",
+    "contactPhone": "042-550-3340",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "お子さんのすこやかな成長・発達と健康増進のため、健康診査をおこなっています。\n\n乳幼児健康診査一覧\nお子さんの年齢ごとに健康診査をおこなっています。\n\n乳幼児健康診査一覧表\n|健診名|対象児|健診方法|\n|:----|:----|:----|\n|乳児（3～4か月児）健康診査|生後3か月から6か月未満のお子さん|集団健診|\n|乳児（6～7か月児）健康診査|生後6か月から8か月未満のお子さん|個別健診|\n|乳児（9～10か月児）健康診査|\n|生後9か月から11か月未満のお子さん|個別健診|\n|1歳6か月児健康診査|1歳6か月から2歳未満のお子さん|集団健診|\n|3歳児健康診査|3歳から4歳未満のお子さん|集団健診|\n|集団健診はあきる野保健相談所で実施しています。\n個別健診は契約医療機関で実施しています。また、受診票は乳児（3～4か月児）健康診査で配布しています。\n\n集団健診（予約制）のご案内について\n集団健診の対象の方には、封書で日程等のご案内を郵送します。\n\n集団健診は予約制ですので、ご案内が届きましたら必ずご確認ください。\n\n※転入した方で健診未受診の方は、問い合わせ先までご連絡ください。\n\n予約方法\n電子申請で予約を受け付けます。\n\n申込み手順については、ご案内に記載しています。\n\n※電子申請ができない場合は、下記お問い合せわ先にご相談ください。\n\n※電子申請は期限がありますので、ご注意ください。\n\n来所する前の注意点\n来所はできるだけ最少人数でお願いします。\n\n令和5年3月13日からマスクの着用は個人の判断が基本となりましたが、医療機関の受診時はマスクの着用が推奨されており、健診会場においても医療機関に準じてマスク（できるだけ不織布マスク）の着用をお願いします。ただし、2歳未満のお子さんは着用不要です。\n体調に心配がある方は、健診を見合わせするか事前にご相談ください。\n\n来所時の注意点\n館内での人数を制限するため、受付予約時間にご来所ください。\n入館時に検温を実施します。37．5℃以上の場合は受診できません。\n会場に設置しているアルコール消毒剤で手指消毒をしてください。\n健診中は常に換気を行うため室温が低くなることがあります。気温の低い時には、寒さを防ぐためのお子さん用バスタオルをお持ちください。（乳児健康診査では必ずお持ちください。）\n\n母子保健事業の開催情報\n母子保健事業の開催情報は、子育て応援メール及び広報紙でもお知らせします。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "あきる野保健相談所"
+  },
+  "institutionName": {
+    "canonicalName": "1歳6か月児健康診査",
+    "shortName": "1歳6か月児健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "乳幼児の健康診査",
+    "uri": "https://www.city.akiruno.tokyo.jp/kosodate/0000016452.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "あきる野市"
+  },
+  "procedureCounter": "こども家庭センター母子保健係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "集団健診の対象の方には、封書で日程等のご案内を郵送します。\n\n集団健診は予約制ですので、ご案内が届きましたら必ずご確認ください。\n\n※転入した方で健診未受診の方は、問い合わせ先までご連絡ください。\n\n予約方法\n電子申請で予約を受け付けます。\n\n申込み手順については、ご案内に記載しています。\n\n※電子申請ができない場合は、下記お問い合せわ先にご相談ください。\n\n※電子申請は期限がありますので、ご注意ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第12条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "1歳6か月の頃は乳児期から幼児期に移行する大切な時期です。あきる野市では1歳6か月児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+  "support": {
+    "description": "集団健診",
+    "materiallySupport": "集団健診",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": 6
+    },
+    "lessThan": {
+      "targetAge": 2,
+      "targetAgeOfMonths": 0
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "1歳6か月から2歳未満のお子さん"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

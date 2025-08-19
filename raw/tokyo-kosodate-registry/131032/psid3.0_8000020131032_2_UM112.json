@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援部子ども家庭支援センター子ども家庭サービス係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+2+UM112"
+  },
+  "belongings": null,
+  "capacity": "25組",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファックス番号：03-5962-7205\n\n外国語対応が必要な人、通訳オペレーター、区の職員の3人で会話ができます。\n\n多言語対応三者通話サービス;https://www.multilingualinterpretercallservice.city.minato.tokyo.jp/kokusai",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援部子ども家庭支援センター子ども家庭サービス係",
+    "contactPhone": "03-5962-7201",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "無料（講座参加には別途料金がかかります）",
+  "description": "みなと子育て応援プラザPokke（ぽっけ）\nPokke（ぽっけ）では、「子育てひろば」「一時預かり」「トワイライトステイ（夜間保育）」「ショートステイ（宿泊保育）」の4つの事業を行っています。「子育てひろば」はお子さんと一緒にお母さんやお父さんも気軽に集えて、仲間づくりができる場所です。また、ご家庭の事情にあわせてお子さんをお預かりするサービスが充実しています。\n\n【所在地】芝5-18-1-102\n【連絡先】電話：03-6435-0411Fax：03-6435-0412\n【最寄り駅】都営地下鉄浅草線、三田線三田駅A8出口徒歩1分（エレベーターあり）\nJR山手線、京浜東北線田町駅三田口（西口）徒歩3分\nみなと子育て応援プラザPokke（ぽっけ）へ行くには;https://www.city.minato.tokyo.jp/kodomo/kodomo/kodomo/shienshisetsu/24/access.html\nみなと子育て応援プラザPokke（ぽっけ）のホームページへ（外部サイトへリンク）;https://minato-pokke.com/\n子育てひろば\n0～3歳の子どもとその親が気軽に楽しめ、ゆったりと過ごすことができる場所です。友だちづくりや情報の交換におすすめ。カフェではドリンクはもちろん軽食も楽しめ、育児相談をすることもできます。\n\n【対象】0～3歳の子どもと保護者\n【開館日】月曜～土曜と第1と第3日曜（月1回（不定期）平日、年末年始は休み）\n【開館日時】午前9時30分～午後4時30分\n【定員】25組\n【参加費】無料（講座参加には別途料金がかかります）\n※Pokke会員への登録が必要です。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "月1回（不定期）平日、年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "芝5-18-1-102",
+    "implementationName": "Pokke（ぽっけ）"
+  },
+  "institutionName": {
+    "canonicalName": "子育て広場",
+    "shortName": "みなと子育て応援プラザPokke（ぽっけ）"
+  },
+  "localGovernmentLink": {
+    "title": "みなと子育て応援プラザPokke（ぽっけ）",
+    "uri": "https://www.city.minato.tokyo.jp/kodomo/kodomo/kodomo/shienshisetsu/24/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "港区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "保護者",
+  "regulation": {
+    "regulationArticle": "第6条の3第6項",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "みなと子育て応援プラザPokke（ぽっけ）へ行くには",
+      "uri": "https://www.city.minato.tokyo.jp/kodomo/kodomo/kodomo/shienshisetsu/24/access.html"
+    },
+    {
+      "title": "みなと子育て応援プラザPokke（ぽっけ）のホームページへ（外部サイトへリンク）",
+      "uri": "https://minato-pokke.com/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "区内の子育てひろばは、小学校就学前のお子さんが安心して遊べるスペースがあり、子育て中の親子が気軽に集い、仲間づくりを通して子育てに関する相談や情報交換等を行う機会を提供しています。また、お子さんの年齢に応じた各種イベントなども行っています。\n（イベントの詳細については、港区サイトや区報などでお知らせしています。）",
+  "support": {
+    "description": "0～3歳の子どもとその親が気軽に楽しめ、ゆったりと過ごすことができる場所です。友だちづくりや情報の交換におすすめ。カフェではドリンクはもちろん軽食も楽しめ、育児相談をすることもできます。",
+    "materiallySupport": "0～3歳の子どもとその親が気軽に楽しめ、ゆったりと過ごすことができる場所です。友だちづくりや情報の交換におすすめ。カフェではドリンクはもちろん軽食も楽しめ、育児相談をすることもできます。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0～3歳",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "0～3歳の子どもと保護者"
+  },
+  "updateDate": "2022-07-22",
+  "useConsiderationFlag": false,
+  "utilization": "Pokke会員への登録が必要です。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "【開館日】月曜～土曜と第1と第3日曜（月1回（不定期）平日、年末年始は休み）\n【開館日時】午前9時30分～午後4時30分",
+    "fromHM": "09:30",
+    "toHM": "16:30"
+  }
+}

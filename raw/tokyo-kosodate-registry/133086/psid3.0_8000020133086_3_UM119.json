@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "133086;奥多摩町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健福祉センター　母子保健担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020133086",
+    "psid": "psid3.0+8000020133086+3+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "奥多摩町氷川1111",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健福祉センター 母子保健担当",
+    "contactPhone": "0428-83-2777",
+    "contactUrl": null,
+    "zipCode": "1980212"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "●１・２・４・５歳児歯科健診\n奥多摩町保健福祉センター\n（受付）\n午後1：00～午後1：20\n（健診終了予定）\n午後3：00\n（内容）\n歯科健診　ブラッシング指導　希望の方にフッ素塗布　栄養相談　育児相談\n（持ち物）\n母子健康手帳　アンケート　歯ブラシ　2本　タオル・コップ　歯科お約束表（お持ちの方のみ）\n●乳幼児歯科相談（1・2・4・5歳児歯科健診と同時開催・受付時間は午後1：00～午後1：40）\n　小学校に入学されるまでの乳幼児を対象に仕上げ磨きとブラッシング、希望者にフッ素塗布・栄養と育児相談をおこないます。予約制ですので、お約束表以外の日程でご希望の方は連絡ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "毎月第２水曜日　実施日は変更になる場合があります。詳しくは町からの通知でご確認ください。",
+    "fromHM": "13:00",
+    "fromYMD": null,
+    "toHM": "15:00",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "保健福祉センター"
+  },
+  "institutionName": {
+    "canonicalName": "奥多摩町の子育てに関する相談",
+    "shortName": "乳幼児歯科相談"
+  },
+  "localGovernmentLink": {
+    "title": "奥多摩町の福祉サービス（母子・子育て編）2024年度版 (PDFファイル: 1.4MB)",
+    "uri": "https://www.town.okutama.tokyo.jp/material/files/group/7/fukushikosodate2024.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-12",
+    "updater": "奥多摩町"
+  },
+  "procedureCounter": "保健福祉センター　母子保健担当",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "予約制ですので、お約束表以外の日程でご希望の方は連絡ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "奥多摩町では、小学校に入学されるまでの乳幼児を対象に、仕上げ磨きとブラッシング、希望者にフッ素塗布・栄養と育児相談を行う乳幼児歯科相談を実施しています。",
+  "support": {
+    "description": "仕上げ磨きとブラッシング、希望者にフッ素塗布・栄養と育児相談",
+    "materiallySupport": "仕上げ磨きとブラッシング、希望者にフッ素塗布・栄養と育児相談",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "小学校に入学されるまでの乳幼児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "小学校に入学されるまでの乳幼児"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

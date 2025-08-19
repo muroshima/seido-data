@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132071;昭島市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子ども家庭センター担当 母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132071",
+    "psid": "psid3.0+8000020132071+2+UM50"
+  },
+  "belongings": "3から4か月児健康診査受診時に、受診票を発行します。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "昭島市昭和町4-7-1",
+    "contactComment": "ファックス番号：042-544-7130",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 子ども家庭センター担当 母子保健係",
+    "contactPhone": "042-543-7303",
+    "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000053.html",
+    "zipCode": "1960015"
+  },
+  "cost": null,
+  "costConditions": "自己負担なく健康診査を受けられます。",
+  "description": "3から4か月児健康診査受診時に、受診票を発行します。\n\n赤ちゃんが健やかに育つためには、定期的な健康診査が必要です。\n6から7か月児および9から10か月児は、東京都内の委託契約医療機関において、自己負担なく健康診査を受けられます。\nやむを得ず、3から4か月児健康診査を受診されなかったかたは、お問い合わせください。\n\n3から4か月児健診受診時に、受診票をお渡しします。\n\n健康診査を受けられる期間\n6から7か月児健康診査：生後6から7か月の期間\n9から10か月児健康診査：生後9から10か月の期間\n実施医療機関\n健診実施曜日や時間などは、各医療機関に直接お問い合わせください。\n\n市内の委託医療機関\n大田医院;https://www.city.akishima.lg.jp/map/020/010/120/20140823220425.html\n電話：042-541-0311\nしょうわの森こどもクリニック;https://www.city.akishima.lg.jp/map/020/030/090/20140825120648.html\n電話：042-519-1237\nつつじが丘診療所;https://www.city.akishima.lg.jp/map/020/010/160/20140823214931.html\n電話：042-545-4737\n栄田医院;https://www.city.akishima.lg.jp/map/020/010/060/20140825223313.html\n042-541-0218\n富士診療所;https://www.city.akishima.lg.jp/map/020/010/090/20140823222646.html\n042-541-2263\n石原レディースクリニック;https://www.city.akishima.lg.jp/map/020/080/030/20140825154821.html\n電話：042-545-9022\n太陽こども病院;https://www.city.akishima.lg.jp/map/020/030/120/20140825115642.html\n電話：042-544-7511\nまことクリニック;https://www.city.akishima.lg.jp/map/020/010/230/20140823212624.html\n電話：042-546-2800\n松原町クリニック;https://www.city.akishima.lg.jp/map/020/010/260/20140823210740.html\n電話：042-546-8610\n田中団地診療所;https://www.city.akishima.lg.jp/map/020/010/330/20140823195354.html\n電話：042-545-2514\n東京都内の委託医療機関（上記以外）\n受診予定の医療機関に直接お問い合わせください。\n\nその他\n東京都内の他の区市町村に転居された場合、この受診票はそのまま使用できます。\n他道府県に転居された場合、この受診票を使用することはできません。転居先の区市町村の担当窓口にお問い合わせください。\n都外から転入されたなど、受診票がないかたは、お問合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "健康診査を受けられる期間\n9から10か月児健康診査：生後9から10か月の期間",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "実施医療機関\n健診実施曜日や時間などは、各医療機関に直接お問い合わせください。\n\n市内の委託医療機関\n大田医院;https://www.city.akishima.lg.jp/map/020/010/120/20140823220425.html\n電話：042-541-0311\nしょうわの森こどもクリニック;https://www.city.akishima.lg.jp/map/020/030/090/20140825120648.html\n電話：042-519-1237\nつつじが丘診療所;https://www.city.akishima.lg.jp/map/020/010/160/20140823214931.html\n電話：042-545-4737\n栄田医院;https://www.city.akishima.lg.jp/map/020/010/060/20140825223313.html\n042-541-0218\n富士診療所;https://www.city.akishima.lg.jp/map/020/010/090/20140823222646.html\n042-541-2263\n石原レディースクリニック;https://www.city.akishima.lg.jp/map/020/080/030/20140825154821.html\n電話：042-545-9022\n太陽こども病院;https://www.city.akishima.lg.jp/map/020/030/120/20140825115642.html\n電話：042-544-7511\nまことクリニック;https://www.city.akishima.lg.jp/map/020/010/230/20140823212624.html\n電話：042-546-2800\n松原町クリニック;https://www.city.akishima.lg.jp/map/020/010/260/20140823210740.html\n電話：042-546-8610\n田中団地診療所;https://www.city.akishima.lg.jp/map/020/010/330/20140823195354.html\n電話：042-545-2514\n東京都内の委託医療機関（上記以外）\n受診予定の医療機関に直接お問い合わせください。"
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+    "shortName": "9から10か月児健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "「6から7か月児健康診査」および「9から10か月児健康診査」",
+    "uri": "https://www.city.akishima.lg.jp/s049/010/010/010/030/20140917162223.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "昭島市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として乳幼児健康診査9か月から10か月児を実施しています。",
+  "support": {
+    "description": "6から7か月児および9から10か月児は、東京都内の委託契約医療機関において、自己負担なく健康診査を受けられます。",
+    "materiallySupport": "6から7か月児および9から10か月児は、東京都内の委託契約医療機関において、自己負担なく健康診査を受けられます。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後9から10か月の期間",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 9
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 10
+    },
+    "targetPersons": "赤ちゃんが健やかに育つためには、定期的な健康診査が必要です。\n6から7か月児および9から10か月児は、東京都内の委託契約医療機関において、自己負担なく健康診査を受けられます。"
+  },
+  "updateDate": "2023-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "3から4か月児健康診査受診時に、受診票を発行します。\n\n赤ちゃんが健やかに育つためには、定期的な健康診査が必要です。\n6から7か月児および9から10か月児は、東京都内の委託契約医療機関において、自己負担なく健康診査を受けられます。\nやむを得ず、3から4か月児健康診査を受診されなかったかたは、お問い合わせください。\n\nその他\n\n東京都内の他の区市町村に転居された場合、この受診票はそのまま使用できます。\n他道府県に転居された場合、この受診票を使用することはできません。転居先の区市町村の担当窓口にお問い合わせください。\n都外から転入されたなど、受診票がないかたは、お問合わせください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "健診実施曜日や時間などは、各医療機関に直接お問い合わせください。",
+    "fromHM": null,
+    "toHM": null
+  }
+}

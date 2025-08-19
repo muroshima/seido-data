@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132144;国分寺市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部　生活福祉課　相談支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132144",
+    "psid": "psid3.0+1000020132144+1+UM60"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-325-9026",
+    "contactEmail": null,
+    "contactEx": "533",
+    "contactName": "福祉部　生活福祉課　相談支援係",
+    "contactPhone": "042-325-0111",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "事業を利用する場合は、事前相談が必要です。\n来所いただく日程を調整しますので、生活福祉課の母子・父子自立支援員にご連絡ください。\n給付金の支給にあたっては審査を行います。審査の結果、支給できない場合もあります。\n母子家庭の母または父子家庭の父が就業に結びつきやすい資格を取得するために養成機関（通信教育も含む）において修業している場合、修業する期間（48か月が上限）生活を支援するための費用を支給します。また、修業を修了した場合、一時金を支給します。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "高等職業訓練促進給付金",
+    "shortName": "国分寺市母子家庭等高等職業訓練促進給付金等事業"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親家庭の方への支援",
+    "uri": "https://www.city.kokubunji.tokyo.jp/kurashi/1010846/1010847/1020399.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-12",
+    "updater": "国分寺市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "高等職業訓練促進給付金は修業を開始した日以降、また、高等職業訓練修了支援給付金は修業が修了した日以降30日以内に行うことができます。\n母子家庭等高等職業訓練促進給付金および高等職業訓練修了支援給付金のご案内 （PDF 302.5KB）;https://www.city.kokubunji.tokyo.jp/_res/projects/default_project/_page_/001/020/399/202405koutousyokugyou_1.pdf",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第31条（母子家庭自立支援給付金）、第31条の10（父子家庭自立支援給付金）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "母子家庭の母または父子家庭の父が就業に結びつきやすい資格を取得するために養成機関（通信教育も含む）において修業している場合、修業する期間（48か月が上限）生活を支援するための費用を支給します。また、修業を修了した場合、一時金を支給します。",
+  "support": {
+    "description": "【対象資格】\n・看護師　・准看護師　・保育士　・介護福祉士　・作業療法士　・理学療法士　・歯科衛生士　・理容師　・美容師　・社会福祉士　・製菓衛生師　・調理師　・その他、市長が必要と認める資格（例：言語聴覚士、歯科技工士、シスコシステムズ認定資格、LPI認定資格）\n\n【高等職業訓練促進給付金】\n月額　100,000円（住民税非課税世帯）　70,500円（住民税課税世帯）\n※養成機関における修業期間の最後12か月はそれぞれ4万円を加算します。\n※養成機関における修業期間が12か月未満の場合は、月額 140,000円（住民税非課税世帯） 110,500円（住民税課税世帯）\n修業する期間（48か月が上限）、申請月より毎月支給します（遡及はできません）。\n\n【高等職業訓練修了支援給付金】\n50,000円（住民税非課税世帯）\n25,000円（住民税課税世帯）\n修業が修了した後に、1回支給します。\n",
+    "materiallySupport": null,
+    "monetarySupport": "【対象資格】\n・看護師　・准看護師　・保育士　・介護福祉士　・作業療法士　・理学療法士　・歯科衛生士　・理容師　・美容師　・社会福祉士　・製菓衛生師　・調理師　・その他、市長が必要と認める資格（例：言語聴覚士、歯科技工士、シスコシステムズ認定資格、LPI認定資格）\n\n【高等職業訓練促進給付金】\n月額　100,000円（住民税非課税世帯）　70,500円（住民税課税世帯）\n※養成機関における修業期間の最後12か月はそれぞれ4万円を加算します。\n※養成機関における修業期間が12か月未満の場合は、月額 140,000円（住民税非課税世帯） 110,500円（住民税課税世帯）\n修業する期間（48か月が上限）、申請月より毎月支給します（遡及はできません）。\n\n【高等職業訓練修了支援給付金】\n50,000円（住民税非課税世帯）\n25,000円（住民税課税世帯）\n修業が修了した後に、1回支給します。\n"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "国分寺市にお住まいの母子家庭の母または父子家庭の父で20歳未満のお子さんを扶養しているかたで、次の要件を全て満たすかた\n・児童扶養手当の給付を受けているか、同等の所得水準のかた\n・修業年限6か月以上の養成機関において、資格の取得が見込まれるかた\n・就業または育児と修業の両立が困難であると認められるかた\n・過去に母子家庭等高等職業訓練促進給付金および高等職業訓練修了支援給付金の支給を受けたことのないかた\n令和６年度に事業の対象者の要件を緩和する予定です。現在の要件に該当しない場合もまずはご相談ください。相談は予約制です。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "国分寺市にお住まいの母子家庭の母または父子家庭の父で20歳未満のお子さんを扶養しているかたで、次の要件を全て満たすかた\n・児童扶養手当の給付を受けているか、同等の所得水準のかた\n・修業年限6か月以上の養成機関において、資格の取得が見込まれるかた\n・就業または育児と修業の両立が困難であると認められるかた\n・過去に母子家庭等高等職業訓練促進給付金および高等職業訓練修了支援給付金の支給を受けたことのないかた\n令和６年度に事業の対象者の要件を緩和する予定です。現在の要件に該当しない場合もまずはご相談ください。相談は予約制です。"
+  },
+  "updateDate": "2024-05-17",
+  "useConsiderationFlag": true,
+  "utilization": "高等職業訓練促進給付金は修業を開始した日以降、また、高等職業訓練修了支援給付金は修業が修了した日以降30日以内に行うことができます。\n母子家庭等高等職業訓練促進給付金および高等職業訓練修了支援給付金のご案内 （PDF 302.5KB）;https://www.city.kokubunji.tokyo.jp/_res/projects/default_project/_page_/001/020/399/202405koutousyokugyou_1.pdf",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

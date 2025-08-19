@@ -1,0 +1,138 @@
+{
+  "area": {
+    "areaCode": "132187;福生市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉保健部　社会福祉課　福祉総務係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132187",
+    "psid": "psid3.0+8000020132187+1+UM33"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都福生市本町5",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉保健部　社会福祉課　福祉総務係",
+    "contactPhone": "042-551-1735,042-551-1522",
+    "contactUrl": null,
+    "zipCode": "1978501"
+  },
+  "cost": "100",
+  "costConditions": "参加費　100円",
+  "description": "地域の民生委員・児童委員主催の子育て中の親子、及びこれからお母さんになる妊婦さんを対象としたサロンです。\n子育て仲間の輪を広げるとともに、子育ての不安や悩みを相談できる場所の提供を目的として活動しています。\n\nWeb予約について\n子育てサロン「はとぽっぽ」では予約時の負担軽減のため、Web予約を受け付けています。\n\n次のリンクより参加希望日を選択し、予約してください。\n\n※従前のとおり電話予約も可能です。\n\n子育てサロン「はとぽっぽ」予約フォーム（外部リンク）;https://logoform.jp/form/dHoV/294532\n子育てサロン「はとぽっぽ」の実施内容について\n・日時　毎月 第2金曜日 午前10時30分から正午（8月・祝日を除く）\n・場所　扶桑会館2階和室\n・対象　妊婦及び子育て中の親と子\n・参加費　100円\n・予約　 Web予約、もしくは下記【担当】へ電話予約　※当日参加も可\n　　　　【担当】福生市役所 福祉保健部 社会福祉課 福祉総務係　(TEL:042-551-1522）\n\n・運営主体　福生市民生委員・児童委員協議会\n・共催　福生市社会福祉協議会\n※ティータイム（親子別に過ごす時間）は令和5年4月より再開しています。\n\n関連情報\n扶桑会館（施設マップ）;https://www.city.fussa.tokyo.jp/map/bunka/1001618.html\n子育てサロン『はとぽっぽ』（ふっさボランティア・市民活動センターホームページ）（外部リンク）;https://fussashakyo.or.jp/fvac/registrationgroup/hatopoppo/",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "子育てサロン「はとぽっぽ」予約フォーム（外部リンク）",
+      "uri": "https://logoform.jp/form/dHoV/294532"
+    }
+  ],
+  "holiday": "8月・祝日",
+  "implementationPeriod": {
+    "conditions": "日時　毎月 第2金曜日 午前10時30分から正午（8月・祝日を除く）",
+    "fromHM": "10:30",
+    "fromYMD": null,
+    "toHM": "12:00",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "福生市本町92番地5",
+    "implementationName": "扶桑会館2階和室"
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関する教室・講習会",
+    "shortName": "はとぽっぽ"
+  },
+  "localGovernmentLink": {
+    "title": "子育てサロン「はとぽっぽ」",
+    "uri": "https://www.city.fussa.tokyo.jp/life/child/rearing/1002514.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "福生市"
+  },
+  "procedureCounter": "福生市役所 福祉保健部 社会福祉課 福祉総務係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "Web予約について\n子育てサロン「はとぽっぽ」では予約時の負担軽減のため、Web予約を受け付けています。\n\n次のリンクより参加希望日を選択し、予約してください。\n\n※従前のとおり電話予約も可能です。\n\n子育てサロン「はとぽっぽ」予約フォーム（外部リンク）;https://logoform.jp/form/dHoV/294532\n子育てサロン「はとぽっぽ」の実施内容について\n・日時　毎月 第2金曜日 午前10時30分から正午（8月・祝日を除く）\n・場所　扶桑会館2階和室\n・対象　妊婦及び子育て中の親と子\n・参加費　100円\n・予約　 Web予約、もしくは下記【担当】へ電話予約　※当日参加も可\n　　　　【担当】福生市役所 福祉保健部 社会福祉課 福祉総務係　(TEL:042-551-1522）\n\n・運営主体　福生市民生委員・児童委員協議会\n・共催　福生市社会福祉協議会\n※ティータイム（親子別に過ごす時間）は令和5年4月より再開しています。\n\n関連情報\n扶桑会館（施設マップ）;https://www.city.fussa.tokyo.jp/map/bunka/1001618.html\n子育てサロン『はとぽっぽ』（ふっさボランティア・市民活動センターホームページ）（外部リンク）;https://fussashakyo.or.jp/fvac/registrationgroup/hatopoppo/",
+  "procedurePeriod": {
+    "conditions": "※当日参加も可",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "子育てサロン『はとぽっぽ』（ふっさボランティア・市民活動センターホームページ）（外部リンク）",
+      "uri": "https://fussashakyo.or.jp/fvac/registrationgroup/hatopoppo/"
+    },
+    {
+      "title": "扶桑会館（施設マップ）",
+      "uri": "https://www.city.fussa.tokyo.jp/map/bunka/1001618.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "福生市では、子育て中の親子や出産を控える妊婦の方を対象に、日頃の子育ての息抜きや子育て仲間の輪を広げるとともに、子育ての不安や悩みを相談できる子育てサロンを開催しています。",
+  "support": {
+    "description": "子育て仲間の輪を広げるとともに、子育ての不安や悩みを相談できる",
+    "materiallySupport": "子育て仲間の輪を広げるとともに、子育ての不安や悩みを相談できる",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊婦及び子育て中の親と子"
+  },
+  "updateDate": "2023-12-28",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

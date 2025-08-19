@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131211;足立区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": null,
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020131211",
+    "psid": "psid3.0+2000020131211+1+UM96"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "https://www.city.adachi.tokyo.jp/documents/9943/r6ikouennitirannhyou.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "|№|幼稚園名|所在地|電話番号|備考|\n|:----|:----|:----|:----|:----|\n|1|あおい幼稚園|西加平二丁目7番19号|03-3883-7795|-|\n|2|足立愛育幼稚園|本木二丁目18番6号|03-3887-6647|-|\n|3|足立サレジオ幼稚園|江北三丁目40番27号|03-3899-4497|-|\n|4|足立白うめ幼稚園|東綾瀬一丁目24番6号|03-3605-5752|-|\n|5|足立つくし幼稚園|平野一丁目19番16号|03-3850-5300|-|\n|6|足立つばめ幼稚園|古千谷本町一丁目9番18号|03-3899-3071|-|\n|7|足立双葉幼稚園|扇一丁目29番1号|03-3890-4848|-|\n|8|足立みどり幼稚園|入谷二丁目7番14号|03-3853-3037|-|\n|9|石鍋幼稚園|六町四丁目4番18号|03-3850-8185|-|\n|10|小倉幼稚園|保木間五丁目8番4号|03-3884-3344|-|\n|11|栗島幼稚園|青井五丁目2番14号|03-3840-0541|-|\n|12|黒川幼稚園|辰沼二丁目5番3号|03-3605-4025|-|\n|13|江北白百合幼稚園|江北六丁目1番5号|03-3898-4055|-|\n|14|五反野幼稚園|西綾瀬二丁目6番18号|03-3889-7621|-|\n|15|佐藤幼稚園|西伊興一丁目12番28号|03-3897-2331|-|\n|16|鹿浜愛育幼稚園|鹿浜二丁目3番15号|03-3899-5726|-|\n|17|聖和幼稚園|柳原一丁目26番1号|03-3888-6813|-|\n|18|千住寿幼稚園|千住寿町24番2号|03-3881-7650|-|\n|19|専念寺幼稚園|関原三丁目3番21号|03-3887-7000|-|\n|20|第一若草幼稚園|関原二丁目40番11号|03-3840-3541|-|\n|21|竹塚幼稚園|竹の塚五丁目7番12号|03-3883-8502|-|\n|22|チェリー幼稚園|綾瀬七丁目17番3号|03-3605-1580|-|\n|23|東京いずみ幼稚園|佐野一丁目20番10号|03-3605-3341|-|\n|24|はなぞの幼稚園|伊興一丁目16番24号|03-3899-0007|-|\n|25|ふちえ幼稚園|竹の塚一丁目24番10号|03-3884-0403|-|\n|26|満願寺幼稚園|栗原三丁目6番6号|03-3848-0245|-|\n|27|六木幼稚園|六木三丁目23番10号|03-3628-5111|-|",
+    "implementationName": "|№|幼稚園名|所在地|電話番号|備考|\n|:----|:----|:----|:----|:----|\n|1|あおい幼稚園|西加平二丁目7番19号|03-3883-7795|-|\n|2|足立愛育幼稚園|本木二丁目18番6号|03-3887-6647|-|\n|3|足立サレジオ幼稚園|江北三丁目40番27号|03-3899-4497|-|\n|4|足立白うめ幼稚園|東綾瀬一丁目24番6号|03-3605-5752|-|\n|5|足立つくし幼稚園|平野一丁目19番16号|03-3850-5300|-|\n|6|足立つばめ幼稚園|古千谷本町一丁目9番18号|03-3899-3071|-|\n|7|足立双葉幼稚園|扇一丁目29番1号|03-3890-4848|-|\n|8|足立みどり幼稚園|入谷二丁目7番14号|03-3853-3037|-|\n|9|石鍋幼稚園|六町四丁目4番18号|03-3850-8185|-|\n|10|小倉幼稚園|保木間五丁目8番4号|03-3884-3344|-|\n|11|栗島幼稚園|青井五丁目2番14号|03-3840-0541|-|\n|12|黒川幼稚園|辰沼二丁目5番3号|03-3605-4025|-|\n|13|江北白百合幼稚園|江北六丁目1番5号|03-3898-4055|-|\n|14|五反野幼稚園|西綾瀬二丁目6番18号|03-3889-7621|-|\n|15|佐藤幼稚園|西伊興一丁目12番28号|03-3897-2331|-|\n|16|鹿浜愛育幼稚園|鹿浜二丁目3番15号|03-3899-5726|-|\n|17|聖和幼稚園|柳原一丁目26番1号|03-3888-6813|-|\n|18|千住寿幼稚園|千住寿町24番2号|03-3881-7650|-|\n|19|専念寺幼稚園|関原三丁目3番21号|03-3887-7000|-|\n|20|第一若草幼稚園|関原二丁目40番11号|03-3840-3541|-|\n|21|竹塚幼稚園|竹の塚五丁目7番12号|03-3883-8502|-|\n|22|チェリー幼稚園|綾瀬七丁目17番3号|03-3605-1580|-|\n|23|東京いずみ幼稚園|佐野一丁目20番10号|03-3605-3341|-|\n|24|はなぞの幼稚園|伊興一丁目16番24号|03-3899-0007|-|\n|25|ふちえ幼稚園|竹の塚一丁目24番10号|03-3884-0403|-|\n|26|満願寺幼稚園|栗原三丁目6番6号|03-3848-0245|-|\n|27|六木幼稚園|六木三丁目23番10号|03-3628-5111|-|"
+  },
+  "institutionName": {
+    "canonicalName": "私学助成（従来制度）の幼稚園一覧",
+    "shortName": "新制度に移行せず、現行のままの園"
+  },
+  "localGovernmentLink": {
+    "title": "新制度の移行園一覧【令和6年4月1日時点】（PDF：114KB）\n ",
+    "uri": "https://www.city.adachi.tokyo.jp/documents/9943/r6ikouennitirannhyou.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-12",
+    "updater": "足立区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "幼稚園には公立の幼稚園と私立の幼稚園があります。\n私立幼稚園には、新制度による給付を受ける幼稚園と、新制度には移行せず、私学助成を受けて運営している幼稚園があります。\n以下は、足立区内の私学助成を受ける幼稚園の一覧です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-07-12",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

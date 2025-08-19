@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "133086;奥多摩町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉保健課 子育て推進係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020133086",
+    "psid": "psid3.0+8000020133086+1+UM26"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "奥多摩町小丹波108",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉保健課 子育て推進係",
+    "contactPhone": "0428-85-2611",
+    "contactUrl": null,
+    "zipCode": "1980105"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "児童扶養手当 — 国\n●対象者\n　 母子・父子家庭およびそれに類する世帯で、次のいずれかに該当する18 歳に達する日以後の最初の3 月31 日までの間にある（身体障害者手帳1 ～ 3 級、愛の手帳1 ～ 3 度程度の障害児は20 歳未満の）児童を養育している父、母または養育者\n（1）　父母が離婚した児童\n（2）　父または母が死亡した児童\n（3）　父または母が重度の障害（おおむね身体障害者手帳1・2 級程度）を有する児童\n（4）　父または母が生死不明である児童\n（5）　父または母に1 年以上遺棄されている児童\n（6）　父または母が法令により1 年以上拘禁されている児童\n（7）　婚姻によらないで生まれた児童\n（8）　父または母がDV（配偶者からの暴力）保護命令を受けた児童\n●手当額\n　受給者等の所得に応じて支給します。手当額は44,140 円～ 10,410 円。\n　なお、児童が2 人以上いる場合には2 人目の児童に月額10,420 円〜5,210 円、3 人目以降の児童1 人につき月額6,250 円〜3,130 円が加算されます。\n●支払時期\n原則として毎年1 月・3 月・5 月・7 月・9 月・11 月\n申請のあった月の翌月分から、所定の金融機関に前2 か月分をまとめて振り込みます。\n●支給対象外\n児童が児童福祉施設等施設に入所しているとき。児童が里親に委託されているとき。\n児童または受給資格者が日本国内に住所がないとき。児童が父及び母の配偶者（事実上の配偶者を含む※。）に養育されているとき。請求者またはその扶養義務者等の前年の所得が一定の限度額以上のとき。\n　※ 法律上の婚姻関係になくても住民票上同一住所、また住民票と同一住所でなくても実際に同居しているかそれに準ずる定期的な訪問等があるとき。\n●手続きに必要なもの\n　受付窓口で申請に必要な書類をお渡しします。添付書類等はその時にご説明しますので、後日提出をお願いします。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "●支払時期\n原則として毎年1 月・3 月・5 月・7 月・9 月・11 月\n申請のあった月の翌月分から、所定の金融機関に前2 か月分をまとめて振り込みます。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "児童扶養手当",
+    "shortName": "児童扶養手当"
+  },
+  "localGovernmentLink": {
+    "title": "奥多摩町の福祉サービス（母子・子育て編）2024年度版 (PDFファイル: 1.4MB)",
+    "uri": "https://www.town.okutama.tokyo.jp/material/files/group/7/fukushikosodate2024.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-12",
+    "updater": "奥多摩町"
+  },
+  "procedureCounter": "福祉保健課 子育て推進係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "受付窓口で申請に必要な書類をお渡しします。添付書類等はその時にご説明しますので、後日提出をお願いします。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "児童を養育している父、母または養育者",
+  "regulation": {
+    "regulationArticle": "第4条～第8条",
+    "regulationName": "児童扶養手当法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童扶養手当は、父母の離婚などにより、父または母と生計を同じくしていないお子さんが養育されている家庭の生活の安定と自立を助け、お子さんが心身ともに健やかに成長するよう役立ててもらうために､父または母､もしくは父または母に代わってお子さんを養育している方に支給されます｡\nまた、ひとり親家庭でなくても、父または母に重度の障がいがある場合には、児童扶養手当が支給されます｡",
+  "support": {
+    "description": "受給者等の所得に応じて支給します。手当額は44,140 円～ 10,410 円。\nなお、児童が2 人以上いる場合には2 人目の児童に月額10,420 円〜5,210 円、3 人目以降の児童1 人につき月額6,250 円〜3,130 円が加算されます。",
+    "materiallySupport": null,
+    "monetarySupport": "受給者等の所得に応じて支給します。手当額は44,140 円～ 10,410 円。\nなお、児童が2 人以上いる場合には2 人目の児童に月額10,420 円〜5,210 円、3 人目以降の児童1 人につき月額6,250 円〜3,130 円が加算されます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "18 歳に達する日以後の最初の3 月31 日までの間にある（身体障害者手帳1 ～ 3 級、愛の手帳1 ～ 3 度程度の障害児は20 歳未満の）児童",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "●対象者\n　 母子・父子家庭およびそれに類する世帯で、次のいずれかに該当する18 歳に達する日以後の最初の3 月31 日までの間にある（身体障害者手帳1 ～ 3 級、愛の手帳1 ～ 3 度程度の障害児は20 歳未満の）児童を養育している父、母または養育者\n（1）　父母が離婚した児童\n（2）　父または母が死亡した児童\n（3）　父または母が重度の障害（おおむね身体障害者手帳1・2 級程度）を有する児童\n（4）　父または母が生死不明である児童\n（5）　父または母に1 年以上遺棄されている児童\n（6）　父または母が法令により1 年以上拘禁されている児童\n（7）　婚姻によらないで生まれた児童\n（8）　父または母がDV（配偶者からの暴力）保護命令を受けた児童\n●支給対象外\n児童が児童福祉施設等施設に入所しているとき。児童が里親に委託されているとき。\n児童または受給資格者が日本国内に住所がないとき。児童が父及び母の配偶者（事実上の配偶者を含む※。）に養育されているとき。請求者またはその扶養義務者等の前年の所得が一定の限度額以上のとき。\n　※ 法律上の婚姻関係になくても住民票上同一住所、また住民票と同一住所でなくても実際に同居しているかそれに準ずる定期的な訪問等があるとき。"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "受付窓口で申請に必要な書類をお渡しします。添付書類等はその時にご説明します",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

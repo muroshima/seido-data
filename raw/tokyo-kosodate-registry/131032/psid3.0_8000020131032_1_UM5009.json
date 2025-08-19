@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "みなと保健所健康推進課地域保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+1+UM5009"
+  },
+  "belongings": "2　自費で支払った15回目以降の妊婦健康診査費用の領収書・明細書（母子健康手帳に受診日の記載があるもの）の写し,3　全てのお子様の母子健康手帳（表紙および「妊娠中の経過」欄で受診状況が確認できること）の写し,みなと保健所健康推進課地域保健係で窓口で手続きをされる方は、2の15回目以降の「妊婦健康診査費用の領収書・明細書」の原本と対象児の「母子健康手帳」と「銀行等の口座番号が分かるもの」をお持ちください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファックス番号：03-3455-4539\n\n妊婦健康診査;https://www.city.minato.tokyo.jp/chiikihoken/kenko/ninshin/ninshin/ninpukennshin.html\n都外または助産院で受診した妊婦健康診査と新生児聴覚検査の費用の一部助成;https://www.city.minato.tokyo.jp/chiikihoken/kenko/ninshin/ninshin/kenko_shinsa.html\nふたごの会;https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/koryukai/futago.html\n産前産後家事・育児支援サービス;https://www.city.minato.tokyo.jp/kosodatesien/kenko/ninshin/shussan/mama-support.html\n子どもの一時預かり;https://www.city.minato.tokyo.jp/kosodatesien/kosodate/azukeru.html\n外国語対応が必要な人、通訳オペレーター、区の職員の3人で会話ができます。\n\n多言語対応三者通話サービス;https://www.multilingualinterpretercallservice.city.minato.tokyo.jp/kokusai",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "みなと保健所健康推進課地域保健係",
+    "contactPhone": "03-6400-0084",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "多胎妊婦の妊婦健康診査費用助成\n多胎妊娠に伴い、妊婦健康診査受診票14回分を超えて、自費で妊婦健康診査を受診した際に要した費用の一部を助成します。（15回目から19回目までに自費で受診した分を対象になります。）\n\n対象者\n令和3年4月1日以降の妊婦健康診査受診日において次のすべてを満たす方\n\n1　多胎児を妊娠している方\n\n2　港区に住所を有する方\n\n申請期間\n出産後1年間\n\n限度額\n1　妊婦健康診査1回につき5,090円\n\n2　妊婦一人あたり5回を限度\n\n対象となる費用\n令和3年4月1日以降に、妊婦健康診査受診票14回を超えて、自費で妊婦健康診査を受診した際に要した費用が対象となります。\n\n（妊婦健康診査の内容は、問診、体重測定、血圧測定、尿検査、保健指導等。）\n\n下記の費用は対象外となります。\n海外で受診した健診費用\n医療保険適用診療分\n母子健康手帳交付以前に受診した健診分\n健診に伴わない超音波検査分・子宮頸がん検診分\n教材費・文書料・予防接種等の受診票検査項目に対応しない分\n1～14回目の妊婦健康診査\n申請方法\n提出方法\n郵送またはみなと保健所健康推進課地域保健係へ来所の上、下記1～3を提出してください。\n\n1　申請書\n港区多胎妊婦健康診査費用助成金支給申請書（PDF：189KB）;https://www.city.minato.tokyo.jp/chiikihoken/documents/tataisinseisyo.pdf\n\n2　自費で支払った15回目以降の妊婦健康診査費用の領収書・明細書（母子健康手帳に受診日の記載があるもの）の写し\n3　全てのお子様の母子健康手帳（表紙および「妊娠中の経過」欄で受診状況が確認できること）の写し\nみなと保健所健康推進課地域保健係で窓口で手続きをされる方は、2の15回目以降の「妊婦健康診査費用の領収書・明細書」の原本と対象児の「母子健康手帳」と「銀行等の口座番号が分かるもの」をお持ちください。\n郵送先\n〒108-8315　港区三田1-4-10　みなと保健所健康推進課地域保健係\n\n問い合わせ先\n詳細、ご不明な点等については遠慮なくお問い合わせください。\n\nみなと保健所健康推進課地域保健係　電話03-6400-0084",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "産婦健康診査の費用助成",
+    "shortName": "多胎妊婦の妊婦健康診査費用助成"
+  },
+  "localGovernmentLink": {
+    "title": "多胎妊婦の妊婦健康診査費用助成",
+    "uri": "https://www.city.minato.tokyo.jp/chiikihoken/tatai.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "港区"
+  },
+  "procedureCounter": "みなと保健所健康推進課地域保健係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "郵送またはみなと保健所健康推進課地域保健係へ来所の上、下記1～3を提出してください。\n1　申請書\n港区多胎妊婦健康診査費用助成金支給申請書（PDF：189KB）;https://www.city.minato.tokyo.jp/chiikihoken/documents/tataisinseisyo.pdf\n2　自費で支払った15回目以降の妊婦健康診査費用の領収書・明細書（母子健康手帳に受診日の記載があるもの）の写し\n3　全てのお子様の母子健康手帳（表紙および「妊娠中の経過」欄で受診状況が確認できること）の写し\nみなと保健所健康推進課地域保健係で窓口で手続きをされる方は、2の15回目以降の「妊婦健康診査費用の領収書・明細書」の原本と対象児の「母子健康手帳」と「銀行等の口座番号が分かるもの」をお持ちください。\n郵送申請する際の郵送料について\n郵送申請をご利用しやすくするため、区が郵送料を負担します。;https://www.city.minato.tokyo.jp/kuyakushokaikaku/yuusouryou.html\n\n郵送先\n〒108-8315　港区三田1-4-10　みなと保健所健康推進課地域保健係",
+  "procedurePeriod": {
+    "conditions": "申請期間\n出産後1年間",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "産後の初期段階における母子に対する支援を強化し、妊娠期から子育て期にわたる切れ目のない支援を行うため、出産後間もない時期の産婦に対する健康診査費用を助成します。産婦健康診査は産後2週間、産後１か月など出産後間もない時期の産婦向けの健康診査で、母体の身体的機能の回復や授乳状況、精神状態の把握を行います。 ",
+  "support": {
+    "description": "多胎妊娠に伴い、妊婦健康診査受診票14回分を超えて、自費で妊婦健康診査を受診した際に要した費用の一部を助成します。（15回目から19回目までに自費で受診した分を対象になります。）",
+    "materiallySupport": null,
+    "monetarySupport": "多胎妊娠に伴い、妊婦健康診査受診票14回分を超えて、自費で妊婦健康診査を受診した際に要した費用の一部を助成します。（15回目から19回目までに自費で受診した分を対象になります。）"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "令和3年4月1日以降の妊婦健康診査受診日において次のすべてを満たす方\n\n1　多胎児を妊娠している方\n\n2　港区に住所を有する方"
+  },
+  "updateDate": "2023-07-21",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

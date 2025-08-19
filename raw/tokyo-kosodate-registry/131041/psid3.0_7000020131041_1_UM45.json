@@ -1,0 +1,130 @@
+{
+  "area": {
+    "areaCode": "131041;新宿区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部 健康政策課 健康企画係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020131041",
+    "psid": "psid3.0+7000020131041+1+UM45"
+  },
+  "belongings": "必ず健康保険証、子ども医療証等をご持参ください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：03-5273-3876",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部 健康政策課 健康企画係",
+    "contactPhone": "03-5273-3024",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "保険診療で有料です。必ず健康保険証、子ども医療証等をご持参ください。",
+  "description": "休日診療（内科・小児科）\n※休日診療（内科・小児科）をご利用の際は、以下の点にご注意ください。\n・感染予防対策のため診療時間を調整していますので、必ず電話で予約してからお越しください。\n・感染症等の流行期には、受診から診療終了まで相当なお時間がかかることがあります。\nまた、これまでの様な検査や処置ができないことがありますので、あらかじめご了承ください。\n土曜日の夜間や日曜日・祝日・年末年始（12月29日から1月3日）に、内科・小児科（入院を要しない程度の急患）の\n診療を実施しています。\n保険診療で有料です。必ず健康保険証、子ども医療証等をご持参ください。\n\n休日診療の概要\n|実施場所|新宿区医師会区民健康センター（新宿区新宿7－26－4　3階）|\n|診療科目|内科・小児科|\n|診療日時|土曜日（準夜間のみ）<br>＜内科＞17時から22時 （受付は21時30分まで）<br>日曜日・祝日・年末年始（12月29日から1月3日）<br>＜内科＞9時から22時 （受付は21時30分まで）<br>＜小児科＞ 9時から17時 （受付は16時30分まで）|\n|電話番号|03-3208-2223　来所前に電話で症状等をご相談のうえ、受診してください。|\n|地図|新宿区医師会のホームページ（外部サイトを新規ウィンドウ表示）;https://shinjuku-med.or.jp/access/|\n\n・1日分程度の最小限の薬しかお渡ししていません。翌日等にあらためて一般の医院・診療所（かかりつけ医）で受診してください。\n・インフルエンザ等の治癒証明書発行はしていません。治癒証明書が必要な場合は、翌日等にあらためて一般の医院・診療所（かかりつけ医）で受診のうえ、発行を依頼してください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "新宿区新宿7－26－4　3階",
+    "implementationName": "新宿区医師会区民健康センター"
+  },
+  "institutionName": {
+    "canonicalName": "夜間・休日急病診療所",
+    "shortName": "休日診療（内科・小児科）"
+  },
+  "localGovernmentLink": {
+    "title": "区内の休日診療・夜間診療",
+    "uri": "https://www.city.shinjuku.lg.jp/fukushi/kyujitsu_sinryo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-28",
+    "updater": "新宿区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "新宿区医師会のホームページ（外部サイトを新規ウィンドウ表示）",
+      "uri": "https://shinjuku-med.or.jp/access/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "新宿区では、土曜日夜間や日曜・祝日、年末年始に、新宿区医師会区民健康センターで内科・小児科の診療を行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-05-07",
+  "useConsiderationFlag": false,
+  "utilization": "休日診療（内科・小児科）をご利用の際は、以下の点にご注意ください。\n感染予防対策のため診療時間を調整していますので、必ず電話で予約してからお越しください。\n感染症等の流行期には、受診から診療終了まで相当なお時間がかかることがあります。\nまた、これまでの様な検査や処置ができないことがありますので、あらかじめご了承ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "|実施場所|新宿区医師会区民健康センター（新宿区新宿7－26－4　3階）|\n|診療科目|内科・小児科|\n|診療日時|土曜日（準夜間のみ）<br>＜内科＞17時から22時 （受付は21時30分まで）<br>日曜日・祝日・年末年始（12月29日から1月3日）<br>＜内科＞9時から22時 （受付は21時30分まで）<br>＜小児科＞ 9時から17時 （受付は16時30分まで）|\n|電話番号|03-3208-2223　来所前に電話で症状等をご相談のうえ、受診してください。|\n|地図|新宿区医師会のホームページ（外部サイトを新規ウィンドウ表示）;https://shinjuku-med.or.jp/access/|\n",
+    "fromHM": null,
+    "toHM": null
+  }
+}

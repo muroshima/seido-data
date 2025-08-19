@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "131211;足立区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "衛生部保健予防課保健予防係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020131211",
+    "psid": "psid3.0+2000020131211+1+UM47"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "衛生部保健予防課保健予防係",
+    "contactPhone": "03-3880-5892",
+    "contactUrl": "https://www.city.adachi.tokyo.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "東京都　妊娠相談ほっとライン\n東京都では、都内にお住まいの方を対象に、妊娠や出産に関する様々な悩みについて、電話やメールで相談に応じています（匿名可）。看護師などの専門職が対応し、内容に応じて適切な関係機関の紹介も行います。\n\n妊娠相談ほっとラインは東京都の委託を受け、株式会社法研が運営しています。\n\n対象となる方\n思いがけない妊娠、予定外の妊娠にとまどっている方\n妊娠したかもしれないと不安になっている方\n妊娠中の体調のことで悩んでいる方\n出産費用が心配な方\n電話相談\n電話番号\n\n03-5339-1133\n\n受付時間\n\n月曜日から日曜日　午前１０時から午後１０時まで（元日はお休み）\n\nメール相談\n「妊娠相談ほっとライン」ホームページ上の専用フォームに必要事項を記入して送信。\n\n※急ぎの相談につきましては、電話相談をご利用ください。\n\n東京都　妊娠相談ほっとライン（外部サイトへリンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninshin-hotline.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "足立区の妊娠・出産に関する相談",
+    "shortName": "妊娠相談ほっとライン"
+  },
+  "localGovernmentLink": {
+    "title": "東京都　妊娠相談ほっとライン",
+    "uri": "https://www.city.adachi.tokyo.jp/hoken/ninnshinnayami.html#p1"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "足立区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "電話相談\n電話番号\n\n03-5339-1133\n\n受付時間\n\n月曜日から日曜日　午前１０時から午後１０時まで（元日はお休み）\n\nメール相談\n「妊娠相談ほっとライン」ホームページ上の専用フォームに必要事項を記入して送信。\n\n※急ぎの相談につきましては、電話相談をご利用ください。\n\n東京都　妊娠相談ほっとライン（外部サイトへリンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninshin-hotline.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "都内にお住まいの方",
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "東京都　妊娠相談ほっとライン（外部サイトへリンク）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninshin-hotline.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "東京都では、都内にお住まいの方を対象に、妊娠や出産に関する様々な悩みについて、電話やメールで相談に応じています（匿名可）。看護師などの専門職が対応し、内容に応じて適切な関係機関の紹介も行います。",
+  "support": {
+    "description": "一部支給の計算方法",
+    "materiallySupport": "妊娠や出産に関する様々な悩みについて、電話やメールで相談に\n応じています（匿名可）。看護師などの専門職が対応し、内容に応じて適切な関係機関の紹介も行います。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "都内にお住まいの方"
+  },
+  "updateDate": "2022-09-28",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

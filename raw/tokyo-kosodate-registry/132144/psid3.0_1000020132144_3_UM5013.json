@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132144;国分寺市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子育て相談室母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132144",
+    "psid": "psid3.0+1000020132144+3+UM5013"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-320-1181",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部子育て相談室母子保健係",
+    "contactPhone": "042-321-1802",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "国分寺市では、妊娠時と出産後の２回に分けて妊婦支援給付金を支給します。",
+  "electronicSubmission": true,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊婦のための支援給付",
+    "shortName": "妊婦支援給付金（出産応援ギフト）"
+  },
+  "localGovernmentLink": {
+    "title": "令和７年度　国分寺市出産・子育て応援事業（妊婦のための支援給付）",
+    "uri": "https://www.city.kokubunji.tokyo.jp/kurashi/kodomo/shussan/1033968.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025ｰ06ｰ20",
+    "updater": "国分寺市"
+  },
+  "procedureCounter": "子育て相談室母子保健係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "ゆりかご・こくぶんじ面接の際にお渡しする、ご案内チラシに載っている二次元コードから電子申請してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "申請日時点で、国分寺市に住民票がある妊婦の方のうち、１　令和７年４月１日以降に妊娠の届出をした方、２　令和７年３月31日までに妊娠の届出をした方のうち、出産応援ギフトを申請していない方",
+  "regulation": {
+    "regulationArticle": "第10条の２",
+    "regulationName": "子ども・子育て支援法（平成24年法律第65号）"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠期から切れ目のない支援を行う観点から、児童福祉法に創設される「妊婦等包括相談支援事業」を効果的に組み合わせ、すべての妊婦の方に安心して出産・子育てをしていただくために、「妊婦のための支援給付」を実施します。",
+  "support": {
+    "description": "現金５万円もしくは、子育ての支援に資するクーポン券（都の専用サイトによる妊婦支援給付金とするクーポン券）５万円相当",
+    "materiallySupport": null,
+    "monetarySupport": "現金５万円もしくは、子育ての支援に資するクーポン券（都の専用サイトによる妊婦支援給付金とするクーポン券）５万円相当"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "078",
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": "申請日時点で、国分寺市に住民票がある妊婦の方のうち、１　令和７年４月１日以降に妊娠の届出をした方、２　令和７年３月31日までに妊娠の届出をした方のうち、出産応援ギフトを申請していない方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "申請日時点で、国分寺市に住民票がある妊婦の方のうち、１　令和７年４月１日以降に妊娠の届出をした方、２　令和７年３月31日までに妊娠の届出をした方のうち、出産応援ギフトを申請していない方"
+  },
+  "updateDate": "2021/04/01",
+  "useConsiderationFlag": false,
+  "utilization": "ゆりかご・こくぶんじ面接の際にお渡しする、ご案内チラシに載っている二次元コードから電子申請してください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

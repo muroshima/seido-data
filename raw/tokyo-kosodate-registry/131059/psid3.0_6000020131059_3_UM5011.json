@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "131059;文京区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健衛生部・文京保健所保健サービスセンター,保健衛生部・文京保健所保健サービスセンター本郷支所",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131059",
+    "psid": "psid3.0+6000020131059+3+UM5011"
+  },
+  "belongings": "ネウボラ面接（妊娠届出時の面談）の際にお渡しした文京区妊娠期応援シート（保存版）をお持ちください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都文京区春日1丁目16番21号\nシビックセンター3階(健診フロア）、8階北側（事務室）,東京都文京区千駄木5丁目20番18号",
+    "contactComment": "ファクス番号：03-5803-1371,ファクス番号：03-3822-9174",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健衛生部・文京保健所保健サービスセンター,保健衛生部・文京保健所保健サービスセンター本郷支所",
+    "contactPhone": "03-5803-1807,03-3821-5106",
+    "contactUrl": "https://logoform.jp/form/6KSu/554248,https://logoform.jp/form/6KSu/554248",
+    "zipCode": "1128555,1130022"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "8か月面談（希望者のみ）\n出産準備や産後の生活などについて、ご相談希望がある方に面談を実施いたします。\n\n対象者\n区内在住で妊娠8か月前後の妊婦（夫・パートナー・同居家族も一緒に面談可）\n\n実施方法\n1）妊娠後期サポートアンケートにご回答のうえ、管轄の保健サービスセンターまでご連絡ください。\n持ち物\nネウボラ面接（妊娠届出時の面談）の際にお渡しした文京区妊娠期応援シート（保存版）をお持ちください。\n\n転入等でお持ちでない方はお申し出ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "伴走型相談支援",
+    "shortName": "8か月面談"
+  },
+  "localGovernmentLink": {
+    "title": "妊娠8か月面談",
+    "uri": "https://www.city.bunkyo.lg.jp/b029/p001566.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "文京区"
+  },
+  "procedureCounter": "管轄の保健サービスセンター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "管轄の保健サービスセンターまでご連絡ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "別紙：伴走型相談支援及び出産・子育て応援給付金の一体的実施事業実施要綱「伴走型相談支援」（別添１）",
+    "regulationName": "伴走型相談支援及び出産・子育て応援給付金の一体的実施事業の実施について（子発1226第1号 令和4年12月26日）"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "すべての妊婦さんと子育て家庭が安心して出産・子育てができるように、妊娠から出産・子育てまでの一貫した「伴走型相談支援」を実施しています。",
+  "support": {
+    "description": "出産準備や産後の生活などについて、ご相談希望がある方に面談を実施いたします。",
+    "materiallySupport": "出産準備や産後の生活などについて、ご相談希望がある方に面談を実施いたします。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住で妊娠8か月前後の妊婦（夫・パートナー・同居家族も一緒に面談可）"
+  },
+  "updateDate": "2024-05-13",
+  "useConsiderationFlag": false,
+  "utilization": "妊娠後期サポートアンケートにご回答",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

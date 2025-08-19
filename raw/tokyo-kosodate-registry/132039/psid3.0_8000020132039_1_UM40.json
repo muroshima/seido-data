@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132039;武蔵野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部　生活福祉課生活福祉係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132039",
+    "psid": "psid3.0+8000020132039+1+UM40"
+  },
+  "belongings": "1.印鑑\n2.母子手帳\n3.健康保険証\n4.前年分の課税証明書又は非課税証明書\n5.個人番号確認書類・身元確認書類",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都武蔵野市緑町2-2-28",
+    "contactComment": "ファクス番号：0422-51-9214",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康福祉部　生活福祉課生活福祉係",
+    "contactPhone": "0422-60-1849",
+    "contactUrl": "https://www.city.musashino.lg.jp/cgi-crm/CRM030/CRM030_001/G00700200/1006650",
+    "zipCode": "1808777"
+  },
+  "cost": null,
+  "costConditions": "利用者の世帯の所得に応じて徴収額があります\n\n徴収額表\n|階層|区分|基本徴収額|加算して徴収する額|\n|:----|:----|:----|:----|\n|A|生活保護世帯|0円|なし|\n|B|住民税非課税世帯|0円|出産一時金等給付額の10％|\n|C|住民税課税世帯(均等割額のみ世帯)|4,500円|出産一時金等給付額の15％|\n|D1|住民税課税世帯(所得割額9,000円以下世帯)|6,600円|出産一時金等給付額の25％|\n|D2|住民税課税世帯(所得割額9,001円以上19,000円以下世帯)|9,000円|出産一時金等給付額の25％|\n費用徴収額の算出にあたっては、支給される出産一時金に産科医療補償制度の保険料相当額が含まれる場合はこれを差し引いて計算します。",
+  "description": "入院助産制度\n低所得世帯が対象の出産制度です。必ず事前に生活福祉課にご相談ください。\n\n対象となるかた(次の3つの条件にあてはまるかた)\n1.市内にお住まいの妊産婦のかた(住民票があり、市内に生活実態を有すること)\n2.助産施設として認可されている病院・助産所等に入院すること (出産予定の病院等が該当するかどうかは必ず事前にご確認ください。）\n3.そのかたの属する世帯が下記のいずれかに該当するかた\n(ア)生活保護世帯\n\n(イ)住民税非課税世帯\n\n(ウ)当該年度(4月から6月までの申請者は前年度)の住民税所得割の額が19,000円以下の世帯\n\n（ただし、健康保険等に加入し、50万円以上の出産一時金を受け取ることのできるかたは除く）\n\n手続方法(次のものを用意し、武蔵野市役所生活福祉課窓口でお申込ください)\n1.印鑑\n2.母子手帳\n3.健康保険証\n4.前年分の課税証明書又は非課税証明書\n5.個人番号確認書類・身元確認書類\n助産実施の決定面接により基準を満たしていると確認されたかたに、実施を決定し、承諾書・受診券を送付します。\n\n費用\n利用者の世帯の所得に応じて徴収額があります\n\n徴収額表\n|階層|区分|基本徴収額|加算して徴収する額|\n|:----|:----|:----|:----|\n|A|生活保護世帯|0円|なし|\n|B|住民税非課税世帯|0円|出産一時金等給付額の10％|\n|C|住民税課税世帯(均等割額のみ世帯)|4,500円|出産一時金等給付額の15％|\n|D1|住民税課税世帯(所得割額9,000円以下世帯)|6,600円|出産一時金等給付額の25％|\n|D2|住民税課税世帯(所得割額9,001円以上19,000円以下世帯)|9,000円|出産一時金等給付額の25％|\n費用徴収額の算出にあたっては、支給される出産一時金に産科医療補償制度の保険料相当額が含まれる場合はこれを差し引いて計算します。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "助産制度",
+    "shortName": "入院助産制度"
+  },
+  "localGovernmentLink": {
+    "title": "入院助産制度",
+    "uri": "https://www.city.musashino.lg.jp/kenko_fukushi/seikatsu_fukushi/1006650.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "武蔵野市"
+  },
+  "procedureCounter": "武蔵野市役所生活福祉課窓口",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "手続方法(次のものを用意し、武蔵野市役所生活福祉課窓口でお申込ください)\n1.印鑑\n2.母子手帳\n3.健康保険証\n4.前年分の課税証明書又は非課税証明書\n5.個人番号確認書類・身元確認書類\n助産実施の決定面接により基準を満たしていると確認されたかたに、実施を決定し、承諾書・受診券を送付します。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第22条",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "経済的な理由で、病院や助産所での出産が困難な妊産婦の方を対象に、武蔵野市の指定の助産施設で出産する際の費用を助成しています。\n事前に申請が必要です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象となるかた(次の3つの条件にあてはまるかた)\n1.市内にお住まいの妊産婦のかた(住民票があり、市内に生活実態を有すること)\n2.助産施設として認可されている病院・助産所等に入院すること (出産予定の病院等が該当するかどうかは必ず事前にご確認ください。）\n3.そのかたの属する世帯が下記のいずれかに該当するかた\n(ア)生活保護世帯\n(イ)住民税非課税世帯\n(ウ)当該年度(4月から6月までの申請者は前年度)の住民税所得割の額が19,000円以下の世帯\n（ただし、健康保険等に加入し、50万円以上の出産一時金を受け取ることのできるかたは除く）"
+  },
+  "updateDate": "2023-12-07",
+  "useConsiderationFlag": false,
+  "utilization": "低所得世帯が対象の出産制度です。必ず事前に生活福祉課にご相談ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

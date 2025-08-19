@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132292;西東京市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132292",
+    "psid": "psid3.0+1000020132292+1+UM6"
+  },
+  "belongings": "「妊婦健康診査受診票1回目から14回目」「妊婦超音波検査受診票」「妊婦子宮頸がん検診受診票」",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "西東京市中町一丁目5番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康課",
+    "contactPhone": "042-438-4021",
+    "contactUrl": null,
+    "zipCode": "2028555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊婦健康診査\n\n妊娠おめでとうございます。\n母子保健法に基づき、妊娠期間中に受診していただく妊婦健康診査を実施しています。\n西東京市では、都内委託医療機関で受診した妊婦健康診査費用の一部を助成する「妊婦健康診査受診票（14回分）」「妊婦超音波検査受診票（4回分）」「妊婦子宮頸がん検診受診票（1回分）」を母子健康手帳交付時に交付しています。\n助産院、都外医療機関などの委託医療機関以外で受診した場合は、受診票は使用できませんが、出産後申請していただくことにより、助成の対象となります。詳細については、「妊婦健康診査委託医療機関外使用の助成事業」;https://www.city.nishitokyo.lg.jp/kosodate/bosi/ninsin/hojojigyo.htmlをご覧ください。\n大切なお母さんの健康のため、またこれから生まれてくる赤ちゃんのために、健診を受けましょう。\n\n妊婦健康診査\n対象\n受診日現在、市内に住民登録のある妊婦\n\n助成内容\n令和6年度助成上限額\n妊婦健康診査（1回目）：10,980円\n妊婦健康診査（2回目から14回目）：5,140円\n超音波検査：1回につき5,300円\n子宮頸がん検診：3,400円\n\n受診方法\n「妊婦健康診査受診票1回目から14回目」「妊婦超音波検査受診票」「妊婦子宮頸がん検診受診票」を都内委託医療機関に提出し、受診してください。\n（注記）受診票が使用できるかは受診される医療機関にご確認ください。\n\n妊娠中に転入または転出される方へ\n西東京市に転入される方\n・都内の市区町村から転入される方\n転入前に交付された妊婦健康診査受診票、妊婦超音波検査受診票、及び妊婦子宮頸がん検診受診票は、転入後もそのまま使用できます。\n妊婦歯科健康診査を未受診の方は、西東京市で受診券を発行いたしますので、母子健康手帳をご持参の上、健康課へお越しください。\nファミリー学級などの西東京市のサービスをご希望の方は健康課にお問い合わせください。\n・都外の市町村から転入される方\n転入前に交付された妊婦健康診査受診票の使用はできません。差し替えをしますので、母子健康手帳とお持ちの受診票をご持参の上、健康課へお越しください。\n\n西東京市外へ転出される方\n・都内の市区町村へ転出される方\n西東京市で発行した妊婦健康診査受診票、妊婦超音波検査受診票、及び妊婦子宮頸がん検診受診票は、そのまま使用できます。ただし、妊婦歯科健康診査受診券は転出後は使用できません。転出先でのサービスについては、転出される市区町村の担当課へお問い合わせください。\n・都外の市町村へ転出される方\n西東京市で発行した妊婦健康診査受診票、妊婦超音波検査受診票、及び妊婦子宮頸がん検診受診票は使用できません。転出先でのサービスについては、転出される市町村の担当課へお問い合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊婦健康診査",
+    "shortName": "妊婦健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "妊婦健康診査",
+    "uri": "https://www.city.nishitokyo.lg.jp/kosodate/bosi/ninsin/ninpukensin.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-10",
+    "updater": "西東京市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "妊娠中に転入または転出される方へ\n西東京市に転入される方\n・都内の市区町村から転入される方\n転入前に交付された妊婦健康診査受診票、妊婦超音波検査受診票、及び妊婦子宮頸がん検診受診票は、転入後もそのまま使用できます。\n妊婦歯科健康診査を未受診の方は、西東京市で受診券を発行いたしますので、母子健康手帳をご持参の上、健康課へお越しください。\nファミリー学級などの西東京市のサービスをご希望の方は健康課にお問い合わせください。\n・都外の市町村から転入される方\n転入前に交付された妊婦健康診査受診票の使用はできません。差し替えをしますので、母子健康手帳とお持ちの受診票をご持参の上、健康課へお越しください。\n\n西東京市外へ転出される方\n・都内の市区町村へ転出される方\n西東京市で発行した妊婦健康診査受診票、妊婦超音波検査受診票、及び妊婦子宮頸がん検診受診票は、そのまま使用できます。ただし、妊婦歯科健康診査受診券は転出後は使用できません。転出先でのサービスについては、転出される市区町村の担当課へお問い合わせください。\n・都外の市町村へ転出される方\n西東京市で発行した妊婦健康診査受診票、妊婦超音波検査受診票、及び妊婦子宮頸がん検診受診票は使用できません。転出先でのサービスについては、転出される市町村の担当課へお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "「妊婦健康診査委託医療機関外使用の助成事業",
+      "uri": "https://www.city.nishitokyo.lg.jp/kosodate/bosi/ninsin/hojojigyo.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "母子保健法に基づき、妊娠期間中に受診していただく妊婦健康診査を実施しています。\n西東京市では、都内委託医療機関で受診した妊婦健康診査費用の一部を助成する「妊婦健康診査受診票（14回分）」「妊婦超音波検査受診票（4回分）」「妊婦子宮頸がん検診受診票（1回分）」を母子健康手帳交付時に交付しています。",
+  "support": {
+    "description": "西東京市では、都内委託医療機関で受診した妊婦健康診査費用の一部を助成する「妊婦健康診査受診票（14回分）」「妊婦超音波検査受診票（4回分）」「妊婦子宮頸がん検診受診票（1回分）」を母子健康手帳交付時に交付しています。\n助産院、都外医療機関などの委託医療機関以外で受診した場合は、受診票は使用できませんが、出産後申請していただくことにより、助成の対象となります。詳細については、「妊婦健康診査委託医療機関外使用の助成事業」;https://www.city.nishitokyo.lg.jp/kosodate/bosi/ninsin/hojojigyo.htmlをご覧ください。\n助成内容\n令和6年度助成上限額\n妊婦健康診査（1回目）：限度額10,880円\n妊婦健康診査（2回目から14回目）：限度額5,090円\n超音波検査：1回につき限度額5,300円\n子宮頸がん検診：限度額3,400円",
+    "materiallySupport": "西東京市では、都内委託医療機関で受診した妊婦健康診査費用の一部を助成する「妊婦健康診査受診票（14回分）」「妊婦超音波検査受診票（4回分）」「妊婦子宮頸がん検診受診票（1回分）」を母子健康手帳交付時に交付しています。",
+    "monetarySupport": "令和6年度助成上限額\n妊婦健康診査（1回目）：限度額10,880円\n妊婦健康診査（2回目から14回目）：限度額5,090円\n超音波検査：1回につき限度額5,300円\n子宮頸がん検診：限度額3,400円"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "受診日現在、市内に住民登録のある妊婦"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "受診方法\n「妊婦健康診査受診票1回目から14回目」「妊婦超音波検査受診票」「妊婦子宮頸がん検診受診票」を都内委託医療機関に提出し、受診してください。\n（注記）受診票が使用できるかは受診される医療機関にご確認ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

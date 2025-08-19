@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131059;文京区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部幼児保育課入園相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131059",
+    "psid": "psid3.0+6000020131059+1+UM80"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都文京区春日1丁目16番21号\n文京シビックセンター12階南側",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部幼児保育課入園相談係",
+    "contactPhone": "03-5803-1190",
+    "contactUrl": "https://logoform.jp/form/6KSu/553771",
+    "zipCode": "1128555"
+  },
+  "cost": null,
+  "costConditions": "基本保育料：０円\n預かり保育料\n　月額：8900円\n　日額：450円\n※保育が必要な方は、預かり保育無償化の手続きが可能です。\n\n注：そのほか、制服代、PTA会費、行事費などが別途必要となります。金額等の詳細については、幼稚園にお問い合わせください。",
+  "description": "区立幼稚園とは\n区立幼稚園は、学校教育の始まりとして、幼児の自発的活動である遊びを大切にし、様々な体験を通して、幼児の心と体を育みます。\n注：夏休み、冬休み等の長期休業があります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "幼稚園の利用について",
+    "shortName": "区立幼稚園"
+  },
+  "localGovernmentLink": {
+    "title": "区立幼稚園とは",
+    "uri": "https://www.city.bunkyo.lg.jp/b023/p001601.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-25",
+    "updater": "文京区"
+  },
+  "procedureCounter": "幼児保育課入園相談係又は区立幼稚園",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "窓口、電子申請",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第26条",
+    "regulationName": "学校教育法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "幼稚園とは、学校教育法に基づき、満3歳から小学校就学前までのお子さんに幼児教育を提供する施設（学校）です。1日4時間の教育を標準とし、小学校や中学校のように夏休みや春休みなどもありますが、多くの園で教育時間終了後や長期休暇中の預かりも行っています。",
+  "support": {
+    "description": "区立幼稚園は、学校教育の始まりとして、幼児の自発的活動である遊びを大切にし、様々な体験を通して、幼児の心と体を育みます。",
+    "materiallySupport": "区立幼稚園は、学校教育の始まりとして、幼児の自発的活動である遊びを大切にし、様々な体験を通して、幼児の心と体を育みます。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "3歳児クラスから5歳児クラスまで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 5,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住の3歳児～就学前の子ども"
+  },
+  "updateDate": "2023-04-03",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "基本保育時間は、月～金曜日（土曜日はお休みです）、おおむね4時間から5時間です。\n全園で預かり保育を実施しています。\n（午前8時から9時まで及び教育課程修了後から午後6時まで）",
+    "fromHM": "09:00",
+    "toHM": "14:00"
+  }
+}

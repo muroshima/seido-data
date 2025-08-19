@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "131130;渋谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "中央保健相談所母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020131130",
+    "psid": "psid3.0+9000020131130+1+UM14"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "中央保健相談所母子保健係",
+    "contactPhone": "電話\n\n03-3463-2409",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "新生児訪問・こんにちは赤ちゃん訪問\n新生児訪問・こんにちは赤ちゃん訪問に関する案内ページです。\n\n新生児訪問;https://www.city.shibuya.tokyo.jp/kodomo/kodomo-sodan/shinseiji-sodan/homon_baby.html#h2-h4efbfd8f28\nこんにちは赤ちゃん訪問;https://www.city.shibuya.tokyo.jp/kodomo/kodomo-sodan/shinseiji-sodan/homon_baby.html#h2-hafe6422f18\n乳幼児や妊産婦のいる家庭に、必要に応じて保健師などが訪問し、相談指導を行います。\n\n新生児訪問\n生後28日までの新生児には、必要に応じて保健師または助産師が訪問します。\n授乳や体重の増加など、気になることがある場合は連絡してください。\n\nこんにちは赤ちゃん訪問\n保健師、助産師または看護師が訪問し、健康状態の確認、育児・産後の相談、地域の子育て情報の提供を行います。\nPDFファイルを見るには、Adobe社から無償配布されている Adobe Reader などのソフトウェアが必要です。 詳しくは、PDFファイルをご覧になるには;https://www.city.shibuya.tokyo.jp/guide/website/list/pdf.htmlのページを参照してください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "家庭"
+  },
+  "institutionName": {
+    "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+    "shortName": "こんにちは赤ちゃん訪問"
+  },
+  "localGovernmentLink": {
+    "title": "新生児訪問・こんにちは赤ちゃん訪問",
+    "uri": "https://www.city.shibuya.tokyo.jp/kodomo/kodomo-sodan/shinseiji-sodan/homon_baby.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/26",
+    "updater": "渋谷区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "生後2か月に入りましたら、訪問の手紙を送付します。",
+  "procedurePeriod": {
+    "conditions": "生後2か月に入りましたら、訪問の手紙を送付します。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第21条の10の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "こんにちは赤ちゃん訪問事業",
+      "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/622b16c34fbf4a17a0b8a289383f259b/homon_baby_1.pdf"
+    },
+    {
+      "title": "Hello Babies Visit Project",
+      "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/debef32a2d1a4eceaab0d00b3420974d/homon_baby_2.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "生後4か月を迎えるまでの乳児がいるご家庭には専門職のほか、研修を受けたスタッフが訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 4
+    },
+    "targetPersons": "生後4か月までの乳児のいる家庭"
+  },
+  "updateDate": "2023/04/03",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

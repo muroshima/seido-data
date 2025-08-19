@@ -1,0 +1,139 @@
+{
+  "area": {
+    "areaCode": "132136;東村山市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": null,
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132136",
+    "psid": "psid3.0+1000020132136+1+UM2372"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "認可外教育・保育施設\n認可外保育施設とは\n東村山市には、認可の教育や保育施設以外にも、認証保育所や定期利用保育施設等、認可外の保育施設があります。施設ごとに多様な事業（長時間開所、認可施設より柔軟な契約が可能、独自の保育内容など）を行っていることが特徴です。\n\n施設の概要\n|認可外保育施設|<|\n|:----|:----|\n|目的|児童福祉法に基づき、保育を必要とする子どもの保育を行い、その健全な心身の発達を図ること|\n|対象児|受入年齢は各施設による|\n|利用時間|時間設定は各園による|\n|申し込み|各園で受付|\n|認定|補助金や無償化の給付を受けるために「子どものための教育・保育給付認定」または「子育てのための施設等利用給付認定」が必要<br>詳しくはこちら;https://www.city.higashimurayama.tokyo.jp/kosodate/kyouikuhoikushisetsu/nintei.htmlをご覧ください。|\n\n認可外保育施設一覧;https://www.city.higashimurayama.tokyo.jp/kosodate/kyouikuhoikushisetsu/ninkagaikyouiku/ninkagaisisetuitiran.html\n認証保育所・定期利用保育施設・企業主導型保育施設の空き情報;https://www.city.higashimurayama.tokyo.jp/kosodate/kyouikuhoikushisetsu/ninkagaikyouiku/ninnkagaiakijyouhou.html\n幼児教育・保育の無償化による施設等利用費の請求について;https://www.city.higashimurayama.tokyo.jp/kosodate/kyouikuhoikushisetsu/shikaranooshirase/hoiku20191024.html\n東村山市認可外保育施設等園児の保護者に対する補助金;https://www.city.higashimurayama.tokyo.jp/kosodate/kyouikuhoikushisetsu/ninkagaikyouiku/ninkagaihojokin.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "認可外保育施設の利用について",
+    "shortName": "認可外教育・保育施設"
+  },
+  "localGovernmentLink": {
+    "title": "認可外教育・保育施設",
+    "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/kyouikuhoikushisetsu/ninkagaikyouiku/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "東村山市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "各園で受付",
+  "procedurePeriod": {
+    "conditions": "各園で受付",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第30条の4～10(第2章第4節第2款 施設等利用給付認定等)",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "幼児教育・保育の無償化による施設等利用費の請求について",
+      "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/kyouikuhoikushisetsu/shikaranooshirase/hoiku20191024.html"
+    },
+    {
+      "title": "認可外保育施設一覧",
+      "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/kyouikuhoikushisetsu/ninkagaikyouiku/ninkagaisisetuitiran.html"
+    },
+    {
+      "title": "東村山市認可外保育施設等園児の保護者に対する補助金",
+      "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/kyouikuhoikushisetsu/ninkagaikyouiku/ninkagaihojokin.html"
+    },
+    {
+      "title": "認証保育所・定期利用保育施設・企業主導型保育施設の空き情報",
+      "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/kyouikuhoikushisetsu/ninkagaikyouiku/ninnkagaiakijyouhou.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "認可外保育施設とは、公的助成の有無や事業規模などにかかわらず、児童福祉法、もしくは認定こども園法に基づく認可を受けていない、お子さんを預かる施設・サービスの総称です。\n具体的には、認証保育所、定期利用保育施設等、認可外保育施設として都道府県等に届出を行ったものを指します。\n\n保育の内容や料金設定などは施設によりさまざまです。これらの施設を利用する際は、保護者自身の目で直接確認し、充分な説明を受け、納得したうえで選ぶことが大切です。",
+  "support": {
+    "description": "東村山市には、認可の教育や保育施設以外にも、認証保育所や定期利用保育施設等、認可外の保育施設があります。施設ごとに多様な事業（長時間開所、認可施設より柔軟な契約が可能、独自の保育内容など）を行っていることが特徴です。",
+    "materiallySupport": null,
+    "monetarySupport": "東村山市には、認可の教育や保育施設以外にも、認証保育所や定期利用保育施設等、認可外の保育施設があります。施設ごとに多様な事業（長時間開所、認可施設より柔軟な契約が可能、独自の保育内容など）を行っていることが特徴です。"
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "受入年齢は各施設による",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "受入年齢は各施設による"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "時間設定は各園による",
+    "fromHM": null,
+    "toHM": null
+  }
+}

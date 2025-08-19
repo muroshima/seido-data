@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131059;文京区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部幼児保育課施設給付・私立幼稚園担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131059",
+    "psid": "psid3.0+6000020131059+5+UM80"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都文京区春日1丁目16番21号\n文京シビックセンター12階南側",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部幼児保育課施設給付・私立幼稚園担当",
+    "contactPhone": "03-5803-1823",
+    "contactUrl": "https://logoform.jp/form/6KSu/553771",
+    "zipCode": "1128555"
+  },
+  "cost": "0",
+  "costConditions": "【入園料補助金】\n入園日以前から文京区に住民登録があり、現にそこに居住し、そこから通園している方が対象となります\n【預かり保育料の補助】※第2子以降に限る\n保護者全員が「保育の必要性」を有しており、認定を申請していることが要件になります。",
+  "description": "■私立幼稚園（新制度移行園）へ入園を検討・希望している方へ\n子ども・子育て支援新制度に移行した幼稚園、認定子ども園（幼稚園部分）を利用する場合は、住民登録のある区市町村にて給付認定の申請を行う必要があります。\nまた、入園料補助金や預かり保育料の補助を希望される場合は、別途補助金申請書をご提出いただく必要があります。\n■必要な手続き\n入園内定後、内定園より無償化の対象となるための申請書類等が配布されます。必要事項を記入し、添付書類とともにご提出ください。\n※施設の利用開始日までに認定の申請を行う必要がありますので、ご注意ください。\n■在園児保護者の皆様へ\n・基本保育料について\n無償（0円）となります。\n・入園補助金、預かり保育料の補助について\n　入園補助金\n　園児一人につき上限30,000円（所得制限なし）が、交付されます（園児一人1度まで）。\n　※入園料が補助金額に満たない場合は、入園料に相当する額とします。\n\n　預かり保育料\n　幼稚園基本利用料の無償（0円）に加え、「保育の必要性」がある施設等利用給付2号または3号認定を受けている場合には、利用実態に応じて、預かり保育料についても補助の対象となります。\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "幼稚園の利用について",
+    "shortName": "私立幼稚園（新制度移行園）"
+  },
+  "localGovernmentLink": {
+    "title": "私立幼稚園（新制度移行園）",
+    "uri": "https://www.city.bunkyo.lg.jp/b023/p001706.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-05-16",
+    "updater": "文京区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "必要事項を記入し、添付書類とともにご提出ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第26条",
+    "regulationName": "学校教育法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "幼稚園とは、学校教育法に基づき、満3歳から小学校就学前までのお子さんに幼児教育を提供する施設（学校）です。新制度移行園では、基本保育料が無償化されます。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "3歳になった日から最初の3月31日までにある子ども",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区民税非課税世帯の満3歳児クラス\n\n（3歳になった日から最初の3月31日までにある子ども）"
+  },
+  "updateDate": "2024-05-16",
+  "useConsiderationFlag": false,
+  "utilization": "内定園より無償化の対象となるための申請書類等が配布されます。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

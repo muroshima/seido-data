@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "130001;東京都",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉局子供・子育て支援部 育成支援課 ひとり親福祉担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020130001",
+    "psid": "psid3.0+8000020130001+1+UM2366"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子供・子育て支援部 育成支援課 ひとり親福祉担当",
+    "contactPhone": "03-5320-4125",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ひとり親家庭高等学校卒業程度認定試験合格支援事業\n\n　高卒認定試験合格のための講座（通信講座を含む）を受け、これを修了したとき及び合格したときに、対象講座の受講のために支払った費用の一部を支給する。\n\n　　○受講開始時給付金：受講費用の3割（上限7万5千円）\n　　○受講修了時給付金：受講費用の1割（受講開始時給付金と合わせて上限10万円）\n　　○合格時給付金：受講費用の2割（受講開始時給付金及び受講修了時給付金と合わせて上限15万円）※\n　　　※受講修了日から起算して2年以内に高卒認定試験に全科目合格した場合に支給\n対象者\n\n　ひとり親家庭の親及び子であって、次の要件の全てを満たす者\n　（1） 児童扶養手当の支給を受けている又は同等の所得水準にあること。\n　（2） 支給を受けようとする者の就業経験、技能、資格の取得状況や労働市場の状況\n　　　から判断して、高卒認定試験に合格することが適職に就くために必要であると認め\n　　　られる者であること。\n　\n　ただし、高等学校卒業者及び大学入学資格検定・高卒認定試験合格者など既に大学入学資格を取得している者は対象としない。\n実施主体\n\n　区市（町村は東京都）\n　※自治体により、実施状況が異なります。\nお問い合わせ先\n\n　区市役所;http://www.fukunavi.or.jp/fukunavi/eip/10kyotuu/hitorioya.html又は福祉事務所;http://www.fukushihoken.metro.tokyo.jp/seikatsu/shisetsu/fukushi.htmlへお問い合わせ下さい。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "高等学校卒業程度認定試験合格支援事業給付金",
+    "shortName": "ひとり親家庭高等学校卒業程度認定試験合格支援事業"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親家庭高等学校卒業程度認定試験合格支援事業",
+    "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/hitorioya_shien/syurou/kousotu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-10-31",
+    "updater": "東京都"
+  },
+  "procedureCounter": "お問い合わせ先\n\n　区市役所;http://www.fukunavi.or.jp/fukunavi/eip/10kyotuu/hitorioya.html又は福祉事務所;http://www.fukushihoken.metro.tokyo.jp/seikatsu/shisetsu/fukushi.htmlへお問い合わせ下さい。",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "福祉事務所",
+      "uri": "http://www.fukushihoken.metro.tokyo.jp/seikatsu/shisetsu/fukushi.html"
+    },
+    {
+      "title": "区市役所",
+      "uri": "http://www.fukunavi.or.jp/fukunavi/eip/10kyotuu/hitorioya.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭の就職や転職の可能性を広げ、自立につなげていくため、ひとり親家庭の親またはお子さんが高卒認定試験合格のための講座（通信講座を含む）を受け、これを修了した時および合格したときに受講費用の一部を支給します。",
+  "support": {
+    "description": "高卒認定試験合格のための講座（通信講座を含む）を受け、これを修了したとき及び合格したときに、対象講座の受講のために支払った費用の一部を支給する。\n\n　　○受講開始時給付金：受講費用の3割（上限7万5千円）\n　　○受講修了時給付金：受講費用の1割（受講開始時給付金と合わせて上限10万円）\n　　○合格時給付金：受講費用の2割（受講開始時給付金及び受講修了時給付金と合わせて上限15万円）※\n　　　※受講修了日から起算して2年以内に高卒認定試験に全科目合格した場合に支給",
+    "materiallySupport": null,
+    "monetarySupport": "高卒認定試験合格のための講座（通信講座を含む）を受け、これを修了したとき及び合格したときに、対象講座の受講のために支払った費用の一部を支給する。\n\n　　○受講開始時給付金：受講費用の3割（上限7万5千円）\n　　○受講修了時給付金：受講費用の1割（受講開始時給付金と合わせて上限10万円）\n　　○合格時給付金：受講費用の2割（受講開始時給付金及び受講修了時給付金と合わせて上限15万円）※\n　　　※受講修了日から起算して2年以内に高卒認定試験に全科目合格した場合に支給"
+  },
+  "tag": {
+    "categoryCode": [
+      "005"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "092"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象者\n\n　ひとり親家庭の親及び子であって、次の要件の全てを満たす者\n　（1） 児童扶養手当の支給を受けている又は同等の所得水準にあること。\n　（2） 支給を受けようとする者の就業経験、技能、資格の取得状況や労働市場の状況\n　　　から判断して、高卒認定試験に合格することが適職に就くために必要であると認め\n　　　られる者であること。\n　\n　ただし、高等学校卒業者及び大学入学資格検定・高卒認定試験合格者など既に大学入学資格を取得している者は対象としない。"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

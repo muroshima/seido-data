@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132055;青梅市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センター管理係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132055",
+    "psid": "psid3.0+8000020132055+13+UM54"
+  },
+  "belongings": "母子健康手帳・予診票",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭センター管理係",
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "生後2か月～7歳6か月に至るまでの方",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "5種混合"
+  },
+  "localGovernmentLink": {
+    "title": "5種混合(DPT-IPV-Hib)",
+    "uri": "https://www.city.ome.tokyo.jp/soshiki/74/74800.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-01-24",
+    "updater": "青梅市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "青梅市が発行する予診票、母子健康手帳を持って市内協力医療機関で接種",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）",
+    "regulationName": "予防接種法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+  "support": {
+    "description": "5種混合(DPT-IPV-Hib)ワクチンはジフテリア(D)・百日せき(P)・破傷風(T)・ポリオ(IPV)・ヒブ(Hib)の予防接種で、​四種混合(DPT-IPV)ワクチンとヒブワクチンを混合したワクチンです。\n\n令和6年4月1日より5種混合ワクチンの接種を開始しました。\n令和6年2月1日以降に生まれたお子さんには5種混合ワクチンの予診票を発送します。\n\n・「四種混合ワクチン」または「ヒブワクチン」を一度でも接種した方は、引き続き「四種混合ワクチン」と「ヒブワクチン」を接種します。\n\n・「四種混合ワクチン」と「ヒブワクチン」をまだ一度も接種していない方は、「5種混合ワクチン」を接種します。\n\n令和6年1月31日までに生まれた方で「5種混合ワクチン」からの接種開始を希望する方へ\n令和6年1月31日までに生まれたお子さんには「四種混合ワクチン」と「ヒブワクチン」の予診票を送付しています。\nまだ一度も「4種混合ワクチン」および「ヒブワクチン」を接種していない方で、「5種混合ワクチン」での接種開始をご希望の方は予診票の交換が必要になるため、母子手帳と使用していない予診票を持ってこども家庭センターへお越しください。予診票の差し替えを行います。\n\n病気の概要\nジフテリア\nジフテリアはジフテリア菌により発生する疾病です。その発生は最後に報告されたのが、1999年であり稀になりましたが、かつては年間8万人以上の患者が発生し、そのうち10％程度が亡くなっていた重要な病気です。\n主に気道の分泌物によってうつり、喉などに感染して毒素を放出します。この毒素が心臓の筋肉や神経に作用することで、眼球や横隔膜（呼吸に必要な筋肉）などの麻痺、心不全等を来たして、重篤になる場合や亡くなってしまう場合があります。（引用元：厚生労働省ホームページ）\n\n百日せき\n百日せきは百日咳菌によって発生します。名前のとおり激しい咳をともなう病気で、一歳以下の乳児、とくに生後6か月以下の子どもでは亡くなってしまうこともあります。\n主に気道の分泌物によってうつり、咳のために乳幼児では呼吸ができなくなるために全身が青紫色になってしまうこと（チアノーゼ）やけいれんを起こすことがあります。また、窒息や肺炎等の合併症が致命的となることがあります。（引用元：厚生労働省ホームページ）\n\n破傷風\n破傷風は、破傷風菌により発生し、かかった場合に亡くなる割合が非常に高い病気です。以前は新生児の発生もみられましたが、近年は30歳以上の成人を中心に患者が発生しています。\n主に傷口に菌が入り込んで感染を起こし毒素を通して、さまざまな神経に作用します。口が開き難い、顎が疲れるといった症状に始まり、歩行や排尿・排便の障害などを経て、最後には全身の筋肉が固くなって体を弓のように反り返らせたり、息ができなくなったりし、亡くなることもあります。（引用元：厚生労働省ホームページ）\n\nポリオ\nポリオ（急性灰白髄炎）は脊髄性小児麻痺とも呼ばれ、ポリオウイルスによって発生する疾病です。名前のとおり子ども（特に5歳以下）がかかることが多く、麻痺などを起こすことのある病気です。\n主に感染した人の便を介してうつり、手足の筋肉や呼吸する筋肉等に作用して麻痺を生じることがあります。永続的な後遺症を残すことがあり、特に成人では亡くなる確率も高いものとなっています。（引用元：厚生労働省ホームページ）\n\nヒブ(Hib)\nHib感染症は、ヘモフィルスインフルエンザ菌b型（Haemophilus influenza type b）という細菌によって発生する病気で、そのほとんどが5歳未満で発生し、特に乳幼児で発生に注意が必要です。主に気道の分泌物により感染を起こし、症状がないまま菌を保有（保菌）して日常生活を送っている子どもも多くいます。この菌が何らかのきっかけで進展すると、肺炎、敗血症、髄膜炎、化膿性の関節炎等の重篤な疾患を引き起こすことがあります。（引用元：厚生労働省ホームページ）\n\n定期接種対象者\n生後2か月から90か月(7歳6か月)に至るまでの方\n(7歳6か月の誕生日の前日まで)\n\n※この期間以外での接種は任意接種扱いになり、全額自己負担になりますのでご注意ください。\n\n※四種混合ワクチンとヒブワクチンの接種が完了した方は5種混合ワクチンは接種できません。\n\n接種回数\n初回接種(3回)、追加接種(1回)の全4回\n\n初回接種(3回)\n生後2か月から7か月に至るまでに開始し、3週間から8週間までに間隔をおいて3回\n\n追加接種(1回)\n3回目接種終了後、6か月から18か月までの間隔をおいて1回\n\n予診票送付時期\n初回接種\n生後2か月を迎える前に初回接種の3回分の予診票を送付します。\n\n追加接種\n初回接種の3回目を終了してから6か月を経過する前に予診票を送付します。",
+    "materiallySupport": "予防接種",
+    "monetarySupport": "接種回数：第1期3回・第1期追加1回"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後2か月～7歳6か月に至るまでの方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 2
+    },
+    "lessThan": {
+      "targetAge": 7,
+      "targetAgeOfMonths": 6
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生後2か月～7歳6か月に至るまでの方"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

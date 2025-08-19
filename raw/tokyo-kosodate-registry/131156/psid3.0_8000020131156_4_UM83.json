@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131156;杉並区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部地域子育て支援課子育て支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131156",
+    "psid": "psid3.0+8000020131156+4+UM83"
+  },
+  "belongings": null,
+  "capacity": "10名,6名,9名,6名,6名",
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都杉並区阿佐谷南1丁目15番1号",
+    "contactComment": "（代表）",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部地域子育て支援課子育て支援係",
+    "contactPhone": "03-3312-2111",
+    "contactUrl": null,
+    "zipCode": "1668570"
+  },
+  "cost": "800",
+  "costConditions": "1時間800円",
+  "description": "https://www.city.suginami.tokyo.jp/s058/1075.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "杉並区和泉2丁目36番14号,杉並区天沼3丁目19番16号,杉並区成田西3丁目10番38号,杉並区高円寺南2丁目52番2号,杉並区善福寺1丁目18番9号",
+    "implementationName": "子ども・子育てプラザ和泉,子ども・子育てプラザ天沼,子ども・子育てプラザ成田西,子ども・子育てプラザ高円寺,子ども・子育てプラザ善福寺"
+  },
+  "institutionName": {
+    "canonicalName": "一時預かり（一時保育）",
+    "shortName": "一時預かり"
+  },
+  "localGovernmentLink": {
+    "title": "一時的にあずけたいとき（緊急一時保育、一時保育、一時預かり、ひととき保育）",
+    "uri": "https://www.city.suginami.tokyo.jp/s058/1075.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025-03-13",
+    "updater": "杉並区"
+  },
+  "procedureCounter": "利用の際は登録が必要です。電話または直接、子ども・子育てプラザにお申し込みください。\nなお、登録時のみ、事前に面談を受ける必要があります。",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "利用の際は登録が必要です。電話または直接、子ども・子育てプラザにお申し込みください。\nなお、登録時のみ、事前に面談を受ける必要があります。",
+  "procedurePeriod": {
+    "conditions": "利用の際は登録が必要です。電話または直接、子ども・子育てプラザにお申し込みください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者の方が通院、仕事、リフレッシュ等で一時的にお子さんを預けたいときに、1時間単位でお子さんをお預かりします。",
+  "support": {
+    "description": "1時間単位でお子さんをお預かり",
+    "materiallySupport": "1時間単位でお子さんをお預かり",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後6カ月から小学校就学前",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 6
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住で集団生活が可能な生後6カ月から小学校就学前のお子さん"
+  },
+  "updateDate": "2024-05-23",
+  "useConsiderationFlag": false,
+  "utilization": "利用の際は登録が必要です。電話または直接、子ども・子育てプラザにお申し込みください。\nなお、登録時のみ、事前に面談を受ける必要があります。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日から土曜日（日曜日、祝日、12月29日から1月3日を除く）\n午前9時から午後5時まで（土曜日は4時まで）",
+    "fromHM": "09:00",
+    "toHM": "17:00"
+  }
+}

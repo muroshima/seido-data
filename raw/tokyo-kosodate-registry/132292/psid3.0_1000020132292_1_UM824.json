@@ -1,0 +1,130 @@
+{
+  "area": {
+    "areaCode": "132292;西東京市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "障害福祉課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132292",
+    "psid": "psid3.0+1000020132292+1+UM824"
+  },
+  "belongings": "・自立支援医療費（精神通院）支給認定申請書\n・自立支援医療診断書（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/shisetsu/jigyosyo/chusou/jiritsushieniryo/jiritsu_iryokikan（作成日が申請日から3か月以内のもの）\n※診断書の提出は２年に１度です（更新の方のみ）\n・医療保険情報の確認書類（次のいずれかの書類をお持ちください）\n・健康保険証の写し\n・資格確認書の写し\n・マイナポータルから確認できる「資格情報画面」をプリントアウトしたもの\n・世帯の所得を確認するための書類（加入している健康保険によって、必要になる方が異なります。）\n※西東京市で課税状況がわかる方やマイナンバーによる情報連携ができる方は、同意の上公簿確認しますので提出は不要です。\n・マイナンバーのわかるもの及び本人確認書類;https://www.city.nishitokyo.lg.jp/siseizyoho/sesaku_keikaku/my_numbre/mynumber-kakunin.html",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "西東京市南町五丁目6番13号　田無庁舎1階",
+    "contactComment": "FAX：042-466-9666",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "障害福祉課",
+    "contactPhone": "042-420-2806",
+    "contactUrl": null,
+    "zipCode": "1888666"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "精神障害の治療に関して生じた通院医療・薬代など、自己負担が原則１割に軽減されます。\n認定期間は申請した日から1年間（1年後の前月末まで）です。\n更新申請は、有効期間の3か月前から行うことができ、認定された場合は有効期間の翌日から1年間が新たな有効期間になります。\n受給者証の交付は、申請受理日から3か月程度かかります。\n更新手続き開始時期の案内通知を希望される方向けのサービスがあります。\nLINE（ライン）またはSMSによる通知サービスについて（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/shougai/nichijo/tsuuin/seishintsuuin\n氏名、住所、保険証、所得区分、医療機関等に変更が生じた場合は届出が必要です。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度（精神通院医療）",
+    "shortName": "自立支援医療費制度（精神通院医療）"
+  },
+  "localGovernmentLink": {
+    "title": "自立支援医療費制度（精神通院医療）",
+    "uri": "https://www.city.nishitokyo.lg.jp/kenko_hukusi/syogaisyasien/iryo/jiritsuseishintsuin.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/20",
+    "updater": "西東京市"
+  },
+  "procedureCounter": "障害福祉課　電話：042-420-2806",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [
+    {
+      "title": "【自立支援医療（精神通院）について】（外部リンク）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/shougai/nichijo/tsuuin/seishintsuuin"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "精神障害者が自立した日常生活または社会生活を営むことができるよう、精神障害者の状態の軽減のための必要な医療について自立支援医療費を支給しております。",
+  "support": {
+    "description": "医療費（デイケア・訪問看護を含む）や調剤費が原則1割負担となり、利用者本人の収入や世帯（医療保険における世帯）の所得・疾患等に応じて月額自己負担上限額（下表参照）が設定されます。\n|所得区分|所得の条件|負担上限月額|\n|:----|:----|:----|\n|生活保護|生活保護世帯又は支援給付世帯|0円|\n|低所得1|区市町村民税非課税世帯で本人収入80万円以下の方（公的年金収入等含む）|2,500円|\n|低所得2|区市町村民税非課税世帯で本人収入80万円を超える方（公的年金収入等含む）|5,000円|\n|中間所得層1|高額治療継続者（重度かつ継続）に該当する方で区市町村民税（所得割）額が合計3万3千円未満の世帯|5,000円|\n|中間所得層2|高額治療継続者（重度かつ継続）に該当する方で区市町村民税（所得割）額が合計3万3千円～23万5千円未満の世帯|10,000円|\n|一定所得以上|高額治療継続者（重度かつ継続）に該当する方で区市町村民税（所得割）額が合計23万5千円以上の世帯（経過的特例、下記参照）|20,000円|\n| | | |\n・低所得1・2に該当する方は、自己負担額を助成する制度（東京都医療費助成制度（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/shougai/nichijo/tsuuin/iryouhijyosei・精神医療給付金;https://www.city.nishitokyo.lg.jp/kurasi/kokuho/kyufu/70415420220121102604879.html）があります。\n・中間所得層で「重度かつ継続」に非該当の方は、負担上限月額がなく、医療費の1割が自己負担になります。\n・一定所得以上で「重度かつ継続」に非該当の方は、この制度を受けられません。\n※高額治療継続者（重度かつ継続）の範囲\n1.統合失調症、躁うつ病・うつ病、てんかん、認知症等の脳機能障害、薬物関連障害（依存症等）\n2.精神医療に一定以上の経験を有する医師が判断した者\n※経過的特例について\n1.上記の月額負担上限額が20,000円（一定所得以上）の方については、本来自立支援医療の対象外ですが、障害者の日常生活および社会生活を総合的に支援するための法律施行令（平成18年政令第10号）により、現在は経過的特例として、高額治療継続者（重度かつ継続）に該当する方のみ、自立支援医療の対象となっています。\n2.経過的特例の適用は令和9年3月31日までです。\n\n→自己負担額を助成する制度（東京都医療費助成制度（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/shougai/nichijo/tsuuin/iryouhijyosei・精神医療給付金;https://www.city.nishitokyo.lg.jp/kurasi/kokuho/kyufu/70415420220121102604879.html）を受けている場合、届出日から適用となります。",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "精神疾患のため、継続的な通院を必要とする方。"
+  },
+  "updateDate": "2024/11/29",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

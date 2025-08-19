@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132063;府中市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子育て応援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132063",
+    "psid": "psid3.0+8000020132063+1+UM60"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": "kosodate04@city.fuchu.tokyo.jp",
+    "contactEx": null,
+    "contactName": "子ども家庭部子育て応援課　母子・父子自立支援担当",
+    "contactPhone": "042-335-4240",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "母子家庭等高等職業訓練促進給付金\n最終更新日：2024年4月1日\n20歳未満の児童を養育しているひとり親家庭の母又は父が、自立に向けた就業を容易にするために必要な国家資格等の取得を目的として、養成機関で修業するにあたり、訓練促進給付金などを支給します。\n\n対象\n要件\n児童扶養手当を受けている、または同等の所得水準の方\n修業年限が1年以上（資格によっては、6カ月以上）の養成機関において、資格の取得が見込まれること\n仕事、育児、修業の両立が困難であること\n過去に本制度を利用していない方\n原則として、既に取得している国家資格がないこと\n対象資格\n看護師、准看護師、介護福祉士、保育士、理学療法士、作業療法士、保健師、助産師、理容師、美容師、歯科衛生士、シスコシステムズ認定資格等\n\n内容\n訓練促進給付金\n支給期間：修業期間の全期間（上限4年、資格によっては3年）\n支給額：市民税非課税世帯　月額100,000円、市民税課税世帯　月額 70,500円（注記：卒業前の12か月は4万円の加算あり）\n申請時期：入学後（事前相談が必要です）\n注記：毎年8月に所得年度の切り替えがあります。支給期間中は、毎月書類提出が必要です。\n\n修了支援給付金\n支給額：市民税非課税世帯　50,000円、市民税課税世帯　25,000円\n申請時期：修業期間修了後30日以内\n手続き方法\n母子家庭等高等職業訓練促進給付金の支給申請の前に子育て応援課母子・父子自立支援担当への事前相談（電話予約制）が必要です。修業を予定している方、養成機関への申込みや受験前にご相談ください。なお、修業中の方は別途ご相談ください。\n\n支給申請\n修業を開始した日以降に申請できます。\n申請のあった月からの支給となります。\n注記：さかのぼっての支給はできません。\n\n問合せ先\n子ども家庭部子育て応援課　母子・父子自立支援担当\n電話：042-335-4240\ne-mail：kosodate04@city.fuchu.tokyo.jp",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "訓練促進給付金\n・支給期間：修業期間の全期間（上限4年、資格によっては3年）",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "高等職業訓練促進給付金",
+    "shortName": "母子家庭等高等職業訓練促進給付金"
+  },
+  "localGovernmentLink": {
+    "title": "母子家庭等高等職業訓練促進給付金",
+    "uri": "https://www.city.fuchu.tokyo.jp/kosodate/shussan/hitorioya-sekatushien/kotosyokugyo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "府中市"
+  },
+  "procedureCounter": "子育て応援課母子・父子自立支援担当",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "支給申請\n修業を開始した日以降に申請できます。",
+  "procedurePeriod": {
+    "conditions": "修業を開始した日以降",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "20歳未満の児童を養育しているひとり親家庭の母又は父",
+  "regulation": {
+    "regulationArticle": "第31条（母子家庭自立支援給付金）、第31条の10（父子家庭自立支援給付金）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭の母または父が、就業に結びつきやすい対象資格（看護師や介護福祉士など）を取得するため1年以上（令和3年4月1日から令和4年3月31日までに修業を開始する場合には6月以上）、養成機関で修業する場合に、修業期間中の生活の負担軽減のために高等職業訓練促進給付金を、また修業終了時に高等職業訓練修了支援給付金を支給します。",
+  "support": {
+    "description": "訓練促進給付金\n・支給額：市民税非課税世帯　月額100,000円、市民税課税世帯　月額 70,500円（注記：卒業前の12か月は4万円の加算あり）\n\n修了支援給付金\n・支給額：市民税非課税世帯　50,000円、市民税課税世帯　25,000円\n\n申請のあった月からの支給となります。\n注記：さかのぼっての支給はできません。",
+    "materiallySupport": null,
+    "monetarySupport": "訓練促進給付金\n・支給額：市民税非課税世帯　月額100,000円、市民税課税世帯　月額 70,500円（注記：卒業前の12か月は4万円の加算あり）\n\n修了支援給付金\n・支給額：市民税非課税世帯　50,000円、市民税課税世帯　25,000円\n\n申請のあった月からの支給となります。\n注記：さかのぼっての支給はできません。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "20歳未満",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "要件\n・児童扶養手当を受けている、または同等の所得水準の方\n・修業年限が1年以上（資格によっては、6カ月以上）の養成機関において、資格の取得が見込まれること\n・仕事、育児、修業の両立が困難であること\n・過去に本制度を利用していない方\n・原則として、既に取得している国家資格がないこと\n対象資格\n看護師、准看護師、介護福祉士、保育士、理学療法士、作業療法士、保健師、助産師、理容師、美容師、歯科衛生士、シスコシステムズ認定資格等"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "母子家庭等高等職業訓練促進給付金の支給申請の前に子育て応援課母子・父子自立支援担当への事前相談（電話予約制）が必要です。修業を予定している方、養成機関への申込みや受験前にご相談ください。なお、修業中の方は別途ご相談ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

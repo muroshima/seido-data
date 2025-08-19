@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132250;稲城市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども福祉部　おやこ包括支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132250",
+    "psid": "psid3.0+2000020132250+2+UM792"
+  },
+  "belongings": "持ち物\n母子健康手帳\n歯ブラシ\nコップ\nハンドタオル\nバスタオル",
+  "capacity": "先着24名",
+  "class": 1,
+  "contact": {
+    "contactAddress": "稲城市百村112番地の1（稲城市保健センター内）",
+    "contactComment": "ファクス：042-377-4944",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども福祉部　おやこ包括支援センター",
+    "contactPhone": "042-378-3434",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "2歳児及び2歳6か月児歯科健康診査\n更新日：2024年3月29日\nこの月齢は、ちょうど乳歯が全部生えそろう頃です。生えたての歯は、むし歯になりやすい傾向にあります。\nこの機会にぜひ歯科健診をお受けになってください。\n\n対象・日程\n2歳、2歳6カ月になった幼児\n注釈：予約制のため、事前の案内等は届きません。\n乳幼児歯科健康診査日程表（PDF：115KB）;https://www.city.inagi.tokyo.jp/kosodate/oyakohoukatsushien_center/nyuuyouzhikenshin/2sai6kagetujisikakenkousinsa.files/R6shika.pdf\n\n受付時間\n午前9時20分から（申込受付順）\n注釈：申し込み受付順によって、ご案内の来所時間が変わることがあります。\n\n会場\n保健センター\n\n健診順序\n1.受付\n2.問診票記入\n3.歯科健診\n4.歯ブラシのなどの個別相談\n\n持ち物\n母子健康手帳\n歯ブラシ\nコップ\nハンドタオル\nバスタオル\n\n申込方法（先着24名）\n対象月の方は電話もしくは窓口にてお申し込みください。\nおやこ包括支援センター　電話　042-378-3434\n\n申込開始日\n対象月前月の16日（16日が土日、休日の場合は翌平日となります）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "保健センター"
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児の歯の健康診査（2歳及び2歳6か月児歯科健康診査）",
+    "shortName": "2歳児及び2歳6か月児歯科健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "2歳児及び2歳6か月児歯科健康診査",
+    "uri": "https://www.city.inagi.tokyo.jp/kosodate/oyakohoukatsushien_center/nyuuyouzhikenshin/2sai6kagetujisikakenkousinsa.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "稲城市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申込方法（先着24名）\n対象月の方は電話もしくは窓口にてお申し込みください。\nおやこ包括支援センター　電話　042-378-3434\n申込開始日\n対象月前月の16日（16日が土日、休日の場合は翌平日となります）",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "乳幼児歯科健康診査日程表（PDF：115KB）",
+      "uri": "https://www.city.inagi.tokyo.jp/kosodate/oyakohoukatsushien_center/nyuuyouzhikenshin/2sai6kagetujisikakenkousinsa.files/R6shika.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "乳歯が生えそろうこの時期は、むし歯が急増する時期でもあります。2歳児及び2歳6か月児歯科健康診査を受けて、むし歯の予防と早期発見をめざしましょう。",
+  "support": {
+    "description": "健診順序\n受付\n問診票記入\n歯科健診\n歯ブラシのなどの個別相談",
+    "materiallySupport": "健診順序\n受付\n問診票記入\n歯科健診\n歯ブラシのなどの個別相談",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "2歳、2歳6カ月になった幼児"
+  },
+  "updateDate": "2024-03-29",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

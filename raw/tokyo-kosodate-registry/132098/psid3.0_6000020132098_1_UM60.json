@@ -1,0 +1,118 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども生活部子ども家庭支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+1+UM60"
+  },
+  "belongings": "訓練促進給付金の申請に必要な書類等\n1.親（父または母）と扶養している子の戸籍謄本または戸籍抄本（発行日から3か月以内のもの）\n2.児童扶養手当証書の写し\n3.課税証明書（町田市に税情報がない方のみ提出。4月から7月は前年度、8月から翌年3月までは当該年度）\n扶養義務者と同居している場合はその方の分も必要です。\n4.親（父または母）と扶養している子の世帯全員の住民票（市外に住民登録している方のみ提出）\n5.印鑑\n6.振込口座がわかるもの\n7.個人番号通知カードまたは個人番号カード\n8.本人確認書類（1点で確認できるものは個人番号カード、運転免許証など。2点で確認できるものは健康保険証、年金手帳、児童扶養手当証書など）\n9.在籍している養成機関の長が証明する在学証明書・出席状況証明書等\n10.スケジュール、年間カリキュラム\n11.その他\n\n修了支援金給付金の申請に必要な書類等\n1.親（父または母）の戸籍謄本または戸籍抄本（発行日から3か月以内のもの）\n2.児童扶養手当証書の写し\n3.課税証明書（町田市に税情報がない方のみ提出。4月から7月は前年度、8月から翌年3月までは当該年度。扶養義務者と同居している場合はその方の分も必要です）\n4.親（父または母）と扶養している子の世帯全員の住民票（市外に住民登録している方のみ提出）\n5.印鑑\n6.振込口座がわかるもの\n7.個人番号通知カードまたは個人番号カード\n8.本人確認書類（1点で確認できるものは個人番号カード、運転免許証など。2点で確認できるものは健康保険証、年金手帳、児童扶養手当証書など）\n9.在籍していた養成機関の長が証明する修了証明書\n10.就業開始時に訓練促進給付金の利用がない方は、就業開始日の属する年度の児童扶養手当証書の写し課税証明書（4月から7月開始のばあいはその前年度、8月から翌年3月開始のばあいは当該年度のもので所得内容がわかるもの）\n11.その他",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども生活部子ども家庭支援課",
+    "contactPhone": "042-724-4419",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/9?page_no=1185",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "就業やキャリアアップを目的とした国家資格取得等の高等職業訓練を受講する場合に、訓練促進給付金と修了支援給付金を支給します。\n支給要件や養成機関等の確認が必要ですので事前にご相談下さい。\n\n訓練促進給付金\n修業期間中の給付です。\n入学日以降に申請ができます。申請月から月ごとの支給となります。\n支給期間は、4年が上限となります。\n\n修了支援給付金\n受講修了時の一時金の支給です。\n受講訓練を修了してから30日以内に申請できます。\n\n対象となる講座\n就業やキャリアアップを目的とした1年以上の修業期間が必要な職業訓練で、修了と同時に国家資格またはその受験資格が得られる養成機関の講座\n6か月以上の訓練を必要とするデジタル系等の講座（2021年4月からの時限的な指定です）\n具体的な資格として、看護師、介護福祉士、保育士、理学療法士、作業療法士、調理師、製菓衛生士シスコシステムズ認定資格、LPI認定資格等があります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "高等職業訓練促進給付金",
+    "shortName": "ひとり親家庭高等職業訓練促進給付金制度"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親家庭高等職業訓練促進給付金制度",
+    "uri": "https://kosodate-machida.tokyo.jp/soshiki/4/5/7/1185.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "訓練促進給付金の申請\n訓練促進給付金の申請には養成機関に在籍している証明が必要となるので修業開始日以降に申請となりますが、申請月からの支給となりますので、受講前に手続きのながれを確認してください。\n\n修了支援給付金の申請\n受講訓練を修了してから30日以内に申請する必要があります。\n受験資格が得られる養成機関の講座の場合も講座修了時の申請です（受験合格後の申請ではありません）。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭の親が就職の際に有利であり、かつ生活の安定に資する国家資格等を取得するために、養成機関で修業する間の生活費の一部として給付金を支給します。事前相談が必要となります。",
+  "support": {
+    "description": "世帯の住民税課税状況で支給額が異なります。\n民法877条第1項に規定する扶養義務者（直系血族あるいは兄弟姉妹）と同居している場合、世帯分離をしていても同じ世帯とみなします。",
+    "materiallySupport": null,
+    "monetarySupport": "高等職業訓練促進給付金\n課税世帯\n70,500円\n非課税世帯\n100,000円\n促進給付金は、修学期間の最終12ケ月間は月額40,000円の増額となります。\n\n高等職業訓練修了支援金\n課税世帯\n25,000円\n非課税世帯\n50,000円"
+  },
+  "tag": {
+    "categoryCode": null,
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": null
+  },
+  "target": {
+    "conditions": "町田市にお住いのひとり親家庭の父または母であり、18歳以下の子を扶養していること。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次の要件をすべて満たしている方が対象となります。\n\n1.町田市にお住いのひとり親家庭の父または母であり、18歳以下の子を扶養していること。\n2.児童扶養手当を受けているか又は、同等の所得水準にあること。（修了支援給付金の場合は開始日から）\n3.訓練促進給付金の場合は、1年以上(2021年度からは6か月以上の一部の講座）の修業期間が必要な対象講座の養成機関に在籍していること。修了支援給付金の場合は、対象講座を修了していること。\n4.現在、趣旨を同じくする他の給付金の支給を受けていないこと。\n5.過去にこの給付金を受けていないこと。\n6.すでに何らかの国家資格を取得していないこと。"
+  },
+  "updateDate": "2021-06-01",
+  "useConsiderationFlag": false,
+  "utilization": "相談\nまずは就労相談をしていただきます。\n就業の目的、修学費用の目途、就業期間中の生活や受講終了後の就労の計画、支給要件や必要書類等を確認したうえで、申請手続きに入ります。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

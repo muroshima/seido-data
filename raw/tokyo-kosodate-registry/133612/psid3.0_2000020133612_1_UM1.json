@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "133612;大島町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉けんこう課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020133612",
+    "psid": "psid3.0+2000020133612+1+UM1"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都大島町元町１－１－１４",
+    "contactComment": " Fax：04992-2-4430",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉けんこう課けんこう係",
+    "contactPhone": "04992-2-1482",
+    "contactUrl": "https://www.town.oshima.tokyo.jp/soshiki/kenkou/ninsin.html",
+    "zipCode": "1000101"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "すべての妊婦さんが、できるだけ不安なく出産を迎え子育てに取り組めるよう、大島町では平成27年度から「出産・子育て応援事業」をスタートしました。\n\n妊娠届出\n妊娠の診断を受け、医師から母子手帳の交付を受けるよう言われたら、妊娠届出を行なってください。\n\n妊娠届出の際に保健師が面接をしますので、事前にお電話でご予約ください。\n（平日8時30分～17時00分、町役場本庁窓口のみ。当日連絡でも可。都合の合わない方はご相談ください）\n母子手帳と妊婦健康診査受診票が入った「母と子の保健バッグ」をお渡しします。妊婦健康診査受診票により、妊婦健診における一部の検査が無料で受けられます。\n\n妊娠・出産に関する不安（妊娠中の体調、島外での出産、出産費用、上の子への対応等）などありましたら、何でもご相談ください。\n\n\"育児パッケージ”のプレゼント\n子育てに役立つ\"育児パッケージ”をご用意しています。\nマタニティクラスで、または妊娠中期～後期に面接・訪問にてお渡しいたします。\nお楽しみに！",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "土曜・日曜・祝日・年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "東京都大島町元町1丁目1番14号",
+    "implementationName": "町役場本庁窓口"
+  },
+  "institutionName": {
+    "canonicalName": "妊娠の届出・母子健康手帳の交付",
+    "shortName": "妊娠届出"
+  },
+  "localGovernmentLink": {
+    "title": "妊娠届出",
+    "uri": "https://www.town.oshima.tokyo.jp/soshiki/kenkou/ninsin.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-30",
+    "updater": "大島町"
+  },
+  "procedureCounter": "福祉けんこう課けんこう係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "妊娠届出の際に保健師が面接をしますので、事前にお電話でご予約ください。\n（平日8時30分～17時00分、町役場本庁窓口のみ。当日連絡でも可。都合の合わない方はご相談ください）",
+  "procedurePeriod": {
+    "conditions": "（平日8時30分～17時00分、町役場本庁窓口のみ。当日連絡でも可。都合の合わない方はご相談ください）",
+    "fromHM": "08:30",
+    "fromYMD": null,
+    "toHM": "17:00",
+    "toYMD": null
+  },
+  "procedurePersons": "妊娠の診断を受け、医師から母子手帳の交付を受けるよう言われた",
+  "regulation": {
+    "regulationArticle": "第15条（妊娠の届出）、第16条（母子健康手帳）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠がわかったら妊娠の届出をしてください。妊娠の届出をした妊婦さんに母子健康手帳を交付します。母子健康手帳は、妊娠からお子さんが小学校に入学するまでの、母と子の健康の記録です。育児、予防接種、健康診査などの際に必要となります。",
+  "support": {
+    "description": "母子手帳と妊婦健康診査受診票が入った「母と子の保健バッグ」をお渡しします。妊婦健康診査受診票により、妊婦健診における一部の検査が無料で受けられます。",
+    "materiallySupport": "母子手帳と妊婦健康診査受診票が入った「母と子の保健バッグ」をお渡しします。",
+    "monetarySupport": "妊婦健康診査受診票により、妊婦健診における一部の検査が無料で受けられます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077",
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "すべての妊婦さん"
+  },
+  "updateDate": "2015-11-26",
+  "useConsiderationFlag": true,
+  "utilization": "妊娠の診断を受け、医師から母子手帳の交付を受けるよう言われたら、妊娠届出を行なってください。\n妊娠届出の際に保健師が面接をしますので、事前にお電話でご予約ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

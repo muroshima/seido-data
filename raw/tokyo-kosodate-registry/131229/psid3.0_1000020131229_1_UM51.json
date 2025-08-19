@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "青戸保健センター保健サービス係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+1+UM51"
+  },
+  "belongings": "（1）歯科健康診査\n詳細は個別の通知にてご案内します。\n\n（2）内科健康診査\n1歳6か月児健康診査受診票、母子健康手帳、健康保険証",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区青戸4-15-14　健康プラザかつしか内",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "青戸保健センター保健サービス係",
+    "contactPhone": "03-3602-1284",
+    "contactUrl": null,
+    "zipCode": "1250062"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "区内の契約医療機関"
+  },
+  "institutionName": {
+    "canonicalName": "1歳6か月児健康診査",
+    "shortName": "1歳6か月児健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "乳幼児健康診査",
+    "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001804/1002099.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第12条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "1歳6か月児健康診査（内科） 実施医療機関一覧 （PDF 78.4KB）",
+      "uri": "https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/002/099/1.6iryokikan0523.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "1歳6か月の頃は乳児期から幼児期に移行する大切な時期です。葛飾区では1歳6か月児健康診査を実施しています。\n各健診会場で歯科健診を行います。契約医療機関で内科健診を行います。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": 6
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "1歳6か月から2歳の誕生日の2日前までの幼児"
+  },
+  "updateDate": "2024-05-31",
+  "useConsiderationFlag": false,
+  "utilization": "（1）歯科健康診査\n対象者の方に1歳5か月～6か月を目安に順次個別に通知します。\n\n（2）内科健康診査\n対象者の方に1歳5か月～6か月を目安に順次個別に通知します。\n受診票は歯科健康診査の通知に同封します。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

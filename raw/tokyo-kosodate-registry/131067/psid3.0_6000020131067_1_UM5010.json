@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "131067;台東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "浅草保健相談センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131067",
+    "psid": "psid3.0+6000020131067+1+UM5010"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "浅草保健相談センター",
+    "contactPhone": "03-3844-8171",
+    "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080700",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "公費負担額\n3,000円\n※公費負担額については、検査を受けた年度の助成限度額が適用されます。",
+  "description": "新生児聴覚検査とは\n\n新生児聴覚検査は、耳のきこえ（聴覚）に問題がないかを調べる検査です。\n眠っている新生児に小さな音を聞かせることで、音に対する反応を判定するものです。\n検査で早期発見することにより、赤ちゃんに適切な治療や支援を開始でき、言葉の発達などへの影響を最小限に抑えられると言われています。\nぜひ、新生児聴覚検査を受けましょう。\n\n新生児聴覚検査の一部費用助成について\n\n平成31年4月1日以降に生まれた赤ちゃんに対し、新生児聴覚検査費用の一部を行っています。\n妊娠届出時にお渡しする「母と子の保健バッグ」に、「新生児聴覚検査のごあんない」（新生児聴覚検査受診票）を同封しています。ご確認ください。\n\n対象者\n\n台東区に住民登録のある、生後50日に達していないお子さん\n\n公費負担額\n3,000円\n※公費負担額については、検査を受けた年度の助成限度額が適用されます。\n\n実施医療機関\n都内の委託医療機関で使用できます。\n医療機関については、東京都ホームページに公開されています。ご覧ください。\n赤ちゃんの耳のきこえについて（外部サイト）;http://www.fukushi.metro.tokyo.jp/kodomo/shussan/kenkou/baby_ear.html\n\nご注意\n転出・転入された場合の受診票については、下表のとおりの取扱いとなります。\n\n<転出・転入後の受診票の取扱い>\n||東京都内の区市町村|東京都外の区市町村|\n|:----|:----|:----|\n|台東区から<br>転出される方|台東区で交付した受診票を継続して使用できます。　|転出先の自治体で新たに受診票の交付を受けてください。|\n|台東区に<br>転入される方|前住所地で交付された受診票を継続して使用できます。|都内の医療機関で使用できる受診票を交付します。|\n\n \n台東区に転入された方には、他の受診票の交付や制度のご案内等がありますので、母子健康手帳及び転入前の自治体で交付された受診票等一式をご持参のうえ、下記の窓口までお越しください。\n\n浅草保健相談センター3階（台東区花川戸2丁目11番10号）\n台東保健所保健サービス課2階（台東区東上野4丁目22番8号）\n都外の医療機関で新生児聴覚検査を受ける方へ\n\n交付された新生児聴覚検査受診票が、医療機関（都外）で使用できず、自費で新生児聴覚検査を受けた方に検査費用の一部を助成します。\n\n詳しくは下記のページをご覧ください。\n\n里帰り出産等に係る妊婦健康診査費及び新生児聴覚検査費助成制度について;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/teate_josei/iryohijosei/satogaerijyosei.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "新生児聴覚検査",
+    "shortName": "新生児聴覚検査"
+  },
+  "localGovernmentLink": {
+    "title": "新生児聴覚検査",
+    "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/kenkoushinsa/sinseijityoukaku.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "台東区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "実施医療機関\n都内の委託医療機関で使用できます。\n医療機関については、東京都ホームページに公開されています。ご覧ください。\n\n赤ちゃんの耳のきこえについて（外部サイト）;http://www.fukushi.metro.tokyo.jp/kodomo/shussan/kenkou/baby_ear.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "「新生児聴覚検査の実施について」（平成19年1月29日雇児母発第0129002号厚生労働省雇用均等・児童家庭局母子保健課長通知）"
+  },
+  "relatedLink": [
+    {
+      "title": "里帰り出産等に係る妊婦健康診査費及び新生児聴覚検査費助成制度について",
+      "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/teate_josei/iryohijosei/satogaerijyosei.html"
+    },
+    {
+      "title": "赤ちゃんの耳のきこえについて（外部サイト）",
+      "uri": "http://www.fukushi.metro.tokyo.jp/kodomo/shussan/kenkou/baby_ear.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "聴覚障害は、早期発見・治療により言葉の発達などへの影響が最小限に抑えられることが分かっていることから、生まれたばかりの赤ちゃんに聴覚障害の疑いがないかを調べる新生児聴覚検査の費用の一部を助成しています。",
+  "support": {
+    "description": "新生児聴覚検査の一部費用助成について\n平成31年4月1日以降に生まれた赤ちゃんに対し、新生児聴覚検査費用の一部を行っています。",
+    "materiallySupport": null,
+    "monetarySupport": "新生児聴覚検査の一部費用助成"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後50日に達していないお子さん",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "台東区に住民登録のある、生後50日に達していないお子さん"
+  },
+  "updateDate": "2023-01-30",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

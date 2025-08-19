@@ -1,0 +1,134 @@
+{
+  "area": {
+    "areaCode": "132063;府中市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子ども家庭支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132063",
+    "psid": "psid3.0+8000020132063+1+UM47"
+  },
+  "belongings": "母子健康手帳",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援課母子保健係",
+    "contactPhone": "042-368-5333",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "無料",
+  "description": "助産師相談の年間予定表（令和6年度）\n最終更新日：2022年7月1日\nhttps://www.city.fuchu.tokyo.jp/kosodate/shussan/boshinokenko/jigyo/boshihokensoudan.images/boshi-1.jpg　マタニティマーク\n助産師が、妊娠・出産・授乳方法・乳房トラブルなどのご相談をお受けします。\n\n時間\n午後1時5分～午後4時　1回20分の予約制です。\n\n日程\n日程\n|月|日にち|\n|:----|:----|\n|4月|3(水)、10(水)、17(水)、24(水)|\n|5月|8(水)、15(水)、22(水)、29(水)|\n|6月|5(水)、12(水)、19(水)、26(水)|\n|7月|3(水)、10(水)、17(水)、24(水)|\n|8月|7(水)、14(水)、21(水)、28(水)|\n|9月|4(水)、11(水)、18(水)、25(水)|\n|10月|2(水)、9(水)、16(水)、23(水)|\n|11月|6(水)、13(水)、20(水)、27日(水)|\n|12月|4(水)、11(水)、18(水)、25(水)|\n|1月|8(水)、15(水)、22(水)、29(水)|\n|2月|5(水)、12(水)、19(水)、26(水)|\n|3月|5(水)、12(水)、19(水)、26(水)|\n会場\n子育て世代包括支援センター「みらい」\n\n対象\n妊娠や出産、授乳や育児について不安を抱えている府中市在住の方\n\n内容\n妊娠・出産・授乳方法・乳房トラブルなどのご相談をお受けします。費用は無料です。\n\n持ち物\n母子健康手帳をお持ちください\n\n申込み\n1回20分の予約制です。下記サイトからご予約をお取りください。\nサイトからのご予約にはLINEのお友達登録が必要です。サイトからのご予約が難しい方は、子ども家庭支援課母子保健係（電話：042-368-5333）へご連絡ください\n\n府中市LINE公式アカウント（外部サイト）;https://liff.line.me/1645278921-kWRPP32q/?accountId=fuchu_city",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "府中市LINE公式アカウント（外部サイト）",
+      "uri": "https://liff.line.me/1645278921-kWRPP32q/?accountId=fuchu_city"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "時間\n午後1時5分～午後4時　1回20分の予約制です。\n\n日程\n日程\n|月|日にち|\n|:----|:----|\n|4月|3(水)、10(水)、17(水)、24(水)|\n|5月|8(水)、15(水)、22(水)、29(水)|\n|6月|5(水)、12(水)、19(水)、26(水)|\n|7月|3(水)、10(水)、17(水)、24(水)|\n|8月|7(水)、14(水)、21(水)、28(水)|\n|9月|4(水)、11(水)、18(水)、25(水)|\n|10月|2(水)、9(水)、16(水)、23(水)|\n|11月|6(水)、13(水)、20(水)、27日(水)|\n|12月|4(水)、11(水)、18(水)、25(水)|\n|1月|8(水)、15(水)、22(水)、29(水)|\n|2月|5(水)、12(水)、19(水)、26(水)|\n|3月|5(水)、12(水)、19(水)、26(水)|",
+    "fromHM": "13:05",
+    "fromYMD": null,
+    "toHM": "16:00",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "子育て世代包括支援センター「みらい」"
+  },
+  "institutionName": {
+    "canonicalName": "府中市の妊娠・出産に関する相談",
+    "shortName": "助産師相談"
+  },
+  "localGovernmentLink": {
+    "title": "助産師相談の年間予定表（令和6年度）",
+    "uri": "https://www.city.fuchu.tokyo.jp/kosodate/shussan/boshinokenko/jigyo/boshihokensoudan.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "府中市"
+  },
+  "procedureCounter": "子ども家庭支援課母子保健係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "1回20分の予約制です。下記サイトからご予約をお取りください。\nサイトからのご予約が難しい方は、子ども家庭支援課母子保健係（電話：042-368-5333）へご連絡ください。\n\n府中市LINE公式アカウント（外部サイト）;https://liff.line.me/1645278921-kWRPP32q/?accountId=fuchu_city",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "子育て世代包括支援センター「みらい」",
+      "uri": "https://www.city.fuchu.tokyo.jp/shisetu/kosodate/houkatsushien-mirai/mirai.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "助産師が、妊娠・出産・授乳方法・乳房トラブルなどのご相談をお受けします。",
+  "support": {
+    "description": "助産師が、妊娠・出産・授乳方法・乳房トラブルなどのご相談をお受けします。",
+    "materiallySupport": "助産師が、妊娠・出産・授乳方法・乳房トラブルなどのご相談をお受けします。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊娠や出産、授乳や育児について不安を抱えている府中市在住の方"
+  },
+  "updateDate": "2022-07-01",
+  "useConsiderationFlag": false,
+  "utilization": "サイトからのご予約にはLINEのお友達登録が必要です。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

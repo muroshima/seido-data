@@ -1,0 +1,134 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "各総合支所　区民課　保健福祉係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+1+UM824"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "各総合支所　区民課　保健福祉係;https://www.city.minato.tokyo.jp/kenko/fukushi/shogaisha/madoguchi/sogo.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "在宅で精神疾患のために通院している場合に、保険と公費で医療費の9割を負担し、通院医療費の自己負担を1割にする制度です。\nただし、以下の場合は、無料となります。\n（１）社会保険加入者、後期高齢者医療制度加入者及び組合国保加入者で区民税が非課税の世帯に属する場合\n（２）都内の区市町村が保険者となる国民健康保険の加入者で区民税が非課税の世帯に属する場合\n（３）生活保護受給者\nお知らせ\n更新手続き開始前に LINE や SMS で ご案内 します（PDF：546KB）;https://www.city.minato.tokyo.jp/kenko/fukushi/shogaisha/iryo/documents/20241130.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度（精神通院医療）",
+    "shortName": "自立支援医療（精神通院医療）"
+  },
+  "localGovernmentLink": {
+    "title": "自立支援医療（精神通院医療）",
+    "uri": "https://www.city.minato.tokyo.jp/kenko/fukushi/shogaisha/iryo/jiritsushien.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025-02-28",
+    "updater": "港区"
+  },
+  "procedureCounter": "各総合支所　区民課　保健福祉係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "1. 指定の診断書（提出は2年に一度です。）、医療保険の資格情報を確認できるもの（※）を添えて申請をしてください。\n・指定診断書と申請書は各総合支所区民課にあります。\n・既に診断書に基づいて交付された精神障害者保健福祉手帳をお持ちの人で、診断書の提出が必要無い場合があります。窓口にお問い合わせください。\n・保険の種類が上記内容（１）に該当する人で、家族等の扶養に入っている場合は被保険者の医療保険の資格情報を確認できるもの（※）が必要です。\n・（※）健康保険証の新規発行終了に関する自立支援医療（精神通院医療）の支給認定手続きについて（PDF：449KB）;https://www.city.minato.tokyo.jp/kenko/fukushi/shogaisha/iryo/documents/20241129.pdf",
+  "procedurePeriod": {
+    "conditions": "更新\n有効期間は1年間です。更新は有効期間の3か月前から申請ができます。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [
+    {
+      "title": "東京都福祉局（制度について）（外部サイトへリンク）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/shougai/nichijo/tsuuin/index.html"
+    },
+    {
+      "title": "中部総合精神保健センター（認定について）（外部サイトへリンク）",
+      "uri": " https://www.fukushi.metro.tokyo.lg.jp/chusou/jiritsushieniryo/jiritsu_tomin.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024/04/02",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

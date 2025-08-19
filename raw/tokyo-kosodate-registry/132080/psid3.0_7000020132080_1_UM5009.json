@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132080;調布市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉健康部健康推進課 ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020132080",
+    "psid": "psid3.0+7000020132080+1+UM5009"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-441-6101",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉健康部健康推進課",
+    "contactPhone": "042-441-6100",
+    "contactUrl": "https://www.city.chofu.lg.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "多胎妊婦健康診査費助成金\n多胎児を妊娠した妊婦は単胎妊娠の場合よりも頻回の妊婦健康診査の受診が推奨され、受診に伴う経済的負担が大きくなることから、通常の14回を超えて自費で妊婦健康診査を受診した方に対し、その費用の一部を助成します。\n\n対象者\n次の要件をすべて満たす方\n1.母子健康手帳の交付を受けた多胎妊婦\n2.15回目以降の妊婦健康診査を受診した日に調布市に住民登録がある方\n3.国内の医療機関又は助産所で受診し、実費を負担した方\n\n助成の対象となるもの\n保険適用外のもので、次の要件を満たすもの\n1.検査項目が、2回目以降の妊婦健康診査の受診票に記載されている検査項目と同一であるもの\n2.15回目以降の妊婦健康診査であるもの\n(注)令和5年4月1日以降に受診したものが対象となります。\n\n助成額\n実費相当額。ただし、妊婦一人につき1回あたり上限5,000円、5回まで。\n\n申請方法\n以下の書類を健康推進課に提出してください。\n1.調布市多胎妊婦健康診査費助成金交付申請書(第1号様式)\n2.領収書、明細書の原本\n領収書・明細書は手続き終了後、市の処理事項を記載のうえ返却します。\n3.母子健康手帳の妊婦健康診査の記録の写し\n多胎児全員分の「出生届出済証明書」と「妊娠中の経過」の2か所\n(注)母子健康手帳の「妊娠中の経過」欄に15回目以降の妊婦健康診査の記録がない場合は、原則として助成できません。\n4.振込先の口座番号がわかるものの写し\n口座名義は申請者に限ります。\n(注)記載事項を訂正する場合は二重線で取消のうえ、訂正印を捺印してください。\n申請期間\n出産日から1年以内\n確定申告を予定している方へ\n確定申告は助成金額を控除した額で申告することになります。確定申告前に助成金の申請をしてください。\n1月中に申請いただくと、確定申告期間に間に合います。\nやむを得ず助成金の申請前に確定申告をする場合は、後日修正申告が必要になります。\n\n申請場所\n調布市福祉健康部健康推進課\n〒182-0026　調布市小島町2-33-1文化会館たづくり西館保健センター\n(注)郵送申請可\n\nダウンロード\n調布市多胎妊婦健康診査費助成金交付申請書(第1号様式)（PDF：118KB）;https://www.city.chofu.lg.jp/documents/1464/shinseisho_2.pdf\n申請書記入例（PDF：197KB）;https://www.city.chofu.lg.jp/documents/1464/kinyuu_1.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "産婦健康診査の費用助成",
+    "shortName": "多胎妊婦健康診査費助成金"
+  },
+  "localGovernmentLink": {
+    "title": "多胎妊婦健康診査費助成金",
+    "uri": "https://www.city.chofu.lg.jp/060070/p037021.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "調布市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請方法\n以下の書類を健康推進課に提出してください。\n1.調布市多胎妊婦健康診査費助成金交付申請書(第1号様式)\n2.領収書、明細書の原本\n領収書・明細書は手続き終了後、市の処理事項を記載のうえ返却します。\n3.母子健康手帳の妊婦健康診査の記録の写し\n多胎児全員分の「出生届出済証明書」と「妊娠中の経過」の2か所\n(注)母子健康手帳の「妊娠中の経過」欄に15回目以降の妊婦健康診査の記録がない場合は、原則として助成できません。\n4.振込先の口座番号がわかるものの写し\n口座名義は申請者に限ります。\n(注)記載事項を訂正する場合は二重線で取消のうえ、訂正印を捺印してください。",
+  "procedurePeriod": {
+    "conditions": "出産日から1年以内",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "産後の初期段階における母子に対する支援を強化し、妊娠期から子育て期にわたる切れ目のない支援を行うため、出産後間もない時期の産婦に対する健康診査費用を助成します。産婦健康診査は産後2週間、産後１か月など出産後間もない時期の産婦向けの健康診査で、母体の身体的機能の回復や授乳状況、精神状態の把握を行います。 ",
+  "support": {
+    "description": "助成の対象となるもの\n保険適用外のもので、次の要件を満たすもの\n1.検査項目が、2回目以降の妊婦健康診査の受診票に記載されている検査項目と同一であるもの\n2.15回目以降の妊婦健康診査であるもの\n(注)令和5年4月1日以降に受診したものが対象となります。\n\n助成額\n実費相当額。ただし、妊婦一人につき1回あたり上限5,000円、5回まで。",
+    "materiallySupport": null,
+    "monetarySupport": "助成の対象となるもの\n保険適用外のもので、次の要件を満たすもの\n1.検査項目が、2回目以降の妊婦健康診査の受診票に記載されている検査項目と同一であるもの\n2.15回目以降の妊婦健康診査であるもの\n(注)令和5年4月1日以降に受診したものが対象となります。\n\n助成額\n実費相当額。ただし、妊婦一人につき1回あたり上限5,000円、5回まで。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象者\n次の要件をすべて満たす方\n1.母子健康手帳の交付を受けた多胎妊婦\n2.15回目以降の妊婦健康診査を受診した日に調布市に住民登録がある方\n3.国内の医療機関又は助産所で受診し、実費を負担した方"
+  },
+  "updateDate": "2023-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

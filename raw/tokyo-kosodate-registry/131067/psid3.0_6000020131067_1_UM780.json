@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131067;台東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "児童保育課保育相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131067",
+    "psid": "psid3.0+6000020131067+1+UM780"
+  },
+  "belongings": "1.申請書\n2.児童お迎え票\n3.休日・年末勤務証明書【保護者全員分】（★）\n4.児童連絡票　（初回利用のみ）\n5.お子さまの健康状況申告書　（初回利用で、認可保育園の申請・在園がない方のみ）\n6.預けるお子さまの母子手帳　（初回利用で、認可保育園の申請・在園がない方のみ）",
+  "capacity": "５０名（ただし、１・２歳児は６名）",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "児童保育課保育相談係",
+    "contactPhone": "03-5246-1234",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "休日保育は全日2,000円　午前または午後のみ1,000円\n年末保育は全日3,000円　午前または午後のみ1,500円\n当日キャンセルは保育料がかかります",
+  "description": "休日・年末に一時保育を実施しています。\n　保護者全員が休日・年末に仕事等によりお子さんを保育できない方はご利用ください。\n※休日・年末とは、日曜日・国民の祝日・12月29日・30日・31日です。（1月1日・2日・3日は休園です。）\n\n詳細は下記をご覧ください。\n\n休日・年末一時保育　案内パンフレット（PDF：231KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/ichijiazukari/kyujitsu.files/annnai2.pdf\n休日・年末一時保育しおり（PDF：2,178KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/ichijiazukari/kyujitsu.files/03siori.pdf\nお弁当の食中毒予防（PDF：872KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/ichijiazukari/kyujitsu.files/02obentotirasi.pdf\n\n利用の申込み\n　台東区役所6階の児童保育課保育相談係で受け付けます。また、台東区立保育園（東上野乳児保育園・ことぶきこども園・たいとうこども園・御徒町保育室・北上野保育室・根岸定期利用保育室を除く）に入園しているお子さんは、その保育園でも申し込めます。\n　休日保育を利用される方は、利用する月の前月1日から25日までに申し込んでください。（年末保育は11月1日から12月15日までに申し込んでください。）\n　なお、申込みは利用する月ごとになります。\n　申込みの際は、次のものを持参してください。\n\n申請書\n児童お迎え票\n休日・年末勤務証明書【保護者全員分】（★）\n児童連絡票　（初回利用のみ）\nお子さまの健康状況申告書　（初回利用で、認可保育園の申請・在園がない方のみ）\n預けるお子さまの母子手帳　（初回利用で、認可保育園の申請・在園がない方のみ）\n★　休日・年末勤務証明書（PDF：112KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/ichijiazukari/kyujitsu.files/R5syuroussyoumei_kyuzitu.pdf\n\n詳しくは、児童保育課保育相談係までお問い合わせください。\n\n児童保育課保育相談係　電話：03-5246-1234",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "東上野２－２５－１２",
+    "implementationName": "東上野保育園"
+  },
+  "institutionName": {
+    "canonicalName": "休日保育",
+    "shortName": "休日・年末一時保育案内"
+  },
+  "localGovernmentLink": {
+    "title": "休日・年末一時保育案内",
+    "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/ichijiazukari/kyujitsu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "台東区"
+  },
+  "procedureCounter": "児童保育課保育相談係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請書、児童お迎え票、休日・年末勤務証明書（保護者全員分）、児童連絡票（初回利用のみ）、お子さまの健康状況申告書（初回利用で、認可保育園の申請・在園がない方のみ）、母子手帳（初回利用で、認可保育園の申請・在園がない方のみ）を各申込期間に、児童保育課へ\n※区立保育園（東上野乳児保育園･ことぶきこども園・たいとうこども園を除く）に在園している児童は、その保育園で申込み可",
+  "procedurePeriod": {
+    "conditions": "休日保育：日曜日、国民の祝日（1/1～1/3を除く）\n年末保育：１２月２９日から１２月３１日まで\n休日保育を利用される方は、利用する月の前月1日から25日までに申し込んでください。年末保育は11月1日から12月15日までまでに申し込んでください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "全文",
+    "regulationName": "台東区休日・年末一時保育実施要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者が就労等により、日曜や祝日にご家庭でお子さんの保育ができないとき、保育園などでお子さんをお預かりする「休日保育」を実施しています。",
+  "support": {
+    "description": "休日・年末に一時保育を実施しています。",
+    "materiallySupport": "休日・年末に一時保育を実施しています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "区内在住で、４月１日現在満１歳～未就学児で、健康で集団保育が可能なこと",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 5,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "保護者全員が休日・年末に仕事等によりお子さんを保育できない方"
+  },
+  "updateDate": "2024-02-09",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "保護者の就労等の状況により、保育を必要とする時間",
+    "fromHM": "07:15",
+    "toHM": "18:15"
+  }
+}

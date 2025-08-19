@@ -1,0 +1,175 @@
+{
+  "area": {
+    "areaCode": "132292;西東京市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "児童青少年課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132292",
+    "psid": "psid3.0+1000020132292+1+UM108"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "西東京市南町五丁目6番13号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "児童青少年課",
+    "contactPhone": "042-460-9843",
+    "contactUrl": null,
+    "zipCode": "1888666"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "https://www.city.nishitokyo.lg.jp/kosodate/zidokan_zidocenter/sisetu.html#cms88B6B",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "日曜日・国民の祝日・年末年始等",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "児童館",
+    "shortName": "児童館"
+  },
+  "localGovernmentLink": {
+    "title": "施設一覧",
+    "uri": "https://www.city.nishitokyo.lg.jp/kosodate/zidokan_zidocenter/sisetu.html#cms88B6B"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-11",
+    "updater": "西東京市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第40条",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "北原児童館",
+      "uri": "https://www.city.nishitokyo.lg.jp/sisetu/zidokan/kitahara.html"
+    },
+    {
+      "title": "新町児童館",
+      "uri": "https://www.city.nishitokyo.lg.jp/sisetu/zidokan/sinmati.html"
+    },
+    {
+      "title": "中町児童館",
+      "uri": "https://www.city.nishitokyo.lg.jp/sisetu/zidokan/nakamati.html"
+    },
+    {
+      "title": "ひばりが丘北児童センター",
+      "uri": "https://www.city.nishitokyo.lg.jp/sisetu/zidokan/hibarigaokakita.html"
+    },
+    {
+      "title": "ひばりが丘児童センター",
+      "uri": "https://www.city.nishitokyo.lg.jp/sisetu/zidokan/hibarigaoka.html"
+    },
+    {
+      "title": "画像：イベント情報へのリンクボタン",
+      "uri": "https://www.city.nishitokyo.lg.jp/kosodate/zidokan_zidocenter/jidokan_oshirase/ivent/index.html"
+    },
+    {
+      "title": "保谷柳沢児童館",
+      "uri": "https://www.city.nishitokyo.lg.jp/sisetu/zidokan/hoyayagisawa.html"
+    },
+    {
+      "title": "田無児童館",
+      "uri": "https://www.city.nishitokyo.lg.jp/sisetu/zidokan/tanasi.html"
+    },
+    {
+      "title": "田無柳沢児童センター",
+      "uri": "https://www.city.nishitokyo.lg.jp/sisetu/zidokan/tanasiyanagisawa.html"
+    },
+    {
+      "title": "画像：児童館・児童センター案内図",
+      "uri": "http://www.city.nishitokyo.lg.jp/Gmaps/citymap_index.html?lat=35.76406489758856&lng=139.54113006591797&zoom=14&mk=%E5%8C%97%E5%8E%9F%E5%85%90%E7%AB%A5%E9%A4%A8&ctgr=%E5%85%90%E7%AB%A5%E9%A4%A8%E3%83%BB%E5%AD%A6%E7%AB%A5%E3%82%AF%E3%83%A9%E3%83%96"
+    },
+    {
+      "title": "西原北児童館",
+      "uri": "https://www.city.nishitokyo.lg.jp/sisetu/zidokan/nisiharakita.html"
+    },
+    {
+      "title": "芝久保児童館",
+      "uri": "https://www.city.nishitokyo.lg.jp/sisetu/zidokan/sibakubo.html"
+    },
+    {
+      "title": "下保谷児童センター",
+      "uri": "https://www.city.nishitokyo.lg.jp/sisetu/zidokan/simohoya.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童館は、18歳未満のお子さんに健全な遊びを提供し、健康増進を図るとともに、豊かな情操を育むことを目的としています。\n西東京市の児童館には、小学校就学前のお子さんが安心して遊べるスペースがあり、またお子さんの年齢に応じた各種イベントなども行っています。\n（イベントの詳細については、西東京市サイトや市報などでお知らせしています。）",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0歳から18歳未満の児童",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-04-04",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "area": {
+    "areaCode": "132012;八王子市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康医療部大横保健福祉センター（保健担当）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132012",
+    "psid": "psid3.0+1000020132012+1+UM13"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "八王子市大横町11-35",
+    "contactComment": "ファックス：042-627-5887",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康医療部大横保健福祉センター（保健担当）",
+    "contactPhone": "042-625-9200",
+    "contactUrl": "https://www.city.hachioji.tokyo.jp/inquiry/mailform450600.html",
+    "zipCode": "1920062"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "あかちゃん訪問\n更新日：2023年09月26日\n八王子市では、あかちゃんがお生まれになった全ご家庭に保健師・訪問指導員がお伺いしています。\n\n「あかちゃん訪問」とは\n体重測定をしながらお子さんの発育・発達に関すること、育児のこと\n産後の体調・お気持ちなどお母さんご自身のこと\nあかちゃんだけでなく上にいるお子さんのこと\n地域の遊び場、子育てサークル、育児サービス(健診、予防接種等）などの情報提供\nなどのご相談をお受けしています。\n\nあかちゃん訪問の際に、子育て応援ギフトの申請書をお渡しします。\n\n子育て応援ギフトについて;https://kosodate.city.hachioji.tokyo.jp/soshiki/oyokohokenfukushicenter/2611.html\n\nあかちゃん訪問までの流れ\n出生\n乳幼児医療助成等の申請（兼「出生連絡カード」の提出）\n大横保健福祉センター・東浅川保健福祉センター・南大沢保健福祉センター・訪問指導員からあかちゃん訪問の日程調整のため、電話でご連絡します。\nあかちゃん訪問\n出生連絡カードの提出;https://kosodate.city.hachioji.tokyo.jp/scene/akachangaumaretara/shussangonotetsuzuki/955.html\n\nあかちゃん訪問よくある質問\n質問：あかちゃん訪問はいつ来てもらえるのですか。\n回答：生後4か月までのあいだに訪問させていいただいております。早めの訪問をご希望の方は、大横保健福祉センター・東浅川保健福祉センター・南大沢保健福祉センターまでご連絡ください。\n\n質問：3人目で特に心配なことはないが、訪問は全員受ける必要があるのですか。\n回答：2人目以降の方でも全ご家庭にお伺いし、体重測定や、子育て情報をお伝えしております。上のお子さんのあかちゃん返りや、お母様の体調のご相談もお受けしておりますので、ぜひあかちゃん訪問をご利用ください。\n\n質問：里帰りをするのですが、赤ちゃん訪問は来てもらえますか。\n回答：里帰り先が市内であれば、八王子市から伺います。里帰り先が市外で、赤ちゃん訪問を希望される方は、里帰り先の保健所又は保健センターへお問い合わせください。八王子市に戻ってこられてからの訪問もお受けしています。\n\n出生連絡カードの提出;https://kosodate.city.hachioji.tokyo.jp/scene/akachangaumaretara/shussangonotetsuzuki/955.html\n\nあなたのお住まいを担当する保健福祉センターは (PDFファイル: 91.7KB);https://kosodate.city.hachioji.tokyo.jp/material/files/group/8/new-kenniki_91751352.pdf\n\nお問い合わせ先\n大横保健福祉センター 042-625-9200\n東浅川保健福祉センター 042-667-1331\n南大沢保健福祉センター 042-679-2205",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "東京共同電子申請・届出サービス八王子市電子申請",
+      "uri": "https://www.shinsei.elg-front.jp/tokyo2/navi/govTop.do?govCode=13201"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "生後4か月までのあいだに訪問させていいただいております。早めの訪問をご希望の方は、大横保健福祉センター・東浅川保健福祉センター・南大沢保健福祉センターまでご連絡ください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "新生児訪問",
+    "shortName": "あかちゃん訪問"
+  },
+  "localGovernmentLink": {
+    "title": "あかちゃん訪問",
+    "uri": "https://kosodate.city.hachioji.tokyo.jp/nenrei/0sai/sodan_support/1203.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-20",
+    "updater": "八王子市"
+  },
+  "procedureCounter": "大横保健福祉センター・東浅川保健福祉センター・南大沢保健福祉センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "1.出生\n2.乳幼児医療助成等の申請（兼「出生連絡カード」の提出）\n3.大横保健福祉センター・東浅川保健福祉センター・南大沢保健福祉センター・訪問指導員からあかちゃん訪問の日程調整のため、電話でご連絡します。\n4.あかちゃん訪問\n出生連絡カードの提出;https://kosodate.city.hachioji.tokyo.jp/scene/akachangaumaretara/shussangonotetsuzuki/955.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第11条（新生児の訪問指導）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "出生連絡カードの提出",
+      "uri": "https://kosodate.city.hachioji.tokyo.jp/scene/akachangaumaretara/shussangonotetsuzuki/955.html"
+    },
+    {
+      "title": "子育て応援ギフトについて",
+      "uri": "https://kosodate.city.hachioji.tokyo.jp/soshiki/oyokohokenfukushicenter/2611.html"
+    },
+    {
+      "title": "あなたのお住まいを担当する保健福祉センターは (PDFファイル: 91.7KB)",
+      "uri": "https://kosodate.city.hachioji.tokyo.jp/material/files/group/8/new-kenniki_91751352.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "新生児を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、健康や育児に関する相談などを行います。",
+  "support": {
+    "description": "「あかちゃん訪問」とは\n体重測定をしながらお子さんの発育・発達に関すること、育児のこと\n産後の体調・お気持ちなどお母さんご自身のこと\nあかちゃんだけでなく上にいるお子さんのこと\n地域の遊び場、子育てサークル、育児サービス(健診、予防接種等）などの情報提供\nなどのご相談をお受けしています。\n\nあかちゃん訪問の際に、子育て応援ギフトの申請書をお渡しします。\n\n子育て応援ギフトについて;https://kosodate.city.hachioji.tokyo.jp/soshiki/oyokohokenfukushicenter/2611.html",
+    "materiallySupport": "「あかちゃん訪問」とは\n体重測定をしながらお子さんの発育・発達に関すること、育児のこと\n産後の体調・お気持ちなどお母さんご自身のこと\nあかちゃんだけでなく上にいるお子さんのこと\n地域の遊び場、子育てサークル、育児サービス(健診、予防接種等）などの情報提供\nなどのご相談をお受けしています。\n\nあかちゃん訪問の際に、子育て応援ギフトの申請書をお渡しします。\n子育て応援ギフトについて;https://kosodate.city.hachioji.tokyo.jp/soshiki/oyokohokenfukushicenter/2611.html",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後4か月までのあいだに訪問させていいただいております。早めの訪問をご希望の方は、大横保健福祉センター・東浅川保健福祉センター・南大沢保健福祉センターまでご連絡ください。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "あかちゃんがお生まれになった全ご家庭"
+  },
+  "updateDate": "2023-09-26",
+  "useConsiderationFlag": false,
+  "utilization": "出生\n乳幼児医療助成等の申請（兼「出生連絡カード」の提出）\n大横保健福祉センター・東浅川保健福祉センター・南大沢保健福祉センター・訪問指導員からあかちゃん訪問の日程調整のため、電話でご連絡します。\nあかちゃん訪問",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

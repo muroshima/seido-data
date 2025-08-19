@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健所保健予防課保健予防係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+4+UM55"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健所保健予防課保健予防係",
+    "contactPhone": "042-725-5422",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "2013年3月31日までに、町田市の助成により、子宮頸がん予防ワクチン、ヒブワクチン、小児用肺炎球菌ワクチンのいずれかを接種した方のうち、接種後に何らかの症状が生じ、医療機関を受診した方は、接種との関連性が認定されると、入院の有無に関わらず、医療費・医療手当が支給される場合があります。\nお心当たりのある方は、具体的な請求方法等について、独立行政法人医薬品医療機器総合機構の救済制度相談窓口（フリーダイヤル0120-149-931ご利用になれない場合は03-3506-9411有料）に至急お問い合わせください。\n\n子宮頸がん予防ワクチン（HPVワクチン）\nhttps://kosodate-machida.tokyo.jp/mokuteki/1/10/kakusyuyobousessyu/2283.html\n\nヒブ\nhttps://kosodate-machida.tokyo.jp/mokuteki/1/10/kakusyuyobousessyu/2273.html\n\n小児用肺炎球菌\nhttps://kosodate-machida.tokyo.jp/mokuteki/1/10/kakusyuyobousessyu/2270.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "任意予防接種",
+    "shortName": "市の助成で子宮頸がん予防ワクチン等の接種を受け、接種後に何らかの症状が生じ、医療機関を受診された方"
+  },
+  "localGovernmentLink": {
+    "title": "市の助成で子宮頸がん予防ワクチン等の接種",
+    "uri": "https://kosodate-machida.tokyo.jp/nenrei/sho_chu/15/3381.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "小児任意予防接種費助成要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "2013年3月31日までに、町田市の助成により、子宮頸がん予防ワクチン、ヒブワクチン、小児用肺炎球菌ワクチンのいずれかを接種した方のうち、接種後に何らかの症状が生じ、医療機関を受診した方は、接種との関連性が認定されると、入院の有無に関わらず、医療費・医療手当が支給される場合があります。お心当たりのある方は、具体的な請求方法等について、独立行政法人医薬品医療機器総合機構の救済制度相談窓口（フリーダイヤル0120-149-931ご利用になれない場合は03-3506-9411有料）に至急お問い合わせください。",
+  "support": {
+    "description": "2013年3月31日までに、町田市の助成により、子宮頸がん予防ワクチン、ヒブワクチン、小児用肺炎球菌ワクチンのいずれかを接種した方のうち、接種後に何らかの症状が生じ、医療機関を受診した方は、接種との関連性が認定されると、入院の有無に関わらず、医療費・医療手当が支給される場合があります。",
+    "materiallySupport": "2013年3月31日までに、町田市の助成により、子宮頸がん予防ワクチン、ヒブワクチン、小児用肺炎球菌ワクチンのいずれかを接種した方のうち、接種後に何らかの症状が生じ、医療機関を受診した方は、接種との関連性が認定されると、入院の有無に関わらず、医療費・医療手当が支給される場合があります。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "2013年3月31日までに、町田市の助成により、子宮頸がん予防ワクチン、ヒブワクチン、小児用肺炎球菌ワクチンのいずれかを接種した方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "2013年3月31日までに、町田市の助成により、子宮頸がん予防ワクチン、ヒブワクチン、小児用肺炎球菌ワクチンのいずれかを接種した方のうち、接種後に何らかの症状が生じ、医療機関を受診した方"
+  },
+  "updateDate": "2022-04-21",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

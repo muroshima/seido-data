@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "千代田保健所保健サービス課保健相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+4+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区九段北1-2-14",
+    "contactComment": null,
+    "contactEmail": "hokensoudan@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "千代田保健所保健サービス課保健相談係",
+    "contactPhone": "03-5211-8175",
+    "contactUrl": null,
+    "zipCode": "1020073"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "お子さんのアレルギー疾患について、小児科医、保健師、栄養士による相談を行います。\n\n実施日時\n\n1歳6か月児健康診査の際に併せて実施しています。\nいずれの日も受付時間は午前9時30分～10時です。\n\nアレルギー総合相談実施日\n\n令和6年4月9日（火曜日）\n令和6年5月14日（火曜日）\n令和6年5月28日（火曜日）\n令和6年6月11日（火曜日）\n令和6年7月9日（火曜日）\n令和6年8月27日（火曜日）\n令和6年9月10日（火曜日）\n令和6年10月8日（火曜日）\n令和6年10月29日（火曜日）\n令和6年11月12日（火曜日）\n令和6年12月10日（火曜日）\n令和7年1月14日（火曜日）\n令和7年1月28日（火曜日）\n令和7年2月25日（火曜日）\n令和7年3月11日（火曜日）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "千代田保健所"
+  },
+  "institutionName": {
+    "canonicalName": "千代田区の子育てに関する相談",
+    "shortName": "アレルギー総合相談"
+  },
+  "localGovernmentLink": {
+    "title": "アレルギー総合相談",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/allergie-sogo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": "千代田保健所保健サービス課保健相談係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "お子さんのアレルギー疾患について、小児科医、保健師、栄養士による相談を行います。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "082"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 15,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住の0歳から15歳（義務教育就学児）までのお子さんとその保護者"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "予約制です。電話でお申し込みください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": "09:30",
+    "toHM": "10:00"
+  }
+}

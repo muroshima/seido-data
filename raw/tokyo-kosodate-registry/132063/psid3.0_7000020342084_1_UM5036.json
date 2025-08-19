@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "132063;府中市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "担当課：子ども家庭部子ども家庭支援課（たっち）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020342084",
+    "psid": "psid3.0+7000020342084+1+UM5036"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部子ども家庭支援課",
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子ども食堂実施団体\n市で把握している子ども食堂実施団体は次表のとおりです。\n注記：子ども食堂は地域の市民団体等の自主的な活動です。\n市が運営管理や実施許可などを行っているものではありません。\n場所・開催日時は変更になる場合もありますので、各団体にご確認ください。\n\n子ども食堂実施団体\n名称\t場所\t開催日\t開催時間\t連絡先\tメール又はSNS\nhttps://fuchu-planet.jp/organizations/169\n\nhttps://twitter.com/MusashidaiN\n\nhttps://twitter.com/tokyodokenFK\nhttps://twitter.com/nikkorosyokudou\n\nスマイルこども食堂　府中餃子バルあわ屋店QRコード;https://www.city.fuchu.tokyo.jp/kosodate/shussan/oyako/kodomo_shokudo.images/S_gainfriends_2dbarcodes_BW.png\nこども食堂MAP;https://www.city.fuchu.tokyo.jp/kosodate/shussan/oyako/kodomo_shokudo.images/202408MAP_1.png",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "紅葉丘1-35 紅葉丘公会堂　,西府町4-23-12 ぷろぼの工房いっちゃん家,押立町5-4 押立文化センター,白糸台4-2-8 グレイスハウス,武蔵台2-2 武蔵台文化センター,片町2-2 片町公会堂,天神町3-12-7 学園通公会堂,新町3-1 新町三丁目都営アパート東集会場,住吉町5-17-7 テラッツァ,晴見町2-15-5 東京土建 府中国立支部,日新町4-46-7,清水が丘1-2 東府中公会堂,都営府中朝日町2丁目,宮町1-100 府中市市民活動センタープラッツ料理室、ほか,府中町1-40-11 カトリック府中教会,南町4-40-1　南町アパート第一集会所,白糸台3-22-2,府中市宮西町2-9-8草舎Ⅱ1階",
+    "implementationName": "あおばこどもの居場所,ぷろぼの工房・いっちゃん家子ども食堂,押立ホッとすぺーす,グレイスキッチン,子ども食堂・なな,こどもの居場所作り＠府中,子ども食堂ワラビ,新町こどもカレー食堂,テラッツァ・いっちゃん家子ども食堂,とうきょうどけん子ども食堂,にっころ食堂,ひがしふちゅう駅前こども食堂,まんぷく子ども食堂,みんなの食堂,ラ・メンサ・デリ・アンジェリ 天使の食卓,ちいきのわ食堂,舞の樹子ども食堂,スマイルこども食堂　府中餃子バルあわ屋店"
+  },
+  "institutionName": {
+    "canonicalName": "こども食堂",
+    "shortName": "子ども食堂"
+  },
+  "localGovernmentLink": {
+    "title": "子ども食堂実施団体",
+    "uri": "https://www.city.fuchu.tokyo.jp/kosodate/shussan/oyako/kodomo_shokudo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/17",
+    "updater": "府中市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "府中市こども食堂ネットワーク「100人こども食堂」",
+      "uri": "https://fuchuks100.jimdofree.com/"
+    },
+    {
+      "title": "こども食堂MAP",
+      "uri": "https://www.city.fuchu.tokyo.jp/kosodate/shussan/oyako/kodomo_shokudo.files/202408MAP.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "「こども食堂」とは、こどもが一人でも行ける無料または低額の食堂で、こどもが安心して過ごせる地域の居場所です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024/10/09",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "毎月第3日曜日\t11：00～12：00,毎月第2日曜日\t12：00～14：00,月1回曜日不定\t時間不定,毎月第2土曜日\t12：00～13：00,毎月第2日曜日\t12：00～14：00,毎月第4月曜日\t17：00～19：00,毎月第2土曜日\t12：00～14：00,毎月第3土曜日\t12：00～14：00,毎月第4日曜日\t12：00～14：00,毎月第4土曜日\t17：30～19：30,毎月第2火曜日\t16：00～19：00,毎月第1水曜日\t17：30～19：00\n注記：11月～2月は\n17：00～18：30,毎月第4日曜日\t11：30～13：00,月1回曜日不定\t時間不定,毎月第2・4土曜日\t11：30～13：30,毎月第1日曜日\t12:00～14:00,毎週月曜日（祝祭日は休み）17:00～19:00 毎月第4日曜日\t11:30～13:30,毎日\t17:00～19:00",
+    "fromHM": null,
+    "toHM": null
+  }
+}

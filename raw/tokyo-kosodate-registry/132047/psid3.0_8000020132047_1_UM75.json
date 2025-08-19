@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132047;三鷹市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども政策部子ども育成課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132047",
+    "psid": "psid3.0+8000020132047+1+UM75"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三鷹市野崎一丁目1番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども政策部 子ども育成課",
+    "contactPhone": "0422-29-9672,0422-29-9673,0422-29-9674",
+    "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomo/index.html",
+    "zipCode": "1818555"
+  },
+  "cost": null,
+  "costConditions": "徴収については施設との直接契約となるため施設からとなります。\n\nより詳しくお知りになりたいかたは、「みたかきっずナビ（外部リンク）;https://kosodate-mitaka.mchh.jp/」をご覧ください。",
+  "description": "原則定員19名以下の少人数の単位で、0歳児から2歳児の児童を保育する施設の総称です\n現在は、家庭的保育と小規模保育の2類型があります。\n平成27年4月から、子ども・子育て支援新制度が施行されたことに伴い、それまでの各施設への直接申込みから、市役所に申し込みし利用調整を行う方式に変更されました。\n\n希望する施設の申し込み児童数が受け入れ可能数を上回った場合には、入所する児童を公正な方法で選考します。\n\n入所対象\n認可保育園と同様に保護者が就労等により家庭において十分保育することができない児童です。\n\n開所時間\n原則11時間開所ですが、家庭的保育（グループ型含む）は8時間専用施設です。施設によって、延長保育を実施しているところもあります。\n\n費用\n認可保育園と同様ですが、徴収については施設との直接契約となるため施設からとなります。\n\nより詳しくお知りになりたいかたは、「みたかきっずナビ（外部リンク）;https://kosodate-mitaka.mchh.jp/」をご覧ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "地域型保育（小規模保育・家庭的保育（保育ママ）・事業所内保育・居宅訪問型保育）の利用について",
+    "shortName": "地域型保育施設"
+  },
+  "localGovernmentLink": {
+    "title": "地域型保育施設",
+    "uri": "https://www.city.mitaka.lg.jp/c_service/001/001065.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "三鷹市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "市役所に申し込みし利用調整を行う方式に変更されました。\n\n希望する施設の申し込み児童数が受け入れ可能数を上回った場合には、入所する児童を公正な方法で選考します。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第20条、第29条、第30条",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "みたかきっずナビ（外部リンク）",
+      "uri": "https://kosodate-mitaka.mchh.jp/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "「地域型保育」事業は、平成27年度施行の「子ども・子育て支援新制度」による、市区町村の認可事業です。保育の必要な3歳未満の子どもを対象とした「小規模保育」「家庭的保育（保育ママ）」「事業所内保育」「居宅訪問型保育」の4種類があり、市区町村ごとに地域の保育ニーズに合わせたサービスを実施することになっています。三鷹市には現在、下記の保育サービスがあり、利用には保育の必要性の認定を受ける必要があります。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0歳児から2歳児の児童",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "認可保育園と同様に保護者が就労等により家庭において十分保育することができない児童"
+  },
+  "updateDate": "2015-07-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "原則11時間開所ですが、家庭的保育（グループ型含む）は8時間専用施設です。施設によって、延長保育を実施しているところもあります。",
+    "fromHM": null,
+    "toHM": null
+  }
+}

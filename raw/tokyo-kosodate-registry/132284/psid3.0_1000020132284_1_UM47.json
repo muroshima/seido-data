@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132284;あきる野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭部 こども家庭センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132284",
+    "psid": "psid3.0+1000020132284+1+UM47"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭部 こども家庭センター母子保健係",
+    "contactPhone": "042-550-3340",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊娠前からの相談をお受けしています\n不妊・不育ではないかと心配な方、思いがけない妊娠で悩んでいる方など、お気軽にご相談ください。\n\n妊娠を希望している。元気な赤ちゃんを産むには？\n子どもがほしいけど、なかなかできなくて・・・\n流産が続いている。大丈夫かな？\n思いがけず妊娠したかもしれない。誰にも相談できない・・・\nその他、妊娠する前からのからだや生活習慣に関することなど、保健師・助産師等専門職がお話を伺い、一緒に考えるお手伝いをしています。\n\n相談内容に応じて情報提供や専門相談窓口を紹介します。\n\n相談方法・申込み\n年齢、性別問わずどなたでもご利用いただけます。\n\n相談方法　　　電話相談（随時）、面談（事前予約）\n\n相談時間　　　午前10時～午後6時30分（日曜、祝日、第2水曜日、年末年始を除く）\n\n申込み・問い合わせ　　　こども家庭センター母子保健係（あきる野ルピア2階ここるの）　（042）550－3340",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "あきる野市の妊娠・出産に関する相談",
+    "shortName": "保健師・助産師相談（妊娠前からの相談）"
+  },
+  "localGovernmentLink": {
+    "title": "保健師・助産師相談（妊娠前からの相談）",
+    "uri": "https://www.city.akiruno.tokyo.jp/0000013815.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "あきる野市"
+  },
+  "procedureCounter": "こども家庭センター母子保健係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "不妊・不育ではないかと心配な方、思いがけない妊娠で悩んでいる方など、お気軽にご相談ください。\n\n妊娠を希望している。元気な赤ちゃんを産むには？\n子どもがほしいけど、なかなかできなくて・・・\n流産が続いている。大丈夫かな？\n思いがけず妊娠したかもしれない。誰にも相談できない・・・\nその他、妊娠する前からのからだや生活習慣に関することなど、保健師・助産師等専門職がお話を伺い、一緒に考えるお手伝いをしています。\n\n相談内容に応じて情報提供や専門相談窓口を紹介します。",
+  "support": {
+    "description": "妊娠する前からのからだや生活習慣に関することなど、保健師・助産師等専門職がお話を伺い、一緒に考えるお手伝いをしています。\n\n相談内容に応じて情報提供や専門相談窓口を紹介します。",
+    "materiallySupport": "妊娠する前からのからだや生活習慣に関することなど、保健師・助産師等専門職がお話を伺い、一緒に考えるお手伝いをしています。\n\n相談内容に応じて情報提供や専門相談窓口を紹介します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "不妊・不育ではないかと心配な方、思いがけない妊娠で悩んでいる方など"
+  },
+  "updateDate": "2024-04-12",
+  "useConsiderationFlag": false,
+  "utilization": "年齢、性別問わずどなたでもご利用いただけます。\n\n相談方法　　　電話相談（随時）、面談（事前予約）\n\n相談時間　　　午前10時～午後6時30分（日曜、祝日、第2水曜日、年末年始を除く）\n\n申込み・問い合わせ　　　こども家庭センター母子保健係（あきる野ルピア2階ここるの）　（042）550－3340",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

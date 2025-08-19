@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "131172;北区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部保健サービス課王子健康支援センター,健康部保健サービス課赤羽健康支援センター,健康部保健サービス課滝野川健康支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131172",
+    "psid": "psid3.0+8000020131172+1+UM52"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都北区東十条2-7-3　北区保健所1階,東京都北区赤羽南1-13-1　赤羽会館6階,東京都北区西ヶ原1-19-12",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部保健サービス課王子健康支援センター,健康部保健サービス課赤羽健康支援センター,健康部保健サービス課滝野川健康支援センター",
+    "contactPhone": "03-3919-7588,03-3903-6481,03-3915-0184",
+    "contactUrl": null,
+    "zipCode": "1140001,1150044,1140024"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "乳幼児健診（3歳児健診）\n乳幼児健診（3歳児健診）の実施について\n受診にあたっては感染症対策のため、以下の点についてご理解とご協力をお願いします。\n感染症対策のため、人数や時間等を調整して実施します。\n来所される方や、同居のご家族に発熱などの体調不良があった場合には、受診をお控えいただけますようお願いします。4歳になるまでに受診できない場合は、ご相談ください。\n質問票はご家庭で必ず記入をお願いします。視力・聴覚検査については、ご家庭で行い記入をお願いします。\n日時の変更を希望する場合は、ご連絡ください。指定の日時に最低限の人数で来所いただくよう、ご協力をお願いします。\n受付等で手指のアルコール消毒、健診中のマスクの着用のご協力をお願いします。\n\n健診内容\n身体測定、内科健診、歯科健診、視力検査、聴覚検査、尿検査、保健・栄養・心理相談、また予防接種の接種状況を伺います。\n\n日程および会場\n添付ファイルの3歳児健康診査会場および日程表にてご確認ください。\n対象者には各健康支援センターより2歳11か月頃に、3歳児健診のご案内を個別送付します。\n3歳児健康診査は、4歳になるまで受診可能です。お知らせの日程でご都合が悪い場合は、お住まいの地区担当の健康支援センターまでご連絡ください。\n\n各健康支援センターの担当地区\n王子健康支援センター\n　　王子・豊島・堀船・東十条・王子本町・岸町・中十条・十条台・十条仲原・上十条\n\n赤羽健康支援センター\n　　神谷・赤羽・西が丘・赤羽西・志茂・岩淵町・赤羽台・赤羽南・赤羽北・浮間・桐ヶ丘\n\n滝野川健康支援センター\n　　滝野川・西ヶ原・栄町・上中里・中里・昭和町・田端新町・東田端・田端\n\n添付ファイル\n3歳児健康診査会場および日程表（PDF：69KB）;https://www.city.kita.tokyo.jp/k-suishin/kosodate/kenshin/documents/r6sansaijikensin.pdf\n\n関連リンク\n子どもに安全をプレゼント　事故防止支援サイト（外部サイトへリンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/shussan/nyuyoji/kodomo_anzen.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "添付ファイルの3歳児健康診査会場および日程表にてご確認ください。\n対象者には各健康支援センターより2歳11か月頃に、3歳児健診のご案内を個別送付します。\n添付ファイル\n3歳児健康診査会場および日程表（PDF：69KB）;https://www.city.kita.tokyo.jp/k-suishin/kosodate/kenshin/documents/r6sansaijikensin.pdf",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "https://www.city.kita.tokyo.jp/k-suishin/kosodate/kenshin/documents/r6sansaijikensin.pdf",
+    "implementationName": "https://www.city.kita.tokyo.jp/k-suishin/kosodate/kenshin/documents/r6sansaijikensin.pdf"
+  },
+  "institutionName": {
+    "canonicalName": "3歳児健康診査",
+    "shortName": "乳幼児健診（3歳児健診）"
+  },
+  "localGovernmentLink": {
+    "title": "乳幼児健診（3歳児健診）",
+    "uri": "https://www.city.kita.tokyo.jp/k-suishin/kosodate/kenshin/nyuyoji-03.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "北区"
+  },
+  "procedureCounter": "各健康支援センターの担当地区\n王子健康支援センター\n　　王子・豊島・堀船・東十条・王子本町・岸町・中十条・十条台・十条仲原・上十条\n\n赤羽健康支援センター\n　　神谷・赤羽・西が丘・赤羽西・志茂・岩淵町・赤羽台・赤羽南・赤羽北・浮間・桐ヶ丘\n\n滝野川健康支援センター\n　　滝野川・西ヶ原・栄町・上中里・中里・昭和町・田端新町・東田端・田端",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "対象者には各健康支援センターより2歳11か月頃に、3歳児健診のご案内を個別送付します。\n\n3歳児健康診査は、4歳になるまで受診可能です。お知らせの日程でご都合が悪い場合は、お住まいの地区担当の健康支援センターまでご連絡ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第12条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "子どもに安全をプレゼント　事故防止支援サイト（外部サイトへリンク）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/shussan/nyuyoji/kodomo_anzen.html"
+    },
+    {
+      "title": "3歳児健康診査会場および日程表（PDF：69KB）",
+      "uri": "https://www.city.kita.tokyo.jp/k-suishin/kosodate/kenshin/documents/r6sansaijikensin.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "からだやこころの成長とともに社会性も急速に発達するこの頃は、人間形成の基礎となる大切な時期です。北区では3歳児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+  "support": {
+    "description": "身体測定、内科健診、歯科健診、視力検査、聴覚検査、尿検査、保健・栄養・心理相談、また予防接種の接種状況を伺います。",
+    "materiallySupport": "身体測定、内科健診、歯科健診、視力検査、聴覚検査、尿検査、保健・栄養・心理相談、また予防接種の接種状況を伺います。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "3歳児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "3歳児"
+  },
+  "updateDate": "2024-04-23",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

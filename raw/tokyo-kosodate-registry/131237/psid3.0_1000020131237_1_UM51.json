@@ -1,0 +1,126 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部健康サービス課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM51"
+  },
+  "belongings": "・1歳6か月児健康診査受診票（事前に記入してお持ちください）\n・母子健康手帳\n・健康保険証と乳幼児医療証（治療が行われたときに必要になります。）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部健康サービス課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "・身体測定\n・健康診査\n・保健指導（「受診票」に書かれている内容）\n\n子育て中に知っておきたいこと「子どもの心と体を育てよう」\nこの時期のお子さんの特徴や遊び方等について分かりやすい資料をご紹介します。\n\n「みてみて1歳6か月児～子どもの心と体を育てよう～」（PDF：2,005KB）（別ウィンドウで開きます）\nhttps://www.city.edogawa.tokyo.jp/documents/19169/1sai6kagetu_hattatu.pdf\n（編集協力）国立精神・神経医療研究センター精神保健研究所、児童・思春期精神保健研究部信濃医療福祉センター\n（発行元）諏訪保健福祉事務所管内保健業務研究会\n\nお子さんの発達発育等でご心配なことやご相談がありましたら、各健康サポートセンターまでお問合せください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "区内指定医療機関\n\n医療機関では、混雑や病気の感染を避けるため健康診査の日時を定めている場合がありますので、前もって医療機関にお問い合わせのうえ受診してください。"
+  },
+  "institutionName": {
+    "canonicalName": "1歳6か月児健康診査",
+    "shortName": "1歳6か月児健康診査（内科健診）"
+  },
+  "localGovernmentLink": {
+    "title": "1歳6か月児健康診査（内科健診）",
+    "uri": "https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kodomo/kenshin/16naika.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "里帰り等で江戸川区以外の自治体で1歳6か月児健康診査を希望する場合\n里帰り等の理由で他自治体で乳児健康診査をご希望の方は、下記の内容を電話等で事前にご確認のうえ、電子申請にて申請してください。\n\n依頼先の自治体が1歳6か月児健康診査を受け入れているかどうか\n依頼先の自治体名の確認（市区町村名）\n依頼先の自治体の部署名と住所（郵便番号を含む）\n申請方法\n電子申請サービスを通して申請する\n内容に不備等があった場合は母子保健係からご連絡します。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第12条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "1歳6か月の頃は乳児期から幼児期に移行する大切な時期です。江戸川区では1歳6か月児健康診査を実施しています。小児科医による診察のほか、歯科健診も行います。",
+  "support": {
+    "description": "・身体測定\n・健康診査\n・保健指導（「受診票」に書かれている内容）",
+    "materiallySupport": "・身体測定\n・健康診査\n・保健指導（「受診票」に書かれている内容）",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088",
+      "089",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "1歳6か月から2歳未満のお子様とその保護者\n（注）2歳になる日の前日まで受診できます。2歳を迎えると受診できません。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": 6
+    },
+    "lessThan": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "1歳6か月から2歳未満のお子様とその保護者\n（注）2歳になる日の前日まで受診できます。2歳を迎えると受診できません。\n\n通知時期\n1歳5か月に達する月の下旬\n（1歳6か月児歯科健診のご案内と一緒にお送りします。）"
+  },
+  "updateDate": "2023-12-13",
+  "useConsiderationFlag": false,
+  "utilization": "1歳5か月に達する月の下旬\n（1歳6か月児歯科健診のご案内と一緒にお送りします。）",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

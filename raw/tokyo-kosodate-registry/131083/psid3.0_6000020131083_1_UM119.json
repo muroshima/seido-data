@@ -1,0 +1,171 @@
+{
+  "area": {
+    "areaCode": "131083;江東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部 保健予防課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131083",
+    "psid": "psid3.0+6000020131083+1+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "出張地区別　育児相談\nお住まいの地区で育児相談を開催しています\n保健師が地域に出張し、乳児期のお子さんの健康や発達、育児や遊びなどに関する相談、保護者どうしの交流を行っています。\n\nお住まいの地域を担当する保健相談所のチラシをご覧ください\n参加をご希望の方は、保健相談所担当一覧をご確認の上、下記の保健相談所のチラシをご覧ください。;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html\n\n育児相談の開催場所、開催日、時間、持ち物、問い合わせ先などをご案内しています。\n\n開催会場により、対象になるお住いの地域やお子さんの月齢が異なりますので、ご注意ください。\n\n城東保健相談所チラシ（PDF：949KB）;https://www.city.koto.lg.jp/260552/documents/r6jyoto-ikujisoudan.pdf\n\n深川保健相談所チラシ（PDF：825KB）;https://www.city.koto.lg.jp/260552/documents/r6fukagawa-ikujisoudan.pdf\n\n深川南部保健相談所チラシ（PDF：2,633KB）;https://www.city.koto.lg.jp/260552/documents/r6fukagawananbu-ikujisoudan.pdf\n\n城東南部保健相談所チラシ（PDF：625KB）;https://www.city.koto.lg.jp/260552/documents/r6jyotonanbu-ikujisoudan.pdf\n\nお問い合わせ施設\n　●城東保健相談所　電話：03-3637-6521;https://www.city.koto.lg.jp/261001/kuse/sosiki/kenkobu/10045.html\n\n　●深川保健相談所　電話：03-3641-1181;https://www.city.koto.lg.jp/261101/kuse/sosiki/kenkobu/10046.html\n\n　●深川南部保健相談所　電話：03-5632-2291;https://www.city.koto.lg.jp/261201/kuse/sosiki/kenkobu/10047.html\n\n　●城東南部保健相談所　電話：03-5606-5001;https://www.city.koto.lg.jp/261301/kuse/sosiki/kenkobu/10048.html\n\n関連ページ\n保健相談所担当一覧;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html\n育児学級;https://www.city.koto.lg.jp/261301/kodomo/kosodate/service/6897.html\n母乳教室;https://www.city.koto.lg.jp/260552/bonyukyoshitu.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "江東区の子育てに関する相談",
+    "shortName": "出張地区別　育児相談"
+  },
+  "localGovernmentLink": {
+    "title": "出張地区別　育児相談",
+    "uri": "https://www.city.koto.lg.jp/260552/syuttyouikujisoudan.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-20",
+    "updater": "江東区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "633KB）",
+      "uri": "https://www.city.koto.lg.jp/260552/documents/r6jyotonanbu-ikujisoudan.pdf"
+    },
+    {
+      "title": "城東南部保健相談所",
+      "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html"
+    },
+    {
+      "title": "保健相談所担当一覧",
+      "uri": "https://www.city.koto.lg.jp/261301/kodomo/kosodate/service/6897.html"
+    },
+    {
+      "title": "深川南部保健相談所チラシ（PDF：2",
+      "uri": "https://www.city.koto.lg.jp/260552/documents/r6fukagawananbu-ikujisoudan.pdf"
+    },
+    {
+      "title": "保健相談所担当一覧",
+      "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html"
+    },
+    {
+      "title": "育児学級",
+      "uri": "https://www.city.koto.lg.jp/260552/bonyukyoshitu.html"
+    },
+    {
+      "title": "深川保健相談所",
+      "uri": "https://www.city.koto.lg.jp/261201/kuse/sosiki/kenkobu/10047.html"
+    },
+    {
+      "title": "深川南部保健相談所",
+      "uri": "https://www.city.koto.lg.jp/261301/kuse/sosiki/kenkobu/10048.html"
+    },
+    {
+      "title": "城東南部保健相談所チラシ（PDF：625KB）",
+      "uri": "https://www.city.koto.lg.jp/261001/kuse/sosiki/kenkobu/10045.html"
+    },
+    {
+      "title": "城東保健相談所チラシ（PDF：949KB）",
+      "uri": "https://www.city.koto.lg.jp/260552/documents/r6jyoto-ikujisoudan.pdf"
+    },
+    {
+      "title": "城東保健相談所",
+      "uri": "https://www.city.koto.lg.jp/261101/kuse/sosiki/kenkobu/10046.html"
+    },
+    {
+      "title": "深川保健相談所チラシ（PDF：825KB）",
+      "uri": "https://www.city.koto.lg.jp/260552/documents/r6fukagawa-ikujisoudan.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保健師が地域に出張し、乳児期のお子さんの健康や発達、育児や遊びなどに関する相談、保護者どうしの交流を行っています。",
+  "support": {
+    "description": "保健師が地域に出張し、乳児期のお子さんの健康や発達、育児や遊びなどに関する相談、保護者どうしの交流を行っています。\n\nお住まいの地域を担当する保健相談所のチラシをご覧ください\n参加をご希望の方は、保健相談所担当一覧をご確認の上、下記の保健相談所のチラシをご覧ください。\n\n育児相談の開催場所、開催日、時間、持ち物、問い合わせ先などをご案内しています。\n\n開催会場により、対象になるお住いの地域やお子さんの月齢が異なりますので、ご注意ください。\n\n城東保健相談所チラシ（PDF：949KB）;https://www.city.koto.lg.jp/260552/documents/r6jyoto-ikujisoudan.pdf\n\n深川保健相談所チラシ（PDF：825KB）;https://www.city.koto.lg.jp/260552/documents/r6fukagawa-ikujisoudan.pdf\n\n深川南部保健相談所チラシ（PDF：2,633KB）;https://www.city.koto.lg.jp/260552/documents/r6fukagawananbu-ikujisoudan.pdf\n\n城東南部保健相談所チラシ（PDF：625KB）;https://www.city.koto.lg.jp/260552/documents/r6jyotonanbu-ikujisoudan.pdf",
+    "materiallySupport": "保健師が地域に出張し、乳児期のお子さんの健康や発達、育児や遊びなどに関する相談、保護者どうしの交流を行っています。\n\nお住まいの地域を担当する保健相談所のチラシをご覧ください\n参加をご希望の方は、保健相談所担当一覧をご確認の上、下記の保健相談所のチラシをご覧ください。\n\n育児相談の開催場所、開催日、時間、持ち物、問い合わせ先などをご案内しています。\n\n開催会場により、対象になるお住いの地域やお子さんの月齢が異なりますので、ご注意ください。\n\n城東保健相談所チラシ（PDF：949KB）;https://www.city.koto.lg.jp/260552/documents/r6jyoto-ikujisoudan.pdf\n\n深川保健相談所チラシ（PDF：825KB）;https://www.city.koto.lg.jp/260552/documents/r6fukagawa-ikujisoudan.pdf\n\n深川南部保健相談所チラシ（PDF：2,633KB）;https://www.city.koto.lg.jp/260552/documents/r6fukagawananbu-ikujisoudan.pdf\n\n城東南部保健相談所チラシ（PDF：625KB）;https://www.city.koto.lg.jp/260552/documents/r6jyotonanbu-ikujisoudan.pdf",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "乳児期のお子さん"
+  },
+  "updateDate": "2024-03-28",
+  "useConsiderationFlag": false,
+  "utilization": "参加をご希望の方は、保健相談所担当一覧をご確認の上、下記の保健相談所のチラシをご覧ください。;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html\n\n育児相談の開催場所、開催日、時間、持ち物、問い合わせ先などをご案内しています。\n\n開催会場により、対象になるお住いの地域やお子さんの月齢が異なりますので、ご注意ください。\n\n城東保健相談所チラシ（PDF：949KB）;https://www.city.koto.lg.jp/260552/documents/r6jyoto-ikujisoudan.pdf \n\n深川保健相談所; チラシ（PDF：825KB）;https://www.city.koto.lg.jp/260552/documents/r6fukagawa-ikujisoudan.pdf\n\n深川南部保健相談所チラシ（PDF：2,633KB）;https://www.city.koto.lg.jp/260552/documents/r6fukagawananbu-ikujisoudan.pdf\n\n城東南部保健相談所チラシ（PDF：625KB）;https://www.city.koto.lg.jp/260552/documents/r6jyotonanbu-ikujisoudan.pdf",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

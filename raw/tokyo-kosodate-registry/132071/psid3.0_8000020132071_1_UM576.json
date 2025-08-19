@@ -1,0 +1,316 @@
+{
+  "area": {
+    "areaCode": "132071;昭島市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "都市整備部 管理課 公園管理係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132071",
+    "psid": "psid3.0+8000020132071+1+UM576"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "昭島市東町5-11-43",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "都市整備部 管理課 公園管理係",
+    "contactPhone": "042-541-0046",
+    "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000083.html",
+    "zipCode": "1960033"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "https://www.city.akishima.lg.jp/s079/010/010/040/020/20171002110621.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "児童遊園",
+    "shortName": "児童遊園"
+  },
+  "localGovernmentLink": {
+    "title": "児童遊園",
+    "uri": "https://www.city.akishima.lg.jp/s079/010/010/040/020/20171002110621.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "昭島市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "みのり児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/380/20140821194843.html"
+    },
+    {
+      "title": "武蔵野二丁目東児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/450/20140821193334.html"
+    },
+    {
+      "title": "富士見児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/420/20140821194452.html"
+    },
+    {
+      "title": "はじめ児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/270/20140821200510.html"
+    },
+    {
+      "title": "大神町四丁目児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/050/20140821202602.html"
+    },
+    {
+      "title": "郷地稲荷神社児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/070/20140821205337.html"
+    },
+    {
+      "title": "松原町一丁目東児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/340/20140821200034.html"
+    },
+    {
+      "title": "松原町一丁目児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/320/20140821200156.html"
+    },
+    {
+      "title": "松原町三丁目児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/350/20140821195957.html"
+    },
+    {
+      "title": "福島神社児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/280/20140821200432.html"
+    },
+    {
+      "title": "松原児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/310/20140821200236.html"
+    },
+    {
+      "title": "大六天社児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/150/20140821201739.html"
+    },
+    {
+      "title": "武蔵野三丁目西児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/470/20140821192816.html"
+    },
+    {
+      "title": "田中町一丁目児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/160/20140821201703.html"
+    },
+    {
+      "title": "郷地東児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/080/20140821202424.html"
+    },
+    {
+      "title": "田中町三丁目児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/170/20140821201631.html"
+    },
+    {
+      "title": "緑ガ丘東児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/360/20140821195837.html"
+    },
+    {
+      "title": "東町児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/020/20140821202741.html"
+    },
+    {
+      "title": "武蔵野三丁目児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/460/20140821193050.html"
+    },
+    {
+      "title": "緑町二丁目児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/370/20140821195704.html"
+    },
+    {
+      "title": "むさしの児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/410/20140821194611.html"
+    },
+    {
+      "title": "武蔵野二丁目北児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/440/20140821194239.html"
+    },
+    {
+      "title": "森ノ上児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/490/20140821185449.html"
+    },
+    {
+      "title": "小荷田児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/180/20140821201600.html"
+    },
+    {
+      "title": "宮沢文化児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/330/20140821200117.html"
+    },
+    {
+      "title": "武蔵野二丁目児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/430/20140821194410.html"
+    },
+    {
+      "title": "拝島天神社児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/240/20140821200729.html"
+    },
+    {
+      "title": "拝島町四丁目児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/250/20140821200654.html"
+    },
+    {
+      "title": "拝島町四丁目南児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/260/20140821200602.html"
+    },
+    {
+      "title": "松原町一丁目中児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/090/20140821202355.html"
+    },
+    {
+      "title": "",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/300/20140821200313.html"
+    },
+    {
+      "title": "東町北部児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/040/20140821202641.html"
+    },
+    {
+      "title": "美堀児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/390/20140821194759.html"
+    },
+    {
+      "title": "美堀町一丁目児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/400/20140821194715.html"
+    },
+    {
+      "title": "昭和町一丁目児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/110/20140821202256.html"
+    },
+    {
+      "title": "経塚下児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/060/20140821202529.html"
+    },
+    {
+      "title": "諏訪神社児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/140/20140821202008.html"
+    },
+    {
+      "title": "上川原児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/120/20140821202220.html"
+    },
+    {
+      "title": "駒形神社児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/100/20140821202325.html"
+    },
+    {
+      "title": "東町一丁目児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/030/20140821202713.html"
+    },
+    {
+      "title": "東ノ岡児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/210/20140821200920.html"
+    },
+    {
+      "title": "東ノ岡北児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/220/20140821200845.html"
+    },
+    {
+      "title": "朝日町五丁目児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/010/20140821203450.html"
+    },
+    {
+      "title": "玉川児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/190/20140821201529.html"
+    },
+    {
+      "title": "中神町二丁目児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/230/20140821200811.html"
+    },
+    {
+      "title": "玉川町四丁目児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/200/20140821201445.html"
+    },
+    {
+      "title": "睦会児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/480/20140821192733.html"
+    },
+    {
+      "title": "福島第五児童遊園",
+      "uri": "https://www.city.akishima.lg.jp/map/010/040/010/290/20140821200353.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童遊園は、屋外にある公園に類似した施設です。18歳未満のお子さんに健全な遊びを提供し、健康増進を図るとともに、豊かな情操を育むことを目的としています。\n昭島市の児童遊園の一覧は、昭島市サイトなどでお知らせしています。",
+  "support": {
+    "description": "https://www.city.akishima.lg.jp/s079/010/010/040/020/20171002110621.html",
+    "materiallySupport": "https://www.city.akishima.lg.jp/s079/010/010/040/020/20171002110621.html",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087",
+      "092"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2023-03-08",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

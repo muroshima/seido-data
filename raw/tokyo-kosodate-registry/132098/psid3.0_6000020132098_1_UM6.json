@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健所保健予防課母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+1+UM6"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健所保健予防課母子保健係",
+    "contactPhone": "042-725-5471",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "一覧表に記載のある医療機関において、受診票記載の検査項目を受診した場合、公費負担の対象となります。\n\nなお、妊婦健康診査受診票で受けられる検査内容以外の検査や産科診察料等については、自己負担となります。\nまた、公費負担の妊婦健康診査のみを受診した場合でも、公費負担額を超えた場合には、自己負担金が発生します。",
+  "description": "14回分の妊婦健康診査受診票と1回分の妊婦超音波検査受診票、1回分の妊婦子宮頸がん検診受診票をお渡しします。\n母子健康手帳と一緒にお渡しする「母と子の保健バッグ」に入っていますので、受け取った際に確認してください。\n\n2023年10月以降に妊娠届を出した方は、超音波検査の受診票が3回分追加となります。\n\nなお、受診票の助成対象となるのは、母子手帳発行後の受診分のみです。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "東京都内、及び相模原市、横浜市、川崎市、大和市など近隣市の医療機関の一部"
+  },
+  "institutionName": {
+    "canonicalName": "妊婦健康診査",
+    "shortName": "妊婦健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "妊婦健康診査",
+    "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/8/1140.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "妊娠届を提出",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "多胎妊婦の追加助成制度について【2023年度開始】\n\n妊娠中の検査に関する情報サイト（外部リンク：令和4年度出生前検査認証制度等広報啓発事業運営事務局）",
+      "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/8/11841.html;https://prenatal.cfa.go.jp/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊婦さんやお腹の赤ちゃんの健康状態を定期的に確認するのが妊婦健康診査です。妊婦さんの健康診査は、一般的に出産までに14回程度受診するのが望ましいとされています。出産までの健診を受ける際の経済的な負担を軽くするため、妊婦健康診査費用の一部を助成する【妊婦健康診査受診票】をお渡ししています。",
+  "support": {
+    "description": "14回分の妊婦健康診査受診票と1回分の妊婦超音波検査受診票、1回分の妊婦子宮頸がん検診受診票をお渡しします。\n母子健康手帳と一緒にお渡しする「母と子の保健バッグ」に入っていますので、受け取った際に確認してください。\n\n2023年10月以降に妊娠届を出した方は、超音波検査の受診票が3回分追加となります。\n\nなお、受診票の助成対象となるのは、母子手帳発行後の受診分のみです。",
+    "materiallySupport": "14回分の妊婦健康診査受診票と1回分の妊婦超音波検査受診票、1回分の妊婦子宮頸がん検診受診票（2023年10月以降に妊娠届を出した方は、超音波検査の受診票が3回分追加）",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "妊娠届出をした妊婦",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊娠届出をした妊婦"
+  },
+  "updateDate": "2023-11-14",
+  "useConsiderationFlag": false,
+  "utilization": "妊婦健康診査受診票について\n妊婦健康診査をどこで受診するかによって、受診票の使用方法が異なります。\n\n例1：東京都内の医療機関で受診する場合\n・町田市内：受診票使用可\n・町田市外：基本的には受診票使用可（受診票が使用出来るか、医療機関に直接お問い合わせください）\n例2：助産所で受診する場合\n・受診票使用不可。\n里帰り出産等における妊婦健康診査受診費用助成制度を利用し、助成を受けてください。\n里帰り出産等における妊婦健康診査受診費用助成制度\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/8/1141.html\n詳細はこちらからご確認ください。\n\n例3：東京都外の医療機関で受診する場合\n・近隣市（相模原市、横浜市、川崎市、大和市等）の一部の医療機関では使用可（下記参照）。それ以外は使用不可。\n使用不可の医療機関の場合は、里帰り等妊婦健康診査等受診費助成制度を利用し、助成を受けてください。\n里帰り出産等における妊婦健康診査受診費用助成制度\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/8/1141.html\n詳細はこちらからご確認ください。\n\n途中で医療機関を変更する場合、受診票を使用できるか改めてご確認ください。\n\nご不明な点等ありましたら、お気軽に保健予防課（電話：042-725-5471）までお問い合わせください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

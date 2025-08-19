@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131211;足立区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "衛生部保健予防課保健予防係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020131211",
+    "psid": "psid3.0+2000020131211+1+UM7"
+  },
+  "belongings": "未使用の「妊婦健康診査受診票」「妊婦超音波検査（経腹法）受診票」「妊婦子宮頸がん検診受診票」「新生児聴覚検査受診票」\n※多胎（2子以上）妊娠時に、里帰り出産等で受診票を使えなかった方で、受診回数が15回以上になった方につきましても、15回目以降の分を助成します。\n自費で支払った妊婦健康診査、新生児聴覚検査費用の領収書・明細書\n（母子健康手帳に受診日の記載があるもの）\n※原本による提出。申請受付時、領収書に助成額を記載後はコピーにて提出可。\n母子健康手帳（「妊娠中の経過」欄で受診状況が確認できること）\n銀行等の口座番号がわかるもの",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "衛生部保健予防課保健予防係",
+    "contactPhone": "03-3880-5892",
+    "contactUrl": "https://www.city.adachi.tokyo.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "里帰り出産等の妊婦健康診査費用等の助成\n事業の案内\n出産のための里帰り等により都外医療機関で受診した場合や助産所での検査により、都内共通の妊婦健康診査受診票等や新生児聴覚検査受診票が使用できなかった方に対して、費用の一部を助成します。\n\n対象者となる方\n区内に住民登録のある妊産婦の方で、出産のため都外に里帰り等をし、都内の契約医療機関で妊婦健康診査、新生児聴覚検査を受診することができなかった方。\n\n※以下は、助成対象外となりますのでご注意ください。\n\n【1】妊娠判定時検査分\n\n【2】母子健康手帳交付以前に受診した健診分\n\n【3】海外で受診した健診分\n\n【4】医療保険適用診療分\n\n【5】健診（自費）に伴わない超音波検査分・子宮頸がん検診分\n\n【6】都内の委託医療機関で受診票を使用せず受診した健診分\n\n【7】教材費・文書料・予防接種費用等の受診票検査項目に対応しない分\n\n【8】先に税務署で確定申告による医療費控除の申請をしてしまった分\n\n手続き\n未使用の「妊婦健康診査受診票」「妊婦超音波検査（経腹法）受診票」「妊婦子宮頸がん検診受診票」「新生児聴覚検査受診票」\n※多胎（2子以上）妊娠時に、里帰り出産等で受診票を使えなかった方で、受診回数が15回以上になった方につきましても、15回目以降の分を助成します。\n自費で支払った妊婦健康診査、新生児聴覚検査費用の領収書・明細書\n（母子健康手帳に受診日の記載があるもの）\n※原本による提出。申請受付時、領収書に助成額を記載後はコピーにて提出可。\n母子健康手帳（「妊娠中の経過」欄で受診状況が確認できること）\n銀行等の口座番号がわかるもの\n申請期限\n出産した子の1歳誕生日の前日まで\n\n手続き先\n申請の受付は保健予防課保健予防係（区役所南館2階）窓口のみとなります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "里帰り出産時の妊婦健康診査の費用助成",
+    "shortName": "里帰り出産等の妊婦健康診査費用等の助成"
+  },
+  "localGovernmentLink": {
+    "title": "里帰り出産等の妊婦健康診査費用等の助成",
+    "uri": "https://www.city.adachi.tokyo.jp/hoken/k-kyoiku/kosodate/ninshin-satogaeri.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "足立区"
+  },
+  "procedureCounter": "保健予防課保健予防係（区役所南館2階）窓口",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請の受付は保健予防課保健予防係（区役所南館2階）窓口のみとなります。",
+  "procedurePeriod": {
+    "conditions": "出産した子の1歳誕生日の前日まで",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "区内に住民登録のある妊産婦の方で、出産のため都外に里帰り等をし、都内の契約医療機関で妊婦健康診査、新生児聴覚検\n査を受診することができなかった方",
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "足立区にお住まいの妊婦さんが、里帰り出産などで足立区の委託医療機関以外の病院や助産所で妊婦健康診査を受診した場合、その健診にかかった費用の一部を償還払い（後払い）します。",
+  "support": {
+    "description": "出産のための里帰り等により都外医療機関で受診した場合や助産所での検査により、都内共通の妊婦健康診査受診票等や新生児聴覚検査受診票が使用できなかった方に対して、費用の一部を助成します\n※以下は、助成対象外となりますのでご注意ください。\n\n【1】妊娠判定時検査分\n\n【2】母子健康手帳交付以前に受診した健診分\n\n【3】海外で受診した健診分\n\n【4】医療保険適用診療分\n\n【5】健診（自費）に伴わない超音波検査分・子宮頸がん検診分\n\n【6】都内の委託医療機関で受診票を使用せず受診した健診分\n\n【7】教材費・文書料・予防接種費用等の受診票検査項目に対応しない分\n\n【8】先に税務署で確定申告による医療費控除の申請をしてしまった分",
+    "materiallySupport": null,
+    "monetarySupport": "都内共通の妊婦健康診査受診票等や新生児聴覚検査受診票が使用できなかった方に対して、費用の一部を助成します"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": "出産した子の1歳誕生日の前日まで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内に住民登録のある妊産婦の方で、出産のため都外に里帰り等をし、都内の契約医療機関で妊婦健康診査、\n新生児聴覚検査を受診することができなかった方"
+  },
+  "updateDate": "2021-04-07",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

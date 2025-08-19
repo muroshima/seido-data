@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132080;調布市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども生活部保育課 ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020132080",
+    "psid": "psid3.0+7000020132080+1+UM75"
+  },
+  "belongings": null,
+  "capacity": "5人",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-499-6101",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども生活部保育課",
+    "contactPhone": "042-481-7132,042-481-7133,042-481-7134,042-481-7758",
+    "contactUrl": "https://www.city.chofu.lg.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "たんぽぽ(家庭的保育事業)\n\nたんぽぽ\n住所 郵便番号182-0015　調布市八雲台1-22-1八雲台クリーンハイム103\n電話 042-444-5718\n設置主体 個人\n入園申込\n保育課保育・幼稚園係\n認可保育園の申し込み;https://www.city.chofu.lg.jp/kosodatekyouiku/hoikuservice/ninka/4gatsunyuuen/index.html\n定員\n5人(0歳児から2歳児)\n受入れ開始年齢は生後57日目以降\n開所時間\n通常開所時間は午前8時30分から午後4時30分まで。\n延長保育は午前8時から午前8時30分まで、午後4時30分から午後6時まで。\n家庭的保育の利用者は、一律保育短時間認定となります。標準時間での利用はできません。\n通常開所時間以外での利用の際は、30分ごとに300円の延長料金がかかります。\n休園日　土曜日、日曜日、国民の祝日及び12月29日から1月3日まで。伝染病等と特別な理由により保育できない場合も、休園となります。\n利用者負担額(保育料)\n利用者負担額(保育料)の決定方法や利用者負担額(保育料)基準額は認可保育園と同じですが、支払先は事業所になります。\n認可保育園の保育料;https://www.city.chofu.lg.jp/050020/p028008.html\n施設の状況\n事業開始年月日　平成29年4月1日(平成24年4月1日から平成29年3月31日までは家庭福祉員として運営)\n建物構造　鉄筋3階建　うち1階103号室を保育所として使用\n保育所使用延床面積　50平方メートル",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "調布市八雲台1-22-1八雲台クリーンハイム103",
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "地域型保育（小規模保育・家庭的保育（保育ママ）・事業所内保育・居宅訪問型保育）の利用について",
+    "shortName": "家庭的保育事業"
+  },
+  "localGovernmentLink": {
+    "title": "たんぽぽ(家庭的保育事業)",
+    "uri": "https://www.city.chofu.lg.jp/050020/p028073.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "調布市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第20条、第29条、第30条",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "認可保育園の申し込み",
+      "uri": "https://www.city.chofu.lg.jp/kosodatekyouiku/hoikuservice/ninka/4gatsunyuuen/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "「地域型保育」事業は、平成27年度施行の「子ども・子育て支援新制度」による、市区町村の認可事業です。保育の必要な3歳未満の子どもを対象とした「小規模保育」「家庭的保育（保育ママ）」「事業所内保育」「居宅訪問型保育」の4種類があり、市区町村ごとに地域の保育ニーズに合わせたサービスを実施することになっています。調布市には現在、下記の保育サービスがあり、利用には保育の必要性の認定を受ける必要があります。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次のすべての要件を満たしている児童です。\n\n調布市に住所を有する児童\n生後57日以上3歳未満(入所時)の健康な児童\n保護者が働いているなど昼間家庭で保育できない児童\n"
+  },
+  "updateDate": "2018-02-05",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

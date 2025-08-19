@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "青戸保健センター保健サービス係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+1+UM5009"
+  },
+  "belongings": "申請時に必要なもの\n親子健康手帳（母子健康手帳）\n官公署発行の写真付の本人確認資料1点（運転免許証、マイナンバーカード、パスポート、在留カードなど）※写真付の本人確認資料をお持ちでない場合は、健康保険証、年金手帳など2点\n代理人が申請する場合は、委任状と代理人本人の確認資料が必要となります。\n\n変更申請時に必要なもの\n・利用承認通知書\n・産婦健康診査受診票・乳房ケア受診票\n・親子健康手帳（母子健康手帳）\n・官公署発行の写真付の本人確認資料1点（運転免許証、マイナンバーカード、パスポート、在留カードなど）※写真付の本人確認資料をお持ちでない場合は、健康保険証、年金手帳など2点\n・代理人が申請する場合は、委任状と代理人本人の確認資料が必要となります。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区青戸4-15-14　健康プラザかつしか内",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "青戸保健センター保健サービス係",
+    "contactPhone": "03-3602-1284",
+    "contactUrl": null,
+    "zipCode": "1250062"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "産婦健康診査の費用助成",
+    "shortName": "産婦健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "産婦健康診査",
+    "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1030308/1025945.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "葛飾区公式YouTube　マタニティサロン「授乳の仕方」（外部リンク）",
+      "uri": "https://www.youtube.com/watch?v=w3SVciMEDYU"
+    },
+    {
+      "title": "葛飾区公式YouTubeパパ向け動画　パパがカギを握る！～ママの体と心の変化を知ろう～（外部リンク）",
+      "uri": "https://www.youtube.com/watch?v=cxNSkcEje2g"
+    },
+    {
+      "title": "葛飾区公式YouTube　マタニティサロン「産後の生活」（外部リンク）",
+      "uri": "https://www.youtube.com/watch?v=WXmBBNBRW84"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "実施医療機関で、産婦健康診査を受けられます。",
+  "support": {
+    "description": "利用回数\n1回の出産につき2回以内\n・産後2週間健康診査：産後2週間～1か月未満\n・産後1か月健康診査：産後1か月～2か月未満\n\n費用\n1回あたり5,000円を区が負担します。\n1回あたり5,000円を差し引いた金額が自己負担となります。",
+    "materiallySupport": null,
+    "monetarySupport": "1回あたり5,000円を区が負担します。\n1回あたり5,000円を差し引いた金額が自己負担となります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": 2
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "葛飾区に住民登録がある産後2か月未満の方"
+  },
+  "updateDate": "2024-06-29",
+  "useConsiderationFlag": false,
+  "utilization": "1　利用申請\n区から利用承認通知書の交付を受けます。\n利用者ご本人がゆりかご面接と同時に行う場合は、下記からご予約し、保健センター・子ども未来プラザ・基幹型児童館・区役所子育て相談窓口までお越しください。\n\n・ゆりかご面接;https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1014924.html\n\n産後ケア申請のみを行う場合や代理人が申請する場合は、保健センターまでお越しください。\n\n2　予約\n出産後、実施医療機関に予約してください。\n\n3　利用\n産婦健康診査受診票、産婦健康診査アンケート、利用承認通知書、親子健康手帳（母子健康手帳）をご持参ください。\n\n4　お支払い\n区の負担額を差し引いた金額をお支払いください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

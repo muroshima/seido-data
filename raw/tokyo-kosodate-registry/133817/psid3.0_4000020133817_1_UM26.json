@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "133817;三宅村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉健康課 福祉係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "4000020133817",
+    "psid": "psid3.0+4000020133817+1+UM26"
+  },
+  "belongings": "印鑑\n申請者名義の普通預金通帳\n申請者および児童の戸籍謄本(外国籍の方は登録原票記載事項証明書)\n住民票(世帯全員)\n市区町村長の発行する平成22年度所得証明書(源泉徴収票不可)\n(注)その他、ご家庭の状況によって、提出して頂く書類があります。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三宅島三宅村阿古497",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "三宅村役場臨時庁舎 福祉健康課 福祉係",
+    "contactPhone": "04994-5-0902",
+    "contactUrl": null,
+    "zipCode": "1001212"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "児童扶養手当\n平成22年8月から父子家庭の方にも児童扶養手当が支給されます。詳しくは「児童扶養手当のお知らせPDFファイル(157KB);https://www.vill.miyake.tokyo.jp/kakuka/sonminseikatsu/files/fusikatei.pdf」をご覧ください。\n下記のいずれかの状態にある18歳年度末までの児童(中度以上の障がいの程度にある20歳未満の児童を含む)を養育している方に支給されます｡所得制限があります。\n\n父母が婚姻解消\n父または母が死亡\n父または母が重度の障がい\n父または母が生死不明\n父または母が児童を引き続き1年以上遺棄している\n父または母が法令により引き続き1年以上拘禁されている\n婚姻によらないで出生した児童\n手当月額\n1人目の児童(全部支給)：45,500円\n1人目の児童(一部支給)：10,740円から45,490円(所得に応じて額を決定)\n2人目の児童10,750円加算3人目以降の児童6,450円加算\n所得制限\n所得制限額表 一覧\n|扶養人数|申請者(全部支給)|申請者(一部支給)|扶養義務者・配偶者|\n|:----|:----|:----|:----|\n|0人|190,000円|1,920,000円|2,360,000円|\n|1人|570,000円|2,300,000円|2,740,000円|\n|2人|950,000円|2,680,000円|3,120,000円|\n|3人|1,330,000円|3,060,000円|3,500,000円|\n|4人|1,710,000円|3,440,000円|3,880,000円|\n|5人以降|1人増えるごとに380,000円加算|1人増えるごとに380,000円加算|1人増えるごとに380,000円加算|\n\n(注)扶養義務者とは申請者と同居している直系血族(父母、祖父母、子、孫など)および兄弟姉妹のことです。\n\n申請に必要なもの\n認定請求書(窓口にあります)\n印鑑\n申請者名義の普通預金通帳\n申請者および児童の戸籍謄本(外国籍の方は登録原票記載事項証明書)\n住民票(世帯全員)\n市区町村長の発行する平成22年度所得証明書(源泉徴収票不可)\n(注)その他、ご家庭の状況によって、提出して頂く書類があります。\n\n支払月\n12月(8～11月分)\n4月(12～3月分)\n8月(4～7月分)",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "児童扶養手当",
+    "shortName": "児童扶養手当"
+  },
+  "localGovernmentLink": {
+    "title": "児童手当と医療費助成",
+    "uri": "https://www.vill.miyake.tokyo.jp/kakuka/sonminseikatsu/teate_josei.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-19",
+    "updater": "三宅村"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第4条～第8条",
+    "regulationName": "児童扶養手当法"
+  },
+  "relatedLink": [
+    {
+      "title": "児童扶養手当のお知らせPDFファイル(157KB)",
+      "uri": "https://www.vill.miyake.tokyo.jp/kakuka/sonminseikatsu/files/fusikatei.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童扶養手当は、父母の離婚などにより、父または母と生計を同じくしていないお子さんが養育されている家庭の生活の安定と自立を助け、お子さんが心身ともに健やかに成長するよう役立ててもらうために､父または母､もしくは父または母に代わってお子さんを養育している方に支給されます｡\nまた、ひとり親家庭でなくても、父または母に重度の障がいがある場合には、児童扶養手当が支給されます｡",
+  "support": {
+    "description": "手当月額\n1人目の児童(全部支給)：45,500円\n1人目の児童(一部支給)：10,740円から45,490円(所得に応じて額を決定)\n2人目の児童10,750円加算3人目以降の児童6,450円加算\n支払月\n12月(8～11月分)\n4月(12～3月分)\n8月(4～7月分)",
+    "materiallySupport": null,
+    "monetarySupport": "手当月額\n1人目の児童(全部支給)：45,500円\n1人目の児童(一部支給)：10,740円から45,490円(所得に応じて額を決定)\n2人目の児童10,750円加算3人目以降の児童6,450円加算\n支払月\n12月(8～11月分)\n4月(12～3月分)\n8月(4～7月分)"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "18歳年度末までの児童(中度以上の障がいの程度にある20歳未満の児童を含む)を養育している方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "下記のいずれかの状態にある18歳年度末までの児童(中度以上の障がいの程度にある20歳未満の児童を含む)を養育している方に支給されます｡所得制限があります。\n\n父母が婚姻解消\n父または母が死亡\n父または母が重度の障がい\n父または母が生死不明\n父または母が児童を引き続き1年以上遺棄している\n父または母が法令により引き続き1年以上拘禁されている\n婚姻によらないで出生した児童\n所得制限\n所得制限額表 一覧\n|扶養人数|申請者(全部支給)|申請者(一部支給)|扶養義務者・配偶者|\n|:----|:----|:----|:----|\n|0人|190,000円|1,920,000円|2,360,000円|\n|1人|570,000円|2,300,000円|2,740,000円|\n|2人|950,000円|2,680,000円|3,120,000円|\n|3人|1,330,000円|3,060,000円|3,500,000円|\n|4人|1,710,000円|3,440,000円|3,880,000円|\n|5人以降|1人増えるごとに380,000円加算|1人増えるごとに380,000円加算|1人増えるごとに380,000円加算|\n\n(注)扶養義務者とは申請者と同居している直系血族(父母、祖父母、子、孫など)および兄弟姉妹のことです。"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

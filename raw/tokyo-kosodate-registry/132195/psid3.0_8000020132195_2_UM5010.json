@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132195;狛江市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子ども家庭課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132195",
+    "psid": "psid3.0+8000020132195+2+UM5010"
+  },
+  "belongings": "1.受診先の医療機関が発行した新生児聴覚検査受診日の領収書\n2.母子健康手帳\n3.助成金振込先の口座番号等が分かる資料（受診者本人の口座）\n4.印鑑（朱肉を使用するもの）\n5.未使用の新生児聴覚検査受診票\n※1および2の書類は、申請時に必要箇所の写しを取らせていただきます。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "狛江市元和泉二丁目35-1（あいとぴあセンター内）",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子ども家庭課母子保健係（あいとぴあセンター）",
+    "contactPhone": "03-5761-9200",
+    "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,132750,html",
+    "zipCode": "2010013"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "新生児聴覚検査・新生児聴覚検査受診費助成金制度\n新生児聴覚検査とは、生まれてすぐ、赤ちゃんが眠っている間に聴覚障がいの疑いがないかを調べる検査のことです。\n聴覚障がいは早期に適切な支援を開始することで、コミュニケーションの形成や言語発達の面で大きな効果が得られるので、早期発見が重要です。赤ちゃんの健やかな成長のために、新生児聴覚検査を受けましょう。　\n\n新生児聴覚検査受診費助成金交付制度\n里帰り出産等の理由により、新生児聴覚検査受診票が使用できず自費で新生児聴覚検査を受診した方に対して、費用の一部を助成します。\n\n※詳細は、母と子の保健バッグ同封の「新生児聴覚検査助成のご案内」をよくお読みください。\n\n対象者\n新生児聴覚検査を受診した日において狛江市内に住所を有し、都外医療機関で新生児聴覚検査を受診した際に新生児聴覚検査受診票を使用できなかった方\n\n助成金額\n3,000円\n\n※助成金の上限額と受診の際に負担した費用の額とを比較して、いずれか少ない額を助成します。 \n\n申請方法\n新生児聴覚検査を受診した日から1年以内に必要書類を持参の上、子ども家庭課（あいとぴあセンター）で申請をしてください。\n\n必要書類等\n受診先の医療機関が発行した新生児聴覚検査受診日の領収書\n母子健康手帳\n助成金振込先の口座番号等が分かる資料（受診者本人の口座）\n印鑑（朱肉を使用するもの）\n未使用の新生児聴覚検査受診票\n※1および2の書類は、申請時に必要箇所の写しを取らせていただきます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "新生児聴覚検査",
+    "shortName": "新生児聴覚検査助成金制度"
+  },
+  "localGovernmentLink": {
+    "title": "新生児聴覚検査・新生児聴覚検査受診費助成金制度",
+    "uri": "https://www.city.komae.tokyo.jp/index.cfm/43,98681,330,html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "狛江市"
+  },
+  "procedureCounter": "子ども家庭課（あいとぴあセンター）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "新生児聴覚検査を受診した日から1年以内に必要書類を持参の上、子ども家庭課（あいとぴあセンター）で申請をしてください。",
+  "procedurePeriod": {
+    "conditions": "新生児聴覚検査を受診した日から1年以内",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "「狛江市新生児聴覚検査受診費助成金交付要綱」"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "聴覚障害は、早期発見・治療により言葉の発達などへの影響が最小限に抑えられることが分かっていることから、生まれたばかりの赤ちゃんに聴覚障害の疑いがないかを調べる新生児聴覚検査の費用の一部を助成しています。",
+  "support": {
+    "description": "里帰り出産等の理由により、新生児聴覚検査受診票が使用できず自費で新生児聴覚検査を受診した方に対して、費用の一部を助成します。\n\n※詳細は、母と子の保健バッグ同封の「新生児聴覚検査助成のご案内」をよくお読みください。",
+    "materiallySupport": null,
+    "monetarySupport": "3,000円\n\n※助成金の上限額と受診の際に負担した費用の額とを比較して、いずれか少ない額を助成します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "新生児聴覚検査を受診した日において狛江市内に住所を有し、都外医療機関で新生児聴覚検査を受診した際に新生児聴覚検査受診票を使用できなかった方"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

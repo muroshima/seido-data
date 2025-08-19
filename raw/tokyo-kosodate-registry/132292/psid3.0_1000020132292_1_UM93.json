@@ -1,0 +1,215 @@
+{
+  "area": {
+    "areaCode": "132292;西東京市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "幼児教育・保育課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132292",
+    "psid": "psid3.0+1000020132292+1+UM93"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "西東京市南町五丁目6番13号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "幼児教育・保育課",
+    "contactPhone": "042-460-9842",
+    "contactUrl": null,
+    "zipCode": "1888666"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "https://www.city.nishitokyo.lg.jp/kosodate/hoikuen/shinainohoikushisetu/tiikigatahoiku.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "家庭的保育（保育ママ）一覧",
+    "shortName": "地域型保育事業一覧（家庭的・小規模保育事業）"
+  },
+  "localGovernmentLink": {
+    "title": "地域型保育事業一覧（家庭的・小規模保育事業）",
+    "uri": "https://www.city.nishitokyo.lg.jp/kosodate/hoikuen/shinainohoikushisetu/tiikigatahoiku.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-11",
+    "updater": "西東京市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第二章 家庭的保育事業",
+    "regulationName": "家庭的保育事業等の設備及び運営に関する基準"
+  },
+  "relatedLink": [
+    {
+      "title": "ドリームキッズ中町保育園（外部リンク）",
+      "uri": "https://dk-group.jp/nakamachi/\t"
+    },
+    {
+      "title": "Manamana下保谷保育室（外部リンク）",
+      "uri": "http://manamanaen.jp/"
+    },
+    {
+      "title": "Manamana保育室（外部リンク）",
+      "uri": "http://manamanaen.jp/"
+    },
+    {
+      "title": "保育室わんわん（外部リンク）",
+      "uri": "http://wanwan4558.jimdo.com/"
+    },
+    {
+      "title": "たんぽぽ保育園　柳沢駅前園（外部リンク）",
+      "uri": "https://npo-inos.org/project/childcare-yagisawa/"
+    },
+    {
+      "title": "生活クラブ保育園ぽむ（外部リンク）",
+      "uri": "https://tokyo.seikatsuclub.coop/service/pomme.html"
+    },
+    {
+      "title": "ひばりヶ丘みさと保育園（外部リンク）",
+      "uri": "http://www.misato-hoikusho.co.jp/"
+    },
+    {
+      "title": "Pocapoca保育室（外部リンク）",
+      "uri": "http://pocapoca.info/"
+    },
+    {
+      "title": "Manamana新町保育室（外部リンク）",
+      "uri": "http://manamanaen.jp/"
+    },
+    {
+      "title": "南町pocapoca保育室（外部リンク）",
+      "uri": "http://minamipocapoca.info/"
+    },
+    {
+      "title": "小規模保育ひまわりのおうち（外部リンク）",
+      "uri": "http://himawarino-ouchi.tokyo/"
+    },
+    {
+      "title": "すまいる保育室（外部リンク）",
+      "uri": "http://www.smilehoiku.jp/"
+    },
+    {
+      "title": "みらいひばりがおか保育園（外部リンク）",
+      "uri": "\nhttp://www.miraikai.ed.jp/"
+    },
+    {
+      "title": "保育室わんわん2nd（外部リンク）",
+      "uri": "https://wanwan2nd.jimdo.com/"
+    },
+    {
+      "title": "わかば保育園（外部リンク）",
+      "uri": "http://hoiku.meioh.co.jp/"
+    },
+    {
+      "title": "もりのなかま保育園　保谷園（外部リンク）",
+      "uri": "https://www.morino-nakama.jp/hoya/"
+    },
+    {
+      "title": "アルタベビー田無園（外部リンク）",
+      "uri": "http://www.altababy.jp/%E3%82%A2%E3%83%AB%E3%82%BF%E3%83%99%E3%83%93%E3%83%BC%E7%94%B0%E7%84%A1%E5%9C%92"
+    },
+    {
+      "title": "たけのこ保育室（外部リンク）",
+      "uri": "https://takenoko-hoikushitsu.com/"
+    },
+    {
+      "title": "ナーサリーこひつじ園（外部リンク）",
+      "uri": "https://www.kohitsujien.net/"
+    },
+    {
+      "title": "HOPPA田無しょこら保育園（外部リンク）",
+      "uri": "http://www.bflove.com/hoikuen/tanashichocolat.html"
+    },
+    {
+      "title": "CO-春保育園（外部リンク）",
+      "uri": "https://www.co-haru.com/"
+    },
+    {
+      "title": "たけのこ保育園（外部リンク）",
+      "uri": "http://k-kensan.com/"
+    },
+    {
+      "title": "HOPPA田無まかろん保育園（外部リンク）",
+      "uri": "http://www.bflove.com/hoikuen/tanashimacaron.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "市区町村の認可事業として行われる家庭的保育（保育ママ）は、3歳未満の保育が必要なお子さんを、少人数（定員5人以下）で、西東京市が認定した家庭的保育者の自宅などで預かるサービスです。家庭的な雰囲気の中できめ細かな保育を実施します。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "満3歳児未満",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "満3歳児未満の保育を必要とする乳児・幼児"
+  },
+  "updateDate": "2023-05-15",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "area": {
+    "areaCode": "131113;大田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "公園課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131113",
+    "psid": "psid3.0+1000020131113+1+UM576"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "6",
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "公園\n\n写真：大田区の公園\n（写真　左：西六郷公園、中央：平和の森公園、大森ふるさとの浜辺公園、右：洗足池公園、萩中公園）\n公園に関するお知らせ\n公園の情報を掲載しています。コチラ;https://www.city.ota.tokyo.jp/shisetsu/park/park_information.htmlをご確認ください。\n\n公園の利用に関して\n利用上のルールについては、コチラ;https://www.city.ota.tokyo.jp/shisetsu/park/rule_park.htmlをお読みください。\n\n発見！ユニークな公園\n大田区シティプロモーションサイトでは、魅力あふれるユニークな公園を紹介しています。ぜひチェックしてみてください。\n\n画像：ユニークおおたロゴと公園の写真\n\nユニークな公園はこちら（外部サイト）;https://unique-ota.city.ota.tokyo.jp/charm/nature/unique-park/\n\n花や紅葉を楽しめる公園はこちら（外部サイト）;https://unique-ota.city.ota.tokyo.jp/charm/nature/pickup-202206-1/\n\n公園を探す\n下にあるボタンから、区内の公園をさがすことができます。\n\n公園名からさがす;https://www.city.ota.tokyo.jp/shisetsu/park/orderby_parkname.html\n区内にある公園を、公園名からさがすことができます。公園名が五十音順で並んでいます。\n\n地域からさがす;https://www.city.ota.tokyo.jp/shisetsu/park/orderby_parkaddress.html\n区内にある公園を、町名からさがすことができます。町名が五十音順で並んでいます。\n\n地図からさがす;https://www.city.ota.tokyo.jp/Gmaps/citymap_index.html?lat=35.57440335621816&lng=139.71622467041016&zoom=12\n区内にある公園を、地図からさがすことができます。\nJRの線路を境に、東側、西側と分けて掲載しています。\n\n特徴からさがす;https://www.city.ota.tokyo.jp/shisetsu/park/orderby_distinctivepark.html\n区内にある公園を、公園の特徴からさがすことができます。特徴ごとに公園名が五十音順で並んでいます。\n\n大田区公園緑地等箇所図\n大田区公園緑地等箇所図（令和5年）（PDF：5,847KB）;https://www.city.ota.tokyo.jp/shisetsu/park/index.files/R5kouen_ryokuchizu.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "児童遊園",
+    "shortName": "公園"
+  },
+  "localGovernmentLink": {
+    "title": "公園",
+    "uri": "https://www.city.ota.tokyo.jp/shisetsu/park/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-01",
+    "updater": "大田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "地図からさがす",
+      "uri": "https://www.city.ota.tokyo.jp/Gmaps/citymap_index.html?lat=35.57440335621816&lng=139.71622467041016&zoom=12"
+    },
+    {
+      "title": "大田区 花と紅葉めぐりMAP",
+      "uri": "https://unique-ota.city.ota.tokyo.jp/charm/nature/pickup-202206-1/"
+    },
+    {
+      "title": "ユニークな公園",
+      "uri": "https://unique-ota.city.ota.tokyo.jp/charm/nature/unique-park/"
+    },
+    {
+      "title": "公園のご利用に関して",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/park/rule_park.html"
+    },
+    {
+      "title": "公園に関するお知らせ",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/park/park_information.html"
+    },
+    {
+      "title": "公園名からさがす",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/park/orderby_parkname.html"
+    },
+    {
+      "title": "大田区公園緑地等箇所図",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/park/orderby_distinctivepark.html"
+    },
+    {
+      "title": "地域からさがす",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/park/orderby_parkaddress.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童遊園は、屋外にある公園に類似した施設です。18歳未満のお子さんに健全な遊びを提供し、健康増進を図るとともに、豊かな情操を育むことを目的としています。\n大田区の児童遊園の一覧は、大田区サイトなどでお知らせしています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087",
+      "092"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

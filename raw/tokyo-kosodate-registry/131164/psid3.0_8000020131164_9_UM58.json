@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保育支援担当課入園グループ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+9+UM58"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保育支援担当課入園グループ",
+    "contactPhone": "03-3981-2140",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "事業概要\n\n地域や保護者のニーズに応えて地域において重要な役割を果たしている、満3歳に達した後最初に迎える4月1日から満6歳に達した後最初に迎える3月31日までの期間の子どもを対象とした多様な集団活動について、本区の定める基準に適合した施設等を利用する幼児の保護者の経済的負担を軽減する観点から、施設等に支払った利用料相当額（1か月あたり上限2万円）を、後日豊島区から保護者へ給付します。　　\n\n注意事項　　\n\n・この制度を利用する場合、施設はあらかじめ対象施設となるための基準適合審査を申請し、豊島区から対象施設として決定を受ける必要があります。（対象施設一覧;https://www.city.toshima.lg.jp/260/#A）\n\n・豊島区への申請によって本事業の補助を受けられるのは、豊島区に住民登録をしている方のみです。他区市町村にお住いの方は、本補助制度の対象となりません。同様の補助制度の有無につきましては、住民登録のある区市町村へお問い合わせください。\n・当該利用月において、子育てのための施設等利用給付（無償化の給付※）を受けている、または受ける予定のある幼児は、対象外となります。　　\n\n子育てのための施設等利用給付（無償化の給付）とは、私学助成幼稚園や幼稚園預かり保育、認可外保育施設等の特定子ども・子育て支援施設等を、区市町村の認定を受けた子どもが利用したときに受けられる給付です。\n\n【保護者の方々へ】給付手続きについて（下半期10～3月利用分）　　\n\n令和5年度の下半期分（10～3月分）の請求については、令和6年4月19日までに各対象施設が取りまとめを行い、区に請求します。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の育児に関する金銭的支援",
+    "shortName": "豊島区地域における小学校就学前の子どもを対象とした多様な集団活動事業の利用支援事業"
+  },
+  "localGovernmentLink": {
+    "title": "豊島区地域における小学校就学前の子どもを対象とした多様な集団活動事業の利用支援事業",
+    "uri": "https://www.city.toshima.lg.jp/260/2202021602.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "施設への申請書の提出方法につきましては、直接各対象施設にご確認ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "保護者向けチラシ（日本語）（PDF：1",
+      "uri": "https://www.city.toshima.lg.jp/260/documents/20240401japanesetirasi.pdf"
+    },
+    {
+      "title": "004KB）",
+      "uri": "https://www.city.toshima.lg.jp/260/documents/20240401englishtirasi.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "豊島区では、小学校就学前の子どもを対象とした多様な集団活動について、本区の定める基準に適合した施設等を利用する幼児の保護者が施設等に支払った利用料相当額を、後日豊島区から保護者へ給付します。",
+  "support": {
+    "description": "施設等に支払った利用料相当額（1か月あたり上限2万円）を、後日豊島区から保護者へ給付します。",
+    "materiallySupport": null,
+    "monetarySupport": "施設等に支払った利用料相当額（1か月あたり上限2万円）を、後日豊島区から保護者へ給付します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "満3歳に達した後最初に迎える4月1日から満6歳に達した後最初に迎える3月31日まで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 6,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "地域や保護者のニーズに応えて地域において重要な役割を果たしている、満3歳に達した後最初に迎える4月1日から満6歳に達した後最初に迎える3月31日までの期間の子ども"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

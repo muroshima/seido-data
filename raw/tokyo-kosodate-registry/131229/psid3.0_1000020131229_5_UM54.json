@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健予防課感染症対策係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+5+UM54"
+  },
+  "belongings": "予防接種予診票、母子健康手帳ほか",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区青戸4-15-14　健康プラザかつしか内",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "葛飾区予防接種コールセンター",
+    "contactPhone": "03-4446-3534",
+    "contactUrl": null,
+    "zipCode": "1250062"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "日本脳炎1期1・2回目、1期追加"
+  },
+  "localGovernmentLink": {
+    "title": "葛飾区で実施している子どもの予防接種",
+    "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001800/1002033.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "予防接種予診票は、予防接種の種類に応じて、実施時期に合わせて個別に郵送します。紛失や転入などにより、葛飾区発行の予診票がない場合には、予診票の発行手続きをお願いします。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）",
+    "regulationName": "予防接種法"
+  },
+  "relatedLink": [
+    {
+      "title": "お子さんの予防接種に保護者以外の方が同伴する場合",
+      "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001800/1002038.html"
+    },
+    {
+      "title": "予防接種実施医療機関一覧表 （PDF 174.4KB）",
+      "uri": "https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/002/033/060530_ichiran.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 6
+    },
+    "lessThan": {
+      "targetAge": 7,
+      "targetAgeOfMonths": 6
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "お子さん\n生後6か月～満7歳6か月に至るまで"
+  },
+  "updateDate": "2024-05-30",
+  "useConsiderationFlag": false,
+  "utilization": "日本脳炎1期1・2回目、1期追加予診票等の配付時期\n3歳になる前に個別郵送\n\n予診票がお手元に届きましたら、受ける時期の目安をカレンダーなどに記入してみましょう。\n予防接種はお子さんの体調や病気の流行状況をみて受けましょう。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

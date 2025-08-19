@@ -1,0 +1,118 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども生活部保育・幼稚園課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+1+UM804"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "つながり保育園・まちだ;https://kosodate-machida.tokyo.jp/soshiki/4/3/syokibo/4168.htmlわかくさのおうち;https://kosodate-machida.tokyo.jp/soshiki/4/3/syokibo/4169.htmlたけとんぼ保育園;https://kosodate-machida.tokyo.jp/soshiki/4/3/syokibo/5856.htmlプチもり保育園;https://kosodate-machida.tokyo.jp/soshiki/4/3/syokibo/5858.html鶴川フェリシア保育園;https://kosodate-machida.tokyo.jp/soshiki/4/3/syokibo/5862.htmlつながりづくり保育園・原町田α;https://kosodate-machida.tokyo.jp/soshiki/4/3/syokibo/6825.htmlつながりづくり保育園・原町田β;https://kosodate-machida.tokyo.jp/soshiki/4/3/syokibo/6889.htmlさくらんぼ保育園;https://kosodate-machida.tokyo.jp/soshiki/4/3/syokibo/6890.html高ヶ坂なかよし保育園;https://kosodate-machida.tokyo.jp/soshiki/4/3/syokibo/6891.html成瀬なかよし保育園;https://kosodate-machida.tokyo.jp/soshiki/4/3/syokibo/6892.htmlもりのこ第一保育園;https://kosodate-machida.tokyo.jp/soshiki/4/3/syokibo/6894.htmlもりのこ第ニ保育園;https://kosodate-machida.tokyo.jp/soshiki/4/3/syokibo/6896.html成瀬フェリシア保育園;https://kosodate-machida.tokyo.jp/soshiki/4/3/syokibo/6898.html東平ひなぎく保育園;https://kosodate-machida.tokyo.jp/soshiki/4/3/syokibo/6900.html東平なでしこ保育園;https://kosodate-machida.tokyo.jp/soshiki/4/3/syokibo/6902.htmlつながりづくり保育園・原町田プラス;https://kosodate-machida.tokyo.jp/soshiki/4/3/syokibo/9049.html町田なかよし保育園;https://kosodate-machida.tokyo.jp/soshiki/4/3/syokibo/9053.htmlKBCほいくえん南町田ALIVE;https://kosodate-machida.tokyo.jp/soshiki/4/3/syokibo/9058.htmlもりのおうち保育園;https://kosodate-machida.tokyo.jp/soshiki/4/3/syokibo/10656.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "つながり保育園・まちだ,わかくさのおうち,たけとんぼ保育園,プチもり保育園,l鶴川フェリシア保育園,つながりづくり保育園・原町田α,つながりづくり保育園・原町田β,さくらんぼ保育園,l高ヶ坂なかよし保育園,成瀬なかよし保育園,もりのこ第一保育園,もりのこ第ニ保育園,成瀬フェリシア保育園,東平ひなぎく保育園,l東平なでしこ保育園,つながりづくり保育園・原町田プラス,町田なかよし保育園,KBCほいくえん南町田ALIVE,もりのおうち保育園"
+  },
+  "institutionName": {
+    "canonicalName": "小規模保育施設一覧",
+    "shortName": "小規模保育園"
+  },
+  "localGovernmentLink": {
+    "title": "小規模保育園",
+    "uri": "https://kosodate-machida.tokyo.jp/soshiki/4/3/syokibo/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "市区町村の認可事業として行われる小規模保育では、3歳未満の保育が必要なお子さんを、比較的小規模（定員6人以上19人以下）で、家庭的保育に近い雰囲気のもとで、きめ細かな保育を実施しています。保育所分園に近いA型、家庭的保育（グループ型小規模保育）に近いC型と、その中間的なB型の3タイプがあります。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": null,
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": null
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2022-07-01",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

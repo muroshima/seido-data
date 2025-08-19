@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "131172;北区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども未来部保育課入園相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131172",
+    "psid": "psid3.0+8000020131172+1+UM76"
+  },
+  "belongings": "公立保育園（指定管理者制度導入園を含む）\n延長保育利用申請書と就労証明書等（週に3日、または月に12日以上お迎えに間に合わない日があることがわかる書類等）\n\n私立保育園・地域型保育事業（小規模保育）\n就労証明書等（週に3日、または月に12日以上お迎えに間に合わない日があることがわかる書類等）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都北区王子本町1-15-22北区役所第一庁舎2階1番",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども未来部保育課入園相談係",
+    "contactPhone": "03-3908-9129",
+    "contactUrl": null,
+    "zipCode": "1148508"
+  },
+  "cost": null,
+  "costConditions": "保育料・延長保育料基準額表;https://www.city.kita.tokyo.jp/k-hoiku/kosodate/hoikuen/hoikuen/moshikomi/hoikuryo/kijungaku.html?mode=previewでご確認ください。私立保育園・地域型保育事業（小規模保育）は、園により異なる場合があります。各園へ直接お問い合わせください。",
+  "description": "保育園（月ぎめ延長保育）\n　保護者の就労・通勤時間の都合で週3日または月12日以上、午後6時15分（小規模保育事業の一部は午後6時30分）までにお迎えに来ることができない家庭の、満1歳以上のお子さんが対象です。\n　※保育短時間認定を受けた方は、月ぎめ延長保育の申し込みはできません。\n　※定員があるため、空きがなければ利用できません。\n　※転園の場合も、転園先で新たに延長保育の申し込みが必要です。すでに延長保育を利用されている方でも、転園先の定員の空き状況によって、延長保育を利用できなくなる場合があります。\n　※北区外にお住まいの方は、公立保育園（指定管理者制度導入園を含む）では、延長保育を利用できません。\n\n実施保育園・実施時間\n　延長保育実施園で実施しています。\n　保育園一覧（北区内認可保育園）;https://www.city.kita.tokyo.jp/k-hoiku/kosodate/hoikuen/hoikuen/ninka/ichiran.html?mode=previewでご確認ください。\n\n申し込み方法\n公立保育園（指定管理者制度導入園を含む）\n　利用を希望する月の前月10日（土日・祝日の場合は翌平日）までに、延長保育利用申請書と就労証明書等（週に3日、または月に12日以上お迎えに間に合わない日があることがわかる書類等）を保育課入園相談係または保育園へ提出してください。利用対象となるか、審査をします。\n\n私立保育園・地域型保育事業（小規模保育）\n　就労証明書等（週に3日、または月に12日以上お迎えに間に合わない日があることがわかる書類等）を保育園へ提出してください。利用対象となるか、各園で審査をします。詳細は各園へ直接お問い合わせください。\n\n料金（延長保育料）\n　保育料・延長保育料基準額表;https://www.city.kita.tokyo.jp/k-hoiku/kosodate/hoikuen/hoikuen/moshikomi/hoikuryo/kijungaku.html?mode=previewでご確認ください。私立保育園・地域型保育事業（小規模保育）は、園により異なる場合があります。各園へ直接お問い合わせください。\n\n関連リンク\n保育料・延長保育料基準額表;https://www.city.kita.tokyo.jp/k-hoiku/kosodate/hoikuen/hoikuen/moshikomi/hoikuryo/kijungaku.html\n保育園（一日単位の延長保育）;https://www.city.kita.tokyo.jp/k-hoiku/kosodate/hoikuen/hoikuen/moshikomi/supot.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "延長保育実施園で実施しています。\n\n保育園一覧（北区内認可保育園）;https://www.city.kita.tokyo.jp/k-hoiku/kosodate/hoikuen/hoikuen/ninka/ichiran.html?mode=preview でご確認ください。 ",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "https://www.city.kita.tokyo.jp/k-hoiku/kosodate/hoikuen/hoikuen/ninka/ichiran.html?mode=preview",
+    "implementationName": "https://www.city.kita.tokyo.jp/k-hoiku/kosodate/hoikuen/hoikuen/ninka/ichiran.html?mode=preview"
+  },
+  "institutionName": {
+    "canonicalName": "延長保育",
+    "shortName": "保育園（月ぎめ延長保育）"
+  },
+  "localGovernmentLink": {
+    "title": "保育園（月ぎめ延長保育）",
+    "uri": "https://www.city.kita.tokyo.jp/k-hoiku/kosodate/hoikuen/hoikuen/moshikomi/encho.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "北区"
+  },
+  "procedureCounter": "公立保育園（指定管理者制度導入園を含む）\n保育課入園相談係または保育園\n\n私立保育園・地域型保育事業（小規模保育）\n保育園",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "公立保育園（指定管理者制度導入園を含む）\n　利用を希望する月の前月10日（土日・祝日の場合は翌平日）までに、延長保育利用申請書と就労証明書等（週に3日、または月に12日以上お迎えに間に合わない日があることがわかる書類等）を保育課入園相談係または保育園へ提出してください。利用対象となるか、審査をします。\n\n私立保育園・地域型保育事業（小規模保育）\n　就労証明書等（週に3日、または月に12日以上お迎えに間に合わない日があることがわかる書類等）を保育園へ提出してください。利用対象となるか、各園で審査をします。詳細は各園へ直接お問い合わせください。",
+  "procedurePeriod": {
+    "conditions": "公立保育園（指定管理者制度導入園を含む）\n　利用を希望する月の前月10日（土日・祝日の場合は翌平日）までに、延長保育利用申請書と就労証明書等（週に3日、または月に12日以上お迎えに間に合わない日があることがわかる書類等）を保育課入園相談係または保育園へ提出してください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第59条第2号",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "保育園一覧（北区内認可保育園）",
+      "uri": "https://www.city.kita.tokyo.jp/k-hoiku/kosodate/hoikuen/hoikuen/ninka/ichiran.html?mode=preview"
+    },
+    {
+      "title": "保育園（一日単位の延長保育）",
+      "uri": "https://www.city.kita.tokyo.jp/k-hoiku/kosodate/hoikuen/hoikuen/moshikomi/supot.html"
+    },
+    {
+      "title": "保育料・延長保育料基準額表",
+      "uri": "https://www.city.kita.tokyo.jp/k-hoiku/kosodate/hoikuen/hoikuen/moshikomi/hoikuryo/kijungaku.html?mode=preview"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者の就労・通勤時間の都合で週3日または月12日以上、午後6時15分（小規模保育事業の一部は午後6時30分）までにお迎えに来ることができない家庭の、満1歳以上のお子さんが対象です。",
+  "support": {
+    "description": "延長保育",
+    "materiallySupport": "延長保育",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "満1歳以上のお子さん",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "保護者の就労・通勤時間の都合で週3日または月12日以上、午後6時15分（小規模保育事業の一部は午後6時30分）までにお迎えに来ることができない家庭の、満1歳以上のお子さんが対象です。\n　※保育短時間認定を受けた方は、月ぎめ延長保育の申し込みはできません。\n　※定員があるため、空きがなければ利用できません。\n　※転園の場合も、転園先で新たに延長保育の申し込みが必要です。すでに延長保育を利用されている方でも、転園先の定員の空き状況によって、延長保育を利用できなくなる場合があります。\n　※北区外にお住まいの方は、公立保育園（指定管理者制度導入園を含む）では、延長保育を利用できません。"
+  },
+  "updateDate": "2021-08-18",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "area": {
+    "areaCode": "131211;足立区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "地域のちから推進部住区推進課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020131211",
+    "psid": "psid3.0+2000020131211+1+UM111"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "地域のちから推進部住区推進課",
+    "contactPhone": "03-3880-5858",
+    "contactUrl": "https://www.city.adachi.tokyo.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "無料",
+  "description": "足立区の住区（コミュニティ）センター（児童館・悠々館・学童保育室・集会施設）\n住区（コミュニティ）センターは、地域各層の方々によって「管理運営委員会」を設置し、区との一部事業委託契約を結び、これに基づいて、管理運営を行っています。現在、足立区に48の住区（コミュニティ）センターがあります。\n\n住区（コミュニティ）センターには、児童の健全育成のための児童施設「児童館」、放課後に子どもが安心して過ごせる生活の場「学童保育室」、高齢者の生きがいづくりのための高齢者施設「悠々館」、地域住民の学習や交流のための貸出施設があり、乳幼児から高齢者までが、様々なかたちで利用することができます。\n\nご覧になりたいエリアを選択！\n\nお住まいやご利用駅の近くなど、お探しのエリアをクリックすると、該当エリアにある施設の一覧ページを表示します。\nhttps://www.city.adachi.tokyo.jp/juku/jyuukusennta-.html\n住区（コミュニティ）センター一覧は、こちらからご覧ください。\n\n悠々館;https://www.city.adachi.tokyo.jp/juku/fukushi-kenko/koresha/1.html\n児童館;https://www.city.adachi.tokyo.jp/juku/k-kyoiku/kosodate/tsudoinoba-jidokan.html\n学童保育室;https://www.city.adachi.tokyo.jp/juku/k-kyoiku/kosodate/g-annai.html\n関連リンク\n\nクリエイティブ・コモンズ表示4.0国際ライセンス【オープンデータ】住区センター一覧（エクセル：34KB）;https://www.city.adachi.tokyo.jp/documents/50741/jyuku.xls\nクリエイティブ・コモンズ表示4.0国際ライセンス【オープンデータ】住区センター一覧（UTF-8）（CSV：5KB）;https://www.city.adachi.tokyo.jp/documents/50741/jyuku.csv",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "北西エリア\nnishiarai;https://www.city.adachi.tokyo.jp/images/50741/nishiarai.jpg\n\n|NO.|施設名|住所|電話番号|FAX番号|\n|:----|:----|:----|:----|\n|1|入谷住区センター;https://www.city.adachi.tokyo.jp/juku/j-iriya.html|舎人6-12-4-101|03-3855-1050|03-3855-1050|\n|2|舎人住区センター;https://www.city.adachi.tokyo.jp/juku/j-toneri.html|舎人1-3-26|03-3857-0881|03-3857-0881|\n|3|伊興住区センター;https://www.city.adachi.tokyo.jp/juku/j-ikou.html|伊興5-22-13|03-3855-2707|03-3855-2707|\n|4|東伊興住区センター;https://www.city.adachi.tokyo.jp/juku/j-higashiikou.html|東伊興1-5-22|03-3899-8531|03-3899-8531|\n|5|東伊興住区センター分館;https://www.city.adachi.tokyo.jp/juku/j-seikatukan.html|東伊興3-23-6|03-3897-2225|03-3897-2225|\n|6|渕江住区センター分館;https://www.city.adachi.tokyo.jp/juku/30juku.html|西保木間3-14-16-101|03-3884-1159|03-3884-1159|\n|7|渕江住区センター;https://www.city.adachi.tokyo.jp/juku/j-futie.html|西保木間1-2-1-101|03-3850-3467|03-3850-3467|\n|8|加賀住区センター;https://www.city.adachi.tokyo.jp/juku/j-kaga.html|加賀2-31-6-101|03-3857-4639|03-3857-4639|\n|9|押皿谷住区センター;https://www.city.adachi.tokyo.jp/juku/j-osaraya.html|鹿浜8-27-15|03-3857-4231|03-3857-4231|\n|10|西伊興住区センター;https://www.city.adachi.tokyo.jp/juku/j-nisiikou.html|西伊興1-12-12|03-3896-7362|03-3896-7362|\n|11|栗原北住区センター;https://www.city.adachi.tokyo.jp/juku/j-kurikita.html|栗原4-19-15|03-3899-8761|03-3899-8761|\n|12|竹の塚六月住区センター;https://www.city.adachi.tokyo.jp/juku/j-rokugatu.html|六月2-26-3-101|03-3850-3494|03-3850-3494|\n|13|鹿浜住区センター;https://www.city.adachi.tokyo.jp/juku/j-sikahama.html|鹿浜6-8-1|03-3857-6550|03-3857-6550|\n|14|西新井住区センター;https://www.city.adachi.tokyo.jp/juku/j-nisiarai.html|西新井1-4-17|03-3854-1527|03-3854-1527|\n|15|島根住区センター;https://www.city.adachi.tokyo.jp/juku/j-shimane.html|島根4-19-1-101|03-3850-9966|03-3850-9966|\n\n北東エリア\n北東エリアマップ;https://www.city.adachi.tokyo.jp/images/50741/area-ne.jpg\n\n|NO.|施設名|住所|電話番号|FAX番号|\n|:----|:----|:----|:----|:----|\n|1|桜花住区センター分館;https://www.city.adachi.tokyo.jp/juku/30jyuku.html|花畑8-2-6|03-3859-1922|03-3859-1922|\n|2|桜花住区センター;https://www.city.adachi.tokyo.jp/juku/j-ouka.html|花畑6-4-16|03-3850-7190|03-3850-7190|\n|3|花畑住区センター;https://www.city.adachi.tokyo.jp/juku/j-hanahata.html|花畑4-16-8|03-3850-2602|03-3850-2602|\n|4|花保住区センター;https://www.city.adachi.tokyo.jp/juku/j-hanaho.html|東保木間1-25-4-101|03-3884-1229|03-3884-1229|\n|5|南花畑住区センター;https://www.city.adachi.tokyo.jp/juku/j-nanpata.html|南花畑3-14-7|03-3859-9868|03-3859-9868|\n|6|神明住区センター;https://www.city.adachi.tokyo.jp/juku/j-sinmei.html|神明南2-6-19|03-5682-5089|03-5682-5089|\n|7|佐野住区センター;https://www.city.adachi.tokyo.jp/juku/j-sano.html|佐野2-43-5|03-3628-3277|03-3628-3277|\n|8|六木住区センター;https://www.city.adachi.tokyo.jp/juku/j-mutugi.html|六木3-39-5-101|03-3629-1716|03-3629-1716|\n|9|平野住区センター;https://www.city.adachi.tokyo.jp/juku/j-hirano.html|平野2-2-14|03-3884-7765|03-3884-7765|\n|10|保塚住区センター;https://www.city.adachi.tokyo.jp/juku/j-hotuka.html|保塚町7-16|03-3858-1876|03-3858-1876|\n|11|大谷田谷中住区センター;https://www.city.adachi.tokyo.jp/juku/j-yanaka.html|大谷田4-16-6|03-5697-3390|03-5697-3390|\n|12|大谷田住区センター;https://www.city.adachi.tokyo.jp/juku/j-ooyata.html（令和7年3月頃まで休館）|大谷田1-1-2-101|03-3629-5460|03-3629-5460|\n|13|長門住区センター分館;https://www.city.adachi.tokyo.jp/juku/nagato.html|中川4-43-4|03-5616-3115|03-5616-3115|\n|14|長門住区センター;https://www.city.adachi.tokyo.jp/juku/j-nagato.html|中川2-24-2-101|03-3629-8231|03-3629-8231|\n\n南西エリア\n南西エリアマップ;https://www.city.adachi.tokyo.jp/images/50741/area-sw.jpg\n\n|NO.|施設名|住所|電話番号|FAX番号|\n|:----|:----|:----|:----|:----|\n|1|西新井本町住区センター;https://www.city.adachi.tokyo.jp/juku/j-nisihonn.html|西新井本町2-30-37|03-3890-5555|03-3890-8500|\n|2|西新井栄町住区センター;https://www.city.adachi.tokyo.jp/juku/j-sakaechou.html|西新井栄町3-1-6-101|03-3880-7705|03-3880-7705|\n|3|梅島住区センター;https://www.city.adachi.tokyo.jp/juku/j-umejima.html|梅島2-14-5|03-3849-6374|03-3849-6374|\n|4|江北コミュニティセンター;https://www.city.adachi.tokyo.jp/juku/j-kouhoku.html|江北2-8-2|03-3890-6224|03-3890-6224|\n|5|扇住区センター;https://www.city.adachi.tokyo.jp/juku/j-ougi.html|扇1-47-38|03-3896-0688|03-3896-0688|\n|6|興本住区センター;https://www.city.adachi.tokyo.jp/juku/j-okimoto.html|本木東町17-10|03-3889-0388|03-3889-0388|\n|7|本木関原住区センター;https://www.city.adachi.tokyo.jp/juku/j-motoseki.html|関原1-21-11|03-3849-9735|03-3849-9735|\n|8|梅田住区センター;https://www.city.adachi.tokyo.jp/juku/j-umeda.html|梅田6-26-1|03-3848-3421|03-3848-3421|\n\n南東エリア\n南東エリアマップ;https://www.city.adachi.tokyo.jp/images/50741/area-se.jpg\n\n|NO.|施設名|住所|電話番号|FAX番号|\n|:----|:----|:----|:----|:----|\n|1|栗島住区センター;https://www.city.adachi.tokyo.jp/juku/j-kurisima.html|中央本町4-5-2|03-3848-3471|03-3848-3471|\n|2|青井住区センター;https://www.city.adachi.tokyo.jp/juku/j-aoi.html|青井5-11-40-101|03-3852-3750|03-3852-3750|\n|3|加平住区センター;https://www.city.adachi.tokyo.jp/juku/j-kahei.html|加平1-10-6|03-3605-8842|03-3605-8842|\n|4|東和住区センター;https://www.city.adachi.tokyo.jp/juku/j-touwa.html|東和3-12-9|03-3628-6206\t|03-3628-6207|\n|5|中央本町住区センター;https://www.city.adachi.tokyo.jp/juku/j-chuuouhonnchou.html（令和7年3月頃まで休館）|中央本町3-15-1|03-3852-1434|03-3852-1434|\n|6|弘道住区センター;https://www.city.adachi.tokyo.jp/juku/j-koudou.html|弘道2-16-1-101|03-3840-9354|03-3840-9354|\n|7|五反野コミュニティセンター;https://www.city.adachi.tokyo.jp/juku/j-gotanno.html|西綾瀬2-1-13|03-3886-2643|03-3886-2643|\n|8|綾瀬住区センター;https://www.city.adachi.tokyo.jp/juku/j-ayase.html|綾瀬3-17-9|03-3628-9908|03-3628-9908|\n|9|東綾瀬住区センター;https://www.city.adachi.tokyo.jp/juku/j-higashiayase.html|東綾瀬1-28-7|03-5697-3370|03-5697-3370|\n\n千住・新田エリア\n千住・新田エリアマップ;https://www.city.adachi.tokyo.jp/images/50741/area-ss.jpg\n\n|NO.|施設名|住所|電話番号|FAX番号|\n|:----|:----|:----|:----|:----|\n|1|千住柳町住区センター;https://www.city.adachi.tokyo.jp/juku/j-yanagichou.html|千住柳町12-5|03-3870-3490|03-3870-3491|\n|2|千住本町住区センター;https://www.city.adachi.tokyo.jp/juku/j-senhon.html|千住5-6-2|03-3870-6221|03-3870-6221|\n|3|千住河原町住区センター;https://www.city.adachi.tokyo.jp/juku/j-kawarachou.html|千住河原町5-12|03-3870-7229|03-3870-7229|\n|4|千住あずま住区センター;https://www.city.adachi.tokyo.jp/juku/j-azuma.html|千住東2-21-18|03-3882-1218|03-3882-1218|\n|5|新田住区センター;https://www.city.adachi.tokyo.jp/juku/j-sinden.html|新田2-2-2|03-3912-3421|03-3912-3421|\n|6|江南住区センター;https://www.city.adachi.tokyo.jp/juku/j-kounan.html|小台2-4-18|03-3914-3427|03-3914-3427|　",
+    "implementationName": "北西エリア\nnishiarai;https://www.city.adachi.tokyo.jp/images/50741/nishiarai.jpg\n\n|NO.|施設名|住所|電話番号|FAX番号|\n|:----|:----|:----|:----|\n|1|入谷住区センター;https://www.city.adachi.tokyo.jp/juku/j-iriya.html|舎人6-12-4-101|03-3855-1050|03-3855-1050|\n|2|舎人住区センター;https://www.city.adachi.tokyo.jp/juku/j-toneri.html|舎人1-3-26|03-3857-0881|03-3857-0881|\n|3|伊興住区センター;https://www.city.adachi.tokyo.jp/juku/j-ikou.html|伊興5-22-13|03-3855-2707|03-3855-2707|\n|4|東伊興住区センター;https://www.city.adachi.tokyo.jp/juku/j-higashiikou.html|東伊興1-5-22|03-3899-8531|03-3899-8531|\n|5|東伊興住区センター分館;https://www.city.adachi.tokyo.jp/juku/j-seikatukan.html|東伊興3-23-6|03-3897-2225|03-3897-2225|\n|6|渕江住区センター分館;https://www.city.adachi.tokyo.jp/juku/30juku.html|西保木間3-14-16-101|03-3884-1159|03-3884-1159|\n|7|渕江住区センター;https://www.city.adachi.tokyo.jp/juku/j-futie.html|西保木間1-2-1-101|03-3850-3467|03-3850-3467|\n|8|加賀住区センター;https://www.city.adachi.tokyo.jp/juku/j-kaga.html|加賀2-31-6-101|03-3857-4639|03-3857-4639|\n|9|押皿谷住区センター;https://www.city.adachi.tokyo.jp/juku/j-osaraya.html|鹿浜8-27-15|03-3857-4231|03-3857-4231|\n|10|西伊興住区センター;https://www.city.adachi.tokyo.jp/juku/j-nisiikou.html|西伊興1-12-12|03-3896-7362|03-3896-7362|\n|11|栗原北住区センター;https://www.city.adachi.tokyo.jp/juku/j-kurikita.html|栗原4-19-15|03-3899-8761|03-3899-8761|\n|12|竹の塚六月住区センター;https://www.city.adachi.tokyo.jp/juku/j-rokugatu.html|六月2-26-3-101|03-3850-3494|03-3850-3494|\n|13|鹿浜住区センター;https://www.city.adachi.tokyo.jp/juku/j-sikahama.html|鹿浜6-8-1|03-3857-6550|03-3857-6550|\n|14|西新井住区センター;https://www.city.adachi.tokyo.jp/juku/j-nisiarai.html|西新井1-4-17|03-3854-1527|03-3854-1527|\n|15|島根住区センター;https://www.city.adachi.tokyo.jp/juku/j-shimane.html|島根4-19-1-101|03-3850-9966|03-3850-9966|\n\n北東エリア\n北東エリアマップ;https://www.city.adachi.tokyo.jp/images/50741/area-ne.jpg\n\n|NO.|施設名|住所|電話番号|FAX番号|\n|:----|:----|:----|:----|:----|\n|1|桜花住区センター分館;https://www.city.adachi.tokyo.jp/juku/30jyuku.html|花畑8-2-6|03-3859-1922|03-3859-1922|\n|2|桜花住区センター;https://www.city.adachi.tokyo.jp/juku/j-ouka.html|花畑6-4-16|03-3850-7190|03-3850-7190|\n|3|花畑住区センター;https://www.city.adachi.tokyo.jp/juku/j-hanahata.html|花畑4-16-8|03-3850-2602|03-3850-2602|\n|4|花保住区センター;https://www.city.adachi.tokyo.jp/juku/j-hanaho.html|東保木間1-25-4-101|03-3884-1229|03-3884-1229|\n|5|南花畑住区センター;https://www.city.adachi.tokyo.jp/juku/j-nanpata.html|南花畑3-14-7|03-3859-9868|03-3859-9868|\n|6|神明住区センター;https://www.city.adachi.tokyo.jp/juku/j-sinmei.html|神明南2-6-19|03-5682-5089|03-5682-5089|\n|7|佐野住区センター;https://www.city.adachi.tokyo.jp/juku/j-sano.html|佐野2-43-5|03-3628-3277|03-3628-3277|\n|8|六木住区センター;https://www.city.adachi.tokyo.jp/juku/j-mutugi.html|六木3-39-5-101|03-3629-1716|03-3629-1716|\n|9|平野住区センター;https://www.city.adachi.tokyo.jp/juku/j-hirano.html|平野2-2-14|03-3884-7765|03-3884-7765|\n|10|保塚住区センター;https://www.city.adachi.tokyo.jp/juku/j-hotuka.html|保塚町7-16|03-3858-1876|03-3858-1876|\n|11|大谷田谷中住区センター;https://www.city.adachi.tokyo.jp/juku/j-yanaka.html|大谷田4-16-6|03-5697-3390|03-5697-3390|\n|12|大谷田住区センター;https://www.city.adachi.tokyo.jp/juku/j-ooyata.html（令和7年3月頃まで休館）|大谷田1-1-2-101|03-3629-5460|03-3629-5460|\n|13|長門住区センター分館;https://www.city.adachi.tokyo.jp/juku/nagato.html|中川4-43-4|03-5616-3115|03-5616-3115|\n|14|長門住区センター;https://www.city.adachi.tokyo.jp/juku/j-nagato.html|中川2-24-2-101|03-3629-8231|03-3629-8231|\n\n南西エリア\n南西エリアマップ;https://www.city.adachi.tokyo.jp/images/50741/area-sw.jpg\n\n|NO.|施設名|住所|電話番号|FAX番号|\n|:----|:----|:----|:----|:----|\n|1|西新井本町住区センター;https://www.city.adachi.tokyo.jp/juku/j-nisihonn.html|西新井本町2-30-37|03-3890-5555|03-3890-8500|\n|2|西新井栄町住区センター;https://www.city.adachi.tokyo.jp/juku/j-sakaechou.html|西新井栄町3-1-6-101|03-3880-7705|03-3880-7705|\n|3|梅島住区センター;https://www.city.adachi.tokyo.jp/juku/j-umejima.html|梅島2-14-5|03-3849-6374|03-3849-6374|\n|4|江北コミュニティセンター;https://www.city.adachi.tokyo.jp/juku/j-kouhoku.html|江北2-8-2|03-3890-6224|03-3890-6224|\n|5|扇住区センター;https://www.city.adachi.tokyo.jp/juku/j-ougi.html|扇1-47-38|03-3896-0688|03-3896-0688|\n|6|興本住区センター;https://www.city.adachi.tokyo.jp/juku/j-okimoto.html|本木東町17-10|03-3889-0388|03-3889-0388|\n|7|本木関原住区センター;https://www.city.adachi.tokyo.jp/juku/j-motoseki.html|関原1-21-11|03-3849-9735|03-3849-9735|\n|8|梅田住区センター;https://www.city.adachi.tokyo.jp/juku/j-umeda.html|梅田6-26-1|03-3848-3421|03-3848-3421|\n\n南東エリア\n南東エリアマップ;https://www.city.adachi.tokyo.jp/images/50741/area-se.jpg\n\n|NO.|施設名|住所|電話番号|FAX番号|\n|:----|:----|:----|:----|:----|\n|1|栗島住区センター;https://www.city.adachi.tokyo.jp/juku/j-kurisima.html|中央本町4-5-2|03-3848-3471|03-3848-3471|\n|2|青井住区センター;https://www.city.adachi.tokyo.jp/juku/j-aoi.html|青井5-11-40-101|03-3852-3750|03-3852-3750|\n|3|加平住区センター;https://www.city.adachi.tokyo.jp/juku/j-kahei.html|加平1-10-6|03-3605-8842|03-3605-8842|\n|4|東和住区センター;https://www.city.adachi.tokyo.jp/juku/j-touwa.html|東和3-12-9|03-3628-6206\t|03-3628-6207|\n|5|中央本町住区センター;https://www.city.adachi.tokyo.jp/juku/j-chuuouhonnchou.html（令和7年3月頃まで休館）|中央本町3-15-1|03-3852-1434|03-3852-1434|\n|6|弘道住区センター;https://www.city.adachi.tokyo.jp/juku/j-koudou.html|弘道2-16-1-101|03-3840-9354|03-3840-9354|\n|7|五反野コミュニティセンター;https://www.city.adachi.tokyo.jp/juku/j-gotanno.html|西綾瀬2-1-13|03-3886-2643|03-3886-2643|\n|8|綾瀬住区センター;https://www.city.adachi.tokyo.jp/juku/j-ayase.html|綾瀬3-17-9|03-3628-9908|03-3628-9908|\n|9|東綾瀬住区センター;https://www.city.adachi.tokyo.jp/juku/j-higashiayase.html|東綾瀬1-28-7|03-5697-3370|03-5697-3370|\n\n千住・新田エリア\n千住・新田エリアマップ;https://www.city.adachi.tokyo.jp/images/50741/area-ss.jpg\n\n|NO.|施設名|住所|電話番号|FAX番号|\n|:----|:----|:----|:----|:----|\n|1|千住柳町住区センター;https://www.city.adachi.tokyo.jp/juku/j-yanagichou.html|千住柳町12-5|03-3870-3490|03-3870-3491|\n|2|千住本町住区センター;https://www.city.adachi.tokyo.jp/juku/j-senhon.html|千住5-6-2|03-3870-6221|03-3870-6221|\n|3|千住河原町住区センター;https://www.city.adachi.tokyo.jp/juku/j-kawarachou.html|千住河原町5-12|03-3870-7229|03-3870-7229|\n|4|千住あずま住区センター;https://www.city.adachi.tokyo.jp/juku/j-azuma.html|千住東2-21-18|03-3882-1218|03-3882-1218|\n|5|新田住区センター;https://www.city.adachi.tokyo.jp/juku/j-sinden.html|新田2-2-2|03-3912-3421|03-3912-3421|\n|6|江南住区センター;https://www.city.adachi.tokyo.jp/juku/j-kounan.html|小台2-4-18|03-3914-3427|03-3914-3427|　"
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関する各種コミュニティ・団体一覧",
+    "shortName": "足立区の住区（コミュニティ）センター（児童館・悠々館・学童保育室・集会施設）"
+  },
+  "localGovernmentLink": {
+    "title": "足立区の住区（コミュニティ）センター（児童館・悠々館・学童保育室・集会施設）",
+    "uri": "https://www.city.adachi.tokyo.jp/juku/jyuukusennta-.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "足立区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第35条第3項、第15条第5項　",
+    "regulationName": "児童福祉法、児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "青井住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-kurisima.html"
+    },
+    {
+      "title": "栗島住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-umeda.html"
+    },
+    {
+      "title": "梅田住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-motoseki.html"
+    },
+    {
+      "title": "本木関原住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-okimoto.html"
+    },
+    {
+      "title": "興本住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-ougi.html"
+    },
+    {
+      "title": "扇住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-kouhoku.html"
+    },
+    {
+      "title": "江北コミュニティセンター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-umejima.html"
+    },
+    {
+      "title": "梅島住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-sakaechou.html"
+    },
+    {
+      "title": "西新井栄町住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-nisihonn.html"
+    },
+    {
+      "title": "長門住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/nagato.html"
+    },
+    {
+      "title": "長門住区センター分館",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-ooyata.html"
+    },
+    {
+      "title": "大谷田住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-yanaka.html"
+    },
+    {
+      "title": "大谷田谷中住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-hotuka.html"
+    },
+    {
+      "title": "保塚住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-hirano.html"
+    },
+    {
+      "title": "平野住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-mutugi.html"
+    },
+    {
+      "title": "六木住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-sano.html"
+    },
+    {
+      "title": "佐野住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-sinmei.html"
+    },
+    {
+      "title": "神明住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-nanpata.html"
+    },
+    {
+      "title": "南花畑住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-hanaho.html"
+    },
+    {
+      "title": "花保住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-hanahata.html"
+    },
+    {
+      "title": "桜花住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-ouka.html"
+    },
+    {
+      "title": "桜花住区センター分館",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/30jyuku.html"
+    },
+    {
+      "title": "島根住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-shimane.html"
+    },
+    {
+      "title": "西新井住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-nisiarai.html"
+    },
+    {
+      "title": "鹿浜住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-sikahama.html"
+    },
+    {
+      "title": "竹の塚六月住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-rokugatu.html"
+    },
+    {
+      "title": "栗原北住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-kurikita.html"
+    },
+    {
+      "title": "西伊興住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-nisiikou.htm"
+    },
+    {
+      "title": "西新井本町住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-nagato.html"
+    },
+    {
+      "title": " クリエイティブ・コモンズ表示4.0国際ライセンス【オープンデータ】住区センター一覧（UTF-8）（CSV：5KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/k-kyoiku/kosodate/tsudoinoba-jidokan.html"
+    },
+    {
+      "title": "クリエイティブ・コモンズ表示4.0国際ライセンス【オープンデータ】住区センター一覧（エクセル：34KB）",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/fukushi-kenko/koresha/1.html"
+    },
+    {
+      "title": "児童館学童保育室",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-kounan.html"
+    },
+    {
+      "title": "悠々館",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-sinden.html"
+    },
+    {
+      "title": "江南住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-azuma.html"
+    },
+    {
+      "title": "新田住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-kawarachou.html"
+    },
+    {
+      "title": "千住あずま住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-senhon.html"
+    },
+    {
+      "title": "千住河原町住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-yanagichou.html"
+    },
+    {
+      "title": "千住本町住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-higashiayase.html"
+    },
+    {
+      "title": "千住柳町住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-ayase.html"
+    },
+    {
+      "title": "綾瀬住区センター;東綾瀬住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-gotanno.html"
+    },
+    {
+      "title": "五反野コミュニティセンター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-koudou.html"
+    },
+    {
+      "title": "弘道住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-chuuouhonnchou.html"
+    },
+    {
+      "title": "中央本町住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-touwa.html"
+    },
+    {
+      "title": "東和住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-kahei.html"
+    },
+    {
+      "title": "加平住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-aoi.html"
+    },
+    {
+      "title": "押皿谷住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-osaraya.html"
+    },
+    {
+      "title": "加賀住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-kaga.html"
+    },
+    {
+      "title": "渕江住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-futie.html"
+    },
+    {
+      "title": "入谷住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-iriya.html"
+    },
+    {
+      "title": "渕江住区センター分館",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/30juku.html"
+    },
+    {
+      "title": "東伊興住区センター分館",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-seikatukan.html"
+    },
+    {
+      "title": "東伊興住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-higashiikou.html"
+    },
+    {
+      "title": "伊興住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-ikou.html"
+    },
+    {
+      "title": "舎人住区センター",
+      "uri": "https://www.city.adachi.tokyo.jp/juku/j-toneri.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "住区センターは、児童の健全育成のための「児童施設」、放課後に子どもが安心して過ごせる生活の場「学童保育室」、高齢者の生きがいづくりのための「高齢者施設」、地域住民の学習や交流のための「集会施設」を複合し、乳幼児から高齢者までが、様々なかたちで利用することができます。",
+  "support": {
+    "description": "住区（コミュニティ）センターには、児童の健全育成のための児童施設「児童館」、放課後に子どもが安心して過ごせる生活の場「学童保育室」、高齢者の生きがいづくりのための高齢者施設「悠々館」、地域住民の学習や交流のための貸出施設があり、乳幼児から高齢者までが、様々なかたちで利用することができます。",
+    "materiallySupport": "住区（コミュニティ）センターには、児童の健全育成のための児童施設「児童館」、放課後に子どもが安心して過ごせる生活の場「学童保育室」、高齢者の生きがいづくりのための高齢者施設「悠々館」、地域住民の学習や交流のための貸出施設があり、乳幼児から高齢者までが、様々なかたちで利用することができます。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

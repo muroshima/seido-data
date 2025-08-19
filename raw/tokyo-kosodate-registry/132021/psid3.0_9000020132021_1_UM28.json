@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132021;立川市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子ども政策課　",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020132021",
+    "psid": "psid3.0+9000020132021+1+UM28"
+  },
+  "belongings": "住民票、戸籍謄本、印鑑証明書、所得を明らかにする書類、資金に応じた添付書類などが必要です。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "立川市泉町1156-9",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 子ども政策課 手当・医療費給付係",
+    "contactPhone": "042-528-4798",
+    "contactUrl": null,
+    "zipCode": "1908666"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ひとり親家庭や女性の方々が経済的に自立して、安定した生活を送るために必要とする資金をお貸ししています。\n\n対象となる方\n次のいずれかに該当する、都内に6か月以上お住まいの方が対象となります。\n母子家庭の母又は父子家庭の父で、20歳未満のお子さんを扶養している方\n配偶者がいない女性で親族を扶養している方、または扶養していないが年間所得が2,036,000円以下でかつて母子家庭の母だった方もしくは婚姻歴のある40歳以上の方\n資金の種類\n就学支度、修学、技能習得、生活、転宅、修業など12種類。\n\n借入れの相談\n必ず事前にご相談ください。\n\n保証人（独立した生計を立てている方で、保証債務のすべてを負担できる所得のある方）が必要です。\n住民票、戸籍謄本、印鑑証明書、所得を明らかにする書類、資金に応じた添付書類などが必要です。\n相談により資金の申請が適切と判断された場合は、申請後審査を経たうえで貸付を決定します。\n申請受付後、資金交付まで1カ月ほどがかかります。余裕をもってご相談ください。\n審査\n審査の結果、貸付の目的を達成することが困難と認められる場合は、貸付できない場合もありますのでご了承ください。\n\n償還\n原則として元金均等月賦返済で毎月末日に口座引き落としになります。\n虚偽の申し込みや著しい滞納があった場合には、督促・催告通知のほか保証人への請求、財産差押の処分を受けることもあります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "母子父子寡婦福祉資金",
+    "shortName": "東京都母子及び父子・女性福祉資金の貸付"
+  },
+  "localGovernmentLink": {
+    "title": "東京都母子及び父子・女性福祉資金の貸付",
+    "uri": "https://www.city.tachikawa.lg.jp/kosodate/m-kosodate/1004938/1004951.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "立川市"
+  },
+  "procedureCounter": "子ども家庭部 子ども政策課 手当・医療費給付係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "借入れの相談\n必ず事前にご相談ください。\n\n保証人（独立した生計を立てている方で、保証債務のすべてを負担できる所得のある方）が必要です。\n住民票、戸籍謄本、印鑑証明書、所得を明らかにする書類、資金に応じた添付書類などが必要です。\n相談により資金の申請が適切と判断された場合は、申請後審査を経たうえで貸付を決定します。\n申請受付後、資金交付まで1カ月ほどがかかります。余裕をもってご相談ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（母子福祉資金の貸付け）、第14条（母子・父子福祉団体に対する貸付け）、第31条の6（父子福祉資金の貸付け）、第32条（寡婦福祉資金の貸付け）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "母子家庭の母、父子家庭の父、および寡婦の方の経済的自立や、扶養しているお子さんの福祉増進のために、必要な資金をお貸しする制度です。",
+  "support": {
+    "description": "資金の種類\n就学支度、修学、技能習得、生活、転宅、修業など12種類。",
+    "materiallySupport": null,
+    "monetarySupport": "資金の種類\n就学支度、修学、技能習得、生活、転宅、修業など12種類。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "次のいずれかに該当する、都内に6か月以上お住まいの方が対象となります。\n\n母子家庭の母又は父子家庭の父で、20歳未満のお子さんを扶養している方\n配偶者がいない女性で親族を扶養している方、または扶養していないが年間所得が2,036,000円以下でかつて母子家庭の母だった方もしくは婚姻歴のある40歳以上の方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次のいずれかに該当する、都内に6か月以上お住まいの方が対象となります。\n\n母子家庭の母又は父子家庭の父で、20歳未満のお子さんを扶養している方\n配偶者がいない女性で親族を扶養している方、または扶養していないが年間所得が2,036,000円以下でかつて母子家庭の母だった方もしくは婚姻歴のある40歳以上の方"
+  },
+  "updateDate": "2024-04-18",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

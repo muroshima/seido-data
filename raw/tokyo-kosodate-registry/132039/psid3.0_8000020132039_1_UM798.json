@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132039;武蔵野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子ども育成課（保育認定担当）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132039",
+    "psid": "psid3.0+8000020132039+1+UM798"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": " 東京都武蔵野市緑町2-2-28",
+    "contactComment": "ファクス番号：0422-51-9223",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 子ども育成課（保育認定担当）",
+    "contactPhone": "0422-60-1854",
+    "contactUrl": "https://www.city.musashino.lg.jp/cgi-crm/CRM030/CRM030_001/G00800200/1006902",
+    "zipCode": "1808777"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "離乳食\n\n離乳食についてご案内します。\n\n武蔵野市の公立保育所の栄養士が作る「離乳食のしおり」を紹介します。\nご家庭での離乳食作りにお役立てください。\n\n詳しくは下記添付ファイルをご覧ください。\n\n添付ファイル\n離乳食のしおり （PDF 895.1KB）;https://www.city.musashino.lg.jp/_res/projects/default_project/_page_/001/006/902/rinyuusyokunosiori.2018-2.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "離乳食教室",
+    "shortName": "離乳食"
+  },
+  "localGovernmentLink": {
+    "title": "離乳食",
+    "uri": "https://www.city.musashino.lg.jp/shussan_kodomo_kyoiku/kodomo_kosodate/hoikuen_yochien_kodomoen/ninkahoikusho_chiikihoikujigyo/shitsunokakuho/1006902.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "武蔵野市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第3条（乳幼児の健康の保持増進）、9条（知識の普及）、法第5条（子どもの食育における保護者、教育関係者等の役割）、21条 （地域における食生活の改善のための取組の推進）",
+    "regulationName": "母子保健法、食育基本法"
+  },
+  "relatedLink": [
+    {
+      "title": "離乳食のしおり （PDF 895.1KB）",
+      "uri": "https://www.city.musashino.lg.jp/_res/projects/default_project/_page_/001/006/902/rinyuusyokunosiori.2018-2.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "生後3～10か月前後のお子さんとその保護者を対象に、離乳食を始める時のポイントやすすめ方についての講座を開催しています。離乳食のいろいろな悩みに栄養士がお答えします。また、離乳食の作り方の実演や試食もあります。",
+  "support": {
+    "description": "離乳食についてご案内します。\n武蔵野市の公立保育所の栄養士が作る「離乳食のしおり」を紹介します。\nご家庭での離乳食作りにお役立てください。\n詳しくは下記添付ファイルをご覧ください。\n\n添付ファイル\n離乳食のしおり （PDF 895.1KB）;https://www.city.musashino.lg.jp/_res/projects/default_project/_page_/001/006/902/rinyuusyokunosiori.2018-2.pdf",
+    "materiallySupport": "離乳食についてご案内します。\n武蔵野市の公立保育所の栄養士が作る「離乳食のしおり」を紹介します。\nご家庭での離乳食作りにお役立てください。\n詳しくは下記添付ファイルをご覧ください。\n\n添付ファイル\n離乳食のしおり （PDF 895.1KB）;https://www.city.musashino.lg.jp/_res/projects/default_project/_page_/001/006/902/rinyuusyokunosiori.2018-2.pdf",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2018-03-23",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

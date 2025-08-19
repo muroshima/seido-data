@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "131156;杉並区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "杉並保健所健康推進課健康推進係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131156",
+    "psid": "psid3.0+8000020131156+1+UM34"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都杉並区荻窪5丁目20番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "杉並保健所健康推進課健康推進係",
+    "contactPhone": "03-3391-1355",
+    "contactUrl": null,
+    "zipCode": "1670051"
+  },
+  "cost": null,
+  "costConditions": "登録期間中、3回までは無料。（5回目以降の継続は任意で有料となります）",
+  "description": "杉並区妊活LINE（ライン）サポート事業のご案内\nページ番号1066695　 更新日 令和6年4月1日 印刷\n\n妊娠を望む方や不妊に悩む方、専門家に気軽に相談してみませんか\n\nこの事業は区が株式会社ファミワンに委託し、不妊症看護認定看護師や臨床心理士、胚培養士など専門家によるアドバイスをお届けします。時間を選ばず、匿名で相談ができますのでお気軽にご利用ください。\n\n対象者\n区内在住・在勤・在学の方\n\n利用手順\nLINEの「友だち追加」からID検索（＠famione）または添付ファイルのチラシにある2次元コードから「ファミワンプラス」を友だち追加\nクーポンコード「sgnm杉並区◯◯」を入力（◯◯には住所や勤務先等の町名を入力）\n「妊活チェックシート」を入力して送信\nチェックシートに基づいた「初回アドバイス」が届く\n相談内容を書いて送信\n以後の相談のやり取りの往復を1回とカウントする\n費用\n登録期間中、3回までは無料。（4回目以降の継続は任意で有料となります）\n\n添付ファイル\n杉並区妊活LINEサポート事業チラシ （PDF 1.7MB）;https://www.city.suginami.tokyo.jp/_res/projects/default_project/_page_/001/066/695/ninkatutirasi.pdf\n関連情報\n特定不妊治療費助成;https://www.city.suginami.tokyo.jp/guide/kosodate/ninshin/1004674.html\n仕事と不妊治療の両立について;https://www.city.suginami.tokyo.jp/guide/kosodate/ninshin/1055977.html\nいつか子供がほしいと思っているあなたへ;https://www.city.suginami.tokyo.jp/guide/kosodate/ninshin/1055978.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関するサポート",
+    "shortName": "杉並区妊活LINE（ライン）サポート事業"
+  },
+  "localGovernmentLink": {
+    "title": "杉並区妊活LINE（ライン）サポート事業のご案内",
+    "uri": "https://www.city.suginami.tokyo.jp/guide/kosodate/ninshin/1066695.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "杉並区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "杉並区が事業者に委託し、不妊症看護認定看護師や臨床心理士、胚培養士など専門家によるアドバイスをお届けします。時間を選ばず、匿名で相談ができますのでお気軽にご利用ください。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住・在勤・在学の方"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "LINEの「友だち追加」からID検索（＠famione）または添付ファイルのチラシにある2次元コードから「ファミワンプラス」を友だち追加\nクーポンコード「sgnm杉並区◯◯」を入力（◯◯には住所や勤務先等の町名を入力）\n「妊活チェックシート」を入力して送信\nチェックシートに基づいた「初回アドバイス」が届く\n相談内容を書いて送信\n以後の相談のやり取りの往復を1回とカウントする",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

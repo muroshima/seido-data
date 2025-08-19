@@ -1,0 +1,146 @@
+{
+  "area": {
+    "areaCode": "131113;大田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康づくり課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131113",
+    "psid": "psid3.0+1000020131113+1+UM5011"
+  },
+  "belongings": "・母子健康手帳\n・妊娠届本人控\n（注釈1）　妊娠届と同時に妊婦面接を受ける方は不要です。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "大森地域健康課,調布地域健康課,蒲田地域健康課,糀谷・羽田地域健康課,健康づくり課",
+    "contactPhone": "03-5764-0661,03-3726-4145,03-5713-1701,03-3743-4161,03-5744-1661",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊婦面接\n\n内容\n妊娠期から出産・子育て期への切れ目ない支援のきっかけづくりとして、妊婦の方に対し保健師又は助産師が、お話を伺う面接を実施しています。\nお受けいただいた妊婦の方に「大田区子育て応援ギフト1万円相当」 （大田区に住民登録されている方）と「出産応援ギフト5万円相当」を差し上げます。\n（注釈1）出産応援ギフトについては、要件があります。こちらをご確認下さい。\n\n出産・子育て応援事業;https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/syussankosodate.html\n\n対象者\n・面接日現在、大田区に住民登録のある妊婦の方\n・大田区へ転入された妊婦の方\n（他の区市町村へ妊娠届を出された方で、面接日現在大田区に住民登録がある妊婦の方）\n\n面接実施場所\n管轄の地域健康課でお受けください。 管轄の地域健康課は以下の「各地域健康課管轄一覧」でご確認ください。\n・大森地域健康課\n・調布地域健康課\n・蒲田地域健康課\n・糀谷・羽田地域健康課\n（注1）平日の場合、妊娠届出と同時に妊婦面接を受けることが出来ます。\n　(注2）土曜日の面接は、妊娠届出と同時に行うことはできません。\n\n妊婦面接の予約方法\n・　妊婦面接予約システム又は管轄の地域健康課へ電話で予約をお願いします。\n・　面接は平日及び月1回土曜日に行っております。\n　　予約日時、予約状況は予約システムでご確認ください。\n・　ご予約はできるだけ妊婦さんご自身でお願いいたします。\n　　代理の方が予約をされる際は、時間・場所・注意事項などを必ず妊婦さんへ事前にお伝えください。\n・　妊娠届を他の区市町村で提出された後に、大田区に転入された妊婦の方も対象となります。\n\n妊婦面接予約システム\n↑　妊婦面接予約システムはこちら;https://otacity-ninpumensetsu.revn.jp/\n「妊婦面接」案内ちらし（PDF：229KB）;https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/karugamo.files/06chirashi.pdf\n\n各地域健康課管轄一覧（PDF：206KB）;https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/karugamo.files/06kankatsuichiran.pdf\n\n持ち物\n・母子健康手帳\n・妊娠届本人控\n（注釈1）　妊娠届と同時に妊婦面接を受ける方は不要です。\n\n来所にあたってのお願い\n体調がすぐれない場合は、来所を控えていただきますようお願いいたします。\n関連リンク\n妊娠したら;https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/ninsin.html",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "妊婦面接予約システム",
+      "uri": "https://otacity-ninpumensetsu.revn.jp/"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "管轄の地域健康課"
+  },
+  "institutionName": {
+    "canonicalName": "伴走型相談支援",
+    "shortName": "妊婦面接"
+  },
+  "localGovernmentLink": {
+    "title": "妊婦面接",
+    "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/karugamo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "大田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "妊婦面接予約システム又は管轄の地域健康課へ電話で予約",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "妊婦さんご自身",
+  "regulation": {
+    "regulationArticle": "別紙：伴走型相談支援及び出産・子育て応援給付金の一体的実施事業実施要綱「伴走型相談支援」（別添１）",
+    "regulationName": "伴走型相談支援及び出産・子育て応援給付金の一体的実施事業の実施について（子発1226第1号 令和4年12月26日）"
+  },
+  "relatedLink": [
+    {
+      "title": "各地域健康課管轄一覧",
+      "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/karugamo.files/06kankatsuichiran.pdf"
+    },
+    {
+      "title": "出産・子育て応援事業",
+      "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/syussankosodate.html"
+    },
+    {
+      "title": "「妊婦面接」案内ちらし",
+      "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/karugamo.files/06chirashi.pdf"
+    },
+    {
+      "title": "妊娠したら",
+      "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/ninsin.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "すべての妊婦さんと子育て家庭が安心して出産・子育てができるように、妊娠から出産・子育てまでの一貫した「伴走型相談支援」を実施しています。",
+  "support": {
+    "description": "妊娠期から出産・子育て期への切れ目ない支援のきっかけづくりとして、妊婦の方に対し保健師又は助産師が、お話を伺う面接を実施しています",
+    "materiallySupport": "妊娠期から出産・子育て期への切れ目ない支援のきっかけづくりとして、妊婦の方に対し保健師又は助産師が、お話を伺う面接を実施しています",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "・面接日現在、大田区に住民登録のある妊婦の方\n・大田区へ転入された妊婦の方\n（他の区市町村へ妊娠届を出された方で、面接日現在大田区に住民登録がある妊婦の方）"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

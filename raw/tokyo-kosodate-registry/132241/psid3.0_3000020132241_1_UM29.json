@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132241;多摩市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センター母子保健担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132241",
+    "psid": "psid3.0+3000020132241+1+UM29"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭センター母子保健担当",
+    "contactPhone": "042-376-9177",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "１０．未熟児の養育医療\n\n対 象 者\n次のいずれかに該当する新生児\n① 出生時体重が２，０００グラム以下\n② 生活力が特に薄弱であって、次のいずれかの症状がある\n・一般状況（運動不安・けいれん・運動異常）\n・体温が３４度以下\n・呼吸器、循環器系（強度のチアノーゼが持続、呼吸数が毎分３０回以下等）\n・消化器系（生後２４時間以上排便がない、４８時間以上嘔吐が持続等）\n・黄だん（生後数時間以内に出現、異常に強い場合等）\n内 容\n新生児で、医師が入院養育の必要を認めた方の医療費を助成（保険適用外の費用は除く）\n申請方法\n健康推進課までお問い合わせください。\n問 合 せ\n健康推進課（健康センター）\n電話０４２－３７６－９１７７（直通） ＦＡＸ０４２－３７１－１２３５",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "未熟児養育医療の給付",
+    "shortName": "未熟児の養育医療"
+  },
+  "localGovernmentLink": {
+    "title": "令和6年度版\n福祉のしおり\n障がい福祉編",
+    "uri": "https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/003/025/hukushinosiori0601.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "多摩市"
+  },
+  "procedureCounter": "健康推進課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "健康推進課までお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第20条（養育医療）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "未熟児養育医療の給付とは、身体の発育が未熟なまま生まれ入院を必要とする乳児が、指定養育医療機関において入院治療を受ける場合に、その治療に要する医療費を公費により負担する制度です。ただし、世帯の所得税額に応じて、入院治療費の一部は自己負担となります。",
+  "support": {
+    "description": "新生児で、医師が入院養育の必要を認めた方の医療費を助成（保険適用外の費用は除く）",
+    "materiallySupport": null,
+    "monetarySupport": "新生児で、医師が入院養育の必要を認めた方の医療費を助成（保険適用外の費用は除く）"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "089"
+    ]
+  },
+  "target": {
+    "conditions": "新生児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次のいずれかに該当する新生児\n① 出生時体重が２，０００グラム以下\n② 生活力が特に薄弱であって、次のいずれかの症状がある\n・一般状況（運動不安・けいれん・運動異常）\n・体温が３４度以下\n・呼吸器、循環器系（強度のチアノーゼが持続、呼吸数が毎分３０回以下等）\n・消化器系（生後２４時間以上排便がない、４８時間以上嘔吐が持続等）\n・黄だん（生後数時間以内に出現、異常に強い場合等）"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

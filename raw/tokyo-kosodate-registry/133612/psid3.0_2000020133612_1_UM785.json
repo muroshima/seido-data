@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "133612;大島町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "大島町子ども家庭支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020133612",
+    "psid": "psid3.0+2000020133612+1+UM785"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "大島町子ども家庭支援センター",
+    "contactPhone": "04992-2-2381",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "利用料金 １回 ２時間まで １，５００円\n２時間以上４時間まで ３，０００円",
+  "description": "「どうしよう・・・」「こまったわ・・・」のおかあさん、おとうさんを応援します。\n\n育児支援ヘルパー事業『てんとうむし』\n 出産後、夫以外に家族もいないし、実家も遠いし助けてもらえる人もいなくて不安・・こまったわ。\n どうぞお気軽に、ご相談ください。\n\n―どんな人が、どれくらいの期間、料金は―\n＊大島在住で昼間、育児や家事を手伝ってくれる人がいない家庭等。\n利用期間 母子手帳交付から出産後６ヶ月目の末日まで\n （１日１回を１０回まで）\n利用時間 月曜日～土曜日 ９時～５時まで\n利用料金 １回 ２時間まで １，５００円\n ２時間以上４時間まで ３，０００円\n― 問い合わせ先 ―\n大島町子ども家庭支援センター\n電話 ０４９９２－２－２３８１\n【利用申し込みの流れ】\n１．申し込み受付\n・利用日の５日前までに「子ども家庭支援センター」２－２３８１まで連絡し申請書を提出してください。\n２．申請内容を審査します。\n３．決定連絡\n４．当日、申請時間にヘルパーが利用者宅を訪問します。\n５．料金支払いについては後日「納付書」が送付されますのでお支払いください。\n わからないこと、心配なことがありましたらお気軽にご連絡ください。\n相談を待っています。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "産前産後ヘルパーの派遣",
+    "shortName": "育児支援ヘルパー事業『てんとうむし』"
+  },
+  "localGovernmentLink": {
+    "title": "育児支援ヘルパー事業『てんとうむし』",
+    "uri": "https://www.town.oshima.tokyo.jp/uploaded/attachment/3193.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-30",
+    "updater": "大島町"
+  },
+  "procedureCounter": "大島町子ども家庭支援センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "【利用申し込みの流れ】\n１．申し込み受付\n・利用日の５日前までに「子ども家庭支援センター」２－２３８１まで連絡し申請書を提出してください。\n２．申請内容を審査します。\n３．決定連絡\n４．当日、申請時間にヘルパーが利用者宅を訪問します。\n５．料金支払いについては後日「納付書」が送付されますのでお支払いください。",
+  "procedurePeriod": {
+    "conditions": "利用日の５日前までに「子ども家庭支援センター」２－２３８１まで連絡し申請書を提出してください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "産前産後の体調不良などにより、家事や育児が困難なご家庭に、日常的な掃除・洗濯・食事の支度などの家事や、もく浴・おむつ交換・きょうだいのお世話などの育児を手伝うホームヘルパーを派遣します。",
+  "support": {
+    "description": "「どうしよう・・・」「こまったわ・・・」のおかあさん、おとうさんを応援します。",
+    "materiallySupport": "「どうしよう・・・」「こまったわ・・・」のおかあさん、おとうさんを応援します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "利用期間 母子手帳交付から出産後６ヶ月目の末日まで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 6
+    },
+    "targetPersons": "大島在住で昼間、育児や家事を手伝ってくれる人がいない家庭等。"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": true,
+  "utilization": "【利用申し込みの流れ】\n１．申し込み受付\n・利用日の５日前までに「子ども家庭支援センター」２－２３８１まで連絡し申請書を提出してください。\n２．申請内容を審査します。\n３．決定連絡\n４．当日、申請時間にヘルパーが利用者宅を訪問します。\n５．料金支払いについては後日「納付書」が送付されますのでお支払いください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日～土曜日 ９時～５時まで",
+    "fromHM": "09:00",
+    "toHM": "17:00"
+  }
+}

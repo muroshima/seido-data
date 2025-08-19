@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "131105;目黒区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "障害者支援課 支援サービス係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131105",
+    "psid": "psid3.0+1000020131105+1+UM63"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都目黒区上目黒二丁目19番15号",
+    "contactComment": "ファクス：03-3715-4424",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "障害者支援課 支援サービス係",
+    "contactPhone": "03-5722-9846",
+    "contactUrl": null,
+    "zipCode": "1538573"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "障害児福祉手当\n目次\n\n対象となるかた;https://www.city.meguro.tokyo.jp/shougaishien/kenkoufukushi/shougaisha/shougaiji_teate.html#p1\n支給制限;https://www.city.meguro.tokyo.jp/shougaishien/kenkoufukushi/shougaisha/shougaiji_teate.html#p2\n手当額;https://www.city.meguro.tokyo.jp/shougaishien/kenkoufukushi/shougaisha/shougaiji_teate.html#p3\n支払月;https://www.city.meguro.tokyo.jp/shougaishien/kenkoufukushi/shougaisha/shougaiji_teate.html#p4\n申請書・申請方法;https://www.city.meguro.tokyo.jp/shougaishien/kenkoufukushi/shougaisha/shougaiji_teate.html#p5\n障害児福祉手当は、国の制度です。\n\n20歳未満の身体又は精神に重度の障害を有する児童に対して支給される手当です。ただし、所得制限があります。\n\n対象となるかた\n身体又は精神に重度の障害を有するため、日常生活において常時の介護を必要とする状態にある20歳未満のかた\n\n所定の診断書により判定します。診断書は障害の部位により、「肢体不自由用」「精神の障害用」「心臓疾患用」「結核及び換気機能障害用」「腎臓疾患用」「肝臓・血液・その他疾患用」「視覚障害用」「聴覚障害用」の8種類あります。\n診断書料は申請者の自己負担となります。\n支給制限\n次のいずれかにあてはまるかたは受給できません。\n\n施設に入所しているかた\n障害を支給事由とする公的年金を受給しているかた\n受給者本人の所得が下表（所得制限基準表）の限度額を超えているとき\n受給者の配偶者、または扶養義務者の所得が下表（所得制限基準表）の限度額以上のとき\n所得制限基準表\n扶養人数 受給対象者本人の所得限度額 配偶者または扶養義務者の所得限度額\n0人 3,604,000円 6,287,000円\n1人 3,984,000円 6,536,000円\n2人 4,364,000円 6,749,000円\n3人 4,744,000円 6,962,000円\n4人 5,124,000円 7,175,000円\n手当額\n月額15,690円（令和6年4月改定）\n\n支払月\n5月・8月・11月・2月\n\n申請書・申請方法\n申請を希望されるかたは、障害者支援課支援サービス係までお問い合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "障害児福祉手当",
+    "shortName": "障害児福祉手当"
+  },
+  "localGovernmentLink": {
+    "title": "障害児福祉手当",
+    "uri": "https://www.city.meguro.tokyo.jp/shougaishien/kenkoufukushi/shougaisha/shougaiji_teate.html#p5"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "目黒区"
+  },
+  "procedureCounter": "障害者支援課支援サービス係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請を希望されるかたは、障害者支援課支援サービス係までお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "申請を希望されるかたは、障害者支援課支援サービス係までお問い合わせください。",
+  "regulation": {
+    "regulationArticle": "第3章",
+    "regulationName": "特別児童扶養手当等の支給に関する法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "身体または精神に重度の障がいのある20歳未満の方で、日常生活において常時介護を必要とする方に対し、手当が支給されます。",
+  "support": {
+    "description": "月額15,690円（令和6年4月改定）",
+    "materiallySupport": null,
+    "monetarySupport": "月額15,690円（令和6年4月改定）"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "身体又は精神に重度の障害を有するため、日常生活において常時の介護を必要とする状態にある20歳未満のかた\n\n所定の診断書により判定します。診断書は障害の部位により、「肢体不自由用」「精神の障害用」「心臓疾患用」「結核及び換気機能障害用」「腎臓疾患用」「肝臓・血液・その他疾患用」「視覚障害用」「聴覚障害用」の8種類あります。\n診断書料は申請者の自己負担となります。"
+  },
+  "updateDate": "2024-05-01",
+  "useConsiderationFlag": true,
+  "utilization": "申請を希望されるかたは、障害者支援課支援サービス係までお問い合わせください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

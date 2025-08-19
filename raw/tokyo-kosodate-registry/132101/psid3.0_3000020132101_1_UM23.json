@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132101;小金井市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課手当助成係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132101",
+    "psid": "psid3.0+3000020132101+1+UM23"
+  },
+  "belongings": "3　申請に必要なもの;https://www.city.koganei.lg.jp/smph/kosodatekyoiku/N84/iryohi/kodomo_iryohi/iryo212.html\n　・健康保険証（子ども）\n　・その他",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": "s050599(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+    "contactEx": null,
+    "contactName": "子育て支援課手当助成係",
+    "contactPhone": "042-387-9839",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子どもの医療費助成（乳幼児医療費助成・義務教育就学児医療費助成）制度\n更新日：2021年4月9日\n\n　市では、子どもの保健の向上と健やかな育成を図り、子育て支援に役立てることを目的として、0歳から15歳（中学3年生）までの子どもに対する医療費の助成を実施しています。\n　なお、令和3年10月に、義務教育就学児医療費助成制度の小学4年生から小学6年生までの所得制限がなくなります。詳しくは、こちらのページで御確認ください。\n\n1 　制度の概要・助成の範囲について:https://www.city.koganei.lg.jp/smph/kosodatekyoiku/N84/iryohi/kodomo_iryohi/iryou20191001.html\n　・乳幼児医療費助成制度\n　・義務教育就学児医療費助成制度\n\n2　医療費助成を受けるためには（受給資格）;https://www.city.koganei.lg.jp/smph/kosodatekyoiku/N84/iryohi/kodomo_iryohi/iryou311001-2.html\n　・受給資格\n　・所得制限\n　・医療証交付申請が必要です。\n　・里帰り出産の方は、医療証交付申請忘れにご注意ください。\n\n3　申請に必要なもの;https://www.city.koganei.lg.jp/smph/kosodatekyoiku/N84/iryohi/kodomo_iryohi/iryo212.html\n　・健康保険証（子ども）\n　・その他\n\n4　助成はどのように受けるの（医療費助成の方法）;https://www.city.koganei.lg.jp/smph/kosodatekyoiku/N84/iryohi/kodomo_iryohi/iryo213.html\n　・助成の方法（現物給付と現金給付）\n　・現金給付申請時に必要なもの\n\n5　医療費助成の有効期間と更新手続（現況届）;https://www.city.koganei.lg.jp/smph/kosodatekyoiku/N84/iryohi/kodomo_iryohi/iryo215.html\n　・毎年10月1日から新しい医療証になります。\n　・年1回現況届の提出が必要です。\n\n6　消滅・各種変更手続;https://www.city.koganei.lg.jp/smph/kosodatekyoiku/N84/iryohi/kodomo_iryohi/iryo214.html\n　・小金井市外へ転出する場合\n　・市内転居した場合\n　・健康保険証が変更になった場合\n　・氏名が変更になった場合\n　・その他届出が必要な場合\n\n7　こんな場合どうする;https://www.city.koganei.lg.jp/smph/kosodatekyoiku/N84/iryohi/kodomo_iryohi/iryo216.html\n　・健康保険証を使用できなかった場合\n　・高額療養費に該当する場合\n　・小児慢性疾患一部負担金の助成の場合\n　・未熟児の養育医療一部負担金の助成の場合\n　・補装具の申請の場合\n　・健康保険証が都外に所在する国民健康保険組合の場合\n\n8　子どもの医療費助成申請窓口;https://www.city.koganei.lg.jp/smph/kosodatekyoiku/N84/iryohi/kodomo_iryohi/iryo217.html\n\n9　申請書等ダウンロードする方はこちらへ;https://www.city.koganei.lg.jp/smph/kosodatekyoiku/N84/iryohi/kodomo_iryohi/iryo218.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児医療費（子ども医療費）の助成",
+    "shortName": "子どもの医療費助成（乳幼児医療費助成・義務教育就学児医療費助成）制度"
+  },
+  "localGovernmentLink": {
+    "title": "子どもの医療費助成（乳幼児医療費助成・義務教育就学児医療費助成）制度",
+    "uri": "https://www.city.koganei.lg.jp/smph/kosodatekyoiku/N84/iryohi/kodomo_iryohi/iryo110.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "小金井市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "2　医療費助成を受けるためには（受給資格）;https://www.city.koganei.lg.jp/smph/kosodatekyoiku/N84/iryohi/kodomo_iryohi/iryou311001-2.html\n　・受給資格\n　・所得制限\n　・医療証交付申請が必要です。\n　・里帰り出産の方は、医療証交付申請忘れにご注意ください。\n\n3　申請に必要なもの;https://www.city.koganei.lg.jp/smph/kosodatekyoiku/N84/iryohi/kodomo_iryohi/iryo212.html\n　・健康保険証（子ども）\n　・その他\n\n4　助成はどのように受けるの（医療費助成の方法）;https://www.city.koganei.lg.jp/smph/kosodatekyoiku/N84/iryohi/kodomo_iryohi/iryo213.html\n　・助成の方法（現物給付と現金給付）\n　・現金給付申請時に必要なもの\n\n5　医療費助成の有効期間と更新手続（現況届）;https://www.city.koganei.lg.jp/smph/kosodatekyoiku/N84/iryohi/kodomo_iryohi/iryo215.html\n　・毎年10月1日から新しい医療証になります。\n　・年1回現況届の提出が必要です。\n\n6　消滅・各種変更手続;https://www.city.koganei.lg.jp/smph/kosodatekyoiku/N84/iryohi/kodomo_iryohi/iryo214.html\n　・小金井市外へ転出する場合\n　・市内転居した場合\n　・健康保険証が変更になった場合\n　・氏名が変更になった場合\n　・その他届出が必要な場合\n\n7　こんな場合どうする;https://www.city.koganei.lg.jp/smph/kosodatekyoiku/N84/iryohi/kodomo_iryohi/iryo216.html\n　・健康保険証を使用できなかった場合\n　・高額療養費に該当する場合\n　・小児慢性疾患一部負担金の助成の場合\n　・未熟児の養育医療一部負担金の助成の場合\n　・補装具の申請の場合\n　・健康保険証が都外に所在する国民健康保険組合の場合\n\n8　子どもの医療費助成申請窓口;https://www.city.koganei.lg.jp/smph/kosodatekyoiku/N84/iryohi/kodomo_iryohi/iryo217.html\n\n9　申請書等ダウンロードする方はこちらへ;https://www.city.koganei.lg.jp/smph/kosodatekyoiku/N84/iryohi/kodomo_iryohi/iryo218.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第１条(目的)ほか",
+    "regulationName": "小金井市乳幼児の医療費の助成に関する条例"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子どもの保健対策を充実し、子育て世帯の経済的負担を軽減するため、お子さんが病気やけがなどにより健康保険を使って医療機関で受診した場合、保険診療の自己負担分（2割または3割の全部または一部を助成しています。",
+  "support": {
+    "description": "1 　制度の概要・助成の範囲について:https://www.city.koganei.lg.jp/smph/kosodatekyoiku/N84/iryohi/kodomo_iryohi/iryou20191001.html\n　・乳幼児医療費助成制度\n　・義務教育就学児医療費助成制度\n",
+    "materiallySupport": null,
+    "monetarySupport": "1 　制度の概要・助成の範囲について:https://www.city.koganei.lg.jp/smph/kosodatekyoiku/N84/iryohi/kodomo_iryohi/iryou20191001.html\n　・乳幼児医療費助成制度\n　・義務教育就学児医療費助成制度\n"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "2　医療費助成を受けるためには（受給資格）;https://www.city.koganei.lg.jp/smph/kosodatekyoiku/N84/iryohi/kodomo_iryohi/iryou311001-2.html\n　・受給資格\n　・所得制限\n　・医療証交付申請が必要です。\n　・里帰り出産の方は、医療証交付申請忘れにご注意ください。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": 0
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "0歳から15歳（中学3年生）までの子ども"
+  },
+  "updateDate": "2021-04-09",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "area": {
+    "areaCode": "131181;荒川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部健康推進課健康推進係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020131181",
+    "psid": "psid3.0+7000020131181+1+UM29"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "荒川区荒川二丁目11番1号",
+    "contactComment": "ファクス：03-3806-0364",
+    "contactEmail": null,
+    "contactEx": "433",
+    "contactName": "健康部健康推進課健康推進係",
+    "contactPhone": "03-3802-3111",
+    "contactUrl": null,
+    "zipCode": "1168507"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "低体重等で生まれた赤ちゃんが指定医療機関に入院した場合に、医療の給付を行う制度です。所得に応じて費用の一部負担があります。\n\n対象者\n荒川区に居住する次のいずれかの症状に該当する未熟児で、入院して養育を受ける必要があると医師が認めた乳児（0歳児）が対象です。\n出生時体重が2,000グラム以下の乳児\n1以外の乳児で、生活力が特に弱く、下記の「対象となる症状」に掲げるいずれかの症状を示す乳児\n\n対象となる症状\n対象となる症状は、次のようなものです。\nけいれん、運動異常\n体温が摂氏34度以下\n強いチアノーゼなど呼吸器、循環器の異常\nくり返す嘔吐（おうと）など消化器の異常\n強い黄疸（おうだん）\n\n申請方法\n荒川区保健所健康推進課に申請します。\n\n必要書類等（1から5の書類は保健所健康推進課に置いてあります。）\n1.養育医療給付申請書\n2.養育医療意見書（医師が記入するもの）\n3.世帯調書\n4.委任状\n5.同意書\n6.住民税課税（非課税）証明書（世帯全員分。ただし、課税証明書で扶養となっていることが確認できる方の証明書は省略することができます）\n7.お子さまの健康保険証\n8.乳幼児医療証\n9.印鑑（朱肉で押すもの）\n\n指定養育医療機関\n医療費助成を受けることのできる医療機関は、全国の指定された養育医療機関です。\n\n申請期間\n出生後すみやかに申請してください。\n\nこちらの記事も読まれています\n児童手当（令和6年9月分まで）;https://www.city.arakawa.tokyo.jp/a035/jidouteate_seidokaisei.html\n児童手当　令和6年度制度拡充について（令和6年10月分から）;https://www.city.arakawa.tokyo.jp/a035/kosodate/teate/jidoteate.html\n小児慢性特定疾病医療費支給;https://www.city.arakawa.tokyo.jp/a033/kosodate/teate/manseishippei.html\n必要な届出について（乳幼児・子ども・高校生等医療費助成）;https://www.city.arakawa.tokyo.jp/a035/kosodate/teate/todokede.html\n乳幼児・子ども・高校生等医療費助成;https://www.city.arakawa.tokyo.jp/a035/kosodate/teate/iryohijyosei.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "未熟児養育医療の給付",
+    "shortName": "未熟児養育医療給付"
+  },
+  "localGovernmentLink": {
+    "title": "未熟児養育医療給付",
+    "uri": "https://www.city.arakawa.tokyo.jp/a033/kosodate/teate/mijukuji.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-08-23",
+    "updater": "荒川区"
+  },
+  "procedureCounter": "荒川区保健所健康推進課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "荒川区保健所健康推進課に申請します。\n\n必要書類等（1から5の書類は保健所健康推進課に置いてあります。）\n養育医療給付申請書\n養育医療意見書（医師が記入するもの）\n世帯調書\n委任状\n同意書\n住民税課税（非課税）証明書（世帯全員分。ただし、課税証明書で扶養となっていることが確認できる方の証明書は省略することができます）\nお子さまの健康保険証\n乳幼児医療証\n印鑑（朱肉で押すもの）\n\n指定養育医療機関\n医療費助成を受けることのできる医療機関は、全国の指定された養育医療機関です。",
+  "procedurePeriod": {
+    "conditions": "出生後すみやかに申請してください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第20条（養育医療）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "乳幼児・子ども・高校生等医療費助成",
+      "uri": "https://www.city.arakawa.tokyo.jp/a035/kosodate/teate/iryohijyosei.html"
+    },
+    {
+      "title": "児童手当",
+      "uri": "https://www.city.arakawa.tokyo.jp/a035/kosodate/teate/jidoteate.html"
+    },
+    {
+      "title": "税の証明書",
+      "uri": "https://www.city.arakawa.tokyo.jp/a012/zeikin/shoumei/shomei.html"
+    },
+    {
+      "title": "自立支援医療（育成医療費の支給）",
+      "uri": "https://www.city.arakawa.tokyo.jp/a034/kosodate/teate/iryokyufu.html"
+    },
+    {
+      "title": "バースデーサポート事業",
+      "uri": "https://www.city.arakawa.tokyo.jp/a033/kosodate/basudeisapoto/basudeisapoto.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "未熟児養育医療の給付とは、身体の発育が未熟なまま生まれ入院を必要とする乳児が、指定養育医療機関において入院治療を受ける場合に、その治療に要する医療費を公費により負担する制度です。ただし、世帯の所得税額に応じて、入院治療費の一部は自己負担となります。",
+  "support": {
+    "description": "低体重等で生まれた赤ちゃんが指定医療機関に入院した場合に、医療の給付を行う制度です。所得に応じて費用の一部負担があります。",
+    "materiallySupport": null,
+    "monetarySupport": "低体重等で生まれた赤ちゃんが指定医療機関に入院した場合に、医療の給付を行う制度です。所得に応じて費用の一部負担があります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "089"
+    ]
+  },
+  "target": {
+    "conditions": "荒川区に居住する次のいずれかの症状に該当する未熟児で、入院して養育を受ける必要があると医師が認めた乳児（0歳児）が対象です。\n出生時体重が2,000グラム以下の乳児\n1以外の乳児で、生活力が特に弱く、下記の「対象となる症状」に掲げるいずれかの症状を示す乳児\n\n対象となる症状\n対象となる症状は、次のようなものです。\nけいれん、運動異常\n体温が摂氏34度以下\n強いチアノーゼなど呼吸器、循環器の異常\nくり返す嘔吐（おうと）など消化器の異常\n強い黄疸（おうだん）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "荒川区に居住する次のいずれかの症状に該当する未熟児で、入院して養育を受ける必要があると医師が認めた乳児（0歳児）が対象です。\n出生時体重が2,000グラム以下の乳児\n1以外の乳児で、生活力が特に弱く、下記の「対象となる症状」に掲げるいずれかの症状を示す乳児\n\n対象となる症状\n対象となる症状は、次のようなものです。\nけいれん、運動異常\n体温が摂氏34度以下\n強いチアノーゼなど呼吸器、循環器の異常\nくり返す嘔吐（おうと）など消化器の異常\n強い黄疸（おうだん）"
+  },
+  "updateDate": "2020-06-17",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

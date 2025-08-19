@@ -1,0 +1,133 @@
+{
+  "area": {
+    "areaCode": "132233;武蔵村山市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部障害福祉課手当助成係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132233",
+    "psid": "psid3.0+3000020132233+2+UM67"
+  },
+  "belongings": "1.身体障害者手帳・愛の手帳又は知的障害者更生相談所等の発行する判定書\n2.印鑑\n3.加入されている保険証\n4.障害児本人名義の銀行等の通帳\n5.保険世帯主の前年の（非）課税証明書\n（注）1月1日現在、住民のかたは公簿で確認します。（5は不要）\nなお、転入のかたが、1月から8月までに行う申請には、前前年の（非）課税証明書も必要となります。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康福祉部障害福祉課手当助成係",
+    "contactPhone": "042-590-1185",
+    "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/e_03b/1000704",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "各種医療保険の自己負担分から一部負担金を差し引いた額を助成します。\nただし、入院時食事療養費・生活療養費標準負担額は助成対象外です。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の障がいのあるお子さんなどへの金銭的支援",
+    "shortName": "心身障害児医療費助成制度（区分：市制度）"
+  },
+  "localGovernmentLink": {
+    "title": "心身障害児医療費助成制度（区分：市制度）",
+    "uri": "https://www.city.musashimurayama.lg.jp/kurashi/shougai/josei/1000704.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-19",
+    "updater": "武蔵村山市"
+  },
+  "procedureCounter": "障害福祉課（市民総合センター1階）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "次の書類等をそろえて障害福祉課（市民総合センター1階）の窓口で申請をしてください。\n①　心身障害児医療費受給資格申請書\n②　健康保険証の写し\n③　個人番号カード（本人及び扶養義務者のもの）\n④　課税（非課税）証明書（転入の方のみ）\n⑤　印鑑\n（注）1月1日現在、住民のかたは公簿で確認します。（5は不要）\nなお、転入のかたが、1月から8月までに行う申請には、前前年の（非）課税証明書も必要となります。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "保護者",
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "助成所得限度額表",
+      "uri": "https://www.city.musashimurayama.lg.jp/kurashi/shougai/teate/1000684/1000687.html"
+    },
+    {
+      "title": "心身障害児医療費助成制度（マル障：市）",
+      "uri": "https://www.city.musashimurayama.lg.jp/kurashi/shinsei/shussan/1001021.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "各種医療保険の自己負担分から一部負担金を差し引いた額を助成します。",
+  "support": {
+    "description": "助成の範囲\n住民税非課税のかた\n入院時の食事代を除き、保険診療分を助成します。\n\n住民税課税のかた\n総医療費の1割分（上限あり）と入院時の食事代を除き、保険診療分を助成します。\n\n助成方法（償還払い）\n医療機関等の窓口で医療保険の自己負担分を支払い、その領収書・保険証等を持って障害福祉課（市民総合センター内）で払い戻しの請求をしてください。\n後日、指定されたお口座へ医療費助成額を振り込みます（償還払い）。",
+    "materiallySupport": null,
+    "monetarySupport": "助成の範囲\n住民税非課税のかた\n入院時の食事代を除き、保険診療分を助成します。\n\n住民税課税のかた\n総医療費の1割分（上限あり）と入院時の食事代を除き、保険診療分を助成します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "助成対象者\n武蔵村山市に住所を有している国民健康保険の被保険者及び健康保険など各種医療保険の被保険者で、下記のかたが対象となります。\n1.身体障害者手帳　3級から6級（3級は内部障害を除く）を持っている18歳未満の児童の保護者\n2.愛の手帳　3度・4度を持っている18歳未満の児童の保護者\n（注釈）保護者とは，児童の親権を行う者、後見人その他の者で、現に児童を監護するかたです。\n\n助成対象外\n1.保護者の前年の所得が下記「都・市制度の所得限度額表」の限度額を超えるとき\n2.生活保護を受けているかた\n3.中国残留邦人等の円滑な帰国の促進並びに永住帰国した中国残留邦人等及び特定配偶者の自立の支援に関する法律による支援給付を受けているかた\n4.施設に入所している児童の保護者\n5.他の地方公共団体の条例等の規定により、この制度と同内容の給付を受けているかた\n助成所得限度額表;https://www.city.musashimurayama.lg.jp/kurashi/shougai/teate/1000684/1000687.html",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "医療保険に加入している方で、次の障害に該当する18歳未満の障害児の保護者\n身体障害者手帳　3級から6級（3級は内部障害を除く）を持っている18歳未満の児童の保護者\n愛の手帳　3度・4度を持っている18歳未満の児童の保護者\n（注釈）保護者とは，児童の親権を行う者、後見人その他の者で、現に児童を監護するかたです。"
+  },
+  "updateDate": "2024-02-22",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "area": {
+    "areaCode": "132152;国立市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 保育幼児教育推進課 保育・幼稚園係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132152",
+    "psid": "psid3.0+1000020132152+1+UM89"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "国立市富士見台2-47-1 国立市役所 1階(19番窓口)",
+    "contactComment": "ファクス：042-576-2283",
+    "contactEmail": null,
+    "contactEx": "042-576-2111(内線：139,406）",
+    "contactName": "子ども家庭部 保育幼児教育推進課 保育・幼稚園係",
+    "contactPhone": "042-576-2427",
+    "contactUrl": "https://www.city.kunitachi.tokyo.jp/cgi-bin/inquiry.php/48?page_no=2525",
+    "zipCode": "1868501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div03/Sec01/gyomu/0276/0277/sinaihoikusisetuitiran/1526532535619.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "認可保育所・認定こども園（保育園枠）一覧",
+    "shortName": "市内保育施設紹介"
+  },
+  "localGovernmentLink": {
+    "title": "市内保育施設紹介",
+    "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div03/Sec01/gyomu/0276/0277/sinaihoikusisetuitiran/1526532535619.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "国立市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "なかよし",
+      "uri": "https://www.city.kunitachi.tokyo.jp/kosodate/kosodate/4/3/2/6787.html"
+    },
+    {
+      "title": "小百合学園",
+      "uri": "https://www.sayuri.ac.jp/about.html"
+    },
+    {
+      "title": "矢川",
+      "uri": "https://www.kunitachi-j.or.jp/index.html"
+    },
+    {
+      "title": "東",
+      "uri": "https://www.city.kunitachi.tokyo.jp/kosodate/kosodate/4/3/2/6788.html"
+    },
+    {
+      "title": "国立クムクム",
+      "uri": "https://www.kunitachicumcum.com/"
+    },
+    {
+      "title": "国立ひまわり",
+      "uri": "http://www.kunitachihoikukai.jp/himawari/"
+    },
+    {
+      "title": "さくらっこ",
+      "uri": "https://www.ans.co.jp/n/sakurakko/"
+    },
+    {
+      "title": "国立たいよう",
+      "uri": "https://marehoikuen.com/facilities/kunitachi_taiyo.html"
+    },
+    {
+      "title": "春光",
+      "uri": "http://shunkohoikuen.sakura.ne.jp/"
+    },
+    {
+      "title": "こぐまこどものいえ",
+      "uri": "http://www.koguma-kodomo.jp/"
+    },
+    {
+      "title": "向陽",
+      "uri": "https://kouyou.ed.jp/"
+    },
+    {
+      "title": "きたひだまり",
+      "uri": "http://kunitachihoikukai.jp/hidamari/"
+    },
+    {
+      "title": "北",
+      "uri": "http://kunitachihoikukai.jp/kita/"
+    },
+    {
+      "title": "国立",
+      "uri": "http://www.kunitachihoikukai.jp/kunitachi/"
+    },
+    {
+      "title": "国立富士見台団地風の子",
+      "uri": "https://kazenoko.hatakenbo.org/"
+    },
+    {
+      "title": "国立あおいとり",
+      "uri": "https://aoitorihoikuen.wordpress.com/"
+    },
+    {
+      "title": "和光",
+      "uri": "https://wakwau.jp/wp/"
+    },
+    {
+      "title": "西",
+      "uri": "https://www.city.kunitachi.tokyo.jp/kosodate/kosodate/4/3/2/6789.html"
+    },
+    {
+      "title": "国立あゆみ",
+      "uri": "http://www.gws.ne.jp/home/ayumi/"
+    },
+    {
+      "title": "あいわ",
+      "uri": "http://aiwa-hoikuen.jp/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育園とは、保護者が仕事や病気などのために、家庭で充分に保育することができない子どもを、保護者に代わって保育することを目的とした児童福祉施設で、法的には保育所といいます。\n保育所（保育園）のうち、国が定めた設定基準をクリアし、都道府県知事（政令市・中核市では市長）に認可された保育園を「認可保育所」といいます。\n認可保育所には公立の保育園と私立の保育園があります。\n以下は、国立市内の認可保育所（保育園）および認定こども園の保育園枠の一覧です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "認可保育所\n認可保育所\n|施設名|区分|所在地|電話番号|年齢|\n|:----|:----|:----|:----|:----|\n|なかよし;https://www.city.kunitachi.tokyo.jp/kosodate/kosodate/4/3/2/6787.html|市立|富士見台2-46|572-8011|0歳から5歳児|\n|西;https://www.city.kunitachi.tokyo.jp/kosodate/kosodate/4/3/2/6789.html|市立|富士見台3-45-1|576-7217|0歳から5歳児|\n|東;https://www.city.kunitachi.tokyo.jp/kosodate/kosodate/4/3/2/6788.html|市立|富士見台1-45-17|572-8555|0歳から5歳児|\n|春光;http://shunkohoikuen.sakura.ne.jp/|私立|西2-14-1|572-0528|0歳から5歳児|\n|国立;http://www.kunitachihoikukai.jp/kunitachi/|私立|北2-30-1|572-2717|1歳から5歳児|\n|和光;https://wakwau.jp/wp/|私立|東2-2-1|580-0843|0歳から5歳児|\n|あいわ;http://aiwa-hoikuen.jp/|私立|東2-25-1|572-2896|0歳から5歳児|\n|向陽;https://kouyou.ed.jp/|私立|谷保6746|575-3105|0歳から5歳児|\n|国立あゆみ;http://www.gws.ne.jp/home/ayumi/|私立|矢川3-20-24|576-3755|0歳から5歳児|\n|国立あおいとり;https://aoitorihoikuen.wordpress.com/|私立|泉5-2-1|572-1154|0歳から5歳児|\n|北;http://kunitachihoikukai.jp/kita/|私立|北3-1-1|577-8477|0歳から5歳児|\n|きたひだまり;http://kunitachihoikukai.jp/hidamari/|私立|北3-42-1|580-0788|0歳から5歳児|\n|こぐまこどものいえ;http://www.koguma-kodomo.jp/|私立|富士見台3-35-15|571-2312|0歳から2歳児|\n|国立たいよう;https://marehoikuen.com/facilities/kunitachi_taiyo.html|私立|富士見台2-13-10|571-8622|0歳から5歳児|\n|さくらっこ;https://www.ans.co.jp/n/sakurakko/|私立|中1-16-25<br>シャトレクインテスビル2F|571-0658|0歳から2歳児|\n|国立ひまわり;http://www.kunitachihoikukai.jp/himawari/|私立|北3-7-14|571-8520|0歳から5歳児|\n|国立クムクム;https://www.kunitachicumcum.com/|私立|中2-18-2|505-6460|0歳から5歳児|\n|矢川;https://www.kunitachi-j.or.jp/index.html|私立|富士見台4-17-64|575-3177|0歳から5歳児|\n\n認定こども園\n認定こども園\n|施設名|区分|所在地|電話番号|年齢|\n|:----|:----|:----|:----|:----|\n|小百合学園;https://www.sayuri.ac.jp/about.html|私立|中1-17-9<br>中1-17-15|576-0100<br>576-0050|0歳から5歳|\n|国立富士見台団地風の子;https://kazenoko.hatakenbo.org/|私立|富士見台3-7-1|507-8667|3歳から5歳|",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": 3
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 5,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "認可保育所\n認可保育所\n|施設名|区分|所在地|電話番号|年齢|\n|:----|:----|:----|:----|:----|\n|なかよし;https://www.city.kunitachi.tokyo.jp/kosodate/kosodate/4/3/2/6787.html|市立|富士見台2-46|572-8011|0歳から5歳児|\n|西;https://www.city.kunitachi.tokyo.jp/kosodate/kosodate/4/3/2/6789.html|市立|富士見台3-45-1|576-7217|0歳から5歳児|\n|東;https://www.city.kunitachi.tokyo.jp/kosodate/kosodate/4/3/2/6788.html|市立|富士見台1-45-17|572-8555|0歳から5歳児|\n|春光;http://shunkohoikuen.sakura.ne.jp/|私立|西2-14-1|572-0528|0歳から5歳児|\n|国立;http://www.kunitachihoikukai.jp/kunitachi/|私立|北2-30-1|572-2717|1歳から5歳児|\n|和光;https://wakwau.jp/wp/|私立|東2-2-1|580-0843|0歳から5歳児|\n|あいわ;http://aiwa-hoikuen.jp/|私立|東2-25-1|572-2896|0歳から5歳児|\n|向陽;https://kouyou.ed.jp/|私立|谷保6746|575-3105|0歳から5歳児|\n|国立あゆみ;http://www.gws.ne.jp/home/ayumi/|私立|矢川3-20-24|576-3755|0歳から5歳児|\n|国立あおいとり;https://aoitorihoikuen.wordpress.com/|私立|泉5-2-1|572-1154|0歳から5歳児|\n|北;http://kunitachihoikukai.jp/kita/|私立|北3-1-1|577-8477|0歳から5歳児|\n|きたひだまり;http://kunitachihoikukai.jp/hidamari/|私立|北3-42-1|580-0788|0歳から5歳児|\n|こぐまこどものいえ;http://www.koguma-kodomo.jp/|私立|富士見台3-35-15|571-2312|0歳から2歳児|\n|国立たいよう;https://marehoikuen.com/facilities/kunitachi_taiyo.html|私立|富士見台2-13-10|571-8622|0歳から5歳児|\n|さくらっこ;https://www.ans.co.jp/n/sakurakko/|私立|中1-16-25<br>シャトレクインテスビル2F|571-0658|0歳から2歳児|\n|国立ひまわり;http://www.kunitachihoikukai.jp/himawari/|私立|北3-7-14|571-8520|0歳から5歳児|\n|国立クムクム;https://www.kunitachicumcum.com/|私立|中2-18-2|505-6460|0歳から5歳児|\n|矢川;https://www.kunitachi-j.or.jp/index.html|私立|富士見台4-17-64|575-3177|0歳から5歳児|\n\n認定こども園\n認定こども園\n|施設名|区分|所在地|電話番号|年齢|\n|:----|:----|:----|:----|:----|\n|小百合学園;https://www.sayuri.ac.jp/about.html|私立|中1-17-9<br>中1-17-15|576-0100<br>576-0050|0歳から5歳|\n|国立富士見台団地風の子;https://kazenoko.hatakenbo.org/|私立|富士見台3-7-1|507-8667|3歳から5歳|"
+  },
+  "updateDate": "2023-10-10",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

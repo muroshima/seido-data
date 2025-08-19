@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132250;稲城市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども福祉部　おやこ包括支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132250",
+    "psid": "psid3.0+2000020132250+1+UM15"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス：042-377-4944",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども福祉部　おやこ包括支援センター",
+    "contactPhone": "042-378-3434",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "実施施設・利用料金等\n|実施施設|<|利用料金（3食付き・乳児とママの利用時）|<|<|\n|:----|:----|:----|:----|:----|\n|^|^|1泊2日|延泊時<br>1日につき|多胎児利用時<br>1日につき|\n|稲城市立病院|同院で出産から引き続き利用|5,000円|5,000円|500円|\n|^|上記以外|7,000円|5,000円|500円|\n|稲田助産院<br>※事前見学可（要予約）|<|8,000円|5,500円|3,000円|\n注釈：住民税非課税世帯、生活保護世帯は減額制度があります。",
+  "description": "産後ケア事業を利用してみませんか\n更新日：2024年4月1日\n出産後のママが安心して赤ちゃんとの生活をスタートできるように、指定の医療機関に宿泊して心身のケアや育児の支援を行う産後ケア事業を行っています。\n\n実施施設・利用料金等\n|実施施設|<|利用料金（3食付き・乳児とママの利用時）|<|<|\n|:----|:----|:----|:----|:----|\n|^|^|1泊2日|延泊時<br>1日につき|多胎児利用時<br>1日につき|\n|稲城市立病院|同院で出産から引き続き利用|5,000円|5,000円|500円|\n|^|上記以外|7,000円|5,000円|500円|\n|稲田助産院<br>※事前見学可（要予約）|<|8,000円|5,500円|3,000円|\n注釈：住民税非課税世帯、生活保護世帯は減額制度があります。\n利用できる方\n稲城市に住民票のある生後4か月未満（概ね7,000ｇ未満）の乳児とママであり、産後ケアの支援を必要とする方。\n注釈：稲田助産院は、配偶者や兄姉の利用ができる場合がございます。\n\nケアの内容\n育児全般の相談（お世話方法や観察のポイントなど）乳房ケア、ママの体調の相談、その他\n\n利用期間\n最大6泊7日。 病院の空き状況によっては希望に添えない場合もあります。1回の出産につき通算7日まで。数回に分けて利用も可。\n\n産後ケア事業利用の流れ\n（1）利用希望者は、利用希望日の2開庁日前正午までに、稲城市おやこ包括支援センター（電話042-378-3434）へ電話をしてください。利用施設・利用開始日・利用期間・母子の体調等について、保健師がお話を伺います。医療が必要等、状況によって利用できない場合があります。\n（2）稲城市おやこ包括支援センターで利用対象者に該当するか否かを協議します。\n（3）上記（2）の協議の結果、利用対象に該当すると判断された場合は、速やかに利用希望施設に電話連絡をし、日程や事前調整等を確認してください。\n（4）利用先施設と調整ができたら、下記から電子申請をしてください。その際、予めお伝えする申し込み番号の入力が必要となりますので、ご注意ください。\n（5）申請の確認ができたら、ご自宅に決定通知書を郵送します。\n稲城市産後ケア事業電子申請はこちらから;https://logoform.jp/form/KPTZ/444067\n稲城市産後ケア事業のご案内（PDF：517KB）;https://www.city.inagi.tokyo.jp/kosodate/oyakohoukatsushien_center/sangocare.files/sangokeaannaichirashiR6.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "産後ケア事業",
+    "shortName": "産後ケア事業"
+  },
+  "localGovernmentLink": {
+    "title": "産後ケア事業を利用してみませんか",
+    "uri": "https://www.city.inagi.tokyo.jp/kosodate/oyakohoukatsushien_center/sangocare.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-05-29",
+    "updater": "稲城市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "産後ケア事業利用の流れ\n（1）利用希望者は、利用希望日の2開庁日前正午までに、稲城市おやこ包括支援センター（電話042-378-3434）へ電話をしてください。利用施設・利用開始日・利用期間・母子の体調等について、保健師がお話を伺います。医療が必要等、状況によって利用できない場合があります。\n（2）稲城市おやこ包括支援センターで利用対象者に該当するか否かを協議します。\n（3）上記（2）の協議の結果、利用対象に該当すると判断された場合は、速やかに利用希望施設に電話連絡をし、日程や事前調整等を確認してください\n（4）利用先施設と調整ができたら、下記から電子申請をしてください。その際、予めお伝えする申し込み番号の入力が必要となりますので、ご注意ください。\n（5）申請の確認ができたら、ご自宅に決定通知書を郵送します。\n\n稲城市産後ケア事業電子申請はこちらから;https://logoform.jp/form/KPTZ/444067\n稲城市産後ケア事業のご案内（PDF：517KB）;https://www.city.inagi.tokyo.jp/kosodate/oyakohoukatsushien_center/sangocare.files/sangokeaannaichirashiR6.pdf",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第17条の2（産後ケア事業）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "稲城市産後ケア事業のご案内（PDF：517KB）",
+      "uri": "https://www.city.inagi.tokyo.jp/kosodate/oyakohoukatsushien_center/sangocare.files/sangokeaannaichirashiR6.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "出産を終えた退院後、お母さんと赤ちゃんの生活リズムづくりや、心身の安定を図るため、施設においてショートステイ（宿泊）で、助産師などが母子の心身ケアと育児サポートを行います。",
+  "support": {
+    "description": "ケアの内容\n育児全般の相談（お世話方法や観察のポイントなど）乳房ケア、ママの体調の相談、その他",
+    "materiallySupport": "ケアの内容\n育児全般の相談（お世話方法や観察のポイントなど）乳房ケア、ママの体調の相談、その他",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": 4
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "利用できる方\n稲城市に住民票のある生後4か月未満（概ね7,000ｇ未満）の乳児とママであり、産後ケアの支援を必要とする方。\n注釈：稲田助産院は、配偶者や兄姉の利用ができる場合がございます。"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

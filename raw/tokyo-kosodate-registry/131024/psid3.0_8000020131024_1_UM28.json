@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131024;中央区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉保健部子育て支援課子育て支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131024",
+    "psid": "psid3.0+8000020131024+1+UM28"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "築地一丁目1番1号　本庁舎6階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉保健部子育て支援課子育て支援係",
+    "contactPhone": "03-6264-7190",
+    "contactUrl": null,
+    "zipCode": "1048404"
+  },
+  "cost": null,
+  "costConditions": "資金の種類に応じて貸付限度額、据置期間、利子などが異なります。詳しくはお問い合せください。",
+  "description": "東京都母子及び父子福祉資金\n母子家庭及び父子家庭の方が、経済的に自立して、安定した生活を送ることができるように、必要な資金をお貸ししています。\n\n対象\n現在、区内に住所があり都内に6カ月以上お住まいの母子家庭の母又は父子家庭の父で、20歳未満のお子さんを扶養している方\n償還完了時が65歳未満の方（事業開始資金・事業継続資金）\n資金の種類\n事業開始資金\n事業継続資金\n技能習得資金\n修業資金\n就職支度資金\n医療介護資金\n生活資金\n住宅資金\n転宅資金\n結婚資金\n修学資金\n就学支度資金\n借入の条件\n資金の種類に応じて貸付限度額、据置期間、利子などが異なります。詳しくはお問い合せください。\n\n保証人\n連帯保証人が1人必要です。\n\n償還について\n償還方法\n償還期間内に元利均等払いで、年賦・半年賦・月賦のいずれかで償還していただきます。\n\n償還が難しい場合\n事情により期限内の償還が難しい場合は、ご相談ください。\n\n償還の確認ができない場合\n償還の確認ができない場合、電話や文書による督促や催告を行うほか、区の職員が自宅に訪問して納付勧奨を行う場合があります。\nまた、連帯保証人への請求、財産差押えの処分を受ける場合があります。\n\n振り込め詐欺や個人情報の搾取にご注意ください\n中央区から自宅へ、電話や文書の送付、訪問を行うことはありますが、ATM（現金自動預払機）の操作をお願いすることや、支給のための手数料を求めることは絶対にありません。\n\n不審な問い合わせや訪問があった場合は、すぐに区の窓口や警察にご連絡ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "母子父子寡婦福祉資金",
+    "shortName": "東京都母子及び父子福祉資金"
+  },
+  "localGovernmentLink": {
+    "title": "東京都母子及び父子福祉資金",
+    "uri": "https://www.city.chuo.lg.jp/a0020/kosodate/kosodate/hitorioya/kashitsuke/bosihukusi.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "中央区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（母子福祉資金の貸付け）、第14条（母子・父子福祉団体に対する貸付け）、第31条の6（父子福祉資金の貸付け）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "母子家庭及び父子家庭の方が、経済的に自立して、安定した生活を送ることができるように、必要な資金をお貸ししています。",
+  "support": {
+    "description": "事業開始資金\n事業継続資金\n技能習得資金\n修業資金\n就職支度資金\n医療介護資金\n生活資金\n住宅資金\n転宅資金\n結婚資金\n修学資金\n就学支度資金",
+    "materiallySupport": null,
+    "monetarySupport": "事業開始資金\n事業継続資金\n技能習得資金\n修業資金\n就職支度資金\n医療介護資金\n生活資金\n住宅資金\n転宅資金\n結婚資金\n修学資金\n就学支度資金"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "現在、区内に住所があり都内に6カ月以上お住まいの母子家庭の母又は父子家庭の父で、20歳未満のお子さんを扶養している方\n償還完了時が65歳未満の方（事業開始資金・事業継続資金）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "現在、区内に住所があり都内に6カ月以上お住まいの母子家庭の母又は父子家庭の父で、20歳未満のお子さんを扶養している方\n償還完了時が65歳未満の方（事業開始資金・事業継続資金）"
+  },
+  "updateDate": "2024-04-19",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131041;新宿区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局 学校運営課 幼稚園係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020131041",
+    "psid": "psid3.0+7000020131041+2+UM82"
+  },
+  "belongings": null,
+  "capacity": "|園名|所在地|電話番号(FAX番号)|対象児|利用定員|利用料|\n|:----|:----|:----|:----|:----|:----|\n|目白ケ丘幼稚園|新宿区下落合2-15-11|03-3951-2115(同左)|満2歳児から満3歳児まで|16名|2,000円/日|\n",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": "2000",
+  "costConditions": "|園名|所在地|電話番号(FAX番号)|対象児|利用定員|利用料|\n|:----|:----|:----|:----|:----|:----|\n|目白ケ丘幼稚園|新宿区下落合2-15-11|03-3951-2115(同左)|満2歳児から満3歳児まで|16名|2,000円/日|\n",
+  "description": "未就園児預かり事業\n最終更新日：2024年1月1日\n区内私立幼稚園で、幼稚園等に通っていない乳幼児を対象とした未就園児預かり事業を実施しています。\n1　概要\n・幼稚園等に通っていないお子さまを区内私立幼稚園で定期的にお預かりします。\n※お預かりするお子さまの年齢、受入人数、実施日等は園によって異なります。\n・就労等の保育の必要性を問わず、利用することができます。\n・住所要件はありません。\n※新宿区外にお住まいの方も利用することができます。\n2　実施内容\n・日々の保育の状況を記録し、お子さまのさらなる成長に向けて幼稚園が計画的に支援します。\n・日々の幼稚園でのお子さまの状況を踏まえて、お子さまの成長等についての子育て相談を実施します。\n3　申込方法\n申込方法は園によって異なります。\n下記の「実施園・利用定員一覧」よりご利用を希望される園へ直接お問い合わせください。\n4　実施園・利用定員一覧\n|園名|所在地|電話番号(FAX番号)|対象児|利用定員|利用料|\n|:----|:----|:----|:----|:----|:----|\n|目白ケ丘幼稚園|新宿区下落合2-15-11|03-3951-2115(同左)|満2歳児から満3歳児まで|16名|2,000円/日|\n\n※空き状況については、園へ直接お問い合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "|園名|所在地|電話番号(FAX番号)|対象児|利用定員|利用料|\n|:----|:----|:----|:----|:----|:----|\n|目白ケ丘幼稚園|新宿区下落合2-15-11|03-3951-2115(同左)|満2歳児から満3歳児まで|16名|2,000円/日|\n",
+    "implementationName": "|園名|所在地|電話番号(FAX番号)|対象児|利用定員|利用料|\n|:----|:----|:----|:----|:----|:----|\n|目白ケ丘幼稚園|新宿区下落合2-15-11|03-3951-2115(同左)|満2歳児から満3歳児まで|16名|2,000円/日|\n"
+  },
+  "institutionName": {
+    "canonicalName": "幼稚園・認定こども園での預かり保育",
+    "shortName": "未就園児預かり事業"
+  },
+  "localGovernmentLink": {
+    "title": "未就園児預かり事業",
+    "uri": "https://www.city.shinjuku.lg.jp/kodomo/gakko02_000001_00032.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-11",
+    "updater": "新宿区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申込方法は園によって異なります。\n下記の「実施園・利用定員一覧」よりご利用を希望される園へ直接お問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "区内私立幼稚園で、幼稚園等に通っていない乳幼児を対象とした未就園児預かり事業を実施しています。",
+  "support": {
+    "description": "日々の保育の状況を記録し、お子さまのさらなる成長に向けて幼稚園が計画的に支援します。\n日々の幼稚園でのお子さまの状況を踏まえて、お子さまの成長等についての子育て相談を実施します。",
+    "materiallySupport": "日々の保育の状況を記録し、お子さまのさらなる成長に向けて幼稚園が計画的に支援します。\n日々の幼稚園でのお子さまの状況を踏まえて、お子さまの成長等についての子育て相談を実施します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "満2歳児から満3歳児まで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "満2歳児から満3歳児まで"
+  },
+  "updateDate": "2024-01-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

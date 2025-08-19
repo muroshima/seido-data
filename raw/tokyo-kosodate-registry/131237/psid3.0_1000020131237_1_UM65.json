@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部障害者福祉課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM65"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部障害者福祉課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e041/kuseijoho/gaiyo/soshiki/fukushi/syogai.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "対象疾病\n\n・指定難病一覧（2021年11月1日以降）（PDF：309KB）（別ウィンドウで開きます）https://www.city.edogawa.tokyo.jp/documents/7872/nanbyo338.pdf\n・東京都単独疾病（2018年1月1日以降）（PDF：32KB）（別ウィンドウで開きます）https://www.city.edogawa.tokyo.jp/documents/7872/totan201801_2.pdf\n 東京都単独疾病は生活保護受給者等、他の法律に基づいて医療費が給付される方は対象外です。\n\n制度について\n\n・制度についての詳しい情報は、東京都のホームページをご覧ください。\n 「東京都難病ポータルサイト」（外部サイトへリンク）（別ウィンドウで開きます）https://www.hokeniryo.metro.tokyo.lg.jp/kenkou/nanbyo/portal/index.html\n・医療費の助成、請求方法は以下のページよりご確認ください。\n 東京都福祉局ホームページ「難病・小児慢性疾患受給者証、マル都医療券の使い方について」（外部サイトへリンク）（別ウィンドウで開きます）https://www.fukushi.metro.tokyo.lg.jp/seikatsu/josei/tukaikata.html\n\n心身障害者福祉手当（難病要件）\n国の指定難病で医療費助成が認定となった方を対象に、手当を支給する制度があります。\n\n・心身障害者福祉手当（難病要件）\n （注）東京都単独疾病で医療費助成が認定となった方は、新規申請の対象外です。",
+  "electronicSubmission": true,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "難病医療費助成制度",
+    "shortName": "特定疾患（指定難病）医療費助成制度"
+  },
+  "localGovernmentLink": {
+    "title": "特定疾患（指定難病）医療費助成制度",
+    "uri": "https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/iryo/josei/nanbyo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "江戸川区役所南棟2階1番　福祉部障害者福祉課医療給付係\n中央健康サポートセンター\n小岩健康サポートセンター\n東部健康サポートセンター\n清新町健康サポートセンター\n葛西健康サポートセンター\n 鹿骨健康サポートセンター\n 小松川健康サポートセンター\n なぎさ健康サポートセンター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "ご加入の健康保険や世帯構成等により、提出する書類が異なります。ご不明な点はお問い合わせください。\n更新申請の方は、東京都から送付された「更新のお知らせ」に従って書類を揃え、申請してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第5条",
+    "regulationName": "難病の患者に対する医療等に関する法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "症例数が少なく、原因不明で治療方法が確立しておらず、生活面への長期にわたる支障がある疾患のうち、厚生労働省が指定する特定の疾患に係る医療費の自己負担分の一部または全額を助成します。",
+  "support": {
+    "description": "特定疾患（指定難病）医療費助成",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "078"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "東京都内にお住まいの方で、国及び東京都が医療費助成の対象とする難病に該当し、その認定基準を満たしている方。または、申請する月以前の12ヶ月以内に難病の総医療費が33,330円を超える月数が既に3ヶ月以上ある方。\n\n18歳未満の方の申請について\n申請受付時に18歳未満で、本制度と「小児慢性特定疾病医療費助成制度」両方対象の疾病で申請する方は、「小児慢性特定疾病医療費助成制度」で申請すると自己負担上限月額が低く設定できる場合があります。\n申請時に必要な診断書の様式や認定条件が異なりますので、主治医にご相談ください。\n\n小児慢性特定疾病医療費助成制度https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/iryo/josei/shouni-mansei.html"
+  },
+  "updateDate": "2024-01-25",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

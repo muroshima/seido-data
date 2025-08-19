@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "133078;檜原村\t",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "やすらぎの里 福祉けんこう課 子育て支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020133078",
+    "psid": "psid3.0+8000020133078+1+UM15"
+  },
+  "belongings": "母子手帳、本人確認書類（免許証やマイナンバーカード等）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "やすらぎの里 福祉けんこう課 子育て支援係",
+    "contactPhone": "042-598-3122",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": "2500",
+  "costConditions": "1日2,500円\n※多胎の場合は1人につき2,500円の追加料金があります。\n※利用料金は、利用した施設に直接お支払いいただきます。\n利用料金の減免について\n産後ケアの利用にあたって、利用料金（利用者負担）があります。\n次のいずれかに該当する方は利用料金が免除されます。\n・生活保護受給世帯\n・市町村住民税非課税世帯\n・中国残留邦人\n※上記に当てはまらない方については、1回の利用につき、2,500円を上限に5回まで利用料から減免いたします。",
+  "description": "産後ケア事業（通所型）\n産後ケア事業は、出産後の心身の不調や育児に不安があるお母さんが助産院でケアを受け、心身の不調の回復や育児の不安を解消するための事業です。\n\nケア内容\nお母さんのケア：健康管理、乳房ケア、授乳指導、栄養指導\n赤ちゃんのケア：体重測定、健康管理、沐浴　※赤ちゃんだけをお預かりすることはできません。\n育児方法や生活についての相談\n\n対象者\n檜原村に住民登録がある方\n出産後4か月以内のお母さんと赤ちゃんでケアやサポートを必要とする方\n※注意事項：次の項目に該当する方は、ご利用いただけませんのでご注意ください。\n利用開始日に村に住民登録がない方\n医療行為が必要な方や、感染症の疑いがある方\n\n実施場所\nまるやま助産院（あきる野市戸倉1170）\n\n利用期間\n出産した日から4か月以内\n\n利用時間\n午前10時から午後4時まで（1日につき、6時間まで）\n\n利用料金\n1日　2,500円\n※多胎の場合は1人につき2,500円の追加料金があります。\n※利用料金は、利用した施設に直接お支払いいただきます。\n\n利用料金の減免について\n産後ケアの利用にあたって、利用料金（利用者負担）があります。\n次のいずれかに該当する方は利用料金が免除されます。\n・生活保護受給世帯\n・市町村住民税非課税世帯\n・中国残留邦人\n※上記に当てはまらない方については、1回の利用につき、2,500円を上限に5回まで利用料から減免いたします。\n\n利用開始までの流れ\n利用相談・申請が必要となります。利用相談は保健師が行います。不在のことがありますので、事前にお電話をいただくとスムーズです。\n ・必要なもの：母子手帳、本人確認書類（免許証やマイナンバーカード等）\n申請書に必要事項記載の上、子育て支援係窓口で申請\n申請後、保健師と面談します。\n\n利用決定通知・利用案内をお送りします。\n利用開始\n※利用希望日の10日前までに申請をお願いいたします。\n※キャンセルについては、利用日の3日前までにご連絡ください。\n\n利用相談・申請窓口\n場所：こども家庭センター（やすらぎの里　けんこう館2階）\n受付日時：月曜日～金曜日（土曜日、日曜日祝日、年末年始を除く）\n　　　　　　　午前8時30分～午後5時\n電話番号：042-598-3122",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "出産した日から4か月以内",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "あきる野市戸倉1170",
+    "implementationName": "まるやま助産院"
+  },
+  "institutionName": {
+    "canonicalName": "産後ケア事業",
+    "shortName": "産後ケア事業"
+  },
+  "localGovernmentLink": {
+    "title": "産後ケア事業（通所型）について",
+    "uri": "https://www.vill.hinohara.tokyo.jp/0000001704.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "檜原村"
+  },
+  "procedureCounter": "やすらぎの里 福祉けんこう課 子育て支援係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "利用相談・申請が必要となります。利用相談は保健師が行います。不在のことがありますので、事前にお電話をいただくとスムーズです。\n・必要なもの：母子手帳、本人確認書類（免許証やマイナンバーカード等）\n１．申請書に必要事項記載の上、子育て支援係窓口で申請\n２．申請後、保健師と面談します。\n３．利用決定通知・利用案内をお送りします。\n４．利用開始\n※利用希望日の１０日前までに申請をお願いいたします。\n※キャンセルについては、利用日の３日前までにご連絡ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第17条の2（産後ケア事業）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "出産を終えた退院後、お母さんと赤ちゃんの生活リズムづくりや、心身の安定を図るため、施設においてショートステイ（宿泊）やデイサービス（日帰り）で、助産師などが母子の心身ケアと育児サポートを行います。",
+  "support": {
+    "description": "ケア内容\n・お母さんのケア：健康管理、乳房ケア、授乳指導、栄養指導\n・赤ちゃんのケア：体重測定、健康管理、沐浴※赤ちゃんだけをお預かりすることはできません。\n・育児方法や生活についての相談",
+    "materiallySupport": "ケア内容\n・お母さんのケア：健康管理、乳房ケア、授乳指導、栄養指導\n・赤ちゃんのケア：体重測定、健康管理、沐浴※赤ちゃんだけをお預かりすることはできません。\n・育児方法や生活についての相談",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "出産後4か月以内のお母さんと赤ちゃんでケアやサポートを必要とする方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 4
+    },
+    "targetPersons": "・檜原村に住民登録がある方\n・出産後4か月以内のお母さんと赤ちゃんでケアやサポートを必要とする方き\n※注意事項：次の項目に該当する方は、ご利用いただけませんのでご注意ください。\n・利用開始日に村に住民登録がない方\n\n・医療行為が必要な方や、感染症の疑いがある方"
+  },
+  "updateDate": "2024-07-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "午前10時から午後4時まで（1日につき、6時間まで）",
+    "fromHM": "10:00",
+    "toHM": "16:00"
+  }
+}

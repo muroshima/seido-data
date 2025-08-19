@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131121;世田谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども・若者部 児童相談支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131121",
+    "psid": "psid3.0+1000020131121+6+UM115"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども・若者部 児童相談支援課",
+    "contactPhone": "03-6304-7745",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "夜間・休日の子育てに関する電話相談です\n妊娠中の方からの相談や、子育てに関する相談を専門の相談員がお受けしています。子ども本人からの相談も受けられます。\n子育ての不安やしつけの悩みなど、お気軽にお尋ね下さい。\nただし、各種手続きや区役所への取次ぎはできません。¥n電話番号 03-5451-1211（専用電話）¥n受付時間\n月曜日から金曜日 午後5時から午後10時\n土曜日・日曜日・祝日 午前9時から午後10時\n（年末年始を除く）\n（注意）悪天候・公共交通機関の運休等により、臨時休業する場合があります。¥n平日昼間のご相談は各地域の子ども家庭支援センター;https://www.city.setagaya.lg.jp/mokuji/kusei/011/002/d00164841.htmlへお願いします。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関する相談窓口一覧",
+    "shortName": "せたがや子育てテレフォン"
+  },
+  "localGovernmentLink": {
+    "title": "せたがや子育てテレフォン～親子ともにストレスをためないために一人で抱え込まずご相談ください",
+    "uri": "https://www.city.setagaya.lg.jp/mokuji/kodomo/009/003/001/d00007789.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "世田谷区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "電話番号 03-5451-1211（専用電話）\n平日昼間のご相談は各地域の子ども家庭支援センター;https://www.city.setagaya.lg.jp/mokuji/kusei/011/002/d00164841.htmlへお願いします。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "医療法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "世田谷内の子育てに関する相談窓口の一覧です。",
+  "support": {
+    "description": "夜間・休日の子育てに関する電話相談です\n妊娠中の方からの相談や、子育てに関する相談を専門の相談員がお受けしています。子ども本人からの相談も受けられます。\n子育ての不安やしつけの悩みなど、お気軽にお尋ね下さい。\nただし、各種手続きや区役所への取次ぎはできません。",
+    "materiallySupport": "夜間・休日の子育てに関する電話相談です\n妊娠中の方からの相談や、子育てに関する相談を専門の相談員がお受けしています。子ども本人からの相談も受けられます。\n子育ての不安やしつけの悩みなど、お気軽にお尋ね下さい。\nただし、各種手続きや区役所への取次ぎはできません。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊娠中の方、子ども本人"
+  },
+  "updateDate": "2020-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日から金曜日 午後5時から午後10時\n土曜日・日曜日・祝日 午前9時から午後10時\n（注意）悪天候・公共交通機関の運休等により、臨時休業する場合があります。\n平日昼間のご相談は各地域の子ども家庭支援センター;https://www.city.setagaya.lg.jp/mokuji/kusei/011/002/d00164841.htmlへお願いします。\n",
+    "fromHM": null,
+    "toHM": null
+  }
+}

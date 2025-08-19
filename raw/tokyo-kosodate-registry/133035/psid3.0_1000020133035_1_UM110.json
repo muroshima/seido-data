@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "133035;瑞穂町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部 子ども家庭センター課 子ども家庭支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133035",
+    "psid": "psid3.0+1000020133035+1+UM110"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡瑞穂町大字石畑1972番地",
+    "contactComment": "受付時間 平日の午前8時30分から午後5時まで",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部子ども家庭センター課　子ども家庭支援係",
+    "contactPhone": "042-568-0051",
+    "contactUrl": "https://www.town.mizuho.tokyo.jp/inquiry/mailform130154.html?PAGE_NO=2846",
+    "zipCode": "1901211"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子ども家庭支援センターとは\n\n更新日 平成30年2月1日 ページID 2846 印刷\n子どもや家庭に関する相談ができます\n子ども家庭支援センターは、18歳未満のお子さんとその家庭に関する相談を受けています。\n相談室がありますので、周りを気にせずに相談ができます（秘密は守ります）。\nまた、交流スペースでお子さんを遊ばせながら、気軽に相談員に相談することもできます。\nなお、電話やメールでの相談も受けています。\n\n交流スペースで遊べます\n交流スペースでは、お子さんを連れて自由に遊ぶことができます。\n保護者同士の交流やお子さんの友達づくりの場としてご利用ください。\n\n子育てに関する事業を行っています\n子育ての支援と参加される方同士の交流を目的に、毎月「親子ふれあい・あそび」と「おはなしはじまるよ」を行っています。\nその他、子育て講座やお母さんのはあとタイムなどさまざまな事業を開催しています。\n\nお子さんを一時的に預けたいときの申請受付\nお子さんを一時的に預けたいときは、乳幼児ショートステイ、ファミリー・サポート・センター事業などのサービスをご利用ください。申請の受付は子ども家庭支援センターで行っています。\n\n子育てサークルなどの活動を支援します\n子育てサークルの支援や子育てボランティアの育成・支援を行っています。\n\n児童虐待の防止\n要保護児童対策地域協議会を中心に関係機関と連携し、児童虐待の予防・早期発見・支援を行っています。\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育て支援拠点・地域子育て支援センター",
+    "shortName": "子ども家庭支援センター"
+  },
+  "localGovernmentLink": {
+    "title": "子ども家庭支援センター",
+    "uri": "https://www.town.mizuho.tokyo.jp/kosodate/006/001/p002846.html"
+  },
+  "odInformation": {
+    "content": "所管部署名称を変更",
+    "updateDate": "2025/03/10",
+    "updater": "瑞穂町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第6項",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "瑞穂町では町内の子ども家庭支援センターなどを子育て支援拠点として、子育て中の親子が気軽に集い、相互交流や子育ての不安・悩みを相談できる場を提供しています。また、地域の子育て関連情報の提供や、子育て支援に関する講習なども実施しています。",
+  "support": {
+    "description": "子ども家庭支援センター",
+    "materiallySupport": "子ども家庭支援センター",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "087",
+      "092"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "18歳未満のお子さん,保護者"
+  },
+  "updateDate": "2018-02-01",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

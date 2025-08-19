@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132276;羽村市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "市民部市民課（受付係）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132276",
+    "psid": "psid3.0+1000020132276+1+UM3"
+  },
+  "belongings": "1.出生証明書（出生届出書の右側に、医師、助産師が記入したもの）\n2.母子健康手帳（後日持参いただいてもかまいません）\n3.国民健康保険証（加入者のみ）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "（受付係）内線133",
+    "contactName": "市民部市民課（受付係）",
+    "contactPhone": "042-555-1111",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "届出一覧\n初版公開日:[2024年03月01日]更新日：[2024年3月1日]ID:267\n\n【出生届】\n届出方法\n|届出期間|出生の日を含めて14日以内<br>・最後の日が休日にあたる場合は、その翌日までになります。|\n|:----|:----|\n|届出地|1.父母の本籍地　2.届出人の所在地　3.出生地　のいずれかの区市町村役場|\n|届出人|父または母<br>・父または母が署名後に、届出書を持参する方は使者でもかまいません。|\n|届出に必要なもの|1.出生証明書（出生届出書の右側に、医師、助産師が記入したもの）<br>2.母子健康手帳（後日持参いただいてもかまいません）<br>3.国民健康保険証（加入者のみ）|\n|備考|1.子の名前は、常用漢字、人名用漢字、ひらがな、カタカナの範囲に限られます。<br>2.市民課で母子手帳に「出生届出済証明」を受けてください。|\n\nこの記事を見ている人はこんな記事も見ています\n母子健康手帳の交付; https://www.city.hamura.tokyo.jp/0000001254.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出生届",
+    "shortName": "出生届"
+  },
+  "localGovernmentLink": {
+    "title": "届出一覧",
+    "uri": "https://www.city.hamura.tokyo.jp/0000000267.html#index-1-1"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-06",
+    "updater": "羽村市"
+  },
+  "procedureCounter": "1.父母の本籍地　2.届出人の所在地　3.出生地　のいずれかの区市町村役場",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "届出方法\n|届出期間|出生の日を含めて14日以内<br>・最後の日が休日にあたる場合は、その翌日までになります。|\n|:----|:----|\n|届出地|1.父母の本籍地　2.届出人の所在地　3.出生地　のいずれかの区市町村役場|\n|届出人|父または母<br>・父または母が署名後に、届出書を持参する方は使者でもかまいません。|\n|届出に必要なもの|1.出生証明書（出生届出書の右側に、医師、助産師が記入したもの）<br>2.母子健康手帳（後日持参いただいてもかまいません）<br>3.国民健康保険証（加入者のみ）|\n|備考|1.子の名前は、常用漢字、人名用漢字、ひらがな、カタカナの範囲に限られます。<br>2.市民課で母子手帳に「出生届出済証明」を受けてください。|",
+  "procedurePeriod": {
+    "conditions": "出生の日を含めて14日以内\n・最後の日が休日にあたる場合は、その翌日までになります。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "父または母\n・父または母が署名後に、届出書を持参する方は使者でもかまいません。",
+  "regulation": {
+    "regulationArticle": "第49条、第52条",
+    "regulationName": "戸籍法"
+  },
+  "relatedLink": [
+    {
+      "title": "母子健康手帳の交付",
+      "uri": "https://www.city.hamura.tokyo.jp/0000001254.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "出生届とは、生まれてきたお子さんの氏名等を戸籍に記載するための手続きです。\n戸籍に記載されることで、生まれてきたお子さんの親族関係が公的に証明されます。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "父または母\n・父または母が署名後に、届出書を持参する方は使者でもかまいません。"
+  },
+  "updateDate": "2024-03-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

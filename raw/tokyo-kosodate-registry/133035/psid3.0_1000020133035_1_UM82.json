@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "133035;瑞穂町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部 子育て応援課 保育・幼稚園係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133035",
+    "psid": "psid3.0+1000020133035+1+UM82"
+  },
+  "belongings": "各施設で発行される「領収書」,「特定子ども・子育て支援提供証明書」",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡瑞穂町大字箱根ケ崎2335番地",
+    "contactComment": "受付時間 平日の午前8時30分から午後5時まで",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部 子育て応援課 保育・幼稚園係",
+    "contactPhone": "042-557-8658",
+    "contactUrl": "https://www.town.mizuho.tokyo.jp/inquiry/mailform130152.html?PAGE_NO=6989",
+    "zipCode": "1901292"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "預かり保育事業\n\n支給方法\n預かり保育料に対する支給方法は、償還払い（一度施設へ保育料を支払いし、後日町から利用者へ支給する方法）です。\n支給時期は、年3回（8月、12月、4月）を予定しています。\n\n請求方法\n「施設等利用費請求書」と各施設で発行される「領収書」、「特定子ども・子育て支援提供証明書」が必要になります。各施設で発行される「領収書」、「特定子ども・子育て支援提供証明書」は大切に保管してください。\n「施設等利用費請求書」は、支給時期の前に各施設を通じて配布します。配布の際、提出期限等をお知らせします。\n\n様式第11号：子育てのための施設等利用給付費請求書（預かり保育）（PDF形式 290キロバイト）;https://www.town.mizuho.tokyo.jp/kosodate/004/006/p006989_d/fil/youshiki11gou.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "幼稚園での預かり保育",
+    "shortName": "預かり保育事業"
+  },
+  "localGovernmentLink": {
+    "title": "預かり保育事業",
+    "uri": "https://www.town.mizuho.tokyo.jp/kosodate/004/006/p006989.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "瑞穂町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "請求方法\n「施設等利用費請求書」と各施設で発行される「領収書」、「特定子ども・子育て支援提供証明書」が必要になります。各施設で発行される「領収書」、「特定子ども・子育て支援提供証明書」は大切に保管してください。\n「施設等利用費請求書」は、支給時期の前に各施設を通じて配布します。配布の際、提出期限等をお知らせします。\n\n様式第11号：子育てのための施設等利用給付費請求書（預かり保育）（PDF形式 290キロバイト）;https://www.town.mizuho.tokyo.jp/kosodate/004/006/p006989_d/fil/youshiki11gou.pdf",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第21条の9",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "幼児教育・保育の無償化について;様式第11号：子育てのための施設等利用給付費請求書（預かり保育）（PDF形式 290キロバイト）",
+      "uri": "https://www.town.mizuho.tokyo.jp/kosodate/004/006/p006946.html;https://www.town.mizuho.tokyo.jp/kosodate/004/006/p006989_d/fil/youshiki11gou.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "幼稚園や認定こども園（幼稚園枠）では、教育時間の開始前や終了後、夏休みなどの幼稚園休園日に、お子さんをお預かりしています。通常の保育料に加え、別途利用料が必要です。",
+  "support": {
+    "description": "預かり保育料に対する支給方法は、償還払い（一度施設へ保育料を支払いし、後日町から利用者へ支給する方法）です。\n支給時期は、年3回（8月、12月、4月）を予定しています。",
+    "materiallySupport": null,
+    "monetarySupport": "預かり保育料に対する支給方法は、償還払い（一度施設へ保育料を支払いし、後日町から利用者へ支給する方法）です。\n支給時期は、年3回（8月、12月、4月）を予定しています。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 5,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2020-06-10",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

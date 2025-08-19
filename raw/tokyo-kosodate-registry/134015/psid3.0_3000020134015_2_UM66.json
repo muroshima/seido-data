@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "134015;八丈町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉健康課保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020134015",
+    "psid": "psid3.0+3000020134015+2+UM66"
+  },
+  "belongings": "・母子手帳の写しまたは予防接種済証\n・接種費用を支払ったこと及びその額を確認できる書類",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都八丈島八丈町大賀郷2551番地2",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉健康課保健係",
+    "contactPhone": "04996-2-5570",
+    "contactUrl": null,
+    "zipCode": "1001498"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "八丈町では、やむを得ない理由により当該施設にて定期予防接種を受ける方へ償還払い制度を実施しています。本制度をご利用される方は福祉健康課　保健係までご相談ください。\n\n【対象期間】\n\n令和６年４月１日～令和７年３月３１日までの接種\n【扶助対象者】\n\n①里帰り出産その他の理由により、一定期間、島外へ居住する方\n②長期にわたり医療機関等に入院または入所している方\n③疾病等により島内医療機関での定期予防接種が困難な方\n④その他やむを得ない理由により島外医療機関での定期予防接種が必要と認められる方\n旅行、レジャー等での長期滞在期間に接種を希望する方は対象外です！\n【対象ワクチン】\n\n小児定期予防接種範囲内\n【手続き方法】\n\n①福祉健康課保健係へ制度利用希望の旨連絡\n②八丈町へ「費用扶助申請書」を提出（事前申請）\n※接種する医療機関や八丈町にて作成する依頼文の送付先はご自身にて事前にご確認ください。\n③八丈町へ「費用扶助費支給申請書」を提出（事後）\n＜必要書類＞\n・母子手帳の写しまたは医療機関にて発行の予防接種済証\n・領収書等支払ったこと及びその金額を確認できる書類\n【様式ダウンロード】\n\n・令和６年度定期予防接種（小児）費用扶助申請書 　　　　PDF形式;https://www.town.hachijo.tokyo.jp/kakuka/kenkou/form/redemption01.pdf　　Word形式;https://www.town.hachijo.tokyo.jp/kakuka/kenkou/form/redemption01.doc\n・令和６年度定期予防接種（小児）費用扶助費支給申請書　PDF形式;https://www.town.hachijo.tokyo.jp/kakuka/kenkou/form/redemption02.pdf　　Word形式;https://www.town.hachijo.tokyo.jp/kakuka/kenkou/form/redemption02.doc\n【注意事項】\n\n・依頼文の作成には1週間ほどかかる場合がありますので、余裕を持った申請をお願いします。\n・請求は接種日から1年以内となります。また、扶助額には上限があります。\n扶助単価（助成限度額）\n令和６年度の扶助単価は以下のとおりです。接種における自己負担額と扶助単価のいずれか低いほうの金額を扶助します。\n\n|接種ワクチン|扶助額（接種1回あたり、税込）|\n|:----|:----|\n|四種混合|13,500円|\n|五種混合|22,440円|\n|二種混合|6,600円|\n|小児用肺炎球菌|14,300円|\n|麻しん風しん混合|13,090円|\n|水痘|11,110円|\n|日本脳炎（乳幼児）|9,900円|\n|日本脳炎|8,690円|\n|B型肝炎|8,580円|\n|子宮頸がん|29,370円|\n|BCG（結核）|13,530円|\n|ヒブ|10,780円|\n|ロタ（ロタテック）|11,990円|\n|ロタ（ロタリックス）|17,050円|\n\n予約・問い合わせ\n〒100-1498　東京都八丈島八丈町大賀郷2551番地2\n八丈町　福祉健康課保健係\n電話番号　04996-2-5570",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の医療費助成制度",
+    "shortName": "定期予防接種（小児）島外接種費用扶助（償還払い制度）"
+  },
+  "localGovernmentLink": {
+    "title": "定期予防接種（小児）島外接種費用扶助（償還払い制度）について",
+    "uri": "https://www.town.hachijo.tokyo.jp/kakuka/kenkou/kenko_redemption.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-13",
+    "updater": "八丈町"
+  },
+  "procedureCounter": "福祉健康課保健係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "①福祉健康課保健係へ連絡\n②【事前申請】「費用扶助申請書」提出\n・実施依頼医療機関（自治体）の確認が必要\n③【事後請求】「費用扶助費支給申請書」提出",
+  "procedurePeriod": {
+    "conditions": "・接種日から１年間は申請（請求）可能です\nただし、上限額は申請年度の金額となります",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "八丈町では、やむを得ない理由により当該施設にて定期予防接種を受ける方へ償還払い制度を実施しています。本制度をご利用される方は福祉健康課　保健係までご相談ください。",
+  "support": {
+    "description": "扶助単価（助成限度額）\n令和６年度の扶助単価は以下のとおりです。接種における自己負担額と扶助単価のいずれか低いほうの金額を扶助します。\n\n|接種ワクチン|扶助額（接種1回あたり、税込）|\n|:----|:----|\n|四種混合|13,500円|\n|五種混合|22,440円|\n|二種混合|6,600円|\n|小児用肺炎球菌|14,300円|\n|麻しん風しん混合|13,090円|\n|水痘|11,110円|\n|日本脳炎（乳幼児）|9,900円|\n|日本脳炎|8,690円|\n|B型肝炎|8,580円|\n|子宮頸がん|29,370円|\n|BCG（結核）|13,530円|\n|ヒブ|10,780円|\n|ロタ（ロタテック）|11,990円|\n|ロタ（ロタリックス）|17,050円|\n",
+    "materiallySupport": null,
+    "monetarySupport": "扶助単価（助成限度額）\n令和６年度の扶助単価は以下のとおりです。接種における自己負担額と扶助単価のいずれか低いほうの金額を扶助します。\n\n|接種ワクチン|扶助額（接種1回あたり、税込）|\n|:----|:----|\n|四種混合|13,500円|\n|五種混合|22,440円|\n|二種混合|6,600円|\n|小児用肺炎球菌|14,300円|\n|麻しん風しん混合|13,090円|\n|水痘|11,110円|\n|日本脳炎（乳幼児）|9,900円|\n|日本脳炎|8,690円|\n|B型肝炎|8,580円|\n|子宮頸がん|29,370円|\n|BCG（結核）|13,530円|\n|ヒブ|10,780円|\n|ロタ（ロタテック）|11,990円|\n|ロタ（ロタリックス）|17,050円|\n"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "①里帰り出産その他の理由により、一定期間、島外へ居住する方\n②長期にわたり医療機関等に入院または入所している方\n③疾病等により島内医療機関での定期予防接種が困難な方\n④その他やむを得ない理由により島外医療機関での定期予防接種が必要と認められる方\n旅行、レジャー等での長期滞在期間に接種を希望する方は対象外です！"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

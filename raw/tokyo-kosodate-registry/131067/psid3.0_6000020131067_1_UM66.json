@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131067;台東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "台東保健所　保健予防課予防担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131067",
+    "psid": "psid3.0+6000020131067+1+UM66"
+  },
+  "belongings": "提出書類\n1.認定申請書\n2.主治医診療報告書\n3.住民票（複数の都内住所を通算して1年以上となる場合は、該当する住所地での除票も必要です。）\n4.健康保険証の写し\n5.健康・生活環境に関する質問票\n※提出書類一式は、台東保健所で配付しています。下記担当窓口へお越しください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "台東保健所　保健予防課予防担当",
+    "contactPhone": "03-3847-9471",
+    "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080600",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "医療券に記載された疾病外の治療に要した費用、申請に係る費用（主治医診療報告書作成料等）、入院時の食事療養・生活療養標準負担額、健康保険適用されない費用等については、対象外です。",
+  "description": "助成対象者の申請要件\n対象者\n以下のいずれにも該当する方\n　・18歳未満の方（18歳の誕生日が属する月の末日までの間にある方を含む）\n　・東京都内に引き続き1年（3歳未満は6か月）以上住所を有する方\n　・気管支ぜん息、慢性気管支炎、ぜん息性気管支炎、肺気腫にかかられている方\n　・健康保険に加入されている方\n　・申請日以降喫煙しない方\n※18歳以上の方の新規申請は、平成27年3月31日を以って終了しています。\n\n有効期限\n区市町村の担当窓口が申請書類を受理した日から、\n　（1）2年経過した日以降の直近の誕生日が属する月の末日まで\n　（2）18歳の誕生日の属する月の末日まで\n（1）、（2）のいずれか短い方となります。\n※認定された場合に発行される医療券に有効期限は記載されます。\n\n提出書類\n1.認定申請書\n2.主治医診療報告書\n3.住民票（複数の都内住所を通算して1年以上となる場合は、該当する住所地での除票も必要です。）\n4.健康保険証の写し\n5.健康・生活環境に関する質問票\n※提出書類一式は、台東保健所で配付しています。下記担当窓口へお越しください。\n\n助成内容\n　医療券に記載された疾病の医療費（診療等に係る費用の内、健康保険等を適用した後の自己負担額）を助成いたします。\n　ただし、医療券に記載された疾病外の治療に要した費用、申請に係る費用（主治医診療報告書作成料等）、入院時の食事療養・生活療養標準負担額、健康保険適用されない費用等については、対象外です。\n\n18歳以上（誕生日が平成9年4月1日以前）の方で既に有効の医療券をお持ちの方へ\n制度の継続利用について\n　既に認定を受け、有効の医療券をお持ちの方は、更新し引き続きご利用いただくことは可能です。更新時期が近づくと、更新書類一式が届きますので、更新を希望される方はお手続きください。\n　一度資格を失うと、再度申請はできなくなりますので、ご注意ください。住所変更等がありましたら、必ず担当窓口でお手続きください。\n\n一部自己負担額の発生時期\n　平成30年4月から一部自己負担が生じます。平成30年3月31日診療分までは、これまでのとおり、認定疾病に係る医療費の全額助成を継続します。\n　平成30年4月1日以降の診療分から、認定された病気に対する保険診療の窓口支払額のうち、月額6,000円までが患者さんのご負担となります。（6,000円を超える費用について助成いたします。）\n\n担当窓口\n申請書類の配布・提出・担当窓口\n110-0015\n　台東区東上野4丁目22番8号\n　台東保健所5階1番窓口\n　保健予防課予防担当\n　電話：03-3847-9492\n\n関連情報\n東京都福祉保健局健康安全部環境保健衛生課\n\nhttp://www.fukushihoken.metro.tokyo.jp/kankyo/kankyo_eisei/taiki/iryouhi/t_gaiyou.html（外部サイト）;http://www.fukushihoken.metro.tokyo.jp/kankyo/kankyo_eisei/taiki/iryouhi/t_gaiyou.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の医療費助成制度",
+    "shortName": "大気汚染医療費助成制度"
+  },
+  "localGovernmentLink": {
+    "title": "大気汚染医療費助成制度",
+    "uri": "https://www.city.taito.lg.jp/kenkohukusi/iryo/sodaniryojosei/kenkohigai/taikiosenkaisei.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "台東区"
+  },
+  "procedureCounter": "台東保健所5階1番窓口\n　保健予防課予防担当",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "提出書類\n1.認定申請書\n2.主治医診療報告書\n3.住民票（複数の都内住所を通算して1年以上となる場合は、該当する住所地での除票も必要です。）\n4.健康保険証の写し\n5.健康・生活環境に関する質問票\n※提出書類一式は、台東保健所で配付しています。下記担当窓口へお越しください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "大気汚染に係る健康障害者に対する医療費の助成に関する条例"
+  },
+  "relatedLink": [
+    {
+      "title": "東京都福祉保健局健康安全部環境保健衛生課",
+      "uri": "http://www.fukushihoken.metro.tokyo.jp/kankyo/kankyo_eisei/taiki/iryouhi/t_gaiyou.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "大気汚染の影響を受けると推定される疾病（気管支ぜん息など）にかかった方に対し、一定の要件を満たす場合に、医療費の助成をしています。",
+  "support": {
+    "description": "医療券に記載された疾病の医療費（診療等に係る費用の内、健康保険等を適用した後の自己負担額）を助成いたします。",
+    "materiallySupport": null,
+    "monetarySupport": "医療券に記載された疾病の医療費（診療等に係る費用の内、健康保険等を適用した後の自己負担額）を助成"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "18歳未満の方（18歳の誕生日が属する月の末日までの間にある方を含む）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "以下のいずれにも該当する方\n　・18歳未満の方（18歳の誕生日が属する月の末日までの間にある方を含む）\n　・東京都内に引き続き1年（3歳未満は6か月）以上住所を有する方\n　・気管支ぜん息、慢性気管支炎、ぜん息性気管支炎、肺気腫にかかられている方\n　・健康保険に加入されている方\n　・申請日以降喫煙しない方"
+  },
+  "updateDate": "2022-05-24",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

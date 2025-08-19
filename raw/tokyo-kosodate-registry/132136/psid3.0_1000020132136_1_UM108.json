@@ -1,0 +1,143 @@
+{
+  "area": {
+    "areaCode": "132136;東村山市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部児童課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132136",
+    "psid": "psid3.0+1000020132136+1+UM108"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都東村山市本町1丁目2番地3",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": "042-393-5111",
+    "contactUrl": null,
+    "zipCode": "1898501"
+  },
+  "cost": null,
+  "costConditions": "5館共通の案内;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/kyoutuannai.html",
+  "description": "児童館の案内\n\n行事案内;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/yatteru/index.html\n秋津児童館;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/akitsu/index.html\n本町児童館;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/honcho/index.html\n栄町児童館;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/sakae/index.html\n富士見児童館;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/fujimi/index.html\n北山児童館;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/kitayama/index.html\n児童館紹介リーフレット;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/rehuretto.html\n5館共通の案内;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/kyoutuannai.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "日曜日・祝日・振替休日・年末年始（12月29日から1月3日）\n（富士見児童館のみ上記のほか、月曜日が祝日と重なった場合は休館します）",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "秋津児童館,本町児童館,栄町児童館,富士見児童館,北山児童館"
+  },
+  "institutionName": {
+    "canonicalName": "児童館",
+    "shortName": "児童館"
+  },
+  "localGovernmentLink": {
+    "title": "児童館の案内",
+    "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-24",
+    "updater": "東村山市"
+  },
+  "procedureCounter": "秋津児童館,本町児童館,栄町児童館,富士見児童館,北山児童館",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "5館共通の案内;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/kyoutuannai.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "栄町児童館",
+      "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/sakae/index.html"
+    },
+    {
+      "title": "秋津児童館",
+      "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/akitsu/index.html"
+    },
+    {
+      "title": "北山児童館",
+      "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/kitayama/index.html"
+    },
+    {
+      "title": "富士見児童館",
+      "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/fujimi/index.html"
+    },
+    {
+      "title": "本町児童館",
+      "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/honcho/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童館は、18歳未満のお子さんに健全な遊びを提供し、健康増進を図るとともに、豊かな情操を育むことを目的としています。\n東村山市の児童館には、小学校就学前のお子さんが安心して遊べるスペースがあり、またお子さんの年齢に応じた各種イベントなども行っています。\n（イベントの詳細については、東村山市サイトや市報などでお知らせしています。）",
+  "support": {
+    "description": "児童館の案内\n\n行事案内;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/yatteru/index.html\n秋津児童館;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/akitsu/index.html\n本町児童館;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/honcho/index.html\n栄町児童館;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/sakae/index.html\n富士見児童館;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/fujimi/index.html\n北山児童館;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/kitayama/index.html\n児童館紹介リーフレット;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/rehuretto.html\n5館共通の案内;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/kyoutuannai.html",
+    "materiallySupport": "児童館の案内\n\n行事案内;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/yatteru/index.html\n秋津児童館;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/akitsu/index.html\n本町児童館;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/honcho/index.html\n栄町児童館;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/sakae/index.html\n富士見児童館;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/fujimi/index.html\n北山児童館;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/kitayama/index.html\n児童館紹介リーフレット;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/rehuretto.html\n5館共通の案内;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/kyoutuannai.html",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "5館共通の案内;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/kyoutuannai.html",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "5館共通の案内;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/kyoutuannai.html"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": "5館共通の案内;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/kyoutuannai.html",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "児童館で遊べる時間\nあそべる日\tあそべる時間\n月曜日から金曜日\n（ただし、学校休業日は除く）\n\n午前9時30分から午後5時45分\n土曜日・夏季・冬季・春季の休業日\n（ただし、日曜日・祝日を除く）\n\n午前9時から午後5時45分\n日曜日・祝日・振替休日\n児童館の行事はありませんが、施設の一部が使えます\n\n午前9時から午後5時",
+    "fromHM": null,
+    "toHM": null
+  }
+}

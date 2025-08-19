@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "133051;日の出町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "生活安全安心課環境リサイクル係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133051",
+    "psid": "psid3.0+1000020133051+3+UM58"
+  },
+  "belongings": "要件を証明するための書類（証書・手帳等）が必要になります。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡日の出町大字平井2780番地",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "334,335,336",
+    "contactName": "生活安全安心課環境リサイクル係",
+    "contactPhone": "042-588-5068",
+    "contactUrl": "https://www.town.hinode.tokyo.jp/mailform/inquiry.cgi?so=9cb41089d258c235d8fe50694e17d74a614dedb1&ref=https://www.town.hinode.tokyo.jp/0000000162.html",
+    "zipCode": "1900192"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "廃棄物処理手数料の減免について¥n家庭ごみ専用袋の交付（つぎの要件に該当する世帯を対象にごみ袋を交付します）¥n¥n（1）生活保護受給世帯¥n¥n（2）児童扶養手当受給世帯¥n¥n（3）特別児童扶養手当受給世帯¥n¥n（4）国民年金の遺族基礎年金受給世帯（条件あり）¥n¥n（5）75歳以上の高齢者のみの世帯で世帯全員が町民税非課税世帯¥n¥n（6）身体障害者手帳1級、2級の交付を受けている世帯で世帯全員が町民税非課税世帯¥n¥n（7）愛の手帳1度・2度の交付を受けている世帯で世帯全員が町民税非課税世帯¥n¥n（8）精神障害者手帳1級の交付を受けている世帯で世帯全員が町民税非課税世帯¥n¥n粗大ごみの減免¥n¥n火災等の災害に遭われた場合や（1）（2）（3）（4）の要件に該当する場合は、粗大ごみ処理¥n¥n手数料なども減免の対象になります。（5）（6）（7）（8）については、対象になりません¥n¥n ※ （1）（2）の申請には、要件を証明するための書類（証書・手帳等）が必要になります。¥n¥n減免申請書¥n¥n減免申請書 （ファイル名：91s0g20000006l8b.xls サイズ：41.00KB）;https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000000/162/91s0g20000006l8b.xls",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の育児に関する金銭的支援",
+    "shortName": "廃棄物処理手数料の減免"
+  },
+  "localGovernmentLink": {
+    "title": "ごみの出し方について",
+    "uri": "https://www.town.hinode.tokyo.jp/0000000162.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "日の出町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "要件を証明するための書類（証書・手帳等）が必要",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "特別児童扶養手当受給世帯",
+  "regulation": {
+    "regulationArticle": "第23条(廃棄物処理手数料の減免)、第24条(減免申請手続)",
+    "regulationName": "日の出町廃棄物の処理及び再利用の促進に関する条例施行規則"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "特別児童扶養手当受給世帯の方を対象に廃棄物処理手数料の減免で、家庭用ごみ袋・粗大ごみ処理券の交付を行っております。",
+  "support": {
+    "description": "家庭ごみ専用袋の交付¥n粗大ごみの減免",
+    "materiallySupport": "家庭ごみ専用袋の交付¥n粗大ごみの減免",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "特別児童扶養手当受給世帯"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

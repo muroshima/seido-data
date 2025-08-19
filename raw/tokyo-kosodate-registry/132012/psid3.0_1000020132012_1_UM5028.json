@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132012;八王子市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "生涯学習スポーツ部放課後児童支援課（放課後子ども教室担当）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132012",
+    "psid": "psid3.0+1000020132012+1+UM5028"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "八王子市元本郷町3-24-1（本庁舎事務棟7階）",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "生涯学習スポーツ部放課後児童支援課（放課後子ども教室担当）",
+    "contactPhone": "042-649-6086",
+    "contactUrl": "https://www.city.hachioji.tokyo.jp/inquiry/mailform321400.html?PAGE_NO=20379",
+    "zipCode": "1928501"
+  },
+  "cost": "無料",
+  "costConditions": "ただし、保険代や行事の材料費などの実費分を徴収する場合があります。",
+  "description": "放課後子ども教室について\n八王子市では、平成19年度から市内小学校区を単位に、地域の人材やボランティアの参画を得て、放課後や土日、夏休み等に小学校の施設を活用し、子どもたちに安全で安心な居場所を提供する「放課後子ども教室」を実施しています。\n運営はPTAや自治会の方などでつくる小学校区ごとの実施団体が行っており、現在66小学校区で実施中です。各小学校では、子どもたちが安全管理員の見守りの中で、校庭や教室などを利用して自由に遊んだり、学習をしたりしています。\n市では、より多くの子どもたちに安全で安心な居場所を提供するため、実施教室の拡大に努めています。\n\n概要\n安全管理について\n放課後子ども教室の受付のほか、子どもたちの見守りを行う安全管理員を、地域の方々やシルバー人材センターの方にお願いしています。\nまた、地域の方の協力により、子どもたちに学習や体験活動などの指導を行う学習アドバイザーをお願いしています。\n\n保護者の皆さまへ\n放課後子ども教室は、地域の方々の協力のもと、子どもたちにとって安全で安心な居場所を設けることを目的としています。\n小学校の施設を使用しておりますが、学校で主催する事業ではありません。そのため、放課後子ども教室に関するお問い合わせは小学校では受け付けられません。お問い合わせは放課後児童支援課へお願いいたします。\n学童保育所のような児童を保育するための事業ではありません。\n天候等により、当日中止となる場合があります。\n持ち物や遊び方などのルールは、各学校のきまりに準じています。\n参加当日は、ご家庭で帰宅時間等を確認してください。\nけが等が発生した場合は、その場で応急処置を行います。また、症状によっては保護者に連絡の上、お迎えに来ていただく場合があります。\n安全管理員による見守りや声掛けなど、安全面には十分配慮しますが、子どもたちが安心して過ごせるよう、ご家庭においても、けがや遊具の使い方など、お子さんへの指導をお願いします。\n放課後子ども教室への参加については、上記内容を確認し、ご家庭内で話し合ったうえで、各教室のきまりを守りながら、自己責任で参加するようお願いします。\n\n放課後子ども教室実施状況等、詳しくは、ホームページをご確認ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "各実施教室により異なります。詳しい開催曜日は、本ページ下部の「実施状況」を確認してください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "放課後子供教室",
+    "shortName": "放課後子ども教室"
+  },
+  "localGovernmentLink": {
+    "title": "放課後子ども教室",
+    "uri": "https://kosodate.city.hachioji.tokyo.jp/soshiki/houkagozidoushienka/hokagojidoshienka_hokagokodomokyoshitsutanto/3078.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/25",
+    "updater": "八王子市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "地域住民の参画を得て、放課後等に全ての児童を対象として、居場所の確保と学習や体験・交流といった多様な活動を行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "1年生から6年生までの児童",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "事業を実施する小学校へ通学している1年生から6年生までの児童"
+  },
+  "updateDate": "2024/07/31",
+  "useConsiderationFlag": false,
+  "utilization": "参加方法\n各小学校地区放課後子ども教室に参加するには、原則として登録が必要です。\n登録方法の詳細については、放課後児童支援課までお問い合わせください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "3月から9月まで：放課後から午後5時まで\n10月から2月まで：放課後から午後4時まで",
+    "fromHM": null,
+    "toHM": null
+  }
+}

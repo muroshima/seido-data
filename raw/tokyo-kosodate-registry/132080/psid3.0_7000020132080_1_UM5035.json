@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "132080;調布市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉健康部保険年金課 ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020132080",
+    "psid": "psid3.0+7000020132080+1+UM5035"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-481-6442",
+    "contactEmail": "kokunen@city.chofu.lg.jp",
+    "contactEx": null,
+    "contactName": "福祉健康部保険年金課",
+    "contactPhone": "050-1720-3706",
+    "contactUrl": "https://www.city.chofu.lg.jp/030060/p019056.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "令和6年1月から産前産後期間の国民健康保険税の免除制度が開始\n出産される方の産前産後期間の国民健康保険税が免除されます。\n妊娠85日(4か月)以上の分娩で、死産及び流産の場合もこの制度の対象となります。\n国民年金でも同様の制度があります。御注意ください。\n\n対象となる方\n調布市の国民健康保険に加入されている方のうち、令和5年11月以降に出産された方\n(注)ただし、令和6年1月分以降の国民健康保険税が免除対象です。\n\n対象期間\n出産予定月または出産した月の前月から4か月間\n(多胎妊娠の場合は、出産予定月または出産した月の3か月前から6か月間)\n(注)ただし、令和6年1月分以降の国民健康保険税が免除対象です。\n対象期間\n|単胎または多胎妊娠(出産)のいずれか|3か月前|前々月|前月|出産(予定)月|翌月|翌々月|\n|:----|:----|:----|:----|:----|:----|:----|\n|単胎妊娠(出産)|×|×|〇|〇|〇|〇|\n|多胎妊娠(出産)|〇|〇|〇|〇|〇|〇|\n\n出産(予定)日が令和5年11月1日から令和6年1月31日まで(多胎妊娠(出産)の場合は3月31日まで)の間の方\nこの制度は令和6年1月から開始となるため、出産(予定)月が令和5年11月から令和6年1月まで(多胎妊娠(出産)の場合は3月まで)の間の方の免除対象期間は下記の表のようになります。\n免除対象月(PDF：369KB);https://www.city.chofu.lg.jp/documents/8518/mennjotaisyoutuki_1.pdf\n\n免除額\n出産される方の対象期間分の国民健康保険税(均等割額及び所得割額の全額)\n\n免除の適用について\n当市により出産の事実が確認できる場合は、届出を省略し、出産された方の分の国民健康保険税について免除を適用することがあります。\n(注)国民健康保険税額が限度額に達している世帯の方は、免除が適用されても税額が変わらない場合があります。\n\n届出により出産予定日を基準に適用することもできます。届出は制度が開始する令和6年1月から受付します。\n保険年金課窓口に来庁または必要書類を郵送、もしくはオンラインでの手続きが可能です。\n1.来庁の場合\n下記必要書類をお持ちのうえ、市役所2階の保険年金課窓口にお越しください(神代出張所では手続できません)。\n2.郵送の場合\n「産前産後期間に係る保険税軽減届出書(PDF：83KB);https://www.city.chofu.lg.jp/documents/8518/keigenntodokedesyo_1.pdf」を記入のうえ、下記必要書類(写し)とともに次の宛先まで送付してください。\n郵便番号182-8511東京都調布市小島町2丁目35番地1調布市役所保険年金課資格課税係(課税担当)\n3.オンラインでの手続きの場合\nマイナンバーカードを利用したオンラインによる手続き方法です。詳細は、「国民健康保険のオンライン手続き(電子申請);https://www.city.chofu.lg.jp/060080/p038005.html」をご確認ください。\n必要書類\n出産予定日(または出産日)と、多胎妊娠の場合はその事実が確認できる母子手帳等の書類\n世帯主と出産された方の氏名、住所、生年月日がわかるもの(運転免許証など)\n届出される方の本人確認書類(マイナンバーカード、運転免許証など)\n委任状(別世帯の方が手続される場合)\n\nその他\n産前産後期間の国民年金保険料の免除については次のリンクを御覧ください。\n産前産後期間の国民年金保険料免除制度;https://www.city.chofu.lg.jp/060080/p038053.html",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "国民健康保険のオンライン手続き(電子申請)",
+      "uri": "https://www.city.chofu.lg.jp/060080/p038005.html"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "国民健康保険における産前産後期間保険料（税）免除",
+    "shortName": "令和6年1月から産前産後期間の国民健康保険税の免除制度が開始"
+  },
+  "localGovernmentLink": {
+    "title": "令和6年1月から産前産後期間の国民健康保険税の免除制度が開始",
+    "uri": "https://www.city.chofu.lg.jp/060080/p038101.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-19",
+    "updater": "調布市"
+  },
+  "procedureCounter": "福祉健康部保険年金課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "届出により出産予定日を基準に適用することもできます。届出は制度が開始する令和6年1月から受付します。\n保険年金課窓口に来庁または必要書類を郵送、もしくはオンラインでの手続きが可能です。\n1.来庁の場合\n下記必要書類をお持ちのうえ、市役所2階の保険年金課窓口にお越しください(神代出張所では手続できません)。\n2.郵送の場合\n「産前産後期間に係る保険税軽減届出書(PDF：83KB);https://www.city.chofu.lg.jp/documents/8518/keigenntodokedesyo_1.pdf」を記入のうえ、下記必要書類(写し)とともに次の宛先まで送付してください。\n郵便番号182-8511東京都調布市小島町2丁目35番地1調布市役所保険年金課資格課税係(課税担当)\n3.オンラインでの手続きの場合\nマイナンバーカードを利用したオンラインによる手続き方法です。詳細は、「国民健康保険のオンライン手続き(電子申請);https://www.city.chofu.lg.jp/060080/p038005.html」をご確認ください。\n必要書類\n出産予定日(または出産日)と、多胎妊娠の場合はその事実が確認できる母子手帳等の書類\n世帯主と出産された方の氏名、住所、生年月日がわかるもの(運転免許証など)\n届出される方の本人確認書類(マイナンバーカード、運転免許証など)\n委任状(別世帯の方が手続される場合)",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条第３項",
+    "regulationName": "調布市国民健康保険税賦課徴収条例"
+  },
+  "relatedLink": [
+    {
+      "title": "産前産後期間の国民年金保険料免除制度",
+      "uri": "https://www.city.chofu.lg.jp/060080/p038053.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民健康保険の出産する被保険者に係る産前産後期間相当分（４ヶ月分）の均等割保険料と所得割保険料が免除されます。",
+  "support": {
+    "description": "対象期間\n出産予定月または出産した月の前月から4か月間\n(多胎妊娠の場合は、出産予定月または出産した月の3か月前から6か月間)\n(注)ただし、令和6年1月分以降の国民健康保険税が免除対象です。\n\n対象期間\n|単胎または多胎妊娠(出産)のいずれか|3か月前|前々月|前月|出産(予定)月|翌月|翌々月|\n|:----|:----|:----|:----|:----|:----|:----|\n|単胎妊娠(出産)|×|×|〇|〇|〇|〇|\n|多胎妊娠(出産)|〇|〇|〇|〇|〇|〇|\n\n出産(予定)日が令和5年11月1日から令和6年1月31日まで(多胎妊娠(出産)の場合は3月31日まで)の間の方\nこの制度は令和6年1月から開始となるため、出産(予定)月が令和5年11月から令和6年1月まで(多胎妊娠(出産)の場合は3月まで)の間の方の免除対象期間は下記の表のようになります。\n免除対象月(PDF：369KB);https://www.city.chofu.lg.jp/documents/8518/mennjotaisyoutuki_1.pdf\n\n免除額\n出産される方の対象期間分の国民健康保険税(均等割額及び所得割額の全額)",
+    "materiallySupport": null,
+    "monetarySupport": "対象期間\n出産予定月または出産した月の前月から4か月間\n(多胎妊娠の場合は、出産予定月または出産した月の3か月前から6か月間)\n(注)ただし、令和6年1月分以降の国民健康保険税が免除対象です。\n\n対象期間\n|単胎または多胎妊娠(出産)のいずれか|3か月前|前々月|前月|出産(予定)月|翌月|翌々月|\n|:----|:----|:----|:----|:----|:----|:----|\n|単胎妊娠(出産)|×|×|〇|〇|〇|〇|\n|多胎妊娠(出産)|〇|〇|〇|〇|〇|〇|\n\n出産(予定)日が令和5年11月1日から令和6年1月31日まで(多胎妊娠(出産)の場合は3月31日まで)の間の方\nこの制度は令和6年1月から開始となるため、出産(予定)月が令和5年11月から令和6年1月まで(多胎妊娠(出産)の場合は3月まで)の間の方の免除対象期間は下記の表のようになります。\n免除対象月(PDF：369KB);https://www.city.chofu.lg.jp/documents/8518/mennjotaisyoutuki_1.pdf\n\n免除額\n出産される方の対象期間分の国民健康保険税(均等割額及び所得割額の全額)"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003",
+      "015"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象となる方\n調布市の国民健康保険に加入されている方のうち、令和5年11月以降に出産された方\n(注)ただし、令和6年1月分以降の国民健康保険税が免除対象です。"
+  },
+  "updateDate": "2024-07-19",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

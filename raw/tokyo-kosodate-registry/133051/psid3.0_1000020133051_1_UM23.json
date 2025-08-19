@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "133051;日の出町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉課子育て支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133051",
+    "psid": "psid3.0+1000020133051+1+UM23"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡日の出町大字平井2780番地",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "299",
+    "contactName": "福祉課子育て支援係",
+    "contactPhone": "042-588-4113",
+    "contactUrl": "https://www.town.hinode.tokyo.jp/mailform/inquiry.cgi?so=45f83d2e6bde5b1c7b4fc4edd54bd876a8140aa2&ref=https://www.town.hinode.tokyo.jp/0000000115.html",
+    "zipCode": "1900192"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "こどもの医療費助成制度¥n子育て支援策として、中学校3年生までのお子様の通院・入院医療費の自己負担分（食事療養費は除きます。）の助成を行ないます。¥n¥n高校生年代の医療費助成については、青少年の医療費助成制度をご覧ください。¥nhttps://www.town.hinode.tokyo.jp/cmsfiles/contents/0000000/115/a1299217488246.jpg¥nhttps://www.town.hinode.tokyo.jp/cmsfiles/contents/0000000/115/a1299217500594.jpg¥n¥n助成を受けられる方¥n中学校3年生までの子どもを養育する保護者で次の要件に該当する方（所得制限はありません。）¥n１子どもが日の出町内に居住していること¥n２医療保険に加入していること¥n¥n助成範囲¥n通院・入院医療費の自己負担分¥n¥n申請方法¥n「乳幼児・子ども医療証交付申請書」を記入のうえ、「子ども及び保護者の健康保険証の写し」「印」・転入者は「課税証明書」を添えて、提出してください。¥n申請書は子育て福祉課窓口にあります。¥n¥n助成方法¥n都内の医療機関に、子ども医療証と健康保険証を提示すれば、自己負担なしに診療・調剤が受けられます。詳しくは、問い合わせてください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児医療費（子ども医療費）の助成",
+    "shortName": "こどもの医療費助成制度"
+  },
+  "localGovernmentLink": {
+    "title": "こどもの医療費助成制度",
+    "uri": "https://www.town.hinode.tokyo.jp/0000000115.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "日の出町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "「乳幼児・子ども医療証交付申請書」を記入のうえ、「子ども及び保護者の健康保険証の写し」「印」・転入者は「課税証明書」を添えて、提出してください。¥n申請書は子育て福祉課窓口にあります",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "条例全体",
+    "regulationName": "日の出町こどもの医療費の助成に関する条例施行規則"
+  },
+  "relatedLink": [
+    {
+      "title": "高校生等医療費助成制度",
+      "uri": "https://www.town.hinode.tokyo.jp/0000003378.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子どもの保健対策を充実し、子育て世帯の経済的負担を軽減するため、お子さんが病気やけがなどにより健康保険を使って医療機関で受診した場合、保険診療の自己負担分（2割または3割）の一部を助成しています。",
+  "support": {
+    "description": "中学校3年生までのお子様の通院・入院医療費の自己負担分（食事療養費は除きます。）の助成を行ないます",
+    "materiallySupport": null,
+    "monetarySupport": "中学校3年生までのお子様の通院・入院医療費の自己負担分（食事療養費は除きます。）の助成を行ないます"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "中学校3年生までの子ども",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "中学校3年生までの子どもを養育する保護者で次の要件に該当する方（所得制限はありません。）¥n¥n１　子どもが日の出町内に居住していること¥n２　医療保険に加入していること"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

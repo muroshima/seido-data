@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部保健予防課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM55"
+  },
+  "belongings": "区内指定医療機関のみで使用できる予防接種予診票、母子健康手帳",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部保健予防課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e054/kuseijoho/gaiyo/soshiki/kenko/hokenyobo.html",
+    "zipCode": null
+  },
+  "cost": "0",
+  "costConditions": null,
+  "description": "江戸川区では、麻しん・風しんの感染の拡大防止を図るため、以下のお子様に、MRワクチン（麻しん風しん混合ワクチン）任意予防接種の接種費用の助成を令和7年3月31日まで実施します。対象のお子様には区内指定医療機関のみで使用できる予防接種予診票をお渡ししますので、母子健康手帳をご持参のうえ、各健康サポートセンターまでお越しください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "令和6年4月1日から令和7年3月31日まで",
+    "fromHM": null,
+    "fromYMD": "2024-04-01",
+    "toHM": null,
+    "toYMD": "2025-03-31"
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "区内指定医療機関;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/iryokikan.html"
+  },
+  "institutionName": {
+    "canonicalName": "任意予防接種",
+    "shortName": "MR（麻しん・風しん）ワクチン任意予防接種の接種費用助成の実施"
+  },
+  "localGovernmentLink": {
+    "title": "MR（麻しん・風しん）ワクチン任意予防接種の接種費用助成の実施について",
+    "uri": "https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/ninisesshu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "任意予防接種等実施要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "江戸川区では、麻しん・風しんの感染の拡大防止を図るため、以下のお子様に、MRワクチン（麻しん風しん混合ワクチン）任意予防接種の接種費用の助成を実施します。対象のお子様には区内指定医療機関のみで使用できる予防接種予診票をお渡ししますので、母子健康手帳をご持参のうえ、各健康サポートセンターまでお越しください。",
+  "support": {
+    "description": "江戸川区では、麻しん・風しんの感染の拡大防止を図るため、以下のお子様に、MRワクチン（麻しん風しん混合ワクチン）任意予防接種の接種費用の助成を実施しています。",
+    "materiallySupport": "江戸川区では、麻しん・風しんの感染の拡大防止を図るため、以下のお子様に、MRワクチン（麻しん風しん混合ワクチン）任意予防接種の接種費用の助成を実施しています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "■MR1期任意接種対象者満2歳以上、満6歳未満（小学校就学前の1年度に当たる者を除く）の者で、MR1期定期接種を受けていない方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "■MR1期任意接種対象者満2歳以上、満6歳未満（小学校就学前の1年度に当たる者を除く）の者で、MR1期定期接種を受けていない方"
+  },
+  "updateDate": "2023-04-06",
+  "useConsiderationFlag": false,
+  "utilization": "対象のお子様には区内指定医療機関のみで使用できる予防接種予診票をお渡ししますので、母子健康手帳をご持参のうえ、各健康サポートセンターまでお越しください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

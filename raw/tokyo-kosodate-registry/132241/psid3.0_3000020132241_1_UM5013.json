@@ -1,0 +1,133 @@
+{
+  "area": {
+    "areaCode": "132241;多摩市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センター母子保健担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132241",
+    "psid": "psid3.0+3000020132241+1+UM5013"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都多摩市関戸四丁目19番5号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭センター母子保健担当",
+    "contactPhone": "042-376-9177",
+    "contactUrl": null,
+    "zipCode": "2060011"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "出産・子育て応援事業\n\n妊婦さん、出産された方へ「出産・子育て応援事業」が始まりました\nこれまでの相談支援を充実するとともに、新たに経済的支援として、妊娠届出時に出産応援ギフトを、出生届出後に子育て応援ギフトをお贈りします。\n\n内容\n出産応援ギフトauPAYギフトカード5万円分、子育て応援ギフトauPAYギフトカード5万円分\n\n※令和6年1月支給分からは、東京都と連携し、東京都出産・子育て応援事業としてギフトの内容がカタログギフトに変更となります。また、子育て応援ギフトについては、別途支給していた東京都の赤ちゃんファースト5万円分と合わせた10万円分のカタログギフトとなります。\n\n東京都出産・子育て応援事業（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/shussan/tokyo_shussankosodateouen.html\n対象\n令和4年4月1日以降に妊娠届を提出した妊婦さんと出生した児童の保護者\n\n令和4年4月1日から令和5年1月31日に出産または妊娠届を提出された方\n対象の方のうち（1）令和4年4月1日～令和5年1月31日に出生した児童の保護者＝auPAYギフトカード10万円分、（2）令和4年4月1日～令和5年1月31日に妊娠届を提出した方（（1）を除く）＝auPAYギフトカード5万円分\n\n※流産、死産の場合も対象になります。\n\n令和5年2月中旬にアンケートと申請書を郵送いたしました。必要事項をご記入のうえ返送してください。申請後、1カ月程度でギフトをお送りします。\n\n令和5年2月1日以降に妊娠届を提出される方\n妊娠届出後、ゆりかごTAMA面接で保健師と出産に向けた相談を行います。その際に申請をしていただき、ギフトをお渡しします。\n\nゆりかごTAMA(妊婦面接);https://www.city.tama.lg.jp/kosodate/1008018/1008020/1003412.html\n令和5年2月1日以降に出産された方\n赤ちゃんが生まれたら母子健康手帳の中に入っている出生通知票（はがき）または出生通知を電子申請でお知らせください。その後2～3週間で保健師や助産師が赤ちゃん訪問に伺います。その際、申請いただき、申請後、1カ月程度でギフトをお送りします。\n\n赤ちゃん訪問（出生通知）（外部リンク）;http://logoform.jp/form/4N4o/169112",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出産・子育て応援ギフト（国の出産・子育て応援給付金）",
+    "shortName": "出産・子育て応援事業（出産応援ギフト）"
+  },
+  "localGovernmentLink": {
+    "title": "出産・子育て応援事業",
+    "uri": "https://www.city.tama.lg.jp/kosodate/1008018/1008020/1008770.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "多摩市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "妊娠届出後、ゆりかごTAMA面接で保健師と出産に向けた相談を行います。その際に申請をしていただき、ギフトをお渡しします。\n\nゆりかごTAMA(妊婦面接);https://www.city.tama.lg.jp/kosodate/1008018/1008020/1003412.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "別紙：伴走型相談支援及び出産・子育て応援給付金の一体的実施事業実施要綱「出産・子育て応援給付金」（別添2） ",
+    "regulationName": "伴走型相談支援及び出産・子育て応援給付金の一体的実施事業の実施について（子発1226第1号 令和4年12月26日）"
+  },
+  "relatedLink": [
+    {
+      "title": "ゆりかごTAMA(妊婦面接)",
+      "uri": "https://www.city.tama.lg.jp/kosodate/1008018/1008020/1003412.html"
+    },
+    {
+      "title": "東京都出産・子育て応援事業（外部リンク）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/shussan/tokyo_shussankosodateouen.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": "令和5年2月1日以降に妊娠届を提出される方",
+  "summary": "すべての妊婦さんと子育て家庭が安心して出産・子育てができるように、妊娠から出産・子育てまでの一貫した「伴走型相談支援」を実施しています。この相談支援と一体的に実施する経済的支援として、「出産応援ギフト」を給付しています。 ",
+  "support": {
+    "description": "令和5年2月1日以降に妊娠届を提出される方\n妊娠届出後、ゆりかごTAMA面接で保健師と出産に向けた相談を行います。その際に申請をしていただき、ギフトをお渡しします。\n\nゆりかごTAMA(妊婦面接);https://www.city.tama.lg.jp/kosodate/1008018/1008020/1003412.html",
+    "materiallySupport": null,
+    "monetarySupport": "令和5年2月1日以降に妊娠届を提出される方\n妊娠届出後、ゆりかごTAMA面接で保健師と出産に向けた相談を行います。その際に申請をしていただき、ギフトをお渡しします。\n\nゆりかごTAMA(妊婦面接);https://www.city.tama.lg.jp/kosodate/1008018/1008020/1003412.html"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "令和5年2月1日以降に妊娠届を提出される方"
+  },
+  "updateDate": "2024-01-04",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

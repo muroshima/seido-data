@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132195;狛江市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子ども家庭課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132195",
+    "psid": "psid3.0+8000020132195+1+UM9"
+  },
+  "belongings": "受診先の医療機関または助産所が発行した妊婦健康診査受診日の領収書\n母子健康手帳\n助成金振込先の口座番号等が分かる資料（受診者本人の口座）\n※1および2（表紙・出生届出済証明のページ・妊娠中の経過のページの3カ所）の書類は、申請時に写しを取らせていただきます。\n申請書・請求書\n多胎妊婦健康診査助成金交付申請書 [44KB pdfファイル];https://www.city.komae.tokyo.jp/index.cfm/43,120645,c,html/120645/20220602-133121.pdf",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子ども家庭課母子保健係（あいとぴあセンター）",
+    "contactPhone": "03-5761-9200,03-5761-7990",
+    "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,132750,html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "1回の上限は5,140円（助成回数は5回まで）\n\n※令和6年3月31日以前受診の上限は5,090円\n※保険診療で受診された場合は、対象外です。",
+  "description": "多胎妊婦の妊婦健康診査受診費助成金交付制度\n多胎妊娠に伴い、妊婦健康診査14回を超えた場合の健診費用の一部を助成します。\n\n対象者\n令和4年4月1日以降の妊婦健康診査受診日において次のすべてを満たす方\n\n多胎児を妊娠している方\n狛江市に住所を有する方\n助成金額\n1回の上限は5,140円（助成回数は5回まで）\n\n※令和6年3月31日以前受診の上限は5,090円\n※保険診療で受診された場合は、対象外です。\n\n申請方法\n出産の日（流産または死産の場合は、妊婦健康診査を最後に受診した日）から1年以内、転出の場合は転出した日から1年以内に必要書類を持参または郵送で、子ども家庭課母子保健係（あいとぴあセンター）で申請をしてください。\n\n必要書類等\n受診先の医療機関または助産所が発行した妊婦健康診査受診日の領収書\n母子健康手帳\n助成金振込先の口座番号等が分かる資料（受診者本人の口座）\n※1および2（表紙・出生届出済証明のページ・妊娠中の経過のページの3カ所）の書類は、申請時に写しを取らせていただきます。\n申請書・請求書\n多胎妊婦健康診査助成金交付申請書 [44KB pdfファイル];https://www.city.komae.tokyo.jp/index.cfm/43,120645,c,html/120645/20220602-133121.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊産婦向け健診",
+    "shortName": "多胎妊婦の妊婦健康診査受診費助成金交付制度"
+  },
+  "localGovernmentLink": {
+    "title": "多胎妊婦の妊婦健康診査受診費助成金交付制度",
+    "uri": "https://www.city.komae.tokyo.jp/index.cfm/43,120645,330,html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "狛江市"
+  },
+  "procedureCounter": "子ども家庭課母子保健係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "出産の日（流産または死産の場合は、妊婦健康診査を最後に受診した日）から1年以内、転出の場合は転出した日から1年以内に必要書類を持参または郵送で、子ども家庭課母子保健係（あいとぴあセンター）で申請をしてください。\n\n必要書類等\n受診先の医療機関または助産所が発行した妊婦健康診査受診日の領収書\n母子健康手帳\n助成金振込先の口座番号等が分かる資料（受診者本人の口座）\n※1および2（表紙・出生届出済証明のページ・妊娠中の経過のページの3カ所）の書類は、申請時に写しを取らせていただきます。\n申請書・請求書\n多胎妊婦健康診査助成金交付申請書 [44KB pdfファイル];https://www.city.komae.tokyo.jp/index.cfm/43,120645,c,html/120645/20220602-133121.pdf",
+  "procedurePeriod": {
+    "conditions": "出産の日（流産または死産の場合は、妊婦健康診査を最後に受診した日）から1年以内、転出の場合は転出した日から1年以内",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "狛江市多胎妊婦健康診査費助成金交付要綱（令和４年３月31日要綱第59号）"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "狛江市では、多胎妊娠に伴い、妊婦健康診査14回を超えた場合の健診費用の一部を助成します。",
+  "support": {
+    "description": "助成金額\n1回の上限は5,140円（助成回数は5回まで）\n\n※令和6年3月31日以前受診の上限は5,090円\n※保険診療で受診された場合は、対象外です。",
+    "materiallySupport": null,
+    "monetarySupport": "助成金額\n1回の上限は5,140円（助成回数は5回まで）\n\n※令和6年3月31日以前受診の上限は5,090円\n※保険診療で受診された場合は、対象外です。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "令和4年4月1日以降の妊婦健康診査受診日において次のすべてを満たす方\n\n1.多胎児を妊娠している方\n2.狛江市に住所を有する方"
+  },
+  "updateDate": "2024-04-25",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

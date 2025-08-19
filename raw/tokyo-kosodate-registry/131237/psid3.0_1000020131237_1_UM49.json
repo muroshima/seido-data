@@ -1,0 +1,156 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部健康サービス課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM49"
+  },
+  "belongings": "1.母子健康手帳\n2.乳幼児健康診査のお知らせ兼乳児健康診査質問票（事前に記入してお持ちください）EnglishVersion（PDF：1,428KB）;https://www.city.edogawa.tokyo.jp/documents/18745/nyuuken-question-english.pdf\n3.子育て質問票（事前に記入してお持ちください）\n4.バスタオル\n5.健康保険証（子）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部健康サービス課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "医師による診察\n身体測定\n個別相談（保健師による健康・育児相談、栄養士による栄養相談）",
+  "electronicSubmission": false,
+  "formLink": [
+    {
+      "title": "乳児健康診査（3・4か月）他自治体への依頼申請",
+      "uri": "https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1621486555963"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "お住まいの地域の健康サポートセンター;https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/shokanichiran.html\n\n・会場の変更はできません。\n・お車での来所はご遠慮ください。"
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児健康診査（6か月未満児）",
+    "shortName": "乳児健康診査（3・4か月）"
+  },
+  "localGovernmentLink": {
+    "title": "乳児健康診査（3・4か月）",
+    "uri": "https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kodomo/kenshin/nyuujikenkoushinsa.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "里帰り等で江戸川区以外の自治体で乳児健康診査を希望する場合\n里帰り等の理由で他自治体で乳児健康診査をご希望の方は、下記の内容を電話等で事前にご確認のうえ、電子申請にて申請してください。\n\n依頼先の自治体が乳児健康診査を受け入れているかどうか\n依頼先の自治体名の確認（市区町村名）\n依頼先の自治体の部署名と住所（郵便番号を含む）\n\n申請方法\n電子申請サービスを通して申請する。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "健康サポートセンター",
+      "uri": "https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1621486555963"
+    },
+    {
+      "title": "子育て応援アプリ「ぴよナビえどがわ」",
+      "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/piyonabi.html"
+    },
+    {
+      "title": "子育て応援サイト",
+      "uri": "https://www.city.edogawa.tokyo.jp/kosodate/kosodate_ouen/index.html"
+    },
+    {
+      "title": "赤ちゃん・子どもの健康",
+      "uri": "https://www.city.edogawa.tokyo.jp/kenko/kenko/kodomo/index.html"
+    },
+    {
+      "title": "乳児健康診査（3・4か月）他自治体への依頼申請\n離乳食講習会のご案内",
+      "uri": "https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kodomo/kenshin/rinyuushokukousyuukai.html"
+    },
+    {
+      "title": "English Version（PDF：1",
+      "uri": "https://www.city.edogawa.tokyo.jp/documents/18745/nyuuken-question-english.pdf"
+    },
+    {
+      "title": "428KB）",
+      "uri": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/shokanichiran.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として【3か月・4か月】児健康診査を実施しています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0歳3か月以上、0歳6か月未満のお子様とその保護者（注）0歳6か月を迎えると受けられません。\n健康診査の対象時期は、0歳3か月から0歳4か月の頃になります。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": 3
+    },
+    "lessThan": {
+      "targetAge": 0,
+      "targetAgeOfMonths": 6
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "0歳3か月以上、0歳6か月未満のお子様とその保護者（注）0歳6か月を迎えると受けられません。\n\n健康診査の対象時期は、0歳3か月から0歳4か月の頃になります。\n\n通知時期\n0歳3か月に達する月の下旬に、健康診査のご案内を郵送します。"
+  },
+  "updateDate": "2023-05-31",
+  "useConsiderationFlag": false,
+  "utilization": "0歳3か月に達する月の下旬に、健康診査のご案内を郵送します。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132128;日野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育部学務課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132128",
+    "psid": "psid3.0+1000020132128+3+UM80"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都日野市神明1丁目12番地の1日野市役所5階",
+    "contactComment": "学務係 042-514-8719　保健給食係 042-514-8749,代表電話：042-585-1111",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "教育部学務課",
+    "contactPhone": "042-514-8719,042-514-8749,042-585-1111",
+    "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G130200",
+    "zipCode": "1918686"
+  },
+  "cost": null,
+  "costConditions": "入園料\nなし\n\n保育料\nなし（令和元年10月1日より、保育料が無償化されました）。\n\n活動費\n1,200円（ 月額 ）\n\n※園の行事などでかかる費用となります。\n\n防災頭巾、教材費等は実費を負担していただきます。\n（各園ごとに若干異なりますが、7,000円程度）\n園服えんふく、園帽えんぼう（夏用・冬用）、かばんを指定しています。入園時に準備していただきます。費用は、約10,000円です。",
+  "description": "市立幼稚園の費用、保育時間など\nページID1004229　 更新日 令和5年4月1日\n\n入園料\nなし\n\n保育料\nなし（令和元年10月1日より、保育料が無償化されました）。\n\n活動費\n1,200円（ 月額 ）\n\n※園の行事などでかかる費用となります。\n\nその他\n防災頭巾、教材費等は実費を負担していただきます。\n（各園ごとに若干異なりますが、7,000円程度）\n\n保育時間\n月曜から金曜日　午前9時から午後2時　(水曜日は、正午まで)\n\n制服\n園服えんふく、園帽えんぼう（夏用・冬用）、かばんを指定しています。入園時に準備していただきます。費用は、約10,000円です。\n\nお弁当\n給食はありません。\n水曜日除く週4日、ご家庭でお弁当をご用意いただきます。\n\n送迎\n保護者の方に送迎をしていただきます。\n※駐車場はありません。自動車での送迎は事前に幼稚園への相談が必要です",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "幼稚園の利用について",
+    "shortName": "市立幼稚園の費用、保育時間など"
+  },
+  "localGovernmentLink": {
+    "title": "市立幼稚園の費用、保育時間など",
+    "uri": "https://www.city.hino.lg.jp/kosodate/hoikuen/youchien1/1004229.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "日野市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第26条",
+    "regulationName": "学校教育法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "日野市立幼稚園では、幼児が適切な環境の中で友だちや先生とかかわり合いながら、楽しく充実した生活をするよう工夫しています。\nまた、幼稚園と家庭が互いに協力し合いながら、健全な成長・発達を促がし、人間形成の基礎づくりを行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2023-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜から金曜日午前9時から午後2時(水曜日は、正午まで)",
+    "fromHM": "09:00",
+    "toHM": "14:00"
+  }
+}

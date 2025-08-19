@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "132128;日野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども部保育課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132128",
+    "psid": "psid3.0+1000020132128+1+UM91"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都日野市神明1丁目13番地の2子ども包括支援センター2階",
+    "contactComment": "保育幼稚園係 042-514-8637　管理係 042-514-8638　整備調整係 042-514-8972,代表電話：042-585-1112",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども部保育課",
+    "contactPhone": "042-514-8637,042-514-8638,042-514-8972,042-585-1111",
+    "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120200",
+    "zipCode": "1910016"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "無償化対象施設等について（確認した特定子ども・子育て支援施設等の公示情報）\nページID1012605　 更新日 令和6年4月1日\n\n確認した施設等の公示\n子ども・子育て支援法（平成24年法律第65号）第30条の11第1項の規定により確認した特定子ども・子育て支援施設について、同法第58条の11第1項の規定に基づき公示します。\n※認可保育所は無償化対象施設のため、一覧表からは除いております。\n\n無償化対象施設等一覧（特定子ども・子育て支援施設等一覧）（令和6年4月1日現在） （PDF 528.8KB）;https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/012/605/kakunin20240401.pdf\n各区市町村における無償化対象施設等について（各区市町村において確認した特定子ども・子育て支援施設等の公示情報）【東京都生活文化局HP】（外部リンク）;http://www.seikatubunka.metro.tokyo.jp/shigaku/hogosha/0000001354.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "認可外保育施設一覧",
+    "shortName": "無償化対象施設等"
+  },
+  "localGovernmentLink": {
+    "title": "無償化対象施設等について（確認した特定子ども・子育て支援施設等の公示情報）",
+    "uri": "https://www.city.hino.lg.jp/kosodate/hoikuen/mushouka/1012605.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-19",
+    "updater": "日野市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "無償化対象施設等一覧（特定子ども・子育て支援施設等一覧）（令和6年4月1日現在） （PDF 528.8KB）",
+      "uri": "https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/012/605/kakunin20240401.pdf"
+    },
+    {
+      "title": "各区市町村における無償化対象施設等について（各区市町村において確認した特定子ども・子育て支援施設等の公示情報）【東京都生活文化局HP】（外部リンク）",
+      "uri": "http://www.seikatubunka.metro.tokyo.jp/shigaku/hogosha/0000001354.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "認可外保育施設とは、公的助成の有無や事業規模などにかかわらず、児童福祉法、もしくは認定こども園法に基づく認可を受けていない、お子さんを預かる施設・サービスの総称で、保育の内容や料金設定などは施設によりさまざまです。\n下記は、日野市内にある「幼児教育・保育の無償化」の対象となる認可外保育施設の一覧です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

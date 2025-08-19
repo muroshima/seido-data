@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "133639;新島村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "民生課福祉介護係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020133639",
+    "psid": "psid3.0+9000020133639+1+UM803"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都新島村本村1丁目1番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "107",
+    "contactName": "新島村役場民生課福祉介護係",
+    "contactPhone": "04992-5-0243",
+    "contactUrl": null,
+    "zipCode": "1000402"
+  },
+  "cost": null,
+  "costConditions": "保育料基準額一覧\n|各月初日の入所児童の属する世帯の階層区分|<|<|徴収金基準額（月額）|<|<|\n|階層区分|定義|<|3歳未満|3歳児|4歳以上|\n|:----|:----|:----|:----|:----|:----|\n|第1階層|生活保護法による被保護者である保育給付認定保護者世帯又は児童福祉法第6条の4第1項に規定する里親である保育給付認定保護者世帯|<|0円|0円|0円|\n|第2階層|第1階層を除き、当年度（4月～8月までの場合にあっては前年度）分の市町村民税が非課税の保育給付認定保護者世帯|<|0円|0円|0円|\n|第3階層|第1階層を除き、当年度（4月～8月までの場合にあっては前年度）分の市町村民税課税世帯であって、その村民税の所得割課税額が次の区分に該当する保育給付認定保護者世帯|48,600円未満|13,000円|0円|0円|\n|第4階層|^|48,600円以上97,000円未満|20,000円|0円|0円|\n|第5階層|^|97,000円以上169,000円未満|35,000円|0円|0円|\n|第6階層|^|169,000円以上301,000円未満|50,000円|0円|0円|\n|第7階層|^|301,000円以上397,000円未満|60,000円|0円|0円|\n|第8階層|^|397,000円以上|70,000円|0円|0円|\n",
+  "description": "保育料基準額一覧\nホーム > 施設案内 > 保育所 > 保育料基準額一覧\n\n保育料基準額一覧\n|各月初日の入所児童の属する世帯の階層区分|<|<|徴収金基準額（月額）|<|<|\n|階層区分|定義|<|3歳未満|3歳児|4歳以上|\n|:----|:----|:----|:----|:----|:----|\n|第1階層|生活保護法による被保護者である保育給付認定保護者世帯又は児童福祉法第6条の4第1項に規定する里親である保育給付認定保護者世帯|<|0円|0円|0円|\n|第2階層|第1階層を除き、当年度（4月～8月までの場合にあっては前年度）分の市町村民税が非課税の保育給付認定保護者世帯|<|0円|0円|0円|\n|第3階層|第1階層を除き、当年度（4月～8月までの場合にあっては前年度）分の市町村民税課税世帯であって、その村民税の所得割課税額が次の区分に該当する保育給付認定保護者世帯|48,600円未満|13,000円|0円|0円|\n|第4階層|^|48,600円以上97,000円未満|20,000円|0円|0円|\n|第5階層|^|97,000円以上169,000円未満|35,000円|0円|0円|\n|第6階層|^|169,000円以上301,000円未満|50,000円|0円|0円|\n|第7階層|^|301,000円以上397,000円未満|60,000円|0円|0円|\n|第8階層|^|397,000円以上|70,000円|0円|0円|\nご注意\n第2階層から第8階層であって、同一世帯から2人以上の児童が保育所などを利用しているときは、\n 年齢の一番高い児童が表の金額となり、次に年齢の高い児童は表の金額の50％となります。\n\n第2階層から第8階層までの3人以上の多子世帯であって、年収360万円未満の世帯については、\n児童の年齢に関係なく第2子については表の金額の50％、第3子以降は0円となります。\n\n階層区分の基礎となる課税額は、住宅借入金などの特別控除、住宅耐震改修などの特別控除、配当控除、外国税額控除、\n電子証明書などの控除、寄付金控除、寄付金税額控除などの適用はありません。\n\n保育料は、4～8月までは前年度の住民税額により決定、9～3月までは今年度の住民税額により決定します。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "幼児教育・保育施設の保育料について",
+    "shortName": "保育料基準額一覧"
+  },
+  "localGovernmentLink": {
+    "title": "保育料基準額一覧",
+    "uri": "https://www.niijima.com/facility/nursery-school/hoikuryou.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "新島村"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第27条～第30条の2、第24条",
+    "regulationName": "子ども・子育て支援法、児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子ども・子育て支援新制度による給付を受ける幼稚園や認可保育園、認定こども園、地域型保育事業（小規模保育・家庭的保育・居宅訪問型保育・事業所内保育）の保育料（利用者負担額）は、国が定めた額を上限として、認定区分ごとに、世帯の所得状況、利用時間（標準時間・短時間）などに応じて定めた額となります。\nそれ以外の私学助成の幼稚園や認可外保育施設などの利用料は、施設ごとに定めた額になります。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

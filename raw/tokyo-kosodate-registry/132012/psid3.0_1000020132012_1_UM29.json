@@ -1,0 +1,141 @@
+{
+  "area": {
+    "areaCode": "132012;八王子市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康医療部（八王子市保健所）保健対策課　保健対策担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132012",
+    "psid": "psid3.0+1000020132012+1+UM29"
+  },
+  "belongings": "１養育医療給付申請書２育医療意見書（発行から3か月以内）３世帯調書４市町村民税額を証明する書類（課税非課税証明書）（申請時期によって提出していただく書類の年度が異なります。マイナンバーを御記載いただいた場合は、省略できます。）５健康保険証の写し （患者本人、または患者が加入する予定の健康保険の被保険者のもの）（注意）申請状況により、上記以外の書類が必要な場合があります。詳しくは、健康医療部保健対策課（042-645-5162）までお問い合わせください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "八王子市明神町三丁目19番2号 東京たま未来メッセ 庁舎・会議室棟5階",
+    "contactComment": "ファックス：042-644-9100",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康医療部（八王子市保健所）保健対策課　保健対策担当",
+    "contactPhone": "042-645-5162",
+    "contactUrl": "https://www.city.hachioji.tokyo.jp/inquiry/mailform460300.html?PAGE_NO=982",
+    "zipCode": "1920046"
+  },
+  "cost": null,
+  "costConditions": "ご家族の収入に応じて費用の一部を負担していただきます。ただし、その費用の一部負担額は八王子市乳幼児医療費助成制度で助成されます。",
+  "description": "未熟児の養育医療\n更新日：令和2年4月14日 ページID：P0000982 \n対象者\n八王子市に居住する次のいずれかの症状に該当する未熟児で、入院して養育を受ける必要があると医師が認めた満1歳未満の乳児が対象です。\n\n1.出生時体重が2,000グラム以下の乳児\n2.1以外の乳児で、生活力が特に弱く、次に掲げるいずれかの症状を示す乳児\n(1) けいれん、運動異常\n(2) 体温が摂氏34度以下\n(3) 強いチアノーゼなどの呼吸器、循環器の異常\n(4) くり返す嘔吐(おうと)などの消化器の異常\n(5) 強い黄疸(おうだん)\n医療機関\n全国の指定された養育医療機関\n\n公費負担額\n健康保険を使って治療した場合の自己負担額が助成されますが、ご家族の収入に応じて費用の一部を負担していただきます。ただし、その費用の一部負担額は八王子市乳幼児医療費助成制度で助成されます。\n\n必要書類\n養育医療給付申請書\n養育医療意見書（発行から3か月以内）\n世帯調書\n市町村民税額を証明する書類（課税非課税証明書）\n※申請時期によって提出していただく書類の年度が異なります。詳しくは「養育医療を申請される方へ」を参照してください。\n※マイナンバーを御記載いただいた場合は、省略できます。\n健康保険証の写し （患者本人、または患者が加入する予定の健康保険の被保険者のもの）\n（注意）申請状況により、上記以外の書類が必要な場合があります。\n詳しくは、健康医療部保健対策課（042-645-5162）までお問い合わせください。\n\n養育医療の給付を申請される方へ（PDF形式 93キロバイト） \n\n※マイナンバーの記載について\n個人番号の記載された書類を提出する方は、申請される際に本人確認が必要となります（詳細に関しましては、以下のリンクよりご確認ください）。\nマイナンバー（個人番号）を記載した申請書等の提出時の本人確認について\n\n申請の受付および必要書類の配布場所\n八王子市大横保健福祉センター　（受付時間 平日の午前9時から午後5時）\n八王子市東浅川保健福祉センター（受付時間 平日の午前9時から午後5時　※毎月第2月曜日休館）\n八王子市南大沢保健福祉センター（受付時間 平日の午前9時から午後5時）\n必要書類の配布場所\n申請に必要な書類は、大横保健福祉センター、東浅川保健福祉センター、南大沢保健福祉センターのほか、以下の窓口でも配布しています。\n\n八王子市保健所 保健対策課（042-645-5162）\n八王子市保健所へのアクセス\n\n八王子市役所本庁舎1階 健康医療政策課\n八王子市役所本庁舎",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "全国の指定された養育医療機関"
+  },
+  "institutionName": {
+    "canonicalName": "未熟児養育医療の給付",
+    "shortName": "未熟児の養育医療"
+  },
+  "localGovernmentLink": {
+    "title": "未熟児の養育医療",
+    "uri": "https://www.city.hachioji.tokyo.jp/kurashi/kosodate/002/002/p000982.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-23",
+    "updater": "八王子市"
+  },
+  "procedureCounter": "申請の受付および必要書類の配布場所\n１八王子市大横保健福祉センター　（受付時間 平日の午前9時から午後5時）２八王子市東浅川保健福祉センター（受付時間 平日の午前9時から午後5時　※毎月第2月曜日休館）３八王子市南大沢保健福祉センター（受付時間 平日の午前9時から午後5時）\n※申請に必要な書類は、以下の窓口でも配布しています。\n１八王子市保健所 保健対策課（042-645-5162）\n２八王子市役所本庁舎1階 健康医療政策課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": "入院中に速やかに申請してください。\n（医療費を支払い済みの場合、市に還付請求をすることはできません。）",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第20条（養育医療）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "マイナンバー（個人番号）を記載した申請書等の提出時の本人確認について",
+      "uri": "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/004/003/p007332.html"
+    },
+    {
+      "title": "養育医療の給付を申請される方へ（PDF形式 93キロバイト） ",
+      "uri": "https://www.city.hachioji.tokyo.jp/kurashi/kosodate/002/002/p000982_d/fil/youiku20171114.pdf"
+    },
+    {
+      "title": "八王子市保健所へのアクセス",
+      "uri": "https://www.city.hachioji.tokyo.jp/kurashi/hoken/007/012/p002703.html"
+    },
+    {
+      "title": "八王子市役所本庁舎",
+      "uri": "https://www.city.hachioji.tokyo.jp/shisetsu/001/p012054.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "未熟児養育医療の給付とは、身体の発育が未熟なまま生まれ入院を必要とする乳児が、指定養育医療機関において入院治療を受ける場合に、その治療に要する医療費を公費により負担する制度です。ただし、世帯の所得税額に応じて、入院治療費の一部は自己負担となります。",
+  "support": {
+    "description": "健康保険を使って治療した場合の自己負担額と食事療養費が助成されますが、ご家族の収入に応じて費用の一部を負担していただきます。ただし、その費用の一部負担額は八王子市乳幼児医療費助成制度で助成されます。（おむつ代、差額ベッド代等の保険適用外のものは、給付の対象となりません。）",
+    "materiallySupport": null,
+    "monetarySupport": "健康保険を使って治療した場合の自己負担額と食事療養費が助成されますが、ご家族の収入に応じて費用の一部を負担していただきます。ただし、その費用の一部負担額は八王子市乳幼児医療費助成制度で助成されます。（おむつ代、差額ベッド代等の保険適用外のものは、給付の対象となりません。）"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "089"
+    ]
+  },
+  "target": {
+    "conditions": "八王子市に居住する次のいずれかの症状に該当する未熟児で、入院して養育を受ける必要があると医師が認めた満1歳未満の乳児が対象です。\n１.出生時体重が2,000グラム以下の乳児\n２.１以外の乳児で、生活力が特に弱く、次に掲げるいずれかの症状を示す乳児\n(1) けいれん、運動異常(2) 体温が摂氏34度以下(3) 強いチアノーゼなどの呼吸器、循環器の異常(4) くり返す嘔吐(おうと)などの消化器の異常(5) 強い黄疸(おうだん)",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "八王子市に居住する次のいずれかの症状に該当する未熟児で、入院して養育を受ける必要があると医師が認めた満1歳未満の乳児が対象です。\n１.出生時体重が2,000グラム以下の乳児\n２.１以外の乳児で、生活力が特に弱く、次に掲げるいずれかの症状を示す乳児\n(1) けいれん、運動異常(2) 体温が摂氏34度以下(3) 強いチアノーゼなどの呼吸器、循環器の異常(4) くり返す嘔吐(おうと)などの消化器の異常(5) 強い黄疸(おうだん)"
+  },
+  "updateDate": "2020-04-24",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

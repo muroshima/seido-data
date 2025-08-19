@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131211;足立区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "衛生部保健予防課予防接種係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020131211",
+    "psid": "psid3.0+2000020131211+4+UM55"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "衛生部保健予防課予防接種係",
+    "contactPhone": "03-3880-5094",
+    "contactUrl": "https://www.city.adachi.tokyo.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "小児インフルエンザワクチン任意接種費用一部助成について（令和６年１０月開始予定）\n　小児インフルエンザワクチン任意予防接種費用一部助成について、令和６年度予算案に計上しています。令和６年度予算案が区議会で可決された場合、下記の通り実施します。\n\n 助成を受けるには、区が発行する予診票が必要です。対象者には、令和６年９月末までに予診票を送付する予定です。\n\n　なお、令和６年１０月１日以前に自費で接種した場合の償還払いの制度などはございません。\n\n　その他、詳細が確定次第このページをお知らせいたします。\n\n対象者\n生後６か月の前日から高校３年生相当まで\n\n対象期間\n令和６年１０月１日から令和７年１月３１日まで\n\n※上記期間以外に接種する場合は助成の対象となりませんのでご注意ください。\n\n助成額\n２,０００円／回\n\n※助成額を差し引いた金額を医療機関にお支払いください。\n\n助成（接種）回数\n生後６か月から１２歳まで　２回／年\n\n１３歳から高校３年生相当まで　１回／年",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "令和６年１０月１日から令和７年１月３１日まで",
+    "fromHM": null,
+    "fromYMD": "2024-10-01",
+    "toHM": null,
+    "toYMD": "2025-01-31"
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "任意予防接種",
+    "shortName": "小児インフルエンザワクチン任意接種"
+  },
+  "localGovernmentLink": {
+    "title": "小児インフルエンザワクチン任意接種費用一部助成について（令和６年１０月開始予定）",
+    "uri": "https://www.city.adachi.tokyo.jp/hoken/kodomo-influenza.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "足立区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "助成を受けるには、区が発行する予診票が必要です。対象者には、令和６年\n９月末までに予診票を送付する予定です。　",
+  "procedurePeriod": {
+    "conditions": "対象期間\n令和６年１０月１日から令和７年１月３１日まで\n\n※上記期間以外に接種する場合は助成の対象となりませんのでご注意ください。",
+    "fromHM": null,
+    "fromYMD": "2024-04-01",
+    "toHM": null,
+    "toYMD": "2025-07-31"
+  },
+  "procedurePersons": "生後６か月の前日から高校３年生相当まで",
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "足立区小児インフルエンザワクチン任意接種事業実施要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。現在、定期接種以外で小学校就学前のお子さんが接種できるワクチンとしては、おたふくかぜ、インフルエンザなどがあります。\nこのうち足立区では、次の任意予防接種に対して、接種費用を助成しています。接種するかどうかについては、かかりつけ医とご相談のうえ、保護者の判断により決めてください。",
+  "support": {
+    "description": "助成額\n２,０００円／回\n\n※助成額を差し引いた金額を医療機関にお支払いください。\n\n助成（接種）回数\n生後６か月から１２歳まで　２回／年\n\n１３歳から高校３年生相当まで　１回／年",
+    "materiallySupport": null,
+    "monetarySupport": "助成額\n２,０００円／回"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後６か月の前日から高校３年生相当まで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生後６か月の前日から高校３年生相当まで"
+  },
+  "updateDate": "2024-02-21",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

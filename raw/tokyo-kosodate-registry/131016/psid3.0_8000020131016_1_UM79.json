@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局子ども部児童・家庭支援センター子育て事業係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+1+UM79"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区神田須田町1-4-4　PMO神田須田町4階",
+    "contactComment": null,
+    "contactEmail": "jidousenta@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "教育委員会事務局子ども部児童・家庭支援センター子育て事業係",
+    "contactPhone": "03-5298-2424",
+    "contactUrl": null,
+    "zipCode": "1010041"
+  },
+  "cost": "2000",
+  "costConditions": null,
+  "description": "児童福祉法に規定する放課後児童健全育成事業です。保護者の就労等の理由により、放課後等に適切な保育を受けられない小学生を対象に、児童の遊び及び生活の場として健やかな心身を育むとともに、保護者の就労と育児の両立を支援します。\n現在、区内には全24 クラブがあります。詳しくは、学童クラブ一覧をご覧ください。（外部サイトへリンク）;https://www.city.chiyoda.lg.jp/koho/kosodate/jidocenter/gakudo.html\n\n学童クラブの利用には入会申込が必要です。毎年、申請書・保護者の就労等の状況により審査します。詳しくは、学童クラブ入会案内をご覧ください。（PDF:1,406KB）https://www.city.chiyoda.lg.jp/documents/7208/r6nyukaiannai.pdf\n\n入会申込\n・年度当初（4月～）\n前年度末に一次募集、二次募集を行っています。第一希望の学童クラブへ必要書類を揃えて持参してください。\n（注意1）二次募集は、一次募集に申込みしなかった方が対象です。 \n（注意2）すべてのクラブが満員となった場合、二次募集は実施しません。\n\n・年度途中\n４月１日以降、随時入会受付を行っています。入会を希望する月の前月20日までに、必要書類を揃えて希望の学童クラブへ持参してください。\n\n実施日時\n基本保育 下校時から午後5時まで\n延長保育（夕方保育） 午後5時から7時まで\n\n（注意1）土曜日、学校休業日の保育時間は、クラブにより若干異なります。\n（注意2）一部のクラブでは、早朝保育（午前7時～8時。学校長期休業期間のみ）と夜間延長保育（午後7時～9時）を行っています。\n\n育成料\n月4,000円（ただし、当分の間2,000円）\n（注意）育成料には、減額や免除の規定があります（きょうだいが入会している場合、生活保護世帯、利用年度の住民税が非課税の世帯など）。\n\nおやつ代\n月1,500円\n（注意）区内在住の方は、おやつ代免除の規定があります（育成料の免除事由に該当する場合）。\n\n夕食代（夜間延長保育のあるクラブ）\n1回500円程度\n（注意）夜間延長保育を実施している学童クラブにおいて、申込者に夕食提供を行っています。\n\n休業日\n日曜日、国民の祝日、年末年始（12月29日～1月3日）はお休みです。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "日曜日、祝日、年末年始（12月29日～1月3日）",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "放課後児童クラブ",
+    "shortName": "学童クラブ"
+  },
+  "localGovernmentLink": {
+    "title": "学童クラブ入会案内",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/jidocenter/gakudo-nyukai.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "入会案内\n\n年度当初（4月～）の入会\n一次募集、二次募集を行っています。受付期間内に第一希望の学童クラブへ必要書類を揃えて持参してください。\n（注意1）二次募集は、一次募集に申込みしなかった方が対象です。 \n（注意2）すべてのクラブが満員となった場合、二次募集は実施しません。 \n（注意3）学童クラブは年度ごとに入会決定をします。現在学童クラブに入会している方も、新年度の利用を希望する場合は、改めて申請が必要です。\n\n年度途中の入会\n４月１日以降、随時入会受付を行っています。入会を希望する月の前月20日までに、必要書類を揃えて希望の学童クラブへ持参してください。 \n\n申込の必要書類\n必要書類の詳細は学童クラブ入会案内をご確認ください。（PDF:1,406KB）;https://www.city.chiyoda.lg.jp/documents/7208/r6nyukaiannai.pdf",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第2項",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "学童クラブ入会案内冊子",
+      "uri": "https://www.city.chiyoda.lg.jp/documents/7208/r6nyukaiannai.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "放課後児童クラブは、保護者が就労などにより、昼間家庭にいない小学校に就学しているお子さんに対し、適切な遊びおよび生活の場を与え、児童の健全な育成および保護者の就労と子育ての両立支援を図ることを目的としています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "005"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "092"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "保護者の就労等の理由により、日中家庭で適切な養育を受けられない小学生で、次のいずれかに該当する児童が対象となります。\n\n・区内在住の小学生\n・区立小学校に在学する小学生"
+  },
+  "updateDate": "2024-03-18",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

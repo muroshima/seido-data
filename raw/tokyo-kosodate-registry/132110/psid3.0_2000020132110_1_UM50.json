@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センター母子保健担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+1+UM50"
+  },
+  "belongings": "受診票",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市学園東町1-19-12　健康センター1階",
+    "contactComment": "FAX：042-346-3705",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭センター母子保健担当",
+    "contactPhone": "042-346-3701",
+    "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+    "zipCode": "1870043"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "6～7か月児健康診査、9～10か月児健康診査ともに、個別の医療機関における健診です。\n健康センターで行う3～4か月児健康診査の時に、受診票とご案内を配布します。医療機関にお問い合わせの上予約し、受診票を持って受診してください。\n受診内容は問診、身体計測、診察となります。\n(注)東京都内で転入した方は、そのままお持ちの受診票が使えます。\n(注)東京都外から転入した方は、こども家庭センター 母子保健担当までお問い合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "指定医療機関"
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+    "shortName": "6～7か月児健診、9～10か月児健診（個別健診）"
+  },
+  "localGovernmentLink": {
+    "title": "6～7か月児健診、9～10か月児健診（個別健診）",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/048/048678.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "小平市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "健康センターで行う3～4か月児健康診査の時に、受診票とご案内を配布します。\n医療機関にお問い合わせの上予約し、受診票を持って受診してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "東京都内で転入した方,東京都外から転入した方",
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "お子さんの病気の予防と病気の早期発見、健康保持と増進を目的として乳幼児健康診査（6～7か月児、9～10か月児）を医療機関で実施しています。",
+  "support": {
+    "description": "乳幼児健康診査（6～7か月児、9～10か月児）を実施しています。",
+    "materiallySupport": "問診、身体計測、診察",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "（6～7か月児健康診査）6か月～8か月未満のお子さん\n（9～10か月児健康診査）9か月～11か月未満のお子さん",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "（6～7か月児健康診査）6か月～8か月未満のお子さん\n（９～10か月児健康診査）9か月～11か月未満のお子さん"
+  },
+  "updateDate": "2024-04-08",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

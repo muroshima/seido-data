@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部健康サービス課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+6+UM106"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部健康サービス課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "令和5年4月1日以降にお生まれになった0歳のお子さんがいるご家庭を対象に、子育て支援に関する研修を受けた見守り配達員が毎月ご自宅を訪問し、子育て世帯の見守りを行います。見守り配達員に子育てに関するお悩みや近況をお聞かせください。また、訪問時にお会いできた際には、おむつなどのベビー用品をお渡しします。\n\n見守り配達員について\n\n・「見守り配達員」は専用のユニフォームを着用し、配達員の証明書を身に着けて当該事業の訪問であることを明確にします。また、感染症対策として消毒の徹底とマスク着用を行います。ご理解とご協力をお願いします。\n・「見守り配達員」は、子育て支援等に関する研修を受講し、子育て経験のある方が中心となります。子育てに関する日ごろのお悩みや不安等がありましたらご相談ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": "2024-01-31",
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関するサポート",
+    "shortName": "江戸川区子育ておむつ定期便"
+  },
+  "localGovernmentLink": {
+    "title": "江戸川区子育ておむつ定期便",
+    "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/kosodate/omutsuteikibin.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "江戸川区子育ておむつ定期便コールセンター　電話：0570-077-166\n\n（注意）祝日を除く、月曜日から金曜日の午前9時から午後5時まで",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "令和6年1月31日（水曜日）より、対象となる世帯に案内書類一式が順次発送されます。\n\n案内書類にある二次元コードを読み取り、専用のポータルサイトで登録を行います。\n\n登録後、見守り訪問日とベビー用品を選択し、申請を行います。\n\n妊娠8か月を迎える妊婦の方にも案内書類一式が送付され、仮登録を行うことができます。出生届の提出後、登録完了の通知が専用のポータルサイトに届きます。登録完了後、見守り訪問日とベビー用品の選択が可能となります。\n\n（注意）妊娠中に仮登録を行い、出産後の入籍等で世帯が変更になった場合は、再度登録が必要となる場合があります。\n\n（注意）詳しくは、対象世帯に送付される案内通知をご確認ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": "2024-01-31",
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "令和5年4月1日以降にお生まれになった0歳のお子さんがいるご家庭を対象に、子育て支援に関する研修を受けた見守り配達員が毎月ご自宅を訪問し、子育て世帯の見守りを行います。見守り配達員に子育てに関するお悩みや近況をお聞かせください。また、訪問時にお会いできた際には、おむつなどのベビー用品をお渡しします。",
+  "support": {
+    "description": "おむつなどのベビー用品",
+    "materiallySupport": "おむつなどのベビー用品",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "次のすべてに該当する世帯。\n\n・令和5年4月1日以降に生まれた満1歳に達する日の前日までの乳児（対象乳児）及びその養育者が属する世帯\n・対象乳児を養育している世帯\n・対象乳児が乳児院又は里親に措置されていない世帯\n\n（注意）里帰りをされている場合は対象にはなりません",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次のすべてに該当する世帯。\n\n・令和5年4月1日以降に生まれた満1歳に達する日の前日までの乳児（対象乳児）及びその養育者が属する世帯\n・対象乳児を養育している世帯\n・対象乳児が乳児院又は里親に措置されていない世帯\n\n（注意）里帰りをされている場合は対象にはなりません"
+  },
+  "updateDate": "2024-01-15",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

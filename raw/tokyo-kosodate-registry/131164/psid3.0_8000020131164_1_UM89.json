@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保育課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+1+UM89"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保育課",
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "令和5年10月1日現在の定員です。        \n\n下記から選択できます。\n\n▼区立認可保育所;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/006596.html#http://www.city.toshima.lg.jp/269/kosodate/kosodate/hoikuen/006596.html　▼公設民営認可保育所;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/006596.html#%E5%85%AC%E8%A8%AD%E6%B0%91%E5%96%B6%E8%AA%8D%E5%8F%AF%E4%BF%9D%E8%82%B2%E6%89%80\n\n▼私立認可保育所;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/006596.html#%E7%A7%81%E7%AB%8B%E8%AA%8D%E5%8F%AF%E4%BF%9D%E8%82%B2%E6%89%80        ▼地域型保育事業;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/006596.html#%E5%9C%B0%E5%9F%9F%E5%9E%8B%E4%BF%9D%E8%82%B2%E4%BA%8B%E6%A5%AD        ▼認定こども園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/006596.html#%E8%AA%8D%E5%AE%9A%E5%AD%90%E3%81%A9%E3%82%82%E5%9C%92\n\n場所を確認されたいかたは、下記地図をご覧ください。\n\n豊島区保育施設MAP;https://www.city.toshima.lg.jp/260/kosodate/kosodate/hoikuen/nyuen/1705120836.html\n\n区立認可保育所\n\n||名称|延長保育|0歳児保育|定員|0歳児|1歳児|2歳児|3歳児|4・5歳児|\n|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|\n|認可1|駒込第一保育園;https://www.city.toshima.lg.jp/273/kosodate/kosodate/hoikuen/kuritsu/006103.html|午後7時15分|8週経過児|108|12|18|19|19|40|\n|認可2|巣鴨第一保育園;https://www.city.toshima.lg.jp/275/2102191007.html|午後7時15分|8週経過児|106|12|18|18|18|40|\n|認可3|西巣鴨第三保育園;https://www.city.toshima.lg.jp/276/kosodate/kosodate/hoikuen/kuritsu/006111.html|午後8時|8週経過児|114|12|18|18|18|48|\n|認可4|東池袋第二保育園;https://www.city.toshima.lg.jp/278/kosodate/kosodate/hoikuen/kuritsu/006116.html|午後7時15分|8週経過児|101|10|15|18|18|40|\n|認可5|西池袋第二保育園;https://www.city.toshima.lg.jp/279/kosodate/kosodate/hoikuen/kuritsu/006118.html|午後7時15分|8週経過児|97|8|15|17|17|40|\n|認可6|池袋第一保育園;https://www.city.toshima.lg.jp/280/kosodate/kosodate/hoikuen/kuritsu/006119.html|午後7時15分|8週経過児|111|12|16|19|19|45|\n|認可7|池袋第二保育園;https://www.city.toshima.lg.jp/281/kosodate/kosodate/hoikuen/kuritsu/006120.html|午後7時15分|8週経過児|101|9|14|17|17|44|\n|認可8|池袋第五保育園;https://www.city.toshima.lg.jp/283/kosodate/kosodate/hoikuen/kuritsu/006123.html|午後7時15分|8週経過児|113|13|17|20|20|43|\n|認可9|高南保育園;https://www.city.toshima.lg.jp/284/kosodate/kosodate/hoikuen/kuritsu/006126.html|午後7時15分|8週経過児|92|9|13|16|16|38|\n|認可10|目白第一保育園;https://www.city.toshima.lg.jp/285/kosodate/kosodate/hoikuen/kuritsu/006127.html|午後7時15分|8週経過児|101|9|16|19|19|38|\n|認可11|目白第二保育園;https://www.city.toshima.lg.jp/286/kosodate/kosodate/hoikuen/kuritsu/006128.html|午後7時15分|8週経過児|102|12|17|17|17|39|\n|認可12|南長崎第一保育園;https://www.city.toshima.lg.jp/287/kosodate/kosodate/hoikuen/kuritsu/006129.html|午後7時15分|8週経過児|103|11|14|18|18|42|\n|認可13|南長崎第二保育園;https://www.city.toshima.lg.jp/288/kosodate/kosodate/hoikuen/kuritsu/006130.html|午後7時15分|8週経過児|96|9|15|16|16|40|\n|認可14|長崎保育園;https://www.city.toshima.lg.jp/289/kosodate/kosodate/hoikuen/kuritsu/006131.html|午後7時15分|8週経過児|104|12|16|18|18|40|\n|認可15|要町保育園;https://www.city.toshima.lg.jp/290/kosodate/kosodate/hoikuen/kuritsu/006133.html|午後7時15分|8週経過児|102|14|15|16|16|41|\n|認可16|高松第二保育園;https://www.city.toshima.lg.jp/292/kosodate/kosodate/hoikuen/kuritsu/006135.html|午後7時15分|8週経過児|101|10|15|18|18|40|\n\n公設民営認可保育所\n\n||名称|延長保育|0歳児保育|定員|0歳児|1歳児|2歳児|3歳児|4・5歳児|\n|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|\n|認可17|駒込第三保育園;http://www.city.toshima.lg.jp/268/kosodate/1506260945.html|午後8時|8週経過児|109|9|15|19|21|45|\n|認可18|南大塚保育園;http://www.city.toshima.lg.jp/268/kosodate/kosodate/hoikuen/kosetsumine/1506261021.html|午後8時|8週経過児|106|12|14|18|20|42|\n\n私立認可保育所\n\n||名称|延長保育|0歳児保育|定員|0歳児|1歳児|2歳児|3歳児|4・5歳児|\n|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|\n|認可19|ミアヘルサ保育園ひびき駒込;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1703101108.html|午後8時15分|8週経過児|20|6|7|7|-|-|\n|認可20|コンビプラザ駒込ちどり保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1604141512.html|午後8時15分|8週経過児|70|6|12|12|12|28|\n|認可21|さくらさくみらい 駒込;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1608261421.html|午後8時15分|8週経過児|63|6|10|11|12|24|\n|認可22|キッズパートナー駒込;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/2003261039.html|午後7時15分|8週経過児|60|6|10|12|12|20|\n|認可23|駒込第二若草保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/2103121605.html|午後8時15分|8週経過児|100|10|14|17|17|42|\n|認可24|太陽の子 巣鴨駅前保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/034811.html|午後8時15分|8週経過児|70|6|10|12|12|30|\n|認可25|うぃず巣鴨駅前第二保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/2009041117.html|午後7時15分|-|60|-|12|12|12|24|\n|認可26|うぃず巣鴨駅前保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1506301833.html|午後8時15分|8週経過児|60|6|10|11|11|22|\n|認可27|西巣鴨さくらそう保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1506091301.html|午後8時15分|8週経過児|136|12|24|24|24|52|\n|認可28|キッズガーデン西巣鴨;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1906281601.html|午後7時15分|8週経過児|50|6|7|10|10|17|\n|認可29|おはよう保育園 西巣鴨;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1802221146.html|午後7時15分|8週経過児|60|6|10|11|11|22|\n|認可30|西巣鴨・学びの保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1604141441.html|午後7時15分|8週経過児|60|6|10|12|12|20|\n|認可31|グローバルキッズ西巣鴨園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1703101139.html|午後7時15分|8週経過児|20|6|10|4|-|-|\n|認可32|おおつかほうゆう保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/2203291006.html|午後7時15分|-|56|-|14|14|14|14|\n|認可33|アンソレイユ保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/034812.html|午後8時15分|8週経過児|110|9|18|18|21|44|\n|認可34|東進ポップキッズ 大塚キャンパス;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1508271759.html|午後8時15分|-|67|-|10|12|15|30|\n|認可35|若草保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1506091817.html|午後7時15分|6週経過児|150|15|28|28|29|50|\n|認可36|大空と大地のなーさりぃ第一南大塚園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1802221529.html|午後7時15分|8週経過児|66|6|10|11|13|26|\n|認可37|大空と大地のなーさりぃ第二南大塚園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1903201024.html|午後7時15分|8週経過児|60|6|10|10|11|23|\n|認可38|キッズガーデン南大塚;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1508271746.html|午後8時15分|8週経過児|60|6|10|11|11|22|\n|認可39|大塚りとるぱんぷきんず;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1506091906.html|午後8時15分|8週経過児|60|6|9|10|11|24|\n|認可40|ニチイキッズかみいけぶくろ保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1903201031.html|午後7時15分|8週経過児|70|6|10|14|14|26|\n|認可41|キッズガーデン上池袋;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/2006221027.html|午後7時15分|8週経過児|49|6|9|9|10|15|\n|認可42|さくらさくみらい 上池袋;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1809202040.html|午後7時15分|8週経過児|60|6|10|10|12|22|\n|認可43|まちの保育園 東池袋;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1703101855.html|午後7時15分|8週経過児|49|6|8|8|9|18|\n|認可44|東池袋第一保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/2303291612.html|午後8時15分|8週経過児|110|9|19|19|20|43|\n|認可45|AIAI NURSERY 第一東池袋;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1610201347.html|午後7時15分|3ヶ月経過児|60|6|10|11|11|22|\n|認可46|AIAI NURSERY 第二東池袋;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/2203290942.html|午後7時15分|-|50|-|10|10|10|20|\n|認可47|クオリスキッズ東池袋保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/2103151545.html|午後7時15分|-|60|-|12|12|12|24|\n|認可48|グローバルキッズ東池袋園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1703101921.html|午後7時15分|8週経過児|60|6|10|11|11|22|\n|認可49|同援さくら保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1506091919.html|午後10時15分|6週経過児|110|12|18|20|20|40|\n|認可50|ミアヘルサ保育園ひびき池袋;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1903201046.html|午後7時15分|8週経過児|46|4|10|11|10|11|\n|認可51|ピオーネ雑司が谷保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1903201049.html|午後7時15分|8週経過児|40|6|7|8|8|11|\n|認可52|グローバルキッズ池袋駅前保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1802221136.html|午後7時15分|-|20|-|10|10|-|-|\n|認可53|ベネッセ 目白保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1903201106.html|午後7時15分|8週経過児|60|6|10|11|11|22|\n|認可54|グローバルキッズ西池袋園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1604141451.html|午後8時15分|8週経過児|110|6|19|22|22|41|\n|認可55|西池袋そらいろ保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1506091935.html|午後8時15分|6週経過児|105|9|18|18|20|40|\n|認可56|いけぶくろこころ保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1703101925.html|午後7時15分|8週経過児|60|6|12|12|12|18|\n|認可57|明日葉保育園池袋園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/2203291015.html|午後8時15分|8週経過児|100|8|18|18|18|38|\n|認可58|わくわく保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1703101936.html|午後7時15分|-|30|-|5|5|7|13|\n|認可59|グローバルキッズ北池袋園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1512061309.html|午後8時15分|8週経過児|70|6|11|12|13|28|\n|認可60|太陽の子 池袋本町保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1604141517.html|午後8時15分|8週経過児|20|3|7|7|3|-|\n|認可61|みのり保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1506091944.html|午後7時15分|8週経過児|40|6|8|8|10|8|\n||アスク池袋本町保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1604141457.html|午後8時15分|8週経過児|60|6|10|11|11|22|\n|認可63|めぐみ保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1506091956.html|午後8時15分|6週経過児|90|9|13|15|15|38|\n|認可64|雑司が谷保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1704031840.html|午後7時15分|8週経過児|98|10|17|17|18|36|\n|認可65|雑司が谷すきっぷ保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1906031236.html|午後7時15分|8週経過児|60|6|10|11|11|22|\n|認可66|グローバルキッズ雑司が谷園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1704031912.html|午後7時15分|8週経過児|70|6|12|12|15|25|\n|認可67|ベネッセ 雑司が谷保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/2003261108.html|午後7時15分|8週経過児|50|-|10|10|10|20|\n|認可68|ミアヘルサ保育園ひびき高田;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/2203290957.html|午後7時15分|-|52|-|12|13|13|14|\n|認可69|目白ちとせ保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1802221416.html|午後7時15分|8週経過児|50|6|8|9|9|18|\n|認可70|目白ひかり保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1903201154.html|午後7時15分|6週経過児|60|6|10|11|11|22|\n|認可71|グローバルキッズ椎名町園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1802221332.html|午後7時15分|8週経過児|50|5|10|9|9|17|\n|認可72|おはよう保育園 椎名町;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1802221432.html|午後7時15分|8週経過児|60|6|10|11|11|22|\n|認可73|椎名町ひまわり保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1506092001.html|午後7時15分|6週経過児|60|6|10|11|11|22|\n|認可74|にじいろ保育園落合南長崎;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1802221403.html|午後7時15分|8週経過児|73|6|10|12|15|30|\n|認可75|グローバルキッズ東長崎園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1604141502.html|午後8時15分|8週経過児|60|6|10|12|10|22|\n|認可76|まなびの森保育園東長崎;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1704031917.html|午後8時15分|8週経過児|70|6|10|12|14|28|\n|認可77|Nicot東長崎;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1908211634.html|午後7時15分|8週経過児|50|6|8|9|9|18|\n|認可78|椎名町ちとせ保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1802221439.html|午後7時15分|8週経過児|60|9|10|10|10|21|\n|認可79|ミアヘルサ保育園ゆらりん椎名町;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1711161441.html|午後7時15分|8週経過児|60|6|10|11|11|22|\n|認可80|アスク長崎一丁目保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1704031921.html|午後7時15分|8週経過児|60|6|10|11|11|22|\n|認可81|愛の家保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1506092015.html|午後7時15分|4ヶ月経過児|27|0|2|9|7|9|\n|認可82|長崎森のなかま保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/2003261054.html|午後7時15分|8週経過児|49|3|8|8|10|20|\n|認可83|にじいろ保育園千早;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1802230942.html|午後7時15分|8週経過児|60|6|10|11|11|22|\n|認可84|しいの実保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1506092011.html|午後10時15分|6週経過児|110|12|18|20|20|40|\n|認可85|千早子どもの家保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1506092011.html|午後7時15分|6週経過児|60|9|10|12|12|17|\n|認可86|グローバルキッズ千早園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1802221454.html|午後7時15分|8週経過児|30|6|12|12|-|-|\n|認可87|うぃず千川保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/2303291547.html|午後7時15分|-|70|-|13|14|16|27|\n|認可88|AIAI NURSERY 要町;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1604141506.html|午後7時15分|3ヶ月経過児|70|6|12|13|13|26|\n|認可89|太陽の子 要町保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1704031924.html|午後8時15分|8週経過児|56|6|10|10|10|20|\n|認可90|キッズガーデン要町;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1802221513.html|午後7時15分|8週経過児|73|6|10|12|15|30|\n|認可91|アスクかなめ町保育園;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1802221524.html|午後7時15分|8週経過児|30|6|12|12|-|-|\n|認可92|せんかわみんなの家;https://www.city.toshima.lg.jp/452/siritsu/1503231124.html|午後8時15分|8週経過児|110|12|18|20|20|40|\n|認可93|SAKURA保育園千川;https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/shiritsu/1704031936.html|午後7時15分|8週経過児|66|6|12|12|12|24|\n\n地域型保育事業\n・小規模保育事業A型\n\n||名称|延長保育|0歳児保育|定員|0歳児|1歳児|2歳児|\n|:----|:----|:----|:----|:----|:----|:----|:----|\n|地域1|このえ駒込小規模保育園;https://www.city.toshima.lg.jp/268/kosodate/kosodate/hoikuen/chiikigata/1509301740.html|午後7時15分|8週経過児|11|3|4|4|\n|地域2|ドリームキッズすがも保育園;https://www.city.toshima.lg.jp/268/kosodate/kosodate/hoikuen/chiikigata/034798.html|午後7時15分|8週経過児|12|2|5|5|\n|地域3|おうち保育園すがも;https://www.city.toshima.lg.jp/268/kosodate/kosodate/hoikuen/chiikigata/1509301820.html|午後7時15分|8週経過児|12|2|6|4|\n|地域4|おうち保育園おおつか;https://www.city.toshima.lg.jp/268/kosodate/kosodate/hoikuen/chiikigata/034789.html|午後7時15分|8週経過児|12|0|6|6|\n|地域5|南大塚早樹保育園;https://www.city.toshima.lg.jp/268/kosodate/kosodate/hoikuen/chiikigata/034796.html|午後7時15分|8週経過児|16|3|7|6|\n|地域6|ドリームキッズかみいけ保育園;https://www.city.toshima.lg.jp/268/kosodate/kosodate/hoikuen/chiikigata/034790.html|午後7時15分|8週経過児|12|4|5|3|\n|地域7|東池袋早樹保育園;https://www.city.toshima.lg.jp/268/kosodate/kosodate/hoikuen/chiikigata/034795.html|午後7時15分|8週経過児|12|2|5|5|\n|地域8|森のなかま保育園 東池袋ルーム;https://www.city.toshima.lg.jp/453/kosodate/kosodate/hoikuen/chiikigata/1505131955.html|午後7時15分|8週経過児|6|0|2|4|\n|地域9|ドリームキッズにし池袋保育園;https://www.city.toshima.lg.jp/268/kosodate/kosodate/hoikuen/chiikigata/1509301800.html|午後7時15分|8週経過児|19|5|8|6|\n|地域10|やまのみ池袋保育園;https://www.city.toshima.lg.jp/268/kosodate/kosodate/hoikuen/chiikigata/1507161209.html|午後7時15分|4ヶ月経過児|18|2|8|8|\n|地域11|イルカ保育園;https://www.city.toshima.lg.jp/268/kosodate/kosodate/hoikuen/chiikigata/1508261136.html|午後7時15分|8週経過児|12|3|5|4|\n|地域12|ソラーナ目白;https://www.city.toshima.lg.jp/268/kosodate/kosodate/hoikuen/chiikigata/1509301836.html|午後7時15分|8週経過児|16|4|7|5|\n|地域13|おうち保育園南ながさき;https://www.city.toshima.lg.jp/453/kosodate/kosodate/hoikuen/chiikigata/034788.html|午後7時15分|8週経過児|6|0|0|6|\n|地域14|森のなかま保育園 東長崎ルーム;https://www.city.toshima.lg.jp/268/kosodate/kosodate/hoikuen/chiikigata/1505131434.html|午後7時15分|8週経過児|18|6|6|6|\n\n・小規模保育事業B型\n\n||名称|延長保育|0歳児保育|定員|0歳児|1歳児|2歳児|\n|:----|:----|:----|:----|:----|:----|:----|:----|\n|地域15|目白らるスマート保育所;https://www.city.toshima.lg.jp/268/kosodate/kosodate/hoikuen/chiikigata/034793.html|午後7時15分|4ヶ月経過児|12|2|5|5|\n\n・小規模保育事業C型\n\n||名称|延長保育|0歳児保育|定員|0歳児|1歳児|2歳児|\n|:----|:----|:----|:----|:----|:----|:----|:----|\n|地域16|北大塚すくすくルーム;https://www.city.toshima.lg.jp/268/kosodate/kosodate/hoikuen/chiikigata/034800.html|-|6週経過児|9|2|4|3|\n|地域17|子ごころ園 西池袋;https://www.city.toshima.lg.jp/268/kosodate/kosodate/hoikuen/chiikigata/034799.html|午後7時|6週経過児|6|1|2|3|\n|地域18|長崎すくすくルーム104;https://www.city.toshima.lg.jp/453/kosodate/kosodate/hoikuen/chiiki/034801.html|-|8週経過児|6|0|0|6|\n|地域19|長崎すくすくナーサリー;https://www.city.toshima.lg.jp/268/kosodate/kosodate/hoikuen/chiikigata/034802.html|-|4ヶ月経過児|9|0|7|2|\n\n・家庭的保育事業\n\n||名称|延長保育|0歳児保育|定員|0歳児|1歳児|2歳児|\n|:----|:----|:----|:----|:----|:----|:----|:----|\n|地域20|高田チャイルドルーム;https://www.city.toshima.lg.jp/268/kosodate/kosodate/hoikuen/chiikigata/034806.html|-|4ヶ月経過児|5|0|0|5|\n|地域21|要町ひよこ保育室;https://www.city.toshima.lg.jp/268/kosodate/kosodate/hoikuen/chiikigata/034808.html|-|6週経過児|3|0|3|0|\n\n・居宅訪問型保育事業\n\n||名称|延長保育|0歳児保育|定員|0歳児|1歳児|2歳児|3歳児以上|\n|:----|:----|:----|:----|:----|:----|:----|:----|:----|\n|地域22|障害児訪問保育アニー;https://www.city.toshima.lg.jp/268/kosodate/kosodate/hoikuen/chiikigata/1510291408.html|-|-|2|-|-|-|-|\n|地域23|待機児童対策<br>ポピンズナニーサービス;https://www.city.toshima.lg.jp/452/shisetsu/kodomo/1611281726.html|午後8時15分|6週経過児|5|-|-|-|-|\n|地域24|待機児童対策<br>つなぐん;https://www.city.toshima.lg.jp/268/shisetsu/kodomo/1802011720.html|午後8時15分|6週経過児|9|-|-|-|-|\n|地域25|待機児童対策<br>ル・アンジェ訪問保育サービス;https://www.city.toshima.lg.jp/268/shisetsu/kodomo/1802011724.html|午後8時15分|6週経過児|7|-|-|-|-|\n\n・認定子ども園\n保育を必要とする場合\n\n||名称|延長保育|0歳児保育|定員|3歳児|4歳児|5歳児|\n|:----|:----|:----|:----|:----|:----|:----|:----|\n|子ども園1|要町幼稚園|午後7時|-|10|3|3|4|",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "認可保育所・認定こども園（保育園枠）一覧",
+    "shortName": "認可保育施設定員一覧"
+  },
+  "localGovernmentLink": {
+    "title": "認可保育施設定員一覧",
+    "uri": "https://www.city.toshima.lg.jp/452/kosodate/kosodate/hoikuen/006596.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育園とは、保護者が仕事や病気などのために、家庭で充分に保育することができない子どもを、保護者に代わって保育することを目的とした児童福祉施設で、法的には保育所といいます。\n保育所（保育園）のうち、国が定めた設定基準をクリアし、都道府県知事（政令市・中核市では市長）に認可された保育園を「認可保育所」といいます。\n認可保育所には公立の保育園と私立の保育園があります。\n以下は、豊島区内の認可保育所（保育園）および認定こども園の保育園枠の一覧です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-04-19",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

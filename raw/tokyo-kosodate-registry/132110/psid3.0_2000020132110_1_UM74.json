@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保育課幼稚園・認可外保育施設担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+1+UM74"
+  },
+  "belongings": null,
+  "capacity": "|施設名|（構成施設名）|0～2歳|3～5歳|\n|:----|:----|:----|:----|\n|ひめゆりこども園|小平姫百合幼稚園|－|1号：75人<br>2号：50人|\n|まるやまこども園|丸山幼稚園|－|1号：148人（満3歳児を含む）<br>2号：115人|\n|小平花小金井こども園|小平花小金井幼稚園<br>さくらんぼ保育園|3号：10人|1号：270人<br>2号：120人|\n|めぐみこども園|小平学園幼稚園|－|1号：55人<br>2号：40人|\n|小平神明こども園|小平神明幼稚園<br>神明けやきっこ保育園|3号：24人|1号：200人<br>2号：60人|\n|小平みどりこども園|小平みどり幼稚園<br>わかば保育園|3号：24人|1号：201人（満3歳児を含む）<br>2号：114人|",
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市小川町2-1333　市役所2階",
+    "contactComment": "FAX：042-346-9200",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保育課幼稚園・認可外保育施設担当",
+    "contactPhone": "042-346-9645",
+    "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+    "zipCode": "1878701"
+  },
+  "cost": null,
+  "costConditions": "1号、2号：園が定める特定負担額と実費徴収額を加えた額\n\n3号：市が決定する額に、園が定める特定負担額と実費徴収額を加えた額\n\n市が決定する額については、利用者負担額（保育料）金額表をご覧ください。",
+  "description": "認定こども園\n就学前の子どもに教育と保育を一体的に提供する施設です。子育てに関する相談や親子の集いの場を提供する子育て支援事業も行っています。\n\n利用時間\n1号認定（教育部分）\n午前9時～午後2時のうち4時間\n\n(注)上記の通園時間に合わせて園バスがあります。（めぐみこども園除く。）\n\n(注)上記の前後の時間に預かり保育を実施しています。（別途料金）\n\n2・3号認定（教育部分および保育部分）\n午前7時30分～午後6時30分の11時間、またはこのうちの8時間（時間は、保育標準時間または保育短時間の区分によります。）\n\n(注)春・夏・冬の長期休業期間中も開所します。\n\n(注)2・3号認定を受ける方は就労している等、保育を必要とする事由に該当することが要件となります。\n\n定員\n認定こども園定員数\n|施設名|（構成施設名）|0～2歳|3～5歳|\n|:----|:----|:----|:----|\n|ひめゆりこども園|小平姫百合幼稚園|－|1号：75人<br>2号：50人|\n|まるやまこども園|丸山幼稚園|－|1号：148人（満3歳児を含む）<br>2号：115人|\n|小平花小金井こども園|小平花小金井幼稚園<br>さくらんぼ保育園|3号：10人|1号：270人<br>2号：120人|\n|めぐみこども園|小平学園幼稚園|－|1号：55人<br>2号：40人|\n|小平神明こども園|小平神明幼稚園<br>神明けやきっこ保育園|3号：24人|1号：200人<br>2号：60人|\n|小平みどりこども園|小平みどり幼稚園<br>わかば保育園|3号：24人|1号：201人（満3歳児を含む）<br>2号：114人|\n\n保育料\n1号、2号：園が定める特定負担額と実費徴収額を加えた額\n\n3号：市が決定する額に、園が定める特定負担額と実費徴収額を加えた額\n\n市が決定する額については、利用者負担額（保育料）金額表をご覧ください。\n\n申込み\n申込時期により申し込み方法等が異なりますのでご連絡ください。\n\n認定こども園一覧\nhttps://www.city.kodaira.tokyo.jp/kurashi/003/003237.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "認定こども園の利用について",
+    "shortName": "認定こども園"
+  },
+  "localGovernmentLink": {
+    "title": "認定こども園",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/003/003237.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "小平市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申込時期により申し込み方法等が異なりますのでご連絡ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第7条、第30条の11",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "認定こども園入所可能人数",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/013/013353.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "認定こども園とは、0歳から就学前の子どもへ保育サービスを提供する「保育園機能」、3歳から就学前の子どもに幼児教育を提供する「幼稚園機能」、すべての子育て家庭を対象に、子育ての不安に対応した相談活動や親子が交流する場の提供などの「子育て支援機能」を併せ持つ施設です。\n「幼保連携型」「幼稚園型」「保育所型」「地方裁量型」の4タイプがあり、利用には、教育・保育の必要に応じた利用認定を受ける必要があります。",
+  "support": {
+    "description": "就学前の子どもに教育と保育を一体的に提供する施設です。子育てに関する相談や親子の集いの場を提供する子育て支援事業も行っています。",
+    "materiallySupport": "就学前の子どもに教育と保育を一体的に提供する施設です。子育てに関する相談や親子の集いの場を提供する子育て支援事業も行っています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "就学前の子ども",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 5,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "就学前の子ども"
+  },
+  "updateDate": "2024-05-23",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "1号認定（教育部分）\n午前9時～午後2時のうち4時間\n\n(注)上記の通園時間に合わせて園バスがあります。（めぐみこども園除く。）\n\n(注)上記の前後の時間に預かり保育を実施しています。（別途料金）\n\n2・3号認定（教育部分および保育部分）\n午前7時30分～午後6時30分の11時間、またはこのうちの8時間（時間は、保育標準時間または保育短時間の区分によります。）\n\n(注)春・夏・冬の長期休業期間中も開所します。\n\n(注)2・3号認定を受ける方は就労している等、保育を必要とする事由に該当することが要件となります。",
+    "fromHM": null,
+    "toHM": null
+  }
+}

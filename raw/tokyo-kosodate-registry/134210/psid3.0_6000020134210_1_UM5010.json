@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "134210;小笠原村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "小笠原村村民課福祉係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020134210",
+    "psid": "psid3.0+6000020134210+1+UM5010"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都小笠原村父島字西町",
+    "contactComment": "開庁時間：午前8時00分～午後5時15分（土曜日・日曜日、祝・休日を除く）",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "小笠原村村民課福祉係",
+    "contactPhone": "04998-2-3939",
+    "contactUrl": null,
+    "zipCode": "1002101"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "新生児聴覚検査\n新生児聴覚検査の費用の一部を助成します。受診票は出生後1か月頃までにご利用下さい。受診票は東京都外や委託医療機関外では利用できませんが、帰島後、新生児聴覚診査の費用を一部助成する制度があります。  ",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "新生児聴覚検査",
+    "shortName": "新生児聴覚検査"
+  },
+  "localGovernmentLink": {
+    "title": "出産を予定されている方へ",
+    "uri": "https://www.vill.ogasawara.tokyo.jp/sonmin/syussan/"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "小笠原村"
+  },
+  "procedureCounter": "小笠原村村民課福祉係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "受診票は出生後1か月頃までにご利用下さい。受診票は東京都外や委託医療機関外では利用できませんが、帰島後、新生児聴覚診査の費用を一部助成する制度があります。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第２条",
+    "regulationName": "小笠原村新生児聴覚検査費助成要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "新生児聴覚検査を全ての赤ちゃんに安心してお受けいただくために、検査費用の一部を助成する制度を実施しています。",
+  "support": {
+    "description": "新生児聴覚検査の費用の一部を助成します。受診票は出生後1か月頃までにご利用下さい。受診票は東京都外や委託医療機関外では利用できませんが、帰島後、新生児聴覚診査の費用を一部助成する制度があります。",
+    "materiallySupport": "新生児聴覚検査",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "出生後1か月頃",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 1
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 1
+    },
+    "targetPersons": "新生児,出生後1か月頃"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

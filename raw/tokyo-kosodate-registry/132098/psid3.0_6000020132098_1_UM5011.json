@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健所保健予防課母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+1+UM5011"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健所保健予防課母子保健係",
+    "contactPhone": "042-725-5471",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "＜妊娠届出時＞\n妊娠の届出をした妊婦さんとそのご家族を対象に、保健師等の専門職が「しっかりサポート面接」を実施します。市民センターでの届出など、届出時に面接ができなかった方は、妊娠中ご都合のよい時期に受けられます（母子手帳をお持ちください）。\n面接の実施後、申請に基づき「出産応援ギフト」を支給します。ギフトの内容は、専用サイトに個別のIDで登録し、希望する商品等を購入できるギフトカード（5万円分）です。ギフトカードは原則としてその場でお渡しします。なお妊娠中の転入で、前の自治体で給付を受けている場合、町田市から「出産応援ギフト」のお渡しはできません。\nまた、これとは別に、こども商品券（1万円分）を差しあげています。\n\n＜妊娠8か月ころ＞\n出産を控えたこのころ、アンケートのご案内をお送りします（基本的にLINEアプリからの回答をお願いしています）。\n回答内容に応じて、保健師などからご連絡を差しあげることがあります。ご希望があれば、面談を受けることもできます。\n\n＜出産後＞\n赤ちゃんが生まれたら、「出生通知票」を提出いただくことで、新生児訪問（こんにちは赤ちゃん訪問）を実施します。「出生通知票」は、オンラインでの提出または母子手帳に綴じ込まれているものを郵送で提出してください。\n保健師等の専門職が訪問し、産後の体調や育児に関する相談、子育てに関する情報提供などを行います。\n訪問の実施後、申請に基づき「子育て応援ギフト」を支給（後日簡易書留にて住民登録の住所あて郵送）します（申請いただいてから2か月程度いただく場合があります）。ギフトの内容は、専用サイトに個別のIDで登録し、希望する商品等を購入できるギフトカード（5万円分）です。2023年4月生まれ以降は、東京都事業による5万円分の上乗せがあるため、計10万円分です。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": " 伴走型相談支援",
+    "shortName": "なし"
+  },
+  "localGovernmentLink": {
+    "title": "出産・子育て応援交付金事業",
+    "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/8/11384.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": "保健所保健予防課母子保健係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "＜妊娠届出時＞\n妊娠の届出後、保健師等の専門職による「しっかりサポート面接」を受けていただき、LINEまたは書面で申請してください。\n\n＜出産後＞\n赤ちゃんが生まれたら、「出生通知票」を提出のうえ、新生児訪問（こんにちは赤ちゃん訪問）を受けていただき、LINEまたは書面で申請してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "＜妊娠届出時＞\n妊娠の届出後、保健師等の専門職による「しっかりサポート面接」を受けた妊婦さん\n\n＜出産後＞\n新生児訪問（こんにちは赤ちゃん訪問）を受けた方",
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠期から出産・子育てまで一貫して身近で相談に応じ、様々なニーズに即した必要な支援につなぐ伴走型の相談支援を充実するとともに、経済的支援（出産・子育て応援ギフト）を一体として実施します。これにより、すべての妊婦・子育て家庭が、より安心して出産・子育てができる環境を整備します。",
+  "support": {
+    "description": "＜妊娠届出時＞\n妊娠の届出をした妊婦さんとそのご家族を対象に、保健師等の専門職が「しっかりサポート面接」を実施します。面接の実施後、申請に基づき「出産応援ギフト」を支給します。\n\n＜出産後＞\n赤ちゃんが生まれたら、「出生通知票」を提出いただくことで、新生児訪問（こんにちは赤ちゃん訪問）を実施します。保健師等の専門職が訪問し、産後の体調や育児に関する相談、子育てに関する情報提供などを行います。\n訪問の実施後、申請に基づき「子育て応援ギフト」を支給（後日簡易書留にて住民登録の住所あて郵送）します（申請いただいてから2か月程度いただく場合があります）。",
+    "materiallySupport": null,
+    "monetarySupport": "＜妊娠届出時＞\n「出産応援ギフト」専用サイトに個別のIDで登録し、希望する商品等を購入できるギフトカード（5万円分）\n＜出産後＞\n「子育て応援ギフト」専用サイトに個別のIDで登録し、希望する商品等を購入できるギフトカード（10万円分・東京都による上乗せ分含む）"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "＜妊娠届出時＞\n妊娠届出をした妊婦さん\n＜妊娠8か月ころ＞\n妊娠8か月を迎える妊婦さん\n＜出産後＞\n生まれた赤ちゃんの養育者"
+  },
+  "updateDate": "2024-11-18",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

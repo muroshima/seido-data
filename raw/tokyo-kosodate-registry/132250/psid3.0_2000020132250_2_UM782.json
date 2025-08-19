@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132250;稲城市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども福祉部　子ども家庭支援センター課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132250",
+    "psid": "psid3.0+2000020132250+2+UM782"
+  },
+  "belongings": null,
+  "capacity": "1人",
+  "class": 1,
+  "contact": {
+    "contactAddress": "稲城市東長沼2115番地2　3階",
+    "contactComment": "ファクス：042-378-8900",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども福祉部　子ども家庭支援センター課",
+    "contactPhone": "042-378-6366",
+    "contactUrl": null,
+    "zipCode": "2060802"
+  },
+  "cost": null,
+  "costConditions": "費用（1人あたり）\n利用料　1泊 3,000円（24時間まで）\n利用料　日帰り 1,500円（東京サレジオ学園のみ：午前8時半から午後8時の間で利用）\n延長料　1時間 300円\n食事代　朝食1食 350円、昼食1食 550円、夕食1食 600円\n注釈：生活保護世帯や市民税非課税世帯の方は利用料と延長料が免除となります。食事代は免除となりません。\n注釈：キャンセルする場合は、利用前日（休業日に当たる場合はその前の休業日ではない日）の正午までに子ども家庭支援センターにご連絡ください。その時間を過ぎるとキャンセル料（利用料と食事代）が発生します。",
+  "description": "子どもショートステイ事業\n更新日：2024年5月8日\n保護者の疾病や入院などで一時的に育児が困難となった時に、短期間お子さんをお預かりする事業です。\n\nお預かりする場所\n1.東京サレジオ学園稲城分園（稲城市東長沼717-19）\n2.養育協力家庭（市内）\n利用の要件\n保護者の疾病、出産、看護、冠婚葬祭など\n対象年齢\n市内在住の2歳（東京サレジオ学園は1歳6か月）から小学6年生まで\n定員（1日あたり）\n東京サレジオ学園：3人（1家庭まで）\n\n養育協力家庭：1人\n利用期間\n保護者の心身の状況、お子さんの養育環境その他の状況を勘案して、市が必要な期間を決定します。\n送迎サービス\n東京サレジオ学園を利用する場合は、保育園や小学校等への送迎サービスを利用することもできます。自宅には送迎できません。\n保育園や小学校等に、先生と東京サレジオ学園の職員との間で予定時間にお子さんの引き渡しが可能か確認してからお申し込みください。\n費用（1人あたり）\n利用料　1泊 3,000円（24時間まで）\n利用料　日帰り 1,500円（東京サレジオ学園のみ：午前8時半から午後8時の間で利用）\n延長料　1時間 300円\n食事代　朝食1食 350円、昼食1食 550円、夕食1食 600円\n注釈：生活保護世帯や市民税非課税世帯の方は利用料と延長料が免除となります。食事代は免除となりません。\n注釈：キャンセルする場合は、利用前日（休業日に当たる場合はその前の休業日ではない日）の正午までに子ども家庭支援センターにご連絡ください。その時間を過ぎるとキャンセル料（利用料と食事代）が発生します。\n利用方法\n上記の「利用の要件」に該当する日の10日前までに子ども家庭支援センターにご相談ください。\n東京サレジオ学園では初回の利用前に、東京サレジオ学園稲城分園において面談と見学が必要となります。\n保育所や小学校、学童クラブ等に通っている場合、日中はそちらに通ったうえでご利用ください。\n発熱など体調不良の場合や感染症の感染が疑われる場合、休園や学級閉鎖時等はお預かりできません。\n申請書等\n児童票（PDF：506KB）;https://www.city.inagi.tokyo.jp/kosodate/kodomoshien_center/kokasen/kodomoshortstay.files/jidouhyou.pdf\n申請書（PDF：166KB）;https://www.city.inagi.tokyo.jp/kosodate/kodomoshien_center/kokasen/kodomoshortstay.files/sinseisyo.pdf\n投薬依頼書（投薬が必要な場合）（PDF：104KB）;https://www.city.inagi.tokyo.jp/kosodate/kodomoshien_center/kokasen/kodomoshortstay.files/touyakuiraisyo.pdf\n当日連絡票（利用先へ提出するもの）（PDF：183KB）;https://www.city.inagi.tokyo.jp/kosodate/kodomoshien_center/kokasen/kodomoshortstay.files/toujiturenrakuhyou.pdf\n手続き可能日時\n午前8時30分から午後5時\n注釈：土曜日・日曜日・祝日・年末年始を除く\n問い合わせ\n子ども家庭支援センター\n電話042-378-6366",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "市内",
+    "implementationName": "養育協力家庭"
+  },
+  "institutionName": {
+    "canonicalName": "ショートステイ（短期入所生活援助事業）",
+    "shortName": "子どもショートステイ事業"
+  },
+  "localGovernmentLink": {
+    "title": "子どもショートステイ事業",
+    "uri": "https://www.city.inagi.tokyo.jp/kosodate/kodomoshien_center/kokasen/kodomoshortstay.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-06",
+    "updater": "稲城市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "利用方法\n上記の「利用の要件」に該当する日の10日前までに子ども家庭支援センターにご相談ください。\n東京サレジオ学園では初回の利用前に、東京サレジオ学園稲城分園において面談と見学が必要となります。\n保育所や小学校、学童クラブ等に通っている場合、日中はそちらに通ったうえでご利用ください。\n発熱など体調不良の場合や感染症の感染が疑われる場合、休園や学級閉鎖時等はお預かりできません。",
+  "procedurePeriod": {
+    "conditions": "午前8時30分から午後5時\n注釈：土曜日・日曜日・祝日・年末年始を除く",
+    "fromHM": "08:30",
+    "fromYMD": null,
+    "toHM": "17:00",
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第3項、第21条の9、第59条第6号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者が入院や通院、出張などの理由で、一時的に家庭でお子さんの面倒をみられなくなったときに、養育協力家庭で、宿泊を伴ってお子さんをお預かりします。",
+  "support": {
+    "description": "保護者の疾病や入院などで一時的に育児が困難となった時に、短期間お子さんをお預かりする事業です。\nお預かりする場所\n1.東京サレジオ学園稲城分園（稲城市東長沼717-19）\n2.養育協力家庭（市内）\n利用の要件\n保護者の疾病、出産、看護、冠婚葬祭など\n対象年齢\n市内在住の2歳（東京サレジオ学園は1歳6か月）から小学6年生まで\n定員（1日あたり）\n東京サレジオ学園：3人（1家庭まで）\n養育協力家庭：1人\n利用期間\n保護者の心身の状況、お子さんの養育環境その他の状況を勘案して、市が必要な期間を決定します。\n送迎サービス\n東京サレジオ学園を利用する場合は、保育園や小学校等への送迎サービスを利用することもできます。自宅には送迎できません。\n保育園や小学校等に、先生と東京サレジオ学園の職員との間で予定時間にお子さんの引き渡しが可能か確認してからお申し込みください。",
+    "materiallySupport": "保護者の疾病や入院などで一時的に育児が困難となった時に、短期間お子さんをお預かりする事業です。\nお預かりする場所\n1.東京サレジオ学園稲城分園（稲城市東長沼717-19）\n2.養育協力家庭（市内）\n利用の要件\n保護者の疾病、出産、看護、冠婚葬祭など\n対象年齢\n市内在住の2歳（東京サレジオ学園は1歳6か月）から小学6年生まで\n定員（1日あたり）\n東京サレジオ学園：3人（1家庭まで）\n養育協力家庭：1人\n利用期間\n保護者の心身の状況、お子さんの養育環境その他の状況を勘案して、市が必要な期間を決定します。\n送迎サービス\n東京サレジオ学園を利用する場合は、保育園や小学校等への送迎サービスを利用することもできます。自宅には送迎できません。\n保育園や小学校等に、先生と東京サレジオ学園の職員との間で予定時間にお子さんの引き渡しが可能か確認してからお申し込みください。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "市内在住の2歳（東京サレジオ学園は1歳6か月）から小学6年生まで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "市内在住の2歳（東京サレジオ学園は1歳6か月）から小学6年生まで"
+  },
+  "updateDate": "2024-05-08",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

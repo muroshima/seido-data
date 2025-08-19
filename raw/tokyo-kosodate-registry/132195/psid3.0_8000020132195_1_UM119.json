@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132195;狛江市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子ども家庭課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132195",
+    "psid": "psid3.0+8000020132195+1+UM119"
+  },
+  "belongings": "母子健康手帳、バスタオル",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子ども家庭課母子保健係（あいとぴあセンター）",
+    "contactPhone": "03-5761-9200,03-5761-7990",
+    "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,132750,html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "育児相談\n子育てに関することでしたら、何でも気軽にご相談ください。\n保健師・助産師・栄養士・歯科衛生士がお話をお伺いします。身長・体重も測れます。\n\n対象\n乳幼児とその保護者\n\n日程\n令和6年4月24日\n5月29日\n6月26日\n7月31日\n8月28日\n9月25日\n10月30日\n11月27日\n12月25日\n令和7年1月29日\n2月26日\n3月26日\n※いずれも水曜日\n\n時間\n午前9時30分～11時（予約制です）\n\n会場\nあいとぴあセンター  2階\n\n持ち物\n母子健康手帳、バスタオル\n\n予約・問い合わせ\n狛江市子ども家庭課（あいとぴあセンター内）\n電話番号　03-5761-9200",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "令和6年4月24日\n5月29日\n6月26日\n7月31日\n8月28日\n9月25日\n10月30日\n11月27日\n12月25日\n令和7年1月29日\n2月26日\n3月26日\n※いずれも水曜日",
+    "fromHM": "09:30",
+    "fromYMD": null,
+    "toHM": "11:00",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "あいとぴあセンター  2階"
+  },
+  "institutionName": {
+    "canonicalName": "狛江市の子育てに関する相談",
+    "shortName": "育児相談"
+  },
+  "localGovernmentLink": {
+    "title": "育児相談",
+    "uri": "https://www.city.komae.tokyo.jp/index.cfm/44,127814,337,html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "狛江市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子育てに関することでしたら、何でも気軽にご相談ください。\n保健師・助産師・栄養士・歯科衛生士がお話をお伺いします。身長・体重も測れます。",
+  "support": {
+    "description": "子育てに関することでしたら、何でも気軽にご相談ください。\n保健師・助産師・栄養士・歯科衛生士がお話をお伺いします。身長・体重も測れます。",
+    "materiallySupport": "子育てに関することでしたら、何でも気軽にご相談ください。\n保健師・助産師・栄養士・歯科衛生士がお話をお伺いします。身長・体重も測れます。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "乳幼児とその保護者"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "予約制です\n狛江市子ども家庭課（あいとぴあセンター内）\n電話番号　03-5761-9200",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

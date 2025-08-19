@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "131121;世田谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "世田谷保健所健康推進課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131121",
+    "psid": "psid3.0+1000020131121+2+UM115"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "世田谷保健所健康推進課",
+    "contactPhone": "03-5432-2446",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊娠SOS相談を実施しています\n健康づくり課では、妊娠や出産に関する様々な悩みについてご相談をお受けしております。\n・思いがけない妊娠に戸惑っている方\n・妊娠したかもしれないと不安になっている方\n・妊娠中の体調に不安のある方\n・健診費用や出産費用が心配な方\n虐待・暴力などの被害による妊娠についてなど、様々な悩みのご相談をお受けしています。\nお住まいの地域の総合支所保健福祉センター健康づくり課「ネウボラ・チーム」へご連絡ください。\n〈総合支所ネウボラ・チーム〉\nhttps://www.city.setagaya.lg.jp/mokuji/kodomo/001/001/d00145306.html\n¥n関連リンク\n東京都妊娠相談ほっとライン;http://www.fukushihoken.metro.tokyo.jp/kodomo/sodan/ninshin-hotline.html\n東京都妊娠相談ほっとライン「メール相談窓口」;http://familycare.sociohealth.co.jp/tokyo/soudan/\n東京都不妊･不育ホットライン;http://www.fukushihoken.metro.tokyo.jp/kodomo/sodan/h_soudan.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関する相談窓口一覧",
+    "shortName": "妊娠SOS相談"
+  },
+  "localGovernmentLink": {
+    "title": "妊娠SOS相談",
+    "uri": "https://www.city.setagaya.lg.jp/mokuji/kodomo/001/001/d00145306.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "世田谷区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "お住まいの地域の総合支所保健福祉センター健康づくり課「ネウボラ・チーム」へご連絡ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "医療法"
+  },
+  "relatedLink": [
+    {
+      "title": "東京都妊娠相談ほっとライン「メール相談窓口」",
+      "uri": "http://familycare.sociohealth.co.jp/tokyo/soudan/"
+    },
+    {
+      "title": "東京都妊娠相談ほっとライン",
+      "uri": "http://www.fukushihoken.metro.tokyo.jp/kodomo/sodan/ninshin-hotline.html"
+    },
+    {
+      "title": "東京都不妊･不育ホットライン",
+      "uri": "http://www.fukushihoken.metro.tokyo.jp/kodomo/sodan/h_soudan.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "世田谷内の子育てに関する相談窓口の一覧です。",
+  "support": {
+    "description": "虐待・暴力などの被害による妊娠についてなど、様々な悩みのご相談をお受けしています。\nお住まいの地域の総合支所保健福祉センター健康づくり課「ネウボラ・チーム」へご連絡ください。\n〈総合支所ネウボラ・チーム〉\nhttps://www.city.setagaya.lg.jp/mokuji/kodomo/001/001/d00145306.html",
+    "materiallySupport": "虐待・暴力などの被害による妊娠についてなど、様々な悩みのご相談をお受けしています。\nお住まいの地域の総合支所保健福祉センター健康づくり課「ネウボラ・チーム」へご連絡ください。\n〈総合支所ネウボラ・チーム〉\nhttps://www.city.setagaya.lg.jp/mokuji/kodomo/001/001/d00145306.html",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "健康づくり課では、妊娠や出産に関する様々な悩みについてご相談をお受けしております。\n・思いがけない妊娠に戸惑っている方\n・妊娠したかもしれないと不安になっている方\n・妊娠中の体調に不安のある方\n・健診費用や出産費用が心配な方\n虐待・暴力などの被害による妊娠についてなど、様々な悩みのご相談をお受けしています。"
+  },
+  "updateDate": "2021-09-27",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

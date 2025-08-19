@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132187;福生市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　こども家庭センター課　母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132187",
+    "psid": "psid3.0+8000020132187+1+UM2"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "福生市福生2125-3（福生市保健センター2階）",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　こども家庭センター課　母子保健係",
+    "contactPhone": "042-552-0312",
+    "contactUrl": null,
+    "zipCode": "1970011"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ご存じですか？　マタニティマーク\n妊娠初期は、赤ちゃんの成長はもちろん、お母さんの健康を維持するためにもとても大切な時期です。しかし、外見からは妊娠していることが分かりづらいため、「交通機関等で座席に座れない」「タバコの煙が気になる」など、周囲の理解が得られにくい場合があるかもしれません。\n\nマタニティマークとは、妊産婦が外出する際に身に付け、周囲に妊娠していることをわかりやすくするためのものです。\nもし、マタニティマークを付けている方を見かけたら、周囲の皆さんの温かいご配慮をお願い致します。\n\nイラスト：マタニティマーク;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/510/maternitymark_01.jpg\nマタニティマーク\n妊産婦にやさしい環境づくりへのご協力をお願いします。\n\n（注意）福生市では母子健康手帳交付時にマタニティキーホルダー、マタニティステッカーを配布しています。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "マタニティマーク",
+    "shortName": "マタニティマーク"
+  },
+  "localGovernmentLink": {
+    "title": "ご存じですか？　マタニティマーク",
+    "uri": "https://www.city.fussa.tokyo.jp/life/child/1010112/1002510.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "福生市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "福生市では母子健康手帳交付時にマタニティキーホルダー、マタニティステッカーを配布しています。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "マタニティマーク公式サイト（こども家庭庁ホームページ）（外部リンク）",
+      "uri": "https://sukoyaka21.cfa.go.jp/maternitymark/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "福生市では、妊娠の届出の際に、母子健康手帳と共にマタニティマーク入りキーホルダーをお渡ししています。",
+  "support": {
+    "description": "福生市では母子健康手帳交付時にマタニティキーホルダー、マタニティステッカーを配布しています。",
+    "materiallySupport": "福生市では母子健康手帳交付時にマタニティキーホルダー、マタニティステッカーを配布しています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊産婦"
+  },
+  "updateDate": "2025/04/01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "area": {
+    "areaCode": "131172;北区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "区民部戸籍住民課戸籍係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131172",
+    "psid": "psid3.0+8000020131172+1+UM3"
+  },
+  "belongings": "出生届（医師等が発行した出生証明書つきのもの）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都北区王子本町1-15-22 北区役所第二庁舎2階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "区民部戸籍住民課戸籍係",
+    "contactPhone": "03-3908-8709",
+    "contactUrl": null,
+    "zipCode": "1148508"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "出生届\n届出の概要\n届出の対象となる子\n日本国内で生まれた子（外国籍の子を含む）\n父または母が日本国籍の方で、日本国外で生まれた子\n\n届出期間\n日本国内で生まれた子は、生まれた日を含めて14日以内に届出なければなりません。\n14日目が土曜日・日曜日または祝日年末年始の場合は、翌開庁日が届出期限になります。\n\n届出先\n父母の本籍地の区市役所・町村役場\n父母の所在地の区市役所・町村役場\n子が生まれた場所の区市役所・町村役場\n\n届出人\n子の父母が婚姻している場合、父または母\n子の父母が婚姻していない場合、胎児認知の有無に関わらず母\n届出人（とどけでにん）とは、届書に必要事項を記入して届出人署名欄に署名をする方のことです。届書を役所へ持ってくる方（持参人）のことではありません。\n※届出人署名欄への署名は原則として上記の方に限られますが、届書を役所へ持ってくる方（持参人）は、届出人以外の方でも構いません。\n\n必要書類など\n出生届（医師等が発行した出生証明書つきのもの）\n\nご注意\n日本国籍の子の名前に使える文字は、常用漢字、人名用漢字、カタカナ、ひらがなです。詳しくは法務省ホームページの「子の名に使える漢字」（外部サイトへリンク）;https://www.moj.go.jp/MINJI/minji86.htmlをご参照ください。\n出生届を役所へ持ってくる方（持参人）は誰でも構いません。\nただし、届出人以外は訂正することができない箇所もあるため、届出人以外の方が持参するときには注意が必要となります。\n日本国籍を取得する子が日本国外で生まれた場合、3か月以内に届出をしないと日本国籍を喪失してしまうことがあります。詳しくは、生まれた国にある日本大使館、総領事館にご相談ください。\n離婚後300日以内に生まれた子の場合は、上記に当てはまらないことがあります。詳しくは、戸籍係にご相談ください。\n休日・夜間に届出された場合については、母子手帳の「出生届出済証明」を後日発行することになります（巡視室では発行できかねます）。\n窓口の空いている時間に母子手帳をご持参ください。\n状況によっては、届出の受理が完了するまでに、お時間を要する場合がございます。\nお時間に余裕をもってお越しください。\n\n関連リンク\n戸籍の届出;https://www.city.kita.tokyo.jp/koseki/kurashi/koseki/kosekitetsuzuki/todokede/todokede.html\n子ども医療費助成;https://www.city.kita.tokyo.jp/k-mirai/kosodate/teate/kodomo/gaiyo.html\n法務省ホームページ（子の名に使える漢字）（外部サイトへリンク）;https://www.moj.go.jp/MINJI/minji86.html\nよくある質問（届出）;https://www.city.kita.tokyo.jp/koseki/kurashi/koseki/kosekitetsuzuki/todokede/faq.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出生届",
+    "shortName": "出生届"
+  },
+  "localGovernmentLink": {
+    "title": "出生届",
+    "uri": "https://www.city.kita.tokyo.jp/koseki/kurashi/koseki/shussho/shussho.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "北区"
+  },
+  "procedureCounter": "父母の本籍地の区市役所・町村役場\n父母の所在地の区市役所・町村役場\n生まれた場所の区市役所・町村役場",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "子の名前に使える文字は、常用漢字、人名用漢字、カタカナ、ひらがなです。詳しくは法務省ホームページの「子の名に使える漢字」（外部サイトへリンク）;https://www.moj.go.jp/MINJI/minji86.htmlをご参照ください。\n出生届を役所へ持ってくる方（持参人）は誰でも構いません。\nただし、届出人以外は訂正することができない箇所もあるため、届出人以外の方が持参するときには注意が必要となります。\n日本国籍を取得する子が日本国外で生まれた場合、3か月以内に届出をしないと日本国籍を喪失してしまうことがあります。詳しくは、生まれた国にある日本大使館、総領事館にご相談ください。\n離婚後300日以内に生まれた子の場合は、上記に当てはまらないことがあります。詳しくは、戸籍係にご相談ください。\n休日・夜間に届出された場合については、母子手帳の「出生届出済証明」を後日発行することになります（巡視室では発行できかねます）。\n窓口の空いている時間に母子手帳をご持参ください。\n状況によっては、届出の受理が完了するまでに、お時間を要する場合がございます。\nお時間に余裕をもってお越しください。",
+  "procedurePeriod": {
+    "conditions": "日本国内で生まれた子は、生まれた日を含めて14日以内に届出なければなりません。\n\n14日目が土曜日・日曜日または祝日年末年始の場合は、翌開庁日が届出期限になります。日本国籍を取得する子が日本国外で生まれた場合、3か月以内に届出をしないと日本国籍を喪失してしまうことがあります。詳しくは、生まれた国にある日本大使館、総領事館にご相談ください。\n離婚後300日以内に生まれた子の場合は、上記に当てはまらないことがあります。詳しくは、戸籍係にご相談ください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "子の父母が婚姻している場合、父または母\n子の父母が婚姻していない場合、胎児認知の有無に関わらず母\n届出人（とどけでにん）とは、届書に必要事項を記入して届出人署名欄に署名をする方のことです。届書を役所へ持ってくる方（持参人）のことではありません。\n※届出人署名欄への署名は原則として上記の方に限られますが、届書を役所へ持ってくる方（持参人）は、届出人以外の方でも構いません。",
+  "regulation": {
+    "regulationArticle": "第49条、第50条、第51条、第52条",
+    "regulationName": "戸籍法"
+  },
+  "relatedLink": [
+    {
+      "title": "戸籍の届出",
+      "uri": "https://www.city.kita.tokyo.jp/koseki/kurashi/koseki/kosekitetsuzuki/todokede/todokede.html"
+    },
+    {
+      "title": "よくある質問（届出）",
+      "uri": "https://www.city.kita.tokyo.jp/koseki/kurashi/koseki/kosekitetsuzuki/todokede/faq.html"
+    },
+    {
+      "title": "「子の名に使える漢字」（外部サイトへリンク）",
+      "uri": "https://www.moj.go.jp/MINJI/minji86.html"
+    },
+    {
+      "title": "子ども医療費助成",
+      "uri": "https://www.city.kita.tokyo.jp/k-mirai/kosodate/teate/kodomo/gaiyo.html"
+    },
+    {
+      "title": "法務省ホームページ（子の名に使える漢字）（外部サイトへリンク）",
+      "uri": "https://www.moj.go.jp/MINJI/minji86.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "出生届とは、生まれてきたお子さんの氏名等を戸籍に記載するための手続きです。\n戸籍に記載されることで、生まれてきたお子さんの親族関係が公的に証明されます。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "日本国内で生まれた子（外国籍の子を含む）\n父または母が日本国籍の方で、日本国外で生まれた子"
+  },
+  "updateDate": "2024-02-13",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132217;清瀬市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132217",
+    "psid": "psid3.0+3000020132217+1+UM8"
+  },
+  "belongings": "母子健康手帳、歯ブラシ、コップ",
+  "capacity": "各予約時間に1名",
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都清瀬市中里5-842　しあわせ未来センター1階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て支援課母子保健係",
+    "contactPhone": "042-497-2077",
+    "contactUrl": null,
+    "zipCode": "2048511"
+  },
+  "cost": null,
+  "costConditions": "無料",
+  "description": "日付\n月曜日または水曜日\n毎月5～6回\n\n＊予約可能な日時は下記申込みフォームにてご確認ください。\n\n時間\n受付：個別予約　午後1時15分または午後1時45分\n\n場所\n清瀬市しあわせ未来センター\n\n対象\n市内在住の妊婦\n\n定員\n各予約時間に1名費用無料申込み\n\n申込みフォーム（下記リンクよりお申し込みください）\n\n備考\n持ち物：母子健康手帳、歯ブラシ、コップ\n申込みフォーム（外部リンク）;https://logoform.jp/form/QzsJ/425612\n妊娠中の歯のお手入れで生まれてくる子のむし歯も予防しましょう！\n妊婦歯科健診は、親子歯科健診と同じ会場で行っています。\n15分間に1～2人の個別時間予約ですのでお待たせすることはありません。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "妊婦歯科健診",
+      "uri": "https://logoform.jp/form/QzsJ/425612"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "月曜日または水曜日\n\n毎月5～6回\n\n＊予約可能な日時は下記申込みフォームにてご確認ください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "東京都清瀬市中里5-842",
+    "implementationName": "しあわせ未来センター"
+  },
+  "institutionName": {
+    "canonicalName": "妊産婦の歯科健診",
+    "shortName": "妊婦歯科健診"
+  },
+  "localGovernmentLink": {
+    "title": "妊婦歯科健診",
+    "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/ninsinsyussan/1012472.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "清瀬市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申込みフォーム（下記リンクよりお申し込みください）",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠中や出産後は女性ホルモンの分泌の変化や食事回数の増加などから虫歯や歯周病になりやすく、進行しやすい時期です。こうした時期のお口の中の健康を維持するために、歯科健診をおすすめしています。",
+  "support": {
+    "description": "妊婦歯科健診",
+    "materiallySupport": "妊婦歯科健診",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "市内在住の妊婦"
+  },
+  "updateDate": "2024-03-18",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "午後1時15分または午後1時45分",
+    "fromHM": null,
+    "toHM": null
+  }
+}

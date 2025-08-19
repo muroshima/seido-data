@@ -1,0 +1,140 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "みなと保健所健康推進課地域保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+1+UM11"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファックス番号：03-3455-4539\n\n外国語対応が必要な人、通訳オペレーター、区の職員の3人で会話ができます。\n\n多言語対応三者通話サービス;https://www.multilingualinterpretercallservice.city.minato.tokyo.jp/kokusai",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "みなと保健所健康推進課地域保健係",
+    "contactPhone": "03-6400-0084",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "無料",
+  "description": "妊婦訪問指導\nみなと保健所では感染防止対策を実施し、母子保健事業を運営しています。\n\n事業の変更に関しては随時ホームページに掲載しますので、参加する前にご確認ください。\n\n子ども×子育て情報;https://www.city.minato.tokyo.jp/kosodatesien/kosodate/index.html\n\n子ども×子育て(リンク);https://www.city.minato.tokyo.jp/kosodatesien/kosodate/index.html：年齢別、施設やサービス、目的別に欲しい情報が検索できます。\n\n助産師による相談窓口\n妊娠、出産、体調、育児の準備などについて、助産師・保健師が電話や面接で相談に応じています。ご心配なことがございましたら遠慮なくご連絡ください。\n\n助産師による相談窓口;https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/midwife.html\n妊婦訪問指導\n妊娠中は、体調が変化することにより、心配事や悩みを抱えることがあります。\n「妊娠で不安なことを相談したい」「出産前に乳房の手入れ方法を知りたい」「妊娠中の身体の変化について相談したい」など、医療機関の外来通院では相談できない悩みなどがありましたらご利用ください。\n\n対象\n区民で、母子健康手帳をお持ちの人\n\n内容\n妊娠中の体調についての相談\n\n方法：助産師による家庭訪問（※助産師会に委託）\n回数：妊娠中1回\n費用\n無料\n\n感染症予防対策について\n安全に事業を行うため下記の点についてご協力をお願いいたします。\n\n1 以下に該当する場合は、妊婦訪問を延期させていただきます。\n\n（1）37.5度以上の発熱や風邪症状がある。\n\n（2）ご家族に感染の疑いがある\n\n2 訪問する助産師や保健師はマスクを着用し伺います。\n\n関連リンク\n\nみなとプレママ応援事業;https://www.city.minato.tokyo.jp/chiikihoken/puremama.html\n母子保健サービス一覧;https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/kodomonokensin.html\n助産師による相談窓口;https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/midwife.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊産婦訪問",
+    "shortName": "妊婦訪問指導"
+  },
+  "localGovernmentLink": {
+    "title": "妊婦訪問指導",
+    "uri": "https://www.city.minato.tokyo.jp/chiikihoken/kenko/ninshin/shussan/shussan/n-homon.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "港区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第17条（妊産婦の訪問指導等）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "みなとプレママ応援事業",
+      "uri": "https://www.city.minato.tokyo.jp/chiikihoken/puremama.html"
+    },
+    {
+      "title": "子ども×子育て情報",
+      "uri": "https://www.city.minato.tokyo.jp/kosodatesien/kosodate/index.html"
+    },
+    {
+      "title": "助産師による相談窓口",
+      "uri": "https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/midwife.html"
+    },
+    {
+      "title": "母子保健サービス一覧",
+      "uri": "https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/kodomonokensin.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊産婦の方（妊娠中または出産後1年以内）を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、妊娠期間中や出産後の不安や悩みについての相談等を行います。",
+  "support": {
+    "description": "妊娠中の体調についての相談\n\n方法：助産師による家庭訪問（※助産師会に委託）\n回数：妊娠中1回",
+    "materiallySupport": "妊娠中の体調についての相談\n\n方法：助産師による家庭訪問（※助産師会に委託）\n回数：妊娠中1回",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区民で、母子健康手帳をお持ちの人"
+  },
+  "updateDate": "2023-05-25",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

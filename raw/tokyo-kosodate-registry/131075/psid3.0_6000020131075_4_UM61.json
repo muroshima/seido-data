@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131075;墨田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131075",
+    "psid": "psid3.0+6000020131075+4+UM61"
+  },
+  "belongings": "減免申請書（予約後、粗大ごみ受付センターから郵送されます。なお、子育て支援課または、各清掃事務所の窓口にも置いてあります。）,児童扶養手当証書の写し",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "墨田区吾妻橋一丁目23番20号",
+    "contactComment": "（直通）",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "墨田区役所 子ども・子育て支援部　子育て支援課　児童手当・医療助成係",
+    "contactPhone": "03-5608-6376",
+    "contactUrl": null,
+    "zipCode": "1308640"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "児童扶養手当\n\n優遇制度\n児童扶養手当を受給している方（手当が支給されている方）に限り、次の手続きが可能です。\n新規に児童扶養手当を申請された方は、児童扶養手当証書が届いた後に手続きが可能です。\n（4）粗大ごみ等処理手数料の免除\n粗大ごみ等臨時ごみの収集手数料の免除が受けられます。\n\n免除を受けられる人\n墨田区にお住まいの児童扶養手当受給者が受けられます。\n※生活保護を受給の方は、生活福祉課にお問い合わせください。\n\n免除を受けるときの手続き\n粗大ごみ等を出すときは、はじめに下記受付センターに予約してください。\n予約の際に児童扶養手当の受給者であることを申し出てください。\n※収集予定日は、約2週間先になります。お早めにご予約ください。\n《墨田区粗大ごみ受付センター》\n電話：03-6417-0074　（受付時間：月曜日から土曜日　午前8時から午後7時まで）\nすみだ清掃事務所本署に手数料の減免申請をしてください。\n指定された日までに、次の書類を提出してください。\n減免申請書（予約後、粗大ごみ受付センターから郵送されます。なお、子育て支援課または、各清掃事務所の窓口にも置いてあります。）\n児童扶養手当証書の写し\n受付窓口\nすみだ清掃事務所 本署\n〒130-0002　墨田区業平5-6-2\n電話：03-5608-6922",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自のひとり親の方への金銭的支援",
+    "shortName": "粗大ごみ等処理手数料の免除"
+  },
+  "localGovernmentLink": {
+    "title": "児童扶養手当",
+    "uri": "https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/teate_jyosei_shien/teate_zyosei/teate/jidouhuyouteate.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-01",
+    "updater": "墨田区"
+  },
+  "procedureCounter": "すみだ清掃事務所 本署\n〒130-0002　墨田区業平5-6-2\n電話：03-5608-6922",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "すみだ清掃事務所本署に手数料の減免申請をしてください。\n指定された日までに、次の書類を提出してください。\n減免申請書（予約後、粗大ごみ受付センターから郵送されます。なお、子育て支援課または、各清掃事務所の窓口にも置いてあります。）\n児童扶養手当証書の写し",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第56条",
+    "regulationName": "墨田区廃棄物の減量及び処理に関する規則"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童扶養手当を受給している方（手当が支給されている方）に限り、粗大ごみ等臨時ごみの収集手数料の免除が受けられます。",
+  "support": {
+    "description": "粗大ごみ等臨時ごみの収集手数料の免除が受けられます。",
+    "materiallySupport": null,
+    "monetarySupport": "粗大ごみ等臨時ごみの収集手数料の免除が受けられます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "墨田区にお住まいの児童扶養手当受給者が受けられます。\n※生活保護を受給の方は、生活福祉課にお問い合わせください。"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "粗大ごみ等を出すときは、はじめに下記受付センターに予約してください。\n予約の際に児童扶養手当の受給者であることを申し出てください。\n※収集予定日は、約2週間先になります。お早めにご予約ください。\n《墨田区粗大ごみ受付センター》\n電話：03-6417-0074　（受付時間：月曜日から土曜日　午前8時から午後7時まで）",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

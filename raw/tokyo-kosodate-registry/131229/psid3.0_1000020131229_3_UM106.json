@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保育課 入園相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+3+UM106"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区立石5-13-1　葛飾区役所4階　401番子育て支援窓口",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保育課 入園相談係",
+    "contactPhone": "03-5654-8278",
+    "contactUrl": null,
+    "zipCode": "1248555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関するサポート",
+    "shortName": "保育アドバイザー"
+  },
+  "localGovernmentLink": {
+    "title": "保育アドバイザー",
+    "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1002333/1027275.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育を希望される方からの保育施設や保育サービス利用・申込みについてのご相談に応じたり、在宅で子育てをされる方を支援するための子育て支援事業等のご案内を行います。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "保育を希望される方,葛飾区在住で葛飾区の保育サービスを希望される方"
+  },
+  "updateDate": "2024-05-31",
+  "useConsiderationFlag": false,
+  "utilization": "保育アドバイザー\n専用電話番号：03-5654-8567\n（1）窓口相談\n葛飾区役所4階401子育て支援窓口\nご予約なしでもご相談をお受けすることはできますが、混雑具合によってはお待たせすることもありますので、上記専用電話番号にてご予約をお勧めいたします。\n（2）電話相談\n上記専用番号にてご相談をお受けいたします。\n\n保育アドバイザー出張相談\n※相談は原則予約制とさせていただきます。なお予約受付は実施月の1日から開始します。同月に複数施設の予約はできません。\n※予約受付は子ども未来プラザでは行っておりません。土日祝日を除く平日午前8時30分から午後5時までに、上記電話番号（03-5654-8567）へご連絡いただき、ご予約をお願いいたします。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131130;渋谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援センター子ども家庭相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020131130",
+    "psid": "psid3.0+9000020131130+6+UM110"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "FAX03-5458-4947",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援センター子ども家庭相談係",
+    "contactPhone": "03-3463-3748",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "育児全般の相談および短期緊急保育を実施しています。\n\n施設案内\n神南ネウボラ子育て支援センター（外部サイト）;https://shibuya-city-neuvola.tokyo/neuvola/facility/coshibuya/\n本町子育て支援センター;https://www.city.shibuya.tokyo.jp/shisetsu/kosodate/kosodate-center/honmachi_center.html\n鳩森子育て支援センター;https://www.city.shibuya.tokyo.jp/shisetsu/kosodate/kosodate-center/hatomori_center.html\n代官山子育て支援センター;https://www.city.shibuya.tokyo.jp/shisetsu/kosodate/kosodate-center/daikanyama_center.html\n中幡・笹塚子育て支援センター;https://www.city.shibuya.tokyo.jp/shisetsu/kosodate/kosodate-center/naka_sasa_center.html\n広尾子育て支援センター;https://www.city.shibuya.tokyo.jp/shisetsu/kosodate/kosodate-center/hiroo_center.html\n（注）神南ネウボラ子育て支援センターの利用内容などについては、渋谷区子育てネウボラ専用ページ（外部サイト）;https://shibuya-city-neuvola.tokyo/をご覧ください。\n\n利用資格\n区内在住で就学前の子どもと保護者\n\n利用料金\n無料\n\n休館日\n日曜日、祝日、年末年始（12月29日～1月3日）\n\n利用内容\n子育て相談\n利用日時\n月曜日～土曜日9時～16時30分\n\n子育てひろば\n親子で自由に遊べます。\n\n利用日時\n月曜日～土曜日9時30分～16時30分\n（注）水曜日は12時まで\n\n短期緊急保育\n通院、官公庁事務手続きなどで短時間の保育が必要になった時、預けることができます。\n\n利用日時\n月曜日～金曜日（祝日を除く）9時～16時30分\n\n対象\n区内在住の未就学児（原則生後3か月以上～）\n\n申し込み\n原則として予約制ですが、緊急の場合はご相談ください。\n\n子育て教室\n親子が参加できる講座や、リフレッシュできる講座を開催します。事前に申し込みが必要です。\n\n各種相談\n栄養士相談\n離乳食など、栄養全般に関する相談に応じます。\n\n看護師相談\n育児全般に関する相談に応じます。\n\n嘱託医相談\n病気や感染症、発育に関する相談に応じます。\n\n助産師相談\n出産に関する相談に応じます。\n\n発達相談\n育児や発達に関する相談に応じます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "日曜祝日、年末年始\n神南のみ土曜",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "〒150-0042 東京都渋谷区宇田川町5-6 渋谷区子育てネウボラ 2-3階\n〒151-0071 渋谷区本町4-9-7本町出張所1階\n〒150-0034 渋谷区代官山町7-9代官山複合施設3階\n〒151-0051 渋谷区千駄ヶ谷 5-9-1　鳩森小学校内\n〒151-0073 渋谷区笹塚3-3-1\n〒150-0012 渋谷区広尾5-8-2",
+    "implementationName": "子育て支援センター"
+  },
+  "institutionName": {
+    "canonicalName": "子育て支援拠点・地域子育て支援センター",
+    "shortName": "子育て支援センター"
+  },
+  "localGovernmentLink": {
+    "title": "子育て支援センター",
+    "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/kosodate/kosodate-center/shien_center.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "渋谷区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第6項、第21条の9",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "子育て支援センター",
+      "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/kosodate/kosodate-center/shien_center.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "渋谷区では渋谷区子育てネウボラを子育て支援拠点として、子育て中の親子が気軽に集い、相互交流や子育ての不安・悩みを相談できる場を提供しています。また、地域の子育て関連情報の提供や、子育て支援に関する講習なども実施しています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "未就学児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住で就学前の子どもと保護者"
+  },
+  "updateDate": "2024-06-04",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "神南ネウボラのみ\n施設開館時間：9:00~17:00\nひろば開催時間：9:30~17:00\n＊火曜日のみ9:00~12:00",
+    "fromHM": "09:00",
+    "toHM": "16:30"
+  }
+}

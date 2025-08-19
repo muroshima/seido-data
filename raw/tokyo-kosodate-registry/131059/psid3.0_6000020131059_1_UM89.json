@@ -1,0 +1,619 @@
+{
+  "area": {
+    "areaCode": "131059;文京区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部幼児保育課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131059",
+    "psid": "psid3.0+6000020131059+1+UM89"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都文京区春日1丁目16番21号\n文京シビックセンター12階南側",
+    "contactComment": "ファクス番号：03-5803-1346",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部幼児保育課",
+    "contactPhone": "03-5803-1189",
+    "contactUrl": "https://logoform.jp/form/6KSu/553771",
+    "zipCode": "1128555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "https://www.city.bunkyo.lg.jp/b023/p001757.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "https://www.city.bunkyo.lg.jp/b023/p001757.html",
+    "implementationName": "https://www.city.bunkyo.lg.jp/b023/p001757.html"
+  },
+  "institutionName": {
+    "canonicalName": "認可保育所・認定こども園（保育園枠）一覧",
+    "shortName": "保育園一覧"
+  },
+  "localGovernmentLink": {
+    "title": "保育園一覧",
+    "uri": "https://www.city.bunkyo.lg.jp/b023/p001757.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-25",
+    "updater": "文京区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "全条",
+    "regulationName": "保育所法\n幼稚園教育法\n学童保育の整備及び運営の推進に関する法律"
+  },
+  "relatedLink": [
+    {
+      "title": "クオリスキッズ水道橋保育園のホームページ（外部リンク）",
+      "uri": "https://tlcs-ns.jp/facility/sekiguchi/"
+    },
+    {
+      "title": "アスク本駒込保育園のホームページ（外部リンク）",
+      "uri": "http://www.nihonhoiku.co.jp/blog/honkomagome/"
+    },
+    {
+      "title": "グローバルキッズ後楽二丁目園分園のホームページ（外部リンク）",
+      "uri": "http://www.gkids.co.jp/facilities/nursery_044.html"
+    },
+    {
+      "title": "グローバルキッズ後楽二丁目園のホームページ（外部リンク）",
+      "uri": "http://www.gkids.co.jp/facilities/nursery_043.html"
+    },
+    {
+      "title": "小学館アカデミー茗荷谷保育園のホームページ（外部リンク）",
+      "uri": "http://www.shopro.co.jp/hoiku/shisetsu/myougadani/"
+    },
+    {
+      "title": "白山ひかり保育園ホームページ（外部リンク）",
+      "uri": "http://www.h-hikari.jp/"
+    },
+    {
+      "title": "SOMPOスマイルキッズ江戸川橋保育園ホームページ（外部リンク）",
+      "uri": "https://sompo-smilekids.or.jp/"
+    },
+    {
+      "title": "小学館アカデミー小石川保育園のホームページ（外部リンク）",
+      "uri": "http://www.shopro.co.jp/hoiku/shisetsu/koishikawa/"
+    },
+    {
+      "title": "こころの保育園文京西片のホームページ（外部リンク）",
+      "uri": "http://sanko-fukushi.jp/nursery/"
+    },
+    {
+      "title": "まなびの森保育園茗荷谷のホームページ（外部リンク）",
+      "uri": "http://www.kodomonomori.co.jp/"
+    },
+    {
+      "title": "キッズハーモニー・白山のホームページ（外部リンク）",
+      "uri": "https://pasonafoster.co.jp/service/facility/hakusan.html"
+    },
+    {
+      "title": "どんぐり保育園のホームページ（外部リンク）",
+      "uri": "https://donguri-hoikuen.jimdo.com/"
+    },
+    {
+      "title": "たんぽぽ保育園のホームページ（外部リンク）",
+      "uri": "http://www.ashitaba-tanpopo.com/pc/index.html"
+    },
+    {
+      "title": "慈愛会保育園のホームページ（外部リンク）",
+      "uri": "http://www.jiaikai-hoiku.com/"
+    },
+    {
+      "title": "お茶の水女子大学こども園のホームページ（外部リンク）",
+      "uri": "http://www.fz.ocha.ac.jp/kodomo/"
+    },
+    {
+      "title": "入園手続きについて",
+      "uri": "https://www.city.bunkyo.lg.jp/b023/p001634.html"
+    },
+    {
+      "title": "目白台保育園のリーフレット（PDF：865KB）",
+      "uri": "https://www.city.bunkyo.lg.jp/documents/1745/17mejirodai_1.pdf"
+    },
+    {
+      "title": "向丘保育園のリーフレット（PDF：857KB）",
+      "uri": "https://www.city.bunkyo.lg.jp/documents/1745/11mukougaoka.pdf"
+    },
+    {
+      "title": "本駒込南保育園のリーフレット（PDF：848KB）",
+      "uri": "https://www.city.bunkyo.lg.jp/documents/1745/14honnkomagomeminami.pdf"
+    },
+    {
+      "title": "本駒込西保育園のリーフレット（PDF：699KB）",
+      "uri": "https://www.city.bunkyo.lg.jp/documents/1745/16honnkomagomenishi_1.pdf"
+    },
+    {
+      "title": "園の内装・外装の写真や定員数、周辺地図や各HPへのリンクが確認できます。",
+      "uri": "https://www.city.bunkyo.lg.jp/b023/p001758.html"
+    },
+    {
+      "title": "本郷保育園のリーフレット（PDF：847KB）",
+      "uri": "https://www.city.bunkyo.lg.jp/documents/1745/13honnkomagome.pdf"
+    },
+    {
+      "title": "久堅保育園のリーフレット（PDF：741KB）",
+      "uri": "https://www.city.bunkyo.lg.jp/documents/1745/07hongou_1.pdf"
+    },
+    {
+      "title": "根津保育園のリーフレット（PDF：35KB）",
+      "uri": "https://www.city.bunkyo.lg.jp/documents/1745/02hisakata.pdf"
+    },
+    {
+      "title": "駒込保育園のリーフレット（PDF：772KB）",
+      "uri": "https://www.city.bunkyo.lg.jp/documents/1745/05komagome_1.pdf"
+    },
+    {
+      "title": "園一覧（園舎園庭面積等）（PDF：343KB）",
+      "uri": "https://www.city.bunkyo.lg.jp/documents/1745/202419111440_1.pdf"
+    },
+    {
+      "title": "070KB）",
+      "uri": "https://www.city.bunkyo.lg.jp/documents/1745/19nezu.pdf"
+    },
+    {
+      "title": "千石西保育園のリーフレット（PDF：1",
+      "uri": "https://www.city.bunkyo.lg.jp/documents/1745/15senngokunishi_1.pdf"
+    },
+    {
+      "title": "千石保育園のリーフレット（PDF：782KB）",
+      "uri": "https://www.city.bunkyo.lg.jp/documents/1745/10senngoku.pdf"
+    },
+    {
+      "title": "お問い合わせ先はこちらからご覧ください。",
+      "uri": "https://www.youtube.com/watch?v=1OO5etWUlOE&list=PLLA1VIWQqfeAO-HP6KrwF9VoUEW89eZ4N"
+    },
+    {
+      "title": "水道保育園のリーフレット（PDF：843KB）",
+      "uri": "https://www.city.bunkyo.lg.jp/documents/1745/12suidou.pdf"
+    },
+    {
+      "title": "「ひとりひとりに寄り添って～家庭的保育事業～」（令和2年8月17日～放送）（外部リンク）",
+      "uri": "https://kasuga.chiisaiouchi.org/"
+    },
+    {
+      "title": "しおみ保育園のリーフレット（PDF：919KB）",
+      "uri": "https://www.city.bunkyo.lg.jp/documents/1745/09shiomi_1.pdf"
+    },
+    {
+      "title": "ちいさいおうち春日とモーハウスのホームページ（外部リンク）",
+      "uri": "https://www.tmd.ac.jp/jinji/wakuwaku/"
+    },
+    {
+      "title": "さしがや保育園のリーフレット（PDF：705KB）",
+      "uri": "https://www.city.bunkyo.lg.jp/documents/1745/04sasigaya.pdf"
+    },
+    {
+      "title": "国立大学法人東京医科歯科大学わくわく保育園のホームページ（外部リンク）",
+      "uri": "https://www.tokotokohoikuroom.com/"
+    },
+    {
+      "title": "家庭的保育室Sandy's（小堀 奈央）のホームページ（外部リンク）",
+      "uri": "https://mamapokkapoka.jimdofree.com/"
+    },
+    {
+      "title": "ぽっかぽか保育室（岩瀬 昌子）のホームページ（外部リンク）",
+      "uri": "https://www.happy-nursery.com/"
+    },
+    {
+      "title": "ハッピーナーサリー千駄木小規模保育園（外部リンク）",
+      "uri": "https://www.miratz.jp/operation/?id=1595865055-365422"
+    },
+    {
+      "title": "MIRATZ白山保育園のホームページ（外部リンク）",
+      "uri": "https://ootsuka.chiisaiouchi.org/"
+    },
+    {
+      "title": "ちいさいおうち大塚仲町のホームページ（外部リンク）",
+      "uri": "http://www.rakuwa.or.jp/hoiku/midori.html"
+    },
+    {
+      "title": "洛和大塚みどり保育園のホームページ（外部リンク）",
+      "uri": "https://childvision.jp/"
+    },
+    {
+      "title": "こどもヶ丘保育園本駒込小規模園のホームページ（外部リンク）",
+      "uri": "https://www.miratz.jp/operation/?id=1553665041-185483"
+    },
+    {
+      "title": "MIRATZ本郷保育園のホームページ（外部リンク）",
+      "uri": "https://sites.google.com/correl.org/akamonprep/"
+    },
+    {
+      "title": "赤門小規模保育園のホームページ（外部リンク）",
+      "uri": "http://www.miraitsubasa.com/"
+    },
+    {
+      "title": "みらいつばさ千駄木のホームページ（外部リンク）",
+      "uri": "http://tsujicon.com/mayunoito/introduction/otowanosaka-01/"
+    },
+    {
+      "title": "繭の糸おとわ小規模保育園のホームページ（外部リンク）",
+      "uri": "https://qproom.jp/shin-otsukaen/"
+    },
+    {
+      "title": "キューピールーム新大塚園のホームページ（外部リンク）",
+      "uri": "https://www.miratz.jp/operation/?id=1553659158-756087"
+    },
+    {
+      "title": "MIRATZ目白台保育園のホームページ（外部リンク）",
+      "uri": "https://www.sunrisekids-hoikuen.com/hakusan/"
+    },
+    {
+      "title": "サンライズキッズ保育園白山園のホームページ（外部リンク）",
+      "uri": "https://koishikawa.chiisaiouchi.org/"
+    },
+    {
+      "title": "ちいさいおうち小石川のホームページ（外部リンク）",
+      "uri": "http://www.care-partner.com/service/childcare/bunkyokagomachi/"
+    },
+    {
+      "title": "キッズパートナー文京駕籠町のホームページ（外部リンク）",
+      "uri": "https://www.konoehoikuen.jp/"
+    },
+    {
+      "title": "このえ本郷三丁目小規模保育園のホームページ（外部リンク）",
+      "uri": "https://solasto-hoiku.com/area/tokyo/myogadani.html"
+    },
+    {
+      "title": "ソラスト茗荷谷保育園のホーム（外部リンク）",
+      "uri": "https://koishikawa-cocowa.com/"
+    },
+    {
+      "title": "小石川ここわ保育園のホームページ（外部リンク）",
+      "uri": "https://www.magionet.co.jp/tanpopo/facilities/room_hongo"
+    },
+    {
+      "title": "マジオひまわり保育園本郷のホームページ（外部リンク）",
+      "uri": "https://www.pocket-land.jp/hongo/"
+    },
+    {
+      "title": "ぽけっとランド本郷保育園のホームページ（外部リンク）",
+      "uri": "http://kids-lab.co.jp/"
+    },
+    {
+      "title": "キッズラボ千石園のホームページ（外部リンク）",
+      "uri": "https://oozora-daichi.jp/facilities/bunkyosengoku/"
+    },
+    {
+      "title": "大空と大地のなーさりぃ文京千石園のホームページ（外部リンク）",
+      "uri": "https://quolis-kids.com/111_koishikawa"
+    },
+    {
+      "title": "クオリスキッズ小石川保育園のホームページ（外部リンク）",
+      "uri": "https://www.g-hikari.org/"
+    },
+    {
+      "title": "文京ガーデンひかり保育園のホームページ（外部リンク）",
+      "uri": "https://www.chitosek.or.jp/"
+    },
+    {
+      "title": "本郷ちとせ保育園のホームページ（外部リンク）",
+      "uri": "https://konoehoikuen.jp/"
+    },
+    {
+      "title": "このえ第二本駒込保育園のホームページ（外部リンク）",
+      "uri": "https://www.like-kd.co.jp/establishment/nijiiro/HPsendagi"
+    },
+    {
+      "title": "にじいろ保育園千駄木のホームページ（外部リンク）",
+      "uri": "https://konoehoikuen.jp/detail/bunkyo_02.html"
+    },
+    {
+      "title": "このえ本駒込保育園のホームページ（外部リンク）",
+      "uri": "https://www.care-partner.com/service/childcare/bunkyohonkomagome/"
+    },
+    {
+      "title": "キッズパートナー文京本駒込のホームページ（外部リンク）",
+      "uri": "https://www.ashita-ba.jp/hoiku/nishikata/"
+    },
+    {
+      "title": "明日葉保育園西片園のホームページ（外部リンク）",
+      "uri": "https://www.miratz.jp/operation/?id=1565450798-782651"
+    },
+    {
+      "title": "MIRATZ本郷第二保育園のホームページ（外部リンク）",
+      "uri": "http://www.quolis-kids.com/"
+    },
+    {
+      "title": "テンダーラビング保育園関口のホームページ（外部リンク）",
+      "uri": "http://www.quolis-kids.com/"
+    },
+    {
+      "title": "Nursery room Coco(金井 朝子）のホームページ（外部リンク）",
+      "uri": "http://sandy-s.lsv.jp/"
+    },
+    {
+      "title": "クオリスキッズ江戸川橋保育園のホームページ（外部リンク）",
+      "uri": "https://tokyojidokyokai.com/contents/Facility/hanasaku/"
+    },
+    {
+      "title": "神田川ほとりに花咲く保育園のホームページ（外部リンク",
+      "uri": "https://www.skip-hoikuen.com/sengoku/"
+    },
+    {
+      "title": "千石すきっぷ保育園のホームページ（外部リンク）",
+      "uri": "https://www.kirara-hoikuen.com/"
+    },
+    {
+      "title": "文京白山雲母保育園のホームページ（外部リンク）",
+      "uri": "https://chilec.procare.co.jp/koishikawa/"
+    },
+    {
+      "title": "ちゃいれっく小石川保育園のホームページ（外部リンク）",
+      "uri": "https://www.chitosek.or.jp/"
+    },
+    {
+      "title": "小石川ちとせ保育園のホームページ（外部リンク）",
+      "uri": "https://www.care-partner.com/service/childcare/bunkyosengoku/"
+    },
+    {
+      "title": "キッズパートナー文京千石のホームページ（外部リンク）",
+      "uri": "https://aiai.globalbridge.biz/facility/shinotsuka/"
+    },
+    {
+      "title": "AIAI NURSERY 新大塚のホームページ（外部リンク）",
+      "uri": "https://www.mom.ed.jp/hoikuen/t_sendagi.html"
+    },
+    {
+      "title": "家庭的保育室プチ・アンジュ（白石 眞利子）のホームページ（外部リンク）",
+      "uri": "https://nurseryroom.jimdofree.com/"
+    },
+    {
+      "title": "大塚保育園のリーフレット（PDF：957KB）",
+      "uri": "https://www.city.bunkyo.lg.jp/documents/1745/08otuka.pdf"
+    },
+    {
+      "title": "藍染保育園のリーフレット（PDF：660KB）",
+      "uri": "https://www.city.bunkyo.lg.jp/documents/1745/01aizome.pdf"
+    },
+    {
+      "title": "うぃず千駄木保育園のホームページ（外部リンク）",
+      "uri": "https://childvision.jp/"
+    },
+    {
+      "title": "こどもヶ丘保育園第二本駒込園のホームページ（外部リンク）",
+      "uri": "https://www.care-partner.com/nurseries/bunkyosekiguchi/"
+    },
+    {
+      "title": "キッズパートナー文京関口のホームページ（外部リンク）",
+      "uri": "https://www.gkids.co.jp/facilities/nursery_149.html"
+    },
+    {
+      "title": "グローバルキッズ大塚四丁目園のホームページ（外部リンク）",
+      "uri": "https://www.sakura-39.jp/hoiku/suido/"
+    },
+    {
+      "title": "さくらさくみらい水道のホームページ（外部リンク）",
+      "uri": "https://kodomo.solasto-hoiku.com/nursery/solasto-koishikawa/"
+    },
+    {
+      "title": "ソラスト小石川保育園のホームページ（外部リンク）",
+      "uri": "https://www.kinoshita-hoiku.com/"
+    },
+    {
+      "title": "木下の保育園白山のホームページ（外部リンク）",
+      "uri": "https://www.gkids.co.jp/facilities/nursery_153.html"
+    },
+    {
+      "title": "グローバルキッズ茗荷谷園のホームページ（外部リンク）",
+      "uri": "https://tlcs-ns.jp/facility/otowa/"
+    },
+    {
+      "title": "テンダーラビング保育園音羽のホームページ（外部リンク）",
+      "uri": "https://www.kids-21.co.jp/kidsnursery/nursery/od-myogadani/"
+    },
+    {
+      "title": "大空と大地のなーさりぃ茗荷谷園のホームページ（外部リンク）",
+      "uri": "http://myogadani-cocowa.com/"
+    },
+    {
+      "title": "茗荷谷ここわ保育園のホームページ（外部リンク）",
+      "uri": "https://www.sakura-39.jp/hoiku/gokokuji/"
+    },
+    {
+      "title": "さくらさくみらい護国寺のホームページ（外部リンク）",
+      "uri": "http://www.childvision.jp/room/"
+    },
+    {
+      "title": "こどもヶ丘保育園本駒込園のホームページ（外部リンク）",
+      "uri": "http://www.childvision.jp/room/"
+    },
+    {
+      "title": "モニカ本駒込園のホームページ（外部リンク）",
+      "uri": "http://www.monica.co.jp/facility/honkomagome/"
+    },
+    {
+      "title": "さくらさくみらい小日向のホームページ（外部リンク）",
+      "uri": "https://www.sakura-39.jp/hoiku/kohinata/"
+    },
+    {
+      "title": "株式会社テンダーラビングケアサービスのホームページ（外部リンク）",
+      "uri": "https://tlcs-ns.jp/facility/koishikawa/"
+    },
+    {
+      "title": "にじのいるか保育園千石第二のホームページ（外部リンク）",
+      "uri": "http://www.nijinoiruka.ed.jp/nursery/sengokudaini/"
+    },
+    {
+      "title": "ソラストお茶の水第二保育園のホームページ（外部リンク）",
+      "uri": "https://kodomo.solasto-hoiku.com/nursery/solasto-ochanomizu2/"
+    },
+    {
+      "title": "ソラストお茶の水第一保育園のホームページ（外部リンク）",
+      "uri": "https://kodomo.solasto-hoiku.com/nursery/solasto-ochanomizu/"
+    },
+    {
+      "title": "モニカ茗荷谷駅前園のホームページ（外部リンク）",
+      "uri": "http://www.monica.co.jp/facility/myogadaniekimae/"
+    },
+    {
+      "title": "クオリスキッズ駒込保育園のホームページ（外部リンク）",
+      "uri": "https://quolis-kids.com/108_komagome/"
+    },
+    {
+      "title": "株式会社テンダーラビングケアサービスのホームページ（外部リンク）",
+      "uri": "https://tlcs-ns.jp/facility/sendagi/"
+    },
+    {
+      "title": "富坂まきば保育園のホームページ（外部リンク）",
+      "uri": "http://www.ceam.asia/ns.html"
+    },
+    {
+      "title": "青柳保育園のリーフレット（PDF：870KB）",
+      "uri": "https://www.city.bunkyo.lg.jp/documents/1745/03aoyagi.pdf"
+    },
+    {
+      "title": "えがおの森保育園・せんごくのホームページ（外部リンク）",
+      "uri": "http://www.nijinoiruka.ed.jp/nursery/sengoku/"
+    },
+    {
+      "title": "にじのいるか保育園千石のホームページ（外部リンク）",
+      "uri": "http://www.nijinoiruka.ed.jp/nursery/sengoku/"
+    },
+    {
+      "title": "ポピンズナーサリースクール本郷のホームページ（外部リンク）",
+      "uri": "https://www.poppins.co.jp/educare/room-search/hongo/"
+    },
+    {
+      "title": "保育所まぁむ東大前園のホームページ（外部リンク）",
+      "uri": "http://www.mom.ed.jp/hoikuen/t_toudaimae.html"
+    },
+    {
+      "title": "本駒込プチ・クレイシュのホームページ（外部リンク）",
+      "uri": "http://www.j3.s009v.squarestart.ne.jp/hoikuen/honkoma.html"
+    },
+    {
+      "title": "同仁美登里保育園のホームページ（外部リンク）",
+      "uri": "https://doujin-midori.ed.jp/nursery/"
+    },
+    {
+      "title": "ちゃいれっく新大塚駅前保育園のホームページ（外部リンク）",
+      "uri": "https://chilec.procare.co.jp/shinotsukaekimae/"
+    },
+    {
+      "title": "ハッピーマム茗荷谷のホームページ（外部リンク）",
+      "uri": "http://happymom.co.jp/home/"
+    },
+    {
+      "title": "テンダーラビング保育園茗荷谷のホームページ（外部リンク）",
+      "uri": "https://tlcs-ns.jp/facility/myogadani/"
+    },
+    {
+      "title": "にじのいるか保育園小石川のホームページ（外部リンク）",
+      "uri": "http://www.nijinoiruka.ed.jp/nursery/koishikawa/"
+    },
+    {
+      "title": "ミアヘルサ保育園ひびき 湯島のホームページ（外部リンク）",
+      "uri": "https://www.merhalsa.jp/hoikuen/"
+    },
+    {
+      "title": "東京こども保育園のホームページ（外部リンク）",
+      "uri": "http://www.pocket-land.jp/tokyo/"
+    },
+    {
+      "title": "とことこ保育ルーム（吉成 純子）のホームページ（外部リンク）",
+      "uri": "https://www.hoikushitsu.com/"
+    },
+    {
+      "title": "こひなた保育園のリーフレット（PDF：769KB）",
+      "uri": "https://www.city.bunkyo.lg.jp/documents/1745/06kohinata.pdf"
+    },
+    {
+      "title": "ポピンズナーサリースクール千駄木のホームページ（外部リンク）",
+      "uri": "https://www.poppins.co.jp/educare/room-search/sendagi/"
+    },
+    {
+      "title": "グローバルキッズ新大塚園のホームページ（外部リンク）",
+      "uri": "http://www.gkids.co.jp/facilities/nursery_056.html"
+    },
+    {
+      "title": "キッズガーデン文京春日のホームページ（外部リンク）",
+      "uri": "http://www.kidsgarden.co.jp/bunkyokasuga.html"
+    },
+    {
+      "title": "ベネッセ千石保育園のホームページ（外部リンク）",
+      "uri": "https://hoiku.benesse-style-care.co.jp/facilities/area_tokyo/bunkyo/h-sengoku/"
+    },
+    {
+      "title": "ベネッセかごまち保育園のホームページ（外部リンク）",
+      "uri": "https://hoiku.benesse-style-care.co.jp/facilities/area_tokyo/bunkyo/h-kagomachi/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育園とは、保護者が仕事や病気などのために、家庭で充分に保育することができない子どもを、保護者に代わって保育することを目的とした児童福祉施設で、法的には保育所といいます。\n保育所（保育園）のうち、国が定めた設定基準をクリアし、都知事に認可された保育園を「認可保育所」といいます。\n認可保育所には公立の保育園と私立の保育園があります。\n以下は、文京区内の認可保育所（保育園）および認定こども園の保育園枠の一覧です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-05-24",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

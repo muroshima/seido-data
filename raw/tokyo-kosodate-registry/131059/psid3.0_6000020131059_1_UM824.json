@@ -1,0 +1,130 @@
+{
+  "area": {
+    "areaCode": "131059;文京区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健衛生部・文京保健所予防対策課精神保健担当（精神手帳・自立支援）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131059",
+    "psid": "psid3.0+6000020131059+1+UM824"
+  },
+  "belongings": "1.自立支援医療費（精神通院）支給認定申請書（所定用紙）\n受診者本人の氏名で申請（18歳未満の方は保護者欄もご記入ください）\n医療機関、薬局を指定（本制度の指定医療機関以外は指定できません）\n2.自立支援医療診断書（精神通院）（所定用紙）\n※更新の方は2年に1度必要となります\n東京都指定の様式で申請受付日より「3か月以内」に作成されたもの\n(東京都送付用、区控え用の2部を提出してください)\n※別途「重度かつ継続」に関する意見書が必要な場合もございます\n※精神障害者保健福祉手帳を同時に申請する場合、手帳用診断書をご用意いただければ、自立支援医療診断書は省略することができます\n3.健康保険証（コピー可）\n○国保、国保組合の方→同一保険証番号「世帯全員分」\n○社保、共済の方→「受診者本人分」\n○後期高齢者医療制度の方→制度該当者「世帯全員分」\n4.住民税が確認できる書類\n課税(非課税)証明書\n○国保、国保組合世帯の方→同一保険証番号「世帯全員分」\n○社保、共済世帯の方→「保険証 被保険者分」\n○後期高齢者医療制度の方→制度該当者「世帯全員分」\n※文京区発行の課税(非課税)証明書は提出を省略することが可能です(新規申請については提出が必要です)\n※上記課税額確認の対象者の方が文京区以外で課税されている場合は課税(非課税)証明書の提出が必要です\n※税申告日の関係や税額確認対象者と別世帯の場合等、省略ができない場合もありますのでご了承ください\n\n5.その他\n現在お持ちの「受給者証」の提出が必要です\n生活保護を受けている方は「生活保護証明書」が必要です（税額確認書類は不要です）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都文京区春日1丁目16番21号 文京シビックセンター8階南側",
+    "contactComment": "FAX：03-5803-1355",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健衛生部・文京保健所予防対策課精神保健担当（精神手帳・自立支援）",
+    "contactPhone": "03-5803-1230",
+    "contactUrl": null,
+    "zipCode": "1128555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "精神障害者の方の通院医療費を補助する制度です。自己負担は原則一割ですが、住民税額によって自己負担上限月額が設定されます。また、区市町村民税が非課税世帯の方は、自己負担分を助成する制度もあります。\n詳細は、東京都の自立支援医療（精神通院医療）のページ（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/shougai//nichijo/tsuuin/seishintsuuin.htmlをご覧ください。\n文京区では、自立支援医療（精神通院）に関するお問い合わせに対し、AI（人工知能）が回答を行う「AIチャットボットサービス」を開始しました。パソコンやスマートフォンから、24時間365日利用できるチャット形式の案内サービスです。ぜひご活用ください。\n下の画像を押していただくと、チャットボットの画面に進みます。（外部リンク）（別ウィンドウで開きます）;https://supportbot-admin.userlocal.jp/pages/903d818ec35138cb71ad?disable_cids=1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30&lang=ja&q=%E3%80%90%E4%BA%88%E9%98%B2%E5%AF%BE%E7%AD%96%E8%AA%B2%E3%80%91%E7%B2%BE%E7%A5%9E%E4%BF%9D%E5%81%A5FAQ",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "自立支援医療（精神通院）の質問にAIチャットボットが回答します",
+      "uri": "https://www.city.bunkyo.lg.jp/b028/p002741.html"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度（精神通院医療）",
+    "shortName": "自立支援医療（精神通院）"
+  },
+  "localGovernmentLink": {
+    "title": "自立支援医療（精神通院）",
+    "uri": "https://www.city.bunkyo.lg.jp/b028/p002741.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/03/06",
+    "updater": "文京区"
+  },
+  "procedureCounter": "予防対策課精神保健係、保健サービスセンター本郷支所;https://www.city.bunkyo.lg.jp/b029/p004959.html",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024/07/12",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

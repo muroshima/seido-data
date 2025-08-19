@@ -1,0 +1,133 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センター母子保健担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+1+UM15"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市学園東町1-19-12　健康センター1階",
+    "contactComment": "FAX：042-346-3705",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭センター母子保健担当",
+    "contactPhone": "042-346-3701",
+    "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+    "zipCode": "1870043"
+  },
+  "cost": null,
+  "costConditions": "宿泊型　１泊５０００円\n日帰り型　１日２０００円\n訪問型　１回１５００円\n非課税世帯・生活保護世帯は利用料金が免除されます。",
+  "description": "（宿泊型）\n産婦人科において宿泊による休養の機会の提供や母親の心身のケアや保健指導、育児支援等を行います。\n（日帰り型）産婦人科において日帰りによる母親の心身のケアや保健指導、育児支援等を行います。\n（訪問型）\n助産師や育児サポート実務者が自宅を訪問して産婦のケアなどに応じます。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "小平市産後ケア事業電子申請",
+      "uri": "https://logoform.jp/form/exdH/604393"
+    }
+  ],
+  "holiday": "年末年始、祝日",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "産後ケア事業",
+    "shortName": "産後ケア事業"
+  },
+  "localGovernmentLink": {
+    "title": "産後ケア事業／産前・産後サポート事業",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/086/086374.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "小平市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "電子申請",
+  "procedurePeriod": {
+    "conditions": "妊娠３２週以降産後４か月に達する日の前日まで",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "産後４か月に達する前日までの産婦",
+  "regulation": {
+    "regulationArticle": "第17条の2（産後ケア事業）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "産後ケア事業",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/86374/086374/att_0000002.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "出産を終えた退院後、お母さんと赤ちゃんの生活リズムづくりや、心身の安定を図るため、施設においてショートステイ（宿泊）やデイサービス（日帰り）で、助産師などが母子の心身ケアと育児サポートを行います。",
+  "support": {
+    "description": "助産師等が産婦のケア育児支援を行います。",
+    "materiallySupport": "助産師等が産婦のケア育児支援を行います。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後４か月になる前日までの乳児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "原則、医療を必要としない次の方\n心身の不調、または育児不安等がある産後４か月に達しない産婦\n生後４か月になる前日までの乳児"
+  },
+  "updateDate": "2024-04-03",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "午前９時～午後５時",
+    "fromHM": "09:00",
+    "toHM": "17:00"
+  }
+}

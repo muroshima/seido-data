@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "132144;国分寺市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育部　社会教育課　社会教育担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132144",
+    "psid": "psid3.0+1000020132144+1+UM5028"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "教育部　社会教育課　社会教育担当",
+    "contactPhone": "電話番号：042-312-8654",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "国分寺市では平成19年9月から地域による安全で安心な居場所を提供するため、各小学校の保護者の方々を中心にした実施委員会により、全小学校で「放課後子どもプラン」を実施しています。学校や地域、学童保育所の協力を得て、また一方で連携しながら学校施設を利用して、協働活動サポーターの見守りの中で校庭で自由に遊べる「遊びの場」、宿題等の自習をする「学びの場」、地域の方々との交流によりいろいろな事を体験できる「体験・交流の場」を行っています。事業の詳細内容については、各小学校で配布もしくはメール配信されるお知らせをご覧ください。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "国分寺市放課後子どもプラン参加申請フォーム",
+      "uri": "https://logoform.jp/form/vHtF/948261"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "第一小学校,第ニ小学校,第三小学校,第四小学校,第五小学校,第六小学校,第七小学校,第八小学校,第九小学校,第十小学校"
+  },
+  "institutionName": {
+    "canonicalName": "放課後子供教室",
+    "shortName": "放課後子どもプラン"
+  },
+  "localGovernmentLink": {
+    "title": "国分寺市放課後子どもプラン【参加するためには電子申請が必要です】",
+    "uri": "https://www.city.kokubunji.tokyo.jp/kurashi/1008608/1008665/1001396.html"
+  },
+  "odInformation": {
+    "content": "更新",
+    "updateDate": "2025/03/31",
+    "updater": "国分寺市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "「国分寺市放課後子どもプラン参加申請フォーム」にて、電子申請をしていただきます。下記の参加申請フォームから申請をお願いいたします。電子申請の際は、令和７年度の学年、クラスを入力してください。令和７年度の参加申請は、令和７年4月７日から申請可能となります。\n\n国分寺市放課後子どもプラン参加申請フォーム　（外部リンク）;https://logoform.jp/form/vHtF/948261",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": "2025/04/07",
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "国分寺市放課後子どもプラン参加申請フォーム　",
+      "uri": "https://logoform.jp/form/vHtF/948261"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "地域住民の参画を得て、放課後等に市内在住の小学生を対象に、校庭で自由に遊べる「遊びの場」、特別教室等で学習を行う「学びの場」、様々な体験を行い地域の方と交流する「体験・交流の場」を実施しています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "市内在住の小学生"
+  },
+  "updateDate": "2025/03/31",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "実施日：学期中の月曜日から金曜日まで（学校によっては土曜日、日曜日等に実施する場合があります。また、実施日数も異なります。）\n時間帯:下校時から午後5時30分までの時間内（季節や状況により異なります。）",
+    "fromHM": null,
+    "toHM": null
+  }
+}

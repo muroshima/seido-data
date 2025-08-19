@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども生活部子ども総務課企画総務係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+1+UM800"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども生活部子ども総務課企画総務係",
+    "contactPhone": "042-724-2876",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/6",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "東京都では「赤ちゃん・ふらっと」と呼ばれる、小さなお子様を連れた方が調乳や授乳、おむつ替えなどを行えるスペースの設置を促進しています。（東京都が要件を定めています。）\n町田市においても、市内の商業施設などに「赤ちゃん・ふらっと」の設置を促進しています。\n\n事業者の方へ\n「赤ちゃん・ふらっと」の設置をお考えの事業者の方は、下記東京都福祉局ホームページに事業の内容、設置基準等掲載されております。子育て中の方が気軽に外出できる環境づくりのため、ぜひ、設置のご協力をお願いいたします。\n\n東京都福祉局\nhttps://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/akachanflat.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "町田市金森4-5-6\n町田市原町田6-1-11\n町田市旭町1-25-20\n町田市中町1-20-23\n町田市成瀬7-10-7\n町田市南成瀬5-12\n町田市小山町775\n町田市小山町954\n町田市小山ヶ丘4-4\n町田市忠生2-7-5\n町田市山崎町2261-1\n町田市鶴川1-16-7\n町田市忠生2-5-3\n町田市能ヶ谷4-7-19\n町田市原町田6-4-1\n町田市忠生3-14-2\n町田市忠生1-11-1\n町田市大蔵町1913\n町田市相原町2025-2\n町田市相原町792\n町田市山崎1-2-14\n町田市大蔵町1984\n町田市図師町199-1\n町田市小山町2507-1\n町田市相原町2018\n町田市相原町5307－2\n町田市能ヶ谷1-2-1\n町田市森野2-2-22\n町田市野津田町2035\n町田市旭町3-20-60\n町田市山崎町2160-4\n町田市原町田6-26-15\n町田市金森東1-12-16\n町田市金森4-5-7\n町田市小山ヶ丘4-1-13ゲートヒルズ多摩境パークフロント3階\n町田市玉川学園3-35-45\n町田市本町田2863\n町田市原町田5-8-21\n町田市大蔵町530-1\n町田市南つくし野2-17-1\n町田市木曽西1-34-1\n町田市鶴間1839-1クレインドビル1階\n町田市木曽西5-1-1\n町田市鶴川2-14-24\n町田市中町1-31-22\n町田市原町田6-8-1\n町田市西成瀬2-49-1\n町田市小山ヶ丘1-7-2\n町田市小山ヶ丘4-6-2\n町田市成瀬1-5-1\n町田市真光寺3-1-6\n町田市山崎町2130\n町田市原町田3-2-9\n町田市薬師台3-270-1\n町田市木曽東1-6-40\n町田市小山町1165-3\n町田市三輪緑山3-25-2\n町田市鶴間3-1-1 パークライフ棟\n町田市玉川学園2-19-12\n町田市大蔵町1981-4\n町田市下小山田町3160",
+    "implementationName": "||施設名|所在地|施設利用可能日|施設利用可能時間|\n|:----|:----|:----|:----|:----|\n|1|町田市南市民センターhttps://www.city.machida.tokyo.jp/shisei/shiyakusyo/gyomu/shimin/minami.html|町田市金森4-5-6|全日年末年始は休館|午前8時30分から午後10時|\n|2|ルミネ町田店https://www.lumine.ne.jp/machida/info/|町田市原町田6-1-11|全日1月1日は休館|午前10時から午後9時(年末年始は時間が異なる場合があります。)|\n|3|住宅情報館（町田店）https://www.jutakujohokan.co.jp/|町田市旭町1-25-20|月曜日、火曜日、木曜日から日曜日|午前10時から午後8時|\n|4|町田シバヒロhttp://www.machida-shibahiro.jp/|町田市中町1-20-23|全日|午前8時から午前7時(季節によって時間が異なります。）|\n|5|あったかなるせ（町田わかくさ保育園内）https://m-wakakusa.net/#support|町田市成瀬7-10-7|月曜日から土曜日年末年始は休園|午前9時から午後4時|\n|6|町田市立総合体育館https://www.machida-taiikukan.com/|町田市南成瀬5-12|全日第1・3月曜日及び年末年始は休館|午前9時から午後7時|\n|7|かえで保育園https://kosodate-machida.tokyo.jp/mokuteki/4/7/2/1/2711.html|町田市小山町775|月曜日から金曜日年末年始は休園|午前10時から午後4時|\n|8|小山保育園https://kosodate-machida.tokyo.jp/mokuteki/4/7/2/1/2716.html|町田市小山町954|月曜日から土曜日年末年始は休園|午前9時から午後5時|\n|9|小山内裏公園https://www.tokyo-park.or.jp/park/format/index064.html|町田市小山ヶ丘4-4|全日|午前8時30分から午後5時30分|\n|10|町田自然幼稚園http://www.seiwagakuen.ed.jp/sizen/|町田市忠生2-7-5|月曜日から土曜日|午前7時から午後7時|\n|11|正和幼稚園http://www.seiwagakuen.ed.jp/seiwa/|町田市山崎町2261-1|月曜日から土曜日|午前7時30分から午後6時30分|\n|12|ききょう保育園https://kosodate-machida.tokyo.jp/mokuteki/4/7/2/4/2740.html|町田市鶴川1-16-7|月曜日から金曜日|午前9時から正午午後1時から午後5時|\n|13|しぜんの国保育園https://kosodate-machida.tokyo.jp/mokuteki/4/7/2/2/2729.html|町田市忠生2-5-3|月曜日から金曜日年末年始は休園|午前10時から午後4時|\n|14|みどりの森保育園https://kosodate-machida.tokyo.jp/mokuteki/4/7/2/4/2741.html|町田市能ヶ谷4-7-19|月曜日から金曜日年末年始は休園|午前9時30分から午後0時30分|\n|15|東急百貨店 町田東急ツインズ（EAST3階）https://www.tokyu-dept.co.jp/twins/floor/index.html|町田市原町田6-4-1|全日|午前10時から午後9時|\n|16|町田市忠生市民センターhttps://www.city.machida.tokyo.jp/shisei/shiyakusyo/gyomu/shimin/tadao.html|町田市忠生3-14-2|全日年末年始は休館|午前8時30分から午後10時|\n|17|子どもセンターただONhttps://kosodate-machida.tokyo.jp/soshiki/4/2/10/tadaon_top.html|町田市忠生1-11-1|全日年末年始、火曜日（祝日の場合翌日）は除く|午前10時から午後9時|\n|18|子どもセンターつるっこhttps://kosodate-machida.tokyo.jp/soshiki/4/2/10/tsurukko.html|町田市大蔵町1913|全日年末年始、火曜日（祝日の場合翌日）は除く|午前10時から午後9時|\n|19|子どもセンターぱおhttps://kosodate-machida.tokyo.jp/soshiki/4/2/10/paotop.html|町田市相原町2025-2|全日年末年始、火曜日（祝日の場合翌日）は除く|午前10時から午後9時|\n|20|市立こうさぎ保育園https://kosodate-machida.tokyo.jp/mokuteki/4/7/2/1/2714.html|町田市相原町792|月曜日から金曜日祝日・年末年始を除く|午前9時から午後4時|\n|21|市立山崎保育園（忠生地域子育て相談センター）https://kosodate-machida.tokyo.jp/mokuteki/4/7/2/2/2734.html|町田市山崎1-2-14|月曜日から金曜日祝日・年末年始を除く|午前9時から午後4時|\n|22|市立大蔵保育園（鶴川地域子育て相談センター）https://kosodate-machida.tokyo.jp/mokuteki/4/7/2/4/2746.html|町田市大蔵町1984|月曜日から金曜日祝日・年末年始を除く|午前9時から午後4時|\n|23|市立室内プールhttp://machidapool.kbm.cc/|町田市図師町199-1|全日年末年始、第1・3月曜日（祝日の場合翌日）は除く、ただし7月21日から8月31日は無休|午前9時から午後9時|\n|24|小山市民センターhttps://www.city.machida.tokyo.jp/shisei/shiyakusyo/gyomu/shimin/oyama.html|町田市小山町2507-1|全日年末年始を除く|午前8時30分から午後10時|\n|25|町田市立相原中央公園https://www.city.machida.tokyo.jp/bunka/park/shisetu/aiharachuuoukouen.html|町田市相原町2018|全日年末年始は午前9時から午後3時30分|午前9時から午後9時|\n|26|Nature Factory 東京町田https://kosodate-machida.tokyo.jp/soshiki/4/2/naturefactory/11510.html|町田市相原町5307－2|全日第1・3火曜日（祝日は除く）、祝日の翌日、年末年始を除く、ただし3月26日から4月7日、7月21日から8月31日は無休|いつでも|\n|27|和光大学ポプリホール鶴川https://www.m-shimin-hall.jp/tsurukawa/|町田市能ヶ谷1-2-1|全日第1・3月曜日（休日の場合開館）、年末年始を除く|午前9時から午後10時|\n|28|町田市役所https://www.city.machida.tokyo.jp/shisei/shiyakusyo/mainoffice/index.html|町田市森野2-2-22|月曜日から金曜日祝日・年末年始を除く|午前8時30分から午後5時|\n|29|町田GIONスタジアム（町田市立陸上競技場）https://www.city.machida.tokyo.jp/bunka/sport/sport/gion-stadium/sport06.html|町田市野津田町2035|全日|4月、9月午前9時から午後6時5月から8月午前9時から午後7時10月から3月午前9時から午後5時|\n|30|サン町田旭体育館https://www.machida-sp.jp/sun-machida_asahi_gym/|町田市旭町3-20-60|全日第1・第3月曜日（休日の場合は翌日）、年末年始は除く|午前9時から午後9時|\n|31|木曽山崎コミュニティセンターhttps://www.city.machida.tokyo.jp/kurashi/touroku/shisetsu/com08.html|町田市山崎町2160-4|全日年末年始は除く|午前9時から午後10時|\n|32|市立町田保育園https://kosodate-machida.tokyo.jp/mokuteki/4/7/2/3/2684.html|町田市原町田6-26-15|月曜日から金曜日祝日・年末年始を除く|午前9時から午後4時|\n|33|市立金森保育園（南地域子育て相談センター）https://kosodate-machida.tokyo.jp/mokuteki/4/7/2/5/2696.html|町田市金森東1-12-16|月曜日から金曜日祝日・年末年始を除く|午前9時から午後4時|\n|34|子どもセンターばあんhttps://kosodate-machida.tokyo.jp/soshiki/4/2/10/508.html|町田市金森4-5-7|全日年末年始、火曜日（祝日の場合は翌日）は除く|午前10時から午後9時|\n|35|子どもセンターぱお分館https://kosodate-machida.tokyo.jp/soshiki/4/2/10/waaaotop.html|町田市小山ヶ丘4-1-13ゲートヒルズ多摩境パークフロント3階|月曜日から土曜日祝日、年末年始を除く|午前10時から午後6時|\n|36|玉川学園子どもクラブころころ児童館https://kosodate-machida.tokyo.jp/soshiki/4/2/10/510.html|町田市玉川学園3-35-45|月曜日から土曜日祝日、年末年始を除く|午前10時から午後6時|\n|37|子ども創造キャンパスひなた村https://kosodate-machida.tokyo.jp/soshiki/4/2/5/6767.html|町田市本町田2863|全日第1・3火曜日、祝日の翌日、年末年始を除く|4月から9月午前9時から午後6時10月から3月午前9時から午後5時|\n|38|健康福祉会館https://www.city.machida.tokyo.jp/iryo/iryo/kenkoufukushi/kennkouhukusikaikan.html|町田市原町田5-8-21|月曜日から金曜日祝日・年末年始を除く|午前9時から午後5時|\n|39|井の花保育園https://kosodate-machida.tokyo.jp/mokuteki/4/7/2/4/2739.html|町田市大蔵町530-1|月曜日から金曜日年末年始を除く|午前9時から午後5時|\n|40|南つくし野保育園https://kosodate-machida.tokyo.jp/mokuteki/4/7/2/5/2705.html|町田市南つくし野2-17-1|月曜日から金曜日|午前9時から午後4時|\n|41|ひかりの子保育園（コミュニティルーム ノエル）https://www.hikarinoko.or.jp/|町田市木曽西1-34-1|月曜日・火曜日・金曜日年末年始を除く|午前10時から午後1時|\n|42|レイモンド南町田保育園https://kosodate-machida.tokyo.jp/mokuteki/4/7/2/5/2708.html|町田市鶴間1839-1クレインドビル1階|月曜日から土曜日|午前8時30分から午後4時30分|\n|43|第二わかくさ保育園https://kosodate-machida.tokyo.jp/mokuteki/4/7/2/2/2720.html|町田市木曽西5-1-1|月曜日から金曜日|午前8時30分から午後12時30分|\n|44|ぽっぽの森保育園http://www.popponomori.jp/|町田市鶴川2-14-24|月曜日・火曜日・木曜日|午前10時から午後13時|\n|45|子どもセンターまあちhttps://kosodate-machida.tokyo.jp/soshiki/4/2/10/march_top3960.html|町田市中町1-31-22|全日年末年始、火曜日（祝日の場合は翌日）は除く|午前10時から午後9時|\n|46|町田市生涯学習センターhttps://www.city.machida.tokyo.jp/bunka/bunka_geijutsu/cul/chuokominkan/cul07.html|町田市原町田6-8-1|全日第4月曜日（月曜日が祝日の場合は、その翌日が休館）、年末年始を除く|午前9時から午後10時|\n|47|成瀬コミュニティセンターhttps://www.city.machida.tokyo.jp/community/shimin/com/com10.html|町田市西成瀬2-49-1|全日年末年始は除く|午前8時30分から午後10時|\n|48|トイザらスベビーザらス町田多摩境店https://www2.toysrus.co.jp/store/storeinfo/store.php?id=4765|町田市小山ヶ丘1-7-2|全日|午前10時から午後8時|\n|49|町田サレジオ幼稚園http://www.machida-salesio.ed.jp/index.html|町田市小山ヶ丘4-6-2|月曜日から金曜日|午前10時から午後2時|\n|50|成瀬くりの家保育園https://kosodate-machida.tokyo.jp/mokuteki/4/7/2/5/2702.html|町田市成瀬1-5-1|月曜日から金曜日|午前10時から午後3時|\n|51|花の木保育園https://kosodate-machida.tokyo.jp/mokuteki/4/7/2/4/2736.html|町田市真光寺3-1-6|月曜日から金曜日|午前9時30分から午後4時|\n|52|カナリヤ保育園https://kosodate-machida.tokyo.jp/mokuteki/4/7/2/2/2722.html|町田市山崎町2130|月曜日から金曜日|午前10時から午後4時|\n|53|町田市立中央図書館https://www.library.city.machida.tokyo.jp/facilities/index.html|町田市原町田3-2-9|全日年末年始、月曜日（祝日の場合開館）、第2木曜日（祝日の場合開館し、翌日休館）、館内特別整理期間は除く|火・水・金午前10時から午後8時木・土・日・祝午前10時から午後5時|\n|54|社会福祉法人賛育会 第二清風園https://www.san-ikukai.or.jp/machida/seifu2/index.html|町田市薬師台3-270-1|月曜日から土曜日|午前9時から午後5時30分|\n|55|木曽子どもクラブhttps://kosodate-machida.tokyo.jp/soshiki/4/2/10/5484.html|町田市木曽東1-6-40|月曜日から土曜日|午前10時から午後6時|\n|56|小山子どもクラブhttps://kosodate-machida.tokyo.jp/soshiki/4/2/10/7592.html|町田市小山町1165-3|月曜日から土曜日|午前10時から午後6時|\n|57|三輪子どもクラブhttps://kosodate-machida.tokyo.jp/soshiki/4/2/10/7744.html|町田市三輪緑山3-25-2|月曜日から土曜日|午前10時から午後6時|\n|58|南町田子どもクラブhttps://kosodate-machida.tokyo.jp/soshiki/4/2/10/7532.html|町田市鶴間3-1-1 パークライフ棟|全日年末年始、木曜日（祝日の場合翌日）は除く|午前10時から午後6時|\n|59|玉川学園コミュニティセンターhttps://www.city.machida.tokyo.jp/kurashi/touroku/shisetsu/com07.html|町田市玉川学園2-19-12|全日年末年始は除く|午前8時30分から午後10時|\n|60|鶴川市民センター（鶴川保健センター併設）https://www.city.machida.tokyo.jp/kurashi/touroku/shisetsu/02/sisetuannai.html|町田市大蔵町1981-4|全日年末年始は除く|午前8時30分から午後10時|\n|61|町田市バイオエネルギーセンターhttp://machidashi-bioenergycenter.com/|町田市下小山田町3160|全日年末年始は除く|午前8時30分から午後10時|\n"
+  },
+  "institutionName": {
+    "canonicalName": "授乳・おむつ替え施設（赤ちゃんの駅等）",
+    "shortName": "授乳・調乳・おむつ替えスペース「赤ちゃん・ふらっと」"
+  },
+  "localGovernmentLink": {
+    "title": "授乳・調乳・おむつ替えスペース「赤ちゃん・ふらっと」",
+    "uri": "https://kosodate-machida.tokyo.jp/mokuteki/8/5/10316.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "関連情報\n都内の「赤ちゃん・ふらっと」を設置している施設の地図情報は、下記の「とうきょう子育てスイッチ」及び「東京都福祉保健局」をご覧ください。\nとうきょう子育てスイッチ\n東京都福祉保健局\n\nおむつがえ・授乳施設情報\n市内の「おむつがえ・授乳施設」が地図情報になりました。「赤ちゃん・ふらっと」と併せて、お出かけの際に、ご利用ください。\nおむつがえ・授乳施設情報",
+      "uri": "https://kosodateswitch.metro.tokyo.lg.jp/;https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/akachanflat.html;https://kosodate-machida.tokyo.jp/soshiki/4/1/3/5510.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "東京都では「赤ちゃん・ふらっと」と呼ばれる、小さなお子様を連れた方が調乳や授乳、おむつ替えなどを行えるスペースの設置を促進しています。（東京都が要件を定めています。）\n町田市においても、市内の商業施設などに「赤ちゃん・ふらっと」の設置を促進しています。",
+  "support": {
+    "description": "「赤ちゃん・ふらっと」と呼ばれる、小さなお子様を連れた方が調乳や授乳、おむつ替えなどを行えるスペース",
+    "materiallySupport": "「赤ちゃん・ふらっと」と呼ばれる、小さなお子様を連れた方が調乳や授乳、おむつ替えなどを行えるスペース",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "対象者記載なし",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象者記載なし"
+  },
+  "updateDate": "2023-09-15",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

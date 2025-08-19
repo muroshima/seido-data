@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131075;墨田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども施設課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131075",
+    "psid": "psid3.0+6000020131075+1+UM804"
+  },
+  "belongings": null,
+  "capacity": "保育定員19人まで（各施設による）",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "※入園に関するお問合せについては、子ども施設課入園係（電話：03-5608-6152）にお願いします。",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども施設課 保育係",
+    "contactPhone": "03-5608-1253",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/azukeru/hoikuen/ninka_hoiku/sisetugatashoukiboho.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "小規模保育施設一覧",
+    "shortName": "小規模保育事業所"
+  },
+  "localGovernmentLink": {
+    "title": "小規模保育事業所",
+    "uri": "https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/azukeru/hoikuen/ninka_hoiku/sisetugatashoukiboho.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "墨田区"
+  },
+  "procedureCounter": "区子ども施設課入園係（電話：03-5608-6152）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "保育が必要な事由に該当し、家庭で保育をすることができない場合、利用申込みができます。\n入園をご希望の方へ\n小規模保育事業所は、子ども・子育て支援新制度の小規模保育事業所に位置づけられた施設のため、入園をご希望される場合は、認可保育園と同様に、区に申し込みの手続きを行っていただくことになります。申込み書類は、「保育施設利用申し込みのご案内;https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/azukeru/hoikuen/nyuuen/riyou_annai/a.html」をご覧ください。\n\n入園のお手続きについては、区子ども施設課入園係（電話：03-5608-6152）へお問い合わせください。\n\n各小規模保育事業所の募集数は、小規模保育事業所空き情報;https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/azukeru/hoikuen/index.htmlをご覧ください。\n\n2歳児卒園に伴う4月転所申込み（3歳児クラス）について\n小規模保育事業所は、2歳児クラスで保育が終了する保育施設です。\n2歳児卒園に伴う4月転所申込み（3歳児クラス）を行う場合に、調整指数の条件番号13により、調整指数8が加算されます。（「保育施設利用申し込みのご案内;https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/azukeru/hoikuen/nyuuen/riyou_annai/a.html」の18頁をご参照ください。）",
+  "procedurePeriod": {
+    "conditions": "各月の申込締切日までに必要書類をそろえてお申し込みください。（令和6年用保育施設利用申込みのご案内ｐ6～7）",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第三章 小規模保育事業",
+    "regulationName": "家庭的保育事業等の設備及び運営に関する基準"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "市区町村の認可事業として行われる小規模保育では、3歳未満の保育が必要なお子さんを、比較的小規模（定員6人以上19人以下）で、家庭的保育に近い雰囲気のもとで、きめ細かな保育を実施しています。\n保育所分園に近いA型、家庭的保育（グループ型小規模保育）に近いC型と、その中間的なB型の3タイプがあります。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0歳から2歳（年度末3歳児）の児童",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "保育の支給認定区分のうち、3号認定を受けていること。\n主な要件は次のとおりです。\n\n0歳から2歳（年度末3歳児）の児童\n就労を要件とする場合は、保護者の勤務時間が48時間／月以上であること"
+  },
+  "updateDate": "2024-05-28",
+  "useConsiderationFlag": false,
+  "utilization": "各月の申込締切日までに必要書類をそろえてお申し込みください。（令和6年用保育施設利用申込みのご案内ｐ6～7）",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

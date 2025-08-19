@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "131091;品川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保育施設運営課　保育・教育担当（特別支援）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131091",
+    "psid": "psid3.0+6000020131091+2+UM78"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "品川区広町2-1-36　品川区役所第二庁舎7階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保育施設運営課　保育・教育担当（特別支援）",
+    "contactPhone": "03-5742-7857",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "保育園のご案内（令和6年4月版）\n\n■児童の健康上あるいは発達上で気になることがある場合\n保育園等の利用を希望する心身に障害のある児童や、心身の発達状況から配慮を要する児童、医療的ケアが必要な児童について、発達に考慮しながら集団でのよりよい保育を行うために、特別支援保育審査会（以後、審査会）を実施します。\n児童を集団でお預かりするうえでの配慮および集団保育の可否等について、書類または面接にて審査をし、集団保育が可能と判断された児童は、利用調整（入園選考）を行います。\n利用申請にあたり、「心身状況申告書」（主治医作成）や「児童調査書」（保護者作成）等を提出していただきます。\n\n※医療的ケア児について\n利用を希望される方は、必ず事前にご連絡ください。\n区立保育園で対応できる医療的ケアは、下記のとおりです。\n・たん吸引\n・経管栄養\n・血糖値判定、インシュリン注射、インシュリンポンプの与薬操作\n・導尿\n・在宅酸素療法\n・ネブライザー、ネブライザーによる与薬\n・午睡中のみ使用する人工呼吸器\n・人工肛門\nその他の医療的ケアや私立保育園での受入れについては、別途ご相談ください。\n\n※事前に現在の児童の状況について聞き取りを行う場合があります。状況によっては入園希望月からの入園ができない場合があるため、締切日より余裕をもって申請してください。\n※家庭的保育事業、小規模保育事業については、運営上、特別支援児童の保育ができない場合があるため、希望する際はご注意ください。\n※審査会および利用調整の結果、入園できない場合や、入園する施設および時期を調整させていただく場合があります。\n※審査会において、判定が保留となった場合は、判定が出るまで入園をお待ちいただくことになります。また、申請の際に疾病や障害に関する申告がなく、入園内定後に園との面談等で疾病や障害が確認された場合は、内定取消や入園希望月からの入園ができない場合もあります。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "マイナポータル「ぴったりサービス」",
+      "uri": "https://myna.go.jp/search"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "保育園;https://www.city.shinagawa.tokyo.jp/ct/pdf/20220920192202_35.pdf"
+  },
+  "institutionName": {
+    "canonicalName": "障がい児保育",
+    "shortName": "障がい児保育（保育園）"
+  },
+  "localGovernmentLink": {
+    "title": "保育園のご案内（児童の健康上あるいは発達上で気になることがある場合）",
+    "uri": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-hoyou/kodomo-hoyou-hoikuen/20220920192202.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-01",
+    "updater": "品川区"
+  },
+  "procedureCounter": "保育施設運営課　保育・教育担当（特別支援）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "入園申請時に申告し、追加書類として【児童調査書】【心身状況報告書】を提出してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "障害児保育事業実施要領"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "集団保育が可能で心身に障がいがあるお子さんを、健常児と一緒に保育し相互の健全な育成を図ります。",
+  "support": {
+    "description": "保護者が就労している等の理由で保育を必要とする障害児等を実施可能な範囲で集団保育します。",
+    "materiallySupport": "保護者が就労している等の理由で保育を必要とする障害児等を実施可能な範囲で集団保育します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "未就学児であること",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "保護者が就労している等の理由で保育を必要とする障害児等"
+  },
+  "updateDate": "2021-04-01",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

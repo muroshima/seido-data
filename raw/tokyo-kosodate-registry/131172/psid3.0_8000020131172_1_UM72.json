@@ -1,0 +1,137 @@
+{
+  "area": {
+    "areaCode": "131172;北区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども未来部保育課入園相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131172",
+    "psid": "psid3.0+8000020131172+1+UM72"
+  },
+  "belongings": "必要書類\n|軽減の種類|<|必要書類|\n|:----|:----|:----|\n|（２）0～2歳クラスのお子さん（第２子以降）|<|なし　※|\n|（３）世帯の区市町村民税所得割合算額が77,101円未満の要保護世帯|ひとり親世帯|変更届＋戸籍謄本の写し　　※|\n|^|手帳世帯|変更届＋障害者手帳の写し　※|\n|^|手当・年金世帯|変更届＋受給者証の写し　　※|\n\n※別居している子どもがいる場合は、別途、生計を一にしていることがわかる健康保険証の写し等のご提出が必要です。\n\n必要書類については、有効期間内のものまたは発行から3カ月以内のものを通園している保育園へご提出ください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都北区王子本町1-15-22北区役所第一庁舎2階1番",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども未来部保育課入園相談係",
+    "contactPhone": "03-3908-9129",
+    "contactUrl": null,
+    "zipCode": "1148508"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "保育料軽減について\n多子世帯や要保護世帯等、以下（1）～（3）に該当する世帯は、保育料を軽減します。\n各世帯の該当可否について、電話等で回答することはできません。\n必要書類については、有効期間内のものまたは発行から3カ月以内のものを通園している保育園へご提出ください。\n\n対象となる世帯\n（1）3～5歳クラスのお子さん　【令和元年10月から適用】\n保育料が無償となります。手続きやご提出いただく書類等はありません。\n\n（2）0～2歳クラスのお子さん（第2子以降）　【令和5年10月から適用】\n生計を一にする子どもの年齢に関わらず、第2子以降は保育料が無償となります。\n\n（3）世帯の区民税所得割合算額が77,101円未満の要保護世帯　【平成28年4月から適用】\n生計を一にする子どもの年齢に関わらず、保育料が第1子は64％軽減され、第2子以降は無償となります。\n\n【要保護世帯】\nひとり親世帯、同一世帯内に身体障害者手帳・愛の手帳・精神障害者保健福祉手帳の交付を受けた者がいる世帯、特別児童扶養手当の支給児童がいる世帯、国民年金の障害基礎年金の受給者がいる世帯\n\n必要書類\n|軽減の種類|<|必要書類|\n|:----|:----|:----|\n|（２）0～2歳クラスのお子さん（第２子以降）|<|なし　※|\n|（３）世帯の区市町村民税所得割合算額が77,101円未満の要保護世帯|ひとり親世帯|変更届＋戸籍謄本の写し　　※|\n|^|手帳世帯|変更届＋障害者手帳の写し　※|\n|^|手当・年金世帯|変更届＋受給者証の写し　　※|\n\n※別居している子どもがいる場合は、別途、生計を一にしていることがわかる健康保険証の写し等のご提出が必要です。\n\n関連リンク\n保育園（保育料）;https://www.city.kita.tokyo.jp/k-hoiku/kosodate/hoikuen/hoikuen/moshikomi/hoikuryo/index.html\n保育料・延長保育料基準額表;https://www.city.kita.tokyo.jp/k-hoiku/kosodate/hoikuen/hoikuen/moshikomi/hoikuryo/kijungaku.html\n幼児教育・保育の無償化について;https://www.city.kita.tokyo.jp/k-hoiku/musyouka/musyouka.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "多子世帯・ひとり親世帯・在宅障がい児（者）のいる世帯の保育料軽減",
+    "shortName": "保育料軽減について"
+  },
+  "localGovernmentLink": {
+    "title": "保育料軽減について",
+    "uri": "https://www.city.kita.tokyo.jp/k-hoiku/kosodate/hoikuen/keigen10gatsukara.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "北区"
+  },
+  "procedureCounter": "保育園",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "必要書類\n|軽減の種類|<|必要書類|\n|:----|:----|:----|\n|（２）0～2歳クラスのお子さん（第２子以降）|<|なし　※|\n|（３）世帯の区市町村民税所得割合算額が77,101円未満の要保護世帯|ひとり親世帯|変更届＋戸籍謄本の写し　　※|\n|^|手帳世帯|変更届＋障害者手帳の写し　※|\n|^|手当・年金世帯|変更届＋受給者証の写し　　※|\n\n※別居している子どもがいる場合は、別途、生計を一にしていることがわかる健康保険証の写し等のご提出が必要です。\n\n必要書類については、有効期間内のものまたは発行から3カ月以内のものを通園している保育園へご提出ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第4条",
+    "regulationName": "東京都北区保育料等徴収条例"
+  },
+  "relatedLink": [
+    {
+      "title": "幼児教育・保育の無償化について",
+      "uri": "https://www.city.kita.tokyo.jp/k-hoiku/musyouka/musyouka.html"
+    },
+    {
+      "title": "保育料・延長保育料基準額表",
+      "uri": "https://www.city.kita.tokyo.jp/k-hoiku/kosodate/hoikuen/hoikuen/moshikomi/hoikuryo/kijungaku.html"
+    },
+    {
+      "title": "保育園（保育料）",
+      "uri": "https://www.city.kita.tokyo.jp/k-hoiku/kosodate/hoikuen/hoikuen/moshikomi/hoikuryo/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "多子世帯やひとり親世帯、在宅障がい児（障がい者）のいる世帯などの保育料を軽減しています。",
+  "support": {
+    "description": "（1）3～5歳クラスのお子さん　【令和元年10月から適用】\n保育料が無償となります。手続きやご提出いただく書類等はありません。\n\n（2）0～2歳クラスのお子さん（第2子以降）　【令和5年10月から適用】\n生計を一にする子どもの年齢に関わらず、第2子以降は保育料が無償となります。\n\n（3）世帯の区民税所得割合算額が77,101円未満の要保護世帯　【平成28年4月から適用】\n生計を一にする子どもの年齢に関わらず、保育料が第1子は64％軽減され、第2子以降は無償となります。",
+    "materiallySupport": null,
+    "monetarySupport": "（1）3～5歳クラスのお子さん　【令和元年10月から適用】\n保育料が無償となります。手続きやご提出いただく書類等はありません。\n\n（2）0～2歳クラスのお子さん（第2子以降）　【令和5年10月から適用】\n生計を一にする子どもの年齢に関わらず、第2子以降は保育料が無償となります。\n\n（3）世帯の区民税所得割合算額が77,101円未満の要保護世帯　【平成28年4月から適用】\n生計を一にする子どもの年齢に関わらず、保育料が第1子は64％軽減され、第2子以降は無償となります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "多子世帯や要保護世帯等、以下（1）～（3）に該当する世帯\n（1）3～5歳クラスのお子さん　【令和元年10月から適用】\n（2）0～2歳クラスのお子さん（第2子以降）　【令和5年10月から適用】\n（3）世帯の区民税所得割合算額が77,101円未満の要保護世帯　【平成28年4月から適用】\n\n【要保護世帯】\nひとり親世帯、同一世帯内に身体障害者手帳・愛の手帳・精神障害者保健福祉手帳の交付を受けた者がいる世帯、特別児童扶養手当の支給児童がいる世帯、国民年金の障害基礎年金の受給者がいる世帯"
+  },
+  "updateDate": "2023-09-06",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

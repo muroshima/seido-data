@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132021;立川市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子ども政策課　",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020132021",
+    "psid": "psid3.0+9000020132021+1+UM64"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "立川市泉町1156-9",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "1351",
+    "contactName": "子ども政策課",
+    "contactPhone": "042-523-2111",
+    "contactUrl": null,
+    "zipCode": "1908666"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "小児慢性特定疾病医療\nこの制度は、小児慢性特定疾病にかかっている児童等について、健全育成の観点から、患児家庭の医療費の負担軽減を図るため、その医療費の自己負担分の一部を助成する制度です。詳細は、以下のリンクからご覧ください（東京都福祉局のホームページが開きます）。\n\n小児慢性特定疾病医療費助成制度の概要（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/syoman/top.html\n受付窓口：子ども政策課　電話042-523-2111内線1351",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "小児慢性特定疾病医療費の助成",
+    "shortName": "小児慢性特定疾病医療"
+  },
+  "localGovernmentLink": {
+    "title": "東京都の医療費助成",
+    "uri": "https://www.city.tachikawa.lg.jp/kosodatesuishin/kosodate/kosodate/teate/iryohi.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "立川市"
+  },
+  "procedureCounter": "子ども政策課　電話042-523-2111内線1351",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "詳細は、以下のリンクからご覧ください（東京都福祉局のホームページが開きます）。\n\n小児慢性特定疾病医療費助成制度の概要（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/syoman/top.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第19条の2～第19条の8",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "小児慢性特定疾病医療費助成制度の概要（外部リンク）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/syoman/top.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子どもの慢性疾病のうち、治療期間が長く、医療費負担が高額となる疾病について、治療方法の確立と普及、患者家庭の医療費の負担軽減につながるよう、医療費の自己負担分を補助しています。",
+  "support": {
+    "description": "患児家庭の医療費の負担軽減を図るため、その医療費の自己負担分の一部を助成",
+    "materiallySupport": null,
+    "monetarySupport": "患児家庭の医療費の負担軽減を図るため、その医療費の自己負担分の一部を助成"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "小児慢性特定疾病にかかっている児童等"
+  },
+  "updateDate": "2024-06-13",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

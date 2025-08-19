@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131211;足立区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局こども支援センターげんき支援管理課医療的ケア調整担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020131211",
+    "psid": "psid3.0+2000020131211+1+UM5047"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "教育委員会事務局こども支援センターげんき支援管理課医療的ケア調整担当",
+    "contactPhone": "電話番号：03-5681-0140",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "「保育料について」;https://www.city.adachi.tokyo.jp/kodomo-unei/k-kyoiku/kosodate/hoikuen-hoikuryo.html\nをご覧ください。",
+  "description": "受け入れ保育施設\n指定する区立保育園５園\n\n対象クラス\n1歳児クラス以上\n\n預かり時間\n平日7時30分から18時30分\n※令和7年4月から保育時間が長くなりました\n\n保育園で実施可能な医療的行為は、1.経管栄養(経鼻、胃ろう)、2.導尿、3.痰（たん）吸引（口腔内、鼻腔内、気管カニューレ内部）、4.血糖値測定・インスリン注射です。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "上沼田保育園,東綾瀬保育園,千住あずま保育園,中島根保育園,大谷田第一保育園"
+  },
+  "institutionName": {
+    "canonicalName": "保育所等における医療的ケア児への支援",
+    "shortName": "医療的ケアが必要なお子さんの保育"
+  },
+  "localGovernmentLink": {
+    "title": "足立区医療的ケア児の保育所等受け入れガイドラインについて",
+    "uri": "https://www.city.adachi.tokyo.jp/kodomo-sienkanri/iryoutekicare-giudeline.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/13",
+    "updater": "足立区"
+  },
+  "procedureCounter": "足立区保育・入園課窓口",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "医療的ケアを必要とするお子さんの保育を希望される場合は、「医療的ケア児等支援委員会」において、保育園での集団生活が可能なのか確認が必要となるため、入所申し込み期間前にこども支援センターげんきにご連絡ください。なお、入所申し込みができるのは足立区民の方で、受け付けは足立区保育・入園課窓口のみで行います。また、こども支援センターげんきで相談を受けなかった場合、入所申し込みができないことがあります。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "足立区民",
+  "regulation": {
+    "regulationArticle": "第9条第1項",
+    "regulationName": "医療的ケア児及びその家族に対する支援に関する法律"
+  },
+  "relatedLink": [
+    {
+      "title": "保育施設・幼稚園を探す",
+      "uri": "https://www.city.adachi.tokyo.jp/k-kyoiku/kosodate/ninshin/hoiku-mousikomi.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "区立保育所において看護師を配置し、医療的ケア児の受入れ体制を整備しております。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "1歳児クラス以上",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "保育時間中に医療的ケアを必要とする1歳児クラス以上のお子さん"
+  },
+  "updateDate": "2024/10/24",
+  "useConsiderationFlag": false,
+  "utilization": "医療的ケアを必要とするお子さんの保育を希望される場合は、「医療的ケア児等支援委員会」において、保育園での集団生活が可能なのか確認が必要となるため、入所申し込み期間前にこども支援センターげんきにご連絡ください。\nなお、入所申し込みができるのは足立区民の方で、入所受け付けは足立区保育・入園課窓口のみで行います。また、こども支援センターげんきで相談を受けなかった場合、入所申し込みができないことがあります。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

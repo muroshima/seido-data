@@ -1,0 +1,159 @@
+{
+  "area": {
+    "areaCode": "131041;新宿区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "新宿区 教育委員会事務局 学校運営課 幼稚園係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020131041",
+    "psid": "psid3.0+7000020131041+1+UM96"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "Fax：03-5273-3580",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "新宿区 教育委員会事務局-学校運営課 幼稚園係",
+    "contactPhone": "03-5273-3103",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "http://www.city.shinjuku.lg.jp/kodomo/file04_07_00004.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "私学助成（従来制度）の幼稚園一覧",
+    "shortName": "私立幼稚園所在地等一覧"
+  },
+  "localGovernmentLink": {
+    "title": "私立幼稚園所在地等一覧",
+    "uri": "http://www.city.shinjuku.lg.jp/kodomo/file04_07_00004.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "新宿区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "目白ケ丘（めじろがおか）幼稚園",
+      "uri": "http://kindergarten.mejirogaoka-church.com/"
+    },
+    {
+      "title": "牛込成城（うしごめせいじょう）幼稚園",
+      "uri": "http://www.seijogakko.ed.jp/youchien/useijohp.htm"
+    },
+    {
+      "title": "下落合みどり（しもおちあいみどり）幼稚園",
+      "uri": "http://shimoochiai-midori.kids.coocan.jp/"
+    },
+    {
+      "title": "四谷新生（よつやしんせい）幼稚園",
+      "uri": "http://kinder.yotsuyashinsei.jp/"
+    },
+    {
+      "title": "おおや幼稚園",
+      "uri": "http://www.oya-yochien.com/"
+    },
+    {
+      "title": "戸山（とやま）幼稚園",
+      "uri": "http://toyama-tokyo.com/kindy/"
+    },
+    {
+      "title": "目白平和（めじろへいわ）幼稚園",
+      "uri": "https://www.mejiroheiwayouchien.jp/"
+    },
+    {
+      "title": "豊多摩（とよたま）幼稚園",
+      "uri": "http://toyotama-youchien.ed.jp/"
+    },
+    {
+      "title": "伸びる会（のびるかい）幼稚園",
+      "uri": "http://www.nobirukai.ac.jp/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "幼稚園には公立の幼稚園と私立の幼稚園があります。\n私立幼稚園には、新制度による給付を受ける幼稚園と、新制度には移行せず、私学助成を受けて運営している幼稚園があります。\n以下は、新宿区内の私学助成を受ける幼稚園の一覧です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-03-25",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

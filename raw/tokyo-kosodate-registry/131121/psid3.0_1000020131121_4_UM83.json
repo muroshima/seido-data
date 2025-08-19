@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "131121;世田谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども・若者部 保育認定・調整課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131121",
+    "psid": "psid3.0+1000020131121+4+UM83"
+  },
+  "belongings": "必要な持ち物については、保育室までお問合せ下さい。",
+  "capacity": "定員は5名",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども・若者部 保育認定・調整課",
+    "contactPhone": "03-5432-2572",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "4時間まで1,500円。4時間を超え8時間まで3,000円。",
+  "description": "世田谷区にお住まいの方で、通常ご家庭で育児をされている方が、次のいずれかに該当し、家庭における保育が一時的に困難なときにご利用できます。¥n・保護者が、就労を必要とするとき。\n・保護者が、就労のための技能を習得するとき。\n・保護者が、通学を必要とするとき。\n・保護者が、通院を必要とするとき。\n・保護者が、親族の看護又は介護にあたるとき。\n・保護者が、子育て不安、育児疲れ等により利用を必要とするとき。¥n保育室\n保育室の状況によっては、受入できない事があります。\n|指定保育室|<|<|\n|保育室|住所|電話番号|\n|:----|:----|:----|\n|ドレミファ保育室|東京都世田谷区北沢2丁目26番23号|03-3485-7384|\n¥n年齢と定員\n0～2歳中心。0歳児は生後43日以上。定員は5名。¥n利用時間と利用料金\n午前7時30分～午後6時まで。4時間まで1,500円。4時間を超え8時間まで3,000円。¥n時間延長\n8時間を超える場合は別途延長料金がかかります。1時間あたり500円です。¥n預けることのできない日\n基本的には日曜日、祝祭日及び年末年始。そのほかについては保育室にお問合せください。¥n申込方法\n直接保育室にお問合せください。¥nその他\n必要な持ち物については、保育室までお問合せ下さい。¥n関連リンク\nお子さんの一時預かり「ほっとステイ」;https://www.city.setagaya.lg.jp/mokuji/kodomo/002/002/d00015709.html\n子ワーキングスペース チャチャチャのご利用について;https://www.city.setagaya.lg.jp/mokuji/kodomo/002/002/d00015709.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "基本的には日曜日、祝祭日及び年末年始。そのほかについては保育室にお問合せください。",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "一時預かり（一時保育）",
+    "shortName": "保育室の一時保育"
+  },
+  "localGovernmentLink": {
+    "title": "保育室の一時保育について",
+    "uri": "https://www.city.setagaya.lg.jp/mokuji/kodomo/003/001/005/d00005757.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-10",
+    "updater": "世田谷区"
+  },
+  "procedureCounter": "ドレミファ保育室",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申込方法\n直接保育室にお問合せください。¥nその他\n必要な持ち物については、保育室までお問合せ下さい。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第7項、第21条の9、第59条第10号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "お子さんの一時預かり「ほっとステイ」",
+      "uri": "https://www.city.setagaya.lg.jp/mokuji/kodomo/002/002/d00015709.html"
+    },
+    {
+      "title": "子ワーキングスペース チャチャチャのご利用について",
+      "uri": "https://www.city.setagaya.lg.jp/theme/005/004/d00164004.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者のパート就労や病気等による緊急時、育児疲れなどのリフレッシュのために、家庭において保育を受けることが一時的に困難となったお子さんを、保育園、幼稚園、地域子育て支援拠点などで一時的にお預かりしています。",
+  "support": {
+    "description": "|指定保育室|<|<|\n|保育室|住所|電話番号|\n|:----|:----|:----|\n|ドレミファ保育室|東京都世田谷区北沢2丁目26番23号|03-3485-7384|\n",
+    "materiallySupport": "|指定保育室|<|<|\n|保育室|住所|電話番号|\n|:----|:----|:----|\n|ドレミファ保育室|東京都世田谷区北沢2丁目26番23号|03-3485-7384|\n",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0～2歳中心。0歳児は生後43日以上。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "世田谷区にお住まいの方で、通常ご家庭で育児をされている方が、次のいずれかに該当し、家庭における保育が一時的に困難なときにご利用できます。\n・保護者が、就労を必要とするとき。\n・保護者が、就労のための技能を習得するとき。\n・保護者が、通学を必要とするとき。\n・保護者が、通院を必要とするとき。\n・保護者が、親族の看護又は介護にあたるとき。\n・保護者が、子育て不安、育児疲れ等により利用を必要とするとき。"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "午前7時30分～午後6時まで\n8時間を超える場合は別途延長料金がかかります。",
+    "fromHM": "07:30",
+    "toHM": "18:00"
+  }
+}

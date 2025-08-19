@@ -1,0 +1,136 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "青戸保健センター保健サービス係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+1+UM52"
+  },
+  "belongings": "詳細は個別の通知にてご案内します。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区青戸4-15-14　健康プラザかつしか内",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "青戸保健センター保健サービス係",
+    "contactPhone": "03-3602-1284",
+    "contactUrl": null,
+    "zipCode": "1250062"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "各地域の健康診査会場 ※詳細は個別通知をご覧ください。"
+  },
+  "institutionName": {
+    "canonicalName": "3歳児健康診査",
+    "shortName": "3歳児健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "乳幼児健康診査",
+    "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001804/1002099.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第12条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "視聴力検査について （PDF 125.3KB）",
+      "uri": "https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/002/099/30-3kenshichoryoku.pdf"
+    },
+    {
+      "title": "令和6年度　3歳児健康診査　日程・受付時間 （PDF 368.7KB）",
+      "uri": "https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/002/099/r63ken.pdf"
+    },
+    {
+      "title": "健康診査会場 （PDF 86.7KB）",
+      "uri": "https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/002/099/r6kaijokennsin.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "からだやこころの成長とともに社会性も急速に発達するこの頃は、人間形成の基礎となる大切な時期です。葛飾区では3歳児健康診査を実施しています。\n内科と歯科の診察があります。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 4,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "満3歳を超え、満4歳に達しない幼児"
+  },
+  "updateDate": "2024-05-31",
+  "useConsiderationFlag": false,
+  "utilization": "対象者の方に順次個別に通知します。\n※新型コロナウイルスの感染拡大の影響で、現在3歳4か月頃を目安にお呼び出ししております。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

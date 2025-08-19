@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131199;板橋区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 保育サービス課 入園相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131199",
+    "psid": "psid3.0+6000020131199+1+UM71"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都板橋区板橋二丁目66番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "板橋区 教育委員会事務局 学務課 幼稚園係",
+    "contactPhone": "03-3579-2613",
+    "contactUrl": null,
+    "zipCode": "1738501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "認定について\n\n認定の申請\n「認定申請書」は原則、利用する幼稚園から配られ、幼稚園に提出していただきます。ただし、他市区町村からの転入や年度途中入園、認定種別の変更等は学務課幼稚園係で手続きが必要な場合があります。詳しくは学務課幼稚園係にお問い合わせください。\n\n認定の種類\n従来園を利用する場合（P54「新制度移行」が空欄の幼稚園）\n「子育てのための施設等利用給付認定」の申請が必要です。\n新制度移行園を利用する場合（P54「新制度移行」に☆・★マークのある幼稚園）\n「教育・保育給付認定（教育標準時間認定）兼 子育てのための施設等利用給付認定」の申請が必要です。\n\n（ 1 ）満3 歳児から5 歳児クラスを利用するお子さん　→　第1号認定を申請\n（ 2 ）「保育の必要性（※）」があり、預かり保育等を利用するお子さん\n① 3 歳児から5 歳児クラスを利用するお子さん　→　第2号認定を申請\n②満3 歳児クラス（プレ保育を除く。）を利用する、区市町村民税非課税世帯のお子さん　→　第3号認定を申請\n\n保育の必要性（※）\n\n認定事由と認定有効期間\n「保育の必要性」とは、保育園を利用する場合と同等の要件です。保育の必要性の認定を受けるためには、保護者が次のいずれかの事由に該当することが必要です。また認定事由により、認定有効期間が定められています。\n\n|認定事由|認定有効期間|\n|:----|:----|\n|就労（1か月に48時間以上の労働を常態とする。）|就労している期間（最長就学前まで）|\n|妊娠・出産|出産予定月を中心に前後2 か月の計5 か月|\n|求職中（起業準備を含む。）|3 か月|\n|保護者の疾病・障がい、入院|治療に要する期間（最長就学前まで）|\n|同居親族（申請子どもを除く。）の介護・看護|看護に要する期間（最長就学前まで）|\n|就学（職業訓練を含む。）|在学期間内（最長就学前まで）|\n|火災等災害の復旧|各事由が生じている期間|\n|虐待や DV のおそれがあること|保育を必要とする期間|\n|育児休業取得時にすでに幼稚園を利用していること|保育を必要とする期間|\n|その他、保育をすることができないと認められる場合|保育を必要とする期間|\n\n追加の添付書類\n第2 号認定・第3 号認定を申請し、保育の必要性の認定を受けるためには、添付書類が必要です。詳しくは、板橋区HP「幼児教育・保育無償化（幼稚園・認定こども園）」をご確認ください。 https://www.city.itabashi.tokyo.jp/kyoikuiinkai/youchien/musho/1004116.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子どものための教育・保育給付認定（1号・2号・3号）",
+    "shortName": "幼稚園"
+  },
+  "localGovernmentLink": {
+    "title": "2.幼稚園",
+    "uri": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/048/694/r6/2.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "板橋区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第19条（支給要件）・第20条（市町村の認定等）",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "https://www.city.itabashi.tokyo.jp/kyoikuiinkai/youchien/musho/1004116.html",
+      "uri": "https://www.city.itabashi.tokyo.jp/kyoikuiinkai/youchien/musho/1004116.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子ども・子育て支援新制度による給付を受ける幼稚園や認可保育園、認定こども園、地域型保育事業（小規模保育・家庭的保育・居宅訪問型保育・事業所内保育）を利用するには、お子さんの年齢や保育の必要性の有無、保育の必要量に応じた認定を受ける必要があります。\nまた、企業主導型保育（地域枠）については、お住まいの自治体から教育・保育給付認定を受けることで、「幼児教育・保育の無償化」による助成を受けることができます。",
+  "support": {
+    "description": "認定の種類\n従来園を利用する場合\n「子育てのための施設等利用給付認定」の申請が必要です。\n新制度移行園を利用する場合\n「教育・保育給付認定（教育標準時間認定）兼 子育てのための施設等利用給付認定」の申請が必要です。\n\n（ 1 ）満3 歳児から5 歳児クラスを利用するお子さん　→　第1号認定を申請\n（ 2 ）「保育の必要性（※）」があり、預かり保育等を利用するお子さん\n① 3 歳児から5 歳児クラスを利用するお子さん　→　第2号認定を申請\n②満3 歳児クラス（プレ保育を除く。）を利用する、区市町村民税非課税世帯のお子さん　→　第3号認定を申請\n\n保育の必要性\n認定事由と認定有効期間\n「保育の必要性」とは、保育園を利用する場合と同等の要件です。保育の必要性の認定を受けるためには、保護者が次のいずれかの事由に該当することが必要です。また認定事由により、認定有効期間が定められています。\n\n|認定事由|認定有効期間|\n|:----|:----|\n|就労（1か月に48時間以上の労働を常態とする。）|就労している期間（最長就学前まで）|\n|妊娠・出産|出産予定月を中心に前後2 か月の計5 か月|\n|求職中（起業準備を含む。）|3 か月|\n|保護者の疾病・障がい、入院|治療に要する期間（最長就学前まで）|\n|同居親族（申請子どもを除く。）の介護・看護|看護に要する期間（最長就学前まで）|\n|就学（職業訓練を含む。）|在学期間内（最長就学前まで）|\n|火災等災害の復旧|各事由が生じている期間|\n|虐待や DV のおそれがあること|保育を必要とする期間|\n|育児休業取得時にすでに幼稚園を利用していること|保育を必要とする期間|\n|その他、保育をすることができないと認められる場合|保育を必要とする期間|\n\n追加の添付書類\n第2 号認定・第3 号認定を申請し、保育の必要性の認定を受けるためには、添付書類が必要です。詳しくは、板橋区HP「幼児教育・保育無償化（幼稚園・認定こども園）」をご確認ください。 https://www.city.itabashi.tokyo.jp/kyoikuiinkai/youchien/musho/1004116.html",
+    "materiallySupport": "従来園を利用する場合\n「子育てのための施設等利用給付認定」の申請が必要です。\n新制度移行園を利用する場合\n「教育・保育給付認定（教育標準時間認定）兼 子育てのための施設等利用給付認定」の申請が必要です。\n\n（ 1 ）満3 歳児から5 歳児クラスを利用するお子さん　→　第1号認定を申請\n（ 2 ）「保育の必要性（※）」があり、預かり保育等を利用するお子さん\n① 3 歳児から5 歳児クラスを利用するお子さん　→　第2号認定を申請\n②満3 歳児クラス（プレ保育を除く。）を利用する、区市町村民税非課税世帯のお子さん　→　第3号認定を申請\n\n保育の必要性\n認定事由と認定有効期間\n「保育の必要性」とは、保育園を利用する場合と同等の要件です。保育の必要性の認定を受けるためには、保護者が次のいずれかの事由に該当することが必要です。また認定事由により、認定有効期間が定められています。\n\n|認定事由|認定有効期間|\n|:----|:----|\n|就労（1か月に48時間以上の労働を常態とする。）|就労している期間（最長就学前まで）|\n|妊娠・出産|出産予定月を中心に前後2 か月の計5 か月|\n|求職中（起業準備を含む。）|3 か月|\n|保護者の疾病・障がい、入院|治療に要する期間（最長就学前まで）|\n|同居親族（申請子どもを除く。）の介護・看護|看護に要する期間（最長就学前まで）|\n|就学（職業訓練を含む。）|在学期間内（最長就学前まで）|\n|火災等災害の復旧|各事由が生じている期間|\n|虐待や DV のおそれがあること|保育を必要とする期間|\n|育児休業取得時にすでに幼稚園を利用していること|保育を必要とする期間|\n|その他、保育をすることができないと認められる場合|保育を必要とする期間|",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": "「認定申請書」は原則、利用する幼稚園から配られ、幼稚園に提出していただきます。ただし、他市区町村からの転入や年度途中入園、認定種別の変更等は学務課幼稚園係で手続きが必要な場合があります。詳しくは学務課幼稚園係にお問い合わせください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

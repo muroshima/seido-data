@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センター庶務担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+1+UM6"
+  },
+  "belongings": "「妊婦健康診査受診票」\n「妊婦超音波検査受診票」\n「妊婦子宮頸がん検診受診票」",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市学園東町1-19-12　健康センター4階",
+    "contactComment": "FAX：042-346-3705",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭センター庶務担当",
+    "contactPhone": "042-346-3703",
+    "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+    "zipCode": "1870043"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "母子健康手帳の交付時に「妊婦健康診査受診票」（14回分）「妊婦超音波検査受診票」（4回分）「妊婦子宮頸がん検診受診票」（1回分）をお渡ししています。\n都外から転入された方に都内で使用できる健診票をお渡しします。\n\n医療機関によって費用が異なり、また妊婦さんの状況により、受診票に記載されていない検査費用や、公費負担上限額との差額などをお支払いいただきますので、妊婦健診全体でかかる費用を主治医に相談してから、かかるようにしましょう。\n(注)妊娠初期では、妊婦健康診査受診票を使えないことがあります。詳しくは受診する医療機関にお問い合わせください。\n(注)受診票は都内のほとんどの医療機関で使用できます。都外の医療機関や助産院で受診した場合は「都外医療機関、助産所での妊婦健康診査の費用助成」;https://www.city.kodaira.tokyo.jp/kurashi/049/049423.htmlをご覧ください。\n\n（公費負担額）\n令和5年度の東京都内の妊婦健康診査の公費負担額は、次の表のとおりとなります。\n|1回目|10,980円|\n\n|2～14回目|5,140円|\n\n|超音波検査|5,300円|\n\n|子宮頸がん検診|3,400円|\n\n 妊婦さん一人ひとりの状況、また医療機関によって、検査の流れなど健診の方法が異なります。かかるときは主治医に受診票の種類と枚数を告げ、どの時期にどの受診票を使うのがよいか相談しましょう。（特に転院した場合は気をつけましょう。）\n\n（転居した場合）\n都内で転居した場合は、受診票をそのまま使用できます。\n小平市から他の道府県に転居した場合は、この受診票を使用することはできません。転入先の市区町村にお問合せください。\n他の道府県から小平市に転居した場合は、母子健康手帳とお持ちの受診票を小平市健康センターまでお持ちください。差替えをして新たに受診票をお渡しします。（詳しくはお問い合わせください。）\n\n（よくある質問）\nQ1　受診票を使うことで、健診費用が無料になるのですか\nA1　いいえ。\n医療機関や妊婦さんの状況によって、自己負担が生じます。公費負担は検査項目が決まっていて、上限額があります。その差額などをお支払いいただくようになります。また、医療行為が必要と判断された場合は保険診療となり、保険の自己負担分をお支払いいただきます。\n\nQ2　受診票を使いきれず、余ってしまいました。現金に換えることはできますか\nA1　いいえ。\n余った分を現金に換えることはできません。\n\nQ3　都内の医療機関で受診票を使わず受診しました。後で助成されますか\nA3　いいえ。\n\nQ4　未使用の受診票を紛失してしまいました。再発行してもらえますか\nA4　いいえ。\n原則再発行はしません。大切にお取り扱いください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊婦健康診査",
+    "shortName": "妊婦健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "妊婦健康診査",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/049/049421.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "小平市"
+  },
+  "procedureCounter": "受診票は都内のほとんどの医療機関で使用できます。都外の医療機関や助産院で受診した場合は下記をご覧ください。\n\n都外医療機関、助産所での妊婦健康診査の費用助成;https://www.city.kodaira.tokyo.jp/kurashi/049/049423.html",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "受診する医療機関に提出してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "妊婦の方",
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "都外医療機関、助産所での妊婦健康診査の費用助成",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/049/049423.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊婦さんやお腹の赤ちゃんの健康状態を定期的に確認するのが妊婦健康診査です。妊婦さんの健康診査は、一般的に出産までに14回程度受診するのが望ましいとされています。しかし、妊娠は病気ではないため健康保険は適用されません。そこで、出産までの健診を受ける際の経済的な負担を軽くするため、妊婦健康診査費用の一部を助成する妊婦健康診査受診票をお渡ししています。",
+  "support": {
+    "description": "妊婦健康診査の一部を公費で受診できます",
+    "materiallySupport": null,
+    "monetarySupport": "（母子手帳交付時配付内容）\n「妊婦健康診査受診票」（14回分）\n「妊婦超音波検査受診票」（4回分）\n「妊婦子宮頸がん検診受診票」（1回分）\n\nこの受診票は妊婦健康診査の一部を公費で受診できるものです。受診する医療機関に提出してください。妊婦健診は原則自由診療（保険適用外）ですが、受診票に記載されている検査項目については、助成が受けられます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊婦の方"
+  },
+  "updateDate": "2024-04-10",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

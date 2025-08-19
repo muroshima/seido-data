@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132187;福生市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　こども家庭センター課　母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132187",
+    "psid": "psid3.0+8000020132187+2+UM114"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "福生市福生2125-3（福生市保健センター2階）",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　こども家庭センター課　母子保健係",
+    "contactPhone": "042-552-0312",
+    "contactUrl": null,
+    "zipCode": "1970011"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子どもの健康上の相談、育児相談、妊娠中の健康や生活の相談など、母と子の健康に関する不安や悩みを相談することができます。\n\n子どもの急な病気に困ったら【＃8000】にすぐ電話！小児救急医療電話\nこの事業は全国同一の短縮番号＃8000をプッシュすることにより、お住まいの都道府県の相談窓口に自動転送され、お子さんの症状に応じた適切な対処の仕方や受診する病院等のアドバイスを受けられます。\n\n東京都では、小さなお子さんをお持ちの保護者の方が、保健所や保健センターが閉庁する時間帯の急な子どもの病気にどう対処したらよいのか、病院の診療を受けたほうがいいのかなど判断に迷った時など、母と子の健康に関する不安や悩みに対して電話相談を行っています。\n\n子供の健康相談室（小児救急相談）（東京都福祉保健局ホームページ）（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/k_soudan\n小児救急電話相談事業（＃8000）について（厚生労働省ホームページ）（外部リンク）;https://www.mhlw.go.jp/topics/2006/10/tp1010-3.html\n東京都では小児相談事業に係る取り組みとして、東京都こども医療ガイド、暮らしの中の医療情報ナビ、TOKYO子育て情報サービス等の事業を実施しています。\nリンクにまとめましたので、ご覧ください。\n\nリンク集;https://www.city.fussa.tokyo.jp/life/child/1010112/1002323.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "小児科救急",
+    "shortName": "困った時の＃8000！子供の健康相談室"
+  },
+  "localGovernmentLink": {
+    "title": "体調不良やケガをして困ったとき",
+    "uri": "https://www.city.fussa.tokyo.jp/life/child/1010112/1002323.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024/07/16",
+    "updater": "福生市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "救急医療対策事業実施要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "子供の健康相談室（小児救急相談）（東京都福祉保健局ホームページ）（外部リンク）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/k_soudan"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子供の健康・救急に関する相談に看護師や保健師等が応じています。また、必要に応じて小児科医が対応します。",
+  "support": {
+    "description": "東京都では、小さなお子さんをお持ちの保護者の方が、保健所や保健センターが閉庁する時間帯の急な子どもの病気にどう対処したらよいのか、病院の診療を受けたほうがいいのかなど判断に迷った時など、母と子の健康に関する不安や悩みに対して電話相談を行っています。",
+    "materiallySupport": "東京都では、小さなお子さんをお持ちの保護者の方が、保健所や保健センターが閉庁する時間帯の急な子どもの病気にどう対処したらよいのか、病院の診療を受けたほうがいいのかなど判断に迷った時など、母と子の健康に関する不安や悩みに対して電話相談を行っています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "小さなお子さんをお持ちの保護者の方"
+  },
+  "updateDate": "2024/07/16",
+  "useConsiderationFlag": false,
+  "utilization": "全国同一の短縮番号＃8000をプッシュすることにより、お住まいの都道府県の相談窓口に自動転送され、お子さんの症状に応じた適切な対処の仕方や受診する病院等のアドバイスを受けられます。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

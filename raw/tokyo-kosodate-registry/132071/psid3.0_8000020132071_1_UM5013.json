@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132071;昭島市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子ども家庭センター担当 母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132071",
+    "psid": "psid3.0+8000020132071+1+UM5013"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "昭島市昭和町4-7-1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 子ども家庭センター担当 母子保健係",
+    "contactPhone": "042-543-7303",
+    "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000053.html",
+    "zipCode": "1960015"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "あきしま出産・子育て応援事業\n国の出産・子育て応援交付金を活用し、妊娠中から出産・子育て期まで安心して過ごしていただけるように、伴走型相談支援と経済的支援を一体的に実施する「あきしま出産・子育て応援事業」を令和5年2月1日より開始しました。\nなお、経済的支援については、令和4年4月1日から令和5年1月31日までに出生されたお子さんも遡及して支給の対象になります。\n\n||妊娠届提出後|妊娠7～8か月頃|出産後|育児期|\n|:----|:----|:----|:----|:----|\n|伴走型相談支援|ゆりかご・あきしま面談|妊婦8か月面談|こんにちは赤ちゃん訪問|個別相談・面談、情報提供等|\n|経済的支援|あきしまゆりかごギフト（5万円相当）||あきしまみらいギフト（5万円相当）<br>（注）令和5年4月1日以降に出生したお子さまは10万円相当||\n参考：こども家庭庁ホームページ「妊婦・子育て家庭への伴走型相談支援と経済的支援の一体的実施（出産・子育て応援交付金）」;https://www.cfa.go.jp/policies/shussan-kosodate/(外部サイトにリンクします)\n\nあきしまゆりかごギフト（出産応援ギフト）\nゆりかご・あきしま面談終了後、申請書を提出いただいた妊婦のかたにあきしまゆりかごギフト（5万円相当）をお渡しいたします。ギフトとは、専用のWebサイトからご希望の育児用品や子育て支援サービスが選択できるID・パスワードが記載された東京都発行のギフトカード「赤ちゃんファースト」です。\n（注）流産・死産された場合も対象になります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出産・子育て応援ギフト（国の出産・子育て応援給付金）",
+    "shortName": "あきしまゆりかごギフト（出産応援ギフト）"
+  },
+  "localGovernmentLink": {
+    "title": "あきしま出産・子育て応援事業",
+    "uri": "https://www.city.akishima.lg.jp/s049/020/010/060/20200925151717.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "昭島市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "ゆりかご・あきしま面談終了後、申請書を提出いただいた妊婦のかたにあきしまゆりかごギフト（5万円相当）をお渡しいたします。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "ゆりかご・あきしま面談終了後、申請書を提出いただいた妊婦のかた",
+  "regulation": {
+    "regulationArticle": "別紙：伴走型相談支援及び出産・子育て応援給付金の一体的実施事業実施要綱「出産・子育て応援給付金」（別添2） ",
+    "regulationName": "伴走型相談支援及び出産・子育て応援給付金の一体的実施事業の実施について（子発1226第1号 令和4年12月26日）"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "すべての妊婦さんと子育て家庭が安心して出産・子育てができるように、妊娠から出産・子育てまでの一貫した「伴走型相談支援」を実施しています。この相談支援と一体的に実施する経済的支援として、「出産・子育て応援ギフト」を給付しています。 ",
+  "support": {
+    "description": "ゆりかご・あきしま面談終了後、申請書を提出いただいた妊婦のかたにあきしまゆりかごギフト（5万円相当）をお渡しいたします。ギフトとは、専用のWebサイトからご希望の育児用品や子育て支援サービスが選択できるID・パスワードが記載された東京都発行のギフトカード「赤ちゃんファースト」です。\n（注）流産・死産された場合も対象になります。",
+    "materiallySupport": null,
+    "monetarySupport": "あきしまゆりかごギフト（5万円相当）"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "ゆりかご・あきしま面談終了後、申請書を提出いただいた妊婦のかた\n（注）流産・死産された場合も対象になります。"
+  },
+  "updateDate": "2023-09-28",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

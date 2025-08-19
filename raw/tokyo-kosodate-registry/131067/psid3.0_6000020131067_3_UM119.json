@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131067;台東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "日本堤子ども家庭支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131067",
+    "psid": "psid3.0+6000020131067+3+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "日本堤子ども家庭支援センター",
+    "contactPhone": "03-5824-2571",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "内容\n東京都では、児童相談体制強化に向けた取組の一つとしてLINEを活用した子供や保護者からの相談窓口を設置しています。\n「親の気持ち・子の気持ちがわからない」\n「一番身近な家族のこと。相談したくても、知っている人には相談しづらい」\n親子のかかわりで困っていることや子育ての悩みも、LINEでなら話せるかもしれません。ひとりで抱え込まず、気軽に相談してください。\n\nLINE公式アカウント名\n親子のための相談LINE\n\n時間\n●相談対応時間\n平日 9時から23時まで　（受付は、22時30分まで）\n土・日・祝日、年末年始（12月29日から1月3日まで）9時から17時まで\nLINE相談「親子のための相談LINE」はこちら（外部サイト）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/katei/linesoudan.html\n\n台東区の電話相談\n●対象\n0～18歳未満の子供と保護者及び関係者\n\n●相談対応時間\n月曜日～土曜日　午前9時～午後5時\n\n●電話番号\n03‐5824‐2571",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "LINE相談「親子のための相談LINE」はこちら（外部サイト）",
+      "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/katei/linesoudan.html"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "台東区の子育てに関する相談",
+    "shortName": "親子のための相談LINE"
+  },
+  "localGovernmentLink": {
+    "title": "児童虐待を防止するためのLINE相談（親子のための相談LINE）",
+    "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/soudan/line2020.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "台東区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "LINE相談「親子のための相談LINE」はこちら（外部サイト）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/katei/linesoudan.html",
+  "procedurePeriod": {
+    "conditions": "●相談対応時間\n平日 9時から23時まで　（受付は、22時30分まで）\n土・日・祝日、年末年始（12月29日から1月3日まで）9時から17時まで",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "東京都では、児童相談体制強化に向けた取組の一つとしてLINEを活用した子供や保護者からの相談窓口を設置しています。",
+  "support": {
+    "description": "LINEを活用した子供や保護者からの相談窓口",
+    "materiallySupport": "LINEを活用した子供や保護者からの相談窓口",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2023-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日～土曜日　午前9時～午後5時",
+    "fromHM": "09:00",
+    "toHM": "17:00"
+  }
+}

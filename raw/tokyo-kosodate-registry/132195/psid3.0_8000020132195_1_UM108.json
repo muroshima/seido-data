@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132195;狛江市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　児童育成課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132195",
+    "psid": "psid3.0+8000020132195+1+UM108"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　児童育成課保育・幼稚園担当,保育園等管理・運営支援担当,放課後対策推進担当",
+    "contactPhone": "03-3430-1280,03-6698-0762,03-3430-1281",
+    "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,105154,html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "児童センター・児童館\n　児童センター・児童館は、地域の子どもたちが縦と横のつながりをもちながら自由に遊ぶ場です。その中から社会性や自主性を養い、情操を高め、健康の増進を図ることを目的としています。\n　市内には岩戸児童センター、和泉児童館、北部児童館（愛称：こまっこ児童館）があり、行事やクラブ活動、児童のつどいが盛んです。\n\n利用できる方\n狛江市内に居住する18歳未満の児童・生徒とその保護者の方\n（幼児については、必ず保護者の方が同伴してください）\n\n開館時間\n月曜日～土曜日、午前9時～午後7時\n\n※新型コロナウイルス感染症の5類移行に伴い、岩戸児童センター遊戯室の日曜開放は再開しました。\n\n休館日\n日曜日、祝日、年末年始\n\n施設\n岩戸児童センター\n　岩戸南3-15-1　電話03-3489-5414\n和泉児童館\n　中和泉3-12-6　電話03-3480-1441\n和泉児童館分室（寺前小学生クラブ） ※令和3年4月開所\n　元和泉1-23-3　電話03-5761-7720\n北部児童館（愛称：こまっこ児童館）\n　和泉本町3-31-19　電話03-3480-5701\n　※詳細は各児童センター・児童館へお問い合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "日曜日、祝日、年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "岩戸南3-15-1,中和泉3-12-6,元和泉1-23-3,和泉本町3-31-19",
+    "implementationName": "岩戸児童センター,和泉児童館,和泉児童館分室（寺前小学生クラブ）,北部児童館（愛称：こまっこ児童館）"
+  },
+  "institutionName": {
+    "canonicalName": "児童館",
+    "shortName": "児童センター・児童館"
+  },
+  "localGovernmentLink": {
+    "title": "児童センター・児童館",
+    "uri": "https://www.city.komae.tokyo.jp/index.cfm/43,0,331,2051,html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "狛江市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童館は、18歳未満のお子さんに健全な遊びを提供し、健康増進を図るとともに、豊かな情操を育むことを目的としています。\n狛江市の児童館には、小学校就学前のお子さんが安心して遊べるスペースがあり、またお子さんの年齢に応じた各種イベントなども行っています。\n（イベントの詳細については、狛江市サイトや市報などでお知らせしています。）",
+  "support": {
+    "description": "児童センター・児童館は、地域の子どもたちが縦と横のつながりをもちながら自由に遊ぶ場です。その中から社会性や自主性を養い、情操を高め、健康の増進を図ることを目的としています。",
+    "materiallySupport": "児童センター・児童館は、地域の子どもたちが縦と横のつながりをもちながら自由に遊ぶ場です。その中から社会性や自主性を養い、情操を高め、健康の増進を図ることを目的としています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "狛江市内に居住する18歳未満の児童",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "狛江市内に居住する18歳未満の児童・生徒とその保護者の方\n（幼児については、必ず保護者の方が同伴してください）"
+  },
+  "updateDate": "2024-04-09",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日～土曜日",
+    "fromHM": "09:00",
+    "toHM": "19:00"
+  }
+}

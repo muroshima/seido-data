@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "いきいき生活部 保険年金課 保険加入係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+1+UM5035"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "いきいき生活部 保険年金課 保険加入係",
+    "contactPhone": "042-724-2124",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "出産予定日の6か月前から届出ができます。出産後の届出も可能です。",
+  "description": "2024年1月から産前産後期間の保険税の免除制度が始まりました\n2024年1月から、出産を予定している国民健康保険の被保険者について、出産予定日又は出産日が属する月の前月から4か月間（多胎妊娠の場合は、出産予定日又は出産日が属する月の3か月前から6か月間）の保険税を免除します。免除には届出が必要です。\n保険税が免除される期間\n対象となる被保険者分の保険税について、出産予定月（または出産月）の前月から4か月間（以下「産前産後期間」といいます。）に相当する分が免除されます。\n多胎妊娠の場合は、出産予定月（又は出産月）の3か月前から6か月間が対象となります。\n\n注記2　産前産後期間相当分の保険税が免除されます。その年度の保険税が0円になるとは限りません。産前産後期間相当分が免除され、その年度に納める保険税が減額となった場合、納税（更正）通知書によりお知らせします。また、払いすぎになった保険税は、還付又は他の納期・税目に充当されます。\n注記3　令和5年度（2023年度）においては、産前産後期間のうち令和6年（2024年）1月以降の期間の分だけ、保険税が免除されます。\n注記4　元々の保険税が課税限度額を超えている世帯の場合、産前産後期間相当分の保険税を免除しても、課税限度額のまま保険税が変わらない場合があります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "国民健康保険料の免除（産前産後期間）",
+    "shortName": "産前産後期間の保険税の免除"
+  },
+  "localGovernmentLink": {
+    "title": "産前産後期間の保険税の免除",
+    "uri": "https://www.city.machida.tokyo.jp/kurashi/hoken/kokuho/hokenzei/keigen/sanzensango.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-10-24",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "出産予定日の6か月前から届出ができます。出産後の届出も可能です。\n届出に必要な書類\n町田市国民健康保険税　産前産後期間に係る保険税軽減届出書\n町田市国民健康保険税　産前産後期間に係る保険税軽減届出書（PDF：107KB）\nhttps://www.city.machida.tokyo.jp/kurashi/hoken/kokuho/hokenzei/keigen/sanzensango.files/todokedesyo1220-1.pdf\n次のいずれかの証明書類\n母子健康手帳の表紙と、出産（分娩）予定日がわかる箇所（出産前の届出の場合）又は出生届出済証明（出産後の届出の場合）の写し\n「死産証明書」の写し\n「死胎埋火葬許可証」の写し\nその他、出産予定日又は出産日と、単胎妊娠または多胎妊娠の別を確認することができる書類\n注記5　町田市の母子健康手帳を添付の場合、出産（分娩）予定日は4ページ、出生届出済証明は1ページにあります。多胎妊娠の場合は、人数分の写しを添付してください。\n\n届出先\n保険年金課保険加入係（市庁舎1階106窓口）、各市民センター（忠生・鶴川・南・なるせ駅前・堺・小山）窓口\n郵送の場合\n〒194-8520\n東京都町田市森野2-2-22\n保険年金課保険加入係　宛\n出産日が変更になった場合\n届出後に出産日が変更になった場合でも、原則変更の手続きは必要ありません。\nただし、変更することで免除される期間が増える場合などは、変更の手続きを行うことができます。変更の手続きをご希望の場合は、下記問合せ先までお問合せください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民健康保険の出産する被保険者に係る産前産後期間相当分（４ヶ月分）の均等割保険料と所得割保険料が免除されます。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003",
+      "015"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "国民健康保険の被保険者で、2023年11月1日以降に出産又は出産予定の方\n注記1　妊娠85日（4か月）以上の出産が対象です（死産、流産、早産及び人工妊娠中絶の場合も含みます）"
+  },
+  "updateDate": "2024-02-08",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

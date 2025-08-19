@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131024;中央区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉保健部保育課保育入園係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131024",
+    "psid": "psid3.0+8000020131024+3+UM76"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "築地一丁目1番1号　本庁舎6階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉保健部保育課保育入園係",
+    "contactPhone": "03-3546-5227,03-3546-5387,03-3546-9587 ",
+    "contactUrl": null,
+    "zipCode": "1048404"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "スポット延長保育（保育短時間）\n対象者\n区内在住のお子さんの保護者\n保育必要量が「保育短時間」と認定されている方\n保育料を滞納されていない方\n利用時間\n午前7時30分から午前9時\n午後5時から午後6時30分\n午後6時30分から午後7時30分\n午後7時30分から午後9時\n午後7時30分から午後10時\n注記1：3、4、5の利用時間については、1歳児クラス以上から対象となります。\n注記2：4、5の利用時間は京橋こども園において実施しています。\n注記3：その他の時間帯で行っている園もあります。\n申込方法\n現在通っている園に直接お問い合わせ、お申し込みください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "延長保育",
+    "shortName": "スポット延長保育（保育短時間）"
+  },
+  "localGovernmentLink": {
+    "title": "延長保育を希望する方へ",
+    "uri": "https://www.city.chuo.lg.jp/a0021/kosodate/kosodate/hoikuen/hoiku/ninkahoiku/entyouhoiku.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-01",
+    "updater": "中央区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "現在通っている園に直接お問い合わせ、お申し込みください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第59条第2号",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "中央区内の保育園（保育所）や認定こども園、地域型保育施設では、保護者の勤務時間などにより、認定を受けた時間帯を超えて保育が必要なお子さんを対象に、別途料金を徴収のうえで、延長保育を実施しています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住のお子さんの保護者\n保育必要量が「保育短時間」と認定されている方\n保育料を滞納されていない方"
+  },
+  "updateDate": "2024-03-19",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "午前7時30分から午前9時\n午後5時から午後6時30分\n午後6時30分から午後7時30分\n午後7時30分から午後9時\n午後7時30分から午後10時\n注記1：3、4、5の利用時間については、1歳児クラス以上から対象となります。\n注記2：4、5の利用時間は京橋こども園において実施しています。\n注記3：その他の時間帯で行っている園もあります。",
+    "fromHM": null,
+    "toHM": null
+  }
+}

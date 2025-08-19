@@ -1,0 +1,130 @@
+{
+  "area": {
+    "areaCode": "131211;足立区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "区民部国民健康保険課資格賦課担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020131211",
+    "psid": "psid3.0+2000020131211+1+UM5035"
+  },
+  "belongings": "国民健康保険料軽減届出書（産前・産後）（PDF：113KB）;https://www.city.adachi.tokyo.jp/documents/63333/sanzensangotodokedesyo.pdf\n届出人の本人確認書類（マイナンバーカードや運転免許証など）\n妊娠・出産の事実、親子関係が確認できる書類（母子健康手帳など）\n委任状（PDF：81KB）;https://www.city.adachi.tokyo.jp/documents/63333/sannzennsanngo_ininnjou.pdf（別世帯の方が届出する場合）\n※届出に必要な母子健康手帳のページ（例）（PDF：87KB）;https://www.city.adachi.tokyo.jp/documents/63333/teiseiboshikenkoutetyou.pdfもご確認ください。\n\n※流産・死産・人工妊娠中絶の場合は、母子健康手帳の「出産の状態（娩出日）」のページをご提出ください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "区民部国民健康保険課資格賦課担当",
+    "contactPhone": "03-3880-5240",
+    "contactUrl": "https://www.city.adachi.tokyo.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "産前産後期間の国民健康保険料の免除制度\n制度の概要\n出産（予定）した被保険者の産前産後期間相当分の国民健康保険料（均等割額・所得割額）が免除されます。\n\n対象者\n令和5年11月1日以降に出産（予定）した方で、免除対象期間に足立区の国民健康保険に加入している方\n\n※妊娠期間が85日以上の方が対象です。\n\n※早産・流産・死産（人工中絶を含む）の場合も対象です。\n\n免除対象期間\n単胎妊娠の方\n出産予定月または出産をした月の前月から4カ月\n\n多胎妊娠の方\n出産予定月または出産をした月の3カ月前から6カ月　\n\n（例）7月に出産した場合\n\n|-|4月|5月|6月|7月|8月|9月|\n|:----|:----|:----|:----|:----|:----|:----|\n|単胎|非該当|非該当|該　当|該　当|該　当|\t該　当|\n|多胎|該　当|該　当|該　当|該　当|該　当|該　当|\n\n※令和5年度の保険料については、産前産後期間のうち、令和6年1月以降の対象月分のみが免除されます。\n\n※免除対象期間が年度をまたぐ場合、3月分までは旧年度、4月分からは新年度の保険料から免除します。\n\n手続きに必要なもの\n国民健康保険料軽減届出書（産前・産後）（PDF：113KB）;https://www.city.adachi.tokyo.jp/documents/63333/sanzensangotodokedesyo.pdf\n届出人の本人確認書類（マイナンバーカードや運転免許証など）\n妊娠・出産の事実、親子関係が確認できる書類（母子健康手帳など）\n委任状（PDF：81KB）;https://www.city.adachi.tokyo.jp/documents/63333/sannzennsanngo_ininnjou.pdf（別世帯の方が届出する場合）\n※届出に必要な母子健康手帳のページ（例）（PDF：87KB）;https://www.city.adachi.tokyo.jp/documents/63333/teiseiboshikenkoutetyou.pdfもご確認ください。　　　\n\n※流産・死産・人工妊娠中絶の場合は、母子健康手帳の「出産の状態（娩出日）」のページをご提出ください。\n\n届出の方法\n出産予定日の6カ月前から届出ができます。\n\n窓口での手続き\n国民健康保険課資格賦課担当　区役所北館2階2番窓口\n\n※区民事務所では受付していません。\n\n郵送での手続き\n上記の手続きに必要なものを、国民健康保険課資格賦課担当へ郵送してください。\n※郵送代・印刷代・コピー代は自己負担となります。\n\n郵送先\n120-8510\n\n足立区中央本町一丁目17番1号\n\n足立区役所国民健康保険課資格賦課担当\n\n関連PDFファイル\n国民健康保険料軽減届出書（産前・産後）（PDF：113KB）;https://www.city.adachi.tokyo.jp/documents/63333/sanzensangotodokedesyo.pdf\n【記入例】国民健康保険料軽減届出書（産前・産後）（PDF：138KB）;https://www.city.adachi.tokyo.jp/documents/63333/sanzensango_kinyurei.pdf\n委任状（PDF：81KB）;https://www.city.adachi.tokyo.jp/documents/63333/sannzennsanngo_ininnjou.pdf\n関連情報\n国民健康保険料の均等割額の軽減・減免制度;https://www.city.adachi.tokyo.jp/kokuho/kurashi/hoken/hokenryougenmen.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "国民健康保険における産前産後期間保険料（税）免除",
+    "shortName": "産前産後期間の国民健康保険料の免除制度"
+  },
+  "localGovernmentLink": {
+    "title": "産前産後期間の国民健康保険料の免除制度",
+    "uri": "https://www.city.adachi.tokyo.jp/kokuho/sanzensango.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-01",
+    "updater": "足立区"
+  },
+  "procedureCounter": "国民健康保険課資格賦課担当　区役所北館2階2番窓口",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "窓口での手続き\n国民健康保険課資格賦課担当　区役所北館2階2番窓口\n\n※区民事務所では受付していません。\n\n郵送での手続き\n上記の手続きに必要なものを、国民健康保険課資格賦課担当へ郵送してください。\n※郵送代・印刷代・コピー代は自己負担となります。\n\n郵送先\n120-8510\n\n足立区中央本町一丁目17番1号\n\n足立区役所国民健康保険課資格賦課担当",
+  "procedurePeriod": {
+    "conditions": "出産予定日の6カ月前から届出ができます。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "国民健康保険料の均等割額の軽減・減免制度",
+      "uri": "https://www.city.adachi.tokyo.jp/kokuho/kurashi/hoken/hokenryougenmen.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": "免除対象期間\n単胎妊娠の方\n出産予定月または出産をした月の前月から4カ月\n\n多胎妊娠の方\n出産予定月または出産をした月の3カ月前から6カ月",
+  "summary": "国民健康保険の出産する被保険者に係る産前産後期間相当分（４ヶ月分）の均等割保険料と所得割保険料が免除されます。",
+  "support": {
+    "description": "出産（予定）した被保険者の産前産後期間相当分の国民健康保険料（均等割額・所得割額）が免除",
+    "materiallySupport": null,
+    "monetarySupport": "出産（予定）した被保険者の産前産後期間相当分の国民健康保険料（均等割額・所得割額）が免除"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003",
+      "015"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "令和5年11月1日以降に出産（予定）した方で、免除対象期間に足立区の国民健康保険に加入している方\n\n※妊娠期間が85日以上の方が対象です。\n\n※早産・流産・死産（人工中絶を含む）の場合も対象です。"
+  },
+  "updateDate": "2024-04-16",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

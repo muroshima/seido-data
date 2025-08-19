@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132144;国分寺市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子育て相談室",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132144",
+    "psid": "psid3.0+1000020132144+3+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-320-1181",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部子育て相談室",
+    "contactPhone": "042-321-1801",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊娠、出産、子育てまでをトータルで支える相談窓口です。\n保健師、栄養士、歯科衛生士、社会福祉士、保育士などの専門職が相談に応じます。\nお気軽にご相談ください。\n\n（注釈）子ども家庭支援センター（光町3－13－20）が移転し、保健センター（母子保健機能）と一緒になり、「こども家庭センター」（国分寺市いずみプラザ内）になりました。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "祝日・年末年始",
+  "implementationPeriod": {
+    "conditions": "令和７年4月に開設",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "国分寺市泉町2-3-8いずみプラザ",
+    "implementationName": "こども家庭センター"
+  },
+  "institutionName": {
+    "canonicalName": "国分寺市の子育てに関する相談",
+    "shortName": "こども家庭センター"
+  },
+  "localGovernmentLink": {
+    "title": "こども家庭センター",
+    "uri": "https://www.city.kokubunji.tokyo.jp/kurashi/1008608/1008665/1008683.html"
+  },
+  "odInformation": {
+    "content": "変更登録",
+    "updateDate": "2025/06/19",
+    "updater": "国分寺市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第22条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠、出産、子育てまでをトータルで支える相談窓口です。\n保健師、栄養士、歯科衛生士、社会福祉士、保育士などの専門職が相談に応じます。\nお気軽にご相談ください。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "18歳未満の子どもと保護者、プレママ・プレパパ、そして子育てに関わる人",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "18歳未満の子どもと保護者、プレママ・プレパパ、そして子育てに関わる人"
+  },
+  "updateDate": "2024-06-20",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "祝日を除く月～金曜日",
+    "fromHM": "08:30",
+    "toHM": "17:00"
+  }
+}

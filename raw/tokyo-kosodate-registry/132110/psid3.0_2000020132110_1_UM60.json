@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課相談支援担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+1+UM60"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市小川町2-1333　市役所2階",
+    "contactComment": "FAX：042-346-9200",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て支援課相談支援担当",
+    "contactPhone": "042-346-9628",
+    "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+    "zipCode": "1878701"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "母子家庭及び父子家庭 高等職業訓練促進給付金\n看護師、保育士、美容師、調理師などの資格を取得するために、養成機関で修業する方に対し、生活の負担軽減を図るため、一定期間給付金を支給します。\n\n就職に結びつく可能性の高い国家資格等の取得を目指す方が、養成機関で修業する期間、毎月給付金を支給します。また、該当者には修了後に、その後の費用負担を考慮し、修了支援給付金を支給するなど、自立のための資格取得を促進します。\n\n対象\n・所得が児童扶養手当支給水準の母または父で、過去にこの事業の給付を受けていない方\n\n・修業期間6月以上の養成機関で、国家資格等修得を目指している方\n\n・自立のために資格取得が必要と認められる方\n\n・原則、初めて国家資格を取得する方\n\n対象資格\n看護師、准看護師、介護福祉士、保育士、理学療法士、作業療法士、保健師、助産師、理容師、美容師、調理師、歯科衛生士、社会福祉士、製菓衛生師など（その他の資格についてはお問い合わせください）\n\n支給額(月額)\n住民税非課税世帯　100,000円（修業期間の最後の1年間は140,000円）\n\n住民税課税世帯　70,500円（修業期間の最後の1年間は110,500円）\n\n(注)上限は4年間です\n\n（修了支援給付金は非課税世帯50,000円、課税世帯25,000円）\n\nその他\n支給要件がありますので、詳しくは下記までお問い合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "高等職業訓練促進給付金",
+    "shortName": "高等職業訓練促進給付金"
+  },
+  "localGovernmentLink": {
+    "title": "母子家庭及び父子家庭 高等職業訓練促進給付金",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/049/049794.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-11",
+    "updater": "小平市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "支給要件がありますので、詳しくは下記までお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "看護師、保育士、美容師、調理師などの資格を取得するために、養成機関で修業する方",
+  "regulation": {
+    "regulationArticle": "第31条（母子家庭自立支援給付金）、第31条の10（父子家庭自立支援給付金）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭の母または父が、就業に結びつきやすい対象資格（看護師や介護福祉士など）を取得するため6月以上、養成機関で修業する場合に、修業期間中の生活の負担軽減のために高等職業訓練促進給付金を、また修業終了時に高等職業訓練修了支援給付金を支給します。",
+  "support": {
+    "description": "住民税非課税世帯　100,000円（修業期間の最後の1年間は140,000円）\n\n住民税課税世帯　70,500円（修業期間の最後の1年間は110,500円）\n\n(注)上限は4年間です\n\n（修了支援給付金は非課税世帯50,000円、課税世帯25,000円）",
+    "materiallySupport": null,
+    "monetarySupport": "住民税非課税世帯　100,000円（修業期間の最後の1年間は140,000円）\n\n住民税課税世帯　70,500円（修業期間の最後の1年間は110,500円）\n\n(注)上限は4年間です\n\n（修了支援給付金は非課税世帯50,000円、課税世帯25,000円）"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "・所得が児童扶養手当支給水準の母または父で、過去にこの事業の給付を受けていない方\n\n・修業期間6月以上の養成機関で、国家資格等修得を目指している方\n\n・自立のために資格取得が必要と認められる方\n\n・原則、初めて国家資格を取得する方"
+  },
+  "updateDate": "2019-09-06",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

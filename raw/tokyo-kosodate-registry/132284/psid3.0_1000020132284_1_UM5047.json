@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132284;あきる野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": null,
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132284",
+    "psid": "psid3.0+1000020132284+1+UM5047"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都あきる野市二宮350番地",
+    "contactComment": "保育係　内線2651,2652,FAX: 042-558-1117",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "あきる野市役所こども家庭部保育課",
+    "contactPhone": "042-558-1111",
+    "contactUrl": "https://www.city.akiruno.tokyo.jp/mailform/inquiry.cgi?so=22af43241abf39df0dfb75264ee23e1acc3215ef&ref=https%3A%2F%2Fwww.city.akiruno.tokyo.jp%2F0000015760.html",
+    "zipCode": "1970814"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "医療的ケアを必要とする児童について、市内の保育施設で受入れを行っています。\n医療的ケアを必要とする児童で、保育施設の利用を希望する方は、下記注意事項をご確認のうえ事前にご相談ください。\nなお、受入れを可能としている医療的ケアは以下の通りです。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "保育所等における医療的ケア児への支援",
+    "shortName": "医療的ケアを必要とする児童の保育施設の利用について"
+  },
+  "localGovernmentLink": {
+    "title": "医療的ケアを必要とする児童の保育施設の利用について",
+    "uri": "https://www.city.akiruno.tokyo.jp/0000015760.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/03/10",
+    "updater": "あきる野市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "・保育施設を利用するには、児童を家庭で保育することができないなど、保育を必要とする認定の要件（就労・疾病等）が必要となります。\n・保育施設への入所申込みの手順は下の資料をご参考ください。\n※下の資料の手順は、医療的ケアの種類や児童の病状等により各期間が異なる場合がございます。まずは、保育課へご相談ください。\n医療的ケア児受入れ手順について;医療的ケア児受入れ手順について (ファイル名：iryoutekikeaukeiretejun.pdf サイズ：68.97KB);https://www.city.akiruno.tokyo.jp/cmsfiles/contents/0000015/15760/iryoutekikeaukeiretejun.pdf",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条第1項",
+    "regulationName": "医療的ケア児及びその家族に対する支援に関する法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育所等において看護師等を配置し、医療的ケア児の受入れ体制を整備しております。",
+  "support": {
+    "description": "受入れ可能な医療的ケア\n1．喀痰吸引（口腔内・鼻腔内・気管カニューレ内部）\n2．経管栄養（経鼻経管栄養・胃ろう）\n3．導尿\n4．血糖値測定・インスリン注射\n5．酸素療法（酸素カヌラ、酸素マスク）\nただし、医療的ケア児の病状や受入れ実施施設の受入れ状況等により、受入れができない場合があります。",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2023/11/15",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132250;稲城市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "市民部　保険年金課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132250",
+    "psid": "psid3.0+2000020132250+1+UM19"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "稲城市東長沼2111番地",
+    "contactComment": "ファクス：042-377-4781",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "市民部　保険年金課",
+    "contactPhone": "042-378-2111",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "出産育児一時金\n更新日：2023年4月1日\n稲城市の国民健康保険に加入している方が出産したときに、出産育児一時金として50万円が支給されます。なお、妊娠12週（85日）以降であれば、死産や流産でも支給されます。\n注釈：令和5年3月31日までの出産は42万円となります。\n\n支給条件\n出産日時点で稲城市国民健康保険に加入していることが条件となります。\nただし、社会保険に被保険者本人として1年以上加入していた方が、その保険をやめてから6カ月以内に出産した場合は、加入していた保険から支給されます。\n注釈：出産の翌日から2年を過ぎると支給されませんので、ご注意ください。\n\n直接支払制度\n平成21年10月から出産育児一時金の支給方法が国民健康保険から直接医療機関等へ支払われる制度になりました。\n出産育児一時金の直接支払制度を利用しなかった場合、または出産費用が50万円未満であった場合は、出産育児一時金の支給申請が必要となります。\n出産費用が50万円を超える場合は、国民健康保険への申請は必要ありません。差額を医療機関等にお支払いください。\n\n申請に必要なもの\n出産者の被保険者証\n出産育児一時金直接払制度の利用に関する確認書\n出産費用の領収書または請求書\n振り込み先が分かるもの\n死産や流産の場合はそれを証明できる医師の証明書\n\n出産育児一時金支給申請書（PDF：417KB）;https://www.city.inagi.tokyo.jp/kenko/kokuho/ichijikin.files/shussanikujiitijikn_sikyuusinseisho.pdf\n郵送申請の場合は、記入済の申請書と上記の書類を添付してください。\n書類不備等でご連絡する場合があるので、必ず電話番号をご記入ください。\n\n受取代理制度\n出産される被保険者が、出産する医療機関等（厚生労働省に届出をおこない認可された医療機関等に限る）を受取代理人とし出産育児一時金を事前に申請し、50万円を限度とした出産費用の額を市から直接医療機関等へ支払う制度です。出産予定日まで2か月以内に事前申請が必要です。\n受取代理制度を実施している医療機関等は、年間分娩件数が100件以内、分娩にかかる収入の割合が50％が目安として、厚生労働省に届出をおこない認可されています。\n実施対象医療機関は厚生労働省のホームページをご確認ください。\n出産育児一時金の受取代理制度について（厚生労働省ホームページ）;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/shussan/index.html?msclkid=d47c457fc6b511ecb6f36c3771b62f57",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出産育児一時金",
+    "shortName": "出産育児一時金"
+  },
+  "localGovernmentLink": {
+    "title": "出産育児一時金",
+    "uri": "https://www.city.inagi.tokyo.jp/kenko/kokuho/ichijikin.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "稲城市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "直接支払制度\n平成21年10月から出産育児一時金の支給方法が国民健康保険から直接医療機関等へ支払われる制度になりました。出産育児一時金の直接支払制度を利用しなかった場合、または出産費用が50万円未満であった場合は、出産育児一時金の支給申請が必要となります。\n出産費用が50万円を超える場合は、国民健康保険への申請は必要ありません。差額を医療機関等にお支払いください。\n\n申請に必要なもの\n出産者の被保険者証\n出産育児一時金直接払制度の利用に関する確認書\n出産費用の領収書または請求書\n振り込み先が分かるもの\n死産や流産の場合はそれを証明できる医師の証明書\n出産育児一時金支給申請書（PDF：417KB）;https://www.city.inagi.tokyo.jp/kenko/kokuho/ichijikin.files/shussanikujiitijikn_sikyuusinseisho.pdf\n郵送申請の場合は、記入済の申請書と上記の書類を添付してください。\n書類不備等でご連絡する場合があるので、必ず電話番号をご記入ください。\n\n受取代理制度\n出産される被保険者が、出産する医療機関等（厚生労働省に届出をおこない認可された医療機関等に限る）を受取代理人とし出産育児一時金を事前に申請し、50万円を限度とした出産費用の額を市から直接医療機関等へ支払う制度です。出産予定日まで2か月以内に事前申請が必要です。\n受取代理制度を実施している医療機関等は、年間分娩件数が100件以内、分娩にかかる収入の割合が50％が目安として、厚生労働省に届出をおこない認可されています。\n実施対象医療機関は厚生労働省のホームページをご確認ください。\n出産育児一時金の受取代理制度について（厚生労働省ホームページ）;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/shussan/index.html?msclkid=d47c457fc6b511ecb6f36c3771b62f57",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条(第二節　その他の給付)第6条",
+    "regulationName": "国民健康保険法、稲城市国民健康保険条例"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民健康保険に加入している方が出産したときは、その世帯主からの申請により、出産育児一時金を支給します。原則として直接支払制度により、医療機関に直接お支払いします。\nなお、直接支払制度に対応していない医療機関などで出産された場合も、「受取代理制度」や出産後の申請により、出産育児一時金の支給を受けることができます。",
+  "support": {
+    "description": "稲城市の国民健康保険に加入している方が出産したときに、出産育児一時金として50万円が支給されます。なお、妊娠12週（85日）以降であれば、死産や流産でも支給されます。\n注釈：令和5年3月31日までの出産は42万円となります。\n\n支給条件\n出産日時点で稲城市国民健康保険に加入していることが条件となります。\nただし、社会保険に被保険者本人として1年以上加入していた方が、その保険をやめてから6カ月以内に出産した場合は、加入していた保険から支給されます。\n注釈：出産の翌日から2年を過ぎると支給されませんので、ご注意ください。",
+    "materiallySupport": null,
+    "monetarySupport": "稲城市の国民健康保険に加入している方が出産したときに、出産育児一時金として50万円が支給されます。なお、妊娠12週（85日）以降であれば、死産や流産でも支給されます。\n注釈：令和5年3月31日までの出産は42万円となります。\n\n支給条件\n出産日時点で稲城市国民健康保険に加入していることが条件となります。\nただし、社会保険に被保険者本人として1年以上加入していた方が、その保険をやめてから6カ月以内に出産した場合は、加入していた保険から支給されます。\n注釈：出産の翌日から2年を過ぎると支給されませんので、ご注意ください。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003",
+      "015"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "稲城市の国民健康保険に加入している方"
+  },
+  "updateDate": "2023-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

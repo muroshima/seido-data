@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "130001;東京都",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉局子供・子育て支援部 家庭支援課 母子保健担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020130001",
+    "psid": "psid3.0+8000020130001+2+UM22"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子供・子育て支援部 家庭支援課 母子保健担当",
+    "contactPhone": "03-5320-4372",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "バースデーサポート　＜任意事業＞\nアンケートの実施と家事・育児パッケージの配布や、交流会の開催により、家庭状況の把握を強化します。\n【支援対象】1歳前後又は2歳前後の子供を育てる家庭\n　【支援内容】家事・育児パッケージ：第1子1万円分、第2子2万円分、第3子以降3万円分\n　　　　　　　※令和5年4月1日以降に子供が産まれた家庭は第1子6万円分、第2子7万円分、第3子以降8万円分",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関する金銭的支援",
+    "shortName": "バースデーサポート"
+  },
+  "localGovernmentLink": {
+    "title": "とうきょうママパパ応援事業",
+    "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/shussan/tokyo-mamapapa.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-11-08",
+    "updater": "東京都"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": "令和5年4月1日以降に子供が産まれた家庭は第1子6万円分、第2子7万円分、第3子以降8万円分",
+  "summary": "各区市町村では、アンケート等の実施とともに、子育てを応援する都のメッセージを付けた家事・育児パッケージをお渡ししています.",
+  "support": {
+    "description": "家事・育児パッケージ：第1子1万円分、第2子2万円分、第3子以降3万円分\n　　　　　　　※令和5年4月1日以降に産まれた家庭は第1子6万円分、第2子7万円分、第3子以降8万円分",
+    "materiallySupport": null,
+    "monetarySupport": "家事・育児パッケージ：第1子1万円分、第2子2万円分、第3子以降3万円分\n　　　　　　　※令和5年4月1日以降に産まれた家庭は第1子6万円分、第2子7万円分、第3子以降8万円分"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": "1歳前後又は2歳前後の子供を育てる家庭",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "1歳前後又は2歳前後の子供を育てる家庭"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

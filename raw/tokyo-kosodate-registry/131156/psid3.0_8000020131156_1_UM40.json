@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131156;杉並区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "各福祉事務所",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131156",
+    "psid": "psid3.0+8000020131156+1+UM40"
+  },
+  "belongings": "申し込みに必要な書類\n 助産施設入所申込書（福祉事務所保管） に次の書類の写しを添付してください。\n1.母子健康手帳\n 2.健康保険証\n 3.所属世帯全員の区市町村民税の額を証明する書類（省略できる場合もあります）\n4.外国籍の方は在留カード等\n 5.その他必要な書類",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "荻窪事務所,高円寺事務所,高井戸事務所",
+    "contactPhone": "03-3398-9104,03-5306-2611,03-3332-7221",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "出産費用の助成（入院助産）\nページ番号1004680　 更新日 令和6年4月1日 印刷\n\n経済的理由で入院による出産ができない妊産婦の方を対象に、指定の病院や助産施設での出産費用を一部助成します。ただし、所得制限及び一部負担金を求める場合があります。\n\nご希望の方は、早めに管轄の福祉事務所にご相談ください。\n\n助成が受けられる方\n以下のいずれかに当てはまる方\n\n生活保護法による被保護世帯及び、中国残留邦人等の円滑な帰国の促進及び永住帰国後の自立の支援に関する法律による支援給付受給世帯\n当該年度分（4月から6月までの申し込みについては前年度分）の区市町村民税が非課税の世帯\n当該年度分（4月から6月までの申し込みについては前年度分）の区市町村民税の所得割額が19,000円以下の世帯。ただし、健康保険法等の出産一時金（出産育児一時金等の出産に関する給付を受けることができる額）が488,000円以上の場合を除く。\n申し込みに必要な書類\n助産施設入所申込書（福祉事務所保管） に次の書類の写しを添付してください。\n\n母子健康手帳\n健康保険証\n所属世帯全員の区市町村民税の額を証明する書類（省略できる場合もあります）\n外国籍の方は在留カード等\nその他必要な書類",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "助産制度",
+    "shortName": "出産費用の助成（入院助産）"
+  },
+  "localGovernmentLink": {
+    "title": "出産費用の助成（入院助産）",
+    "uri": "https://www.city.suginami.tokyo.jp/guide/kosodate/ninshin/1004680.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "杉並区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "ご希望の方は、早めに管轄の福祉事務所にご相談ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第22条",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "経済的理由で入院による出産ができない妊産婦の方を対象に、指定の病院や助産施設での出産費用を一部助成します。ただし、所得制限及び一部負担金を求める場合があります。\nご希望の方は、早めに管轄の福祉事務所にご相談ください。",
+  "support": {
+    "description": "指定の病院や助産施設での出産費用を一部助成します。ただし、所得制限及び一部負担金を求める場合があります。",
+    "materiallySupport": null,
+    "monetarySupport": "指定の病院や助産施設での出産費用を一部助成します。ただし、所得制限及び一部負担金を求める場合があります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "以下のいずれかに当てはまる方\n 1.生活保護法による被保護世帯及び、中国残留邦人等の円滑な帰国の促進及び永住帰国後の自立の支援に関する法律による支援給付受給世帯 \n2.当該年度分（4月から6月までの申し込みについては前年度分）の区市町村民税が非課税の世帯\n 3.当該年度分（4月から6月までの申し込みについては前年度分）の区市町村民税の所得割額が19,000円以下の世帯。ただし、健康保険法等の出産一時金（出産育児一時金等の出産に関する給付を受けることができる額）が488,000円以上の場合を除く。 "
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

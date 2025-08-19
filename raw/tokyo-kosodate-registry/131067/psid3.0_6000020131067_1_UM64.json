@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131067;台東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "台東保健所　保健サービス課母子成人保健担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131067",
+    "psid": "psid3.0+6000020131067+1+UM64"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "台東保健所　保健サービス課母子成人保健担当",
+    "contactPhone": "03-3847-9447",
+    "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080700",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "対象者となる方\n次の2つの要件を両方満たす方が対象となります。\n（1）申請者が都内に在住（住民登録や外国人登録がされていること）している満18歳未満の方\n　（ただし、18歳に達した時点で小児慢性特定疾病医療受給者証を有し、かつ引き続き有効な医療受給者証を有する方に限り満20歳未満まで延長可能）\n\n注　18歳以上の都外からの転入者の場合、他自治体の医療受給者証を有し、その有効期間内の転入の場合のみ申請可能となりますので、速やかに御申請ください。\n\n（2）小児慢性特定疾病医療支援事業の対象疾病にかかっており、かつ、別に定める認定基準に該当する方\n　対象疾病及びその認定基準については、「児童福祉法第6条の2第1項の規定に基づき厚生労働大臣が定める小児慢性特定疾病及び同条第2項の規定に基づき当該小児慢性特定疾病ごとに厚生労働大臣が定める疾病の状態の程度」（厚生労働省告示第475号）により一定の基準が設けられています。\n\n手続方法\n　申請書類について\n　　台東保健所保健サービス課で申請書類をご用意しています。\n　　郵送をご希望される場合は、お問い合わせ先までご連絡ください。\n\n　申請手続きについて\n　　申請は、台東保健所保健サービス課窓口または郵送にて受け付けています。\n　　なお、手続きが遅れた場合は、医療費の助成が受けられないことがありますので、ご注意ください。\n\n　　詳しい制度概要や対象者、申請時の必要書類等は下記の東京都福祉局ホームページをご覧ください。\n\n東京都福祉局ホームページ（別ウィンドウで開きます）（外部サイト）;http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/josei/syoman/top.html\n\n　申請窓口および郵送先\n　　〒110－0015\n　　　台東区東上野4丁目22番8号\n　　　台東保健所　保健サービス課　母子成人保健担当（台東保健所2階）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "小児慢性特定疾病医療費の助成",
+    "shortName": "東京都の小児慢性特定疾病医療費助成制度"
+  },
+  "localGovernmentLink": {
+    "title": "東京都の小児慢性特定疾病医療費助成制度",
+    "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/teate_josei/iryohijosei/shonimanseisikkan.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "台東区"
+  },
+  "procedureCounter": "台東保健所　保健サービス課　母子成人保健担当（台東保健所2階）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請書類について\n　　台東保健所保健サービス課で申請書類をご用意しています。\n　　郵送をご希望される場合は、お問い合わせ先までご連絡ください。\n\n　申請手続きについて\n　　申請は、台東保健所保健サービス課窓口または郵送にて受け付けています。\n　　なお、手続きが遅れた場合は、医療費の助成が受けられないことがありますので、ご注意ください。\n\n　　詳しい制度概要や対象者、申請時の必要書類等は下記の東京都福祉局ホームページをご覧ください。\n東京都福祉局ホームページ（別ウィンドウで開きます）（外部サイト）;http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/josei/syoman/top.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第19条の2～第19条の8",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "東京都福祉局ホームページ（別ウィンドウで開きます）（外部サイト）",
+      "uri": "http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/josei/syoman/top.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子どもの慢性疾病のうち、治療期間が長く、医療費負担が高額となる疾病について、治療方法の確立と普及、患者家庭の医療費の負担軽減につながるよう、医療費の自己負担分を補助しています。",
+  "support": {
+    "description": "小児慢性特定疾病医療費助成制度",
+    "materiallySupport": null,
+    "monetarySupport": "小児慢性特定疾病医療費助成"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "満18歳未満の方\n　（ただし、18歳に達した時点で小児慢性特定疾病医療受給者証を有し、かつ引き続き有効な医療受給者証を有する方に限り満20歳未満まで延長可能）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次の2つの要件を両方満たす方が対象となります。\n（1）申請者が都内に在住（住民登録や外国人登録がされていること）している満18歳未満の方\n　（ただし、18歳に達した時点で小児慢性特定疾病医療受給者証を有し、かつ引き続き有効な医療受給者証を有する方に限り満20歳未満まで延長可能）\n\n注　18歳以上の都外からの転入者の場合、他自治体の医療受給者証を有し、その有効期間内の転入の場合のみ申請可能となりますので、速やかに御申請ください。\n\n（2）小児慢性特定疾病医療支援事業の対象疾病にかかっており、かつ、別に定める認定基準に該当する方\n　対象疾病及びその認定基準については、「児童福祉法第6条の2第1項の規定に基づき厚生労働大臣が定める小児慢性特定疾病及び同条第2項の規定に基づき当該小児慢性特定疾病ごとに厚生労働大臣が定める疾病の状態の程度」（厚生労働省告示第475号）により一定の基準が設けられています。"
+  },
+  "updateDate": "2020-04-27",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

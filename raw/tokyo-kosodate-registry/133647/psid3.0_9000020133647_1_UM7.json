@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "133647;神津島村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020133647",
+    "psid": "psid3.0+9000020133647+1+UM7"
+  },
+  "belongings": "・母子手帳（健診欄に島外の病院名印が押してあるもの）\n・医療機関が発行した領収書 (コピー不可) \n・赤ちゃんのエコー写真\n・未使用の受診票\n・印鑑 （スタンプ式不可）\n・健康保険証\n・住民票 （出産支援特別助成金を既に申請している場合は不要。）\n・振込先の口座番号等が確認できるもの\n※通帳もしくはキャッシュカード （七島信用組合、ゆうちょ銀行のみ）\n■申請先\n・保健センター",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健センター",
+    "contactPhone": "04992-8-0010",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "都外妊婦健診の助成について①\n里帰り出産等のために、都内の契約医療機関外で妊婦健康診査を受診したために、妊婦健康診査受診票等が使用できなかった方に対して、妊婦健康診査費用の一部を助成します。\n■対象となる要件\n・助成金の申請を予定しているのは、母子手帳交付後の妊婦健診であること\n・里帰り出産等で、都内契約医療機関以外で妊婦健診を受診し\nたために、「妊婦健康診査受診票」「妊婦超音波検査受診票」「妊婦子宮頸がん検診受診票」が使用できなかった\n・妊婦健診受診日現在、神津島村に住民登録がある\n■対象外となる要件\n・都内契約医療機関を受診した分\n・保険診療分\n・文書料や予防接種料等\n■申請に必要なもの\n・母子手帳（健診欄に島外の病院名印が押してあるもの）\n・医療機関が発行した領収書 (コピー不可) \n・赤ちゃんのエコー写真\n・未使用の受診票\n・印鑑 （スタンプ式不可）\n・健康保険証\n・住民票 （出産支援特別助成金を既に申請している場合は不要。）\n・振込先の口座番号等が確認できるもの\n※通帳もしくはキャッシュカード （七島信用組合、ゆうちょ銀行のみ）\n■申請先\n・保健センター\n都外妊婦健診の助成について②\n■申請方法\n・この申請は出産支援特別助成金と違い、その都度ではなく、まとめての申請ができます。\n・健診を受診した最後の日及び出産後半年以内に申請をして下さい。\n☆使用しなかった券は保健センターにご返却ください。\n助成金の上限額（２０２1 年度）\n○１枚目の青い受診票（1 回目）→ １０,８５０円\n○２枚目以降の黄色受診票（2 回目～14 回目）→ ５,０７０円\n○超音波検査受診票（4 枚）→ ５,３００円\n○子宮頸がん検診受診票（1 枚）→ ３,４００円",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "里帰り出産時の妊婦健康診査の費用助成",
+    "shortName": "都外妊婦健診の助成"
+  },
+  "localGovernmentLink": {
+    "title": "お母さんになる準備",
+    "uri": "https://www.vill.kouzushima.tokyo.jp/images/2023/03/20210318-jyunbi.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-08-19",
+    "updater": "神津島村"
+  },
+  "procedureCounter": "保健センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "・この申請は出産支援特別助成金と違い、その都度ではなく、まとめての申請ができます。\n・健診を受診した最後の日及び出産後半年以内に申請をして下さい。\n☆使用しなかった券は保健センターにご返却ください。",
+  "procedurePeriod": {
+    "conditions": "健診を受診した最後の日及び出産後半年以内に申請をして下さい。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "神津島村にお住まいの妊婦さんが、里帰り出産などで神津島村の委託医療機関以外の病院や助産所で妊婦健康診査を受診した場合、その健診にかかった費用の一部を償還払い（後払い）します。",
+  "support": {
+    "description": "都内の契約医療機関外で妊婦健康診査を受診したために、妊婦健康診査受診票等が使用できなかった方に対して、妊婦健康診査費用の一部を助成します。\n助成金の上限額（２０２1 年度）\n○１枚目の青い受診票（1 回目）→ １０,８５０円\n○２枚目以降の黄色受診票（2 回目～14 回目）→ ５,０７０円\n○超音波検査受診票（4 枚）→ ５,３００円\n○子宮頸がん検診受診票（1 枚）→ ３,４００円",
+    "materiallySupport": null,
+    "monetarySupport": "都内の契約医療機関外で妊婦健康診査を受診したために、妊婦健康診査受診票等が使用できなかった方に対して、妊婦健康診査費用の一部を助成します。\n助成金の上限額（２０２1 年度）\n○１枚目の青い受診票（1 回目）→ １０,８５０円\n○２枚目以降の黄色受診票（2 回目～14 回目）→ ５,０７０円\n○超音波検査受診票（4 枚）→ ５,３００円\n○子宮頸がん検診受診票（1 枚）→ ３,４００円"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "■対象となる要件\n・助成金の申請を予定しているのは、母子手帳交付後の妊婦健診であること\n・里帰り出産等で、都内契約医療機関以外で妊婦健診を受診したために、「妊婦健康診査受診票」「妊婦超音波検査受診票」「妊婦子宮頸がん検診受診票」が使用できなかった\n・妊婦健診受診日現在、神津島村に住民登録がある\n■対象外となる要件\n・都内契約医療機関を受診した分\n・保険診療分\n・文書料や予防接種料等"
+  },
+  "updateDate": "2021-03-18",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

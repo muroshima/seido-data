@@ -1,0 +1,143 @@
+{
+  "area": {
+    "areaCode": "132144;国分寺市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "市民生活部",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132144",
+    "psid": "psid3.0+1000020132144+1+UM3"
+  },
+  "belongings": "出生届（届書右半分の出生証明書は、医師又は助産師による記入が必要です）\n母子健康手帳",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-325-1380開庁時間：午前8時30分から午後5時\n閉庁日：土曜日、日曜日、祝日、年末・年始",
+    "contactEmail": null,
+    "contactEx": "307",
+    "contactName": "市民生活部　市民課　記録係",
+    "contactPhone": "042-325-0111",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "届出人\n生まれたお子さんの父・母\n（父母連名で届出することもできます。）\n（注釈）父母連名の場合、お二人の署名、生年月日を記入してください。\n同居者、出産に立ち会った医師・助産師（父母が届出をすることができないときは、お問い合わせください。）\n届出地\nお子さんの出生地、本籍地または届出人の所在地の市区町村役場\n\n届出期間\n生まれた日を含めて14日以内\n\n届出に必要なもの\n出生届（届書右半分の出生証明書は、医師又は助産師による記入が必要です）\n母子健康手帳\n出生届書記載例（1）　嫡出子の場合　（外部リンク）;https://www.moj.go.jp/content/001295267.pdf\n出生届書記載例（2）　嫡出でない子の場合　（外部リンク）;https://www.moj.go.jp/content/001295268.pdf\n注意事項\nお子さんの名に使える文字\nお子さんの名に使える文字は、次のものに限られます。\n\n常用漢字表の通用字体、人名用漢字表に掲げられた漢字\n片仮名または平仮名（変体仮名を除く。ただし、「ヰ」、「ヱ」、「ヲ」、「ゐ」、「ゑ」、「を」は使えます。）\n記号（直前の音を延引する場合に限り「ー」、直前の文字の繰り返しに用いる場合に限り「ゝ」、「ゞ」、「々」）\nお子さんの名に使える漢字一覧表　（外部リンク）;https://www.moj.go.jp/MINJI/minji86.html\n出生届にともなうその他の手続き\n出生届を出した後、住所地で次の手続きが必要な場合があります。\n\n乳幼児医療費助成の申請\n児童手当の申請\n国民健康保険の加入\n乳幼児医療証について;https://www.city.kokubunji.tokyo.jp/kurashi/kodomo/teate/1012498/1001480.html\n児童手当について;https://www.city.kokubunji.tokyo.jp/kurashi/kodomo/teate/1012493/1001478.html\n国民健康保険について;https://www.city.kokubunji.tokyo.jp/kurashi/1011810/1011822/1001028.html\n執務時間外に提出した場合\n当直室で出生届を提出された場合、その場で母子健康手帳に出生届出済みの証明をすることができません。そのため、お手数ですが、後日母子健康手帳をお持ちのうえ、市役所第1庁舎1階の市民課窓口係まで、ご来庁をお願いいたします。\n\n外国でお子さんが生まれた場合\n外国でお子さんが生まれた場合は、出生（登録）証明書と日本語訳文（訳者明記）を添付のうえ、出生届を提出してください。その国の日本大使館や総領事館に届出することもできます。\n3か月以内に出生届とともに国籍留保の届出をしないと、日本国籍を失う場合がありますので、ご注意ください。\n国によっては手続きの内容が異なりますので、詳しくは大使館や総領事館に直接お問い合わせください。\n海外での出生について　（外部リンク）;https://www.city.kokubunji.tokyo.jp/kurashi/1011810/1011822/1001028.html\nその他\n届出人欄には必ず届出人ご本人の署名が必要です。 来庁される使者（代理人）のかたは署名できません。\n正当な理由がなく届出期間を過ぎた場合は、簡易裁判所によって過料に処されることがあります。（戸籍法第135条）\n届出完了までにお時間がかかる場合がございます。時間に余裕をもってご来庁ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "土曜日、日曜日、祝日、年末・年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "お子さんの出生地、本籍地または届出人の所在地の市区町村役場"
+  },
+  "institutionName": {
+    "canonicalName": "出生届",
+    "shortName": "出生届"
+  },
+  "localGovernmentLink": {
+    "title": "赤ちゃんが生まれたときは（出生届）",
+    "uri": "https://www.city.kokubunji.tokyo.jp/kurashi/1010836/1010855/1000819.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-11",
+    "updater": "国分寺市"
+  },
+  "procedureCounter": "お子さんの出生地、本籍地または届出人の所在地の市区町村役場",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "届出",
+  "procedurePeriod": {
+    "conditions": "生まれた日を含めて14日以内",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "届出人\n生まれたお子さんの父・母\n（父母連名で届出することもできます。）\n（注釈）父母連名の場合、お二人の署名、生年月日を記入してください。\n同居者、出産に立ち会った医師・助産師（父母が届出をすることができないときは、お問い合わせください。）",
+  "regulation": {
+    "regulationArticle": "第49条、第52条",
+    "regulationName": "戸籍法"
+  },
+  "relatedLink": [
+    {
+      "title": "お子さんの名に使える漢字一覧表　（外部リンク）",
+      "uri": "http://www.moj.go.jp/MINJI/minji86.html"
+    },
+    {
+      "title": "児童手当について",
+      "uri": "https://www.city.kokubunji.tokyo.jp/kurashi/kodomo/teate/1012493/1001478.html"
+    },
+    {
+      "title": "海外での出生について　（外部リンク）",
+      "uri": "http://www.moj.go.jp/MINJI/minji15.html"
+    },
+    {
+      "title": "国民健康保険について",
+      "uri": "https://www.city.kokubunji.tokyo.jp/kurashi/1011810/1011822/1001028.html"
+    },
+    {
+      "title": "乳幼児医療証について",
+      "uri": "https://www.city.kokubunji.tokyo.jp/kurashi/kodomo/teate/1012498/1001480.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "出生届とは、生まれてきたお子さんの氏名等を戸籍に記載するための手続きです。\n戸籍に記載されることで、生まれてきたお子さんの親族関係が公的に証明されます。",
+  "support": {
+    "description": "母子健康手帳に出生届出済みの証明",
+    "materiallySupport": "母子健康手帳に出生届出済みの証明",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "届出人\n生まれたお子さんの父・母\n（父母連名で届出することもできます。）\n（注釈）父母連名の場合、お二人の署名、生年月日を記入してください。\n同居者、出産に立ち会った医師・助産師（父母が届出をすることができないときは、お問い合わせください。）"
+  },
+  "updateDate": "2022-05-27",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

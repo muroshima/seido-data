@@ -1,0 +1,133 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課手当助成担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+1+UM63"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市小川町2-1333　市役所2階",
+    "contactComment": "FAX：042-346-9200",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て支援課手当助成担当",
+    "contactPhone": "042-346-9544",
+    "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+    "zipCode": "1878701"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "小平市心身障害児福祉手当のご案内\n心身に障がいのある２０歳未満の児童を養育している方に、手当が支給されます。所得制限があります。\n\n※手当の申請、各種手続き、申請書のダウンロードはこのページ下の関連リンクを参照してください。\n\n対象となる方\n小平市に住所のある、次のいずれかに該当する２０歳未満の児童を養育している方。\n\nなお、療養などで児童の住所が小平市以外の場合でも対象となることがあります。\n\n[1]　「身体障害者手帳」　１から４級\n\n[2]　「愛の手帳」　１から４度\n\n[3]　脳性まひ\n\n[4]　進行性筋いしゅく症\n\n[5]　指定難病または特殊疾病\n\nア. 国が指定する難病にかかっている。\n\nイ. 東京都が医療費助成の対象とする難病等（特殊疾病）にかかっている。\n\nウ. アまたはイに対応する小児慢性特定疾病にかかっている。\n\n対象とならない方\n保護者の所得が制限額を超えている\n児童が規定の施設に入所している\n児童育成手当の障害手当を受けている\n手当額\n障がいなどの程度により決定します。\n\n「身体障害者手帳」１・２級、「愛の手帳」１から３度、脳性まひ、進行性筋いしゅく症の方\n月額　７，７５０円\n\n「身体障害者手帳」３・４級、「愛の手帳」４度、指定難病または特殊疾病の方\n保護者の所得により、月額　７，７５０円　または　３，８００円\n\n所得制限額\n「身体障害者手帳」１から２級、「愛の手帳」１から３度、脳性まひ、進行性筋いしゅく症の方\n所得制限額表\n|扶養親族等の数（人）|制限額（円）|\n|:----|:----|\n|０|４，７３５，０００|\n|１|５，１７０，０００|\n|２|５，６０５，０００|\n|３|６，０４０，０００|\n||１人増すごとに、４３５，０００円加算|\n\n「身体障害者手帳」３から４級、「愛の手帳」４度、指定難病または特殊疾病の方\n手当額７，７５０円の所得制限額表\n|扶養親族等の数（人）|制限額（円）|\n|:----|:----|\n|０|３，６０４，０００|\n|１|３，９８４，０００|\n|２|４，３６４，０００|\n|３|４，７４４，０００|\n||１人増すごとに３８０，０００円加算|\n\n手当額３，８００円の所得制限額表\n|扶養親族等の数（人）|制限額（円）|\n|:----|:----|\n|０|４，７３５，０００|\n|１|５，１７０，０００|\n|２|５，６０５，０００|\n|３|６，０４０，０００|\n||１人増すごとに４３５，０００円加算|\n\n関連リンク\n小平市心身障害児福祉手当　申請、各種手続き;https://www.city.kodaira.tokyo.jp/kurashi/010/010073.html小平市心身障害児福祉手当　申請書のダウンロード;https://www.city.kodaira.tokyo.jp/kurashi/010/010077.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "障害児福祉手当",
+    "shortName": "小平市心身障害児福祉手当"
+  },
+  "localGovernmentLink": {
+    "title": "小平市心身障害児福祉手当のご案内",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/010/010071.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-11",
+    "updater": "小平市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "小平市心身障害児福祉手当　申請、各種手続き;https://www.city.kodaira.tokyo.jp/kurashi/010/010073.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "小平市に住所のある、次のいずれかに該当する２０歳未満の児童を養育している方。\n\nなお、療養などで児童の住所が小平市以外の場合でも対象となることがあります。\n\n[1]　「身体障害者手帳」　１から４級\n\n[2]　「愛の手帳」　１から４度\n\n[3]　脳性まひ\n\n[4]　進行性筋いしゅく症\n\n[5]　指定難病または特殊疾病\n\nア. 国が指定する難病にかかっている。\n\nイ. 東京都が医療費助成の対象とする難病等（特殊疾病）にかかっている。\n\nウ. アまたはイに対応する小児慢性特定疾病にかかっている。",
+  "regulation": {
+    "regulationArticle": "第3章",
+    "regulationName": "特別児童扶養手当等の支給に関する法律"
+  },
+  "relatedLink": [
+    {
+      "title": "小平市心身障害児福祉手当　申請、各種手続き",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/010/010073.html"
+    },
+    {
+      "title": "小平市心身障害児福祉手当　申請書のダウンロード",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/010/010077.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "身体または精神に重度の障がいのある20歳未満の方で、日常生活において常時介護を必要とする方に対し、手当が支給されます。",
+  "support": {
+    "description": "障がいの程度に応じて支給額が変わります。\n\n（令和6年4月分の手当からの月額）\n\n特別児童扶養手当　等級1級\n支給額55,350円\n\n特別児童扶養手当　等級2級\n支給額36,860円",
+    "materiallySupport": null,
+    "monetarySupport": "障がいの程度に応じて支給額が変わります。\n\n（令和6年4月分の手当からの月額）\n\n特別児童扶養手当　等級1級\n支給額55,350円\n\n特別児童扶養手当　等級2級\n支給額36,860円"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "２０歳未満の児童",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "小平市に住所のある、次のいずれかに該当する２０歳未満の児童を養育している方。\n\nなお、療養などで児童の住所が小平市以外の場合でも対象となることがあります。\n\n[1]　「身体障害者手帳」　１から４級\n\n[2]　「愛の手帳」　１から４度\n\n[3]　脳性まひ\n\n[4]　進行性筋いしゅく症\n\n[5]　指定難病または特殊疾病\n\nア. 国が指定する難病にかかっている。\n\nイ. 東京都が医療費助成の対象とする難病等（特殊疾病）にかかっている。\n\nウ. アまたはイに対応する小児慢性特定疾病にかかっている。"
+  },
+  "updateDate": "2017-05-12",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

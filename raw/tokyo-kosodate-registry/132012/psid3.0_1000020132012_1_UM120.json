@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132012;八王子市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部障害者福祉課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132012",
+    "psid": "psid3.0+1000020132012+1+UM120"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "八王子市元本郷町三丁目24番1号",
+    "contactComment": "ファックス：042-623-2444",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部障害者福祉課（福祉・自立支援医療担当）",
+    "contactPhone": "042-620-7245",
+    "contactUrl": null,
+    "zipCode": "1928501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "医療的ケア児等コーディネーター事業について\n更新日：令和6年7月8日 ページID：P0031368 印刷する\n医療的ケア児等コーディネーター事業\n医療的ケア児等コーディネーター事業とは\n　医療的ケア児等やそのご家族が保健・医療・福祉・その他関連分野の連携したサポートを受け、心身の状況とその成長に応じた適切な支援を受けることにより、住み慣れた地域で安心して生活していくための支援体制を推進していくことを目的とします。\n支援内容\n1 相談窓口の設置\n　医療的ケア児等やそのご家族からの相談を受け付け、状況と成長に応じた必要な支援機関の紹介や調整を行います。\n\n2 関係機関との連絡調整、地域での支援体制づくり\n　関係機関と連携を取り、地域全体で包括的に支援ができる体制を整えます。\n　そのために、関係機関からの支援に係る相談に乗り、状況に応じて助言します。\n　また、関係機関へ医療的ケア児支援に必要な知識習得を目的とした研修を行い、地域資源の発掘や能力の向上を図ります。\n対象者\n　1　市内在住で日常的に医療的ケアを必要とするお子さんとその家族\n　2　医療的ケア児等の支援を行う関係機関等\n相談先及び開所日時\n相談先\n　社会福祉法人日本心身障害児協会 島田療育センターはちおうじ\n　電話番号：070－2822－3315\n\n　一般社団法人シーズ\n　電話番号：080－4615－8555\n\n開所日時\n　まずはお電話にてご相談ください。※R5.1.4から開所予定です。\n|9時～17時|月|火|水|木|金|\n|^|●|●|●|休|●|\n\n※祝日及び年末年始を除きます\n※木曜日は地域の体制づくりのために支援者への研修や協力機関を増やす取組等の必要な活動を行います。\n支援体制のイメージ\n支援体制のイメージ\n\nイベントのお知らせ\n現在予定しているイベントはございません。\n皆様ご参加ありがとうございました。\n\n過去実施したイベントはこちら↓\n医療的ケア児等コーディネーター事業主催のイベント一覧;https://www.city.hachioji.tokyo.jp/kurashi/welfare/001/p034161.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関するその他のこと",
+    "shortName": "医ケア児コーディネーター"
+  },
+  "localGovernmentLink": {
+    "title": "医療的ケア児等コーディネーター事業について",
+    "uri": "https://www.city.hachioji.tokyo.jp/kurashi/welfare/001/p031368.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "八王子市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "八王子市医療的ケア児等コーディネーター事業実施要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "医療的ケア児等やそのご家族からの相談を受け付け、状況と成長に応じた必要な支援機関の紹介や調整を行います。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "市内在住で日常的に医療的ケアを必要とするお子さんとその家族"
+  },
+  "updateDate": "2024-07-08",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部障害者福祉課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM106"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部障害者福祉課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e041/kuseijoho/gaiyo/soshiki/fukushi/syogai.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "愛の手帳は、児童相談所または知的障害者更生相談所（東京都心身障害者福祉センター）において知的障害者であると判定された方に交付されるもので、各種の福祉サービスを受けるために必要となるものです。なお、障害の程度は判定により1度から4度に区分されます。\nまた、国の制度として療育手帳があり、愛の手帳はこの療育手帳の適用を受けます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関するサポート",
+    "shortName": "愛の手帳（療育手帳）"
+  },
+  "localGovernmentLink": {
+    "title": "愛の手帳（療育手帳）",
+    "uri": "https://www.city.edogawa.tokyo.jp/e041/kenko/fukushikaigo/shogaisha/techo/ainotecho.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "福祉部障害者福祉課愛の手帳相談係\n電話：03-5662-0053\nFAX：03-3656-5874",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "下記に電話で予約し、判定を受けます。\n【18歳未満の方】\n江戸川区児童相談所「はあとポート」\n江戸川区中央3丁目4番18号\n電話：03-5678-1810（代表）\n\n【18歳以上の方】\n東京都心身障害者福祉センター\n新宿区神楽河岸1丁目1番　東京都飯田橋庁舎（セントラルプラザ）14階\n電話：03-3235-2961",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "愛の手帳は、児童相談所または知的障害者更生相談所（東京都心身障害者福祉センター）において知的障害者であると判定された方に交付されるもので、各種の福祉サービスを受けるために必要となるものです。なお、障害の程度は判定により1度から4度に区分されます。また、国の制度として療育手帳があり、愛の手帳はこの療育手帳の適用を受けます。",
+  "support": {
+    "description": "愛の手帳（療育手帳）の様式について\n愛の手帳（療育手帳）の発行書式は従前の紙タイプに加え、カードタイプのいずれかから選ぶことができます。\n\n■愛の手帳（療育手帳）で受けられる公共料金の割引・税の軽減等\nhttps://www.city.edogawa.tokyo.jp/kenko/fukushikaigo/shogaisha/waribiki/index.html\n詳しくはお問合せください。\n\n■愛の手帳（療育手帳）で受けられる手当\nhttps://www.city.edogawa.tokyo.jp/kenko/fukushikaigo/shogaisha/teate/teate/index.html\n詳しくはお問合せください。",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "児童相談所または知的障害者更生相談所（東京都心身障害者福祉センター）において知的障害者であると判定された方"
+  },
+  "updateDate": "2023-09-28",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

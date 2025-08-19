@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康推進課保健指導グループ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+1+UM31"
+  },
+  "belongings": "母子健康手帳、筆記用具\n（注記）飲み物など必要なものは、各自ご用意ください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康推進課保健指導グループ",
+    "contactPhone": "03-3987-4174",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "平日コース（予約制）\n・開催時間：午後1時30分から3時30分（受付時間は午後1時10分から1時30分まで)\n土曜日コース(予約制)\n・開催時間：午前9時30分から12時（受付時間は午前9時から9時30分まで)\n内容：沐浴実習、お産の進み方、お産のイメージ、赤ちゃんのいる暮らし\n\n詳しくは豊島区のホームページをご確認ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": "13:30",
+    "fromYMD": "2024-02-28",
+    "toHM": "15:30",
+    "toYMD": "2024-02-28"
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "両親学級・妊婦学級",
+    "shortName": "母親学級"
+  },
+  "localGovernmentLink": {
+    "title": "母親学級",
+    "uri": "https://www.city.toshima.lg.jp/220/kosodate/ninshin/001346.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": "電話(03-3987-4244)",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "はじめてパパとママになるかたに～パパママ準備教室～",
+      "uri": "https://www.city.toshima.lg.jp/220/kosodate/ninshin/1906100927.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "助産師、保健師、栄養士などによる妊娠、出産、育児、栄養に関する講義を開いています。これからお母さんになられる方同士の交流の場にもなりますので、ぜひご参加ください。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "ご予約時および受講時に豊島区に住民登録があり、受講時に妊娠24週から36週までの、原則初めて出産されるかた"
+  },
+  "updateDate": "2024-05-01",
+  "useConsiderationFlag": false,
+  "utilization": "・お申込み：各日程の前月1日午前8時30分から。(1日が土曜日、日曜日、祝日の場合は翌平日から受付となります)　\n・お申し込み先：電話(03-3987-4244)にてお申し込みください。\n風邪の症状や37.5度以上の発熱があるなどお身体の具合が悪い場合は、ご参加を見合わせてください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

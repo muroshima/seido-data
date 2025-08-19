@@ -1,0 +1,133 @@
+{
+  "area": {
+    "areaCode": "131091;品川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "国保医療年金課　国民年金係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131091",
+    "psid": "psid3.0+6000020131091+1+UM793"
+  },
+  "belongings": "・親子健康手帳（母子健康手帳）など出産日が確認できるもの（ただし、出産後に手続きされる場合は不要）\n・本人確認資料（運転免許証やマイナンバーカードなど）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "国保医療年金課　国民年金係",
+    "contactPhone": "03-5742-6682,03-5742-6683",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "産前産後期間の国民年金保険料の免除について\n\n■平成31年２月１日以降に国民年金第1号被保険者が出産した際には、出産前後の一定期間の国民年金保険料が免除されます。届出をすると、産前産後期間として認められた期間は、将来、被保険者の年金額を計算する際は、保険料を納めた期間として扱われます。\n\n日本年金機構ホームページ(別ウィンドウ表示);https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html\n\n■国民年金保険料が免除される期間\n出産予定日または出産日が属する月の前月から4カ月間の国民年金保険料が免除されます。多胎の場合は、出産予定日または出産日が属する月の3カ月前から6カ月間の国民年金保険料が免除されます。\n妊娠85日（4カ月）以上の死産、流産された方を含みます。\n\n■対象となる方\n「国民年金第1号被保険者」で出産日が平成31年2月1日以降の方\n\n■Ｑ＆Ａ\n国民年金保険料の産前産後期間の免除制度にかかるQ&Aについては、日本年金機構ホームページをご覧ください。\n\n日本年金機構ホームページ（産前産後期間の免除制度にかかるQ&A／PDF:67KB）(別ウィンドウ表示);https://www.nenkin.go.jp/service/kokunen/menjo/20180810.files/QA.pdf",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "個人の方の電子申請（国民年金）",
+      "uri": "https://www.nenkin.go.jp/denshibenri_kojin/denshibenri_kojin/shinsei_kojin.html"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": "2019-04-01",
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "産前産後期間の国民年金保険料免除",
+    "shortName": "産前産後期間の国民年金保険料の免除"
+  },
+  "localGovernmentLink": {
+    "title": "産前産後期間の国民年金保険料の免除について",
+    "uri": "https://www.city.shinagawa.tokyo.jp/PC/procedure/procedure-nenkin/20181207095632.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "品川区"
+  },
+  "procedureCounter": "国保医療年金課　国民年金係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "国民年金保険料の産前産後期間の免除制度にかかるQ&Aについては、日本年金機構ホームページをご覧ください。\n\n日本年金機構ホームページ（産前産後期間の免除制度にかかるQ&A／PDF:67KB）(別ウィンドウ表示);https://www.nenkin.go.jp/service/kokunen/menjo/20180810.files/QA.pdf",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第88条の2（保険料の納付義務）",
+    "regulationName": "国民年金法"
+  },
+  "relatedLink": [
+    {
+      "title": "日本年金機構ホームページ（産前産後期間の免除制度にかかるQ&A／PDF:67KB）(別ウィンドウ表示)",
+      "uri": "https://www.nenkin.go.jp/service/kokunen/menjo/20180810.files/QA.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": "対象となる方\n「国民年金第1号被保険者」で出産日が平成31年2月1日以降の方",
+  "summary": "国民年金の第1号被保険者が出産した場合には、出産前後の一定期間の国民年金保険料が免除されます。\n免除期間は年金額を計算する際、保険料を納めた期間として扱われます。",
+  "support": {
+    "description": "平成31年2月１日以降に国民年金第1号被保険者が出産した際には、出産前後の一定期間の国民年金保険料が免除されます。\n届出をすると、産前産後期間として認められた期間は、将来、被保険者の年金額を計算する際は、保険料を納めた期間として扱われます。\n出産予定日または出産日が属する月の前月から4カ月間の国民年金保険料が免除されます。\n多胎の場合は、出産予定日または出産日が属する月の3カ月前から6カ月間の国民年金保険料が免除されます。\n妊娠85日（4カ月）以上の死産、流産された方を含みます。",
+    "materiallySupport": null,
+    "monetarySupport": "平成31年2月１日以降に国民年金第1号被保険者が出産した際には、出産前後の一定期間の国民年金保険料が免除されます。\n届出をすると、産前産後期間として認められた期間は、将来、被保険者の年金額を計算する際は、保険料を納めた期間として扱われます。\n出産予定日または出産日が属する月の前月から4カ月間の国民年金保険料が免除されます。\n多胎の場合は、出産予定日または出産日が属する月の3カ月前から6カ月間の国民年金保険料が免除されます。\n妊娠85日（4カ月）以上の死産、流産された方を含みます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "016"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "「国民年金第1号被保険者」で出産日が平成31年2月1日以降の方"
+  },
+  "updateDate": "2022-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

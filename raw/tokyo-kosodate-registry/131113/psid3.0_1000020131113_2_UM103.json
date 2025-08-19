@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "131113;大田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131113",
+    "psid": "psid3.0+1000020131113+2+UM103"
+  },
+  "belongings": null,
+  "capacity": "各回10組程度（ひろばにより参加人数が変わります）",
+  "class": 1,
+  "contact": {
+    "contactAddress": "大田区大森北4-16-5,大田区上池台2-35-18,大田区西蒲田7-49-2　社会福祉センター2階,大田区仲六郷2-44-11　六郷地域力推進センター3階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "キッズな大森,キッズな洗足池,キッズな蒲田,キッズな六郷",
+    "contactPhone": "03-5753-7830,03-5754-7830,03-5714-1152,03-6715-7830",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "キッズなパパの子育て応援講座\n\n「キッズなパパの子育て応援講座」の実施について\n\nパパとお子さんで楽しくあそべる時間です。\n父親同士の交流もあります。\nキッズなパパの子育て応援講座\n|内容|開催日時|開催場所|受付開始日|\n|:----|:----|:----|:----|\n|パパとお子さんで楽しめるあそびや父親家族の交流等<br><br>（注）事業によって内容が変わることもあります。|6月28日(金曜日)<br>午後10時30分から午前11時30分|キッズな大森|6月3日(月曜日)|\n|^|8月15日(木曜日)<br>午前10時30分から午前11時30分|キッズな六郷|7月25日(木曜日)|\n|^|11月2日(土曜日)<br>午前10時30分から午前11時30分|キッズな洗足池|10月15日(火曜日)|\n|^|令和7年3月18日(火曜日)<br>午前10時30分から午前11時30分|キッズな蒲田|令和7年2月25日(火曜日)|\n\n参加対象\n大田区在住の3歳11か月までのお子さんとパパ。\n\n4歳誕生日の前日まで参加可。\n\n募集組数\n各回10組程度（ひろばにより参加人数が変わります）\n\n申込み\n受付開始日以降、開催場所に電話または来所でお申込みください。(受付時間10時～18時)\n\n先着順に受付け、定員になり次第締切ります。\n\n令和6年度パパの子育て応援講座チラシ（PDF：187KB）;https://www.city.ota.tokyo.jp/seikatsu/kodomo/shien/kodomo_katei_shien_c/papaouenn.files/6papachirasi.pdf\n\nキッズな大森　電話　03(5753)7830　大田区大森北4-16-5\nキッズな洗足池　電話　03(5754)7830　大田区上池台2-35-18\nキッズな蒲田　電話　03(5714)1152　大田区西蒲田7-49-2　社会福祉センター2階\nキッズな六郷　電話　03（6715）7830　大田区仲六郷2-44-11　六郷地域力推進センター3階",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関する教室・講習会",
+    "shortName": "キッズなパパの子育て応援講座"
+  },
+  "localGovernmentLink": {
+    "title": "キッズなパパの子育て応援講座",
+    "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/shien/kodomo_katei_shien_c/papaouenn.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-01",
+    "updater": "大田区"
+  },
+  "procedureCounter": "キッズな大森,キッズな洗足池,キッズな蒲田,キッズな六郷",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "受付開始日以降、開催場所に電話または来所でお申込みください。(受付時間10時～18時)\n\n先着順に受付け、定員になり次第締切ります。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第24条、第21条の9",
+    "regulationName": "学校教育法、児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "令和6年度パパの子育て応援講座チラシ",
+      "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/shien/kodomo_katei_shien_c/papaouenn.files/6papachirasi.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "パパとお子さんで楽しめるあそびや父親家族の交流等",
+  "support": {
+    "description": "パパとお子さんで楽しめるあそびや父親家族の交流等",
+    "materiallySupport": "パパとお子さんで楽しめるあそびや父親家族の交流等",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "大田区在住の3歳11か月までのお子さんとパパ。\n\n4歳誕生日の前日まで参加可。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": 11
+    },
+    "targetPersons": "大田区在住の3歳11か月までのお子さんとパパ。\n\n4歳誕生日の前日まで参加可。"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131091;品川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131091",
+    "psid": "psid3.0+6000020131091+1+UM783"
+  },
+  "belongings": "必要書類\nトワイライトステイ・子どもショートステイ児童票\n子どもショートステイ・トワイライトステイ利用申請書\nトワイライトステイ利用予約票（書き方は面談時にご説明します）\n勤務証明書（外勤者用）、勤務証明書（自営業者用）（発行日は、6カ月以内のもの）\n健康保険証（コピー）\nすこやか医療証（コピー）\n\n＜該当する方＞\n非課税証明（直近1カ月以内のもの）\n生活保護受給証明書\nひとり親を証明する書類",
+  "capacity": "1日の利用定員\n20人",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "受付時間　午前9時～午後6時",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "家庭あんしんセンター　トワイライトステイ",
+    "contactPhone": "03-5749-1034",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "児童1名につき1,200円（夕食代含む）※減免制度あり\n区内保育園、幼稚園、小学校等へのお迎え1回300円",
+  "description": "トワイライトステイについて（家庭あんしんセンター）\n\nトワイライトステイ（令和4年4月から対象年齢を拡大しました）\n保護者が仕事等により帰宅時間が遅くなる場合、他の養育する方がいない時にお子さんを短時間お預かりします。\n\n＜対象＞\n品川区在住の1歳以上から15歳に達した日以後の最初の3月31日までの間にあるお子さん\n\n＜1日の利用定員＞\n20人\n\n＜利用時間＞\n午後5時から午後10時　※年末年始（12月29日～翌年1月3日）を除く\n\n＜費用＞\n児童1名につき1,200円（夕食代含む）※減免制度あり\n区内保育園、幼稚園、小学校等へのお迎え1回300円\n\n＜利用手続き＞\n1. お子さんと一緒に事前の面談が必要です。\n2. 下記書類をご準備のうえ、家庭あんしんセンター（直通電話：03-5749-1034）まで面談日の予約をしてください。（面談日は、事業の関係でご希望に添えない場合がございます。早めにご連絡ください）\n3. 面談時間は約1時間です。\n4. 面談後、写真撮影を行います。\n5. 必要書類を提出\n6. 利用開始\n1から5の手続き終了後、利用承認通知書の3日後より、ご利用可能になります。\n\nトワイライトステイ・子どもショートステイご利用案内(WORD : 261KB);https://www.city.shinagawa.tokyo.jp/ct/doc/hpg000019021_2.docx\n\n＜必要書類＞\nトワイライトステイ・子どもショートステイ児童票\n子どもショートステイ・トワイライトステイ利用申請書\nトワイライトステイ利用予約票（書き方は面談時にご説明します）\n勤務証明書（発行日は、6カ月以内のもの）\n健康保険証（コピー）\nすこやか医療証（コピー）\n\n＜該当する方＞\n非課税証明（直近1カ月以内のもの）\n生活保護受給証明書\nひとり親を証明する書類\n\n＜その他＞\n日常的な服薬が必要な場合は個別にご相談ください\n食事の持ち込みはできません。\n入館証をお持ちでない方にお迎えを依頼する場合は委任状が必要です。\n※委任状（Word:14KB）;https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-kateisoudan/07-ininnjyou.docx",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "年末年始（12月29日～翌年1月3日）",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "平塚2-12-2",
+    "implementationName": "家庭あんしんセンター"
+  },
+  "institutionName": {
+    "canonicalName": "トワイライトステイ（夜間養護等事業）",
+    "shortName": "トワイライトステイ"
+  },
+  "localGovernmentLink": {
+    "title": "トワイライトステイについて（家庭あんしんセンター）",
+    "uri": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-kateisoudan/hpg000019025.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "品川区"
+  },
+  "procedureCounter": "家庭あんしんセンター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "(1)お子さんと一緒に事前の面談が必要です。　\n(2)家庭あんしんセンター（直通電話：03-5749-1034）まで面談日の予約をしてください。\n（面談日は、事業の関係でご希望に添えない場合がございます。早めにご連絡ください）\n※利用のご事情により、必要になる証明書が異なりますので、電話でご確認ください\n(3)面談時間は約1時間です。\n(4)面談後、写真撮影を行います。\n(5)必要書類を提出\n\n(1)から(5)の手続き終了後、利用承認通知書の3日後より、ご利用可能になります。",
+  "procedurePeriod": {
+    "conditions": "手続き終了後、利用承認通知書の3日後より、ご利用可能になります。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第3項、第21条の9、第59条第6号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "トワイライトステイ・子どもショートステイご利用案内(WORD : 261KB)",
+      "uri": "https://www.city.shinagawa.tokyo.jp/ct/doc/hpg000019021_2.docx"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "就労により保護者の帰宅が遅い時にお子さんを短時間お預かりします。22時までに退館できるように迎えに来てください。区内の学校・幼稚園・保育園への送迎サービスもあります。",
+  "support": {
+    "description": "就労により保護者の帰宅が遅い時にお子さんを短時間お預かりします。22時までに退館できるように迎えに来てください。区内の学校・幼稚園・保育園への送迎サービスもあります。\n\nトワイライトステイ・子どもショートステイご利用案内(WORD : 261KB);https://www.city.shinagawa.tokyo.jp/ct/doc/hpg000019021_2.docx",
+    "materiallySupport": "就労により保護者の帰宅が遅い時にお子さんを短時間お預かりします。22時までに退館できるように迎えに来てください。区内の学校・幼稚園・保育園への送迎サービスもあります。\n\nトワイライトステイ・子どもショートステイご利用案内(WORD : 261KB);https://www.city.shinagawa.tokyo.jp/ct/doc/hpg000019021_2.docx",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "品川区在住の1歳から15歳に達した日以後の最初の3月31日までのお子さん",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "品川区在住の1歳から15歳に達した日以後の最初の3月31日まで\n（令和4年4月から対象年齢を拡大しました）"
+  },
+  "updateDate": "2022-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "・日常的な服薬が必要な場合は個別にご相談ください。\n・食事の持ち込みはできません。\n・入館証をお持ちでない方にお迎えを依頼する場合は委任状が必要です。\n※委任状（Word:14KB）;https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-kateisoudan/07-ininnjyou.docx",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "午後5時から午後10時",
+    "fromHM": "17:00",
+    "toHM": "22:00"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132047;三鷹市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども政策部子ども育成課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132047",
+    "psid": "psid3.0+8000020132047+1+UM73"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三鷹市野崎一丁目1番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども政策部 子ども育成課　保育園入所・認定係",
+    "contactPhone": "0422-29-9672,0422-29-9673",
+    "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomo/index.html",
+    "zipCode": "1818555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "児童福祉法に定める福祉施設です\n　保育園（保育所）は、保護者が働いていたり病気の状態にあったりして、家庭において十分保育することができない児童を、保護者にかわって保育することを目的とした、児童福祉法に定める福祉施設です。\n\n　平成10年4月から、児童福祉法が改正され、保育園の入園方式がそれまでの措置(行政処分)から、保護者が希望する保育園を選択する方式に変更されました。しかし、希望する保育園の申込み児童数が受け入れ可能数を上回った場合には、入園する児童を公正な方法で選考します（児童福祉法第24条）。\n\n　保育時間は、1日につき8時間を基本とします（例　午前8時30分～午後4時30分、午前9時～午後5時）。ただし、通勤時間や家庭の状況に応じて、11時間の開所時間範囲内であれば、8時間以上お預かりすることができます。詳しくは各保育園にお問い合わせください。\n\n　また、延長保育（月曜日～金曜日）を実施している園では、保護者の就労時間及び通勤時間の状況や家庭の状況等を考慮して、1歳児クラスから1時間(下連雀保育園は2時間、公設民営の保育園のうち西野保育園・ちどりこども園・こじか保育園を除く各保育園にあっては、0歳児クラスから1時間以上)の延長保育を行っています。\n\n延長保育\n　延長保育を利用する場合は入園後、各保育園への申し込みが必要です。その際には、通常の保育料のほかに延長保育利用料を負担していただきます。\n\n注意事項\n私立園の延長保育については各保育園にお問い合わせください。\n休園日\n　保育園の休園日は、日曜日、国民の祝日、及び12月29日から1月3日までです。\n\n　より詳しくお知りになりたいかたは、「三鷹市保育園入園案内」や「みたかきっずナビ（外部リンク）;https://kosodate-mitaka.mchh.jp/」をご覧ください。\n\n関連リンク\n保育園の一覧はこちら\nみたかきっずナビ（外部リンク）;https://kosodate-mitaka.mchh.jp/",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "日曜日、国民の祝日、及び12月29日から1月3日まで",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "認可保育所（保育園）の利用について",
+    "shortName": "保育園（保育所）"
+  },
+  "localGovernmentLink": {
+    "title": "保育園（保育所）とは",
+    "uri": "https://www.city.mitaka.lg.jp/c_service/001/001068.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-10",
+    "updater": "三鷹市"
+  },
+  "procedureCounter": "各保育園",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "保育時間は、1日につき8時間を基本とします（例　午前8時30分～午後4時30分、午前9時～午後5時）。ただし、通勤時間や家庭の状況に応じて、11時間の開所時間範囲内であれば、8時間以上お預かりすることができます。詳しくは各保育園にお問い合わせください。\n休園日\n　保育園の休園日は、日曜日、国民の祝日、及び12月29日から1月3日までです。\n\n　より詳しくお知りになりたいかたは、「三鷹市保育園入園案内」や「みたかきっずナビ（外部リンク）」;https://kosodate-mitaka.mchh.jp/をご覧ください。\n\n関連リンク\n保育園の一覧はこちら\nみたかきっずナビ（外部リンク）;https://kosodate-mitaka.mchh.jp/",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第24条",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "みたかきっずナビ（外部リンク）",
+      "uri": "https://kosodate-mitaka.mchh.jp/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育園とは、保護者が共に働いていたり病気などの理由で、昼間家庭において保育を受けられないお子さんを、保護者に代わって保育する児童福祉施設で、法的には「保育所」といいます。\n保育所（保育園）には、国が定めた設置基準をクリアし、都道府県知事に認可された保育所と、それ以外の保育所がありますが、ここでは認可された保育所についてご案内します。\n\n保育園では在園児を対象とした「延長保育」のほか、「一時預かり」や「病児保育」、「障害児保育」などを行っている園もあります。",
+  "support": {
+    "description": "保護者にかわって保育することを目的とした、児童福祉法に定める福祉施設",
+    "materiallySupport": "保護者にかわって保育することを目的とした、児童福祉法に定める福祉施設",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "保護者が働いていたり病気の状態にあったりして、家庭において十分保育することができない児童"
+  },
+  "updateDate": "2014-06-13",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

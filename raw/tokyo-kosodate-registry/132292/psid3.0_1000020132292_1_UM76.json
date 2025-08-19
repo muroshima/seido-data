@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132292;西東京市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "幼児教育・保育課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132292",
+    "psid": "psid3.0+1000020132292+1+UM76"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "西東京市南町五丁目6番13号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "幼児教育・保育課",
+    "contactPhone": "042-460-9842",
+    "contactUrl": null,
+    "zipCode": "1888666"
+  },
+  "cost": null,
+  "costConditions": "公立認可保育園及び家庭的保育施設の場合\n延長保育を利用の場合、通常の利用者負担額のほか別途延長保育料を負担していただきます。公立認可保育園及び家庭的保育施設の延長保育料は次のとおりです。延長保育を希望する場合は、申請書に勤務証明を添えて各施設で手続きしてください。公設公営保育園以外の施設を利用している方は、直接施設に納めてください。\n\n保育必要量が「保育標準時間」の場合\n午後7時15分閉所園\n\n午後6時から7時になるまで　1回300円\n午後7時から7時15分になるまで　1回 75円\n午後8時閉所園\n\n午後6時から7時になるまで　1回300円\n午後7時から8時になるまで　1回300円\n夕食　1回200円\n保育必要量が「保育短時間」の場合\n1回300円、1時間ごとに300円追加\n朝と夕方を両方利用される場合、1日あたりの合計利用時間で計算します。\n例：午前8時15分から午後5時45分になるまで保育園を利用した場合\n合計利用1時間30分として600円\n\n私立認可保育園及び小規模保育施設等の場合\n私立認可保育園及び小規模保育施設、事業所内保育事業の延長保育料は、各施設により異なります。詳しくは各施設にお問い合わせください。延長保育料は、直接施設にお支払いただくことになります。",
+  "description": "認可保育園等の利用者負担（保育料）について\n\n延長保育料について\n公立認可保育園及び家庭的保育施設の場合\n延長保育を利用の場合、通常の利用者負担額のほか別途延長保育料を負担していただきます。公立認可保育園及び家庭的保育施設の延長保育料は次のとおりです。延長保育を希望する場合は、申請書に勤務証明を添えて各施設で手続きしてください。公設公営保育園以外の施設を利用している方は、直接施設に納めてください。\n\n保育必要量が「保育標準時間」の場合\n午後7時15分閉所園\n\n午後6時から7時になるまで　1回300円\n午後7時から7時15分になるまで　1回 75円\n午後8時閉所園\n\n午後6時から7時になるまで　1回300円\n午後7時から8時になるまで　1回300円\n夕食　1回200円\n保育必要量が「保育短時間」の場合\n1回300円、1時間ごとに300円追加\n朝と夕方を両方利用される場合、1日あたりの合計利用時間で計算します。\n例：午前8時15分から午後5時45分になるまで保育園を利用した場合\n合計利用1時間30分として600円\n\n私立認可保育園及び小規模保育施設等の場合\n私立認可保育園及び小規模保育施設、事業所内保育事業の延長保育料は、各施設により異なります。詳しくは各施設にお問い合わせください。延長保育料は、直接施設にお支払いただくことになります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "延長保育",
+    "shortName": "延長保育"
+  },
+  "localGovernmentLink": {
+    "title": "認可保育園等の利用者負担（保育料）について",
+    "uri": "https://www.city.nishitokyo.lg.jp/kosodate/hoikuen/hoikusabisu/hoikuryo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-11",
+    "updater": "西東京市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "延長保育を希望する場合は、申請書に勤務証明を添えて各施設で手続きしてください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第59条第2号",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "西東京市内の保育園（保育所）や認定こども園、地域型保育施設では、保護者の勤務時間などにより、認定を受けた時間帯を超えて保育が必要なお子さんを対象に、別途料金を徴収のうえで、延長保育を実施しています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2023-10-02",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

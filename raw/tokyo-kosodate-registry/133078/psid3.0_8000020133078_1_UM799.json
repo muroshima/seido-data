@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "133078;檜原村\t",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "檜原村　福祉けんこう課 子育て支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020133078",
+    "psid": "psid3.0+8000020133078+1+UM799"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "檜原村　福祉けんこう課 子育て支援係",
+    "contactPhone": "042-598-3122",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": "無料",
+  "costConditions": null,
+  "description": "檜原村こども家庭センター相談事業のご案内\n檜原村こども家庭センターは、すべての妊産婦さん、子育て世帯、お子さんが相談を行うことができる場所です。ぜひご利用ください。\n\n相談できること\n子育て、学習、神経発達症（発達障害等）、精神疾患、進路、問題行動・非行、不登校、ひきこもりなど、子どもにかかわる相談全般\n\n相談例\n指示をしてもなかなか行動しない\n漢字を覚えることが苦手で、家で宿題をどう見ればよいかわからない\n登校しぶりがあり、なかなか家を出ようとしない\n発達障害があるかもしれないが、どこに相談したらよいか\n自閉スペクトラム症と診断を受けたが、どういう状態なのか詳しく知りたい\nこだわりが強く、遮るとかんしゃくが強い\n親の財布からお金を盗って遊びに使ってしまう\n自分（または子ども）の性格等について理解を深めたい\n\n相談日・時間\n|相談日| 月、水、木、金（祝日を除く）|\n|:----|:----|\n|受付時間| 午前9時～午後5時（最終受付午後4時30分）|\n|相談時間| 原則50分程度まで（開室時間内に限る）|\n\n相談員\n公認心理師・臨床心理士：赤木　友彦",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "祝日",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "福祉けんこう課　子育て支援係（やすらぎの里内けんこう館2階）"
+  },
+  "institutionName": {
+    "canonicalName": "こども家庭センター",
+    "shortName": "檜原村こども家庭センター"
+  },
+  "localGovernmentLink": {
+    "title": "檜原村こども家庭センター相談事業のご案内",
+    "uri": "https://www.vill.hinohara.tokyo.jp/0000001687.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/27",
+    "updater": "檜原村"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": "月、水、木、金",
+  "summary": "檜原村の【檜原村こども家庭センター】では、全ての妊産婦・子育て家庭に対する相談等への対応、サポートプランに基づく妊産婦の健康やこどもの養育に関する支援などを行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "村内在住の子ども（0～20歳前後まで）、またはその保護者"
+  },
+  "updateDate": "2024/06/01",
+  "useConsiderationFlag": false,
+  "utilization": "事前に予約が必要です。\n電話または直接お越しください。\n電話：042-598-3122",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "最終受付午後4時30分",
+    "fromHM": "09:00",
+    "toHM": "17:00"
+  }
+}

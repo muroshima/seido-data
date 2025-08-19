@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "133051;日の出町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉課子育て支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133051",
+    "psid": "psid3.0+1000020133051+1+UM111"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "平井 661,平井 673-1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "さくらぎ保育園,さくらぎこぱん",
+    "contactPhone": "042-597-3297,042-588-5716",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "地域の子育て支援の場¥n町内の保育園・幼稚園では、下記のような子育て支援の場がもうけられています。ぜひご利用ください♪¥n|名 称|内 容 |対 象|所在地|\n|:----|:----|:----|:----|\n|さくらぎ保育園<br>さくらぎこぱん<br>「産後ママカフェ」|赤ちゃん連れでランチやお茶をしながら、子育てのお話ができます。（開催についてはお問合せください）|生後 1 か月～満 1 歳までのお子さんとお母さん（予約制）|さくらぎ保育園<br>平井 661<br>さくらぎこぱん<br>平井673-1|\n|さくらぎ保育園<br>さくらぎこぱん<br>「ciao ciaoクラブ」|地域の方の子育てを応援し、園からの情報誌の発行、育児相談や育児講座、行事へのお誘いなどを行っています。|未就園児のお子さんと保護者|^|\n|宝光保育園<br>「どんぐりくらぶ」|地域のがんばるパパママを応援するくらぶ。様々なイベントを行っています。|イベントにより対象が異なります。|平井3389-1|\n|大久野保育園<br>子育て支援ルーム<br>「バトン」|専用室内遊具・園庭解放、給食ランチ、季節の野菜や果物、お花を育てたりします。|どなたでも。詳細はホームページをご覧ください。 |大久野1660−１|\n|大久野保育園<br>「ほっこり縁舎」|「小学生の放課後の居場所」（利用についてはお問合せください。）|どなたでも。詳細はホームページをご覧ください。 |大久野223−１|\n|大正保育園<br>「しゅっぽっぽくらぶ」|園庭開放・誕生会へのご招待、行事へのお誘いを行っています。|未就園児のお子さんと保護者|大久野711-1|\n|日の出幼稚園<br>「さくらんぼひろば」|水遊び、制作、親子ふれあい遊びなど楽しい企画を行っています。|歩き始めたお子さんと保護者|平井2209|\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "平井 661,平井673-1",
+    "implementationName": "さくらぎ保育園,さくらぎこぱん"
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関する各種コミュニティ・団体一覧",
+    "shortName": "さくらぎ保育園さくらぎこぱん「産後ママカフェ」"
+  },
+  "localGovernmentLink": {
+    "title": "ひので子育て応援ガイド",
+    "uri": "https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000003/3861/kodomokosodateouenngaido.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "日の出町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "直接各保育園・幼稚園にご連絡ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第6項、第21条の9",
+    "regulationName": "児童福祉法、児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "日の出町内で子育てに関する活動を行う、コミュニティやサークル、各種団体のご案内です。",
+  "support": {
+    "description": "赤ちゃん連れでランチやお茶をしながら、子育てのお話ができます。",
+    "materiallySupport": "赤ちゃん連れでランチやお茶をしながら、子育てのお話ができます。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後 1 か月～満 1 歳までのお子さん",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 1
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生後 1 か月～満 1 歳までのお子さんとお母さん"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

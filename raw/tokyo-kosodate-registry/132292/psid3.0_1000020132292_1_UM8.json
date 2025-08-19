@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132292;西東京市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132292",
+    "psid": "psid3.0+1000020132292+1+UM8"
+  },
+  "belongings": "「西東京市妊婦歯科健康診査受診票」（母子健康手帳交付時に同時配布）、母子健康手帳、歯ブラシ\n\n（注記）受診票は母子健康手帳交付時にお渡ししています。転入された方などで、受診票が無い場合は、下記の場所まで母子健康手帳をご持参の上、お越しください。\n・防災・保谷保健福祉総合センター　4階　（健康課）\n・田無第二庁舎　2階　（子育て支援課）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "西東京市中町一丁目5番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康課",
+    "contactPhone": "042-438-4021",
+    "contactUrl": null,
+    "zipCode": "2028555"
+  },
+  "cost": null,
+  "costConditions": "無料",
+  "description": "妊婦歯科健康診査\n\n妊娠すると、体の変化や生活環境の変化などにより、むし歯や歯周病にかかりやすくなります。\nまた、産後はしばらく受診しにくくなりますので、妊娠中に一度はお口のチェックをしておかれることをお勧めします。\nお母さんの歯の健康のため、またこれから生まれてくる赤ちゃんのために、歯科健診を受けましょう。\n\n概要\n対象\n市内在住の妊婦（早めにお受けになることをお勧めします）\n\n費用\n無料\n\n内容\n歯科健康診査、歯科保健指導\n\n受診方法\n指定実施歯科医療機関に直接電話で「西東京市妊婦歯科健診」と伝え、日時を予約してください。\n\n持ち物\n「西東京市妊婦歯科健康診査受診票」（母子健康手帳交付時に同時配布）、母子健康手帳、歯ブラシ\n\n（注記）受診票は母子健康手帳交付時にお渡ししています。転入された方などで、受診票が無い場合は、下記の場所まで母子健康手帳をご持参の上、お越しください。\n・防災・保谷保健福祉総合センター　4階　（健康課）\n・田無第二庁舎　2階　（子育て支援課）\n\n知ってほしい！妊婦歯科健診\n\n妊婦歯科健診（PDF：1,315KB）;https://www.city.nishitokyo.lg.jp/kosodate/bosi/ninsin/ninpushika-nozomishi.files/ninnpusika.pdf.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊産婦の歯科健診",
+    "shortName": "妊婦歯科健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "妊婦歯科健康診査",
+    "uri": "https://www.city.nishitokyo.lg.jp/kosodate/bosi/ninsin/ninpushika-nozomishi.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-10",
+    "updater": "西東京市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "妊婦歯科健診（PDF：1",
+      "uri": "https://www.city.nishitokyo.lg.jp/kosodate/bosi/ninsin/ninpushika-nozomishi.files/ninnpusika.pdf.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠すると、体の変化や生活環境の変化などにより、むし歯や歯周病にかかりやすくなります。\nまた、産後はしばらく受診しにくくなりますので、妊娠中に一度はお口のチェックをしておかれることをお勧めします。\nお母さんの歯の健康のため、またこれから生まれてくる赤ちゃんのために、歯科健診を受けましょう。",
+  "support": {
+    "description": "歯科健康診査、歯科保健指導",
+    "materiallySupport": "歯科健康診査、歯科保健指導",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "市内在住の妊婦"
+  },
+  "updateDate": "2023-12-05",
+  "useConsiderationFlag": false,
+  "utilization": "指定実施歯科医療機関に直接電話で「西東京市妊婦歯科健診」と伝え、日時を予約してください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

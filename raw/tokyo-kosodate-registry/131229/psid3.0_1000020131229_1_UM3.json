@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "戸籍住民課戸籍届出係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+1+UM3"
+  },
+  "belongings": "・届書 （出生証明書に医師または助産師の証明を受けたもの）　1通\n・母子健康手帳（持参できる場合）\n父母ともに外国籍の場合は、父母の氏名と婚姻日の確認をするため、可能な方はパスポートと結婚証明書（コピー可）をご持参ください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区立石5-13-1　葛飾区役所2階　217番窓口",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "戸籍住民課戸籍届出係",
+    "contactPhone": "03-5654-8190",
+    "contactUrl": null,
+    "zipCode": "1248555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出生届",
+    "shortName": "出生届"
+  },
+  "localGovernmentLink": {
+    "title": "戸籍の届出について",
+    "uri": "https://www.city.katsushika.lg.jp/kurashi/1000046/1001400/1001415.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": "区役所戸籍住民課、区民事務所",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "　お子さまが生まれたら、生まれた日から１４日以内に出生届をご提出ください。（国外で日本人のお子さまが生まれたときは３か月以内。なお、出生届とともに国籍留保届をしないと日本国籍を失う場合がありますので、留意してください。）\n　届出先は、父母の本籍地・届出人の所在地・出生地のいずれかの市役所・区役所・町村役場です。葛飾区では、区役所戸籍住民課または区民事務所でお手続きが可能です。\n　届出人は、父または母（父母が婚姻中でない場合は母）です。父または母が記入した届書を代理人が提出することも可能です。父母が届出人になれない場合は、お問い合わせください。\n　郵送でもお届けいただけますが、不備があった場合は区役所戸籍住民課窓口へ来庁いただき訂正していただく場合もありますのでご承知おきください。届出日は、当課で収受した日となります。\n　お子さまの命名は、常用漢字、人名用漢字（下記外部リンク、法務省ホームページ「子の名に使える文字」で確認できます）、ひらがな、カタカナの範囲でしてください。\n　葛飾区に住所がある方は、児童手当・乳幼児医療証の申請を受付します。制度の内容や必要なものは下記内部リンク「児童手当・乳幼児医療証のご案内」でご確認ください。\n　父母ともに外国籍のお子さまが、出生後60日を超えて引き続き日本に在留する場合には、お子さまにも在留資格が必要です。父母双方またはいずれか一方が特別永住者の場合は、生まれた日から60日以内であれば、戸籍住民課窓口にて特別永住許可申請（下記内部リンク「特別永住者証明書の手続きについて」内の「特別永住許可申請について」で確認できます）を行うことができます。また、中長期在留者の場合は、生まれた日から30日以内に入国管理局にて手続き（下記外部リンク、法務省ホームページ「在留許可取得申請」で確認できます）が必要です。\n\n児童手当・乳幼児医療証のご案内\nhttps://www.city.katsushika.lg.jp/kosodate/1000056/1002336/index.html\n特別永住者証明書の手続きについて\nhttps://www.city.katsushika.lg.jp/kurashi/1000046/1001404/1001450.html\n法務省ホームページ「在留資格取得許可申請について」（外部リンク）\nhttps://www.moj.go.jp/isa/applications/procedures/16-10.html\n法務省ホームページ「子の名に使える漢字」（外部リンク）\nhttps://www.moj.go.jp/MINJI/minji86.html\n法務省ホームページ「出生届」記載例（外部リンク）\nhttps://www.moj.go.jp/ONLINE/FAMILYREGISTER/5-1.html\n\n※戸籍の届書の審査にはお時間を要することがあります。そのため、届書の審査後の諸証明の発行についてもお待たせすることがありますがご了承ください。\n　なお、水曜夜間延長窓口及び日曜開庁日などの時間帯に受付した戸籍の届書で、他区市町村に内容確認が必要な届書につきましては、確認ができないために届書のお預かりのみとさせていただく場合がございます。\n\n※届書を受領後、その内容が戸籍に反映され、戸籍謄本等が発行できるようになるまでには、届出後3日程度（土・日・祝日を除く。）かかります。年末年始やゴールデンウィーク等は別の取扱いとなり、更に日数がかかります。\n　なお、この取扱いは葛飾区で届書が提出され、かつ本籍が葛飾区の場合です。\n　また、届書内容に不備がある場合には、更に日数がかかります。詳しくはお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": "生まれた日から14日以内（国外で生まれたときは3か月以内）",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "父または母（婚姻をしていない男女間で生まれた子は母）\n（注釈）父母が届出をできない場合は、次の順位で届出をしてください。\n1.同居者\n2.お産に立ち会った医師または助産師\n3.父母以外の法定代理人",
+  "regulation": {
+    "regulationArticle": "第49条、第52条",
+    "regulationName": "戸籍法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "出生届とは、生まれてきたお子さまの氏名等を戸籍に記載（日本国籍の方のみ）するための手続きです。戸籍に記載されることで、生まれてきたお子さまの存在が公的に証明されます。父母ともに外国籍の方のお子さまが日本国内で生まれたた場合や、日本人のお子さまが国外で生まれた場合にも、出生の届出が必要です。\n\n",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "013"
+    ],
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "131202;練馬区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "練馬総合福祉事務所,光が丘総合福祉事務所,石神井総合福祉事務所,大泉総合福祉事務所",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020131202",
+    "psid": "psid3.0+3000020131202+1+UM20"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "練馬区豊玉北5丁目14番6号　新練馬ビル5階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "練馬区社会福祉協議会\n生活福祉係",
+    "contactPhone": "03-3991-5560",
+    "contactUrl": "https://www.city.nerima.tokyo.jp/cgi-bin/formmail/formmail.cgi?d=060010070000,https://www.city.nerima.tokyo.jp/cgi-bin/formmail/formmail.cgi?d=060010080000,https://www.city.nerima.tokyo.jp/cgi-bin/formmail/formmail.cgi?d=060010090000,https://www.city.nerima.tokyo.jp/cgi-bin/formmail/formmail.cgi?d=060010100000",
+    "zipCode": "1760012"
+  },
+  "cost": null,
+  "costConditions": "教育支援費、連帯保証人有は無利子、連帯保証人無は年利率1．5％",
+  "description": "福祉資金の貸付（生活福祉資金）\n現在のページ\nトップページくらし・手続き人権・男女共同参画・その他福祉生活に困ったとき福祉資金の貸付（生活福祉資金）\nページ番号：904-304-383\n\n更新日：2019年4月17日\n\n対象\n　所得の少ない世帯、障害者や介護を要する高齢者のいる世帯が対象となります。\n※各資金には、それぞれに貸付の条件・基準が定められています。\n\n種類\n教育支援費、転居費、療費、介護費、出産、葬儀費など\n\n利子\n教育支援費、連帯保証人有は無利子、連帯保証人無は年利率1．5％\n\n関連情報\t\n練馬区社会福祉協議会各種資金の貸付（外部サイト）　;https://www.neri-shakyo.com/service/loan_advisement",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出産費貸付制度",
+    "shortName": "福祉資金の貸付（生活福祉資金）"
+  },
+  "localGovernmentLink": {
+    "title": "福祉資金の貸付（生活福祉資金）",
+    "uri": "https://www.city.nerima.tokyo.jp/kurashi/jinken/komatta/hukusisikinn.html\n"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "練馬区"
+  },
+  "procedureCounter": "練馬区社会福祉協議会生活福祉係\n〒176-0012　練馬区豊玉北5丁目14番6号　新練馬ビル5階\n電話：03-3991-5560",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "条例全体",
+    "regulationName": "練馬区国民健康保険高額療養費資金および出産費資金貸付条例"
+  },
+  "relatedLink": [
+    {
+      "title": "詳細・パンフレット（東京都社会福祉協議会ホームページ）（外部サイト）",
+      "uri": "https://www.tcsw.tvac.or.jp/shikin/documents/hukushishikinnogoannnai.pdf"
+    },
+    {
+      "title": "各種資金の貸付相談",
+      "uri": "https://www.neri-shakyo.com/service/loan_advisement"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "所得の少ない世帯や障害者のいる世帯などに対して、分娩入院経費および出産に伴って必要となる経費の貸付を行います。（貸付には条件があります。）",
+  "support": {
+    "description": "福祉資金の貸付",
+    "materiallySupport": null,
+    "monetarySupport": "福祉資金の貸付"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "所得の少ない世帯、障害者や介護を要する高齢者のいる世帯が対象となります。\n※各資金には、それぞれに貸付の条件・基準が定められています。"
+  },
+  "updateDate": "2019-04-17",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "131067;台東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "台東保健所　保健サービス課 栄養担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131067",
+    "psid": "psid3.0+6000020131067+2+UM798"
+  },
+  "belongings": null,
+  "capacity": "先着20組",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "台東保健所　保健サービス課 栄養担当",
+    "contactPhone": "03-3847-9440",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "対象・日程\n区内在住で11か月～1歳4か月頃のお子さんの保護者（原則第1子）\n誕生月により日程が異なります。下記日程表の生まれ月でご参加ください。\n\n令和6年度幼児食へのステップアップ教室日程表（PDF：192KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kouzaevent/hokenjo/youjishoku.files/r6youzisyokukousyuukai.pdf\n\n内容\n離乳食から幼児食へステップアップする頃のポイントをお話しします。\n（保護者には試食があります。）\n\n（メニュー例）肉だんごと野菜の煮物\n\n（メニュー例）ふりかけおにぎり\n定員\n先着20組\n\n会場\n台東保健所　3階　大会議室\n（台東区東上野4丁目22番8号）\n\n申込み方法\n日程表の予約開始日の午前9時から電話で申込み\n台東保健所　保健サービス課　栄養担当　電話：03-3847-9440\n\n注意事項\n・いずれの日程も同じ内容ですので、初めて参加する方を優先します。\n・託児はありませんが、お子さんと一緒に参加できます。\n・お子さんと参加される場合、講習会中はベビーカーや抱っこひもでご対応をお願いいたします。\n・体調不良の方は、参加をご遠慮ください。また、基本的な感染防止対策にご協力をお願いいたします。\n\n幼児食について知りたい方へ\nYouTubeの台東区公式チャンネルにて、幼児食に関する20分番組を配信しています。\n詳しくは下記ページをご覧ください。\n\n離乳食・幼児食について;https://www.city.taito.lg.jp/kenkohukusi/kenko/kenkoshisaku/eiyo/boshi/rinyushokuyoujishoku.html\n\nお電話での幼児食のご相談もお受けしています。\n下記、お問い合わせ先までお気軽にお電話ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "台東区東上野4丁目22番8号",
+    "implementationName": "台東保健所　3階　大会議室"
+  },
+  "institutionName": {
+    "canonicalName": "離乳食教室",
+    "shortName": "幼児食へのステップアップ教室"
+  },
+  "localGovernmentLink": {
+    "title": "幼児食へのステップアップ教室",
+    "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kouzaevent/hokenjo/youjishoku.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "台東区"
+  },
+  "procedureCounter": "台東保健所　保健サービス課　栄養担当",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "日程表の予約開始日の午前9時から電話で申込み\n台東保健所　保健サービス課　栄養担当　電話：03-3847-9440",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第3条（乳幼児の健康の保持増進）、9条（知識の普及）、法第5条（子どもの食育における保護者、教育関係者等の役割）、21条 （地域における食生活の改善のための取組の推進）",
+    "regulationName": "母子保健法、食育基本法"
+  },
+  "relatedLink": [
+    {
+      "title": "離乳食・幼児食について",
+      "uri": "https://www.city.taito.lg.jp/kenkohukusi/kenko/kenkoshisaku/eiyo/boshi/rinyushokuyoujishoku.html"
+    },
+    {
+      "title": "令和6年度幼児食へのステップアップ教室日程表（PDF：192KB）",
+      "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kouzaevent/hokenjo/youjishoku.files/r6youzisyokukousyuukai.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "生後11か月~1歳4か月前後のお子さんとその保護者を対象に、離乳食を始める時のポイントやすすめ方についての講座を開催しています。離乳食のいろいろな悩みに栄養士がお答えします。また、離乳食の作り方の実演や試食もあります。",
+  "support": {
+    "description": "離乳食から幼児食へステップアップする頃のポイントをお話しします。",
+    "materiallySupport": "離乳食から幼児食へステップアップする頃のポイントをお話しします。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "11か月～1歳4か月頃のお子さんの保護者",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住で11か月～1歳4か月頃のお子さんの保護者（原則第1子）"
+  },
+  "updateDate": "2024-03-18",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131148;中野区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "区民部保険医療課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131148",
+    "psid": "psid3.0+8000020131148+1+UM20"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "区民部保険医療課",
+    "contactPhone": "03-3228-5508",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "国民健康保険の給付内容 出産資金の貸付\n出産資金の貸付\n中野区の国保から出産育児一時金の支給が見込まれ、出産資金にお困りの方（世帯主）に、出産育児一時金の8割額を出産資金としてお貸しします。\n貸付金は世帯主名義の口座に振込みます。\n※出産育児一時金の支給時に清算するため、出産育児一時金の支給とは別に出産資金の貸付はできません。\n※直接支払制度を利用する方は出産資金の貸付はできません。\n\n申請について\n※貸付を希望される方は、必ず事前に国保給付担当へお問い合わせください。必要書類等のご案内を致します。\n1.申請人\n世帯主が申請者となります。世帯主以外の代理の方が来庁・申請する場合は委任状が必要になります。\n※委任状は中野区指定の様式がありますので、必要な方はご連絡ください。\n2.貸付時期\n出産予定日の1か月前から申請を受け付けます。\nなお、妊娠期間が満12週以上で早産等により入院費用を医療機関等に支払う必要が生じている場合は、時期を早めることができますのでご相談下さい。\n3.貸付額\n出産育児一時金の8割額を限度とし、無利子です。\n4.返済\n出産育児一時金を支給する際に清算します。出産育児一時金と貸付額との差額（出産育児一時金の2割分）は、世帯主口座に振り込みます。\n出産育児一時金の支給、直接支払制度については、こちらをご覧ください。;https://www.city.tokyo-nakano.lg.jp/kurashi/hoken/kyufu/syussanikuji.html\n\n注意事項\n直接支払制度及び貸付は、中野区の国保から出産育児一時金の支給が見込まれる方が対象となります。\nしたがって、出産前に中野区の国保の資格喪失（社会保険加入や転出等）が予定されている場合や出産時の世帯主が変更になる場合は、直接支払制度及び貸付を利用することができませんのでご注意ください。\n持参いただくもの、来庁される方等、詳細はお問合せください。\n\nお願い\n携帯電話等からメールでお問い合わせの際、迷惑メール対策でドメイン指定受信やメールフィルター等を設定している場合は、@city.tokyo-nakano.lg.jp からのメールが届くように設定を変更してください。 返信メールをお届けできない事例が増えています。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出産費貸付制度",
+    "shortName": "国民健康保険の出産資金貸付"
+  },
+  "localGovernmentLink": {
+    "title": "国民健康保険の給付内容 出産資金の貸付",
+    "uri": "https://www.city.tokyo-nakano.lg.jp/kurashi/hoken/kyufu/syussanshikin.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "中野区"
+  },
+  "procedureCounter": "〒164-8501　中野区中野四丁目11番19号\n中野区役所　保険医療課 国保給付係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請について\n※貸付を希望される方は、必ず事前に国保給付係へお問い合わせください。必要書類等のご案内を致します。\n\n1.申請人\n世帯主が申請者となります。世帯主以外の代理の方が来庁・申請する場合は委任状が必要になります。\n※委任状は中野区指定の様式がありますので、必要な方はご連絡ください。\n\n2.貸付時期\n出産予定日の1か月前から申請を受け付けます。\nなお、妊娠期間が満12週以上で早産等により入院費用を医療機関等に支払う必要が生じている場合は、時期を早めることができますのでご相談下さい。\n\n3.返済\n出産育児一時金を支給する際に清算します。出産育児一時金と貸付額との差額（出産育児一時金の2割分）は、世帯主口座に振り込みます。\n\n注意事項\n中野区の国保から出産育児一時金の支給が見込まれる方が対象となります。\n出産前に中野区の国保の資格喪失（社会保険加入や転出等）が予定されている場合や出産時の世帯主が変更になる場合は、利用することができません。\n",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "世帯主が申請者となります。世帯主以外の代理の方が来庁・申請する場合は委任状が必要になります。\n※委任状は中野区指定の様式がありますので、必要な方はご連絡ください。",
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "中野区国民健康保険高額療養費資金及び出産資金貸付条例"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "出産予定日前に出産費用の支払いが必要な方を対象に、出産育児一時金8割に相当する額を限度として出産費用の貸し付けを無利子で行います。",
+  "support": {
+    "description": "出産育児一時金の8割額を限度とし、無利子です。\n出産育児一時金を支給する際に清算します。出産育児一時金と貸付額との差額（出産育児一時金の2割分）は、世帯主口座に振り込みます。",
+    "materiallySupport": null,
+    "monetarySupport": "出産育児一時金の8割額を限度とし、無利子です。\n出産育児一時金を支給する際に清算します。出産育児一時金と貸付額との差額（出産育児一時金の2割分）は、世帯主口座に振り込みます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "中野区の国保から出産育児一時金の支給が見込まれ、出産資金にお困りの方（世帯主）。"
+  },
+  "updateDate": "2025-03-11",
+  "useConsiderationFlag": true,
+  "utilization": "貸付を希望される方は、必ず事前に国保給付担当へお問い合わせください。必要書類等のご案内を致します。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

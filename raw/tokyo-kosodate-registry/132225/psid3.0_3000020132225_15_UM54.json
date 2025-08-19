@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132225;東久留米市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉保健部　健康課　予防係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132225",
+    "psid": "psid3.0+3000020132225+15+UM54"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都東久留米市滝山4-3-14",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉保健部　健康課　予防係",
+    "contactPhone": "042-477-0030",
+    "contactUrl": "https://www.city.higashikurume.lg.jp/kurashi/kenko/chusha/1001182.html",
+    "zipCode": "2030033"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "長期にわたり療養を必要とする疾病にかかっていたなどの特別な事情により、やむを得ず定期予防接種を受けられなかった場合、当該特別な事情がなくなった日から起算して2年以内（成人用肺炎球菌は1年以内）は、定期の予防接種として接種することができます。\n\nただし、BCGは4歳に達するまでの間、五種混合及び四種混合は15歳に達するまでの間、Hib感染症は10歳に達するまでの間、小児の肺炎球菌感染症は、6歳に達するまでの間となります。\n\n特別な事情とは\n1.厚生労働省令で定める以下の疾病にかかったこと\nイ 重症複合免疫不全症、無ガンマグロブリン血症その他免疫の機能に支障を生じさせる重篤な疾病\nロ 白血病、再生不良性貧血、重症筋無力症、若年性関節リウマチ、全身性エリテマトーデス、潰瘍性大腸炎、ネフローゼ症候群その他免疫の機能を抑制する治療を必要とする治療を必要とする重篤な疾病\nハ イまたはロの疾病に準ずると認められるもの\n（疾病例は、添付ファイル「別表　該当する疾病の例」をご覧ください。）\n2.臓器の移植を受けた後、免疫の機能を抑制する治療を受けたこと\n3.医学的知見に基づき1又は2に準ずると認められるもの\n別表　該当する疾病の例 （PDF 190.5KB）新しいウィンドウで開きます;https://www.city.higashikurume.lg.jp/_res/projects/default_project/_page_/001/001/182/choukisippei.pdf\nご注意\n・やむを得ず定期の予防接種を受けることができなかった場合に限ります。\n・上記に該当する疾病が一律に予防接種不適当者であるということを意味するものではありません。予防接種実施の可否の判断は、予診を行う医師の診断により行われます。\n接種を希望される方は\n必ず東久留米市健康課予防係（電話：042-477-0030）までお問い合わせください。\n\n上記に該当し定期接種を受けるためには、該当する疾病にかかっていたことや、やむを得ず予防接種を受けることができなかったと判断した理由などを記載した医師の診断書などの提出が必要となります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "長期にわたる疾病等のため、定期予防接種の対象年齢を過ぎてしまった方"
+  },
+  "localGovernmentLink": {
+    "title": "長期にわたる疾病等のため、定期予防接種の対象年齢を過ぎてしまった方へ",
+    "uri": "https://www.city.higashikurume.lg.jp/kurashi/kenko/chusha/1001182.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-10",
+    "updater": "東久留米市"
+  },
+  "procedureCounter": "東久留米市健康課予防係（電話：042-477-0030）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "ご注意\n・やむを得ず定期の予防接種を受けることができなかった場合に限ります。\n・上記に該当する疾病が一律に予防接種不適当者であるということを意味するものではありません。予防接種実施の可否の判断は、予診を行う医師の診断により行われます。\n接種を希望される方は\n必ず東久留米市健康課予防係（電話：042-477-0030）までお問い合わせください。\n\n上記に該当し定期接種を受けるためには、該当する疾病にかかっていたことや、やむを得ず予防接種を受けることができなかったと判断した理由などを記載した医師の診断書などの提出が必要となります。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）",
+    "regulationName": "予防接種法"
+  },
+  "relatedLink": [
+    {
+      "title": "別表　該当する疾病の例 （PDF 190.5KB）新しいウィンドウで開きます",
+      "uri": "https://www.city.higashikurume.lg.jp/_res/projects/default_project/_page_/001/001/182/choukisippei.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "当該特別な事情がなくなった日から起算して2年以内（成人用肺炎球菌は1年以内）は、定期の予防接種として接種することができます。\n\nただし、BCGは4歳に達するまでの間、五種混合及び四種混合は15歳に達するまでの間、Hib感染症は10歳に達するまでの間、小児の肺炎球菌感染症は、6歳に達するまでの間となります。\n\n特別な事情とは\n1.厚生労働省令で定める以下の疾病にかかったこと\nイ 重症複合免疫不全症、無ガンマグロブリン血症その他免疫の機能に支障を生じさせる重篤な疾病\nロ 白血病、再生不良性貧血、重症筋無力症、若年性関節リウマチ、全身性エリテマトーデス、潰瘍性大腸炎、ネフローゼ症候群その他免疫の機能を抑制する治療を必要とする治療を必要とする重篤な疾病\nハ イまたはロの疾病に準ずると認められるもの\n（疾病例は、添付ファイル「別表　該当する疾病の例」をご覧ください。）\n2.臓器の移植を受けた後、免疫の機能を抑制する治療を受けたこと\n3.医学的知見に基づき1又は2に準ずると認められるもの\n別表　該当する疾病の例 （PDF 190.5KB）新しいウィンドウで開きます;https://www.city.higashikurume.lg.jp/_res/projects/default_project/_page_/001/001/182/choukisippei.pdf"
+  },
+  "updateDate": "2024-04-08",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

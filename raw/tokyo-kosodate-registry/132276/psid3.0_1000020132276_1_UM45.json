@@ -1,0 +1,154 @@
+{
+  "area": {
+    "areaCode": "132276;羽村市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉健康部 健康課（保健センター内）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132276",
+    "psid": "psid3.0+1000020132276+1+UM45"
+  },
+  "belongings": "利用の際は、必ず健康保険証をお持ちください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "（保健センター係）内線622　（健康推進係）内線624",
+    "contactName": "福祉健康部 健康課（保健センター内）",
+    "contactPhone": "042-555-1111",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "年齢・症状によっては、他医療機関を紹介する場合があります。事前に問い合わせてください。",
+  "description": "休日診療・休日準夜診療・休日歯科診療\n初版公開日:[2021年07月30日]更新日：[2024年7月3日]ID:6931\n\n受診を希望される方へ\n休日診療を受診される前に、必ず電話連絡をした上で、ご来院ください。\nなお、受診にあたり、マスク着用を含む咳エチケットについて、ご協力いただきますようお願いいたします。\n\n休日診療・休日準夜診療・休日歯科診療\n・診療は、急患患者に限ります。往診はありません。\n・利用の際は、必ず健康保険証をお持ちください。\n・小児科受診について、年齢・症状によっては、他医療機関を紹介する場合があります。事前に問い合わせてください。\n・各医院によって受付時間が異なる場合があります。\n・休日準夜診療は内科系の診療となります。\n・当番医療機関が急きょ変更になる場合があります。市役所または保健センターで確認してください。\n\nhttps://www.city.hamura.tokyo.jp/0000006931.html\n小林病院（埼玉県入間市）の受診について＜受診前に必ずご確認ください＞\n・高校生年代以上の診察を基本とした病院ですので、受診前に病院に電話をして受診可能か問い合わせてください。（04-2934-5121）\n・小さなお子さんの受診相談は、下記「東京都内の休日診療のお問い合わせ先」を参照していただくか、子どもの健康相談室（#8000）をご利用ください。\n・受診当日は、診察の内容に関わらず預かり金として1万円をお支払いいただきます。そのため、後日病院の通常診療時間に再度来院し、精算をする必要があります。\n・マル青、マル障などの医療証をお持ちの方は、都外での診療となるため、後日羽村市役所の各窓口で償還払いの申請が必要となります。\n　詳しくは瑞穂町公式サイト（別ウインドウで開く）; https://www.town.mizuho.tokyo.jp/emergency/002/p001832.htmlをご覧ください。\n\nこの記事を見ている人はこんな記事も見ています\n平日夜間急患センター; https://www.city.hamura.tokyo.jp/0000001480.html\n救急診療; https://www.city.hamura.tokyo.jp/0000005440.html\n\nこの記事と同じ分類の記事\n休日診療・休日準夜診療・休日歯科診療; https://www.city.hamura.tokyo.jp/0000006931.html\n平日夜間急患センター; https://www.city.hamura.tokyo.jp/0000001480.html\n【市内の医療機関と介護サービス事業所を掲載】医療・介護マップ; https://www.city.hamura.tokyo.jp/0000010999.html\n保健センター、平日夜間急患センター、西多摩保健所、市内の医療機関、公立福生病院; https://www.city.hamura.tokyo.jp/0000001484.html\n救急診療; https://www.city.hamura.tokyo.jp/0000005440.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "市公式サイトをご確認ください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "市内協力医療機関・歯科医療機関、羽村市平日夜間急患センター"
+  },
+  "institutionName": {
+    "canonicalName": "夜間・休日急病診療所",
+    "shortName": "休日診療・休日準夜診療・休日歯科診療等"
+  },
+  "localGovernmentLink": {
+    "title": "休日診療・休日準夜診療・休日歯科診療",
+    "uri": "https://www.city.hamura.tokyo.jp/0000006931.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "羽村市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "受診される前に、必ず電話連絡をした上で、ご来院ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "平日夜間急患センター",
+      "uri": "https://www.city.hamura.tokyo.jp/0000001480.html"
+    },
+    {
+      "title": "救急診療",
+      "uri": "https://www.city.hamura.tokyo.jp/0000005440.html"
+    },
+    {
+      "title": "【市内の医療機関と介護サービス事業所を掲載】医療・介護マップ",
+      "uri": "https://www.city.hamura.tokyo.jp/0000010999.html"
+    },
+    {
+      "title": "平日夜間急患センター",
+      "uri": "https://www.city.hamura.tokyo.jp/0000001480.html"
+    },
+    {
+      "title": "保健センター、平日夜間急患センター、西多摩保健所、市内の医療機関、公立福生病院",
+      "uri": "https://www.city.hamura.tokyo.jp/0000001484.html"
+    },
+    {
+      "title": "休日診療・休日準夜診療・休日歯科診療",
+      "uri": "https://www.city.hamura.tokyo.jp/0000006931.html"
+    },
+    {
+      "title": "保健センター、平日夜間急患センター、西多摩保健所、市内の医療機関、公立福生病院",
+      "uri": "https://www.city.hamura.tokyo.jp/0000001484.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "羽村市では、夜間や日曜・祝日、年末年始に、市内の医療機関の協力のもと、当番制で診療を行っています。",
+  "support": {
+    "description": "夜間や日曜・祝日、年末年始の救急医療",
+    "materiallySupport": "医師による診療・調剤等",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "小児科受診について、年齢・症状によっては、他医療機関を紹介する場合があります。事前に問い合わせてください。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-07-03",
+  "useConsiderationFlag": false,
+  "utilization": "受診される前に、必ず電話連絡をした上で、ご来院ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": "10:00",
+    "toHM": "16:00"
+  }
+}

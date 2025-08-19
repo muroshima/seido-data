@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132292;西東京市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132292",
+    "psid": "psid3.0+1000020132292+1+UM792"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "西東京市中町一丁目5番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康課",
+    "contactPhone": "042-438-4021",
+    "contactUrl": null,
+    "zipCode": "2028555"
+  },
+  "cost": null,
+  "costConditions": "無料",
+  "description": "5歳児歯科健康診査\n\n「永久歯を迎える準備はできましたか」\n\nまもなく初めての大人の歯がはえてきます。かかりつけの歯医者さんで定期的にお子さんの歯のチェックをしていますか。\n一人一人に合った専門家からのアドバイスを受け、永久歯のむし歯ゼロを目指しましょう。\n\n5歳児歯科健康診査\n対象\n市内在住の平成31年4月2日から令和2年4月1日生まれのお子さん\n\n費用\n無料\n\n内容\n歯科健診、相談、保護者および対象児に対する歯科保健指導、フッ化物塗布（健診結果により、必要に応じて先生とご相談ください。）\n\n健診期間\n令和6年8月1日（木曜日）から令和6年10月31日（木曜日）まで\n\n受診方法\n対象の方には、7月末に受診票を郵送します。\n添付されている健診実施指定歯科医療機関に電話で日時を予約してください。\n（注記）転入された方などで、受診票が届かなかった場合は、健康課保健係（電話：042-438-4037）までご連絡ください。\n\nむし歯のある子どもは年々減っています。\nまもなくはえてくる大切な永久歯のお話や、むし歯予防のアドバイスがありますので、最近歯科健診を受診したお子さんでも是非お受けください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "令和6年8月1日（木曜日）から令和6年10月31日（木曜日）まで",
+    "fromHM": null,
+    "fromYMD": "2024-08-01",
+    "toHM": null,
+    "toYMD": "2024-10-31"
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児の歯の健康診査（▲歳児歯科健康診査）",
+    "shortName": "5歳児歯科健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "5歳児歯科健康診査",
+    "uri": "https://www.city.nishitokyo.lg.jp/kosodate/bosi/sinsa/5saijishika.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-10",
+    "updater": "西東京市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": "平成31年4月2日から令和2年4月1日生まれ",
+  "summary": "永久歯を迎える準備はできましたか。間もなく初めての大人の歯がはえてきます。5歳児歯科健康診査を受けて、永久歯のむし歯のゼロをめざしましょう。",
+  "support": {
+    "description": "歯科健診、相談、保護者および対象児に対する歯科保健指導、フッ化物塗布（健診結果により、必要に応じて先生とご相談ください。）",
+    "materiallySupport": "歯科健診、相談、保護者および対象児に対する歯科保健指導、フッ化物塗布（健診結果により、必要に応じて先生とご相談ください。）",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "市内在住の平成31年4月2日から令和2年4月1日生まれのお子さん"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "対象の方には、7月末に受診票を郵送します。\n添付されている健診実施指定歯科医療機関に電話で日時を予約してください。\n（注記）転入された方などで、受診票が届かなかった場合は、健康課保健係（電話：042-438-4037）までご連絡ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

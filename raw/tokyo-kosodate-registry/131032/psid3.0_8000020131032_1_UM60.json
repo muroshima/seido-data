@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援センター家庭相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+1+UM60"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "受付時間\n平日：午前8時30分～午後6時\n土曜日：午前8時30分～午後5時\n\n休日\n日曜、祝日、年末年始（12月29日～1月3日）",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援センター家庭相談係",
+    "contactPhone": "03-5962-7214",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ひとり親家庭高等職業訓練促進給付金\n養成機関で保育士などの資格を目的として修学する場合、高等職業訓練促進給付金を支給し、生活の負担の軽減を図ります。\n\n対象資格\n・看護師\n・准看護師\n・介護福祉士\n・保育士\n・理学療法士\n・作業療法士\n・保健師\n・助産師\n・理容師\n・美容師\n・歯科衛生士\n・社会福祉士\n・製菓衛生士\n・調理師\n・シスコシステムズ認定資格\n・LPI認定資格\n\n支給額\n・修学期間中：月額10万円又は7万500円（最後の12か月は月額4万円増額となります。）\n・修了後：5万円又は2万5千円\n\n対象\n次のすべての要件を満たすひとり親（20歳未満の子を扶養している世帯）の父または母\n・児童扶養手当の受給者あるいは同等の所得水準の方\n・養成機関においてカリキュラムを修学し、対象資格の取得が見込まれる方\n・就業または育児と修学の両立が困難であると認められる方\n・過去にひとり親家庭高等職業訓練促進給付金を受給していない方\n\n受付時間\n平日：午前8時30分～午後6時\n土曜日：午前8時30分～午後5時\n\n休日\n日曜、祝日、年末年始（12月29日～1月3日）\n\nお問い合わせ先\n子ども家庭支援センター家庭相談係\n\n03-5962-7214",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "日曜、祝日、年末年始（12月29日～1月3日）",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "高等職業訓練促進給付金",
+    "shortName": "ひとり親家庭高等職業訓練促進給付金"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親家庭の母親又は父親が就労のために職業能力開発のための講座や職業訓練を受けたいのですが、どのような支援がありますか。",
+    "uri": "https://www.city.minato.tokyo.jp/kateisoudan/faq/046.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "港区"
+  },
+  "procedureCounter": "子ども家庭支援センター家庭相談係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": "受付時間\n平日：午前8時30分～午後6時\n土曜日：午前8時30分～午後5時\n\n休日\n日曜、祝日、年末年始（12月29日～1月3日）",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第31条（母子家庭自立支援給付金）、第31条の10（父子家庭自立支援給付金）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭の母または父が、就業に結びつきやすい対象資格（看護師や介護福祉士など）を取得するため1年以上（令和3年4月1日から令和4年3月31日までに修業を開始する場合には6月以上）、養成機関で修業する場合に、修業期間中の生活の負担軽減のために高等職業訓練促進給付金を、また修業終了時に高等職業訓練修了支援給付金を支給します。",
+  "support": {
+    "description": "・修学期間中：月額10万円又は7万500円（最後の12か月は月額4万円増額となります。）\n・修了後：5万円又は2万5千円",
+    "materiallySupport": null,
+    "monetarySupport": "・修学期間中：月額10万円又は7万500円（最後の12か月は月額4万円増額となります。）\n・修了後：5万円又は2万5千円"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "20歳未満",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次のすべての要件を満たすひとり親（20歳未満の子を扶養している世帯）の父または母\n・児童扶養手当の受給者あるいは同等の所得水準の方\n・養成機関においてカリキュラムを修学し、対象資格の取得が見込まれる方\n・就業または育児と修学の両立が困難であると認められる方\n・過去にひとり親家庭高等職業訓練促進給付金を受給していない方"
+  },
+  "updateDate": "2024-04-05",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

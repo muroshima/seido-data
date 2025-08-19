@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132195;狛江市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　児童育成課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132195",
+    "psid": "psid3.0+8000020132195+1+UM72"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "多子世帯・ひとり親世帯・障がい者世帯等への軽減\n①多子世帯に対する軽減\n保護者と同一生計の子どもを対象に年齢の高い順に数えて、第２子以降無料となります\n（令和５年 10 月からの東京都の制度に基づきます）。\n②ひとり親・障がい者世帯等に対する軽減\n市区町村民税所得割課税額が 77,100 円以下のひとり親・障がい者世帯等は、同一生計の\n子どもの年齢に関わらず、第 1 子半額、第 2 子以降無料となります（国の制度に基づきま\nす）。\n※「ひとり親・障がい者世帯等」とは、母子（父子）世帯又は同一生計者に障害者手帳\n（身体・療育・精神等）が交付されている方、特別児童扶養手当を受給している方、\n障害年金を受給している方がいる世帯です。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "多子世帯・ひとり親世帯・在宅障がい児（者）のいる世帯の保育料軽減",
+    "shortName": "多子世帯・ひとり親世帯・障がい者世帯等への軽減"
+  },
+  "localGovernmentLink": {
+    "title": "入園のしおり",
+    "uri": "https://www.city.komae.tokyo.jp/index.cfm/41,130182,c,html/130182/20231012-154739.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-01",
+    "updater": "狛江市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第２条、第３条",
+    "regulationName": "狛江市認証保育所等入所児童保護者負担軽減補助金交付要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子ども・子育て支援新制度による給付を受ける幼稚園や保育園などを利用するお子さんのうち、多子世帯やひとり親世帯、在宅障がい児（障がい者）のいる世帯などの保育料を軽減しています。",
+  "support": {
+    "description": "①多子世帯に対する軽減\n保護者と同一生計の子どもを対象に年齢の高い順に数えて、第２子以降無料となります\n（令和５年 10 月からの東京都の制度に基づきます）。\n②ひとり親・障がい者世帯等に対する軽減\n市区町村民税所得割課税額が 77,100 円以下のひとり親・障がい者世帯等は、同一生計の\n子どもの年齢に関わらず、第 1 子半額、第 2 子以降無料となります（国の制度に基づきま\nす）。",
+    "materiallySupport": null,
+    "monetarySupport": "①多子世帯に対する軽減\n保護者と同一生計の子どもを対象に年齢の高い順に数えて、第２子以降無料となります\n（令和５年 10 月からの東京都の制度に基づきます）。\n②ひとり親・障がい者世帯等に対する軽減\n市区町村民税所得割課税額が 77,100 円以下のひとり親・障がい者世帯等は、同一生計の\n子どもの年齢に関わらず、第 1 子半額、第 2 子以降無料となります（国の制度に基づきま\nす）。"
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "多子世帯\n保護者と同一生計の子ども\n「ひとり親・障がい者世帯等」とは、母子（父子）世帯又は同一生計者に障害者手帳\n（身体・療育・精神等）が交付されている方、特別児童扶養手当を受給している方、\n障害年金を受給している方がいる世帯です。"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "area": {
+    "areaCode": "132152;国立市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会 教育部 教育総務課 学務保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132152",
+    "psid": "psid3.0+1000020132152+3+UM126"
+  },
+  "belongings": "「学校健康診断結果のお知らせ」コピー(診察結果の記入・指定医療機関の押印があるもの)\n領収書原本(診療日・受療者氏名の明記されたもの。レシート不可。コピー不可)\n印鑑\n就学援助認定通知書\nマイナンバーのわかるもの",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "国立市富士見台2-47-1 国立市役所 3階(41番窓口)",
+    "contactComment": "ファクス：042-576-3277",
+    "contactEmail": null,
+    "contactEx": "(内線：332,333)",
+    "contactName": "教育委員会 教育部 教育総務課 学務保健係",
+    "contactPhone": "042-576-2111",
+    "contactUrl": "https://www.city.kunitachi.tokyo.jp/cgi-bin/inquiry.php/83?page_no=7049",
+    "zipCode": "1868501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "医療費援助について\n就学援助の認定を受けた児童・生徒が、学校の定期健康診断で対象疾病の治療の指示を受けた場合に、その治療費(健康保険適用の場合の本人負担分。調剤薬局での薬代を除く)を支給するものです。\n子ども医療費助成制度(マル子医療証)との併用も可能です。\n治療の際は、指定校医にて受診されることをお勧めします。\n\n令和6年度指定医療機関一覧 (PDFファイル: 187.3KB);https://www.city.kunitachi.tokyo.jp/material/files/group/63/gakkoiR6.pdf\n\n対象疾病\nう歯(虫歯)\nトラコーマ\n結膜炎\n白癬\n疥癬\n中耳炎\nアデノイド\n慢性副鼻腔炎\n寄生虫病\n膿痂疹\n必要書類\n「学校健康診断結果のお知らせ」コピー(診察結果の記入・指定医療機関の押印があるもの)\n領収書原本(診療日・受療者氏名の明記されたもの。レシート不可。コピー不可)\n印鑑\n就学援助認定通知書\nマイナンバーのわかるもの\n申請までの流れ\n学校の定期健康診断で、対象疾病の治療の指示を受ける。(「学校健康診断結果のお知らせ」で対象疾病の欄にチェックがある状態です。)\n指定医療機関で治療を受け、治療終了後に「学校健康診断結果のお知らせ」に診察結果の記入、押印をもらう。また必ず領収書をもらう。\n疾病の悪化防止、早期完治の観点から、直ちに治療を開始してください。就学援助の認定通知が到着する前に治療を受けても構いません。\n診察結果の記入及び医師の押印済みの「学校健康診断結果のお知らせ」を、コピーを取ってから、原本を学校に提出する。\n領収書(原本)と「学校健康診断結果のお知らせ」コピーを持って、教育総務課学務保健係の窓口にて申請する。\n対象者・申請期間\n医療費援助の対象者：就学援助4月から6月認定者(4月から5月に申請し、認定された方)\n医療費援助の申請期間：12月末まで。早めの治療をお願いします。\n(注)学校健康診断の実施状況に応じ、対象認定月を拡大する場合がございます。 \n\n関連情報\n就学援助：1.制度概要;https://www.city.kunitachi.tokyo.jp/kosodate/gakkokyoiku/4/4/1/7042.html\n\n就学援助：2.対象者について;https://www.city.kunitachi.tokyo.jp/soshiki/Dept08/Div01/Sec02/gyomu/0047/0048/1461060239505.html\n\n就学援助：3.申請方法・提出上の注意事項;https://www.city.kunitachi.tokyo.jp/soshiki/Dept08/Div01/Sec02/gyomu/0047/0048/1461060239673.html\n\n就学援助：5.よくある質問;https://www.city.kunitachi.tokyo.jp/soshiki/Dept08/Div01/Sec02/gyomu/0047/0048/1461060240259.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "医療費援助の対象者：就学援助4月から6月認定者(4月から5月に申請し、認定された方)\n医療費援助の申請期間：12月末まで。早めの治療をお願いします。\n(注)学校健康診断の実施状況に応じ、対象認定月を拡大する場合がございます。 ",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "https://www.city.kunitachi.tokyo.jp/material/files/group/63/gakkoiR6.pdf",
+    "implementationName": "https://www.city.kunitachi.tokyo.jp/material/files/group/63/gakkoiR6.pdf"
+  },
+  "institutionName": {
+    "canonicalName": "小学校・中学校の就学援助費",
+    "shortName": "医療費援助"
+  },
+  "localGovernmentLink": {
+    "title": "就学援助：4.認定通知、支給時期等(申請された方へ)",
+    "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept08/Div01/Sec02/gyomu/0047/0048/1461060240074.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "国立市"
+  },
+  "procedureCounter": "教育総務課学務保健係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請までの流れ\n学校の定期健康診断で、対象疾病の治療の指示を受ける。(「学校健康診断結果のお知らせ」で対象疾病の欄にチェックがある状態です。)\n指定医療機関で治療を受け、治療終了後に「学校健康診断結果のお知らせ」に診察結果の記入、押印をもらう。また必ず領収書をもらう。\n疾病の悪化防止、早期完治の観点から、直ちに治療を開始してください。就学援助の認定通知が到着する前に治療を受けても構いません。\n診察結果の記入及び医師の押印済みの「学校健康診断結果のお知らせ」を、コピーを取ってから、原本を学校に提出する。\n領収書(原本)と「学校健康診断結果のお知らせ」コピーを持って、教育総務課学務保健係の窓口にて申請する。\n対象者・申請期間\n医療費援助の対象者：就学援助4月から6月認定者(4月から5月に申請し、認定された方)\n医療費援助の申請期間：12月末まで。早めの治療をお願いします。\n(注)学校健康診断の実施状況に応じ、対象認定月を拡大する場合がございます。 ",
+  "procedurePeriod": {
+    "conditions": "医療費援助の対象者：就学援助4月から6月認定者(4月から5月に申請し、認定された方)\n医療費援助の申請期間：12月末まで。早めの治療をお願いします。\n(注)学校健康診断の実施状況に応じ、対象認定月を拡大する場合がございます。 ",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第19条",
+    "regulationName": "学校教育法"
+  },
+  "relatedLink": [
+    {
+      "title": "就学援助：3.申請方法・提出上の注意事項",
+      "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept08/Div01/Sec02/gyomu/0047/0048/1461060239673.html"
+    },
+    {
+      "title": "令和6年度指定医療機関一覧 (PDFファイル: 187.3KB)",
+      "uri": "https://www.city.kunitachi.tokyo.jp/material/files/group/63/gakkoiR6.pdf"
+    },
+    {
+      "title": "就学援助：1.制度概要",
+      "uri": "https://www.city.kunitachi.tokyo.jp/kosodate/gakkokyoiku/4/4/1/7042.html"
+    },
+    {
+      "title": "就学援助：2.対象者について",
+      "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept08/Div01/Sec02/gyomu/0047/0048/1461060239505.html"
+    },
+    {
+      "title": "就学援助：5.よくある質問",
+      "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept08/Div01/Sec02/gyomu/0047/0048/1461060240259.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "経済的な理由により就学が困難と認められる、公立の小学校・中学校に通学する児童・生徒の保護者を対象に、学用品費、修学旅行費、給食費などを支給します。",
+  "support": {
+    "description": "就学援助の認定を受けた児童・生徒が、学校の定期健康診断で対象疾病の治療の指示を受けた場合に、その治療費(健康保険適用の場合の本人負担分。調剤薬局での薬代を除く)を支給するものです。\n子ども医療費助成制度(マル子医療証)との併用も可能です。\n治療の際は、指定校医にて受診されることをお勧めします。\n\n令和6年度指定医療機関一覧 (PDFファイル: 187.3KB);https://www.city.kunitachi.tokyo.jp/material/files/group/63/gakkoiR6.pdf\n\n対象疾病\nう歯(虫歯)\nトラコーマ\n結膜炎\n白癬\n疥癬\n中耳炎\nアデノイド\n慢性副鼻腔炎\n寄生虫病\n膿痂疹",
+    "materiallySupport": null,
+    "monetarySupport": "就学援助の認定を受けた児童・生徒が、学校の定期健康診断で対象疾病の治療の指示を受けた場合に、その治療費(健康保険適用の場合の本人負担分。調剤薬局での薬代を除く)を支給するものです。\n子ども医療費助成制度(マル子医療証)との併用も可能です。\n治療の際は、指定校医にて受診されることをお勧めします。\n\n令和6年度指定医療機関一覧 (PDFファイル: 187.3KB);https://www.city.kunitachi.tokyo.jp/material/files/group/63/gakkoiR6.pdf\n\n対象疾病\nう歯(虫歯)\nトラコーマ\n結膜炎\n白癬\n疥癬\n中耳炎\nアデノイド\n慢性副鼻腔炎\n寄生虫病\n膿痂疹"
+  },
+  "tag": {
+    "categoryCode": [
+      "005"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "092"
+    ]
+  },
+  "target": {
+    "conditions": "就学援助の認定を受けた児童・生徒",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "医療費援助の対象者：就学援助4月から6月認定者(4月から5月に申請し、認定された方)\n医療費援助の申請期間：12月末まで。早めの治療をお願いします。\n(注)学校健康診断の実施状況に応じ、対象認定月を拡大する場合がございます。"
+  },
+  "updateDate": "2024-03-06",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "医療費援助の申請期間：12月末まで。早めの治療をお願いします。",
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132144;国分寺市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子育て相談室　母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132144",
+    "psid": "psid3.0+1000020132144+3+UM31"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-320-1181開庁時間：午前8時30分から午後6時\n閉庁日：土曜日、日曜日、祝日、年末・年始",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子育て相談室　母子保健係",
+    "contactPhone": "042-321-1802",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "\\ｎ妊娠期のクラス出産・産後に向けた心と体づくりのクラスです。出産に向けたからだと心をご夫婦で作りましょう！1．心と体づくりについて　2．簡単なエクササイズ　3．妊婦ジャケット体験（妊婦さんの体の負担を体験し、家事分担などの参考に）\\ｎ産後イメージクラス\\ｎ産後のお母さんの変化と赤ちゃんがいる生活をイメージしながら、家族の生活を考えましょう！1．沐浴体験　2．産後の生活について　3．参加者同士の情報交換など\\ｎ歯と栄養のおはなしのクラス　＆　ハンドリング\\ｎ1．お口の中の健康　2．妊娠中・産後の栄養　3．赤ちゃんのお世話に使えるハンドリング\\ｎ赤ちゃん人形を使って赤ちゃんのお世話を体験してみましょう！",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "ママ・パパの子育てをサポート「ぶんじ子育てナビ」",
+      "uri": "https://www.city.kokubunji.tokyo.jp/kurashi/kodomo/kenkou/1028250.html"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "両親学級・妊婦学級",
+    "shortName": "令和７年度両親学級"
+  },
+  "localGovernmentLink": {
+    "title": "令和７年度　両親学級",
+    "uri": "https://www.city.kokubunji.tokyo.jp/kurashi/kodomo/1012499/1033638.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025ｰ06ｰ20",
+    "updater": "国分寺市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "「ぶんじ子育てナビ」または　ゆいぼっこ～地域につなげるサポーター’S～　電話：070-6424-5531　メールアドレス：yuibocco@gmail.com",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第3条（乳幼児の健康の保持増進）、9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "令和７年度より両親学級を「ゆいぼっこ～地域につなげるサポーター＇S」に委託して実施します。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": "国分寺市に住民登録がある主に初産の妊婦及びそのパートナー",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "国分寺市に住民登録がある主に初産の妊婦及びそのパートナー"
+  },
+  "updateDate": "2025/05/09",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

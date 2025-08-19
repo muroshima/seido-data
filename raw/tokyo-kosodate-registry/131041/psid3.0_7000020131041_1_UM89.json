@@ -1,0 +1,511 @@
+{
+  "area": {
+    "areaCode": "131041;新宿区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 保育課 入園・認定係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020131041",
+    "psid": "psid3.0+7000020131041+1+UM89"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "FAX：03-3209-2795",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 保育課 入園・認定係",
+    "contactPhone": "03-5273-4527",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "https://www.city.shinjuku.lg.jp/kodomo/hoiku01_002036.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "認可保育所・認定こども園（保育園枠）一覧",
+    "shortName": "認可保育園・認定こども園・地域型保育事業 一覧"
+  },
+  "localGovernmentLink": {
+    "title": "認可保育園・認定こども園・地域型保育事業 一覧",
+    "uri": "https://www.city.shinjuku.lg.jp/kodomo/hoiku01_002036.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-01",
+    "updater": "新宿区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "よくあるご質問（新規ウィンドウ表示）",
+      "uri": "https://www.city.shinjuku.lg.jp/kodomo/file04_07_00024.html"
+    },
+    {
+      "title": "大久保第一保育園",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/map18-1.html"
+    },
+    {
+      "title": "高田馬場第二保育園",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/map18-4.html"
+    },
+    {
+      "title": "長延保育園",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/map18-5.html"
+    },
+    {
+      "title": "富久町保育園",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/map18-6.html"
+    },
+    {
+      "title": "戸山第二保育園",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/map18-7.html"
+    },
+    {
+      "title": "中落合第二保育園",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/map18-8.html"
+    },
+    {
+      "title": "西早稲田保育園",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/map18-9.html"
+    },
+    {
+      "title": "東五軒町保育園",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/map18-10.html"
+    },
+    {
+      "title": "百人町保育園",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/map18-11.html"
+    },
+    {
+      "title": "弁天町保育園",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/map18-12.html"
+    },
+    {
+      "title": "早稲田南町保育園",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/map18-13.html"
+    },
+    {
+      "title": "早稲田南町保育園分園",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/map18-31.html"
+    },
+    {
+      "title": "アイグラン保育園落合",
+      "uri": "https://www.city.shinjuku.lg.jp/shisetsu/map33-4_00002.html"
+    },
+    {
+      "title": "アイグラン保育園西新宿",
+      "uri": "https://www.city.shinjuku.lg.jp/shisetsu/map35_0001.html"
+    },
+    {
+      "title": "アスク神楽坂保育園",
+      "uri": "https://www.city.shinjuku.lg.jp/shisetsu/map30-10.html"
+    },
+    {
+      "title": "アスク北新宿保育園",
+      "uri": "https://www.city.shinjuku.lg.jp/shisetsu/map02-1904.html"
+    },
+    {
+      "title": "アスク新宿南町保育園",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/map18-30.html"
+    },
+    {
+      "title": "アスク薬王寺保育園",
+      "uri": "https://www.city.shinjuku.lg.jp/shisetsu/map33-4_00001.html"
+    },
+    {
+      "title": "ウィズブック保育園中落合",
+      "uri": "https://www.city.shinjuku.lg.jp/shisetsu/map03-1904_00002.html"
+    },
+    {
+      "title": "エイビイシイ保育園",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/map18-14.html"
+    },
+    {
+      "title": "オルト保育園",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/map18-25.html"
+    },
+    {
+      "title": "キッズガーデン新宿西落合",
+      "uri": "https://www.city.shinjuku.lg.jp/shisetsu/map03-1904.html"
+    },
+    {
+      "title": "キッズタウン下落合保育園",
+      "uri": "https://www.city.shinjuku.lg.jp/shisetsu/map28-30.html"
+    },
+    {
+      "title": "きゃんばす東新宿保育園",
+      "uri": "https://www.city.shinjuku.lg.jp/shisetsu/map36_0001.html"
+    },
+    {
+      "title": "クオリスキッズおおくぼ保育園",
+      "uri": "https://www.city.shinjuku.lg.jp/shisetsu/map04-1904.html"
+    },
+    {
+      "title": "グローバルキッズ愛住町園",
+      "uri": "https://www.city.shinjuku.lg.jp/shisetsu/map33-4_00003.html"
+    },
+    {
+      "title": "グローバルキッズ神楽坂園",
+      "uri": "https://www.city.shinjuku.lg.jp/shisetsu/map29-18.html"
+    },
+    {
+      "title": "グローバルキッズ西落合保育園",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/kuseijoho01_002177.html"
+    },
+    {
+      "title": "グローバルキッズ西新宿園",
+      "uri": "https://www.city.shinjuku.lg.jp/shisetsu/map33-4_00004.html"
+    },
+    {
+      "title": "グローバルキッズ若葉園",
+      "uri": "https://www.city.shinjuku.lg.jp/shisetsu/map31-18.html"
+    },
+    {
+      "title": "獅子吼保育園",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/map18-15.html"
+    },
+    {
+      "title": "至誠会保育園",
+      "uri": "https://www.city.shinjuku.lg.jp/shisetsu/map18-16.html"
+    },
+    {
+      "title": "下落合そらいろ保育園",
+      "uri": "https://www.city.shinjuku.lg.jp/shisetsu/map33-4.html"
+    },
+    {
+      "title": "小学館アカデミー飯田橋ガーデン保育園",
+      "uri": "https://www.city.shinjuku.lg.jp/shisetsu/map05-1904.html"
+    },
+    {
+      "title": "新栄保育園",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/map18-17.html"
+    },
+    {
+      "title": "新宿こだま保育園",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/map18-26.html"
+    },
+    {
+      "title": "新宿成子坂愛育園",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/map18-19.html"
+    },
+    {
+      "title": "新宿三つの木保育園もりさんかくしかく",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/map18-28.html"
+    },
+    {
+      "title": "太陽の子　新小川町保育園",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/map30-5.html"
+    },
+    {
+      "title": "東京母子愛育会保育園",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/map18-20.html"
+    },
+    {
+      "title": "にじいろ保育園市谷加賀町",
+      "uri": "https://www.city.shinjuku.lg.jp/shisetsu/map03-1904_00006.html"
+    },
+    {
+      "title": "にじいろ保育園高田馬場西",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/kuseijoho01_002178.html"
+    },
+    {
+      "title": "にじいろ保育園高田馬場東",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/hoiku01_002178_00001.html"
+    },
+    {
+      "title": "にじいろ保育園高田馬場南",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/map30-4.html"
+    },
+    {
+      "title": "にじいろ保育園西早稲田",
+      "uri": "https://www.city.shinjuku.lg.jp/shisetsu/map03-1904_00005.html"
+    },
+    {
+      "title": "にじいろ保育園四ツ谷",
+      "uri": "https://www.city.shinjuku.lg.jp/shisetsu/map03-1904_00004.html"
+    },
+    {
+      "title": "ニチイキッズ曙橋保育園",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/map18-32.html"
+    },
+    {
+      "title": "八幡神社愛育園",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/map18-21.html"
+    },
+    {
+      "title": "原町みゆき保育園",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/map18-22.html"
+    },
+    {
+      "title": "ぴっころきっず西早稲田",
+      "uri": "https://www.city.shinjuku.lg.jp/shisetsu/map03-1904_00003.html"
+    },
+    {
+      "title": "二葉南元保育園",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/map18-23.html"
+    },
+    {
+      "title": "フロンティアキッズ曙橋",
+      "uri": "https://www.city.shinjuku.lg.jp/shisetsu/map03-1904_00001.html"
+    },
+    {
+      "title": "フロンティアキッズ新宿",
+      "uri": "https://www.city.shinjuku.lg.jp/shisetsu/map06-1904.html"
+    },
+    {
+      "title": "フロンティアキッズ夏目坂",
+      "uri": "https://www.city.shinjuku.lg.jp/shisetsu/map03-1904_00008.html"
+    },
+    {
+      "title": "保育所まぁむ高田馬場駅前園",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/map18-33.html"
+    },
+    {
+      "title": "ぽけっとランド市ヶ谷保育園",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/kuseijoho01_002175.html"
+    },
+    {
+      "title": "ほっぺるランド牛込",
+      "uri": "https://www.city.shinjuku.lg.jp/shisetsu/hmap18-31.html"
+    },
+    {
+      "title": "ほっぺるランド神楽坂",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/kuseijoho01_002176.html"
+    },
+    {
+      "title": "ほっぺるランド上落合",
+      "uri": "https://www.city.shinjuku.lg.jp/shisetsu/map33-4_00008.html"
+    },
+    {
+      "title": "ほっぺるランド北新宿",
+      "uri": "https://www.city.shinjuku.lg.jp/shisetsu/map33-4_00006.html"
+    },
+    {
+      "title": "ほっぺるランド新大久保",
+      "uri": "https://www.city.shinjuku.lg.jp/shisetsu/hmap18-32.html"
+    },
+    {
+      "title": "ほっぺるランド早稲田鶴巻町",
+      "uri": "https://www.city.shinjuku.lg.jp/shisetsu/map33-4_00007.html"
+    },
+    {
+      "title": "ポピンズナーサリースクール市ヶ谷",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/kuseijoho01_002179.html"
+    },
+    {
+      "title": "ポピンズナーサリースクール西新宿",
+      "uri": "https://www.city.shinjuku.lg.jp/shisetsu/map03-1904_00007.html"
+    },
+    {
+      "title": "ポピンズナーサリースクール四ッ谷",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/kuseijoho01_002174.html"
+    },
+    {
+      "title": "ルーチェ保育園西新宿",
+      "uri": "https://www.city.shinjuku.lg.jp/shisetsu/map35_0001_00001.html"
+    },
+    {
+      "title": "あいじつ子ども園",
+      "uri": "http://www.city.shinjuku.lg.jp/kodomo/file04_07_23_00000.html"
+    },
+    {
+      "title": "大木戸子ども園",
+      "uri": "http://www.city.shinjuku.lg.jp/kodomo/kodomoen01_001032.html"
+    },
+    {
+      "title": "おちごなかい子ども園",
+      "uri": "https://www.city.shinjuku.lg.jp/kodomo/file04_07_26_00001.html"
+    },
+    {
+      "title": "柏木子ども園",
+      "uri": "http://www.city.shinjuku.lg.jp/kodomo/file04_07_25_00000.html"
+    },
+    {
+      "title": "北新宿子ども園",
+      "uri": "http://www.city.shinjuku.lg.jp/kodomo/kodomoen01_001036.html"
+    },
+    {
+      "title": "しなのまち子ども園",
+      "uri": "http://www.city.shinjuku.lg.jp/kodomo/kodomoen01_001033.html"
+    },
+    {
+      "title": "戸山第一子ども園",
+      "uri": "http://www.city.shinjuku.lg.jp/kodomo/kodomoen01_001034.html"
+    },
+    {
+      "title": "西落合子ども園",
+      "uri": "http://www.city.shinjuku.lg.jp/kodomo/kodomoen01_001035.html"
+    },
+    {
+      "title": "西新宿子ども園",
+      "uri": "http://www.city.shinjuku.lg.jp/kodomo/file04_07_24_00000.html"
+    },
+    {
+      "title": "四谷子ども園",
+      "uri": "http://www.city.shinjuku.lg.jp/kodomo/file04_07_21_00000.html"
+    },
+    {
+      "title": "大久保わかくさ子ども園",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/map30-1.html"
+    },
+    {
+      "title": "しんえい子ども園",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/map18-34.html"
+    },
+    {
+      "title": "しんじゅくいるまこども園",
+      "uri": "https://www.city.shinjuku.lg.jp/shisetsu/map18-29.html"
+    },
+    {
+      "title": "新宿せいが子ども園",
+      "uri": "https://www.city.shinjuku.lg.jp/shisetsu/map18-18.html"
+    },
+    {
+      "title": "ChaCha Children Higashitoyama",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/map18-35.html"
+    },
+    {
+      "title": "富久ソラのこども園ちいさなうちゅう",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/map30-2.html"
+    },
+    {
+      "title": "富久ソラのこども園ちいさなうちゅう",
+      "uri": "http://www.city.shinjuku.lg.jp/shisetsu/map30-3.html"
+    },
+    {
+      "title": "認定こども園新宿ベアーズ",
+      "uri": "https://www.city.shinjuku.lg.jp/shisetsu/map01-1904.html"
+    },
+    {
+      "title": "保育ルームえどがわ園",
+      "uri": "http://www.city.shinjuku.lg.jp/kodomo/hoiku01_000001.html"
+    },
+    {
+      "title": "保育ルームおちにすくすく園",
+      "uri": "http://www.city.shinjuku.lg.jp/kodomo/hoiku01_000001.html"
+    },
+    {
+      "title": "保育ルームつるまき園",
+      "uri": "http://www.city.shinjuku.lg.jp/kodomo/hoiku01_000001.html"
+    },
+    {
+      "title": "保育ルームべんてん",
+      "uri": "http://www.city.shinjuku.lg.jp/kodomo/hoiku01_000001.html"
+    },
+    {
+      "title": "キッズパオ防衛省市ヶ谷保育園",
+      "uri": "http://www.city.shinjuku.lg.jp/kodomo/hoiku01_002032.html"
+    },
+    {
+      "title": "とちょう保育園",
+      "uri": "http://www.city.shinjuku.lg.jp/kodomo/hoiku01_002032.html"
+    },
+    {
+      "title": "もみの樹園事業所内保育所",
+      "uri": "http://www.city.shinjuku.lg.jp/kodomo/hoiku01_002032.html"
+    },
+    {
+      "title": "認可保育園等の入園（転園）申込みのご案内（新規ウィンドウ表示）",
+      "uri": "https://www.city.shinjuku.lg.jp/kodomo/hoiku01_002099_00001.html"
+    },
+    {
+      "title": "入園申込み等の電子申請（新規ウィンドウ表示）",
+      "uri": "https://www.city.shinjuku.lg.jp/kodomo/hoiku01_002099_00002.html"
+    },
+    {
+      "title": "新宿区立子ども園［幼稚園機能］ 園児募集のご案内（新規ウィンドウ表示）",
+      "uri": "https://www.city.shinjuku.lg.jp/kodomo/gakko02_000003_00001.html"
+    },
+    {
+      "title": "延長保育のご案内（新規ウィンドウ表示）",
+      "uri": "https://www.city.shinjuku.lg.jp/kodomo/file04_07_00017.html"
+    },
+    {
+      "title": "定期利用保育のご案内（新規ウィンドウ表示）",
+      "uri": "https://www.city.shinjuku.lg.jp/kodomo/hoiku01_002085_00002.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育園とは、保護者が仕事や病気などのために、家庭で充分に保育することができない子どもを、保護者に代わって保育することを目的とした児童福祉施設で、法的には保育所といいます。\n保育所（保育園）のうち、国が定めた設定基準をクリアし、都道府県知事（政令市・中核市では市長）に認可された保育園を「認可保育所」といいます。\n認可保育所には公立の保育園と私立の保育園があります。\n以下は、新宿区内の認可保育所（保育園）および認定こども園の保育園枠の一覧です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2023-11-06",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

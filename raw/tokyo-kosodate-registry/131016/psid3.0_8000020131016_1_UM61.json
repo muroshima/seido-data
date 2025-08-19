@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局子ども部子育て推進課手当・医療係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+1+UM61"
+  },
+  "belongings": "1.児童扶養手当証書\n2.申請者の写真（脱帽正面向、上半身、無背景、たて4センチ×よこ3センチ）（JR通勤定期乗車券の割引申請用）\n3.印鑑",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区九段南1-2-1",
+    "contactComment": null,
+    "contactEmail": "kosodatesuishin@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "教育委員会事務局子ども部子育て推進課手当・医療係",
+    "contactPhone": "03-5211-4230",
+    "contactUrl": null,
+    "zipCode": "1028688"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "児童扶養手当を受給している方またはその方と同一世帯の方で、都営交通を利用する方のうちお一人様が発行を受けられます。\n\n更新手続き\n無料乗車券は毎年誕生日月に更新手続きが必要になります。\n\n再発行\n紛失、盗難、焼失等により旧券がなくなった場合には、1回に限り同一使用者で再発行できます。\n\n名義変更\n無料乗車券の使用者を変更したい場合は、旧券を持参した場合で同一世帯員に限り、名義変更ができます。旧券を持参しなかった場合（紛失等）は名義変更ができません。\n\nその他の助成\n児童扶養手当を受給している方は、JR通勤定期乗車券の割引、都営水道料金の免除、粗大ごみ等収集手数料の免除も受けられます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自のひとり親の方への金銭的支援",
+    "shortName": "都営交通無料パス等"
+  },
+  "localGovernmentLink": {
+    "title": "都営交通無料パス等",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/hitorioya/teate/toekotsu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": "子育て推進課手当・医療係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第31条（母子家庭自立支援給付金）、第31条の10（父子家庭自立支援給付金）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童扶養手当を受給している方またはその方と同一世帯の方で、都営交通を利用する方のうちお一人様が発行を受けられます。",
+  "support": {
+    "description": "都営交通無料パス",
+    "materiallySupport": "都営交通無料パス",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "児童扶養手当を受給している方またはその方と同一世帯の方"
+  },
+  "updateDate": "2015-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "都電、都バス、都営地下鉄に乗車するときは、無料乗車券を係員に提示してください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

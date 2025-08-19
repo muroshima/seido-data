@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健所保健予防課保健予防係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+1+UM29"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健所保健予防課保健予防係",
+    "contactPhone": "042-725-5422",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "身体の機能が未熟のまま出生し、入院養育が必要と認められた方（1歳未満）を対象に、養育医療指定医療機関における入院中の医療費（健康保険適用）の自己負担分および入院中の食事代（ミルク代）の自己負担分を助成します。\n\n保健予防課が申請を受理し、給付を決定した場合、申請者に養育医療券を郵送します。養育医療指定医療機関の窓口に養育医療券と保険証を提示することにより、助成を受けることができます。\n\n〇退院後の再入院の場合、養育医療の対象になりません。\n\n〇お子様が多胎児の場合、上記必要書類（6・7以外）は、お子様の人数分必要です。 書類を請求される際には担当者にお申し付けください。\n\n〇発行される医療券には、指定医療機関名・お子様の保険証の記号番号等が記載されています。指定医療機関を転院する場合、お子様の保険証が変更された場合等は、別途医療券の発行の手続きが必要となりますのでご注意ください。申請書類が必要な場合には、お問い合わせください。\n\n町田市未熟児養育医療費助成の詳細については、こちらをご覧ください。(PDFファイル:280.5KB)\nhttps://kosodate-machida.tokyo.jp/material/files/group/4/202108261.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "未熟児養育医療の給付",
+    "shortName": "未熟児養育医療費助成"
+  },
+  "localGovernmentLink": {
+    "title": "未熟児養育医療費助成",
+    "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/8/4696.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": "〒194-8520\n東京都町田市森野2-2-22\n町田市保健所 保健予防課 保健予防係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "1.養育医療申請書\n2.養育医療意見書\n3.世帯調書\n4.マル乳・マル子医療費助成支給申請書\n5.委任状\n6.アンケート\n7.マイナンバー（個人番号）に関する書類および申請者の本人確認書類\nを下記住所までご郵送いただくか、保健予防課保健予防係（市庁舎7階）までご持参ください。\n\n所要期間\n申請を受理後、3週間程度で申請者に養育医療券を郵送します。（申請書類に不備があった場合、養育医療券の郵送が遅くなる場合があります。）",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第20条（養育医療）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "養育医療の給付を申請される方へ",
+      "uri": "https://kosodate-machida.tokyo.jp/material/files/group/4/202108261.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "身体の機能が未熟のまま出生し、入院養育が必要と認められた方（1歳未満）を対象に、養育医療指定医療機関における入院中の医療費（健康保険適用）の自己負担分および入院中の食事代（ミルク代）の自己負担分を助成します。",
+  "support": {
+    "description": "養育医療指定医療機関における入院中の医療費および食事代を助成します。",
+    "materiallySupport": "養育医療指定医療機関における入院中の医療費および食事代を助成します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088",
+      "089",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "次の1または2に該当する新生児\n\n1.出生時体重が2,000グラム以下の方\n2.生活力が特に薄弱であって、次のいずれかの症状がある方\n\nア 一般状況（運動不安・けいれん・運動異常）\nイ 体温が摂氏34度以下\nウ 呼吸器、循環器系（強度のチアノーゼが持続、呼吸数が毎分30以下等）\nエ 消化器系（生後24時間以上排便がない、48時間以上嘔吐が持続等）\nオ 黄だん（生後数時間以内に出現、異常に強い等）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次の1または2に該当する新生児\n\n1.出生時体重が2,000グラム以下の方\n2.生活力が特に薄弱であって、次のいずれかの症状がある方\n\nア 一般状況（運動不安・けいれん・運動異常）\nイ 体温が摂氏34度以下\nウ 呼吸器、循環器系（強度のチアノーゼが持続、呼吸数が毎分30以下等）\nエ 消化器系（生後24時間以上排便がない、48時間以上嘔吐が持続等）\nオ 黄だん（生後数時間以内に出現、異常に強い等）"
+  },
+  "updateDate": "2021-05-21",
+  "useConsiderationFlag": true,
+  "utilization": "養育医療指定医療機関の窓口に養育医療券と保険証を提示することにより、助成を受けることができます。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

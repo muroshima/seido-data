@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132284;あきる野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭部 こども家庭センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132284",
+    "psid": "psid3.0+1000020132284+1+UM64"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭部 こども家庭センター母子保健係",
+    "contactPhone": "042-550-3340",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "小児慢性特定疾病医療費助成\n18歳未満の児童で悪性新生物、慢性腎疾患などの対象疾病にかかっているお子さんの医療費を助成します。所得に応じて一部負担金があります。東京都の事業になりますので、詳しくは東京都福祉局のホームページをご覧ください。;https://www.fukushi.metro.tokyo.lg.jp/kodomo//kosodate/josei/syoman/index.html\n\n※申請の際には、マイナンバーが必要となります。\n\n対象者\n18歳未満の児童で、次の疾患にかかっている方。\n1　悪性新生物（がん）\n\n2　慢性腎疾患\n\n3　慢性呼吸器疾患\n\n4　慢性心疾患\n\n5　内分泌疾患\n\n6　膠原病\n\n7　糖尿病\n\n8　先天性代謝異常\n\n9　血液疾患\n\n10　免疫疾患\n\n11　神経・筋疾患\n\n12　慢性消化器疾患\n\n13　染色体または遺伝子に変化を伴う症候群\n\n14　皮膚疾患群\n\n15　骨系統疾患\n\n16　脈管系疾患\n\n※18歳に達した時点で、小児慢性特定疾病の医療券をお持ちの方で、引き続き医療を受ける場合は、20歳未満まで延長することができます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "小児慢性特定疾病医療費の助成",
+    "shortName": "小児慢性特定疾病医療費助成"
+  },
+  "localGovernmentLink": {
+    "title": "小児慢性特定疾病医療費助成",
+    "uri": "https://www.city.akiruno.tokyo.jp/0000005924.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "あきる野市"
+  },
+  "procedureCounter": "こども家庭センター母子保健係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "東京都の事業になりますので、詳しくは東京都福祉局のホームページをご覧ください。;https://www.fukushi.metro.tokyo.lg.jp/kodomo//kosodate/josei/syoman/index.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第19条の2～第19条の8",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子どもの慢性疾病のうち、治療期間が長く、医療費負担が高額となる疾病について、治療方法の確立と普及、患者家庭の医療費の負担軽減につながるよう、医療費の自己負担分を補助しています。",
+  "support": {
+    "description": "18歳未満の児童で悪性新生物、慢性腎疾患などの対象疾病にかかっているお子さんの医療費を助成します。所得に応じて一部負担金があります。",
+    "materiallySupport": null,
+    "monetarySupport": "18歳未満の児童で悪性新生物、慢性腎疾患などの対象疾病にかかっているお子さんの医療費を助成します。所得に応じて一部負担金があります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "※18歳に達した時点で、小児慢性特定疾病の医療券をお持ちの方で、引き続き医療を受ける場合は、20歳未満まで延長することができます。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "18歳未満の児童で、次の疾患にかかっている方。\n1　悪性新生物（がん）\n\n2　慢性腎疾患\n\n3　慢性呼吸器疾患\n\n4　慢性心疾患\n\n5　内分泌疾患\n\n6　膠原病\n\n7　糖尿病\n\n8　先天性代謝異常\n\n9　血液疾患\n\n10　免疫疾患\n\n11　神経・筋疾患\n\n12　慢性消化器疾患\n\n13　染色体または遺伝子に変化を伴う症候群\n\n14　皮膚疾患群\n\n15　骨系統疾患\n\n16　脈管系疾患\n\n※18歳に達した時点で、小児慢性特定疾病の医療券をお持ちの方で、引き続き医療を受ける場合は、20歳未満まで延長することができます。"
+  },
+  "updateDate": "2024-04-04",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

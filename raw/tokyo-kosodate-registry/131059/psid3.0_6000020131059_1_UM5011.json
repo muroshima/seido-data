@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "131059;文京区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健衛生部・文京保健所保健サービスセンター,保健衛生部・文京保健所保健サービスセンター本郷支所",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131059",
+    "psid": "psid3.0+6000020131059+1+UM5011"
+  },
+  "belongings": "母子健康手帳",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都文京区春日1丁目16番21号\nシビックセンター3階(健診フロア）、8階北側（事務室）,東京都文京区千駄木5丁目20番18号",
+    "contactComment": "ファクス番号：03-5803-1371,ファクス番号：03-3822-9174",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健衛生部・文京保健所保健サービスセンター,保健衛生部・文京保健所保健サービスセンター本郷支所",
+    "contactPhone": "03-5803-1807,03-3821-5106",
+    "contactUrl": "https://logoform.jp/form/6KSu/554248,https://logoform.jp/form/6KSu/554248",
+    "zipCode": "1128555,1130022"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ネウボラ面接（妊婦面接）\n感染症予防対策をした上で、ネウボラ面接（妊婦面接）を行っています。\n\n来所の際は、感染予防に留意してお越しください。\n\n妊娠は、病気ではないというものの、お母さんの体や心に与える影響は大きいものです。\n\n多くの妊婦さんは、妊娠が分かり楽しみな反面、気になることや不安・心配ごとをお持ちだと思います。\n\n保健サービスセンターでは、安心して妊娠・出産・子育てができるよう、母子保健コーディネーター（保健師）が全ての妊婦の皆様と面接をさせていただきたいと考えています。\n\nその上で、たとえば・・・\n\n「妊娠中の健康管理について」「子育ての準備について」「家族やパートナーとの関係」などの相談に応じるほか、必要に応じて関係機関や様々な子育て支援サービスをご紹介いたします。\n\nお気軽にご利用ください。\n\n面接の実施方法\n保健サービスセンター、保健サービスセンター本郷支所で、妊婦本人が妊娠届を提出されたときは、その場で、母子保健コーディネーターが面接をさせていただきます（予約不要）。\n区民サービスコーナーで妊娠届を出された方、妊婦本人以外が提出された方、転入された妊婦の方は、妊婦ご本人が妊娠中に母子健康手帳を持参の上、午前8時30分から午後5時の間に管轄の保健サービスセンターへお越しください(予約不要）。母子保健コーディネーターが面接をさせていただきます。\nネウボラ面接の写真;https://www.city.bunkyo.lg.jp/images/1561/2021127162712_1.jpg\n\n育児パッケージの配付\n妊娠を祝福し、生まれてくる赤ちゃんを歓迎して「育児パッケージ（PDF：3,229KB）」;https://www.city.bunkyo.lg.jp/documents/1561/ikuzipakkezir6.pdfを配付します。\n\n対象\n区内在住で妊娠届を提出し、ネウボラ面接を受けた妊婦\n\n産後の方は対象外です。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "保健サービスセンター,保健サービスセンター本郷支所"
+  },
+  "institutionName": {
+    "canonicalName": "伴走型相談支援",
+    "shortName": "ネウボラ面接"
+  },
+  "localGovernmentLink": {
+    "title": "ネウボラ面接（妊婦面接）・妊婦訪問",
+    "uri": "https://www.city.bunkyo.lg.jp/b029/p001562.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "文京区"
+  },
+  "procedureCounter": "管轄の保健サービスセンター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "予約不要",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "妊娠届を出された方、妊婦本人以外が提出された方、転入された妊婦の方",
+  "regulation": {
+    "regulationArticle": "別紙：伴走型相談支援及び出産・子育て応援給付金の一体的実施事業実施要綱「伴走型相談支援」（別添１）",
+    "regulationName": "伴走型相談支援及び出産・子育て応援給付金の一体的実施事業の実施について（子発1226第1号 令和4年12月26日）"
+  },
+  "relatedLink": [
+    {
+      "title": "育児パッケージ（PDF：3",
+      "uri": "https://www.city.bunkyo.lg.jp/documents/1561/ikuzipakkezir6.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "すべての妊婦さんと子育て家庭が安心して出産・子育てができるように、妊娠から出産・子育てまでの一貫した「伴走型相談支援」を実施しています。",
+  "support": {
+    "description": "「妊娠中の健康管理について」「子育ての準備について」「家族やパートナーとの関係」などの相談に応じるほか、必要に応じて関係機関や様々な子育て支援サービスをご紹介いたします。",
+    "materiallySupport": "「妊娠中の健康管理について」「子育ての準備について」「家族やパートナーとの関係」などの相談に応じるほか、必要に応じて関係機関や様々な子育て支援サービスをご紹介いたします。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊婦本人"
+  },
+  "updateDate": "2024-05-16",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "午前8時30分から午後5時の間に管轄の保健サービスセンターへお越しください",
+    "fromHM": "08:30",
+    "toHM": "17:00"
+  }
+}

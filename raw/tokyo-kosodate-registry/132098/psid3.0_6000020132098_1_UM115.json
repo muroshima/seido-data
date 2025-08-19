@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども生活部子ども家庭支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+1+UM115"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども生活部子ども家庭支援課",
+    "contactPhone": "042-724-4419",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/9",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "「子どもが泣き止まないんです・・・」\n\n「しつけの仕方がわからない」\n\n「イヤイヤ期、どう乗り越えたらいいのか不安」\n\n「育児で疲れました」\n\nこのような悩みはありませんか？",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "土曜、日曜、祝日、年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "町田市森野2-2-22 町田市役所2階204窓口",
+    "implementationName": "電話以外にも、市役所の窓口での相談や、職員がご自宅に訪問しての相談もできます。"
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関する相談",
+    "shortName": "子育てに関する相談"
+  },
+  "localGovernmentLink": {
+    "title": "子育てのこと、ひとりで悩んでいませんか？",
+    "uri": "https://kosodate-machida.tokyo.jp/soshiki/4/5/5/1166.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第30条の4第2項",
+    "regulationName": "医療法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "町田市内の子育てに関する相談窓口の一覧です。",
+  "support": {
+    "description": "ひとりで悩まないで、子ども家庭支援課へご相談ください\n電話：042-724-4419\n【平日午前8時30分〜午後5時 ただし、土曜、日曜、祝日、年末年始は除く】\nファックス：050-3101-9631\n住所：町田市森野2-2-22 町田市役所2階204窓口\n電話で相談\n電話以外にも、市役所の窓口での相談や、職員がご自宅に訪問しての相談もできます。\n\n子ども家庭支援課以外にも相談できる場所があります\n◆町田市地域子育て相談センター\nhttps://kosodate-machida.tokyo.jp/mokuteki/3/4/2774.html\n子どもセンターまあち、金森保育園、子どもセンターつるっこ、山崎保育園、子どもセンターぱおに併設しています。\n\n◆その他の相談先（町田市ホームページ）\nhttps://www.city.machida.tokyo.jp/iryo/hokenjo/jouhou/nayaminosoudansaki.html\n「保健・福祉」「教育」「いじめ」などの相談先の一覧を掲載しています。",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "18歳未満の子どもを育てる保護者等",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "18歳未満の子どもを育てる保護者等"
+  },
+  "updateDate": "2022-11-09",
+  "useConsiderationFlag": false,
+  "utilization": "子ども家庭支援課へご相談ください\n電話：042-724-4419\n【平日午前8時30分〜午後5時 ただし、土曜、日曜、祝日、年末年始は除く】\nファックス：050-3101-9631\n住所：町田市森野2-2-22 町田市役所2階204窓口\n電話で相談\n電話以外にも、市役所の窓口での相談や、職員がご自宅に訪問しての相談もできます。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "平日午前8時30分〜午後5時 ただし、土曜、日曜、祝日、年末年始は除く",
+    "fromHM": "08:30",
+    "toHM": "17:00"
+  }
+}

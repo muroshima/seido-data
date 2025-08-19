@@ -1,0 +1,136 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て応援課子育て応援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+2+UM25"
+  },
+  "belongings": "「契約書」、「支給認定証」、「入所保留通知書（育休満了者は不要）」",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区立石5-13-1　葛飾区役所4階　401番子育て支援窓口",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て応援課子育て応援係",
+    "contactPhone": "03-5654-6357",
+    "contactUrl": null,
+    "zipCode": "1248555"
+  },
+  "cost": "150",
+  "costConditions": "子ども1人あたり、1時間",
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自のベビーシッター費用の助成",
+    "shortName": "ベビーシッター利用支援事業"
+  },
+  "localGovernmentLink": {
+    "title": "ベビーシッター利用支援事業",
+    "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1002333/1019965.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": "〒124-8555 葛飾区立石五丁目13番1号\n葛飾区子育て支援部子育て応援課子育て応援係\n電話：03-5654-6357",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "子育て支援サービスの無償化について",
+      "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1030197/1021308/1021371/1021551.html"
+    },
+    {
+      "title": "ベビーシッターなどを利用するときの留意点（厚生労働省）（外部リンク）",
+      "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/kodomo_kosodate/babysitter/index.html"
+    },
+    {
+      "title": "東京都HP（ベビーシッター利用支援事業）（外部リンク）",
+      "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/hoiku/bs/jigyoushalist.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "東京都のベビーシッター利用支援事業を活用し、認可保育所等の入所先が決定するまでの間、東京都が認定した事業者のベビーシッターを利用する保護者に対して、利用料の一部を助成します。",
+  "support": {
+    "description": "東京都が認定した事業者のベビーシッターを利用する保護者に対して、利用料の一部を助成します。\n（1） ベビーシッター利用料\n1時間当たり利用料150円（税込）\n（入会金、キャンセル料、保険料等が別途必要です。直接事業者にお問い合わせください。）\n\n（2）ベビーシッターの交通費助成\n交通費の支払いがある場合は、月額20,000円上限に助成します。\n詳細は下記の「交通費助成金のご案内」をご覧ください。\n\n※申請書類は、本ページ下部の添付ファイルにあります。\n交通費助成金のご案内 （PDF 135.0KB）",
+    "materiallySupport": null,
+    "monetarySupport": "東京都が認定した事業者のベビーシッターを利用する保護者に対して、利用料の一部を助成します。\n\n交通費の支払いがある場合は、月額20,000円上限に助成します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "3歳になった日以降の最初の3月31日まで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "（1）0歳から2歳児クラスで保育施設の入所申し込みをしたが、入所保留となったお子さんの保護者\n（2）0歳児で保育所等への入所申込みをせず1年間の育児休業を満了した後、お子さんの1歳の誕生日から復職する保護者（以下「育休満了者」といいます。）（復職日以降、お子さんが満1歳に達した後の3月末日まで利用できます。保育認定が必要です。）\n※本事業は、東京都の実施要綱に基づき葛飾区が実施しているものですが、対象年齢は、東京都の利用約款に記載の「0～5歳児クラス」ではなく「0～2歳児クラス」としております。また「夜間帯保育を必要とする保護者」については、葛飾区では実施しておりません。"
+  },
+  "updateDate": "2021-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "（1）子育て応援課子育て応援係（電話：03-5654-6357）へ連絡し、この事業の利用案内の説明を受け、ご自身が対象者である旨の通知（対象者確認書）を受け取ります。「ベビーシッター利用支援事業利用案内（パンフレット）」と「ベビーシッター利用支援事業利用約款（東京都）」の内容を十分確認の上、利用を検討してください。\n・ベビーシッター利用支援事業利用案内（パンフレット）（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/hoiku/bs/bs5nendo.files/R6riyouannai.pdf\n・ベビーシッター利用支援事業利用約款（東京都）（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/hoiku/bs/bs5nendo.files/R6riyouyakkan.pdf\n\n※育休満了者の場合は、「対象者確認書交付申請書」をご郵送またはご持参ください。支給認定証をお持ちでない場合は、支給認定申請書のご提出も必要になりますので、保育課入園相談係（電話：03-5654-8278）へご連絡ください。\n\n（2） 東京都福祉局のホームページに掲載されている認定事業者の一覧の中から、希望の事業者を選択して事業者に連絡します。（「東京都のベビーシッター利用支援事業を使いたい」旨を必ず伝えてください。）\n・東京都HP（ベビーシッター利用支援事業 認定事業者）（外部リンク）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/hoiku/bs/jigyoushalist.html\n\n（3） 事業者との面談を経て、契約が成立したら、「契約書」、「支給認定証」、「入所保留通知書（育休満了者は不要）」を持って初回利用予定日の10開庁日前までに区役所4階401番子育て支援窓口に行き、東京都の利用約款への同意書にサインをして、この事業の専用システムを利用するためのアカウントの発行を申し込みます。（後日、アカウントが郵送で通知されます。）\n【お知らせ】郵送でも手続きができます。郵送の場合は、下記（添付ファイル）の「令和7年度 アカウント発行申請書・利用約款への同意について」を記載し、「契約書」の写し、「支給認定証」の写し、「入所保留通知書（育休満了者は不要）」の写しを同封の上、子育て応援課子育て応援係までご郵送ください。\n\n（4） 利用の際、システムから発行された助成券コード（番号）をベビーシッターに伝えます。（利用者には、利用者負担額のみが請求されます。）\n\n（5）ベビーシッターの交通費を月額20,000円上限で補助しますので、下記（添付ファイル）の申請書に領収書を添付し子育て応援課子育て応援係まで提出してください。\n\n（6）育休満了者の場合は、復職してから1か月以内に「復職証明書」を子育て応援課子育て応援係までご提出ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "（日曜日、祝日、年末年始、児童が体調不良の場合、保護者が休暇の日、産休及び育休中は利用できません。）",
+    "fromHM": "07:00",
+    "toHM": "22:00"
+  }
+}

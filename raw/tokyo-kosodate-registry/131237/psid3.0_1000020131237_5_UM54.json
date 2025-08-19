@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部保健予防課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+5+UM54"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部保健予防課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e054/kuseijoho/gaiyo/soshiki/kenko/hokenyobo.html",
+    "zipCode": null
+  },
+  "cost": "0",
+  "costConditions": "（注）ただし、指定医療機関以外で接種する場合、予診票を持参しない場合、対象年齢を1日でも過ぎた場合は有料となります。",
+  "description": "ジフテリアはジフテリア菌により発生する疾病です。その発生は最後に報告されたのが、1999年であり稀になりましたが、かつては年間8万人以上の患者が発生し、そのうち10％程度が亡くなっていた重要な病気です。\n主に気道の分泌物によってうつり、喉などに感染して毒素を放出します。この毒素が心臓の筋肉や神経に作用することで、眼球や横隔膜（呼吸に必要な筋肉）などの麻痺、心不全等を来たして、重篤になる場合や亡くなってしまう場合があります。\n破傷風は、破傷風菌により発生し、かかった場合に亡くなる割合が非常に高い病気です。以前は新生児の発生もみられましたが、近年は30歳以上の成人を中心に患者が発生しています。\n主に傷口に菌が入り込んで感染を起こし毒素を通して、さまざまな神経に作用します。口が開き難い、顎が疲れるといった症状に始まり、歩行や排尿・排便の障害などを経て、最後には全身の筋肉が固くなって体を弓のように反り返らせたり、息ができなくなったりし、亡くなることもあります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "11歳から13歳未満まで",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "区内指定医療機関https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/iryokikan.html"
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "二種混合（ジフテリア・破傷風）"
+  },
+  "localGovernmentLink": {
+    "title": "五種混合・四種混合・二種混合ワクチン予防接種",
+    "uri": "https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/dptipv.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "予診票の送付時期\n生後2か月になる月の上旬",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "予防接種法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "二種混合（ジフテリア・破傷風）は、ジフテリア、破傷風の2つの疾病に対する予防接種のことです。これらの疾病は、感染すると重篤な症状を引き起こすことがありますが、予防接種によって感染を予防することができます。二種混合の予防接種は、11歳から13歳未満までの子どもを対象としています。",
+  "support": {
+    "description": "接種回数・スケジュール\n3回（27日以上の間隔をおいて2回接種した後、第1回目の接種から139日以上の間隔をおいて1回接種）\n\n■標準的な接種期間\n生後2か月から生後9か月に至るまで",
+    "materiallySupport": "予防接種の助成を行います。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "11歳から13歳未満まで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 11,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "11歳から13歳未満までの方"
+  },
+  "updateDate": "2023-03-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

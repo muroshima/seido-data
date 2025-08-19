@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131075;墨田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131075",
+    "psid": "psid3.0+6000020131075+1+UM61"
+  },
+  "belongings": "児童扶養手当証書",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "墨田区吾妻橋一丁目23番20号",
+    "contactComment": "（直通）",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "墨田区役所 子ども・子育て支援部　子育て支援課　児童手当・医療助成係",
+    "contactPhone": "03-5608-6376",
+    "contactUrl": null,
+    "zipCode": "1308640"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "児童扶養手当\n\n優遇制度\n児童扶養手当を受給している方（手当が支給されている方）に限り、次の手続きが可能です。\n新規に児童扶養手当を申請された方は、児童扶養手当証書が届いた後に手続きが可能です。\n\n（1）都営交通無料乗車券の交付\n都電・都バス・都営地下鉄・日暮里・舎人ライナーの『無料乗車券』を交付できます。\n\n無料乗車券の交付を受けられる方\n児童扶養手当受給者の方又はその方と同一世帯の方で、都営交通を利用する方のうちの1名が交付を受けられます。\n※生活保護を受給されている方は生活福祉課で交付を受けてください。\n\n無料乗車券の交付を受けるときの手続き\n次の書類をお持ちになり、区役所4階の子育て支援課の窓口へ申請してください。\n\n無料乗車券発行申請書（子育て支援課の窓口にあります）\n児童扶養手当証書\n※無料乗車券は1年間通用しますが、毎年更新する必要があります。継続を希望される方は、旧券をお持ちください。\n※旧券をお持ちの場合で同一世帯員に限り、名義変更することができます。\n※紛失、盗難、焼失等により再交付の申し出があった場合で、旧券がないときは、1回に限り同一使用者で再交付できます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自のひとり親の方への金銭的支援",
+    "shortName": "都営交通無料乗車券の交付"
+  },
+  "localGovernmentLink": {
+    "title": "児童扶養手当",
+    "uri": "https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/teate_jyosei_shien/teate_zyosei/teate/jidouhuyouteate.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-01",
+    "updater": "墨田区"
+  },
+  "procedureCounter": "区役所4階の子育て支援課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "次の書類をお持ちになり、区役所4階の子育て支援課の窓口へ申請してください。\n\n無料乗車券発行申請書（子育て支援課の窓口にあります）\n児童扶養手当証書\n※無料乗車券は1年間通用しますが、毎年更新する必要があります。継続を希望される方は、旧券をお持ちください。\n※旧券をお持ちの場合で同一世帯員に限り、名義変更することができます。\n※紛失、盗難、焼失等により再交付の申し出があった場合で、旧券がないときは、1回に限り同一使用者で再交付できます。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2条",
+    "regulationName": "東京都都営交通無料乗車券発行規程"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童扶養手当を受給している方（手当が支給されている方）に限り、都電・都バス・都営地下鉄・日暮里・舎人ライナーの『無料乗車券』を交付できます。",
+  "support": {
+    "description": "都電・都バス・都営地下鉄・日暮里・舎人ライナーの『無料乗車券』を交付できます。",
+    "materiallySupport": null,
+    "monetarySupport": "都電・都バス・都営地下鉄・日暮里・舎人ライナーの『無料乗車券』を交付できます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "児童扶養手当受給者の方又はその方と同一世帯の方で、都営交通を利用する方のうちの1名が交付を受けられます。\n※生活保護を受給されている方は生活福祉課で交付を受けてください。"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

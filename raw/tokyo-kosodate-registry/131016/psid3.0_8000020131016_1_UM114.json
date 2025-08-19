@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "千代田保健所地域保健課健康企画係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+1+UM114"
+  },
+  "belongings": "健康保険証・こども医療証などの各医療証とおくすり手帳",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区九段北1-2-14",
+    "contactComment": null,
+    "contactEmail": "chiikihoken@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "千代田保健所地域保健課健康企画係",
+    "contactPhone": "03-5211-8163",
+    "contactUrl": null,
+    "zipCode": "1020073"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ちよだこども救急室では、日本大学病院と区内2医師会の小児科医が交代でお子さんの診療を行っています。平日の診療時間終了後に、お子さんの急な発熱や腹痛などを起こした時に安心して受診することができます。\n\n【診療場所】\n日本大学病院 1階救急室\n千代田区神田駿河台1-6\n電話番号：03-3293-1711（代表）\n\n【診療日・診療時間】\n月曜日～金曜日（祝日・年末年始（12/29～1/3）及び日本大学病院の休診日を除く）\n午後7時～10時（受付時間は午後6時45分～9時45分）\n\n【注意事項】\n1.受診するときは、あらかじめ電話でお問い合わせください。\n2.健康保険証・こども医療証などの各医療証とおくすり手帳をお持ちください。\n3.応急診療所のため、定期的に受診することはできません。\n4.治癒証明書、登校許可証等の発行はできませんので、かかりつけ医等にお問い合わせください。\n\n【ちよだこども救急室の開設時間外に、急な病気やケガで対応に迷ったら】\n東京消防庁救急相談センター（24時間）＃7119へお電話ください。\n（「＃7119」にお電話してもつながらない場合は、電話：03-3212-2323へお電話ください）\n受けられるサービス\n・症状に基づく緊急性の有無のアドバイス\n・受診の必要性に関するアドバイス\n・医療機関案内",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "土曜・日曜・祝日・年末年始・日本大学病院の休診日",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "千代田区神田駿河台1-6",
+    "implementationName": "日本大学病院 1階救急室"
+  },
+  "institutionName": {
+    "canonicalName": "小児科救急",
+    "shortName": "ちよだこども救急室（平日準夜間小児初期救急診療）"
+  },
+  "localGovernmentLink": {
+    "title": "ちよだこども救急室（平日準夜間小児初期救急診療）",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kyubyo/kyukyu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第30条の4第2項",
+    "regulationName": "医療法"
+  },
+  "relatedLink": [
+    {
+      "title": "ちよだこども救急室案内ちらし（PDF：388KB）",
+      "uri": "https://www.city.chiyoda.lg.jp/documents/1286/r2kodomokyukyu.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "千代田区では、平日の準夜間帯に日本大学病院内に「ちよだこども救急室」を開設し、お子さんの急な発熱や腹痛など、入院を必要としない救急診療を行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "027"
+    ],
+    "contentsCode": [
+      "082"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 15,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "15歳（中学生）以下の初期救急患者"
+  },
+  "updateDate": "2024-04-08",
+  "useConsiderationFlag": false,
+  "utilization": "受診するときは、あらかじめ電話でお問い合わせください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日～金曜日（祝日・年末年始（12/29～1/3）及び日本大学病院の休診日を除く）",
+    "fromHM": "18:45",
+    "toHM": "21:45"
+  }
+}

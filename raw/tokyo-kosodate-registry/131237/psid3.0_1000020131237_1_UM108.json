@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "文化共育部健全育成課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM108"
+  },
+  "belongings": null,
+  "capacity": "「ユースサポート」各館20名程度",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "文化共育部健全育成課",
+    "contactPhone": "03-5662-9023",
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e027/kuseijoho/gaiyo/soshiki/bunka/kenzen.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "「共育プラザ」は江戸川区内に7か所あり、中高生が自分らしくいられる場所となっています。また不登校等児童の居場所として「ユースサポート」を実施しており、専門職を配置し、生活の支援・学習支援・食の支援など一人ひとりに寄り添った支援をしています。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "「共育プラザ」（7館内訳）①共育プラザ小岩　北小岩2-14-17　②共育プラザ平井　平井7－21－6　③共育プラザ葛西　宇喜田町175　④共育プラザ南小岩　南小岩4-5-8　⑤共育プラザ一之江　一之江3-13-7　⑥共育プラザ南篠崎　南篠崎町3-12-8　⑦共育プラザ中央　松島1-38-1グリーンパレス新館2F/5F",
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "児童館",
+    "shortName": null
+  },
+  "localGovernmentLink": {
+    "title": "共育プラザ",
+    "uri": "https://www.city.edogawa.tokyo.jp/kyoiku_plaza/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-10-24",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "共育・協働の理念を実践する場として、地域における世代間交流を通じ、青少年の健全な育成を図る施設です。共育プラザでは以下の事業を行っています。　　　　　　　　　　　　　　　　　　　　　　①中学生・高校生の活動支援　②子育て支援　③世代間交流",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "中学生及び高校生・乳幼児と保護者"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "午前9時00分～午後9時00（年末年始を除く）",
+    "fromHM": "09:00",
+    "toHM": "21:00"
+  }
+}

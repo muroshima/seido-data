@@ -1,0 +1,137 @@
+{
+  "area": {
+    "areaCode": "132241;多摩市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センター母子保健担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132241",
+    "psid": "psid3.0+3000020132241+1+UM15"
+  },
+  "belongings": "利用承認通知書と母子（親子）健康手帳",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都多摩市関戸四丁目19番5号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭センター母子保健担当",
+    "contactPhone": "042-376-9177",
+    "contactUrl": null,
+    "zipCode": "2060011"
+  },
+  "cost": null,
+  "costConditions": "・1回500円（住民税非課税世帯・生活保護世帯は利用料金0円）",
+  "description": "産後ケア事業\n\n利用できる方\n多摩市に住民票がある出産後1年未満の赤ちゃんとお母さんで、以下のいずれかに該当する方\n\n・家族などから家事、育児等の十分な産後の援助が受けられない\n\n・産後や育児の疲れから体や心の調子がすぐれない\n\n・育児について専門職に相談したい\n\nケアの内容\n・お母さんの身体のケアや産後の生活の指導、栄養指導\n\n・お母さんの乳房ケアなど適切な授乳ができるためのケア\n\n・沐浴や抱き方などの育児の手技についての具体的な指導および相談\n\n訪問型\n自宅でお母さんや、赤ちゃんの体調に合わせた助産師によるケアを受けることができます。\n\n【利用可能日】\n\n・月曜日から金曜日（年末年始・祝日を除く）\n\n【利用可能時間】\n\n・9時から17時（1回2時間以内）\n\n【利用可能回数】\n\n・5回まで\n\n【利用料金】\n\n・1回500円（住民税非課税世帯・生活保護世帯は利用料金0円）\n\nご利用の流れ\n訪問型・宿泊型共通\nご利用（ご予約）には事前の申請が必要です。\n\n・電子で申請してください。ご出産前でも申請できます。\n\n産後ケア電子申請（外部リンク）;https://logoform.jp/form/4N4o/212326\n・申請内容を確認しましたら、利用承認通知書をご自宅に郵送いたします。\n\n訪問型\n・利用承認通知書が届いた後に、希望する助産師に直接電話またはショートメッセージで予約をしてください。\n\n※受付は月曜日から金曜日（祝休日を除く）の9時から16時です。\n\n・当日、利用料金を助産師に直接お支払いください。\n\n・当日、利用承認通知書を持参し、実施施設で印鑑またはサインをもらいます。\n\n産後ケアちらし1;https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/010/679/suraido1.jpg\n\n産後ケアちらし2;https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/010/679/suraido2.jpg",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "産後ケア電子申請",
+      "uri": "https://logoform.jp/form/4N4o/212326"
+    }
+  ],
+  "holiday": "年末年始・祝日",
+  "implementationPeriod": {
+    "conditions": "【利用可能日】\n\n・月曜日から金曜日（年末年始・祝日を除く）\n\n【利用可能時間】\n\n・9時から17時（1回2時間以内）\n\n【利用可能回数】\n\n・5回まで",
+    "fromHM": "09:00",
+    "fromYMD": null,
+    "toHM": "17:00",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "産後ケア事業",
+    "shortName": "産後ケア事業"
+  },
+  "localGovernmentLink": {
+    "title": "産後ケア事業",
+    "uri": "https://www.city.tama.lg.jp/kosodate/1008018/1008020/1010679.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "多摩市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "訪問型・宿泊型共通\nご利用（ご予約）には事前の申請が必要です。\n\n・電子で申請してください。ご出産前でも申請できます。\n\n産後ケア電子申請;https://logoform.jp/form/4N4o/212326\n・申請内容を確認しましたら、利用承認通知書をご自宅に郵送いたします。\n\n訪問型\n・利用承認通知書が届いた後に、希望する助産師に直接電話またはショートメッセージで予約をしてください。\n\n※受付は月曜日から金曜日（祝休日を除く）の9時から16時です。\n\n・当日、利用料金を助産師に直接お支払いください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第17条の2（産後ケア事業）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "産後ケアちらし1",
+      "uri": "https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/010/679/suraido1.jpg"
+    },
+    {
+      "title": "産後ケアちらし2",
+      "uri": "https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/010/679/suraido2.jpg"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "出産後、授乳がうまくいかない、赤ちゃんのお世話の仕方がわからない、お産と育児の疲れから体調がよくないなど、一人で悩まず、まずはご相談ください。ママが少しでも安心でき、元気の充電が出来るようお手伝いします。自宅でお母さんや、赤ちゃんの体調に合わせた助産師によるケアを受けることができます。\nご利用（ご予約）には事前の申請が必要です。ご出産の入院準備と合わせて、産後ケア事業のご申請をぜひご検討ください。",
+  "support": {
+    "description": "・お母さんの身体のケアや産後の生活の指導、栄養指導\n\n・お母さんの乳房ケアなど適切な授乳ができるためのケア\n\n・沐浴や抱き方などの育児の手技についての具体的な指導および相談\n\n訪問型\n自宅でお母さんや、赤ちゃんの体調に合わせた助産師によるケアを受けることができます。",
+    "materiallySupport": "・お母さんの身体のケアや産後の生活の指導、栄養指導\n\n・お母さんの乳房ケアなど適切な授乳ができるためのケア\n\n・沐浴や抱き方などの育児の手技についての具体的な指導および相談",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "出産後1年未満の赤ちゃんとお母さん",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "多摩市に住民票がある出産後1年未満の赤ちゃんとお母さんで、以下のいずれかに該当する方\n\n・家族などから家事、育児等の十分な産後の援助が受けられない\n\n・産後や育児の疲れから体や心の調子がすぐれない\n\n・育児について専門職に相談したい"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "ご利用の流れ\n訪問型・宿泊型共通\nご利用（ご予約）には事前の申請が必要です。\n\n・電子で申請してください。ご出産前でも申請できます。\n\n産後ケア電子申請（外部リンク）;https://logoform.jp/form/4N4o/212326\n・申請内容を確認しましたら、利用承認通知書をご自宅に郵送いたします。\n\n訪問型\n・利用承認通知書が届いた後に、希望する助産師に直接電話またはショートメッセージで予約をしてください。\n\n※受付は月曜日から金曜日（祝休日を除く）の9時から16時です。\n\n・当日、利用料金を助産師に直接お支払いください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "【利用可能時間】\n\n・9時から17時（1回2時間以内）",
+    "fromHM": "09:00",
+    "toHM": "17:00"
+  }
+}

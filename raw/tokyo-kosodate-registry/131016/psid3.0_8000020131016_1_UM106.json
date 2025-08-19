@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "千代田保健所健康推進課感染症対策係（予防接種担当）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+1+UM106"
+  },
+  "belongings": "1.予防接種証明書交付申請書（PDF：362KB）\n2.申請者の本人確認書類（運転免許証・健康保険証等）\n3.母子健康手帳の予防接種実施状況が記録された部分の写し、または接種履歴が確認できるものの写し（予診票、接種済証明書等）\n（注意）母子健康手帳を紛失されている場合は、上記3の提出は不要です。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区九段北1-2-14",
+    "contactComment": null,
+    "contactEmail": "kenkousuishin@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "千代田保健所健康推進課感染症対策係（予防接種担当）",
+    "contactPhone": "03-5211-8172",
+    "contactUrl": null,
+    "zipCode": "1020073"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "千代田区が実施した定期予防接種および千代田区の助成による任意予防接種のうち、千代田区で記録を保管している予防接種について、千代田保健所長（メディカルドクター）名義での予防接種証明書（日本語・英語両方含む）の発行を行っています。\n\n（注意1） 証明書の発行には、申請を受理してから1週間程度お時間がかかります。即日での発行はできかねますので、日数に余裕をもってご申請ください。\n\n（注意2） インフルエンザの接種証明については、千代田区で確認できる直近２回の接種のみ記載します。\n\n（注意3） この証明書には新型コロナワクチンの接種証明は記載されません。新型コロナワクチンの接種証明書をご希望の方は以下のページをご覧ください。\n新型コロナウイルス感染症 予防接種証明書（特例臨時接種）;https://www.city.chiyoda.lg.jp/koho/kenko/kenko/kansensho/coronawakuchin/shomeisho.html\n\n発行手数料\n無料\n\n申請にあたっての注意事項\n・証明書の発行には、申請を受理してから1週間程度お時間がかかります。即日での発行はできかねますので、日数に余裕をもってご申請ください。\n・この証明書に記載できる予防接種は、千代田区が発行した予診票や実施依頼書を使って受けた予防接種に限ります。\n・任意（自費）で接種した予防接種や他の自治体が発行した予診票を使って受けた予防接種について、当区では証明できかねますので、接種を受けた医療機関やその予防接種を実施した自治体にお問い合わせください。\n・定期予防接種予診票の保管は過去5年間となっていますので、それ以前の記録がない可能性があることをあらかじめご了承ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関するサポート",
+    "shortName": "予防接種済証明書の発行"
+  },
+  "localGovernmentLink": {
+    "title": "予防接種済証明書の発行",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/yobosesshu/shomeisho-hakko.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": "千代田保健所健康推進課感染症対策係（予防接種担当）（千代田保健所5階）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "以下の書類をご用意の上、千代田保健所健康推進課感染症対策係（予防接種担当）（千代田保健所5階）まで、郵送または窓口でご申請ください。\n\n1.予防接種証明書交付申請書（PDF：362KB）\n2.申請者の本人確認書類（運転免許証・健康保険証等）\n3.母子健康手帳の予防接種実施状況が記録された部分の写し、または接種履歴が確認できるものの写し（予診票、接種済証明書等）\n（注意）母子健康手帳を紛失されている場合は、上記3の提出は不要です。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "新型コロナウイルス感染症 予防接種証明書（特例臨時接種）",
+      "uri": "https://www.city.chiyoda.lg.jp/koho/kenko/kenko/kansensho/coronawakuchin/shomeisho.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "千代田区が実施した定期予防接種および千代田区の助成による任意予防接種のうち、千代田区で記録を保管している予防接種について、千代田保健所長（メディカルドクター）名義での予防接種証明書（日本語・英語両方含む）の発行を行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "078"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "千代田区が実施した定期予防接種および千代田区の助成による任意予防接種の被接種者"
+  },
+  "updateDate": "2024-05-16",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

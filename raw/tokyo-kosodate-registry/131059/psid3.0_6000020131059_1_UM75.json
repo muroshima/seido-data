@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "131059;文京区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部幼児保育課入園相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131059",
+    "psid": "psid3.0+6000020131059+1+UM75"
+  },
+  "belongings": null,
+  "capacity": "①3名\n②5名\n③3名\n④3名\n⑤3名",
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都文京区春日1丁目16番21号\n文京シビックセンター12階南側",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部幼児保育課入園相談係",
+    "contactPhone": "03-5803-1190",
+    "contactUrl": "https://logoform.jp/form/6KSu/553771",
+    "zipCode": "1128555"
+  },
+  "cost": null,
+  "costConditions": "認可保育園と同様、児童のクラス年齢と世帯の住民税額（区民税所得割額）に応じて、決定します。",
+  "description": "「地域型保育」事業は、平成27年度施行の「子ども・子育て支援新制度」による、市区町村の認可事業です。保育の必要な3歳未満の子どもを対象とした「小規模保育」「家庭的保育（保育ママ）」「事業所内保育」「居宅訪問型保育」の4種類があり、市区町村ごとに地域の保育ニーズに合わせたサービスを実施することになっています。文京区には現在、下記の保育サービスがあり、利用には保育の必要性の認定を受ける必要があります。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "入所・転所申込フォーム",
+      "uri": "https://www.city.bunkyo.lg.jp/b023/p001739/index.html#nyusho\n"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "①本駒込3-38-9\n②本駒込4-27-3-103\n③白山5-17-25\n④春日2-4-15\n⑤白山4-26-10ラポール白山103",
+    "implementationName": "①ぽっかぽか保育室（岩瀬 昌子）\n②家庭的保育室Sandy‘s（小堀 奈央）\n③Nurseryroom Coco（金井 朝子）\n④家庭的保育室プチ・アンジュ（白石 眞利子）\n⑤とことこ保育ルーム（吉成 純子）"
+  },
+  "institutionName": {
+    "canonicalName": "地域型保育（小規模保育・家庭的保育（保育ママ）・事業所内保育・居宅訪問型保育）の利用について",
+    "shortName": "家庭的保育事業（地域型保育事業）"
+  },
+  "localGovernmentLink": {
+    "title": "家庭的保育事業（地域型保育事業）",
+    "uri": "https://www.city.bunkyo.lg.jp/b023/p001815.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "文京区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "必要書類を幼児保育課入園相談係へ提出（郵送可）又は電子申請にてお申込みください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第20条、第29条、第30条",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "「ひとりひとりに寄り添って～家庭的保育事業～」（令和2年8月17日～放送）（外部リンク）",
+      "uri": "https://www.youtube.com/watch?v=1OO5etWUlOE&list=PLLA1VIWQqfeAO-HP6KrwF9VoUEW89eZ4N\n"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "「子ども・子育て支援新制度」において、新たな認可事業として位置付けられた、文京区が定める基準を満たす保育事業です。保育が必要と認められる少人数の3歳未満の児童について、家庭的保育事業者の自宅などで保育を行います。個人事業のため、保育園とは内容が異なる点があります。",
+  "support": {
+    "description": "家庭的保育事業者の自宅などで保育を行います。個人事業のため、保育園とは内容が異なる点があります。",
+    "materiallySupport": "家庭的保育事業者の自宅などで保育を行います。個人事業のため、保育園とは内容が異なる点があります。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0歳児クラスから2歳児クラスまで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "保育が必要と認められる少人数の3歳未満の児童"
+  },
+  "updateDate": "2023-04-03",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "原則9時00分～17時00分（短時間）です。\n\n※標準時間認定で他園をお申し込みの場合でも、短時間認定での利用となります。\n\n※延長保育の実施及び詳細は各家庭的保育事業者にお問い合わせください。",
+    "fromHM": "09:00",
+    "toHM": "17:00"
+  }
+}

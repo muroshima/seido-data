@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "132128;日野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども部　子ども家庭支援センター　地域支援係・相談援護係,子ども部　子ども家庭支援センター　母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132128",
+    "psid": "psid3.0+1000020132128+1+UM799"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都日野市神明1丁目13番地の2　子ども包括支援センター2階",
+    "contactComment": null,
+    "contactEmail": "地域支援係・相談援護係　hohoemi@city.hino.lg.jp,母子保健係　hohoemi_boshi@city.hino.lg.jp",
+    "contactEx": null,
+    "contactName": "子ども部　子ども家庭支援センター　地域支援係・相談援護係・母子保健係",
+    "contactPhone": "直通電話：地域支援係　042-506-2151\n相談援護係　042-506-2152\n母子保健係　042-843-3663",
+    "contactUrl": null,
+    "zipCode": "1910016"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子ども家庭支援センター\n所在地\n東京都日野市神明1の13の2　子ども包括支援センター2階\n\n電話\n地域支援係：042-506-2151\n\n相談援護係：042-506-2152\n\n母子保健係：042-843-3663\n\nEメール\n子ども家庭支援センター地域支援係・相談援護係：\n\n子ども家庭支援センター母子保健係：\n\n地域子ども家庭支援センター万願寺（メールはありません）\n地域子ども家庭支援センター多摩平（メールはありません）\n\n業務内容\n【地域支援係】\n\n子育て講座・子育て情報発信に関すること\n子育てひろば、地域支援活動・子育てパートナー事業に関すること\nファミリー・サポート・センター事業に関すること\n【相談援護係】\n\n子どもと家庭の問題や子育て相談、児童虐待防止に関すること\n子ども家庭支援センターの在宅サービスに関すること\n子ども家庭支援ネットワーク連絡協議会に関すること\n養育家庭制度に関すること\n【母子保健係】\n\n母子の健康づくりに関すること\n乳幼児及び妊産婦の健康診査に関すること\n母子の保健事業に関すること\n妊娠届の受付及び母子健康手帳の交付に関すること\n子育て世代包括支援センター事業に関すること\nほか",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "東京都日野市神明1の13の2　子ども包括支援センター2階",
+    "implementationName": "子ども家庭支援センター"
+  },
+  "institutionName": {
+    "canonicalName": "こども家庭センター",
+    "shortName": "子ども家庭支援センター"
+  },
+  "localGovernmentLink": {
+    "title": "子ども家庭支援センター",
+    "uri": "https://www.city.hino.lg.jp/shisei/profile/soshiki/kodomo/1004716.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/25",
+    "updater": "日野市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第22条,第10条の２",
+    "regulationName": "母子保健法,児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "日野市の【子ども家庭支援センター】では、全ての妊産婦・子育て家庭に対する相談等への対応、サポートプランに基づく妊産婦の健康やこどもの養育に関する支援などを行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024/05/29",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

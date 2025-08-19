@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131211;足立区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": null,
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020131211",
+    "psid": "psid3.0+2000020131211+1+UM95"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "https://www.city.adachi.tokyo.jp/documents/9943/r6ikouennitirannhyou.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "|№|幼稚園名|所在地|電話番号|備考|\n|:----|:----|:----|:----|:----|\n|1|足立幼稚園|千住緑町三丁目2番18号|03-3882-2465|-|\n|2|梅島幼稚園|梅島一丁目21番12号|03-3852-0753|-|\n|3|弘道幼稚園|西綾瀬三丁目35番11号|03-3880-1717|-|\n|4|興南幼稚園|興野二丁目6番3号|03-3890-5030|-|\n|5|江北さくら幼稚園|堀之内二丁目13番7号|03-3899-2617|-|\n|6|こだま幼稚園|梅島三丁目35番7号|03-3887-5225|-|\n|7|春光幼稚園|足立三丁目4番15号|03-3887-0617|-|\n|8|城北幼稚園|足立四丁目17番1号|03-3889-3155|-|\n|9|親愛幼稚園|東和二丁目25番2号|03-3605-0677|-|\n|10|杉の子幼稚園|花畑四丁目36番5号|03-3883-2525|認定こども園|\n|11|橘幼稚園|関原三丁目47番11号|03-3886-4758|-|\n|12|東京白百合幼稚園|宮城一丁目16番9号|03-3919-7031|認定こども園|\n|13|舎人幼稚園|古千谷本町二丁目12番18号|03-3899-1316|認定こども園|\n|14|とねり伊藤幼稚園|舎人五丁目23番17号|03-3899-6612|-|\n|15|中条幼稚園|千住一丁目13番13号|03-3888-4662|-|\n|16|西新井幼稚園|西新井本町一丁目17番20号|03-3890-0088|認定こども園|\n|17|のぞみ幼稚園|弘道一丁目7番11号|03-3849-3800|-|\n|18|花畑八千代幼稚園|花畑六丁目20番11号|03-3884-4063|-|\n|19|福寿院幼稚園|伊興二丁目18番19号|03-3899-3422|-|\n|20|本行寺第二伊興幼稚園|東伊興四丁目11番3号|03-3897-0150|-|\n|21|美松学園幼稚園|東和二丁目5番24号|03-3606-2626|-|\n|22|八千代幼稚園|梅田一丁目21番8号|03-3887-0485|-| ",
+    "implementationName": "|№|幼稚園名|所在地|電話番号|備考|\n|:----|:----|:----|:----|:----|\n|1|足立幼稚園|千住緑町三丁目2番18号|03-3882-2465|-|\n|2|梅島幼稚園|梅島一丁目21番12号|03-3852-0753|-|\n|3|弘道幼稚園|西綾瀬三丁目35番11号|03-3880-1717|-|\n|4|興南幼稚園|興野二丁目6番3号|03-3890-5030|-|\n|5|江北さくら幼稚園|堀之内二丁目13番7号|03-3899-2617|-|\n|6|こだま幼稚園|梅島三丁目35番7号|03-3887-5225|-|\n|7|春光幼稚園|足立三丁目4番15号|03-3887-0617|-|\n|8|城北幼稚園|足立四丁目17番1号|03-3889-3155|-|\n|9|親愛幼稚園|東和二丁目25番2号|03-3605-0677|-|\n|10|杉の子幼稚園|花畑四丁目36番5号|03-3883-2525|認定こども園|\n|11|橘幼稚園|関原三丁目47番11号|03-3886-4758|-|\n|12|東京白百合幼稚園|宮城一丁目16番9号|03-3919-7031|認定こども園|\n|13|舎人幼稚園|古千谷本町二丁目12番18号|03-3899-1316|認定こども園|\n|14|とねり伊藤幼稚園|舎人五丁目23番17号|03-3899-6612|-|\n|15|中条幼稚園|千住一丁目13番13号|03-3888-4662|-|\n|16|西新井幼稚園|西新井本町一丁目17番20号|03-3890-0088|認定こども園|\n|17|のぞみ幼稚園|弘道一丁目7番11号|03-3849-3800|-|\n|18|花畑八千代幼稚園|花畑六丁目20番11号|03-3884-4063|-|\n|19|福寿院幼稚園|伊興二丁目18番19号|03-3899-3422|-|\n|20|本行寺第二伊興幼稚園|東伊興四丁目11番3号|03-3897-0150|-|\n|21|美松学園幼稚園|東和二丁目5番24号|03-3606-2626|-|\n|22|八千代幼稚園|梅田一丁目21番8号|03-3887-0485|-| "
+  },
+  "institutionName": {
+    "canonicalName": "新制度の幼稚園・認定こども園（幼稚園枠）一覧",
+    "shortName": "新制度に移行した園"
+  },
+  "localGovernmentLink": {
+    "title": "新制度の移行園一覧【令和6年4月1日時点】（PDF：114KB）\n ",
+    "uri": "https://www.city.adachi.tokyo.jp/documents/9943/r6ikouennitirannhyou.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-12",
+    "updater": "足立区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "幼稚園には公立の幼稚園と私立の幼稚園があります。\n私立幼稚園には、新制度による給付を受ける幼稚園と、新制度には移行せず、私学助成を受けて運営している幼稚園があります。\n以下は、足立区内の公立幼稚園と、新制度による給付を受ける幼稚園、および、認定こども園の幼稚園枠の一覧です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-07-12",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

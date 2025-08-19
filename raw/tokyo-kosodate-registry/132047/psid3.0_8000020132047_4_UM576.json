@@ -1,0 +1,208 @@
+{
+  "area": {
+    "areaCode": "132047;三鷹市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "都市整備部 緑と公園課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132047",
+    "psid": "psid3.0+8000020132047+4+UM576"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三鷹市野崎一丁目1番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "都市整備部 緑と公園課",
+    "contactPhone": "0422-29-9789",
+    "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/midori/index.html",
+    "zipCode": "1818555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "北野小北児童遊園（北野二丁目）;https://www.city.mitaka.lg.jp/c_service/089/089526.html\n北野公園（北野三丁目）;https://www.city.mitaka.lg.jp/c_service/090/090320.html\n北野こりす公園（北野三丁目）;https://www.city.mitaka.lg.jp/c_service/088/088881.html\n北野中央公園（北野三丁目）;https://www.city.mitaka.lg.jp/c_service/088/088882.html\n北野わかば児童遊園（北野三丁目）;https://www.city.mitaka.lg.jp/c_service/089/089525.html\n北野児童遊園（北野四丁目）;https://www.city.mitaka.lg.jp/c_service/088/088753.html\n北野こまどり児童遊園（北野四丁目）;https://www.city.mitaka.lg.jp/c_service/089/089523.html\n北野いこい児童遊園（北野四丁目）;https://www.city.mitaka.lg.jp/c_service/089/089524.html\n新川あおやぎ公園（新川一丁目）;https://www.city.mitaka.lg.jp/c_service/088/088887.html\n新川谷端児童公園（新川二丁目）;https://www.city.mitaka.lg.jp/c_service/088/088885.html\n新川けやき児童遊園（新川二丁目）;https://www.city.mitaka.lg.jp/c_service/089/089538.html\n新川天神山青少年広場（新川二丁目）;https://www.city.mitaka.lg.jp/c_service/089/089675.html\n新川まてばしい児童遊園（新川三丁目）;https://www.city.mitaka.lg.jp/c_service/089/089540.html\n新川おおぞら児童遊園（新川三丁目）;https://www.city.mitaka.lg.jp/c_service/089/089537.html\n新川こばと児童遊園（新川四丁目）;https://www.city.mitaka.lg.jp/c_service/089/089536.html\n新川本村児童遊園（新川五丁目）;https://www.city.mitaka.lg.jp/c_service/088/088754.html\n丸池公園（新川五丁目）;https://www.city.mitaka.lg.jp/c_service/088/088883.html\n新川児童公園（きんぎょ公園）（新川六丁目）;https://www.city.mitaka.lg.jp/c_service/088/088884.html\n仙川平和公園（新川六丁目）;https://www.city.mitaka.lg.jp/c_service/088/088886.html\n三鷹中央防災公園（新川六丁目）;https://www.city.mitaka.lg.jp/c_service/088/088888.html\n新川長久保児童遊園（新川六丁目）;https://www.city.mitaka.lg.jp/c_service/089/089539.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "児童遊園",
+    "shortName": "児童遊園,エリア別公園一覧（北野、新川）"
+  },
+  "localGovernmentLink": {
+    "title": "エリア別公園一覧（北野、新川）",
+    "uri": "https://www.city.mitaka.lg.jp/c_categories/index06002001009.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "三鷹市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "丸池公園（新川五丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/088/088883.html"
+    },
+    {
+      "title": "北野こまどり児童遊園（北野四丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/089/089523.html"
+    },
+    {
+      "title": "新川長久保児童遊園（新川六丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/089/089539.html"
+    },
+    {
+      "title": "新川まてばしい児童遊園（新川三丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/089/089540.html"
+    },
+    {
+      "title": "三鷹中央防災公園（新川六丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/088/088888.html"
+    },
+    {
+      "title": "北野公園（北野三丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/090/090320.html"
+    },
+    {
+      "title": "仙川平和公園（新川六丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/088/088886.html"
+    },
+    {
+      "title": "新川こばと児童遊園（新川四丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/089/089536.html"
+    },
+    {
+      "title": "新川おおぞら児童遊園（新川三丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/089/089537.html"
+    },
+    {
+      "title": "新川児童公園（きんぎょ公園）（新川六丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/088/088884.html"
+    },
+    {
+      "title": "北野中央公園（北野三丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/088/088882.html"
+    },
+    {
+      "title": "新川あおやぎ公園（新川一丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/088/088887.html"
+    },
+    {
+      "title": "新川本村児童遊園（新川五丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/088/088754.html"
+    },
+    {
+      "title": "北野児童遊園（北野四丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/088/088753.html"
+    },
+    {
+      "title": "北野わかば児童遊園（北野三丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/089/089525.html"
+    },
+    {
+      "title": "新川谷端児童公園（新川二丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/088/088885.html"
+    },
+    {
+      "title": "北野こりす公園（北野三丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/088/088881.html"
+    },
+    {
+      "title": "新川けやき児童遊園（新川二丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/089/089538.html"
+    },
+    {
+      "title": "北野小北児童遊園（北野二丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/089/089526.html"
+    },
+    {
+      "title": "新川天神山青少年広場（新川二丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/089/089675.html"
+    },
+    {
+      "title": "北野いこい児童遊園（北野四丁目）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/089/089524.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童遊園は、屋外にある公園に類似した施設です。18歳未満のお子さんに健全な遊びを提供し、健康増進を図るとともに、豊かな情操を育むことを目的としています。\n三鷹市の児童遊園の一覧は、三鷹市サイトなどでお知らせしています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087",
+      "092"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132136;東村山市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子ども保健・給付課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132136",
+    "psid": "psid3.0+1000020132136+1+UM13"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東村山市本町1丁目2番地3　いきいきプラザ2階（手当係：手当・子ども医療証について）　いきいきプラザ3階（母子保健第２係：予防接種、母子保健について）",
+    "contactComment": "ファクス：手当係：042-394-7399　母子保健第１係・母子保健第２係：042-390-2270",
+    "contactEmail": null,
+    "contactEx": "手当係：3604　母子保健第２係：3605",
+    "contactName": "子ども家庭部子ども保健・給付課",
+    "contactPhone": "042-393-5111",
+    "contactUrl": "https://www.city.higashimurayama.tokyo.jp/formmail.html?_div=029300&_pageid=1294&_name=子ども家庭部子ども保健・給付課",
+    "zipCode": "1898501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "新生児訪問指導\n本事業における新型コロナウイルス感染症への対応について\n\n訪問させていただく指導員につきましては、事前に体調管理を十分に行い、訪問時のマスク着用を含む咳エチケットや手洗い、アルコール消毒等により、感染症予防対策を行っています。\nまた、訪問日時のお約束後に、産婦ご自身やご家族の方に体調不良の症状がある場合には、延期させていただきますので、子ども保健・給付課母子保健係までご連絡ください。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　今後の国の指針により、変更の可能性があります。最新の情報を東村山市ホームページや電話にてご確認ください。\n\n新生児訪問指導\n母子保健法第11条に基づき、出生通知票をもとに助産師・保健師がご家庭を訪問します。主に新生児の発育、栄養、生活環境、疾病予防など育児に関するいろいろなご相談をお受けします。\n\n対象者\n新生児 （生後28日を経過しない乳児）。\n\n尚、出生体重が2,500グラム未満のお子さんについては、母子保健法第18条の規定により低出生体重児の届出が必要です。\n届出の書類は、出生通知票が低体重児届出票を兼ねております(母子健康手帳交付時に配付)。\n\n訪問時期\n退院後から出生後約1か月位まで\n\n申請\n提出された出生通知票(母子健康手帳交付時に配布)に基づいて、ご連絡します。\n\n（注記）生後28日を越えるお子さんへは、児童福祉法第6条の3第4項に基づく『こんにちは赤ちゃん事業』により、生後4か月を迎える日までの赤ちゃんのいる全てのご家庭に、助産師･保健師が訪問します。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "新生児訪問",
+    "shortName": "新生児訪問指導"
+  },
+  "localGovernmentLink": {
+    "title": "新生児訪問指導",
+    "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/sodan/boshi1-8.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-24",
+    "updater": "東村山市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "本事業における新型コロナウイルス感染症への対応について\n\n訪問させていただく指導員につきましては、事前に体調管理を十分に行い、訪問時のマスク着用を含む咳エチケットや手洗い、アルコール消毒等により、感染症予防対策を行っています。\nまた、訪問日時のお約束後に、産婦ご自身やご家族の方に体調不良の症状がある場合には、延期させていただきますので、子ども保健・給付課母子保健係までご連絡ください。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　今後の国の指針により、変更の可能性があります。最新の情報を東村山市ホームページや電話にてご確認ください。\n\n申請\n提出された出生通知票(母子健康手帳交付時に配布)に基づいて、ご連絡します。\n\n（注記）生後28日を越えるお子さんへは、児童福祉法第6条の3第4項に基づく『こんにちは赤ちゃん事業』により、生後4か月を迎える日までの赤ちゃんのいる全てのご家庭に、助産師･保健師が訪問します。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第11条（新生児の訪問指導）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "新生児を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、健康や育児に関する相談などを行います。",
+  "support": {
+    "description": "母子保健法第11条に基づき、出生通知票をもとに助産師・保健師がご家庭を訪問します。主に新生児の発育、栄養、生活環境、疾病予防など育児に関するいろいろなご相談をお受けします。",
+    "materiallySupport": "母子保健法第11条に基づき、出生通知票をもとに助産師・保健師がご家庭を訪問します。主に新生児の発育、栄養、生活環境、疾病予防など育児に関するいろいろなご相談をお受けします。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後28日を経過しない乳児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "新生児 （生後28日を経過しない乳児）。"
+  },
+  "updateDate": "2023-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

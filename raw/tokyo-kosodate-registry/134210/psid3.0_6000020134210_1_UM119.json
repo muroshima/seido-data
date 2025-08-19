@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "134210;小笠原村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "小笠原村村民課福祉係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020134210",
+    "psid": "psid3.0+6000020134210+1+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都小笠原村父島字西町",
+    "contactComment": "開庁時間：午前8時00分～午後5時15分（土曜日・日曜日、祝・休日を除く）",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "小笠原村村民課福祉係",
+    "contactPhone": "04998-2-3939",
+    "contactUrl": null,
+    "zipCode": "1002101"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "乳児家庭全戸訪問\n帰島後に保健師や助産師が家庭を訪問し、赤ちゃんの身体測定を行います。また子育てのお悩みやお母さんの体調のことなどの相談に応じます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "小笠原村の子育てに関する相談",
+    "shortName": "子育てに関する相談"
+  },
+  "localGovernmentLink": {
+    "title": "子育て支援",
+    "uri": "https://www.vill.ogasawara.tokyo.jp/sonmin/kosodate/"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "小笠原村"
+  },
+  "procedureCounter": "小笠原村村民課福祉係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "乳児家庭全戸",
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "生後4か月未満のお子さんのいるすべてのご家庭を保健師や助産師が訪問し、お子さんの健康状態の確認や体重測定、子育てに関する不安や悩みについてのご相談に応じるほか、子育てに関する情報誌のお届けや必要な子育て支援サービスの紹介などをおこないます。",
+  "support": {
+    "description": "乳児家庭全戸訪問\n帰島後に保健師や助産師が家庭を訪問し、赤ちゃんの身体測定を行います。また子育てのお悩みやお母さんの体調のことなどの相談に応じます。",
+    "materiallySupport": "乳児家庭全戸訪問\n帰島後に保健師や助産師が家庭を訪問し、赤ちゃんの身体測定を行います。また子育てのお悩みやお母さんの体調のことなどの相談に応じます。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "乳児家庭"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "area": {
+    "areaCode": "132128;日野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども部　保育課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132128",
+    "psid": "psid3.0+1000020132128+1+UM73"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都日野市神明1丁目13番地の2　子ども包括支援センター1階",
+    "contactComment": "直通電話：保育幼稚園係 042-514-8637　管理係 042-514-8638　整備調整係 042-514-8972,代表電話：042-585-1111　ファクス：042-586-1855",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども部　保育課",
+    "contactPhone": "042-514-8637,042-514-8638,042-514-8972,042-585-1111",
+    "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120200",
+    "zipCode": "1910016"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "https://www.city.hino.lg.jp/kosodate/hoikuen/nyuen/1024910.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "認可保育所（保育園）の利用について",
+    "shortName": "認可保育所"
+  },
+  "localGovernmentLink": {
+    "title": "日野市内保育施設の一覧表（令和6年度）",
+    "uri": "https://www.city.hino.lg.jp/kosodate/hoikuen/nyuen/1024910.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "日野市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第24条",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "あおぞら東豊田保育園旭が丘分園（外部リンク）",
+      "uri": "https://www.ans.co.jp/u/aozora-fukushikai/tama-hoikuen.html"
+    },
+    {
+      "title": "豊田保育園（外部リンク）",
+      "uri": "http://shisei2-hoiku.jp/taiyonoko/"
+    },
+    {
+      "title": "しせい太陽の子保育園（外部リンク）",
+      "uri": "http://shisei2-hoiku.jp/azuma/"
+    },
+    {
+      "title": "日野わかば保育園（外部リンク）",
+      "uri": "https://www.wakaba1981.jp/"
+    },
+    {
+      "title": "芝原保育園（外部リンク）",
+      "uri": "https://www.eikouhoikuen.com/"
+    },
+    {
+      "title": "栄光平山台保育園（外部リンク）",
+      "uri": "https://www.shibahara.ed.jp/"
+    },
+    {
+      "title": "栄光保育園（外部リンク）",
+      "uri": "https://www.eikouhoikuen.com/"
+    },
+    {
+      "title": "栄光保育園南平分園（外部リンク）",
+      "uri": "https://toyoda.ed.jp/"
+    },
+    {
+      "title": "栄光たまだいら保育園（外部リンク）",
+      "uri": "https://www.eikouhoikuen.com/"
+    },
+    {
+      "title": "むこうじま保育園（外部リンク）",
+      "uri": "https://www.eikouhoikuen.com/"
+    },
+    {
+      "title": "栄光多摩平中央保育園（外部リンク）",
+      "uri": "https://www.eikouhoikuen.com/"
+    },
+    {
+      "title": "たかはた北保育園（外部リンク）",
+      "uri": "https://www.ans.co.jp/n/takahatakita/"
+    },
+    {
+      "title": "至誠いしだ保育園（外部リンク）",
+      "uri": "https://www.ans.co.jp/n/mukoujima/"
+    },
+    {
+      "title": "至誠第二保育園（外部リンク）",
+      "uri": "https://shisei2-hoiku.jp/daini/"
+    },
+    {
+      "title": "栄光多摩平の森保育園（外部リンク）",
+      "uri": "https://www.seseragi.org/"
+    },
+    {
+      "title": "つくしんぼ保育園（外部リンク）",
+      "uri": "https://tsukushinbohoikuen.codmon.net/"
+    },
+    {
+      "title": "日野駅前かわせみ保育園（外部リンク）",
+      "uri": "http://shisei2-hoiku.jp/ishida/"
+    },
+    {
+      "title": "万願寺保育園（外部リンク）",
+      "uri": "http://shisei2-hoiku.jp/manganji/"
+    },
+    {
+      "title": "日野第二保育園（外部リンク）",
+      "uri": "https://www.ans.co.jp/n/hino2/"
+    },
+    {
+      "title": "あおぞら東豊田保育園（外部リンク）",
+      "uri": "https://www.ans.co.jp/u/aozora-fukushikai/asahigaoka-bunen.html"
+    },
+    {
+      "title": "上田せせらぎ保育園（外部リンク）",
+      "uri": "https://www.seishinfukushikai.jp/warabehino/"
+    },
+    {
+      "title": "わらべ日野市役所東保育園（外部リンク）",
+      "uri": "https://www.yotsugi.or.jp/よつぎ保育園グループ/よつぎ日野保育園/"
+    },
+    {
+      "title": "公立保育園の様子",
+      "uri": "https://www.city.hino.lg.jp/kosodate/hoikuen/yousu/index.html"
+    },
+    {
+      "title": "日野保育園（外部リンク）",
+      "uri": "https://hino-nursery.ed.jp/"
+    },
+    {
+      "title": "よつぎ日野保育園（外部リンク）",
+      "uri": "https://k-asakawa.org/"
+    },
+    {
+      "title": "栄光豊田駅前保育園（外部リンク）",
+      "uri": "https://www.ans.co.jp/n/hinoekimaekawasemi/"
+    },
+    {
+      "title": "子どもの森あさかわ保育園（外部リンク）",
+      "uri": "https://www.ans.co.jp/u/aozora-fukushikai/fukiage-hoikuen.html"
+    },
+    {
+      "title": "ひよこハウス豊田（外部リンク）",
+      "uri": "https://hiyoko-house.jp/toyoda/"
+    },
+    {
+      "title": "ひよこハウス多摩平（外部リンク）",
+      "uri": "https://hiyoko-house.jp/tamadaira/"
+    },
+    {
+      "title": "至誠あずま保育園（外部リンク）",
+      "uri": "https://www.eikouhoikuen.com/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育園とは、保護者が共に働いていたり病気などの理由で、昼間家庭において保育を受けられないお子さんを、保護者に代わって保育する児童福祉施設で、法的には「保育所」といいます。\n保育所（保育園）には、国が定めた設置基準をクリアし、都道府県知事に認可された保育所と、それ以外の保育所がありますが、ここでは認可された保育所についてご案内します。\n\n保育園では在園児を対象とした「延長保育」のほか、「一時預かり」や「病児保育」、「障害児保育」などを行っている園もあります。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

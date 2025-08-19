@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援センター東部子ども家庭支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+1+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "（東部）03-5980-5275、（西部）03-5966-3131",
+    "contactEmail": "（東部）A0019800@city.toshima.lg.jp、（西部）A0019902@city.toshima.lg.jp",
+    "contactEx": null,
+    "contactName": "子ども家庭支援センター東部子ども家庭支援センター、西部子ども家庭支援センター",
+    "contactPhone": "03-5980-5275,03-5966-3131",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "落ち着いた雰囲気の中で、子育てや家庭に関する相談に応じます。\n子育て中のお母さん、お父さん、また、ご家族からの相談をお受けします。\n・ごはんを食べない\n・夜泣きがひどい\n・子どもの成長や発達で心配なことがある\n子どもたちからの悩みをお聞きします。\n・友だちとうまくつきあえない\n・学校で困っていることがある\n・家族のことで心配なことがある\n地域の気になる子どもに関する相談をお受けします。\n・たびたび子どもの泣き声や物がぶつかる音がする\n・季節はずれや汚れた服を着ている\n・繁華街をうろうろしている\n(注釈)経験豊富な相談員がお話を伺い、一緒に考えていきます。 必要に応じて他の専門機関や利用できるサービスを紹介します。(注釈)相談は、Eメール、電話でもできます。 ",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "東部子ども家庭支援センター\n豊島区上池袋2-35-22\n\n西部子ども家庭支援センター\n豊島区千早4-6-14",
+    "implementationName": "東部子ども家庭支援センター、西部子ども家庭支援センター"
+  },
+  "institutionName": {
+    "canonicalName": "豊島区の子育てに関する相談",
+    "shortName": "子どもに関する相談（子ども家庭支援センター）"
+  },
+  "localGovernmentLink": {
+    "title": "子どもに関する相談（子ども家庭支援センター）",
+    "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/001743/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条第1項",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "発達の気になる子供に関する相談",
+      "uri": "https://www.city.toshima.lg.jp/266/kosodate/kosodate/shiencenter/001743/2005251708.html"
+    },
+    {
+      "title": "子どもの養育に関する相談",
+      "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/001743/011897.html"
+    },
+    {
+      "title": "子育て訪問相談",
+      "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/001743/022783.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子育て中のお母さん、お父さん、また、ご家族からの相談をお受けします。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "082"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "子育て中のお母さん、お父さん、ご家族、子ども、地域のかた"
+  },
+  "updateDate": "2023-04-10",
+  "useConsiderationFlag": false,
+  "utilization": "・ひろば相談（月曜日～土曜日：午前10時～午後5時）\n親子遊び広場には、随時職員がいますので、気軽にご相談ください。\n\n・電話相談等（月曜日～金曜日：午前9時～午後6時、土曜日：午前9時～午後5時）\nお話をうかがいます。必要に応じて他のサービスや専門機関のご案内をします。\n\n・面接相談（月曜日～金曜日：午前9時～午後6時、土曜日：午前9時～午後5時）\n事前にご連絡いただくと、ゆっくりお話をうかがえます。\n\n・専門相談（月1回～4回、要予約）\n家庭・心理相談員、小児精神科医、言語聴覚士、理学療法士、作業療法士が相談に応じます。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

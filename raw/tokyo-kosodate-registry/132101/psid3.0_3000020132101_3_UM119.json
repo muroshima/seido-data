@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "132101;小金井市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センターこども家庭相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132101",
+    "psid": "psid3.0+3000020132101+3+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小金井市貫井北町5丁目18番18号　保健センター",
+    "contactComment": null,
+    "contactEmail": "s050899(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+    "contactEx": null,
+    "contactName": "こども家庭センターこども家庭相談係",
+    "contactPhone": "042-321-3146",
+    "contactUrl": null,
+    "zipCode": "1840015"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子育て相談 ひとりで抱えずご利用ください。\n更新日：2024年4月1日\n市や都では、子育て相談をお受けしています。ひとりで抱えずにご利用ください。\n\n市の相談窓口\n・こども家庭センター; https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/kodomosien.html\n子育て総合相談\n日時：午前8時30分から午後5時（月曜から金曜）、午前9時から午後5時（土曜）\n電話：042-321-3146\n注記：臨床心理士による専門相談「こころの相談」も行っています。電話でもご相談可能です。（月に1回から2回、要予約）\n母子けんこう相談\n日時：午前8時30分から午後5時（月曜から金曜）\n電話：042-321-6296\n\n・親子あそびひろば「ゆりかご」; https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/yurikago-yoyaku1001.html\n日時：午前10時から午後4時（火曜から土曜）\n電話：042-321-3141\n\n注記：各児童館; https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/jidokan/jidoukan2/jidoukanriyou/jidoukan2023.htmlでも相談受けています。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "小金井市貫井北町5丁目18番18号　保健センター",
+    "implementationName": "こども家庭センター"
+  },
+  "institutionName": {
+    "canonicalName": "小金井市の子育てに関する相談",
+    "shortName": "親子あそびひろば「ゆりかご」"
+  },
+  "localGovernmentLink": {
+    "title": "子育て相談 ひとりで抱えずご利用ください。",
+    "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/kosodatesoudan.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "小金井市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "各児童館",
+      "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/jidokan/jidoukan2/jidoukanriyou/jidoukan2023.html"
+    },
+    {
+      "title": "こども家庭センター",
+      "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/kodomosien.html"
+    },
+    {
+      "title": "親子あそびひろば「ゆりかご」",
+      "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/yurikago-yoyaku1001.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "市や都では、子育て相談をお受けしています。ひとりで抱えずにご利用ください。",
+  "support": {
+    "description": "親子あそびひろば「ゆりかご」\n日時：午前10時から午後4時（火曜から土曜）\n電話：042-321-3141",
+    "materiallySupport": "親子あそびひろば「ゆりかご」\n日時：午前10時から午後4時（火曜から土曜）\n電話：042-321-3141",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "午前10時から午後4時（火曜から土曜）",
+    "fromHM": "10:00",
+    "toHM": "16:00"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "132217;清瀬市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援センター子ども家庭支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132217",
+    "psid": "psid3.0+3000020132217+1+UM802"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都清瀬市中里5-842　しあわせ未来センター2階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援センター子ども家庭支援係",
+    "contactPhone": "042-495-7701",
+    "contactUrl": null,
+    "zipCode": "2048511"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "きよせニンニンポイントアプリで、きよせ・チルドレンファーストチケットとして１万円分のデジタル商品券をご利用いただけます。詳しくは清瀬市HPをご覧ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育て支援パスポート",
+    "shortName": "きよせ・チルドレンファーストチケット"
+  },
+  "localGovernmentLink": {
+    "title": "令和6年度　きよせ・チルドレンファーストチケット",
+    "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodateouen/1013538.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-18",
+    "updater": "清瀬市"
+  },
+  "procedureCounter": "清瀬商工会の「きよせニンニンポイントアプリ」内の「お知らせ」欄",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "清瀬商工会の「きよせニンニンポイントアプリ」内の「お知らせ」欄よりご申請ください",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": "2024-04-01",
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "清瀬市在住の未就学児童の保護者",
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "アプリ申請の手順 （PDF 1.4MB）",
+      "uri": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/013/538/tejyunnn.pdf"
+    },
+    {
+      "title": "きよせ・チルドレンファーストチケット事業リーフレット （PDF 544.7KB）",
+      "uri": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/013/538/reaf5.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "0歳～5歳（小学校に入る前まで）のお子さんと同一世帯で生活している保護者が申請を行うと、デジタル商品券を付与します。１度申請すると、翌年度も対象の方には自動付与されます。詳しくは清瀬市ホームページをご覧ください。\n◇付与金額：対象のお子さん１人につき１万円分のデジタル商品券\n◇利用場所：市内の一部店舗、子育てサービス事業所。（詳しくは清瀬商工会のホームページをご覧ください。）",
+  "support": {
+    "description": "対象児童一人につき1万円分のデジタル商品券を付与します。",
+    "materiallySupport": "対象児童一人につき1万円分のデジタル商品券を付与します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "清瀬市在住の未就学児童の保護者",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "清瀬市在住の未就学児童の保護者"
+  },
+  "updateDate": "2024-05-02",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

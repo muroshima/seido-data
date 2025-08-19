@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "高輪地区総合支所まちづくり課土木担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+3+UM576"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファックス番号：03-5421-7626",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "高輪地区総合支所まちづくり課土木担当",
+    "contactPhone": "03-5421-7615",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "三田松坂児童遊園\n公園の紹介\n利用タイプ\nのびのび遊べる公園【日常生活の中で子どもたちがのびのびと遊べる公園】\n公園等の機能\nトイレ遊び場花壇休憩・憩い\n\nトイレ【トイレがある】\n遊び場【遊具や砂場がある】\n花壇【花壇等に花が植えられている】\n休息・憩い【ベンチやパーゴラ等がある】\n季節感を感じる樹木\nサクラ\n\nサクラ\n紹介文\n通称「だるま公園」と呼ばれているように、児童遊園の入口にはだるま落としのモニュメントがあります。\n園内にはソメイヨシノがあり、お花見の時期には近隣のみなさまでとてもにぎわいます。\n\n所在地\n港区三田五丁目16番8号\n\n施設の概要\n面積：772.70平方メートル\n\n施設：\n複合遊具\nブランコ\nトイレ\n\n開園年月日：\n昭和26年7月10日\n\n交通案内\n電車\n\n都営三田線・東京メトロ南北線「白金高輪」駅から徒歩3分\n\nバス\n\nちぃばす（高輪ルート）「魚籃坂下緑地」バス停から徒歩3分\n\n入り口;https://www.city.minato.tokyo.jp/shisetsu/jidoyuen/takanawa/images/minamatuzaka-iriguchi.jpg\n\n複合施設;https://www.city.minato.tokyo.jp/shisetsu/jidoyuen/takanawa/images/minamatuzaka-fukugou.jpg\n\n広場;https://www.city.minato.tokyo.jp/shisetsu/jidoyuen/takanawa/images/minamatuzaka-hiroba.jpg\n\n園内;https://www.city.minato.tokyo.jp/shisetsu/jidoyuen/takanawa/images/minamatuzaka-ennai.jpg\n\n関連リンク\n\n港区バリアフリーマップ（三田松坂児童遊園）（外部サイトへリンク）;https://www.machi-info.jp/machikado/minato_city/Attrib.jsp?id=1025199",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "児童遊園",
+    "shortName": "三田松坂児童遊園"
+  },
+  "localGovernmentLink": {
+    "title": "三田松坂児童遊園",
+    "uri": "https://www.city.minato.tokyo.jp/shisetsu/jidoyuen/takanawa/02.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "港区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "港区バリアフリーマップ（三田松坂児童遊園）（外部サイトへリンク）",
+      "uri": "https://www.machi-info.jp/machikado/minato_city/Attrib.jsp?id=1025199"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童遊園は、屋外にある公園に類似した施設です。18歳未満のお子さんに健全な遊びを提供し、健康増進を図るとともに、豊かな情操を育むことを目的としています。\n港区の児童遊園の一覧は、港区サイトなどでお知らせしています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087",
+      "092"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2023-07-14",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

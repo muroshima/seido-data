@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132241;多摩市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "障害福祉課 障害福祉係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132241",
+    "psid": "psid3.0+3000020132241+1+UM62"
+  },
+  "belongings": "戸籍謄本または申請者と対象児童の戸籍抄本\n申請者の銀行口座の通帳\n認定診断書（障がいの状況によっては身体障害者手帳の写し、愛の手帳の写しまたは「総合判定区分」確認証明書でも可）\nマイナンバーに関するもの",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都多摩市関戸六丁目12番地1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "障害福祉課 障害福祉係",
+    "contactPhone": "042-338-6903",
+    "contactUrl": null,
+    "zipCode": "2068666"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "障がいのある方を対象とした手当・助成制度\n\n障がいのある方を対象とした手当・助成制度のご案内です。\n\n手当・助成一覧\n特別児童扶養手当\n対象者\n次のいずれかに該当する20歳未満の児童を監護している父母または養育者\n\n身体障害\nおおむね身体障害者手帳1～3級程度（下肢障害については4級の一部も含む）\n疾病により長期にわたる安静を必要とする程度の状態にあるものなど\n知的障害\nおおむね愛の手帳1～3度程度\n精神障害\n上記と同程度の障がい（自閉スペクトラム症等により日常生活に著しい制限を受ける方等）\n重複障害\n複数の障がいがある場合は、個々の障がいの程度が上記より軽度な場合でも該当となることがあります。\n※障害年金受給または施設入所の方を除く\n\n※所得制限あり\n\n手当額・助成内容\n重度障がい児\n月額56,800円（令和7年4月分から）\n中度障がい児\n月額37,830円（令和7年4月分から）\n※4月・8月・11月に前月までの4ヶ月分を銀行口座振込により受給できます。\n（11月は8～11月分の手当を振込みます）\n\n申請方法\n1～4をご持参のうえ障害福祉課へ　※申請書類に基づき認定審査が行われます。\n\n戸籍謄本または申請者と対象児童の戸籍抄本\n申請者の銀行口座の通帳\n認定診断書（障がいの状況によっては身体障害者手帳の写し、愛の手帳の写しまたは「総合判定区分」確認証明書でも可）\nマイナンバーに関するもの\nマイナンバーの利用について【障害福祉課】;https://www.city.tama.lg.jp/kenkofukushi/1008237/shoigai/oshirase/1003039.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "特別児童扶養手当",
+    "shortName": "特別児童扶養手当"
+  },
+  "localGovernmentLink": {
+    "title": "障がいのある方を対象とした手当・助成制度",
+    "uri": "https://www.city.tama.lg.jp/kenkofukushi/1008237/shoigai/teate/1003103.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "多摩市"
+  },
+  "procedureCounter": "障害福祉課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請方法\n1～4をご持参のうえ障害福祉課へ　※申請書類に基づき認定審査が行われます。\n1.戸籍謄本または申請者と対象児童の戸籍抄本\n2.申請者の銀行口座の通帳\n3.認定診断書（障がいの状況によっては身体障害者手帳の写し、愛の手帳の写しまたは「総合判定区分」確認証明書でも可）\n4.マイナンバーに関するもの\nマイナンバーの利用について【障害福祉課】;https://www.city.tama.lg.jp/kenkofukushi/1008237/shoigai/oshirase/1003039.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2章",
+    "regulationName": "特別児童扶養手当等の支給に関する法律"
+  },
+  "relatedLink": [
+    {
+      "title": "マイナンバーの利用について【障害福祉課】",
+      "uri": "https://www.city.tama.lg.jp/kenkofukushi/1008237/shoigai/oshirase/1003039.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "20歳未満で、法令により定められた程度の障がいの状態にある児童を監護している父母（主として児童の生計を維持するいずれか一人）または父母にかわって児童を養育（児童と同居し、監護し、生計を維持）する方に支給されます。",
+  "support": {
+    "description": "手当額・助成内容\n1.重度障がい児\n月額56,800円（令和7年4月分から）\n2.中度障がい児\n月額37,830円（令和7年4月分から）\n※4月・8月・11月に前月までの4ヶ月分を銀行口座振込により受給できます。\n（11月は8～11月分の手当を振込みます）",
+    "materiallySupport": null,
+    "monetarySupport": "手当額・助成内容\n1.重度障がい児\n月額55,350円（令和6年4月分から）\n2.中度障がい児\n月額36,860円（令和6年4月分から）\n※4月・8月・11月に前月までの4ヶ月分を銀行口座振込により受給できます。\n（11月は8～11月分の手当を振込みます）"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "20歳未満の児童を監護している父母または養育者",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次のいずれかに該当する20歳未満の児童を監護している父母または養育者\n\n・身体障害\nおおむね身体障害者手帳1～3級程度（下肢障害については4級の一部も含む）\n疾病により長期にわたる安静を必要とする程度の状態にあるものなど\n・知的障害\nおおむね愛の手帳1～3度程度\n・精神障害\n上記と同程度の障がい（自閉スペクトラム症等により日常生活に著しい制限を受ける方等）\n・重複障害\n複数の障がいがある場合は、個々の障がいの程度が上記より軽度な場合でも該当となることがあります。\n※障害年金受給または施設入所の方を除く\n\n※所得制限あり"
+  },
+  "updateDate": "2023-03-19",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

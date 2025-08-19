@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "132217;清瀬市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132217",
+    "psid": "psid3.0+3000020132217+2+UM50"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都清瀬市中里5-842　しあわせ未来センター1階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て支援課母子保健係",
+    "contactPhone": "042-497-2077",
+    "contactUrl": null,
+    "zipCode": "2048511"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "6～7か月・9～10か月児健康診査\nお子さんが健やかに育つためには、定期的な健康診査が必要です\n東京都にお住まいの6～7か月、9～10か月のお子さんは、医療機関にて公費で健康診査が受けられる制度があります。6～7か月・9～10か月児健康診査の受診票は、市の3～4か月児健康診査時にお渡ししています。3～4か月児健診受診後に他の区市町村より転入された方は、6～7か月児健診及び9～10か月児健診の受診票を発行いたしますので、子育て支援課母子保健係までお越しください。\n\n受診の方法\n医療機関に予約が必要か確認のうえ、対象期間内に受診してください。\n\n対象期間\n6～7か月健康診査（ピンク色）・・・生後6か月0日～満8か月になる前日まで\n\n9～10か月健康診査（白色）・・・生後9か月0日～満11か月になる前日まで\n\n受診できる医療機関\n都内の契約医療機関で受診できます。市内の契約医療機関は下記の関連ファイルをご参照ください。下記の関連ファイルに掲載されていない医療機関での受診を希望される場合は、医療機関に直接お問合せください。\n\n清瀬市に転入された方へ\n前自治体で3～4か月児健康診査を受診した後に清瀬市に転入された方は、6～7か月・9～10か月児健康診査の受診票を発行いたしますので、母子保健係の窓口にお越しいただくか、下記の【6～7か月・9～10か月児健康診査受診票交付・再交付申請フォーム】から交付申請してください。受診票がお手元に届くまで、1～2週間程度かかります。お急ぎの場合は、母子保健係までお越しください。\n\n6～7か月・9～10か月児健康診査受診票交付・再交付申請フォーム（外部リンク）;https://logoform.jp/form/QzsJ/359363",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "9～10か月健康診査（白色）・・・生後9か月0日～満11か月になる前日まで",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "都内の契約医療機関で受診できます。市内の契約医療機関は下記の関連ファイルをご参照ください。下記の関連ファイルに掲載されていない医療機関での受診を希望される場合は、医療機関に直接お問合せください。"
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+    "shortName": "9～10か月健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "6~7か月・9~10か月児健康診査",
+    "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kodomokenkoukanri/kodomonokenkousinsa/1005197.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "清瀬市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "医療機関に予約が必要か確認のうえ、対象期間内に受診してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "6～7か月・9～10か月児健康診査受診票交付・再交付申請フォーム（外部リンク）",
+      "uri": "https://logoform.jp/form/QzsJ/359363"
+    },
+    {
+      "title": "清瀬市内乳児（6～7・9～10か月児）健康診査実施医療機関名簿 （PDF 61.4KB）",
+      "uri": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/005/197/boshi.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として9～10か月児健康診査を実施しています。",
+  "support": {
+    "description": "医療機関にて公費で健康診査が受けられる",
+    "materiallySupport": null,
+    "monetarySupport": "医療機関にて公費で健康診査が受けられる"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後9か月0日～満11か月になる前日まで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": 9
+    },
+    "lessThan": {
+      "targetAge": 0,
+      "targetAgeOfMonths": 11
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "東京都にお住まいの6～7か月、9～10か月のお子さん"
+  },
+  "updateDate": "2024-05-02",
+  "useConsiderationFlag": false,
+  "utilization": "医療機関に予約が必要か確認のうえ、対象期間内に受診してください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

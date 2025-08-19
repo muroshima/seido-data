@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援部子ども家庭支援センター子ども家庭サービス係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+1+UM112"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファックス番号：03-5962-7205\n\n外国語対応が必要な人、通訳オペレーター、区の職員の3人で会話ができます。\n\n多言語対応三者通話サービス;https://www.multilingualinterpretercallservice.city.minato.tokyo.jp/kokusai",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援部子ども家庭支援センター子ども家庭サービス係",
+    "contactPhone": "03-5962-7201",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "利用には会員登録（有料）が必要です。\n\n|年会費|区内在住・在勤・在学者500円、区外在住者1000円<br>（原則として4月1日～翌年3月31日までの年会費です）|\n|開館日・時間|月～土曜　午前10時～午後4時30分<br>（つどいのひろば「ひだまり」）　※利用料は無料|\n|休館日|日曜・祝日、年末年始（12月30日～1月3日）|",
+  "description": "あい・ぽーと\n【所在地】港区南青山2－25－1\n\n【連絡先】電話：5786－3250\nFAX：5786－3256\n【アクセス】地下鉄銀座線「外苑前」駅　１b出口から徒歩2分\n銀座線・半蔵門線・大江戸線「青山一丁目」駅　5番出口から徒歩10分\n\n※「あい・ぽーと」は、区民だけでなく、区外在住者も利用できます。\n利用には会員登録（有料）が必要です。\n\n|年会費|区内在住・在勤・在学者500円、区外在住者1000円<br>（原則として4月1日～翌年3月31日までの年会費です）|\n|開館日・時間|月～土曜　午前10時～午後4時30分<br>（つどいのひろば「ひだまり」）　※利用料は無料|\n|休館日|日曜・祝日、年末年始（12月30日～1月3日）|\n\n関連リンク\n\n「あい・ぽーと」の一時保育;https://www.city.minato.tokyo.jp/kosodatesien/kodomo/kodomo/hoikuen/service/aipo-to.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "|年会費|区内在住・在勤・在学者500円、区外在住者1000円<br>（原則として4月1日～翌年3月31日までの年会費です）|\n|開館日・時間|月～土曜　午前10時～午後4時30分<br>（つどいのひろば「ひだまり」）　※利用料は無料|\n|休館日|日曜・祝日、年末年始（12月30日～1月3日）|",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "港区南青山2－25－1",
+    "implementationName": "あい・ぽーと"
+  },
+  "institutionName": {
+    "canonicalName": "子育て広場",
+    "shortName": "子育てひろば「あい・ぽーと」"
+  },
+  "localGovernmentLink": {
+    "title": "子育てひろば「あい・ぽーと」",
+    "uri": "https://www.city.minato.tokyo.jp/kosodatesien/kodomo/kodomo/shienshisetsu/ai-port.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "港区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "区民,区外在住者",
+  "regulation": {
+    "regulationArticle": "第6条の3第6項",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "「あい・ぽーと」の一時保育",
+      "uri": "https://www.city.minato.tokyo.jp/kosodatesien/kodomo/kodomo/hoikuen/service/aipo-to.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "区内の子育てひろばは、小学校就学前のお子さんが安心して遊べるスペースがあり、子育て中の親子が気軽に集い、仲間づくりを通して子育てに関する相談や情報交換等を行う機会を提供しています。また、お子さんの年齢に応じた各種イベントなども行っています。\n（イベントの詳細については、港区サイトや区報などでお知らせしています。）",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区民だけでなく、区外在住者も利用できます。"
+  },
+  "updateDate": "2022-02-08",
+  "useConsiderationFlag": false,
+  "utilization": "利用には会員登録（有料）が必要です。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "|年会費|区内在住・在勤・在学者500円、区外在住者1000円<br>（原則として4月1日～翌年3月31日までの年会費です）|\n|開館日・時間|月～土曜　午前10時～午後4時30分<br>（つどいのひろば「ひだまり」）　※利用料は無料|\n|休館日|日曜・祝日、年末年始（12月30日～1月3日）|",
+    "fromHM": "10:00",
+    "toHM": "16:30"
+  }
+}

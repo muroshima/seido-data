@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131172;北区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "区民部国保年金課国民年金係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131172",
+    "psid": "psid3.0+8000020131172+1+UM793"
+  },
+  "belongings": "来庁者の身分証明書（運転免許証・パスポート・マイナンバー｟個人番号｠カード・住民基本台帳カードなど）\n代理申請の場合は、委任状\n出産前に届出をする場合\n　母子健康手帳、医療機関が発行した証明書、その他出産予定日及び出産する方の名を明らかにすることができるいずれかの書類\n出産後に届出をする場合\n　母子健康手帳、戸籍謄本、戸籍全部記載事項証明書、出生届受理証明書、医療機関が発行した証明書等の出産の日及び母子の身分関係を明らかにすることができるいずれかの書類\n死産等の場合\n　死産証明書、死胎埋火葬許可証、母子健康手帳、医療機関が発行した証明書、その他死産等の日及び身分関係を明らかにすることができるいずれかの書類",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都北区王子本町1-15-22 北区役所第一庁舎2階26番,東京都北区上十条1-1-10",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "区民部国保年金課国民年金係,北年金事務所",
+    "contactPhone": "03-3908-1139,03-3905-1011",
+    "contactUrl": null,
+    "zipCode": "1148508,1148567"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "国民年金保険料の産前産後期間の免除について\n国民年金の被保険者が出産を行った際に、その出産前後の一定期間の保険料については、免除の届出ができます。\n\n対象となる方\n第1号被保険者（自営業、自由業、アルバイト、無職などの方で任意加入の方を除く）で出産日が平成31年2月1日以降の方。\n\n要件\n妊娠85日（4か月）以上の分娩（死産、流産、早産、人工妊娠中絶を含む）。\n\n対象期間\n出産予定日又は出産日が属する月の前月から4か月間。\n多胎妊娠（双子等）の場合は、出産予定日又は出産日が属する月の3か月前から6か月間。\n\n産前産後期間の取扱い\n産前産後期間として認められた期間は保険料を納付したものとして老齢基礎年金の受給額に反映されます。\nまた、希望する方は付加保険料を納めることで、さらに年金の受給額を増やすことができます。\n\n届出時期\n出産予定日の6か月前から届出できます。\n\n届出に必要なもの\n来庁者の身分証明書（運転免許証・パスポート・マイナンバー｟個人番号｠カード・住民基本台帳カードなど）\n代理申請の場合は、委任状\n出産前に届出をする場合\n　母子健康手帳、医療機関が発行した証明書、その他出産予定日及び出産する方の名を明らかにすることができるいずれかの書類\n出産後に届出をする場合\n　母子健康手帳、戸籍謄本、戸籍全部記載事項証明書、出生届受理証明書、医療機関が発行した証明書等の出産の日及び母子の身分関係を明らかにすることができるいずれかの書類\n死産等の場合\n　死産証明書、死胎埋火葬許可証、母子健康手帳、医療機関が発行した証明書、その他死産等の日及び身分関係を明らかにすることができるいずれかの書類\n\n届出先\n北区役所国民年金係または北年金事務所\n\n関連リンク\n日本年金機構;https://www.nenkin.go.jp/",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "産前産後期間の国民年金保険料免除",
+    "shortName": "国民年金保険料の産前産後期間の免除"
+  },
+  "localGovernmentLink": {
+    "title": "国民年金保険料の産前産後期間の免除について",
+    "uri": "https://www.city.kita.tokyo.jp/kokuhonenkin/20190204.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-28",
+    "updater": "北区"
+  },
+  "procedureCounter": "北区役所国民年金係または北年金事務所",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": "出産予定日の6か月前から届出できます。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第88条の2（保険料の納付義務）",
+    "regulationName": "国民年金法"
+  },
+  "relatedLink": [
+    {
+      "title": "日本年金機構",
+      "uri": "https://www.nenkin.go.jp/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": "妊娠85日（4か月）以上の分娩（死産、流産、早産、人工妊娠中絶を含む）。",
+  "summary": "国民年金の第1号被保険者が出産した場合には、出産前後の一定期間の国民年金保険料が免除されます。\n免除期間は年金額を計算する際、保険料を納めた期間として扱われます。",
+  "support": {
+    "description": "国民年金の被保険者が出産を行った際に、その出産前後の一定期間の保険料については、免除の届出ができます。\n\n対象期間\n出産予定日又は出産日が属する月の前月から4か月間。\n多胎妊娠（双子等）の場合は、出産予定日又は出産日が属する月の3か月前から6か月間。",
+    "materiallySupport": null,
+    "monetarySupport": "国民年金の被保険者が出産を行った際に、その出産前後の一定期間の保険料については、免除の届出ができます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "016"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "第1号被保険者（自営業、自由業、アルバイト、無職などの方で任意加入の方を除く）で出産日が平成31年2月1日以降の方。\n\n要件\n妊娠85日（4か月）以上の分娩（死産、流産、早産、人工妊娠中絶を含む）。"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "area": {
+    "areaCode": "132241;多摩市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "障害福祉課 障害福祉係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132241",
+    "psid": "psid3.0+3000020132241+1+UM824"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都多摩市関戸六丁目12番地1",
+    "contactComment": "FAX：042-371-1200",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "障害福祉課 障害福祉係",
+    "contactPhone": "042-338-6903",
+    "contactUrl": null,
+    "zipCode": "2068666"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "自立支援医療（精神通院）\n対象者\n精神疾患のため通院している方（年齢制限はありません）\n※所得制限により対象外となる場合があります。\n内容\n指定精神通院医療機関において、通院のための医療費の自己負担分が軽減されます。\n原則として、医療費の自己負担分が1割になります。世帯の市民税所得割額及び疾患の種類により、ひと月あたりの負担に自己負担の上限額が設定される場合もあります。\n申請書類に基づき東京都で審査が行われ、認定された場合は、医療機関に提示する「自立支援医療費受給者証」が交付されます。\n申請方法\n（1）～（3）をご持参のうえ障害福祉課へ\n・（1）診断書（自立支援用の所定の様式）\n・（2）健康保険証または健康保険の加入状況がわかるもの（例：資格確認書の写し、マイナポータルから確認できる「資格情報画面」等）\n・（3）マイナンバーを確認できるもの（原本）\n※その他、登録する医療機関及び薬局の名称・所在地・電話番号の記入がございます。\n関連リンク\n精神医療給付金;https://www.city.tama.lg.jp/kurashi/kokuho/kufu/1002006.html\n東京都福祉保健局「自立支援医療（精神通院医療）」（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/shougai//nichijo/tsuuin/\n精神障害者保健福祉手帳及び自立支援医療（精神通院医療）受給者証の更新手続き開始前にLINE （ライン）やSMSでご案内します！（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/shougai/nichijo/tsuuin/seishintsuuin\n自立支援医療（更生医療）\n対象者\n身体障害者手帳を持っている18歳以上の方で、障がいの程度を軽減、または除去するための手術等を予定している方\n※所得制限により対象外となる場合があります。\n内容\n指定医療機関において、医療費の自己負担分が軽減されます。\n原則として、医療費の自己負担分が1割になります。世帯の市民税所得割額及び疾患の種類により、ひと月あたりの負担に自己負担の上限額が設定される場合もあります。\n申請書類に基づき審査が行われ、認定された場合は、医療機関に提示する「自立支援医療費受給者証」が交付されます。\n申請方法\n（1）～（5）をご持参のうえ障害福祉課へ\n・（1）自立支援医療（更生医療）意見書（所定の様式）\n・（2）自立支援医療（更生医療）見積り明細書（所定の様式）\n・（3）健康保険証\n・（4）身体障害者手帳\n・（5）マイナンバーを確認できるもの（原本）\n・※その他、登録する医療機関及び薬局の名称・所在地・電話番号がわかるものが必要です。\n・※心臓機能障害の方は、「心電図の写し」も必要です。\n自立支援医療（育成医療）\n対象者\n満18歳未満で、対象となる機能障害について、手術等の治療を行うことにより機能回復が見込まれる方。\n※保護者の所得制限により対象外となる場合があります。\n内容\n指定医療機関において、医療費の自己負担分が軽減されます。\n原則として、医療費の自己負担分が1割になります。世帯の市民税所得割額及び疾患の種類により、ひと月あたりの負担に自己負担の上限額が設定される場合もあります。\n申請書類に基づき審査が行われ、認定された場合は、医療機関に提示する「自立支援医療費受給者証」が交付されます。\n申請方法\n（1）～（3）をご持参のうえ障害福祉課へ\n・（1）自立支援医療（育成医療）意見書（所定の様式）\n・（2）健康保険証（患者および保護者）\n・（3）マイナンバーを確認できるもの（原本）\n・※その他、登録する医療機関及び薬局の名称・所在地・電話番号がわかるものが必要です。\n・※人工透析を受けている方は、「特定疾病療養受領証」も必要です。\n・※免疫機能障害の方は、「免疫機能障害意見書」も必要です。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度（精神通院医療）",
+    "shortName": "自立支援医療制度(精神通院)"
+  },
+  "localGovernmentLink": {
+    "title": "自立支援医療制度(精神通院・更生医療・育成医療)",
+    "uri": "https://www.city.tama.lg.jp/kenkofukushi/1008237/shoigai/iryouhi/1003101.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/20",
+    "updater": "多摩市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "（1）～（3）をご持参のうえ障害福祉課へ\n・（1）診断書（自立支援用の所定の様式）\n・（2）健康保険証または健康保険の加入状況がわかるもの（例：資格確認書の写し、マイナポータルから確認できる「資格情報画面」等）\n・（3）マイナンバーを確認できるもの（原本）\n※その他、登録する医療機関及び薬局の名称・所在地・電話番号の記入がございます。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [
+    {
+      "title": "精神障害者保健福祉手帳及び自立支援医療（精神通院医療）受給者証の更新手続き開始前にLINE （ライン）やSMSでご案内します！（外部リンク）",
+      "uri": " https://www.fukushi.metro.tokyo.lg.jp/shougai/nichijo/tsuuin/seishintsuuin"
+    },
+    {
+      "title": "東京都福祉保健局「自立支援医療（精神通院医療）」（外部リンク）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/shougai//nichijo/tsuuin/"
+    },
+    {
+      "title": "精神医療給付金",
+      "uri": "https://www.city.tama.lg.jp/kurashi/kokuho/kufu/1002006.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+  "support": {
+    "description": "指定精神通院医療機関において、通院のための医療費の自己負担分が軽減されます。\n原則として、医療費の自己負担分が1割になります。世帯の市民税所得割額及び疾患の種類により、ひと月あたりの負担に自己負担の上限額が設定される場合もあります。\n申請書類に基づき東京都で審査が行われ、認定された場合は、医療機関に提示する「自立支援医療費受給者証」が交付されます",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "※所得制限により対象外となる場合があります。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "精神疾患のため通院している方（年齢制限はありません）"
+  },
+  "updateDate": "2024/12/03",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

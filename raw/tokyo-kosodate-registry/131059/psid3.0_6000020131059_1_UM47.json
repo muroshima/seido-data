@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "131059;文京区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健衛生部・文京保健所保健サービスセンター,保健衛生部・文京保健所保健サービスセンター本郷支所",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131059",
+    "psid": "psid3.0+6000020131059+1+UM47"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都文京区春日1丁目16番21号\nシビックセンター3階(健診フロア）、8階北側（事務室）,東京都文京区千駄木5丁目20番18号",
+    "contactComment": "ファクス番号：03-5803-1371,ファクス番号：03-3822-9174",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健衛生部・文京保健所保健サービスセンター,保健衛生部・文京保健所保健サービスセンター本郷支所",
+    "contactPhone": "03-5803-1807,03-3821-5106",
+    "contactUrl": "https://logoform.jp/form/6KSu/554248,https://logoform.jp/form/6KSu/554248",
+    "zipCode": "1128555,1130022"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ハッピーベイビー健康相談\n保健サービスセンター及び本郷支所では、将来妊娠を希望する方が、健康な体づくりに取り組めるよう、妊娠・出産に関する正しい知識や生活習慣などについて、保健師が面談や電話での相談に応じます。\n\n対象者\n文京区内在住・在勤・在学者\n\n相談内容\n妊娠・出産に関する正しい知識について\n妊娠前からの生活習慣の振り返りと身体づくりについて\n健診（検診）について\n相談実施日時\n（電話相談・面接相談ともに）\n\n月曜日～金曜日午前8時30分～午後5時\n\n場所\n保健サービスセンター（文京区春日1丁目6-21文京シビックセンター8階）\n保健サービスセンター本郷支所（文京区千駄木5丁目20-18）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "文京区春日1丁目6-21文京シビックセンター8階,文京区千駄木5丁目20-18",
+    "implementationName": "保健サービスセンター,保健サービスセンター本郷支所"
+  },
+  "institutionName": {
+    "canonicalName": "文京区の妊娠・出産に関する相談",
+    "shortName": "ハッピーベイビー健康相談"
+  },
+  "localGovernmentLink": {
+    "title": "ハッピーベイビー健康相談",
+    "uri": "https://www.city.bunkyo.lg.jp/b029/p001543.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "文京区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "将来妊娠を希望する方の妊娠・出産に関する正しい知識や生活習慣などについて面談や電話でご相談に応じます。",
+  "support": {
+    "description": "将来妊娠を希望する方が、健康な体づくりに取り組めるよう、妊娠・出産に関する正しい知識や生活習慣などについて、保健師が面談や電話での相談に応じます。",
+    "materiallySupport": "将来妊娠を希望する方が、健康な体づくりに取り組めるよう、妊娠・出産に関する正しい知識や生活習慣などについて、保健師が面談や電話での相談に応じます。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "文京区内在住・在勤・在学者"
+  },
+  "updateDate": "2024-05-13",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "（電話相談・面接相談ともに）\n\n月曜日～金曜日午前8時30分～午後5時",
+    "fromHM": "08:30",
+    "toHM": "17:00"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "青戸保健センター 保健サービス係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+1+UM33"
+  },
+  "belongings": "・親子健康手帳（母子健康手帳）\n・飲みもの",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区青戸4-15-14　健康プラザかつしか内",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "青戸保健センター 保健サービス係",
+    "contactPhone": "03-3602-1284",
+    "contactUrl": null,
+    "zipCode": "1250062"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [
+    {
+      "title": "令和6年度　金町保健センター　マタニティサロン予約フォーム（外部リンク）",
+      "uri": "https://logoform.jp/form/Ehiz/190607"
+    },
+    {
+      "title": "令和6年度　にこわ新小岩　マタニティサロン予約フォーム（外部リンク）",
+      "uri": "https://logoform.jp/form/Ehiz/190611"
+    },
+    {
+      "title": "令和6年度　青戸保健センター　マタニティサロン予約フォーム（外部リンク）",
+      "uri": "https://logoform.jp/form/Ehiz/190601"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関する教室・講習会",
+    "shortName": "マタニティサロン"
+  },
+  "localGovernmentLink": {
+    "title": "マタニティサロン",
+    "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1016732.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "予約フォームまたはお電話でご予約ください。\n令和6年度\n・令和6年度日程表 （PDF 835.1KB）;https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/016/732/06matasar0.pdf\n・令和6年度 青戸保健センター マタニティサロン予約フォーム（外部リンク）;https://logoform.jp/form/Ehiz/190601\n・令和6年度 金町保健センター マタニティサロン予約フォーム（外部リンク）;https://logoform.jp/form/Ehiz/190607\n・令和6年度 にこわ新小岩 マタニティサロン予約フォーム（外部リンク）;https://logoform.jp/form/Ehiz/190611",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "葛飾区公式YouTube マタニティサロン「授乳の仕方」（外部リンク）",
+      "uri": "https://www.youtube.com/watch?v=w3SVciMEDYU"
+    },
+    {
+      "title": "葛飾区公式YouTube マタニティサロン「産後の生活」（外部リンク）",
+      "uri": "https://www.youtube.com/watch?v=WXmBBNBRW84"
+    },
+    {
+      "title": "葛飾区公式YouTubeパパ向け動画　パパがカギを握る！～ママの体と心の変化を知ろう～（外部リンク）",
+      "uri": "https://www.youtube.com/watch?v=cxNSkcEje2g"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "葛飾区では、妊娠中の方を対象に、授乳の練習や産後の生活について学べるマタニティサロンを開催しています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊娠中の方（夫・パートナーの参加も可能です。会場までお問い合わせください。）"
+  },
+  "updateDate": "2024-04-05",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131172;北区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部生活福祉課生活支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131172",
+    "psid": "psid3.0+8000020131172+2+UM28"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都北区王子本町1-2-11　北区役所第2庁舎4階2番",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部生活福祉課生活支援係",
+    "contactPhone": "03-3908-9046",
+    "contactUrl": null,
+    "zipCode": "1148508"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "福祉資金貸付（母子福祉応急小口資金）\n北区では、他の資金から借受が困難で、災害、疾病、その他応急に必要とする費用の調達が困難な母子世帯の方に母子福祉応急小口資金をお貸しします。\n\n貸付申込み資格\n現に児童を扶養している配偶者のいない女子であって、申込みをする日の3か月前から引き続き北区内に住所を有し、かつ借受後の償還が確実な者であること。\n生活保護を受けていないこと。\n公務員共済組合、その他自己の所属する団体の共済制度によって生活資金等の貸付を受けることができない世帯で、他から借受けることが困難であること。\n現にこの資金を借受けていないこと。\n現に北区応急小口資金の借受人、及び保証人でないこと。\n住民税等の滞納がないこと。\n\n貸付額及び貸付理由\n貸付額\n5万円以内\n\n貸付理由\n火災その他の災害により、住宅又は家財に被害を受け、その修復等に要する費用にお困りの場合。\n本人又は同居の親族が疾病又は傷害を受け、その治療等に要する費用にお困りの場合。\n日常の生活必需品の購入費用にお困りの場合。\n本人又は同居の親族の出産、結婚又は葬祭に要する費用にお困りの場合。\n本人又は同居の親族が葬祭等やむを得ない理由により旅行をする費用にお困りの場合。\n本人又は同居の親族の就職又は就学に要する費用にお困りの場合。\n本人又は同居の親族が区内転居に要する費用にお困りの場合。\n本人の現に居住する家屋の賃貸借契約の更新費用にお困りの場合。\n\n償還方法\n貸付けの日の属する月の翌月から12か月以内の月賦で均等償還となります。\n\n利子・違約金\n無利子。期限内返還がないときには年5％違約金を加算します。\n\n手続きに必要なもの\n申込理由等により必要書類が異なります。直接お問い合わせください。\n（注意）貸付けに当たっては審査があります。その結果、貸付けができない場合があります。また、貸付けには複数回の来庁が必要になり、審査に1か月程度のお時間をいただきます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "東京都北区母子福祉応急小口資金",
+    "shortName": "福祉資金貸付（母子福祉応急小口資金）"
+  },
+  "localGovernmentLink": {
+    "title": "福祉資金貸付（母子福祉応急小口資金）",
+    "uri": "https://www.city.kita.tokyo.jp/seikatsufukushi/kenko/fukushi/fukushi/okyu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "北区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申込理由等により必要書類が異なります。直接お問い合わせください。\n（注意）貸付けに当たっては審査があります。その結果、貸付けができない場合があります。また、貸付けには複数回の来庁が必要になり、審査に1か月程度のお時間をいただきます。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（母子福祉資金の貸付け）、第14条（母子・父子福祉団体に対する貸付け）、第31条の6（父子福祉資金の貸付け）、第32条（寡婦福祉資金の貸付け）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "現に児童を扶養している配偶者のいない女子であって、応急的に必要な資金をお貸しする制度です。",
+  "support": {
+    "description": "貸付額\n5万円以内\n\n貸付理由\n火災その他の災害により、住宅又は家財に被害を受け、その修復等に要する費用にお困りの場合。\n本人又は同居の親族が疾病又は傷害を受け、その治療等に要する費用にお困りの場合。\n日常の生活必需品の購入費用にお困りの場合。\n本人又は同居の親族の出産、結婚又は葬祭に要する費用にお困りの場合。\n本人又は同居の親族が葬祭等やむを得ない理由により旅行をする費用にお困りの場合。\n本人又は同居の親族の就職又は就学に要する費用にお困りの場合。\n本人又は同居の親族が区内転居に要する費用にお困りの場合。\n本人の現に居住する家屋の賃貸借契約の更新費用にお困りの場合。",
+    "materiallySupport": null,
+    "monetarySupport": "貸付額\n5万円以内"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "1.現に児童を扶養している配偶者のいない女子であって、申込みをする日の3か月前から引き続き北区内に住所を有し、かつ借受後の償還が確実な者であること。\n2.生活保護を受けていないこと。\n3.他から借受けることが困難であること。\n4.現にこの資金を借受けていないこと。\n5.現に北区応急小口資金の借受人、及び保証人でないこと。\n6.住民税等の滞納がないこと。"
+  },
+  "updateDate": "2020-04-06",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

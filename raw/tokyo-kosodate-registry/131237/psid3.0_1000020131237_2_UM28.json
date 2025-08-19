@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部児童家庭課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+2+UM28"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部児童家庭課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e049/kuseijoho/gaiyo/soshiki/kodomo/jidou.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "動画視聴にともなう通信料は閲覧者のご負担となります。",
+  "description": "高校、大学・短期大学・専門学校に進学するために必要な学費等の準備はお済ですか。公的な助成制度や貸付金等について学ぶことができるよう、ひとり親相談室すずらんでは「教育資金準備セミナー」を動画配信しています。\n以下のリンク先から動画視聴申し込みをしていただくと、視聴用URLをお知らせいたします。\nひとり親相談室すずらん【セミナー（動画配信）】\n\n動画視聴にともなう通信料は閲覧者のご負担となります。\nhttps://www.city.edogawa.tokyo.jp/e049/kosodate/kosodate/teateshien/suzuran.html#kyouikusikinn",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "母子父子寡婦福祉資金",
+    "shortName": "ひとり親家庭のための教育資金準備セミナー"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親家庭への融資（東京都母子及び父子福祉資金）母子家庭への融資（江戸川区母子福祉生活一時資金）",
+    "uri": "https://www.city.edogawa.tokyo.jp/e049/kosodate/kosodate/teateshien/shisaku/yushi.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "児童家庭課相談係\n住所：江戸川区瑞江2丁目9番15号（人権・男女共同参画推進センター）\n電話：03-6231-8150（直通）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（母子福祉資金の貸付け）、第14条（母子・父子福祉団体に対する貸付け）、第31条の6（父子福祉資金の貸付け）、第32条（寡婦福祉資金の貸付け）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "高校、大学・短期大学・専門学校に進学するために必要な学費等の準備はお済ですか。公的な助成制度や貸付金等について学ぶことができるよう、ひとり親相談室すずらんでは「教育資金準備セミナー」を動画配信しています。",
+  "support": {
+    "description": "高校、大学・短大・専門学校に進学するために必要な学費等に利用できる助成制度や貸付金制度について",
+    "materiallySupport": "高校、大学・短大・専門学校に進学するために必要な学費等に利用できる助成制度や貸付金制度について",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "078"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "江戸川区在住で20歳未満の子がいるひとり親家庭の母親または父親",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "江戸川区在住で20歳未満の子がいるひとり親家庭の母親または父親"
+  },
+  "updateDate": "2023-09-06",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

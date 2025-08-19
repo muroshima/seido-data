@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "131083;江東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども未来部 養育支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131083",
+    "psid": "psid3.0+6000020131083+8+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都江東区東陽4-11-28",
+    "contactComment": "ファックス：03-3647-7534",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども未来部 養育支援課 養育支援係",
+    "contactPhone": "03-3647-4408",
+    "contactUrl": "https://www.city.koto.lg.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": "1358383"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子育ての悩みや不安、子どもの育ちについて心配などがありましたら、いつでもお電話、あるいはスタッフに声をかけて下さい。一緒に考えていきましょう。\n曜日：毎週月曜～土曜　※有明・住吉のみ毎日実施\n時間：面接　9時00分～17時30分　電話　9時00分～18時00分\n\n＜問合せ先＞\n\n深川北子ども家庭支援センター\nTEL 03-5600-8701　相談専用03-5600-8708\n豊洲子ども家庭支援センター\nTEL 03-3536-7681　相談専用03-3536-7682\n有明子ども家庭支援センター\nTEL 03-5962-4113　相談専用03-5962-4118\n住吉子ども家庭支援センター\nTEL 03-5600-3881 　相談専用03-5600-3882\n東陽子ども家庭支援センター\nTEL 03-3699-4871　相談専用03-5665-4017\n亀戸子ども家庭支援センター\nTEL 03-3683-1101 　相談専用03-3683-1103\n大島子ども家庭支援センター\nTEL 03-5836-1621　相談専用03-5836-1625\n南砂子ども家庭支援センター\nTEL 03-5617-8106　相談専用03-5617-7772\nTEL 03-3646-5481（虐待ホットライン）\n\n関連リンク\n江東区子ども家庭支援センター「みずべ」のホームページです（外部サイトへリンク）（別ウィンドウで開きます）;http://koto-kosodate-portal.jp/mizube/",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "曜日：毎週月曜～土曜　（注釈）有明・住吉のみ毎日実施\n時間：面接　9時00分～17時30分　電話　9時00分～18時00分",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "子ども家庭支援センター;https://www.city.koto.lg.jp/shisetsuannai/kyoiku/sonotakodomo/supportcenter/index.html",
+    "implementationName": "子ども家庭支援センター;https://www.city.koto.lg.jp/shisetsuannai/kyoiku/sonotakodomo/supportcenter/index.html"
+  },
+  "institutionName": {
+    "canonicalName": "江東区の子育てに関する相談",
+    "shortName": "子育て相談"
+  },
+  "localGovernmentLink": {
+    "title": "子ども家庭支援センター",
+    "uri": "https://www.city.koto.lg.jp/282011/kodomo/kosodate/service/5874.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "江東区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "子ども家庭支援センター",
+      "uri": "https://www.city.koto.lg.jp/shisetsuannai/kyoiku/sonotakodomo/supportcenter/index.html"
+    },
+    {
+      "title": "江東区子ども家庭支援センター「みずべ」のホームページです（外部サイトへリンク）（別ウィンドウで開きます）",
+      "uri": "http://koto-kosodate-portal.jp/mizube/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子育てのちょっとした悩みから専門的な相談まで皆様の気持ちに寄り添い、ご対応させていただきます。",
+  "support": {
+    "description": "子育ての悩みや不安、子どもの育ちについて心配などがありましたら、いつでもお電話、あるいはスタッフに声をかけて下さい。一緒に考えていきましょう。",
+    "materiallySupport": "子育ての悩みや不安、子どもの育ちについて心配などがありましたら、いつでもお電話、あるいはスタッフに声をかけて下さい。一緒に考えていきましょう。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-01-22",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "曜日：毎週月曜～土曜　（注釈）有明・住吉のみ毎日実施\n時間：面接　9時00分～17時30分　電話　9時00分～18時00分",
+    "fromHM": null,
+    "toHM": null
+  }
+}

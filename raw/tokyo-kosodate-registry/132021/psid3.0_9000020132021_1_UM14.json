@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132021;立川市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健医療部 健康推進課 母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020132021",
+    "psid": "psid3.0+9000020132021+1+UM14"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": " 立川市高松町3-22-9 健康会館内",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "内線4720～4727",
+    "contactName": "保健医療部 健康推進課 母子保健係",
+    "contactPhone": "電話番号（代表）：042-523-2111\n電話番号（直通）：042-527-3234",
+    "contactUrl": null,
+    "zipCode": "1900011"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "こんにちは赤ちゃん事業\nページ番号1005210\nXポストする;https://twitter.com/intent/tweet?text=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E8%B5%A4%E3%81%A1%E3%82%83%E3%82%93%E4%BA%8B%E6%A5%AD%ef%bd%9c%E7%AB%8B%E5%B7%9D%E5%B8%82&url=https%3A%2F%2Fwww.city.tachikawa.lg.jp%2Fkosodate%2Fninshin%2F1005208%2F1005210.htmlフェイスブックシェアする;https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.city.tachikawa.lg.jp%2Fkosodate%2Fninshin%2F1005208%2F1005210.html&t=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E8%B5%A4%E3%81%A1%E3%82%83%E3%82%93%E4%BA%8B%E6%A5%AD%ef%bd%9c%E7%AB%8B%E5%B7%9D%E5%B8%82ライン共有する;https://line.me/R/msg/text/?%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E8%B5%A4%E3%81%A1%E3%82%83%E3%82%93%E4%BA%8B%E6%A5%AD%ef%bd%9c%E7%AB%8B%E5%B7%9D%E5%B8%82%0d%0ahttps%3A%2F%2Fwww.city.tachikawa.lg.jp%2Fkosodate%2Fninshin%2F1005208%2F1005210.html\nいいね！\n印刷\n大きな文字で印刷\n赤ちゃんのいるすべてのご家庭を訪問します\n平成24年10月より赤ちゃんが生まれたすべてのご家庭を訪問するこんにちは赤ちゃん事業が始まりました。助産師・保健師がお伺いします。\n訪問までの流れ\nステップ1\n赤ちゃん連絡票をご記入ください。\nステップ2\nステップ3\n保健師・助産師からお電話をおかけします。\n電話で、訪問の日程を調整します。\n赤ちゃん訪問では\n赤ちゃんの体重を量ります。\n育児やお母さんの健康について、ご相談ができます。\n地域の情報をお伝えします。\n関連ファイル",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": "2012-10-01",
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "ご家庭"
+  },
+  "institutionName": {
+    "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+    "shortName": "こんにちは赤ちゃん事業"
+  },
+  "localGovernmentLink": {
+    "title": "こんにちは赤ちゃん事業",
+    "uri": "https://www.city.tachikawa.lg.jp/kosodate/ninshin/1005208/1005210.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/26",
+    "updater": "立川市"
+  },
+  "procedureCounter": "健康推進課母子保健係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "妊娠時に受け取られた「母と子の保健バッグ」に同封した返信用封筒を利用して赤ちゃん連絡票をご提出いただくか、令和7年4月以降であれば市のHPにある二次元コード利用しご提出下さい。",
+  "procedurePeriod": {
+    "conditions": "出産後14日以内に必ずご提出ください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第21条の10の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "赤ちゃん訪問案内",
+      "uri": "https://www.city.tachikawa.lg.jp/_res/projects/default_project/_page_/001/005/210/akacyanannai0204.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "生後4か月を迎えるまでの乳児がいるご家庭に専門職が訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": 4
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生後4か月を迎える日までの赤ちゃんのいるすべてのご家庭"
+  },
+  "updateDate": "2024-04-18",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

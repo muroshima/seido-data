@@ -1,0 +1,153 @@
+{
+  "area": {
+    "areaCode": "131211;足立区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "衛生部保健予防課保健予防係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020131211",
+    "psid": "psid3.0+2000020131211+1+UM13"
+  },
+  "belongings": "足立区役所窓口にて出生届をご提出いただく際に、母子健康手帳に綴じこまれているハガキ（＝赤ちゃん訪問連絡票【出生通知票】）を一緒にお渡しいただくか、お早めに郵送してください。\n\n※お持ちのハガキの宛先が「足立区役所保健予防課保健予防係」以外であったり、紛失等によりお手元にない場合、保健予防課または各保健センター等の窓口でお渡しすることが可能です。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "衛生部保健予防課保健予防係",
+    "contactPhone": "03-3880-5892",
+    "contactUrl": "https://www.city.adachi.tokyo.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "こんにちは赤ちゃん訪問\n生後３か月以内のお子さんとそのお母さんを対象に、助産師または保健師がご自宅・ご実家を訪問し、発育状況や健康状態等の相談をお受けしています。\n\n申し込み方法\n赤ちゃんが生まれましたら、以下いずれかの方法によりお申し込みください。申請受理後１か月以内を目安に、担当保健師・助産師からお電話にて訪問日程の確認をさせていただきます。なお、足立区外に里帰りしている場合は、お申し込みの際にその旨お知らせいただくか、お住まいを管轄している各保健センター等へお問い合わせください。\n\n持ち込み・郵送\n足立区役所窓口にて出生届をご提出いただく際に、母子健康手帳に綴じこまれているハガキ（＝赤ちゃん訪問連絡票【出生通知票】）を一緒にお渡しいただくか、お早めに郵送してください。\n\n※お持ちのハガキの宛先が「足立区役所保健予防課保健予防係」以外であったり、紛失等によりお手元にない場合、保健予防課または各保健センター等の窓口でお渡しすることが可能です。\n\nインターネット\n足立区オンライン申請システム;https://shinsei.city.adachi.tokyo.jp/apply/guide/60からの申し込みが可能です。\n\n申請についての項目１および２を確認してチェックを入れ、「申請手続きに進む」をクリックする。\nアカウントIDとパスワードを入力してログインし、入力フォームに情報を入力する。\n※未登録の方は、画面下部の「アカウント登録しないで続ける場合」へ進んでください。\n\n令和４年４月１日から、インターネット申込用URLが変更となっております。お持ちのチラシ等のＱＲコードからはつながらない場合がありますのでご注意ください。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "こんにちは赤ちゃん訪問申込み",
+      "uri": "https://shinsei.city.adachi.tokyo.jp/apply/guide/60"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "新生児訪問",
+    "shortName": "こんにちは赤ちゃん訪問"
+  },
+  "localGovernmentLink": {
+    "title": "こんにちは赤ちゃん訪問",
+    "uri": "https://www.city.adachi.tokyo.jp/hoken/k-kyoiku/kosodate/ninshin-konnichiha.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "足立区"
+  },
+  "procedureCounter": "保健予防課保健予防係\n各保健センター等\n下の表にて、お住まいの町名の管轄地域をご確認ください（各センター名称より問い合わせ先等が確認できます）。\n\n江北保健センター;https://www.city.adachi.tokyo.jp/esekanri/shisetsu/hokenjo/kohoku-f.html\n\n扇1から3／興野1から2／加賀1から2／江北1から7／皿沼1から3／鹿浜1から8／新田1から3／椿1から2／西新井1、6から7／西新井栄町3／西新井本町1から5／堀之内1から2／本木1から2／本木北・西・東・南町／谷在家1から3\n\n千住保健センター;https://www.city.adachi.tokyo.jp/esekanri/shisetsu/hokenjo/senju-f.html\n\n小台1から2／千住1から5／千住曙町／千住旭町／千住東1から2／千住大川町／千住河原町／千住寿町／千住桜木1から2／千住関屋町／千住龍田町／千住中居町／千住仲町／千住橋戸町／千住緑町1から3／千住宮元町／千住元町／千住柳町／日ノ出町／宮城1から2／柳原1から2\n\n竹の塚保健センター;https://www.city.adachi.tokyo.jp/esekanri/shisetsu/hokenjo/take-f.html\n\n伊興1から5／伊興本町1から2／入谷1から9／入谷町／栗原1から4／古千谷1から2／古千谷本町1から4／島根1から4／竹の塚1から7／舎人1から6／舎人公園／舎人町／西新井2から5／西伊興1から4／西伊興町／西竹の塚1から2／西保木間1から4／花畑1から8／東伊興1から4／東保木間1から2／東六月町／保木間1から5／保塚町／南花畑1から5／六月1から3／六町1から4\n\n中央本町地域・保健総合支援課;https://www.city.adachi.tokyo.jp/esekanri/shisetsu/hokenjo/chuo-f.html\n\n青井1から6／足立1から4／梅島1から3／梅田1から8／弘道1から2／関原1から3／中央本町1から5／西綾瀬1から4／西新井栄町1から2／西加平1から2／一ツ家1から4／平野1から3\n\n東部保健センター;https://www.city.adachi.tokyo.jp/esekanri/shisetsu/hokenjo/hidekazu-f.html\n\n綾瀬1から7／大谷田1から5／加平1から3／北加平町／佐野1から2／神明1から3／神明南1から2／辰沼1から2／東和1から5／中川1から5／東綾瀬1から3／六木1から4／谷中1から5",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "持ち込み・郵送\n足立区役所窓口にて出生届をご提出いただく際に、母子健康手帳に綴じこまれているハガキ（＝赤ちゃん訪問連絡票【出生通知票】）を一緒にお渡しいただくか、お早めに郵送してください。\n\n※お持ちのハガキの宛先が「足立区役所保健予防課保健予防係」以外であったり、紛失等によりお手元にない場合、保健予防課または各保健センター等の窓口でお渡しすることが可能です。\n\nインターネット\n足立区オンライン申請システムからの申し込みが可能です。\n\n申請についての項目１および２を確認してチェックを入れ、「申請手続きに進む」をクリックする。\nアカウントIDとパスワードを入力してログインし、入力フォームに情報を入力する。",
+  "procedurePeriod": {
+    "conditions": "申請受理後１か月以内を目安に、担当保健師・助産師からお電話にて訪問日程の確認をさせていただきます",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "生後３か月以内のお子さんとそのお母さん",
+  "regulation": {
+    "regulationArticle": "第11条（新生児の訪問指導）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "中央本町地域・保健総合支援課",
+      "uri": "https://www.city.adachi.tokyo.jp/esekanri/shisetsu/hokenjo/chuo-f.html"
+    },
+    {
+      "title": "東部保健センター",
+      "uri": "https://www.city.adachi.tokyo.jp/esekanri/shisetsu/hokenjo/hidekazu-f.html"
+    },
+    {
+      "title": "足立区オンライン申請システム",
+      "uri": "https://shinsei.city.adachi.tokyo.jp/apply/guide/60"
+    },
+    {
+      "title": "千住保健センター",
+      "uri": "https://www.city.adachi.tokyo.jp/hoken/k-kyoiku/kosodate/ninshin-konnichiha.html"
+    },
+    {
+      "title": "江北保健センター",
+      "uri": "https://www.city.adachi.tokyo.jp/esekanri/shisetsu/hokenjo/kohoku-f.html"
+    },
+    {
+      "title": "竹の塚保健センター",
+      "uri": "https://www.city.adachi.tokyo.jp/esekanri/shisetsu/hokenjo/take-f.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "新生児を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、健康や育児に関する相談などを行います。",
+  "support": {
+    "description": "助産師または保健師がご自宅・ご実家を訪問し、発育状況や健康状態等の相談をお受けしています",
+    "materiallySupport": "助産師または保健師がご自宅・ご実家を訪問し、発育状況や健康状態等の相談をお受けしています",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後３か月以内",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 3
+    },
+    "targetPersons": "生後３か月以内のお子さんとそのお母さん"
+  },
+  "updateDate": "2022-11-02",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

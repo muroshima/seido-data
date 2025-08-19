@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132187;福生市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "企画財政部　秘書広報課　広報広聴係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132187",
+    "psid": "psid3.0+8000020132187+6+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都福生市本町5",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "企画財政部　秘書広報課　広報広聴係",
+    "contactPhone": "042-551-1529",
+    "contactUrl": null,
+    "zipCode": "1978501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ヤング・テレホン・コーナーでは、未成年の方に係る相談を24時間受け付けています。相談は、未成年の方に限らず、ご家族や学校関係者の方々からも受け付けています。\n\n電　話：03-3580-4970\n\n受　付：24時間\n\n　　　　月曜日から金曜日の午前8時30分から午後5時15分は専門の担当者が対応します。\n\n　　　　夜間及び土曜日・日曜日・祝日等は宿直の警察官が対応します。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "24時間",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "福生市の子育てに関する相談",
+    "shortName": "ヤング・テレホン・コーナー"
+  },
+  "localGovernmentLink": {
+    "title": "少年相談",
+    "uri": "https://www.city.fussa.tokyo.jp/life/consultation/1014288/1014413.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "福生市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "詳細は警視庁のホームページをご確認ください。",
+  "procedurePeriod": {
+    "conditions": "24時間",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "学校以外でも、いじめ等の問題に悩む子どもや保護者の皆さんがいつでも相談できるよう、東京都ではさまざまな相談窓口を設けています。",
+  "support": {
+    "description": "未成年の方に係る相談を24時間受け付けています。",
+    "materiallySupport": "未成年の方に係る相談を24時間受け付けています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "未成年の方に限らず、ご家族や学校関係者の方々"
+  },
+  "updateDate": "2022-03-08",
+  "useConsiderationFlag": false,
+  "utilization": "詳細は警視庁のホームページをご確認ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "24時間",
+    "fromHM": null,
+    "toHM": null
+  }
+}

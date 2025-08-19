@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援課母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+1+UM5037"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区青戸4-15-14　子ども総合センター内",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援課母子保健係",
+    "contactPhone": "03-3602-1387",
+    "contactUrl": null,
+    "zipCode": "1250062"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度（育成医療）",
+    "shortName": "自立支援医療（育成医療）"
+  },
+  "localGovernmentLink": {
+    "title": "自立支援医療（育成医療）",
+    "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1002336/1002432.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "子ども総合センター（健康プラザかつしか内）母子保健係、各保健センター、堀切区民事務所または高砂区民事務所の窓口に必要書類を持参してください。\n\n（注釈）平成28年1月からマイナンバー制度の開始に伴い、個人番号の記入と申請者のご本人確認が必要になりました。詳しくは添付ファイルをご覧ください。\n\n（注釈）指定医療機関において育成医療の対象疾患の治療を受ける場合に、必要書類を申請してください。\n\n（注釈）指定医療機関での育成医療の対象疾患に係る治療でない場合は、申請していただいても、助成の対象になりません。主治医によくご確認のうえ申請してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "身体に障害のある児童に対し、指定医療機関において治療を受け、確実な治療効果が期待できるものに対して医療費を助成します。（所得制限があります）",
+  "support": {
+    "description": "身体に障害のある児童に対し、指定医療機関において治療を受け、確実な治療効果が期待できるものに対して医療費を助成します。（所得制限があります）",
+    "materiallySupport": null,
+    "monetarySupport": "医療費の1割は自己負担となります。ただし世帯の市町村民税・特別区民税の所得割および本人の障害により自己負担上限額が設定され、医療費の1割がその自己負担上限額を上回る場合は、自己負担上限額を限度に負担していただきます。なお入院時の食事代および保険適用外の治療については助成の対象外となります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "18歳未満の障害がある方で、手術等により確実な治療効果が期待できる方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "18歳未満で下記の障害がある方で、手術等により確実な治療効果が期待できる方\n１．肢体不自由\n２．視覚障害\n３．聴覚・平衡機能障害\n４．音声・言語・そしゃく機能障害\n５．心臓機能障害\n６．腎臓機能障害\n７．小腸機能障害\n８．肝臓機能障害\n９．その他の内臓障害\n１０．ヒト免疫不全ウイルスによる免疫機能障害"
+  },
+  "updateDate": "2022-10-07",
+  "useConsiderationFlag": false,
+  "utilization": "利用には申請が必要です。詳しくは区ホームページをご確認ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

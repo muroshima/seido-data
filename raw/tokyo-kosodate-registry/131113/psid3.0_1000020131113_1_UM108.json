@@ -1,0 +1,527 @@
+{
+  "area": {
+    "areaCode": "131113;大田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課児童育成係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131113",
+    "psid": "psid3.0+1000020131113+1+UM108"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "児童館・おおたっ子、中高生ひろばなど\n\n赤松放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/akamatsu.html\n中高生ひろば蒲田（多摩川児童館新蒲田分室）;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/chukousei-hiroba-kamata.html\n大森第四放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/omori4.html\n中高生ひろば羽田（東糀谷児童館羽田分室）;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/chukousei-hiroba-haneda.html\n大森中児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/oomorinakajidoukan.html\n大森南児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/oomoriminamijidoukan.html\n大森東一丁目児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/oomorihigashi1choumejidoukan.html\n大森児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/oomorijidoukan.html\n沢田児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/sawadajidoukan.html\n大森西児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/oomorinishijidoukan.html\n大森北児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/oomorihonchoujidoukan.html\n大森本町児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/oomorihonchoujidoukan.html\n山王児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/sannoujidoukan.html\n南馬込児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/minamimagomejidoukan.html\n南馬込三丁目児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/minamimagome3choumejidoukan.html\n南馬込四丁目児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/minamimagome4choumejidoukan.html\n中馬込児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/nakamagomejidoukan.html\n中央八丁目児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/chuuou8choumejidoukan.html\n池上児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/ikegamijidoukan.html\n徳持児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/tokumochijidoukan.html\n新井宿児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/araijyukujidoukan.html\n田園調布本町児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/denenchoufuhonchoujidoukan.html\n東嶺町児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/higashiminemachijidoukan.html\n田園調布二丁目児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/denenchoufu2choumejidoukan.html\n鵜の木児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/unokijidoukan.html\n久が原児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/kugaharajidoukan.html\n南雪谷児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/minamiyukigayajidoukan.html\n上池台児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/kamiikedaijidoukan.html\n仲池上児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/nakaikegamijidoukan.html\n仲池上児童館池雪分室;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/nakaikegamichisetsubunshitsu.html\n洗足池児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/senzokuikejidoukan.html\n東糀谷児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/higashikoujiyajidoukan.html\n西糀谷児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/nishikoujiyajidoukan.html\n糀谷児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/koujiyajidoukan.html\n萩中児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/haginakajidoukan.html\n萩中三丁目児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/haginaka3choumejidoukan.html\n南六郷児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/minamirokugoujidoukan.html\n南六郷三丁目児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/minamirokugou3choumejidoukan.html\n東六郷児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/higashirokugoujidoukan.html\n高畑児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/takahatajidoukan.html\n千鳥児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/chidorijidoukan.html\n下丸子児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/shimomarukojidoukan.html\n下丸子四丁目児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/shimomaruko4choumejidoukan.html\n矢口児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/yaguchijidoukan.html\n西蒲田児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/nishikamatajidoukan.html\n多摩川児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/tamagawajidoukan.html\n蓮沼児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/hasunumajidoukan.html\n蓮沼児童館御園分室（閉館）;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/hasunuma_misono_b.html\n本蒲田児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/honkamatajidoukan.html\n蒲田児童館;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/kamatajidoukan.html\n子ども交流センター;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/kodomokouryuusenta.html\n糀谷こどもの家;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/koujiyakodomonoie.html\nフレンドリー入新井第一;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/friendlyiriaraidaiichi.html\n中富放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/nakatmihoukagohiroba.html\n大森第一放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/omorihigashi_daiichi.html\n開桜放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/kaiou-houkagohiroba.html\n大森第三放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/omoridaisan.html\n大森東放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/omorihigashi.html\n山王放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/friendlysannou.html\n馬込放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/magome.html\n馬込第三放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/friendly_magome_daisan.html\n池上放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/ikegamihoukago.html\n池上第二放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/ikegami_daini.html\n徳持放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/tokuomchihoukagohiroba.html\n入新井第二放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/iriaraidainihoukago.html\n入新井第四放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/araijyukuiriyonbunshitsu.html\n東調布第一放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/higashichofu_daiichi.html\n調布大塚放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/cyoufuootukahoukagohiroba.html\n嶺町放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/minemachihoukagohiroba.html\n久原放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/friendlykugahara.html\n池雪放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/chisetsu.html\n洗足池放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/senzokuikehoukagohiroba.html\n清水窪放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/shimizukubo.html\n糀谷放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/koujiyabunshitsu.html\n東糀谷放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/higashikoujiya.html\n北糀谷放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/friendlykitakoujiya.html\n都南放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/tonanhoukagohiroba.html\n中萩中放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/haginaka3nakahaginakabunsitsu.html\n出雲放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/friendlyizumo.html\n六郷放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/rokugou.html\n高畑放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/friendlytakahata.html\n仲六郷放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/nakarokugo.html\n東六郷放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/higashirokugou.html\n南六郷放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/friendlyminamirokugou.html\n矢口放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/yagutibunshitsu.html\n矢口西放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/friendlyyaguchinishi.html\n多摩川放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/friendlytamagawa.html\n相生放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/aioi.html\n矢口東放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/yaguchihigashihoukagohiroba.html\nおなづか放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/onaduka.html\n道塚放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/michizukahoukagohiroba.html\n南蒲放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/friendlynanpo.html\n東蒲放課後ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/toho.html\n梅田おおたっ子ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/umedaootakkohiroba.html\n松仙おおたっ子ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/syousenn_hiroba.html\n羽田おおたっ子ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/hanedahiroba.html\n萩中おおたっ子ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/haginaka.html\n西六郷おおたっ子ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/nishirokugou.html\n志茂田おおたっ子ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/shimoda.html\n新宿おおたっ子ひろば;https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/sinnsyuku.html\n関連リンク\n保育園や児童館などの利用や、子育てに関する情報はこちらをご覧ください。;https://www.city.ota.tokyo.jp/seikatsu/kodomo/shien/index.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "児童館",
+    "shortName": "児童館"
+  },
+  "localGovernmentLink": {
+    "title": "児童館・おおたっ子、中高生ひろばなど",
+    "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-28",
+    "updater": "大田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第3条",
+    "regulationName": "大田区立児童館条例"
+  },
+  "relatedLink": [
+    {
+      "title": "西蒲田児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/tamagawajidoukan.html"
+    },
+    {
+      "title": "矢口児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/nishikamatajidoukan.html\n"
+    },
+    {
+      "title": "下丸子四丁目児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/yaguchijidoukan.html"
+    },
+    {
+      "title": "下丸子児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/shimomaruko4choumejidoukan.html"
+    },
+    {
+      "title": "千鳥児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/shimomarukojidoukan.html"
+    },
+    {
+      "title": "高畑児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/chidorijidoukan.html"
+    },
+    {
+      "title": "東六郷児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/takahatajidoukan.html"
+    },
+    {
+      "title": "南六郷三丁目児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/higashirokugoujidoukan.html"
+    },
+    {
+      "title": "南六郷児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/minamirokugou3choumejidoukan.html"
+    },
+    {
+      "title": "萩中三丁目児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/minamirokugoujidoukan.html"
+    },
+    {
+      "title": "萩中児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/haginaka3choumejidoukan.html"
+    },
+    {
+      "title": "糀谷児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/haginakajidoukan.html"
+    },
+    {
+      "title": "西糀谷児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/koujiyajidoukan.html"
+    },
+    {
+      "title": "東糀谷児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/nishikoujiyajidoukan.html"
+    },
+    {
+      "title": "洗足池児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/higashikoujiyajidoukan.html"
+    },
+    {
+      "title": "仲池上児童館池雪分室",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/senzokuikejidoukan.html"
+    },
+    {
+      "title": "仲池上児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/nakaikegamichisetsubunshitsu.html"
+    },
+    {
+      "title": "赤松放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/akamatsu.html"
+    },
+    {
+      "title": "新宿おおたっ子ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/shien/index.html"
+    },
+    {
+      "title": "上池台児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/nakaikegamijidoukan.html"
+    },
+    {
+      "title": "南雪谷児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/kamiikedaijidoukan.html"
+    },
+    {
+      "title": "久が原児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/minamiyukigayajidoukan.html"
+    },
+    {
+      "title": "鵜の木児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/kugaharajidoukan.html"
+    },
+    {
+      "title": "田園調布二丁目児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/unokijidoukan.html"
+    },
+    {
+      "title": "東嶺町児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/denenchoufu2choumejidoukan.html"
+    },
+    {
+      "title": "田園調布本町児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/higashiminemachijidoukan.html"
+    },
+    {
+      "title": "新井宿児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/denenchoufuhonchoujidoukan.html"
+    },
+    {
+      "title": "徳持児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/araijyukujidoukan.html"
+    },
+    {
+      "title": "池上児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/tokumochijidoukan.html"
+    },
+    {
+      "title": "中央八丁目児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/ikegamijidoukan.html"
+    },
+    {
+      "title": "中馬込児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/chuuou8choumejidoukan.html"
+    },
+    {
+      "title": "南馬込四丁目児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/nakamagomejidoukan.html"
+    },
+    {
+      "title": "南馬込三丁目児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/minamimagome4choumejidoukan.html"
+    },
+    {
+      "title": "南馬込児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/minamimagome3choumejidoukan.html"
+    },
+    {
+      "title": "山王児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/minamimagomejidoukan.html"
+    },
+    {
+      "title": "大森本町児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/sannoujidoukan.html"
+    },
+    {
+      "title": "大森北児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/oomorihonchoujidoukan.html"
+    },
+    {
+      "title": "大森西児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/oomorihonchoujidoukan.html"
+    },
+    {
+      "title": "沢田児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/oomorinishijidoukan.html"
+    },
+    {
+      "title": "大森児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/sawadajidoukan.html"
+    },
+    {
+      "title": "山王放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/magome.html"
+    },
+    {
+      "title": "中高生ひろば蒲田（多摩川児童館新蒲田分室）",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/chukousei-hiroba-kamata.html"
+    },
+    {
+      "title": "志茂田おおたっ子ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/sinnsyuku.html"
+    },
+    {
+      "title": "西六郷おおたっ子ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/shimoda.html"
+    },
+    {
+      "title": "萩中おおたっ子ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/nishirokugou.html"
+    },
+    {
+      "title": "羽田おおたっ子ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/haginaka.html"
+    },
+    {
+      "title": "松仙おおたっ子ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/hanedahiroba.html"
+    },
+    {
+      "title": "梅田おおたっ子ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/syousenn_hiroba.html"
+    },
+    {
+      "title": "東蒲放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/umedaootakkohiroba.html"
+    },
+    {
+      "title": "南蒲放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/toho.html"
+    },
+    {
+      "title": "道塚放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/friendlynanpo.html"
+    },
+    {
+      "title": "おなづか放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/michizukahoukagohiroba.html"
+    },
+    {
+      "title": "矢口東放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/onaduka.html"
+    },
+    {
+      "title": "相生放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/yaguchihigashihoukagohiroba.html"
+    },
+    {
+      "title": "多摩川放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/aioi.html"
+    },
+    {
+      "title": "矢口西放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/friendlytamagawa.html"
+    },
+    {
+      "title": "矢口放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/friendlyyaguchinishi.html"
+    },
+    {
+      "title": "南六郷放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/yagutibunshitsu.html"
+    },
+    {
+      "title": "東六郷放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/friendlyminamirokugou.html"
+    },
+    {
+      "title": "仲六郷放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/higashirokugou.html"
+    },
+    {
+      "title": "高畑放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/nakarokugo.html"
+    },
+    {
+      "title": "六郷放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/friendlytakahata.html"
+    },
+    {
+      "title": "出雲放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/rokugou.html"
+    },
+    {
+      "title": "中萩中放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/friendlyizumo.html"
+    },
+    {
+      "title": "都南放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/haginaka3nakahaginakabunsitsu.html"
+    },
+    {
+      "title": "北糀谷放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/tonanhoukagohiroba.html"
+    },
+    {
+      "title": "東糀谷放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/friendlykitakoujiya.html"
+    },
+    {
+      "title": "糀谷放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/higashikoujiya.html"
+    },
+    {
+      "title": "清水窪放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/koujiyabunshitsu.html"
+    },
+    {
+      "title": "洗足池放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/shimizukubo.html"
+    },
+    {
+      "title": "池雪放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/senzokuikehoukagohiroba.html"
+    },
+    {
+      "title": "久原放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/chisetsu.html"
+    },
+    {
+      "title": "嶺町放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/friendlykugahara.html"
+    },
+    {
+      "title": "調布大塚放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/minemachihoukagohiroba.html"
+    },
+    {
+      "title": "東調布第一放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/cyoufuootukahoukagohiroba.html"
+    },
+    {
+      "title": "入新井第四放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/higashichofu_daiichi.html"
+    },
+    {
+      "title": "入新井第二放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/araijyukuiriyonbunshitsu.html"
+    },
+    {
+      "title": "徳持放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/iriaraidainihoukago.html"
+    },
+    {
+      "title": "池上第二放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/tokuomchihoukagohiroba.html"
+    },
+    {
+      "title": "池上放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/ikegami_daini.html"
+    },
+    {
+      "title": "馬込第三放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/ikegamihoukago.html"
+    },
+    {
+      "title": "馬込放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/friendly_magome_daisan.html"
+    },
+    {
+      "title": "大森東放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/friendlysannou.html"
+    },
+    {
+      "title": "大森第三放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/omorihigashi.html"
+    },
+    {
+      "title": "開桜放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/omoridaisan.html"
+    },
+    {
+      "title": "大森第一放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/kaiou-houkagohiroba.html"
+    },
+    {
+      "title": "中富放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/omorihigashi_daiichi.html"
+    },
+    {
+      "title": "フレンドリー入新井第一",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/nakatmihoukagohiroba.html"
+    },
+    {
+      "title": "糀谷こどもの家",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/friendlyiriaraidaiichi.html"
+    },
+    {
+      "title": "子ども交流センター",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/koujiyakodomonoie.html"
+    },
+    {
+      "title": "蒲田児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/kodomokouryuusenta.html"
+    },
+    {
+      "title": "本蒲田児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/kamatajidoukan.html"
+    },
+    {
+      "title": "蓮沼児童館御園分室（閉館）",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/honkamatajidoukan.html"
+    },
+    {
+      "title": "蓮沼児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/hasunuma_misono_b.html"
+    },
+    {
+      "title": "多摩川児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/hasunumajidoukan.html"
+    },
+    {
+      "title": "大森東一丁目児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/oomorijidoukan.html"
+    },
+    {
+      "title": "大森南児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/oomorihigashi1choumejidoukan.html"
+    },
+    {
+      "title": "大森中児童館",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/oomoriminamijidoukan.html"
+    },
+    {
+      "title": "羽田（東糀谷児童館羽田分室）",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/oomorinakajidoukan.html"
+    },
+    {
+      "title": "中高生ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/chukousei-hiroba-haneda.html"
+    },
+    {
+      "title": "大森第四放課後ひろば",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/kodomonoie/omori4.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童館は、乳幼児ファミリーや小中学生の遊びとふれあい、仲間づくりの場です。また、地域の身近な相談窓口として、子育てに関する相談に応じています。\n小学校就学前のお子さんが安心して遊べるスペースがあり、またお子さんの年齢に応じた各種イベントなども行っています。\n（イベントの詳細については、大田区サイトや区報などでお知らせしています。）\n\n中高生ひろばは、中高生世代の健全育成を目的に、交流・活動・相談支援を行う中世世代専用の施設です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

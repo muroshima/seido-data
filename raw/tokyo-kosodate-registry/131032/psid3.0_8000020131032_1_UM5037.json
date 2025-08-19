@@ -1,0 +1,130 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "みなと保健所　健康推進課　地域保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+1+UM5037"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファックス：03-3455-4539",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "みなと保健所　健康推進課　地域保健係,各総合支所　区民課　保健福祉係;https://www.city.minato.tokyo.jp/kenko/fukushi/shogaisha/madoguchi/sogo.html",
+    "contactPhone": "03-6400-0084",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "認定された機能障害に対する保険適用の費用\n給付対象医療費の1割。ただし、世帯の所得により負担上限額が設定されます。",
+  "description": "内容\n身体に障害のある児童に対し、指定育成医療機関において、生活能力を得るために必要な医療を給付する制度です。\n\n対象\n18歳未満で\n\n肢体不自由\n視覚障害\n聴覚、平衡機能障害\n音声機能・言語機能又はそしゃく機能障害\n心臓機能障害\n腎臓機能障害\n小腸機能障害\n肝臓機能障害\nその他の内臓の障害（呼吸器、膀胱、直腸、小腸機能障害を除く内臓障害は、先天性疾病によるものに限る。）\nヒト免疫不全ウイルスによる免疫機能障害のため、手術等を必要とし、確実な治療効果が期待できる児童。一部所得制限があります。\n費用\n認定された機能障害に対する保険適用の費用\n給付対象医療費の1割。ただし、世帯の所得により負担上限額が設定されます。\n\n窓口・お問い合わせ\nみなと保健所　健康推進課　地域保健係\n電話：03-6400-0084\nファックス：03-3455-4539\n各総合支所　区民課　保健福祉係;https://www.city.minato.tokyo.jp/kenko/fukushi/shogaisha/madoguchi/sogo.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度",
+    "shortName": "自立支援医療（育成医療）　-18歳未満-"
+  },
+  "localGovernmentLink": {
+    "title": "自立支援医療（育成医療）　-18歳未満-",
+    "uri": "https://www.city.minato.tokyo.jp/kenko/fukushi/shogaisha/iryo/ikuse.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "港区"
+  },
+  "procedureCounter": " みなと保健所　健康推進課　地域保健係\n電話：03-6400-0084\nファックス：03-3455-4539\n各総合支所　区民課　保健福祉係;https://www.city.minato.tokyo.jp/kenko/fukushi/shogaisha/madoguchi/sogo.html",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [
+    {
+      "title": "各総合支所　区民課　保健福祉係",
+      "uri": "https://www.city.minato.tokyo.jp/kenko/fukushi/shogaisha/madoguchi/sogo.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+  "support": {
+    "description": "身体に障害のある児童に対し、指定育成医療機関において、生活能力を得るために必要な医療を給付",
+    "materiallySupport": "身体に障害のある児童に対し、指定育成医療機関において、生活能力を得るために必要な医療を給付",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "18歳未満",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "18歳未満で\n\n肢体不自由\n視覚障害\n聴覚、平衡機能障害\n音声機能・言語機能又はそしゃく機能障害\n心臓機能障害\n腎臓機能障害\n小腸機能障害\n肝臓機能障害\nその他の内臓の障害（呼吸器、膀胱、直腸、小腸機能障害を除く内臓障害は、先天性疾病によるものに限る。）\nヒト免疫不全ウイルスによる免疫機能障害のため、手術等を必要とし、確実な治療効果が期待できる児童。一部所得制限があります。"
+  },
+  "updateDate": "2023-12-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

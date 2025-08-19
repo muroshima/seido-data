@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子育て支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM803"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "江戸川区子ども家庭部子育て支援課施設利用給付係",
+    "contactPhone": "03-5662-1012",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "令和元年10月より、幼児教育・保育の無償化がスタートしました。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "幼児教育・保育施設の保育料について",
+    "shortName": "幼児教育・保育の無償化"
+  },
+  "localGovernmentLink": {
+    "title": "幼児教育・保育の無償化",
+    "uri": "https://www.city.edogawa.tokyo.jp/e047/kosodate/kosodate/mushouka.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "江戸川区子ども家庭部子育て支援課施設利用給付係\n電話番号：03-5662-1012(直通)",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "2.無償化を受けるために必要な申請\n\n幼稚園や認可外保育施設等を利用し無償化の適用を受けるためには、「施設等利用給付認定」を受ける必要があります。\n利用施設や利用状況によって必要な申請が異なりますので、お手続きの詳細は以下の資料をご参照ください。\nなお、認定開始日は申請日より遡及することはありません。\n施設利用開始日の前日までに必ず申請してください。\n\n・幼児教育・保育の無償化（認定用）\nhttps://www.city.edogawa.tokyo.jp/e047/kuseijoho/denshi/download/d_tanjo/siseturiyokyufunintei.html\n\n（注）江戸川区に転入予定の方で既に転入前の自治体で認定を受けている場合は、江戸川区に転入した日から江戸川区で認定を受ける必要があるため、あらかじめ提出書類を準備し、転入手続きを行った日に申請してください。\n（注）江戸川区から転出する場合は、転出した日から居住自治体で認定を受ける必要がありますので、手続き方法については転出先の自治体にご確認ください。\n\n3.請求方法及び支払い方法\n\n無償化の対象となる施設等利用費の請求をするためには、江戸川区へ必要書類の提出が必要です。\n必要書類は下記リンクから確認できますのでご参照ください。\nまた、支払いについては必要書類のご提出から1～2か月後を予定しております。\nなお、請求できる施設等利用費は施設等利用給付認定期間内の費用に限られますのでご注意ください。\n\n・幼児教育・保育の無償化（請求用）\nhttps://www.city.edogawa.tokyo.jp/e047/kuseijoho/denshi/download/d_tanjo/musyouka_seikyu.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第27条～第30条の2",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "（こども家庭庁）幼児教育・保育の無償化ページ（外部サイトへリンク）（別ウィンドウで開きます）;私立幼稚園",
+      "uri": "http://www.cfa.go.jp/policies/kokoseido/mushouka/;https://www.city.edogawa.tokyo.jp/e047/kosodate/kosodate/hoiku/nitijou/shiritsu.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "特定教育・保育施設等を利用する場合の実費徴収に対する補足給付について、令和元年10月より、幼児教育・保育の無償化がスタートしました。",
+  "support": {
+    "description": "幼児教育・保育の無償化",
+    "materiallySupport": "幼児教育・保育の無償化",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "3歳児から5歳児クラスまでの子ども,0歳児から2歳児クラスまでの住民税非課税世帯の子ども",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "・下表の対象施設を利用する3歳児から5歳児クラスまでの子ども\n・下表の対象施設を利用する0歳児から2歳児クラスまでの住民税非課税世帯の子ども\n\n(利用する対象施設によって、無償化の適用を受けるための認定手続きが異なります。)\n\n対象となる施設\n\n幼児教育・保育の無償化の対象となる区内施設(注1)については、以下の表をご参照ください。\n\n特別支援学校等についてはお問い合わせください。\n\n区外の無償化対象施設については、保育施設等の所在自治体（都道府県を含む）のホームページ等をご確認ください。\n|対象施設、事業|無償化の適用を受けるために必要な認定手続きhttps://www.city.edogawa.tokyo.jp/e047/kuseijoho/denshi/download/d_tanjo/siseturiyokyufunintei.html|3歳から5歳|0歳から2歳（住民税非課税世帯のみ）|\n|:----|:----|:----|:----|\n|私立幼稚園（従来制度）https://www.city.edogawa.tokyo.jp/documents/15598/sinseido5.pdf|施設等利用給付認定(新1号)|月額31,000円まで無償（入園時期に合わせて満3歳から対象）_（注）令和5年9月より月額33,000円まで無償（入園時期に合わせて満3歳から対象）|―|\n|私立幼稚園（新制度）、認定こども園（幼稚園部分）https://www.city.edogawa.tokyo.jp/documents/15598/sinseido5.pdf_区立幼稚園https://www.city.edogawa.tokyo.jp/e069/kuseijoho/gaiyo/shisetsuguide/bunya/kosodate/kuritsu/youchien_annai.html|―|無償（入園時期に合わせて満3歳から対象）_（注）令和5年9月から私立幼稚園利用者の負担軽減のための補助を拡充しております。詳細は私立幼稚園をご参照ください。|―|\n|幼稚園、認定こども園の預かり保育https://www.city.edogawa.tokyo.jp/documents/15598/azukari5.pdf|施設等利用給付認定(新2号・新3号)|(注2)月額11,300円まで無償化|(注2)月額16,300円まで無償化|\n|認可保育園、認定こども園（保育所部分）、小規模保育事業、事業所内保育事業|―|無償（延長保育は対象外）|無償（延長保育は対象外）|\n|保育ママhttps://www.city.edogawa.tokyo.jp/e048/kosodate/kosodate/hoiku/nitijou/mama/index.html|施設等利用給付認定(新3号)|―|無償（雑費は対象外）|\n|認可外保育施設（居宅訪問型保育事業を含む）https://www.city.edogawa.tokyo.jp/documents/15598/ninkagai38.pdf（国が定める基準を満たしている施設のみ)_認証保育所https://www.city.edogawa.tokyo.jp/documents/15598/ninsyohoiku3.pdf_一時預かり事業https://www.city.edogawa.tokyo.jp/documents/15598/ichiziazukari13.pdf_病児保育事業https://www.city.edogawa.tokyo.jp/documents/15598/byozihoiku4.pdf_ファミリーサポート事業https://www.city.edogawa.tokyo.jp/e077/kosodate/kosodate/familysupport/index.html|施設等利用給付認定(新2号・新3号)|月額37,000円まで無償化|月額42,000円まで無償化|\n\n(注1)幼児教育・保育の無償化の対象施設となるには、江戸川区が特定子ども・子育て支援施設等の確認をする必要があります。特定子ども・子育て支援施設等の確認を希望する事業者様は、施設利用給付係（電話：03-5662-1012）までお問い合わせください。\n(注2)月額11,300円(月額16,300円)を上限とし、日額450円×利用日数で算出した額と保護者が幼稚園に支払った預かり利用額を比較して低い方の額を助成します。"
+  },
+  "updateDate": "2024-02-16",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

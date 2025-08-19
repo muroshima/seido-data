@@ -1,0 +1,133 @@
+{
+  "area": {
+    "areaCode": "132152;国立市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子育て支援課 子育て支援係(くにたち子育てサポート窓口【くにサポ】)",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132152",
+    "psid": "psid3.0+1000020132152+1+UM47"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "国立市富士見台2-47-1 国立市役所 1階(20番窓口)",
+    "contactComment": "ファクス：042-576-2283",
+    "contactEmail": null,
+    "contactEx": "042-576-2111(内線：168)",
+    "contactName": "子ども家庭部 子育て支援課 子育て支援係(くにたち子育てサポート窓口【くにサポ】)",
+    "contactPhone": "042-576-2105",
+    "contactUrl": "https://www.city.kunitachi.tokyo.jp/cgi-bin/inquiry.php/52?page_no=9179",
+    "zipCode": "1868501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "くにたち子育てサポート窓口【くにサポ】は子ども・子育てについての総合相談窓口です\n2023-2024サポートブック表紙\nくにたち子育てサポート窓口「くにサポ」は、子ども・子育てのための総合相談窓口です。\n\nこんなときにご相談ください。\n\n妊娠、子育てについて不安や心配事がある。\n家族関係で悩んでいる。\n学校に行きづらくなっている子どもがいる。\n離婚や養育費、親子交流について相談したい。\n学習支援や子ども食堂、地域での子どもの居場所について知りたい。\n国立市の子育て支援制度を掲載しているくにたち子育てサポートブック (PDFファイル: 14.4MB);https://www.city.kunitachi.tokyo.jp/material/files/group/42/2023-2024supportbook.pdf\n\n臨床心理士に相談できる個別家族相談会のお知らせ; https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec01/gyomu/kunisapo/9178.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "国立市の妊娠・出産に関する相談",
+    "shortName": "くにたち子育てサポート窓口"
+  },
+  "localGovernmentLink": {
+    "title": "子ども・子育ての総合相談窓口　くにたち子育てサポート窓口のご案内",
+    "uri": "https://www.city.kunitachi.tokyo.jp/kosodate/kosodate/kunisapo/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "国立市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "国立市の子育て支援制度を掲載しているくにたち子育てサポートブック (PDFファイル: 14.4MB)",
+      "uri": "https://www.city.kunitachi.tokyo.jp/material/files/group/42/2023-2024supportbook.pdf"
+    },
+    {
+      "title": "臨床心理士に相談できる個別家族相談会のお知らせ",
+      "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec01/gyomu/kunisapo/9178.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "くにたち子育てサポート窓口「くにサポ」は、妊娠期から１８歳までのこども・子育てに関する総合相談窓口です。",
+  "support": {
+    "description": "くにたち子育てサポート窓口「くにサポ」は、子ども・子育てのための総合相談窓口です。\n\nこんなときにご相談ください。\n\n妊娠、子育てについて不安や心配事がある。\n家族関係で悩んでいる。\n学校に行きづらくなっている子どもがいる。\n離婚や養育費、親子交流について相談したい。\n学習支援や子ども食堂、地域での子どもの居場所について知りたい。",
+    "materiallySupport": "くにたち子育てサポート窓口「くにサポ」は、子ども・子育てのための総合相談窓口です。\n\nこんなときにご相談ください。\n\n妊娠、子育てについて不安や心配事がある。\n家族関係で悩んでいる。\n学校に行きづらくなっている子どもがいる。\n離婚や養育費、親子交流について相談したい。\n学習支援や子ども食堂、地域での子どもの居場所について知りたい。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

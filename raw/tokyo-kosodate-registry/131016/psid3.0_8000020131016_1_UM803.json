@@ -1,0 +1,143 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局子ども部子ども支援課保育運営支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+1+UM803"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": "kodomoshien@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "教育委員会事務局子ども部子ども支援課保育運営支援係",
+    "contactPhone": "03-5211-4117",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "新型コロナウイルス感染拡大による保育園等の保育料の取り扱いについて\n\n新型コロナウイルス感染拡大防止のため登園を自粛いただいた場合、自粛日数に応じた保育料の日割り減額対応を行います。なおこの取り扱いは令和5年6月末をもって終了しました。\n\n保育園・こども園（0～2歳児クラス）の保育料\n\n保育園・こども園（0～2歳児クラス）へ入園した場合、保護者の課税状況に応じて条例に定められた保育料を納入していただきます。\n\n・同じ世帯に子どもが2人以上いる場合、年齢に関わらず世帯児童数を数え、第2子以降の子どもの保育料が減額されます（第2子以降無料）。\n・保育料については、失業（自己退職を除く）などで著しく収入が減ったとき、病気や災害などで特別に費用がかかったとき、同居の家族に高度障害の方がいるときなどは、減額される場合がありますので、子ども支援課へご相談ください。\n・入園しているお子さんが病気などで月の初日から1か月以上通園できないときは、保育料を免除できる制度がありますので、子ども支援課へご相談ください（2か月以上通園できない場合は退園となります）。\n・所得割額の算定には配当控除、外国税額控除、住宅取得控除、寄付金控除、配当割額控除、株式等譲渡所得割額控除等の税額控除は適用しません。\n・保育料は変更になる場合があります。\n・延長保育を利用する場合の保育料は、「保育園・こども園等延長保育料」のページをご覧ください。\n\nこども園（3～5歳児クラス）・幼保一体施設内幼稚園の保育料\n\nこども園（3～5歳児クラス）・幼保一体施設内幼稚園へ入園した場合、幼児教育・保育の無償化により基本保育料は無料です。\n\n・短時間保育は、土曜日・夏休み期間を休業とし、必要に応じて預かり保育を実施しています。\n・預かりの保育料は、1時間100円とします。その他時間帯によって、おやつ代100円、給食代300円が必要となります。詳細は、「区立幼稚園・こども園預かり保育」のページをご覧ください。\n・幼保一体施設内幼稚園は、土曜日・夏休み等の預かり保育は実施していません。\n・保育料は変更になる場合があります。\n・延長保育を利用する場合の保育料は、「保育園・こども園等延長保育料」のページをご覧ください。\n「保育園・こども園等延長保育料」\nhttps://www.city.chiyoda.lg.jp/koho/kosodate/hoikuen/riyoannai/encho.html\n「区立幼稚園・こども園預かり保育」\nhttps://www.city.chiyoda.lg.jp/koho/kosodate/yochien/azukari.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "幼児教育・保育施設の保育料について",
+    "shortName": "保育園・こども園の保育料"
+  },
+  "localGovernmentLink": {
+    "title": "保育園・こども園の保育料",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoiku/hoikuryo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第27条～第30条の2",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "千代田区保育の実施に関する条例（PDF：165KB）",
+      "uri": "https://www.city.chiyoda.lg.jp/documents/1350/hoiku-jisshijore.pdf"
+    },
+    {
+      "title": "千代田区立こども園条例（PDF：220KB）",
+      "uri": "https://www.city.chiyoda.lg.jp/documents/1350/kodomoenjore.pdf"
+    },
+    {
+      "title": "認可保育園（全歳児・こども園（0～2歳児クラス）保育料表（令和5年10月1日以降適用）（PDF：89KB）",
+      "uri": "https://www.city.chiyoda.lg.jp/documents/1350/ninkahoikuen-hoikuryohyo_1.pdf"
+    },
+    {
+      "title": "区立幼稚園・こども園預かり保育",
+      "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/yochien/azukari.html"
+    },
+    {
+      "title": "保育園・こども園等延長保育料",
+      "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoikuen/riyoannai/encho.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子ども・子育て支援新制度による給付を受ける幼稚園や認可保育園、認定こども園、地域型保育事業（小規模保育・家庭的保育・居宅訪問型保育・事業所内保育）の保育料（利用者負担額）は、国が定めた額を上限として、千代田区が認定区分ごとに、世帯の所得状況、利用時間（標準時間・短時間）などに応じて定めた額となります。\nそれ以外の私学助成の幼稚園や認可外保育施設などの利用料は、施設ごとに定めた額になります。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2023-09-29",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

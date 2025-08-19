@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部障害者福祉課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+2+UM78"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部障害者福祉課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e041/kuseijoho/gaiyo/soshiki/fukushi/syogai.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "利用者負担\nサービスを利用したときの利用者負担は、負担能力に応じた負担（応能負担）となります。前年の所得に応じて区分を決定し、利用時間数によって下記の利用者負担額がかかります。\n\n|区分|利用者負担額（1回あたり）|<|<|<|<|\n|^|2時間|2時間30分|3時間|3時間30分|4時間|\n|:----|:----|:----|:----|:----|:----|\n|利用者負担免除_非課税・生活保護世帯|0円|0円|0円|0円|0円|\n|一般1（障害児）_区民税所得割28万円未満|180円|220円|270円|310円|360円|\n|一般1（障害者）_区民税所得割16万円未満|370円|460円|550円|640円|740円|\n|一般2_上記「一般1」に該当しない方|1,500円|1,880円|2,200円|2,630円|3,000円|\n",
+  "description": "訪問看護ステーションの看護師等が自宅に出向き、介護を行う家族に代わって一定時間の呼吸管理、栄養管理、排泄管理等の医療的ケア及び食事介助、排泄介助、体位交換等の療養上の世話（以下「医療的ケア等」という）を行うことにより、重症心身障害児（者）等の健康の保持及びその介護を行う家族等の負担軽減や就労等支援を行う事業です。",
+  "electronicSubmission": false,
+  "formLink": [
+    {
+      "title": "重症心身障害児（者）等在宅レスパイト・就労等支援事業利用の申請",
+      "uri": "https://app.oss.myna.go.jp/Application/procdetail/initGet?kc9XUt9I8/CU41afS8P1OaaLxX/9+D2bXPzn80LiqLRKeI438ftq6avj3ZAt+N8AlNhjhc1XlqjPKOWxSoxbkOxNmSHRe+tQW/RUXvwhdI6WddVXVD7OriQoGJ+SYv+x0btkqoOCaBLCyF8NZ39KEA"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "障がい児保育",
+    "shortName": "重症心身障害児（者）等在宅レスパイト・就労等支援事業"
+  },
+  "localGovernmentLink": {
+    "title": "重症心身障害児（者）等在宅レスパイト・就労等支援事業",
+    "uri": "https://www.city.edogawa.tokyo.jp/e041/kenko/fukushikaigo/shogaisha/service/seikatsu/zaitaku/homonkango.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "お問い合わせ\n福祉部障害者福祉課\n江戸川区役所　南棟2階1番\nFAX：03-3656-5874\n\n■本サービスの申請・相談に関すること\n障害相談第一係・障害相談第二係\n電話：03-5662-0052・03-5663-0053\n\n■事業所の協定・請求に関すること\n庶務係\n電話：03-5662-0054",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請の流れ\n■1 相談\n担当部署にご相談ください。\n必要書類を下記よりダウンロードするか、区の窓口にて受け取ってください。\n\n■2 申請\n下記の書類を担当部署の窓口または郵送により提出していただくか、令和6年1月1日よりぴったりサービスを利用した電子申請（外部サイトへリンク）（別ウィンドウで開きます）https://app.oss.myna.go.jp/Application/procdetail/initGet?kc9XUt9I8/CU41afS8P1OaaLxX/9+D2bXPzn80LiqLRKeI438ftq6avj3ZAt+N8AlNhjhc1XlqjPKOWxSoxbkOxNmSHRe+tQW/RUXvwhdI6WddVXVD7OriQoGJ+SYv+x0btkqoOCaBLCyF8NZ39KEAも可能です。\n・江戸川区重症心身障害児（者）等在宅レスパイト・就労等支援事業利用申請書\n・医療的ケア時の個人情報の提供に関する同意書（注）新規申請の方のみ、すでに同意されて提出している方は不要です。\n・医師の指示書（訪問看護指示書の写しなど）(注)複数の訪問看護事業所を利用する場合は事業所ごとに必要となります。\n・その年の1月2日以降に江戸川区に転入された場合、前住所地の課税証明書を提出していただきます。\n\n■3 利用開始\nご自宅に『江戸川区重症心身障害児（者）在宅レスパイト・就労等支援事業利用決定通知書』を送付いたします。決定通知書が届きましたら利用する訪問看護事業所へ提示してください。決定日より利用することができます。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第59条第2号",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "訪問看護ステーションの看護師等が自宅に出向き、介護を行う家族に代わって一定時間の呼吸管理、栄養管理、排泄管理等の医療的ケア及び食事介助、排泄介助、体位交換等の療養上の世話（以下「医療的ケア等」という）を行うことにより、重症心身障害児（者）等の健康の保持及びその介護を行う家族等の負担軽減や就労等支援を行う事業です。",
+  "support": {
+    "description": "区と協定を締結した訪問看護ステーションの看護師等が自宅に出向き、介護者である家族等が行っている医療的ケア等を一定時間代替します。\n・サービス利用時間数：年間144時間まで\n・サービス提供単位：1回あたり2時間から4時間までの間で、30分単位\n（注）本事業の利用に当たっては、江戸川区と訪問看護事業所との間にサービスに係る協定を結んでいる事業所が対象となります。既に協定を結んでいる事業所については、下記『江戸川区在宅レスパイト・就労等支援事業協定事業所一覧』をご覧ください。\n（注）江戸川区との協定を結んでいない事業所を利用する場合、新たに協定を結んでからの利用となりますので1か月程度時間がかかる場合があります。ご了承ください。\n（注）本事業の利用期間は7月1日（または決定日）から、翌年の6月30日までの1年間となります。継続して利用される場合は更新の手続きが必要となります。\n（注）年間利用時間数を超えて利用された場合、全額自己負担となりますのでご注意ください。\n江戸川区在宅レスパイト・就労等支援事業協定事業所一覧（PDF：482KB）（別ウィンドウで開きます）\nhttps://www.city.edogawa.tokyo.jp/documents/7032/houmonnkanngo230818.pdf",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "・18歳未満の、医療的ケア（下記の(1)～(12)のいずれかに該当）を必要とする在宅の障害児であり、訪問看護の必要があると医師により認められる区民の方\n・18歳以上の、医療的ケア（下記の(1)～(12)のいずれかに該当）を必要とする、肢体不自由の身体障害者手帳1級または2級かつ、愛の手帳1度または2度を有している在宅の重症心身障害者であり、医師により訪問看護の必要があると認められる区民の方\n（注）医療機器を使用しているか、または訪問看護師によるケアや見守りが必要であることを確認するために医師指示書（訪問看護指示書写しなど）の提出が必要となります\n（注）愛の手帳要件を満たさない場合、18歳までに大島分類区分1～4に該当すると確認ができる医師の意見書の提出が必要となります。\n\n（1）人工呼吸器管理\n（注）毎日行う機械的気道加圧を要するカフマシン・NIPPV・CPAPなどは、人工呼吸器管理に含む。\n（2）気管内挿管、気管切開\n（3）鼻咽頭エアウェイ\n（4）酸素吸入\n（5）6回/日以上の頻回の吸引\n（6）ネブライザー6回/日以上又は継続使用\n（7）中心静脈栄養（IVH)\n（8）経管（経鼻・胃ろう含む）\n（9）腸ろう・腸管栄養\n（10）継続する透析（腹膜灌流を含む）\n（11）定期導尿（3回/日以上）\n（注）人工膀胱を含む。\n（12）人工肛門",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "・18歳未満の、医療的ケア（下記の(1)～(12)のいずれかに該当）を必要とする在宅の障害児であり、訪問看護の必要があると医師により認められる区民の方\n・18歳以上の、医療的ケア（下記の(1)～(12)のいずれかに該当）を必要とする、肢体不自由の身体障害者手帳1級または2級かつ、愛の手帳1度または2度を有している在宅の重症心身障害者であり、医師により訪問看護の必要があると認められる区民の方\n（注）医療機器を使用しているか、または訪問看護師によるケアや見守りが必要であることを確認するために医師指示書（訪問看護指示書写しなど）の提出が必要となります\n（注）愛の手帳要件を満たさない場合、18歳までに大島分類区分1～4に該当すると確認ができる医師の意見書の提出が必要となります。\n\n（1）人工呼吸器管理\n（注）毎日行う機械的気道加圧を要するカフマシン・NIPPV・CPAPなどは、人工呼吸器管理に含む。\n（2）気管内挿管、気管切開\n（3）鼻咽頭エアウェイ\n（4）酸素吸入\n（5）6回/日以上の頻回の吸引\n（6）ネブライザー6回/日以上又は継続使用\n（7）中心静脈栄養（IVH)\n（8）経管（経鼻・胃ろう含む）\n（9）腸ろう・腸管栄養\n（10）継続する透析（腹膜灌流を含む）\n（11）定期導尿（3回/日以上）\n（注）人工膀胱を含む。\n（12）人工肛門"
+  },
+  "updateDate": "2023-11-14",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

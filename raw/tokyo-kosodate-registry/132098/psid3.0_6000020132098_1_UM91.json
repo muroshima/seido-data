@@ -1,0 +1,118 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども生活部保育・幼稚園課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+1+UM91"
+  },
+  "belongings": null,
+  "capacity": "認証保育所は施設の状況により、定員以上に受け入れが可能な場合があります。",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "（管理係）042-724-2138,（支援係）042-724-2137",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども生活部保育・幼稚園課",
+    "contactPhone": "042-724-2138,042-724-2137",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/8",
+    "zipCode": null
+  },
+  "cost": "各認証保育所にお問い合わせください。",
+  "costConditions": null,
+  "description": "認可保育所だけでは対応しきれない都市部のニーズに対応するため、東京都独自の保育所として2001年に創設されました。駅から近い立地を原則とし、保護者の退社時間が遅いご家庭にも対応します。町田市には2023年4月1日現在4施設あり、すべて認証保育所A型の施設です。\n関連情報\n東京都福祉保健局 認証保育所について;http://www.fukushihoken.metro.tokyo.jp/kodomo/hoiku/ninsyo/index.html\n特定認可外保育施設入所児童保護者補助金;https://kosodate-machida.tokyo.jp/soshiki/4/1/2/488.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "認可外保育施設一覧",
+    "shortName": "認証保育所一覧"
+  },
+  "localGovernmentLink": {
+    "title": "認証保育所について",
+    "uri": "https://kosodate-machida.tokyo.jp/soshiki/4/3/3/354.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "「認証保育所」：認可外保育施設とは、公的助成の有無や事業規模などにかかわらず、児童福祉法、もしくは認定こども園法に基づく認可を受けていない、お子さんを預かる施設・サービスの総称で、保育の内容や料金設定などは施設によりさまざまです。認可保育所だけでは対応しきれない都市部のニーズに対応するため、東京都独自の保育所として2001年に創設されました。駅から近い立地を原則とし、保護者の退社時間が遅いご家庭にも対応します。町田市には2023年4月1日現在4施設あり、すべて認証保育所A型の施設です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": null,
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": null
+  },
+  "target": {
+    "conditions": "生後8週間～5歳児まで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 5,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生後8週間～5歳児までのお子さん（原則として市内在住）\n市内在住でなくても都内にお住まいであれば入所できる場合があります。施設に直接ご確認ください。\n\n認証保育所一覧\n認証保育所 (A型）\n|施設名|定員|電話|所在地|\n|:----|:----|:----|:----|\n|都市型保育園 ポポラー東京成瀬園;http://www.rabi-popo.com/popolar/area/kantou/post-20.html|70名|042-710-5150|町田市南成瀬1-3-5<br>そうてつローゼン成瀬SC<br>アネックスビル2階|\n|ポピンズナーサリー スクール南町田;http://www.poppins.co.jp/nursery/room/index.html|34名|042-788-2107|町田市南町田5-14-4ガーデンセシア<br>セシアプラザ内2階|\n|木下の保育園 鶴川;https://www.kinoshita-hoiku.com/facility/tsurukawa|30名|042-708-1451|町田市能ヶ谷1-6-2<br>小田急マルシェ鶴川2階|\n|町田多摩境雲母(きらら)保育園;http://www.kirara-hoikuen.com/hoikuen/tamasakai.html|40名|042-703-7985|町田市小山ヶ丘3-28|"
+  },
+  "updateDate": "2023-04-01",
+  "useConsiderationFlag": true,
+  "utilization": "1.各保育施設に利用申し込み：空き状況、保育内容、保育時間、保育料、お子さんの体質などについて認証保育所と充分話し合ってください。\n2.利用契約：利用希望者と認証保育所との直接契約となります。\n3.保育の開始",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

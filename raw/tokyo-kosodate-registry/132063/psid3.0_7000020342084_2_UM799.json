@@ -1,0 +1,138 @@
+{
+  "area": {
+    "areaCode": "132063;府中市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "担当課：子ども家庭部子ども家庭支援課（たっち）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020342084",
+    "psid": "psid3.0+7000020342084+2+UM799"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子ども家庭支援課",
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": "無料",
+  "costConditions": null,
+  "description": "子ども家庭支援センター「しらとり」\n\n所在地\n府中市武蔵台1丁目10番地\n\n主な事業内容\n育児相談\n内容\nしらとりひろばにおいて、スタッフが子育ての悩みや不安に関する相談に応じます。\n対象\n市民\n日時\n月曜日から土曜日まで（年末年始・祝日を除く）の午前10時から午後4時まで\n　費用\n無料\n\nしらとりひろば\n内容\n子育て中の親子が交流できる場を提供するほか、親子で楽しめる催し等を開催します。\n対象\n0歳から就学前までの子どもとその保護者\n注記：市外の方も利用できます。\n日時\n月曜日から土曜日（年末年始・祝日を除く）の午前10時から午後4時まで\n費用　\n無料\n\nオープンルーム\n内容\nしらとりひろばでの親子遊びや公園・文化センターでの外遊びなどを行う「あおぞらオープンルーム」を開催します。詳しい内容や日時などは「しらとり」ホームページをご覧いただくか、子ども家庭支援センター「しらとり」までお問合せください。\n対象\n0歳から就学前までの子どもとその保護者\n注記：市外の方も利用できます。\n日時\n開催日の午前10時半から正午まで\n注記：月2回程度、火曜日に開催します。\n費用\n無料\n\n子育てに関する講座\n内容\n子育てに役立つ講座「ミニルームあいあい」等を開催します。\n日時・参加方法\n日時及び参加方法は、広報ふちゅう及び「しらとり」ホームページでお知らせします。\n費用\n無料",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "府中市武蔵台1丁目10番地",
+    "implementationName": "子ども家庭支援センター「しらとり」"
+  },
+  "institutionName": {
+    "canonicalName": "こども家庭センター",
+    "shortName": "子ども家庭支援センター「しらとり」"
+  },
+  "localGovernmentLink": {
+    "title": "子ども家庭支援センター「しらとり」",
+    "uri": "https://www.city.fuchu.tokyo.jp/shisetu/kosodate/shien/shiratori.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/17",
+    "updater": "府中市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "がいどまっぷ府中 子ども家庭支援センター「しらとり」",
+      "uri": "https://fugis.city.fuchu.tokyo.jp/FuchuInternet/?z=17&ll=35.687738%2C139.464947&t=roadmap&mp=1&op=70&vlf=-1"
+    },
+    {
+      "title": "がいどまっぷ府中利用規約",
+      "uri": "https://fugis.city.fuchu.tokyo.jp/FuchuInternet/Resource/portal/kiyaku.html"
+    },
+    {
+      "title": "「しらとり」ホームページ",
+      "uri": "http://www.tama-dhk.or.jp/siratori/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "府中市の【子ども家庭支援センター「しらとり」】では、全ての妊産婦・子育て家庭に対する相談等への対応、サポートプランに基づく妊産婦の健康やこどもの養育に関する支援などを行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象\n市民,対象\n0歳から就学前までの子どもとその保護者\n注記：市外の方も利用できます。"
+  },
+  "updateDate": "2023/05/08",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日から土曜日まで（年末年始・祝日を除く）",
+    "fromHM": "10:00",
+    "toHM": "16:00"
+  }
+}

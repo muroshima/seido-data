@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131041;新宿区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": null,
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020131041",
+    "psid": "psid3.0+7000020131041+2+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ＦＡＸ：03－3260－6223,ＦＡＸ：03－3351－5166,ＦＡＸ：03－3200－1027,ＦＡＸ：03－3952－9943",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "牛込保健センター,四谷保健センター,東新宿保健センター,落合保健センター",
+    "contactPhone": "03-3260-6231,03-3351-5161,03-3200-1026,03-3952-7161",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ママの心の相談\n最終更新日：2024年4月1日\n親と子の相談室\n内容\n子育て中のお母さん方の精神的な疲れや悩みを少しでも軽くしていただく相談の場です。\n会場\n東新宿保健センター（新宿7－26－4）\n申し込み方法\n予約制です。\n担当の保健センターの保健師にご相談ください。\n日程と保健センターの担当地区は下記をご覧ください。\n令和6年度　親と子の相談室日程表[PDF形式：66KB]（新規ウィンドウ表示）;https://www.city.shinjuku.lg.jp/content/000391460.pdf\n保健センター担当一覧（町名別） [PDF形式：104KB] （新規ウィンドウ表示）;https://www.city.shinjuku.lg.jp/content/000313100.pdf\nオリーブの会\n内容\n親同士の交流を通じて、悩みや育児の問題の軽減を図るため、保健師・専門家がグループ相談を行っています。   \n会場\n東新宿保健センター（新宿7－26－4）\n申込み方法\n予約制です。東新宿保健センターの保健師にご相談ください。\n日程は下記をご覧ください。\n令和6年度　オリーブの会日程表[PDF形式：68KB]（新規ウィンドウ表示）;https://www.city.shinjuku.lg.jp/content/000391461.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "令和6年度　オリーブの会日程表[PDF形式：68KB]（新規ウィンドウ表示）;https://www.city.shinjuku.lg.jp/content/000391461.pdf",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "新宿7－26－4",
+    "implementationName": "東新宿保健センター"
+  },
+  "institutionName": {
+    "canonicalName": "新宿区の子育てに関する相談",
+    "shortName": "ママの心の相談（オリーブの会）"
+  },
+  "localGovernmentLink": {
+    "title": "ママの心の相談",
+    "uri": "https://www.city.shinjuku.lg.jp/soshiki/ushigome-h01_001007.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "新宿区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "予約制です。東新宿保健センターの保健師にご相談ください。\n日程は下記をご覧ください。\n\n令和6年度　オリーブの会日程表[PDF形式：68KB]（新規ウィンドウ表示）;https://www.city.shinjuku.lg.jp/content/000391461.pdf",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "令和6年度　オリーブの会日程表[PDF形式：68KB]（新規ウィンドウ表示）",
+      "uri": "https://www.city.shinjuku.lg.jp/content/000391461.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "親同士の交流を通じて、悩みや育児の問題の軽減を図るため、保健師・専門家がグループ相談を行っています。",
+  "support": {
+    "description": "親同士の交流を通じて、悩みや育児の問題の軽減を図るため、保健師・専門家がグループ相談を行っています。",
+    "materiallySupport": "親同士の交流を通じて、悩みや育児の問題の軽減を図るため、保健師・専門家がグループ相談を行っています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

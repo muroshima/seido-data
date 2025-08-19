@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "131024;中央区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "中央区保健所健康推進課健康係,福祉保健部日本橋保健センター健康係,福祉保健部月島保健センター健康係,福祉保健部晴海保健センター健康係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131024",
+    "psid": "psid3.0+8000020131024+1+UM5010"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "明石町12番1号　中央区保健所4階,日本橋堀留町一丁目1番1号,月島二丁目10番3号,晴海四丁目8番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "中央区保健所健康推進課健康係,福祉保健部日本橋保健センター健康係,福祉保健部月島保健センター健康係,福祉保健部晴海保健センター健康係",
+    "contactPhone": "03-3541-5930,03-3661-5071,03-5560-0765,03-6381-2972",
+    "contactUrl": null,
+    "zipCode": "1040044,1030012,1040052,1040053"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "新生児聴覚検査\n中央区では、平成31年4月1日以降に生まれたお子さんが受けられた新生児聴覚検査の費用の一部を公費で負担します。\n\n新生児聴覚検査とは\n新生児聴覚検査とは、生まれてすぐ、赤ちゃんが眠っている間に聴覚障害の疑いがないかを調べる検査のことです。生まれつき聴覚に何らかの障害を持つ赤ちゃんは1,000人に1人から2人と言われています。早い時期に異常を発見し、適切な治療や支援を受けることで、ことばの発達などへの影響が最小限に抑えられます。\n聴覚障害の早期発見・早期療育を図るため、新生児聴覚検査を受けましょう。\n\n対象者\n区内に住所を有する産婦の子で、生後50日に達するまでの子\n（平成31年4月1日以降に生まれたお子さんが対象です。）\n\n内容\n対象となる検査\n生後50日に達する日までに初めて実施する自動聴性脳幹反応検査（自動ABR）または耳音響放射検査（OAE）\n\n公費負担額\n上限3,000円（1人につき検査1回）\nただし、3,000円に満たない場合はその金額\n\n実施医療機関\n都内契約医療機関（以下の東京都のホームページでご確認ください）\n\n東京都福祉保健局ホームページ（赤ちゃんの耳のきこえについて）（外部サイトへリンク）;http://www.fukushihoken.metro.tokyo.jp/kodomo/shussan/kenkou/baby_ear.html\n\n受診方法\n妊娠届出時にお渡しする「母と子の保健バッグ」に同封されている「新生児聴覚検査受診票」を、実施医療機関に提出してください。\nなお、検査については主治医と相談の上、原則として出生後の入院中、もしくはできるだけ出生後1か月頃までに実施してください。\n事情により出生後1か月頃までに受けられない場合には、生後50日に達する日までに実施してください。\n\n関連リンク\n新生児聴覚検査費用助成制度;https://www.city.chuo.lg.jp/a0031/kosodate/shussan/kodomonokenkou/shinseijichokakuhiyoujyosei.html\n\n里帰り出産等の理由により新生児聴覚検査受診票が使用できなかった方を対象に、検査にかかった費用の一部を助成する制度を行っています。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "新生児聴覚検査",
+    "shortName": "新生児聴覚検査"
+  },
+  "localGovernmentLink": {
+    "title": "新生児聴覚検査",
+    "uri": "https://www.city.chuo.lg.jp/a0031/kosodate/shussan/kodomonokenkou/kenshin/sinseijichokaku.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "中央区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "妊娠届出時にお渡しする「母と子の保健バッグ」に同封されている「新生児聴覚検査受診票」を、実施医療機関に提出してください。\nなお、検査については主治医と相談の上、原則として出生後の入院中、もしくはできるだけ出生後1か月頃までに実施してください。\n事情により出生後1か月頃までに受けられない場合には、生後50日に達する日までに実施してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "「新生児聴覚検査の実施について」（平成19年1月29日雇児母発第0129002号厚生労働省雇用均等・児童家庭局母子保健課長通知）"
+  },
+  "relatedLink": [
+    {
+      "title": "東京都福祉保健局ホームページ（赤ちゃんの耳のきこえについて）（外部サイトへリンク）",
+      "uri": "http://www.fukushihoken.metro.tokyo.jp/kodomo/shussan/kenkou/baby_ear.html"
+    },
+    {
+      "title": "新生児聴覚検査費用助成制度",
+      "uri": "https://www.city.chuo.lg.jp/a0031/kosodate/shussan/kodomonokenkou/shinseijichokakuhiyoujyosei.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "聴覚障害は、早期発見・治療により言葉の発達などへの影響が最小限に抑えられることが分かっていることから、生まれたばかりの赤ちゃんに聴覚障害の疑いがないかを調べる新生児聴覚検査の費用の一部を助成しています。 ",
+  "support": {
+    "description": "上限3,000円（1人につき検査1回）\nただし、3,000円に満たない場合はその金額",
+    "materiallySupport": null,
+    "monetarySupport": "上限3,000円（1人につき検査1回）\nただし、3,000円に満たない場合はその金額"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "区内に住所を有する産婦の子で、生後50日に達するまでの子\n（平成31年4月1日以降に生まれたお子さんが対象です。）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内に住所を有する産婦の子で、生後50日に達するまでの子\n（平成31年4月1日以降に生まれたお子さんが対象です。）"
+  },
+  "updateDate": "2024-04-15",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

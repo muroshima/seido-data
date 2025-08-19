@@ -1,0 +1,156 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て応援課子育て応援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+1+UM25"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区立石5-13-1　葛飾区役所4階　401番子育て支援窓口",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て応援課子育て応援係",
+    "contactPhone": "03-5654-6357",
+    "contactUrl": null,
+    "zipCode": "1248555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": true,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自のベビーシッター費用の助成",
+    "shortName": "一時預かりベビーシッター利用支援事業"
+  },
+  "localGovernmentLink": {
+    "title": "一時預かりベビーシッター利用支援事業",
+    "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1002333/1025553.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": "葛飾区子育て応援課子育て応援係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "次の書類を子育て応援課子育て応援係まで持参又は郵送してください。オンライン申請可。\n（1）ベビーシッター利用支援事業助成金申請書【一時預かり利用支援】\n※未就学児分と学童保育クラブ待機児分を同時に申請する場合、申請書は「未就学児用」と「学童保育クラブ待機児用」の2枚必要となります。\n（2）別紙利用内訳書（児童ごとに作成してください）\n（3）事業者が発行した領収書（氏名、利用日、利用時間、保育料の支払いがわかるもの）を添付\n※領収書で上記内容が確認できない場合は、事業者が発行した請求書や内訳書も添付してください。\n※クーポン割引を利用し、領収書等でクーポン割引等の適用内容が確認できない場合は、保育料からクーポン割引等を除いて、助成金を算定いたします。\n（4）ベビーシッター利用支援事業（一時預かり）補助事業ベビーシッター要件証明書（事業者が発行）\n（5）学童保育クラブの入所不承認の児童である場合、それがわかる書類等\n※上記（5）が発行されない場合、申請書に記載された学童保育クラブに、入所不承認の事実について照会することがあります。\n\n　【共同保育の場合】事業者が発行した共同保育をしたことがわかる資料（助成対象児童それぞれの利用日、利用時間、保育料がわかる領収書や明細書等）を添付してください。確認ができない場合は、助成金のお支払いはできません。\n\n　【保育を伴う送迎の場合】事業者が発行した児童の保育を伴う送迎であることがわかる領収書や明細書等の提出が必要です。送迎のみの場合は助成対象外です。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "一時預かりベビーシッター利用支援事業の利用に係るQ&A（2024.4.1）（PDF 238.3KB）",
+      "uri": "https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/025/553/2024qa.pdf"
+    },
+    {
+      "title": "令和6年度一時預かりベビーシッター利用支援事業助成金ご案内（PDF 103.7KB）",
+      "uri": "https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/025/553/r6goannai.pdf"
+    },
+    {
+      "title": "『ベビーシッター利用支援事業（待機児童対策）』についてはこちらから",
+      "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1002333/1019965.html"
+    },
+    {
+      "title": "子育て家庭家事サポーター派遣事業",
+      "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1002333/1025713.html"
+    },
+    {
+      "title": "妊娠期から育児期における主な給付・助成制度について",
+      "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1031709.html"
+    },
+    {
+      "title": "認可外保育施設の無償化による助成",
+      "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1030197/1021308/1021371/1021546.html"
+    },
+    {
+      "title": "ベビーシッターなどを利用するときの留意点（こども家庭庁）（外部リンク）",
+      "uri": "https://www.cfa.go.jp/policies/hoiku/ninkagai/tsuuchi/babysitter"
+    },
+    {
+      "title": "助成対象一覧（PDF 184.7KB）",
+      "uri": "https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/025/553/r5jyoseitaisyouitiran.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "葛飾区では、東京都の制度を利用し、日常生活上の突発的な事情等により一時的にベビーシッターを利用する保護者に対し、その利用料（保育料）の一部を助成します。",
+  "support": {
+    "description": "助成額\n【通常時間帯】　　午前7時～午後10時　　1時間2,500円上限\n【夜間時間帯】　　午後10時～翌朝午前7時　　1時間3,500円上限\n\n対象利用料\nベビーシッター事業者から請求される料金のうち純然たる保育サービス提供対価（税込み）のみが対象です。\n\n【助成対象外の費用】\n\n　　入会金、会費、キャンセル料、保険料、交通費、おむつ代などの実費等、家事援助、送迎、ピアノ指導、英会話授業等、クーポン等で割引された料金\n\n※送迎のみの場合は、助成対象外ですが、保育を伴う送迎（ベビーシッターが児童を伴って自宅等に送迎するもので、送迎の直前、直後に自宅等で児童を保育する必要があります）は、助成対象となります。但し、ベビーシッターが1人で施設等に迎えに行く時間帯については、児童の保育を伴っていないため助成対象外です。\n\n※ご利用の前に必ず『一時預かりベビーシッター利用支援事業の利用に係るQ&A』と『助成対象一覧』をご確認ください。",
+    "materiallySupport": null,
+    "monetarySupport": "助成額\n【通常時間帯】　　午前7時～午後10時　　1時間2,500円上限\n【夜間時間帯】　　午後10時～翌朝午前7時　　1時間3,500円上限"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "9歳になった日以降の最初の3月31日まで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 9,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "葛飾区に住民登録があり、「0～5歳児クラス（未就学児）に相当する児童の保護者」又は「学童保育クラブの入会申請後不承認となっている小学1～3年生の児童の保護者」"
+  },
+  "updateDate": "2024-05-30",
+  "useConsiderationFlag": false,
+  "utilization": "（1）東京都のホームページに掲載された認定事業者から事業者を選び、直接利用の契約をする。\n※利用契約をする際、「ベビーシッター要件証明書」が発行できるベビーシッターかどうか確認する。\n（2）利用後、利用料を事業者に支払い、領収書や「ベビーシッター要件証明書」等を受け取る。\n（3）申請書に領収書等の必要書類を添付して、持参又は郵送により子育て応援係宛てに申請する。オンライン申請可。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

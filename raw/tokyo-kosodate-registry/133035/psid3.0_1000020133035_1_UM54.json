@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "133035;瑞穂町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部 子ども家庭センター課 母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133035",
+    "psid": "psid3.0+1000020133035+1+UM54"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡瑞穂町大字石畑1970番地",
+    "contactComment": "受付時間 平日の午前8時30分から午後5時まで",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部子ども家庭センター課 母子保健係",
+    "contactPhone": "042-557-5098",
+    "contactUrl": "https://www.town.mizuho.tokyo.jp/inquiry/mailform130301.html?PAGE_NO=9347",
+    "zipCode": "1901211"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "里帰り等のやむを得ない事情により、瑞穂町定期予防接種予診票が使用できない瑞穂町外（以下「町外」）の医療機関で定期予防接種を受けた場合に、接種にかかった費用の一部を助成します。\n助成を受けるためには、事前の申請が必要です。下記の方法で申請してください\n\n対象の予防接種\n結核（BCG）、ヒブ、小児用肺炎球菌、麻しん・風しん、日本脳炎、五種混合（ジフテリア・百日せき・破傷風・ポリオ・ヒブ）、四種混合（ジフテリア・百日せき・破傷風・ポリオ）、水ぼうそう、ポリオ（急性灰白髄炎）、B型肝炎、ロタウイルス、ヒトパピローマウイルス感染症（子宮頸がん）、二種混合（ジフテリア・破傷風）\n\n依頼書交付申請書 (PDF形式 58KB)\nhttps://www.town.mizuho.tokyo.jp/kosodate/002/p009347_d/fil/iraisyokouhushinseisyo.pdf\n予防接種費用助成金交付申請書兼請求書 (PDF形式 96KB)\nhttps://www.town.mizuho.tokyo.jp/kosodate/002/p009347_d/fil/zyoseikinkouhushinseisyo.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "里帰り等定期予防接種費用助成金"
+  },
+  "localGovernmentLink": {
+    "title": "里帰り等定期予防接種費用助成金",
+    "uri": "https://www.town.mizuho.tokyo.jp/kosodate/002/p009347.html"
+  },
+  "odInformation": {
+    "content": "所管部署名称を変更",
+    "updateDate": "2024-09-13",
+    "updater": "瑞穂町"
+  },
+  "procedureCounter": "保健センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": "接種を受けた翌日から6か月以内",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）",
+    "regulationName": "予防接種法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "里帰り等のやむを得ない事情により、瑞穂町定期予防接種予診票が使用できない瑞穂町外（以下「町外」）の医療機関で定期予防接種を受けた場合に、接種にかかった費用の一部を助成します。",
+  "support": {
+    "description": "助成額\n対象の予防接種を受ける時に、町外医療機関で実際にかかった費用と瑞穂町内指定医療機関で接種した場合の費用を比較していずれか少ない方の額\n\n|助成額の例|<|<|\n|:----|:----|:----|\n|実際にかかった費用|瑞穂町内で接種した場合の費用|助成額|\n|11,000円|12,000円|11,000円|\n\n上記の場合、実際にかかった費用の方が少ないので、11,000円が助成されます。",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "092"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "予防接種の接種日時点で、瑞穂町に住所があり、次のいずれかに該当する方\n・保護者の里帰り出産のため、長期（おおむね3か月以上の期間）に町外に滞在している方\n・保護者の里帰り出産のため、町外に滞在している期間中にお子さんの予防接種の期限に到達する予定の方\n・医療機関、施設等に長期に入院し、または入所している方\n・疾病等の理由により、入院し、または定期的に通院している医療機関での接種が強く推奨される方\n・災害等のやむを得ない事情により、町外に長期に滞在している方"
+  },
+  "updateDate": "2023-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "接種を受ける前と、受けた後、それぞれ申請が必要です。町外での接種を希望する場合は下記のとおり申請してください。不明な点などは保健センターにお問い合わせください。\n\n(1) 事前申請（接種前）\n接種を受ける前に、瑞穂町指定医療機関以外で接種を受けるための申請書を提出します。\n\n・申請書類：予防接種依頼書交付申請書（申請者が保健センターに提出）\n・申請方法：窓口または郵送\n依頼書交付申請書（PDF形式 58キロバイト）https://www.town.mizuho.tokyo.jp/kosodate/002/p009347_d/fil/iraisyokouhushinseisyo.pdf\n\n(2) 依頼書交付（接種前）\n(1)の申請内容の審査を行い、依頼書を申請者にお渡しします。\n\n(3) 接種\n(2)の依頼書を持って、希望する医療機関で接種します。\n\n(4) 助成金申請（接種後）\n接種後、下記の書類をそろえて子ども家庭センター課（保健センター内）に申請します。\n\n・申請書類：予防接種費用助成金交付申請書兼請求書、領収書（原本）、母子健康手帳等の接種の記録が記載されている書類、予診票の原本または写し\n・申請方法：窓口または郵送\n・申請期限：接種を受けた翌日から6か月以内\n予防接種費用助成金交付申請書兼請求書（PDF形式 96キロバイト）https://www.town.mizuho.tokyo.jp/kosodate/002/p009347_d/fil/zyoseikinkouhushinseisyo.pdf\n\n(5) 助成金交付\n内容の審査を行い、予防接種費用助成金交付（不交付）決定通知書を送付します。\n交付額等は決定通知書でご確認ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "133639;新島村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "民生課保険係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020133639",
+    "psid": "psid3.0+9000020133639+1+UM19"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都新島村本村1丁目1番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "110",
+    "contactName": "新島村役場民生課保険係",
+    "contactPhone": "04992-5-0243",
+    "contactUrl": null,
+    "zipCode": "1000402"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "国民健康保険について\nホーム > くらしの情報 > 保険・年金・福祉 > 国民健康保険について\n\n国民健康保険について\n病気やケガの医療費の負担を少しでも軽くするため、日頃からそれぞれの収入や資産に応じて保険税を出し合い、必要な医療費に充てようという助け合いの制度です。\n\n加入する方\n職場の医療保険（健康保険、共済組合など）に加入している方や生活保護を受けている方以外は、必ず国民健康保険に加入しなければなりません。\n\n主な届出\n加入、もしくは喪失するときは、14日以内に届け出をしてください。\n\nこれらの届け出は、新島村役場民生課、若郷支所、式根島支所で受け付けています。\n\n国民健康保険に加入するケースとその時に必要なもの\n|こんなときは加入の手続きをしてください|必要なもの|\n|:----|:----|\n|職場の健康保険をやめたとき|印鑑、職場の健康保健（離脱）証明書|\n|他市町村から転入したとき|印鑑、転出証明書（※転入の届け出をしてください）|\n|子どもが生まれたとき|印鑑（※出生の届け出をしてください）|\n|生活保護を受けなくなったとき|印鑑、保護廃止決定通知書|\n\n国民健康保険が喪失となるケースとその時に必要なもの\n|こんなときは喪失の手続きをしてください|必要なもの|\n|職場の健康保険に加入したとき|印鑑、国民健康保険被保険者証、加入した健康保険の保険証|\n|他市町村に転出するとき|印鑑、国民健康保険被保険者証|\n|生活保護を受けるようになったとき|印鑑、国民健康保険被保険者証、※（保護開始決定通知書）|\n|死亡したとき|印鑑、国民健康保険被保険者証、※死亡の届け出をしてください|\n\nその他、手続きが必要なとき\n|このような時は手続きしてください|必要なもの|\n|:----|:----|\n|厚生年金や共済年金の受給権を取得したとき※退職医療制度該当（65歳未満）|印鑑、年金証書、国民健康保険被保険者証|\n|住所、氏名、世帯主が変わったとき|印鑑、国民健康保険被保険者証|\n|世帯を分離、または合併したとき|印鑑、国民健康保険被保険者証|\n|就学のため、子どものみ転出したとき|印鑑、在学証明書、国民健康保険被保険者証|\n|福祉施設等に入所するため、転出するとき|印鑑、施設の名前などの情報、国民健康保険被保険者証|\n|保険者証をなくしたり、汚したりしたとき|印鑑、運転免許証など本人確認できるもの、※（汚れた国民健康保険被保険者証）|\n\n主な給付について\n|給付の項目|給付の内容|\n|:----|:----|\n|療養の給付|医療機関に病気やケガでかかったとき、次の負担割合で治療を受けることができます。義務教育就学前まで＝２割、義務教育就学～69歳＝３割、70～74歳の被保険者は昭和19年４月１日以前生まれ＝１割、昭和19年４月２日以降生まれ＝２割、現役並み所得がある方＝３割|\n|療養費|医療機関でやむを得ず、被保険者証を提示せずに治療を受け医療費の全額を支払った場合、または医師が必要と認めた治療によるコルセット・ギプスなどの補装具等の代金について国民健康保険の負担分を払い戻します。|\n|高額医療費|病院の窓口で支払った額が高額になった場合、申請により、法で定められた限度額（世帯の所得状況や年齢構成によって異なります）を超えた額を払い戻します。|\n|出産育児一時金|国民健康保険に加入している方が出産したときに１件42万円を支給します。（ただし、産科医療補償制度未加入の医療機関等における分娩の場合１件39万円）|\n|葬祭費|国民健康保険に加入している方が死亡したときに１件５万円を支給します。|\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出産育児一時金",
+    "shortName": "出産育児一時金"
+  },
+  "localGovernmentLink": {
+    "title": "国民健康保険について",
+    "uri": "https://www.niijima.com/kurashi/hoken_nenkin/kokuminkenkouhoken.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-24",
+    "updater": "新島村"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "国民健康保険に加入している方",
+  "regulation": {
+    "regulationArticle": "第58条(第二節　その他の給付)",
+    "regulationName": "国民健康保険法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民健康保険に加入している方が出産したときは、その世帯主からの申請により、出産育児一時金を支給します。原則として直接支払制度により、医療機関に直接お支払いします。\nなお、直接支払制度に対応していない医療機関などで出産された場合も、「受取代理制度」や出産後の申請により、出産育児一時金の支給を受けることができます。",
+  "support": {
+    "description": "出産したときに１件42万円を支給します。（ただし、産科医療補償制度未加入の医療機関等における分娩の場合１件39万円）",
+    "materiallySupport": null,
+    "monetarySupport": "出産したときに１件42万円を支給します。（ただし、産科医療補償制度未加入の医療機関等における分娩の場合１件39万円） "
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003",
+      "015"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "国民健康保険に加入している方"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "131067;台東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "戸籍住民サービス課届出担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131067",
+    "psid": "psid3.0+6000020131067+1+UM3"
+  },
+  "belongings": "・ 出生証明書（医師や助産師が発行します。一般に出生届書と一体の様式です。）\n・ 母子健康手帳（持参が難しい場合はご相談ください）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "戸籍住民サービス課届出担当",
+    "contactPhone": "03-5246-1162",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "「出生届」とは\n　お子様が生まれた時に届出する届書です。出生届が受理されると、本籍地に戸籍が、住所地に住民票が作成されます。\n\n届出期限\n　日本国内で生まれた場合は、生まれた日を含めて14日以内に届出ください。ただし、14日目が土日祝日等の場合は、翌開庁日まで期限が延長されます。\n\n　外国で生まれた場合は、3ヶ月以内に届出ください。3ヶ月を過ぎると、日本国籍を失うことがありますので、十分ご注意ください。\n\n届出できる日・受付時間\n　平日の開庁時間のほか、土日祝日や早朝夜間などの開庁時間外でも受付可能です。開庁時間外に台東区で届出する場合は、台東区役所1階の「夜間休日受付窓口」に提出ください。\n\n届出できる場所\n下記の市区町村窓口のうち、一箇所にご提出ください。\n・ 本籍地\n・ 届出人の住民登録地\n・ お子様が生まれた場所（病院・産院などのある自治体）\n\n・外国で生まれた場合\n　お子様の生まれた国にある日本大使館、領事館\n\n届出人として署名する方\n　父または母\n\n　また、父母連名で届出することもできます。その場合は、父母それぞれの生年月日、署名が必要です。\n\n出生届に必要なもの\n・ 出生証明書（医師や助産師が発行します。一般に出生届書と一体の様式です。）\n・ 母子健康手帳（持参が難しい場合はご相談ください）\n\n出生届の用紙の配布場所\n　医師・助産師が発行する「出生証明書」と一体の様式になっているため、医師・助産師から受領します。発行された証明書の左側にある「出生届」の部分を記入の上、届出ください。例外的に出生届書と出生証明書が別紙で交付されるケースもあります。\n　なお、稀に出生証明書の用紙の在庫を一切保有しない施設があり、医師・助産師から用紙の持参を求められた場合には、台東区役所1階で配布していますので、ご来庁のうえ、職員にお申し付けください。\n　また、出生届書と一体でない出生証明書のみを医師・助産師から交付された場合や、国外で亡くなった時に現地の死亡証明書等のみが手元にある場合も、区役所で配布する届書をご利用ください。\n※令和元年5月1日より配布場所が台東区役所1階のみに変更となりました。\n\n出生届（父母ともに外国籍の場合）\n　父母がともに外国籍の方は下記リンク先「出生届（父母ともに外国籍の場合）」をご参照ください。\n\n出生届（父母ともに外国籍の場合）;https://www.city.taito.lg.jp/kurashi/todokede/koseki/kosekitodokede/shussei_gaikoku.html\n\nよくある質問（Q&A)\n　出生届についてのよくある質問につきまして、下記リンク先「出生届について」をご参照ください。\n\n出生届について;https://www.city.taito.lg.jp/benri/qa/todokede/qashuseitodoke.html\n\n;【参考】お子さまが生まれた方へ（案内チラシ）（PDF：727KB）;https://www.city.taito.lg.jp/kurashi/todokede/koseki/kosekitodokede/shussei.files/okosama.pdf\n\n届出に伴う諸手続きについては、案内チラシをご参照ください。各種手続きについては、各担当の部署に直接お問合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出生届",
+    "shortName": "出生届"
+  },
+  "localGovernmentLink": {
+    "title": "出生届",
+    "uri": "https://www.city.taito.lg.jp/kurashi/todokede/koseki/kosekitodokede/shussei.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "台東区"
+  },
+  "procedureCounter": "下記の市区町村窓口のうち、一箇所にご提出ください。\n・ 本籍地\n・ 届出人の住民登録地\n・ お子様が生まれた場所（病院・産院などのある自治体）\n\n・外国で生まれた場合\n　お子様の生まれた国にある日本大使館、領事館",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "日本国内で生まれた場合は、生まれた日を含めて14日以内に届出ください。ただし、14日目が土日祝日等の場合は、翌開庁日まで期限が延長されます。外国で生まれた場合は、3ヶ月以内に届出ください。3ヶ月を過ぎると、日本国籍を失うことがありますので、十分ご注意ください。",
+  "procedurePeriod": {
+    "conditions": "届出期限\n出できる日・受付時間\n　平日の開庁時間のほか、土日祝日や早朝夜間などの開庁時間外でも受付可能です。開庁時間外に台東区で届出する場合は、台東区役所1階の「夜間休日受付窓口」に提出ください。日本国内で生まれた場合は、生まれた日を含めて14日以内に届出ください。ただし、14日目が土日祝日等の場合は、翌開庁日まで期限が延長されます。外国で生まれた場合は、3ヶ月以内に届出ください。3ヶ月を過ぎると、日本国籍を失うこ\nとがありますので、十分ご注意ください。\n",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "父または母",
+  "regulation": {
+    "regulationArticle": "第49条、第52条",
+    "regulationName": "戸籍法"
+  },
+  "relatedLink": [
+    {
+      "title": "【参考】お子さまが生まれた方へ（案内チラシ）（PDF：727KB）",
+      "uri": "https://www.city.taito.lg.jp/kurashi/todokede/koseki/kosekitodokede/shussei.files/okosama.pdf"
+    },
+    {
+      "title": "出生届（父母ともに外国籍の場合）",
+      "uri": "https://www.city.taito.lg.jp/kurashi/todokede/koseki/kosekitodokede/shussei_gaikoku.html"
+    },
+    {
+      "title": "出生届について",
+      "uri": "https://www.city.taito.lg.jp/benri/qa/todokede/qashuseitodoke.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": "日本国内で生まれた場合は、生まれた日を含めて14日以内に届出ください。ただし、14日目が土日祝日等の場合は、翌開庁日まで期限が延長されます。\n\n　外国で生まれた場合は、3ヶ月以内に届出ください。3ヶ月を過ぎると、日本国籍を失うことがありますので、十分ご注意ください。",
+  "summary": "出生届とは、生まれてきたお子さんの氏名等を戸籍に記載するための手続きです。\n戸籍に記載されることで、生まれてきたお子さんの親族関係が公的に証明されます。",
+  "support": {
+    "description": "お子様が生まれた時に届出する届書です。出生届が受理されると、本籍地に戸籍が、住所地に住民票が作成されます。",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "父または母\nまた、父母連名で届出することもできます。その場合は、父母それぞれの生年月日、署名が必要です。"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "出生届の用紙の配布場所\n　医師・助産師が発行する「出生証明書」と一体の様式になっているため、医師・助産師から受領します。発行された証明書の左側にある「出生届」の部分を記入の上、届出ください。例外的に出生届書と出生証明書が別紙で交付されるケースもあります。\n　なお、稀に出生証明書の用紙の在庫を一切保有しない施設があり、医師・助産師から用紙の持参を求められた場合には、台東区役所1階で配布していますので、ご来庁のうえ、職員にお申し付けください。\n　また、出生届書と一体でない出生証明書のみを医師・助産師から交付された場合や、国外で亡くなった時に現地の死亡証明書等のみが手元にある場合も、区役所で配布する届書をご利用ください。\n※令和元年5月1日より配布場所が台東区役所1階のみに変更となりました。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援センター東部子ども家庭支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+1+UM115"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援センター東部子ども家庭支援センター",
+    "contactPhone": "03-5980-5275",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "落ち着いた雰囲気の中で、子育てや家庭に関する相談に応じます。\n\n子育て中のお母さん、お父さん、また、ご家族からの相談をお受けします。\n\n・ごはんを食べない\n・夜泣きがひどい\n・子どもの成長や発達で心配なことがある\n\n子どもたちからの悩みをお聞きします。\n\n・友だちとうまくつきあえない\n・学校で困っていることがある\n・家族のことで心配なことがある\n\n地域の気になる子どもに関する相談をお受けします。\n\n・たびたび子どもの泣き声や物がぶつかる音がする\n・季節はずれや汚れた服を着ている\n・繁華街をうろうろしている\n\n(注釈)経験豊富な相談員がお話を伺い、一緒に考えていきます。\n必要に応じて他の専門機関や利用できるサービスを紹介します。\n(注釈)相談は、Eメール、電話でもできます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関する相談窓口一覧",
+    "shortName": "子どもに関する相談（子ども家庭支援センター）"
+  },
+  "localGovernmentLink": {
+    "title": "子どもに関する相談（子ども家庭支援センター）",
+    "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/001743/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第30条の4第2項",
+    "regulationName": "医療法"
+  },
+  "relatedLink": [
+    {
+      "title": "子育て訪問相談",
+      "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/001743/022783.html"
+    },
+    {
+      "title": "子どもの養育に関する相談",
+      "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/001743/011897.html"
+    },
+    {
+      "title": "発達の気になる子供に関する相談",
+      "uri": "https://www.city.toshima.lg.jp/266/kosodate/kosodate/shiencenter/001743/2005251708.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "落ち着いた雰囲気の中で、子育てや家庭に関する相談に応じます。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "082"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "子育て中のお母さん、お父さん、ご家族"
+  },
+  "updateDate": "2023-04-10",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センター母子保健担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+2+UM798"
+  },
+  "belongings": "おんぶひも,エプロン,三角きん,マスク,母子健康手帳,筆記用具,その他お子さんに必要なもの",
+  "capacity": "20組（先着順）\n\n（注）初めての方を優先します。",
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市学園東町1-19-12　健康センター",
+    "contactComment": "FAX：042-346-3705",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康推進課予防担当・保健指導担当",
+    "contactPhone": "042-346-3700,042-346-3704",
+    "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+    "zipCode": "1870043"
+  },
+  "cost": null,
+  "costConditions": "無料",
+  "description": "中期・後期のそれぞれのグループに分かれ、お子さんをおんぶして、離乳食の調理実習をします。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "こだっこWeb予約",
+      "uri": "https://kodaira.city-ca.jp/"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "|とき| 申込開始日|\n|:----|:----|\n|4月9日（火曜）| 3月5日（火曜）|\n|6月11日（火曜）| 5月5日（日曜）|\n|8月9日（金曜）| 7月5日（金曜）|\n|10月3日（木曜）| 9月5日（木曜）|\n|令和7年1月16日（木曜）| 12月20日（金曜）|\n|3月5日（水曜）| 令和7年2月5日（水曜）|",
+    "fromHM": "10:00",
+    "fromYMD": null,
+    "toHM": "12:00",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "小平市学園東町1-19-12",
+    "implementationName": "健康センター2階"
+  },
+  "institutionName": {
+    "canonicalName": "離乳食教室",
+    "shortName": "もぐもぐ教室"
+  },
+  "localGovernmentLink": {
+    "title": "もぐもぐ教室 （7か月～11か月児、離乳食 調理実習）",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/002/002450.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "小平市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申込開始日より、こだっこWeb予約から→https://kodaira.city-ca.jp/（外部リンク）",
+  "procedurePeriod": {
+    "conditions": "|とき|申込開始日|\n|:----|:----|\n|4月9日（火曜）|3月5日（火曜）|\n|6月11日（火曜）|\t5月5日（日曜）|\n|8月9日（金曜）|7月5日（金曜）|\n|10月3日（木曜）|9月5日（木曜）|\n|令和7年1月16日（木曜）|\t12月20日（金曜）|\n|3月5日（水曜）|令和7年2月5日（水曜）|",
+    "fromHM": null,
+    "fromYMD": "2024-03-05",
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第3条（乳幼児の健康の保持増進）、9条（知識の普及）、法第5条（子どもの食育における保護者、教育関係者等の役割）、21条 （地域における食生活の改善のための取組の推進）",
+    "regulationName": "母子保健法、食育基本法"
+  },
+  "relatedLink": [
+    {
+      "title": "かむかむ教室（1歳10か月～3歳6か月児）",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/002/002451.html"
+    },
+    {
+      "title": "離乳食教室（5か月～1歳6か月児）",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/000/000257.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "生後７か月頃から１１か月頃のお子さんとその保護者を対象に、講話や調理実習を行います。",
+  "support": {
+    "description": "中期・後期のそれぞれのグループに分かれ、お子さんをおんぶして、離乳食の調理実習をします。",
+    "materiallySupport": "講話\n調理実習\n個別相談",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後7～11か月のお子さん",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 7
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 11
+    },
+    "targetPersons": "生後7～11か月のお子さんと保護者（2、3回食の頃）"
+  },
+  "updateDate": "2024-03-07",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

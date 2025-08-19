@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "132039;武蔵野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子ども育成課 保育幼稚園係（管理担当・保育施策調整担当）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132039",
+    "psid": "psid3.0+8000020132039+1+UM84"
+  },
+  "belongings": null,
+  "capacity": "一日の利用定員：7名",
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都武蔵野市緑町2-2-28",
+    "contactComment": "ファクス番号：0422-51-9223",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 子ども育成課 保育幼稚園係（管理担当・保育施策調整担当）",
+    "contactPhone": "0422-60-1843",
+    "contactUrl": "https://www.city.musashino.lg.jp/cgi-crm/CRM030/CRM030_001/G00800200/1024313",
+    "zipCode": "1808777"
+  },
+  "cost": null,
+  "costConditions": "利用料金\n|一日|2,200円|\n|半日|1,650円|\n別途給食代（おやつ代含む）300円を徴収します。",
+  "description": "定期利用保育の利用について\n\n定期利用保育は、保護者の就労等を理由にお子さんの保育ができないときに一定期間(1カ月単位)預かるサービスです。\n\n実施園\nとことこ保育室みんなのとことこ\n電話番号：0422-27-7195（お問い合わせ時間は、平日午前10時から午後6時まで）\n\nとことこ保育室みんなのとことこ;https://www.city.musashino.lg.jp/shisetsu_annai/hoikuen_yochien/shoukibo_hoiku/1018871.html\nとことこ保育室みんなのとことこ 定期利用保育（外部リンク）;http://www.tokotoko.to/pg207.html\n利用方法等について\n1.対象児童\n対象年齢：生後57日から2歳児\n\n武蔵野市に住所のあるかたが対象です。\n認可保育施設に入所しているお子さんは利用できません。\n\n給食は離乳食完了後のお子さんのみ提供します。離乳食が必要なお子さんは離乳食をご持参ください。\n\n2.定員\n一日の利用定員：7名\n\n3.利用可能時間・日数\n月曜日～金曜日（土曜日・日曜日・祝日・年末年始を除く）\n\n一日利用：午前9時から午後5時\n半日利用：午前9時から午後3時\n\n週1日半日利用から週5日一日利用まで\n\n4.利用登録\n施設にて利用登録を行います。\n\n事前に直接施設に電話し、空き状況や必要書類をご確認ください。\n\n5.利用料金\n利用料金\n|一日|2,200円|\n|半日|1,650円|\n別途給食代（おやつ代含む）300円を徴収します。\n\n6.利用料の助成\n利用する児童が第2子以降の場合および住民税非課税世帯等の場合は、市が利用料を助成します。\n\n詳細は下記ページをご確認ください。\n\n定期利用保育事業の利用料の助成について;https://www.city.musashino.lg.jp/shussan_kodomo_kyoiku/kodomo_kosodate/hoikuen_yochien_kodomoen/kanrenservice/ichijihoiku/1045499/1045501.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "土曜日・日曜日・祝日・年末年始",
+  "implementationPeriod": {
+    "conditions": "一日利用：午前9時から午後5時\n半日利用：午前9時から午後3時",
+    "fromHM": "09:00",
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "東京都武蔵野市関前4-17-10ユリイカマンション1階",
+    "implementationName": "とことこ保育室みんなのとことこ"
+  },
+  "institutionName": {
+    "canonicalName": "一時保育の定期利用（特定保育・非定型保育など）",
+    "shortName": "定期利用保育の利用"
+  },
+  "localGovernmentLink": {
+    "title": "定期利用保育の利用について",
+    "uri": "https://www.city.musashino.lg.jp/shussan_kodomo_kyoiku/kodomo_kosodate/hoikuen_yochien_kodomoen/kanrenservice/ichijihoiku/1045499/1024313.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "武蔵野市"
+  },
+  "procedureCounter": "とことこ保育室みんなのとことこ",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "施設にて利用登録を行います。\n\n事前に直接施設に電話し、空き状況や必要書類をご確認ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第7項、第21条の9、第59条第10号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "定期利用保育事業の利用料の助成について",
+      "uri": "https://www.city.musashino.lg.jp/shussan_kodomo_kyoiku/kodomo_kosodate/hoikuen_yochien_kodomoen/kanrenservice/ichijihoiku/1045499/1045501.html"
+    },
+    {
+      "title": "とことこ保育室みんなのとことこ 定期利用保育（外部リンク）",
+      "uri": "https://www.tokotoko.to/pg207.html"
+    },
+    {
+      "title": "とことこ保育室みんなのとことこ",
+      "uri": "https://www.city.musashino.lg.jp/shisetsu_annai/hoikuen_yochien/shoukibo_hoiku/1018871.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "武蔵野市内の認可保育園では、同居の家族がパート就労などで、入園基準には満たないものの、断続的に保育が困難となるお子さんを対象に、お預かりを行っています。",
+  "support": {
+    "description": "定期利用保育は、保護者の就労等を理由にお子さんの保育ができないときに一定期間(1カ月単位)預かるサービスです。\n\n実施園\nとことこ保育室みんなのとことこ\n電話番号：0422-27-7195（お問い合わせ時間は、平日午前10時から午後6時まで）\n\nとことこ保育室みんなのとことこ;https://www.city.musashino.lg.jp/shisetsu_annai/hoikuen_yochien/shoukibo_hoiku/1018871.html\nとことこ保育室みんなのとことこ 定期利用保育（外部リンク）;https://www.tokotoko.to/pg207.html\n利用方法等について\n1.対象児童\n対象年齢：生後57日から2歳児\n\n武蔵野市に住所のあるかたが対象です。\n認可保育施設に入所しているお子さんは利用できません。\n\n給食は離乳食完了後のお子さんのみ提供します。離乳食が必要なお子さんは離乳食をご持参ください。\n\n2.定員\n一日の利用定員：7名\n\n3.利用可能時間・日数\n月曜日～金曜日（土曜日・日曜日・祝日・年末年始を除く）\n\n一日利用：午前9時から午後5時\n半日利用：午前9時から午後3時\n\n週1日半日利用から週5日一日利用まで",
+    "materiallySupport": "月曜日～金曜日（土曜日・日曜日・祝日・年末年始を除く）\n\n一日利用：午前9時から午後5時\n半日利用：午前9時から午後3時\n\n週1日半日利用から週5日一日利用まで",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後57日から2歳児\n\n武蔵野市に住所のあるかたが対象です。\n認可保育施設に入所しているお子さんは利用できません。\n\n給食は離乳食完了後のお子さんのみ提供します。離乳食が必要なお子さんは離乳食をご持参ください。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2023-10-18",
+  "useConsiderationFlag": false,
+  "utilization": "施設にて利用登録を行います。\n\n事前に直接施設に電話し、空き状況や必要書類をご確認ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日～金曜日（土曜日・日曜日・祝日・年末年始を除く）\n\n一日利用：午前9時から午後5時\n半日利用：午前9時から午後3時",
+    "fromHM": "09:00",
+    "toHM": null
+  }
+}

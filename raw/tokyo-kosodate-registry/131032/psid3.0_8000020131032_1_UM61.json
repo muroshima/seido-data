@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども若者支援課子ども給付係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+1+UM61"
+  },
+  "belongings": "児童扶養手当証書、印鑑",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "連絡先などは各総合支所のページへ;https://www.city.minato.tokyo.jp/kouhou/kuse/gaiyo/shisho.html\n外国語対応が必要な人、通訳オペレーター、区の職員の3人で会話ができます。\n\n多言語対応三者通話サービス;https://www.multilingualinterpretercallservice.city.minato.tokyo.jp/kokusai",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "各総合支所区民課",
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "児童扶養手当受給者等への都営交通無料パスの発行等\n事業の目的\nひとり親家庭の経済的負担の軽減を図ります。\n\n対象\n児童扶養手当受給者又はその方と同一世帯の方\n（無料乗車券の交付は、世帯のうちの1人だけになります。）\n\n事業の詳細\n1.都営交通無料パス\n都電、都バス、都営地下鉄の「無料乗車券」の発行が受けられます。\n\n【申請に必要なもの】\n\n児童扶養手当証書、印鑑\n\n【無料乗車券の申請場所】\n各総合支所区民課保健福祉係",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自のひとり親の方への金銭的支援",
+    "shortName": "都営交通無料パス"
+  },
+  "localGovernmentLink": {
+    "title": "児童扶養手当受給者等への都営交通無料パスの発行等",
+    "uri": "https://www.city.minato.tokyo.jp/kodomokyufu/kodomo/kodomo/hitorioya/kotsu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "港区"
+  },
+  "procedureCounter": "各総合支所区民課保健福祉係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "東京都都営交通無料乗車券発行規程"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童扶養手当の受給者の世帯のうち1人に、都営交通の乗車券を配付します。",
+  "support": {
+    "description": "都電、都バス、都営地下鉄の「無料乗車券」",
+    "materiallySupport": null,
+    "monetarySupport": "都電、都バス、都営地下鉄の「無料乗車券」"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "児童扶養手当受給者又はその方と同一世帯の方\n（無料乗車券の交付は、世帯のうちの1人だけになります。）"
+  },
+  "updateDate": "2020-09-25",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

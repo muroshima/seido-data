@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局地域教育課放課後子ども事業係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+1+UM5028"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区立石5-13-1　葛飾区役所4階　406番窓口",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "教育委員会事務局地域教育課放課後子ども事業係",
+    "contactPhone": "電話：03-5654-8485",
+    "contactUrl": null,
+    "zipCode": "1248555"
+  },
+  "cost": "無料",
+  "costConditions": "工作などのプログラムに参加する場合、材料費等を実費負担していただく場合があります。",
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "小学校"
+  },
+  "institutionName": {
+    "canonicalName": "放課後子供教室",
+    "shortName": "わくわくチャレンジ広場"
+  },
+  "localGovernmentLink": {
+    "title": "放課後子ども事業（わくわくチャレンジ広場）について",
+    "uri": "https://www.city.katsushika.lg.jp/kosodate/1000057/1030200/1002681.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025-02-20",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": "メインルーム",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "「わくわくチャレンジ広場登録申込書」により申し込みます。わくわくチャレンジ広場の活動時間中に、メインルームに提出してください。\n令和7年度の申し込みにつきましては、申請用のQRコードが配布されている学校は、申請フォームから申し込みをお願いいたします。",
+  "procedurePeriod": {
+    "conditions": "わくわくチャレンジ広場の活動時間中",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "放課後子ども事業（わくわくチャレンジ広場）児童指導サポーター募集について",
+      "uri": "https://www.city.katsushika.lg.jp/kosodate/1000057/1030200/1002680.htmlhttps://www.city.katsushika.lg.jp/kosodate/1000057/1030200/1029111.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "放課後や三季休業日（春・夏・冬休み）等に、諸室や体育館・校庭などを使用し、学校に通う子どもたちが地域の方々の見守りの中、安全かつ安心して自由に遊び、学ぶことができる場所です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "登録対象学年については、学校ごとに異なります。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "当該学校に通う小学１年生～６年生（登録対象学年については、学校ごとに異なります。）"
+  },
+  "updateDate": "2024/06/28",
+  "useConsiderationFlag": false,
+  "utilization": "登録制による自由参加です。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132195;狛江市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉保健部　保険年金課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132195",
+    "psid": "psid3.0+8000020132195+1+UM793"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保険年金課医療年金係,府中年金事務所",
+    "contactPhone": "042-361-1011",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "産前産後期間の国民年金保険料が免除になります（1267号７面）\n　出産予定日または出産日が属する月の前月から４カ月間の国民年金保険料が、届け出をすることで免除されます。なお、多胎妊娠の場合は、出産予定日または出産日が属する３カ月前から６カ月間の国民年金保険料が免除されます。産前産後期間として認められた期間は、保険料を納付したものとして老齢基礎年金の受給額に反映されます。\n〔対象〕国民年金第１号被保険者で、出産日が２月１日以降の方\n〔申し込み・問い合わせ〕出産予定日の６カ月前から（ただし届け出は４月１日から）、保険年金課医療年金係または府中年金事務所　電話０４２（３６１）１０１１へ。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "産前産後期間の国民年金保険料免除",
+    "shortName": "産前産後期間の国民年金保険料免除"
+  },
+  "localGovernmentLink": {
+    "title": "産前産後期間の免除制度",
+    "uri": "https://www.city.komae.tokyo.jp/index.cfm/41,4461,316,2013,html#6"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-28",
+    "updater": "狛江市"
+  },
+  "procedureCounter": "保険年金課医療年金係,府中年金事務所",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "出産予定日の６カ月前から、保険年金課医療年金係または府中年金事務所　電話０４２（３６１）１０１１へ。\n※マイナポータルからも電子申請ができます。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第88条の2（保険料の納付義務）",
+    "regulationName": "国民年金法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民年金の第1号被保険者が出産した場合には、出産前後の一定期間の国民年金保険料が免除されます。\n免除期間は年金額を計算する際、保険料を納めた期間として扱われます。",
+  "support": {
+    "description": "出産予定日または出産日が属する月の前月から４カ月間の国民年金保険料が、届け出をすることで免除されます。なお、多胎妊娠の場合は、出産予定日または出産日が属する３カ月前から６カ月間の国民年金保険料が免除されます。",
+    "materiallySupport": null,
+    "monetarySupport": "出産予定日または出産日が属する月の前月から４カ月間の国民年金保険料が、届け出をすることで免除されます。なお、多胎妊娠の場合は、出産予定日または出産日が属する３カ月前から６カ月間の国民年金保険料が免除されます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "016"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "国民年金第１号被保険者で、出産日が平成31年２月１日以降の方"
+  },
+  "updateDate": "2019-03-28",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

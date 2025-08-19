@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "障害福祉課 児童・障害児支援グループ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+1+UM67"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "障害福祉課 児童・障害児支援グループ",
+    "contactPhone": "03-4566-2451",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "身体障害者手帳の交付対象とならない中等度難聴児に対して、補聴器の装用により言語の習得や生活能力、コミュニケーション能力等の向上を促進するため、補聴器の購入費用の一部を助成します。事前にご相談ください。\n\n費用\n・原則、費用の1割が自己負担となります（生活保護受給世帯、区民税非課税世帯の方は自己負担はありません）\n・基準額を超過する場合は、超過額は全額自己負担となります\n基準額：144,900円（修理費に係る費用は対象外）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の障がいのあるお子さんなどへの金銭的支援",
+    "shortName": "中等度難聴児発達支援事業"
+  },
+  "localGovernmentLink": {
+    "title": "中等度難聴児発達支援事業",
+    "uri": "https://www.city.toshima.lg.jp/503/kenko/shogai/shienjigyo/030435.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": "障害福祉課児童・障害児支援グループ\n電話番号03-4566-2451、ファクス03-3981-4303",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "身体障害者手帳の交付対象とならない中等度難聴児に対して、補聴器の装用により言語の習得や生活能力、コミュニケーション能力等の向上を促進するため、補聴器の購入費用の一部を助成します。",
+  "support": {
+    "description": "補聴器の購入費用の一部を助成します。",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次のいずれにも該当する児童\n\n・豊島区内に居住している18歳未満の児童\n・両耳の聴力レベルが概ね30dB以上であり、身体障害者手帳（聴覚障害）交付の対象となる聴力ではないこと\n・補聴器の装用により、言語の習得等一定の効果が期待できると医師が判断する児童"
+  },
+  "updateDate": "2024-05-22",
+  "useConsiderationFlag": true,
+  "utilization": "事前に、以下の申請窓口にご相談ください。\n\n申請窓口\n障害福祉課児童・障害児支援グループ\n電話番号03-4566-2451、ファクス03-3981-4303\n\n対象とならない場合\n・申請前に補聴器を購入した場合",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

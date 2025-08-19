@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132284;あきる野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部生活福祉課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132284",
+    "psid": "psid3.0+1000020132284+1+UM28"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "生活福祉係　内線2625",
+    "contactName": "健康福祉部　生活福祉課",
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ひとり親家庭や女性が経済的に自立して、安定した生活を送るために必要とする資金を貸付します。償還期間や利子は、資金により変わります。\n対象となる方\n次のいずれかに該当する、都内に6か月以上お住まいの方\n\n母子家庭の母または、父子家庭の父等で、20歳未満のお子さんを扶養している方\n配偶者がいない女性で親族を扶養している方、または扶養していないが年間所得が2，036，000円以下で、かつて母子家庭の母だった方、もしくは婚姻歴のある40歳以上の方\n資金の種類\n修学資金、就学支度資金、技能習得資金、生活資金、転宅資金など\n申請方法\n申請には、事前の面接が必要となります。面接日のご予約をお受けしますので、事前に問い合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "母子父子寡婦福祉資金",
+    "shortName": "東京都母子・父子・女性福祉資金"
+  },
+  "localGovernmentLink": {
+    "title": "東京都母子・父子・女性福祉資金の貸付",
+    "uri": "https://www.city.akiruno.tokyo.jp/0000005972.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "あきる野市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請には、事前の面接が必要となります。面接日のご予約をお受けしますので、事前に問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（母子福祉資金の貸付け）、第14条（母子・父子福祉団体に対する貸付け）、第31条の6（父子福祉資金の貸付け）、第32条（寡婦福祉資金の貸付け）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "母子家庭の母、父子家庭の父、および寡婦の方の経済的自立や、扶養しているお子さんの福祉増進のために、必要な資金をお貸しする制度です。",
+  "support": {
+    "description": "修学資金、就学支度資金、技能習得資金、生活資金、転宅資金など",
+    "materiallySupport": null,
+    "monetarySupport": "修学資金、就学支度資金、技能習得資金、生活資金、転宅資金など"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次のいずれかに該当する、都内に6か月以上お住まいの方\n\n母子家庭の母または、父子家庭の父等で、20歳未満のお子さんを扶養している方\n配偶者がいない女性で親族を扶養している方、または扶養していないが年間所得が2，036，000円以下で、かつて母子家庭の母だった方、もしくは婚姻歴のある40歳以上の方"
+  },
+  "updateDate": "2023-11-09",
+  "useConsiderationFlag": true,
+  "utilization": "申請には、事前の面接が必要となります。面接日のご予約をお受けしますので、事前に問い合わせください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

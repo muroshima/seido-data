@@ -1,0 +1,136 @@
+{
+  "area": {
+    "areaCode": "131067;台東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "浅草保健相談センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131067",
+    "psid": "psid3.0+6000020131067+1+UM22"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "浅草保健相談センター",
+    "contactPhone": "03-3844-8171",
+    "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080700",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "出産費用助成とは\n区では、経済的負担を軽減することで、出産や育児に対する不安を和らげ、安心して出産ができる環境を整えるため、出産した全ての区民の方へ一律で5万円を助成します。\n\n対象者\n令和6年4月1日以降に出産し、かつ、出産日当日に区内に住民票がある産婦\n\n申請方法\n令和6年5月1日より申請受付を開始します。\n申請手順は下記をご確認ください。\n\n■申請手順■\n|:----|:----|:----|\n|SETP1|\tたいいとうおやこ手帳アプリへアクセス！|●「たいとうおやこ手帳アプリ」の中で、電子申請先（Logoフォーム）をご案内しています。※「たいとうおやこ手帳アプリ」を初めて利用する方は、こちらのページをご参照ください。<br>●ホーム画面の「各種申請」から、電子申請画面（Logoフォーム）へアクセスしてください|\n|SETP2|電子申請（Logoフォーム）へアクセス！|●電子申請をするためにはLogoフォームでユーザ登録をする必要があります。<br>●Logoフォームを初めて利用する場合は、ユーザ登録をしてください|\n|SETP3|電子申請画面へ入力して申請！|●申請には下記の書類をデータ添付していただきますのでご用意ください<br>・本人確認書類（マイナンバーカード、運転免許証の写しなど）<br>・振込先口座の通帳又はキャッシュカード（コピー可）<br>・出産時の医療機関等の領収書又は、出産育児一時金の支給認定を受けていることがわかる書類（支給決定通知書等）（いずれもコピー可）<br>・母子健康手帳(※下記に該当する方のみ必要）<br>※今回出産した子の住民票が、台東区外の場合|\n\n支給額\n産婦一人につき一律5万円\n\n支給方法\n審査の上、申請月の翌々月末頃に振込予定。\n※申請不備等による修正があった場合、審査が完了してから翌々月末頃に振込となります。あらかじめご了承ください。\n\n申請期間\n出産日から1年間\n（※出産したお子さんの、1歳の誕生日の前日まで）\n\n詳しくは下記ページをご確認ください\nよくある質問（出産費用助成制度について）;https://www.city.taito.lg.jp/benri/qa/kosodate/syussanhiyoujyosei.html\n\n関連ページ\nたいとうおやこ手帳アプリの登録方法;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/taitouoyakotetyou.html",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "たいとうおやこ手帳アプリの登録方法",
+      "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/taitouoyakotetyou.html"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関する金銭的支援",
+    "shortName": "出産費用助成制度"
+  },
+  "localGovernmentLink": {
+    "title": "出産費用助成制度について",
+    "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/teate_josei/syussanhiyoujyosei.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "台東区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請方法　令和6年5月1日より申請受付を開始します。\n申請手順は下記をご確認ください。\n\n■申請手順■\n|:----|:----|:----|\n|SETP1|\tたいいとうおやこ手帳アプリへアクセス！|●「たいとうおやこ手帳アプリ」の中で、電子申請先（Logoフォーム）をご案内しています。※「たいとうおやこ手帳アプリ」を初めて利用する方は、こちらのページをご参照ください。<br>●ホーム画面の「各種申請」から、電子申請画面（Logoフォーム）へアクセスしてください|\n|SETP2|電子申請（Logoフォーム）へアクセス！|●電子申請をするためにはLogoフォームでユーザ登録をする必要があります。<br>●Logoフォームを初めて利用する場合は、ユーザ登録をしてください|\n|SETP3|電子申請画面へ入力して申請！|●申請には下記の書類をデータ添付していただきますのでご用意ください<br>・本人確認書類（マイナンバーカード、運転免許証の写しなど）<br>・振込先口座の通帳又はキャッシュカード（コピー可）<br>・出産時の医療機関等の領収書又は、出産育児一時金の支給認定を受けていることがわかる書類（支給決定通知書等）（いずれもコピー可）<br>・母子健康手帳(※下記に該当する方のみ必要）<br>※今回出産した子の住民票が、台東区外の場合|\n",
+  "procedurePeriod": {
+    "conditions": "申請期間 出産日から1年間（※出産したお子さんの、1歳の誕生日の前日まで）",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "台東区出産費用助成要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "たいとうおやこ手帳アプリの登録方法",
+      "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/taitouoyakotetyou.html"
+    },
+    {
+      "title": "よくある質問（出産費用助成制度について）",
+      "uri": "https://www.city.taito.lg.jp/benri/qa/kosodate/syussanhiyoujyosei.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "台東区では、経済的負担を軽減することで、出産や育児に対する不安を和らげ、安心して出産ができる環境を整えるため、出産した全ての区民の方へ一律で5万円を助成します。",
+  "support": {
+    "description": "区では、経済的負担を軽減することで、出産や育児に対する不安を和らげ、安心して出産ができる環境を整えるため、出産した全ての区民の方へ一律で5万円を助成します。",
+    "materiallySupport": null,
+    "monetarySupport": "産婦一人につき一律5万円"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "令和6年4月1日以降に出産し、かつ、出産日当日に区内に住民票がある産婦"
+  },
+  "updateDate": "2024-05-02",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

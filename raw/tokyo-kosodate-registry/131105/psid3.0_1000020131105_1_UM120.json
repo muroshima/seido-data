@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131105;目黒区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健予防課, 碑文谷保健センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131105",
+    "psid": "psid3.0+1000020131105+1+UM120"
+  },
+  "belongings": "お住まいの区域を管轄する保健予防課又は碑文谷保健センターへ、住民税非課税証明書等、健康保険証の写し、母子健康手帳を持参して申請してください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "目黒区上目黒二丁目19番15号,目黒区碑文谷四丁目16番18号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健予防課,碑文谷保健センター",
+    "contactPhone": "03-5722-9503,03-3711-6446",
+    "contactUrl": null,
+    "zipCode": "1538573,1520003"
+  },
+  "cost": "0",
+  "costConditions": null,
+  "description": "保健指導票の交付\n目次\n\n対象者\n健診内容\n申請方法\n保健指導票についての問合せ先\n生活保護を受けている世帯、および住民税が課税されていない世帯の妊産婦・乳幼児は、医療機関で必要な保健指導（定期健診）が受けられます。\n\n対象者\n次のいずれかに該当する妊産婦・乳児は、無料で健診が受けられます。\n\n生活保護法による被保護世帯\n上記以外の住民税非課税世帯\nこの健診を受診するためには、お住まいの区域を管轄する保健予防課又は碑文谷保健センターで「保健指導票」の交付を受けてください。指定医療機関で受診できます。\n\n注記\n管轄区域については、下記「保健指導票についての問合せ先」をご参照ください。\n\n健診内容\n妊産婦健診\n妊娠中および出産後の健診が定期的に受けられます。健診項目は、一般保健指導（診察、血圧測定、血液検査、尿検査、事後指導）です\n\n乳児健診\n新生児聴覚検査及び1か月児健診が受けられます。\n\n申請方法\nお住まいの区域を管轄する保健予防課又は碑文谷保健センターへ、住民税非課税証明書等、健康保険証の写し、母子健康手帳を持参して申請してください。\n\n保健指導票についての問合せ先\n保健指導票については、お住まいの区域を管轄する保健予防課又は碑文谷保健センターへお問合せください。\n\n保健予防課;https://www.city.meguro.tokyo.jp/hokenyobou/kusei/gaiyou/yobo.html\n\n所在地　〒152-8573　目黒区上目黒二丁目19番15号\n電話番号　03-5722-9503\n保健予防課の管轄区域は、目黒区駒場、目黒区青葉台、目黒区東山、目黒区大橋、目黒区上目黒、目黒区中目黒、目黒区三田、目黒区目黒、目黒区下目黒、目黒区中町、目黒区五本木、目黒区祐天寺、目黒区中央町二丁目、目黒区目黒本町一丁目です。\n\n碑文谷保健センター;https://www.city.meguro.tokyo.jp/himonya/kusei/gaiyou/himonya_center.html\n\n所在地　〒152-0003　目黒区碑文谷四丁目16番18号\n電話番号　03-3711-6446\n碑文谷保健センターの管轄区域は、目黒区中央町一丁目、目黒区目黒本町二から六丁目、目黒区原町、目黒区洗足、目黒区南、目黒区碑文谷、目黒区鷹番、目黒区平町、目黒区大岡山、目黒区緑が丘、目黒区自由が丘、目黒区中根、目黒区柿の木坂、目黒区八雲、目黒区東が丘です。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "目黒区上目黒2-19-15,目黒区碑文谷4-16-18",
+    "implementationName": "目黒区総合庁舎3階保健予防課,碑文谷保健センター"
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関するその他のこと",
+    "shortName": "保健指導票の交付"
+  },
+  "localGovernmentLink": {
+    "title": "保健指導票の交付",
+    "uri": "https://www.city.meguro.tokyo.jp/himonya/kenkoufukushi/iryou/shidohyo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "目黒区"
+  },
+  "procedureCounter": "保健予防課（目黒区総合庁舎本館3階）,碑文谷保健センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "保健予防課（目黒区総合庁舎本館3階）;https://www.city.meguro.tokyo.jp/soumu/shisetsu/koukyoushisetsu/sogo.htmlまたは碑文谷保健センター;https://www.city.meguro.tokyo.jp/himonya/shisetsu/hokenfukushi/himonya.htmlに申請してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "生活保護を受けている世帯、および住民税が課税されていない世帯の妊産婦・乳幼児は、医療機関で必要な保健指導（定期健診）が無料で受けられます。",
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "生活保護を受けている世帯、および住民税が課税されていない世帯の妊産婦・乳幼児は、医療機関で必要な保健指導（定期健診）が無料で受けられます。",
+  "support": {
+    "description": "妊産婦健診\n妊娠中および出産後の健診が定期的に受けられます。健診項目は、一般保健指導（診察、血圧測定、血液検査、尿検査、事後指導）です\n\n乳児健診\n新生児聴覚検査及び1か月児健診が受けられます。",
+    "materiallySupport": null,
+    "monetarySupport": "保健指導票を提示することで無料で受信が可能"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生活保護法による被保護世帯、上記以外の住民税非課税世帯",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生活保護法による被保護世帯、上記以外の住民税非課税世帯"
+  },
+  "updateDate": "2020-02-01",
+  "useConsiderationFlag": false,
+  "utilization": "保健予防課（目黒区総合庁舎本館3階）または碑文谷保健センターの窓口にて申請してください。\n\n申請要件\n申請にあたっては、次のいずれにも同意していただく必要があります。\n\n所得判定のため、世帯の課税状況等を確認すること。\n妊婦健診の受診医療機関等の関係機関及び目黒区が、必要に応じて、当該妊婦に対する支援に必要な情報（妊婦健診の受診状況、家庭状況等を含む。）を共有すること。\n",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

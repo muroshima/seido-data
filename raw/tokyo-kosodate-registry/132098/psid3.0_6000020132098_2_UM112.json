@@ -1,0 +1,118 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども生活部子育て推進課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+2+UM112"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども生活部子育て推進課事業係",
+    "contactPhone": "042-724-4468",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/5?page_no=9935",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "[[画像]]\n\n妊婦さんからの子育てひろば\n\n子育てひろばをご存じですか？\n\nお子さんとそのご家族だけではなく、妊娠期のこれからお母さん、お父さんになる方も気軽に遊びに行ける居場所です\n\n子育て家庭を対象に、認可保育園、子どもセンター、子どもクラブ、幼稚園やこども園、学童保育クラブなどが様々なイベントを行っています\n\n参加している親子の様子を見たり、赤ちゃんや幼児の姿を実際に見たり、参加者やスタッフと気軽にお話しをすることで、赤ちゃんとの生活のイメージがわきやすくなりますよ\n\nぜひお近くの子育てひろば実施施設をご利用ください\n\n妊娠期から参加できるイベント\n\n妊婦さんやそのご家族が参加できるイベントをご紹介します\n\n各イベントについてのお問い合わせは、実施施設へお願いいたします\n\n妊娠期から参加できるイベントページはこちら;https://kosodate-machida.tokyo.jp/soshiki/4/4/premama/event/index.html\n\nプレママ（パパ）向け動画\n\n妊婦さんやそのご家族、これから子育てひろばを利用される乳幼児を子育て中の方に、マイ保育園事業や子育てひろばをご紹介した動画や、赤ちゃんが生まれた後に役立つ動画がご覧いただけます\n\nNetで子育て ちょこっと動画のページはこちら;https://kosodate-machida.tokyo.jp/soshiki/4/4/6/8687.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育て広場",
+    "shortName": "これからママ・パパになる方へ（妊婦さんからの子育てひろば）"
+  },
+  "localGovernmentLink": {
+    "title": "これからママ・パパになる方へ（妊婦さんからの子育てひろば）",
+    "uri": "https://kosodate-machida.tokyo.jp/mokuteki/1/3/9935.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子育てひろばをご存じですか？「妊婦さんからの子育てひろば」では、お子さんとそのご家族だけではなく、妊娠期のこれからお母さん、お父さんになる方も気軽に遊びに行ける居場所です。子育て家庭を対象に、認可保育園、子どもセンター、子どもクラブ、幼稚園やこども園、学童保育クラブなどが様々なイベントを行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": null,
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": null
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-01-22",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132039;武蔵野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子ども育成課（保育認定担当）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132039",
+    "psid": "psid3.0+8000020132039+1+UM76"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都武蔵野市緑町2-2-28",
+    "contactComment": "ファクス番号：0422-51-9223",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 子ども育成課（保育認定担当）",
+    "contactPhone": "0422-60-1854",
+    "contactUrl": "https://www.city.musashino.lg.jp/cgi-crm/CRM030/CRM030_001/G00800200/1006890",
+    "zipCode": "1808777"
+  },
+  "cost": null,
+  "costConditions": "延長保育料は、利用者負担額（保育料）とは別に各保育施設に納めていただきます。",
+  "description": "保育時間・延長保育\n\n保育時間\n保護者の就労の実態や通勤時間を考慮して、必要な子どもには基本保育時間に加えて早朝保育・夕方保育を実施しています。\n\n早朝保育・夕方保育を希望する場合には、入所後に直接保育所等へご相談ください。保育時間は、子どもの月齢や保護者の就労状況によって保育所等が決定します。\n\n開園時間については「認可保育所等一覧」をご覧になるか、直接各保育所等にお問い合わせください。\n\n認可保育園一覧;https://www.city.musashino.lg.jp/shussan_kodomo_kyoiku/kodomo_kosodate/hoikuen_yochien_kodomoen/ninkahoikusho_chiikihoikujigyo/ichiran/1006868.html\n延長保育\n夕方保育の終了時間までにお迎えが間に合わない世帯を対象に、延長保育を実施しています。\n\n市立園の場合(満1歳から利用できます)\n|【申し込み先】|入所後に各保育施設へ|\n|【延長保育時間】|午後6時30分～7時15分|\n|【延長保育料】|月額　2,500円<br>日額　500円|\n\n（注意）延長保育料は、利用者負担額（保育料）とは別にお支払いいただきます。\n\n民間園の場合\n|【申し込み先】|入所後に各保育施設へ|\n|【延長保育時間】|保育施設によって異なりますが、<br>終了時間は最長で午後8時30分の保育施設があります。|\n|【延長保育料】|保育施設のしおり（保育施設ガイド編）をご参照ください。<br>各保育施設にお問い合わせください。|\n\n(注意)延長保育料は、利用者負担額（保育料）とは別に各保育施設に納めていただきます。\n\n地域型保育事業(家庭的保育事業、小規模保育事業)の場合\n|【申し込み先】|入所後に各保育施設へ|\n|延長保育時間】|各保育施設によって異なりますが、<br>終了時間は最長で午後8時の保育施設があります。|\n|【延長保育料】|保育施設のしおり（保育施設ガイド編）をご参照ください。<br>詳しくは各保育施設にお問い合わせください。|\n\n(注意)延長保育料は、利用者負担額（保育料）とは別に各保育施設に納めていただきます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "詳しくは各保育施設にお問い合わせください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "延長保育",
+    "shortName": "延長保育"
+  },
+  "localGovernmentLink": {
+    "title": "保育時間・延長保育",
+    "uri": "https://www.city.musashino.lg.jp/shussan_kodomo_kyoiku/kodomo_kosodate/hoikuen_yochien_kodomoen/ninkahoikusho_chiikihoikujigyo/nyusho/1006890.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "武蔵野市"
+  },
+  "procedureCounter": "各保育施設",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "入所後に各保育施設へ",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第59条第2号",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "認可保育園一覧",
+      "uri": "https://www.city.musashino.lg.jp/shussan_kodomo_kyoiku/kodomo_kosodate/hoikuen_yochien_kodomoen/ninkahoikusho_chiikihoikujigyo/ichiran/1006868.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "武蔵野市内の保育園（保育所）や認定こども園、地域型保育施設では、保護者の勤務時間などにより、認定を受けた時間帯を超えて保育が必要なお子さんを対象に、別途料金を徴収のうえで、延長保育を実施しています。",
+  "support": {
+    "description": "保護者の就労の実態や通勤時間を考慮して、必要な子どもには基本保育時間に加えて早朝保育・夕方保育を実施しています。\n\n早朝保育・夕方保育を希望する場合には、入所後に直接保育所等へご相談ください。保育時間は、子どもの月齢や保護者の就労状況によって保育所等が決定します。\n\n開園時間については「認可保育所等一覧」をご覧になるか、直接各保育所等にお問い合わせください。\n\n認可保育園一覧;https://www.city.musashino.lg.jp/shussan_kodomo_kyoiku/kodomo_kosodate/hoikuen_yochien_kodomoen/ninkahoikusho_chiikihoikujigyo/ichiran/1006868.html\n延長保育\n夕方保育の終了時間までにお迎えが間に合わない世帯を対象に、延長保育を実施しています。\n\n市立園の場合(満1歳から利用できます)\n|【申し込み先】|入所後に各保育施設へ|\n|【延長保育時間】|午後6時30分～7時15分|\n|【延長保育料】|月額　2,500円<br>日額　500円|\n\n（注意）延長保育料は、利用者負担額（保育料）とは別にお支払いいただきます。\n\n民間園の場合\n|【申し込み先】|入所後に各保育施設へ|\n|【延長保育時間】|保育施設によって異なりますが、<br>終了時間は最長で午後8時30分の保育施設があります。|\n|【延長保育料】|保育施設のしおり（保育施設ガイド編）をご参照ください。\n各保育施設にお問い合わせください。|\n\n(注意)延長保育料は、利用者負担額（保育料）とは別に各保育施設に納めていただきます。\n\n地域型保育事業(家庭的保育事業、小規模保育事業)の場合\n|【申し込み先】|入所後に各保育施設へ|\n|延長保育時間】|各保育施設によって異なりますが、<br>終了時間は最長で午後8時の保育施設があります。|\n|【延長保育料】|保育施設のしおり（保育施設ガイド編）をご参照ください。<br>詳しくは各保育施設にお問い合わせください。|\n\n(注意)延長保育料は、利用者負担額（保育料）とは別に各保育施設に納めていただきます。",
+    "materiallySupport": "保護者の就労の実態や通勤時間を考慮して、必要な子どもには基本保育時間に加えて早朝保育・夕方保育を実施しています。\n\n早朝保育・夕方保育を希望する場合には、入所後に直接保育所等へご相談ください。保育時間は、子どもの月齢や保護者の就労状況によって保育所等が決定します。\n\n開園時間については「認可保育所等一覧」をご覧になるか、直接各保育所等にお問い合わせください。\n\n認可保育園一覧;https://www.city.musashino.lg.jp/shussan_kodomo_kyoiku/kodomo_kosodate/hoikuen_yochien_kodomoen/ninkahoikusho_chiikihoikujigyo/ichiran/1006868.html\n延長保育\n夕方保育の終了時間までにお迎えが間に合わない世帯を対象に、延長保育を実施しています。\n\n市立園の場合(満1歳から利用できます)\n|【申し込み先】|入所後に各保育施設へ|\n|【延長保育時間】|午後6時30分～7時15分|\n|【延長保育料】|月額　2,500円<br>日額　500円|\n\n（注意）延長保育料は、利用者負担額（保育料）とは別にお支払いいただきます。\n\n民間園の場合\n|【申し込み先】|入所後に各保育施設へ|\n|【延長保育時間】|保育施設によって異なりますが、<br>終了時間は最長で午後8時30分の保育施設があります。|\n|【延長保育料】|保育施設のしおり（保育施設ガイド編）をご参照ください。\n各保育施設にお問い合わせください。|\n\n(注意)延長保育料は、利用者負担額（保育料）とは別に各保育施設に納めていただきます。\n\n地域型保育事業(家庭的保育事業、小規模保育事業)の場合\n|【申し込み先】|入所後に各保育施設へ|\n|延長保育時間】|各保育施設によって異なりますが、<br>終了時間は最長で午後8時の保育施設があります。|\n|【延長保育料】|保育施設のしおり（保育施設ガイド編）をご参照ください。<br>詳しくは各保育施設にお問い合わせください。|\n\n(注意)延長保育料は、利用者負担額（保育料）とは別に各保育施設に納めていただきます。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "夕方保育の終了時間までにお迎えが間に合わない世帯"
+  },
+  "updateDate": "2022-10-06",
+  "useConsiderationFlag": false,
+  "utilization": "入所後に各保育施設へ",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "詳しくは各保育施設にお問い合わせください。",
+    "fromHM": null,
+    "toHM": null
+  }
+}

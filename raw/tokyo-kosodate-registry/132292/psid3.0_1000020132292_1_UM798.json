@@ -1,0 +1,140 @@
+{
+  "area": {
+    "areaCode": "132292;西東京市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132292",
+    "psid": "psid3.0+1000020132292+1+UM798"
+  },
+  "belongings": "筆記用具",
+  "capacity": "30組（申込順）",
+  "class": 1,
+  "contact": {
+    "contactAddress": "西東京市中町一丁目5番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康課",
+    "contactPhone": "042-438-4021",
+    "contactUrl": null,
+    "zipCode": "2028555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "離乳食講習会スタート\n\n講習会概要\n健康課では、発達段階に応じて「スタート」と「ステップ」の2種類の離乳食講習会を開催しています。\nスタートは離乳食をこれから始める方を対象に、離乳の開始から初期についてのお話です。\n\n日程\nhttps://www.city.nishitokyo.lg.jp/kosodate/bosi/soudan/rinyuusyokustart.html|\n\n時間\n午前10時15分から11時（受付10時から）\n\n会場\n田無総合福祉センター;https://www.city.nishitokyo.lg.jp/sisetu/hukusi/tanasi_sogo.html（田無町五丁目5番12号）　2階視聴覚室\n\n対象\n市内にお住まいの生後3か月から5か月のお子さんの保護者\n\n定員\n30組（申込順）\n\n内容\n離乳食開始から初期のお話\n\n保育\n保育はありませんが、お子さんと一緒にご参加いただけます。\n\n持物\n筆記用具\n\n申込方法\n離乳食講習会スタート6月4日開催（外部リンク）;https://logoform.jp/form/AAZE/543144からお申し込みください。\n注記：申請は申込開始日の午前8時30分から可能となります。\n\nちらし\n離乳食講習会スタート（PDF：645KB）;https://www.city.nishitokyo.lg.jp/kosodate/bosi/soudan/rinyuusyokustart.files/startcolor.pdf\n\n関連リンク\n離乳食講習会ステップ;https://www.city.nishitokyo.lg.jp/kosodate/bosi/soudan/rinyusyoku.html\n離乳中期から後期を中心にした講習会のご案内",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "離乳食講習会スタート6月4日開催",
+      "uri": "https://logoform.jp/form/AAZE/543144"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "|開催日|曜日|申込期間|\n|:----|:----|:----|\n|令和6年4月10日|水曜日|3月15日から4月7日|\n|6月4日|火曜日|5月15日から5月31日|\n|8月23日|金曜日|8月1日から8月20日|\n|10月23日|水曜日|10月1日から10月20日|\n|12月12日|木曜日|11月15日から12月9日|\n|令和7年2月27日|木曜日|2月1日から2月24日|\n\n時間\n午前10時15分から11時（受付10時から）　",
+    "fromHM": "10:15",
+    "fromYMD": null,
+    "toHM": "11:00",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "田無町五丁目5番12号",
+    "implementationName": "田無総合福祉センター"
+  },
+  "institutionName": {
+    "canonicalName": "離乳食教室",
+    "shortName": "離乳食講習会スタート"
+  },
+  "localGovernmentLink": {
+    "title": "離乳食講習会スタート",
+    "uri": "https://www.city.nishitokyo.lg.jp/kosodate/bosi/soudan/rinyuusyokustart.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-10",
+    "updater": "西東京市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "離乳食講習会スタート6月4日開催（外部リンク）;https://logoform.jp/form/AAZE/543144からお申し込みください。\n注記：申請は申込開始日の午前8時30分から可能となります。",
+  "procedurePeriod": {
+    "conditions": "https://www.city.nishitokyo.lg.jp/kosodate/bosi/soudan/rinyuusyokustart.html",
+    "fromHM": "08:30",
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第3条（乳幼児の健康の保持増進）、9条（知識の普及）、法第5条（子どもの食育における保護者、教育関係者等の役割）、21条 （地域における食生活の改善のための取組の推進）",
+    "regulationName": "母子保健法、食育基本法"
+  },
+  "relatedLink": [
+    {
+      "title": "離乳食講習会ステップ",
+      "uri": "https://www.city.nishitokyo.lg.jp/kosodate/bosi/soudan/rinyusyoku.html"
+    },
+    {
+      "title": "離乳食講習会スタート（PDF：645KB）",
+      "uri": "https://www.city.nishitokyo.lg.jp/kosodate/bosi/soudan/rinyuusyokustart.files/startcolor.pdf"
+    },
+    {
+      "title": "田無総合福祉センター",
+      "uri": "https://www.city.nishitokyo.lg.jp/sisetu/hukusi/tanasi_sogo.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "生後3～5か月前後のお子さんとその保護者を対象に、離乳食を始める時のポイントやすすめ方についての講座を開催しています。離乳食のいろいろな悩みに栄養士がお答えします。また、離乳食の作り方の実演や試食もあります。",
+  "support": {
+    "description": "離乳食開始から初期のお話",
+    "materiallySupport": "離乳食開始から初期のお話",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後3か月から5か月",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 3
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 5
+    },
+    "targetPersons": "市内にお住まいの生後3か月から5か月のお子さんの保護者"
+  },
+  "updateDate": "2024-04-08",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

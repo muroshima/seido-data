@@ -1,0 +1,145 @@
+{
+  "area": {
+    "areaCode": "132152;国立市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部 保険年金課 国民年金係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132152",
+    "psid": "psid3.0+1000020132152+1+UM793"
+  },
+  "belongings": "届出に必要なもの(窓口の場合)\n(1) 出産前に届出する場合は、母子手帳など出産予定日が確認できる書類\n\n出産後に届出する場合は、市役所で確認できるため、原則的に確認書類は不要ですが、被保険者の方と子が別世帯の場合は、出生証明書などの出産日及び親子関係が確認できる書類が必要です。\n\n(2) 年金手帳、基礎年金番号通知書などの基礎年金番号がわかる書類、またはマイナンバーが確認できる書類\n\n(注) 本人確認書類(マイナンバーカード、運転免許証など)もあわせてお持ちください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "国立市富士見台2-47-1 国立市役所 1階(9番窓口)",
+    "contactComment": "ファクス：042-576-0264",
+    "contactEmail": null,
+    "contactEx": "(内線：123,124)",
+    "contactName": "健康福祉部 保険年金課 国民年金係",
+    "contactPhone": "042-576-2111",
+    "contactUrl": "https://www.city.kunitachi.tokyo.jp/cgi-bin/inquiry.php/27?page_no=1588",
+    "zipCode": "1868501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "産前産後における保険料免除について\n\n産前産後期間の国民年金保険料が免除となります\n出産予定日または出産日が属する月の前月から4か月間の国民年金保険料が免除される制度です。多胎妊娠の場合は、出産予定日または出産日が属する月の3か月前から6か月間の国民年金保険料が免除されます。\n\n(注) 出産とは、妊娠85日(4か月)以上の出産をいいます。(死産、流産、早産された方を含みます)\n\n産前産後期間の免除制度は「保険料免除された期間」も保険料を納付したものとして老齢基礎年金の受給額に反映されます。\n\n現在、保険料免除制度を利用されている方も手続きをしてください。\n\n対象となる方\n国民年金第1号被保険者で、出産日が平成31年2月1日以降の方\n\n届出の方法\n出産予定日の6か月前から届出ができます。出産後の届出はいつでも可能です。\n\n(注) 届出をしないと免除にならないので、ご注意ください。\n\n市役所、国立駅前くにたち・こくぶんじ市民プラザ、北市民プラザ、もしくは年金事務所の窓口に届書が備え付けてありますので、必要事項を記入の上、提出してください。\n\n(マイナンバーカードをお持ちの方は、ご自宅等で、マイナポータルからの電子申請も可能です。)\n\n届出に必要なもの(窓口の場合)\n(1) 出産前に届出する場合は、母子手帳など出産予定日が確認できる書類\n\n出産後に届出する場合は、市役所で確認できるため、原則的に確認書類は不要ですが、被保険者の方と子が別世帯の場合は、出生証明書などの出産日及び親子関係が確認できる書類が必要です。\n\n(2) 年金手帳、基礎年金番号通知書などの基礎年金番号がわかる書類、またはマイナンバーが確認できる書類\n\n(注) 本人確認書類(マイナンバーカード、運転免許証など)もあわせてお持ちください。\n\n国民年金保険料の産前産後期間の免除制度 (外部リンク、日本年金機構);https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html\n\n産前産後期間の免除制度Q＆A (外部リンク、日本年金機構);https://www.nenkin.go.jp/service/kokunen/menjo/20180810.files/QA.pdf\n\n電子申請(マイナポータル) (外部リンク、日本年金機構);https://www.nenkin.go.jp/denshibenri_kojin/denshibenri_kojin/mynaportal.html\n\n郵送による国民年金の手続き; https://www.city.kunitachi.tokyo.jp/kurashi/nenkin/2/5571.html",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "電子申請(マイナポータル) (外部リンク、日本年金機構)",
+      "uri": "https://www.nenkin.go.jp/denshibenri_kojin/denshibenri_kojin/mynaportal.html"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "産前産後期間の国民年金保険料免除",
+    "shortName": "産前産後期間の国民年金保険料免除"
+  },
+  "localGovernmentLink": {
+    "title": "産前産後における保険料免除について",
+    "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept03/Div04/Sec03/gyomu/0184/1655433866203.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "国立市"
+  },
+  "procedureCounter": "国立市役所保険年金課国民年金係、国立駅前くにたち・こくぶんじ市民プラザ、北市民プラザ、もしくは年金事務所",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "届出の方法\n出産予定日の6か月前から届出ができます。出産後の届出はいつでも可能です。\n\n(注) 届出をしないと免除にならないので、ご注意ください。\n\n市役所、国立駅前くにたち・こくぶんじ市民プラザ、北市民プラザ、もしくは年金事務所の窓口に届書が備え付けてありますので、必要事項を記入の上、提出してください。\n\n(マイナンバーカードをお持ちの方は、ご自宅等で、マイナポータルからの電子申請も可能です。)\n\n届出に必要なもの(窓口の場合)\n(1) 出産前に届出する場合は、母子手帳など出産予定日が確認できる書類\n\n出産後に届出する場合は、市役所で確認できるため、原則的に確認書類は不要ですが、被保険者の方と子が別世帯の場合は、出生証明書などの出産日及び親子関係が確認できる書類が必要です。\n\n(2) 年金手帳、基礎年金番号通知書などの基礎年金番号がわかる書類、またはマイナンバーが確認できる書類\n\n(注) 本人確認書類(マイナンバーカード、運転免許証など)もあわせてお持ちください。",
+  "procedurePeriod": {
+    "conditions": "出産予定日の6か月前から届出ができます。出産後の届出はいつでも可能です。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第88条の2（保険料の納付義務）",
+    "regulationName": "国民年金法"
+  },
+  "relatedLink": [
+    {
+      "title": "電子申請(マイナポータル) (外部リンク、日本年金機構)",
+      "uri": "https://www.nenkin.go.jp/denshibenri_kojin/denshibenri_kojin/mynaportal.html"
+    },
+    {
+      "title": "産前産後期間の免除制度Q＆A (外部リンク、日本年金機構)",
+      "uri": "https://www.nenkin.go.jp/service/kokunen/menjo/20180810.files/QA.pdf"
+    },
+    {
+      "title": "郵送による国民年金の手続き",
+      "uri": "https://www.city.kunitachi.tokyo.jp/kurashi/nenkin/2/5571.html"
+    },
+    {
+      "title": "国民年金保険料の産前産後期間の免除制度 (外部リンク、日本年金機構)",
+      "uri": "https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民年金の第1号被保険者が出産した場合には、出産前後の一定期間の国民年金保険料が免除されます。\n免除期間は年金額を計算する際、保険料を納めた期間として扱われます。",
+  "support": {
+    "description": "出産予定日または出産日が属する月の前月から4か月間の国民年金保険料が免除される制度です。多胎妊娠の場合は、出産予定日または出産日が属する月の3か月前から6か月間の国民年金保険料が免除されます。\n\n(注) 出産とは、妊娠85日(4か月)以上の出産をいいます。(死産、流産、早産された方を含みます)\n\n産前産後期間の免除制度は「保険料免除された期間」も保険料を納付したものとして老齢基礎年金の受給額に反映されます。",
+    "materiallySupport": null,
+    "monetarySupport": "出産予定日または出産日が属する月の前月から4か月間の国民年金保険料が免除される制度です。多胎妊娠の場合は、出産予定日または出産日が属する月の3か月前から6か月間の国民年金保険料が免除されます。\n\n(注) 出産とは、妊娠85日(4か月)以上の出産をいいます。(死産、流産、早産された方を含みます)\n\n産前産後期間の免除制度は「保険料免除された期間」も保険料を納付したものとして老齢基礎年金の受給額に反映されます。\n\n現在、保険料免除制度を利用されている方も手続きをしてください。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "016"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "国民年金第1号被保険者で、出産日が平成31年2月1日以降の方"
+  },
+  "updateDate": "2024-04-18",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132241;多摩市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センター母子保健担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132241",
+    "psid": "psid3.0+3000020132241+1+UM13"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都多摩市関戸四丁目19番5号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭センター母子保健担当",
+    "contactPhone": "042-376-9177",
+    "contactUrl": null,
+    "zipCode": "2060011"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊産婦・新生児訪問\n\n妊娠中や産後1年を経過しない産婦を対象に、保健師や助産師による家庭訪問を行っています。また、生後120日までに保健師や助産師が家庭訪問をして、体重計測、育児や授乳のアドバイス、地域の情報、サービスの使い方などの紹介をします。赤ちゃんが生まれたらすぐに出生通知を電子で申請または母子健康手帳の中に入っている出生通知票を、健康センターへ提出（投函）してください。\n\n出生通知を電子で申請（外部リンク）;https://logoform.jp/form/4N4o/169112",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "出生通知を電子で申請",
+      "uri": "https://logoform.jp/form/4N4o/169112"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "生後120日までに保健師や助産師が家庭訪問",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "新生児訪問",
+    "shortName": "妊産婦・新生児訪問"
+  },
+  "localGovernmentLink": {
+    "title": "妊産婦・新生児訪問",
+    "uri": "https://www.city.tama.lg.jp/kosodate/1008018/1008020/1003420.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "多摩市"
+  },
+  "procedureCounter": "健康センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "赤ちゃんが生まれたらすぐに出生通知を電子で申請してください。\n\n出生通知を電子で申請;https://logoform.jp/form/4N4o/169112",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第11条（新生児の訪問指導）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "新生児を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、健康や育児に関する相談などを行います。",
+  "support": {
+    "description": "妊娠中や産後1年を経過しない産婦を対象に、保健師や助産師による家庭訪問を行っています。また、生後120日までに保健師や助産師が家庭訪問をして、体重計測、育児や授乳のアドバイス、地域の情報、サービスの使い方などの紹介をします。",
+    "materiallySupport": "体重計測、育児や授乳のアドバイス、地域の情報、サービスの使い方などの紹介",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "新生児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "新生児"
+  },
+  "updateDate": "2023-03-19",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

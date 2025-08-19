@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部障害者福祉課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+3+UM67"
+  },
+  "belongings": "（1）身体障害者手帳・愛の手帳\n    （2）印鑑（スタンプ印不可）\n    （3）請求者名義の普通預金通帳\n    （4）マイナンバー関係書類\n        1.マイナンバーの確認ができる書類（通知カード・マイナンバーカード（個人番号カード）等）\n        申請者、申請者の配偶者、対象児童の分が必要です。\n        2.来所した方の身元確認ができる書類\n            ・1点で確認可能なもの：マイナンバーカード（個人番号カード）、運転免許証、パスポート、\n            身体障害者手帳、愛の手帳　など\n            ・2点で確認可能なもの：年金手帳、健康保険証、後期高齢者医療証、介護保険証、生活保護証明書、社員証、学生証、公共料金領収証　など\n        3.代理の方が来所される場合は、申請者から手続きを委任されたことがわかる書類\n        申請者の身体障害者手帳、愛の手帳、健康保険証、マイナンバーカード（個人番号カード）など1点、\n        または委任状\n    （5）児童と別居している場合\n        ・児童の住所の児童民生委員の監護事実についての調査書\n\n調査書は所定の用紙が区役所にありますのでお問い合わせください",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部障害者福祉課自立援助係",
+    "contactPhone": "03-5662-0062",
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e041/kuseijoho/gaiyo/soshiki/fukushi/syogai.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "障害のある20歳未満の児童を養育する方に手当を支給します。\n\n（注）児童を監護している父又は母が身体障害者手帳1級から2級程度、その他重度の内部障害を有する場合は児童育成手当（育成手当）の対象になる場合があります。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "受給者が死亡されたとき（未支払児童育成手当請求書）;施設入所、金融機関の変更、住所・氏名変更、転出、その他申請した事項に変更が生じたとき\n（資格消滅・転出・変更届）",
+      "uri": "https://app.oss.myna.go.jp/Application/procdetail/initGet?kc9XUt9I8/CU41afS8P1OaaLxX/9+D2bXPzn80LiqLRKeI438ftq6avj3ZAt+N8AlNhjhc1XlqjPKOWxSoxbkOxNmSHRe+tQW/RUXvwhdI78LWrCxCDlkZ/Ps/HGW9fUgziwOEm6d2OSvf2O/D/GgfMyBaDpd/l/hHcnJFD4iCCnTi5Su6rnZPsR6r+LU7nWyNbRtbX0kFgIZkU69KqyK3KbP/Bc9d1KVHO4KzkFGYbk9BuwfP9yLg4gVJ69FzsA;https://app.oss.myna.go.jp/Application/procdetail/initGet?kc9XUt9I8/CU41afS8P1OaaLxX/9+D2bXPzn80LiqLRKeI438ftq6avj3ZAt+N8AlNhjhc1XlqjPKOWxSoxbkOxNmSHRe+tQW/RUXvwhdI78LWrCxCDlkZ/Ps/HGW9fUsFrj2GgJsqgj7hwasiaqpigHxdtLkgkrpMNbDMVBJwiMsCyecv5Ex5AF4arrOTDPYh1U8kgyyhCYG447TVJBrFscsfmVW/RSfFbSPTyUIXd//ebsx+qp0I+ikn1/C5t1"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の障がいのあるお子さんなどへの金銭的支援",
+    "shortName": "児童育成手当（障害手当）"
+  },
+  "localGovernmentLink": {
+    "title": "児童育成手当（障害手当）",
+    "uri": "https://www.city.edogawa.tokyo.jp/e041/kenko/fukushikaigo/shogaisha/teate/teate/jidoikusei.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "江戸川区役所南棟2階1番\n福祉部障害者福祉課自立援助係\n電話：03-5662-0062\nFAX：03-3656-5874",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "次のものをお持ちの上、障害者福祉課へおいでください。\n郵送による手続きも受け付けています。詳しくはお問い合わせください。\n\n    （1）身体障害者手帳・愛の手帳\n    （2）印鑑（スタンプ印不可）\n    （3）請求者名義の普通預金通帳\n    （4）マイナンバー関係書類\n        1.マイナンバーの確認ができる書類（通知カード・マイナンバーカード（個人番号カード）等）\n        申請者、申請者の配偶者、対象児童の分が必要です。\n        2.来所した方の身元確認ができる書類\n            ・1点で確認可能なもの：マイナンバーカード（個人番号カード）、運転免許証、パスポート、\n            身体障害者手帳、愛の手帳　など\n            ・2点で確認可能なもの：年金手帳、健康保険証、後期高齢者医療証、介護保険証、生活保護証明書、社員証、学生証、公共料金領収証　など\n        3.代理の方が来所される場合は、申請者から手続きを委任されたことがわかる書類\n        申請者の身体障害者手帳、愛の手帳、健康保険証、マイナンバーカード（個人番号カード）など1点、\n        または委任状\n    （5）児童と別居している場合\n        ・児童の住所の児童民生委員の監護事実についての調査書\n\n調査書は所定の用紙が区役所にありますのでお問い合わせください",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "江戸川区児童育成手当条例"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童育成手当（障害手当）は、江戸川区に住民票のある方で、20歳未満の障害を持つ児童を養育している方に支給される手当です。",
+  "support": {
+    "description": "児童一人につき月額15,500円\n\n次のいずれかに該当するときは受給できません。\n\n    （1）対象児童が児童福祉施設（通所施設等を除く）に入所しているとき\n    （2）所得制限限度額を超えるとき\n        所得の適用年度\n            毎年6月から翌年の5月まで適用されます。\n            前年中（1月から5月については前々年中）の所得で判定します。\n\n別表1　所得制限限度額表\n\n児童育成手当（障害手当）の受給者の前年の所得（1～5月分の手当は、前々年の所得）で審査します。\n扶養人数と所得制限限度額\n|扶養人数|受給者所得限度額|\n|:----|:----|\n|0人|3,604,000円|\n|1人|3,984,000円|\n|2人|4,364,000円|\n|3人|4,744,000円|\n|4人|5,124,000円|\n|5人|5,504,000円|\n|上記以降扶養1人につき加算額|380,000円|\n\n給与所得者の場合の所得額とは、給与総収入（支払金額）から給与所得控除額を差し引いた給与所得控除後の金額。\n給与所得または公的年金等に係る所得を有する方は、その金額から10万円（合計額が10万円を下回る場合はその額）を控除します。\n所得控除の種類と金額\n|控除できるもの|受給者所得控除|\n|:----|:----|\n|社会保険料控除|80,000円|\n|医療費控除|相当額|\n|雑損控除|相当額|\n|小規模共済|相当額|\n|長期（短期）譲渡所得の特別控除|相当額|\n|配偶者特別控除（住民税）|相当額|\n|特別障害者控除（本人）|400,000円|\n|特別障害者控除（扶養1人につき）|400,000円|\n|普通障害者控除（本人）|270,000円|\n|普通障害者控除（扶養1人につき）|270,000円|\n|老人控除対象配偶者控除|100,000円|\n|老人扶養（1人につき）|100,000円|\n|特定扶養等（1人につき）（注）|250,000円|\n|勤労学生控除|270,000円|\n|寡婦控除|270,000円|\n|ひとり親控除|350,000円|\n\n（注）16歳以上19歳未満の控除対象扶養親族の控除含む\n\n・配偶者特別控除の上限は33万円です。\n・長期譲渡所得の特別控除のうち、低未利用土地等の長期譲渡所得特別控除の上限額は100万円です。",
+    "materiallySupport": null,
+    "monetarySupport": "15500"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "078"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "江戸川区に住民票のある方で、下記の程度の障害を有する20歳未満の児童を養育している方\n    （1）身体障害者手帳1級～2級程度\n    （2）愛の手帳1度～3度程度\n    （3）脳性まひ、進行性筋萎縮症\n\n特別児童扶養手当受給中の方は、障害および所得状況により申請できる場合がありますので、ご相談ください。\n\n※所得や施設入所等による支給制限があります。"
+  },
+  "updateDate": "2024-01-04",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

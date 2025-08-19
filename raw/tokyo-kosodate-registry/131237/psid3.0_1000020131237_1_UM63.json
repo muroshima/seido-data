@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部障害者福祉課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM63"
+  },
+  "belongings": "（1）所定の診断書（障害者福祉課にあります）\n （注）1か月以内のもの。重度心身障害者手当を受給されている方は不要です。\n （2）身体障害者手帳または愛の手帳\n （3）本人名義の普通預金通帳\n （4）マイナンバー関係書類\n 1. マイナンバーの確認ができる書類（通知カード・マイナンバーカード（個人番号カード）等）\n 請求者、扶養義務者の方の分が必要です。\n 2.来所した方の身元確認ができる書類\n ・1点で確認可能なもの：マイナンバーカード（個人番号カード）、運転免許証、パスポート、\n 身体障害者手帳、愛の手帳　など\n ・2点で確認可能なもの：年金手帳、健康保険証、後期高齢者医療証、介護保険証、生活保護証明書、社員証、学生証、公共料金領収証　など\n 3.代理の方が来所される場合は、請求者から手続きを委任されたことがわかる書類\n 請求者の健康保険証、マイナンバーカード（個人番号カード）など1点、または委任状\n\n所得判定について\nマイナンバーによる情報連携開始により、課税証明書の提出は不要となりました。\n\nただし、情報連携の不具合や他のサービスの申請にあたり、提出をお願いする場合があります。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部障害者福祉課自立援助係",
+    "contactPhone": "03-5662-0062",
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e041/kuseijoho/gaiyo/soshiki/fukushi/syogai.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "重度の障害を有するため、日常生活において常時の介護を必要とする状態にある在宅の20歳未満の方に手当を支給します。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "障害児福祉手当現況届",
+      "uri": "https://app.oss.myna.go.jp/Application/procdetail/initGet?kc9XUt9I8/CU41afS8P1OaaLxX/9+D2bXPzn80LiqLRKeI438ftq6avj3ZAt+N8AZ4zp5oBidR1LnsRX6l4x3TGn0bR6VsPyhCIqk06FMhQnHLQ7plWZY1uVSxnGQb19FdgVe1UeP3OipKMS9s6jB6ZkfUgeilgW7bpjJD/917gapOHu+HIizcYNpu+Wd3h7171UeBdpgwv7701kmDHKWWvrCsKCRhiMVNfnE+MrAIFV96dMHmtwBlfz41hc9dhr"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "障害児福祉手当",
+    "shortName": "障害児福祉手当（国制度）"
+  },
+  "localGovernmentLink": {
+    "title": "障害児福祉手当（国制度）",
+    "uri": "https://www.city.edogawa.tokyo.jp/e041/kenko/fukushikaigo/shogaisha/teate/teate/syogaiji.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "江戸川区役所南棟2階1番\n福祉部障害者福祉課自立援助係\n電話：03-5662-0062\nFAX：03-3656-5874",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "必要書類をお持ちのうえ、障害者福祉課へお越しください。\n\n郵送による手続きも受け付けています。詳しくはお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第3章",
+    "regulationName": "特別児童扶養手当等の支給に関する法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "障害児福祉手当（国制度）は、江戸川区に住民票があり、20歳未満の在宅の方で、日常生活において常時特別の介護を必要とする状態にある重度の障害を有する方に支給される手当です。",
+  "support": {
+    "description": "手当月額15,220円（令和6年4月1日から）\n\n手当は消費者物価指数の変動率に応じて改定されます。\n\n3　支給制限\n\n次のいずれかに該当するときは受給できません。\n （1）障害を理由とする公的年金を受けることができるとき\n （2）施設に入所しているとき\n （3）聴覚障害の方で、補聴器の使用効果があるとき\n （4）障害者本人または扶養義務者（同住所に住む親族等）の所得が限度額を超えたとき\n 詳しくは、東京都心身障害者福祉センターホームページをご覧ください。\n 所得の適用年度\n ・毎年8月から翌年の7月まで適用されます。\n ・前年中（1月から6月については前々年中）の所得で判定します。\n\n4　支給方法\n ・手当は請求のあった月の翌月から支給要件に該当しなくなった月まで支給されます。\n ・振込月は5月（2月～4月分）、8月（5月～7月分）、11月（8月～10月分）、2月（11月～1月分）です。\n ・それぞれの振込月の10日頃に指定の金融機関に振り込みます。",
+    "materiallySupport": null,
+    "monetarySupport": "15690"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "078"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "江戸川区に住民票があり、精神又は身体に重度の障害を有するため、日常生活において常時特別の介護を必要とする状態にある在宅の20歳未満の方。\n\n（注）障害の状況によっては医師の審査により該当しないことがあります。\n\n※所得や施設入所等による支給制限があります。"
+  },
+  "updateDate": "2024-01-04",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

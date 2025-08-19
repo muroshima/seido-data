@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132047;三鷹市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども政策部 子ども家庭課 子ども家庭支援センターりぼん",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132047",
+    "psid": "psid3.0+8000020132047+1+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三鷹市下連雀九丁目11番7号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども政策部 子ども家庭課 子ども家庭支援センターりぼん",
+    "contactPhone": "0422-40-5925",
+    "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+    "zipCode": "1818505"
+  },
+  "cost": null,
+  "costConditions": "無料",
+  "description": "子どもと家庭に関する総合相談など、あらゆる相談に応じます\n所在地\n〒181-8505\n三鷹市下連雀九丁目11番7号\n教育センター　2階\n周辺の地図情報(三鷹市わがまちマップ)（外部リンク）;http://www2.wagmap.jp/mitakacity/APIDetail/Gate?API=1&linkid=322c7ee9-9ee1-4de1-b005-b0dd4256827f&mid=4\n\n電話番号\n0422-40-5925\n\n対象\n0歳から18歳未満の児童及びその保護者。\n\n内容\n相談\n子どもと家庭に関する総合相談。あらゆる相談に応じます。無料で相談できます。\n\nショートステイ事業などの受付・調整\nショートステイ事業などの相談・受付・調整をおこなっています。そのほかのサービス提供の相談にも応じています。\n\n利用時間\n月曜日～金曜日 午前8時30分～午後5時\n\n休館日\n土曜日、日曜日、祝日、年末年始",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "土曜日、日曜日、祝日、年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "三鷹市下連雀九丁目11番7号\n教育センター　2階\n周辺の地図情報(三鷹市わがまちマップ)（外部リンク）",
+    "implementationName": "子ども家庭支援センター りぼん"
+  },
+  "institutionName": {
+    "canonicalName": "三鷹市の子育てに関する相談",
+    "shortName": "子どもと家庭に関する総合相談"
+  },
+  "localGovernmentLink": {
+    "title": "子ども家庭支援センター りぼん",
+    "uri": "https://www.city.mitaka.lg.jp/c_service/085/085325.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-12",
+    "updater": "三鷹市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "周辺の地図情報(三鷹市わがまちマップ)（外部リンク）",
+      "uri": "http://www2.wagmap.jp/mitakacity/APIDetail/Gate?API=1&linkid=322c7ee9-9ee1-4de1-b005-b0dd4256827f&mid=4"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子ども家庭支援センターりぼんでは、子どもと家庭に関する総合相談など、あらゆる相談に応じます。",
+  "support": {
+    "description": "相談\n子どもと家庭に関する総合相談。あらゆる相談に応じます。無料で相談できます。\n\nショートステイ事業などの受付・調整\nショートステイ事業などの相談・受付・調整をおこなっています。そのほかのサービス提供の相談にも応じています。",
+    "materiallySupport": "相談\n子どもと家庭に関する総合相談。あらゆる相談に応じます。無料で相談できます。\n\nショートステイ事業などの受付・調整\nショートステイ事業などの相談・受付・調整をおこなっています。そのほかのサービス提供の相談にも応じています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0歳から18歳未満の児童",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "0歳から18歳未満の児童及びその保護者"
+  },
+  "updateDate": "2023-06-20",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日～金曜日 午前8時30分～午後5時",
+    "fromHM": "08:30",
+    "toHM": "17:00"
+  }
+}

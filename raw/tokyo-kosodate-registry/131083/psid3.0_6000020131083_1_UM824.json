@@ -1,0 +1,138 @@
+{
+  "area": {
+    "areaCode": "131083;江東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部（保健所） 保健予防課 保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131083",
+    "psid": "psid3.0+6000020131083+1+UM824"
+  },
+  "belongings": "マイナンバーカードと健康保険証の一体化により、令和6年12月2日以降は健康保険証の新規発行等が廃止されることから、保険情報の確認については下記の通り取り扱うことといたします。\n\n健康保険証の原本がある場合\n\n従来通り健康保険証の原本をお持ちください。\n\n健康保険証の原本がない場合\n\n下記のいずれかをお持ちください。\n\n1：資格確認書\n\n2：資格情報のお知らせ（右下の切り取りサイズのみは不可）\n\n3：マイナポータルの資格情報データを印刷したもの\n\n　（注釈）以下のすべての事項が表示されている画面を印刷してください。\n\n　＜記号・番号・枝番、氏名、生年月日、資格取得年月日、被保険者氏名または世帯主氏名、本人・家族の別、保険者番号、保険者名＞\n\n　（注釈）印刷が難しい場合は、上記の事項が表示されている画面を窓口で提示する必要があります。\n●マイナポータル「健康保険証情報」の確認方法（外部サイトへリンク）（別ウィンドウで開きます）;https://img.myna.go.jp/manual/03-01/0169.html",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "江東区東陽2丁目1番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部（保健所） 保健予防課 保健係",
+    "contactPhone": "03-3647-5906",
+    "contactUrl": null,
+    "zipCode": "1358383"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "自立支援医療制度（精神通院）について\n障害者総合支援法（障害者の日常生活及び社会生活を総合的に支援するための法律）「自立支援医療制度（精神通院）」の適用を受けると、精神通院医療費のうち原則1割の自己負担となります。所得状況や疾病・症状等に応じて月額自己負担上限額が設定されています。\n自立支援医療（精神通院）の適用を受けるためには、申請手続きが必要です。申請には、東京都所定の診断書のほか、保険証の写しなどの必要な書類がありますので、事前\nお近くの保健相談所または保健所へ電話等でご確認ください。また申請は区役所ではなく、下記で受け付けています。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度（精神通院医療）",
+    "shortName": "自立支援医療制度（精神通院）"
+  },
+  "localGovernmentLink": {
+    "title": "自立支援医療制度（精神通院）",
+    "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/seshin/6912.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025-02-26",
+    "updater": "江東区"
+  },
+  "procedureCounter": "城東保健相談所;https://www.city.koto.lg.jp/261001/shisetsuannai/kenkou/hokenshisetsu/sodanjo/16333.html　大島3丁目1番3号　電話：03-3637-6521\n深川保健相談所;https://www.city.koto.lg.jp/261101/shisetsuannai/kenkou/hokenshisetsu/sodanjo/16331.html　白河3丁目4番3号301　電話：03-3641-1181\n深川南部保健相談所;https://www.city.koto.lg.jp/261201/shisetsuannai/kenkou/hokenshisetsu/sodanjo/16332.html　枝川1丁目8番15号102　電話：03-5632-2291\n城東南部保健相談所;https://www.city.koto.lg.jp/261301/shisetsuannai/kenkou/hokenshisetsu/sodanjo/16334.html　南砂4丁目3番10号　電話：03-5606-5001\n保健予防課保健係　東陽2丁目1番1号　電話：03-3647-5906",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請には、東京都所定の診断書のほか、保険証の写しなどの必要な書類がありますので、事前にお近くの保健相談所または保健所へ電話等でご確認ください。また申請は区役所ではなく、下記で受け付けています。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [
+    {
+      "title": "保健相談所担当地域一覧",
+      "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html"
+    },
+    {
+      "title": "自立支援医療（精神通院医療）について（東京都福祉保健局）（外部サイトへリンク）（別ウィンドウで開きます）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/shougai//nichijo/tsuuin/seishintsuuin.html"
+    },
+    {
+      "title": "保健相談所",
+      "uri": "https://www.city.koto.lg.jp/shisetsuannai/kenkou/hokenshisetsu/sodanjo/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+  "support": {
+    "description": "障害者総合支援法（障害者の日常生活及び社会生活を総合的に支援するための法律）「自立支援医療制度（精神通院）」の適用を受けると、精神通院医療費のうち原則1割の自己負担となります。所得状況や疾病・症状等に応じて月額自己負担上限額が設定されています。",
+    "materiallySupport": null,
+    "monetarySupport": "障害者総合支援法（障害者の日常生活及び社会生活を総合的に支援するための法律）「自立支援医療制度（精神通院）」の適用を受けると、精神通院医療費のうち原則1割の自己負担となります。所得状況や疾病・症状等に応じて月額自己負担上限額が設定されています。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024/12/02",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

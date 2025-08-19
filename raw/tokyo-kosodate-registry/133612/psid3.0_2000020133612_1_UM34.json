@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "133612;大島町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉けんこう課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020133612",
+    "psid": "psid3.0+2000020133612+1+UM34"
+  },
+  "belongings": "【申請に必要なもの】\n申請書兼報告書、請求書（窓口にあります）\n母子手帳\n医師の証明書\n口座のわかるもの（通帳等）\n印鑑\n入院日、出産日、退院日のわかる領収証や明細書\n必要な宿泊があった場合は、その領収証",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都大島町元町１－１－１４",
+    "contactComment": "Fax：04992-2-4430",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉けんこう課けんこう係",
+    "contactPhone": "04992-2-1482",
+    "contactUrl": "https://www.town.oshima.tokyo.jp/form/detail.php?sec_sec1=7&inq=03&lif_id=730",
+    "zipCode": "1000101"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "『妊婦支援特別対策事業』とは、島外での出産を余儀なくされる妊婦のうち、早期に入院するなど通常の分娩と比べて経済的負担を伴う方に対して、この経費の一部を補助するものです。\n\n対象者\n大島医療センターの医師の判断により、島外医療機関で出産しなければならない者、かつ医師から証明書の交付を受けた者\n\n※一度は大島医療センター産婦人科で健診を受けてください。\n\n補助金額\n入院費\n妊娠中の異常等により入院する必要がある場合、または出産日から8日以上経過しても入院を要する場合\n\n1日あたり5,000円（上限250,000円）\n\n交通費\n島外医療機関に入院するために要する交通費\n\n10,000円（船賃相当分）\n\n宿泊料\n島外医療機関入院に伴い、有料宿泊施設に宿泊する必要がある場合\n\n1泊6,000円（1泊6,000円以下の場合は実費とする、要領収証）\n\n証明書発行手数料\n2,000円（2,000円以下の場合は実費とする）\n\n手続き\n妊娠中に異常が認められるなど、島外医療機関に早期の入院等が見込まれる場合、大島医療センター医師により『証明書』（妊婦支援用）の交付を受けてください。\n出産後3ヶ月以内に、福祉けんこう課窓口で申請手続きをしましょう。\n【申請に必要なもの】\n申請書兼報告書、請求書（窓口にあります）\n母子手帳\n医師の証明書\n口座のわかるもの（通帳等）\n印鑑\n入院日、出産日、退院日のわかる領収証や明細書\n必要な宿泊があった場合は、その領収証\n対象日数を算出し、決定通知書を送付してから支給となります。\n対象者の例\n帝王切開の可能性、切迫流産・早産、前置胎盤・低置胎盤、妊娠高血圧症候群等の合併症、骨盤位（逆子）、多胎（双子等）、前回の妊娠・分娩の異常、持病の管理などにより、ハイリスクで早期の入院が見込まれる場合などが含まれます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "土曜・日曜・祝日・年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関するサポート",
+    "shortName": "妊婦支援特別対策事業"
+  },
+  "localGovernmentLink": {
+    "title": "妊婦支援特別対策事業",
+    "uri": "https://www.town.oshima.tokyo.jp/soshiki/kenkou/ninpusien.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-30",
+    "updater": "大島町"
+  },
+  "procedureCounter": "福祉けんこう課窓口",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "手続き\n妊娠中に異常が認められるなど、島外医療機関に早期の入院等が見込まれる場合、大島医療センター医師により『証明書』（妊婦支援用）の交付を受けてください。\n出産後3ヶ月以内に、福祉けんこう課窓口で申請手続きをしましょう。\n【申請に必要なもの】\n申請書兼報告書、請求書（窓口にあります）\n母子手帳\n医師の証明書\n口座のわかるもの（通帳等）\n印鑑\n入院日、出産日、退院日のわかる領収証や明細書\n必要な宿泊があった場合は、その領収証\n対象日数を算出し、決定通知書を送付してから支給となります。\n対象者の例\n帝王切開の可能性、切迫流産・早産、前置胎盤・低置胎盤、妊娠高血圧症候群等の合併症、骨盤位（逆子）、多胎（双子等）、前回の妊娠・分娩の異常、持病の管理などにより、ハイリスクで早期の入院が見込まれる場合などが含まれます。",
+  "procedurePeriod": {
+    "conditions": "出産後3ヶ月以内",
+    "fromHM": "08:30",
+    "fromYMD": null,
+    "toHM": "17:15",
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "『妊婦支援特別対策事業』とは、島外での出産を余儀なくされる妊婦のうち、早期に入院するなど通常の分娩と比べて経済的負担を伴う方に対して、この経費の一部を補助するものです。",
+  "support": {
+    "description": "補助金額\n入院費\n妊娠中の異常等により入院する必要がある場合、または出産日から8日以上経過しても入院を要する場合\n\n1日あたり5,000円（上限250,000円）\n\n交通費\n島外医療機関に入院するために要する交通費\n\n10,000円（船賃相当分）\n\n宿泊料\n島外医療機関入院に伴い、有料宿泊施設に宿泊する必要がある場合\n\n1泊6,000円（1泊6,000円以下の場合は実費とする、要領収証）\n\n証明書発行手数料\n2,000円（2,000円以下の場合は実費とする）",
+    "materiallySupport": null,
+    "monetarySupport": "補助金額\n入院費\n妊娠中の異常等により入院する必要がある場合、または出産日から8日以上経過しても入院を要する場合\n\n1日あたり5,000円（上限250,000円）\n\n交通費\n島外医療機関に入院するために要する交通費\n\n10,000円（船賃相当分）\n\n宿泊料\n島外医療機関入院に伴い、有料宿泊施設に宿泊する必要がある場合\n\n1泊6,000円（1泊6,000円以下の場合は実費とする、要領収証）\n\n証明書発行手数料\n2,000円（2,001円以下の場合は実費とする）"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "※一度は大島医療センター産婦人科で健診を受けてください。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "大島医療センターの医師の判断により、島外医療機関で出産しなければならない者、かつ医師から証明書の交付を受けた者\n\n※一度は大島医療センター産婦人科で健診を受けてください。"
+  },
+  "updateDate": "2015-11-26",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "平日の午前8時30分から午後5時15分まで",
+    "fromHM": "08:30",
+    "toHM": "17:15"
+  }
+}

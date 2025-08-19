@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保育課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+1+UM96"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保育課",
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "私立幼稚園の詳細につきましては、各幼稚園にお問い合わせください。\n\nなお、幼児教育・保育の無償化の実施にあたり、「預かり保育事業が一定の基準を満たす施設」に通園している場合、認可外保育施設等の利用料は無償化の対象外となります。\n\n|幼稚園名|所在地|電話番号|施設種類|施設の確認年月日|預かり保育が一定の基準を満たす施設|\n|:----|:----|:----|:----|:----|:----|\n|愛心幼稚園|目白5-7-6|3951-4047|幼稚園|令和元年9月6日|ー|\n|池袋いづみ幼稚園|池袋4-2-10|3982-0026|幼稚園|令和元年9月6日|ー|\n|学習院幼稚園|目白1-5-1|5992-9243|幼稚園|令和元年9月6日|ー|\n|要町幼稚園|要町1-43-15|3957-6450|認定こども園|令和元年9月6日|○|\n|川村幼稚園|目白2-20-24|3984-8321|幼稚園|令和元年9月6日|ー|\n|こざくら幼稚園|池袋本町4-22-4|3971-9818|幼稚園|令和元年9月6日|○|\n|白鳩幼稚園|巣鴨4-16-5|3918-4015|幼稚園|令和元年9月6日|ー|\n|聖パトリック幼稚園|長崎1-28-22|3955-2322|幼稚園|令和元年9月6日|○|\n|草苑幼稚園|目白3-17-11|3953-1401|幼稚園|令和元年9月6日|○|\n|雑司ヶ谷幼稚園|雑司が谷1-25-1|3987-3537|幼稚園|令和元年9月6日|○|\n|東京音楽大学付属幼稚園|南池袋3-4-5|3982-3130|幼稚園|令和元年9月6日|○|\n|長崎幼稚園|長崎4-36-1|3957-2959|幼稚園|令和元年9月6日|ー|\n|並木幼稚園|長崎1-8-1|3957-0554|幼稚園|令和元年9月6日|ー|\n|豊南幼稚園|高松3-6-7|3959-5511|幼稚園|令和元年9月6日|ー|\n|目白幼稚園|目白2-38-4|3983-2282|幼稚園|令和元年9月6日|○|\n|もみじ幼稚園|駒込4-11-1|3917-7785|幼稚園|令和元年9月6日|ー|",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "私学助成（従来制度）の幼稚園一覧",
+    "shortName": "なし"
+  },
+  "localGovernmentLink": {
+    "title": "私立幼稚園一覧",
+    "uri": "https://www.city.toshima.lg.jp/262/kosodate/gakko/yochien/shiritsu/031060/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "幼稚園には公立の幼稚園と私立の幼稚園があります。\n私立幼稚園には、新制度による給付を受ける幼稚園と、新制度には移行せず、私学助成を受けて運営している幼稚園があります。\n以下は、豊島区内の私学助成を受ける幼稚園の一覧です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

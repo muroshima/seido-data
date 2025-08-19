@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132152;国立市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子育て支援課 子ども保健・発達支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132152",
+    "psid": "psid3.0+1000020132152+1+UM13"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "国立市富士見台3-16-5(保健センター内)",
+    "contactComment": "ファクス：042-574-3930",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 子育て支援課 子ども保健・発達支援係",
+    "contactPhone": "042-574-3311",
+    "contactUrl": "https://www.city.kunitachi.tokyo.jp/cgi-bin/inquiry.php/54?page_no=2082",
+    "zipCode": "1860003"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "新生児訪問\n母と子の保健バッグに入っている出生通知票(A4サイズ用紙)をもとに保健師、助産師が家庭訪問を実施しています。また、訪問時に国立市子育て世帯伴走型支援事業(国立市みらい応援給付金事業); https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec04/gyomu/0248/0130/8884.htmlの申請も受け付けています。赤ちゃんが生まれたら早めに出生通知票を返信用封筒に入れ返信して下さい。転入の方で国立市の出生通知票をお持ちでない方は下記お問い合わせ先までご連絡ください。\n\n対象\n生後60日までの赤ちゃんと保護者(過ぎても対応可能です)\n\n訪問内容\n保健師・助産師が訪問し、子育ての不安や悩みをお聞きし、子育て支援に関する情報提供等を行うとともに、楽しい子育てができるよう育児や産後の生活などの相談をお受けいたします。\n\n(具体的内容)\n\n赤ちゃんの体重測定、発育チェックや相談\n授乳やミルクなどの保育について\nお母さんの体調・生活の相談\n最近、市の新生児訪問を装った、訪問販売等が見受けられますので、ご注意ください。国立市では、 出生通知票をもとに保健師、助産師が家庭訪問をし、体重測定や育児の相談をおこなっています。訪問する際は、「訪問日時のお約束」と「IDカードの提示」があります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "新生児訪問",
+    "shortName": "新生児訪問"
+  },
+  "localGovernmentLink": {
+    "title": "新生児訪問",
+    "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec04/gyomu/0248/0129/1461061739672.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "国立市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "母と子の保健バッグに入っている出生通知票(A4サイズ用紙)をもとに保健師、助産師が家庭訪問を実施しています。また、訪問時に国立市子育て世帯伴走型支援事業(国立市みらい応援給付金事業); https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec04/gyomu/0248/0130/8884.htmlの申請も受け付けています。赤ちゃんが生まれたら早めに出生通知票を返信用封筒に入れ返信して下さい。転入の方で国立市の出生通知票をお持ちでない方は下記お問い合わせ先までご連絡ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第11条（新生児の訪問指導）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "国立市子育て世帯伴走型支援事業(国立市みらい応援給付金事業)",
+      "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec04/gyomu/0248/0130/8884.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "新生児を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、健康や育児に関する相談などを行います。",
+  "support": {
+    "description": "保健師・助産師が訪問し、子育ての不安や悩みをお聞きし、子育て支援に関する情報提供等を行うとともに、楽しい子育てができるよう育児や産後の生活などの相談をお受けいたします。\n\n(具体的内容)\n\n・赤ちゃんの体重測定、発育チェックや相談\n・授乳やミルクなどの保育について\n・お母さんの体調・生活の相談\n最近、市の新生児訪問を装った、訪問販売等が見受けられますので、ご注意ください。国立市では、 出生通知票をもとに保健師、助産師が家庭訪問をし、体重測定や育児の相談をおこなっています。訪問する際は、「訪問日時のお約束」と「IDカードの提示」があります。",
+    "materiallySupport": "保健師・助産師が訪問し、子育ての不安や悩みをお聞きし、子育て支援に関する情報提供等を行うとともに、楽しい子育てができるよう育児や産後の生活などの相談をお受けいたします。\n\n(具体的内容)\n\n赤ちゃんの体重測定、発育チェックや相談\n授乳やミルクなどの保育について\nお母さんの体調・生活の相談",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後60日までの赤ちゃん",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生後60日までの赤ちゃんと保護者(過ぎても対応可能です)"
+  },
+  "updateDate": "2023-06-30",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

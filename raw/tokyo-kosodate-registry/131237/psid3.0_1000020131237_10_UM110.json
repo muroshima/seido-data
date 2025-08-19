@@ -1,0 +1,119 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": null,
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+10+UM110"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部福祉推進課;https://www.city.edogawa.tokyo.jp/e039/kuseijoho/gaiyo/soshiki/fukushi/fukushi.html",
+    "contactPhone": null,
+    "contactUrl": "https://faq.city.edogawa.tokyo.jp/cgi-bin/faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "なごみの家の3つの機能\n1 なんでも相談\n世代や分野を問わず相談を受け止め、専門機関や地域の皆さまと連携して解決への支援を行います。身近な窓口として、どんな些細なことでもご相談いただけます。\n\n2 誰でも集える交流の場\n誰でも気軽に立ち寄り交流のできる場を提供します。気軽にふらっとお立ち寄りください。\n3 地域のネットワークづくり\n町会・自治会や民生・児童委員等の地域住民、医療関係者、熟年相談室等の福祉関係者、警察・消防等による顔の見える関係づくりを進め、地域課題の把握・解決を図ります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "月曜（祝日・休日の場合は火曜も休館）、祝日・休日（土曜・日曜の場合は開館）、年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "なごみの家"
+  },
+  "institutionName": {
+    "canonicalName": "子育て支援拠点・地域子育て支援センター",
+    "shortName": "なごみの家"
+  },
+  "localGovernmentLink": {
+    "title": "なごみの家",
+    "uri": "https://www.city.edogawa.tokyo.jp/e039/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/fukushi/nagominoie.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-19",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "誰もが集える地域の拠点として、子育て中の親子も気軽に集い、相互交流や子育ての不安・悩みを相談できる場を提供しています。また、地域の子育て関連情報の提供や、子育て支援に関する講習なども実施しています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": null,
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": null
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "地域の皆さん"
+  },
+  "updateDate": "2022-09-14",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": "09:00",
+    "toHM": "17:30"
+  }
+}

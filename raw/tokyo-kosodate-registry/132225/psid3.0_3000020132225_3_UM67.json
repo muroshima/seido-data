@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132225;東久留米市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉保健部　障害福祉課　管理係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132225",
+    "psid": "psid3.0+3000020132225+3+UM67"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都東久留米市本町3-3-1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉保健部　障害福祉課　管理係",
+    "contactPhone": "042-470-7747",
+    "contactUrl": "https://www.city.higashikurume.lg.jp/kurashi/fukushi/shogai/1000438.html",
+    "zipCode": "2038555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "対象\n身体障害者手帳1級・2級（内部障害は3級）、愛の手帳1度・2度、東京都医療費助成制度により助成を受けている難病の方の一部で、在宅の方（ガソリン費助成との供給不可）。\n内容\nタクシー代として半年で10,000円まで助成（所得制限等あり）。\n問い合わせ\n障害福祉課　電話：042-470-7747",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の障がいのあるお子さんなどへの金銭的支援",
+    "shortName": "タクシー費の助成（福祉タクシー事業）"
+  },
+  "localGovernmentLink": {
+    "title": "交通の支援",
+    "uri": "https://www.city.higashikurume.lg.jp/kurashi/fukushi/shogai/1000438.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "東久留米市"
+  },
+  "procedureCounter": "障害福祉課　電話：042-470-7747",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "窓口へご相談ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "要綱全体で制度を規定しています。",
+    "regulationName": "東久留米市福祉タクシー等事業実施要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "身体障害者手帳1級・2級（内部障害は3級）、愛の手帳1度・2度、東京都医療費助成制度により助成を受けている難病の方の一部で、在宅の方（ガソリン費助成との供給不可）にタクシー代として半年で10,000円まで助成しています（所得制限等あり）。",
+  "support": {
+    "description": "タクシー代として半年で10,000円まで助成（所得制限等あり）。",
+    "materiallySupport": null,
+    "monetarySupport": "タクシー代として半年で10,000円まで助成（所得制限等あり）。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "身体障害者手帳1級・2級（内部障害は3級）、愛の手帳1度・2度、東京都医療費助成制度により助成を受けている難病の方の一部で、在宅の方（ガソリン費助成との供給不可）。"
+  },
+  "updateDate": "2017-07-13",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

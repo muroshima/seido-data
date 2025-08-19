@@ -1,0 +1,130 @@
+{
+  "area": {
+    "areaCode": "131105;目黒区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": null,
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131105",
+    "psid": "psid3.0+1000020131105+1+UM45"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都目黒区上目黒二丁目19番15号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": "03-3715-1111",
+    "contactUrl": null,
+    "zipCode": "1538573"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "休日診療所・救急医療機関\n救急医療機関;https://www.city.meguro.tokyo.jp/kenkousuishin/shisetsu/hokenfukushi/iryo.html\n鷹番休日診療所;https://www.city.meguro.tokyo.jp/kenkousuishin/shisetsu/hokenfukushi/kyukyutakaban.html\n所在地　目黒区鷹番二丁目6番10号 電話　03-3716-5311診療受付時間　休日の9時から11時30分と13時から21時30分、土曜の17時から21時30分\n中目黒休日診療所;https://www.city.meguro.tokyo.jp/kenkousuishin/shisetsu/hokenfukushi/nakameguro.html\n所在地　目黒区上目黒二丁目19番15号（目黒区役所総合庁舎内）電話　03-5721-6110診療受付時間　休日の9時から11時30分と13時から16時30分\n八雲休日診療所;https://www.city.meguro.tokyo.jp/kenkousuishin/shisetsu/hokenfukushi/yakumo_kyujitsu.html\n所在地　目黒区八雲一丁目1番8号（めぐろ区民キャンパス内）電話　03-5701-2492診療受付時間　休日9時から11時30分と13時から16時30分（インフルエンザ流行期の11月から翌年2月までのみ開所）\n八雲あいアイ館歯科診療所;https://www.city.meguro.tokyo.jp/shougaishisaku/shisetsu/hokenfukushi/aiais.html\n一般の歯科医療機関では対応が困難な障害のある方たちに歯科診療及び口腔保健指導を行っています。目黒区八雲一丁目1番8号　めぐろ区民キャンパス内電話　03-5701-2495\n関連ページ\n休日・土曜準夜間の調剤案内;https://www.city.meguro.tokyo.jp/kenkousuishin/bousaianzen/kyuukyuu/yakan_chozai.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "救急医療機関;https://www.city.meguro.tokyo.jp/kenkousuishin/shisetsu/hokenfukushi/iryo.html,鷹番休日診療所;https://www.city.meguro.tokyo.jp/kenkousuishin/shisetsu/hokenfukushi/kyukyutakaban.html,中目黒休日診療所;https://www.city.meguro.tokyo.jp/kenkousuishin/shisetsu/hokenfukushi/nakameguro.html,八雲休日診療所;https://www.city.meguro.tokyo.jp/kenkousuishin/shisetsu/hokenfukushi/yakumo_kyujitsu.html,八雲あいアイ館歯科診療所;https://www.city.meguro.tokyo.jp/shougaishisaku/shisetsu/hokenfukushi/aiais.html",
+    "implementationName": "救急医療機関;https://www.city.meguro.tokyo.jp/kenkousuishin/shisetsu/hokenfukushi/iryo.html,鷹番休日診療所;https://www.city.meguro.tokyo.jp/kenkousuishin/shisetsu/hokenfukushi/kyukyutakaban.html,中目黒休日診療所;https://www.city.meguro.tokyo.jp/kenkousuishin/shisetsu/hokenfukushi/nakameguro.html,八雲休日診療所;https://www.city.meguro.tokyo.jp/kenkousuishin/shisetsu/hokenfukushi/yakumo_kyujitsu.html,八雲あいアイ館歯科診療所;https://www.city.meguro.tokyo.jp/shougaishisaku/shisetsu/hokenfukushi/aiais.html"
+  },
+  "institutionName": {
+    "canonicalName": "夜間・休日急病診療所",
+    "shortName": "休日診療所・救急医療機関"
+  },
+  "localGovernmentLink": {
+    "title": "休日診療所・救急医療機関",
+    "uri": "https://www.city.meguro.tokyo.jp/shisetsu/genre/hokenfukushi/kyukyu/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "目黒区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "休日・土曜準夜間の調剤案内",
+      "uri": "https://www.city.meguro.tokyo.jp/kenkousuishin/bousaianzen/kyuukyuu/yakan_chozai.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "目黒区では、夜間や日曜・祝日、年末年始に、目黒区医師会の協力のもと、当番制で診療を行っています。\nなお、小児のお子さんの救急の時は、小児科救急当番医をご利用ください。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

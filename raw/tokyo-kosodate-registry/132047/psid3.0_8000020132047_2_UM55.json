@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "132047;三鷹市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部 健康推進課 予防接種係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132047",
+    "psid": "psid3.0+8000020132047+2+UM55"
+  },
+  "belongings": "予診票と母子健康手帳等",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三鷹市新川六丁目37番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康福祉部 健康推進課 予防接種係",
+    "contactPhone": "0422-24-8050",
+    "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kenkou/index.html",
+    "zipCode": "1810004"
+  },
+  "cost": "3000",
+  "costConditions": "3,000円（3,000円を超える部分を市が負担します）\n\n生活保護受給世帯・中国残留邦人等支援給付受給世帯のかたは\n生活福祉課（市役所2階21番窓口）で担当ケースワーカーより保護受給等証明書の交付を受け、接種当日に医療機関へご提出いただくと、自己負担額が免除されます。",
+  "description": "【1歳台のお子さんが対象】\nおたふくかぜ任意接種の一部費用助成を行っています\n任意接種であるおたふくかぜワクチンについて、以下の内容で一部費用助成を行っています。接種を希望するかたは、市内協力医療機関へ直接お申込みください。\n\n個別に予診票の送付は行っておりません。\n\n対象者\n接種日時点で、1歳以上2歳未満のお子さん\n\n注意事項\nすでにおたふくかぜにかかったことのあるお子さんは接種の対象にはなりません。\n自己負担額\n3,000円（3,000円を超える部分を市が負担します）\n\n生活保護受給世帯・中国残留邦人等支援給付受給世帯のかたは\n生活福祉課（市役所2階21番窓口）で担当ケースワーカーより保護受給等証明書の交付を受け、接種当日に医療機関へご提出いただくと、自己負担額が免除されます。\n助成回数\n1回\n\n接種場所\nページ下部の添付ファイル「令和7年度　三鷹市おたふくかぜ任意接種一部費用助成協力医療機関一覧」をご覧ください。\n\n注意事項\n三鷹市内の協力医療機関以外での接種は、助成対象外です（全額自己負担となり、償還払いはありません）。\n申し込み方法\n直接、市内協力医療機関へお申込みください。三鷹市へのご連絡は不要です。\n\n予診票は、協力医療機関の窓口にてお受け取りください。\n\n持ち物\n・母子健康手帳（接種の記録をするほか、他の予防接種との接種間隔などを確認するために必ずお持ちください）\n・マイナンバーカードなど（三鷹市民であることの確認をします）\n受けるに当たってのご注意\n医療機関では予診票のほか、「おたふくかぜワクチン（任意接種）を接種されるかたへ」もお渡しします。事前にお読みいただき、予防接種の必要性や副反応について十分理解し納得したうえで、接種を受けてください。\nおたふくかぜ予防接種は予防接種法で定めのない任意接種です。接種後、健康被害が生じた場合は、その程度により市が加入する予防接種事故賠償補償保険により補償を行います。また独立行政法人医薬品医療機器総合機構（PMDA）が実施する「医薬品副作用被害救済制度」により治療費等一定の給付が受けられる場合があります（予防接種法による救済制度とは異なります）。\n医薬品医療機器総合機構ホームページの「医薬品副作用被害救済制度について（外部リンク）;https://www.pmda.go.jp/relief-services/adr-sufferers/0001.html」をご確認ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "ページ下部の添付ファイル「令和7年度　三鷹市おたふくかぜ任意接種一部費用助成協力医療機関一覧」をご覧ください。\n\n注意事項\n三鷹市内の協力医療機関以外での接種は、助成対象外です（全額自己負担となり、償還払いはありません）。"
+  },
+  "institutionName": {
+    "canonicalName": "任意予防接種",
+    "shortName": "おたふくかぜ任意接種費用の一部を助成"
+  },
+  "localGovernmentLink": {
+    "title": "おたふくかぜ任意接種費用の一部を助成します",
+    "uri": "https://www.city.mitaka.lg.jp/c_service/095/095874.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "三鷹市"
+  },
+  "procedureCounter": "協力医療機関、健康推進課予防接種係（0422-24-8050）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "接種を希望されるかたは、健康推進課予防接種係（0422-24-8050）までご連絡ください。",
+  "procedurePeriod": {
+    "conditions": "接種日時点で、1歳以上2歳未満のお子さん（おたふくかぜの罹患歴のない方に限る）",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "医薬品副作用被害救済制度について（外部リンク）",
+      "uri": "https://www.pmda.go.jp/relief-services/adr-sufferers/0001.html"
+    },
+    {
+      "title": "令和6年度三鷹市おたふくかぜ任意接種協力医療機関一覧（PDF 90KB）",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/095/attached/attach_95874_1.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。\nこのうち三鷹市では、次の任意予防接種に対して、市で定める対象年齢や接種場所で接種する場合は、接種費用を助成しています。接種するかどうかについては、かかりつけ医とご相談のうえ、保護者の判断により決めてください。",
+  "support": {
+    "description": "3,000円（3,000円を超える部分を市が負担します）\n\n生活保護受給世帯・中国残留邦人等支援給付受給世帯のかたは\n生活福祉課（市役所2階21番窓口）で担当ケースワーカーより保護受給等証明書の交付を受け、接種当日に医療機関へご提出いただくと、自己負担額が免除されます。",
+    "materiallySupport": null,
+    "monetarySupport": "3,000円（3,000円を超える部分を市が負担します）\n\n生活保護受給世帯・中国残留邦人等支援給付受給世帯のかたは\n生活福祉課（市役所2階21番窓口）で担当ケースワーカーより保護受給等証明書の交付を受け、接種当日に医療機関へご提出いただくと、自己負担額が免除されます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "接種日時点で、1歳以上2歳未満のお子さん（おたふくかぜの罹患歴のない方に限る）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "接種日時点で、1歳以上2歳未満のお子さん（おたふくかぜの罹患歴のない方に限る）"
+  },
+  "updateDate": "2023-09-20",
+  "useConsiderationFlag": false,
+  "utilization": "接種を希望される方は、医療機関または健康推進課予防接種係（0422-24-8050）までご連絡ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

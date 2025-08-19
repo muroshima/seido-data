@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "130001;東京都",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健医療局健康安全部 環境保健衛生課 環境保健担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020130001",
+    "psid": "psid3.0+8000020130001+1+UM66"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康安全部 環境保健衛生課 環境保健担当",
+    "contactPhone": "03-5320-4491",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "大気汚染医療費助成制度の概要\n東京都では、都独自の制度として、大気汚染の影響を受けると推定される疾病（気管支ぜん息等）にかかった方に対し、一定の要件を満たす場合に、医療費の助成をしています。\n\n対象となる方\n以下の1から5までの全てを満たしている方が対象です。\n1　18歳未満の方（18歳の誕生日が属する月の末日までの間にある方を含む。）\n※18歳以上の方（上記に該当しない方）の新規申請の受付は、平成27年3月31日までで終了しました。\n　　現在認定を受けて有効な医療券をお持ちの方で、生年月日が平成9年4月1日以前の方は、更新申請のみ可能です。\n2　以下のいずれかにり患している方\n　(1)気管支ぜん息\n　(2)慢性気管支炎\n　(3)ぜん息性気管支炎\n　(4)肺気しゅ\n　(5)(1)~(4)の続発症\n3　東京都内に引き続き1年（3歳未満は6か月）以上住所を有する方（東京都内に住民登録をしている必要があります。）\n4　健康保険等に加入されている方\n5　申請日以降喫煙しない方\n\n助成の内容\n医療券の有効期間内に、医療券に記載された疾病の治療に要した医療費のうち、保険適用後の自己負担額を助成します。\n\n※他の法令等の規定により給付が行われる場合は、その額を控除した後の自己負担額を助成します。\n　\n助成の内容についての詳細はこちら;https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/taiki/iryouhi/naiyou.htmlを御覧ください。\n\n助成の期間\n区市町村の担当窓口が申請書を受理した日から起算して\n（1）2年を経過した日以降の直近の誕生日の属する月の末日まで\n（2）18歳の誕生日の属する月の末日まで\nのいずれか短い方となります。\n　\n　なお、助成期間満了後も引き続き助成を希望される場合、更新申請をすることができます（※）。更新申請の詳細はこちら;を御覧ください。\n\n※有効期間が18歳の誕生日の属する月の末日までの医療券をお持ちの方は、以後の更新はできません。\n\n申請手続\n申請に必要な書類等、申請手続についてはこちら;https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/taiki/iryouhi/shinki.htmlを御覧ください。\n\n申請書類の配布・申請の受付場所\n　　申請書類の配布や申請の受付は、お住まいの区市町村の担当窓口で行っています。\n　　申請書類の配布・申請の受付場所の詳細はこちら;https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/taiki/iryouhi/toiawase/index.htmlをご覧ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "助成の期間\n区市町村の担当窓口が申請書を受理した日から起算して\n（1）2年を経過した日以降の直近の誕生日の属する月の末日まで\n（2）18歳の誕生日の属する月の末日まで\nのいずれか短い方となります。\n　\n　なお、助成期間満了後も引き続き助成を希望される場合、更新申請をすることができます（※）。更新申請の詳細はこちら;https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/taiki/iryouhi/koushin.htmlを御覧ください。\n\n※有効期間が18歳の誕生日の属する月の末日までの医療券をお持ちの方は、以後の更新はできません。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の医療費助成制度（ぜん息など）",
+    "shortName": "大気汚染医療費助成制度"
+  },
+  "localGovernmentLink": {
+    "title": "大気汚染医療費助成制度の概要",
+    "uri": "https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/taiki/iryouhi/t_gaiyou.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-11-05",
+    "updater": "東京都"
+  },
+  "procedureCounter": "申請書類の配布・申請の受付場所\n　　申請書類の配布や申請の受付は、お住まいの区市町村の担当窓口で行っています。\n　　申請書類の配布・申請の受付場所の詳細はこちら;https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/taiki/iryouhi/toiawase/index.htmlをご覧ください。",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請手続\n申請に必要な書類等、申請手続についてはこちら;https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/taiki/iryouhi/shinki.htmlを御覧ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "助成の内容についての詳細はこちら",
+      "uri": "https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/taiki/iryouhi/naiyou.html"
+    },
+    {
+      "title": "更新申請の詳細はこちら",
+      "uri": "https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/taiki/iryouhi/koushin.html"
+    },
+    {
+      "title": "申請書類の配布・申請の受付場所の詳細はこちら",
+      "uri": "https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/taiki/iryouhi/toiawase/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "大気汚染の影響を受けると推定される疾病（気管支ぜん息など）にかかった方に対し、一定の要件を満たす場合に、医療費の助成をしています。",
+  "support": {
+    "description": "東京都では、都独自の制度として、大気汚染の影響を受けると推定される疾病（気管支ぜん息等）にかかった方に対し、一定の要件を満たす場合に、医療費の助成をしています。\n助成の内容\n医療券の有効期間内に、医療券に記載された疾病の治療に要した医療費のうち、保険適用後の自己負担額を助成します。\n\n※他の法令等の規定により給付が行われる場合は、その額を控除した後の自己負担額を助成します。\n　\n助成の内容についての詳細はこちら;https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/taiki/iryouhi/naiyou.htmlを御覧ください。",
+    "materiallySupport": null,
+    "monetarySupport": "東京都では、都独自の制度として、大気汚染の影響を受けると推定される疾病（気管支ぜん息等）にかかった方に対し、一定の要件を満たす場合に、医療費の助成をしています。\n助成の内容\n医療券の有効期間内に、医療券に記載された疾病の治療に要した医療費のうち、保険適用後の自己負担額を助成します。\n\n※他の法令等の規定により給付が行われる場合は、その額を控除した後の自己負担額を助成します。\n　\n助成の内容についての詳細はこちら;https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/taiki/iryouhi/naiyou.htmlを御覧ください。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "078"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "18歳未満の方（18歳の誕生日が属する月の末日までの間にある方を含む。）\n※18歳以上の方（上記に該当しない方）の新規申請の受付は、平成27年3月31日までで終了しました。\n　　現在認定を受けて有効な医療券をお持ちの方で、生年月日が平成9年4月1日以前の方は、更新申請のみ可能です。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象となる方\n以下の1から5までの全てを満たしている方が対象です。\n1　18歳未満の方（18歳の誕生日が属する月の末日までの間にある方を含む。）\n※18歳以上の方（上記に該当しない方）の新規申請の受付は、平成27年3月31日までで終了しました。\n　　現在認定を受けて有効な医療券をお持ちの方で、生年月日が平成9年4月1日以前の方は、更新申請のみ可能です。\n2　以下のいずれかにり患している方\n　(1)気管支ぜん息\n　(2)慢性気管支炎\n　(3)ぜん息性気管支炎\n　(4)肺気しゅ\n　(5)(1)~(4)の続発症\n3　東京都内に引き続き1年（3歳未満は6か月）以上住所を有する方（東京都内に住民登録をしている必要があります。）\n4　健康保険等に加入されている方\n5　申請日以降喫煙しない方"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

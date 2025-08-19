@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132101;小金井市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センター母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132101",
+    "psid": "psid3.0+3000020132101+1+UM8"
+  },
+  "belongings": "個別健診のご案内、妊婦歯科個別健康診査票、母子健康手帳、健康保険証",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小金井市貫井北町5丁目18番18号　保健センター",
+    "contactComment": null,
+    "contactEmail": "s050899(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+    "contactEx": null,
+    "contactName": "こども家庭センター母子保健係",
+    "contactPhone": "042-321-6296",
+    "contactUrl": null,
+    "zipCode": "1840015"
+  },
+  "cost": null,
+  "costConditions": "無料\n注：妊婦歯科健康診査で定められた検査内容以外の検査及び処置・治療・クリーニング等を行った場合は費用（自己負担）が発生します。",
+  "description": "妊婦歯科健康診査\n更新日：2024年4月1日\n\n妊娠期は、歯周疾患やう蝕を発症・り患しやすい時期でもあります。妊婦を対象に、口腔疾患の早期発見・早期治療及び予防を目的とし実施しています。妊娠届出書を提出した方にお渡しする「母と子の保健バッグ」に妊婦歯科健康診査の個別健診のご案内と市内委託医療機関の一覧表（ご案内の裏）を同封しています。\n\n対象\n小金井市に住民登録のある妊婦（概ね妊娠16週から27週）\n\n費用\n無料\n注：妊婦歯科健康診査で定められた検査内容以外の検査及び処置・治療・クリーニング等を行った場合は費用（自己負担）が発生します。\n\n検査内容\n問診、現在歯・喪失歯の状況、歯肉の状況、その他の所見、歯石の有無、口腔清掃状態、指導\n注：妊婦歯科健康診査は妊娠中1回に限ります。\n\n場所\n市内委託医療機関\n注：市内委託医療機関で受診のみ無料となります。\n\n 妊娠歯科健康診査市内委託医療機関（PDF：180KB）;https://www.city.koganei.lg.jp/kenkofukuhsi/kenkosodan/bosihokenjigyo/ninnpukennkousinnsa.files/ninpusikakensin.pdf\n\n受診方法\nご希望の市内委託医療機関へ各自で電話にて予約してください。受診時は、個別健診のご案内、妊婦歯科個別健康診査票、母子健康手帳、健康保険証を持参してください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊産婦の歯科健診",
+    "shortName": "妊婦歯科健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "妊婦歯科健康診査",
+    "uri": "https://www.city.koganei.lg.jp/smph/kenkofukuhsi/kenkosodan/bosihokenjigyo/ninnpukennkousinnsa.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "小金井市"
+  },
+  "procedureCounter": "ご希望の市内委託医療機関へ各自で電話にて予約してください。",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "場所\n市内委託医療機関\n注：市内委託医療機関で受診のみ無料となります。\n\n 妊娠歯科健康診査市内委託医療機関（PDF：180KB）;https://www.city.koganei.lg.jp/kenkofukuhsi/kenkosodan/bosihokenjigyo/ninnpukennkousinnsa.files/ninpusikakensin.pdf\n受診方法\nご希望の市内委託医療機関へ各自で電話にて予約してください。受診時は、個別健診のご案内、妊婦歯科個別健康診査票、母子健康手帳、健康保険証を持参してください。",
+  "procedurePeriod": {
+    "conditions": "概ね妊娠16週から27週",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠中や出産後は女性ホルモンの分泌の変化や食事回数の増加などから虫歯や歯周病になりやすく、進行しやすい時期です。こうした時期のお口の中の健康を維持するために、歯科健診をおすすめしています。健診には健康保険が適用されませんが、経済的負担を軽減するため、健診にかかる費用を助成しており、個別健診のご案内と市内委託医療機関の一覧表をお渡ししています。",
+  "support": {
+    "description": "検査内容\n問診、現在歯・喪失歯の状況、歯肉の状況、その他の所見、歯石の有無、口腔清掃状態、指導\n注：妊婦歯科健康診査は妊娠中1回に限ります。",
+    "materiallySupport": null,
+    "monetarySupport": "検査内容\n問診、現在歯・喪失歯の状況、歯肉の状況、その他の所見、歯石の有無、口腔清掃状態、指導\n注：妊婦歯科健康診査は妊娠中1回に限ります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "小金井市に住民登録のある妊婦（概ね妊娠16週から27週）"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "場所\n市内委託医療機関\n注：市内委託医療機関で受診のみ無料となります。\n\n 妊娠歯科健康診査市内委託医療機関（PDF：180KB）;https://www.city.koganei.lg.jp/kenkofukuhsi/kenkosodan/bosihokenjigyo/ninnpukennkousinnsa.files/ninpusikakensin.pdf\n受診方法\nご希望の市内委託医療機関へ各自で電話にて予約してください。受診時は、個別健診のご案内、妊婦歯科個別健康診査票、母子健康手帳、健康保険証を持参してください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

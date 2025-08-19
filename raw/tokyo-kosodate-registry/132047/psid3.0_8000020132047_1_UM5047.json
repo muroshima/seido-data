@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132047;三鷹市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども政策部 保育支援課 保育支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132047",
+    "psid": "psid3.0+8000020132047+1+UM5047"
+  },
+  "belongings": "入園申込みに必要な書類一式については、子ども育成課(0422-29-9673)、\n\n申込児童に関する意見書、心身状況書の申込書類や入園に関する相談は、\n\n保育支援課(0422-24-9258)にお問い合わせください。",
+  "capacity": "指定園（入園可能な園・クラス）により若干名",
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三鷹市野崎一丁目1番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども政策部 保育支援課 保育支援係",
+    "contactPhone": "0422-24-9258",
+    "contactUrl": null,
+    "zipCode": "1818555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "障がいや発達に課題のあるお子さんの保育（ケアプラス保育）\n作成・発信部署：\n\n公開日：2022年3月3日\n\nケアプラス保育とは\n三鷹市では、障がいや医療的ケアが必要であるなど特別な配慮を必要とするお子さんの保育の名称をケアプラス保育としています。丁寧な関り（ケア）をプラスしてお子さんの発達を促し興味関心を広げます。\n\nお子さんの発達状況や個性をふまえながら、クラス集団の中でお子さんの成長を支援できるように、保育士等を配置しクラス担当との連携のもと、保育を行います。\n\n障がいがあるお子さん\n0歳児～就学前の児童\n注意事項\n入園後は、年度ごとに更新のための確認を行います。\n受け入れ園・人数\n入園可能な園・クラスは年度によって異なりますので、保育支援課にお問い合わせください。\n\n保育時間\n障がいがあるお子さん\n各園の開所時間（11時間）の中で必要な時間\n\n医療的ケアが必要なお子さん\n\n注意事項\n障がい児・医療的ケア児ともに、延長保育は実施していません。\n申込みについて",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "保育所等における医療的ケア児への支援",
+    "shortName": "ケアプラス保育"
+  },
+  "localGovernmentLink": {
+    "title": "障がいや発達に課題のあるお子さんの保育（ケアプラス保育）",
+    "uri": "https://www.city.mitaka.lg.jp/c_service/095/095791.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/25",
+    "updater": "三鷹市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "ケアプラス保育の入所申込みは、例年10月頃を予定しています。時期が近づきましたら受付期間、申込み手続き等については、別途、ご案内いたします。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条第1項",
+    "regulationName": "医療的ケア児及びその家族に対する支援に関する法律"
+  },
+  "relatedLink": [
+    {
+      "title": "子ども政策部 保育支援課",
+      "uri": "https://www.city.mitaka.lg.jp/c_sections/hoikushien/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育所等において訪問看護師等を配置し、医療的ケア児の受入れ体制を整備しております。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "1歳児～就学前児童",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "ケアプラス保育の対象\n保護者の「保育を必要とする事由」（保護者の就労等）があるかた\n特別な配慮を必要とし、障がいの程度は概ね中・軽度で集団生活が可能なお子さん,医療的ケアが必要なお子さん\n1歳児～就学前児童\n日常的な医療的ケアが確立し、状態の安定した児童"
+  },
+  "updateDate": "2024/10/06",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "平日8時30分から17時の中で必要な時間（基本8時間まで）",
+    "fromHM": "08:30",
+    "toHM": "17:00"
+  }
+}

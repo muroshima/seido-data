@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131172;北区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部保健サービス課保健サービス係,健康部保健サービス課王子健康支援センター,健康部保健サービス課赤羽健康支援センター,健康部保健サービス課滝野川健康支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131172",
+    "psid": "psid3.0+8000020131172+1+UM22"
+  },
+  "belongings": "[1]母子健康手帳\n\n[2]妊娠判定時の領収書・診療明細書（原本）\n\n[3]印鑑（シャチハタ不可）\n\n[4]振込口座のわかるもの（通帳等。旧姓の口座は振込不可）\n\n[5]世帯員の区市町村民税非課税証明書",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都北区王子本町1-15-22　北区役所第一庁舎1階,東京都北区東十条2-7-3　北区保健所1階,東京都北区赤羽南1-13-1　赤羽会館6階,東京都北区西ヶ原1-19-12",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部保健サービス課保健サービス係,健康部保健サービス課王子健康支援センター,健康部保健サービス課赤羽健康支援センター,健康部保健サービス課滝野川健康支援センター",
+    "contactPhone": "03-3908-7050,03-3919-7588,03-3903-6481,03-3915-0184",
+    "contactUrl": null,
+    "zipCode": "1148508,1140001,1150044,1140024"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊娠中の方へ（初回産科受診料助成金）\n北区では、低所得の方が母子手帳取得前に産科を受診した費用を実費に応じて助成します。（上限額あり）\n\n助成対象となる方（以下の全てを満たすこと）\n○住民税非課税世帯又は同等の所得水準の方。\n○受診日現在、北区に住民登録がある方。\n○令和5年4月1日以降に国内医療機関で受診していること。（海外での受診は対象外となります。）\n○はぴママたまご面接;https://www.city.kita.tokyo.jp/k-suishin/kosodate/ninshin/happymama.htmlを北区で受けた方。\n○所得判定のため、世帯の課税状況を確認することに同意いただいている方。\n○妊婦健診の受診医療機関等の関係機関と市町村が、必要に応じて、支援に必要な情報（妊婦健診の未受診・家庭の状況等を含む）を共有することに同意いただいている方。\n\n助成対象となる費用\n○母子手取得前に妊娠判定のため、初めて産科を受診した際の診断費用（自費）\n\n支給上限額\n○1回の妊娠につき10,000円まで\n\n申請方法\nはぴママ面接後に申請してください。申請書・請求書は健康支援センターまたは保健サービス課保健サービス係にあります。申請の際には以下の必要書類をご持参ください。\n[1]母子健康手帳\n[2]妊娠判定時の領収書・診療明細書（原本）\n[3]印鑑（シャチハタ不可）\n[4]振込口座のわかるもの（通帳等。旧姓の口座は振込不可）\n[5]世帯員の区市町村民税非課税証明書\n※住民税の賦課基準日である1月1日に北区に住民登録がある方は、非課税証明書が不要な場合があります。詳しくは北区役所保健サービス係または健康支援センターにお問い合わせください。\n※北区から転出して、北区役所申請窓口に来ることができない場合は、申請書類を郵送いたします。下記までご連絡ください。\n\n支払方法\n口座振替により支給します。\n申請から２ヶ月以内に、申請書にご記入いただいた住所へ交付決定通知書を送付します。\n交付決定通知送付後、2～3週間で請求書にご記入いただいた金融機関の口座へお振込みします。\n\n申請期限\nはぴママ面接を受けた日から1年以内です。\n※1年を経過してからの申請はできませんので、ご注意ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関する金銭的支援",
+    "shortName": "妊娠中の方へ（初回産科受診料助成金）"
+  },
+  "localGovernmentLink": {
+    "title": "妊娠中の方へ（初回産科受診料助成金）",
+    "uri": "https://www.city.kita.tokyo.jp/k-suishin/kosodate/ninshin/shokaisankajusin.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "北区"
+  },
+  "procedureCounter": "北区役所申請窓口",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "はぴママ面接後に申請してください。申請書・請求書は健康支援センターまたは保健サービス課保健サービス係にあります。\n\n※住民税の賦課基準日である1月1日に北区に住民登録がある方は、非課税証明書が不要な場合があります。詳しくは北区役所保健サービス係または健康支援センターにお問い合わせください。\n\n※北区から転出して、北区役所申請窓口に来ることができない場合は、申請書類を郵送いたします。",
+  "procedurePeriod": {
+    "conditions": "はぴママ面接を受けた日から1年以内です。\n\n※1年を経過してからの申請はできませんので、ご注意ください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "はぴママたまご面接",
+      "uri": "https://www.city.kita.tokyo.jp/k-suishin/kosodate/ninshin/happymama.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "北区では、低所得の方が母子手帳取得前に産科を受診した費用を実費に応じて助成します。（上限額あり）",
+  "support": {
+    "description": "助成対象となる費用\n○母子手取得前に妊娠判定のため、初めて産科を受診した際の診断費用（自費）\n\n支給上限額\n○1回の妊娠につき10,000円まで",
+    "materiallySupport": null,
+    "monetarySupport": "助成対象となる費用\n○母子手取得前に妊娠判定のため、初めて産科を受診した際の診断費用（自費）\n\n支給上限額\n○1回の妊娠につき10,000円まで"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "助成対象となる方（以下の全てを満たすこと）\n○住民税非課税世帯又は同等の所得水準の方。\n○受診日現在、北区に住民登録がある方。\n○令和5年4月1日以降に国内医療機関で受診していること。（海外での受診は対象外となります。）\n○はぴママたまご面接;https://www.city.kita.tokyo.jp/k-suishin/kosodate/ninshin/happymama.htmlを北区で受けた方。\n○所得判定のため、世帯の課税状況を確認することに同意いただいている方。\n○妊婦健診の受診医療機関等の関係機関と市町村が、必要に応じて、支援に必要な情報（妊婦健診の未受診・家庭の状況等を含む）を共有することに同意いただいている方。"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

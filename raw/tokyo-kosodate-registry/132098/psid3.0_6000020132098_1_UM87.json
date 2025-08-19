@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども生活部子育て推進課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+1+UM87"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "町田市原町田4-24-6 せりがや会館1階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "町田ファミリー・サポート・センター",
+    "contactPhone": "042-703-3990",
+    "contactUrl": null,
+    "zipCode": "1940013"
+  },
+  "cost": "・月曜日～金曜日（基本活動日）の午前7時～午後7時（基本活動時間）\n1時間当たり700円\n・上記以外の曜日・時間（早朝・夜間及び土曜日・日曜日・祝日等）\n1時間当たり900円\n・預かる子どもが、病気の回復期にある時\n1時間当たり900円",
+  "costConditions": "・最初の1時間までは、それに満たない場合でも1時間とみなします。\n・1時間を超える場合は、30分以内のときは半額とし、30分を超える1時間までは1時間とみなします。\n・同一世帯に属する複数の子どもを同時に預ける場合は、2人目から半額とします。\n・交通費（公共交通機関の料金）・食事代（ミルク等）・おやつ代・おむつ代等については、依頼会員が実費負担します。",
+  "description": "町田ファミリー・サポート・センターとは、会員同士がお互いに助けたり、助けられたりして育児の相互援助活動を行う組織です。子育ての手助けをしてほしいとき、子育てのお手伝いをしたいとき、町田ファミリー・サポート・センターの仲介を通して、会員同士が支え合います。\n保育園・幼稚園・学童保育等の開始前、終了後の預かりや送迎など、補助的なお手伝が主な援助内容となります。\n町田ファミリー・サポート・センター（事務局）では、会員登録や依頼会員と援助会員のマッチングなどの事務を担っています。事業についての説明も行いますので、お気軽にご連絡ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "月曜日～金曜日（基本活動日）の午前7時～午後7時（基本活動時間）\n上記以外の曜日・時間（早朝・夜間及び土曜日・日曜日・祝日等）",
+    "fromHM": "07:00",
+    "fromYMD": null,
+    "toHM": "19:00",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "ファミリー・サポート・センター",
+    "shortName": "ファミリー・サポート・センター事業"
+  },
+  "localGovernmentLink": {
+    "title": "ファミリー・サポート・センター事業について",
+    "uri": "https://kosodate-machida.tokyo.jp/mokuteki/4/12/2771.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": "町田ファミリー・サポート・センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "町田ファミリー・サポート・センター",
+      "uri": "https://machida-shakyo.or.jp/oshirase/a-famisapocenter.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ファミリー・サポート・センター事業は、子育ての手助けをしてほしい人（依頼会員）と、子育ての協力をしてくれる人（援助会員）とが会員となり、地域の中で子育ての相互援助活動を支援する事業です。本事業は町田市から委託を受けて社会福祉協議会が運営しています。",
+  "support": {
+    "description": "援助内容\n・保育園、幼稚園、学童保育等の開始前、終了後子どもを預かること\n・保育園、幼稚園、学童保育等の送迎を行うこと\n・保護者等の病気、急用時等に子どもを預かること\n・冠婚葬祭や買い物、文化活動等の時、子どもを預かること\n・その他子育てのための必要な援助",
+    "materiallySupport": "援助内容\n・保育園、幼稚園、学童保育等の開始前、終了後子どもを預かること\n・保育園、幼稚園、学童保育等の送迎を行うこと\n・保護者等の病気、急用時等に子どもを預かること\n・冠婚葬祭や買い物、文化活動等の時、子どもを預かること\n・その他子育てのための必要な援助",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": null,
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": null
+  },
+  "target": {
+    "conditions": "依頼会員：町田市内に在住、在勤または在学の人で、生後3ヶ月から12歳までの子どもを持つ人\n援助会委員：町田市内及び近隣に在住の人で、20歳以上の心身ともに健康で、積極的に援助活動を行うことができる人\n※援助会員の登録にあたっては、援助活動に必要な講習を受けていただきます。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 3
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 12,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "・依頼会員：町田市内に在住、在勤または在学の人で、生後3ヶ月から12歳までの子どもを持つ人\n・援助会員：町田市内及び近隣に在住の人で、20歳以上の心身ともに健康で、積極的に援助活動を行うことができる人\n援助会員の登録にあたっては、援助活動に必要な講習を受けていただきます。"
+  },
+  "updateDate": "2023-07-24",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

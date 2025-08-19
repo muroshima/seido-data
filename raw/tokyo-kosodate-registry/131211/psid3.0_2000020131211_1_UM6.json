@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131211;足立区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "衛生部保健予防課保健予防係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020131211",
+    "psid": "psid3.0+2000020131211+1+UM6"
+  },
+  "belongings": "妊娠届による受診票の交付\n妊娠届\n都外から転入された方の受診票交換\n母子健康手帳",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "衛生部保健予防課保健予防係",
+    "contactPhone": "03-3880-5892",
+    "contactUrl": "https://www.city.adachi.tokyo.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊婦健康診査\n事業の案内\n元気な赤ちゃんを産むためにはお母さんの健康を保つことが大切です。\n足立区では定期的な健康診査のうち妊娠確定後の妊婦健康診査、妊婦超音波検査および子宮頸がん検診の費用の一部を助成する制度を実施しています。\n\n対象となる方\n区内に住民登録のある妊婦の方\n\n事業の内容\n母子健康手帳交付の際に、妊婦健康診査受診票１４回分、妊婦超音波検査受診票4回分、子宮頸がん検診受診票１回分をお渡ししています。都内の委託医療機関にて利用できます。\n\nなお、妊婦超音波検査受診票については、令和６年４月１日より助成回数を２回から４回に拡充しました。令和５年８月１日以降に妊娠届出書または転入妊婦アンケートを提出された方（手持ちの受診票が２枚の方）につきましては、追加の受診票（３回目・４回目の２枚）を順次送付いたします。\n\n妊婦健康診査受診票\n助成対象検査項目\n\n1回目（水色）\n問診、体重測定、血圧測定、尿検査（糖、蛋白定性）、血液検査、血液型（ABO、Rh）、貧血、血糖、不規則抗体、HIV抗体（※）、梅毒、B型肝炎、C型肝炎、風疹\n\n2回目以降（黄色）\n毎回助成対象となる項目：問診、体重測定、血圧測定、尿検査、保健指導\n各回いずれか1項目に限り助成対象となる項目：クラミジア抗原、経膣超音波、HTLV-1抗体、血糖、貧血、B群溶連菌、NST（ノン・ストレス・テスト）\n妊婦超音波検査受診票\n主治医とご相談のうえ、妊婦健康診査受診票と一緒にご利用ください。\n\n妊婦子宮頸がん検診受診票\n妊娠初期の検査です。主治医とご相談のうえ、妊婦健康診査受診票と一緒にご利用ください。\n\n手続きの方法\n妊娠届による受診票の交付\n各保健センター、中央本町地域・保健総合支援課、保健予防課保健予防係、各区民事務所の窓口で妊娠届をしていただくことにより、母子健康手帳と併せて妊婦健康診査受診票、妊婦超音波検査受診票および子宮頸がん検診受診票を交付します。\n\n都外から転入された方の受診票交換\n都外から転入された方で、すでに前住所地で受診票の交付を受けている方には、今後の受診回数に応じた都内で使用できる受診票と交換いたします。母子健康手帳をご持参のうえ、各保健センター等・保健予防課保健予防係の窓口で申請してください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊婦健康診査",
+    "shortName": "妊婦健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "妊婦健康診査",
+    "uri": "https://www.city.adachi.tokyo.jp/hoken/k-kyoiku/kosodate/k-ninpu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "足立区"
+  },
+  "procedureCounter": "各保健センター、中央本町地域・保健総合支援課、保健予防課保健予防係、各区民事務所の窓口",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "妊娠届による受診票の交付\n各保健センター、中央本町地域・保健総合支援課、保健予防課保健予防係、各区民事務所の窓口で妊娠届をしていただくことにより、母子健康手帳と併せて妊婦健康診査受診票、妊婦超音波検査受診票および子宮頸がん検診受診票を交付します。\n\n都外から転入された方の受診票交換\n都外から転入された方で、すでに前住所地で受診票の交付を受けている方には、今後の受診回数に応じた都内で使用できる受診票と交換いたします。母子健康手帳をご持参のうえ、各保健センター等・保健予防課保健予防係の窓口で申請してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "区内に住民登録のある妊婦の方",
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊婦さんやお腹の赤ちゃんの健康状態を定期的に確認するのが妊婦健康診査です。妊婦さんの健康診査は、一般的に出産までに14回程度受診するのが望ましいとされています。しかし、妊娠は病気ではないため健康保険は適用されません。そこで、出産までの健診を受ける際の経済的な負担を軽くするため、妊婦健康診査費用の一部を助成する妊婦健康診査受診票をお渡ししています。",
+  "support": {
+    "description": "母子健康手帳交付の際に、妊婦健康診査受診票１４回分、妊婦超音波検査受診票4回分、子宮頸がん検診受診票１回分をお渡ししています。都内の委託医療機関にて利用できます。\n\nなお、妊婦超音波検査受診票については、令和６年４月１日より助成回数を２回から４回に拡充しました。令和５年８月１日以降に妊娠届出書または転入妊婦アンケートを提出された方（手持ちの受診票が２枚の方）につきましては、追加の受診票（３回目・４回目の２枚）を順次送付いたします。\n\n妊婦健康診査受診票\n助成対象検査項目\n\n1回目（水色）\n問診、体重測定、血圧測定、尿検査（糖、蛋白定性）、血液検査、血液型（ABO、Rh）、貧血、血糖、不規則抗体、HIV抗体（※）、梅毒、B型肝炎、C型肝炎、風疹\n\n2回目以降（黄色）\n毎回助成対象となる項目：問診、体重測定、血圧測定、尿検査、保健指導\n各回いずれか1項目に限り助成対象となる項目：クラミジア抗原、経膣超音波、HTLV-1抗体、血糖、貧血、B群溶連菌、NST（ノン・ストレス・テスト）\n妊婦超音波検査受診票\n主治医とご相談のうえ、妊婦健康診査受診票と一緒にご利用ください。\n\n妊婦子宮頸がん検診受診票\n妊娠初期の検査です。主治医とご相談のうえ、妊婦健康診査受診票と一緒にご利用ください。",
+    "materiallySupport": "妊婦健康診査受診票１４回分、妊婦超音波検査受診票4回分、子宮頸がん検診受診票１回分をお渡ししています。",
+    "monetarySupport": " 都内共通の妊婦健康診査受診票等や新生児聴覚検査受診票が使用できなかった方に対して、費用の一部を助成"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内に住民登録のある妊婦の方"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "妊婦超音波検査受診票\n主治医とご相談のうえ、妊婦健康診査受診票と一緒にご利用ください。\n\n妊婦子宮頸がん検診受診票\n妊娠初期の検査です。主治医とご相談のうえ、妊婦健康診査受診票と一緒にご利用ください。\n\n手続きの方法",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

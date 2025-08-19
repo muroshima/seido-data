@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132187;福生市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子ども育成課　保育・幼稚園係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132187",
+    "psid": "psid3.0+8000020132187+1+UM5046"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都福生市本町5",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子ども育成課　保育・幼稚園係",
+    "contactPhone": "042-551-1780",
+    "contactUrl": null,
+    "zipCode": "1978501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "年収360万円未満相当の世帯や第3子以降の副食費は免除されます。\n〇年収360万円未満の世帯\n\n通常世帯　　保育料の階層区分A、B、C、D1、D2、D3の一部（市民税所得割額57700円未満の世帯）\nひとり親世帯等　　1．に加え、階層区分D3の一部（市民税所得割額57700円以上61000円未満の世帯）、D4、D5の一部（市民税所得割額77100円以下の世帯）\n　※市民税の申告が未申告となっている場合または課税資料の提出がない場合は、副食費は免除とはなりません。\n\n〇副食費免除における多子カウント方法\n\n||1号認定（幼稚園）|2号認定（保育園）|\n|:----|:----|:----|\n|年収360万円未満相当|年齢上限なし|年齢上限なし|\n|年収360万円以上相当|小学校3年生以下をカウント|就学前児童をカウント|\n\n保育料の階層区分はこちらのページの「保育料等表」をご確認ください。;https://www.city.fussa.tokyo.jp/life/child/nursery/1002585.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "副食費補助",
+    "shortName": "副食費の免除"
+  },
+  "localGovernmentLink": {
+    "title": "副食費",
+    "uri": "https://www.city.fussa.tokyo.jp/kofukunavi/1012676/1018156.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "福生市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "保育料の階層区分はこちらのページの「保育料等表」をご確認ください。",
+      "uri": "https://www.city.fussa.tokyo.jp/kofukunavi/1012676/1018705.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "福生市では、一定の要件を満たしている世帯を対象に、保育所等で提供される給食等にかかる食材料費の一部（副食費）を免除しています。",
+  "support": {
+    "description": "〇副食費免除における多子カウント方法\n\n||1号認定（幼稚園）|2号認定（保育園）|\n|:----|:----|:----|\n|年収360万円未満相当|年齢上限なし|年齢上限なし|\n|年収360万円以上相当|小学校3年生以下をカウント|就学前児童をカウント|\n",
+    "materiallySupport": null,
+    "monetarySupport": "副食費の免除"
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "〇年収360万円未満相当の世帯\n\n通常世帯　　保育料の階層区分A、B、C、D1、D2、D3の一部（市民税所得割額57,700円未満の世帯）\nひとり親世帯等　　1．に加え、階層区分D3の一部（市民税所得割額57,700円以上61000円未満の世帯）、D4、D5の一部（市民税所得割額77,100円以下の世帯）"
+  },
+  "updateDate": "2023-10-15",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

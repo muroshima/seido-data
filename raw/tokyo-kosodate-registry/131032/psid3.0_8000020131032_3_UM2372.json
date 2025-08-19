@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援部保育課保育支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+3+UM2372"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファックス番号：03-3578-2384\n\n外国語対応が必要な人、通訳オペレーター、区の職員の3人で会話ができます。\n\n多言語対応三者通話サービス;https://www.multilingualinterpretercallservice.city.minato.tokyo.jp/kokusai",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援部保育課保育支援係",
+    "contactPhone": "03-3578-2441",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "企業主導型保育事業\n企業主導型保育事業とは\n平成28年度より開始をした企業向けの助成制度です。\n\n企業が、自社の従業員の働き方に応じて、多様で柔軟な保育サービスを提供しています。認可外保育施設であり、企業の従業員の子どもの他、地域の子どもを受け入れることが可能な施設もあります。\n\n港区内企業主導型保育事業一覧\nこちらのページ;https://www.city.minato.tokyo.jp/hoikuseisaku/ninkagai_shinki.htmlをご確認ください。\n\n注意事項\n・企業主導型保育事業の利用（又は利用終了）にあたって、港区に報告が必要です。報告に必要な書類は、こちらのページをご確認ください。\n\n・企業主導型保育事業を利用されている方は、子どものための教育・保育認定を受けることはできますが、子育てのための施設等利用給付認定を受けることができません。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "認可外保育施設の利用について",
+    "shortName": "企業主導型保育事業"
+  },
+  "localGovernmentLink": {
+    "title": "企業主導型保育事業",
+    "uri": "https://www.city.minato.tokyo.jp/hoikusien/kigyousyudougata.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "港区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第30条の4～10(第2章第4節第2款 施設等利用給付認定等)",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "こちらのページ",
+      "uri": "https://www.city.minato.tokyo.jp/hoikuseisaku/ninkagai_shinki.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "認可外保育施設とは、公的助成の有無や事業規模などにかかわらず、児童福祉法、もしくは認定こども園法に基づく認可を受けていない、お子さんを預かる施設・サービスの総称です。\n具体的には、企業主導型保育、ベビーホテル、ベビーシッター、事業所内や院内の託児室、その他、認可外保育施設として都道府県等に届出を行ったものを指します。\n\n保育の内容や料金設定などは施設によりさまざまです。これらの施設を利用する際は、保護者自身の目で直接確認し、充分な説明を受け、納得したうえで選ぶことが大切です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2021-06-02",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

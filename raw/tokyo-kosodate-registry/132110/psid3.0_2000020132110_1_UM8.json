@@ -1,0 +1,136 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康推進課予防担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+1+UM8"
+  },
+  "belongings": "母子健康手帳の交付時にお渡しする、「母と子の保健バッグ」に同封される小平市妊婦歯科健康診査受診券、母子健康手帳、保険証（マイナ保険証、資格確認書等）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市学園東町1-19-12　健康センター1階",
+    "contactComment": "FAX：042-346-3705",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康推進課予防担当",
+    "contactPhone": "042-346-3700",
+    "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+    "zipCode": "1870043"
+  },
+  "cost": null,
+  "costConditions": "無料\n\n（注）妊婦歯科健診で定められた検査内容以外の検査や処置、治療を行った場合は費用（自己負担）が発生します。",
+  "description": "成人・妊婦歯科健診\n成人歯科健診と妊婦歯科健診を紹介するページです。\n口腔ケアは、健康維持に大切です。健診を受診して、病気の早期発見・早期治療に努めましょう。\n\n成人歯科検診・妊婦歯科健診\n歯周疾患が発症・発生しやすい時期である妊婦に対し、口腔疾患の早期発見を図ることを目的に実施しています。\n\n自己負担　なし\n（注）妊婦歯科健診で定められた検査内容以外の検査や処置、治療を行った場合は費用（自己負担）が発生します。\n\n検査内容　問診、歯の検査、歯周病検査、指導\n（注）受診は妊娠中に1回となります。\n\nところ　市内指定医療機関\n\n受診方法\n母子健康手帳の交付時にお渡しする、「母と子の保健バッグ」に同封される小平市妊婦歯科健康診査受診券受診券、母子健康手帳、保険証（マイナ保険証、資格確認書等）を指定医療機関に持参。\n小平市に転入された妊婦の方で、他の市区町村で母子健康手帳の交付を受けた方については、妊婦歯科健診をまだ受けていない場合、受診券の申請をいただきました上で、受診券を交付いたします。\n\n医療機関一覧　令和6年度妊婦歯科医療機関一覧表（令和6年4月1日現在）（PDF 142.5KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/25848/025848/att_0000002.pdf\n\n健口（けんこう）チェック\n日本歯科医師会は、誰もが気軽にお口の状態を確認できるアプリ「健口（けんこう）チェック」を公開しています。同アプリは、スマートフォンを活用して、自身の口腔内の問題点に気付くことができるのが特徴です。\n\nアプリ「健口(けんこう)チェック」を公開 | 日本歯科医師会（外部リンク）;https://www.jda.or.jp/jda/release/detail_221.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊産婦の歯科健診",
+    "shortName": "妊婦歯科健診"
+  },
+  "localGovernmentLink": {
+    "title": "成人・妊婦歯科健診",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/025/025848.html#ninpu"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025-03-25",
+    "updater": "小平市"
+  },
+  "procedureCounter": "令和7年度妊婦歯科医療機関一覧表（令和7年4月1日現在）（PDF 142.5KB）;https://www.city.kodaira.tokyo.jp//kurashi/025/025848.html",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "母子健康手帳の交付時にお渡しする、「母と子の保健バッグ」に同封される小平市妊婦歯科健康診査受診券、母子健康手帳、保険証（マイナ保険証、資格確認書等）を指定医療機関に持参。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "妊婦",
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "令和7年度妊婦歯科医療機関一覧表（令和7年4月1日現在）（PDF 142.5KB）",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/25848/025848/att_0000002.pdf"
+    },
+    {
+      "title": "電子申請サービスはこちらから（外部リンク）",
+      "uri": "https://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?govCode=13211&procCode=11019863"
+    },
+    {
+      "title": "アプリ「健口(けんこう)チェック」を公開 | 日本歯科医師会（外部リンク）",
+      "uri": "https://www.jda.or.jp/jda/release/detail_221.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠中や出産後は女性ホルモンの分泌の変化や食事回数の増加などから虫歯や歯周病になりやすく、進行しやすい時期です。こうした時期のお口の中の健康を維持するために、歯科健診をおすすめしています。自己負担はありません。母子手帳交付時に検診に必要な小平市妊婦歯科健康診査受診券をお渡ししています。",
+  "support": {
+    "description": "問診、歯の検査、歯周病検査、指導",
+    "materiallySupport": "問診、歯の検査、歯周病検査、指導",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊婦"
+  },
+  "updateDate": "2025-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "小平市に転入された妊婦の方で、他の市区町村で母子健康手帳の交付を受けた方については、妊婦歯科健診をまだ受けていない場合、受診券の申請をいただきました上で、受診券を交付いたします。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

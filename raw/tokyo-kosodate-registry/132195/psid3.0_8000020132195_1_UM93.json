@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132195;狛江市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　児童育成課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132195",
+    "psid": "psid3.0+8000020132195+1+UM93"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　児童育成課保育・幼稚園担当,保育園等管理・運営支援担当,放課後対策推進担当",
+    "contactPhone": "03-3430-1280,03-6698-0762,03-3430-1281",
+    "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,105154,html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "保育料\n月額 40,000円\n雑費（冷暖房費含む）\n月額 2,000円\n※月の途中で保育を開始、または保育を中止した場合は、在籍日数が11日以上の場合は1カ月分の金額。10日以内の場合は日額1,680円（冷暖房費を含む）\n保育料の他に次の費用が必要となりますので、保育ママに確認してください。\n\n超過利用料\n1時間につき590円\n食事は、原則として保護者が用意することになりますが、保育ママが用意する場合は1食あたり300円",
+  "description": "家庭福祉員（保育ママ）\n　家庭福祉員（保育ママ）は、保育の経験や保育士等の資格があり、家庭の協力によって家庭的雰囲気の中で親しみ深い愛情で接し、子どもが心身ともに健やかに育つよう努めています。\n\n受け入れ児童\n市民であり、保育に欠けている家庭状況\n保育ママへの委託開始日現在、3歳未満の健康な乳幼児\n保育ママと3親等以内の親族でない児童\n保育日\n毎日\n※日曜日・祝日・年末年始（12月29日～1月3日）を除く。\n\n保育時間\n　原則として8時間\n\n保育料\n保育料\n月額 40,000円\n雑費（冷暖房費含む）\n月額 2,000円\n※月の途中で保育を開始、または保育を中止した場合は、在籍日数が11日以上の場合は1カ月分の金額。10日以内の場合は日額1,680円（冷暖房費を含む）\n\nその他費用\n　保育料の他に次の費用が必要となりますので、保育ママに確認してください。\n\n超過利用料\n1時間につき590円\n食事は、原則として保護者が用意することになりますが、保育ママが用意する場合は1食あたり300円\n入所手続き\n 各保育ママへ直接連絡の上、子どもと一緒に保育ママとの面接を受けてください。\n\n保育ママの連絡先\n柳沢 芳子\n所在地：東和泉１-26-19\n連絡先：03-3489-6168\n白川 佳子\n所在地：駒井町３-32-17\n連絡先：03-3488-9323",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "日曜日・祝日・年末年始（12月29日～1月3日）",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "家庭的保育（保育ママ）一覧",
+    "shortName": "家庭福祉員"
+  },
+  "localGovernmentLink": {
+    "title": "家庭福祉員（保育ママ）",
+    "uri": "https://www.city.komae.tokyo.jp/index.cfm/43,16002,586,3431,html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "狛江市"
+  },
+  "procedureCounter": "柳沢 芳子\n所在地：東和泉１-26-19\n連絡先：03-3489-6168\n白川 佳子\n所在地：駒井町３-32-17\n連絡先：03-3488-9323",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "各保育ママへ直接連絡の上、子どもと一緒に保育ママとの面接を受けてください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第二章 家庭的保育事業",
+    "regulationName": "家庭的保育事業等の設備及び運営に関する基準"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "市区町村の認可事業として行われる家庭的保育（保育ママ）は、3歳未満の保育が必要なお子さんを、少人数（定員5人以下）で、狛江市が認定した家庭的保育者の自宅などで預かるサービスです。家庭的な雰囲気の中できめ細かな保育を実施します。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "保育ママへの委託開始日現在、3歳未満の健康な乳幼児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "市民であり、保育に欠けている家庭状況\n保育ママへの委託開始日現在、3歳未満の健康な乳幼児\n保育ママと3親等以内の親族でない児童"
+  },
+  "updateDate": "2023-05-25",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "原則として8時間",
+    "fromHM": null,
+    "toHM": null
+  }
+}

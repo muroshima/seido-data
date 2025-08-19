@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "132136;東村山市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子ども保健・給付課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132136",
+    "psid": "psid3.0+1000020132136+1+UM8"
+  },
+  "belongings": "妊婦歯科健康診査受診票\n母子健康手帳\n健康保険証(治療の際に必要となります。)",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東村山市本町1丁目2番地3　いきいきプラザ2階（手当係：手当・子ども医療証について）　いきいきプラザ3階（母子保健第２係：予防接種、母子保健について）",
+    "contactComment": "ファクス：手当係：042-394-7399　母子保健第１係・母子保健第２係：042-390-2270",
+    "contactEmail": null,
+    "contactEx": "手当係：3604　母子保健第２係：3605",
+    "contactName": "子ども家庭部子ども保健・給付課",
+    "contactPhone": "042-393-5111",
+    "contactUrl": "https://www.city.higashimurayama.tokyo.jp/formmail.html?_div=029300&_pageid=1203&_name=子ども家庭部子ども保健・給付課",
+    "zipCode": "1898501"
+  },
+  "cost": null,
+  "costConditions": "無料\n\n（注記）健診は無料ですが、治療の際には費用が掛かります。",
+  "description": "妊婦歯科健康診査\n妊婦歯科健康診査　受診先歯科医療機関一（PDF：95KB）覧\n最新の情報は東村山市ホームページか電話でご確認ください。\n\n妊娠中はホルモンバランスの変化や「つわり」等から、むし歯や歯周病になりやすい時期です。妊娠中に歯科健診を受け、赤ちゃんが生まれる前に、歯科疾患を早期発見し、早期治療を済ませておきましょう。\n\n内容\n歯科健康診査、歯科相談等\n（注記）健診は無料ですが、治療の際には費用が掛かります。歯科医師と十分に確認をしたうえで治療をお受けください。\n\n対象者\n妊娠中のかた（受診推奨期間：妊娠16週から28週の安定期）\n\n（注記）受診票は、母子健康手帳交付時にお渡しします。　\n（注記）受診推奨期間以外での受診も出来ますが、ご自身の体調に十分ご配慮いただき、産婦人科主治医、歯科医師とご相談のうえ、無理のない受診をお願いいたします。\n\n実施場所\n歯科医療機関へ直接ご予約のうえ、受診してください。\n\n（注記）妊婦歯科健診の対象となる医療機関は下記表の医療機関です。\n\n令和6年度妊婦歯科健康診査受診先医療機関一覧（PDF：96KB）\n\n費用\n無料\n　\n（注記）健診は無料ですが、治療の際には費用が掛かります。歯科医師と十分に確認をしたうえで治療をお受けください。\n\n持ち物\n妊婦歯科健康診査受診票\n母子健康手帳\n健康保険証(治療の際に必要となります。)\n　\n（注記）受診票をお忘れになると受診ができませんのでご注意ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "令和6年度妊婦歯科健康診査受診先医療機関一覧（PDF：96KB）;https://www.city.higashimurayama.tokyo.jp/kosodate/ninshin/ninshin/files/pregnant-dental_2023.12.14.pdf",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "令和6年度妊婦歯科健康診査受診先医療機関一覧（PDF：96KB）;https://www.city.higashimurayama.tokyo.jp/kosodate/ninshin/ninshin/files/pregnant-dental_2023.12.14.pdf",
+    "implementationName": "令和6年度妊婦歯科健康診査受診先医療機関一覧（PDF：96KB）;https://www.city.higashimurayama.tokyo.jp/kosodate/ninshin/ninshin/files/pregnant-dental_2023.12.14.pdf"
+  },
+  "institutionName": {
+    "canonicalName": "妊産婦の歯科健診",
+    "shortName": "妊婦歯科健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "妊婦歯科健康診査",
+    "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/ninshin/ninshin/pregnant-dental.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-24",
+    "updater": "東村山市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "令和6年度妊婦歯科健康診査受診先医療機関一覧（PDF：96KB）",
+      "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/ninshin/ninshin/files/pregnant-dental_2023.12.14.pdf"
+    },
+    {
+      "title": "妊婦歯科健康診査　受診先歯科医療機関一（PDF：95KB）覧",
+      "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/ninshin/ninshin/files/ninpusikareiwarokunen.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠中や出産後は女性ホルモンの分泌の変化や食事回数の増加などから虫歯や歯周病になりやすく、進行しやすい時期です。こうした時期のお口の中の健康を維持するために、歯科健診をおすすめしています。健診には健康保険が適用されませんが、経済的負担を軽減するため、健診にかかる費用の一部を助成する妊産婦歯科健診受診票をお渡ししています。",
+  "support": {
+    "description": "歯科健康診査、歯科相談等",
+    "materiallySupport": "歯科健康診査、歯科相談等",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊娠中のかた（受診推奨期間：妊娠16週から28週の安定期）\n\n（注記）受診票は、母子健康手帳交付時にお渡しします。　\n（注記）受診推奨期間以外での受診も出来ますが、ご自身の体調に十分ご配慮いただき、産婦人科主治医、歯科医師とご相談のうえ、無理のない受診をお願いいたします。"
+  },
+  "updateDate": "2024-06-19",
+  "useConsiderationFlag": false,
+  "utilization": "歯科医療機関へ直接ご予約のうえ、受診してください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

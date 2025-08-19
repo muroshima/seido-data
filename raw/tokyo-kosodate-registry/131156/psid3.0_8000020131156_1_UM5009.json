@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131156;杉並区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部地域子育て支援課母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131156",
+    "psid": "psid3.0+8000020131156+1+UM5009"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都杉並区阿佐谷南1丁目15番1号",
+    "contactComment": "（代表）",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部地域子育て支援課母子保健係",
+    "contactPhone": "03-3312-2111",
+    "contactUrl": null,
+    "zipCode": "1668570"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "https://www.city.suginami.tokyo.jp/s054/1110.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "出産日から8週間以内",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "区内の指定医療機関等"
+  },
+  "institutionName": {
+    "canonicalName": "産婦健康診査の費用助成",
+    "shortName": "産婦健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "妊婦健康診査・新生児聴覚検査・妊婦歯科健康診査・産婦健康診査",
+    "uri": "https://www.city.suginami.tokyo.jp/s054/1110.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025-03-13",
+    "updater": "杉並区"
+  },
+  "procedureCounter": "実施機関に直接お申し込みください。（申込書は実施機関にあります。）\n指定機関で妊婦健康診査の受診歴がない場合や出産をしていない場合は、受診できない場合がありますので、予約の際に必ずご確認ください。",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "実施機関に直接お申し込みください。（申込書は実施機関にあります。）\n指定機関で妊婦健康診査の受診歴がない場合や出産をしていない場合は、受診できない場合がありますので、予約の際に必ずご確認ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "区内に住民登録がある産後8週間以内の方",
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "杉並区妊婦健康診査・産婦健康診査指定機関名簿 （PDF 100.3KB）",
+      "uri": "https://www.city.suginami.tokyo.jp/s054/1110.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "産後の初期段階における母子に対する支援を強化し、妊娠期から子育て期にわたる切れ目のない支援を行うため、出産後間もない時期の産婦に対する健康診査費用を助成します。産婦健康診査は産後2週間、産後１か月など出産後間もない時期の産婦向けの健康診査で、母体の身体的機能の回復や授乳状況、精神状態の把握を行います。 ",
+  "support": {
+    "description": "対象の検査項目を実施した場合に費用を助成します。指導内容や検査項目により、自己負担額が生じます。詳細は指定機関にご確認ください。",
+    "materiallySupport": null,
+    "monetarySupport": "対象の検査項目を実施した場合に費用を助成します。指導内容や検査項目により、自己負担額が生じます。詳細は指定機関にご確認ください。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": 2
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内に住民登録がある産後8週間以内の方"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "実施機関に直接お申し込みください。（申込書は実施機関にあります。）\n指定機関で妊婦健康診査の受診歴がない場合や出産をしていない場合は、受診できない場合がありますので、予約の際に必ずご確認ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

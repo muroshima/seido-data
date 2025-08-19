@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132063;府中市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子ども家庭支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132063",
+    "psid": "psid3.0+8000020132063+7+UM112"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "府中市晴見町1-14-15-Ｂ（晴見町商店街）",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": "042-335-8558",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子育てひろば　ベビーゆうゆう（運営：府中市シルバー人材センター）\n最終更新日：2024年4月1日\nベビーゆうゆう（運営：府中市シルバー人材センター）\nベビーゆうゆうは、赤ちゃんと小さいお子さん、お母さんのためのオープンスペースです。アットホームな雰囲気の中、親子交流をしながら楽しく遊べます。\nまた、子育てに関する相談、情報提供も行っていますので、お気軽にお越しください。\n注記：講座参加は事前申し込みが必要です。\n\n施設案内\n住所：府中市晴見町1-14-15-Ｂ（晴見町商店街）\n\n電話：042-335-8558\n\n開催日時：月～金曜日　10時から16時\n\n対象：0歳～3歳児とその保護者\n\n新規ウィンドウで開きます。ベビーゆうゆうホームページ（外部サイト）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "土曜日、日曜日、祝日、年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "府中市晴見町1-14-15-Ｂ（晴見町商店街）",
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育て広場",
+    "shortName": "子育てひろば　ベビーゆうゆう"
+  },
+  "localGovernmentLink": {
+    "title": "子育てひろば　ベビーゆうゆう（運営：府中市シルバー人材センター）",
+    "uri": "https://www.city.fuchu.tokyo.jp/kosodate/shussan/oyako/bookntoy.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "府中市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第6項",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "ベビーゆうゆうホームページ（外部サイト）",
+      "uri": "https://webc.sjc.ne.jp/fsc/activity_4"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "乳幼児とその保護者のためのオープンスペースです。アットホームな雰囲気の中、親子交流をしながら楽しく遊べます。子育てに関する相談、情報提供も行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0歳から3歳児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "0歳～3歳児とその保護者"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月～金曜日　10時から16時",
+    "fromHM": "10:00",
+    "toHM": "16:00"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "131083;江東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども未来部 こども家庭支援課 こども家庭係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131083",
+    "psid": "psid3.0+6000020131083+1+UM83"
+  },
+  "belongings": "母子健康手帳と保護者の身分を証明できるもの（マイナンバーカード、運転免許証、健康保険証など）を持参し、お子さんと一緒に児童館へお越しください。",
+  "capacity": "\n小名木川児童館：8名\n\n古石場児童館\t・東砂児童館：6名\t",
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都江東区東陽4-11-28",
+    "contactComment": "ファックス：03-3647-9196",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども未来部 こども家庭支援課 こども家庭係",
+    "contactPhone": "03-3647-9230",
+    "contactUrl": "https://www.city.koto.lg.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": "1358383"
+  },
+  "cost": "500",
+  "costConditions": "1人1時間につき500円",
+  "description": "在宅で子育てをしている方のお子さんを児童館で一時的にお預かりするサービスです。\n買い物、通院、美容院、家の掃除など、理由を問わずにご利用いただけます。\nご利用には、児童館の利用登録とは別に事前に面接登録（予約制）が必要です。\n登録後、利用希望日の1ヶ月前から抽選で予約を受け付けます。\n詳しくは区HPをご覧ください。\nhttps://www.city.koto.lg.jp/281012/kodomo/kosodate/service/ichijihoiku/25667.html\n",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "児童館一時保育サービス",
+      "uri": "https://www.city.koto.lg.jp/281012/kodomo/kosodate/service/ichijihoiku/25667.html"
+    }
+  ],
+  "holiday": "（祝日、年末年始を除く）",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "①江東区北砂5-20-5-101\n\n②江東区\t古石場1-11-11\n\n③江東区東砂7-15-3\n",
+    "implementationName": "①小名木川児童館\n\n②古石場児童館\t\n\n③東砂児童館"
+  },
+  "institutionName": {
+    "canonicalName": "一時預かり（一時保育）",
+    "shortName": "児童館一時保育サービス"
+  },
+  "localGovernmentLink": {
+    "title": "児童館一時保育サービス",
+    "uri": "https://www.city.koto.lg.jp/281012/kodomo/kosodate/service/ichijihoiku/25667.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "江東区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "ご利用には、児童館の利用登録とは別に事前に面接登録（予約制）が必要です。\n登録後、利用希望日の1ヶ月前から抽選で予約を受け付けます。\n詳しくは区HPをご覧ください。\nhttps://www.city.koto.lg.jp/281012/kodomo/kosodate/service/ichijihoiku/25667.html\n",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第7項、第21条の9、第59条第10号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "児童館一時保育サービス",
+      "uri": "https://www.city.koto.lg.jp/281012/kodomo/kosodate/service/ichijihoiku/25667.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "在宅で子育てをしている方のお子さんを児童館で一時的にお預かりするサービスです。\n買い物、通院、美容院、家の掃除など、理由を問わずにご利用いただけます。\n詳細は区HPをご覧ください。https://www.city.koto.lg.jp/281012/kodomo/kosodate/service/ichijihoiku/25667.html",
+  "support": {
+    "description": "在宅で子育てをしている方のお子さんを児童館で一時的にお預かりするサービスです。\n買い物、通院、美容院、家の掃除など、理由を問わずにご利用いただけます。\nご利用には、児童館の利用登録とは別に事前に面接登録（予約制）が必要です。\n登録後、利用希望日の1ヶ月前から抽選で予約を受け付けます。\n詳しくは区HPをご覧ください。\nhttps://www.city.koto.lg.jp/281012/kodomo/kosodate/service/ichijihoiku/25667.html",
+    "materiallySupport": "在宅で子育てをしている方のお子さんを児童館で一時的にお預かりするサービスです。\n詳しくは区HPをご覧ください。\nhttps://www.city.koto.lg.jp/281012/kodomo/kosodate/service/ichijihoiku/25667.html",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後6ヶ月～就学前までの幼稚園・保育園等に入所していない江東区内在住の乳幼児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 6
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生後6ヶ月～就学前までの幼稚園・保育園等に入所していない江東区内在住のお子さん"
+  },
+  "updateDate": "2024-03-28",
+  "useConsiderationFlag": false,
+  "utilization": "ご利用には、児童館の利用登録とは別に事前に面接登録（予約制）が必要です。\n登録後、利用希望日の1ヶ月前から抽選で予約を受け付けます。\n詳しくは区HPをご覧ください。\nhttps://www.city.koto.lg.jp/281012/kodomo/kosodate/service/ichijihoiku/25667.html\n",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "午前9時～正午、午後1時～午後5時\n1日あたり3時間以内（1時間単位）",
+    "fromHM": null,
+    "toHM": null
+  }
+}

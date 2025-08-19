@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132292;西東京市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132292",
+    "psid": "psid3.0+1000020132292+1+UM66"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "西東京市中町一丁目5番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康課",
+    "contactPhone": "042-438-4021",
+    "contactUrl": null,
+    "zipCode": "2028555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "大気汚染医療費助成\n\nこの制度は、東京都独自の制度として、大気汚染の影響を受けると推定される疾病（気管支ぜん息等）にかかった方に対し、一定の要件を満たす場合に、医療費の助成をするものです。\n市では、大気汚染医療費助成に関する事前申請の受付業務を行っています。\n大気汚染医療費助成制度については、以下をご覧ください。\n\n概要\n1.助成対象者\n以下のいずれにも該当する方が対象となります。\n（1）18歳未満の方（生年月日が平成9年4月1日以前で、有効期間内の医療券を持っている方は更新のみ可能）\n（2） 現に気管支ぜんそく、慢性気管支炎、ぜん息性気管支炎、肺気しゅにかかられている方\n（3）東京都内に引き続き1年（3歳未満は6か月）以上住所を有する方（東京都内に住民登録を\n　　している必要がある。）\n（4） 健康保険等に加入されている方\n（5） 申請日以降喫煙していない方\n\n2.助成内容\n医療券の有効期間内に気管支ぜん息等の治療に要した医療費のうち、保険適用後の自己負担分を助成します。\n※他の法令等の規定により給付が行われる場合は、その額を控除した後の自己負担額を助成します。\n\n※以下の費用については助成の対象となりません（例示）\n・医療券に記載されていない疾病の治療にかかる医療費（風邪、インフルエンザ、肺炎、気管支炎、アレルギー性鼻炎、アトピー性皮膚炎、薬剤の副作用による糖尿病、胃潰瘍、白内障等の医療費は助成対象ではありません。）\n・医療券に記載されている疾病に適応のない薬剤（気管支ぜん息の場合、ジスロマック、スピリーバ等は助成対象ではありません。）\n・入院時の食事療養標準負担額又は入院時の生活療養標準負担額\n・健康保険が適用されない医療費（差額ベッド代、個室料等）\n・吸入器購入費用・レンタル料\n・「主治医診療報告書」の作成費用（文書作成料）及び検査費用\n・「医療費支給申請書兼口座振替依頼書」に証明を受けるときにかかる費用\n\n3.助成期間\n申請日から起算して\n（1） 2年を経過した日以降の直近の誕生日の属する月の末日まで\n（2） 18歳の誕生日の属する月の末日まで\n\nのいずれか短い方になります。（医療券に記載されます。）\n\n4.申請手続\n（1） 申請手続の申請書及びそれに添付する「主治医診療報告書」等の配布\n・田無庁舎（保険年金課）\n・田無第二庁舎（子育て支援課）\n・保谷庁舎（健康課）\n・市内各出張所\n（2） 申請受付場所\n健康福祉部健康課（防災・保谷保健福祉総合センター4階）\n電話：042-438-4021（直通）\n（3） 申請受付時間等\n月曜日から金曜日（祝日を除く）\n午前8時30分から午後5時まで\n\n関連リンク\n東京都保健医療局　大気汚染医療費助成制度のご案内（外部リンク）;https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/taiki/iryouhi/index.html\n\n制度に関するお問い合わせはこちらです（東京都保健医療局健康安全部環境保健衛生課　電話：03-5320-4491）。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の医療費助成制度",
+    "shortName": "大気汚染医療費助成"
+  },
+  "localGovernmentLink": {
+    "title": "大気汚染医療費助成",
+    "uri": "https://www.city.nishitokyo.lg.jp/kosodate/teate_zyosei/taiki_osen.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-10",
+    "updater": "西東京市"
+  },
+  "procedureCounter": "健康福祉部健康課（防災・保谷保健福祉総合センター4階）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "（1） 申請手続の申請書及びそれに添付する「主治医診療報告書」等の配布\n・田無庁舎（保険年金課）\n・田無第二庁舎（子育て支援課）\n・保谷庁舎（健康課）\n・市内各出張所\n（2） 申請受付場所\n健康福祉部健康課（防災・保谷保健福祉総合センター4階）\n電話：042-438-4021（直通）\n（3） 申請受付時間等\n月曜日から金曜日（祝日を除く）\n午前8時30分から午後5時まで",
+  "procedurePeriod": {
+    "conditions": "月曜日から金曜日（祝日を除く）\n午前8時30分から午後5時まで",
+    "fromHM": "08:30",
+    "fromYMD": null,
+    "toHM": "17:00",
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "大気汚染に係る健康障害者に対する医療費の助成に関する条例"
+  },
+  "relatedLink": [
+    {
+      "title": "東京都保健医療局　大気汚染医療費助成制度のご案内（外部リンク）",
+      "uri": "https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/taiki/iryouhi/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "大気汚染の影響を受けると推定される疾病（気管支ぜん息など）にかかった方に対し、一定の要件を満たす場合に、医療費の助成をしています。",
+  "support": {
+    "description": "2.助成内容\n医療券の有効期間内に気管支ぜん息等の治療に要した医療費のうち、保険適用後の自己負担分を助成します。\n※他の法令等の規定により給付が行われる場合は、その額を控除した後の自己負担額を助成します。\n\n※以下の費用については助成の対象となりません（例示）\n・医療券に記載されていない疾病の治療にかかる医療費（風邪、インフルエンザ、肺炎、気管支炎、アレルギー性鼻炎、アトピー性皮膚炎、薬剤の副作用による糖尿病、胃潰瘍、白内障等の医療費は助成対象ではありません。）\n・医療券に記載されている疾病に適応のない薬剤（気管支ぜん息の場合、ジスロマック、スピリーバ等は助成対象ではありません。）\n・入院時の食事療養標準負担額又は入院時の生活療養標準負担額\n・健康保険が適用されない医療費（差額ベッド代、個室料等）\n・吸入器購入費用・レンタル料\n・「主治医診療報告書」の作成費用（文書作成料）及び検査費用\n・「医療費支給申請書兼口座振替依頼書」に証明を受けるときにかかる費用\n\n3.助成期間\n申請日から起算して\n（1） 2年を経過した日以降の直近の誕生日の属する月の末日まで\n（2） 18歳の誕生日の属する月の末日まで\n\nのいずれか短い方になります。（医療券に記載されます。）",
+    "materiallySupport": null,
+    "monetarySupport": "医療券の有効期間内に気管支ぜん息等の治療に要した医療費のうち、保険適用後の自己負担分を助成します。\n※他の法令等の規定により給付が行われる場合は、その額を控除した後の自己負担額を助成します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "18歳未満の方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "以下のいずれにも該当する方が対象となります。\n（1）18歳未満の方（生年月日が平成9年4月1日以前で、有効期間内の医療券を持っている方は更新のみ可能）\n（2） 現に気管支ぜんそく、慢性気管支炎、ぜん息性気管支炎、肺気しゅにかかられている方\n（3）東京都内に引き続き1年（3歳未満は6か月）以上住所を有する方（東京都内に住民登録を\nしている必要がある。）\n（4） 健康保険等に加入されている方\n（5） 申請日以降喫煙していない方"
+  },
+  "updateDate": "2024-06-14",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "132136;東村山市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子ども保健・給付課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132136",
+    "psid": "psid3.0+1000020132136+1+UM52"
+  },
+  "belongings": "母子健康手帳（カバーや保険証等は外しておいてください）\n3歳児健康診査アンケート\n目と耳のアンケート\n尿\n健康保険証（精密検査受診票発行時に必要）\nお子さんの歯ブラシ・タオル",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東村山市本町1丁目2番地3　いきいきプラザ2階（手当係：手当・子ども医療証について）　いきいきプラザ3階（母子保健第２係：予防接種、母子保健について）",
+    "contactComment": "ファクス：手当係：042-394-7399　母子保健第１係・母子保健第２係：042-390-2270",
+    "contactEmail": null,
+    "contactEx": "手当係：3604　母子保健第２係：3605",
+    "contactName": "子ども家庭部子ども保健・給付課",
+    "contactPhone": "042-393-5111",
+    "contactUrl": "https://www.city.higashimurayama.tokyo.jp/formmail.html?_div=029300&_pageid=29418&_name=子ども家庭部子ども保健・給付課",
+    "zipCode": "1898501"
+  },
+  "cost": null,
+  "costConditions": "無料",
+  "description": "3歳児健康診査\n内容\n問診・計測・診察・集団指導・（歯みがき指導等・相談）\n\n日時\n実施日程につきましては、母子保健　乳幼児健康診査年間日程;https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/boshi2-2.htmlのページをご覧ください。\n\n受付時間　午後0時20分から2時\n\nまた、該当する方には個別にお知らせいたします。なお、市報でもご案内いたしますので、通知が届かない方はご連絡ください。\n\n場所\nいきいきプラザ2階\n\n対象者\n詳しくは、母子保健　乳幼児健康診査年間日程;https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/boshi2-2.htmlのページをご覧ください。\n\nまた、該当する方には個別にお知らせいたします。なお、市報でもご案内いたしますので、通知が届かない方はご連絡ください。\n\n費用\n無料\n\n持ち物\n母子健康手帳（カバーや保険証等は外しておいてください）\n3歳児健康診査アンケート\n目と耳のアンケート\n尿\n健康保険証（精密検査受診票発行時に必要）\nお子さんの歯ブラシ・タオル\n\n来所時のお願い\n当日、37.5度以上の発熱がある場合や体調不良がある場合は、ご来場をお控えください。\n\n注意事項\n車での来場について\n駐車場に限りがありますので、なるべくお車での来所はお控えください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "母子保健　乳幼児健康診査年間日程;https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/boshi2-2.html",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "いきいきプラザ2階;https://www.city.higashimurayama.tokyo.jp/shisetsu/shi/shi/index.html"
+  },
+  "institutionName": {
+    "canonicalName": "3歳児健康診査",
+    "shortName": "3歳児健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "3歳児健康診査",
+    "uri": "https://www.city.higashimurayama.tokyo.jp/event/kodomo/nyuji/3sai-kensin.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-24",
+    "updater": "東村山市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第12条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "母子保健　乳幼児健康診査年間日程",
+      "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/boshi2-2.html"
+    },
+    {
+      "title": "母子保健　乳幼児健康診査年間日程",
+      "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/boshi2-2.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "からだやこころの成長とともに社会性も急速に発達するこの頃は、人間形成の基礎となる大切な時期です。東村山市では3歳児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+  "support": {
+    "description": "問診・計測・診察・集団指導・（歯みがき指導等・相談）",
+    "materiallySupport": "問診・計測・診察・集団指導・（歯みがき指導等・相談）",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "3歳児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "3歳児\n詳しくは、母子保健　乳幼児健康診査年間日程;https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/boshi2-2.htmlのページをご覧ください。\n\nまた、該当する方には個別にお知らせいたします。なお、市報でもご案内いたしますので、通知が届かない方はご連絡ください。"
+  },
+  "updateDate": "2024-06-14",
+  "useConsiderationFlag": false,
+  "utilization": "該当する方には個別にお知らせいたします。なお、市報でもご案内いたしますので、通知が届かない方はご連絡ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "受付時間　午後0時20分から13時50分",
+    "fromHM": "12:20",
+    "toHM": "13:50"
+  }
+}

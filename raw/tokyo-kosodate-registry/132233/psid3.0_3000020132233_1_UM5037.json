@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "132233;武蔵村山市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部障害福祉課手当助成係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132233",
+    "psid": "psid3.0+3000020132233+1+UM5037"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康福祉部障害福祉課手当助成係",
+    "contactPhone": "042-590-1185",
+    "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/e_03b/1000730",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "自立支援医療について\nこれまでの障害にかかる公費負担医療（精神通院医療・更生医療・育成医療）が自立支援医療に変わり、手続きや利用者負担の仕組みが統一されます。\n\n自立支援医療の対象者\n従来の精神通院医療、更生医療、育成医療の対象になる方と同様の疾病を有する者（一定所得以上の者を除く）。\n\n自立支援医療の給付水準\n自己負担については原則として医療費の1割分となります。\nただし、世帯の所得水準等に応じてひと月あたりの負担に上限額が設定されます。\nまた、入院時の食費（標準負担額相当）については原則自己負担となります。\n\n負担上限月額\n一定所得以下\n・生活保護世帯\n負担上限月額　0円\n\n・低所得1　市民税非課税（本人収入が80万円以下）\n負担上限月額　2,500円\n\n・低所得2　市民税非課税（本人収入が80万円超）\n負担上限月額　5,000円\n\n中間所得層\n・中間所得層1　 市民税（所得割）が3.3万円未満\n負担上限月額　医療保険の自己負担限度額\n（育成医療の経過措置の適用を受ける場合　5,000円）\n（高額治療継続者（重度かつ継続）（注釈1）の場合  5,000円）\n\n・中間所得層2　市民税（所得割）が3.3万円以上23.5万円未満\n負担上限月額　医療保険の自己負担限度額\n（育成医療の経過措置の適用を受ける場合　10,000円）\n（高額治療継続者（重度かつ継続）（注釈1）の場合　10,000円）\n\n一定所得以上\n・市民税（所得割）が23.5万円以上の場合\n公費負担の対象外\n（高額治療継続者（重度かつ継続）（注釈1）の場合　負担上限月額20,000円）\n\n市民税の課税・非課税を判断する世帯の単位は、住民票上の家族ではなく、同じ医療保険に加入している家族を同一世帯とします。\n（注釈1）高額治療継続者（重度かつ継続）の範囲は次のとおりです。\n疾病・症状等から対象となる者\n更生医療・育成医療：腎臓機能・小腸機能・免疫機能障害・心臓機能障害（心臓移植後の抗免疫療法に限る）\n精神通院医療：統合失調症・躁うつ病・うつ病・てんかん・認知症などの脳機能障害若しくは薬物関連障害の者又は集中・継続的な医療を要する者として精神医療に一定以上の経験を有する医師が判断した者\n\n疾病にかかわらず、高額な費用負担が継続することから対象となる者\n医療保険の多数該当の者",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度",
+    "shortName": "自立支援医療"
+  },
+  "localGovernmentLink": {
+    "title": "自立支援医療について",
+    "uri": "https://www.city.musashimurayama.lg.jp/kurashi/shougai/1012128/jiritsushien/1000730.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-19",
+    "updater": "武蔵村山市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+  "support": {
+    "description": "自己負担については原則として医療費の1割分となります。\nただし、世帯の所得水準等に応じてひと月あたりの負担に上限額が設定されます。\nまた、入院時の食費（標準負担額相当）については原則自己負担となります。",
+    "materiallySupport": null,
+    "monetarySupport": "自己負担については原則として医療費の1割分となります。\nただし、世帯の所得水準等に応じてひと月あたりの負担に上限額が設定されます。\nまた、入院時の食費（標準負担額相当）については原則自己負担となります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "従来の精神通院医療、更生医療、育成医療の対象になる方と同様の疾病を有する者（一定所得以上の者を除く）。"
+  },
+  "updateDate": "2016-02-20",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

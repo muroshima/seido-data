@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "131156;杉並区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健福祉部障害者施策課障害者手当・医療係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131156",
+    "psid": "psid3.0+8000020131156+1+UM63"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都杉並区阿佐谷南1丁目15番1号",
+    "contactComment": "（直通）",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健福祉部障害者施策課障害者手当・医療係",
+    "contactPhone": "03-5307-0781",
+    "contactUrl": null,
+    "zipCode": "1668570"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "障害児福祉手当（国の制度）\nページ番号1008534　 更新日 令和７年4月1日 印刷\n\n20歳未満で日常生活において常時の介護を必要とする方が申請により受けられる手当です。\n\n対象\n障害の程度が次のいずれかに該当し、常時介護を必要とする状態にある在宅の20歳未満の方が受けられます。\n\n身体障害者手帳1級および2級の一部程度の児童\n愛の手帳1度および2度の一部程度の児童\n著しい精神障害で常時介護を必要とする児童\n注意：所定の診断書で障害程度の判定をします。判定の結果、非該当となる場合があります。\n\n支給制限\n次のいずれかに該当する方は、受けられません。\n\n障害者支援施設・児童福祉施設等に入所している児童\n障害年金などの障害を理由とする公的年金を受けている児童\n注意：受給者・扶養義務者の所得が所得制限基準額の限度額以上の方は、資格を取得することはできますが、支給は停止します。（詳しくは関連情報「各種手当等の所得制限基準額」をご覧ください。）\n\n手当額\n月額：16,100円\n注意：額については毎年見直しがあります。\n\n支払方法\n2月・5月・8月・11月に支給する月の前月分までを、障害児本人の金融機関口座に振り込みます。\n\n申請方法と必要書類\n申請方法\n必要書類を持って、障害者施策課障害者手当・医療係へお越しください。\n\n郵送による申請をご希望の方は、申請書等をお送りしますので、お問い合わせください。\n郵送による申請は、障害者施策課に申請書が届いた日をもって申請日とします。なお、郵送事故による申請書の未着や延着についての責任は負いかねます。\n\n郵送先\n〒166-8570 杉並区阿佐谷南1丁目15番1号\n 杉並区役所 障害者施策課 障害者手当・医療係\n\n必要書類\n障害者手帳（お持ちの方のみ）\n所定の診断書（用紙は障害者施策課にあります）\n本人名義の預金通帳\n戸籍謄本\n申請書に記載する方全員の個人番号確認書類（マイナンバーカードなど）\n手当の返還\n手当を不正に受給したことが判明した場合や施設入所の申し出が遅れた場合などは、過払いとなった手当金を返還していただきます。\n\n関連情報\n各種手当等の所得制限基準額;https://www.city.suginami.tokyo.jp/normalife/nenkin/teate/1008539.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "障害児福祉手当",
+    "shortName": "障害児福祉手当（国の制度）"
+  },
+  "localGovernmentLink": {
+    "title": "障害児福祉手当（国の制度）",
+    "uri": "https://www.city.suginami.tokyo.jp/normalife/nenkin/teate/1008534.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025-03-13",
+    "updater": "杉並区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "必要書類を持って、障害者施策課障害者手当・医療係へお越しください。\n\n郵送による申請をご希望の方は、申請書等をお送りしますので、お問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第3章",
+    "regulationName": "特別児童扶養手当等の支給に関する法律"
+  },
+  "relatedLink": [
+    {
+      "title": "各種手当等の所得制限基準額",
+      "uri": "https://www.city.suginami.tokyo.jp/normalife/nenkin/teate/1008539.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "身体または精神に重度の障がいのある20歳未満の方で、日常生活において常時介護を必要とする方に対し、手当が支給されます。",
+  "support": {
+    "description": "手当額\n月額：16,100円",
+    "materiallySupport": null,
+    "monetarySupport": "手当額\n月額：16,100円"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "障害の程度が次のいずれかに該当し、常時介護を必要とする状態にある在宅の20歳未満の方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "障害の程度が次のいずれかに該当し、常時介護を必要とする状態にある在宅の20歳未満の方が受けられます。\n\n身体障害者手帳1級および2級の一部程度の児童\n愛の手帳1度および2度の一部程度の児童\n著しい精神障害で常時介護を必要とする児童"
+  },
+  "updateDate": "2025-04-01",
+  "useConsiderationFlag": true,
+  "utilization": "必要書類を持って、障害者施策課障害者手当・医療係へお越しください。\n\n郵送による申請をご希望の方は、申請書等をお送りしますので、お問い合わせください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

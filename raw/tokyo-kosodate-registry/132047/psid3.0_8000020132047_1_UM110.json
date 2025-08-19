@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132047;三鷹市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども政策部 子ども家庭課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132047",
+    "psid": "psid3.0+8000020132047+1+UM110"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三鷹市新川六丁目37番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども政策部 子ども家庭課",
+    "contactPhone": "0422-45-3031",
+    "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+    "zipCode": "1810004"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "親子ひろばについて\n「親子ひろば」は、主に乳幼児を持つ地域の子育て家庭を支援するための場所です。\n\n子どもや親同士が気軽に集い、和やかな雰囲気の中で語り合うことができます。\n\nまた各親子ひろばでは、月に1回程度、育児講座などを開催しています。\n\n施設一覧\n三鷹市内親子ひろば一覧\n|名称|住所|電話番号|\n|:----|:----|:----|\n|親子ひろばぴっぴ|井の頭5-23-8|45-4558|\n|東多世代交流センター|牟礼2-13-19|44-2150|\n|つくつくひろば|新川1-10-20|03-5384-2441|\n|HOT・ホッと・きらきら|新川6-7-8|71-2211|\n|親子ひろばひよこ|新川6-37-1<br>三鷹中央防災公園・元気創造プラザ1階|45-1122|\n|ちきんえっぐ|井口1-23-9|30-5923|\n|むらさき子どもひろば|下連雀1-25-2|49-5500|\n|子育てひろばあおいとり|下連雀2-18-12|090-1800-1470|\n|親子ひろばひまわり|下連雀3-30-12<br>三鷹市中央通りタウンプラザ3階|79-5441|\n|子育て広場　「モモ」|下連雀3-45-16<br>びゅうリエット三鷹3階|26-9270|\n|こども家庭支援センター<br>すくすくひろば|下連雀4-19-6|45-7710|\n|子育てひろばポピンズ<br>三鷹下連雀|下連雀5-1-1-E2|26-6765|\n|子育てひろばひだまり|下連雀7-6-18|49-2671|\n|つぎあてポッケ|大沢1-16-26|34-0040|\n|しいのみクラブ|大沢4-8-8|32-4103|\n|子育てひろば　てくてく|深大寺1-3-3|26-4381|\n|西多世代交流センター|深大寺2-3-5|31-6039|\n\n「子育て支援サイトみたかきっずナビ」から施設の詳細を検索することができます。\n\n下記リンク先よりご確認ください。\n\n施設情報・おでかけマップ（外部リンク）;https://kosodate-mitaka.mchh.jp/Facility",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "三鷹市内親子ひろば一覧\n|名称|住所|電話番号|\n|:----|:----|:----|\n|親子ひろばぴっぴ|井の頭5-23-8|45-4558|\n|東多世代交流センター|牟礼2-13-19|44-2150|\n|つくつくひろば|新川1-10-20|03-5384-2441|\n|HOT・ホッと・きらきら|新川6-7-8|71-2211|\n|親子ひろばひよこ|新川6-37-1<br>三鷹中央防災公園・元気創造プラザ1階|45-1122|\n|ちきんえっぐ|井口1-23-9|30-5923|\n|むらさき子どもひろば|下連雀1-25-2|49-5500|\n|子育てひろばあおいとり|下連雀2-18-12|090-1800-1470|\n|親子ひろばひまわり|下連雀3-30-12<br>三鷹市中央通りタウンプラザ3階|79-5441|\n|子育て広場　「モモ」|下連雀3-45-16<br>びゅうリエット三鷹3階|26-9270|\n|こども家庭支援センター<br>すくすくひろば|下連雀4-19-6|45-7710|\n|子育てひろばポピンズ<br>三鷹下連雀|下連雀5-1-1-E2|26-6765|\n|子育てひろばひだまり|下連雀7-6-18|49-2671|\n|つぎあてポッケ|大沢1-16-26|34-0040|\n|しいのみクラブ|大沢4-8-8|32-4103|\n|子育てひろば　てくてく|深大寺1-3-3|26-4381|\n|西多世代交流センター|深大寺2-3-5|31-6039|\n\n「子育て支援サイトみたかきっずナビ」から施設の詳細を検索することができます。\n\n下記リンク先よりご確認ください。\n\n施設情報・おでかけマップ（外部リンク）",
+    "implementationName": "三鷹市内親子ひろば一覧\n|名称|住所|電話番号|\n|:----|:----|:----|\n|親子ひろばぴっぴ|井の頭5-23-8|45-4558|\n|東多世代交流センター|牟礼2-13-19|44-2150|\n|つくつくひろば|新川1-10-20|03-5384-2441|\n|HOT・ホッと・きらきら|新川6-7-8|71-2211|\n|親子ひろばひよこ|新川6-37-1<br>三鷹中央防災公園・元気創造プラザ1階|45-1122|\n|ちきんえっぐ|井口1-23-9|30-5923|\n|むらさき子どもひろば|下連雀1-25-2|49-5500|\n|子育てひろばあおいとり|下連雀2-18-12|090-1800-1470|\n|親子ひろばひまわり|下連雀3-30-12<br>三鷹市中央通りタウンプラザ3階|79-5441|\n|子育て広場　「モモ」|下連雀3-45-16<br>びゅうリエット三鷹3階|26-9270|\n|こども家庭支援センター<br>すくすくひろば|下連雀4-19-6|45-7710|\n|子育てひろばポピンズ<br>三鷹下連雀|下連雀5-1-1-E2|26-6765|\n|子育てひろばひだまり|下連雀7-6-18|49-2671|\n|つぎあてポッケ|大沢1-16-26|34-0040|\n|しいのみクラブ|大沢4-8-8|32-4103|\n|子育てひろば　てくてく|深大寺1-3-3|26-4381|\n|西多世代交流センター|深大寺2-3-5|31-6039|\n\n「子育て支援サイトみたかきっずナビ」から施設の詳細を検索することができます。\n\n下記リンク先よりご確認ください。\n\n施設情報・おでかけマップ（外部リンク）"
+  },
+  "institutionName": {
+    "canonicalName": "子育て支援拠点・地域子育て支援センター",
+    "shortName": "親子ひろば"
+  },
+  "localGovernmentLink": {
+    "title": "親子ひろば（地域子育て支援拠点事業）",
+    "uri": "https://www.city.mitaka.lg.jp/c_service/106/106081.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-12",
+    "updater": "三鷹市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第6項、第21条の9",
+    "regulationName": "児童福祉法、児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "施設情報・おでかけマップ（外部リンク）",
+      "uri": "https://kosodate-mitaka.mchh.jp/Facility"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "三鷹市では市内の「親子ひろば」などを子育て支援拠点として、子育て中の親子が気軽に集い、相互交流や子育ての不安・悩みを相談できる場を提供しています。また、地域の子育て関連情報の提供や、子育て支援に関する講習なども実施しています。",
+  "support": {
+    "description": "「親子ひろば」は、主に乳幼児を持つ地域の子育て家庭を支援するための場所です。\n\n子どもや親同士が気軽に集い、和やかな雰囲気の中で語り合うことができます。\n\nまた各親子ひろばでは、月に1回程度、育児講座などを開催しています。",
+    "materiallySupport": "「親子ひろば」は、主に乳幼児を持つ地域の子育て家庭を支援するための場所です。\n\n子どもや親同士が気軽に集い、和やかな雰囲気の中で語り合うことができます。\n\nまた各親子ひろばでは、月に1回程度、育児講座などを開催しています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "主に乳幼児を持つ地域の子育て家庭"
+  },
+  "updateDate": "2024-01-29",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

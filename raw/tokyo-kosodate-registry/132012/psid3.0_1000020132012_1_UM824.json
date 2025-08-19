@@ -1,0 +1,130 @@
+{
+  "area": {
+    "areaCode": "132012;八王子市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部障害者福祉課（福祉・自立支援医療担当）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132012",
+    "psid": "psid3.0+1000020132012+1+UM824"
+  },
+  "belongings": "健康保険証\n・国民健康保険（市・組合）・・・ 世帯の国保加入者全員\n・後期高齢者医療・・・ 世帯の後期高齢者医療加入者全員\n・健康保険、共済組合・・・ 受診している本人のみ \n・生活保護受給証明書（都外で生活保護を利用されている方のみ。八王子市の生活保護を利用の場合は不要です。）  \n \n所定の診断書（手帳と同時申請の場合は手帳用の診断書）\n（新規・再開・診断書が必要な更新の場合のみ）\n \n自立支援医療（精神通院）受給者証及び国保受給者証（お持ちの方のみ）\n \n世帯の所得状況が確認できる書類（事前にお問い合わせください。なお、令和6年1月1日現在八王子市に住民票があり、税申告をしている場合は必要ありません。）\n \n被保険者が非課税の場合（健康保険等）、または、非課税世帯の場合（国民健康保険等）は、受給者本人の収入がわかる書類（令和5年中の障害年金等の振込通知書等）\n \n印鑑 （他道府県からの転入手続きの場合のみ必要です。）\n \n個人番号（マイナンバー）を証明する書類\n〔申請に来られる方が受給者本人の場合〕以下の(1)～(3)のいずれかを御用意ください\n\n　(1)　個人番号カード\n\n　(2)　個人番号確認書類＋写真付き本人確認書類（運転免許証・パスポート・障害者手帳　等）\n\n　(3)　個人番号確認書類＋写真なし本人確認書類2つ以上（健康保険証、年金手帳　等）\n\n※個人番号確認書類とは「通知カード（記載内容が住民票の内容と一致しているものに限る）」または「個人番号が記載された住民票の写し」です。「個人番号通知書」は使用できません。\n\n〔申請に来られる方と受給者が異なる場合〕\n受給者の方の御手続きが困難な場合には、同居の親族や成年後見人等による申請が可能です。\nその場合には上記のものに加え、以下を御用意ください。\n\n申請に来られる方の写真付き本人確認書類（運転免許証・パスポート・障害者手帳　等）\n登記事項証明書（成年後見人、保佐人等の方のみ）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "八王子市元本郷町三丁目24番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部障害者福祉課（福祉・自立支援医療担当）",
+    "contactPhone": "042-620-7245",
+    "contactUrl": "https://www.city.hachioji.tokyo.jp/inquiry/mailform440600.html?PAGE_NO=4180",
+    "zipCode": "1928501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "オンライン申請について\n一部の申請はオンラインでも行えます。\n詳細はこちらのページをご確認ください。\n\n制度名\n正式名称 自立支援医療（精神通院）\n\nその他\n有効期間は、原則として窓口で申請を受理した日から1年間です。\n\n更新手続き\n更新は有効期限の3か月前から申請できますので、必ず期限が切れる前に手続をしてください。\n\nこんなときは連絡を\n住所・氏名・通院している指定の医療機関・薬局等に変更があったとき、加入している健康保険が変わったとき",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "自立支援医療（精神通院）のオンライン申請",
+      "uri": "https://www.city.hachioji.tokyo.jp/kurashi/welfare/005/004/p034456.html"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": "2006/04/01",
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度（精神通院医療）",
+    "shortName": "自立支援医療（精神通院）"
+  },
+  "localGovernmentLink": {
+    "title": "自立支援医療（精神通院）",
+    "uri": "https://www.city.hachioji.tokyo.jp/kurashi/welfare/005/004/p004180.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/03/13",
+    "updater": "八王子市"
+  },
+  "procedureCounter": "・障害者福祉課 電話番号 042-620-7245 ファックス 042-623-2444\n月曜日～金曜日（祝日、年末年始を除く） 8時30分から17時まで\n\n・八王子駅南口総合事務所（転入手続きを除く） 電話番号 042-620-1159\n　※月曜日～金曜日（祝日、年末年始を除く） 10時から17時まで\n\n・南大沢事務所（転入手続きを除く） 電話番号 042-679-2207\n　※火曜日及び木曜日のみ（祝日、年末年始を除く）10時から17時まで",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "健康保険証\n・国民健康保険（市・組合）・・・ 世帯の国保加入者全員\n・後期高齢者医療・・・世帯の後期高齢者医療加入者全員\n・健康保険、共済組合・・・ 受診している本人のみ \n・生活保護受給証明書（都外で生活保護を利用されている方のみ。八王子市の生活保護を利用の場合は不要です。）  \n \n所定の診断書（手帳と同時申請の場合は手帳用の診断書）\n（新規・再開・診断書が必要な更新の場合のみ）\n \n自立支援医療（精神通院）受給者証及び国保受給者証（お持ちの方のみ）\n \n世帯の所得状況が確認できる書類（事前にお問い合わせください。なお、令和6年1月1日現在八王子市に住民票があり、税申告をしている場合は必要ありません。）\n \n被保険者が非課税の場合（健康保険等）、または、非課税世帯の場合（国民健康保険等）は、受給者本人の収入がわかる書類（令和5年中の障害年金等の振込通知書等）\n \n印鑑 （他道府県からの転入手続きの場合のみ必要です。）\n \n個人番号（マイナンバー）を証明する書類\n〔申請に来られる方が受給者本人の場合〕以下の(1)～(3)のいずれかを御用意ください\n\n　(1)　個人番号カード\n\n　(2)　個人番号確認書類＋写真付き本人確認書類（運転免許証・パスポート・障害者手帳　等）\n\n　(3)　個人番号確認書類＋写真なし本人確認書類2つ以上（健康保険証、年金手帳　等）\n\n※個人番号確認書類とは「通知カード（記載内容が住民票の内容と一致しているものに限る）」または「個人番号が記載された住民票の写し」です。「個人番号通知書」は使用できません。\n\n〔申請に来られる方と受給者が異なる場合〕\n受給者の方の御手続きが困難な場合には、同居の親族や成年後見人等による申請が可能です。\nその場合には上記のものに加え、以下を御用意ください。\n\n申請に来られる方の写真付き本人確認書類（運転免許証・パスポート・障害者手帳　等）\n登記事項証明書（成年後見人、保佐人等の方のみ）\n\n※同居の親族や成年後見人等の方以外が御手続きを御希望される場合は、事前に御相談ください。\n\n※申請者が18歳未満の場合、保護者分の上記の(1)～(3)のいずれかについても御用意ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+  "support": {
+    "description": "精神疾患の治療のため、病院（薬局・デイケア・訪問看護を含む）の通院医療に対し補助を行います。入院医療は適用外です。",
+    "materiallySupport": null,
+    "monetarySupport": "自己負担は、原則として医療費の1割となります。保険と公費で9割を負担します。社会保険の被保険者の区市町村民税が非課税の場合、または、本人の加入する国民健康保険世帯が非課税の場合は自己負担分についても助成します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "精神疾患を理由として通院している方"
+  },
+  "updateDate": "2024/11/13",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

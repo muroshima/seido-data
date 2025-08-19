@@ -1,0 +1,148 @@
+{
+  "area": {
+    "areaCode": "131083;江東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部 保健予防課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131083",
+    "psid": "psid3.0+6000020131083+1+UM66"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都江東区東陽2-1-1",
+    "contactComment": "ファックス：03-3615-7171",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部（保健所） 健康推進課 公害保健係",
+    "contactPhone": "03-3647-9564",
+    "contactUrl": "https://www.city.koto.lg.jp/260313/fukushi/hoken/kogai/6932.html",
+    "zipCode": "1350016"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "大気汚染（ぜん息）医療費助成制度\n大気汚染医療費助成制度の申請手続き（新規）\n大気汚染の影響を受けると推定される疾病（気管支ぜん息等）にかかった方に対し、一定の要件を満たす場合に医療費を助成しています。\n\n対象疾病\n大気汚染の影響を受けていると推定される次の疾病およびその続発症\n［慢性気管支炎、気管支ぜん息、ぜん息性気管支炎、肺気しゅ］\n（注意）：風邪、インフルエンザ、肺炎、気管支炎、アレルギー性鼻炎、アトピー性皮膚炎等は対象疾病ではありません\n\n対象となる方\n・18歳未満の方\n　18歳以上の方の新規申請は平成27年3月31日をもって終了しました。\n・東京都の区域内に引き続き1年（3歳未満は6か月）以上住所を有している方\n・申請日以降喫煙しない方\n・健康保険に加入している方\n（注意）：健康保険とは、国民健康保険、健康保険、公務員共済などの医療保険のことです。\n\n助成の内容\n医療券の有効期間内に、医療券に記載された疾病の治療に要した医療費のうち、健康保険を適用した後の自己負担額について助成します。\n\n申請書の配布\n申請書類等は保健所健康推進課公害保健係および区内各保健相談所、区役所2階こうとう情報ステーションで配布しています。\n\n申請先（窓口もしくは郵送にてご申請ください）\n〒135-0016 江東区東陽2-1-1\n江東区保健所（健康センター2階）7番窓口\n健康推進課 公害保健係\n\n※各保健相談所では申請受付はしておりません。\n\n医療券をお持ちの方へ\n有効期間の満了が近いとき\n有効期間満了の2か月前に、対象となる方に更新手続きに必要な書類をお送りします。\n\n緑色の医療券をお持ちの方で、有効期間が18歳の誕生月末日までになっている方は、更新をすることが出来ません。\n\n氏名・住所・健康保険証等が変更になったとき\n次のような変更があったときは、公害保健係へ変更届の提出をお願いします。\n\n・江東区内で転居した\n※都内の他の自治体へ転出した方は、転出先の担当部署で手続きをしてください。\n　都外へ転出した方は資格を失うことになります。\n・江東区へ転入した\n・氏名が変わった\n・健康保険証が変わった\n窓口もしくは郵送にてお手続きが出来ます。必要書類等、詳しくは公害保健係までお問合せください。\n\n医療券をなくしたとき\n公害保健係へ再交付申請書を提出し、医療券の再交付を受けてください。\n\n窓口もしくは郵送にてお手続きが出来ます。詳しくは公害保健係までお問合せください。\n\n自己負担限度額管理票をなくした・使い切ったとき\n自己負担限度額管理票の送付依頼フォーム か、お電話でご請求ください。\n\nお急ぎの方は保健所窓口でのお渡しも可能です。\n\n関連ドキュメント\n　自己負担限度額管理票の送付依頼フォーム（外部サイトへリンク）;https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1664242429059\n\n　ぜん息患者のみなさまへ（PDF：1,401KB）;https://www.city.koto.lg.jp/260313/fukushi/hoken/kogai/documents/zensokukanja.pdf\n\n　医療券の更新を忘れずに！（PDF：1,301KB）;https://www.city.koto.lg.jp/260313/fukushi/hoken/kogai/documents/iryouken.pdf\n\n関連施設\n・江東区保健所;https://www.city.koto.lg.jp/260311/shisetsuannai/kenkou/hokenshisetsu/16330.html\n・保健相談所;https://www.city.koto.lg.jp/shisetsuannai/kenkou/hokenshisetsu/sodanjo/index.html\n関連リンク\n大気汚染医療費助成制度のご案内（東京都保健医療局HP）;https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/taiki/iryouhi/index.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の医療費助成制度",
+    "shortName": "大気汚染（ぜん息）医療費助成制度"
+  },
+  "localGovernmentLink": {
+    "title": "大気汚染（ぜん息）医療費助成制度",
+    "uri": "https://www.city.koto.lg.jp/260313/fukushi/hoken/kogai/6932.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-25",
+    "updater": "江東区"
+  },
+  "procedureCounter": "健康推進課 公害保健係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請書の配布\n申請書類等は保健所健康推進課公害保健係および区内各保健相談所、区役所2階こうとう情報ステーションで配布しています。\n\n申請先（窓口もしくは郵送にてご申請ください）\n〒135-0016 江東区東陽2-1-1\n江東区保健所（健康センター2階）7番窓口\n健康推進課 公害保健係\n\n※各保健相談所では申請受付はしておりません。\n\n医療券をお持ちの方へ\n有効期間の満了が近いとき\n有効期間満了の2か月前に、対象となる方に更新手続きに必要な書類をお送りします。\n\n緑色の医療券をお持ちの方で、有効期間が18歳の誕生月末日までになっている方は、更新をすることが出来ません。\n\n氏名・住所・健康保険証等が変更になったとき\n次のような変更があったときは、公害保健係へ変更届の提出をお願いします。\n\n江東区内で転居した\n※都内の他の自治体へ転出した方は、転出先の担当部署で手続きをしてください。\n　都外へ転出した方は資格を失うことになります。\n江東区へ転入した\n氏名が変わった\n健康保険証が変わった\n窓口もしくは郵送にてお手続きが出来ます。必要書類等、詳しくは公害保健係までお問合せください。\n\n医療券をなくしたとき\n公害保健係へ再交付申請書を提出し、医療券の再交付を受けてください。\n\n窓口もしくは郵送にてお手続きが出来ます。詳しくは公害保健係までお問合せください。\n\n自己負担限度額管理票をなくした・使い切ったとき\n自己負担限度額管理票の送付依頼フォーム か、お電話でご請求ください。;https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1664242429059\n\nお急ぎの方は保健所窓口でのお渡しも可能です。\n\n※各保健相談所では申請受付はしておりません。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "大気汚染に係る健康障害者に対する医療費の助成に関する条例"
+  },
+  "relatedLink": [
+    {
+      "title": "301KB）",
+      "uri": "https://www.city.koto.lg.jp/shisetsuannai/kenkou/hokenshisetsu/sodanjo/index.html"
+    },
+    {
+      "title": "401KB）",
+      "uri": "https://www.city.koto.lg.jp/260313/fukushi/hoken/kogai/documents/iryouken.pdf"
+    },
+    {
+      "title": "大気汚染医療費助成制度のご案内（東京都保健医療局HP）",
+      "uri": "https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/taiki/iryouhi/index.html"
+    },
+    {
+      "title": "自己負担限度額管理票の送付依頼フォーム（外部サイトへリンク）",
+      "uri": "https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1664242429059"
+    },
+    {
+      "title": "ぜん息患者のみなさまへ（PDF：1",
+      "uri": "https://www.city.koto.lg.jp/260313/fukushi/hoken/kogai/documents/zensokukanja.pdf"
+    },
+    {
+      "title": "医療券の更新を忘れずに！（PDF：1",
+      "uri": "https://www.city.koto.lg.jp/260311/shisetsuannai/kenkou/hokenshisetsu/16330.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "大気汚染の影響を受けると推定される疾病（気管支ぜん息など）にかかった方に対し、一定の要件を満たす場合に、医療費の助成をしています。",
+  "support": {
+    "description": "大気汚染の影響を受けると推定される疾病（気管支ぜん息等）にかかった方に対し、一定の要件を満たす場合に医療費を助成しています。\n\n対象疾病\n大気汚染の影響を受けていると推定される次の疾病およびその続発症\n［慢性気管支炎、気管支ぜん息、ぜん息性気管支炎、肺気しゅ］\n（注意）：風邪、インフルエンザ、肺炎、気管支炎、アレルギー性鼻炎、アトピー性皮膚炎等は対象疾病ではありません\n\n助成の内容\n医療券の有効期間内に、医療券に記載された疾病の治療に要した医療費のうち、健康保険を適用した後の自己負担額について助成します。",
+    "materiallySupport": null,
+    "monetarySupport": "大気汚染の影響を受けると推定される疾病（気管支ぜん息等）にかかった方に対し、一定の要件を満たす場合に医療費を助成しています。\n\n対象疾病\n大気汚染の影響を受けていると推定される次の疾病およびその続発症\n［慢性気管支炎、気管支ぜん息、ぜん息性気管支炎、肺気しゅ］\n（注意）：風邪、インフルエンザ、肺炎、気管支炎、アレルギー性鼻炎、アトピー性皮膚炎等は対象疾病ではありません\n\n助成の内容\n医療券の有効期間内に、医療券に記載された疾病の治療に要した医療費のうち、健康保険を適用した後の自己負担額について助成します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "・18歳未満の方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "・18歳未満の方\n　18歳以上の方の新規申請は平成27年3月31日をもって終了しました。\n・東京都の区域内に引き続き1年（3歳未満は6か月）以上住所を有している方\n・申請日以降喫煙しない方\n・健康保険に加入している方\n（注意）：健康保険とは、国民健康保険、健康保険、公務員共済などの医療保険のことです。"
+  },
+  "updateDate": "2023-07-13",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

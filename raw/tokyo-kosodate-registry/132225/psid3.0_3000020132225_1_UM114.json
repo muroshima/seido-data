@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132225;東久留米市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉保健部　健康課　予防係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132225",
+    "psid": "psid3.0+3000020132225+1+UM114"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都東久留米市滝山4-3-14",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉保健部　健康課　予防係",
+    "contactPhone": "042-477-0030",
+    "contactUrl": "https://www.city.higashikurume.lg.jp/kurashi/anzen/shinryo/1002409.html",
+    "zipCode": "2030033"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "注意：いずれも原則15歳以下の初期救急患者が対象\n\n月曜日・水曜日・木曜日・金曜日\n病院名\n　佐々総合病院\n住所\n　西東京市田無町4-24-15\n電話\n　042-461-1535\n診療時間\n　毎週月曜日・水曜日・木曜日・金曜日の午後7時30分～午後10時20分（祝日・年末年始以外）\n　※医師の診察の結果、点滴等の処置や入院等が必要とする場合は、他の病院を紹介します。\n佐々総合病院の地図;https://www.city.higashikurume.lg.jp/_res/projects/default_project/_page_/001/002/409/8-1.gif\n\n月曜日～金曜日\n病院名\n　多摩北部医療センター\n住所\n　東村山市青葉町1-7-1\n電話\n　042-396-3811\n診療時間\n　毎週月曜日～金曜日の午後7時30分～午後10時30分（祝日・年末年始以外）\n　・診療に関する問い合わせは、午前9時～午後5時（小児科外来）、午後5時～午前9時（救急室）\n多摩北部医療センターの地図;https://www.city.higashikurume.lg.jp/_res/projects/default_project/_page_/001/002/409/yakan.jpg",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "小児科救急",
+    "shortName": "平日準夜間小児初期救急診療（佐々総合病院、多摩北部医療センターで実施）"
+  },
+  "localGovernmentLink": {
+    "title": "平日準夜間小児初期救急診療（佐々総合病院、多摩北部医療センターで実施）",
+    "uri": "https://www.city.higashikurume.lg.jp/kurashi/anzen/shinryo/1002409.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "東久留米市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "救急医療対策事業実施要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "多摩北部医療センターと佐々総合病院にて、平日準夜間帯の小児初期救急診療を行っています。",
+  "support": {
+    "description": "月曜日・水曜日・木曜日・金曜日\n病院　名佐々総合病院\n住所　西東京市田無町4-24-15\n電話　042-461-1535\n診療時間　毎週月曜日・水曜日・木曜日・金曜日の午後7時30分～午後10時20分（祝日・年末年始以外）\n※医師の診察の結果、点滴等の処置や入院等が必要とする場合は、他の病院を紹介します。\n佐々総合病院の地図;https://www.city.higashikurume.lg.jp/_res/projects/default_project/_page_/001/002/409/8-1.gif\n\n月曜日～金曜日\n病院名　多摩北部医療センター\n住所　東村山市青葉町1-7-1\n電話　042-396-3811\n診療時間　毎週月曜日～金曜日の午後7時30分～午後10時30分（祝日・年末年始以外）\n・診療に関する問い合わせは、午前9時～午後5時（小児科外来）、午後5時～午前9時（救急室）\n多摩北部医療センターの地図;https://www.city.higashikurume.lg.jp/_res/projects/default_project/_page_/001/002/409/yakan.jpg",
+    "materiallySupport": "月曜日・水曜日・木曜日・金曜日\n病院　名佐々総合病院\n住所　西東京市田無町4-24-15\n電話　042-461-1535\n診療時間　毎週月曜日・水曜日・木曜日・金曜日の午後7時30分～午後10時20分（祝日・年末年始以外）\n※医師の診察の結果、点滴等の処置や入院等が必要とする場合は、他の病院を紹介します。\n佐々総合病院の地図;https://www.city.higashikurume.lg.jp/_res/projects/default_project/_page_/001/002/409/8-1.gif\n\n月曜日～金曜日\n病院名　多摩北部医療センター\n住所　東村山市青葉町1-7-1\n電話　042-396-3811\n診療時間　毎週月曜日～金曜日の午後7時30分～午後10時30分（祝日・年末年始以外）\n・診療に関する問い合わせは、午前9時～午後5時（小児科外来）、午後5時～午前9時（救急室）\n多摩北部医療センターの地図;https://www.city.higashikurume.lg.jp/_res/projects/default_project/_page_/001/002/409/yakan.jpg",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "いずれも原則15歳以下の初期救急患者が対象",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 15,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "いずれも原則15歳以下の初期救急患者が対象"
+  },
+  "updateDate": "2023-04-03",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

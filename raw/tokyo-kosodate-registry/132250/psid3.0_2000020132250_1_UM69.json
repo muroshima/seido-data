@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132250;稲城市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども福祉部　子育て支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132250",
+    "psid": "psid3.0+2000020132250+1+UM69"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "稲城市東長沼2111番地",
+    "contactComment": "ファクス：042-377-4781",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども福祉部　子育て支援課",
+    "contactPhone": "042-378-2111",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "児童育成手当（育成手当）（都制度）\n更新日：2024年4月1日\n対象\n父や母が死亡･離婚･重度の障害・生死不明などによりひとり親家庭状態にあり､18歳到達の年度末までの児童を養育している方\n\n手当月額\n児童1人につき13,500円\n\n支払方法\n原則として年3回（2月､6月､10月の中旬）、前の月までの4ヶ月分の手当を、指定の金融機関口座に振り込みます。なお、申請した日の翌月分から支給の対象となります。\n\n申請方法\n下記の書類などを持参して、市役所2階子育て支援課手当助成係へ申請してください。\n1　戸籍謄本\n2　申請者本人名義の金融機関の口座番号が分かるもの（通帳やカードなど）\n3　マイナンバーの確認書類\n注釈：申請時に申請書へマイナンバーの記載が必要となります。\n（申請者及び配偶者・児童分）\n注釈：マイナンバーの確認書類についての案内はコチラ;https://www.city.inagi.tokyo.jp/kosodate/kosodate/teate_josei_kyuhu/jidouteatenado/mynumber_kankeisyorui.html\n4　その他、状況により別に証明書などが必要となることがあります。詳しくはお問合せください。\n注意：1は、児童扶養手当の申請時に提出された場合は、省略できます｡\n\n所得制限\n下記の表を参考にしてください\n注意：毎年5月申請分から新年度となります。\n児童育成手当（育成手当）所得制限額表\n|人数|育成手当|\n|:----|:----|\n|0人|3,604,000円|\n|1人|3,984,000円|\n|2人|4,364,000円|\n|3人|4,744,000円|\n|4人|5,124,000円|\n|5人|5,504,000円|\n\n|扶養控除|老人扶養|100,000円|\n|^|特定扶養等|250,000円|\n|^|特別障害|400,000円|\n|^|その他障害|270,000円|\n|本人該当控除|特別障害|400,000円|\n|^|その他障害|270,000円|\n|^|寡婦|270,000円|\n|^|ひとり親|350,000円|\n|^|勤労学生|270,000円|\n|その他控除|雑損控除|相当額|\n|^|医療費控除|相当額|\n|^|小規模企業共済|相当額|\n|^|配偶者特別控除|相当額|\n|定額控除（社会保険相当額＝定額）|<|80,000円|\n\n備考1：この表の金額と比べるのは、あなたの所得（源泉徴収票の「給与所得控除後の金額」、市・都民税特別徴収税額通知の「総所得金額（1）」、確定申告書の「所得金額の合計」を参考にしてください）から、上記の控除額を引いた金額です。\n備考2：人数とは、税法上の扶養人数です。\n\n更新の手続き\n毎年6月に年度更新の手続きとして、現況届の提出が必要となります。\n5月下旬に子育て支援課から届出用紙を送付しますので、必要書類とともに提出してください。\n現況届の提出がない場合、6月分（10月支給分）以降の手当を受給できません。\n\n届け出が必要です\n次のような場合には、速やかにお手続きをお願いいたします。\n氏名を変更したとき\n住所を変更したとき\n婚姻（事実上の婚姻を含む）をしたとき　　注釈：独身異性との同居含む\n主たる生計者が変わったとき\n児童が児童福祉施設等に入所したとき\n児童が婚姻したとき\nその他支給要件に該当しない、手当を受給できない事情等が生じたとき\n\n手続き可能日時\n開庁日の午前8時30分から午後5時\n注釈：休日開庁日を除く。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の遺児の方への金銭的支援",
+    "shortName": "児童育成手当（育成手当）（都制度）"
+  },
+  "localGovernmentLink": {
+    "title": "児童育成手当（育成手当）（都制度）",
+    "uri": "https://www.city.inagi.tokyo.jp/kosodate/kosodate/teate_josei_kyuhu/jidouteatenado/jidouikusei_ikusei.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "稲城市"
+  },
+  "procedureCounter": "市役所2階子育て支援課手当助成係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請方法\n下記の書類などを持参して、市役所2階子育て支援課手当助成係へ申請してください。\n1　戸籍謄本\n2　申請者本人名義の金融機関の口座番号が分かるもの（通帳やカードなど）\n3　マイナンバーの確認書類\n注釈：申請時に申請書へマイナンバーの記載が必要となります。\n（申請者及び配偶者・児童分）\n注釈：マイナンバーの確認書類についての案内はコチラ;https://www.city.inagi.tokyo.jp/kosodate/kosodate/teate_josei_kyuhu/jidouteatenado/mynumber_kankeisyorui.html\n4　その他、状況により別に証明書などが必要となることがあります。詳しくはお問合せください。\n注意：1は、児童扶養手当の申請時に提出された場合は、省略できます｡",
+  "procedurePeriod": {
+    "conditions": "開庁日の午前8時30分から午後5時\n注釈：休日開庁日を除く。",
+    "fromHM": "08:30",
+    "fromYMD": null,
+    "toHM": "17:00",
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第4条～第7条",
+    "regulationName": "稲城市児童育成手当条例"
+  },
+  "relatedLink": [
+    {
+      "title": "マイナンバーの確認書類についての案内はコチラ",
+      "uri": "https://www.city.inagi.tokyo.jp/kosodate/kosodate/teate_josei_kyuhu/jidouteatenado/mynumber_kankeisyorui.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭の児童に対して児童の福祉の増進を図ることを目的とし、児童育成手当を支給しています。",
+  "support": {
+    "description": "手当月額\n児童1人につき13,500円\n支払方法\n原則として年3回（2月､6月､10月の中旬）、前の月までの4ヶ月分の手当を、指定の金融機関口座に振り込みます。なお、申請した日の翌月分から支給の対象となります。",
+    "materiallySupport": null,
+    "monetarySupport": "児童1人につき13,500円"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "091"
+    ]
+  },
+  "target": {
+    "conditions": "父や母が死亡･離婚･重度の障害・生死不明などによりひとり親家庭状態にあり､18歳到達の年度末までの児童を養育している方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "父や母が死亡･離婚･重度の障害・生死不明などによりひとり親家庭状態にあり､18歳到達の年度末までの児童を養育している方"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

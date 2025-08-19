@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "障害福祉課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+3+UM67"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "障害福祉課発達障害者相談グループ",
+    "contactPhone": "03-4566-2445",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "発達障害でお悩みの方をサポートします\n\n発達障害のある方やそのご家族でどこかに相談したいと感じている方、かといって病院に行くには抵抗があるという区民の方のため、区内大学のカウンセリング機関利用に対する助成事業を実施しています。\n\n担当窓口\n障害福祉課\n発達障害者相談グループ\n電話：03-4566-2445",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の障がいのあるお子さんなどへの金銭的支援",
+    "shortName": "豊島区発達障害者心理相談事業補助金"
+  },
+  "localGovernmentLink": {
+    "title": "カウンセリング費用の助成について",
+    "uri": "https://www.city.toshima.lg.jp/445/kenko/shogai/shienjigyo/shienjigyo/032351.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "チラシ（PDF：148KB）",
+      "uri": "https://www.city.toshima.lg.jp/445/kenko/shogai/shienjigyo/shienjigyo/documents/sinnrisoudanntirasi.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "発達障害のある方やそのご家族でどこかに相談したいと感じている方、かといって病院に行くには抵抗があるという区民の方のため、区内大学のカウンセリング機関利用に対する助成事業を実施しています。",
+  "support": {
+    "description": "対象機関でのカウンセリング費用の一部助成\n\n・助成金額…1回2,000円まで（一人あたり）\n・年間上限…24回まで\n\n詳細は各対象機関へ直接お問合せください。\n\nインテーク面接（初回面接）は原則対象となりませんが、関係機関からの「連絡票」を持参する場合は助成対象になります。",
+    "materiallySupport": null,
+    "monetarySupport": "対象機関でのカウンセリング費用の一部助成\n\n・助成金額…1回2,000円まで（一人あたり）\n・年間上限…24回まで"
+  },
+  "tag": {
+    "categoryCode": [
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "発達障害者および発達障害に起因した社会生活上の困難を主訴とする区内在住の本人または家族。"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": true,
+  "utilization": "以下の対象機関に直接相談の予約をしてください。\n\n【注意】\n相談は予約制です。\n相談の内容によって、他機関を紹介する場合があります。\n相談の内容によって、助成の対象とならない場合があります。\n相談の予約状況によっては面接をお待ちいただく場合があります。\n詳細は各対象機関のホームページをご覧ください。\n\n対象機関・予約先\n大正大学カウンセリング研究所\n【住所】豊島区西巣鴨3-20-1\n【電話】03-5394-3035\n【受付時間】月曜日～金曜日午前10時～午後5時\n帝京平成大学臨床心理センター\n【住所】豊島区東池袋4-26-10\n【電話】03-5979-6659\n【受付時間】月曜日～土曜日午前10時～午後5時",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": "10:00",
+    "toHM": "17:00"
+  }
+}

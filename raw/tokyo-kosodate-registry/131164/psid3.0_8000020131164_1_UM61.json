@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課児童給付グループ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+1+UM61"
+  },
+  "belongings": "児童扶養手当証書",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て支援課児童給付グループ",
+    "contactPhone": "03-3981-1417",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "児童扶養手当を受給している場合、都営交通（都バス・都電・都営地下鉄・日暮里舎人ライナー）の「無料乗車券」の交付が受けられます。\n\n平成22年10月1日以降の「無料乗車券」は、使用者の誕生月が更新時期になります。\n\n【注釈2】詳しくは下記リンク先をご参照ください。\n\n委任状について（子どもの手当・医療費助成）;https://www.city.toshima.lg.jp/261/kosodate/1707121616.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "土曜日・日曜日・祝日",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自のひとり親の方への金銭的支援",
+    "shortName": "都営交通の無料乗車券"
+  },
+  "localGovernmentLink": {
+    "title": "都営交通の無料乗車券",
+    "uri": "https://www.city.toshima.lg.jp/261/kosodate/kosodate/hitorioya/001722.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": "子育て支援課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "子育て支援課児童給付グループの窓口で、無料乗車券の交付を受けてください。",
+  "procedurePeriod": {
+    "conditions": "土曜日・日曜日・祝日は受付しておりませんのでご了承ください。",
+    "fromHM": "08:30",
+    "fromYMD": null,
+    "toHM": "17:00",
+    "toYMD": null
+  },
+  "procedurePersons": "児童扶養手当受給者または同一の世帯員\n窓口に来庁されるかたが、申請者または同一世帯のかた以外（代理人）の場合は、委任状が必要です。（同一の住所にお住まいでも、住民票上の世帯が別の場合は委任状が必要です。）",
+  "regulation": {
+    "regulationArticle": "第31条（母子家庭自立支援給付金）、第31条の10（父子家庭自立支援給付金）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "児童扶養手当",
+      "uri": "https://www.city.toshima.lg.jp/261/kosodate/kosodate/hitorioya/005889.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童扶養手当を受給している場合、都営交通（都バス・都電・都営地下鉄・日暮里舎人ライナー）の「無料乗車券」の交付が受けられます。",
+  "support": {
+    "description": "児童扶養手当を受給している場合、都営交通（都バス・都電・都営地下鉄・日暮里舎人ライナー）の「無料乗車券」の交付が受けられます。",
+    "materiallySupport": null,
+    "monetarySupport": "児童扶養手当を受給している場合、都営交通（都バス・都電・都営地下鉄・日暮里舎人ライナー）の「無料乗車券」の交付が受けられます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "児童扶養手当受給者または同一の世帯員で、都営交通を利用するかたのうち1人。"
+  },
+  "updateDate": "2017-07-21",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

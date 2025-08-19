@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131024;中央区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局学務課幼児教育支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131024",
+    "psid": "psid3.0+8000020131024+1+UM120"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "築地一丁目1番1号　本庁舎6階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "教育委員会事務局学務課幼児教育支援係",
+    "contactPhone": "03-6278-8163",
+    "contactUrl": null,
+    "zipCode": "1048404"
+  },
+  "cost": null,
+  "costConditions": "申し込み方法・利用方法\n事前に登録が必要となります。\n\n詳しくは、学務課にお問い合わせください。\n\n費用\n無料\n\n注記：夏休みなどの長期休業日（預かり保育利用時）は有料",
+  "description": "区立幼稚園全園（13園）で、希望者に対して無償で弁当給食を提供しています。\n\n弁当給食\n\n実施内容\n対象者\n区立幼稚園の在園児のうち希望者\n\n注記：弁当給食を希望しない方は、ご家庭からお弁当を持参していただきます。\n\n申し込み方法・利用方法\n事前に登録が必要となります。\n\n詳しくは、学務課にお問い合わせください。\n\n費用\n無料\n\n注記：夏休みなどの長期休業日（預かり保育利用時）は有料\n\n注意事項\n3歳児クラスの園児の利用は5月からとなります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関するその他のこと",
+    "shortName": "幼稚園の弁当給食"
+  },
+  "localGovernmentLink": {
+    "title": "区立幼稚園の弁当給食",
+    "uri": "https://www.city.chuo.lg.jp/a0049/gakumu/bentokyuusyoku.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "中央区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申し込み方法・利用方法\n事前に登録が必要となります。\n\n詳しくは、学務課にお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "区立幼稚園全園（13園）で、希望者に対して無償で弁当給食を提供しています。",
+  "support": {
+    "description": "幼稚園教育時間終了後や夏休みなどの長期休業期間中に園児をお預かりする預かり保育事業について、全園（13園）で実施しています。",
+    "materiallySupport": "区立幼稚園全園（13園）で、希望者に対して無償で弁当給食を提供しています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "区立幼稚園の在園児\n\n在籍している園でのみ利用できます。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区立幼稚園の在園児のうち希望者"
+  },
+  "updateDate": "2024-04-19",
+  "useConsiderationFlag": false,
+  "utilization": "申し込み方法・利用方法\n事前に登録が必要となります。\n\n詳しくは、学務課にお問い合わせください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

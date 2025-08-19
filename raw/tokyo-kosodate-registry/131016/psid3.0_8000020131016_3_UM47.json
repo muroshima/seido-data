@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "千代田保健所保健サービス課保健相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+3+UM47"
+  },
+  "belongings": "母子健康手帳（妊娠届提出時にお渡しします。）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区九段北1-2-14",
+    "contactComment": null,
+    "contactEmail": "hokensoudan@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "千代田保健所保健サービス課保健相談係",
+    "contactPhone": "03-5211-8175",
+    "contactUrl": null,
+    "zipCode": "1020073"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊娠・出産・育児について、さまざまな不安や悩みは誰もがあることです。一緒にご家庭にあった、出産準備や育児の方法を考えていきましょう。これからママ、パパになる方の、こころと体の状態を把握するためのチェックも行っています。\n\n面談受付時間\n平日9時～17時（最終受付：16時30分）\n\n千代田保健所では予約制で、土曜日も実施しています（妊娠届の提出も可）。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "（外部サイトへリンク）",
+      "uri": "https://chiyoda-portal.my.site.com/ctz/topPage"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": "09:00",
+    "fromYMD": null,
+    "toHM": "17:00",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "・千代田保健所6階保健サービス課\n・千代田区役所2階子育て推進課（総合窓口課に妊娠届を提出後、子育て推進課へお越しください。）"
+  },
+  "institutionName": {
+    "canonicalName": "千代田区の妊娠・出産に関する相談",
+    "shortName": "ままぱぱ面談（妊婦の全数面談事業）"
+  },
+  "localGovernmentLink": {
+    "title": "ままぱぱ面談（妊婦の全数面談事業）",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/ninshin/chiyomama.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": "千代田区役所または千代田保健所",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "ままぱぱ面談ちらし（PDF：270KB）",
+      "uri": "https://www.city.chiyoda.lg.jp/documents/16050/mendan-chirashi_1.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "区内在住で、妊娠届を提出されたすべての妊婦さんを対象とし、ままぱぱ面談を行っています。千代田区役所または千代田保健所で妊娠届を提出された方はその場で面談を受けることができます。",
+  "support": {
+    "description": "初回面談を受けた方には、妊娠期に活用できる「こども商品券1万円」をお渡ししています。",
+    "materiallySupport": null,
+    "monetarySupport": "初回面談を受けた方には、妊娠期に活用できる「こども商品券1万円」をお渡ししています。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "082"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住（住民登録のある方）で、妊娠届を提出された妊婦"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "千代田区役所または千代田保健所で妊娠届を提出された方はその場で面談を受けることができます。区役所では、保健所とオンラインで面談ができ、ご希望の方には、子育てコーディネーターから保育園などの子育て支援サービスの案内を受けることができます。出張所で妊娠届を提出された方は、後日、面談場所へお越しください。\n\n千代田保健所では予約制で、土曜日も実施しています（妊娠届の提出も可）。ご予約はお電話（電話番号：03-5211-8175）、もしくはポータルサイトからお願いします。ポータルサイトの利用方法については以下をご覧ください。\n・ポータルサイトの初回アカウント登録方法について（PDF：393KB）;https://www.city.chiyoda.lg.jp/documents/16050/torokuhoho.pdf",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

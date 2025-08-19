@@ -1,0 +1,143 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課子育て支援担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+1+UM112"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市小川町2-1333　市役所2階",
+    "contactComment": "FAX：042-346-9200",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て支援課子育て支援担当",
+    "contactPhone": "042-346-9821",
+    "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+    "zipCode": "1878701"
+  },
+  "cost": null,
+  "costConditions": "無料",
+  "description": "こども広場\nこども広場9施設、出張子ども広場9施設あります。詳しくは、下記をご覧ください。\n\n子ども広場の様子\n\n子ども広場の様子\n子どもの遊び場、親子の交流・相談\n子育てコンシェルジュによる子育ての相談・情報の提供、親子の交流、こどもの遊びの指導、講習会などを行っています。\n\n費用は無料です。授乳ができる場所もあります。ぜひお越しください。\n\n相談・情報提供\n子育てコンシェルジュによる子育ての相談や情報の提供\n\n交流\n子育て中の保護者の交流や集いの場の提供\n\n講習会\n子育てや子育て支援に関する講習会などの実施\n\n遊びの指導\nこどもの遊びの場の提供・遊びの指導、イベントの開催\n\n利用できる人\n乳幼児親子\n小学生、中学生\n利用について\n体調不良の方は、利用をお控えください。また、幼稚園や学校等で感染症等により学級閉鎖となったお子さんについては、感染拡大防止の観点から利用をお控えください。\n\n広場紹介\nhttps://www.city.kodaira.tokyo.jp/kurashi/000/000216.html\n\n子ども広場リーフレット\nリーフレット表面（PDF 303.6KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/216/000216/att_0000010.pdf\nリーフレット裏面（PDF 443.1KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/216/000216/att_0000011.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "https://www.city.kodaira.tokyo.jp/kurashi/000/000216.html",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "https://www.city.kodaira.tokyo.jp/kurashi/000/000216.html",
+    "implementationName": "https://www.city.kodaira.tokyo.jp/kurashi/000/000216.html"
+  },
+  "institutionName": {
+    "canonicalName": "子育て広場",
+    "shortName": "こども広場"
+  },
+  "localGovernmentLink": {
+    "title": "こども広場",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/000/000216.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "小平市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第6項",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "子ども家庭支援センター",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/003/003792.html"
+    },
+    {
+      "title": "児童館",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/003/003829.html"
+    },
+    {
+      "title": "リーフレット裏面（PDF 443.1KB）",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/216/000216/att_0000011.pdf"
+    },
+    {
+      "title": "リーフレット表面（PDF 303.6KB）",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/216/000216/att_0000010.pdf"
+    },
+    {
+      "title": "子育て相談一覧",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/003/003608.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "市内の子育てひろばは、小学校就学前のお子さんが安心して遊べるスペースがあり、子育て中の親子が気軽に集い、仲間づくりを通して子育てに関する相談や情報交換等を行う機会を提供しています。また、お子さんの年齢に応じた各種イベントなども行っています。\n（イベントの詳細については、小平市サイトや市報などでお知らせしています。）",
+  "support": {
+    "description": "子育てコンシェルジュによる子育ての相談・情報の提供、親子の交流、こどもの遊びの指導、講習会などを行っています。",
+    "materiallySupport": "子育てコンシェルジュによる子育ての相談・情報の提供、親子の交流、こどもの遊びの指導、講習会などを行っています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "乳幼児親子\n小学生、中学生"
+  },
+  "updateDate": "2024-04-18",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "https://www.city.kodaira.tokyo.jp/kurashi/000/000216.html",
+    "fromHM": null,
+    "toHM": null
+  }
+}

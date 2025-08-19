@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132233;武蔵村山市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子ども育成課 手当・医療係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132233",
+    "psid": "psid3.0+3000020132233+1+UM60"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "185・186・187",
+    "contactName": "子ども家庭部 子ども育成課 手当・医療係",
+    "contactPhone": "042-565-1111",
+    "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/e_04a/1003761",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "母子家庭等高等職業訓練促進給付金等\n母子家庭及び父子家庭高等職業訓練促進給付金\n母子家庭の母又は父子家庭の父が自立に向けた就業を容易にするために必要な資格の取得を促進するため、母子家庭及び父子家庭高等職業訓練促進給付金を支給します。\nまた、養成訓練を修了した場合においては、養成機関への入学時における負担を考慮した高等職業訓練修了支援給付金を支給します。\n\n支給対象者\n市内にお住いの20歳未満の児童を養育している母子家庭の母又は父子家庭の父で、次のすべての要件を満たすかた\n1.児童扶養手当の支給を受けているか、児童扶養手当の支給要件と同様の所得水準にあるかた\n2.養成機関において1年以上のカリキュラムを修業し、対象資格の所得が見込まれるかた\n3.就業又は育児と修業の両立が困難であると認められるかた \n4.過去に母子家庭等高等職業訓練促進給付金及び高等職業訓練修了支援給付金の支給を受けていないかた\n\n対象資格\n1.看護師\n2.准看護師\n3.介護福祉士\n4.保育士\n5.理学療法士\n6.作業療法士\n7.前各号に掲げるもののほか、市長が必要と認める資格\n令和4年度に限り、6か月以上の訓練を必要とするデジタル分野等の民間資格（シスコシステムズ認定資格、LPI認定資格等）も対象となります。\n\n支給期間\n高等職業訓練促進給付金\n支給の対象となる期間は、資格の取得に係る修業期間です。\nただし、4年を上限とします。\n\n高等職業訓練修了支援給付金\n修了日を経過した日以後に支給します。\n\n支給額\n高等職業訓練促進給付金\n・市町村民税の額が非課税となる世帯　月額100,000円（最後の1年：140,000円）\n・市町村民税の額が課税となる世帯　月額70,500円（最後の1年：110,500円）\n\n高等職業訓練修了支援給付金\n・市町村民税の額が非課税となる世帯　50,000円\n・市町村民税の額が課税となる世帯　25,000円\n申請について\n支給申請前に事前相談が必要です。\n子ども青少年課手当・青少年係へ電話予約のうえ、ご相談ください。\n（注意）\n支給に当たっては審査を行います。審査の結果、支給できない場合もあります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "高等職業訓練促進給付金",
+    "shortName": "母子家庭等高等職業訓練促進給付金等"
+  },
+  "localGovernmentLink": {
+    "title": "母子家庭等高等職業訓練促進給付金等",
+    "uri": "https://www.city.musashimurayama.lg.jp/kosodate/teate/hitorioya/1003761.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "武蔵村山市"
+  },
+  "procedureCounter": "子ども育成課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "支給申請前に事前相談が必要です。\n子ども青少年課手当・青少年係へ電話予約のうえ、ご相談ください。\n（注意）\n支給に当たっては審査を行います。審査の結果、支給できない場合もあります。",
+  "procedurePeriod": {
+    "conditions": "講座修了日の翌日から30日以内に給付金支給申請をしてください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第31条（母子家庭自立支援給付金）、第31条の10（父子家庭自立支援給付金）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭の母または父が、就業に結びつきやすい対象資格（看護師や介護福祉士など）を取得するため1年以上（令和3年4月1日から令和4年3月31日までに修業を開始する場合には6月以上）、養成機関で修業する場合に、修業期間中の生活の負担軽減のために高等職業訓練促進給付金を、また修業終了時に高等職業訓練修了支援給付金を支給します。",
+  "support": {
+    "description": "支給期間\n高等職業訓練促進給付金\n支給の対象となる期間は、資格の取得に係る修業期間です。\nただし、4年を上限とします。\n\n高等職業訓練修了支援給付金\n修了日を経過した日以後に支給します。\n\n支給額\n高等職業訓練促進給付金\n・市町村民税の額が非課税となる世帯　月額100,000円（最後の1年：140,000円）\n・市町村民税の額が課税となる世帯　月額70,500円（最後の1年：110,500円）\n\n高等職業訓練修了支援給付金\n・市町村民税の額が非課税となる世帯　50,000円\n・市町村民税の額が課税となる世帯　25,000円",
+    "materiallySupport": null,
+    "monetarySupport": "支給期間\n高等職業訓練促進給付金\n支給の対象となる期間は、資格の取得に係る修業期間です。\nただし、4年を上限とします。\n\n高等職業訓練修了支援給付金\n修了日を経過した日以後に支給します。\n\n支給額\n高等職業訓練促進給付金\n・市町村民税の額が非課税となる世帯　月額100,000円（最後の1年：140,000円）\n・市町村民税の額が課税となる世帯　月額70,500円（最後の1年：110,500円）\n\n高等職業訓練修了支援給付金\n・市町村民税の額が非課税となる世帯　50,000円\n・市町村民税の額が課税となる世帯　25,000円"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "市内にお住いの20歳未満の児童を養育している母子家庭の母又は父子家庭の父で、次のすべての要件を満たすかた\n1.児童扶養手当の支給を受けているか、児童扶養手当の支給要件と同様の所得水準にあるかた\n2.養成機関において1年以上のカリキュラムを修業し、対象資格の所得が見込まれるかた\n3.就業又は育児と修業の両立が困難であると認められるかた \n4.過去に母子家庭等高等職業訓練促進給付金及び高等職業訓練修了支援給付金の支給を受けていないかた",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "市内にお住いの20歳未満の児童を養育している母子家庭の母又は父子家庭の父で、次のすべての要件を満たすかた\n1.児童扶養手当の支給を受けているか、児童扶養手当の支給要件と同様の所得水準にあるかた\n2.養成機関において1年以上のカリキュラムを修業し、対象資格の所得が見込まれるかた\n3.就業又は育児と修業の両立が困難であると認められるかた \n4.過去に母子家庭等高等職業訓練促進給付金及び高等職業訓練修了支援給付金の支給を受けていないかた"
+  },
+  "updateDate": "2022-07-04",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

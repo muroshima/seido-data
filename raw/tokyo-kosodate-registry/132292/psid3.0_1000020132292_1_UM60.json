@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132292;西東京市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132292",
+    "psid": "psid3.0+1000020132292+1+UM60"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "西東京市南町五丁目6番13号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て支援課",
+    "contactPhone": "042-460-9840",
+    "contactUrl": null,
+    "zipCode": "1888666"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "高等職業訓練促進給付金の支給\n\n概要\n母子家庭のお母さん、父子家庭のお父さんが養成機関において修業し、就職に有利な資格を取得し、今より向上した生活を目指すとき、生活の負担を軽減するために、受講期間のうちの一定期間について給付金を支給する制度です。\n資格取得後の生活の見通しや子育てと勉強との両立、お子さんの入学、卒業などのタイミング、学費や生活費など経済的なこと、他の併用できる制度の利用についてなどを考えて、利用を検討してください。\n\n申請要件\n児童扶養手当を受給しているか同等の所得水準の方で、修業年数が6か月（*1）以上の養成機関において資格取得が見込まれる方。\n過去に当該給付金を受給したことがない方。\n対象資格\n看護師　准看護師　介護福祉士　保育士　理学療法士　作業療法士　保健師　助産師　理容師　美容師　歯科衛生士　社会福祉士　製菓衛生師　調理師\n\n対象年齢\nお子さんが20歳未満\n\n支給額\n住民税が非課税の場合は月額100,000円、課税の場合は月額70,500円となります。\n修了までの最後の12月については40,000円が加算されます。\n修業開始時に資格要件があり、修了時にも要件を満たしている方は修了支援給付金として、住民税が非課税の方は50,000円、課税の方は25,000円が支給されます。\n\n支給期間\n6か月以上で上限は4年までです。\n\n学費について\n給付金は生活費を想定したものです。学費については自己資金で払う必要があります。\n自己資金が不足する場合、貸付の制度があります。\n\n母子福祉資金（生活資金　技能習得資金）\n高等職業訓練促進資金\n6か月以上で対象となる講座について\n（*1）雇用保険制度の一般教育訓練の指定講座（*2情報関係の講座に限る）若しくは特定一般教育訓練又は専門実践教育訓練の指定講座（外部リンク）;https://www.kyufu.mhlw.go.jp/kensaku/?ntで、就職に有利となる資格などを取得するため、6か月以上養成機関で修業する場合も、修業する期間に訓練促進給付金を、また修了後に修了支援給付金を支給します。\n\n*2情報関係の講座： Webクリエイター能力認定試験、Microsoft　Office　Specialist2010，2013，2016、CAD利用技術者試験、建築CAD検定、Photoshopクリエイター能力認定試験、Illustratorクリエイター能力認定試験、VBAエキスパート、Oracle認定資格・LPICなどでITSSレベル1の資格）\n\n詳しくはお問い合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "高等職業訓練促進給付金",
+    "shortName": "高等職業訓練促進給付金"
+  },
+  "localGovernmentLink": {
+    "title": "高等職業訓練促進給付金の支給",
+    "uri": "https://www.city.nishitokyo.lg.jp/kosodate/hitorioyakatei/koutouginoukunren.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "西東京市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第31条（母子家庭自立支援給付金）、第31条の10（父子家庭自立支援給付金）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "指定講座（外部リンク）",
+      "uri": "https://www.kyufu.mhlw.go.jp/kensaku/?nt"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭の母または父が、就業に結びつきやすい対象資格（看護師や介護福祉士など）を取得するため1年以上（令和3年4月1日から令和4年3月31日までに修業を開始する場合には6月以上）、養成機関で修業する場合に、修業期間中の生活の負担軽減のために高等職業訓練促進給付金を、また修業終了時に高等職業訓練修了支援給付金を支給します。",
+  "support": {
+    "description": "支給額\n住民税が非課税の場合は月額100,000円、課税の場合は月額70,500円となります。\n修了までの最後の12月については40,000円が加算されます。\n修業開始時に資格要件があり、修了時にも要件を満たしている方は修了支援給付金として、住民税が非課税の方は50,000円、課税の方は25,000円が支給されます。\n\n支給期間\n6か月以上で上限は4年までです。\n\n学費について\n給付金は生活費を想定したものです。学費については自己資金で払う必要があります。\n自己資金が不足する場合、貸付の制度があります。\n\n母子福祉資金（生活資金　技能習得資金）\n高等職業訓練促進資金",
+    "materiallySupport": null,
+    "monetarySupport": "住民税が非課税の場合は月額100,000円、課税の場合は月額70,500円となります。\n修了までの最後の12月については40,000円が加算されます。\n修業開始時に資格要件があり、修了時にも要件を満たしている方は修了支援給付金として、住民税が非課税の方は50,000円、課税の方は25,000円が支給されます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "お子さんが20歳未満",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "・児童扶養手当を受給しているか同等の所得水準の方で、修業年数が6か月（*1）以上の養成機関において資格取得が見込まれる方。\n・過去に当該給付金を受給したことがない方。\n\n対象資格\n看護師　准看護師　介護福祉士　保育士　理学療法士　作業療法士　保健師　助産師　理容師　美容師　歯科衛生士　社会福祉士　製菓衛生師　調理師\n\n対象年齢\nお子さんが20歳未満\n\n6か月以上で対象となる講座について\n（*1）雇用保険制度の一般教育訓練の指定講座（*2情報関係の講座に限る）若しくは特定一般教育訓練又は専門実践教育訓練の指定講座（外部リンク）;https://www.kyufu.mhlw.go.jp/kensaku/?ntで、就職に有利となる資格などを取得するため、6か月以上養成機関で修業する場合も、修業する期間に訓練促進給付金を、また修了後に修了支援給付金を支給します。\n\n*2情報関係の講座： Webクリエイター能力認定試験、Microsoft　Office　Specialist2010，2013，2016、CAD利用技術者試験、建築CAD検定、Photoshopクリエイター能力認定試験、Illustratorクリエイター能力認定試験、VBAエキスパート、Oracle認定資格・LPICなどでITSSレベル1の資格）\n\n詳しくはお問い合わせください。"
+  },
+  "updateDate": "2024-05-20",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

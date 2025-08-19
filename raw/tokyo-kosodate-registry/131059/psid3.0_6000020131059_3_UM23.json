@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131059;文京区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子育て支援課児童給付係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131059",
+    "psid": "psid3.0+6000020131059+3+UM23"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都文京区春日1丁目16番21号\n文京シビックセンター5階南側",
+    "contactComment": "ファクス番号：03-5803-1345",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部子育て支援課児童給付係",
+    "contactPhone": "03-5803-1288",
+    "contactUrl": "https://logoform.jp/form/6KSu/553764",
+    "zipCode": "1128555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "住所や氏名等に変更があった場合、申請事項変更届を提出してください。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "子ども医療費助成 申請事項変更届（外部リンク）",
+      "uri": "https://logoform.jp/form/6KSu/422995"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児医療費（子ども医療費）の助成",
+    "shortName": "子ども医療費助成"
+  },
+  "localGovernmentLink": {
+    "title": "子ども医療費助成",
+    "uri": "https://www.city.bunkyo.lg.jp/b022/p001459/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "文京区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "住所や氏名等に変更があった場合、申請事項変更届を提出してください。来庁が難しい方は、郵送または電子申請で手続きしてください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "条例第7条1項、規則第9条1項",
+    "regulationName": "文京区子どもの医療費の助成に関する条例、条例施行規則"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子どもの保健対策を充実し、子育て世帯の経済的負担を軽減するため、お子さんが病気やけがなどにより健康保険を使って医療機関で受診した場合、保険診療の自己負担分（2割または3割）の一部を助成しています。",
+  "support": {
+    "description": "住所や氏名等に変更があった場合、申請事項変更届を提出してください。来庁が難しい方は、郵送または電子申請で手続きしてください。",
+    "materiallySupport": "住所や氏名等に変更があった場合、申請事項変更届を提出してください。来庁が難しい方は、郵送または電子申請で手続きしてください。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-05-13",
+  "useConsiderationFlag": false,
+  "utilization": "上下にある太枠内の記入に加え、変更がある部分のみ記入してください。\n\n住所変更\n新住所と旧住所を記入してください。\n保険変更\n変更前及び変更後の保険の種類をチェックし、対象の子ども全員分の健康保険証コピーを添付してください。\n氏名変更\n対象者の新氏名と旧氏名を記入してください。\n保護者変更\n現在受給中の医療費助成資格を消滅後、新規に医療証交付申請をする必要があります。申請事項変更届の太枠内と消滅理由を記入し提出すると同時に、子どもの医療証交付申請をしてください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

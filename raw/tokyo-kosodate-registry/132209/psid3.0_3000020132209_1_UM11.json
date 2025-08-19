@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132209;東大和市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども未来部子ども家庭センター母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132209",
+    "psid": "psid3.0+3000020132209+1+UM11"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都東大和市中央3-918-1",
+    "contactComment": "ファクス：042-561-0711",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども未来部子ども家庭センター母子保健係",
+    "contactPhone": "042-565-5212",
+    "contactUrl": "https://www.city.higashiyamato.lg.jp/kosodatekyoiku/kosodate/1003114/1003118.html",
+    "zipCode": "2070015"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊婦訪問\nツイッターでツイート（外部リンク・新しいウィンドウで開きます）;https://twitter.com/intent/tweet?text=%E5%A6%8A%E5%A9%A6%E8%A8%AA%E5%95%8F%ef%bd%9c%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82%E5%85%AC%E5%BC%8F%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8&url=https%3A%2F%2Fwww.city.higashiyamato.lg.jp%2Fkosodatekyoiku%2Fkosodate%2F1003114%2F1003118.html\nフェイスブックでシェア（外部リンク・新しいウィンドウで開きます）;https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.city.higashiyamato.lg.jp%2Fkosodatekyoiku%2Fkosodate%2F1003114%2F1003118.html&t=%E5%A6%8A%E5%A9%A6%E8%A8%AA%E5%95%8F%ef%bd%9c%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82%E5%85%AC%E5%BC%8F%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8\nラインでシェア（外部リンク・新しいウィンドウで開きます）;https://line.me/R/msg/text/?%E5%A6%8A%E5%A9%A6%E8%A8%AA%E5%95%8F%ef%bd%9c%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82%E5%85%AC%E5%BC%8F%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%0d%0ahttps%3A%2F%2Fwww.city.higashiyamato.lg.jp%2Fkosodatekyoiku%2Fkosodate%2F1003114%2F1003118.htmlページ番号1003118　 更新日 2022年10月21日\n印刷\n大きな文字で印刷\n安心して出産ができるよう、助産師や保健師が訪問し、体調や出産に関することなどの相談をお受けします。\n\n対象\n妊婦\n\n方法\n東大和市立保健センター（電話：042-565-5211）へご相談ください。（土曜日・日曜日、祝日を除く午前8時30分～午後5時）。\n\n保健センター案内;https://www.city.higashiyamato.lg.jp/kenkofukushi/kenkoiryo/1002689.html\nご家族の健康についてもご心配なことがありましたら、お気軽にご相談ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊産婦訪問",
+    "shortName": "妊婦訪問"
+  },
+  "localGovernmentLink": {
+    "title": "妊婦訪問",
+    "uri": "https://www.city.higashiyamato.lg.jp/kosodatekyoiku/kosodate/1003114/1003118.html"
+  },
+  "odInformation": {
+    "content": "更新",
+    "updateDate": "2024-07-02",
+    "updater": "東大和市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "東大和市立保健センター（電話：042-565-5211）へご相談ください。（土曜日・日曜日、祝日を除く午前8時30分～午後5時）。\n\n保健センター案内;https://www.city.higashiyamato.lg.jp/kenkofukushi/kenkoiryo/1002689.html\nご家族の健康についてもご心配なことがありましたら、お気軽にご相談ください。",
+  "procedurePeriod": {
+    "conditions": "土曜日・日曜日、祝日を除く午前8時30分～午後5時",
+    "fromHM": "08:30",
+    "fromYMD": null,
+    "toHM": "17:00",
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第17条（妊産婦の訪問指導等）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "保健センター　施設案内",
+      "uri": "https://www.city.higashiyamato.lg.jp/kenkofukushi/kenkoiryo/1002689.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊産婦の方（妊娠中または出産後1年以内）を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、妊娠期間中や出産後の不安や悩みについての相談等を行います。",
+  "support": {
+    "description": "安心して出産ができるよう、助産師や保健師が訪問し、体調や出産に関することなどの相談をお受けします。",
+    "materiallySupport": "安心して出産ができるよう、助産師や保健師が訪問し、体調や出産に関することなどの相談をお受けします。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊婦"
+  },
+  "updateDate": "2022-10-21",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

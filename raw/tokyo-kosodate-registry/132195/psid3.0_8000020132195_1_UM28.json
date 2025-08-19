@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132195;狛江市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子ども若者政策課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132195",
+    "psid": "psid3.0+8000020132195+1+UM28"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子ども若者政策課助成支援係",
+    "contactPhone": "03-3430-1277",
+    "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,105153,html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "利子\n資金によって異なり、無利子または年1.0％\n\n償還方法\n月賦、半年または年賦による元利均等償還",
+  "description": "母子および父子福祉資金\n　母子および父子福祉資金は、ひとり親家庭の方々が経済的に自立して、安定した生活を送るために必要とする資金をお貸しする制度です。\n\n対象\n都内に6カ月以上お住まいの母子家庭の母または父子家庭の父等で、20歳未満のお子さんを扶養している方\n\n利子\n資金によって異なり、無利子または年1.0％\n\n償還方法\n月賦、半年または年賦による元利均等償還\n\n保証人\n資金によって異なり、連帯保証人が必要な場合があります。\n\n審査\n貸付に当たっては審査を行います。審査の結果、貸付の目的を達成することが困難と認められるときや、事業計画が適切でないときは、お貸しできない場合があります。\n\n相談・問い合わせ\n子ども若者政策課へ。\n\n※貸付限度額等の詳細は、東京都ホームページ（外部リンク）でご確認ください。;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/hitorioya_shien/keizai/boshi.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "母子父子寡婦福祉資金",
+    "shortName": "母子および父子福祉資金"
+  },
+  "localGovernmentLink": {
+    "title": "母子および父子福祉資金",
+    "uri": "https://www.city.komae.tokyo.jp/index.cfm/44,115218,341,2078,html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "狛江市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（母子福祉資金の貸付け）、第14条（母子・父子福祉団体に対する貸付け）、第31条の6（父子福祉資金の貸付け）、第32条（寡婦福祉資金の貸付け）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "東京都ホームページ（外部リンク）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo//hitorioya_shien/keizai/boshi.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "母子家庭の母、父子家庭の父、および寡婦の方の経済的自立や、扶養しているお子さんの福祉増進のために、必要な資金をお貸しする制度です。",
+  "support": {
+    "description": "母子および父子福祉資金は、ひとり親家庭の方々が経済的に自立して、安定した生活を送るために必要とする資金をお貸しする制度です。\n\n利子\n資金によって異なり、無利子または年1.0％\n\n償還方法\n月賦、半年または年賦による元利均等償還\n\n保証人\n資金によって異なり、連帯保証人が必要な場合があります。\n\n審査\n貸付に当たっては審査を行います。審査の結果、貸付の目的を達成することが困難と認められるときや、事業計画が適切でないときは、お貸しできない場合があります。",
+    "materiallySupport": null,
+    "monetarySupport": "利子\n資金によって異なり、無利子または年1.0％\n\n償還方法\n月賦、半年または年賦による元利均等償還\n\n保証人\n資金によって異なり、連帯保証人が必要な場合があります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "20歳未満のお子さん",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "都内に6カ月以上お住まいの母子家庭の母または父子家庭の父等で、20歳未満のお子さんを扶養している方"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

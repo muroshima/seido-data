@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132063;府中市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部保育支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132063",
+    "psid": "psid3.0+8000020132063+1+UM25"
+  },
+  "belongings": "契約書",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部保育支援課入所認定係",
+    "contactPhone": "042-335-4172",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": "150",
+  "costConditions": "1時間150円",
+  "description": "令和6年度ベビーシッター利用支援事業のご案内\n最終更新日：2024年4月1日\nベビーシッター利用支援事業のご案内\nベビーシッター利用支援事業とは、子供が保育所等に入所できるまでの間、保育所等の代わりとして、東京都の認定を受けたベビーシッター事業者を利用する場合の利用料の一部を補助する事業です。本事業は、東京都、公益社団法人全国保育サービス協会及び府中市が連携して実施しています。\n\n対象者\n待機児童の保護者　\n　　　認可保育所に入所申込みをし、利用不可となった児童の保護者\n\n育児休業満了者\n　　　認可保育所の0歳児クラスに入所申込みをせず、1年間育児休業を満了した後に復職する保護者\n\n事業の内容\nお子さんが認可保育所等に入所できるまでの間、保育所等の代わりとして、東京都の認定を受けたベビーシッター事業者を1時間150円で利用できる事業です（助成対象は保育料のみ。入会金・交通費等は助成対象外）。\n\n利用時間等\n月曜日から土曜日までの午前7時から午後10時までのうち、\n＜保育短時間認定の方＞…1日8時間までかつ月160時間まで\n＜保育標準時間認定の方＞…1日11時間までかつ月220時間まで\n保育場所は自宅のみとなります。兄弟姉妹の保育や送迎、家事等のサービスは含みません。\nまた、保護者が休暇の日（体調不良を含む。）や、産休・育休中の場合は利用できません。\n注記：日曜日、祝日・休日及び年末年始（12月29日から1月3日まで）は利用できません。\n\nご利用の流れ\n市窓口で事業の説明と「対象者確認書」の交付を受けてください。\n対象の事業者を選択し、事業者と直接利用契約を行ってください（対象者確認書の提示が必要です。）。\n認定事業者との契約成立後、初回利用予定日の10開庁日前までに、契約書を持って、市窓口にお越しください（専用システムのアカウント発行申請書をご記入いただきます。）。\n後日、アカウントが郵送で利用者宅に届きます。\n利用の際、システムから発行された助成券コード（番号）をベビーシッター従事者に伝えてください（利用者には、利用者の負担額のみが請求されます。）。\n注意事項\n令和2年度から、対象児童の体調不良により、利用予定日の前日又は当日にやむを得ずキャンセルする場合に発生するキャンセル料について、一定の条件を満たす場合に限り、助成を行うこととなりました。詳細は、利用約款をご確認ください（利用約款第7条第3項）。\n認定事業者一覧\n都が認定するベビーシッター事業者の一覧は、東京都のホームページでご覧になれます。\n\nベビーシッター利用支援事業（東京都のホームページへ）（外部サイト）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/hoiku/bs/bs4nendo.html\n\n令和5年度ベビーシッター利用支援事業　利用案内 （PDF：3,110KB）;https://www.city.fuchu.tokyo.jp/kosodate/shussan/hoikujo/R6babysitter.files/R5annnai.pdf\n\n令和6年度ベビーシッター利用支援事業　利用約款 （PDF：165KB）;https://www.city.fuchu.tokyo.jp/kosodate/shussan/hoikujo/R6babysitter.files/R6yakkan.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "日曜日、祝日・休日及び年末年始（12月29日から1月3日まで）",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "保育場所は自宅のみ"
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自のベビーシッター費用の助成",
+    "shortName": "ベビーシッター利用支援事業"
+  },
+  "localGovernmentLink": {
+    "title": "令和6年度ベビーシッター利用支援事業のご案内",
+    "uri": "https://www.city.fuchu.tokyo.jp/kosodate/shussan/hoikujo/R6babysitter.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-23",
+    "updater": "府中市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "ご利用の流れ\n5.利用の際、システムから発行された助成券コード（番号）をベビーシッター従事者に伝えてください（利用者には、利用者の負担額のみが請求されます。）。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "令和６年度ベビーシッター利用支援事業 （ベビーシッター事業者連携型）実施要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "ベビーシッター利用支援事業（東京都のホームページへ）（外部サイト）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/hoiku/bs/bs5nendo.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ベビーシッターを利用する際の費用の一部を負担する制度です｡\nお子さんが病気で保育園や小学校に登園・登校させることが困難な時期に、ベビーシッターなどの派遣を受けた保護者に対し、派遣に要した費用の一部を助成することにより、保護者の経済的な負担の軽減をはかり、保護者の子育てと就労の両立を支援します。",
+  "support": {
+    "description": "お子さんが認可保育所等に入所できるまでの間、保育所等の代わりとして、東京都の認定を受けたベビーシッター事業者を1時間150円で利用できる事業です（助成対象は保育料のみ。入会金・交通費等は助成対象外）。\n兄弟姉妹の保育や送迎、家事等のサービスは含みません。\nまた、保護者が休暇の日（体調不良を含む。）や、産休・育休中の場合は利用できません。\n\n注意事項\n令和2年度から、対象児童の体調不良により、利用予定日の前日又は当日にやむを得ずキャンセルする場合に発生するキャンセル料について、一定の条件を満たす場合に限り、助成を行うこととなりました。詳細は、利用約款をご確認ください（利用約款第7条第3項）。\n認定事業者一覧\n都が認定するベビーシッター事業者の一覧は、東京都のホームページでご覧になれます。\n\nベビーシッター利用支援事業（東京都のホームページへ）（外部サイト）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/hoiku/bs/bs4nendo.html\n\n令和6年度ベビーシッター利用支援事業　利用案内 （PDF：3,110KB）;https://www.city.fuchu.tokyo.jp/kosodate/shussan/hoikujo/R6babysitter.files/R6riyouannai.pdf\n\n令和6年度ベビーシッター利用支援事業　利用約款 （PDF：165KB）;https://www.city.fuchu.tokyo.jp/kosodate/shussan/hoikujo/R6babysitter.files/R6yakkan.pdf",
+    "materiallySupport": null,
+    "monetarySupport": "お子さんが認可保育所等に入所できるまでの間、保育所等の代わりとして、東京都の認定を受けたベビーシッター事業者を1時間150円で利用できる事業です（助成対象は保育料のみ。入会金・交通費等は助成対象外）。\n兄弟姉妹の保育や送迎、家事等のサービスは含みません。\nまた、保護者が休暇の日（体調不良を含む。）や、産休・育休中の場合は利用できません。\n\n注意事項\n令和2年度から、対象児童の体調不良により、利用予定日の前日又は当日にやむを得ずキャンセルする場合に発生するキャンセル料について、一定の条件を満たす場合に限り、助成を行うこととなりました。詳細は、利用約款をご確認ください（利用約款第7条第3項）。\n認定事業者一覧\n都が認定するベビーシッター事業者の一覧は、東京都のホームページでご覧になれます。\n\nベビーシッター利用支援事業（東京都のホームページへ）（外部サイト）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/hoiku/bs/bs4nendo.html\n\n令和6年度ベビーシッター利用支援事業　利用案内 （PDF：3,110KB）;https://www.city.fuchu.tokyo.jp/kosodate/shussan/hoikujo/R6babysitter.files/R5annnai.pdf\n\n令和6年度ベビーシッター利用支援事業　利用約款 （PDF：165KB）;https://www.city.fuchu.tokyo.jp/kosodate/shussan/hoikujo/R6babysitter.files/R6riyouannai.pdf"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "・待機児童の保護者　\n　　　認可保育所に入所申込みをし、利用不可となった児童の保護者\n\n・育児休業満了者\n　　　認可保育所の0歳児クラスに入所申込みをせず、1年間育児休業を満了した後に復職する保護者"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "ご利用の流れ\n1.市窓口で事業の説明と「対象者確認書」の交付を受けてください。\n2.対象の事業者を選択し、事業者と直接利用契約を行ってください（対象者確認書の提示が必要です。）。\n3.認定事業者との契約成立後、初回利用予定日の10開庁日前までに、契約書を持って、市窓口にお越しください（専用システムのアカウント発行申請書をご記入いただきます。）。\n4.後日、アカウントが郵送で利用者宅に届きます。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日から土曜日までの午前7時から午後10時までのうち、\n＜保育短時間認定の方＞…1日8時間までかつ月160時間まで\n＜保育標準時間認定の方＞…1日11時間までかつ月220時間まで",
+    "fromHM": null,
+    "toHM": null
+  }
+}

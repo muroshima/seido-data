@@ -1,0 +1,251 @@
+{
+  "area": {
+    "areaCode": "132128;日野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども部保育課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132128",
+    "psid": "psid3.0+1000020132128+1+UM89"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都日野市神明1丁目13番地の2子ども包括支援センター1階",
+    "contactComment": "保育幼稚園係 042-514-8637　管理係 042-514-8638　整備調整係 042-514-8972,代表電話：042-585-1111",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども部保育課",
+    "contactPhone": "042-514-8637,042-514-8638,042-514-8972,042-585-1111",
+    "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120200",
+    "zipCode": "1910016"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "https://www.city.hino.lg.jp/kosodate/hoikuen/nyuen/1024910.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "認可保育所・認定こども園（保育園枠）一覧",
+    "shortName": "認可保育所,認定こども園"
+  },
+  "localGovernmentLink": {
+    "title": "日野市内保育施設の一覧表（令和6年度）",
+    "uri": "https://www.city.hino.lg.jp/kosodate/hoikuen/nyuen/1024910.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "日野市"
+  },
+  "procedureCounter": "子ども部保育課保育幼稚園係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "しせい太陽の子保育園（外部リンク）",
+      "uri": "http://shisei2-hoiku.jp/taiyonoko/"
+    },
+    {
+      "title": "日野わかば保育園（外部リンク）",
+      "uri": "http://www.wakaba1981.jp/"
+    },
+    {
+      "title": "日野保育園（外部リンク）",
+      "uri": "http://www.hino-nursery.ed.jp/"
+    },
+    {
+      "title": "栄光多摩平中央保育園（外部リンク）",
+      "uri": "http://www.eikouhoikuen.com/"
+    },
+    {
+      "title": "つくしんぼ保育園（外部リンク）",
+      "uri": "https://tsukushinbohoikuen.codmon.net/"
+    },
+    {
+      "title": "あおぞら東豊田保育園旭が丘分園（外部リンク）",
+      "uri": "https://www.ans.co.jp/u/aozora-fukushikai/asahigaoka-bunen.html"
+    },
+    {
+      "title": "栄光たまだいら保育園（外部リンク）",
+      "uri": "http://www.eikouhoikuen.com/"
+    },
+    {
+      "title": "あおぞら東豊田保育園（外部リンク）",
+      "uri": "https://www.ans.co.jp/u/aozora-fukushikai/fukiage-hoikuen.html"
+    },
+    {
+      "title": "むこうじま保育園（外部リンク）",
+      "uri": "https://www.ans.co.jp/n/mukoujima/"
+    },
+    {
+      "title": "至誠いしだ保育園（外部リンク）",
+      "uri": "http://shisei2-hoiku.jp/ishida/"
+    },
+    {
+      "title": "百草台幼稚園（外部リンク）",
+      "uri": "https://www.mogusadai.ed.jp/"
+    },
+    {
+      "title": "日野駅前かわせみ保育園（外部リンク）",
+      "uri": "http://www.ans.co.jp/n/hinoekimaekawasemi/"
+    },
+    {
+      "title": "栄光豊田駅前保育園（外部リンク）",
+      "uri": "http://www.eikouhoikuen.com/"
+    },
+    {
+      "title": "日野・多摩平幼稚園（外部リンク）",
+      "uri": "https://www.tamadaira.ed.jp/"
+    },
+    {
+      "title": "芝原保育園（外部リンク）",
+      "uri": "http://www.shibahara.ed.jp/"
+    },
+    {
+      "title": "栄光平山台保育園（外部リンク）",
+      "uri": "http://www.eikouhoikuen.com/"
+    },
+    {
+      "title": "子どもの森あさかわ保育園（外部リンク）",
+      "uri": "https://k-asakawa.org/"
+    },
+    {
+      "title": "至誠あずま保育園（外部リンク）",
+      "uri": "http://shisei2-hoiku.jp/azuma/"
+    },
+    {
+      "title": "よつぎ日野保育園（外部リンク）",
+      "uri": "https://www.yotsugi.or.jp/%E3%82%88%E3%81%A4%E3%81%8E%E4%BF%9D%E8%82%B2%E5%9C%92%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97/%E3%82%88%E3%81%A4%E3%81%8E%E6%97%A5%E9%87%8E%E4%BF%9D%E8%82%B2%E5%9C%92/"
+    },
+    {
+      "title": "豊田保育園（外部リンク）",
+      "uri": "https://toyoda.ed.jp/"
+    },
+    {
+      "title": "公立保育園の様子",
+      "uri": "https://www.city.hino.lg.jp/kosodate/hoikuen/yousu/index.html"
+    },
+    {
+      "title": "たかはた北保育園（外部リンク）",
+      "uri": "http://www.ans.co.jp/n/takahatakita/"
+    },
+    {
+      "title": "栄光多摩平の森保育園（外部リンク）",
+      "uri": "http://www.eikouhoikuen.com/"
+    },
+    {
+      "title": "わらべ日野市役所東保育園（外部リンク）",
+      "uri": "http://www.seishinfukushikai.jp/warabehino/"
+    },
+    {
+      "title": "日野第二保育園（外部リンク）",
+      "uri": "http://www.ans.co.jp/n/hino2/"
+    },
+    {
+      "title": "ひよこハウス豊田（外部リンク）",
+      "uri": "https://hiyoko-house.jp/toyoda/"
+    },
+    {
+      "title": "ひよこハウス多摩平（外部リンク）",
+      "uri": "https://hiyoko-house.jp/tamadaira/"
+    },
+    {
+      "title": "あおぞら多摩平保育園（外部リンク）",
+      "uri": "https://www.ans.co.jp/u/aozora-fukushikai/tama-hoikuen.html"
+    },
+    {
+      "title": "栄光保育園（外部リンク）",
+      "uri": "http://www.eikouhoikuen.com/"
+    },
+    {
+      "title": "万願寺保育園（外部リンク）",
+      "uri": "http://shisei2-hoiku.jp/manganji/"
+    },
+    {
+      "title": "上田せせらぎ保育園（外部リンク）",
+      "uri": "https://www.seseragi.org/"
+    },
+    {
+      "title": "至誠第二保育園（外部リンク）",
+      "uri": "http://shisei2-hoiku.jp/daini/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育園とは、保護者が仕事や病気などのために、家庭で充分に保育することができない子どもを、保護者に代わって保育することを目的とした児童福祉施設で、法的には保育所といいます。\n保育所（保育園）のうち、国が定めた設定基準をクリアし、都道府県知事（政令市・中核市では市長）に認可された保育園を「認可保育所」といいます。\n認可保育所には公立の保育園と私立の保育園があります。\n以下は、日野市内の認可保育所（保育園）および認定こども園の保育園枠の一覧です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部保健予防課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM824"
+  },
+  "belongings": "詳細はお問い合わせください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部保健予防課精神保健係",
+    "contactPhone": "03-5661-2465",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "自立支援医療費制度（精神通院医療）は、精神疾患の治療のために通院されている方を対象に、治療費の負担を軽減する制度です。この制度は精神通院医療に係る往診・デイケア・訪問看護・てんかんの診療および薬代も対象としています。精神疾患のため通院による治療を受ける場合、医療費に継続的な負担がかかります。そのような方のために、通院医療費の負担軽減を図る制度です。また、区市町村民税が非課税世帯の方は、自己負担分を助成する制度もあります。自立支援医療費制度が適用される医療機関・薬局等は、申請時に申請者が指定をした医療機関・薬局等に限ります。（医療機関及び薬局などの事業者自身も指定自立支援医療機関（精神通院医療）の指定を受けている事が前提となります。）受給者証に利用できる医療機関等が記載されます。有効期限は原則として1年です。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度（精神通院医療）",
+    "shortName": "自立支援医療費制度（精神通院医療）"
+  },
+  "localGovernmentLink": {
+    "title": "自立支援医療費制度（精神通院医療）",
+    "uri": "https://www.city.edogawa.tokyo.jp/e054/kenko/kenko/kokoro/kokoro/seido/jiritsushien.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/17",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "中央健康サポートセンター,小岩健康サポートセンター,葛西健康サポートセンター,清新町健康サポートセンター,小松川健康サポートセンター,なぎさ健康サポートセンター,東部健康サポートセンター,鹿骨健康サポートセンター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "お近くの健康サポートセンターへ必要書類を提出してください。",
+  "procedurePeriod": {
+    "conditions": "更新申請は、毎年必要です。有効期間満了日の3ヶ月前から出来ますので、お早めに手続きをして下さい。下記の変更がある場合、変更申請が必要になります。詳しくは、健康サポートセンターにお問合せください。\n住所・氏名の変更、保険の変更、病院、薬局の変更や追加、紛失、汚損、破損したとき",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [
+    {
+      "title": "中部総合精神保健福祉センター",
+      "uri": "http://www.fukushihoken.metro.tokyo.jp/chusou/index.html"
+    },
+    {
+      "title": "健康サポートセンター所管区域一覧",
+      "uri": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/shokanichiran.html"
+    },
+    {
+      "title": "更新手続き案内LINE及びSMSについて（東京都）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/shougai/nichijo/tsuuin/seishintsuuin.html"
+    },
+    {
+      "title": "自立支援医療（精神通院医療）について",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/shougai/nichijo/tsuuin/seishintsuuin.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+  "support": {
+    "description": "通常、医療保険では3割が自己負担となりますが、自立支援医療費制度を併用した場合、自己負担は原則1割に軽減されます。",
+    "materiallySupport": null,
+    "monetarySupport": "自己負担は原則1割に軽減"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "精神疾患の治療のために通院されている方"
+  },
+  "updateDate": "2024/12/02",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

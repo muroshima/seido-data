@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132225;東久留米市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子育て支援課　施設給付係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132225",
+    "psid": "psid3.0+3000020132225+1+UM85"
+  },
+  "belongings": "保険証、母子手帳、お薬手帳",
+  "capacity": "1日あたり4人",
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都東久留米市本町3-3-1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子育て支援課　施設給付係",
+    "contactPhone": "042-470-7745",
+    "contactUrl": "https://www.city.higashikurume.lg.jp/kurashi/kosodate/byougo/1000474.html",
+    "zipCode": "2038555"
+  },
+  "cost": null,
+  "costConditions": "・登録料：2,000円（年間）\n・保育料：4時間以上　4,000円 （市外在住 6,000円） 、4時間未満　2,000円 （市外在住 3,000円）\n・時間外：30分あたり600円 （午後5時～）",
+  "description": "病児・病後児保育室とは\n病児・病後児保育室とは、児童が病中または病気の回復期にあって集団保育が困難な期間、医療機関などに付設された専用スペースなどにおいて、保育および看護ケアを行う施設です。\n\n東久留米市内病児・病後児保育室\nこども静養室　めぐのへや（東久留米市幸町5-7-1）\n\n保育対象\n1歳以上、小学校低学年の病児・病後児\n\n定員\n1日あたり4人\n\n保育時間\n月曜日～金曜日 午前9時～午後5時\n土曜・日曜日、祝日、お盆、年末年始及び医師不在時はお休みです。\n\n利用料\n・登録料：2,000円（年間）\n・保育料：4時間以上　4,000円 （市外在住 6,000円） 、4時間未満　2,000円 （市外在住 3,000円）\n・時間外：30分あたり600円 （午後5時～）\n\n利用限度\n医療的に必要な日数が利用できます。\n\n利用方法\n事前に登録が必要となります。児童が健康なときに施設に訪問ください。\nその際、保険証、母子手帳、お薬手帳をお持ちください。\nその他不明な点は、直接施設までお問い合わせください。\n\nお問い合わせ先\nこども静養室 めぐのへや（東久留米市幸町5-7-1） 電話：042-420-9095",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "土曜・日曜日、祝日、お盆、年末年始及び医師不在時",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "病児・病後児保育",
+    "shortName": "病児・病後児保育施設"
+  },
+  "localGovernmentLink": {
+    "title": "病児・病後児保育施設",
+    "uri": "https://www.city.higashikurume.lg.jp/kurashi/kosodate/byougo/1000474.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "東久留米市"
+  },
+  "procedureCounter": "こども静養室 めぐのへや（東久留米市幸町5-7-1） 電話：042-420-9095",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "事前に登録が必要となります。児童が健康なときに施設に訪問ください。\nその他不明な点は、直接施設までお問い合わせください。\n\n",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第13項、第21条の9、第59条第11号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育所などに通所しているお子さんが病気や病気の回復期にあることから保育所での集団保育が困難で、かつ、保護者の就労などにより家庭で保育を行うことができない場合、病児・病後児保育を行っている施設で一時的に預かります。",
+  "support": {
+    "description": "病児・病後児保育室とは、児童が病中または病気の回復期にあって集団保育が困難な期間、医療機関などに付設された専用スペースなどにおいて、保育および看護ケアを行う施設です。\nこども静養室　めぐのへや（東久留米市幸町5-7-1）\n\n利用限度\n医療的に必要な日数が利用できます。",
+    "materiallySupport": "病児・病後児保育室とは、児童が病中または病気の回復期にあって集団保育が困難な期間、医療機関などに付設された専用スペースなどにおいて、保育および看護ケアを行う施設です。\nこども静養室　めぐのへや（東久留米市幸町5-7-1）\n\n利用限度\n医療的に必要な日数が利用できます。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "1歳以上、小学校低学年の病児・病後児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "1歳以上、小学校低学年の病児・病後児"
+  },
+  "updateDate": "2015-03-21",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日～金曜日 午前9時～午後5時",
+    "fromHM": "09:00",
+    "toHM": "17:00"
+  }
+}

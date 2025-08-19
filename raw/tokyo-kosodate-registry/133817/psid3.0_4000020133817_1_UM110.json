@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "133817;三宅村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉健康課 福祉係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "4000020133817",
+    "psid": "psid3.0+4000020133817+1+UM110"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三宅島三宅村阿古497",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "三宅村役場臨時庁舎 福祉健康課 福祉係,東京都三宅支庁 総務課",
+    "contactPhone": "04994-5-0902,04994-2-1311",
+    "contactUrl": null,
+    "zipCode": "1001212"
+  },
+  "cost": null,
+  "costConditions": "利用料は無料です。",
+  "description": "三宅村子育て広場\n子育て広場は、乳幼児の心身の健全な発達を促すと共に、保護者の子育て並びに地域生活の交流の場、子育てに関する情報提供や講習の場等の幅広い子育て支援を目的としています。保護者の方には子どもの自由な遊び場・子育てに悩んだときや疲れたときのリフレッシュの場・子育ての相談の場・子育てグループ育成の場として活用していただきたいと思います。利用料は無料です。\n\n所在地\n三宅村阿古1906番地(三宅村阿古福祉会館内)\nTEL：04994-5-0615\n\n開館日\n月曜日から土曜日で午前10時から午後3時までです。\n\n休館日\n日曜・祝日、年末年始\n(駐車場が狭いので、なるべく乗り合わせでお越しください。)\n\n保護者の方への注意事項\n営利を目的とする行為をしないでください。\n危険物及び危険のあるものを持ち込まないでください。\n火災防止に努め、指定場所以外では火気を持ち込まないでください。\n他の利用者に迷惑のかかる行為をしないでください。\nお帰りの際、ゴミは持ち帰ってください。\n村職員等の指示に従ってください。\n乳幼児には必ず保護者が付き添ってください。\n駐車場が狭いので、なるべく乗り合わせでお越しください。\nお子様の体調がよくない時は利用をお控えください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "日曜・祝日、年末年始\n(駐車場が狭いので、なるべく乗り合わせでお越しください。)",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "三宅村阿古1906番地",
+    "implementationName": "三宅村阿古福祉会館内"
+  },
+  "institutionName": {
+    "canonicalName": "子育て支援拠点・地域子育て支援センター",
+    "shortName": "三宅村子育て広場"
+  },
+  "localGovernmentLink": {
+    "title": "児童・母子福祉",
+    "uri": "https://www.vill.miyake.tokyo.jp/kurashi/hoken_nenkin_fukushi/fukushi/jidou_boshi.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-19",
+    "updater": "三宅村"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第6項、第21条の9",
+    "regulationName": "児童福祉法、児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "三宅村では阿古福祉会館を子育て支援拠点として、子育て中の親子が気軽に集い、相互交流や子育ての不安・悩みを相談できる場を提供しています。また、地域の子育て関連情報の提供や、子育て支援に関する講習なども実施しています。",
+  "support": {
+    "description": "子育て広場は、乳幼児の心身の健全な発達を促すと共に、保護者の子育て並びに地域生活の交流の場、子育てに関する情報提供や講習の場等の幅広い子育て支援を目的としています。保護者の方には子どもの自由な遊び場・子育てに悩んだときや疲れたときのリフレッシュの場・子育ての相談の場・子育てグループ育成の場として活用していただきたいと思います。",
+    "materiallySupport": "子育て広場は、乳幼児の心身の健全な発達を促すと共に、保護者の子育て並びに地域生活の交流の場、子育てに関する情報提供や講習の場等の幅広い子育て支援を目的としています。保護者の方には子どもの自由な遊び場・子育てに悩んだときや疲れたときのリフレッシュの場・子育ての相談の場・子育てグループ育成の場として活用していただきたいと思います。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日から土曜日で午前10時から午後3時までです。",
+    "fromHM": "10:00",
+    "toHM": "15:00"
+  }
+}

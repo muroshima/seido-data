@@ -1,0 +1,130 @@
+{
+  "area": {
+    "areaCode": "131024;中央区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": null,
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131024",
+    "psid": "psid3.0+8000020131024+2+UM45"
+  },
+  "belongings": "受診される際には、保険証を持参してください。また、次の各医療証をお持ちの方は、保険証と一緒に医療証を必ず持参ください。忘れた場合は自費となりますのでご注意ください。\n乳幼児医療証（小学校就学前の方）\nこども医療証（小学校、中学校就学中の方）\n高校生等医療証（高校就学中等の方）\nマイナンバーカードの健康保険証利用に対応しています。なお、システムの不具合等により利用できない場合は、所定の用紙への記入等をお願いする場合がありますので、あらかじめご了承ください。\nおくすり手帳をお持ちの方は、来所の際にお持ちください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都中央区明石町12番1号",
+    "contactComment": null,
+    "contactEmail": "kenko_01@city.chuo.lg.jp",
+    "contactEx": "10-357",
+    "contactName": "中央区保健j健康推進課管理係",
+    "contactPhone": "03-3541-5930",
+    "contactUrl": null,
+    "zipCode": "1040044"
+  },
+  "cost": null,
+  "costConditions": "受診される際には、保険証を持参してください。また、次の各医療証をお持ちの方は、保険証と一緒に医療証を必ず持参ください。忘れた場合は自費となりますのでご注意ください。\n乳幼児医療証（小学校就学前の方）\nこども医療証（小学校、中学校就学中の方）\n高校生等医療証（高校就学中等の方）",
+  "description": "平日準夜間の小児科診療\n注記：緊急の場合以外は、通常の診療時間内に各医療機関で診療を受けてください。定期的に受診することはできません。\n\n対象者\n中学生まで（15歳以下）の急病患者\n\n診療日\n月曜日から金曜日（国民の祝日、年末年始は除く）\n\n受付時間\n午後6時45分から9時45分（診療は午後7時から10時）\n\n場所\n聖路加国際病院小児総合医療センター（外部サイトへリンク）\n電話：03-5550-7040\n\n毎日の診療案内（24時間）\n急な病気やけがのときなど、救急車の利用や医療機関の受診で迷った場合に相談ください。\n\n東京消防庁救急相談センター\n#7119（携帯電話・PHS・プッシュ回線、24時間・年中無休）\nつながらない場合\n電話：03-3212-2323\n東京都医療機関案内サービスひまわり（外部サイトへリンク）\n電話：03-5272-0303",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "国民の祝日,年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "聖路加国際病院小児総合医療センター（外部サイトへリンク）;https://goo.gl/maps/9Fz8ocdkWUL9gFZ68",
+    "implementationName": "聖路加国際病院小児総合医療センター（外部サイトへリンク）;https://goo.gl/maps/9Fz8ocdkWUL9gFZ68"
+  },
+  "institutionName": {
+    "canonicalName": "夜間・休日急病診療所",
+    "shortName": "平日準夜間の小児科診療"
+  },
+  "localGovernmentLink": {
+    "title": "土曜・休日等の診療",
+    "uri": "https://www.city.chuo.lg.jp/a0019/kenkouiryou/iryou/kyuukyuu/kinkyunosinryo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-24",
+    "updater": "中央区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "受診の際は、あらかじめ電話で症状等を伝えてから診療所に来所してください。",
+  "procedurePeriod": {
+    "conditions": "月曜日から金曜日（国民の祝日、年末年始は除く）",
+    "fromHM": "18:45",
+    "fromYMD": null,
+    "toHM": "21:45",
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "東京都医療機関案内サービスひまわり（外部サイトへリンク）",
+      "uri": "https://www.hokeniryo.metro.tokyo.lg.jp/iryo/sodan/komatta/kyuubyou/24h_annai.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "中学生まで（15歳以下）の急病患者に対する小児科診療事業を実施している。",
+  "support": {
+    "description": "緊急の場合以外は、通常の診療時間内に各医療機関で診療を受けてください。定期的に受診することはできません。",
+    "materiallySupport": "緊急の場合以外は、通常の診療時間内に各医療機関で診療を受けてください。定期的に受診することはできません。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "中学生まで（15歳以下）の急病患者",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 15,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "中学生まで（15歳以下）の急病患者"
+  },
+  "updateDate": "2024-04-22",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "診療日\n月曜日から金曜日（国民の祝日、年末年始は除く）\n\n受付時間\n午後6時45分から9時45分（診療は午後7時から10時）",
+    "fromHM": "19:00",
+    "toHM": "22:00"
+  }
+}

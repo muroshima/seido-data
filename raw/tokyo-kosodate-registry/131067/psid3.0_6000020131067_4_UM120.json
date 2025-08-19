@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131067;台東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "障害福祉課給付担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131067",
+    "psid": "psid3.0+6000020131067+4+UM120"
+  },
+  "belongings": "■　申請手続きに必要なもの\n１.補聴器等購入費助成金交付意見書\n２.購入を希望する補聴器等の見積書\n３.転入の方は本人（２０歳未満は扶養義務者）の前年の所得がわかる（非）課税証明書",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "台東区東上野4-5-6",
+    "contactComment": null,
+    "contactEmail": "s-fuku@city.taito.tokyo.jp",
+    "contactEx": "2721",
+    "contactName": "障害福祉課給付担当",
+    "contactPhone": "03-5246-1201",
+    "contactUrl": null,
+    "zipCode": "1108615"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "事業内容\n身体障害者手帳の交付対象とならない中等度難聴児に対して、補聴器の装用により言語の習得や生活能力、コミュニケーション能力等の向上を促進するため、補聴器等（補聴器並びに補聴器の付属品であるワイヤレスマイク、受信機及びオーディオシュー）の購入費用の一部を助成します。購入前に申請が必要です。\n\n対象者\n次のいずれにも該当する児童\n\n台東区内に居住している18歳未満の児童\n身体障害者手帳（聴覚障害）交付の対象となる聴力ではないこと\n両耳の聴力レベルが概ね30dB以上であり、補聴器の装用により、言語の習得等一定の効果が期待できると医師が判断する児童\n　\n\n基準額（限度額）\n補聴器　　　　　　　　144,900円\nワイヤレスマイク　　　135,400円\n受信機　　　　　　　　 97,300円\nオーディオシュー　　　　5,250円\n※修理にかかる費用は対象外です\n\n助成額\n基準額と補聴器等の購入費用を比較して少ない方の額の9/10\n（生活保護世帯・区民税非課税世帯は10/10）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関するその他のこと",
+    "shortName": "中等度難聴児発達支援事業"
+  },
+  "localGovernmentLink": {
+    "title": "中等度難聴児発達支援事業",
+    "uri": "https://www.city.taito.lg.jp/kenkohukusi/shogai/service/enjo/ji/tyuutoudo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "台東区"
+  },
+  "procedureCounter": "障害福祉課（2階10番窓口）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "必要書類を窓口または郵送にて障害福祉課へご提出ください。\n窓口\n障害福祉課（2階10番窓口）",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "東京都台東区中等度難聴児発達支援事業実施要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "身体障害者手帳の交付対象とならない１８歳未満の児童に対して、補聴器等の購入費用の一部を助成します。\n購入前の申請が必要です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": "基準額の9/10\nただし、生活保護世帯または区民税非課税世帯の場合は10/10"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "１８歳未満の児童"
+  },
+  "updateDate": "2021-09-06",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

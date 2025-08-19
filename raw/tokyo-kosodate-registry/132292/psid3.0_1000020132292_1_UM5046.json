@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132292;西東京市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "幼児教育・保育課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132292",
+    "psid": "psid3.0+1000020132292+1+UM5046"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "西東京市南町五丁目6番13号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "幼児教育・保育課",
+    "contactPhone": "042-460-9842",
+    "contactUrl": null,
+    "zipCode": "1888666"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "幼児教育無償化に係る利用給付（私立幼稚園）\n\n私立幼稚園等で提供される給食等のうち、おかずやデザート等の「副食費」と、ご飯などの「主食費」をそれぞれの給付限度額に応じて支払います（食材料費の単価は園によって異なります）。\n\n対象者・利用料\n・小学3年生以下から数えて、第3子以降に該当する子ども\n・低所得世帯（年収360万円未満相当）=保護者補助金1・2・3区分にあたる世帯の方（保護者負担軽減事業費補助金;https://www.city.nishitokyo.lg.jp/kosodate/yotien/hozyokin.htmlのページ末尾の「補助金対象基準、交付額一覧」をご覧ください。）\n・月額上限は、主食費3,000円、副食費4,700円ですが、実食数に応じて上限額は変動します。（1食分の食材料費×実食数）\n\n給食費（食材料費）の請求・給付方法\n保護者の方が施設に支払った給食費（食材料費）について、施設から提供いただく実績を基に算定します。\n請求書は通園している施設を通じて配布します。施設から提出日の指定がありますので、指定された日までに施設に提出してください。\n・転入等の理由により後から請求する方は、幼児教育・保育課（田無第二庁舎2階）に直接提出してください。\n補助金は、申請に基づき前期と後期の年2回に分けて、指定の口座に振り込みます。\n\n令和5年度は、前期分（令和5年4月から9月まで）の振込みを11月末に、後期分（令和5年10月から令和6年3月まで）の振込みを令和6年5月末に予定しています。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "副食費補助",
+    "shortName": "給食費（食材料費）の給付"
+  },
+  "localGovernmentLink": {
+    "title": "幼児教育無償化に係る利用給付（私立幼稚園）",
+    "uri": "https://www.city.nishitokyo.lg.jp/kosodate/yotien/kyuhunintei.html#cms46EBC"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-11",
+    "updater": "西東京市"
+  },
+  "procedureCounter": "通園している施設\n転入等の理由により後から請求する方は、幼児教育・保育課（田無第二庁舎2階）に直接提出",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "給食費（食材料費）の請求・給付方法\n保護者の方が施設に支払った給食費（食材料費）について、施設から提供いただく実績を基に算定します。\n請求書は通園している施設を通じて配布します。施設から提出日の指定がありますので、指定された日までに施設に提出してください。\n・転入等の理由により後から請求する方は、幼児教育・保育課（田無第二庁舎2階）に直接提出してください。\n補助金は、申請に基づき前期と後期の年2回に分けて、指定の口座に振り込みます。",
+  "procedurePeriod": {
+    "conditions": "請求書は通園している施設を通じて配布します。施設から提出日の指定がありますので、指定された日までに施設に提出してください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "保護者負担軽減事業費補助金",
+      "uri": "https://www.city.nishitokyo.lg.jp/kosodate/yotien/hozyokin.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "西東京市では、一定の要件を満たしている世帯を対象に、保育所等で提供される給食等にかかる食材料費の一部（副食費）を免除しています。",
+  "support": {
+    "description": "私立幼稚園等で提供される給食等のうち、おかずやデザート等の「副食費」と、ご飯などの「主食費」をそれぞれの給付限度額に応じて支払います（食材料費の単価は園によって異なります）。\n月額上限は、主食費3,000円、副食費4,700円ですが、実食数に応じて上限額は変動します。（1食分の食材料費×実食数）",
+    "materiallySupport": null,
+    "monetarySupport": "月額上限は、主食費3,000円、副食費4,700円ですが、実食数に応じて上限額は変動します。（1食分の食材料費×実食数）"
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "小学3年生以下から数えて、第3子以降に該当する子ども\n・低所得世帯（年収360万円未満相当）=保護者補助金1・2・3区分にあたる世帯の方（保護者負担軽減事業費補助金;https://www.city.nishitokyo.lg.jp/kosodate/yotien/hozyokin.htmlのページ末尾の「補助金対象基準、交付額一覧」をご覧ください。）"
+  },
+  "updateDate": "2024-03-05",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

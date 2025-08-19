@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援センター東部子ども家庭支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+5+UM106"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援センター東部子ども家庭支援センター",
+    "contactPhone": "03-5980-5275",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "区内在住のひとり親家庭等で、小学校修了までのお子さんがいるご家庭にヘルパーを派遣いたします。\nこの事業は、東西子ども家庭支援センターで実施しています。\n\n利用日時\n毎日午前7時～午後9時（12月29日～1月3日を除く）\n\n利用時間\n年間70時間まで\n1回2時間以上4時間まで（1日につき4時間以内）\n\n利用料金\n\n|時間数|:----|年間70時間以内|\n|料金|:----|生活保護世帯・住民税非課税世帯：無料<br>児童育成手当受給家庭：無料<br>その他の家庭：1時間500円<br>（複数児童の育児の場合、料金は1.5倍です。)|\n\n・ひとり親等になって1年後から小学校修了まで\n\n|時間数|:----|年間70時間以内|\n|料金|:----|生活保護世帯・住民税非課税世帯：無料<br>児童育成手当受給家庭：1時間500円<br>その他の家庭：1時間900円<br>（複数児童の育児の場合、料金は1.5倍です。)|\n\n育児の例\n乳幼児の授乳・食事・着替え・沐浴・昼寝・おむつ交換など\n兄・姉の世話・検診への付き添い・そのほか必要なこと\n\n家事の例\n衣類洗濯・居室掃除・そのほか必要なこと\n買い物は生活必需品等に限る・料理は簡単なもののみ",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "12月29日～1月3日",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関するサポート",
+    "shortName": "ひとり親家庭ホームヘルプサービス"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親家庭ホームヘルプサービス",
+    "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/hitorioya/2404091747.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": "東部子ども家庭支援センター,西部子ども家庭支援センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "ヘルパー派遣予約について\n原則利用日の1週間前までの予約ですが、休日が連続する場合は1週間以上お時間をいただきます。\n\n詳細についてはお問合せください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "育児支援ヘルパー事業のご案内(ひとり親ホームヘルプサービス)（PDF：250KB）",
+      "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/hitorioya/documents/r6ikuherureaf_hitorioya.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "区内在住のひとり親家庭等で、小学校修了までのお子さんがいるご家庭にヘルパーを派遣いたします。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住のひとり親家庭等で、小学校修了までのお子さんがいるご家庭。\n\n出産前でもご利用いただけます。"
+  },
+  "updateDate": "2024-04-22",
+  "useConsiderationFlag": false,
+  "utilization": "ご利用の方は事前の登録が必要です。担当者がご自宅まで伺いますので、子ども家庭支援センターへお電話ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": "07:00",
+    "toHM": "21:00"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "area": {
+    "areaCode": "132276;羽村市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子育て相談課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132276",
+    "psid": "psid3.0+1000020132276+1+UM7"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "（母子保健・相談係）内線692　 （子ども家庭支援センター係）内線266",
+    "contactName": "子ども家庭部 子育て相談課",
+    "contactPhone": "042-555-1111",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊婦健診受診票\n初版公開日:[2020年04月01日]更新日：[2020年4月1日]ID:1259\n\n都外の医療機関や助産所では妊婦健康診査受診票を使用することができません。健診受信時には全額自己負担していただき、出産後に市規定額内で償還払いします。\n【申請方法】\n　都外の医療機関または助産所健診時の領収書、母子健康手帳、未使用の受診票、振込先が確認できるものを持参し、保健センター（子育て相談課母子保健・相談係）へお越しください。\n【公費負担額】\n　市規定額内\n【申請期限】\n　出産の日から1年以内。\n\nこの記事を見ている人はこんな記事も見ています\n妊婦歯科健康診査; https://www.city.hamura.tokyo.jp/0000001261.html\n母子健康手帳の交付; https://www.city.hamura.tokyo.jp/0000001254.html\n届出一覧; https://www.city.hamura.tokyo.jp/0000000267.html\n先天性代謝異常等検査; https://www.city.hamura.tokyo.jp/0000001292.html\n\nこの記事と同じ分類の記事\n羽村市産後ケア事業のご案内; https://www.city.hamura.tokyo.jp/prsite/0000013487.html\nハロー赤ちゃんクラス（両親学級）; https://www.city.hamura.tokyo.jp/prsite/0000010118.html\nプレママサロン（母親学級）・マタニティオンラインカフェ; https://www.city.hamura.tokyo.jp/prsite/0000010117.html\n妊産婦メンタルヘルス相談; https://www.city.hamura.tokyo.jp/prsite/0000013789.html\n東京都出産・子育て応援事業　ポイント交換サイト登録期限延長; https://www.city.hamura.tokyo.jp/0000017969.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "里帰り出産時の妊婦健康診査の費用助成",
+    "shortName": "里帰りによる都外の医療機関または助産所での妊婦健診"
+  },
+  "localGovernmentLink": {
+    "title": "妊婦健診受診票",
+    "uri": "https://www.city.hamura.tokyo.jp/0000001259.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "羽村市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請方法\n都外の医療機関または助産所健診時の領収書、母子健康手帳、未使用の受診票、振込先が確認できるものを持参し保健センター（母子保健・相談係）へ。\n申請期限\n出産の日から1年以内",
+  "procedurePeriod": {
+    "conditions": "申請期限\n出産の日から1年以内",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "妊婦歯科健康診査",
+      "uri": "https://www.city.hamura.tokyo.jp/0000001261.html"
+    },
+    {
+      "title": "プレママサロン（母親学級）・マタニティオンラインカフェ",
+      "uri": "https://www.city.hamura.tokyo.jp/prsite/0000010117.html"
+    },
+    {
+      "title": "羽村市産後ケア事業のご案内",
+      "uri": "https://www.city.hamura.tokyo.jp/prsite/0000013487.html"
+    },
+    {
+      "title": "ハロー赤ちゃんクラス（両親学級）",
+      "uri": "https://www.city.hamura.tokyo.jp/prsite/0000010118.html"
+    },
+    {
+      "title": "先天性代謝異常等検査",
+      "uri": "https://www.city.hamura.tokyo.jp/0000001292.html"
+    },
+    {
+      "title": "届出一覧",
+      "uri": "https://www.city.hamura.tokyo.jp/0000000267.html"
+    },
+    {
+      "title": "妊産婦メンタルヘルス相談",
+      "uri": "https://www.city.hamura.tokyo.jp/prsite/0000013789.html"
+    },
+    {
+      "title": "東京都出産・子育て応援事業　ポイント交換サイト登録期限延長",
+      "uri": "https://www.city.hamura.tokyo.jp/0000017969.html"
+    },
+    {
+      "title": "母子健康手帳の交付",
+      "uri": "https://www.city.hamura.tokyo.jp/0000001254.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "羽村市にお住まいの妊婦さんが、里帰り出産などで羽村市の委託医療機関以外の病院や助産所で妊婦健康診査を受診した場合、その健診にかかった費用の一部を償還払い（後払い）します。",
+  "support": {
+    "description": "都外の医療機関や助産所では妊婦健診受診票を使用することができません。健診受診時には全額自己負担していただき、出産後に市規定額内で償還払いします。\n【公費負担額】\n市規定額内",
+    "materiallySupport": null,
+    "monetarySupport": "市規定額内"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2020-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

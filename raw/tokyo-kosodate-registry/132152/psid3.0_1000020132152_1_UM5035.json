@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132152;国立市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部 保険年金課 国民健康保険係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132152",
+    "psid": "psid3.0+1000020132152+1+UM5035"
+  },
+  "belongings": "・出産(予定)日が確認できる書類(母子手帳等)\n\n・出産後に届出をする場合は、親子関係が確認できる書類(出生証明書等)\n\n・多胎妊娠の場合は、その旨が確認できる書類\n\n・届出する方の顔写真付き身分確認書類(運転免許証等)",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "国立市富士見台2-47-1 国立市役所 1階(11番窓口)",
+    "contactComment": "ファクス：042-576-0264",
+    "contactEmail": null,
+    "contactEx": "042-576-2111(内線：121,122)",
+    "contactName": "健康福祉部 保険年金課 国民健康保険係",
+    "contactPhone": "042-576-2124",
+    "contactUrl": "https://www.city.kunitachi.tokyo.jp/cgi-bin/inquiry.php/38?page_no=10304",
+    "zipCode": "1868501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "出産被保険者にかかる産前産後期間の国民健康保険税の免除について\n\n令和6年1月1日から、出産をする国民健康保険被保険者の国民健康保険税(所得割額及び均等割額)について、産前産後期間の4か月分(多胎妊娠の場合は6か月分)が免除されます。\nなお、保険税課税額が年間限度額に到達している世帯の場合、軽減額が少なくなる場合があります(限度額超過部分も含めて軽減額を算定するため)。\n\n〇対象者：令和5年11月1日以降に出産する被保険者\n\n〇対象期間：出産日(出産予定日)の前月(多胎妊娠の場合は3か月前)から翌々月まで\n\n(下記参照)\n\n免除対象期間\n||3か月前|前々月|前月|出産(予定)月|翌月|翌々月|\n|:----|:----|:----|:----|:----|:----|:----|\n|単胎妊娠|||免除|免除|免除|免除|\n|多胎妊娠|免除|免除|免除|免除|免除|免除|\n【参考(単胎)】\n\n・令和5年11月に出産 → 令和6年1月分の国民健康保険税が免除\n\n・令和6年5月に出産予定 → 令和6年4、5、6、7月分の国民健康保険税が免除\n\n〇届出時期：出産予定日の6か月前から届出可\n\n〇届出書類：産前産後期間に係る国民健康保険税軽減届出書\n\n〇必要書類\n\n・出産(予定)日が確認できる書類(母子手帳等)\n\n・出産後に届出をする場合は、親子関係が確認できる書類(出生証明書等)\n\n・多胎妊娠の場合は、その旨が確認できる書類\n\n・届出する方の顔写真付き身分確認書類(運転免許証等)\n\n〇届出先：健康福祉部保険年金課国民健康保険係(市役所1階11番窓口)\n\n産前産後期間に係る国民健康保険税軽減届出書 (PDFファイル: 82.5KB);https://www.city.kunitachi.tokyo.jp/material/files/group/33/R6sanzensangokeigen.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "国民健康保険における産前産後期間保険料（税）免除",
+    "shortName": "国民健康保険における産前産後期間保険税免除"
+  },
+  "localGovernmentLink": {
+    "title": "出産被保険者にかかる産前産後期間の国民健康保険税の免除について",
+    "uri": "https://www.city.kunitachi.tokyo.jp/kurashi/nenkin/1/4/10304.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "国立市"
+  },
+  "procedureCounter": "健康福祉部保険年金課国民健康保険係(市役所1階11番窓口)",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": "出産予定日の6か月前から届出可",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第21条第3項",
+    "regulationName": "国立市国民健康保険税条例"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民健康保険の出産する被保険者に係る産前産後期間相当分（4カ月分（多胎妊娠の場合は6カ月分））の均等割保険料と所得割保険料が免除されます。",
+  "support": {
+    "description": "出産をする国民健康保険被保険者の国民健康保険税(所得割額及び均等割額)について、産前産後期間の4か月分(多胎妊娠の場合は6か月分)が免除されます。\nなお、保険税課税額が年間限度額に到達している世帯の場合、軽減額が少なくなる場合があります(限度額超過部分も含めて軽減額を算定するため)。\n\n〇対象者：令和5年11月1日以降に出産する被保険者\n〇対象期間：出産日(出産予定日)の前月(多胎妊娠の場合は3か月前)から翌々月まで\n(下記参照)\n免除対象期間\n||3か月前|前々月|前月|出産(予定)月|翌月|翌々月|\n|:----|:----|:----|:----|:----|:----|:----|\n|単胎妊娠|||免除|免除|免除|免除|\n|多胎妊娠|免除|免除|免除|免除|免除|免除|\n【参考(単胎)】\n・令和5年11月に出産 → 令和6年1月分の国民健康保険税が免除\n・令和6年5月に出産予定 → 令和6年4、5、6、7月分の国民健康保険税が免除",
+    "materiallySupport": null,
+    "monetarySupport": "出産をする国民健康保険被保険者の国民健康保険税(所得割額及び均等割額)について、産前産後期間の4か月分(多胎妊娠の場合は6か月分)が免除されます。\nなお、保険税課税額が年間限度額に到達している世帯の場合、軽減額が少なくなる場合があります(限度額超過部分も含めて軽減額を算定するため)。\n\n〇対象者：令和5年11月1日以降に出産する被保険者\n〇対象期間：出産日(出産予定日)の前月(多胎妊娠の場合は3か月前)から翌々月まで\n(下記参照)\n免除対象期間\n||3か月前|前々月|前月|出産(予定)月|翌月|翌々月|\n|:----|:----|:----|:----|:----|:----|:----|\n|単胎妊娠|||免除|免除|免除|免除|\n|多胎妊娠|免除|免除|免除|免除|免除|免除|\n【参考(単胎)】\n・令和5年11月に出産 → 令和6年1月分の国民健康保険税が免除\n・令和6年5月に出産予定 → 令和6年4、5、6、7月分の国民健康保険税が免除"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "出産する被保険者"
+  },
+  "updateDate": "2024-03-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132217;清瀬市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132217",
+    "psid": "psid3.0+3000020132217+1+UM791"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都清瀬市中里5-842　しあわせ未来センター1階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て支援課母子保健係",
+    "contactPhone": "042-497-2077",
+    "contactUrl": null,
+    "zipCode": "2048511"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "出生通知票\nページ番号1005159　 更新日 2023年9月1日印刷大きな文字で印刷\n「出生通知票」は母子健康手帳と共にお渡しした「母と子の保健バッグ」の中に入っています。赤ちゃんが生まれたら、子育て支援課母子保健係に出生通知票（住所記入欄にもご記入願います）を送付してください。また、下記の出生通知票専用フォームにアクセスし、提出していただくこともできます。生後2か月未満のお子さんを対象に、助産師や保健師が無料で家庭訪問をします。新生児訪問指導を受けられなかった方は、市の母子保健推進員が訪問します。\n\n関連リンク\n出生通知票専用フォーム（外部リンク）;https://logoform.jp/form/QzsJ/341051",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "出生通知票専用フォーム",
+      "uri": "https://logoform.jp/form/QzsJ/341051"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出生連絡票・低体重児出生届",
+    "shortName": "出生通知票"
+  },
+  "localGovernmentLink": {
+    "title": "出生通知票",
+    "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/ninsinsyussan/syussan/1005156/1005159.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "清瀬市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "赤ちゃんが生まれたら、子育て支援課母子保健係に出生通知票（住所記入欄にもご記入願います）を送付してください。出生通知票専用フォームにアクセスし、提出していただくこともできます。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第18条（低体重児の届出）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "赤ちゃんが生まれたら、出生連絡票（はがき）を記入して郵送または申請フォームよりご提出ください。出生連絡票をもとに、新生児訪問のご連絡をします。\nなお、法律（母子保健法）で2,500グラム未満のお子さんが出生した時は、保護者がその旨を速やかに届け出ることが義務づけられており、出生連絡票はその届出を兼ねています。",
+  "support": {
+    "description": "生後2か月未満のお子さんを対象に、助産師や保健師が無料で家庭訪問をします。新生児訪問指導を受けられなかった方は、市の母子保健推進員が訪問します。",
+    "materiallySupport": "生後2か月未満のお子さんを対象に、助産師や保健師が無料で家庭訪問をします。新生児訪問指導を受けられなかった方は、市の母子保健推進員が訪問します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2023-09-01",
+  "useConsiderationFlag": false,
+  "utilization": "赤ちゃんが生まれたら、子育て支援課母子保健係に出生通知票（住所記入欄にもご記入願います）を送付してください。出生通知票専用フォームにアクセスし、提出していただくこともできます。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

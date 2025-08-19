@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131091;品川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "品川保健センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131091",
+    "psid": "psid3.0+6000020131091+2+UM11"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "品川保健センター",
+    "contactPhone": "03-3474-2000",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "利用者負担なし",
+  "description": "産後ケア（訪問型）事業\n\n産後ケア事業は、産後ケアを希望する出産後の母子に対して、心身のケアや専門的な育児サポートを提供することにより子育ての不安を解消し、安心して子育てができるようにサポートします。\n\n■内容\n助産師がご自宅にお伺いします。産後の骨盤セルフケア・乳房ケア・沐浴指導など希望に合わせて助産師と相談しながら行います。\n・乳房のケア\n・授乳指導および産後の心身に関する相談\n・乳房マッサージ\n・産後骨盤セルフケア\n・沐浴等の指導\n\n【料金】\n利用者負担なし\n\n■対象者\n品川区に母の住民登録がある方で産後1年未満の母子\n※医療行為の必要な方はご利用できません\n\n■実施時間・利用回数\n月曜日～土曜日　約2時間程度\n（日曜日・祝日・休業日を除く）\n日帰り型とあわせて5回まで\n\n■場所\nご利用者のご自宅\n\n■申請方法\n電話で産後ケア（日帰り型事業）受付（受託者：東京医療保健大学）に受付に利用日を予約→ご自宅で産後ケアの提供\n\n申請については　PDF1　産後ケア（日帰り型・訪問型）事業のご案内と利用申請について　をご確認ください。\nPDF1　産後ケア（日帰り型・訪問型）事業のご案内と利用申請について;https://www.city.shinagawa.tokyo.jp/ct/pdf/20240328204226_1.pdf\n品川区産後ケア事業のご案内;https://www.city.shinagawa.tokyo.jp/ct/pdf/20240328204226_3.pdf\n\n※当日キャンセルの場合は、利用したとみなし利用回数から減算されます。ご了承ください。\n必ず、前日まで（日曜日・祝日・休業日を除く）に下記にご連絡ください。\n\n産後ケア（日帰り）事業は、妊娠・出産から育児まで切れ目のない支援を行う「しながわネウボラネットワーク」に位置づけられた事業です。「ネウボラ」とは、フィンランド語でアドバイス（neuvo）の場（la）という意味です。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "日曜日・祝日・休業日",
+  "implementationPeriod": {
+    "conditions": "実施時間・利用回数\n月曜日～土曜日　約2時間程度\n（日曜日・祝日・休業日を除く）\n\n日帰り型とあわせて5回まで",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "ご利用者のご自宅"
+  },
+  "institutionName": {
+    "canonicalName": "妊産婦訪問",
+    "shortName": "産後ケア（訪問型）事業"
+  },
+  "localGovernmentLink": {
+    "title": "産後ケア（訪問型）事業",
+    "uri": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-ninnshinn/kodomo-ninnshinn-umaretara/20240328204226.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "品川区"
+  },
+  "procedureCounter": "予約について：産後ケア（日帰り型・訪問型）事業受付（受託者：東京医療保健大学　産後ケア受付）\n電話：03-5421-2081",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請方法\n電話で産後ケア（日帰り型事業）受付（受託者：東京医療保健大学）に受付に利用日を予約→ご自宅で産後ケアの提供\n\n申請については　PDF1　産後ケア（日帰り型・訪問型）事業のご案内と利用申請について　をご確認ください。\nPDF1　産後ケア（日帰り型・訪問型）事業のご案内と利用申請について(PDF : 237KB);https://www.city.shinagawa.tokyo.jp/ct/pdf/20240328204226_1.pdf\n品川区産後ケア事業のご案内(PDF : 2MB);https://www.city.shinagawa.tokyo.jp/ct/pdf/20240328204226_3.pdf\n\n※当日キャンセルの場合は、利用したとみなし利用回数から減算されます。ご了承ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第17条（妊産婦の訪問指導等）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊産婦の方（妊娠中または出産後1年以内）を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、妊娠期間中や出産後の不安や悩みについての相談等を行います。",
+  "support": {
+    "description": "産後ケア事業は、産後ケアを希望する出産後の母子に対して、心身のケアや専門的な育児サポートを提供することにより子育ての不安を解消し、安心して子育てができるようにサポートします。\n\n内容\n助産師がご自宅にお伺いします。産後の骨盤セルフケア・乳房ケア・沐浴指導など希望に合わせて助産師と相談しながら行います。\n・乳房のケア\n・授乳指導および産後の心身に関する相談\n・乳房マッサージ\n・産後骨盤セルフケア\n・沐浴等の指導",
+    "materiallySupport": "産後ケア事業は、産後ケアを希望する出産後の母子に対して、心身のケアや専門的な育児サポートを提供することにより子育ての不安を解消し、安心して子育てができるようにサポートします。\n\n内容\n助産師がご自宅にお伺いします。産後の骨盤セルフケア・乳房ケア・沐浴指導など希望に合わせて助産師と相談しながら行います。\n・乳房のケア\n・授乳指導および産後の心身に関する相談\n・乳房マッサージ\n・産後骨盤セルフケア\n・沐浴等の指導",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": "品川区に母の住民登録がある方で産後1年未満の母子",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "品川区に母の住民登録がある方で産後1年未満の母子\n※医療行為の必要な方はご利用できません"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "約2時間程度",
+    "fromHM": null,
+    "toHM": null
+  }
+}

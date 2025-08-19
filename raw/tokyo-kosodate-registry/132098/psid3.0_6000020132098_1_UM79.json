@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども生活部児童青少年課学童保育係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+1+UM79"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども生活部児童青少年課学童保育係",
+    "contactPhone": "042-724-2182",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/7",
+    "zipCode": null
+  },
+  "cost": "月額9,000円（減額免除制度あり）",
+  "costConditions": "育成料のほかに、特別育成料、おやつ代、父母会費があります。",
+  "description": "町田市学童保育クラブの特長\n1．学童保育クラブのスペースは、児童一人あたりおおむね1.65㎡以上と定めています。\n2．おおむね児童40名につき、放課後児童支援員（補助員）を２人配置しています\n3．学童保育クラブ職員のスキルアップに取り組んでいます。",
+  "electronicSubmission": true,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "学童保育クラブについて;https://kosodate-machida.tokyo.jp/soshiki/4/2/4/497.html"
+  },
+  "institutionName": {
+    "canonicalName": "放課後児童クラブ",
+    "shortName": "学童保育クラブ"
+  },
+  "localGovernmentLink": {
+    "title": "学童保育クラブ入会について",
+    "uri": "https://kosodate-machida.tokyo.jp/soshiki/4/2/4/8258.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": "●提出場所\n郵送 〒194-8520 町田市森野2-2-22 町田市役所児童青少年課\n窓口提出 町田市役所市庁舎 2階町田市庁舎2階（202窓口）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "町田市学童保育クラブ入会要項を参考に必要書類をご提出ください。",
+  "procedurePeriod": {
+    "conditions": "4月から入会したいとき\n2023年10月1日～\n5月以降に入会したいとき\n５月以降は、クラブ定員に空きがあれば、各月１日と１６日に入会することができます。それぞれ、前月中の申請期間に受付します。\nたとえば、７月１６日から利用したい場合は、６月１６日から６月末までの期間に申請することができます。オンライン、児童青少年課窓口もしくは郵送で申請してください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "町田市在住の小学生の保護者",
+  "regulation": {
+    "regulationArticle": "第6条の3第2項",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "学童保育クラブとは、仕事をしているなどの理由で、保護者が日中不在になるご家庭の児童をお預かりし、適切な遊びと生活の場を提供して、その健全な育成を図るところです。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "005"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "092"
+    ]
+  },
+  "target": {
+    "conditions": "町田市在住の小学生",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "市内に在住している小学校1年生から6年生までの児童が対象となります。"
+  },
+  "updateDate": "2023-07-21",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "特別保育時間は、学校の授業がある日は、18時01分～19時。土曜日及び学校休業日は、8時～8時29分及び18時01分～19時。",
+    "fromHM": null,
+    "toHM": "17:00"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131067;台東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "障害福祉課総合相談担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131067",
+    "psid": "psid3.0+6000020131067+1+UM106"
+  },
+  "belongings": "■　申請手続きに必要なもの\n１.身体障害者手帳または愛の手帳\n２．本人確認書類\n３.転入の方は保護者の前年の所得がわかる（非）課税証明書",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "台東区東上野4-5-6",
+    "contactComment": null,
+    "contactEmail": "s-fuku@city.taito.tokyo.jp",
+    "contactEx": "2734",
+    "contactName": "障害福祉課総合相談担当",
+    "contactPhone": "03-5246-1202",
+    "contactUrl": null,
+    "zipCode": "1108615"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "保護者の事情により、一時的に心身障害児（者）を介護できないとき、心身障害児（者）を「ほおずきの家」「生活ホームりんご村」に保護委託します。\n\nサービスのご案内\n対象\n　区内に居住する在宅の4歳以上65歳未満の心身障害児（者）で、次のいずれかに該当する方。\n\n身体障害者手帳1級から3級の方。\n愛の手帳1度から4度の方\nその他、上記の各号に準ずると特に区長が認めた方。\n内容\n　宿泊を必要としない保護は、1回4時間を単位とし、宿泊を要する保護は、1日単位として、7日を限度とします。\n\n費用\n4時間　　690円\n8時間　1,380円\n1日　　2,760円\n手続きに必要なもの\n身体障害者手帳又は愛の手帳",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関するサポート",
+    "shortName": "在宅心身障害者（児）緊急一時保護"
+  },
+  "localGovernmentLink": {
+    "title": "緊急一時保護（区の制度）",
+    "uri": "https://www.city.taito.lg.jp/kenkohukusi/shogai/service/kaigohaken/kinkyuuitijihogo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "台東区"
+  },
+  "procedureCounter": "障害福祉課（2階10番窓口）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "台東区心身障害児・者緊急一時保護実施要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者や家族等介護者の事情により、一時的に家庭における介護が困難となった心身障害者（児）を緊急に保護します。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "1～3級の身体障害者手帳または愛の手帳を所持している児童"
+  },
+  "updateDate": "2023-11-20",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

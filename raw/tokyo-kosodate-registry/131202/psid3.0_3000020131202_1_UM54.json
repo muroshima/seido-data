@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131202;練馬区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部　保健予防課　予防接種係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020131202",
+    "psid": "psid3.0+3000020131202+1+UM54"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都練馬区豊玉北６－１２－１",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健予防課予防接種係",
+    "contactPhone": "03-5984-2484",
+    "contactUrl": "https://www.city.nerima.tokyo.jp/cgi-bin/formmail/formmail.cgi?d=060020040000",
+    "zipCode": "1768501"
+  },
+  "cost": null,
+  "costConditions": "法定で定められた期間は無料ですが、定められた時期に受けないと、接種費用は自己負担となりますのでご注意ください。",
+  "description": "定期予防接種とは、予防接種法に基づき、対象となる病気、対象者、接種できる期間が定められた予防接種です。定期予防接種の対象となる感染症は、感染し発病すると重症化する、または人から人への感染力が強い感染症です。多くの人が抵抗力をつけることで、病気の流行をなくし、生まれたばかりの赤ちゃんなど、予防接種を受けることができない人も病気から守ること（集団予防）に重点が置かれ、保護者は、お子さんが予防接種を受けられるよう努める必要があります。\n　定期予防接種は定められた時期に受けないと、接種費用は自己負担となりますのでご注意ください。\n注意：子宮頸がん予防接種は、平成25年6月14日付厚生労働省の通知に基づき、積極的推奨を差し控えておりましたが、令和3年11月26日付厚生労働省の通知により、積極的な接種勧奨を控える勧告が廃止されました。\n　定期予防接種は下記のとおりです。\nDPT-IPV-Hib（5種混合／ジフテリア・百日せき・破傷風・不活化ポリオ・ヒブ）;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/DPT-IPV-Hib.html\nBCG（結核）;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/BCG.html\nB型肝炎;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/teiki_Hepatitis_B.html\nロタウイルス;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/rota_virus.html\nHib（ヒブ）;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/Hib.html\n小児用肺炎球菌;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/Pneumococcus.html\nDPT-IPV（4種混合／ジフテリア・百日せき・破傷風・不活化ポリオ）;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/DPT-IPV.html\n不活化ポリオ;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/polio.html\nMR（麻しん風しん混合）;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/MR.html\n水痘（みずぼうそう）;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/chicken_pox.html\n日本脳炎（平成21年10月2日以降に生まれた方）;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/Japanese_Encephaliti.html\n日本脳炎　特例（平成21（2009）年10月1日以前に生まれた方）;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/J_Encephaliti_Tokure.html\nDT（ジフテリア・破傷風 2種混合）;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/DT.html\n子宮頸がん（HPV感染症）予防;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/Cervical_Cancer.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "練馬区予防接種協力医療機関"
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "定期予防接種"
+  },
+  "localGovernmentLink": {
+    "title": "定期予防接種",
+    "uri": "https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "練馬区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）",
+    "regulationName": "予防接種法"
+  },
+  "relatedLink": [
+    {
+      "title": "DPT-IPV-Hib（5種混合／ジフテリア・百日せき・破傷風・不活化ポリオ・ヒブ）",
+      "uri": "https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+  "support": {
+    "description": "DPT-IPV-Hib（5種混合／ジフテリア・百日せき・破傷風・不活化ポリオ・ヒブ）;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/DPT-IPV-Hib.html\nBCG（結核）;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/BCG.html\nB型肝炎;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/teiki_Hepatitis_B.html\nロタウイルス;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/rota_virus.html\nHib（ヒブ）;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/Hib.html\n小児用肺炎球菌;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/Pneumococcus.html\nDPT-IPV（4種混合／ジフテリア・百日せき・破傷風・不活化ポリオ）;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/DPT-IPV.html\n不活化ポリオ;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/polio.html\nMR（麻しん風しん混合）;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/MR.html\n水痘（みずぼうそう）;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/chicken_pox.html\n日本脳炎（平成21年10月2日以降に生まれた方）;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/Japanese_Encephaliti.html\n日本脳炎　特例（平成21（2009）年10月1日以前に生まれた方）;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/J_Encephaliti_Tokure.html\nDT（ジフテリア・破傷風 2種混合）;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/DT.html\n子宮頸がん（HPV感染症）予防;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/Cervical_Cancer.html",
+    "materiallySupport": null,
+    "monetarySupport": "DPT-IPV-Hib（5種混合／ジフテリア・百日せき・破傷風・不活化ポリオ・ヒブ）;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/DPT-IPV-Hib.html\nBCG（結核）;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/BCG.html\nB型肝炎;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/teiki_Hepatitis_B.html\nロタウイルス;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/rota_virus.html\nHib（ヒブ）;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/Hib.html\n小児用肺炎球菌;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/Pneumococcus.html\nDPT-IPV（4種混合／ジフテリア・百日せき・破傷風・不活化ポリオ）;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/DPT-IPV.html\n不活化ポリオ;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/polio.html\nMR（麻しん風しん混合）;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/MR.html\n水痘（みずぼうそう）;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/chicken_pox.html\n日本脳炎（平成21年10月2日以降に生まれた方）;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/Japanese_Encephaliti.html\n日本脳炎　特例（平成21（2009）年10月1日以前に生まれた方）;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/J_Encephaliti_Tokure.html\nDT（ジフテリア・破傷風 2種混合）;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/DT.html\n子宮頸がん（HPV感染症）予防;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/yobo/kodomo_yobo/teiki/Cervical_Cancer.html"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

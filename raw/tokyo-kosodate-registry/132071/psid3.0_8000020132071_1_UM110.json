@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132071;昭島市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": null,
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132071",
+    "psid": "psid3.0+8000020132071+1+UM110"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子育て世代包括支援センター\n\nバースデーサポートあきしま事業（旧ファーストバースデイ）;https://www.city.akishima.lg.jp/s049/020/010/040/20200925151717.html\n多胎妊婦に対する妊婦健康診査受診費用の補助;https://www.city.akishima.lg.jp/s049/020/010/050/010/20140917210952.html\n育児SOS相談（予約制）;https://www.city.akishima.lg.jp/s049/010/010/030/20140916224532.html\nこどもそうだんまどぐちあんない;https://www.city.akishima.lg.jp/s064/010/010/010/010/020/20180807173450.html\n多胎児家庭支援移動経費助成;https://www.city.akishima.lg.jp/s049/020/010/050/010/20200918163154.html\n保健福祉センター（愛称：あいぽっく）;https://www.city.akishima.lg.jp/map/010/050/020/20140816053706.html\n妊娠がわかったら;https://www.city.akishima.lg.jp/li/020/010/020/\n赤ちゃんが生まれたら;https://www.city.akishima.lg.jp/li/020/010/030/\n予防接種;https://www.city.akishima.lg.jp/li/020/010/040/\nお子さんの健診;https://www.city.akishima.lg.jp/li/020/010/050/\n子育て教室・講座;https://www.city.akishima.lg.jp/li/020/010/060/\n保護者向けの講座等;https://www.city.akishima.lg.jp/li/020/010/070/\n医療機関;https://www.city.akishima.lg.jp/li/020/010/090/\n相談窓口;https://www.city.akishima.lg.jp/li/030/030/030/\n妊娠を検討しているかたへ;https://www.city.akishima.lg.jp/li/020/010/010/",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育て支援拠点・地域子育て支援センター",
+    "shortName": "子育て世代包括支援センター"
+  },
+  "localGovernmentLink": {
+    "title": "子育て世代包括支援センター",
+    "uri": "https://www.city.akishima.lg.jp/li/020/010/170/"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "昭島市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第6項、第21条の9",
+    "regulationName": "児童福祉法、児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "昭島市では市内の保健福祉センターを子育て支援拠点として、子育て中の親子が気軽に集い、相互交流や子育ての不安・悩みを相談できる場を提供しています。また、地域の子育て関連情報の提供や、子育て支援に関する講習なども実施しています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

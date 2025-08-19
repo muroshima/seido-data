@@ -1,0 +1,387 @@
+{
+  "area": {
+    "areaCode": "131202;練馬区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭部　子育て支援課　児童館係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020131202",
+    "psid": "psid3.0+3000020131202+1+UM108"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都練馬区豊玉北6丁目12番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭部　子育て支援課　児童館係",
+    "contactPhone": "03-5984-5827",
+    "contactUrl": "https://www.city.nerima.tokyo.jp/cgi-bin/formmail/formmail.cgi?d=060030010000",
+    "zipCode": "1768501"
+  },
+  "cost": null,
+  "costConditions": "無料",
+  "description": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/index.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "日曜日、祝日、年末年始（12月29日から1月3日）\n（注釈）平和台児童館、光が丘児童館、上石神井児童館、東大泉児童館の4館は、年末年始（12月29日から1月3日）のみ\n（注釈）光が丘なかよし児童館の休日開放は年末年始（12月29日から1月3日）、夜間開放は年末年始（12月29日から1月3日）と祝",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "平和台2丁目18番14号,栄町40-7,石神井町7丁目28番21号,大泉町4丁目15番15号,光が丘1丁目3番1号,上石神井1丁目5番2号,土支田2丁目32番8号,北町6丁目35番7号,中村2丁目25番3号,南田中5丁目15番25号,北町1丁目19番17号,関町南4丁目15番7-102号,東大泉7丁目20番1号,石神井台2丁目18番13号,西大泉3丁目21番16号,三原台2丁目11番29号,光が丘2丁目9番6号,練馬4丁目2番3号",
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "児童館",
+    "shortName": "ねりまのじどうかん（練馬区立児童館）"
+  },
+  "localGovernmentLink": {
+    "title": "ねりまのじどうかん（練馬区立児童館）",
+    "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-28",
+    "updater": "練馬区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "初めて児童館を利用するときは、入館票・入館カードの記入をお願いいたします（入館カードは各児童館で記入してください）。2回目以降は、事務室前にある自分の入館カードを取り出して、来館者用のケースに入れてください。\n利用は無料です。\n（注釈）未就学児は保護者同伴での利用となります。\n入館票のダウンロード;https://www.city.nerima.tokyo.jp/dl/shussan/jidokanshinsei.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "土支田児童館",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/harunohi/index.html"
+    },
+    {
+      "title": "光が丘児童館",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/hikarigaoka.html"
+    },
+    {
+      "title": "なかむらじどうかん",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/nakayoshi/index.html"
+    },
+    {
+      "title": "きたまちはるのひじどうかん",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/miharadai/index.html"
+    },
+    {
+      "title": "どしだじどうかん",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/nishioizumi/index.html"
+    },
+    {
+      "title": "みなみたなかじどうかん",
+      "uri": "https://www.city.nerima.tokyo.jp/shisetsu/hokenfuku/fukushi/koseibunka/jido/index.html"
+    },
+    {
+      "title": "かみしゃくじいじどうかん",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/shakujiidai/index.html"
+    },
+    {
+      "title": "上石神井児童館",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/kamishakujii.html"
+    },
+    {
+      "title": "ひかりがおかじどうかん",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/higashioizumi/index.html"
+    },
+    {
+      "title": "きたおおいずみじどうかん",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/sekimachi/index.html"
+    },
+    {
+      "title": "しゃくじいじどうかん",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/kitamachi/index.html"
+    },
+    {
+      "title": "さかえちょうじどうかん",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/minamitanaka/index.html"
+    },
+    {
+      "title": "へいわだいじどうかん",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/nakamura_jidokan/index.html"
+    },
+    {
+      "title": "厚生文化会館児童",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/harunohi/index.html"
+    },
+    {
+      "title": "北大泉児童館",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/kitaoizumi/index.html"
+    },
+    {
+      "title": "北町はるのひ児童館",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/doshida_jidokan/index.html"
+    },
+    {
+      "title": "北町はるのひ児童館",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/nakamura_jidokan/index.html"
+    },
+    {
+      "title": "中村児童館",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/kamishakujii.html"
+    },
+    {
+      "title": "土支田児童館",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/hikarigaoka.html"
+    },
+    {
+      "title": "上石神井児童館",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/kitaoizumi/index.html"
+    },
+    {
+      "title": "中村児童館",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/minamitanaka/index.html"
+    },
+    {
+      "title": "光が丘児童館",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/shakujii_jidokan/index.html"
+    },
+    {
+      "title": "北大泉児童館",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/sakaecho/index.html"
+    },
+    {
+      "title": "石神井児童館",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/heiwadai/index.html"
+    },
+    {
+      "title": "南田中児童館",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/kitamachi/index.html"
+    },
+    {
+      "title": "栄町児童館",
+      "uri": "https://www.city.nerima.tokyo.jp/shisetsu/hokenfuku/fukushi/koseibunka/jido/index.html"
+    },
+    {
+      "title": "光が丘なかよし児童館",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/harunohi/index.html"
+    },
+    {
+      "title": "三原台児童館",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/nakamura_jidokan/index.html"
+    },
+    {
+      "title": "北町児童館",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/sekimachi/index.html"
+    },
+    {
+      "title": "西大泉児童館",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/doshida_jidokan/index.html"
+    },
+    {
+      "title": "石神井台児童館",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/kamishakujii.html"
+    },
+    {
+      "title": "東大泉児童館",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/hikarigaoka.html"
+    },
+    {
+      "title": "関町児童館",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/kitaoizumi/index.html"
+    },
+    {
+      "title": "石神井児童館",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/shakujii_jidokan/index.html"
+    },
+    {
+      "title": "平和台児童館",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/heiwadai/index.html"
+    },
+    {
+      "title": "北町児童館",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/shakujii_jidokan/index.html"
+    },
+    {
+      "title": "関町児童館",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/higashioizumi/index.html"
+    },
+    {
+      "title": "南田中児童館",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/sakaecho/index.html"
+    },
+    {
+      "title": "平和台児童館",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/nakayoshi/index.html"
+    },
+    {
+      "title": "東大泉児童館",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/shakujiidai/index.html"
+    },
+    {
+      "title": "You tube　練馬区立児童館・学童クラブチャンネル",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/miharadai/index.html"
+    },
+    {
+      "title": "大きな地震が発生したときの対応",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/nishioizumi/index.html"
+    },
+    {
+      "title": "石神井台児童館",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/nishioizumi/index.html"
+    },
+    {
+      "title": "中高生の目的利用",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/shakujiidai/index.html"
+    },
+    {
+      "title": "乳幼児おやこ子育ての広場　「にこにこ」",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/higashioizumi/index.html"
+    },
+    {
+      "title": "小学校入学前のお子様と保護者の方へ",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/sekimachi/index.html"
+    },
+    {
+      "title": "西大泉児童館",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/miharadai/index.html"
+    },
+    {
+      "title": "三原台児童館",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/nakayoshi/index.html"
+    },
+    {
+      "title": "りようあんない（こどもむけ）",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/kitamachi/index.html"
+    },
+    {
+      "title": "ねりまのじどうかん展",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/minamitanaka/index.html"
+    },
+    {
+      "title": "光が丘なかよし児童館",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/index.files/map.pdf"
+    },
+    {
+      "title": "　中高生の目的利用マップ（PDF：541KB）",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/index.files/06toyotama.pdf"
+    },
+    {
+      "title": "　栄町・中村児童館・厚生文化会館地域（PDF：5",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/index.files/06hikarigaoka.pdf"
+    },
+    {
+      "title": "098KB）",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/index.files/06kita.pdf"
+    },
+    {
+      "title": "　光が丘・土支田・光が丘なかよし児童館地域（PDF：4",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/index.files/06ooizumi.pdf"
+    },
+    {
+      "title": "お知らせ",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/heiwadai/index.html"
+    },
+    {
+      "title": "栄町児童館",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/sakaecho/index.html"
+    },
+    {
+      "title": "448KB）",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/index.files/06shakujii.pdf"
+    },
+    {
+      "title": "　平和台・北町はるのひ・北町児童館地域（PDF：5",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/index.files/06seki.pdf"
+    },
+    {
+      "title": "303KB）",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/oshirase/index.html"
+    },
+    {
+      "title": "589KB）",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/120210201130734472.html"
+    },
+    {
+      "title": "　上石神井・関町児童館地域（PDF：3",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/hogosyanominasama.html"
+    },
+    {
+      "title": "　北大泉・西大泉児童館地域（PDF：3",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/nerijiten.html"
+    },
+    {
+      "title": "759KB）",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/riyoannai.html"
+    },
+    {
+      "title": "　石神井・南田中・東大泉・石神井台・三原台児童館地域（PDF：5",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/nikoniko/index.html"
+    },
+    {
+      "title": "717KB）",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/jidokan/tyuukousei2017.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童館は、18歳未満のお子さんに健全な遊びを提供し、健康増進を図るとともに、豊かな情操を育むことを目的としています。\n練馬区の児童館には、小学校就学前のお子さんが安心して遊べるスペースがあり、またお子さんの年齢に応じた各種イベントなども行っています。\n（イベントの詳細については、練馬区サイトでお知らせしています。）",
+  "support": {
+    "description": "子ども達が自由に来館して、職員の見守りのもと、図書室、工作室、遊戯室などで遊ぶことができます（未就学児は保護者同伴）。\n主に午前中は乳幼児活動を、午後からは小学生以上向けの活動を実施しています。中学・高校生向けには、音楽活動や卓球等のスポーツのほか、友達と勉強やおしゃべりをしたり、居場所としての利用もできます。\n保護者の方からの子育てに関する相談やお子様からの相談もお受けしておりますので、お気軽にご利用ください。",
+    "materiallySupport": "子ども達が自由に来館して、職員の見守りのもと、図書室、工作室、遊戯室などで遊ぶことができます（未就学児は保護者同伴）。\n主に午前中は乳幼児活動を、午後からは小学生以上向けの活動を実施しています。中学・高校生向けには、音楽活動や卓球等のスポーツのほか、友達と勉強やおしゃべりをしたり、居場所としての利用もできます。\n保護者の方からの子育てに関する相談やお子様からの相談もお受けしておりますので、お気軽にご利用ください。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0歳から18歳未満までのお子様",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "0歳から18歳未満までのお子様"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "開館時間\n月曜日から金曜日・・・午前10時から午後6時まで\n土曜日、学校休業期間（夏休み・冬休み・春休み）、都民の日・・・午前9時から午後6時まで\n　（注釈）練馬こどもまつり開催日・・・午前10時から午後4時まで\n　（注釈）中高生タイムのある日は午後7時まで\n\n平和台児童館、光が丘児童館、上石神井児童館、東大泉児童館の4館は以下のとおり、開館しています。\n\n月曜日から土曜日・・・午前9時から午後7時まで（小学生以下は午後6時まで）\n日曜日、祝日・・・午前9時から午後5時まで\n光が丘なかよし児童館は以下のとおり、開放事業も行っています。\n\n休日開放（乳幼児親子・小学生およびその保護者対象）日曜日、祝日・・・午前9時から午後5時まで\n夜間開放（中高生対象）月曜日から土曜日・・・午後6時15分から午後8時まで",
+    "fromHM": null,
+    "toHM": null
+  }
+}

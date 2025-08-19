@@ -1,0 +1,144 @@
+{
+  "area": {
+    "areaCode": "131105;目黒区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健予防課 保健サービス係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131105",
+    "psid": "psid3.0+1000020131105+1+UM5009"
+  },
+  "belongings": "受診票",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "目黒区上目黒二丁目19番15号, 目黒区碑文谷四丁目16番18号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健予防課, 碑文谷保健センター",
+    "contactPhone": "03-5722-9503, 03-3711-6446",
+    "contactUrl": null,
+    "zipCode": "1538573,1520003"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊婦健康診査\n目次\n\n里帰り等による妊婦健康診査も助成します\n妊婦健康診査についての問合せ先\n関連するページ\n目黒区では、妊婦健康診査を14回、妊婦超音波検査を4回、子宮頸がん検診を1回、公費負担（一部助成）しています。\n妊婦健康診査を受けるための受診票は、母子健康手帳交付の際にお渡しする「母と子の保健バッグ」の中に入っています。\n\n受診票は都内の契約医療機関で使えます（都内での転居の場合は、そのまま受診票が使えます）。\nなお、公費負担には上限があるため検査項目、検査方法によっては自己負担が生じます。\n\nまた、受診票交付前に都内の契約医療機関で妊婦健康診査を受診した場合、目黒区からの助成及び返金はありません。\n\n妊婦健診実施医療機関名簿（目黒区内）（令和6年1月15日現在）（PDF：68KB）;https://www.city.meguro.tokyo.jp/documents/4756/ninpukenshin060115.pdf\n\n里帰り等による妊婦健康診査も助成します\n里帰り等で都外の医療機関等で妊婦健康診査を受けられたかたの費用の一部を助成します。未使用の受診票及び領収書などが必要です。\nまた、受診票交付前に受診した妊婦健康診査の費用などは助成の対象にはなりません。\n詳しくは里帰り等妊婦健康診査費及び新生児聴覚検査費助成のページ;https://www.city.meguro.tokyo.jp/hokenyobou/kosodatekyouiku/ninshin/satogaeri.htmlをご覧ください。\n\n妊婦健康診査についての問合せ先\n妊婦健康診査については、保健予防課又は碑文谷保健センターへお問合せください。\n\n保健予防課; https://www.city.meguro.tokyo.jp/hokenyobou/kusei/gaiyou/yobo.html\n所在地：〒153-8573 目黒区上目黒二丁目19番15号\n電話：03-5722-9503\n碑文谷保健センター; https://www.city.meguro.tokyo.jp/himonya/kusei/gaiyou/himonya_center.html\n所在地：〒152-0003 目黒区碑文谷四丁目16番18号\n電話：03-3711-6446\n関連するページ\n新生児聴覚検査;https://www.city.meguro.tokyo.jp/hokenyobou/kosodatekyouiku/ninshin/sinnseiji_tyoukakukensa.html\n妊産婦歯科健診;https://www.city.meguro.tokyo.jp/hokenyobou/kosodatekyouiku/ninshin/ninpusika.html\n里帰り等妊婦健康診査費及び新生児聴覚検査費助成;https://www.city.meguro.tokyo.jp/hokenyobou/kosodatekyouiku/ninshin/satogaeri.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "https://www.city.meguro.tokyo.jp/documents/4756/ninpukenshin060115.pdf",
+    "implementationName": "https://www.city.meguro.tokyo.jp/documents/4756/ninpukenshin060115.pdf"
+  },
+  "institutionName": {
+    "canonicalName": "産婦健康診査の費用助成",
+    "shortName": "妊婦健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "妊婦健康診査",
+    "uri": "https://www.city.meguro.tokyo.jp/hokenyobou/kosodatekyouiku/ninshin/ninpukensa.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "目黒区"
+  },
+  "procedureCounter": "都内の契約医療機関(目黒区内で利用できる医療機関;https://www.city.meguro.tokyo.jp/documents/4756/ninpukenshin060115.pdf)",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "受診票は都内の契約医療機関で使えます（都内での転居の場合は、そのまま受診票が使えます）。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": " 里帰り等妊婦健康診査費及び新生児聴覚検査費助成",
+      "uri": "https://www.city.meguro.tokyo.jp/hokenyobou/kosodatekyouiku/ninshin/satogaeri.html"
+    },
+    {
+      "title": "妊婦健診実施医療機関名簿（目黒区内）（令和6年1月15日現在）（PDF：68KB）",
+      "uri": "https://www.city.meguro.tokyo.jp/documents/4756/ninpukenshin060115.pdf"
+    },
+    {
+      "title": "里帰り等妊婦健康診査費及び新生児聴覚検査費助成のページ",
+      "uri": "https://www.city.meguro.tokyo.jp/hokenyobou/kosodatekyouiku/ninshin/satogaeri.html"
+    },
+    {
+      "title": "新生児聴覚検査",
+      "uri": "https://www.city.meguro.tokyo.jp/hokenyobou/kosodatekyouiku/ninshin/sinnseiji_tyoukakukensa.html"
+    },
+    {
+      "title": "妊産婦歯科健診",
+      "uri": "https://www.city.meguro.tokyo.jp/hokenyobou/kosodatekyouiku/ninshin/ninpusika.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "産後の初期段階における母子に対する支援を強化し、妊娠期から子育て期にわたる切れ目のない支援を行うため、出産後間もない時期の産婦に対する健康診査費用を助成します。産婦健康診査は産後2週間、産後１か月など出産後間もない時期の産婦向けの健康診査で、母体の身体的機能の回復や授乳状況、精神状態の把握を行います。 ",
+  "support": {
+    "description": "目黒区では、妊婦健康診査を14回、妊婦超音波検査を4回、子宮頸がん検診を1回、公費負担（一部助成）しています。",
+    "materiallySupport": null,
+    "monetarySupport": "目黒区では、妊婦健康診査を14回、妊婦超音波検査を4回、子宮頸がん検診を1回、公費負担（一部助成）しています。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-01-29",
+  "useConsiderationFlag": false,
+  "utilization": "妊婦健康診査を受けるための受診票は、母子健康手帳交付の際にお渡しする「母と子の保健バッグ」の中に入っています。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

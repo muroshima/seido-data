@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132101;小金井市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センターこども家庭相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132101",
+    "psid": "psid3.0+3000020132101+1+UM782"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小金井市貫井北町5-18-18　保健センター1階",
+    "contactComment": null,
+    "contactEmail": "k-yurikago@unchusha.com",
+    "contactEx": null,
+    "contactName": "小金井市こども家庭センター ゆりかご",
+    "contactPhone": "042-321-3161",
+    "contactUrl": null,
+    "zipCode": "1840015"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "子どもショートステイ\n\t\n　保護者の方が、病気・看護、冠婚葬祭・出張、育児疲れ・育児不安などで、子どもを一時的に養育することが困難になった時に、市が指定する児童養護施設で短期間（宿泊）、子どもをお預かりします。\n\n実施施設：朝陽学園（三鷹市大沢２－４－１）\n利用：小金井市内在住の２歳～小学校６年生までの方で、原則として７日間以内\n\n申込み・問い合わせ先\n子ども家庭支援センター　TEL 321-3161",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "三鷹市大沢２－４－１",
+    "implementationName": "朝陽学園"
+  },
+  "institutionName": {
+    "canonicalName": "ショートステイ（短期入所生活援助事業）",
+    "shortName": "子どもショートステイ"
+  },
+  "localGovernmentLink": {
+    "title": "子どもショートステイ",
+    "uri": "https://fukushi.unchusha.com/yurikago/support_shortstay.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "小金井市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申込み・問い合わせ先\n子ども家庭支援センター　TEL 321-3161",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者が入院や通院、出張などの理由で、一時的に家庭でお子さんの面倒をみられなくなったときに、お近くの児童養護施設、乳児院、母子生活支援施設で、宿泊を伴ってお子さんをお預かりします。",
+  "support": {
+    "description": "保護者の方が、病気・看護、冠婚葬祭・出張、育児疲れ・育児不安などで、子どもを一時的に養育することが困難になった時に、市が指定する児童養護施設で短期間（宿泊）、子どもをお預かりします。",
+    "materiallySupport": "保護者の方が、病気・看護、冠婚葬祭・出張、育児疲れ・育児不安などで、子どもを一時的に養育することが困難になった時に、市が指定する児童養護施設で短期間（宿泊）、子どもをお預かりします。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "小金井市内在住の２歳～小学校６年生までの方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": 0
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "小金井市内在住の２歳～小学校６年生までの方で"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": "申込み・問い合わせ先\n子ども家庭支援センター　TEL 321-3161",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "原則として７日間以内",
+    "fromHM": null,
+    "toHM": null
+  }
+}

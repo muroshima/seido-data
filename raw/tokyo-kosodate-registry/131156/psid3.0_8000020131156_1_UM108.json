@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131156;杉並区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部児童青少年課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131156",
+    "psid": "psid3.0+8000020131156+1+UM108"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都杉並区荻窪1丁目56番3号",
+    "contactComment": "（直通）",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部児童青少年課",
+    "contactPhone": "03-3393-4760",
+    "contactUrl": null,
+    "zipCode": "1670051"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "児童館\nページ番号1045",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "第2土曜日、こどもの日を除いた祝日、年末年始（12月28日から1月4日まで）",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "児童館",
+    "shortName": "児童館"
+  },
+  "localGovernmentLink": {
+    "title": "児童館",
+    "uri": "https://www.city.suginami.tokyo.jp/s059/1045.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025-03-13",
+    "updater": "杉並区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第40条",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童館は、0歳から18歳未満の児童のための施設です。子ども達が遊びや自主的な活動等を通して、心身ともに健やかに成長できるよう支援しています。また、子育て中の保護者の方の出会い・情報交換の場となるように、さらには地域の子ども達を見守る大人の方々の活動の場となるように運営を行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": "子どもの遊びや自主活動の応援\nさまざまな体験プログラムの実施\nおまつり、餅つきなどの地域行事の企画や参加\n障害のある子もない子も共に楽しむプログラム\n中学生・高校生むけの事業や自主企画の応援\n乳幼児親子のひろば　ゆうキッズ\n子育ての悩みや困ったことなどの身近な相談\n地域子育てネットワーク事業",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "0歳から18歳の児童（未就学児には保護者の付き添いが必要です）"
+  },
+  "updateDate": "2024-03-15",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日から金曜日まで：午前10時から午後6時まで\n土曜日：午前9時から午後5時まで\n（注1）月曜日から土曜日の、正午から午後1時は、小学生以上は利用できません。\n（注2）原則として小学生が放課後に、学校から直接児童館へ遊びに来ることはできません。別途、事前登録制の「直接来館」制度がありますので、下の「児童館『直接来館』制度」の項目をご覧ください。\n日曜日：午前9時から午後5時まで\n（注3）日曜日は、親子・団体利用の日です。利用には「事前使用承認証（サンカード）」が必要です。小学生以上にも保護者の付き添いが必要です。団体の利用申請は月曜日から土曜日までに受け付けます。詳細は下のリンクから「児童館・ゆう杉並の親子・グループ・団体利用【サンカード利用】」のページをご覧ください。",
+    "fromHM": null,
+    "toHM": null
+  }
+}

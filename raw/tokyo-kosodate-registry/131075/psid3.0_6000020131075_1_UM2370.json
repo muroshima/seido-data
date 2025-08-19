@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131075;墨田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども施設課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131075",
+    "psid": "psid3.0+6000020131075+1+UM2370"
+  },
+  "belongings": "① 教育・保育給付認定申請書 兼 保育施設（入所・転所）申込書\n② お子様の状況について\n③ 重要事項確認書兼同意書\n④ 1 月から 3 月までの保育施設入所希望確認書（4 月二次申込み以降は不要）\n⑤ 父と母の保育の必要性が確認できる書類（Ｐ11 を参照してください）\n⑥ 父と母の令和 5 年度「住民税課税（非課税）証明書」のコピー\n⑦ その他、状況に応じて必要な書類（P12 を参照してください）\n⑧ 【転入予定者のみ】転入することがわかる書類\n例:賃貸借契約書、売買契約書等のコピー（転入先住所、転入時期がわかるもの）\n⑨ 【転入予定者のみ】転入予定者全員の住民票（現在お住まいの自治体のもの。コピー可）\n⑩ 【転入予定者のみ】転入に関する誓約書",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "墨田区吾妻橋一丁目23番20号　区役所4階",
+    "contactComment": null,
+    "contactEmail": "KODOMO@city.sumida.lg.jp",
+    "contactEx": null,
+    "contactName": "子ども施設課入園係",
+    "contactPhone": "03-5608-6152,03-5608-6712",
+    "contactUrl": null,
+    "zipCode": "1308640"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "令和6年用 認可保育施設利用申込みのご案内\n\n10．墨田区外にお住まいの方が墨田区内の認可保育施設を希望する場合\n（1）申込みの条件\n※ 令和 6 年 1 月入所分から、墨田区に転入予定がある方の申込みは墨田区の窓口で直接受付けることとなりました。在勤者としての申込みは引き続き現在お住まいの自治体を通してお申込みください。\n※ 在勤で認可保育施設を利用する場合、公立保育園、公設民営保育園の延長保育は利用できません。私立保育園（公私連携型を含む）、小規模保育事業所、家庭的保育事業所（保育ママ）の場合は、各施設にお問い合わせください。\n※ 年度途中で開設する新規認可保育施設については、「在勤者」としての申込みはできません。\n（2）必要書類\n|①|教育・保育給付認定申請書 兼 保育施設（入所・転所）申込書|□|\n|②|お子様の状況について|□|\n|③|重要事項確認書兼同意書|□|\n|④|1 月から 3 月までの保育施設入所希望確認書（4 月二次申込み以降は不要）|□|\n|⑤|父と母の保育の必要性が確認できる書類（Ｐ11 を参照してください）|□|\n|⑥|父と母の令和 5 年度「住民税課税（非課税）証明書」のコピー|□|\n|⑦|その他、状況に応じて必要な書類（P12 を参照してください）|□|\n|⑧|【転入予定者のみ】転入することがわかる書類<br>例:賃貸借契約書、売買契約書等のコピー（転入先住所、転入時期がわかるもの）|□|\n|⑨|【転入予定者のみ】転入予定者全員の住民票（現在お住まいの自治体のもの。コピー可）|□|\n|⑩|【転入予定者のみ】転入に関する誓約書|□|\n\n※ 墨田区に転入後、祖父母と同居する予定の場合、同居予定の祖父母に関する書類の提出が必要な場合があります。P12 を参照し、必要書類をそろえてください。\n※ 申込書等は、墨田区指定の書式をご利用ください。\n※ 在勤者として申込む場合、現在お住まいの自治体へ墨田区の申込締切日のおおむね 5 開庁日前までに申込みをしてください。\n（3）転入後の手続き（転入予定での申込みの場合）\n入所の可否に関わらず、必ず入所希望月の前月末日までに転入し、あらためて子ども施設課入園係で本申込みの手続きを行ってください。転入が完了しない場合や本申込み手続きを行わない場合、内定は取り消し、申込みは取下げとなります。なお、利用調整の結果は保護者様にお知らせしますが、利用調整結果通知は本申込み手続き後に発行します。 ",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "広域入所（市外の認可保育所等への入所）",
+    "shortName": "墨田区外にお住まいの方が墨田区内の認可保育施設を希望する場合"
+  },
+  "localGovernmentLink": {
+    "title": "令和6年用 認可保育施設利用申込みのご案内",
+    "uri": "https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/azukeru/hoikuen/nyuuen/riyou_annai/a.files/R6goannai.pdf#search=%E5%8C%BA%E5%A4%96%E3%80%80%E4%BF%9D%E8%82%B2%E6%89%80%E5%85%A5%E6%89%80"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-01",
+    "updater": "墨田区"
+  },
+  "procedureCounter": "墨田区に転入予定がある方の申込みは墨田区の窓口、在勤者としての申込みは現在お住まいの自治体を通してお申込みください。",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "※ 令和 6 年 1 月入所分から、墨田区に転入予定がある方の申込みは墨田区の窓口で直接受付けることとなりました。在勤者としての申込みは引き続き現在お住まいの自治体を通してお申込みください。\n※ 在勤で認可保育施設を利用する場合、公立保育園、公設民営保育園の延長保育は利用できません。私立保育園（公私連携型を含む）、小規模保育事業所、家庭的保育事業所（保育ママ）の場合は、各施設にお問い合わせください。\n※ 年度途中で開設する新規認可保育施設については、「在勤者」としての申込みはできません。\n（2）必要書類\n① 教育・保育給付認定申請書 兼 保育施設（入所・転所）申込書\n② お子様の状況について\n③ 重要事項確認書兼同意書\n④ 1 月から 3 月までの保育施設入所希望確認書（4 月二次申込み以降は不要）\n⑤ 父と母の保育の必要性が確認できる書類（Ｐ11 を参照してください）\n⑥ 父と母の令和 5 年度「住民税課税（非課税）証明書」のコピー\n⑦ その他、状況に応じて必要な書類（P12 を参照してください）\n⑧ 【転入予定者のみ】転入することがわかる書類\n例:賃貸借契約書、売買契約書等のコピー（転入先住所、転入時期がわかるもの）\n⑨ 【転入予定者のみ】転入予定者全員の住民票（現在お住まいの自治体のもの。コピー可）\n⑩ 【転入予定者のみ】転入に関する誓約書\n\n（3）転入後の手続き（転入予定での申込みの場合）\n入所の可否に関わらず、必ず入所希望月の前月末日までに転入し、あらためて子ども施設課入園係で本申込みの手続きを行ってください。転入が完了しない場合や本申込み手続きを行わない場合、内定は取り消し、申込みは取下げとなります。なお、利用調整の結果は保護者様にお知らせしますが、利用調整結果通知は本申込み手続き後に発行します。",
+  "procedurePeriod": {
+    "conditions": "※ 在勤者として申込む場合、現在お住まいの自治体へ墨田区の申込締切日のおおむね 5 開庁日前までに申込みをしてください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "墨田区外にお住まいの方が墨田区内の認可保育施設を希望する場合",
+  "regulation": {
+    "regulationArticle": "第3条第1項、56条の6第1項",
+    "regulationName": "子ども・子育て支援法、児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "「広域入所」とは、里帰り出産や保護者の勤務地の都合などにより、他の市区町村の保育所へ入所できる制度です。\n下記のいずれの場合も、お住まいの市区町村から保育の必要性について認定を受ける必要があります。\nA：墨田区内にお住まいの方が、区外の認可保育所への入所を希望する場合\nB：区外にお住まいの方が、墨田区内の認可保育所への入所を希望する場合",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0歳児クラスから5歳児クラスで、保育の必要性のある子ども",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "墨田区外にお住まいの方が墨田区内の認可保育施設を希望する場合"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

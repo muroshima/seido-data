@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "131113;大田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保育サービス課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131113",
+    "psid": "psid3.0+1000020131113+5+UM76"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保育サービス課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/hoikusabisu.html",
+    "contactPhone": "03-5744-1280",
+    "contactUrl": "https://www.city.ota.tokyo.jp/cgi-bin/form_enq/formmail.cgi?d=hoiku",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "時間、対象年齢、定員、延長保育料についてはそれぞれ異なります。",
+  "description": "私立保育園の延長保育\n\n　各私立保育園（認可保育所、小規模・事業所内保育所）の延長保育事業は、園により実施内容が異なります。\n\nすでに私立保育園に在園の方は、在園の私立保育園に直接お申込ください。\n私立保育園にこれから入所、転園を申込みする方は、入所、転園が内定した後に、私立保育園に直接お申込みください。\n延長保育を実施している各私立保育園の延長保育時間は、認可保育園→こちら;https://www.city.ota.tokyo.jp/shisetsu/hoikuen/shiritsu/index.html、小規模・事業所内保育所→こちら;https://www.city.ota.tokyo.jp/seikatsu/kodomo/hoiku/hoikushisetsu_nyukibo/shokibohoikujo/index.html　で確認できます。今泉保育園と丸子ベビー保育園は、延長保育を実施しておりません。時間、対象年齢、定員、延長保育料についてはそれぞれ異なります。\n離乳食の進み具合（離乳の完了等）によっては、延長保育が利用できない場合があります。私立保育園にご確認ください。\n以下、参考までに各私立保育園での設定料金等の概要を一覧にしています（令和5年7月調査）。最新の情報はご希望の園にご確認ください。\n【参考】私立保育所の延長保育料（令和5年7月）（PDF：226KB）;https://www.city.ota.tokyo.jp/seikatsu/kodomo/hoiku/hogosya/enchou/sirituhoikuen.files/1.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "各私立保育園（認可保育所、小規模・事業所内保育所）"
+  },
+  "institutionName": {
+    "canonicalName": "延長保育",
+    "shortName": "私立保育園の延長保育"
+  },
+  "localGovernmentLink": {
+    "title": "私立保育園の延長保育",
+    "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/hoiku/hogosya/enchou/sirituhoikuen.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "大田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "すでに私立保育園に在園の方は、在園の私立保育園に直接お申込ください。\n私立保育園にこれから入所、転園を申込みする方は、入所、転園が内定した後に、私立保育園に直接お申込みください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第59条第2号",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "小規模・事業所内保育所",
+      "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/hoiku/hoikushisetsu_nyukibo/shokibohoikujo/index.html"
+    },
+    {
+      "title": "【参考】私立保育所の延長保育料（令和5年7月）",
+      "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/hoiku/hogosya/enchou/sirituhoikuen.files/1.pdf"
+    },
+    {
+      "title": "認可保育園",
+      "uri": "https://www.city.ota.tokyo.jp/shisetsu/hoikuen/shiritsu/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "大田区内の保育園（保育所）や認定こども園、地域型保育施設では、保護者の勤務時間などにより、認定を受けた時間帯を超えて保育が必要なお子さんを対象に、別途料金を徴収のうえで、延長保育を実施しています。",
+  "support": {
+    "description": "各私立保育園（認可保育所、小規模・事業所内保育所）の延長保育事業は、園により実施内容が異なります。",
+    "materiallySupport": "各私立保育園（認可保育所、小規模・事業所内保育所）の延長保育事業は、園により実施内容が異なります。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "時間、対象年齢、定員、延長保育料についてはそれぞれ異なります。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "時間、対象年齢、定員、延長保育料についてはそれぞれ異なります。"
+  },
+  "updateDate": "2023-09-12",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "時間、対象年齢、定員、延長保育料についてはそれぞれ異なります。",
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部健康サービス課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM31"
+  },
+  "belongings": "母子健康手帳、筆記用具、A4資料が入る手提げ袋",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部健康サービス課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "1日目\n\n助産師・保健師の話\n\n2日目\n\n歯科衛生士・栄養士のはなし\n\n1日だけの受講も可能です。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "各健康サポートセンター\nhttps://www.city.edogawa.tokyo.jp/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/index.html"
+  },
+  "institutionName": {
+    "canonicalName": "両親学級・妊婦学級",
+    "shortName": "ハローベビー教室（平日コース）"
+  },
+  "localGovernmentLink": {
+    "title": "ハローベビー教室（平日コース）",
+    "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/hellobaby.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "各健康サポートセンター\nhttps://www.city.edogawa.tokyo.jp/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/index.html\n\n受講を希望される方は、希望の会場にお電話で申込みください。\n定員になり次第締め切らせていただきます。",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "希望の会場（健康サポートセンター）に電話申し込み",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "お母さん（とお父さん）が安心して赤ちゃんを迎えられるように、江戸川区では保健師、助産師、栄養士、歯科衛生士による妊娠、出産、育児に関する講義を開いていますので、ぜひお気軽にご参加ください。江戸川区では、「ハローベビー教室」について平日コース、休日コースをご用意しております。",
+  "support": {
+    "description": "専門スタッフが、これからはじまる出産・育児のことをお話します。\n\n1日だけの受講も可能です。ぜひご参加ください。\n1日目\n助産師・保健師の話\n・お産までの経過\n・赤ちゃんのいる生活、産後のお役立ち情報\n・体験コーナー：育児体験（抱っこ・お着替え）\n・パパの妊婦体験\nなど\n\n2日目\n歯科衛生士・栄養士の話\n・赤ちゃんと家族のお口の健康\n・赤ちゃんのこころと体を育てる食育\n・体験内容：子どもの歯の模型で仕上げみがきを体験、カードで体験！料理の組み合わせ、調味料の計量\nなど\n\n令和6年4月より休日コースを選択した方も平日2日目の受講が可能です。（別途申し込みは必要）",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088",
+      "089",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "江戸川区民で、初めてお子さんを迎える妊婦およびパートナー\n適切な時期に受講できるよう、日程表で「出産予定日目安​」を確認してからお申込みください。"
+  },
+  "updateDate": "2024-01-16",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "令和6年（2024年）度の日程（PDF：159KB）（別ウィンドウで開きます）\nhttps://www.city.edogawa.tokyo.jp/documents/7757/r6_hb_heijitu_nittei.pdf",
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131091;品川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援センター・児童相談課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131091",
+    "psid": "psid3.0+6000020131091+1+UM115"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "東京都品川児童相談所については、令和6月10月以降は品川区児童相談所が受け付けます。新しい連絡先は10月以降にHPでご確認ください。",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援センター,東京都品川児童相談所（令和6年9月末まで）",
+    "contactPhone": "03-6421-5236,03-3474-5442",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "◇子ども家庭支援センター\n0歳～18歳のお子さんやヤングケアラーに関する相談に応じます。お子さんを連れて相談できる部屋もあります。また、電話相談も受け付けています。\n\n◇東京都品川児童相談所（令和6年9月末まで）\n緊急性・専門性の高い相談を中心に受け付け、区と連携して支援します。\n※令和6年10月以降は品川区児童相談所が受け付けます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "子ども家庭支援センター\n祝日・年末年始",
+  "implementationPeriod": {
+    "conditions": "子ども家庭支援センター\n月曜日から土曜日（祝日、年末年始を除く）\n午前8時30分～午後5時\n\n",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "子ども家庭支援センター\n〒142-0043　品川区二葉1-7-15",
+    "implementationName": "◇子ども家庭支援センター\n\n◇東京都品川児童相談所（令和6年9月末まで）\n※令和6年10月以降は品川区児童相談所が受け付けます。"
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関する相談窓口一覧",
+    "shortName": "子育てに関する相談窓口一覧"
+  },
+  "localGovernmentLink": {
+    "title": "子ども家庭支援センター,東京都品川児童相談所",
+    "uri": "http://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-kateisoudan/20200715151457.html,http://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-syogai/kenkou-syogai-madoguchi/hpg000000397.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "品川区"
+  },
+  "procedureCounter": "◇子ども家庭支援センター\n\n◇東京都品川児童相談所（令和6年9月末まで）\n※令和6年10月以降は品川区児童相談所が受け付けます。",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "品川区内の子育てに関する相談窓口の一覧です。",
+  "support": {
+    "description": "◇子ども家庭支援センター\n0歳～18歳のお子さんやヤングケアラーに関する相談に応じます。お子さんを連れて相談できる部屋もあります。また、電話相談も受け付けています。\n\n◇東京都品川児童相談所（令和6年9月末まで）\n緊急性・専門性の高い相談を中心に受け付け、区と連携して支援します。\n※令和6年10月以降は品川区児童相談所が受け付けます。",
+    "materiallySupport": "◇子ども家庭支援センター\n0歳～18歳のお子さんやヤングケアラーに関する相談に応じます。お子さんを連れて相談できる部屋もあります。また、電話相談も受け付けています。\n\n◇東京都品川児童相談所（令和6年9月末まで）\n緊急性・専門性の高い相談を中心に受け付け、区と連携して支援します。\n※令和6年10月以降は品川区児童相談所が受け付けます。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0歳から18歳のお子さんと保護者",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "0歳から18歳のお子さんと保護者"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "子ども家庭支援センター\n月曜日から土曜日（祝日、年末年始を除く）\n午前8時30分～午後5時\n",
+    "fromHM": null,
+    "toHM": null
+  }
+}

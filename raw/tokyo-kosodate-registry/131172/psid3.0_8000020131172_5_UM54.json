@@ -1,0 +1,140 @@
+{
+  "area": {
+    "areaCode": "131172;北区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "北区保健所保健予防課保健予防係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131172",
+    "psid": "psid3.0+8000020131172+5+UM54"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都北区東十条2-7-3",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "北区保健所保健予防課保健予防係",
+    "contactPhone": "03-3919-3104",
+    "contactUrl": null,
+    "zipCode": "1140001"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "4種混合（ジフテリア・百日せき・破傷風・不活化ポリオ）\n令和6年度から、5種混合ワクチン（ジフテリア・百日せき・破傷風・不活化ポリオ・ヒブ）が定期接種化されます。接種対象年齢の方には、生後2か月になる前に5種混合の予診票を個別送付いたします。\n\n実施内容\n接種対象年齢\n生後2か月から90か月に至るまでの間にある方（7歳6か月の前日まで）\n\n接種回数・間隔\n初回接種：20日以上の間隔をおいて3回接種\n※標準的には56日までの間隔をおいて接種\n追加接種：初回接種（3回）終了後、6か月以上の間隔をおいて1回接種\n\n標準的な接種期間\n初回接種：生後2か月に達した時から12か月に達するまでの期間\n追加接種：初回接種（3回）終了後、12か月経過した時から18か月経過するまでの期間\n子どもの予防接種のスケジュール（日本小児科学会推奨）（外部サイトへリンク）;https://www.jpeds.or.jp/uploads/files/20230710_vaccine_schedule.pdf\n\n通知・予診票の送付\n5種混合ワクチン（ジフテリア・百日せき・破傷風・不活化ポリオ・ヒブ）による接種が基本となります。通知・予診票の送付を希望される方は、電子申請サービス;https://www.city.kita.tokyo.jp/hokenyobo/kosodate/kenshin/yobo/yobo.html#denshishinseiまたは保健所保健予防課保健予防係へ電話でご申請ください。\nワクチンを取り寄せての接種となる場合がございますので、あらかじめ医療機関へご連絡ください。\n\n接種ワクチン\n沈降精製百日せきジフテリア破傷風不活化ポリオ混合ワクチン（4種混合ワクチン）\n\n会場と日程\n協力医療機関;https://www.city.kita.tokyo.jp/hokenyobo/kosodate/kenshin/yobo/ichiran.htmlにて実施しています\n診療時間・休診日は各医療機関で異なります。また、ワクチンの取り寄せが必要になる場合がありますので事前に医療機関にお問い合わせの上接種を受けてください。\nなお、他の22区の協力医療機関でも接種できます。その際は、当該区の協力医療機関であることを必ず事前に確認してください。\n\n保護者の方が同伴できない場合\nお子さんの定期の予防接種には、原則、保護者の同伴が必要です。\n諸事情で保護者が同伴できない場合は、「保護者以外の方が同伴する場合;https://www.city.kita.tokyo.jp/hokenyobo/kosodate/kenshin/yobo/yobo-14.html」をご参照ください。\n\n関連リンク\n予防接種スケジュール（日本小児科学会推奨）（外部サイトへリンク）;https://www.jpeds.or.jp/uploads/files/20230710_vaccine_schedule.pdf\n予防接種予診票送付・再発行の電子申請サービス（子どもの予防接種についてのページ）;https://www.city.kita.tokyo.jp/hokenyobo/kosodate/kenshin/yobo/index.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "診療時間・休診日は各医療機関で異なります。",
+  "implementationPeriod": {
+    "conditions": "診療時間・休診日は各医療機関で異なります。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "https://www.city.kita.tokyo.jp/hokenyobo/kosodate/kenshin/yobo/ichiran.html",
+    "implementationName": "https://www.city.kita.tokyo.jp/hokenyobo/kosodate/kenshin/yobo/ichiran.html"
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "4種混合（ジフテリア・百日せき・破傷風・不活化ポリオ）"
+  },
+  "localGovernmentLink": {
+    "title": "4種混合（ジフテリア・百日せき・破傷風・不活化ポリオ）",
+    "uri": "https://www.city.kita.tokyo.jp/hokenyobo/kosodate/kenshin/yobo/yobo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-10",
+    "updater": "北区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "協力医療機関;https://www.city.kita.tokyo.jp/hokenyobo/kosodate/kenshin/yobo/ichiran.htmlにて実施しています。\n診療時間・休診日は各医療機関で異なります。また、ワクチンの取り寄せが必要になる場合がありますので事前に医療機関にお問い合わせの上接種を受けてください。\nなお、他の22区の協力医療機関でも接種できます。その際は、当該区の協力医療機関であることを必ず事前に確認してください。\n\n保護者の方が同伴できない場合\nお子さんの定期の予防接種には、原則、保護者の同伴が必要です。\n諸事情で保護者が同伴できない場合は、「保護者以外の方が同伴する場合;https://www.city.kita.tokyo.jp/hokenyobo/kosodate/kenshin/yobo/yobo-14.html」のページをご参照ください。",
+  "procedurePeriod": {
+    "conditions": "標準的な接種期間\n初回接種：生後2か月に達した時から12か月に達するまでの期間\n追加接種：初回接種（3回）終了後、12か月経過した時から18か月経過するまでの期間\n子どもの予防接種のスケジュール（日本小児科学会推奨）（外部サイトへリンク）;https://www.jpeds.or.jp/uploads/files/20230710_vaccine_schedule.pdf",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）",
+    "regulationName": "予防接種法"
+  },
+  "relatedLink": [
+    {
+      "title": "子どもの予防接種のスケジュール（日本小児科学会推奨）（外部サイトへリンク）",
+      "uri": "https://www.jpeds.or.jp/uploads/files/20230710_vaccine_schedule.pdf"
+    },
+    {
+      "title": "協力医療機関",
+      "uri": "https://www.city.kita.tokyo.jp/hokenyobo/kosodate/kenshin/yobo/ichiran.html"
+    },
+    {
+      "title": "「保護者以外の方が同伴する場合」",
+      "uri": "https://www.city.kita.tokyo.jp/hokenyobo/kosodate/kenshin/yobo/yobo-14.html"
+    },
+    {
+      "title": "予防接種予診票送付・再発行の電子申請サービス（子どもの予防接種についてのページ）",
+      "uri": "https://www.city.kita.tokyo.jp/hokenyobo/kosodate/kenshin/yobo/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+  "support": {
+    "description": "接種ワクチン\n沈降精製百日せきジフテリア破傷風不活化ポリオ混合ワクチン（4種混合ワクチン）\n\n接種回数・間隔\n初回接種：20日以上の間隔をおいて3回接種\n※標準的には56日までの間隔をおいて接種\n\n追加接種：初回接種（3回）終了後、6か月以上の間隔をおいて1回接種",
+    "materiallySupport": "接種ワクチン\n沈降精製百日せきジフテリア破傷風不活化ポリオ混合ワクチン（4種混合ワクチン）\n\n接種回数・間隔\n初回接種：20日以上の間隔をおいて3回接種\n※標準的には56日までの間隔をおいて接種\n\n追加接種：初回接種（3回）終了後、6か月以上の間隔をおいて1回接種",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後2か月から90か月に至るまでの間にある方（7歳6か月の前日まで）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 2
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": 90
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生後2か月から90か月に至るまでの間にある方（7歳6か月の前日まで）"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "5種混合ワクチン（ジフテリア・百日せき・破傷風・不活化ポリオ・ヒブ）による接種が基本となります。通知・予診票の送付を希望される方は、電子申請サービス;https://www.city.kita.tokyo.jp/hokenyobo/kosodate/kenshin/yobo/yobo.html#denshishinseiまたは保健所保健予防課保健予防係へ電話でご申請ください。\nワクチンを取り寄せての接種となる場合がございますので、あらかじめ医療機関へご連絡ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

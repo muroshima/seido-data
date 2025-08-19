@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132039;武蔵野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": null,
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132039",
+    "psid": "psid3.0+8000020132039+1+UM2367"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "施設等利用給付認定\n令和元年 10 月から始まった「幼児教育・保育の無償化」に伴い、幼稚園や認可外保育施設等（注）\nを利用する方が無償化（一部無償化）の給付を受けるために必要な認定です。\n\n|認定区分|利用施設|\n|:----|:----|\n|１号認定 ３歳児クラス～５歳児クラス ※幼稚園の満３歳児を含む<br>幼稚園（新制度に移行して|いない園）での教育を希望する場合|幼稚園<br>（新制度に移行していない園）|\n|２号認定 ３歳児クラス～５歳児クラス<br> 幼稚園・認定こども園の満 3 歳児クラスを含まない。<br>「保育を必要とする事由」に該当し、保育所等で保育を希望する場合|認可外保育施設等<br>幼稚園の預かり保育<br>認定こども園の預かり保育|\n|３号認定 ０歳児クラス～２歳児クラス<br> 幼稚園・認定こども園の満 3 歳児クラスを含む。<br>「保育を必要とする事由」に該当し、保育所等で保育を希望する場合<br>で、市区町村民税非課税世帯|^|\n注）武蔵野市特定子ども・子育て支援施設等として確認された施設に限られます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育てのための施設等利用給付認定（新1号・新2号・新3号）",
+    "shortName": "施設等利用給付認定"
+  },
+  "localGovernmentLink": {
+    "title": "給付認定の種類と区分について",
+    "uri": "https://www.city.musashino.lg.jp/_res/projects/default_project/_page_/001/025/439/ninnteikubunn.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "武蔵野市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第30条の4～10（第2款　施設等利用給付認定等）",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子ども子育て支援新制度に移行していない幼稚園（私学助成の幼稚園）や認可外の保育施設、幼稚園の預かり保育や一時保育などの利用料について、「幼児教育・保育の無償化」による助成を受けるには、お子さんの年齢や世帯の課税状況、保育の必要性などに応じて、「施設等利用給付」の認定を受ける必要があります。",
+  "support": {
+    "description": "令和元年 10 月から始まった「幼児教育・保育の無償化」に伴い、幼稚園や認可外保育施設等（注）\nを利用する方が無償化（一部無償化）の給付を受けるために必要な認定です。\n\n|認定区分|利用施設|\n|:----|:----|\n|１号認定 ３歳児クラス～５歳児クラス ※幼稚園の満３歳児を含む<br>幼稚園（新制度に移行して|いない園）での教育を希望する場合|幼稚園<br>（新制度に移行していない園）|\n|２号認定 ３歳児クラス～５歳児クラス<br> 幼稚園・認定こども園の満 3 歳児クラスを含まない。<br>「保育を必要とする事由」に該当し、保育所等で保育を希望する場合|認可外保育施設等<br>幼稚園の預かり保育<br>認定こども園の預かり保育|\n|３号認定 ０歳児クラス～２歳児クラス<br> 幼稚園・認定こども園の満 3 歳児クラスを含む。<br>「保育を必要とする事由」に該当し、保育所等で保育を希望する場合<br>で、市区町村民税非課税世帯|^|\n注）武蔵野市特定子ども・子育て支援施設等として確認された施設に限られます。",
+    "materiallySupport": "令和元年 10 月から始まった「幼児教育・保育の無償化」に伴い、幼稚園や認可外保育施設等（注）\nを利用する方が無償化（一部無償化）の給付を受けるために必要な認定です。\n\n|認定区分|利用施設|\n|:----|:----|\n|１号認定 ３歳児クラス～５歳児クラス ※幼稚園の満３歳児を含む<br>幼稚園（新制度に移行して|いない園）での教育を希望する場合|幼稚園<br>（新制度に移行していない園）|\n|２号認定 ３歳児クラス～５歳児クラス<br> 幼稚園・認定こども園の満 3 歳児クラスを含まない。<br>「保育を必要とする事由」に該当し、保育所等で保育を希望する場合|認可外保育施設等<br>幼稚園の預かり保育<br>認定こども園の預かり保育|\n|３号認定 ０歳児クラス～２歳児クラス<br> 幼稚園・認定こども園の満 3 歳児クラスを含む。<br>「保育を必要とする事由」に該当し、保育所等で保育を希望する場合<br>で、市区町村民税非課税世帯|^|\n注）武蔵野市特定子ども・子育て支援施設等として確認された施設に限られます。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "令和元年 10 月から始まった「幼児教育・保育の無償化」に伴い、幼稚園や認可外保育施設等（注）\nを利用する方が無償化（一部無償化）の給付を受けるために必要な認定です。\n\n|認定区分|利用施設|\n|:----|:----|\n|１号認定 ３歳児クラス～５歳児クラス ※幼稚園の満３歳児を含む<br>幼稚園（新制度に移行して|いない園）での教育を希望する場合|幼稚園<br>（新制度に移行していない園）|\n|２号認定 ３歳児クラス～５歳児クラス<br> 幼稚園・認定こども園の満 3 歳児クラスを含まない。<br>「保育を必要とする事由」に該当し、保育所等で保育を希望する場合|認可外保育施設等<br>幼稚園の預かり保育<br>認定こども園の預かり保育|\n|３号認定 ０歳児クラス～２歳児クラス<br> 幼稚園・認定こども園の満 3 歳児クラスを含む。<br>「保育を必要とする事由」に該当し、保育所等で保育を希望する場合<br>で、市区町村民税非課税世帯|^|\n注）武蔵野市特定子ども・子育て支援施設等として確認された施設に限られます。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 5,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "幼稚園や認可外保育施設等（注）を利用する方が無償化（一部無償化）の給付を受けるために必要な認定です。\n注）武蔵野市特定子ども・子育て支援施設等として確認された施設に限られます。"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

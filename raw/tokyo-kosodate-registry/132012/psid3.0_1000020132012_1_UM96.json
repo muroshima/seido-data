@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "132012;八王子市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部保育幼稚園課（給付担当）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132012",
+    "psid": "psid3.0+1000020132012+1+UM96"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "八王子市元本郷町3-24-1（本庁舎事務棟4階）",
+    "contactComment": "ファックス：042-621-2711",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部保育幼稚園課（給付担当）",
+    "contactPhone": "042-620-7248",
+    "contactUrl": "https://www.city.hachioji.tokyo.jp/inquiry/mailform470300.html",
+    "zipCode": "1928501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "https://kosodate.city.hachioji.tokyo.jp/soshiki/hoikuyochienka/hoikuyochienka_kyufutanto/458.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "私学助成（従来制度）の幼稚園一覧",
+    "shortName": "幼稚園"
+  },
+  "localGovernmentLink": {
+    "title": "幼稚園",
+    "uri": "https://kosodate.city.hachioji.tokyo.jp/soshiki/hoikuyochienka/hoikuyochienka_kyufutanto/458.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "八王子市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "八王子市私立幼稚園協会のページ(外部リンク)",
+      "uri": "http://www.hachishiyo.jp/"
+    },
+    {
+      "title": "幼稚園等に就園するお子さんにかかる幼児教育・保育の無償化について",
+      "uri": "https://kosodate.city.hachioji.tokyo.jp/scene/hoikuen_yochien_ninteikodomoen/hoikuryonitsuite/yojikyoiku_hoikumushoka/898.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "私立幼稚園には、新制度による給付を受ける幼稚園と、新制度には移行せず私学助成を受けて運営している幼稚園と、認定こども園があります。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2023-10-06",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

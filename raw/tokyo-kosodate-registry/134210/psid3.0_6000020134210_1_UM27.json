@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "134210;小笠原村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "小笠原村村民課住民係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020134210",
+    "psid": "psid3.0+6000020134210+1+UM27"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都小笠原村父島字西町",
+    "contactComment": "開庁時間：午前8時00分～午後5時15分（土曜日・日曜日、祝・休日を除く）",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "小笠原村村民課住民係",
+    "contactPhone": "04998-2-3113",
+    "contactUrl": null,
+    "zipCode": "1002101"
+  },
+  "cost": null,
+  "costConditions": "・住民税が課税されている人（受給者証に一部・食と書いてある人）\n医療費の1割を負担します。医療機関毎に負担上限額まで支払います。ただし、差額ベッド代など健康保険適用外のものは自己負担となります。\n・住民税非課税の人（受給者証に食のみ書いてある人）\n入院時の食事代（標準負担額）のみ負担します。\n※　医療証を取扱っていない医療機関（都外その他）などの場合、健康保険の自己負担分を支払った後、受診者氏名、保険点数、金額等、保険診療の記載のある領収書を添えて、村民課住民係で申請してください。",
+  "description": "ひとり親家庭等医療費助成\n事業の目的\nひとり親家庭等に対し、医療費の一部を助成し、経済的負担を軽減することにより、ひとり親家庭等の保健の向上に寄与します。\n\n対象\n次の要件に該当し、健康保険に加入しているひとり親家庭等の父、母または養育者とその児童（児童が18歳に到達後最初の3月31日まで。児童に中度以上の障害がある場合は20歳未満まで）※受給者および扶養義務者に所得制限があります。\n\n父母が離婚\n父または母が死亡\n父または母が生死不明、一年以上遺棄\n父または母が一年以上拘禁\n婚姻によらない出生\n父または母が重度の障害\n前年のひとり親家庭等の父、母または養育者の所得が東京都で定める基準以下の人。（児童扶養手当と同額）\n事業の詳細\n健康保険による医療を受けた際の医療費のうち、対象者が負担すべき額の一部または全部を助成します。\n対象者には「ひとり親家庭等医療証」を交付します。\n健康保険証とあわせて医療機関等の窓口に提示することにより、支払う医療費が軽減されます。\n一部負担金\n住民税が課税されている人（受給者証に一部・食と書いてある人）\n医療費の1割を負担します。医療機関毎に負担上限額まで支払います。ただし、差額ベッド代など健康保険適用外のものは自己負担となります。\n住民税非課税の人（受給者証に食のみ書いてある人）\n入院時の食事代（標準負担額）のみ負担します。\n※　医療証を取扱っていない医療機関（都外その他）などの場合、健康保険の自己負担分を支払った後、受診者氏名、保険点数、金額等、保険診療の記載のある領収書を添えて、村民課住民係で申請してください。\nひとり親家庭医療助成費支給申請書（Word形式： 41 KB）;https://www.vill.ogasawara.tokyo.jp/wp-content/uploads/sites/2/2020/02/4345f86dfcdb829c7c0075ea20311395.doc",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "ひとり親家庭医療費助成",
+    "shortName": "ひとり親家庭等医療費助成"
+  },
+  "localGovernmentLink": {
+    "title": "医療費助成",
+    "uri": "https://www.vill.ogasawara.tokyo.jp/sonmin/iryouhijosei/"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "小笠原村"
+  },
+  "procedureCounter": "小笠原村村民課住民係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "ひとり親家庭等",
+  "regulation": {
+    "regulationArticle": "第７条",
+    "regulationName": "小笠原村ひとり親家庭の医療費の助成に関する条例"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭の母または父、および、そのお子さんの医療費に対して助成を行います。",
+  "support": {
+    "description": "・健康保険による医療を受けた際の医療費のうち、対象者が負担すべき額の一部または全部を助成します。\n・対象者には「ひとり親家庭等医療証」を交付します。\n・健康保険証とあわせて医療機関等の窓口に提示することにより、支払う医療費が軽減されます。",
+    "materiallySupport": null,
+    "monetarySupport": "健康保険による医療を受けた際の医療費のうち、対象者が負担すべき額の一部または全部を助成します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次の要件に該当し、健康保険に加入しているひとり親家庭等の父、母または養育者とその児童（児童が18歳に到達後最初の3月31日まで。児童に中度以上の障害がある場合は20歳未満まで）※受給者および扶養義務者に所得制限があります。\n1.父母が離婚\n2.父または母が死亡\n3.父または母が生死不明、一年以上遺棄\n父または母が一年以上拘禁\n4.婚姻によらない出生\n5.父または母が重度の障害\n6.前年のひとり親家庭等の父、母または養育者の所得が東京都で定める基準以下の人。（児童扶養手当と同額）"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

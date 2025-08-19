@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "133035;瑞穂町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部 子ども家庭センター課 母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133035",
+    "psid": "psid3.0+1000020133035+1+UM33"
+  },
+  "belongings": "母子健康手帳、母子手帳の副読本（妊娠届出の際に配布しています）\nできる限りマスクの携帯をお願いします。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡瑞穂町大字石畑1970番地",
+    "contactComment": "受付時間 平日の午前8時30分から午後5時まで",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部子ども家庭センター課 母子保健係",
+    "contactPhone": "042-557-5098",
+    "contactUrl": "https://www.town.mizuho.tokyo.jp/inquiry/mailform130302.html?PAGE_NO=6655",
+    "zipCode": "1901211"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊娠初期の妊婦さん向けに、助産師ミニ講話を開催します。\n※マタニティクラスとは別の事業です。\n同じ日に両方参加することはできません。\n\nテーマ\n妊娠初期に知っておいて欲しいこと",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "日程\n| 令和7年 6月28日（土曜日） |\n| --- |\n| 9月27日（土曜日） |\n| 12月20日（土曜日） |\n| 令和8年 3月28日（土曜日） |",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関する教室・講習会",
+    "shortName": "助産師ミニ講話"
+  },
+  "localGovernmentLink": {
+    "title": "助産師ミニ講話　予約制",
+    "uri": "https://www.town.mizuho.tokyo.jp/event/e004/p006655.html"
+  },
+  "odInformation": {
+    "content": "所管部署名称を変更",
+    "updateDate": "2024-09-13",
+    "updater": "瑞穂町"
+  },
+  "procedureCounter": "ゆりかごステーション（瑞穂町保健センター内）\n042-557-5098",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "※開催前日の午後5時までにご予約ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "瑞穂町で受けられる、妊娠中から出産後に役立つ教室・講習会を紹介します。妊娠初期の妊婦さん向けに、助産師ミニ講話を開催します。※マタニティクラスとは別の事業です。同じ日に両方参加することはできません。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "妊娠15週まで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊娠初期の方（妊娠15週までの方）\n※体調に無理のない範囲でご参加ください。"
+  },
+  "updateDate": "2023-03-30",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "受付時間\n午前9時45分から9時55分まで（終了時刻は午前10時40分）",
+    "fromHM": "09:45",
+    "toHM": "10:40"
+  }
+}

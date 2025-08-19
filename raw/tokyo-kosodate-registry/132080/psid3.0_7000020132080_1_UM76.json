@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132080;調布市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども生活部保育課 ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020132080",
+    "psid": "psid3.0+7000020132080+1+UM76"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-499-6101",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども生活部保育課",
+    "contactPhone": "042-481-7132,042-481-7133,042-481-7134,042-481-7758",
+    "contactUrl": "https://www.city.chofu.lg.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "保育標準時間認定\n保育時間と料金\n|延長保育時間|月額|日額|\n|:----|:----|:----|\n|午後7時まで|3,500円|700円|\n|午後8時まで|12,000円|2,400円|",
+  "description": "保育園での延長保育事業\n\n保護者の方の就労形態の多様化等で、保育時間の延長を必要とするお子さんを対象に、市内全園で延長保育を行っています。\n保護者の勤務時間、通勤時間、お子さまの年齢、その他の家庭状況を考慮のうえ保育時間を決めますので、必ず保育園長にご相談ください。(ご希望にそえないことがあります。)\n利用者負担額(保育料)がA階層またはB階層の場合、延長保育料が減免となることがあります。詳細は調布市保育課までお問い合わせください。\n\n\n延長保育料\n保育標準時間認定\n保育時間と料金\n|延長保育時間|月額|日額|\n|:----|:----|:----|\n|午後7時まで|3,500円|700円|\n|午後8時まで|12,000円|2,400円|\n保育短時間認定\n午前7時から8時29分まで、午後4時31分から6時までの時間帯を利用する場合、30分300円\n\n延長保育時間\n各保育園の延長保育時間は認可保育園等一覧表を御覧ください。\n\nダウンロード\n認可保育園等一覧表（PDF：1,151KB）;https://www.city.chofu.lg.jp/documents/1187/itirann05.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "延長保育",
+    "shortName": "保育園での延長保育事業"
+  },
+  "localGovernmentLink": {
+    "title": "保育園での延長保育事業",
+    "uri": "https://www.city.chofu.lg.jp/050020/p028112.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "調布市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第59条第2号",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "認可保育園等一覧表（PDF：1",
+      "uri": "https://www.city.chofu.lg.jp/documents/1187/itirann05.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "調布市内の認可保育園では、保護者の勤務時間などにより、認定を受けた時間帯を超えて保育が必要なお子さんを対象に、別途料金を徴収のうえで、延長保育を実施しています。",
+  "support": {
+    "description": "保護者の方の就労形態の多様化等で、保育時間の延長を必要とするお子さんを対象に、市内全園で延長保育を行っています。\n保護者の勤務時間、通勤時間、お子さまの年齢、その他の家庭状況を考慮のうえ保育時間を決めますので、必ず保育園長にご相談ください。(ご希望にそえないことがあります。)\n利用者負担額(保育料)がA階層またはB階層の場合、延長保育料が減免となることがあります。詳細は調布市保育課までお問い合わせください。",
+    "materiallySupport": "保護者の方の就労形態の多様化等で、保育時間の延長を必要とするお子さんを対象に、市内全園で延長保育を行っています。\n保護者の勤務時間、通勤時間、お子さまの年齢、その他の家庭状況を考慮のうえ保育時間を決めますので、必ず保育園長にご相談ください。(ご希望にそえないことがあります。)\n利用者負担額(保育料)がA階層またはB階層の場合、延長保育料が減免となることがあります。詳細は調布市保育課までお問い合わせください。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "保護者の方の就労形態の多様化等で、保育時間の延長を必要とするお子さん"
+  },
+  "updateDate": "2023-12-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132055;青梅市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センター母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132055",
+    "psid": "psid3.0+8000020132055+1+UM31"
+  },
+  "belongings": null,
+  "capacity": "16組",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭センター管理係",
+    "contactPhone": "0428-23-2191",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "出産・子育ての準備はプレママ・クラス（母親・両親学級）\nおむつ交換や沐浴実習を行って、育児のイメージを作ってみませんか？\n妊娠中の過ごし方や食事のバランス、お口の中のことでお困りのことはありませんか？\n妊娠・出産・育児について、一緒にイメージしてみましょう。\n初めてお母さんになられる方とその配偶者（パートナー）を対象に行っています。\n・対象\n・妊娠20週前後以降の安定期に入っている第1子出産予定の妊婦と夫\n・定員・16組\n・申込先および会場・健康センター\nご希望の方は、お電話でお問い合わせください。（予約制）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "両親学級・妊婦学級",
+    "shortName": "出産・子育ての準備はプレママ・クラス（母親・両親学級）"
+  },
+  "localGovernmentLink": {
+    "title": "出産・子育ての準備はプレママ・クラス（母親・両親学級）",
+    "uri": "https://www.city.ome.tokyo.jp/soshiki/74/69479.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "青梅市"
+  },
+  "procedureCounter": "健康センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "ご希望の方は、お電話でお問い合わせください。（予約制）",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "お母さん（とお父さん）が安心して赤ちゃんを迎えられるように、青梅市では産科医師、歯科医師、保健師、栄養士、助産師などによる妊娠、出産、育児、栄養などに関する講義を開いています。これからお母さん（お父さん）になられる方同士の交流の場にもなりますので、ぜひお気軽にご参加ください。",
+  "support": {
+    "description": "出産・子育ての準備はプレママ・クラス（母親・両親学級）\nおむつ交換や沐浴実習を行って、育児のイメージを作ってみませんか？\n妊娠中の過ごし方や食事のバランス、お口の中のことでお困りのことはありませんか？\n妊娠・出産・育児について、一緒にイメージしてみましょう。\n初めてお母さんになられる方とその配偶者（パートナー）を対象に行っています。\n・対象・妊娠20週前後以降の安定期に入っている第1子出産予定の妊婦と夫\n・定員・16組\n・申込先および会場・健康センター\nご希望の方は、お電話でお問い合わせください。（予約制）",
+    "materiallySupport": "出産・子育ての準備はプレママ・クラス（母親・両親学級）\nおむつ交換や沐浴実習を行って、育児のイメージを作ってみませんか？\n妊娠中の過ごし方や食事のバランス、お口の中のことでお困りのことはありませんか？\n妊娠・出産・育児について、一緒にイメージしてみましょう。\n初めてお母さんになられる方とその配偶者（パートナー）を対象に行っています。\n・対象・妊娠20週前後以降の安定期に入っている第1子出産予定の妊婦と夫\n・定員・16組\n・申込先および会場・健康センター\nご希望の方は、お電話でお問い合わせください。（予約制）",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": "妊娠20週前後以降",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "妊娠20週前後以降の安定期に入っている第1子出産予定の妊婦と夫"
+  },
+  "updateDate": "2023-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131199;板橋区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康生きがい部 板橋健康福祉センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131199",
+    "psid": "psid3.0+6000020131199+2+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都板橋区板橋二丁目66番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康生きがい部 板橋健康福祉センター",
+    "contactPhone": "03-3579-2333",
+    "contactUrl": "https://www.city.itabashi.tokyo.jp/kosodate/kenko/shinsa/1039889.html",
+    "zipCode": "1738501"
+  },
+  "cost": null,
+  "costConditions": "無料（通信費は自己負担となります。）",
+  "description": "育児相談（オンライン）\n\nオンライン育児相談（予約制）\nオンライン育児相談\n健康福祉センターでは、オンラインによる育児相談を行っています。子育てのお悩みや疑問をお気軽にご相談ください。\n事前にお電話での仮申し込みが必要です\n\n相談内容\n・子育て相談（保健師）\n・栄養相談（栄養士）\n・歯科相談（歯科衛生士）\n\n対象\n板橋区に在住の乳幼児の保護者\n\n利用日時\n・下記の添付ファイルからご確認ください（相談したい月によって担当する健康福祉センターが異なりますが、お住いの地域に関係なくお申込みいただけます。）\n・1回おおよそ30分まで\n\n予約受付期間\n相談希望日の前月1日から相談希望日の5営業日前まで\n\n利用料金\n無料（通信費は自己負担となります。）\n\n利用方法\n1.「いたばし子育て応援アプリ」をダウンロードする。\n2.相談したい日時を担当するセンターへ電話で仮申し込みをする。（下記の添付ファイル参照）\n3.当日中にアプリから予約確定メールを送信する。\n4.後日「オンライン相談のミーティングURL」がメール返信される。\n5.予約日にオンライン相談を行う。\n\nお願い・注意\n・事前に「いたばし子育て応援アプリ」のインストールをお願いします。\n・相談にあたっては、事前に電話で仮予約をお願いします。\n・キャンセルや日時の変更は、予約した健康福祉センターへお電話でご連絡ください。\n・10分以上遅刻された場合は、キャンセル扱いとさせていただきます。\n・オンラインでの相談は、スマートフォンまたはパソコン（webカメラ内蔵のもの）を使用します。\n・相談中はカメラをONにしてご参加ください。\n・相談内容の録画や録音、配信はご遠慮ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "平日",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "板橋区の子育てに関する相談",
+    "shortName": "オンライン育児相談"
+  },
+  "localGovernmentLink": {
+    "title": "育児相談（オンライン）",
+    "uri": "https://www.city.itabashi.tokyo.jp/kosodate/kenko/shinsa/1039889.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-28",
+    "updater": "板橋区"
+  },
+  "procedureCounter": "各健康福祉センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "「いたばし子育て応援アプリ」をダウンロードし希望日時を担当するセンターへ電話で申込",
+  "procedurePeriod": {
+    "conditions": "相談希望日の前月1日から相談希望日の5営業日前まで",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "オンライン育児相談に参加される方へ",
+      "uri": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/039/889/onlinesoudan3.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "オンラインによる育児相談を行っています。子育てのお悩みや疑問をお気軽にご相談ください。（「いたばし子育て応援アプリ」のダウンロードが必要です。）",
+  "support": {
+    "description": "子育て相談、栄養相談、歯科相談",
+    "materiallySupport": "子育て相談、栄養相談、歯科相談",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "乳幼児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "板橋区に在住の乳幼児の保護者"
+  },
+  "updateDate": "2024-07-16",
+  "useConsiderationFlag": false,
+  "utilization": "要予約",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "1回おおよそ30分まで",
+    "fromHM": null,
+    "toHM": null
+  }
+}

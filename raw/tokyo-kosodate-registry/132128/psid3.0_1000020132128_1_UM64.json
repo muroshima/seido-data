@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132128;日野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部　障害福祉課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132128",
+    "psid": "psid3.0+1000020132128+1+UM64"
+  },
+  "belongings": "必要書類等、詳しくは、障害福祉課へお問い合わせください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都日野市神明1丁目12番地の1　日野市役所1階",
+    "contactComment": "直通電話：福祉係 042-514-8485　援護係 042-514-8489　差別解消推進係 042-514-8991,代表電話：042-585-1111　ファクス：042-583-0294",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康福祉部　障害福祉課",
+    "contactPhone": "042-514-8485,042-514-8489,042-514-8991,042-585-1111",
+    "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G110300",
+    "zipCode": "1918686"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "小児慢性特定疾病医療費助成\nこのページの情報をツイッターでツイートできますこのページの情報をフェイスブックでシェアできますこのページの情報をラインでシェアできますページID1003767　 更新日 令和6年5月9日\n印刷　大きな文字で印刷\n\n制度の趣旨\nこの制度は、国が行う小児慢性特定疾患治療研究事業に基づき、定められた対象疾患の治療方法等の情報を今後の治療研究に生かすとともに、その治療にかかった費用(保険適用分)の一部を、公費によって助成するものです。\n\n内容\n対象者、助成内容等、詳しくは 小児慢性特定疾病医療費助成のページ（東京都福祉局）をご覧ください。\n\n小児慢性特定疾病医療費助成のページ（東京都福祉局）（外部リンク）（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/syoman/index.html\n申請方法\n必要書類等、詳しくは、障害福祉課へお問い合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "小児慢性特定疾病医療費の助成",
+    "shortName": "小児慢性特定疾病医療費助成"
+  },
+  "localGovernmentLink": {
+    "title": "小児慢性特定疾病医療費助成",
+    "uri": "https://www.city.hino.lg.jp/fukushi/nanbyo/nanbyo/1003767.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "日野市"
+  },
+  "procedureCounter": "健康福祉部　障害福祉課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "必要書類等、詳しくは、障害福祉課へお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第19条の2～第19条の8",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "小児慢性特定疾病医療費助成のページ（東京都福祉局）（外部リンク）（外部リンク）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/syoman/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子どもの慢性疾病のうち、治療期間が長く、医療費負担が高額となる疾病について、治療方法の確立と普及、患者家庭の医療費の負担軽減につながるよう、医療費の自己負担分を補助しています。",
+  "support": {
+    "description": "対象者、助成内容等、詳しくは 小児慢性特定疾病医療費助成のページ（東京都福祉局）をご覧ください。\n\n小児慢性特定疾病医療費助成のページ（東京都福祉局）（外部リンク）（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/syoman/index.html",
+    "materiallySupport": null,
+    "monetarySupport": "対象者、助成内容等、詳しくは 小児慢性特定疾病医療費助成のページ（東京都福祉局）をご覧ください。\n\n小児慢性特定疾病医療費助成のページ（東京都福祉局）（外部リンク）（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/syoman/index.html"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象者、助成内容等、詳しくは 小児慢性特定疾病医療費助成のページ（東京都福祉局）をご覧ください。\n\n小児慢性特定疾病医療費助成のページ（東京都福祉局）（外部リンク）（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/syoman/index.html"
+  },
+  "updateDate": "2024-05-09",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

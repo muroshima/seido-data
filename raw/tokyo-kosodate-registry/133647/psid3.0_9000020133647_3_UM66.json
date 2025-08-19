@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "133647;神津島村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "役場福祉課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020133647",
+    "psid": "psid3.0+9000020133647+3+UM66"
+  },
+  "belongings": "①各領収書(船・飛行機・タクシー・宿泊・医療機関)\n※受診日の前後それぞれ 2 日間までの領収書が有効。受診日の3日前より早く出島したり、3日間以上残った場合は助成不可(どちらか該当の場合片道分のみ助成)。\n②飛行機利用の場合は、搭乗券もしくは搭乗証明書\n③印鑑\n④初回の申請時には、金融機関の通帳もしくはカード\n⑤初回の申請時には、医療機関の診断書(コピー不可)の取得が必要\n※診断書がなければ助成できませんのでご注意ください。診断書の内容については、必ず役場福祉課でご確認ください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "役場福祉課",
+    "contactPhone": "04992-8-0011",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "島外医療機関にかかる交通費助成①\n障害者(児)及び島内の医療機関で治療が困難な方に対して、島外の医療機関にかかる経費の一部を助成しています。\n■対象者\n①障害者手帳所持者、特定疾患医療受給者証所持者 (診断書不要)\n②島外の医療機関に疾病・ケガのため 3 か月に 1 回もしくはそれ以上に検査・治療が必要だと医療機関の医師が診断した方\n※生活保護世帯、歯科受診は除く\n※がん治療については、期間の設定は設けない\n③付き添い者に関しては、医師が移動の際に介助を必要だと判断した場合に限る。(診断書の明記が必要)\n ④村税、その他村に納付すべき料金に滞納がない世帯\n⑤神津島村に住所登録がある方\n■助成内容\n① 年間 10 回までの助成とする\n② 次の助成額を助成する(支払い料金が低い場合はその金額とする。)\n|種類|<|助成額等|対象経費|\n|:----|:----|:----|:----|\n|交通費|船賃・航空賃|〇往復 4,000 円<br>〇小人船賃に限っては、片道 1,500 円|●往復 4,000 円<br>・片道適応の場合は 2,000 円<br>・小人船賃片道 1,500 円|\n|^|^|^|●領収書の他に航空賃は搭乗券もしくは搭乗証明書の添付|\n|^|タクシー料金|〇1 日につき 1,000 円を上限とし、助成とする。|●3 日分助成対象とする|\n|宿泊費|宿泊費|〇宿泊費については、1 泊につき3,000 円|●一泊料金のみ助成する|\n\n島外医療機関にかかる交通費助成②\n■申請に必要なもの\n①各領収書(船・飛行機・タクシー・宿泊・医療機関)\n※受診日の前後それぞれ 2 日間までの領収書が有効。受診日の3日前より早く出島したり、3日間以上残った場合は助成不可(どちらか該当の場合片道分のみ助成)。\n②飛行機利用の場合は、搭乗券もしくは搭乗証明書\n③印鑑\n④初回の申請時には、金融機関の通帳もしくはカード\n⑤初回の申請時には、医療機関の診断書(コピー不可)の取得が必要\n※診断書がなければ助成できませんのでご注意ください。診断書の内容については、必ず役場福祉課でご確認ください。\n■申請方法\n①医療機関を受診したその日の翌日から 3 か月以内に申請してください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の医療費助成制度",
+    "shortName": "島外医療機関にかかる交通費助成"
+  },
+  "localGovernmentLink": {
+    "title": "病気になったときには",
+    "uri": "https://www.vill.kouzushima.tokyo.jp/images/2023/03/20210318-byouki.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-08-19",
+    "updater": "神津島村"
+  },
+  "procedureCounter": "役場福祉課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "医療機関を受診したその日の翌日から 3 か月以内に申請してください。",
+  "procedurePeriod": {
+    "conditions": "医療機関を受診したその日の翌日から 3 か月以内",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "大気汚染に係る健康障害者に対する医療費の助成に関する条例"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "大気汚染の影響を受けると推定される疾病（気管支ぜん息など）にかかった方に対し、一定の要件を満たす場合に、医療費の助成をしています。",
+  "support": {
+    "description": "① 年間 10 回までの助成とする\n② 次の助成額を助成する(支払い料金が低い場合はその金額とする。)\n|種類|<|助成額等|対象経費|\n|:----|:----|:----|:----|\n|交通費|船賃・航空賃|〇往復 4,000 円<br>〇小人船賃に限っては、片道 1,500 円|●往復 4,000 円<br>・片道適応の場合は 2,000 円<br>・小人船賃片道 1,500 円|\n|^|^|^|●領収書の他に航空賃は搭乗券もしくは搭乗証明書の添付|\n|^|タクシー料金|〇1 日につき 1,000 円を上限とし、助成とする。|●3 日分助成対象とする|\n|宿泊費|宿泊費|〇宿泊費については、1 泊につき3,000 円|●一泊料金のみ助成する|\n",
+    "materiallySupport": null,
+    "monetarySupport": "① 年間 10 回までの助成とする\n② 次の助成額を助成する(支払い料金が低い場合はその金額とする。)\n|種類|<|助成額等|対象経費|\n|:----|:----|:----|:----|\n|交通費|船賃・航空賃|〇往復 4,000 円<br>〇小人船賃に限っては、片道 1,500 円|●往復 4,000 円<br>・片道適応の場合は 2,000 円<br>・小人船賃片道 1,500 円|\n|^|^|^|●領収書の他に航空賃は搭乗券もしくは搭乗証明書の添付|\n|^|タクシー料金|〇1 日につき 1,000 円を上限とし、助成とする。|●3 日分助成対象とする|\n|宿泊費|宿泊費|〇宿泊費については、1 泊につき3,000 円|●一泊料金のみ助成する|\n"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "①障害者手帳所持者、特定疾患医療受給者証所持者 (診断書不要)\n②島外の医療機関に疾病・ケガのため 3 か月に 1 回もしくはそれ以上に検査・治療が必要だと医療機関の医師が診断した方\n※生活保護世帯、歯科受診は除く\n※がん治療については、期間の設定は設けない\n③付き添い者に関しては、医師が移動の際に介助を必要だと判断した場合に限る。(診断書の明記が必要)\n④村税、その他村に納付すべき料金に滞納がない世帯\n⑤神津島村に住所登録がある方"
+  },
+  "updateDate": "2021-03-18",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

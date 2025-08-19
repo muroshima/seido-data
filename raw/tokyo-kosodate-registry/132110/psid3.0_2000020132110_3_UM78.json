@@ -1,0 +1,133 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "障がい者支援課サービス支援担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+3+UM78"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市小川町2-1333　健康福祉事務センター1階",
+    "contactComment": "FAX：042-346-9541",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "障がい者支援課サービス支援担当",
+    "contactPhone": "042-346-9542",
+    "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+    "zipCode": "1878701"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "障害児通所サービス等の種類\n下記の障害児通所サービスを利用することができます。\n\n障害児通所支援\n|事業|内容|\n|:----|:----|\n|児童発達支援|日常生活における基本的な動作の指導、知識技能の習得及び集団生活への適応訓練を行います。|\n|医療型児童発達支援|肢体不自由の障がい児に対し、児童発達支援及び治療を行います。|\n|放課後等デイサービス|就学中の障がい児に対して、放課後や夏休み等の長期休暇中において、生活能力向上のための訓練等を行います（ページ下部に市内事業所一覧を添付しています）。|\n|保育所等訪問支援|障がい児が集団生活を営む施設を訪問し、当該施設における障がい児以外の児童との集団生活への適応のための専門的な支援その他の便宜を供与します。|\n市内放課後等デイサービス事業所一覧（令和6年4月現在）（PDF 221.2KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/42848/042848/att_0000003.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "障がい児保育",
+    "shortName": "放課後等デイサービス"
+  },
+  "localGovernmentLink": {
+    "title": "障害児通所サービス等の種類",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/042/042848.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "小平市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "障害児保育事業実施要領"
+  },
+  "relatedLink": [
+    {
+      "title": "市内放課後等デイサービス事業所一覧（令和6年4月現在）（PDF 221.2KB）",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/42848/042848/att_0000003.pdf"
+    },
+    {
+      "title": "障害福祉サービス等の種類",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/003/003640.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "集団保育が可能で心身に障がいがあるお子さんを、健常児と一緒に保育し相互の健全な育成を図ります。",
+  "support": {
+    "description": "放課後や夏休み等の長期休暇中において、生活能力向上のための訓練等を行います",
+    "materiallySupport": "放課後や夏休み等の長期休暇中において、生活能力向上のための訓練等を行います",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "就学中の障がい児"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

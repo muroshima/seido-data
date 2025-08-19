@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131059;文京区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部幼児保育課入園相談係・施設給付・私立幼稚園担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131059",
+    "psid": "psid3.0+6000020131059+1+UM71"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都文京区春日1丁目16番21号\n文京シビックセンター12階南側",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部幼児保育課入園相談係",
+    "contactPhone": "03-5803-1190",
+    "contactUrl": "https://logoform.jp/form/6KSu/553771",
+    "zipCode": "1128555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "「幼稚園基本部分」の無償化に必要な認定です。\n保護者全員に「保育の必要性」があり、預かり保育までの無償化を希望する場合に提出します。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "施設型給付費・地域型保育給付費等 教育・保育給付認定申請",
+      "uri": "https://logoform.jp/form/6KSu/309141\n"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子どものための教育・保育給付認定（1号・2号・3号）",
+    "shortName": "認定の手続き"
+  },
+  "localGovernmentLink": {
+    "title": "認定の手続きについて",
+    "uri": "https://www.city.bunkyo.lg.jp/b023/p001703.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "文京区"
+  },
+  "procedureCounter": "幼児保育課入園相談係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "必要書類を幼児保育課入園相談係へ提出（郵送可）又は電子申請にてお申込みください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第19条（支給要件）・第20条（市町村の認定等）",
+    "regulationName": "子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子ども・子育て支援新制度による給付を受ける幼稚園や認可保育園、認定こども園、地域型保育事業（小規模保育・家庭的保育・居宅訪問型保育・事業所内保育）を利用するには、お子さんの年齢や保育の必要性の有無、保育の必要量に応じた認定を受ける必要があります。\n\nまた、企業主導型保育（地域枠）については、お住まいの自治体から教育・保育給付認定を受けることで、「幼児教育・保育の無償化」による助成を受けることができます。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "3歳児クラスから5歳児クラス\n基本利用料：無償\n預かり保育料：無償化（月額上限11,300円）\n入園補助金（上限）：30,000円\n\n区民税課税世帯の満3歳児クラス\n（3歳になった日から最初の3月31日までにある子ども）\n基本利用料：無償無償化\n預かり保育料：対象外\n入園補助金（上限）：30,000円\n\n区民税非課税世帯の満3歳児クラス\n（3歳になった日から最初の3月31日までにある子ども）\n基本利用料：無償\n預かり保育料：無償化（月額上限16,300円）\t\n入園補助金（上限）：30,000円",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 5,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "【1号】満３歳から小学校就学前までの子ども\n【2号】満３歳以上で、保育所等での保育を必要\nとする子ども\n【3号】満３歳未満で、保育所等での保育を必要\nとする子ども"
+  },
+  "updateDate": "2024-06-06",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

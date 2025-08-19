@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132101;小金井市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "自立生活支援課障害福祉係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132101",
+    "psid": "psid3.0+3000020132101+1+UM63"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": "s050299(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。\n\n小金井市役所",
+    "contactEx": null,
+    "contactName": "自立生活支援課障害福祉係",
+    "contactPhone": "042-387-9842",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "障害児福祉手当\n更新日：2024年4月1日\n\n対象\n　精神又は身体に重度の障害を有するため、日常生活において常時の介護を必要とする状態にある在宅の20歳未満の方\n\n制限\n・施設に入所している方\n・障害年金の受給者\n・本人・扶養義務者等の所得が一定額を超える方　　所得制限表;https://www.city.koganei.lg.jp/smph/kenkofukuhsi/shogaishafukushi/teateshougai/syotoku_teate.html\n\n内容\n　手当月額15,690円を2月・5月・8月・11月にそれぞれ前月までの3か月分を本人名義の口座に振り込みます。なお、申請のあった月の翌月分から支給します。\n\n手続き方法\n　判定基準が手帳の基準と異なります。所定の診断書が必要となりますので、一度ご相談ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "障害児福祉手当",
+    "shortName": "障害児福祉手当"
+  },
+  "localGovernmentLink": {
+    "title": "障害児福祉手当",
+    "uri": "https://www.city.koganei.lg.jp/smph/kenkofukuhsi/shogaishafukushi/teateshougai/syougaiji.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "小金井市"
+  },
+  "procedureCounter": "自立生活支援課障害福祉係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "判定基準が手帳の基準と異なります。所定の診断書が必要となりますので、一度ご相談ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第3章",
+    "regulationName": "特別児童扶養手当等の支給に関する法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "身体または精神に重度の障がいのある20歳未満の方で、日常生活において常時介護を必要とする方に対し、手当が支給されます。",
+  "support": {
+    "description": "手当月額15,690円を2月・5月・8月・11月にそれぞれ前月までの3か月分を本人名義の口座に振り込みます。なお、申請のあった月の翌月分から支給します。",
+    "materiallySupport": null,
+    "monetarySupport": "手当月額15,690円"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "精神又は身体に重度の障害を有するため、日常生活において常時の介護を必要とする状態にある在宅の20歳未満の方",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": 0
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "精神又は身体に重度の障害を有するため、日常生活において常時の介護を必要とする状態にある在宅の20歳未満の方"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

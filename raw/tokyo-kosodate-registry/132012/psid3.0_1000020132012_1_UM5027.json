@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132012;八王子市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子育て支援課（母子・父子自立支援担当）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132012",
+    "psid": "psid3.0+1000020132012+1+UM5027"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "八王子市元本郷町3-24-1（本庁舎事務棟4階）",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部子育て支援課（母子・父子自立支援担当）",
+    "contactPhone": "042-620-7300　",
+    "contactUrl": "https://www.city.hachioji.tokyo.jp/inquiry/mailform470400.html",
+    "zipCode": "1928501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ひとり親家庭や離婚を考えている方のために以下の支援を行う事業です。¥n１　就業支援事業¥nキャリアの確認と履歴書の作成補助などの就労相談から本人の希望に沿いひとり親などに理解がある求人開拓と、そのマッチングを行う支援¥n２　就業支援講習会等事業¥nパソコン講座や資格取得、親子で自己研鑽を行うセミナーなど開催¥n３　テレワーク推進事業¥n３か月間テレワークに関するスキルを学び、就労支援を行う¥n４　広報啓発・広聴ニーズ把握活動等事業¥nメールマガジンの配信やLINEでの情報提供とニーズ調査",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "母子家庭等就業・自立支援センター",
+    "shortName": "母子家庭等就業・自立支援センター事業"
+  },
+  "localGovernmentLink": {
+    "title": "母子家庭等就業・自立支援センター事業とは",
+    "uri": "https://kosodate.city.hachioji.tokyo.jp/mokuteki/hitorioyakatei/shugyoshien/792.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/18",
+    "updater": "八王子市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "ひとり親家庭の親等に対し、就業相談から就業情報の提供等までの一貫した就業支援サービスや、支援につながる情報提供など生活支援サービスを提供します。",
+  "support": {
+    "description": "母子家庭の母及び父子家庭の父等に対し、きめ細やかな就業相談、就職に直接結びつく就業支援講習会、一人ひとりのニーズに沿った就業情報の提供などの一貫した就業支援サービスや、支援につながる情報提供など生活支援サービスを実施する事業です。",
+    "materiallySupport": null,
+    "monetarySupport": "きめ細やかな就業相談,就職に直接結びつく就業支援講習会,一人ひとりのニーズに沿った就業情報の提供などの一貫した就業支援サービス,メールマガジンの配信などの生活支援サービス"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "母子家庭の母及び父子家庭の父等"
+  },
+  "updateDate": "2021/03/24",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

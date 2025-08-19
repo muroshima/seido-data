@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132039;武蔵野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部　健康課　母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132039",
+    "psid": "psid3.0+8000020132039+1+UM10"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都武蔵野市吉祥寺北町4‐8‐10　武蔵野市立保健センター1階",
+    "contactComment": "ファクス番号：0422-51-9297",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康福祉部　健康課　母子保健係",
+    "contactPhone": "0422-51-0700",
+    "contactUrl": "https://www.city.musashino.lg.jp/cgi-crm/CRM030/CRM030_001/G00700500/1035954",
+    "zipCode": "1800001"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "新生児の先天性代謝異常等検査\n赤ちゃんの病気の早期発見・早期治療のために先天性代謝異常等検査を実施しています。\n\n先天性代謝異常等検査\n対象\n新生児(生後5日目から7日目)\n\n内容\n足の裏から少量の血液を採取して検査します。\n\n申込\n【都内の医療機関で出産する場合】\n検査の費用は、東京都が負担します。\nただし、採血にかかる費用等は保護者の負担になります。\n医療機関(東京都内のみ)に用意してある「先天性代謝異常等検査申込書兼採血ろ紙」に必要事項を記入の上、出産される医療機関へ提出してください。\nなお、助産所や自宅など医療機関以外で出産された場合は、分娩にかかわった機関に申し込んでください。\n\n【東京都以外の医療機関で出産する場合】\n里帰り先の道府県、政令市の制度が利用できます。\n申込方法や費用等について、出産予定の医療機関または出産予定の道府県庁、政令市の母子保健事業担当係に直接お問い合わせください。\nなお、道府県、政令市により検査の対象となる疾患数が異なる場合がありますので、ご承知おきください。\n\n精密検査\n精密検査が必要になった場合は、「乳児精密健康診査受診票」を交付しますので、健康課までご連絡ください。\n\nお問い合わせ先\n事業全般\n東京都福祉保健局少子社会対策部家庭支援課母子保健係　03-5320-4372\n精密検査について\n武蔵野市健康福祉部健康課 0422-51-0700\n先天性代謝異常について（東京都福祉保健局）; https://www.fukushi.metro.tokyo.lg.jp/kodomo//shussan/taisyaijou.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "先天性代謝異常等検査",
+    "shortName": "新生児の先天性代謝異常等検査"
+  },
+  "localGovernmentLink": {
+    "title": "新生児の先天性代謝異常等検査",
+    "uri": "https://www.city.musashino.lg.jp/shussan_kodomo_kyoiku/ninshin_shussan_boshihoken/umaretara/1006687.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "武蔵野市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "【都内の医療機関で出産する場合】\n検査の費用は、東京都が負担します。\nただし、採血にかかる費用等は保護者の負担になります。\n医療機関(東京都内のみ)に用意してある「先天性代謝異常等検査申込書兼採血ろ紙」に必要事項を記入の上、出産される医療機関へ提出してください。\nなお、助産所や自宅など医療機関以外で出産された場合は、分娩にかかわった機関に申し込んでください。\n\n【東京都以外の医療機関で出産する場合】\n里帰り先の道府県、政令市の制度が利用できます。\n申込方法や費用等について、出産予定の医療機関または出産予定の道府県庁、政令市の母子保健事業担当係に直接お問い合わせください。\nなお、道府県、政令市により検査の対象となる疾患数が異なる場合がありますので、ご承知おきください。\n\n精密検査\n精密検査が必要になった場合は、「乳児精密健康診査受診票」を交付しますので、健康課までご連絡ください。\n\nお問い合わせ先\n事業全般\n東京都福祉保健局少子社会対策部家庭支援課母子保健係　03-5320-4372\n精密検査について\n武蔵野市健康福祉部健康課 0422-51-0700\n先天性代謝異常について（東京都福祉保健局）（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo//shussan/taisyaijou.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "東京都先天性代謝異常等検査実施要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "先天性代謝異常について（東京都福祉保健局）（外部リンク）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo//shussan/taisyaijou.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "東京都ではフェニルケトン尿症等の先天性代謝異常や先天性甲状腺機能低下症（クレチン症）などの内分泌疾患を早期に発見するために、先天性代謝異常等検査を行っています。\nこれらの疾患を放っておくと、生まれた時は健康に見えても、身体障害や知的障害が発生したり、時には生命の危険にさらされたりする場合もあります。しかし、疾患を早期に発見し、適切な治療を続けることで、障害などの発生を未然に防ぐことができます。",
+  "support": {
+    "description": "足の裏から少量の血液を採取して検査します。",
+    "materiallySupport": "足の裏から少量の血液を採取して検査します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "新生児(生後5日目から7日目)"
+  },
+  "updateDate": "2019-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

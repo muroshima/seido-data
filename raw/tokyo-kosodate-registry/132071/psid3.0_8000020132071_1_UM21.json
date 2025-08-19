@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132071;昭島市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子ども育成支援課 地域支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132071",
+    "psid": "psid3.0+8000020132071+1+UM21"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "昭島市田中町1-17-1",
+    "contactComment": "042-544-5111（内線番号：2170から2171）,042-544-4190（直通）ファックス番号：042-546-8855",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 子ども育成支援課 地域支援係",
+    "contactPhone": "042-544-4190",
+    "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000277.html",
+    "zipCode": "1968511"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "誕生祝記念品贈呈\n誕生したお子様の健やかな成長を願い、 誕生祝記念品として絵本を贈呈いたします。\n\n対象者\n出生時に市内に住所のあるかた\n\n配付方法\nお好きな絵本（5冊の中から1冊）を選んで、出生通知票に記載してください。\n（出生通知票は電子申請でも提出できます。詳細は下記「こんにちは赤ちゃん訪問事業」のページを参照）\n\n子ども家庭センター担当母子保健係の保健師・助産師がこんにちは赤ちゃん訪問事業;https://www.city.akishima.lg.jp/s049/010/010/040/010/20140916191458.html の際、贈呈いたします。\n\n絵本の紹介（お好きな絵本を1冊選んでください。） \n\nはたらくくるま「よいしょ」 三浦 太郎（作） 偕成社\n「おつきさまこんばんは」 林 明子（作） 福音館書店\n「くっついた」 三浦 太郎（作・絵） こぐま社\n「こちょこちょさん」おーなり由子（文）はたこうしろう（絵）講談社\n「どんどこももんちゃん」とよたかずひこ（作・絵）童心社\n本の紹介チラシ（PDF：522.8KB）;https://www.city.akishima.lg.jp/s0585/010/010/130/010/ehon.pdf\n\n絵本のえらび方\n生まれて初めてであう絵本。言葉はわからなくても目や耳でたくさん楽しんでいます。\n\n心地よい響きやリズムのあるくり返しの言葉\n絵の形や色がはっきりしている\n文章が短い\nふれあいアイテムとして親子で楽しめる\n親の優しい語りかけは、電子メディアでは得られません。\n絵本を通して子どもの心と言葉を豊かに育てましょう。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "出生通知票",
+      "uri": "https://logoform.jp/form/Zue8/319365"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出産祝い",
+    "shortName": "誕生祝記念品贈呈事業"
+  },
+  "localGovernmentLink": {
+    "title": "誕生祝記念品贈呈事業",
+    "uri": "https://www.city.akishima.lg.jp/s0585/010/010/130/010/20150626131752.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-28",
+    "updater": "昭島市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "お好きな絵本（5冊の中から1冊）を選んで、出生通知票に記載してください。\n（出生通知票は電子申請でも提出できます。詳細は下記「こんにちは赤ちゃん訪問事業」;https://www.city.akishima.lg.jp/s049/010/010/040/010/20140916191458.htmlのページを参照）",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "昭島市にお住まいの方がお子さんを出産した場合、出産祝い金を支給します。",
+  "support": {
+    "description": "誕生したお子様の健やかな成長を願い、 誕生祝記念品として絵本を贈呈いたします。",
+    "materiallySupport": "誕生したお子様の健やかな成長を願い、 誕生祝記念品として絵本を贈呈いたします。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "出生時に市内に住所のあるかた"
+  },
+  "updateDate": "2024-04-12",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

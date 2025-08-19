@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132063;府中市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "市民部保険年金課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132063",
+    "psid": "psid3.0+8000020132063+1+UM20"
+  },
+  "belongings": "母子健康手帳、保険証、申請者の本人確認書類（マイナンバーカード、運転免許証等）、振込先の口座番号等がわかるもの",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "市民部保険年金課",
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "出産をしたとき\n最終更新日：2023年4月1日\n\n出産育児一時金の受取代理制度\n直接支払制度が利用できない医療機関等において受取代理制度（出産費用の窓口負担を軽減するため、医療機関等が加入者に代わって出産育児一時金を受け取ることができる制度）を利用できる場合があります。詳しくは出産する医療機関等にお問合わせ下さい。\n\n出産育児一時金の貸付制度\n出産費資金の貸付制度があります。\nなお、出産育児一時金の貸付制度を利用すると、直接支払制度が利用できなくなりますのでご承知おきください。\n対象\n次のすべてに該当する方かた\n\n出産日に府中市の国民健康保険に加入している方かた\n出産予定日まで1か月以内の方かた、または妊娠4か月以上で、出産費用を医療機関等から請求されている、または支払いが完了している方かた\nほかの保険制度からこれに相当する給付を受けない方かた\n注記：医療機関からの予約金の請求は対象外です。\n\n貸付金額\n出産育児一時金の80パーセント（390,000円）\n注記：出産後に残りの110,000円（産科医療補償制度外の場合は98,000円）を支給することで精算します。\n\n申込み\n母子健康手帳、保険証、申請者の本人確認書類（マイナンバーカード、運転免許証等）、振込先の口座番号等がわかるものを持って、市役所2階保険年金課へ",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出産費貸付制度",
+    "shortName": "出産育児一時金の貸付制度"
+  },
+  "localGovernmentLink": {
+    "title": "出産をしたとき",
+    "uri": "https://www.city.fuchu.tokyo.jp/kurashi/hoken/kokuminkenko/kyufu/shussan.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-28",
+    "updater": "府中市"
+  },
+  "procedureCounter": "市役所2階保険年金課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申込み\n市役所2階保険年金課へ",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第１条（目的）・第２条（貸付けの対象）・第３条（貸付金の額等）・４条（申請）",
+    "regulationName": "府中市国民健康保険出産費資金貸付条例"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "出産予定日前に出産費用の支払いが必要な方を対象に、出産育児一時金8割に相当する額を限度として出産費用の貸し付けを無利子で行います。",
+  "support": {
+    "description": "出産費資金の貸付制度があります。\nなお、出産育児一時金の貸付制度を利用すると、直接支払制度が利用できなくなりますのでご承知おきください。\n貸付金額\n出産育児一時金の80パーセント（390,000円）\n注記：出産後に残りの110,000円（産科医療補償制度外の場合は98,000円）を支給することで精算します。",
+    "materiallySupport": null,
+    "monetarySupport": "出産費資金の貸付制度があります。\nなお、出産育児一時金の貸付制度を利用すると、直接支払制度が利用できなくなりますのでご承知おきください。\n貸付金額\n出産育児一時金の80パーセント（390,000円）\n注記：出産後に残りの110,000円（産科医療補償制度外の場合は98,000円）を支給することで精算します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次のすべてに該当する方\n\n・出産日に府中市の国民健康保険に加入している方\n・出産予定日まで1か月以内の方かた、または妊娠4か月以上で、出産費用を医療機関等から請求されている、または支払いが完了している方\n・ほかの保険制度からこれに相当する給付を受けない方\n注記：医療機関からの予約金の請求は対象外です。"
+  },
+  "updateDate": "2023-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

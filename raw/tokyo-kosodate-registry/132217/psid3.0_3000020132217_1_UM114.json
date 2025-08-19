@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "132217;清瀬市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132217",
+    "psid": "psid3.0+3000020132217+1+UM114"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都清瀬市中里5-842　しあわせ未来センター1階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て支援課母子保健係",
+    "contactPhone": "042-497-2077",
+    "contactUrl": null,
+    "zipCode": "2048511"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "平日準夜間小児救急診療の概要\nページ番号1009955　 更新日 2022年12月1日印刷大きな文字で印刷\n清瀬市では、市民の医療不安を解消し生命と健康を守るため、お子さんの平日準夜間小児救急診療を実施しています。\n\n　新型コロナウイルス感染症の感染拡大防止のため、必ずマスクを着用してください。\n他の患者さんや医療従事者への感染防止のため、発熱のある方は医療機関に直接行かず、下記にお問い合わせください。\n\n1.かかりつけ医\n\n2.東京都発熱相談センター（24時間対応。土日祝日含む。）\n\n|症状相談等を希望される方向け<br>（看護師・保健師が対応）|医療機関案内を希望される方向け<br>（一般オペレーターが対応）|\n|:----|:----|\n|03-6258-5780<br>03-5320-4592<br>03-5320-4551<br>03-5320-4411|\n|03-5320-4327<br>03-5320-5971<br>03-5320-7030|\n\n平日準夜間小児救急診療\n15歳以下のお子様を対象に多摩北部医療センターと佐々総合病院で『平日準夜間小児救急診療』を実施しています。診療時間はいずれも午後7時30分から午後10時30分です。\n\n多摩北部医療センター（東村山市青葉町1丁目7-1）電話番号　042-396-3811（代表）\n佐々総合病院（西東京市田無町4丁目24-15）電話番号　042-461-1535（代表）\n多摩北部医療センター（外部リンク）;https://www.tmhp.jp/tamahoku/\n佐々総合病院（外部リンク）;https://www.sassa-hospital.com/\n\n救急診療・休日診療については下記リンクをご覧ください。\n\n休日診療（内科等）・休日診療（歯科）の概要;https://www.city.kiyose.lg.jp/kurashi/bousai_anzen/shoubou_kyukyu/1003306/1003309.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "東村山市青葉町1丁目7-1,西東京市田無町4丁目24-15",
+    "implementationName": "多摩北部医療センター,佐々総合病院"
+  },
+  "institutionName": {
+    "canonicalName": "小児科救急",
+    "shortName": "平日準夜間小児救急診療"
+  },
+  "localGovernmentLink": {
+    "title": "平日準夜間小児救急診療の概要",
+    "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kodomokenkoukanri/kodomonobyouki/1009955.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "清瀬市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": "19:30",
+    "fromYMD": null,
+    "toHM": "22:30",
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "救急医療対策事業実施要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "多摩北部医療センター（外部リンク）",
+      "uri": "https://www.tmhp.jp/tamahoku/"
+    },
+    {
+      "title": "佐々総合病院（外部リンク）",
+      "uri": "https://www.sassa-hospital.com/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "清瀬市では、多摩北部医療センターと佐々総合病院で、休日や夜間に、赤ちゃんやお子さんが救急の際の診療を行っています。",
+  "support": {
+    "description": "診療",
+    "materiallySupport": "診療",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "15歳以下のお子様",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 15,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "15歳以下のお子様"
+  },
+  "updateDate": "2022-12-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "多摩北部医療センターは月～金曜日,佐々総合病院月、水、木、金曜日",
+    "fromHM": "19:30",
+    "toHM": "22:30"
+  }
+}

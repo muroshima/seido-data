@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部保健予防課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+6+UM54"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部保健予防課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e054/kuseijoho/gaiyo/soshiki/kenko/hokenyobo.html",
+    "zipCode": null
+  },
+  "cost": "0",
+  "costConditions": "（注）ただし、指定医療機関以外で接種する場合、予診票を持参しない場合、対象年齢を1日でも過ぎた場合は有料となります。",
+  "description": "結核は、結核菌によって発生するわが国の主要な感染症の一つです。毎年新たに1万5,000人以上の患者が発生しており、世界的にみても日本はまだ結核の低まん延国ではありません。\nいわゆる空気感染を起こし、一般的には肺の内部で増えて、咳、痰、呼吸困難等の症状を呈することが多いですが、肺以外の腎臓、骨、脳など身体のあらゆる部分に影響を及ぼすことがあります。また、結核菌に感染した場合、必ずしもすぐに発症するわけではなく、体内に留まったのち再び活動を開始し、発症することがあります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "1歳に至るまでの間",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "区内指定医療機関https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/iryokikan.html"
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "BCG予防接種"
+  },
+  "localGovernmentLink": {
+    "title": "BCGワクチン予防接種",
+    "uri": "https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/bcg.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "予防接種法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "BCG予防接種は、結核菌による結核感染を予防するためのワクチン接種です。結核は、肺だけでなく身体の他の部分にも影響を及ぼす感染症であり、結核菌に感染した場合は必ずしもすぐに発症しないこともあります。BCGワクチンは、結核菌に対する免疫を高めることで感染を予防する効果があります。対象者は、生後5か月から生後8か月の間に1回接種となります。具体的な接種方法や対象者については、江戸川区の公式ウェブサイトを参照してください。",
+  "support": {
+    "description": "接種回数・スケジュール\n初回：20日以上の間隔をおいて3回接種\n\n追加：初回接種終了後、6か月以上の間隔をおいて1回接種\n\n標準的な接種時期\n初回：生後2か月から1歳に至るまでの間に、20日から56日までの間隔をおいて3回接種\n\n追加：初回接種終了後、1年から1年6か月までの間隔をおいて1回接種",
+    "materiallySupport": "予防接種の助成を行います。接種回数・スケジュール\n初回：20日以上の間隔をおいて3回接種\n\n追加：初回接種終了後、6か月以上の間隔をおいて1回接種\n\n標準的な接種時期\n初回：生後2か月から1歳に至るまでの間に、20日から56日までの間隔をおいて3回接種\n\n追加：初回接種終了後、1年から1年6か月までの間隔をおいて1回接種",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "1歳に至るまでに1回接種",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "1歳に至るまでの間"
+  },
+  "updateDate": "2023-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

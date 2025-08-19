@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "132128;日野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部　健康課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132128",
+    "psid": "psid3.0+1000020132128+1+UM45"
+  },
+  "belongings": "保険証",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都日野市日野本町1丁目6番地の2　生活保健センター",
+    "contactComment": "ファクス：042-583-2400",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康福祉部　健康課",
+    "contactPhone": "042-581-4111",
+    "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G110500",
+    "zipCode": "1910011"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "休日準夜診療所案内\nこのページの情報をツイッターでツイートできますこのページの情報をフェイスブックでシェアできますこのページの情報をラインでシェアできますページID1007100　 更新日 令和1年10月16日\n印刷　大きな文字で印刷\n\n休日夜間診療（土曜・日曜日、祝日、年末年始の午後7時30分から午後10時30分） を行う休日準夜診療所のご案内です。\n\n必ず保険証をご持参下さい。また来院前には電話連絡をお願いします。\n\n休日準夜診療所\n地図：休日準夜診療所案内図\n診療日：土曜日・日曜日、祝日、年末年始\n診療時間：午後7時30分から午後10時30分 \n（受け付けは午後10時20分まで）\n診療科目：内科・小児科\n場所：日野市多摩平3-1-12医師会館1階 \n電話：042-584-1661\nこのページに関するお問い合わせ\n健康福祉部　健康課\n直通電話：042-581-4111\nファクス：042-583-2400\n〒191-0011\n東京都日野市日野本町1丁目6番地の2　生活保健センター\n健康福祉部健康課へのお問い合わせは専用フォームをご利用ください。 ",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "日野市多摩平3-1-12医師会館1階",
+    "implementationName": "休日準夜診療所"
+  },
+  "institutionName": {
+    "canonicalName": "夜間・休日急病診療所",
+    "shortName": "休日準夜診療所案内"
+  },
+  "localGovernmentLink": {
+    "title": "休日準夜診療所案内",
+    "uri": "https://www.city.hino.lg.jp/kurashi/annzen/iryo/1007100.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "日野市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "来院前には電話連絡をお願いします。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第20条の2（医療施設の整備）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "日野市では、夜間や日曜・祝日、年末年始に、市内の医療機関の協力のもと、当番制で診療を行っています。\n",
+  "support": {
+    "description": "土曜日・日曜日、祝日、年末年始の午後7時30分から午後10時30分の夜間診療を行う",
+    "materiallySupport": "土曜日・日曜日、祝日、年末年始の午後7時30分から午後10時30分の夜間診療を行う",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "年齢制限なし",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "年齢制限なし"
+  },
+  "updateDate": "2019-10-16",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "診療時間：午後7時30分から午後10時30分\n（受け付けは午後10時20分まで）",
+    "fromHM": "19:30",
+    "toHM": "22:30"
+  }
+}

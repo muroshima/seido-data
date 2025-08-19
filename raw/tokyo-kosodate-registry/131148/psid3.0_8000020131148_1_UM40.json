@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "131148;中野区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども教育部子ども・若者相談課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131148",
+    "psid": "psid3.0+8000020131148+1+UM40"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども教育部子ども・若者相談課",
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "入院助産\n出産にあたって保健上必要であるにもかかわらず、経済的な理由により病院又は助産所に入院できない妊産婦の方を対象に、指定の病院等での出産に必要な費用を助成します。所得制限や一部自己負担金があります。\n詳しくは子ども・若者相談課(電話:03-5937-3257)にお問い合わせください。\n\n対象者\n保健上必要であるにもかかわらず、経済的な理由により入院できない妊産婦\n\n申込み\n原則出産予定日の4か月前から\n\n中野区内の指定助産施設\n松が丘助産院 （中野区松が丘一丁目10番13号）\n※中野区以外の指定病院については、子ども・若者相談課(電話:03-5937-3257)へお問い合わせください。\n\n関連情報\n・子ども・若者支援センターのご案内;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/sodan/kosodate/kodomowakamono.html\n・中野区子どもショートステイ協力家庭を募集しています;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/ichijihoiku/azukari/shortstay_bosyu.html\n・土曜日、日曜日、祝日でも育児について相談できるところはありませんか。;https://www.city.tokyo-nakano.lg.jp/faq/kosodate/kosodate02.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "中野区松が丘一丁目10番13号",
+    "implementationName": "松が丘助産院"
+  },
+  "institutionName": {
+    "canonicalName": "助産制度",
+    "shortName": "入院助産"
+  },
+  "localGovernmentLink": {
+    "title": "入院助産",
+    "uri": "https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/teate/shien/syussanhiyo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "中野区"
+  },
+  "procedureCounter": "子ども・若者相談課(電話:03-5937-3257)",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申込み\n原則出産予定日の4か月前から\n\n中野区内の指定助産施設\n松が丘助産院 （中野区松が丘一丁目10番13号）\n※中野区以外の指定病院については、子ども・若者相談課(電話:03-5937-3257)へお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": "申込み\n原則出産予定日の4か月前から",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第22条",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "中野区子どもショートステイ協力家庭を募集しています",
+      "uri": "https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/ichijihoiku/azukari/shortstay_bosyu.html"
+    },
+    {
+      "title": "子ども・若者支援センターのご案内",
+      "uri": "https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/sodan/kosodate/kodomowakamono.html"
+    },
+    {
+      "title": "土曜日、日曜日、祝日でも育児について相談できるところはありませんか。",
+      "uri": "https://www.city.tokyo-nakano.lg.jp/faq/kosodate/kosodate02.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "経済的な理由で、病院や助産所での出産が困難な妊産婦の方を対象に、中野区の指定の助産施設で出産する際の費用を助成しています。事前に申請が必要です。",
+  "support": {
+    "description": "出産にあたって保健上必要であるにもかかわらず、経済的な理由により病院又は助産所に入院できない妊産婦の方を対象に、指定の病院等での出産に必要な費用を助成します。所得制限や一部自己負担金があります。\n詳しくは子ども・若者相談課(電話:03-5937-3257)にお問い合わせください。",
+    "materiallySupport": null,
+    "monetarySupport": "出産にあたって保健上必要であるにもかかわらず、経済的な理由により病院又は助産所に入院できない妊産婦の方を対象に、指定の病院等での出産に必要な費用を助成します。所得制限や一部自己負担金があります。\n詳しくは子ども・若者相談課(電話:03-5937-3257)にお問い合わせください。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "保健上必要であるにもかかわらず、経済的な理由により入院できない妊産婦"
+  },
+  "updateDate": "2024-02-15",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

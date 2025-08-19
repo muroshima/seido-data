@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課子ども家庭・女性相談グループ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+6+UM106"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て支援課子ども家庭・女性相談グループ",
+    "contactPhone": "03-3981-2119",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "母子・父子自立支援員が、面接により希望や経験等を伺った上でハローワークと連携し、母子家庭のお母さん・父子家庭のお父さんの就労を支援します。\n\n支援の内容\n面談により希望や経験などを伺った上で、支援内容を選定します。\n\n【公共職業訓練や自立支援給付事業などの案内】\n1.東京都などで準備した3か月程度の職業訓練では、経験の少ない方もスキルや資格・技術を身につけられます。\n2.母子家庭等自立支援給付事業では、資格取得のための各種給付金が受けられます。\n3.ひとり親の方に向けた講習会や講座などのご案内をいたします。\n\n【ハローワークの就労支援ナビゲーターによる支援】\n庁内にあるワークステップとしま（ハローワーク）へ連携し、早期に仕事が見つかるようにきめ細かく支援します。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関するサポート",
+    "shortName": "ひとり親家庭自立支援プログラム策定事業"
+  },
+  "localGovernmentLink": {
+    "title": "ひとり親家庭自立支援プログラム策定事業",
+    "uri": "https://www.city.toshima.lg.jp/259/kosodate/kosodate/hitorioya/1507160940.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "ひとり親家庭自立支援プログラム策定事業（PDF：567KB）",
+      "uri": "https://www.city.toshima.lg.jp/259/kosodate/kosodate/hitorioya/documents/20150716100024.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "母子・父子自立支援員が、面接により希望や経験等を伺った上でハローワークと連携し、母子家庭のお母さん・父子家庭のお父さんの就労を支援します。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "008"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "・豊島区に住所があり20歳未満の児童を扶養しているひとり親家庭の母または父\n・児童扶養手当を受けているか、または同様の所得水準にあるかた（ただし生活保護受給者を除く）\n・配偶者等からの被害者で、児童扶養手当の受給が見込まれるかた"
+  },
+  "updateDate": "2018-07-17",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

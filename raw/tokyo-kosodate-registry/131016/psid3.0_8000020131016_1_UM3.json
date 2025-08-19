@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "地域振興部総合窓口課戸籍係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+1+UM3"
+  },
+  "belongings": "届書1通、出生証明書（医師・助産師記入のもの）、母子手帳",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区九段南1-2-1",
+    "contactComment": null,
+    "contactEmail": "sougoumadoguchi@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "地域振興部総合窓口課戸籍係",
+    "contactPhone": "03-5211-4198",
+    "contactUrl": null,
+    "zipCode": "1028688"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "千代田区に戸籍の届出をされるみなさまへのお知らせ\n今般、千代田区における取り扱い件数が増加しているため、手続きが完了するまで、長くお待ちいただくことがあります。手続き完了後の証明書が入手できるまで、2,3週間程度かかることがあります。あらかじめご了承ください。\n\n届出期間\n生まれた日から14日以内（国外で生まれたときは3か月以内）\n\n子の名の文字\n原則として常用漢字、人名用漢字、ひらがな、カタカナの範囲\n\n（注意）関連の手続きをお忘れなく\n・乳幼児医療費助成;https://www.city.chiyoda.lg.jp/koho/kosodate/teate/kodomoiryo.html・児童手当;https://www.city.chiyoda.lg.jp/koho/kosodate/teate/jidoteate/index.html・・・子育て推進課手当・医療係\n・国民健康保険・出産育児一時金・・・保険年金課国民健康保険係（国民健康保険に加入の方）\n\n個人番号通知書の送付について\n出生により新たにマイナンバーが付番された方には、「個人番号通知書」を郵送し、マイナンバーをお知らせします。\n個人番号通知書は住民票上の世帯主あてに転送不要の簡易書留で送付されるため、郵便局に転送の届出を提出している場合や、郵便局の保管期限を経過しても受け取りがない場合は区に返戻されます。区に返戻された個人番号通知書は、返戻された日より3か月保管した後廃棄しますので、個人番号通知書を受け取れなかった方は、区に保管状況をご確認の上、お早めにお受け取りください。\n（注意）個人番号通知書は紛失しても再発行できません。\n（注意）令和2年5月24日をもって、通知カードの発行は終了しました。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出生届",
+    "shortName": "出生届"
+  },
+  "localGovernmentLink": {
+    "title": "戸籍の届出",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kurashi/koseki/koseki/todokede.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": "総合窓口課（区役所２階）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "原則として出生子の父または母。父母の連署でも結構です。父母が届出できないときはお問い合わせください。",
+  "regulation": {
+    "regulationArticle": "第49条、第52条",
+    "regulationName": "戸籍法"
+  },
+  "relatedLink": [
+    {
+      "title": "各種手続きを取り扱う総合窓口のページ",
+      "uri": "https://www.city.chiyoda.lg.jp/koho/kuse/gaiyo/madoguchi/tetsuzuki.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "出生届とは、生まれてきたお子さんの氏名等を戸籍に記載するための手続きです。\n戸籍に記載されることで、生まれてきたお子さんの親族関係が公的に証明されます。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "013"
+    ],
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "出生子"
+  },
+  "updateDate": "2024-05-27",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

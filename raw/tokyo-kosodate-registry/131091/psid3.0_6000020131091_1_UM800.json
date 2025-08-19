@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131091;品川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども育成課　児童センター管理運営係\n保育施設運営課　運営支援担当（区立）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131091",
+    "psid": "psid3.0+6000020131091+1+UM800"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども育成課　児童センター管理運営係,保育施設運営課　運営支援担当（区立）",
+    "contactPhone": "03-5742-7823,03-5742-6724",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "チャイルドステーション",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "区立保育園：年末年始・日曜・祝日\n区立幼稚園：年末年始・土曜・日曜・祝日・夏休みなどの長期休業期間\n児童センター：年末年始・日曜・祝日",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "区立保育園一覧;https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-hoyou/kodomo-hoyou-hoikuen/20200130115001.html\n区立幼稚園一覧;https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-kyoiku/shisetsu-kyoiku-yochien/index.html\n児童センター一覧;https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-kyoiku/hpg000000194.html",
+    "implementationName": "品川区内の区立保育園・幼稚園・児童センター"
+  },
+  "institutionName": {
+    "canonicalName": "授乳・おむつ替え施設（赤ちゃんの駅等）",
+    "shortName": "チャイルドステーション"
+  },
+  "localGovernmentLink": {
+    "title": "チャイルドステーション",
+    "uri": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-kateisoudan/kodomo-kateisoudan-kyoushitsu/hpg000033557.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "品川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "乳幼児連れの保護者で、授乳又はオムツ替えを必要とする方",
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "品川区チャイルドステーション設備貸与要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "品川区では、乳幼児を抱える子育て家庭が安心して外出できる環境づくりを進めるため、区立保育園・幼稚園・児童センターにおいて「おむつ替え」や「授乳」ができるチャイルドステーションを整備し、地域全体で子育てを支える仕組みづくりを進めています。\nまた、東京都でも県内の民間施設を含めて同事業を実施しており、指定施設には、入口付近にそれぞれ案内標示を設置しています。",
+  "support": {
+    "description": "区立保育園・幼稚園・児童センターにおいて、授乳及びおむつ替えのための施設を整備しています。",
+    "materiallySupport": "区立保育園・幼稚園・児童センターにおいて、授乳及びおむつ替えのための施設を整備しています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "就学前の子ども",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "乳幼児"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": "チャイルドステーションへお気軽にお立ち寄りください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "各施設の基本開設時間\n区立保育園：年末年始・日曜・祝日を除く7時半～18時半\n区立幼稚園：年末年始・土曜・日曜・祝日・夏休みなどの長期休業期間を除く9時～14時\n児童センター：年末年始・日曜・祝日を除く9時～18時",
+    "fromHM": null,
+    "toHM": null
+  }
+}

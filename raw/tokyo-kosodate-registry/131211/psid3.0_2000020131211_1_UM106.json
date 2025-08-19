@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131211;足立区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "衛生部保健予防課保健予防係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020131211",
+    "psid": "psid3.0+2000020131211+1+UM106"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "衛生部保健予防課保健予防係",
+    "contactPhone": "03-3880-5892",
+    "contactUrl": "https://www.city.adachi.tokyo.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ファーストバースデーサポート\n1歳を迎えるお子さんがいるご家庭を応援します\n令和３年４月１日から、区内在住の1歳を迎えるお子さんがいるご家庭の子育てを応援するために、育児パッケージを配付するとともに、子育て支援の情報提供、ご家庭の状況把握や相談支援を行う「ファーストバースデーサポート」を開始しました。\n\n対象\n令和6年４月１日以降に1歳を迎えるお子さんと住民票を同一にし、そのお子さんを養育している方\n1歳を迎える月の初日に、そのお子さんとともに足立区に住民登録がある方\n1、2いずれにも該当し、お子さんの1歳を迎える月にお送りする「子育てに関するアンケート」を期日までに足立区役所保健予防課へ返送していただいた方に育児パッケージを配付します。\n\nただし、育児パッケージの配付には、アンケートが保健予防課へ到着した時点で1歳を迎えるお子さん、対象者ともに足立区に住民登録がある必要があります。\n\n育児パッケージの内容\nこども商品券（こども服やおもちゃ等との交換や、タクシー乗車にも利用できるギフト券）\n1歳を迎えるお子さんが、第1子の場合60,000円分、第2子の場合70,000円分、第3子以降の場合80,000円分（令和６年４月１日以降に１歳を迎える方から金額が変更されました）\n\n※第何子の数え方は、申請日時点で、同じ世帯の住民票に住民登録があり、家計を同一にし、養育している18歳未満のお子さんの人数に対し、1歳を迎えるお子さんが何番目の子どもに当たるかで決定します。\n\nまた、東京都発行の「体罰などによらない子育てハンドブック」、「とうきょう子育て応援ブック」等も配付します。\n\n育児パッケージの配付まで\nお子さんが1歳を迎える月に「子育てに関するアンケ―ト」を保健予防課から郵送します。\nアンケートを記入し、同封の返信用封筒（切手不要）に入れて、期日までに返送してください。返送期日はお子さんが1歳2か月を迎える月の末日までです。\nアンケートが保健予防課に到着した時点で、1歳を迎えるお子さん、対象者ともに足立区に住民登録があることを確認し、育児パッケージを簡易書留で発送します。\n※育児パッケージの発送までは、アンケートのご返送後2～3か月程度かかります。\n\n※こども商品券の金額は、住民登録情報を確認させていただいたうえで決定します。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "令和３年４月１日から",
+    "fromHM": null,
+    "fromYMD": "2021-04-01",
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関するサポート",
+    "shortName": "ファーストバースデーサポート"
+  },
+  "localGovernmentLink": {
+    "title": "ファーストバースデーサポート",
+    "uri": "https://www.city.adachi.tokyo.jp/hoken/firstbirthday.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-27",
+    "updater": "足立区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "アンケートを記入し、同封の返信用封筒（切手不要）に入れて、期日までに返送してください。返送期日はお子さんが1歳2か月を迎える月の末日までです。\nアンケートが保健予防課に到着した時点で、1歳を迎えるお子さん、対象者ともに足立区に住民登録があることを確認し、育児パッケージを簡易書留で発送します。\n※育児パッケージの発送までは、アンケートのご返送後2～3か月程度かかります。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "ファーストバースデーサポート事業実施要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": "令和6年４月１日以降に1歳を迎えるお子さんと住民票を同一にし、そのお子さんを養育している方",
+  "summary": "1歳を迎えるお子さんがいるご家庭を応援します\n令和３年４月１日から、区内在住の1歳を迎えるお子さんがいるご家庭の子育てを応援するために、育児パッケージを配付するとともに、子育て支援の情報提供、ご家庭の状況把握や相談支援を行う「ファーストバースデーサポート」を開始しました。",
+  "support": {
+    "description": "令和３年４月１日から、区内在住の1歳を迎えるお子さんがいるご家庭の子育てを応援するために、育児パッケージを配付するとともに、子育て支援の情報提供、ご家庭の状況把握や相談支援を行う「ファーストバースデーサポート」を開始しました。\nこども商品券（こども服やおもちゃ等との交換や、タクシー乗車にも利用できるギフト券）\n1歳を迎えるお子さんが、第1子の場合60,000円分、第2子の場合70,000円分、第3子以降の場合80,000円分（令和６年４月１日以降に１歳を迎える方から金額が変更されました）\n※第何子の数え方は、申請日時点で、同じ世帯の住民票に住民登録があり、家計を同一にし、養育している18歳未満のお子さんの人数に対し、1歳を迎えるお子さんが何番目の子どもに当たるかで決定します。\nまた、東京都発行の「体罰などによらない子育てハンドブック」、「とうきょう子育て応援ブック」等も配付します。",
+    "materiallySupport": "子育て支援の情報提供、ご家庭の状況把握や相談支援",
+    "monetarySupport": "こども商品券（こども服やおもちゃ等との交換や、タクシー乗車にも利用できるギフト券）\n1歳を迎えるお子さんが、第1子の場合60,000円分、第2子の場合70,000円分、第3子以降の場合80,000円分（令和６年４月１日以降に１歳を迎える方から金額が変更されました）\n※第何子の数え方は、申請日時点で、同じ世帯の住民票に住民登録があり、家計を同一にし、養育している18歳未満のお子さんの人数に対し、1歳を迎えるお子さんが何番目の子どもに当たるかで決定します。\nまた、東京都発行の「体罰などによらない子育てハンドブック」、「とうきょう子育て応援ブック」等も配付します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "1.令和6年４月１日以降に1歳を迎えるお子さんと住民票を同一にし、そのお子さんを養育している方\n2.1歳を迎える月の初日に、そのお子さんとともに足立区に住民登録がある方\n1、2いずれにも該当し、お子さんの1歳を迎える月にお送りする「子育てに関するアンケート」を期日までに足立区役所保健予防課へ返送していただいた方に育児パッケージを配付します。\n\nただし、育児パッケージの配付には、アンケートが保健予防課へ到着した時点で1歳を迎えるお子さん、対象者ともに足立区に住民登録がある必要があります。"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "お子さんが1歳を迎える月に「子育てに関するアンケ―ト」を保健予防課から郵送します。\n",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

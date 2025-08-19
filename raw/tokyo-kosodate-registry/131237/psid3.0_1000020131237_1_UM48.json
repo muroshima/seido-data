@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部健康サービス課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM48"
+  },
+  "belongings": "プレコン相談を利用する方の本人確認書類（氏名・住所・生年月日が確認できるもの）\nマイナンバーカード、運転免許証、健康保険証など",
+  "capacity": "1回につき4名",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部健康サービス課;https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+    "contactPhone": null,
+    "contactUrl": "https://faq.city.edogawa.tokyo.jp/cgi-bin/faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": "0",
+  "costConditions": null,
+  "description": "月経や性に関すること、将来妊娠できるか不安といった悩みについて医師と相談でき、希望する方は必要に応じて、AMH検査や精液検査などを受けることができる「プレコン相談」を実施します。また、女性のための健康情報サービス『ルナルナ』を運営する株式会社エムティーアイと連携協定を結び、無料でご覧いただける江戸川区プレコンセプションケア支援事業の特設ページを作成しました。詳細は江戸川区ホームページをご覧ください。\n",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "プレコン相談事前予約フォーム",
+      "uri": "https://logoform.jp/f/PhWg4"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "江戸川区医師会医療検査センター（タワーホール船堀;https://www.city.edogawa.tokyo.jp/e026/kuseijoho/gaiyo/shisetsuguide/bunya/bunkachiiki/towerhall/index.html6階）"
+  },
+  "institutionName": {
+    "canonicalName": "妊娠・出産に関するその他のこと",
+    "shortName": "プレコンセプションケア支援事業"
+  },
+  "localGovernmentLink": {
+    "title": "プレコンセプションケア支援事業",
+    "uri": "https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kenkodukuri/preconception.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "予約方法\n\nオンライン予約のみ\n原則、毎月第1土曜日の午前10時から、当月に実施するプレコン相談の予約を開始します。\n以下の予約フォームからお申し込みください。\n\nプレコン相談事前予約フォーム;https://logoform.jp/f/PhWg4",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "江戸川区では令和6年1月からプレコンセプションケア支援事業を開始しました。相談窓口の開設や、アプリを活用した健康管理を支援します。プレコンセプションケアとは、将来の妊娠・出産や自らの健康のため、すべての若い男女の健康を応援する取り組みです。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": null,
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": null
+  },
+  "target": {
+    "conditions": "女性について、相談日における年齢が39歳以下",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 39,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "【プレコン相談の対象者】下記の全てに該当する方\n\n事前予約日および相談日において江戸川区に住民登録がある中学生から結婚（事実婚を含む）前の方\n女性について、相談日における年齢が39歳以下の方\n事前予約をしている方（事前予約なしでの利用はできません。）\n検査を希望する場合は、江戸川区が実施するプレコン相談における検査を1度も受けたことがない方(18歳未満の方が検査を受ける場合は、保護者の同意が必要になります。)"
+  },
+  "updateDate": "2024-03-02",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

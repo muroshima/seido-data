@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131067;台東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健サービス課　母子成人保健担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131067",
+    "psid": "psid3.0+6000020131067+10+UM120"
+  },
+  "belongings": "1　日常生活用具給付申請書　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　2　小児慢性特定疾病児童医療受給者証　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　3　対象者の扶養義務者の前年分所得税又は当該年度分住民税の課税額を証明する書類",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健サービス課　母子成人保健担当",
+    "contactPhone": "03-3847-9447",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "世帯の所得に応じて、用具費用の一部を負担していただきます。\nまた、基準額を超えた分及び修理の費用は自己負担になります。",
+  "description": "小児慢性特定疾病児童の日常生活用具を給付をします\n小児慢性特定疾病医療券をお持ちの方で、以下の要件に該当される方に車いすや電気式たん吸引器等の日常生活用具を給付します。\n\n対象となる方\n1.台東区に住所を有する方\n2.小児慢性特定疾病の医療券をお持ちの方\n3.児童福祉法、障害者自立支援法、知的障害者福祉法等で同様な日常生活用具給付制度の対象となっていない方\n4.在宅で日常生活を営む上で支障があり、日常生活用具の給付を必要とする方\n給付用具の種目と対象者\n|種目|基準額|対象者|性能等|耐用年数|\n|:----|:----|:----|:----|:----|\n|便器（便器・手すり）|4,900円|常時介助を要する者|小児慢性特定疾病児童等が容易に使用し得るもの。（手すりをつけることができる。）|8年|\n|特殊マット|21,560円|寝たきりの状態にある者|褥瘡の予防又は失禁等による汚染又は損耗を防止できる機能を有するもの。|5年|\n|特殊便器|166,320円|上肢機能に障害のある者|足踏ペダルにより温水温風を出し得るもの。ただし、取替えに当たり住宅改修を伴うものを除く。|8年|\n|特殊寝台|169,400円|寝たきりの状態にある者|腕、脚等の訓練のできる器具を付帯し、原則として使用者の頭部及び脚部の傾斜角度を個別に調整できる機能を有するもの。|8年|\n|特殊尿器|73,700円|自力で排尿できない者|尿が自動的に吸引されるもので、小児慢性特定疾病児童等又は介助者が容易に使用し得るもの。|8年|\n|歩行支援用具|66,000円|下肢が不自由な者|おおむね次のような性能を有する手すり、スロープ、歩行器等であること。<br>ア　小児慢性特定疾病児童等の身体機能の状態を十分踏まえたものであって、必要な強度と安定性を有するもの。<br>イ　転倒予防、立ち上がり動作の補助、移乗動作の補助、段差解消等の用具となるもの。|8年|\n|入浴補助用具|99,000円|入浴に介助を要する者|入浴時の移動、座位の保持、浴槽への入水等を補助でき、小児慢性特定疾病児童等又は介助者が容易に使用し得るもの。|8年|\n|体位変換器|16,500円|寝たきりの状態にある者|介助者が小児慢性特定疾病児童等の体位を変換させるのに容易に使用し得るもの。|5年|\n|車椅子（電動以外）|77,440円|下肢が不自由な者|小児慢性特定疾病児童等の身体機能を十分踏まえたものであって、必要な強度と安定性を有するもの。|5年|\n|頭部保護帽|13,380円|発作等により頻繁に転倒する者|転倒の衝撃から頭部を保護できるもの。|3年|\n|電気式たん吸引器|62,040円|呼吸器機能に障害のある者|小児慢性特定疾病児童等又は介助者が容易に使用し得るもの。|5年|\n|紫外線カットクリーム|41,580円<br>（年額）|紫外線に対する防御機能が著しく欠けて、がんや神経障害を起こすことがある者|紫外線をカットできるもの。|-|\n|ネブライザー<br>（吸入器）|39,600円|呼吸機能に障害のある者|小児慢性特定疾病児童等又は介助者が容易に使用し得るもの。|5年|\n|パルスオキシメーター|173,250円|人工呼吸器の装着が必要な者|呼吸状態を継続的にモニタリングすることが可能な機能を有し、小児慢性特定疾病児童等又は介助者が容易に使用し得るもの。|8年|\n|ストーマ装具（消化器系）|113,520円<br>（年額）|人工肛門を造設した者|小児慢性特定疾病児童等又は介助者が容易に使用し得るもの。|-|\n\n費用負担\n　世帯の所得に応じて、用具費用の一部を負担していただきます。\n　また、基準額を超えた分及び修理の費用は自己負担になります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関するその他のこと",
+    "shortName": "小児慢性特定疾病児童等日常生活用具の給付"
+  },
+  "localGovernmentLink": {
+    "title": "小児慢性特定疾病児童等日常生活用具",
+    "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/teate_josei/iryohijosei/nichijoseikatsuyogu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "台東区"
+  },
+  "procedureCounter": "台東保健所保健サービス課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請書類については、保健サービス課でご用意しています。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "東京都小児慢性特定疾病児童等日常生活用具給付事業実施要項"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "小児慢性特定疾病児童の日常生活用具を給付をします。",
+  "support": {
+    "description": "小児慢性特定疾病児童の日常生活用具を給付します",
+    "materiallySupport": "台東区HPから確認できます。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/teate_josei/iryohijosei/nichijyoseikatsuyogu.html",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "区内在住",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象となる方\n1.台東区に住所を有する方\n2.小児慢性特定疾病の医療券をお持ちの方\n3.児童福祉法、障害者自立支援法、知的障害者福祉法等で同様な日常生活用具給付制度の対象となっていない方\n4.在宅で日常生活を営む上で支障があり、日常生活用具の給付を必要とする方"
+  },
+  "updateDate": "2019-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "みなと保健所健康推進課健康づくり係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+2+UM792"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファックス番号：03-3455-4539\n\n外国語対応が必要な人、通訳オペレーター、区の職員の3人で会話ができます。\n\n多言語対応三者通話サービス;https://www.multilingualinterpretercallservice.city.minato.tokyo.jp/kokusai",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "みなと保健所健康推進課健康づくり係",
+    "contactPhone": "03-6400-0083",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "無料",
+  "description": "「すこやかちゃんフッ素塗布」事業（4・5・6歳児）\n【受診票の送付について】\n\n受診票の発送は、例年通り５月末を予定しております。\n\n今年度は、港区長選挙の投票所入場整理券の発送と同時期となるため、\n\n郵便事情によってはお手元に届くまで日数がかかる可能性があります。\n\n概要\n今年度中に4歳・5歳・6歳になるお子様を対象に、港区内指定歯科医療機関で、フッ素塗布・歯科健診・歯科保健指導を行っています。期間中1回無料で受けられますので、むし歯予防にお役立てください。\n\n令和6年4月4日時点で港区に住民票があり、対象年齢に該当するお子様には5月末に受診票を発送しています。\n\n対象年齢で、4月5日以降にご転入手続きをされた方など、受診票をお持ちでない方はお問い合わせ先にご連絡ください。\n\n対象\n令和6年度中に4歳・5歳・6歳になるお子様(平成30年4月～令和3年3月生まれの港区民)\n\n実施内容\nフッ素塗布・歯科健診・歯科保健指導\n\n費用\n無料\n\n実施期間\n令和6年6月1日（土曜日）～12月25日（水曜日）\n\n実施場所\n「すこやかちゃんフッ素塗布」実施歯科医療機関名簿に掲載されている歯科医療機関\n\n「すこやかちゃんフッ素塗布」実施歯科医療機関名簿（日本語・英語）（PDF：602KB）;https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/1saijo/documents/r6sukoyaka-iryoukikanmeibo.pdf\n\n注意事項\n1.実施期間を過ぎた場合は受診することができませんので、実施期間内にご利用ください。\n\n2.受診前に区外へ転出した場合には、ご利用いただけなくなりますので、ご注意ください。\n\n「すこやかちゃんフッ素塗布」受診票（英語対応）\n「すこやかちゃんフッ素塗布」受診票（英語）（PDF：1,247KB）;https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/1saijo/documents/r6sukoyaka-jushinnken-english.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "令和6年6月1日（土曜日）～12月25日（水曜日）",
+    "fromHM": null,
+    "fromYMD": "2024-06-01",
+    "toHM": null,
+    "toYMD": "2024-12-25"
+  },
+  "implementationPlace": {
+    "implementationAddress": "「すこやかちゃんフッ素塗布」実施歯科医療機関名簿に掲載されている歯科医療機関\n\n「すこやかちゃんフッ素塗布」実施歯科医療機関名簿（日本語・英語）（PDF：602KB）;https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/1saijo/documents/r6sukoyaka-iryoukikanmeibo.pdf",
+    "implementationName": "「すこやかちゃんフッ素塗布」実施歯科医療機関名簿に掲載されている歯科医療機関\n\n「すこやかちゃんフッ素塗布」実施歯科医療機関名簿（日本語・英語）（PDF：602KB）;https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/1saijo/documents/r6sukoyaka-iryoukikanmeibo.pdf"
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児の歯の健康診査（４～６歳児歯科健康診査）",
+    "shortName": "「すこやかちゃんフッ素塗布」事業（4・5・6歳児）"
+  },
+  "localGovernmentLink": {
+    "title": "「すこやかちゃんフッ素塗布」事業（4・5・6歳児）",
+    "uri": "https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/1saijo/3-6fusso.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "港区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "令和5年4月6日時点で港区に住民票があり、対象年齢に該当するお子様には5月末に受診票を発送しています。\n\n対象年齢で、4月7日以降にご転入手続きをされた方など、受診票をお持ちでない方はご連絡ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "「すこやかちゃんフッ素塗布」実施歯科医療機関名簿（日本語・英語）（PDF：602KB）",
+      "uri": "https://www.city.minato.tokyo.jp/chiikihoken/kenko/kenko/boshi/1saijo/documents/r6sukoyaka-iryoukikanmeibo.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "乳歯が生えそろうこの時期は、むし歯が急増する時期でもあります。フッ素塗布・歯科健診・歯科保健指導（4・5・6歳児）を受けて、むし歯の予防と早期発見をめざしましょう。",
+  "support": {
+    "description": "フッ素塗布・歯科健診・歯科保健指導",
+    "materiallySupport": "フッ素塗布・歯科健診・歯科保健指導",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "令和6年度中に4歳・5歳・6歳になるお子様(平成30年4月～令和3年3月生まれの港区民)",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 4,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 6,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "令和6年度中に4歳・5歳・6歳になるお子様(平成30年4月～令和3年3月生まれの港区民)"
+  },
+  "updateDate": "2024-05-20",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

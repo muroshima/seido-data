@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132021;立川市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子ども家庭センターこんにちは赤ちゃん係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020132021",
+    "psid": "psid3.0+9000020132021+1+UM2"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "立川市高松町3-22-9 健康会館内",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部子ども家庭センターこんにちは赤ちゃん係",
+    "contactPhone": "042-527-3234",
+    "contactUrl": null,
+    "zipCode": "1900011"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "母子健康手帳等と一緒に配布しています。\n妊娠中でも安心して、外出できるようにマタニティキーホルダー（チェーン付マーク）を妊娠届出時に差し上げています。母子健康手帳等が入っている「母と子の保健バック」に同封しています。それとなく妊娠を知らせることにより、交通機関での座席の譲り合いや受動喫煙防止など、妊婦にやさしい環境づくりに役立つように、ご活用ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "マタニティマーク",
+    "shortName": "マタニティキーホルダーの配布"
+  },
+  "localGovernmentLink": {
+    "title": "マタニティキーホルダーの配布について",
+    "uri": "https://www.city.tachikawa.lg.jp/kenkosuishin/kosodate/ninshin/ninshin/keyholder.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "立川市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "母子健康手帳等と一緒に配布しています。",
+  "procedurePeriod": {
+    "conditions": "母子健康手帳等と一緒に配布しています。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "立川市では、妊娠の届出の際に、母子健康手帳と共にマタニティマーク入りキーホルダーをお渡ししています。",
+  "support": {
+    "description": "妊娠中でも安心して、外出できるようにマタニティキーホルダー（チェーン付マーク）を妊娠届出時に差し上げています。",
+    "materiallySupport": "妊娠中でも安心して、外出できるようにマタニティキーホルダー（チェーン付マーク）を妊娠届出時に差し上げています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "母子健康手帳等と一緒に配布しています。"
+  },
+  "updateDate": "2024-04-18",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

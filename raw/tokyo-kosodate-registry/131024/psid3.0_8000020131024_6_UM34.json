@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "131024;中央区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "中央区社会福祉協議会　在宅福祉サービス部",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131024",
+    "psid": "psid3.0+8000020131024+6+UM34"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "八丁堀4-1-5",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "中央区社会福祉協議会　在宅福祉サービス部",
+    "contactPhone": "03-3206-0603",
+    "contactUrl": null,
+    "zipCode": "1040032"
+  },
+  "cost": "2400",
+  "costConditions": "年度会費　　2,400 円\n（利用が半年以内の場合 1,200 円）\n利用料金　1 時間　800 円",
+  "description": "産前産後の家事援助など必要としている方に、地域にお住まいの協力会員が家事などのお手伝いをするたすけあい活動です。\n\n●対象となる家庭\n区内在住で次のいずれかに該当する方\n・健康状態に不安がある方または障害や持病があり妊娠や出産によって家事が困難になることが予想される方\n・産前産後の家事について、家族などの支援が受けられない方\n●サービス内容\n掃除、洗濯、買物、食事の支度、代行など、普段ご家庭で日常に行っている家事をお手伝いします。\n※サービス期間は、原則として出産前後の2～3ヶ月程度です。なお、保育などのお子さんのお世話はできません。\n利用回数・時間は、ご相談のうえ決めさせていただきます。\n●利用料金など\n年度会費　2,400円\n（利用が半年以上の場合　1,200円）\n利用料金　1時間　800円\n●申込方法\n電話などでお申し込みいただいた後、サービスの説明と併せてご要望などを伺うため、職員がお宅を訪問します。\n\n◆中央区社会福祉協議会　在宅福祉サービス部\n☎(3206)0603",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "お宅"
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関するサポート",
+    "shortName": "虹のサービス（区民どうしのたすけあい家事サポート）"
+  },
+  "localGovernmentLink": {
+    "title": "妊娠したら",
+    "uri": "https://www.city.chuo.lg.jp/documents/4889/ninnsinnsitara.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-01",
+    "updater": "中央区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申込方法\n電話などでお申し込みいただいた後、サービスの説\n明と併せてご要望などを伺うため、職員がお宅を訪\n問します。\n◆問合せ先\n中央区社会福祉協議会　在宅福祉サービス部\n\\☎（3206）0603",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "産前産後の家事援助など必要としている方に、地域にお住まいの協力会員が家事などのお手伝いをするたすけあい活動です。",
+  "support": {
+    "description": "掃除、洗濯、買物、食事の支度、代行など、普段ご\n家庭で日常的に行っている家事をお手伝いします。\n※サービス期間は、原則として出産前後の 2 ～ 3 カ\n月程度です。なお、保育などのお子さんのお世話\nはできません。\n利用回数・時間は、ご相談のうえ決めさせていただ\nきます。",
+    "materiallySupport": "掃除、洗濯、買物、食事の支度、代行など、普段ご\n家庭で日常的に行っている家事をお手伝いします。\n※サービス期間は、原則として出産前後の 2 ～ 3 カ\n月程度です。なお、保育などのお子さんのお世話\nはできません。\n利用回数・時間は、ご相談のうえ決めさせていただ\nきます。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "●対象となる家庭\n区内在住で次のいずれかに該当する方\n・健康状態に不安がある方または障害や持病があり\n妊娠や出産によって家事が困難になることが予想\nされる方\n・産前産後の家事について、家族などの支援が受け\nられない"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

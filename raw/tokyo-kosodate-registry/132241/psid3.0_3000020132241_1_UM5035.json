@@ -1,0 +1,134 @@
+{
+  "area": {
+    "areaCode": "132241;多摩市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保険年金課 保険税担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132241",
+    "psid": "psid3.0+3000020132241+1+UM5035"
+  },
+  "belongings": "申請に必要なもの\n出産前に届出をする場合\n産前産後期間に係る国民健康保険税軽減届出書\n本人確認書類（運転免許証、マイナンバーカードなど写真付きのもの）\n母子健康手帳(親子健康手帳)など出産予定日が確認できるもの\n出産後に届出をする場合\n産前産後期間に係る国民健康保険税軽減届出書\n本人確認書類（運転免許証、マイナンバーカードなど写真付きのもの）\n（被保険者と子が別世帯の場合のみ）出生証明書など出産日・親子関係がわかる書類\n※ 産前産後期間に係る国民健康保険税軽減届出書は申請時に窓口でご記入いただくことも可能です。（印鑑は不要です）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都多摩市関戸六丁目12番地1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保険年金課 保険税担当",
+    "contactPhone": "042-338-6840",
+    "contactUrl": "https://www.city.tama.lg.jp/cgi-crm/CRM030/CRM030_001/G08040030/1013432",
+    "zipCode": "2068666"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "産前産後の国民健康保険税軽減制度について\n\n産前産後の国民健康保険税軽減制度（令和6年1月から制度開始しました）\n対象となる方\n出産(予定)日が令和5年11月以降の、出産予定または出産した国民健康保険の被保険者（加入者）を含む世帯\n\n軽減額\n出産する被保険者分の保険税相当額のうち、出産予定日または出産日が属する月の前月から翌々月までの4カ月間分に相当する額(多胎妊娠の場合は、出産予定日または出産日が属する月の3カ月前から翌々月までの6カ月間分に相当する額)\n\n※制度開始前（令和5年12月以前）の月は、免除対象外です（詳細は以下の表をご参照ください。）。\n\n産前産後の保険税免条例の表,https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/013/432/hokenzei_sanzensango.png\n\n申請に必要なもの\n出産前に届出をする場合\n産前産後期間に係る国民健康保険税軽減届出書\n本人確認書類（運転免許証、マイナンバーカードなど写真付きのもの）\n母子健康手帳(親子健康手帳)など出産予定日が確認できるもの\n出産後に届出をする場合\n産前産後期間に係る国民健康保険税軽減届出書\n本人確認書類（運転免許証、マイナンバーカードなど写真付きのもの）\n（被保険者と子が別世帯の場合のみ）出生証明書など出産日・親子関係がわかる書類\n※ 産前産後期間に係る国民健康保険税軽減届出書は申請時に窓口でご記入いただくことも可能です。（印鑑は不要です）\n\n申請期間および場所\n出産予定日の6カ月前から申請可能です。\n上記の必要書類を持参いただき、市役所保険年金課窓口までお越しください。\n\n申請様式\n産前産後期間に係る国民健康保険税軽減届出書 （PDF 223.5KB）;https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/013/432/sanzensango_R0511.pdf\n関連情報\n産前産後期間の国民年金保険料の免除について;https://www.city.tama.lg.jp/kurashi/nenkin/hokenryo/1001962.html\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "国民健康保険における産前産後期間保険料（税）免除",
+    "shortName": "産前産後の国民健康保険税軽減制度"
+  },
+  "localGovernmentLink": {
+    "title": "産前産後の国民健康保険税軽減制度について",
+    "uri": "https://www.city.tama.lg.jp/kurashi/kokuho/hokenzei/1013432.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "多摩市"
+  },
+  "procedureCounter": "市役所保険年金課窓口",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": "出産予定日の6カ月前から申請可能です。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第22条の3（出産被保険者に係る届出）",
+    "regulationName": "多摩市国民健康保険税条例"
+  },
+  "relatedLink": [
+    {
+      "title": "産前産後期間の国民年金保険料の免除について",
+      "uri": "https://www.city.tama.lg.jp/kurashi/nenkin/hokenryo/1001962.html"
+    },
+    {
+      "title": "産前産後の保険税免条例の表",
+      "uri": "https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/013/432/hokenzei_sanzensango.png"
+    }
+  ],
+  "remarks": null,
+  "specificDate": "出産(予定)日が令和5年11月以降の、出産予定または出産した国民健康保険の被保険者（加入者）を含む世帯",
+  "summary": "国民健康保険の出産する被保険者に係る産前産後期間相当分（４ヶ月分）の均等割保険料と所得割保険料が免除されます。",
+  "support": {
+    "description": "軽減額\n出産する被保険者分の保険税相当額のうち、出産予定日または出産日が属する月の前月から翌々月までの4カ月間分に相当する額(多胎妊娠の場合は、出産予定日または出産日が属する月の3カ月前から翌々月までの6カ月間分に相当する額)\n\n※制度開始前（令和5年12月以前）の月は、免除対象外です（詳細は以下の表をご参照ください。）。",
+    "materiallySupport": null,
+    "monetarySupport": "軽減額\n出産する被保険者分の保険税相当額のうち、出産予定日または出産日が属する月の前月から翌々月までの4カ月間分に相当する額(多胎妊娠の場合は、出産予定日または出産日が属する月の3カ月前から翌々月までの6カ月間分に相当する額)\n\n※制度開始前（令和5年12月以前）の月は、免除対象外です（詳細は以下の表をご参照ください。）。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003",
+      "015"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "出産(予定)日が令和5年11月以降の、出産予定または出産した国民健康保険の被保険者（加入者）を含む世帯"
+  },
+  "updateDate": "2024-03-19",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

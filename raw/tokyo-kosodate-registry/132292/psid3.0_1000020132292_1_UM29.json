@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "132292;西東京市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132292",
+    "psid": "psid3.0+1000020132292+1+UM29"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "西東京市中町一丁目5番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康課",
+    "contactPhone": "042-438-4021",
+    "contactUrl": null,
+    "zipCode": "2028555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "養育医療（未熟児医療）\n\nこの制度は、西東京市にお住いの新生児で、医師が入院養育の必要を認めた方に医療費の給付を行うものです。\n\n対象\n次の条件にすべて該当する方\n\n西東京市に住民登録のある方\n生まれたときの体重が2,000グラム以下、又は生活力が特に弱く、指定養育医療機関に入院している方\n医師が入院養育を必要と認めた方\n満1歳未満の方\n給付の内容\n指定養育医療機関における入院中の医療費のうち医療保険適用後の自己負担分を市から医療機関へ支払います。\n※既に医療費を支払い済みの場合は市から払い戻しはできませんのでご注意ください。\n\n申請書類のお渡し及び申請受付窓口\n健康課事業調整係（防災・保谷保健福祉総合センター4階）\n\n（注記）手続きにはマイナンバーの記載が必要になります。\nマイナンバーの記載についてはこちら;https://www.city.nishitokyo.lg.jp/siseizyoho/sesaku_keikaku/my_numbre/mynumber-kakunin.htmlのページをご参照ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "未熟児養育医療の給付",
+    "shortName": "養育医療（未熟児医療）"
+  },
+  "localGovernmentLink": {
+    "title": "養育医療（未熟児医療）",
+    "uri": "https://www.city.nishitokyo.lg.jp/kosodate/teate_zyosei/youikuiryou.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-10",
+    "updater": "西東京市"
+  },
+  "procedureCounter": "健康課事業調整係（防災・保谷保健福祉総合センター4階）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "健康課事業調整係（防災・保谷保健福祉総合センター4階）\n\n（注記）手続きにはマイナンバーの記載が必要になります。\nマイナンバーの記載についてはこちら;https://www.city.nishitokyo.lg.jp/siseizyoho/sesaku_keikaku/my_numbre/mynumber-kakunin.htmlのページをご参照ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第20条（養育医療）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "マイナンバー対象手続のマイナンバー確認と本人確認について",
+      "uri": "https://www.city.nishitokyo.lg.jp/siseizyoho/sesaku_keikaku/my_numbre/mynumber-kakunin.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "未熟児養育医療の給付とは、身体の発育が未熟なまま生まれ入院を必要とする乳児が、指定養育医療機関において入院治療を受ける場合に、その治療に要する医療費を公費により負担する制度です。ただし、世帯の所得税額に応じて、入院治療費の一部は自己負担となります。",
+  "support": {
+    "description": "指定養育医療機関における入院中の医療費のうち医療保険適用後の自己負担分を市から医療機関へ支払います。\n※既に医療費を支払い済みの場合は市から払い戻しはできませんのでご注意ください。",
+    "materiallySupport": null,
+    "monetarySupport": "指定養育医療機関における入院中の医療費のうち医療保険適用後の自己負担分を市から医療機関へ支払います。\n※既に医療費を支払い済みの場合は市から払い戻しはできませんのでご注意ください。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "089"
+    ]
+  },
+  "target": {
+    "conditions": "満1歳未満",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次の条件にすべて該当する方\n\n西東京市に住民登録のある方\n生まれたときの体重が2,000グラム以下、又は生活力が特に弱く、指定養育医療機関に入院している方\n医師が入院養育を必要と認めた方\n満1歳未満の方"
+  },
+  "updateDate": "2024-05-29",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

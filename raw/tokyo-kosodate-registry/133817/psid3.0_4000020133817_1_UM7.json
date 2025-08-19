@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "133817;三宅村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉健康課 健康係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "4000020133817",
+    "psid": "psid3.0+4000020133817+1+UM7"
+  },
+  "belongings": "母子健康手帳\n(母子手帳の「妊娠の経過」ページに、都外医療機関や助産所で受信された妊婦健康診査の記録が必要です。記録がない場合には、原則として助成できません。)\n医療機関が発行した受診の際の領収書(コピー可・回数分必要です。)\n村が交付した妊婦健康診査受診票、妊婦超音波検査受診票および妊婦子宮頸がん検診受診票のうち未使用の受診票\n(回数分必要です。紛失した場合は助成できません。)\n申請者(妊婦)名義の金融機関振込先口座が分かるもの(通帳など)\n印鑑\n住民票",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三宅島三宅村阿古497",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "三宅村役場臨時庁舎　福祉健康課 健康係",
+    "contactPhone": "04994-5-0911",
+    "contactUrl": null,
+    "zipCode": "1001212"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "里帰り出産などで都外医療機関にて妊婦健康診査を受診した方\n都内妊婦健康診査委託医療機関以外(里帰り先・助産所等)、で妊婦健康診査、妊婦超音波検査および妊婦子宮頸がん検診を受診した場合、費用の一部を助成します。\n\n対象\n妊婦健診を受診した日において三宅村に住民登録がある方。\n申請日現在、三宅村に住民登録がある方。\n都内妊婦健康診査委託医療機関以外で受診していること、または東京都内および都外の助産所で受診していること。(日本国内に限る)\n妊婦健康診査受診票(または超音波検査受診票)の未使用分があること。\n超音波検査の回数は4回。\n助成内容\n妊婦健康診査(1回～14回)および妊婦超音波検査、妊婦子宮頸がん検診\nただし、『1回目の検査』および『超音波検査』『子宮頸がん検診』については「診断」を求めるため、助産所での実施は償還払いの対象になりません。\n助成額(令和6年4月1日現在)\n対象者が受診した健診費の額とする。ただし、村が都内妊婦健康診査委託医療機関と契約している健診費を上限とする。上限金額は次のとおり。\n1回目：10,980円\n2回目以降：5,140円\n妊婦超音波検査：5,300円\n妊婦子宮頸がん検診：3,400円\n申請に必要なもの\n三宅村東京都外等出産妊婦健診助成金支給申請書\n母子健康手帳\n(母子手帳の「妊娠の経過」ページに、都外医療機関や助産所で受信された妊婦健康診査の記録が必要です。記録がない場合には、原則として助成できません。)\n医療機関が発行した受診の際の領収書(コピー可・回数分必要です。)\n村が交付した妊婦健康診査受診票、妊婦超音波検査受診票および妊婦子宮頸がん検診受診票のうち未使用の受診票\n(回数分必要です。紛失した場合は助成できません。)\n申請者(妊婦)名義の金融機関振込先口座が分かるもの(通帳など)\n印鑑\n住民票\n申請期間\n妊婦健診、超音波検査を受診した最後の日または出産の日から起算して一年以内。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "里帰り出産時の妊婦健康診査の費用助成",
+    "shortName": "里帰り出産などで都外医療機関にて妊婦健康診査を受診した方"
+  },
+  "localGovernmentLink": {
+    "title": "出産を迎える方",
+    "uri": "https://www.vill.miyake.tokyo.jp/kurashi/seikatsu_kankyou/ikuji_kyouiku/ninpu_nyuuyouji/syussan.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-19",
+    "updater": "三宅村"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": "妊婦健診、超音波検査を受診した最後の日または出産の日から起算して一年以内。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "三宅村にお住まいの妊婦さんが、里帰り出産などで三宅村の委託医療機関以外の病院や助産所で妊婦健康診査を受診した場合、その健診にかかった費用の一部を償還払い（後払い）します。",
+  "support": {
+    "description": "助成内容\n妊婦健康診査(1回～14回)および妊婦超音波検査、妊婦子宮頸がん検診\nただし、『1回目の検査』および『超音波検査』『子宮頸がん検診』については「診断」を求めるため、助産所での実施は償還払いの対象になりません。\n助成額(令和6年4月1日現在)\n対象者が受診した健診費の額とする。ただし、村が都内妊婦健康診査委託医療機関と契約している健診費を上限とする。上限金額は次のとおり。\n1回目：10,980円\n2回目以降：5,140円\n妊婦超音波検査：5,300円\n妊婦子宮頸がん検診：3,400円",
+    "materiallySupport": null,
+    "monetarySupport": "助成内容\n妊婦健康診査(1回～14回)および妊婦超音波検査、妊婦子宮頸がん検診\nただし、『1回目の検査』および『超音波検査』『子宮頸がん検診』については「診断」を求めるため、助産所での実施は償還払いの対象になりません。\n助成額(令和6年4月1日現在)\n対象者が受診した健診費の額とする。ただし、村が都内妊婦健康診査委託医療機関と契約している健診費を上限とする。上限金額は次のとおり。\n1回目：10,980円\n2回目以降：5,140円\n妊婦超音波検査：5,300円\n妊婦子宮頸がん検診：3,400円"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象\n妊婦健診を受診した日において三宅村に住民登録がある方。\n申請日現在、三宅村に住民登録がある方。\n都内妊婦健康診査委託医療機関以外で受診していること、または東京都内および都外の助産所で受診していること。(日本国内に限る)\n妊婦健康診査受診票(または超音波検査受診票)の未使用分があること。\n超音波検査の回数は4回。"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

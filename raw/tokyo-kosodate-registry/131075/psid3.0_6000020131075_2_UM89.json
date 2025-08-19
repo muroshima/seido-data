@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131075;墨田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども施設課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131075",
+    "psid": "psid3.0+6000020131075+2+UM89"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "※入園に関するお問合せについては、子ども施設課入園係（電話：03-5608-6152）にお願いします。",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども施設課　保育係給付担当",
+    "contactPhone": "03-5608-1253",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "https://www.city.sumida.lg.jp/sisetu_info/kosodate/hoikuen/siritu_hoiku.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "認可保育所・認定こども園（保育園枠）一覧",
+    "shortName": "私立保育園及び幼保連携型認定こども園"
+  },
+  "localGovernmentLink": {
+    "title": "私立保育園及び幼保連携型認定こども園",
+    "uri": "https://www.city.sumida.lg.jp/sisetu_info/kosodate/hoikuen/siritu_hoiku.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-01",
+    "updater": "墨田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "令和6年用 認可保育施設利用申込みのご案内（PDF：1,690KB）;https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/azukeru/hoikuen/nyuuen/riyou_annai/a.files/R6goannai.pdf",
+  "procedurePeriod": {
+    "conditions": "各月の申込締切日までに必要書類をそろえてお申し込みください。（令和6年用保育施設利用申込みのご案内ｐ6～7）",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "保育が必要な事由に該当し、家庭で保育をすることができない場合、利用申込みができます。",
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "福祉サービス第三者評価（とうきょう福祉ナビゲーション） （外部サイト）",
+      "uri": "http://www.fukunavi.or.jp/fukunavi/controller?actionID=hyk&cmd=hyklst&S_MODE=area&SVCDBR_CD=22&H_NAME=&J_NAME=&MLT_AREA=13107&DISP_YR=&SVCDBRCD=&SCHSVCSBRCD=&SVCSBRCDALL=&NAME=&AREA1=&AREA2=&AREA3=&HYK_YR=&SCHHYK_YR=&HYK_ID1=&HYK_ID2=&HYK_ID3=&HYK_ID4=&HYK_ID5=&JGY_CD1=&JGY_CD2=&JGY_CD3=&JGY_CD4=&JGY_CD5=&MODE=multi&ROW=&MLT_SVCSBR_CD1=&MLT_SVCSBR_CD2=&MLT_SVCSBR_CD3=&MLT_SVCSBR_CD4=&MLT_SVCSBR_CD5=&MLT_SVCSBR_CD6=&MLT_SVCSBR_CD7=&MLT_SVCSBR_CD8=&COLOR_FLG=&COLOR_HYK_ID=&BEFORE_FLG=&TELOPN001_NO1=&TELOPN002_NO1=&TELOPN003_NO1=&TELOPN001_NO2=&TELOPN002_NO2=&TELOPN002_NO3=&TELOPN001_NO3=&TELOPN003_NO2=&TELOPN003_NO3=&STEP_SVCSBRCD=031"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育園とは、保護者が仕事や病気などのために、家庭で充分に保育することができない子どもを、保護者に代わって保育することを目的とした児童福祉施設で、法的には保育所といいます。\n保育所（保育園）のうち、国が定めた設定基準をクリアし、都道府県知事（政令市・中核市では市長）に認可された保育園を「認可保育所」といいます。\n認可保育所には公立の保育園と私立の保育園があります。\n以下は、墨田区内の認可保育所（保育園）および認定こども園の保育園枠の一覧です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-05-28",
+  "useConsiderationFlag": false,
+  "utilization": "各月の申込締切日までに必要書類をそろえてお申し込みください。（令和6年用保育施設利用申込みのご案内ｐ6～7）",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

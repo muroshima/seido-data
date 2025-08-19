@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "131156;杉並区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部地域子育て支援課母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131156",
+    "psid": "psid3.0+8000020131156+3+UM5011"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都杉並区阿佐谷南1丁目15番1号",
+    "contactComment": "（代表）",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部地域子育て支援課子育て支援係",
+    "contactPhone": "03-3312-2111",
+    "contactUrl": null,
+    "zipCode": "1668570"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "https://www.city.suginami.tokyo.jp/s054/1027.html",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "杉並区すこやか赤ちゃん連絡票（出生通知票 兼 低体重児出生届）",
+      "uri": "https://logoform.jp/form/Y4gR/471205"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "伴走型相談支援",
+    "shortName": "すこやか赤ちゃん訪問（生後4か月までの全戸訪問）"
+  },
+  "localGovernmentLink": {
+    "title": "杉並区出産・子育て応援事業",
+    "uri": "https://www.city.suginami.tokyo.jp/s054/1125.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025-03-13",
+    "updater": "杉並区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "すこやか赤ちゃん連絡票を提出",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "出生した児童を養育する方",
+  "regulation": {
+    "regulationArticle": "別紙：伴走型相談支援及び出産・子育て応援給付金の一体的実施事業実施要綱「伴走型相談支援」（別添１） ",
+    "regulationName": "伴走型相談支援及び出産・子育て応援給付金の一体的実施事業の実施について（子発1226第1号 令和4年12月26日）"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "生後4カ月になるまでの間に、保健師・助産師等の専門職がご家庭に訪問し、育児に関する不安や悩みの相談に応じるとともに、子育てに関する情報提供を行い、育児不安の解消・軽減を図ります。",
+  "support": {
+    "description": "【相談・支援内容】生後4カ月になるまでの間に、保健師等の専門職がご家庭に訪問します。\n育児に関する不安や悩みの相談に応じるとともに、子育てに関する情報提供を行い、育児不安の解消・軽減を図ります。\n家庭の状況に応じた継続した支援を関係機関と連携しながら行います。",
+    "materiallySupport": "生後4カ月になるまでの間に、保健師等の専門職がご家庭に訪問",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後4カ月になるまでの間",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": 4
+    },
+    "targetPersons": "生後4カ月になるまでの間"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "生後4カ月になるまでの間に、保健師等の専門職がご家庭に訪問します。\n育児に関する不安や悩みの相談に応じるとともに、子育てに関する情報提供を行い、育児不安の解消・軽減を図ります。\n家庭の状況に応じた継続した支援を関係機関と連携しながら行います。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

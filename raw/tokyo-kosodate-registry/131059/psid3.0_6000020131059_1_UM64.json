@@ -1,0 +1,148 @@
+{
+  "area": {
+    "areaCode": "131059;文京区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健衛生部・文京保健所予防対策課精神保健担当（精神手帳・自立支援）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131059",
+    "psid": "psid3.0+6000020131059+1+UM64"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都文京区春日1丁目16番21号\n文京シビックセンター8階南側",
+    "contactComment": "ファクス番号：03-5803-1355",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健衛生部・文京保健所予防対策課",
+    "contactPhone": "03-5803-1225",
+    "contactUrl": "https://logoform.jp/form/6KSu/554238",
+    "zipCode": "1128555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "小児慢性特定疾病医療費助成\n18歳未満（一部は20歳未満まで）の児童で、悪性新生物、慢性腎疾患、慢性呼吸器疾患、慢性心疾患、内分泌疾患、膠原病、糖尿病、先天性代謝異常、血液疾患、免疫疾患、神経・筋疾患、慢性消化器疾患、染色体又は遺伝子に変化を伴う症候群、皮膚疾患、骨系統疾患、脈管系疾患の方に医療費を助成します。\n\nお知らせ\n※平成29年4月から対象疾病が拡大されました。\n周知用ポスター（PDF：627KB）;https://www.city.bunkyo.lg.jp/documents/1468/2018411131312.pdf\n※平成30年4月から対象疾病が拡大されました。\n周知用ポスター（PDF：933KB）;https://www.city.bunkyo.lg.jp/documents/1468/2018411131028.pdf\n※令和元年7月から対象疾病が拡大されました。\n周知用ポスター（PDF：672KB）;https://www.city.bunkyo.lg.jp/documents/1468/201971134420.pdf\n※令和3年11月から対象疾病が拡大されました。\n周知用ポスター（PDF：676KB）;https://web.archive.org/web/20240519165519/https://www.city.bunkyo.lg.jp/documents/1468/poster_20211101.pdf\n小児慢性特定疾病医療費助成制度に申請する方へ\n申請される方\n詳しくは下記の東京都福祉局のホームページをご覧ください。\n\n小児慢性特定疾病医療費助成（外部リンク）;https://web.archive.org/web/20240519165519/https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/syoman/index.html\n\n心身障害者等福祉手当(区制度)の申請小児慢性特定疾病と国の難病医療法に基づく指定難病の対応表について\n小児慢性特定疾病医療受給者証をお持ちの方で国の難病医療法に基づく指定難病に相当する疾病に該当する場合、「文京区心身障害者等福祉手当」;https://web.archive.org/web/20240519165519/https://www.city.bunkyo.lg.jp/b018/p003411.htmlを申請できるようになりました。\n\n※令和3年11月から追加された疾病に罹患している方は、小児慢性特定疾病医療受給者証が発行され次第、障害福祉課障害者在宅サービス係（電話番号:03-5803-1212）までお問い合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "小児慢性特定疾病医療費の助成",
+    "shortName": "小児慢性特定疾病医療費助成"
+  },
+  "localGovernmentLink": {
+    "title": "小児慢性特定疾病医療費助成",
+    "uri": "https://www.city.bunkyo.lg.jp/b028/p001465.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-28",
+    "updater": "文京区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "詳しくは下記の東京都福祉局のホームページをご覧ください。\n\n小児慢性特定疾病医療費助成（外部リンク）;https://web.archive.org/web/20240519165519/https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/syoman/index.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第19条の2～第19条の8",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "周知用ポスター（PDF：933KB）",
+      "uri": "https://www.city.bunkyo.lg.jp/documents/1468/201971134420.pdf"
+    },
+    {
+      "title": "周知用ポスター（PDF：676KB）",
+      "uri": "https://www.city.bunkyo.lg.jp/documents/1468/poster_20211101.pdf"
+    },
+    {
+      "title": "文京区心身障害者等福祉手当",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/syoman/index.html"
+    },
+    {
+      "title": "小児慢性特定疾病医療費助成（外部リンク）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/syoman/index.html"
+    },
+    {
+      "title": "周知用ポスター（PDF：933KB）",
+      "uri": "https://www.city.bunkyo.lg.jp/documents/1468/2018411131028.pdf"
+    },
+    {
+      "title": "周知用ポスター（PDF：627KB）",
+      "uri": "https://www.city.bunkyo.lg.jp/documents/1468/2018411131312.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子どもの慢性疾病のうち、治療期間が長く、医療費負担が高額となる疾病について、治療方法の確立と普及、患者家庭の医療費の負担軽減につながるよう、医療費の自己負担分を補助しています。",
+  "support": {
+    "description": "悪性新生物、慢性腎疾患、慢性呼吸器疾患、慢性心疾患、内分泌疾患、膠原病、糖尿病、先天性代謝異常、血液疾患、免疫疾患、神経・筋疾患、慢性消化器疾患、染色体又は遺伝子に変化を伴う症候群、皮膚疾患、骨系統疾患、脈管系疾患の方に医療費を助成します。",
+    "materiallySupport": null,
+    "monetarySupport": "悪性新生物、慢性腎疾患、慢性呼吸器疾患、慢性心疾患、内分泌疾患、膠原病、糖尿病、先天性代謝異常、血液疾患、免疫疾患、神経・筋疾患、慢性消化器疾患、染色体又は遺伝子に変化を伴う症候群、皮膚疾患、骨系統疾患、脈管系疾患の方に医療費を助成します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "18歳未満（一部は20歳未満まで）の児童",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "18歳未満（一部は20歳未満まで）の児童で、悪性新生物、慢性腎疾患、慢性呼吸器疾患、慢性心疾患、内分泌疾患、膠原病、糖尿病、先天性代謝異常、血液疾患、免疫疾患、神経・筋疾患、慢性消化器疾患、染色体又は遺伝子に変化を伴う症候群、皮膚疾患、骨系統疾患、脈管系疾患の方"
+  },
+  "updateDate": "2023-07-05",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

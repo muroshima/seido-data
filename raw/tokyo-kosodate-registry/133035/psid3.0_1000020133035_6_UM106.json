@@ -1,0 +1,118 @@
+{
+  "area": {
+    "areaCode": "133035;瑞穂町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": null,
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133035",
+    "psid": "psid3.0+1000020133035+6+UM106"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡瑞穂町大字箱根ケ崎2335番地",
+    "contactComment": "受付時間 平日の午前8時30分から午後5時まで",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部 子育て応援課 子育て支援係;https://www.town.mizuho.tokyo.jp/dept/130000/130150/130151/index.html",
+    "contactPhone": "042-557-7624",
+    "contactUrl": "https://www.town.mizuho.tokyo.jp/inquiry/mailform130151.html?PAGE_NO=8062",
+    "zipCode": "1901292"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "「瑞穂町子育てほっとブック」（令和5年度版）を配布しています\n瑞穂町では、「瑞穂町子育てほっとブック」を毎年度作成しています。\n\n子育てに係る支援やサービスを網羅し、わかりやすく解説した冊子です。\n手当・医療費助成制度、保育・幼稚園、貸付・給付制度、児童関係施設など、さまざまな情報を掲載しています。\n\nこのガイドブックは窓口にて無料で町民の方々に配布しています。\n下記からもダウンロードできますので、ぜひご活用ください。\n\nダウンロード\n令和5年度版 瑞穂町子育てほっとブック（PDF形式 3,504キロバイト）;https://www.town.mizuho.tokyo.jp/kosodate/003/004/p008062_d/fil/reiwa5kosodatehotbook.pdf\n\n関連ファイル\n令和5年度版　瑞穂町子育てほっとブック;https://www.town.mizuho.tokyo.jp/kosodate/003/004/p008062_d/fil/reiwa5kosodatehotbook.pdf (PDF形式 3,504KB)\n※PDFファイルの閲覧には、Adobe Acrobat Reader DC;https://get.adobe.com/jp/reader/(外部リンク)が必要です。\n子どもたちのために;https://www.town.mizuho.tokyo.jp/kosodate/003/index.html\n子育て支援全般;https://www.town.mizuho.tokyo.jp/kosodate/003/004/index.html\n子どもの手当;https://www.town.mizuho.tokyo.jp/kosodate/003/001/index.html\n医療助成;https://www.town.mizuho.tokyo.jp/kosodate/003/002/index.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関するサポート",
+    "shortName": "令和5年度瑞穂町子育てほっとブック"
+  },
+  "localGovernmentLink": {
+    "title": "令和5年度瑞穂町子育てほっとブック",
+    "uri": "https://www.town.mizuho.tokyo.jp/kosodate/003/004/p008062.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "瑞穂町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "瑞穂町では、「瑞穂町子育てほっとブック」を毎年度作成しています。子育てに係る支援やサービスを網羅し、わかりやすく解説した冊子です。手当・医療費助成制度、保育・幼稚園、貸付・給付制度、児童関係施設など、さまざまな情報を掲載しています。このガイドブックは窓口にて無料で町民の方々に配布しています。自治体WEBサイトからもダウンロードできますので、ぜひご活用ください。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": null,
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": null
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "町民の方々"
+  },
+  "updateDate": "2023-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

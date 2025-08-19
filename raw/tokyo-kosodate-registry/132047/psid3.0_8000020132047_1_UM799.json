@@ -1,0 +1,130 @@
+{
+  "area": {
+    "areaCode": "132047;三鷹市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども政策部 子ども家庭課 子ども家庭支援センターりぼん",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132047",
+    "psid": "psid3.0+8000020132047+1+UM799"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三鷹市下連雀九丁目11番7号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども政策部 子ども家庭課 子ども家庭支援センターりぼん",
+    "contactPhone": "電話：0422-40-5925",
+    "contactUrl": null,
+    "zipCode": "1818505"
+  },
+  "cost": "無料",
+  "costConditions": null,
+  "description": "子ども家庭支援センター りぼん\n作成・発信部署：\n\n公開日：2020年3月30日\n\n子どもと家庭に関する総合相談など、あらゆる相談に応じます\n所在地\n〒181-8505\n\n電話番号\n0422-40-5925\n\n内容\n相談\n子どもと家庭に関する総合相談。あらゆる相談に応じます。相談できます。\n\nショートステイ事業などの受付・調整\nショートステイ事業などの相談・受付・調整をおこなっています。そのほかのサービス提供の相談にも応じています。\n\n利用時間\n\n休館日",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "土曜日、日曜日、祝日、年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "三鷹市下連雀九丁目11番7号\n教育センター　2階",
+    "implementationName": "子ども家庭支援センター りぼん"
+  },
+  "institutionName": {
+    "canonicalName": "こども家庭センター",
+    "shortName": "子ども家庭支援センター りぼん"
+  },
+  "localGovernmentLink": {
+    "title": "子ども家庭支援センター りぼん",
+    "uri": "https://www.city.mitaka.lg.jp/c_service/085/085325.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/25",
+    "updater": "三鷹市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "子ども政策部　子ども家庭課",
+      "uri": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "三鷹市の【子ども家庭支援センター りぼん】では、全ての妊産婦・子育て家庭に対する相談等への対応、サポートプランに基づく妊産婦の健康やこどもの養育に関する支援などを行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象\n0歳から18歳未満の児童及びその保護者。"
+  },
+  "updateDate": "2023/06/20",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日～金曜日",
+    "fromHM": "08:30",
+    "toHM": "17:00"
+  }
+}

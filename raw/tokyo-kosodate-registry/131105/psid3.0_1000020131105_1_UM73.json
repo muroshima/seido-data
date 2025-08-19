@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131105;目黒区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保育課保育施設利用係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131105",
+    "psid": "psid3.0+1000020131105+1+UM73"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "目黒区上目黒二丁目19番15号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保育課保育施設利用係",
+    "contactPhone": "03-5722-9868",
+    "contactUrl": null,
+    "zipCode": "1538573"
+  },
+  "cost": null,
+  "costConditions": "認可保育所等の利用者負担額（保育料）; https://www.city.meguro.tokyo.jp/hoiku/kosodatekyouiku/hoikuennado/hoikuryo.html\n\nこの認可保育所等利用者負担額（保育料）階層表は、認可保育所、認定こども園（保育利用に限る）、地域型保育（小規模保育、家庭的保育、居宅訪問型保育、事業所内保育）の保育料に適用されます。お子さんの保育料は、世帯の市区町村民税所得割相当額、お子さんの年齢及び認定区分における保育の必要量（保育標準時間・保育短時間）により決まります。",
+  "description": "認可保育園等の利用申込みのご案内\n認可保育所等の利用者負担額（保育料）; https://www.city.meguro.tokyo.jp/hoiku/kosodatekyouiku/hoikuennado/hoikuryo.html\n\nこの認可保育所等利用者負担額（保育料）階層表は、認可保育所、認定こども園（保育利用に限る）、地域型保育（小規模保育、家庭的保育、居宅訪問型保育、事業所内保育）の保育料に適用されます。お子さんの保育料は、世帯の市区町村民税所得割相当額、お子さんの年齢及び認定区分における保育の必要量（保育標準時間・保育短時間）により決まります。\n\n目黒区認可保育園　開所時間・延長保育; https://www.city.meguro.tokyo.jp/hoiku/kosodatekyouiku/hoikuennado/kaien_encho.html\n\n認可保育園の開園時間は、原則午前7時15分から午後6時15分までです。保育園へのお迎えが間に合わない方のために公立・私立全園で延長保育を実施しています。\n\n保育施設利用のご案内（窓口配布用）; https://www.city.meguro.tokyo.jp/hoiku/kosodatekyouiku/hoikuennado/moushikomiannai.html\n\n保育施設に入所するための手続きや仕組みについてまとめたものです。\n\n支給認定申請における個人番号（マイナンバー）の記載; https://www.city.meguro.tokyo.jp/hoiku/kosodatekyouiku/hoikuennado/mynumber.html\n\n保育施設の申込みから入所までの流れ; https://www.city.meguro.tokyo.jp/hoiku/kosodatekyouiku/hoikuennado/nagare.html\n\n保育所の入所などについての相談は、保育課保育施設利用係で受け付けております。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "認可保育所（保育園）の利用について",
+    "shortName": "認可保育園の利用"
+  },
+  "localGovernmentLink": {
+    "title": "認可保育園等の利用申込みのご案内",
+    "uri": "https://www.city.meguro.tokyo.jp/kosodatekyouiku/hoikuennado/hoikuen/ninka/moushikomi/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "目黒区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "保育施設利用のご案内（窓口配布用）;https://www.city.meguro.tokyo.jp/hoiku/kosodatekyouiku/hoikuennado/moushikomiannai.html\n\n保育施設に入所するための手続きや仕組みについてまとめたものです。\n\n保育施設の申込みから入所までの流れ;https://www.city.meguro.tokyo.jp/hoiku/kosodatekyouiku/hoikuennado/nagare.html\n\n保育所の入所などについての相談は、保育課保育施設利用係で受け付けております。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第24条",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "認可保育所等の利用者負担額（保育料）",
+      "uri": "https://www.city.meguro.tokyo.jp/hoiku/kosodatekyouiku/hoikuennado/nagare.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育園とは、保護者が共に働いていたり病気などの理由で、昼間家庭において保育を受けられないお子さんを、保護者に代わって保育する児童福祉施設で、法的には「保育所」といいます。\n保育所（保育園）には、国が定めた設置基準をクリアし、都道府県知事に認可された保育所と、それ以外の保育所がありますが、ここでは認可された保育所についてご案内します。\n\n保育園では在園児を対象とした「延長保育」のほか、「一時預かり」や「病児保育」、「障害児保育」などを行っている園もあります。",
+  "support": {
+    "description": "保育施設利用のご案内（窓口配布用）; https://www.city.meguro.tokyo.jp/hoiku/kosodatekyouiku/hoikuennado/moushikomiannai.html\n\n保育施設に入所するための手続きや仕組みについてまとめたものです。",
+    "materiallySupport": "保育施設利用のご案内（窓口配布用）; https://www.city.meguro.tokyo.jp/hoiku/kosodatekyouiku/hoikuennado/moushikomiannai.html\n\n保育施設に入所するための手続きや仕組みについてまとめたものです。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "目黒区認可保育園　開所時間・延長保育; https://www.city.meguro.tokyo.jp/hoiku/kosodatekyouiku/hoikuennado/kaien_encho.html\n\n認可保育園の開園時間は、原則午前7時15分から午後6時15分までです。保育園へのお迎えが間に合わない方のために公立・私立全園で延長保育を実施しています。",
+    "fromHM": null,
+    "toHM": null
+  }
+}

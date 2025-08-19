@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132152;国立市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子育て支援課 子ども保健・発達支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132152",
+    "psid": "psid3.0+1000020132152+1+UM791"
+  },
+  "belongings": "個人番号カード\n個人番号カードをお持ちでない場合は、個人番号が分かるもの(通知カード又は個人番号入りの住民票)と本人確認できるもの((1)免許証、パスポート等顔写真付きの公的証明書1点、(2)写真付きでない公的証明書の場合は公的医療保険の被保険者証、年金手帳等2点以上)",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "国立市富士見台3-16-5(保健センター内)",
+    "contactComment": "ファクス：042-574-3930",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 子育て支援課 子ども保健・発達支援係",
+    "contactPhone": "042-574-3311",
+    "contactUrl": "https://www.city.kunitachi.tokyo.jp/cgi-bin/inquiry.php/54?page_no=1745",
+    "zipCode": "1860003"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "低体重児出生届の提出\n\n低体重の赤ちゃん(出生時の体重が2,500グラム未満の乳児)を出産された際には、なるべくお早めに低体重児出生届を保健センターに提出してください。新生児訪問やこんにちは赤ちゃん訪問の際に提出していただくこともできます。\n低体重児出生届には産婦さんと赤ちゃんの個人番号をご記入いただく欄がございますので、ご記載いただくようお願いいたします。\n\n持ち物は以下のとおりです。\n\n個人番号カード\n個人番号カードをお持ちでない場合は、個人番号が分かるもの(通知カード又は個人番号入りの住民票)と本人確認できるもの((1)免許証、パスポート等顔写真付きの公的証明書1点、(2)写真付きでない公的証明書の場合は公的医療保険の被保険者証、年金手帳等2点以上)\n産婦さん本人以外の方が妊娠届を提出する場合は、(1)産婦さんからの委任状、(2)代理人の方の身元確認ができるもの(具体的には上記本人確認ができるものと同様です)、(3)産婦さん、赤ちゃんの番号確認ができるもの(具体的には、上記個人番号が分かるものと同様です)をご持参ください。\n\n低体重児出生届様式は下記からダウンロードしてお使いください。\n\n低体重児出生届 (PDFファイル: 98.3KB);https://www.city.kunitachi.tokyo.jp/material/files/group/44/20200727teitaijyuutodoke.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出生通知票・低体重児出生届",
+    "shortName": "出生通知票・低体重児出生届の提出"
+  },
+  "localGovernmentLink": {
+    "title": "低体重児出生届の提出",
+    "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec04/gyomu/0248/0129/1461061739978.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "国立市"
+  },
+  "procedureCounter": "低体重児出生届を保健センターに提出してください。新生児訪問やこんにちは赤ちゃん訪問の際に提出していただくこともできます。",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "低体重の赤ちゃん(出生時の体重が2,500グラム未満の乳児)を出産された際には、なるべくお早めに低体重児出生届を保健センターに提出してください。新生児訪問やこんにちは赤ちゃん訪問の際に提出していただくこともできます。\n低体重児出生届には産婦さんと赤ちゃんの個人番号をご記入いただく欄がございますので、ご記載いただくようお願いいたします。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "産婦さん本人以外の方が妊娠届を提出する場合は、(1)産婦さんからの委任状、(2)代理人の方の身元確認ができるもの(具体的には上記本人確認ができるものと同様です)、(3)産婦さん、赤ちゃんの番号確認ができるもの(具体的には、上記個人番号が分かるものと同様です)をご持参ください。",
+  "regulation": {
+    "regulationArticle": "第18条（低体重児の届出）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "赤ちゃんが生まれたら、母と子の保健バッグに入っている出生通知票(A4サイズ用紙)を記入して、ご提出してください。出生通知票をもとに、「こんにちは赤ちゃん事業（乳幼児全戸訪問）」のご連絡をします。また、低体重の赤ちゃん(出生時の体重が2,500グラム未満の乳児)を出産された際には、なるべくお早めに低体重児出生届を保健センターに提出してください。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "低体重の赤ちゃん(出生時の体重が2,500グラム未満の乳児)を出産された際"
+  },
+  "updateDate": "2023-06-30",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

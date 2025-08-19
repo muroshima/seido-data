@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132233;武蔵村山市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部障害福祉課手当助成係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132233",
+    "psid": "psid3.0+3000020132233+1+UM64"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康福祉部障害福祉課手当助成係",
+    "contactPhone": "042-590-1185",
+    "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/e_03b/1000651",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "小児慢性疾患医療費助成\n1.対象となるかた\n次の要件を満たすかたとなります\n1.武蔵村山市内に住民登録されていること。\n2.18歳未満のかた（ただし、既に医療券の交付を受けている方で、18歳以降も継続して更新手続をされたかたに限り、20歳未満まで延長できます）\n3.健康保険に加入しているかた（被扶養者を含む。）\n\n2.詳細について\n内容については、東京都福祉局子供・子育て支援部家庭支援課へお問い合わせください。（電話：03-5320-4375）\n東京都福祉局のページを参照してください。\n東京都小児慢性疾患医療費助成のページ（外部リンク）;http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/josei/syoman/index.html\n\n3.申請受付窓口\n住所\n〒208-8502　武蔵村山市学園4-5-1　市民総合センター内　障害福祉課\n電話\n042-590-1185",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "小児慢性特定疾病医療費の助成",
+    "shortName": "小児慢性疾患医療費助成"
+  },
+  "localGovernmentLink": {
+    "title": "小児慢性疾患医療費助成",
+    "uri": "https://www.city.musashimurayama.lg.jp/kurashi/shougai/shippei/1000651.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-19",
+    "updater": "武蔵村山市"
+  },
+  "procedureCounter": "武蔵村山市学園4-5-1　市民総合センター内　障害福祉課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "次の書類等を揃えて障害福祉課の窓口で申請をしてください。\n\n①　小児慢性特定疾病医療費支給認定申請書兼同意書\n②　小児慢性特定疾病医療意見書（発行日から３か月以内のもの）\n③　個人番号カード\n\n④　世帯調書\n⑤　住民票（世帯全員分の続柄記載のもの）\n⑥　健康保険証の写し\n⑦　課税（非課税）証明書\n⑧　同意書\n⑨　委任状（該当者のみ）\n⑩　申請者の本人確認書類\n※個人番号の運用により提出を省略できる書類があります。詳細については、障害福祉課までお問合せください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "保護者",
+  "regulation": {
+    "regulationArticle": "第19条の2～第19条の8",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "東京都小児慢性疾患医療費助成のページ（外部リンク）",
+      "uri": "http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/josei/syoman/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子どもの慢性疾病のうち、治療期間が長く、医療費負担が高額となる疾病について、治療方法の確立と普及、患者家庭の医療費の負担軽減につながるよう、医療費の自己負担分を補助しています。",
+  "support": {
+    "description": "内容については、東京都福祉局子供・子育て支援部家庭支援課へお問い合わせください。（電話：03-5320-4375）\n東京都福祉局のページを参照してください。\n東京都小児慢性疾患医療費助成のページ（外部リンク）;http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/josei/syoman/index.html",
+    "materiallySupport": null,
+    "monetarySupport": "内容については、東京都福祉局子供・子育て支援部家庭支援課へお問い合わせください。（電話：03-5320-4375）\n東京都福祉局のページを参照してください。\n東京都小児慢性疾患医療費助成のページ（外部リンク）;http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/josei/syoman/index.html"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "18歳未満のかた（ただし、既に医療券の交付を受けている方で、18歳以降も継続して更新手続をされたかたに限り、20歳未満まで延長できます）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次の要件を満たすかたとなります\n1.武蔵村山市内に住民登録されていること。\n2.18歳未満のかた（ただし、既に医療券の交付を受けている方で、18歳以降も継続して更新手続をされたかたに限り、20歳未満まで延長できます）\n3.健康保険に加入しているかた（被扶養者を含む。）"
+  },
+  "updateDate": "2024-02-22",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

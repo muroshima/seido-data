@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131016;千代田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育委員会事務局子ども部児童・家庭支援センター子ども家庭相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131016",
+    "psid": "psid3.0+8000020131016+1+UM783"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都千代田区神田司町2-16　神田さくら館6階",
+    "contactComment": null,
+    "contactEmail": "jidousoudan@city.chiyoda.lg.jp",
+    "contactEx": null,
+    "contactName": "教育委員会事務局子ども部児童・家庭支援センター子ども家庭相談係",
+    "contactPhone": "03-5298-5521",
+    "contactUrl": null,
+    "zipCode": "1010048"
+  },
+  "cost": "600",
+  "costConditions": "1時間",
+  "description": "千代田フレンズでは、「育児で疲れてしまった」「病気で子どもの面倒を見ることができない」「仕事と育児の両立が難しい」。そんな悩みがある中で、身近な親族などから支援が受けられず児童の養育が困難な場合に、一時的に児童を預かる事業を行っています。\n\n詳しい内容は下記チラシもご覧ください。\n\n千代田フレンズのサービス案内（PDF：702KB）;https://www.city.chiyoda.lg.jp/documents/19226/r608chirashi.pdf\n\n提供サービスの概要\n\n以下の２つのサービスを実施しています。詳しくは添付のチラシをご覧ください。\n\nショートステイ（宿泊）\n\n対象児童\n\n区内在住で集団生活を営むことができる2歳～小学生（中学生は応相談）\n\n実施日時\n\n24時間365日\n\n・入所時間：午前9時～午後10時\n・退所時間：翌日午前9時～午後10時\n（注意） 学校や保育園等への送迎も可能です。\n\n利用上限\n\n1回につき6泊以内、1か月あたり6泊以内\n\n利用料金\n\n1泊（24時間あたり）3,000円\n\nトワイライトステイ（夜間）\n\n対象児童\n\n区内在住で集団生活を営むことができる2歳～小学生（中学生は応相談）\n\n実施日時\n\n日曜日・祝休日・年末年始を除く午後5時～10時\n（注意） 学校や保育園等への送迎も可能です。\n\n利用上限\n\n1か月あたり7日以内\n\n利用料金\n1日1,500円\n\n利用条件\n\n・区内に保護者と児童の住民票があること\n・保護者の疾病、同居家族の介護、仕事の出張などの条件に加え、一時的に家庭で養育することが困難であると区が認定した家庭\n（注意） 育児疲れや保護者の疾患等から、育児支援が必要であるときは、原則として事前に区への相談が必要です。\n\n相談窓口\n\n千代田区立児童・家庭支援センター子ども家庭相談係\n\n・住所：神田司町2-16 神田さくら館6階\n・電話番号：03-5298-5521\n・月曜日～金曜日の午前9時から午後5時まで（祝日・年末年始を除く）\n\nお預かりする場所\n\n千代田フレンズ\n\n・住所：神田司町2-5 DeLCCS神田大手町7階\n・電話番号：080-5544-6975\n\n申し込み先・申込方法\n\n1.千代田フレンズに問い合わせ、利用希望日の空き状況を確認する。\n2.利用枠に空きがある場合は、必要書類を提出して申し込む。初めての利用の際は、事前に面接と施設見学を行い、利用料金（見込み額）を前払いする。\n\n負担費用\n\n・上記利用料金のほか、送迎費が別途必要です。\n・料金は、児童を預ける際または迎えの際に現金でお支払いください。\n・利用中に要した緊急の医療費、通園もしくは通学に要した交通費などは、実費分を直接施設へお支払いください。\n\n減免制度\n\n生活保護受給世帯や住民税非課税世帯、住民税均等割課税世帯の方が利用する際には、利用料金の減免制度があります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "日曜日・祝休日・年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "神田司町2-5 DeLCCS神田大手町7階",
+    "implementationName": "千代田フレンズ"
+  },
+  "institutionName": {
+    "canonicalName": "トワイライトステイ（夜間）",
+    "shortName": "千代田フレンズ"
+  },
+  "localGovernmentLink": {
+    "title": "千代田フレンズ ～日中・夜間・宿泊を問わず子どもをお預かり",
+    "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/ichijiteki/chiyodafriends.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "千代田区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "1.千代田フレンズに問い合わせ、利用希望日の空き状況を確認する。\n2.利用枠に空きがある場合は、必要書類を提出して申し込む。初めての利用の際は、事前に面接と施設見学を行い、利用料金（見込み額）を前払いする。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "・区内に保護者と児童の住民票があること\n・保護者の疾病、同居家族の介護、仕事の出張などの条件に加え、一時的に家庭で養育することが困難であると区が認定した家庭\n（注意） 育児疲れや保護者の疾患等から、育児支援が必要であるときは、原則として事前に区への相談が必要です。",
+  "regulation": {
+    "regulationArticle": "第6条の3第3項、第21条の9",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "千代田フレンズのサービス案内（PDF：702KB）",
+      "uri": "https://www.city.chiyoda.lg.jp/documents/19226/r608chirashi.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者の傷病･育児疲れ等で、身近な親族などから支援が受けられず 子どもの養育が一時的に困難な場合に、夜間や宿泊でお子さんをお預かりします。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 2,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住で集団生活を営むことができる2歳～小学生（中学生は応相談）"
+  },
+  "updateDate": "2023-04-05",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": "17:00",
+    "toHM": "22:00"
+  }
+}

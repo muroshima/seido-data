@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131105;目黒区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健予防課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131105",
+    "psid": "psid3.0+1000020131105+2+UM22"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "目黒区上目黒二丁目19番15号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健予防課",
+    "contactPhone": "03-5722-9503",
+    "contactUrl": null,
+    "zipCode": "1538573"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ファーストバースデーサポート事業\n目次\n\n対象\nギフト（育児パッケージ）の配布予定時期\nギフト（育児パッケージ）の内容\n事業の流れ\nギフトに関する問い合わせ先\n区では令和4年4月1日から、訪問や健診の機会がない1歳のお子さんがいるご家庭の子育てを応援するため、育児パッケージを配布するとともに、子育て支援の情報提供、ご家庭の状況把握や相談支援を行う「ファーストバースデーサポート事業」を実施しています。\n\n目黒区ファーストバースデーサポート\n\n対象\n下記のいずれにも該当する方に、専用WEBサイトで育児パッケージを申し込みいただくための通知を送付します。\n\n令和4年4月1日以降に1歳の誕生日を迎える子どもを養育している方\n1歳の誕生月の1日時点で、目黒区に住民登録がある方\nギフト（育児パッケージ）の配布予定時期\n対象者が1歳の誕生日を迎える月の翌月の上旬\n\nギフト（育児パッケージ）の内容\n（1）令和4年4月1日から令和5年3月31日お生まれのお子さま\n\n子育てに役立つ育児用品等をお選びいただける「カタログギフト」になります。\n\n第1子：ギフト1点（1万円相当）\n第2子：ギフト2点（2万円相当）\n第3子以降：ギフト3点（3万円相当）\n\n注記：令和6年3月末をもちまして、（1）の対象者への発送は終了しています。\n\n（2）令和5年4月1日以降お生まれ\n\n子育て世帯に役立つ「オンラインギフト」になります。\n主に商品購入の決済時に利用可能な電子クーポンになります。\n\n第1子：6万円分\n第2子：7万円分\n第3子：8万円分\n\n注記家計を同一にして養育している18歳未満のお子さんのうち、1歳の誕生日を迎えるお子さんが第何子に該当するかによって、選べるギフトの点数（金額）が変わります。\n\n注記\n本事業における第何子の数え方は、同じ世帯の住民票に登録があり、生計を同一にして養育している18歳未満のお子さんのうち、1歳を迎えるお子さんが何番目に当たるかで決定します。\n\n事業の流れ\n1.通知の発送\n郵送（簡易書留）により、対象家庭へ通知を送付します。\n区で対象者の抽出を行うため、申請等のお手続きは不要です。\n\n2.専用WEBサイトへアクセス\n通知に記載されている二次元コードから、専用WEBサイトへアクセスしてください。\n\n3.子育て支援アンケートの回答・オンラインギフトの受け取り\n専用WEBサイトにアクセスいただくと、子育て支援アンケートへの回答が必須となりますので、ご協力をお願いいたします。アンケート回答後にオンラインギフトを受け取ることができます。\n\n4.オンラインギフトの選択\nご希望のギフトをお選びください。\nアンケートを回答し、オンラインギフトを受け取ってから5か月後の月末までご希望のギフトと交換ください。\n専用WEBサイトへのアクセスが難しい方は、下記専用コールセンターまでご連絡ください。\n当専用WEBサイトの運営等については、株式会社ギフティに委託しています。\n\n5.ギフトの利用\n各オンラインギフトに有効期限が設定されております。\nご確認の上、期限内にご利用ください。\n\nギフトに関する問い合わせ先\nギフティお問い合わせセンター\n電話：0120-22-3513\n受付時間：平日8時30分から17時15分まで（土・日・祝日は除く）\n内容：ギフトの受け取り、交換、利用、その他問い合わせについて\n\n注記：事業の内容及びギフトの配布状況につきましては、保健予防課までご連絡ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関する金銭的支援",
+    "shortName": "ファーストバースデーサポート事業"
+  },
+  "localGovernmentLink": {
+    "title": "ファーストバースデーサポート事業",
+    "uri": "https://www.city.meguro.tokyo.jp/hokenyobou/kosodatekyouiku/ninshin/firstbirthdaysupport.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "目黒区"
+  },
+  "procedureCounter": "保健予防課（目黒区総合庁舎本館3階）;https://www.city.meguro.tokyo.jp/soumu/shisetsu/koukyoushisetsu/sogo.html",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "区で対象者の抽出を行うため、申請等のお手続きは不要です。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "1歳の誕生日を迎える子どもを養育している方",
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "とうきょうママパパ応援事業実施要綱"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "訪問や健診の機会がない1歳のお子さんがいるご家庭の子育てを応援するため、育児パッケージを配布するとともに、子育て支援の情報提供、ご家庭の状況把握や相談支援を行う",
+  "support": {
+    "description": "子育て世帯に役立つ「オンラインギフト」になります。\n主に商品購入の決済時に利用可能な電子クーポンになります。\n\n第1子：6万円分\n第2子：7万円分\n第3子：8万円分\n\n注記家計を同一にして養育している18歳未満のお子さんのうち、1歳の誕生日を迎えるお子さんが第何子に該当するかによって、選べるギフトの点数（金額）が変わります。",
+    "materiallySupport": null,
+    "monetarySupport": "子育て世帯に役立つ「オンラインギフト」になります。\n主に商品購入の決済時に利用可能な電子クーポンになります。\n\n第1子：6万円分\n第2子：7万円分\n第3子：8万円分\n\n注記家計を同一にして養育している18歳未満のお子さんのうち、1歳の誕生日を迎えるお子さんが第何子に該当するかによって、選べるギフトの点数（金額）が変わります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": "令和4年4月1日以降に1歳の誕生日を迎える子どもを養育している方\n1歳の誕生月の1日時点で、目黒区に住民登録がある方",
+    "greaterThan": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "令和4年4月1日以降に1歳の誕生日を迎える子どもを養育している方\n1歳の誕生月の1日時点で、目黒区に住民登録がある方"
+  },
+  "updateDate": "2024-06-07",
+  "useConsiderationFlag": false,
+  "utilization": "1.通知の発送\n郵送（簡易書留）により、対象家庭へ通知を送付します。\n区で対象者の抽出を行うため、申請等のお手続きは不要です。\n\n2.専用WEBサイトへアクセス\n通知に記載されている二次元コードから、専用WEBサイトへアクセスしてください。\n\n3.子育て支援アンケートの回答・オンラインギフトの受け取り\n専用WEBサイトにアクセスいただくと、子育て支援アンケートへの回答が必須となりますので、ご協力をお願いいたします。アンケート回答後にオンラインギフトを受け取ることができます。\n\n4.オンラインギフトの選択\nご希望のギフトをお選びください。\nアンケートを回答し、オンラインギフトを受け取ってから5か月後の月末までご希望のギフトと交換ください。\n専用WEBサイトへのアクセスが難しい方は、下記専用コールセンターまでご連絡ください。\n当専用WEBサイトの運営等については、株式会社ギフティに委託しています。\n\n5.ギフトの利用\n各オンラインギフトに有効期限が設定されております。\nご確認の上、期限内にご利用ください。\n\nギフトに関する問い合わせ先\nギフティお問い合わせセンター\n電話：0120-22-3513\n受付時間：平日8時30分から17時15分まで（土・日・祝日は除く）\n内容：ギフトの受け取り、交換、利用、その他問い合わせについて\n\n注記：事業の内容及びギフトの配布状況につきましては、保健予防課までご連絡ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

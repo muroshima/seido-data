@@ -1,0 +1,160 @@
+{
+  "area": {
+    "areaCode": "132276;羽村市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子育て相談課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132276",
+    "psid": "psid3.0+1000020132276+1+UM10"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "（母子保健・相談係）内線692　 （子ども家庭支援センター係）内線266",
+    "contactName": "子ども家庭部 子育て相談課",
+    "contactPhone": "042-555-1111",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "無料\nただし、医療機関での採血にかかる費用は自己負担となります。\n里帰り出産などで、東京都以外の道府県等で出産し検査を受ける場合は、自己負担となる場合があります。\n出産される医療機関または道府県庁等の母子保健事業担当係まで問い合わせてください。",
+  "description": "先天性代謝異常等検査\n[2020年4月1日]ID:1292\n\n赤ちゃんの病気の早期発見・早期治療のために先天性代謝異常等の病気の検査を行っています。これらの病気は心身の発達に必要なある種の酵素が生まれつき欠けていたり、ホルモン合成の異常が原因でおこるものです。また、これらの病気は放置していると心身の発達の妨げとなりますが、早期に発見し治療することで発症を防ぐことができます。ぜひ、検査をお受けください。\n\n検査の受け方\n東京都内で出産し、検査を受ける場合は、出産された病院に用意してある「先天性代謝異常等検査申込書」に必要事項を記入の上、提出してください。生後5日から7日目の赤ちゃんの足の裏からごく少量の血液を採取し、検査をします。\n\n結果\n出産した病院から結果をお知らせします。\n\n費用\n無料\nただし、医療機関での採血にかかる費用は自己負担となります。\n\nその他\n里帰り出産などで、東京都以外の道府県等で出産し検査を受ける場合は、自己負担となる場合があります。\n出産される医療機関または道府県庁等の母子保健事業担当係まで問い合わせてください。\n\nこの記事を見ている人はこんな記事も見ています\n母子健康手帳の交付; https://www.city.hamura.tokyo.jp/0000001254.html\n届出一覧; https://www.city.hamura.tokyo.jp/0000000267.html\n妊婦健診受診票; https://www.city.hamura.tokyo.jp/0000001259.html\n妊婦歯科健康診査; https://www.city.hamura.tokyo.jp/0000001261.html\n\nこの記事と同じ分類の記事\n羽村市産後ケア事業のご案内; https://www.city.hamura.tokyo.jp/prsite/0000013487.html\n育児相談について; https://www.city.hamura.tokyo.jp/prsite/0000014896.html\n妊産婦メンタルヘルス相談; https://www.city.hamura.tokyo.jp/prsite/0000013789.html\n産前産後期間は国民健康保険税が軽減されます; https://www.city.hamura.tokyo.jp/0000018149.html\n【1歳の誕生日を迎えるお子さんに】羽っぴーバースデーパッケージを配布します; https://www.city.hamura.tokyo.jp/prsite/0000014378.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "生後5日から7日目の赤ちゃんの足の裏からごく少量の血液を採取し、検査",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "先天性代謝異常等検査",
+    "shortName": "先天性代謝異常等検査"
+  },
+  "localGovernmentLink": {
+    "title": "先天性代謝異常等検査",
+    "uri": "https://www.city.hamura.tokyo.jp/0000001292.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "羽村市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "東京都内で出産し、検査を受ける場合は、出産された病院に用意してある「先天性代謝異常等検査申込書」に必要事項を記入の上、提出してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "羽村市産後ケア事業のご案内",
+      "uri": "https://www.city.hamura.tokyo.jp/prsite/0000013487.html"
+    },
+    {
+      "title": "妊婦歯科健康診査",
+      "uri": "https://www.city.hamura.tokyo.jp/0000001261.html"
+    },
+    {
+      "title": "届出一覧",
+      "uri": "https://www.city.hamura.tokyo.jp/0000000267.html"
+    },
+    {
+      "title": "妊婦健診受診票",
+      "uri": "https://www.city.hamura.tokyo.jp/0000001259.html"
+    },
+    {
+      "title": "【1歳の誕生日を迎えるお子さんに】羽っぴーバースデーパッケージを配布します",
+      "uri": "https://www.city.hamura.tokyo.jp/prsite/0000014378.html"
+    },
+    {
+      "title": "育児相談について",
+      "uri": "https://www.city.hamura.tokyo.jp/prsite/0000014896.html"
+    },
+    {
+      "title": "母子健康手帳の交付",
+      "uri": "https://www.city.hamura.tokyo.jp/0000001254.html"
+    },
+    {
+      "title": "妊産婦メンタルヘルス相談",
+      "uri": "https://www.city.hamura.tokyo.jp/prsite/0000013789.html"
+    },
+    {
+      "title": "産前産後期間は国民健康保険税が軽減されます",
+      "uri": "https://www.city.hamura.tokyo.jp/0000018149.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "東京都ではフェニルケトン尿症等の先天性代謝異常や先天性甲状腺機能低下症（クレチン症）などの内分泌疾患を早期に発見するために、先天性代謝異常等検査を行っています。\nこれらの疾患を放っておくと、生まれた時は健康に見えても、身体障害や知的障害が発生したり、時には生命の危険にさらされたりする場合もあります。しかし、疾患を早期に発見し、適切な治療を続けることで、障害などの発生を未然に防ぐことができます。",
+  "support": {
+    "description": "赤ちゃんの病気の早期発見・早期治療のために先天性代謝異常等の病気の検査を行っています。これらの病気は心身の発達に必要なある種の酵素が生まれつき欠けていたり、ホルモン合成の異常が原因でおこるものです。また、これらの病気は放置していると心身の発達の妨げとなりますが、早期に発見し治療することで発症を防ぐことができます。\n出産した病院から結果をお知らせします。",
+    "materiallySupport": "赤ちゃんの病気の早期発見・早期治療のために先天性代謝異常等の病気の検査を行っています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2020-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

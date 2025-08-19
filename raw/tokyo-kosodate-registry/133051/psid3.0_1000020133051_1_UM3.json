@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "133051;日の出町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "町民課 窓口サービス係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133051",
+    "psid": "psid3.0+1000020133051+1+UM3"
+  },
+  "belongings": "・出生届（出生証明書付）¥n・母子健康手帳",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡日の出町大字平井2780番地",
+    "contactComment": "午前8時30分から午後5時15分(土曜・日曜・祝日・年末年始を除く)",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "町民課 窓口サービス係",
+    "contactPhone": "042-588-4108",
+    "contactUrl": null,
+    "zipCode": "1900192"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "戸籍の届出　出生届¥n出生届¥n届出人¥n父または母¥n¥n届出期間¥nお子さんが生まれた日を含め14日以内¥n¥n※14日目が役場の閉庁日に当たるときは、翌開庁日が届出期間の末日となります。¥n¥n届出地¥n父母の本籍地または住所地、子の出生地のいずれかの役所の戸籍担当課¥n受付時間¥n平日　午前8時30分から午後5時15分¥n¥n※開庁時間内に届出ができない場合¥n¥n休日や時間外に届出をする場合、届書は宿直がお預かりするだけになります。記入漏れ、記入誤り、必要書類の不足等があった場合には、後日来庁していただくことがありますので、必ず、平日昼間連絡の取れる電話番号を届書に記入してください。¥n¥n児童手当、子ども医療証、国民健康保険等の諸手続きや、母子健康手帳への出生届出済証明は開庁時間内に窓口でお手続きください。¥n¥n必要書類¥n・出生届（出生証明書付）¥n¥n・母子健康手帳",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出生届",
+    "shortName": "出生届"
+  },
+  "localGovernmentLink": {
+    "title": "戸籍の届出　出生届",
+    "uri": "https://www.town.hinode.tokyo.jp/0000001523.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "日の出町"
+  },
+  "procedureCounter": "父母の本籍地または住所地、子の出生地のいずれかの役所の戸籍担当課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": "平日　午前8時30分から午後5時15分¥n¥n※開庁時間内に届出ができない場合¥n休日や時間外に届出をする場合、届書は宿直がお預かりするだけになります。記入漏れ、記入誤り、必要書類の不足等があった場合には、後日来庁していただくことがありますので、必ず、平日昼間連絡の取れる電話番号を届書に記入してください。¥n児童手当、子ども医療証、国民健康保険等の諸手続きや、母子健康手帳への出生届出済証明は開庁時間内に窓口でお手続きください。",
+    "fromHM": "08:30",
+    "fromYMD": null,
+    "toHM": "17:15",
+    "toYMD": null
+  },
+  "procedurePersons": "父または母",
+  "regulation": {
+    "regulationArticle": "第49条、第52条",
+    "regulationName": "戸籍法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "出生届とは、生まれてきたお子さんの氏名等を戸籍に記載するための手続きです。¥n戸籍に記載されることで、生まれてきたお子さんの親族関係が公的に証明されます。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "父または母"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "平日　午前8時30分から午後5時15分",
+    "fromHM": "08:30",
+    "toHM": "17:15"
+  }
+}

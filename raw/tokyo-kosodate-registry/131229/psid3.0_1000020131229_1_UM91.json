@@ -1,0 +1,135 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て施設支援課私立 保育所係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+1+UM91"
+  },
+  "belongings": "（1）葛飾区認可外保育施設等利用料助成金申請書（※保護者が記入）\n（2）特定子ども・子育て支援の提供に係る領収証兼特定子ども・子育て支援提供証明書（※事業者が発行）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区立石5-13-1　葛飾区役所4階　401番子育て支援窓口",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て施設支援課私立 保育所係",
+    "contactPhone": "03-5654-8297",
+    "contactUrl": null,
+    "zipCode": "1248555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "葛飾区立石5-13-1",
+    "implementationName": "葛飾区役所子育て施設支援課 私立保育所係　認可外助成金担当"
+  },
+  "institutionName": {
+    "canonicalName": "認可外保育施設一覧",
+    "shortName": "認可外保育施設"
+  },
+  "localGovernmentLink": {
+    "title": "認可外保育施設",
+    "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1030197/1021308/1021371/1021546.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "（1）葛飾区認可外保育施設等利用料助成金申請書（※保護者が記入）\n（2）特定子ども・子育て支援の提供に係る領収証兼特定子ども・子育て支援提供証明書（※事業者が発行）\n上記2点の原本を提出してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": "2024-04-12"
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "幼児教育・保育の無償化対象施設の一覧（公示）",
+      "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1030197/1021308/1021720.html"
+    },
+    {
+      "title": "令和5年度葛飾区認可外保育施設利用料助成金",
+      "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1002333/1016167.html"
+    },
+    {
+      "title": "施設等利用給付認定（新2号・新3号）の手続き",
+      "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1030197/1021308/1021371/1021439.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "認可外保育施設とは、公的助成の有無や事業規模などにかかわらず、児童福祉法、もしくは認定こども園法に基づく認可を受けていない、お子さんを預かる施設・サービスの総称で、保育の内容や料金設定などは施設によりさまざまです。",
+  "support": {
+    "description": "対象経費\n対象施設に支払った保育料（利用料）\n※保育の必要性の事由で利用した場合のみ申請が可能です。\n※英会話等の受講料、入会金、入園料、日用品、文具費、行事参加費など実費徴収及び個人的な経費は含みません。\n\n保育料の助成額　※申請が必要です！\nA 一人当たり月額42,500円上限（新2号認定児童、新3号認定児童ともに同額です）\nB 新2号認定児童は月額37,000円上限、新3号認定児童は月額42,000円上限（120時間未満の月極め契約や一時的な利用の場合）",
+    "materiallySupport": null,
+    "monetarySupport": "保育料の助成額\nA 一人当たり月額42,500円上限\nB 新2号認定児童は月額37,000円上限、新3号認定児童は月額42,000円上限"
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "以下の要件を全て満たす方\n（1）葛飾区在住で、3～5歳児クラスの児童または0～2歳児クラスのうち非課税世帯の児童であること\n（2）葛飾区において保育の必要性の認定（新2号認定または新3号認定）を受けていること\n（3）A：対象施設のうち、ベビーホテルと120時間以上の月極め契約をしている場合⇒助成額A\n　　  B：対象施設のうち、事業所内、院内、ベビーシッターを利用またはベビーホテルと120時間未満の月極め契約や一時的な利用の場合⇒助成額B\n（4）認可保育所・小規模保育事業所等に在籍していないこと\n（5）この助成金のほかに利用料に係る助成を受けていないこと\n（6）保育料を滞納せずに支払っていること"
+  },
+  "updateDate": "2024-01-22",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

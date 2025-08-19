@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132187;福生市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子ども育成課　保育・幼稚園係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132187",
+    "psid": "psid3.0+8000020132187+1+UM83"
+  },
+  "belongings": null,
+  "capacity": "・すみれ保育園は、一時預かり専用に1日2名分を確保しています。\n・その他の保育園は、定員に空きがある場合や欠席により空きがある場合など、受入可能な場合に利用できます。",
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都福生市本町5",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子ども育成課　保育・幼稚園係",
+    "contactPhone": "042-551-1780",
+    "contactUrl": null,
+    "zipCode": "1978501"
+  },
+  "cost": "2500",
+  "costConditions": "児童1人につき　日額2,500円（4時間未満1,250円）\n≪注意≫\n・保育料には昼食、おやつ代を含みます。\n・保育料は申請時にお支払いください。\n・生活保護世帯及び市民税非課税世帯は免除となります。",
+  "description": "一時預かりとは\n保護者が育児疲れ、仕事、出産、病気、冠婚葬祭等の理由で、子どもが一時的に保育を必要とするとき、保育園でお子さんをお預かりします。\n\n対象児童\n次のいずれの要件も満たす児童\n・市内在住\n・生後57日から小学校就学前まで\n・保護者の事情により一時的に保育を必要とする。\n≪注意≫\n・里帰り出産により一時的に市内に居住している場合も利用できます。\n・受入月齢は利用する保育園により異なります。\n・病気療養中やお子さんを安全にお預かりすることが困難であると判断したときは利用できません。\n\n保育日数と時間\n・日数：週3日以内（複数の保育園で利用する場合も合計で週3日以内）\n・時間：午前7時から午後6時までのうち、8時間以内\n\n利用方法\n保護者の皆さんが直接保育園に連絡して利用の調整をしてください。\n≪注意≫　\n・原則として希望する日の7日前までにご連絡ください。ただし、急遽利用する必要が生じたときなどはご相談ください。\n・初回利用時は、お子さんを安全にお預かりするために事前面談が必要となります。\n・利用日時が決まったときは、事前に「一時預かり事業利用申込書」を利用する保育園にご提出ください。\n・保育園の受入れ態勢が整わないことや、お子さんの年齢・状態等によって、受入れができない場合があります。\n\n保育料\n児童1人につき　日額2,500円（4時間未満1,250円）\n ≪注意≫\n・保育料には昼食、おやつ代を含みます。\n・保育料は申請時にお支払いください。\n・生活保護世帯及び市民税非課税世帯は免除となります。\n\n定員\n・すみれ保育園は、一時預かり専用に1日2名分を確保しています。\n・その他の保育園は、定員に空きがある場合や欠席により空きがある場合など、受入可能な場合に利用できます。\n添付ファイル\n一時預かり事業利用申込書（Excel版） （Excel 181.5KB）;\n一時預かり事業利用申込書（PDF版） （PDF 127.6KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/591/300701shinseisyo2.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "連続利用は5日まで。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "福生市牛浜8番地",
+    "implementationName": "病児保育室 あんず（しみず小児科・内科クリニックに併設）"
+  },
+  "institutionName": {
+    "canonicalName": "一時預かり（一時保育）",
+    "shortName": "一時預かり保育"
+  },
+  "localGovernmentLink": {
+    "title": "一時預かり保育",
+    "uri": "https://www.city.fussa.tokyo.jp/kofukunavi/1012674/1012812.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-16",
+    "updater": "福生市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "保護者の皆さんが直接保育園に連絡して利用の調整をしてください。\n≪注意≫　\n・原則として希望する日の7日前までにご連絡ください。ただし、急遽利用する必要が生じたときなどはご相談ください。\n・初回利用時は、お子さんを安全にお預かりするために事前面談が必要となります。\n・利用日時が決まったときは、事前に「一時預かり事業利用申込書」を利用する保育園にご提出ください。\n・保育園の受入れ態勢が整わないことや、お子さんの年齢・状態等によって、受入れができない場合があります。",
+  "procedurePeriod": {
+    "conditions": "原則として希望する日の7日前までにご連絡ください。ただし、急遽利用する必要が生じたときなどはご相談ください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第7項、第21条の9、第59条第10号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保護者のパート就労や病気等による緊急時、育児疲れなどのリフレッシュのために、家庭において保育を受けることが一時的に困難となったお子さんを、保育園、幼稚園、地域子育て支援拠点などで一時的にお預かりしています。",
+  "support": {
+    "description": "保育日数と時間\n・日数：週3日以内（複数の保育園で利用する場合も合計で週3日以内）\n・時間：午前7時から午後6時までのうち、8時間以内",
+    "materiallySupport": "保育日数と時間\n・日数：週3日以内（複数の保育園で利用する場合も合計で週3日以内）\n・時間：午前7時から午後6時までのうち、8時間以内",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後57日から小学校就学前まで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象児童\n次のいずれの要件も満たす児童\n・市内在住\n・生後57日から小学校就学前まで\n・保護者の事情により一時的に保育を必要とする。"
+  },
+  "updateDate": "2020-01-10",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "午前7時から午後6時までのうち、8時間以内",
+    "fromHM": "07:00",
+    "toHM": "18:00"
+  }
+}

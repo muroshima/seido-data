@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健所保健予防課保健予防係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+12+UM54"
+  },
+  "belongings": "母子手帳",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健所保健予防課保健予防係",
+    "contactPhone": "042-725-5422",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "BCG予防接種が集団接種から個別接種に変わりました\nBCG予防接種は、2015年4月1日から医療機関での個別接種に変更となりました。\n\n結核、BCGワクチンについて\n結核は結核菌の感染で起こります。日本では昔に比べると結核患者は減少しましたが、毎年2万人近い患者が発生しています。乳幼児は結核に対する抵抗力が弱いので、全身性の結核症にかかったり、結核性髄膜炎にかかることもあり、重い後遺症を残す可能性もあります。\nBCG接種による結核予防発病効果は以下のようなものです。\n\n適切に行われれば結核の発病を、接種しなかった場合の4分の1くらいにおさえます。\n結核性髄膜炎や粟粒結核など小児の重篤な結核の発病予防には特に効果は確実です。\n一度接種すればその効果は10～15年程度持続します。\n\nその他の定期予防接種について\nヒブ\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1154.html\n\n小児用肺炎球菌\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1151.html\n\nB型肝炎\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1177.html\n\nロタウイルス感染症\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/8166.html\n\n四種混合<DPT-IPV>(ジフテリア、百日せき、破傷風、不活化ポリオ)\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1189.html\n\n不活化ポリオ\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1162.html\n\n麻しん風しん<MR>\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1158.html\n\n水痘(水ぼうそう)\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1170.html\n\n日本脳炎\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1159.html\n\n二種混合<DT>(ジフテリア、破傷風)\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1160.html\n\n子宮頸がん予防ワクチン（HPVワクチン）\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1164.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "個別通知時期\n生後4か月になる月の末ごろ",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "町田市の指定医療機関（以下のページをご覧ください）\n定期予防接種の実施医療機関\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1155.html\n\n八王子市・日野市・多摩市・稲城市・相模原市内の指定医療機関（以下のページをご覧ください）\n小児定期予防接種の相互乗入れを実施しています\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1153.html\n\n町田市・八王子市・日野市・多摩市・稲城市・相模原市内の指定医療機関以外（以下のページをご覧ください）\n町田市外で子どもの定期予防接種を希望される方へ\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/7807.html"
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "BCG"
+  },
+  "localGovernmentLink": {
+    "title": "BCG",
+    "uri": "https://kosodate-machida.tokyo.jp/mokuteki/1/10/kakusyuyobousessyu/2271.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "小児任意予防接種費助成要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "国立感染症研究所・感染症情報センター「予防接種のページ」（外部サイト",
+      "uri": "http://idsc.nih.go.jp/vaccine/vaccine-j.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。現在、定期接種以外で小学校就学前のお子さんが接種できるワクチンとしては、おたふくかぜ、インフルエンザなどがあります。このうち町田市では、一部の任意予防接種に対して、接種費用を助成しています。接種するかどうかについては、かかりつけ医とご相談のうえ、保護者の判断により決めてください。「結核、BCGワクチン」について：結核は結核菌の感染で起こります。日本では昔に比べると結核患者は減少しましたが、毎年2万人近い患者が発生しています。乳幼児は結核に対する抵抗力が弱いので、全身性の結核症にかかったり、結核性髄膜炎にかかることもあり、重い後遺症を残す可能性もあります。BCG接種による結核予防発病効果としては、適切に行われれば結核の発病を、接種しなかった場合の4分の1くらいにおさえます。結核性髄膜炎や粟粒結核など小児の重篤な結核の発病予防には特に効果は確実です。一度接種すればその効果は10～15年程度持続します。",
+  "support": {
+    "description": "接種回数\n1回",
+    "materiallySupport": "接種回数\n1回",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "1歳未満",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "1歳未満（標準的な接種期間は生後5か月以上8か月未満）"
+  },
+  "updateDate": "2020-09-01",
+  "useConsiderationFlag": true,
+  "utilization": "事前に医療機関へ予約し、母子手帳を持参して接種してください。\n母子手帳の持参が無い場合は、原則として接種できません。\n\n必要に応じて、髪をくくるゴム等をご用意ください。\n髪の長いお母様の場合、ワクチンが乾くまで待つ間に接種液が付着する恐れがあります。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "診療時間等はこちらをご覧ください\n町田市医師会ホームページ（外部サイト）\nhttp://www.machida.tokyo.med.or.jp/?page_id=13\n\n各医療機関の情報を掲載しています。",
+    "fromHM": null,
+    "toHM": null
+  }
+}

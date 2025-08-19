@@ -1,0 +1,118 @@
+{
+  "area": {
+    "areaCode": "133035;瑞穂町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": null,
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133035",
+    "psid": "psid3.0+1000020133035+1+UM69"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡瑞穂町大字箱根ケ崎2335番地",
+    "contactComment": "受付時間 平日の午前8時30分から午後5時まで",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "協働推進部 安全・安心課 安全係;https://www.town.mizuho.tokyo.jp/dept/180000/120500/120302/index.html",
+    "contactPhone": "042-557-7610",
+    "contactUrl": "https://www.town.mizuho.tokyo.jp/inquiry/mailform120302.html?PAGE_NO=8625",
+    "zipCode": "1901292"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "「ちょこっと共済」とは\n「ちょこっと共済」は、東京都の市町村の住民が会費を出し合い、交通事故によるケガでの入院・通院日数に応じて、見舞金を受けられる助け合いの制度です。\n見舞金の請求について\n見舞金の請求には、交通事故証明書や、ケガの治療に係る診断書等が必要です。\n必要な書類は交通事故の状況により異なるので、詳しくは下記へお問い合わせください。\n\n交通事故の当事者になった時は、必ず警察に届け出ましょう。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "毎年4月1日から翌年3月31日までの1年間\n\n※4月1日以降に加入申込みをした場合は、申込日の翌日が共済期間開始日となります。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の遺児の方への金銭的支援",
+    "shortName": "みんなで一緒に。ちょこっとサイズのたしかな安心。交通災害共済「ちょこっと共済」に加入を！"
+  },
+  "localGovernmentLink": {
+    "title": "みんなで一緒に。ちょこっとサイズのたしかな安心。交通災害共済「ちょこっと共済」に加入を！",
+    "uri": "https://www.town.mizuho.tokyo.jp/kankyo/004/006/p008625.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "瑞穂町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "金融機関窓口\n加入申込書に必要事項を記入の上、町内の金融機関窓口（郵便局を除く）でお申し込みください。\n\n加入申込書付パンフレットは、広報みずほ2月号と同時に各家庭に配付します。\n瑞穂町役場と、町内金融機関の窓口にも加入申込書付パンフレットを設置しますのでご利用ください。\n\nインターネット\nインターネットでも申込みができます。詳細はちょこっと共済のホームページをご確認ください。\nchokottokyosai.jp/;https://chokottokyosai.jp/（外部リンク）",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "「ちょこっと共済」は、東京都の市町村の住民が会費を出し合い、交通事故によるケガでの入院・通院日数に応じて、見舞金を受けられる助け合いの制度です。見舞金の請求には、交通事故証明書や、ケガの治療に係る診断書等が必要です。",
+  "support": {
+    "description": "選べる2コース制\nAコース…年額1,000円の会費で 最高300万円の見舞金\nBコース…年額500円の会費で 最高150万円の見舞金\n\nさらに、どちらのコースも、会員が交通災害で死亡した際に中学生以下の子がいる場合、年額12万円の交通遺児年金が支給されます。",
+    "materiallySupport": null,
+    "monetarySupport": "Aコース…年額1,000円の会費で 最高300万円の見舞金,Bコース…年額500円の会費で 最高150万円の見舞金,会員が交通災害で死亡した際に中学生以下の子がいる場合、年額12万円の交通遺児年金"
+  },
+  "tag": {
+    "categoryCode": null,
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": null
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "瑞穂町に住民登録をしている方なら、どなたでも加入できます。\n\n次の方は町が会費を負担し、Bコースに加入しています。\n瑞穂町では、次の条件に該当する方の会費を公費で負担し、ちょこっと共済のBコースに加入しています。\n\n小・中学生\n4月1日までに70歳以上になっている方\n生活保護を受けている方\n身体障害者手帳または愛の手帳をお持ちの方\n瑞穂町消防団員（ただし、東京都の市町村に住民登録のある方）\n瑞穂町交通安全推進協議会委員（ただし、瑞穂町に住民登録のある方）\n\nAコースに変更したい場合は、個人負担でBコースの加入申込みをすれば、公費加入の会費と合算されてAコースに変更できます。"
+  },
+  "updateDate": "2022-04-15",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

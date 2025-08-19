@@ -1,0 +1,129 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健所保健予防課保健予防係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+17+UM54"
+  },
+  "belongings": "母子健康手帳",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健所保健予防課保健予防係",
+    "contactPhone": "042-725-5422",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "麻しん風しんの予防接種では、原則として麻しん風しん（MR）混合ワクチンを使用します。\n\n・麻しん（はしか）…麻しんウイルスによって引き起こされる感染症で、発熱や咳、鼻水といった風邪のような症状と発しんが現れます。肺炎、脳炎といった重い合併症を発症することもあります。感染経路は、空気感染、飛沫感染が主で、免疫を持っていない人が感染すると90パーセント以上が発症します。従来小児期に感染することが多かったのですが、最近は10代、20代以上での感染が多く見られ、大学を含めて学校閉鎖が相次ぐなど、社会的にも問題となっています。\n・風しん…風しんウイルスの飛沫感染によって発症します。ウイルスに感染してもすぐには症状が出ず、約14～21日の潜伏期間がみられます。その後、麻しんよりも淡い色の赤い発しん、発熱、首の後ろのリンパ節が腫れるなどが主な症状として現れます。\n\nMRのフォロー接種を実施しています\nMRの定期予防接種を受けていない方を対象に、MRワクチンのフォロー接種を2回まで無料で実施しています。\n詳しくは以下のリンク先をご覧ください。\nMR(麻しん風しん混合)定期予防接種を受けていない方へのフォロー接種\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1157.html\n\nその他の定期の予防接種について\nヒブ\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1154.html\n\n小児用肺炎球菌\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1151.html\n\nB型肝炎\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1177.html\n\nロタウイルス感染症\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/8166.html\n\n四種混合<DPT-IPV>(ジフテリア、百日せき、破傷風、不活化ポリオ)\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1189.html\n\n不活化ポリオ\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1162.html\n\nBCG\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1152.html\n\n水痘(水ぼうそう)\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1170.html\n\n日本脳炎\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1159.html\n\n二種混合<DT>(ジフテリア、破傷風)\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1160.html\n\nHPV（子宮頸がん・ヒトパピローマウイルス）\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1164.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "個別通知時期\n第1期…1歳になる月の始めごろ\n第2期…年長児になる年の3月末ごろ\n\n麻しん風しん＜MR＞第3期・第4期予防接種は終了しました。\n麻しん風しん＜MR＞の予防接種は第1期（1歳）と第2期（年長児）の計2回行います。第2期の制度が無かった世代に対し、2回目の接種として第3期（中学1年生）・第4期（高校3年生）を設けていましたが、法の改正により第3期・第4期は2013年3月31日で終了となりました。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "町田市内の医療機関（以下のページをご覧ください）\n定期予防接種の実施医療機関\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1155.html\n\n八王子市・日野市・多摩市・稲城市・相模原市内の指定医療機関（以下のページをご覧ください）\n小児定期予防接種の相互乗入れを実施しています\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/1153.html\n\n町田市・八王子市・日野市・多摩市・稲城市・相模原市内の指定医療機関以外(以下のページをご覧ください)\n町田市外で子どもの定期予防接種を希望される方へ\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/9/7807.html"
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "麻しん風しん<MR>【第2期】"
+  },
+  "localGovernmentLink": {
+    "title": "麻しん風しん<MR>",
+    "uri": "https://kosodate-machida.tokyo.jp/mokuteki/1/10/kakusyuyobousessyu/2277.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "小児任意予防接種費助成要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "厚生労働省ホームページ「麻しん（はしか）に関するQ＆A」（外部サイト）\n国立感染症研究所・感染症情報センター「予防接種のページ」（外部サイト）",
+      "uri": "http://www.mhlw.go.jp/topics/2007/07/tp0710-2.html;http://idsc.nih.go.jp/vaccine/vaccine-j.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。現在、定期接種以外で小学校就学前のお子さんが接種できるワクチンとしては、おたふくかぜ、インフルエンザなどがあります。このうち町田市では、一部の任意予防接種に対して、接種費用を助成しています。接種するかどうかについては、かかりつけ医とご相談のうえ、保護者の判断により決めてください。「麻しん風しんの予防接種」では、原則として麻しん風しん（MR）混合ワクチンを使用します。「麻しん（はしか）」は、麻しんウイルスによって引き起こされる感染症で、発熱や咳、鼻水といった風邪のような症状と発しんが現れます。肺炎、脳炎といった重い合併症を発症することもあります。",
+  "support": {
+    "description": "接種回数：計2回",
+    "materiallySupport": "接種回数：計2回",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "【第2期】\n年長児相当（5歳以上7歳未満かつ小学校就学前1年間）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 5,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 7,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "【第2期】\n年長児相当（5歳以上7歳未満かつ小学校就学前1年間）"
+  },
+  "updateDate": "2020-09-01",
+  "useConsiderationFlag": true,
+  "utilization": "事前に医療機関へ予約し、母子健康手帳を持参して接種してください。\n\n母子健康手帳の持参が無い場合は、原則として接種できません。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "診療時間等はこちらをご覧ください\n町田市医師会ホームページ（外部サイト）\nhttp://www.machida.tokyo.med.or.jp/?page_id=13\n\n各医療機関の情報を掲載しています。",
+    "fromHM": null,
+    "toHM": null
+  }
+}

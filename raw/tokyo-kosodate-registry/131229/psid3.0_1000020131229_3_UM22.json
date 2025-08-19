@@ -1,0 +1,139 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て政策課 管理係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+3+UM22"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区立石5-13-1　葛飾区役所4階　401番子育て支援窓口",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て政策課 管理係",
+    "contactPhone": "03-5654-8293",
+    "contactUrl": null,
+    "zipCode": "1248555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関する金銭的支援",
+    "shortName": "マタニティパス"
+  },
+  "localGovernmentLink": {
+    "title": "マタニティパス",
+    "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1015907.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": "子育て政策課,南新宿児童館,小菅児童館,子ども未来プラザ西新小岩,子ども未来プラザ東四つ木,子ども未来プラザ鎌倉,新水元児童館,白鳥児童館,子ども家庭支援課,金町保健センター,新小岩保健センター,水元保健センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "・ゆりかご葛飾",
+      "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1014924.html"
+    },
+    {
+      "title": "・児童館・プラザでのマタニティパスの発行について",
+      "uri": "https://www.city.katsushika.lg.jp/event/1022292/1025734.html"
+    },
+    {
+      "title": "・妊娠届出と母子健康手帳の交付",
+      "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1002071.html"
+    },
+    {
+      "title": "・出産子育て応援事業～あなたの出産・子育て応援します～",
+      "uri": "https://www.city.katsushika.lg.jp/kurashi/1000061/1003783/1002446.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "葛飾区では、妊娠をお祝いするとともに、公共交通機関の利用を中心とした妊婦の外出支援を幅広く行うため、ご自身の交通系ICカード（モバイル版含む）へのチャージ額を交付します。",
+  "support": {
+    "description": "交通系ICカード（モバイル版含む）へのチャージ額6000円分を交付します。",
+    "materiallySupport": null,
+    "monetarySupport": "交通系ICカード（モバイル版含む）へのチャージ額6000円分を交付します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "親子健康手帳（母子健康手帳）の交付を受けてから1年を経過していない方\n（他区市町村で母子健康手帳の交付を受け、葛飾区に転入した方も対象になります。）\n（海外からの転入等の関係で、お子様が生まれてから葛飾区で親子健康手帳（母子健康手帳）の交付を受けた方は、お子様が1歳未満であることも要件となります。"
+  },
+  "updateDate": "2024-03-15",
+  "useConsiderationFlag": false,
+  "utilization": "申請期間\n親子健康手帳（母子健康手帳）の交付を受けてから1年を経過しない期間\n\n受取手順（10月1日から変わりました！）\n\n（1）交付窓口で、マタニティパス申請フォームに繋がるQRコードが記載されている「マタニティパス事業案内文」をお受け取りください。\n\n・既に親子健康手帳（母子健康手帳）交付済みの方につきましては、お持ちの親子健康手帳（母子健康手帳）を持参ください。\n\n（2）「マタニティパス事業案内文」に記載のQRコード先の電子申請フォームから必要事項を記入の上、申請をお願いします。\n\n・原則対象者（妊婦等）ご本人がご申請ください。やむを得ず代理の申請をする場合、住民票上同一世帯のご家族の方がご申請ください。\n\n・申請の際、下記（5）のチャージ金額受け取りの際に必要となる「お客様番号」をご自身で決めていただきます。「お客様番号」は誤受取防止のため、下記（4）の通知には記載されていません。忘れないようメモ等で保管ください。\n※メールアドレスの入力ミスが多く発生しております。ご注意下さい。\n\n（3）区で申請受付後、申請情報の審査を行います。\n\n（4）審査完了後、株式会社セブン・ペイメントサービスからチャージ金額（6000円分）受け取りに必要な番号等がメール等で通知されます。\n\n・申請から番号等の送付まで、2週間程度お時間をいただきます。\n\n・メール不通防止のため、迷惑メールの設定の解除や「＠7ps-info.jp」のドメイン受信設定をお願いします。\n\n（4）上記（5）の通知及びお手持ちの交通系ICカード（モバイル版含む）をお持ちの上、お近くのセブン銀行ATMでチャージ金額をお受け取りください。\n\n※チャージ金額の受け取りには期限がございます。（4）の通知に記載の受取期限までにセブン銀行ATMにてチャージ金額をお受け取りください。\n\n・お近くのセブン銀行ATM及びATMの操作方法等詳しくは下記リンク先（セブン銀行HP、セブン・ペイメントサービスHPをご覧ください。）\n\n・お近くのセブン銀行ATMはこちら！（セブン銀行HP）（外部リンク）;https://location.sevenbank.co.jp/sevenbank/\n\n・セブン銀行ATMの操作方法はこちら！（セブン・ペイメントサービスHP）（外部リンク）;https://www.7ps.jp/lp-denshi/",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

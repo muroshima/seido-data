@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131083;江東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "深川図書館",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131083",
+    "psid": "psid3.0+6000020131083+1+UM105"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": null,
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "江東区内の子育て支援施設、児童館、小学校などを対象に、ご要望に応じて、読み聞かせボランティアを派遣し、絵本の読み聞かせや紙芝居、パネルシアターなどを行う出張おはなし会を実施します。\n「出張おはなし会依頼書」に必要事項をご記入のうえ、深川図書館にFAXを送信してください。またはお近くの図書館に直接ご持参ください。\n\n出張おはなし会依頼書は、下記のPDFをダウンロードしてご利用ください。\n出張おはなし会依頼書【PDF】（121KB）;https://www.koto-lib.tokyo.jp/Portals/0/images/kakukan/fukagawa/%E5%87%BA%E5%BC%B5%E3%81%8A%E3%81%AF%E3%81%AA%E3%81%97%E4%BC%9A%E4%BE%9D%E9%A0%BC%E6%9B%B8%EF%BC%88%E4%BF%AE%E6%AD%A3%E7%89%88%EF%BC%89.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "図書館の児童サービス（ブックスタートなど）",
+    "shortName": "出張おはなし会"
+  },
+  "localGovernmentLink": {
+    "title": "児童サービス",
+    "uri": "https://www.koto-lib.tokyo.jp/viewer/info.html?idSubTop=0&id=114#gakkomuke"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-01",
+    "updater": "江東区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "江東区内の子育て支援施設、児童館、小学校などを対象に、ご要望に応じて、読み聞かせボランティアを派遣し、絵本の読み聞かせや紙芝居、パネルシアターなどを行う出張おはなし会を実施します。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内の子育て支援施設、児童館、小学校など"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

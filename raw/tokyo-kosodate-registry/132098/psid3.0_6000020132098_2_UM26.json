@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども生活部子ども総務課手当・医療費助成係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+2+UM26"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども生活部子ども総務課手当・医療費助成係",
+    "contactPhone": "042-724-2139",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/6",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "児童育成手当\n\n更新の手続きは？\n毎年6月初旬に児童育成手当を受給している方へ現況届を送付しております。\n現況届等の書類を6月30日までに直接ご持参いただくか又は郵送（消印有効）にてご提出ください。\n現況届の提出がない場合は、6月分（10月振込予定）からの手当が受けられなくなります。\n・子ども総務課 手当・医療費助成係へご持参ください。各市民センター等での受付は行いません。\n・添付書類の提出が必要な場合は、現況届に提出書類の記載がありますのでご確認下さい。\n\nその他の届出(受給資格喪失・変更について)\n以下の添付ファイルに記載された事項に該当する場合、速やかに届出をしてください。\n状況により添付書類が必要な場合があります。届け出が必要かどうか迷う場合は子ども総務課までご連絡ください。届出が遅れた場合、過払いとなった手当は返還していただくことになりますのでご注意ください。\nその他の届出(受給資格の喪失・変更について)(PDFファイル:141.6KB)\nhttps://kosodate-machida.tokyo.jp/material/files/group/5/hitorioya_jyukyuutyuunokatahe.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "振込はいつ？\n2月・6月・10月の12日 \n初めて認定になった場合など例外があります\n\n支給が開始になるのは？\n申請の翌月分から支給となります",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "児童扶養手当",
+    "shortName": "児童育成手当"
+  },
+  "localGovernmentLink": {
+    "title": "児童育成手当",
+    "uri": "https://kosodate-machida.tokyo.jp/mokuteki/2/1/zidouikuseiteate/2331.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": "町田市役所2階の子ども総務課で申請できます。\n各市民センターでの申請はできませんので、ご注意ください。",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第4条～第8条",
+    "regulationName": "児童扶養手当法"
+  },
+  "relatedLink": [
+    {
+      "title": "児童扶養手当\nひとり親家庭等医療費助成制度(マル親医療証)\n町田市ひとり親家庭のしおり",
+      "uri": "https://kosodate-machida.tokyo.jp/mokuteki/2/1/1/2330.html;https://kosodate-machida.tokyo.jp/mokuteki/2/1/2/2329.html;https://kosodate-machida.tokyo.jp/mokuteki/3/1/2332.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童扶養手当は、父母の離婚などにより、父または母と生計を同じくしていないお子さんが養育されている家庭の生活の安定と自立を助け、お子さんが心身ともに健やかに成長するよう役立ててもらうために､父または母､もしくは父または母に代わってお子さんを養育している方に支給されます｡\nまた、ひとり親家庭でなくても、父または母に重度の障がいがある場合には、児童扶養手当が支給されます｡",
+  "support": {
+    "description": "児童1人につき月額 13,500円",
+    "materiallySupport": null,
+    "monetarySupport": "13500"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "078"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "18歳に達する日以降の最初の3月31日までの間にある児童を養育している、ひとり親家庭または父か母が重度の障がいを有する家庭\n・所得限度額を超えないこと（所得限度額表は下記リンクをご覧ください）\n・児童が児童福祉施設等に入所していないこと\n児童育成手当 所得限度額表\nhttps://kosodate-machida.tokyo.jp/soshiki/4/1/6/1/473.html",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "18歳に達する日以降の最初の3月31日までの間にある児童を養育している、ひとり親家庭または父か母が重度の障がいを有する家庭\n・所得限度額を超えないこと（所得限度額表は下記リンクをご覧ください）\n・児童が児童福祉施設等に入所していないこと\n児童育成手当 所得限度額表\nhttps://kosodate-machida.tokyo.jp/soshiki/4/1/6/1/473.html"
+  },
+  "updateDate": "2024-01-31",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て応援課　児童手当係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+8+UM58"
+  },
+  "belongings": "育成手当の申請に必要なもの\n１．申請者名義の金融機関の普通預金通帳、またはキャッシュカード\n２．戸籍謄本（発行後1か月以内のもの・申請者と児童の戸籍が異なる場合は各々1通ずつ必要）\n　　児童扶養手当と同時に申請する場合のみ、戸籍謄本が無料で取得できます。詳細は児童扶養手当のページをご覧ください。戸籍謄本がすぐに取得できない場合は、離婚受理証明書の提出により仮受付は　可能です。\n３．所定の診断書、または身体障害者手帳が必要となる場合があります。\n４．支給要件を確認する証明書、申立書及び民生委員の調査書が必要となる場合があります。\n５．個人番号の確認のため、個人番号の通知カード、または個人番号が記載された住民票の写しまた、　　　　本人確認のため、運転免許証やパスポートなどの本人確認書類ただし、個人番号カードをお持ちの方　　　　　　　は、1枚で個人番号及び本人の確認ができます。詳しくは、お問い合わせください。\n\n障害手当の申請に必要なもの\n１．申請者名義の金融機関の普通預金通帳、またはキャッシュカード\n２．愛の手帳・身体障害者手帳または所定の診断書\n３．個人番号の確認のため、個人番号の通知カード、または個人番号が記載された住民票の写し　また、本人確認のため、運転免許証やパスポートなどの本人確認書類　ただし、個人番号カードをお持ちの方は、1枚で個人番号及び本人の確認ができます。詳しくは、お問い合わせください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区立石5-13-1 葛飾区役所4階 401番子育て支援窓口",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て応援課　児童手当係",
+    "contactPhone": "03-5654-8298",
+    "contactUrl": null,
+    "zipCode": "1248555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の育児に関する金銭的支援",
+    "shortName": "児童育成手当"
+  },
+  "localGovernmentLink": {
+    "title": "児童育成手当",
+    "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1002336/1002413.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": "子育て応援課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "区役所4階子育て応援課児童手当係の窓口に申請してください。\n郵送での申請はできません。\n\n受付時間\n平日は午前8時30分から午後5時まで。ただし水曜日は午前8時30分から午後7時30分まで。\nまた、休日開庁窓口（毎月1回日曜日）のみ午前9時から正午まで開庁しています。\n・夜間延長（毎週水曜日）\n・休日開庁窓口（毎月1回日曜日）の開庁時間",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "夜間延長（毎週水曜日）",
+      "uri": "https://www.city.katsushika.lg.jp/kurashi/1000046/1001406/1001461.html"
+    },
+    {
+      "title": "ひとり親家庭等医療費助成",
+      "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1002341/1002467.html"
+    },
+    {
+      "title": "児童扶養手当",
+      "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1002336/1002415.html"
+    },
+    {
+      "title": "休日開庁窓口の開庁時間と取扱業務",
+      "uri": "https://www.city.katsushika.lg.jp/kurashi/1000046/1001406/1001459.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童の心身の健やかな成長に寄与することを趣旨とし、児童福祉の増進を図ることを目的として、ひとり親家庭の児童（育成手当）、又は障害を持った児童（障害手当）を養育している父母または養育者に対して手当を支給します。",
+  "support": {
+    "description": "手当額（月額）\n\n育成手当\n対象児童1人について：13,500円\n\n障害手当\n対象児童１人について：15,500円\n\n手当はいずれも、認定申請した月の翌月分から支給されます。次のいずれかに該当する場合、支給開始の特例があります。詳しくはお問い合わせください。\n\n・東京都内の区市町村で児童育成手当を受給中の方が転入し、前住所地で児童育成手当が支給された最後の月の翌月15日までに申請した場合\n\n・災害その他やむを得ない事由（離婚等の理由は除く）がある場合、その事由が止んだ日の翌日から起算して15日以内に申請した場合",
+    "materiallySupport": null,
+    "monetarySupport": "手当額（月額）\n\n育成手当\n対象児童1人について：13,500円\n\n障害手当\n対象児童１人について：15,500円"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内にお住まいで、次のいずれかに該当する児童を扶養している方\n\n育成手当\n18歳に達した日以降の最初の３月31日までの間にある児童\n１．父母が離婚した児童\n２．母が婚姻によらないで出生した児童\n３．父または母が死亡した児童\n４．父または母に引き続き1年以上遺棄されている児童\n５．父または母が引き続き1年以上拘禁されている児童\n６．父または母が生死不明である児童\n７．父または母が次のような状態にある児童\n　・身体に重度の障害を有し、常時介護を必要とする状態にあるとき（身体障害者手帳1・2級程度）　　\n　・精神に重度の障害を有し、常時介護を必要とする状態にあるとき\n８．父または母が裁判所からのDV保護命令を受けた児童\n\n障害手当\n20歳未満の児童\n１．知的障害で愛の手帳１～３度程度の児童\n２．身体障害で身体障害者手帳１～２級程度の児童\n３．脳性麻痺または進行性筋収縮の児童\n身体障害者手帳又は愛の手帳未取得の方はお問い合わせください。\n\n所得限度額\n\n・収入の額ではありません。ご注意ください。\n\n|扶養親族の数|本人|\n|:----|:----|\n|0人|3,604,000円|\n|1人|3,984,000円|\n|2人|4,364,000円|\n|3人|4,744,000円|\n|4人|5,124,000円|\n|5人|5,504,000円|\n\n《老人控除対象配偶者または老人扶養親族》\n　 1人につき、10万円加算 \n《特定扶養親族または16歳以上19歳未満の控除対象扶養親族》\n　 1人につき、25万円加算 \n\n対象とする所得の計算方法\n\n対象とする所得＝収入-給与所得控除（営業収入等は必要経費）-8万円-各種控除\n\n各種控除の金額は、次のとおりです。\n\n|障害者控除|270,000円|雑損控除|住民税で控除された額<br>（控除額は人によって<br>異なります）|\n|:----|:----|:----|:----|\n|特別障害者控除|400,000円|医療費控除|住民税で控除された額<br>（控除額は人によって<br>異なります）|\n|寡婦控除|270,000円|配偶者特別控除|住民税で控除された額<br>（控除額は人によって<br>異なります）|\n|ひとり親控除|350,000円|小規模企業共済等掛金控除|住民税で控除された額<br>（控除額は人によって<br>異なります）|\n|勤労学生控除|270,000円|給与所得又は雑所得<br>（公的年金等に係るもの<br>に限る）がある場合<br>（合計額が10万円に満たない<br>場合はその額）|最大100,000円|"
+  },
+  "updateDate": "2024-08-06",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

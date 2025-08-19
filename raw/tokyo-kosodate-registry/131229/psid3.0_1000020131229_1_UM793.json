@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "国保年金課 国民年金係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+1+UM793"
+  },
+  "belongings": "親子健康手帳（母子健康手帳）\n本人確認書類（マイナンバーカード・運転免許証など）\n基礎年金番号が分かる物（年金手帳（基礎年金番号通知書）など）又はマイナンバーの分かる物\n\n※本人以外の方が窓口で手続きする場合、原則本人の委任状が必要です。\n委任状が必要な方は、下記の日本年金機構のホームページから印刷してご使用ください。\nなお、窓口にお越しの際は委任状のほかに、代理人の本人確認書類（マイナンバーカード・運転免許証など）もご持参ください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区立石5-13-1　葛飾区役所3階　315番窓口",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "国保年金課 国民年金係",
+    "contactPhone": "03-5654-8214",
+    "contactUrl": null,
+    "zipCode": "1248555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出産前後の国民年金保険料免除",
+    "shortName": "産前産後期間の国民年金保険料免除制度"
+  },
+  "localGovernmentLink": {
+    "title": "産前産後期間の国民年金保険料免除制度",
+    "uri": "https://www.city.katsushika.lg.jp/kurashi/1000049/1001692/1020150.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": "葛飾区役所　国保年金課　国民年金係（3階315番）,日本年金機構　葛飾年金事務所",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "出産予定日の6か月前から申請が出来ます。出産後も申請が可能です。\nすでに該当期間分の保険料を納付されている場合には、該当期間分の保険料を後日お返しします。\n口座振替やクレジットカード納付で、保険料を前もって納付（前納）している場合は、葛飾年金事務所へお問い合わせください。\n産前産後免除期間中も付加保険料（月額400円）を納付することができます。\n\n申請・問い合わせ\n葛飾区役所　国保年金課　国民年金係（3階315番）　03-5654-8214\n日本年金機構　葛飾年金事務所　03-3695-2181",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第88条の2（保険料の納付義務）",
+    "regulationName": "国民年金法"
+  },
+  "relatedLink": [
+    {
+      "title": "国民年金保険料の産前産後期間の免除制度にかかるQ＆A（外部リンク）",
+      "uri": "https://www.nenkin.go.jp/service/kokunen/menjo/20180810.files/QA.pdf"
+    },
+    {
+      "title": "日本年金機構ホームページ（外部リンク）",
+      "uri": "https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民年金の第1号被保険者が出産した場合には、出産前後の一定期間の国民年金保険料が免除されます。\n出産予定日の６か月前から申請が出来ます。出産後も申請が可能です。\n詳しくは区HP、区又は日本年金機構 葛飾年金事務所までお問合せください。",
+  "support": {
+    "description": "出産予定日又は出産日が属する月の前月から4か月間の国民年金保険料が免除されます。\nなお、多胎妊娠の場合は、出産予定日又は出産日が属する月の3か月前から6か月間の国民年金保険料が免除されます。\n※出産とは、妊娠85日（4か月）以上の出産をいいます。（死産、流産、早産された方を含みます。）",
+    "materiallySupport": null,
+    "monetarySupport": "出産予定日又は出産日が属する月の前月から4か月間の国民年金保険料が免除されます。\nなお、多胎妊娠の場合は、出産予定日又は出産日が属する月の3か月前から6か月間の国民年金保険料が免除されます。\n※出産とは、妊娠85日（4か月）以上の出産をいいます。（死産、流産、早産された方を含みます。）"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "「国民年金第1号被保険者」で出産日が平成31年2月1日以降の方"
+  },
+  "updateDate": "2024-04-22",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

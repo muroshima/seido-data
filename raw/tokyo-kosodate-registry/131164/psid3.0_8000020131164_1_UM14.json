@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康推進課保健指導グループ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+1+UM14"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康推進課保健指導グループ,長崎健康相談所保健指導グループ",
+    "contactPhone": "健康推進課保健指導グループ　電話番号：03-3987-4174,長崎健康相談所保健指導グループ　電話番号：03-3957-1191",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": "無料",
+  "costConditions": null,
+  "description": "生後4か月を迎えるまでの乳児がいるご家庭に保健師や助産師が訪問し、赤ちゃんの体重測定や育児の相談、健診および予防接種や育児支援サービスの情報提供などを行います。必要に応じて生後4か月以降になった場合や里帰り先で訪問をお受けになったかたも、あらためて訪問することができます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+    "shortName": "赤ちゃん訪問"
+  },
+  "localGovernmentLink": {
+    "title": "赤ちゃん訪問",
+    "uri": "https://www.city.toshima.lg.jp/220/kosodate/kosodate/kenko/001357.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/19",
+    "updater": "豊島区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第21条の10の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "生後4か月を迎えるまでの乳児がいるご家庭に保健師や助産師が訪問し、赤ちゃんの体重測定や育児の相談、健診および予防接種や育児支援サービスの情報提供などを行います。必要に応じて生後4か月以降になった場合や里帰り先で訪問をお受けになったかたも、あらためて訪問することができます。",
+  "support": {
+    "description": "体重測定、育児の相談（母乳・ミルクの与え方、スキンケア、他のきょうだいのことなど）、健診・予防接種のお知らせ、ママの健康についてなど。",
+    "materiallySupport": "体重測定、育児の相談（母乳・ミルクの与え方、スキンケア、他のきょうだいのことなど）、健診・予防接種のお知らせ、ママの健康についてなど。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "誕生した赤ちゃん全員"
+  },
+  "updateDate": "2024/08/14",
+  "useConsiderationFlag": false,
+  "utilization": "出生通知票受理後、担当者から訪問日についてご連絡いたします。（ご連絡までに2週間ほどかかります。）出生通知票がお手元にない場合や、早急な訪問をご希望の場合は、直接住民登録地の担当部署へご連絡ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

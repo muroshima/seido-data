@@ -1,0 +1,144 @@
+{
+  "area": {
+    "areaCode": "131229;葛飾区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援課母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131229",
+    "psid": "psid3.0+1000020131229+1+UM16"
+  },
+  "belongings": "1.葛飾区特定不妊治療費助成申請書兼請求書\n（注釈）申請者と配偶者の住所が異なる場合、または事実婚世帯の場合は、申請日から3か月以内に発行された戸籍謄本の写しを添付してください。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　（注釈）東京都で複数回決定を受けている分をまとめてご申請される場合、都の助成対象年度が同一年度であれば、葛飾区の申請書兼請求書は1枚でかまいません。\n\n2.（1）東京都に提出した特定不妊治療費助成事業受診等証明書のコピー\n　（男性不妊治療助成の申請をされる方は（1）（2）の両方が必要です）\n　（2）東京都に提出した精巣内精子生検採取法等受診等証明書のコピー★お手元にない場合は東京都に郵送請求してください。\n\n3.東京都特定不妊治療費助成承認決定通知書（原本）\n（注釈）コピー不可。審査終了後、原本はお返しします。\n（注釈）2の東京都に提出した特定不妊治療費助成事業受診等証明書に基づいて決定された通知書（原本）をご提出ください。\n\n4.その他、事実婚の方で世帯が異なる場合は、都に提出した申立書のコピーが必要です。東京都の申請をされる前に申立書のコピーを必ずお取りください。お手元にない場合は東京都に郵送請求してください。\n\n1の用紙については、子ども家庭支援課母子保健係、各保健センター、堀切区民事務所または高砂区民事務所の窓口にあるほか、下記添付ファイルからダウンロードすることができます。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "葛飾区青戸4-15-14　子ども総合センター内",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援課母子保健係",
+    "contactPhone": "03-3602-1387",
+    "contactUrl": null,
+    "zipCode": "1250062"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": null,
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "特定不妊治療費助成",
+    "shortName": "葛飾区特定不妊治療費助成事業（保険適用開始前対象）"
+  },
+  "localGovernmentLink": {
+    "title": "葛飾区特定不妊治療費助成事業（保険適用開始前対象）",
+    "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1002094.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/04/01",
+    "updater": "葛飾区"
+  },
+  "procedureCounter": "子ども家庭支援課母子保健係、各保健センター、堀切区民事務所または高砂区民事務所",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請書類一式を、子ども家庭支援課母子保健係、各保健センター、堀切区民事務所または高砂区民事務所へ持参するか、子ども家庭支援課母子保健係に郵送してください。\n\n申請期限\n東京都の特定不妊治療費助成の決定を受けた日から起算して1年を経過する日までの間",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "不育症検査の助成制度はありますか。",
+      "uri": "https://www.city.katsushika.lg.jp/faq/1030271/1007657/1008235/1021986.html"
+    },
+    {
+      "title": "東京都福祉局「不妊検査等助成事業の概要」",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/funinkensa/gaiyou.html"
+    },
+    {
+      "title": "不妊治療費の助成制度はありますか。",
+      "uri": "https://www.city.katsushika.lg.jp/faq/1030271/1007657/1008235/1008365.html"
+    },
+    {
+      "title": "不妊相談・不育症相談はどこでできますか。",
+      "uri": "https://www.city.katsushika.lg.jp/faq/1030271/1007657/1008235/1008366.html"
+    },
+    {
+      "title": "よくあるご質問 （PDF 75.7KB）",
+      "uri": "https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/002/094/yokuaru.0505.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "令和4年4月から不妊治療への保険適用が開始されました。\n本事業は保険適用開始前の治療に関連する助成事業です。",
+  "support": {
+    "description": "特定不妊治療受診等証明書に記載された領収金額から都事業の助成金を除いた医療費に対して、1年度あたり15万円を限度に助成します。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　また、東京都の交付決定を男性不妊治療分も含めて受けた方は、1年度あたり20万円を限度に助成します。",
+    "materiallySupport": null,
+    "monetarySupport": "1年度あたり15万を限度に助成\n※東京都の交付決定を男性不妊治療分も含めて受けた方は、1年度あたり20万円を限度に助成"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "000"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "1.東京都の特定不妊治療費助成事業（以下では「都事業」と記載）の交付決定を受けていること\n2.申請日現在、葛飾区内に住所（住民登録）があること\n　・ご夫婦または事実婚の方で住所が異なる場合は、どちらか一方が区内に住所があること\n　・事実婚の方で、両者とも葛飾区内の同一の住所に世帯がある場合は、住民票の続柄に「未届夫」「未届妻」などの記載があること（「同居人」は認められませんのでご注意ください。）\n3.他の市区町村から同じ申請内容で助成を受けていないこと\n4.同年度で上限額を超える助成を受けていないこと（助成対象年度は、東京都承認決定年度に準じます）"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

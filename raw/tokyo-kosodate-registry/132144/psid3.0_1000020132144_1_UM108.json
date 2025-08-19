@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132144;国分寺市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども子育て支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132144",
+    "psid": "psid3.0+1000020132144+1+UM108"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部子ども子育て支援課いずみ児童館",
+    "contactPhone": "042-322-8849",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "本多児童館;https://www.city.kokubunji.tokyo.jp/shisetsu/kosodate/jidoukan/1004135.html\nいずみ児童館;https://www.city.kokubunji.tokyo.jp/shisetsu/kosodate/jidoukan/1004136.html\nにしまち児童館;https://www.city.kokubunji.tokyo.jp/shisetsu/kosodate/jidoukan/1004137.html\nしんまち児童館;https://www.city.kokubunji.tokyo.jp/shisetsu/kosodate/jidoukan/1004138.html\nひかり児童館;https://www.city.kokubunji.tokyo.jp/shisetsu/kosodate/jidoukan/1004139.html\nもとまち児童館;https://www.city.kokubunji.tokyo.jp/shisetsu/kosodate/jidoukan/1004140.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "日曜日，国民の祝日に関する法律（昭和23年法律第178号）に規定する休日，年末年始（12月28日から翌年の1月3日までの日），第四月曜日の10時～13時は休館日",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "児童館",
+    "shortName": "児童館"
+  },
+  "localGovernmentLink": {
+    "title": "児童館",
+    "uri": "https://www.city.kokubunji.tokyo.jp/shisetsu/kosodate/jidoukan/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "国分寺市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": "本人又は保護者",
+  "regulation": {
+    "regulationArticle": "第２条～12条",
+    "regulationName": "国分寺市立児童館条例"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童館は、18歳未満のお子さんに健全な遊びを提供し、健康増進を図るとともに、豊かな情操を育むことを目的としています。\n国分寺市の児童館には、小学校就学前のお子さんが安心して遊べるスペースがあり、またお子さんの年齢に応じた各種イベントなども行っています。\n（イベントの詳細については、国分寺市サイトや市報などでお知らせしています。）",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "0～18歳未満の児童及びその保護者等"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": "利用当日に登録届に記入",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "小学生は18時まで",
+    "fromHM": "10:00",
+    "toHM": "19:00"
+  }
+}

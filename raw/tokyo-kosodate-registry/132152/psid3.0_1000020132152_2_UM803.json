@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132152;国立市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "国立市 子ども家庭部 保育幼児教育推進課 保育・幼稚園係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132152",
+    "psid": "psid3.0+1000020132152+2+UM803"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "国立市富士見台２丁目４７番地の１",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "042-576-2111(内線：139,207,406)",
+    "contactName": "国立市 子ども家庭部 保育幼児教育推進課 保育・幼稚園係 ",
+    "contactPhone": "042-576-2427",
+    "contactUrl": null,
+    "zipCode": "1868501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "・幼稚園とは \n\n幼稚園は学校教育法による幼児教育施設です。\n幼稚園は、義務教育及びその後の教育の基礎を培うものとして、幼児を保育し、幼児の健やかな成長のために適当な環境を与えて、その心身の発達を助長することを目的とした教育施設です。\n・申込み方法 \n\n各幼稚園に直接申し込み\n新入園児募集時期 P28 をご参照ください。\n途中入園を受け付けている園もありますので、ご希望の園に直接ご確認ください。\n・教育時間 \n各幼稚園によって異なりますので、詳細は次頁以降各園の詳細ページをご参照ください。\nまた、定まった曜日に午前保育（9 時～12 時頃）を行う園があります。\n教育時間終了後、預かり保育（料金別途）を実施している幼稚園も増えてきています。保育の必要性の認定（新 2 号認定）を受けると、利用日数×450 円もしくは実際に支払った額とを比較して低い額の方（上限 11,300 円）を上限に補助金の支給があります\n・費用（市内園） \n・入園料 ・・・・・・・・・・・・・・ 各園詳細ページにてご確認ください。\n・保育料月額（私学助成型幼稚園） ・・・ 25,700 円～37,500 円\n※幼児教育無償化により月額 25,700 円を上限として無償化\n・ （施設型給付幼稚園<つぼみ幼稚園・ふたば幼稚園>は利用者負担額）\n・・・ 幼児教育無償化により 0 円\n☆保育料のほか、教材費・施設費・冷暖房費等が別に必要な園があります。詳細は各園に\nお問い合わせください。また幼児教育無償化に加えて、市の補助金を支給いたします。\n詳しくは P17～25 をご覧ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "幼児教育・保育施設の保育料について",
+    "shortName": "国立市内の認定こども園・幼稚園等のご案内（R6）"
+  },
+  "localGovernmentLink": {
+    "title": "国立市内の認定こども園・幼稚園等のご案内（R6）",
+    "uri": "https://www.city.kunitachi.tokyo.jp/material/files/group/41/R6_yochien_shiori.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "国立市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第27条～第30条の2、第24条",
+    "regulationName": "子ども・子育て支援法、児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子ども・子育て支援新制度による給付を受ける幼稚園や認可保育園、認定こども園、地域型保育事業（小規模保育・家庭的保育・居宅訪問型保育・事業所内保育）の保育料（利用者負担額）は、国が定めた額を上限として、国立市が認定区分ごとに、世帯の所得状況、利用時間（標準時間・短時間）などに応じて定めた額となります。\nそれ以外の私学助成の幼稚園や認可外保育施設などの利用料は、施設ごとに定めた額になります。",
+  "support": {
+    "description": "・費用（市内園） \n・入園料 ・・・・・・・・・・・・・・ 各園詳細ページにてご確認ください。\n・保育料月額（私学助成型幼稚園） ・・・ 25,700 円～37,500 円\n※幼児教育無償化により月額 25,700 円を上限として無償化\n・ （施設型給付幼稚園<つぼみ幼稚園・ふたば幼稚園>は利用者負担額）\n・・・ 幼児教育無償化により 0 円\n☆保育料のほか、教材費・施設費・冷暖房費等が別に必要な園があります。詳細は各園に\nお問い合わせください。また幼児教育無償化に加えて、市の補助金を支給いたします。\n詳しくは P17～25 をご覧ください。",
+    "materiallySupport": null,
+    "monetarySupport": "・費用（市内園） \n・入園料 ・・・・・・・・・・・・・・ 各園詳細ページにてご確認ください。\n・保育料月額（私学助成型幼稚園） ・・・ 25,700 円～37,500 円\n※幼児教育無償化により月額 25,700 円を上限として無償化\n・ （施設型給付幼稚園<つぼみ幼稚園・ふたば幼稚園>は利用者負担額）\n・・・ 幼児教育無償化により 0 円\n☆保育料のほか、教材費・施設費・冷暖房費等が別に必要な園があります。詳細は各園に\nお問い合わせください。また幼児教育無償化に加えて、市の補助金を支給いたします。\n詳しくは P17～25 をご覧ください。"
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 5,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

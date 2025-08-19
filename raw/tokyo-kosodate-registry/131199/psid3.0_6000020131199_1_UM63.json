@@ -1,0 +1,141 @@
+{
+  "area": {
+    "areaCode": "131199;板橋区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部 障がいサービス課 障がい相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131199",
+    "psid": "psid3.0+6000020131199+1+UM63"
+  },
+  "belongings": "手当申請に必要なもの\n1.身体障害者手帳、愛の手帳など\n2.本人名義の預金通帳\n3.診断書\n4.年金証書、年金給付額改定通知書など\n5.戸籍謄本\n※申請後、必要な場合に限りご案内します\n6.個人番号・身元確認ができるもの\n障がい者手当等申請時の本人確認;https://www.city.itabashi.tokyo.jp/kenko/shogai/teate/1003217.html",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都板橋区板橋二丁目66番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部 障がいサービス課 障がい相談係",
+    "contactPhone": "03-3579-2362",
+    "contactUrl": "https://www.city.itabashi.tokyo.jp/cgi-crm/CRM030/CRM030_001/G4502500000/1003212",
+    "zipCode": "1738501"
+  },
+  "cost": null,
+  "costConditions": "前年中の受給者の所得が別表2の所得制限基準額を超えた方や 、受給者の配偶者・扶養義務者の所得が別表2の所得制限基準額以上の方は、手当の支給を受けられなくなります。また、所得が別表2の所得要件を満たさないため資格が停止し、再度所得が別表2の所得要件を満たすようになった方は、自動的に再判定するため手続は不要です。",
+  "description": "障害児福祉手当（国制度）\n対象になる方\n次に掲げる重度の障がいがあるため、日常生活において常時介護を必要とする状態にある20歳未満の方\n1.身体障害者手帳1級及び2級の一部若しくは愛の手帳1度及び2度程度の方\n2.1と同等の疾病・精神の障がい\n\n対象にならない方\n1.施設に入所している方\n2.障がいを理由とする公的年金・恩給などを受けている方\n3.所得が一定額以上ある方（別表2参照）\n4.聴覚障がい者で補聴器の使用効果がある方\n障がい者手当の所得制限基準額;https://www.city.itabashi.tokyo.jp/kenko/shogai/teate/1003214.html\n\n手当申請に必要なもの\n1.身体障害者手帳、愛の手帳など\n2.本人名義の預金通帳\n3.診断書\n4.年金証書、年金給付額改定通知書など\n5.戸籍謄本\n※申請後、必要な場合に限りご案内します\n6.個人番号・身元確認ができるもの\n障がい者手当等申請時の本人確認;https://www.city.itabashi.tokyo.jp/kenko/shogai/teate/1003217.html\n\n支払方法\n支給月は、2月・5月・8月・11月です。手当申請翌月分から各支給月の前月分までを、各支給月10日頃に本人口座に振り込みます\n\n手当額（月額）\n15,690円（申請翌月から）　令和6年4月現在\n\nその他\nこの手当は、医師が診断書を審査して支給が決定されます。支給の可否にかかわらず、申請に要した経費は、お客様の負担となりますのでご了承ください。\n本人および扶養義務者等の所得が一定以上あるときは、手当の支給が停止されます。\n扶養義務者等とは、民法上で定める扶養義務者のうち、児童・成人を問わず、障がい者の生計を維持している方です。\n所得は年1回見直され、再び限度額内となった方には支給が再開されます。\n施設を退所された方については、以前受給されていても、再度の新規申請が必要です。（区からのお知らせはありませんのでご注意ください。）\n振込口座の口座種別は普通・当座の2種のみです。\n身体障害者手帳などの申請・更新手続きと各種手当の申請・変更手続きは、別手続きとなります。別途申し出をお願いします。\n\n関連リンク\n手当・年金（障がい）;https://www.city.itabashi.tokyo.jp/kenko/shogai/teate/index.html\n特別障害者手当（国制度）;https://www.city.itabashi.tokyo.jp/kenko/shogai/teate/1003211.html\n東京都福祉保健局のページ（障害児福祉手当）（外部リンク）;http://www.fukushihoken.metro.tokyo.jp/shinsho/teate/jidou.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "障害児福祉手当",
+    "shortName": "障害児福祉手当（国制度）"
+  },
+  "localGovernmentLink": {
+    "title": "障害児福祉手当（国制度）",
+    "uri": "https://www.city.itabashi.tokyo.jp/kenko/shogai/teate/1003212.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-25",
+    "updater": "板橋区"
+  },
+  "procedureCounter": "福祉部 障がいサービス課 障がい相談係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "この手当は、医師が診断書を審査して支給が決定されます。支給の可否にかかわらず、申請に要した経費は、お客様の負担となりますのでご了承ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第3章",
+    "regulationName": "特別児童扶養手当等の支給に関する法律"
+  },
+  "relatedLink": [
+    {
+      "title": "手当・年金（障がい）",
+      "uri": "https://www.city.itabashi.tokyo.jp/kenko/shogai/teate/1003211.html"
+    },
+    {
+      "title": "障がい者手当等申請時の本人確認",
+      "uri": "https://www.city.itabashi.tokyo.jp/kenko/shogai/teate/index.html"
+    },
+    {
+      "title": "特別障害者手当（国制度）",
+      "uri": "http://www.fukushihoken.metro.tokyo.jp/shinsho/teate/jidou.html"
+    },
+    {
+      "title": "障がい者手当の所得制限基準額",
+      "uri": "https://www.city.itabashi.tokyo.jp/kenko/shogai/teate/1003214.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "身体または精神に重度の障がいのある20歳未満の方で、日常生活において常時介護を必要とする方に対し、手当が支給されます。",
+  "support": {
+    "description": "15,690円（申請翌月から）　令和6年4月現在",
+    "materiallySupport": null,
+    "monetarySupport": "15,690円（申請翌月から）　令和6年4月現在"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "20歳未満",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次に掲げる重度の障がいがあるため、日常生活において常時介護を必要とする状態にある20歳未満の方\n\n・身体障害者手帳1級及び2級の一部若しくは愛の手帳1度及び2度程度の方\n・1と同等の疾病・精神の障がい\n・対象にならない方\n・施設に入所している方\n・障がいを理由とする公的年金・恩給などを受けている方\n・所得が一定額以上ある方（別表2参照）\n・聴覚障がい者で補聴器の使用効果がある方\n\n障がい者手当の所得制限基準額;https://www.city.itabashi.tokyo.jp/kenko/shogai/teate/1003214.html"
+  },
+  "updateDate": "2021-04-01",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

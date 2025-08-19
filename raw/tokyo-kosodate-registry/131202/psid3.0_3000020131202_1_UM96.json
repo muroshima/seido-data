@@ -1,0 +1,291 @@
+{
+  "area": {
+    "areaCode": "131202;練馬区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育振興部　学務課　幼稚園係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020131202",
+    "psid": "psid3.0+3000020131202+1+UM96"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都練馬区豊玉北6丁目12番1号",
+    "contactComment": "ファクス：03-3993-1196",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "教育振興部　学務課　幼稚園係",
+    "contactPhone": "03-5984-1347",
+    "contactUrl": "https://www.city.nerima.tokyo.jp/cgi-bin/formmail/formmail.cgi?d=090010030000",
+    "zipCode": "1768501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kyoiku/yochien/shiritsu_annai.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "私学助成（従来制度）の幼稚園一覧",
+    "shortName": "私立幼稚園案内"
+  },
+  "localGovernmentLink": {
+    "title": "私立幼稚園案内",
+    "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kyoiku/yochien/shiritsu_annai.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-25",
+    "updater": "練馬区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "武蔵野音楽大学第一",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/shinshien/shinseidogaiyou.html"
+    },
+    {
+      "title": "旭☆",
+      "uri": "http://www.ooizumi-youchien.com/"
+    },
+    {
+      "title": "江古田☆",
+      "uri": "https://www.ooizumigakuenkindergarten.tokyo/"
+    },
+    {
+      "title": "071KB）",
+      "uri": "http://www.asahi-y.ed.jp/"
+    },
+    {
+      "title": "大泉",
+      "uri": "https://www.ooizumi-kobato.ed.jp/"
+    },
+    {
+      "title": "大泉学園☆",
+      "uri": "http://www.oizumifuji.ed.jp/"
+    },
+    {
+      "title": "大泉小鳩☆",
+      "uri": "http://www.oizumi-bunka-youchien.com/"
+    },
+    {
+      "title": "大泉富士☆",
+      "uri": "http://www.sakuraigakuen.ac.jp/home.htm"
+    },
+    {
+      "title": "　練馬区私立幼稚園ガイド2023（各園紹介）（PDF：6",
+      "uri": "http://www.aiwa-kindergarten.com/"
+    },
+    {
+      "title": "大泉文華",
+      "uri": "http://kita-kato.sakura.ne.jp/"
+    },
+    {
+      "title": "上石神井",
+      "uri": "http://www.kounan-kg.jp/"
+    },
+    {
+      "title": "北町カトリック☆",
+      "uri": "http://sakae.ed.jp/"
+    },
+    {
+      "title": "向南☆",
+      "uri": "https://www.mmjp.or.jp/ssl.inomi.ed.jp/index.html"
+    },
+    {
+      "title": "さかえ☆",
+      "uri": "http://shakujii-minami-youchien.jp/"
+    },
+    {
+      "title": "石神井☆",
+      "uri": "http://www.jufukuji.ed.jp/"
+    },
+    {
+      "title": "石神井南★☆",
+      "uri": "http://www.jufukuji.ed.jp/"
+    },
+    {
+      "title": "寿福寺\t",
+      "uri": "https://www.jyofukdg.com/"
+    },
+    {
+      "title": "寿福寺第二",
+      "uri": "http://www.shirafuji-kg.jp/"
+    },
+    {
+      "title": "浄風☆",
+      "uri": "http://midori.kids.coocan.jp/"
+    },
+    {
+      "title": "白ふじ☆",
+      "uri": "https://www.himawari-susumu.ed.jp/"
+    },
+    {
+      "title": "755KB）",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kyoiku/yochien/shiritsu_annai.files/siritukyoukaipanhu2023.pdf"
+    },
+    {
+      "title": "信愛学舎みどり",
+      "uri": "http://www7b.biglobe.ne.jp/~seisin/"
+    },
+    {
+      "title": "進",
+      "uri": "http://www.sekimachikatoreya.com/"
+    },
+    {
+      "title": "清心☆",
+      "uri": "http://www.sekimachi-shirayuri.ed.jp/"
+    },
+    {
+      "title": "関町カトレヤ☆",
+      "uri": "https://www.doukanyama.ac.jp/takamatsu/"
+    },
+    {
+      "title": "関町白百合",
+      "uri": "http://tagara-yochien.com/"
+    },
+    {
+      "title": "関町ちぐさ",
+      "uri": "http://nakazato-youchien.jp/"
+    },
+    {
+      "title": "高松☆",
+      "uri": "http://www.nanko-kindergarten.ed.jp/"
+    },
+    {
+      "title": "田柄☆",
+      "uri": "http://www.nerimakinder.com/"
+    },
+    {
+      "title": "中里☆",
+      "uri": "http://www.nerima-shiragiku.com/"
+    },
+    {
+      "title": "南光★☆",
+      "uri": "http://nerimahikari.com/"
+    },
+    {
+      "title": "練馬☆",
+      "uri": "http://victor-kinder.ed.jp/"
+    },
+    {
+      "title": "練馬白菊☆",
+      "uri": "https://nerima-fujiyouchien.com/"
+    },
+    {
+      "title": "練馬ひかり☆",
+      "uri": "http://www.houya.ed.jp/"
+    },
+    {
+      "title": "ビクター☆",
+      "uri": "http://www.mizuho-kids.com/"
+    },
+    {
+      "title": "不二☆",
+      "uri": "http://www.minori-kinder.ac.jp/"
+    },
+    {
+      "title": "ほうや",
+      "uri": "http://www.musashino-music.ac.jp/"
+    },
+    {
+      "title": "みずほ",
+      "uri": "http://www.rikkoyouchien.com/"
+    },
+    {
+      "title": "みのり☆",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kyoiku/yochien/nerimakodomoen.html"
+    },
+    {
+      "title": "りっこう★☆",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kyoiku/yochien/shiritsu_annai.files/R604map.pdf"
+    },
+    {
+      "title": "3歳になったら、ようちえんにいこう！（PDF：1",
+      "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kyoiku/yochien/shiritsu_annai.files/nerimap-4c-ol-01.pdf"
+    },
+    {
+      "title": "\t愛和☆",
+      "uri": "http://www.ekodayouchien.com/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "幼稚園には公立の幼稚園と私立の幼稚園があります。\n私立幼稚園には、新制度による給付を受ける幼稚園と、新制度には移行せず、私学助成を受けて運営している幼稚園があります。\n以下は、練馬区内の私学助成を受ける幼稚園の一覧です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-06-05",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

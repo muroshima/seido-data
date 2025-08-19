@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132195;狛江市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部　子ども家庭課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132195",
+    "psid": "psid3.0+8000020132195+1+UM14"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "狛江市和泉本町一丁目1番5号",
+    "contactComment": "電話番号　母子保健係：03-5761-9200（あいとぴあセンター）　児童相談係：03-5761-7990（あいとぴあセンター）",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部　子ども家庭課",
+    "contactPhone": "03-5761-9200,03-5761-7990",
+    "contactUrl": null,
+    "zipCode": "2018585"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "狛江市では、生後４ヶ月までの赤ちゃんがいるすべての家庭を対象に。保健師や助産師（訪問指導員）が訪問させていただいています。対象は生後４か月までの赤ちゃんのいる家庭です。\n訪問までの流れですが、まずは妊娠届出時にお渡しした「母と子の保健バッグ」に入っている「赤ちゃん誕生連絡票」を必要事項をご記入の上ご提出ください。\n連絡票受付後に、訪問を担当する保健師や助産師より、「赤ちゃん誕生連絡票」にご記入いただいた連絡先にお電話いたしますので、訪問日と時間を相談の上決定してください。\n赤ちゃん訪問では、赤ちゃんの体重測定、母乳やミルクに関すること、予防接種や健診、育児の相談やお母さんの健康についての相談、地域の子育て情報などをお知らせします。\n（注）「赤ちゃん誕生連絡票」が届いてからご連絡するまでに時間がかかる場合がありますので、ご心配事やお急ぎの相談がある場合は子ども家庭課までご連絡ください。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "子ども家庭課お問い合わせフォーム 　",
+      "uri": "https://www.city.komae.tokyo.jp/index.cfm/4"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+    "shortName": "こんにちは赤ちゃん事業"
+  },
+  "localGovernmentLink": {
+    "title": "こんにちは赤ちゃん事業",
+    "uri": "https://komae-kosodate.net/article_docs/175.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025-02-27",
+    "updater": "狛江市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第21条の10の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "生後4か月を迎えるまでの乳児がいるご家庭には専門職のほか、研修を受けたスタッフが訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024/09/13",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

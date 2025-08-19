@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "133035;瑞穂町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部 子育て応援課 子育て支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133035",
+    "psid": "psid3.0+1000020133035+2+UM26"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡瑞穂町大字箱根ケ崎2335番地",
+    "contactComment": "受付時間 平日の午前8時30分から午後5時まで",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部 子育て応援課 子育て支援係",
+    "contactPhone": "042-557-7624",
+    "contactUrl": "https://www.town.mizuho.tokyo.jp/inquiry/mailform130151.html?PAGE_NO=6256",
+    "zipCode": "1901292"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "東京都の支援制度です。\nJRでは児童扶養手当受給者および受給者と同一の世帯員に対して、「特定者用の通勤定期券」を発売しています。購入できるのは、特定者資格証明書を交付された方に限ります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "児童扶養手当",
+    "shortName": "ＪＲ通勤定期乗車券の割引"
+  },
+  "localGovernmentLink": {
+    "title": "ＪＲ通勤定期乗車券の割引",
+    "uri": "https://www.town.mizuho.tokyo.jp/kosodate/006/001/p006256.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "瑞穂町"
+  },
+  "procedureCounter": "福祉部 子育て応援課 子育て支援係 電話042-557－7624",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第4条～第8条",
+    "regulationName": "児童扶養手当法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童扶養手当は、父母の離婚などにより、父または母と生計を同じくしていないお子さんが養育されている家庭の生活の安定と自立を助け、お子さんが心身ともに健やかに成長するよう役立ててもらうために､父または母､もしくは父または母に代わってお子さんを養育している方に支給されます｡また、ひとり親家庭でなくても、父または母に重度の障がいがある場合には、児童扶養手当が支給されます｡",
+  "support": {
+    "description": "普通定期運賃の3割引で通勤定期乗車券(通学定期券は不可)が購入できます。",
+    "materiallySupport": "普通定期運賃の3割引で通勤定期乗車券(通学定期券は不可)が購入できます。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "078"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "特定者資格証明書を交付された方に限ります。"
+  },
+  "updateDate": "2022-04-15",
+  "useConsiderationFlag": false,
+  "utilization": "JRみどりの窓口にて、「特定者資格証明書」「特定者用定期乗車券購入証明書」および「定期乗車券購入申込書」（JRみどりの窓口にあります。）を提出して、定期券を購入してください。\n※JR箱根ケ崎駅では購入できませんので、ご注意ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

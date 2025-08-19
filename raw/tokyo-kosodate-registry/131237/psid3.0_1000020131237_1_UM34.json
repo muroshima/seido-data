@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部健康サービス課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM34"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部健康サービス課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "ぴよママ相談\n妊娠中の出産・子育て等に関する様々な不安や悩みを軽減し、安心して出産を迎えていただくため、保健師等の専門職員が妊婦の方全員に面談をする「ぴよママ相談」を行います。妊娠中に「ぴよママ相談」を終了された方には「ぴよママギフト（１万円分）」、「出産応援ギフト」をお渡しします。\n医療機関で妊娠が確認された方は、お住まいの地域の健康サポートセンターへお越しください。来所が難しい場合はご相談ください。https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/shokanichiran.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "月曜日から金曜日の午前8時30分から午後4時30分まで（祝日及び年末年始を除く）",
+    "fromHM": "08:30",
+    "fromYMD": null,
+    "toHM": "16:30",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "お住まいの地域の健康サポートセンター\nhttps://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/shokanichiran.html\n\n妊婦の方ご本人が妊娠届を提出した場合\nその場でぴよママ相談を行います。\n妊婦以外の方が妊娠届を提出した場合\n妊婦の方ご本人に健康サポートセンターにお越しいただき、ぴよママ相談を行います。妊娠届提出時に渡された控えと母子健康手帳、二次元コードが読み取れるスマートフォン等をお持ちください。（「出産応援ギフト」の電子申請をしていただきます。）\n他自治体で妊娠届出書を提出し、江戸川区に転入された妊婦の方\n各健康サポートセンターでぴよママ相談を行います。母子健康手帳を忘れずにご持参ください。"
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関するサポート",
+    "shortName": "ぴよママ相談（妊婦全数面接事業）"
+  },
+  "localGovernmentLink": {
+    "title": "ぴよママ相談（妊婦全数面接事業）",
+    "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/kosodateouennjigyou.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": "お住まいの地域の健康サポートセンターhttps://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/shokanichiran.html",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "妊娠届・親子健康手帳（母子健康手帳）;妊娠届提出時の本人確認について;子育て応援アプリ「ぴよナビえどがわ」",
+      "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/boshitecho.html;https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/ninnshinntodokehonnninnkakuninn.html;https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/piyonabi.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠中の出産・子育て等に関する様々な不安や悩みを軽減し、安心して出産を迎えていただくため、保健師等の専門職員が妊婦の方全員に面談をする「ぴよママ相談」を行います。妊娠中に「ぴよママ相談」を終了された方には「ぴよママギフト（１万円分）」、「出産応援ギフト」をお渡しします。医療機関で妊娠が確認された方は、お住まいの地域の健康サポートセンターへお越しください。来所が難しい場合はご相談ください。",
+  "support": {
+    "description": "「ぴよママギフト（１万円分）」、「出産応援ギフト」",
+    "materiallySupport": null,
+    "monetarySupport": "「ぴよママギフト（１万円分）」10,000、「出産応援ギフト」50,000"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088",
+      "089",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "1.江戸川区に住所を有する妊婦\n2.他自治体で妊娠届出書を提出し、江戸川区に転入した妊婦"
+  },
+  "updateDate": "2024-01-29",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

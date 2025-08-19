@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "133078;檜原村\t",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "やすらぎの里 福祉けんこう課 子育て支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020133078",
+    "psid": "psid3.0+8000020133078+1+UM87"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "FAX 042-519-9789",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "やすらぎの里 福祉けんこう課 子育て支援係",
+    "contactPhone": "042-598-3122",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "月～金曜日\n午前7時～午後7時1時間あたり700円\n上記以外1時間あたり900円\n\n土・日・祝日・年末年始\n終日1時間あたり900円",
+  "description": "障害福祉、児童福祉の事業等がまとめられた冊子を作成したのでお知らせいたします。\nまた、ホームページ以外でも下記の窓口で配布を行っております。\n・やすらぎの里（福祉けんこう課）\n・檜原村役場（村民課）\n\n檜原の障害福祉について\n檜原の障害福祉(ファイル名：syougai-r5.pdf サイズ：1.07MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf\n\n檜原の児童福祉について\n檜原の児童福祉(ファイル名：zidou-r5.pdf サイズ：1.21MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "ファミリー・サポート・センター",
+    "shortName": "ファミリー・サポート・センター事業（村制度）"
+  },
+  "localGovernmentLink": {
+    "title": "ファミリー・サポート・センター事業（村制度） ",
+    "uri": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/zidou-r5.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-25",
+    "updater": "檜原村"
+  },
+  "procedureCounter": "やすらぎの里 福祉けんこう課 子育て支援係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "利用までの流れ（サポートをしてほしいとき）\n①入会されていない方は、センターで会員登録をします。\n②サポートをしてほしい日時が決まったらセンターに電話をください。\n③センターはサポートできる協力会員を紹介します。\n④利用会員は、サポートを受けた後、協力会員に報酬を支払います。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第14項、第21条の9、第59条第12号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "檜原村のファミリー・サポート・センターは、子育ての援助を受けたい人と援助を行いたい人が会員登録をし、援助会員が依頼会員に対してさまざまな育児の手助けをする事業です。",
+  "support": {
+    "description": "・保育園・幼稚園・学校等の送り迎え\n・保育時間外・休園日等の預かり\n・放課後・児童館終了後の預かり\n・冠婚葬祭や子どもの学校行事の際、子どもを預かる\n・その他・原則として子どもの宿泊は行わない",
+    "materiallySupport": "・保育園・幼稚園・学校等の送り迎え\n・保育時間外・休園日等の預かり\n・放課後・児童館終了後の預かり\n・冠婚葬祭や子どもの学校行事の際、子どもを預かる\n・その他・原則として子どもの宿泊は行わない",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "・利用会員（育児のサポートをしてほしい方）→生後 6 か月から小学 4 年生までの子どもを持つ方\n※障害児は小学 6 年生まで\n・協力会員（育児のサポートを行いたい方）→心身共に健康で子育てに意欲のある方（20 歳以上）",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "会員になれる方\n・利用会員（育児のサポートをしてほしい方）→生後 6 か月から小学 4 年生までの子どもを持つ方\n※障害児は小学 6 年生まで\n・協力会員（育児のサポートを行いたい方）→心身共に健康で子育てに意欲のある方（20 歳以上）"
+  },
+  "updateDate": "2023-06-25",
+  "useConsiderationFlag": false,
+  "utilization": "入会されていない方は、センターで会員登録をします。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

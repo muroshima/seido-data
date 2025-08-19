@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "132071;昭島市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子ども家庭センター担当 母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132071",
+    "psid": "psid3.0+8000020132071+1+UM9"
+  },
+  "belongings": "医療機関で支払った費用の領収書（原本）\n母子健康手帳\n印鑑\n申請者名義の預金通帳\n詳しくは、健康課子育て世代包括支援センター係までお問い合わせください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康課子育て世代包括支援センター係",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000053.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "多胎の赤ちゃんを妊娠した妊婦さん（多胎妊婦）は、身体への負担が大きいため、その医療的管理を目的として妊婦健康診査の受診回数が多くなる場合があります。\nそのため、昭島市では、多胎妊婦の健康管理の充実及び経済的負担の軽減等を図るため、妊婦健康診査の費用の一部を補助（償還払い）する事業を開始しました。\n\n対象となる妊婦健康診査は、令和5年4月1日以降に、妊婦健康診査受診票14回分を超えて自費で受診した15回目から19回目の妊婦健康診査で、5回を上限とします。\n\n対象者\n次のすべての要件を満たす多胎妊婦のかた\n1. 令和5年4月1日以降に、15回目から19回目までの妊婦健康診査を受けたかた\n2. 上記1.の妊婦健康診査受診時点で昭島市に住民登録があるかた\n3. 上記1.の妊婦健康診査を日本国内にある医療機関又は助産所において受診し、費用を自己負担したかた（保険診療の自己負担分は対象外です）\n\n補助の額\n15回目以降の各回の妊婦健康診査の受診に要した実費額と東京都地域保健事業連絡協議会において定める統一単価とを比較していずれか少ない方の合計額に相当する額\n（参考）令和5年度の統一単価：5,090円/回\n\n申請期間\n出産（流産及び死産を含む。）をした日の翌日から1年以内\n\n申請方法\n健康課窓口で申請\n下記の必要書類等をお持ちのうえ、保健福祉センター（あいぽっく）;https://www.city.akishima.lg.jp/map/010/050/020/20140816053706.html 内の健康課窓口にて申請をお願いします。\n医療機関で支払った費用の領収書（原本）\n母子健康手帳\n印鑑\n申請者名義の預金通帳\n詳しくは、健康課子育て世代包括支援センター係までお問い合わせください。\n\n郵送で申請\n下記の書類をダウンロードし、必要書類をご準備のうえ、健康課子育て世代包括支援センター係に郵送してください。\n昭島市多胎妊婦健康診査受診料補助金交付申請書\n昭島市多胎妊婦健康診査受診料補助金請求書\n医療機関で支払った費用の領収書と明細書（原本）\n母子健康手帳の表紙、妊婦健康診査の結果が記載されたページの写し\n詳しくは、下記関連ファイル「郵送での償還払いの手続き方法」でご確認してください。\n交付申請書と請求書については記入例があります。\n\n関連ファイル\n郵送での償還払いの手続き方法について（PDF：85KB）;https://www.city.akishima.lg.jp/s049/020/010/050/010/tatainotetudukininnpu.pdf\n(記載例)昭島市多胎妊婦健康診査受診料補助金交付申請書（PDF：84KB）;https://www.city.akishima.lg.jp/s049/020/010/050/010/tataishinnseishkinyurei.pdf\n(記載例）昭島市多胎妊婦健康診査受診料補助金請求書（PDF：111KB）;https://www.city.akishima.lg.jp/s049/020/010/050/010/tataiseikyuushokinyurei.pdf\n昭島市多胎妊婦健康診査受診料補助金交付申請書（PDF：65KB）;https://www.city.akishima.lg.jp/s049/020/010/050/010/tataishinseisho.pdf\n昭島市多胎妊婦健康診査受診料補助金請求書（PDF：60KB）;https://www.city.akishima.lg.jp/s049/020/010/050/010/tataiseikyusho.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊産婦向け健診",
+    "shortName": "多胎妊婦に対する妊婦健康診査受診費用の補助"
+  },
+  "localGovernmentLink": {
+    "title": "多胎妊婦に対する妊婦健康診査受診費用の補助",
+    "uri": "https://www.city.akishima.lg.jp/s049/020/010/050/010/20140917210952.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "昭島市"
+  },
+  "procedureCounter": "健康課子育て世代包括支援センター係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "出産（流産及び死産を含む。）をした日の翌日から1年以内\n必要書類等をお持ちのうえ、保健福祉センター（あいぽっく）;https://www.city.akishima.lg.jp/map/010/050/020/20140816053706.html 内の健康課窓口にて申請\n必要書類をご準備のうえ、健康課子育て世代包括支援センター係に郵送\n",
+  "procedurePeriod": {
+    "conditions": "出産（流産及び死産を含む。）をした日の翌日から1年以内",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "保健福祉センター（あいぽっく）",
+      "uri": "https://www.city.akishima.lg.jp/map/010/050/020/20140816053706.html"
+    },
+    {
+      "title": "郵送での償還払いの手続き方法について（PDF：85KB）",
+      "uri": "https://www.city.akishima.lg.jp/s049/020/010/050/010/tatainotetudukininnpu.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "昭島市では、妊婦健康診査受診票14回分を超えて自費で受診した15回目から19回目の妊婦健康診査で、健診にかかった費用の一部を償還払い（後払い）します。5回を上限とします。",
+  "support": {
+    "description": "補助の額\n15回目以降の各回の妊婦健康診査の受診に要した実費額と東京都地域保健事業連絡協議会において定める統一単価とを比較していずれか少ない方の合計額に相当する額\n（参考）令和5年度の統一単価：5,090円/回",
+    "materiallySupport": null,
+    "monetarySupport": "補助の額\n15回目以降の各回の妊婦健康診査の受診に要した実費額と東京都地域保健事業連絡協議会において定める統一単価とを比較していずれか少ない方の合計額に相当する額\n（参考）令和5年度の統一単価：5,090円/回"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次のすべての要件を満たす多胎妊婦のかた\n1. 令和5年4月1日以降に、15回目から19回目までの妊婦健康診査を受けたかた\n2. 上記1.の妊婦健康診査受診時点で昭島市に住民登録があるかた\n3. 上記1.の妊婦健康診査を日本国内にある医療機関又は助産所において受診し、費用を自己負担したかた（保険診療の自己負担分は対象外です）"
+  },
+  "updateDate": "2023-07-26",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

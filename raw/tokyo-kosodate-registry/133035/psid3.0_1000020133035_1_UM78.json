@@ -1,0 +1,118 @@
+{
+  "area": {
+    "areaCode": "133035;瑞穂町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": null,
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133035",
+    "psid": "psid3.0+1000020133035+1+UM78"
+  },
+  "belongings": "身体障害者手帳、愛の手帳、精神障害者保健福祉手帳または診断書（手帳をお持ちでない方）\n個人番号（マイナンバー）のわかるもの",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡瑞穂町大字箱根ケ崎2335番地",
+    "contactComment": "受付時間 平日の午前8時30分から午後5時まで",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部 福祉課 障がい者支援係;https://www.town.mizuho.tokyo.jp/dept/130000/130100/130102/index.html",
+    "contactPhone": "042-557-0574",
+    "contactUrl": "https://www.town.mizuho.tokyo.jp/inquiry/mailform130102.html?PAGE_NO=1337",
+    "zipCode": "1901292"
+  },
+  "cost": "利用者負担の原則はサービス費用総額の1割負担ですが、所得等に応じて一定の月額負担上限額（月額負担上限額表参照;https://www.town.mizuho.tokyo.jp/kenkofukushi/004/001/p001360.html）を定めてあります。障がい児（18歳未満）の場合は、負担上限月額を世帯全員の所得で判断します。なお、食事等の実費負担については別途必要になります。",
+  "costConditions": null,
+  "description": "障害児通所支援とは、障がいのある児童が、下記のサービスの中から必要とするサービスを利用するための制度です。利用者は、利用したいサービスを選択し、サービス提供事業者と契約を結んでサービスを受けることができます。\n計画相談・障害児相談支援;https://www.town.mizuho.tokyo.jp/kenkofukushi/004/005/p003696.html\n障害福祉サービス;https://www.town.mizuho.tokyo.jp/kenkofukushi/004/005/p001327.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "障がい児保育",
+    "shortName": "障害児通所支援事業"
+  },
+  "localGovernmentLink": {
+    "title": "障害児通所支援事業",
+    "uri": "https://www.town.mizuho.tokyo.jp/kenkofukushi/004/004/p001337.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "瑞穂町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "障害児通所支援事業利用までの流れ\n利用したいサービスについて福祉課に相談・申請をします。\n本人および保護者等と面接し、生活や障がいの状況についての調査を行います。\n「障害児支援計画案」を作成するため、「障害児相談支援事業所」を探して相談します。\n計画相談・障害児相談支援のページも参照してください。\n生活状況やサービスの利用意向を踏まえて支給決定が行われ、障害児通所受給者証が交付されます。\n受給者証が交付されたら、利用者が自ら選んだサービス事業者に受給者証を提示して、利用にかかわる契約を行います。\nサービスを利用し、利用者負担額をサービス事業者にお支払いいただきます。\nその他\n近隣にある障害児相談支援事業所、障害児通所支援事業所は、とうきょう福祉ナビゲーション;https://www.fukunavi.or.jp/fukunavi/jservice_menu.html（外部リンク）で検索できます。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "集団保育が可能で心身に障がいがあるお子さんを、健常児と一緒に保育し相互の健全な育成を図ります。",
+  "support": {
+    "description": "サービスの種類\n支援サービスの種類\n| サービス名 | サービス内容 |\n| --- | --- |\n| 児童発達支援【対象：未就学児】 | 日常生活における基本的な動作の指導、知識技能の付与および集団生活への適応訓練を行います。 |\n| 医療型児童発達支援【対象：未就学児】 | 肢体不自由の障がい児が対象で、児童発達支援および治療を行います。 |\n| 放課後等デイサービス【対象：就学児】 | 就学中の障がい児に対して、放課後や夏休み等の長期休暇中において、生活能力向上のための訓練等を継続的に提供します。 |\n| 保育所等訪問支援 | 障がい児が集団生活を営む施設を訪問し、当該施設における障がい児以外の児童との集団生活への適応のための専門的な支援その他の便宜を供与します。 |\n| 居宅訪問型児童発達支援（平成30年4月から新設） | 重度の障がい等のため、外出が著しく困難な障がい児が対象です。障がい児の居宅を訪問し、日常生活における基本的な動作の指導、知的技能の付与等の発達支援を行います。 |",
+    "materiallySupport": "| サービス名 | サービス内容 |\n| --- | --- |\n| 児童発達支援【対象：未就学児】 | 日常生活における基本的な動作の指導、知識技能の付与および集団生活への適応訓練を行います。 |\n| 医療型児童発達支援【対象：未就学児】 | 肢体不自由の障がい児が対象で、児童発達支援および治療を行います。 |\n| 放課後等デイサービス【対象：就学児】 | 就学中の障がい児に対して、放課後や夏休み等の長期休暇中において、生活能力向上のための訓練等を継続的に提供します。 |\n| 保育所等訪問支援 | 障がい児が集団生活を営む施設を訪問し、当該施設における障がい児以外の児童との集団生活への適応のための専門的な支援その他の便宜を供与します。 |\n| 居宅訪問型児童発達支援（平成30年4月から新設） | 重度の障がい等のため、外出が著しく困難な障がい児が対象です。障がい児の居宅を訪問し、日常生活における基本的な動作の指導、知的技能の付与等の発達支援を行います。 |",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": null,
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": null
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "障がいのある児童\n身体障害者手帳、愛の手帳、または精神障害者保健福祉手帳の交付を受けている方で、通所による療育等の支援が必要な方。\n医師の診断書等により、通所による療育等の支援が必要と認められる方。\n※障害児支援利用計画の作成が必須です。"
+  },
+  "updateDate": "2023-11-24",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

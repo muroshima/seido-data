@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "131130;渋谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保育課保育管理係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020131130",
+    "psid": "psid3.0+9000020131130+1+UM91"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "FAX03-5458-4907",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保育課保育管理係",
+    "contactPhone": "03-3463-2483",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "企業主導型保育事業\n企業が設置し、任意で他の企業や地域のお子さんを受け入れることも可能となっている保育施設です。\n\n更新日\n\n2023年5月31日\n\n企業主導型保育事業\n企業主導型保育事業の空き状況\nその他の企業主導型保育施設\n企業が設置し、任意で他の企業や地域のお子さんを受け入れることも可能となっている保育施設です。\n\n企業主導型保育事業\n企業主導型保育事業一覧\nhttps://www.city.shibuya.tokyo.jp/kodomo/hoiku/hoiku-ichigenka/kigyosyudou.html\n \n企業主導型保育事業の空き状況\n企業主導型保育事業の空き状況に関しては、認証保育所・企業主導型保育事業・待機児童向け特別枠の空き状況のページ;https://www.city.shibuya.tokyo.jp/kodomo/hoiku/hoiku-ichigenka/ninsyohoiku_shiritsu.htmlをご覧ください。\n\nその他の企業主導型保育施設\n東京都福祉保健局のホームページ（外部リンク）;http://www.fukushihoikuen.metro.tokyo.jp/kodomo/hoiku/ninkagai/babychiran_koukai.htmlで、都内の企業主導型保育施設の一覧を公開しています。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "認可外保育施設一覧",
+    "shortName": "企業主導型保育事業"
+  },
+  "localGovernmentLink": {
+    "title": "企業主導型保育事業",
+    "uri": "https://www.city.shibuya.tokyo.jp/kodomo/hoiku/hoiku-ichigenka/kigyosyudou.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-06-26",
+    "updater": "渋谷区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "認証保育所・企業主導型保育事業・待機児童向け特別枠の空き状況のページ",
+      "uri": "https://www.city.shibuya.tokyo.jp/kodomo/hoiku/hoiku-ichigenka/ninsyohoiku_shiritsu.html"
+    },
+    {
+      "title": "東京都福祉保健局のホームページ（外部リンク）",
+      "uri": "http://www.fukushihoikuen.metro.tokyo.jp/kodomo/hoiku/ninkagai/babychiran_koukai.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "認可外保育施設とは、公的助成の有無や事業規模などにかかわらず、児童福祉法、もしくは認定こども園法に基づく認可を受けていない、お子さんを預かる施設・サービスの総称で、保育の内容や料金設定などは施設によりさまざまです。\n下記は、渋谷区内にある「幼児教育・保育の無償化」の対象となる認可外保育施設の一覧です。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2023-05-31",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

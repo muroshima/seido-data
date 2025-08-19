@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "132071;昭島市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健福祉部 保険年金課 保険係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132071",
+    "psid": "psid3.0+8000020132071+1+UM5035"
+  },
+  "belongings": "１．出産予定日（出産日）と多胎妊娠の場合はその事実が確認できる母子健康手帳等の書類\n２．世帯主および出産被保険者のマイナンバーを確認できる書類等\n３．届出されるかたの本人確認できる書類等",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "昭島市田中町1-17-1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": "2037,2038",
+    "contactName": "保健福祉部 保険年金課 保険係",
+    "contactPhone": "042-544-5111",
+    "contactUrl": null,
+    "zipCode": "1968511"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "産前産後期間の保険税の免除（令和6年1月より）\n令和5年11月1日以降に出産予定または出産した加入者（出産被保険者）の産前産後期間の国民健康保険税を免除します。妊娠85日（4か月）以上の出産が対象です。死産、流産、早産及び人工妊娠中絶の場合も含みます。\n\n出産被保険者の所得割額と均等割額について、出産予定月または出産月の前月から4か月間（多胎妊娠の場合は3か月前から6か月間）相当分が、世帯の年税額から減額されます。\n\n注：産前産後期間のうち令和6年1月以降の期間の分のみ、保険税が減額されます。令和6年1月より前の期間については、減額の対象とはなりません。\n\n届出に必要なもの\n１．産前産後期間に係る国民健康保険税軽減届出書(PDF：82KB);https://www.city.akishima.lg.jp/s054/010/010/010/020/070/sanzensanngo.pdf\n【記入例】産前産後期間に係る国民健康保険税軽減届出書(PDF：91KB);https://www.city.akishima.lg.jp/s054/010/010/010/020/070/sanzensangokisairei.pdf\n２．出産予定日（出産日）と多胎妊娠の場合はその事実が確認できる母子健康手帳等の書類\n３．世帯主および出産被保険者のマイナンバーを確認できる書類等\n４．届出されるかたの本人確認できる書類等\n\n注：出産予定日の6か月前から届出ができます。出産後の届出も可能です。\n注：届出がない場合でも、当市で出産の事実が確認できた場合は、職権で出産被保険者の対象期間の保険税を減額する場合があります。\n注：課税限度額に達している世帯については、免除を適用しても世帯の年税額が変わらない場合があります。\n\n郵送による届出について\n「産前産後期間に係る国民健康保険税軽減届出書」に記入し、「届出されるかたの本人確認できる書類等の写し」、「 母子健康手帳等（出産予定日または出産日等が確認できるもの）の写し」を同封のうえ、下記宛先まで郵送してください。\n注：マイナンバーを確認できる書類の添付は不要です。\n\n宛先：〒196-8511　昭島市田中町1-17-1　保健福祉部　保険年金課　賦課担当\n\n母子健康手帳の写し該当ページ(出産予定のかた)(PDF：82KB);https://www.city.akishima.lg.jp/s054/010/010/010/020/070/boshitechou1.pdf\n母子健康手帳の写し該当ページ(出産済みのかた)(PDF：446KB);https://www.city.akishima.lg.jp/s054/010/010/010/020/070/boshitechou2.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "国民健康保険における産前産後期間保険料（税）免除",
+    "shortName": "産前産後期間の免除制度"
+  },
+  "localGovernmentLink": {
+    "title": "軽減と減免について",
+    "uri": "https://www.city.akishima.lg.jp/s054/010/010/010/020/070/20140919163539.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "昭島市"
+  },
+  "procedureCounter": "保険年金課保険係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "市役所保険年金課保険係の窓口にて届出を行うことができます。また、郵送での届出も可能です。（届出がない場合でも、当市で出産の事実が確認できた場合は、職権で出産被保険者の対象期間の保険税を減額する場合があります。）\n届出に必要なもの\n１．産前産後期間に係る国民健康保険税軽減届出書\n２．出産予定日（出産日）と多胎妊娠の場合はその事実が確認できる母子健康手帳等の書類\n３．世帯主および出産被保険者のマイナンバーを確認できる書類等\n４．届出されるかたの本人確認できる書類等",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "地方税法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国民健康保険に加入している方が出産予定または出産した場合には、出産予定月または出産月の前月から4か月間（多胎妊娠の場合は3か月前から6か月間）相当分の所得割額と均等割額が免除されます。",
+  "support": {
+    "description": "出産予定または出産した被保険者の所得割額と均等割額について、出産予定月または出産月の前月から4か月間（多胎妊娠の場合は3か月前から6か月間）相当分が、世帯の年税額から減額されます。産前産後期間のうち令和6年1月以降の期間の分のみ、保険税が減額されます。",
+    "materiallySupport": null,
+    "monetarySupport": "出産予定または出産した被保険者の所得割額と均等割額について、出産予定月または出産月の前月から4か月間（多胎妊娠の場合は3か月前から6か月間）相当分が、世帯の年税額から減額されます。産前産後期間のうち令和6年1月以降の期間の分のみ、保険税が減額されます。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003",
+      "015"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "妊娠85日（４か月）以上の出産（死産、流産、早産及び人工妊娠中絶を含む）が対象。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "国民健康保険に加入している被保険者で、出産予定日または出産日が令和５年11月１日以降の方"
+  },
+  "updateDate": "2024-04-04",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "131105;目黒区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健予防課,碑文谷保健センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131105",
+    "psid": "psid3.0+1000020131105+1+UM791"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "目黒区上目黒二丁目19番15号, 目黒区碑文谷四丁目16番18号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健予防課, 碑文谷保健センター",
+    "contactPhone": "03-5722-7057, 03-3711-6446",
+    "contactUrl": null,
+    "zipCode": "1538573,1520003"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "出生通知票の提出\n目次\n\n出生通知票の問合せ先\n関連するページ\n赤ちゃんが生まれたら、電子申請で出生通知票の提出をしてください。新生児誕生祝金（2万円）を給付いたします。\n\n出生通知表の提出は出生通知票（兼赤ちゃん訪問申し込みフォーム）から;https://logoform.jp/form/KeTk/208005\n\n出生通知票の問合せ先\n出生通知票の問合せ先は、お住まいの区域を管轄する保健予防課又は碑文谷保健センターです。\n\n保健予防課\n所在地　〒153-8573 目黒区上目黒二丁目19番15号\n電話番号　03-5722-9503\n管轄区域は、目黒区駒場、目黒区青葉台、目黒区東山、目黒区大橋、目黒区上目黒、目黒区中目黒、目黒区三田、目黒区目黒、目黒区下目黒、目黒区中町、目黒区五本木、目黒区祐天寺、目黒区中央町二丁目、目黒区目黒本町一丁目です。\n\n碑文谷保健センター\n所在地　〒152-0003 目黒区碑文谷四丁目16番18号\n電話番号　03-3711-6446\n管轄区域は、目黒区中央町一丁目、目黒区目黒本町二から六丁目、目黒区原町、目黒区洗足、目黒区南、目黒区碑文谷、目黒区鷹番、目黒区平町、目黒区大岡山、目黒区緑が丘、目黒区自由が丘、目黒区中根、目黒区柿の木坂、目黒区八雲、目黒区東が丘です。\n\n関連するページ\n妊産婦・新生児の訪問指導;https://www.city.meguro.tokyo.jp/hokenyobou/kosodatekyouiku/ninshin/homon.html\n\n出生通知票を提出いただくと管轄の保健予防課又は碑文谷保健センターから保健師・助産師がお宅に訪問し、相談に応じます。",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "出生通知票（兼赤ちゃん訪問申し込みフォーム）",
+      "uri": "https://logoform.jp/form/KeTk/208005"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出生連絡票・低体重児出生届",
+    "shortName": "出生通知票の提出"
+  },
+  "localGovernmentLink": {
+    "title": "出生通知票の提出",
+    "uri": "https://www.city.meguro.tokyo.jp/hokenyobou/kosodatekyouiku/ninshin/tsuchihyo.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "目黒区"
+  },
+  "procedureCounter": "保健予防課（目黒区総合庁舎本館3階）,碑文谷保健センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "オンライン申請で出生通知票の提出をお願いします。\n出生通知票の提出はこちらから;https://logoform.jp/form/KeTk/208005",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第18条（低体重児の届出）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "妊産婦・新生児の訪問指導",
+      "uri": "https://www.city.meguro.tokyo.jp/hokenyobou/kosodatekyouiku/ninshin/homon.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "赤ちゃんが生まれたら、電子申請で出生通知票の提出をしてください。出生通知票をもとに、妊産婦・新生児の訪問指導（赤ちゃん訪問）の連絡をします。\nなお、法律（母子保健法）で2,500グラム未満のお子さんが出生した時は、保護者がその旨を速やかに届け出ることが義務づけられており、出生通知票はその届出を兼ねています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2023-04-05",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

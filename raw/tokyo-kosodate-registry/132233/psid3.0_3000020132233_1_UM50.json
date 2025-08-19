@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "132233;武蔵村山市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子ども子育て支援課母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132233",
+    "psid": "psid3.0+3000020132233+1+UM50"
+  },
+  "belongings": "受診票\n6～7か月児健康診査：ピンク色\n9～10か月児健康診査：白色\n母子健康手帳\n健康保険証\n乳幼児医療証\n注記　診査項目以外の検査や治療が行われる場合に必要です。\n　　　健康保険証、乳幼児医療証も必ずお持ちください。\n注記　対象月例以外はご利用になれません。\n注記　受診票の太枠内は、保護者がご記入ください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部子ども子育て支援課母子保健係",
+    "contactPhone": "042-564-5421",
+    "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/e_07c/1015990",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "6~7か月・9～10か月児健康診査\n事業のご案内\n武蔵村山市にお住まいの6～7か月・9～10か月の赤ちゃんは、契約医療機関で無料の健康診査が受けられます。\n受診票は子ども家庭センターで3～4か月児健診時にお渡しします。\n\n会場と日程\n都内の契約医療機関で実施します。武蔵村山市内の契約医療機関は、市内協力医療機関一覧のとおりです。\n休診日は各医療機関で異なりますので、事前にお問い合わせの上、健診を受けてください。\n\n持ち物\n受診票\n6～7か月児健康診査：ピンク色\n9～10か月児健康診査：白色\n母子健康手帳\n健康保険証\n乳幼児医療証\n注記　診査項目以外の検査や治療が行われる場合に必要です。\n　　　健康保険証、乳幼児医療証も必ずお持ちください。\n注記　対象月例以外はご利用になれません。\n注記　受診票の太枠内は、保護者がご記入ください。\n\n市内協力医療機関\n市内協力医療機関一覧\n|医療機関名|所在地|電話番号|\n|:----|:----|:----|\n|岩田小児科医院|緑が丘1492番地50-58|042-562-0871|\n|半田医院|大南3丁目54番地の16|042-564-8649|\n|武蔵村山さいとうクリニック|大南3丁目68番地の3|042-590-2266|\n|向日葵クリニック|学園3丁目88番地の2|042-562-1983|\n|伊奈平南クリニック|伊奈平4丁目4番地の1|042-560-1311|\n|北條医院|残堀4丁目113番地の1|042-560--3541|\n|藤田医院|岸1丁目25番地の1|042-560-0363|\n|下田医院|三ツ木3丁目16番地の1|042-560-6387|\n|東京小児療育病院|学園4丁目10番地の1|042-561-2521|\n|武蔵村山病院|榎1丁目1番地の5|042-566-3111|\n|大南ファミリークリニック|大南2丁目1番地の8|042-590-0373|\n\n都内から転入された方へ\n都内の自治体で交付された受診券をそのまま使用できます。\n武蔵村山市で再度受診券を受け取る必要はありません。\n\n都外から転入された方へ\n都外の自治体で交付された受診券は使用できませんので、子ども子育て支援課母子保健係へお問い合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "市内協力医療機関一覧\n|医療機関名|所在地|電話番号|\n|:----|:----|:----|\n|岩田小児科医院|緑が丘1492番地50-58|042-562-0871|\n|半田医院|大南3丁目54番地の16|042-564-8649|\n|武蔵村山さいとうクリニック|大南3丁目68番地の3|042-590-2266|\n|向日葵クリニック|学園3丁目88番地の2|042-562-1983|\n|伊奈平南クリニック|伊奈平4丁目4番地の1|042-560-1311|\n|北條医院|残堀4丁目113番地の1|042-560--3541|\n|藤田医院|岸1丁目25番地の1|042-560-0363|\n|下田医院|三ツ木3丁目16番地の1|042-560-6387|\n|東京小児療育病院|学園4丁目10番地の1|042-561-2521|\n|武蔵村山病院|榎1丁目1番地の5|042-566-3111|\n|大南ファミリークリニック|大南2丁目1番地の8|042-590-0373|\n"
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+    "shortName": "6~7か月・9～10か月児健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "6~7か月・9～10か月児健康診査",
+    "uri": "https://www.city.musashimurayama.lg.jp/kosodate/kenshin/kenshin/1015990.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-01",
+    "updater": "武蔵村山市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として6～７か月健康診査及び９～１０か月健康診査を実施しています。",
+  "support": {
+    "description": "契約医療機関で無料の健康診査が受けられます。",
+    "materiallySupport": "契約医療機関で無料の健康診査が受けられます。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "武蔵村山市にお住まいの6～7か月・9～10か月の赤ちゃん",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "武蔵村山市にお住まいの6～7か月・9～10か月の赤ちゃん"
+  },
+  "updateDate": "2024-04-02",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

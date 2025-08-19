@@ -1,0 +1,133 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課児童給付グループ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+8+UM58"
+  },
+  "belongings": "1.戸籍謄本（請求者および児童のもの）【注意】育成（障害）手当の場合は不要\n2.令和4年1月2日以降に豊島区に転入されたかたで、マイナンバー制度による情報連携の不具合等で情報を確認できない場合は、令和4年度課税・非課税証明書（所得証明書）\n所得金額、扶養人数、控除内容が記載されているもの。\n令和4年1月1日に住民記録のあった区市町村でお取りください。\n「源泉徴収票」「確定申告書」「特別徴収税額決定通知書」「普通徴収納税通知書」では、お取り扱いできません。\n3.振込先の普通預金口座の確認できるもの\n（申請者名義に限ります。一部取り扱いが出来ない金融機関があります。）\n4.父または母の障害を事由として申請をする場合は、父または母の身体障害者手帳または所定の診断書\n5.児童の障害を事由として申請する場合は、児童の愛の手帳・身体障害者手帳または所定の診断書\n6.本人確認のための身元確認書類(下記リンク先に詳細があります)\n子どもの手当・医療費助成申請書類の個人番号（マイナンバー）の記入について;https://www.city.toshima.lg.jp/261/kosodate/kosodate/1707081136.html\n\n【注釈1】申請者の状況により、別途書類を提出していただく場合があります。\n\n【注釈2】各書類は3ヶ月以内に発行されたものを提出してください。（戸籍謄本については1ヶ月以内）",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て支援課児童給付グループ",
+    "contactPhone": "03-3981-1417",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "児童育成手当には、「育成手当」と「障害手当」があります。\n\n【注釈】支給要件に該当していれば、育成手当と障害手当を両方受給できます。\n\n児童育成手当の手続きに個人番号（マイナンバー）が必要になりました\n\n平成28年1月から児童育成手当の申請には、個人番号（マイナンバー）の記入および本人確認が必要になりました。個人番号（マイナンバー）を記載した書類を提出する際に提示が必要な書類については、下記リンク先をご参照ください。\n\n子どもの手当・医療費助成申請書類の個人番号（マイナンバー）の記入について；https://www.city.toshima.lg.jp/261/kosodate/kosodate/1707081136.html\n\n個人番号（マイナンバー）が必要な申請書類\n\n・「児童育成手当認定請求書」申請者、配偶者（重度の障害で該当の場合）および児童の個人番号（マイナンバー）の記載が必要です。\n・「児童育成手当額改定請求書」増額対象となる児童の個人番号（マイナンバー）の記載が必要です。\n\nなお、平成29年11月13日より社会保障・税番号制度（マイナンバー制度）による情報連携が本格運用されたことに伴い、従来必要だった添付書類が一部省略可能になりました。\n\n手当の支払い方法\n\n児童育成手当は、下記支払い月の12日頃に口座に振り込まれます。\n\n6月（2月分から5月分）、10月（6月分から9月分）、2月（10月分から1月分）\n\n支払通知書は発行いたしませんので、支払金額につきましては通帳を記入のうえご確認ください。\n\n届出が必要な場合\n\n次の場合は、本人確認書類（受給者）を持参のうえ、届出をしてください。\n\n郵送で手続きできる場合があります。詳細はお問い合わせください。\n\n・住所を変更したとき\n・氏名を変更したとき\n・支払金融機関を変更したとき\n・監護する児童の数に増減が生じたとき\n・所得の修正申告をしたとき\n・その他、認定請求時と変更が生じたとき\n\n資格が消滅する場合\n\n次の場合は、児童育成手当の受給資格がなくなります。本人確認書類（受給者）を持参のうえ、届出をしてください。\n\n郵送で手続きできる場合があります。詳細はお問い合わせください。\n\n・受給者が豊島区から転出したとき\n・婚姻または事実上婚姻関係と同様の状態になったとき（障害の事由で手当を受けている場合を除く）\n・受給者が児童を監護しなくなったとき\n・児童が社会福祉施設などに入所したとき\n・児童が児童福祉法に規定する小規模住居型児童養育事業を行う者または里親に委託されたとき\n・その他、ひとり親家庭等の事由に該当しなくなったとき",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "土曜日・日曜日・祝日",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の育児に関する金銭的支援",
+    "shortName": "児童育成手当"
+  },
+  "localGovernmentLink": {
+    "title": "児童育成手当",
+    "uri": "https://www.city.toshima.lg.jp/261/kosodate/kosodate/hitorioya/005893.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": "子育て支援課児童給付グループ",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "子育て支援課児童給付グループ（区役所本庁舎4階）の窓口で申請してください。\n\n手当の支給は原則として申請をした月の翌月分からとなります。ただし、月末の出生、転入などのやむを得ない理由により申請が翌月になった場合は、以下のような特例があります。\n\n・出生：出生日の翌日から15日以内に申請をした場合は、出生日の翌月分から支給されます。\n・転入：前住所地の転出予定日の翌日から15日以内に申請をした場合は、転出予定日の翌月分から支給されます。\n・その他（災害等）：災害等がやんだ日の翌日から15日以内に申請した場合は、事由発生日の日の翌月分から支給されます。詳しくは、お問い合わせください。\n\n【注釈】15日目が土曜日・日曜日・祝日の場合は、直後の開庁日を15日目とします。\n\n【注意】子育て支援課の窓口受付時間は、月曜日から金曜日の8時30分から17時です。土曜日・日曜日・祝日は受付しておりませんのでご了承ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": "08:30",
+    "fromYMD": null,
+    "toHM": "17:00",
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "子どもの手当・医療費助成申請書類の個人番号（マイナンバー）の記入について",
+      "uri": "https://www.city.toshima.lg.jp/261/kosodate/kosodate/1707081136.html"
+    },
+    {
+      "title": "所得制限額表",
+      "uri": "https://www.city.toshima.lg.jp/261/kosodate/kosodate/hitorioya/001507.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "児童育成手当には、「育成手当」と「障害手当」があります。",
+  "support": {
+    "description": "手当月額\n\n・育成手当は、児童1人につき、13,500円\n・障害手当は、児童1人につき、15,500円",
+    "materiallySupport": null,
+    "monetarySupport": "手当月額\n\n・育成手当は、児童1人につき、13,500円\n・障害手当は、児童1人につき、15,500円"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "18歳に達した日以降の最初の3月31日まで（中程度以上の障害を有する場合は20歳未満まで）の児童",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "育成手当\n\n次のいずれかの状態にある、18歳に到達後最初の3月31日までの児童を養育しているかた。\n\n・父母が離婚\n・父または母が死亡\n・父または母の生死が不明\n・父または母が重度の障害を有している\n・父または母に1年以上遺棄されている（子育て支援課にて遺棄の調書提出後、1年経過しても状況が変わらない場合に申請できるようになります）\n・父または母が裁判所からのDV保護命令を受けている\n・父または母が法令により1年以上拘禁されている\n・婚姻によらないで生まれ、父または母に扶養されていない（事実上の婚姻関係にある場合を除く）\n\n【注釈】詳細はお問い合わせください。\n\n下記の場合は支給されません。\n\n・所得が一定額以上の場合（「所得制限額表」をご確認ください。）\n・児童が児童福祉施設に入所している場合\n・児童が里親等に委託されている場合\n・父または母が事実上の婚姻関係にある場合\n\n上記以外の理由によっても、審査により該当しない場合があります。\n\n障害手当\n\n次のいずれかの状態にある、20歳未満の児童を養育しているかた。\n\n・愛の手帳1度から3度程度の障害のある児童\n・身体障害者手帳1級から2級程度の障害のある児童\n・脳性まひまたは進行性筋萎縮症の障害のある児童\n\n下記の場合は支給されません。\n\n・所得が一定額以上の場合（「所得制限額表」をご確認ください。）\n・児童が児童福祉施設に入所している場合\n・児童が里親等に委託されている場合\n\n所得制限額表；https://www.city.toshima.lg.jp/261/kosodate/kosodate/hitorioya/001507.html"
+  },
+  "updateDate": "2024-03-11",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

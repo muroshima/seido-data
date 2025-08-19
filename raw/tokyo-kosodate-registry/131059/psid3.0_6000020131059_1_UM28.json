@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131059;文京区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部生活福祉課母子父子・女性支援担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131059",
+    "psid": "psid3.0+6000020131059+1+UM28"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都文京区春日1丁目16番21号\n文京シビックセンター9階北側",
+    "contactComment": "ファクス番号：03-5803-1354",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部生活福祉課母子父子・女性支援担当",
+    "contactPhone": "03-5803-1915",
+    "contactUrl": "https://logoform.jp/form/6KSu/553743",
+    "zipCode": "1128555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "母子及び父子福祉資金\n内容\nひとり親家庭の方々が経済的に自立して、安定した生活を送るために必要とする資金をお貸しします。\n\n対象者\n都内に6ヶ月以上お住まいの母子家庭の母又は父子家庭の父で、20歳未満の児童を扶養している方。\n貸付けが自立につながると判断され、償還（返済）の計画を立てることができる方。\n\n貸付資金の種類\n事業開始資金\n事業継続資金\n技能習得資金\n修業資金\n就職支度資金\n医療介護資金\n生活資金\n住宅資金\n転宅資金\n結婚資金\n修学資金\n就学支度資金\n※各資金の貸付利用対象者、限度額、詳細等については担当までお問い合わせください。\n\n償還期間\n資金の種類によって3年～20年以内となります。\n\n利子\n資金の種類によって無利子又は年利子1％となります。\n\nその他\n世帯状況により連帯保証人が必要となります。\n申請を受けてから資金を交付するまで通常一ケ月以上かかりますので、お早めにご相談ください。\n審査の結果、貸付けできない場合もありますのでご了承ください。\n\n相談及び申請先\n生活福祉課母子・父子自立支援員にご相談ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "母子父子寡婦福祉資金",
+    "shortName": "母子及び父子福祉資金"
+  },
+  "localGovernmentLink": {
+    "title": "母子及び父子福祉資金",
+    "uri": "https://www.city.bunkyo.lg.jp/b019/p003124.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "文京区"
+  },
+  "procedureCounter": "生活福祉課母子・父子自立支援員",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "生活福祉課母子・父子自立支援員にご相談ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（母子福祉資金の貸付け）、第14条（母子・父子福祉団体に対する貸付け）、第31条の6（父子福祉資金の貸付け）、第32条（寡婦福祉資金の貸付け）",
+    "regulationName": "母子及び父子並びに寡婦福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "※東京都福祉保健局母子及び父子福祉資金ホームページ（外部リンク）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo//hitorioya_shien/keizai/boshi.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "母子家庭の母、父子家庭の父、および寡婦の方の経済的自立や、扶養しているお子さんの福祉増進のために、必要な資金をお貸しする制度です。",
+  "support": {
+    "description": "ひとり親家庭の方々が経済的に自立して、安定した生活を送るために必要とする資金をお貸しします。",
+    "materiallySupport": null,
+    "monetarySupport": "ひとり親家庭の方々が経済的に自立して、安定した生活を送るために必要とする資金をお貸しします。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088"
+    ]
+  },
+  "target": {
+    "conditions": "20歳未満の児童を扶養している方。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "都内に6ヶ月以上お住まいの母子家庭の母又は父子家庭の父で、20歳未満の児童を扶養している方。\n貸付けが自立につながると判断され、償還（返済）の計画を立てることができる方。"
+  },
+  "updateDate": "2021-11-19",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

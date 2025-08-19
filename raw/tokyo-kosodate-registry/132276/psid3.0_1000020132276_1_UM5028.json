@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "132276;羽村市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "羽村市教育委員会　生涯学習部プリモホールゆとろぎ（生涯学習センターゆとろぎ）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132276",
+    "psid": "psid3.0+1000020132276+1+UM5028"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都羽村市緑ヶ丘一丁目11番地5",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "羽村市教育委員会　生涯学習部プリモホールゆとろぎ（生涯学習センターゆとろぎ）",
+    "contactPhone": "042-570-0707",
+    "contactUrl": "https://www.city.hamura.tokyo.jp/mailform/inquiry.cgi?so=777639a68e78fe9b56bcb6d6e572e6bf3b729907&ref=https%3A%2F%2Fwww.city.hamura.tokyo.jp%2Fprsite%2F0000007063.html",
+    "zipCode": "2050003"
+  },
+  "cost": "0円",
+  "costConditions": null,
+  "description": "放課後子ども教室「はむらっ子広場」は、放課後に小学校の教室等を利用し、地域の方などの協力を得て、遊びや自己学習など、子供たちの安全で健やかな活動場所を提供するものです。\nボランティアの他に指導員（会計年度任用職員）を配置し、安心して活動できる場としています。\n（注意）従来から実施している「学童クラブ」とは異なり、保護者のいない間、児童をお預かりするものではありません。\n登録用紙について\n羽村市公式サイト（別ウインドウで開く）\n;https://www.city.hamura.tokyo.jp/prsite/0000007063.htmlよりダウンロードしていただく他、学校、はむらっ子広場、生涯学習推進課（生涯学習センターゆとろぎ）でも配布しています。\n上記のいずれかに提出してください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "|令和6年度　はむらっ子広場開室日（予定）| |\n|:----|:----|\n|学校名|開室日|\n|羽村東小学校|火曜日・木曜日|\n|羽村西小学校|火曜日・木曜日|\n|富士見小学校|火曜日・金曜日|\n|栄小学校|水曜日・金曜日|\n|松林小学校|火曜日・木曜日|\n|小作台小学校|火曜日・木曜日|\n|武蔵野小学校|火曜日・金曜日|",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "市内小学校",
+    "implementationName": "市内の小学校全校で開室しています。\n（注意）開室日については、「はむらっ子広場だより」を御確認ください。「はむらっ子広場だより」は各教室で配布しているほか、こちらのページ（別ウインドウで開く）;https://www.city.hamura.tokyo.jp/0000018598.htmlでも御確認いただけます。"
+  },
+  "institutionName": {
+    "canonicalName": "放課後子供教室",
+    "shortName": "放課後子ども教室「はむらっ子広場」"
+  },
+  "localGovernmentLink": {
+    "title": "放課後子ども教室「はむらっ子広場」",
+    "uri": "https://www.city.hamura.tokyo.jp/prsite/0000007063.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/21",
+    "updater": "羽村市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "はむらっ子広場に参加をするためには事前に登録が必要です。\n「登録申請書」を提出すると「連絡カード」をお渡しします。\n（注意）新1年生の参加は6月からです。詳しくは4月の各学校の保護者会で説明を行います。\nはむらっ子広場に参加する日は、必ず、保護者の方が記入、押印した「連絡カード」をお子様に持たせてください。\nお子様は「連絡カード」を持ってはむらっ子へ直接お越しいただければ参加できます。（出欠席の事前連絡不要）\n（注意）「連絡カード」がないとはむらっ子広場へ参加できません。\n転校など登録を解除する場合は「登録抹消届」を、登録内容に変更があった場合には「登録事項変更届」を提出してください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "小学校・中学校一覧",
+      "uri": "https://www.city.hamura.tokyo.jp/prsite/0000000698.html"
+    },
+    {
+      "title": "放課後子ども教室「はむらっ子広場」",
+      "uri": "https://www.city.hamura.tokyo.jp/prsite/0000007063.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "地域住民の参画を得て、放課後等に全ての児童を対象として、学習や体験・交流といった多様な活動を行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "市内の小学校に在籍している児童及び市内小学校の学区内に住む私立等小学校に在籍する児童。"
+  },
+  "updateDate": "2021/09/10",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "夏時間（4月～9月）授業終了時から午後5時まで\n冬時間（10月・2月・3月）授業終了時から午後4時30分まで\n（11月～1月）授業終了時から午後4時まで",
+    "fromHM": null,
+    "toHM": null
+  }
+}

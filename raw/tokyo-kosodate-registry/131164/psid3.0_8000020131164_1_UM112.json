@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援センター東部子ども家庭支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+1+UM112"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援センター東部子ども家庭支援センター",
+    "contactPhone": "03-5980-5275",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "0歳から就学前の年齢に応じた玩具や広々とした庭があり、遊びながら情報交換や子育てができます。\nランチルームもあり、お弁当を食べて親子でゆっくり過ごせます。親子の仲間づくりの場として、また、家族の相談で、お気軽にお立ち寄りください。\n子育て講座や行事も開催しています。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育て広場",
+    "shortName": "子ども家庭支援センター　親子遊び広場（センター便り等）"
+  },
+  "localGovernmentLink": {
+    "title": "子ども家庭支援センター　親子遊び広場（センター便り等）",
+    "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/001746/index.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "下記のリンクから申請書等をダウンロードできます。\n[申請書ダウンロード]東部子ども家庭支援センター個人利用申請書;https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/001746/004574.html\n[申請書ダウンロード]西部子ども家庭支援センター個人利用申請書;https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/001746/documents/kodomo8-02-1.pdf\n(注釈)申請書提出の際に、利用についての説明をさせていただきます。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第6項",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "センター便り(西部子ども家庭支援センター)",
+      "uri": "https://www.city.toshima.lg.jp/266/kosodate/kosodate/shiencenter/001746/001936.html"
+    },
+    {
+      "title": "センター便り(東部子ども家庭支援センター)",
+      "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/001746/010728.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "0歳から就学前の年齢に応じた玩具や広々とした庭があり、遊びながら情報交換や子育てができます。\nランチルームもあり、お弁当を食べて親子でゆっくり過ごせます。親子の仲間づくりの場として、また、家族の相談で、お気軽にお立ち寄りください。\n子育て講座や行事も開催しています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "0歳から就学前",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "0歳から就学前のお子さんとその家族"
+  },
+  "updateDate": "2023-03-15",
+  "useConsiderationFlag": false,
+  "utilization": "初回利用時に、登録をお願いします",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日から日曜日（休館日を除く）",
+    "fromHM": "10:00",
+    "toHM": "17:00"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132080;調布市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉健康部健康推進課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020132080",
+    "psid": "psid3.0+7000020132080+1+UM791"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファクス番号：042-441-6101",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉健康部健康推進課",
+    "contactPhone": "042-441-6081",
+    "contactUrl": "https://www.city.chofu.lg.jp/cgi-bin/simple_faq/form.cgi",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "「こんにちは赤ちゃん訪問」(新生児訪問)\n\n「わが家の赤ちゃんお知らせはがき」を忘れずに\n調布市内に在住の生後4ヶ月までの乳児のいる全てのご家庭に、助産師・保健師・看護師が訪問しています。赤ちゃんが生まれたら、母子健康手帳交付と一緒にお渡ししている「母と子の保健バッグ」に同封の出生通知票「わが家の赤ちゃんお知らせはがき」を忘れずにご投函ください。\nお知らせはがきをもとに、ご家庭を訪問して赤ちゃんの体重測定をしたり、授乳や育児のこと、お母さんやご家族のこころやからだのことなどについてのご相談も承っています。\nまた、育児支援に関するサービスの紹介もしております。\n子ども家庭課窓口にもポストを設置していますので、出生通知票「わが家の赤ちゃんお知らせはがき」をお早めにお送りください。\n調布市に転入された方やはがきが無い場合には、健康推進課までご連絡ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出生連絡票・低体重児出生届",
+    "shortName": "「こんにちは赤ちゃん訪問」(新生児訪問)"
+  },
+  "localGovernmentLink": {
+    "title": "「こんにちは赤ちゃん訪問」(新生児訪問)",
+    "uri": "https://www.city.chofu.lg.jp/060070/p037035.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "調布市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第18条（低体重児の届出）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "赤ちゃんが生まれたら、母子手帳に添付されている出生連絡票（はがき）を記入して、郵送または提出してください。出生連絡票をもとに、「こんにちは赤ちゃん事業（乳幼児全戸訪問）」内部リンク;https://www.city.chofu.lg.jp/060070/p037035.htmlのご連絡をします。\nなお、法律（母子保健法）で2,500グラム未満のお子さんが出生した時は、保護者がその旨を速やかに届け出ることが義務づけられており、出生連絡票はその届出を兼ねています。",
+  "support": {
+    "description": "「わが家の赤ちゃんお知らせはがき」を忘れずに\n\n調布市内に在住の生後4ヶ月までの乳児のいる全てのご家庭に、助産師・保健師・看護師が訪問しています。赤ちゃんが生まれたら、母子健康手帳交付と一緒にお渡ししている「母と子の保健バッグ」に同封の出生通知票「わが家の赤ちゃんお知らせはがき」を忘れずにご投函ください。\nお知らせはがきをもとに、ご家庭を訪問して赤ちゃんの体重測定をしたり、授乳や育児のこと、お母さんやご家族のこころやからだのことなどについてのご相談も承っています。\nまた、育児支援に関するサービスの紹介もしております。\n子ども家庭課窓口にもポストを設置していますので、出生通知票「わが家の赤ちゃんお知らせはがき」をお早めにお送りください。\n調布市に転入された方やはがきが無い場合には、健康推進課までご連絡ください。",
+    "materiallySupport": "「わが家の赤ちゃんお知らせはがき」を忘れずに\n\n調布市内に在住の生後4ヶ月までの乳児のいる全てのご家庭に、助産師・保健師・看護師が訪問しています。赤ちゃんが生まれたら、母子健康手帳交付と一緒にお渡ししている「母と子の保健バッグ」に同封の出生通知票「わが家の赤ちゃんお知らせはがき」を忘れずにご投函ください。\nお知らせはがきをもとに、ご家庭を訪問して赤ちゃんの体重測定をしたり、授乳や育児のこと、お母さんやご家族のこころやからだのことなどについてのご相談も承っています。\nまた、育児支援に関するサービスの紹介もしております。\n子ども家庭課窓口にもポストを設置していますので、出生通知票「わが家の赤ちゃんお知らせはがき」をお早めにお送りください。\n調布市に転入された方やはがきが無い場合には、健康推進課までご連絡ください。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2017-01-11",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

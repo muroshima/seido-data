@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "133035;瑞穂町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部 子ども家庭センター課 子ども家庭支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133035",
+    "psid": "psid3.0+1000020133035+1+UM106"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都西多摩郡瑞穂町大字石畑1972番地",
+    "contactComment": "受付時間 平日の午前8時30分から午後5時まで",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部子ども家庭センター課　子ども家庭支援係",
+    "contactPhone": "042-568-0051,042-568-0051",
+    "contactUrl": "https://www.town.mizuho.tokyo.jp/inquiry/mailform130154.html?PAGE_NO=5164",
+    "zipCode": "1901211"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "毎月「親子ふれあい・あそび」や「おはなし はじまるよ」など親子で楽しめる事業を行っているほか、「お母さんのはあとタイム」、「子育て講座」など託児付きの事業も行っています。\n\nイベント日程\n詳しくは、下記の各イベントのページをご覧ください。\n\n親子ふれあい・あそび;https://www.town.mizuho.tokyo.jp/kosodate/006/002/p005160.html\nおはなし はじまるよ;https://www.town.mizuho.tokyo.jp/event/e002/p007198.html\nともだち つくろう;https://www.town.mizuho.tokyo.jp/kosodate/006/002/p005162.html\nお母さんのはあとタイム;https://www.town.mizuho.tokyo.jp/event/e002/p005163.html\n関連ファイル\n令和6年3月号ひばりだより;https://www.town.mizuho.tokyo.jp/kosodate/006/002/p005164_d/fil/2024-3.pdf(PDF形式 657KB)\n※PDFファイルの閲覧には、Adobe Acrobat Reader DC;https://get.adobe.com/jp/reader/(外部リンク)が必要です。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "日曜日\n祝日\n年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "子ども家庭支援センター「ひばり」"
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関するサポート",
+    "shortName": "子ども家庭支援センター「ひばり」のイベント情報"
+  },
+  "localGovernmentLink": {
+    "title": "子ども家庭支援センター「ひばり」のイベント情報",
+    "uri": "https://www.town.mizuho.tokyo.jp/kosodate/006/002/p005164.html"
+  },
+  "odInformation": {
+    "content": "所管部署名称を変更",
+    "updateDate": "2025/03/10",
+    "updater": "瑞穂町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "子ども家庭支援センター「ひばり」では、毎月「親子ふれあい・あそび」や「おはなし はじまるよ」など親子で楽しめる事業を行っているほか、「お母さんのはあとタイム」、「子育て講座」など託児付きの事業も行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "親子"
+  },
+  "updateDate": "2024-03-01",
+  "useConsiderationFlag": true,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": "09:00",
+    "toHM": "17:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131067;台東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "台東保健所　保健予防課予防担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131067",
+    "psid": "psid3.0+6000020131067+1+UM54"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "台東保健所　保健予防課予防担当",
+    "contactPhone": "03-3847-9471",
+    "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080600",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "平成28年10月1日から定期予防接種になりました。\n\n対象者\n平成28年4月1日以降に出生し、生後1歳に至るまでの間にある者\n\n接種方法\n3回接種（1歳になる前に3回の接種を終える必要があります。）\n\n標準的な接種期間\n1回目：生後2か月以降\n2回目：1回目の接種から27日以上の間隔をあける（生後3か月）\n3回目：1回目の接種から139日以上の間隔をあける（生後7～8か月）\n\n1回目の接種から3回目の接種を終えるまでには、おおよそ半年間かかります。\n1歳になってしまうと、定期接種の対象外となります。スケジュールをよくご確認いただき、予防接種を受けるようにしてください。\n\n通知時期\n生後1か月頃\n\n注意\n・任意接種としてすでに接種を受けた回数分は定期接種を受けたものとみなし、残りの回数分が対象となります。\n・母子感染予防のために抗HBs人免疫グロブリンと併用してB型肝炎ワクチンの接種を受ける場合は健康保険が適用されるため、定期接種の対象外となります。\n\nB型肝炎とは？B型肝炎ワクチンとは？\n・B型肝炎は、B型肝炎ウイルスの感染により起こる肝臓の病気です。\n・B型肝炎ウイルスへの感染は、一過性の感染で終わる場合と、そのまま感染している状態が続いていまう場合（この状態をキャリアといいます）があります。キャリアになると慢性肝炎になることがあり、そのうち一部の人では肝硬変や肝がんなどの命に関わる病気を引き起こすこともあります。\n・ワクチンを接種することで、体の中にB型肝炎ウイルスへの抵抗力（免疫）ができます。\n・免疫ができることで、一過性の肝炎を予防できるだけでなく、キャリアになることを予防でき、まわりの人への感染も防ぐことができます。\n（予防接種を受けてもお子さんの体質や体調によって免疫ができないことがあります。）\n\n予防接種のスケジュール管理は「ワクチン・ナビ」をご利用ください。\n予防接種情報サービス　「おまかせ予防接種！ワクチン・ナビ」（通称「ワク・ナビ」）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/wakunabi.html",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "「おまかせ予防接種！ワクチン・ナビ」（外部サイト）",
+      "uri": "http://taito.city-hc.jp/"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "B型肝炎"
+  },
+  "localGovernmentLink": {
+    "title": "B型肝炎",
+    "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/bgatakanen/teikiyobousessyubgat.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "台東区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）",
+    "regulationName": "予防接種法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+  "support": {
+    "description": "3回接種（1歳になる前に3回の接種を終える必要があります。）",
+    "materiallySupport": "3回接種（1歳になる前に3回の接種を終える必要があります。）",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後1歳に至るまで",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "平成28年4月1日以降に出生し、生後1歳に至るまでの間にある者"
+  },
+  "updateDate": "2016-10-01",
+  "useConsiderationFlag": false,
+  "utilization": "接種方法\n予防接種予診票と母子健康手帳をご持参の上、23区内協力医療機関で接種を受けてください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

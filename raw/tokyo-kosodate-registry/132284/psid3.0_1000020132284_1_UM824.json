@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "132284;あきる野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "あきる野市役所 健康福祉部 障がい者支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132284",
+    "psid": "psid3.0+1000020132284+1+UM824"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都あきる野市二宮350番地",
+    "contactComment": "障がい者相談係　内線2617,2618,2619",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "あきる野市役所 健康福祉部 障がい者支援課",
+    "contactPhone": "042-558-1111",
+    "contactUrl": null,
+    "zipCode": "1970814"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "精神疾患を理由として通院医療を受ける場合に、その医療に必要な費用の一部を補助します。自己負担は原則として1割となります。\nただし、世帯の所得や疾病等に応じて月額自己負担上限額を定めています。\n通院医療費助成制度\n対象者\n自立支援医療（精神通院）の対象者のうち市民税非課税世帯に属する方\n助成内容\n自立支援医療（精神通院）で自己負担となる額を助成します。\n社会保険加入者、国民健康保険組合及び後期高齢者医療制度の被保険者\n東京都が自己負担相当額を助成します。\nあきる野市国民健康保険の被保険者\nあきる野市国民健康保険から自己負担相当額について給付が受けられます。\n申請方法\n手続方法等については、自立支援医療費（精神通院）と同じです。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度（精神通院医療）",
+    "shortName": "自立支援医療（精神通院）と通院医療費助成制度"
+  },
+  "localGovernmentLink": {
+    "title": "自立支援医療（精神通院）と通院医療費助成制度",
+    "uri": "https://www.city.akiruno.tokyo.jp/0000003536.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/03/10",
+    "updater": "あきる野市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請には下記の書類が必要です。更新の場合は、有効期限の3か月前から申請できます。\n|自立支援医療の申請、更新手続きについて| |\n|:----|:----|\n|手続きに必要な書類など|窓口|\n|・自立支援医療費（精神通院）支給認定申請書|障がい者支援課障がい者相談係（1階11番窓口）|\n|・自立支援医療診断書（精神通院）（申請日から3か月以内に作成されたもの）| |\n|・マイナンバー制度の個人番号が確認できるもの（個人番号カード、通知カード等）| |\n|・医療保険の加入関係を示す書類（受診者及び受診者と同一の「世帯」に属する方の名前が記載されている医療保険被保険者証等の写し）| |\n|・「世帯」の所得状況等が確認できる書類（課税・非課税証明書等）| |\n|・受給者証（更新の方のみ）| |\n※更新申請時の自立支援医療診断書（精神通院）の提出が2年に1度になります。\n詳しくは東京都福祉局自立支援医療（精神通院医療）（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/shougai//nichijo/tsuuin/をご覧ください。\nその他変更の届け出\n受給者証が交付された後から、住所、氏名、保険の種別、医療機関等の変更をした場合や受給者証を紛失、破損したときは、手続きが必要です。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+  "support": {
+    "description": "精神障がい及び当該精神障がいの治療に関連して生じた病態や、当該精神障がいの症状に起因して生じた病態に対する通院医療が対象になります。",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "精神疾患を有し、通院による精神医療を継続的に要する方（年齢制限はありません）"
+  },
+  "updateDate": "2024/11/29",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

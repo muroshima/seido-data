@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "133086;奥多摩町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "教育課 学務係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020133086",
+    "psid": "psid3.0+8000020133086+1+UM126"
+  },
+  "belongings": "・印鑑\n・申請する年の1月2日以降に当町に転入された方は、前住所地の区市町村民税の課税証明書または納税通知書の写しを提出してください。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "奥多摩町氷川215-6",
+    "contactComment": "FAX：0428-83-2555",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "教育課 学務係",
+    "contactPhone": "0428-83-2246",
+    "contactUrl": "https://www.town.okutama.tokyo.jp/cgi-bin/inquiry.php/32?page_no=1049",
+    "zipCode": "1980212"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "就学援助\n\n更新日：2022年04月01日\n経済的な理由で、町立小・中学校の児童・生徒の就学費用にお困りの家庭に、学用品費や給食費等を援助します。\n\n補助対象者\n要保護もしくは準要保護の対象となる世帯は、町内に住所を有し、かつ公立学校に就学している学齢児童又は学齢生徒となります。\n\n援助対象費目\n援助対象費目一覧\n|支給費目|支給金額|備考|\n|:----|:----|:----|\n|学用品費等|国の基準額|第1回支給時に一括支給|\n|校外活動費|実費|宿泊を伴うもの|\n|体育実技用具日|実費|なし|\n|新入学児童生徒用品費|国の基準額|小学校1年生、中学校1年生<br>次年度に就学を予定している児童については申請に基づき入学前の支給もできます。|\n|修学旅行費|実費|なし|\n|通学費|実費|なし|\n|給食費|実費|なし|\n|クラブ活動費|国の基準額|なし|\n|PTA会費|実費|なし|\n|生徒会費|実費|なし|\n申請方法\n新入学児童用品費の入学前支給を希望される保護者は、11月に実施する就学時検診に申請書を配布します。\n\nまた、新年度に入り、年度当初に学校を通じて全ての世帯に申請書を配布します。\n\n就学時検診後の1月中に申請をした場合は2月1日を認定月日とし、入学前に新入学児童用品費を支給します。年度当初は教育委員会が指定した日までに申請した場合は4月1日から対象期間とし、それ以降は申請した日の属する月の初日から対象期間とします。\n\n対象者\n町立小・中学校に在学する学齢児童・学齢生徒で、次のいずれかに該当する場合する者\n\n保護者の町民税が非課税または減額・免除を受けている家庭\n国民年金または事業税、固定資産税の減額・免除を受けている家庭\n生活福祉金の貸付を受けている家庭\n保護者の職業が不安定で生活にお困りの家庭\nその他、特別な事情で生活にお困りの家庭\n必要なもの\n印鑑\n申請する年の1月2日以降に当町に転入された方は、前住所地の区市町村民税の課税証明書または納税通知書の写しを提出してください。\n関連情報\n独立行政法人日本学生支援機構 トップページ（外部リンク）;https://www.jasso.go.jp/index.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "小学校・中学校の就学援助費",
+    "shortName": "就学援助"
+  },
+  "localGovernmentLink": {
+    "title": "就学援助",
+    "uri": "https://www.town.okutama.tokyo.jp/1/kyoikuka/kyoiku/3/1049.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "奥多摩町"
+  },
+  "procedureCounter": "教育課 学務係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請",
+  "procedurePeriod": {
+    "conditions": "就学時検診後の1月中に申請をした場合は2月1日を認定月日とし、入学前に新入学児童用品費を支給します。年度当初は教育委員会が指定した日までに申請した場合は4月1日から対象期間とし、それ以降は申請した日の属する月の初日から対象期間とします",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第19条",
+    "regulationName": "学校教育法"
+  },
+  "relatedLink": [
+    {
+      "title": "独立行政法人日本学生支援機構 トップページ（外部リンク）",
+      "uri": "https://www.jasso.go.jp/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "経済的な理由により就学が困難と認められる、公立の小学校・中学校に通学する児童・生徒の保護者を対象に、学用品費、修学旅行費、給食費などを支給します。",
+  "support": {
+    "description": "経済的な理由で、町立小・中学校の児童・生徒の就学費用にお困りの家庭に、学用品費や給食費等を援助します。\n\n援助対象費目一覧\n|支給費目|支給金額|備考|\n|:----|:----|:----|\n|学用品費等|国の基準額|第1回支給時に一括支給|\n|校外活動費|実費|宿泊を伴うもの|\n|体育実技用具日|実費|なし|\n|新入学児童生徒用品費|国の基準額|小学校1年生、中学校1年生<br>次年度に就学を予定している児童については申請に基づき入学前の支給もできます。|\n|修学旅行費|実費|なし|\n|通学費|実費|なし|\n|給食費|実費|なし|\n|クラブ活動費|国の基準額|なし|\n|PTA会費|実費|なし|\n|生徒会費|実費|なし|\n",
+    "materiallySupport": null,
+    "monetarySupport": "経済的な理由で、町立小・中学校の児童・生徒の就学費用にお困りの家庭に、学用品費や給食費等を援助します。\n\n援助対象費目一覧\n|支給費目|支給金額|備考|\n|:----|:----|:----|\n|学用品費等|国の基準額|第1回支給時に一括支給|\n|校外活動費|実費|宿泊を伴うもの|\n|体育実技用具日|実費|なし|\n|新入学児童生徒用品費|国の基準額|小学校1年生、中学校1年生<br>次年度に就学を予定している児童については申請に基づき入学前の支給もできます。|\n|修学旅行費|実費|なし|\n|通学費|実費|なし|\n|給食費|実費|なし|\n|クラブ活動費|国の基準額|なし|\n|PTA会費|実費|なし|\n|生徒会費|実費|なし|\n"
+  },
+  "tag": {
+    "categoryCode": [
+      "005"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "092"
+    ]
+  },
+  "target": {
+    "conditions": "学齢児童・学齢生徒",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象者\n町立小・中学校に在学する学齢児童・学齢生徒で、次のいずれかに該当する場合する者\n\n・保護者の町民税が非課税または減額・免除を受けている家庭\n・国民年金または事業税、固定資産税の減額・免除を受けている家庭\n・生活福祉金の貸付を受けている家庭\n・保護者の職業が不安定で生活にお困りの家庭\n・その他、特別な事情で生活にお困りの家庭"
+  },
+  "updateDate": "2022-04-01",
+  "useConsiderationFlag": false,
+  "utilization": "新入学児童用品費の入学前支給を希望される保護者は、11月に実施する就学時検診に申請書を配布します。\n\nまた、新年度に入り、年度当初に学校を通じて全ての世帯に申請書を配布します。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

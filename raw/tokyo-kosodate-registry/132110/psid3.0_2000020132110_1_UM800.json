@@ -1,0 +1,131 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課子育て支援担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+1+UM800"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市小川町2-1333　市役所2階",
+    "contactComment": "FAX：042-346-9200",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て支援課子育て支援担当",
+    "contactPhone": "042-346-9821",
+    "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+    "zipCode": "1878701"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "「赤ちゃん・ふらっと」 インこだいら\n「赤ちゃん・ふらっと」とは\n「赤ちゃん・ふらっと」は、赤ちゃんを連れた方が安心して外出を楽しめるように、おむつ替えや授乳のためにふらっと立ち寄ることのできるスペースの愛称です。\n\n赤ちゃん・ふらっとマーク\n「赤ちゃん・ふらっと」の出入り口などには、適合証の「赤ちゃん・ふらっとマーク」を提示していますので、お気軽にご利用ください。\n\n「赤ちゃん・ふらっと」小平市内施設一覧（PDF 559.7KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/49774/049774/att_0000006.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "「赤ちゃん・ふらっと」小平市内施設一覧（PDF 559.7KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/49774/049774/att_0000006.pdf",
+    "implementationName": "「赤ちゃん・ふらっと」小平市内施設一覧（PDF 559.7KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/49774/049774/att_0000006.pdf"
+  },
+  "institutionName": {
+    "canonicalName": "授乳・おむつ替え施設（赤ちゃんの駅等）",
+    "shortName": "赤ちゃん・ふらっと"
+  },
+  "localGovernmentLink": {
+    "title": "「赤ちゃん・ふらっと」 インこだいら",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/049/049774.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-09",
+    "updater": "小平市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "「赤ちゃん・ふらっと」小平市内施設一覧（PDF 559.7KB）",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/49774/049774/att_0000006.pdf"
+    },
+    {
+      "title": "東京都「赤ちゃん・ふらっと事業」ホームページ（外部リンク）",
+      "uri": "http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/akachanflat.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "「赤ちゃん・ふらっと」は、赤ちゃんを連れた方が安心して外出を楽しめるように、おむつ替えや授乳のためにふらっと立ち寄ることのできるスペースの愛称です。「赤ちゃん・ふらっと」の出入り口などには、適合証の「赤ちゃん・ふらっとマーク」を提示していますので、お気軽にご利用ください。",
+  "support": {
+    "description": "おむつ替えや授乳のためにふらっと立ち寄ることのできるスペース",
+    "materiallySupport": "おむつ替えや授乳のためにふらっと立ち寄ることのできるスペース",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "赤ちゃんを連れた方"
+  },
+  "updateDate": "2024-01-30",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

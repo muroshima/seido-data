@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "132021;立川市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健医療部 健康推進課 母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020132021",
+    "psid": "psid3.0+9000020132021+1+UM791"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "立川市高松町３－２２－９",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉保健部健康推進課",
+    "contactPhone": "042-527-3273",
+    "contactUrl": null,
+    "zipCode": "1900011"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": " 赤ちゃん連絡票\n(出生通知票兼低出生体重児届出票）\n\n裏面にご記入の上、\n乳幼児医療証や児童手当の新生児に一緒にご提出いただくか、早めに（生後14日以内）郵送してください。\n\n立川市では、赤ちゃんが健やかに育つよう、赤ちゃんのいるすべてのご家庭を訪問しています。育児のご相談やお母さんの健康についてのご相談、地域の子育て情報などをお伝えいたします。\n\n～赤ちゃん連絡票について～\n\n✿ 赤ちゃん連絡票は、乳幼児医療証や児童手当の申請時に、一緒に立川市役所子ども政策課窓口（または窓口サービスセンター）にご提出いただくか、健康推進課に郵送してください。\n✿ 命名がまだの場合は、赤ちゃんの氏名の欄は記入しなくても結構です。\n\n～赤ちゃん訪問について～\n\n✿ 後日、助産師や保健師がご記入いただいた連絡先にご連絡いたします。\n下記の問い合わせ電話番号以外の携帯電話等からご連絡する場合があります。\n✿ 赤ちゃん連絡票が届いてからご連絡するまでに時間がかかる場合があります。お急ぎで相談のある場合は健康推進課にご連絡ください。\n✿ 里帰り先（立川市外）で訪問を希望される方は、立川市健康推進課へお電話ください。（市区町村によっては受けられないこともあります。）\n✿ 里帰り先で新生児訪問をお受けになった場合でも、立川市の子育て情報などをお届けするためご赤ちゃん訪問をいたします。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出生連絡票・低体重児出生届",
+    "shortName": "赤ちゃん連絡票（出生通知票兼低出生体重児届出票）"
+  },
+  "localGovernmentLink": {
+    "title": "赤ちゃん連絡票（出生通知票兼低出生体重児届出票）",
+    "uri": "https://www.city.tachikawa.lg.jp/_res/projects/default_project/_page_/001/005/210/akacyanhoumon0204.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "立川市"
+  },
+  "procedureCounter": "立川市役所子ども政策課窓口（または窓口サービスセンター）にご提出いただくか、健康推進課に郵送してください。",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "赤ちゃん連絡票（出生通知票兼出生体重児届出票）にご記入の上、乳幼児医療証や児童手当の申請時に一緒にご提出いただくか、早めに（生後14日以内）郵送してください。",
+  "procedurePeriod": {
+    "conditions": "早めに（生後14日以内）郵送してください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第18条（低体重児の届出）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "赤ちゃんが生まれたら、母子手帳に添付されている出生連絡票（はがき）を記入して、郵送または提出してください。出生連絡票をもとに、「こんにちは赤ちゃん事業（乳幼児全戸訪問）」内部リンクのご連絡をします。\nなお、法律（母子保健法）で2,500グラム未満のお子さんが出生した時は、保護者がその旨を速やかに届け出ることが義務づけられており、出生連絡票はその届出を兼ねています。",
+  "support": {
+    "description": "立川市では、赤ちゃんが健やかに育つよう、赤ちゃんのいるすべてのご家庭を訪問しています。育児のご相談やお母さんの健康についてのご相談、地域の子育て情報などをお伝えいたします。",
+    "materiallySupport": "立川市では、赤ちゃんが健やかに育つよう、赤ちゃんのいるすべてのご家庭を訪問しています。育児のご相談やお母さんの健康についてのご相談、地域の子育て情報などをお伝えいたします。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "077"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": "赤ちゃん連絡票（出生通知票兼出生体重児届出票）にご記入の上、乳幼児医療証や児童手当の申請時に一緒にご提出いただくか、早めに（生後14日以内）郵送してください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

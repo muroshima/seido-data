@@ -1,0 +1,144 @@
+{
+  "area": {
+    "areaCode": "132152;国立市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子育て支援課 子ども家庭支援センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132152",
+    "psid": "psid3.0+1000020132152+1+UM110"
+  },
+  "belongings": null,
+  "capacity": "概ね10組",
+  "class": 1,
+  "contact": {
+    "contactAddress": "国立市富士見台2-47-1 国立市役所 1階(20番窓口)",
+    "contactComment": "ファクス：042-576-2283",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 子育て支援課 子ども家庭支援センター",
+    "contactPhone": "042-573-0192",
+    "contactUrl": "https://www.city.kunitachi.tokyo.jp/cgi-bin/inquiry.php/53?page_no=1722",
+    "zipCode": "1868501"
+  },
+  "cost": "0",
+  "costConditions": null,
+  "description": "子育てひろば\n\n子ども家庭支援センターが移転しました!!\n平成15年より長らく皆様にご利用いただいていた国立市子ども家庭支援センターが、下記のとおり機能移転しました。\n\n子育てひろば\n令和5年4月1日(土曜日)から、矢川プラス(富士見台4-17-65)に移転して、社会福祉法人くにたち子どもの夢・未来事業団が「ここすきひろば」として運営していきます。\n\n社会福祉法人くにたち子どもの夢・未来事業団;https://www.kunitachi-j.or.jp/\n\nここすきひろば;https://yagawa-plus.jp/facility/kokosuki_hiroba/\n\nその他の遊び場☆詳細については担当部署にお問い合わせください\n地域子育て支援拠点事業「つちのこひろば」\n「つちのこひろば」は、新型コロナウイルス感染症拡大防止のため、当面の間、利用時間の制限を設けて開催しております。\n\n国立市 地域子育て支援拠点事業 つちのこひろば;https://hatakenbo.org/tutinokohiroba\n\nカンガルー広場\n2歳を過ぎたら、おはようコケッコー\nおはようコケッコー;https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div01/Sec01/gyomu/0252/0255/1461061680653.html\n\n社会福祉協議会主催「かるがも」\n関連情報\n子ども家庭支援センターへのアクセス情報は、下記リンクをごらんください。\n\n子ども家庭支援センター;https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec03/index.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "日・火・水曜日及び年末年始",
+  "implementationPeriod": {
+    "conditions": "令和6年度は木･金･土曜日及び出張ひろば(城山公園)を月曜日(10:00～15:00）に開所",
+    "fromHM": "10:00",
+    "fromYMD": null,
+    "toHM": "15:30",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "国立市谷保5119（出張ひろばは「城山公園」国立市泉5-21-20）",
+    "implementationName": "つちのこや（出張ひろばは「城山公園」）"
+  },
+  "institutionName": {
+    "canonicalName": "子育て支援拠点・地域子育て支援センター",
+    "shortName": "地域子育て支援拠点事業「つちのこひろば」"
+  },
+  "localGovernmentLink": {
+    "title": "子育てひろば",
+    "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec03/gyomu/0237/0239/1461061679584.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "国立市"
+  },
+  "procedureCounter": "つちのこひろば（国立市谷保5119）電話042-505-7200（月･木･金･土曜日）（外部リンク）;https://k-nouennokai.org/tutinokohiroba/",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "開所日時に直接現地へお越しください。ご不明な点はお電話ください。",
+  "procedurePeriod": {
+    "conditions": "令和6年度は木･金･土曜日及び出張ひろば(城山公園)を月曜日に開所",
+    "fromHM": "10:00",
+    "fromYMD": null,
+    "toHM": "15:30",
+    "toYMD": null
+  },
+  "procedurePersons": "乳幼児（主として概ね3歳未満）及びその保護者",
+  "regulation": {
+    "regulationArticle": "第6条の3第6項、第21条の9",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "おはようコケッコー",
+      "uri": "https://hatakenbo.org/tutinokohiroba"
+    },
+    {
+      "title": "社会福祉法人くにたち子どもの夢・未来事業団",
+      "uri": "https://www.kunitachi-j.or.jp/"
+    },
+    {
+      "title": "国立市 地域子育て支援拠点事業 つちのこひろば",
+      "uri": "https://hatakenbo.org/tutinokohiroba"
+    },
+    {
+      "title": "ここすきひろば",
+      "uri": "https://yagawa-plus.jp/facility/kokosuki_hiroba/"
+    },
+    {
+      "title": "子ども家庭支援センター",
+      "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div01/Sec01/gyomu/0252/0255/1461061680653.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "国立市では市内のつちのこひろばを地域子育て支援拠点として、子育て中の親子が気軽に集い、相互交流や子育ての不安・悩みを相談できる場を提供しています。また、地域の子育て関連情報の提供や、子育て支援に関する講習なども実施しています。",
+  "support": {
+    "description": "国立市では市内のつちのこひろばを地域子育て支援拠点として、子育て中の親子が気軽に集い、相互交流や子育ての不安・悩みを相談できる場を提供しています。また、地域の子育て関連情報の提供や、子育て支援に関する講習なども実施しています。",
+    "materiallySupport": "国立市では市内のつちのこひろばを地域子育て支援拠点として、子育て中の親子が気軽に集い、相互交流や子育ての不安・悩みを相談できる場を提供しています。また、地域の子育て関連情報の提供や、子育て支援に関する講習なども実施しています。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "乳幼児（主として概ね3歳未満）及びその保護者",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 0,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "乳幼児（主として概ね3歳未満）及びその保護者"
+  },
+  "updateDate": "2023-09-29",
+  "useConsiderationFlag": false,
+  "utilization": "開所日時に直接現地へお越しください。ご不明な点はお電話ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "出張ひろば(城山公園)は10:00～15:00",
+    "fromHM": "10:00",
+    "toHM": "15:30"
+  }
+}

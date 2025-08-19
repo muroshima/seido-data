@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131024;中央区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "中央区保健所健康推進課健康係,福祉保健部日本橋保健センター健康係,福祉保健部月島保健センター健康係,福祉保健部晴海保健センター健康係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131024",
+    "psid": "psid3.0+8000020131024+1+UM14"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "明石町12番1号　中央区保健所4階,日本橋堀留町一丁目1番1号,月島二丁目10番3号,晴海四丁目8番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "中央区保健所健康推進課健康係,福祉保健部日本橋保健センター健康係,福祉保健部月島保健センター健康係,福祉保健部晴海保健センター健康係",
+    "contactPhone": "03-3541-5930,03-3661-5071,03-5560-0765,03-6381-2972",
+    "contactUrl": null,
+    "zipCode": "1040044,1030012,1040052,1040053"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "保健師・助産師等が訪問。赤ちゃんの体重測定や健康状態の確認、育児の心配事やママの体調の相談、子育てサービスの紹介等を行ないます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": "随時\nご自宅に伺います。",
+    "fromYMD": "随時\nご自宅に伺います。",
+    "toHM": "随時\nご自宅に伺います。",
+    "toYMD": "随時\nご自宅に伺います。"
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+    "shortName": "新生児訪問(赤ちゃん訪問)"
+  },
+  "localGovernmentLink": {
+    "title": "新生児訪問(赤ちゃん訪問)",
+    "uri": "https://www.city.chuo.lg.jp/a0031/kosodate/shussan/shussanshien/homonsido.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/07",
+    "updater": "中央区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "妊娠届時にお渡しした「母と子の保健バック」に同封されている出生通知書（赤ちゃん訪問連絡はがき）を保健所・保健センターにご送付ください。\nはがきが届き次第、ご連絡を差し上げます。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第21条の10の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "生後4か月を迎えるまでの乳児がいるご家庭には専門職のほか、研修を受けたスタッフが訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生後4ヶ月までの赤ちゃんがいる全家庭\n注記：里帰り出産の方もご相談ください。"
+  },
+  "updateDate": "2024/04/15",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

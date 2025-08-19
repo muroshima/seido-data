@@ -1,0 +1,138 @@
+{
+  "area": {
+    "areaCode": "132080;調布市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "調布市福祉健康部障害福祉課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020132080",
+    "psid": "psid3.0+7000020132080+1+UM824"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "調布市福祉健康部障害福祉課",
+    "contactPhone": "電話番号：042-481-7094・7089・7135",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "自立支援医療制度\n自立支援医療\n精神通院医療\n原則、指定する1か所の病院、診療所、薬局などで精神障害の医療を受ける場合に、10パーセントを自己負担します。\nなお、病名によって自己負担限度額が設定され、住民税非課税世帯の場合は、自己負担限度額分を助成します。\n\n更生医療\n身体障害者手帳をお持ちの満18歳以上の方で、眼科・耳鼻咽喉科・整形外科・脳神経外科・心臓・腎臓・肝臓・免疫などに係る医療及び調剤・訪問看護で、当該身体障害に対して確実な治療効果が期待される医療に限り、その医療費(保険診療)の自己負担額の一部を助成します。\n\n育成医療(平成25年4月1日より、窓口が東京都から調布市に変わりました)\n保護者が調布市に住所を有する18歳未満の児童で、身体に障害を有する方、またはこれを放置すると将来障害を残すと認められるが手術等によって障害の改善が見込まれる方で、区市町村民税(所得割)が23万5千円未満の世帯の方に、医療費(保険診療)の自己負担額の一部を助成します。\n\n助成の範囲\n対象となる医療費(保険診療)の自己負担の一部を助成します。(自己負担1割)ただし、ご家族の住民税額に応じて利用者世帯の負担上限額が設定されます。\n\n(注)自立支援医療制度は、申請の際に利用する医療機関・薬局を指定していただき、それ以外での医療機関・薬局では適用されませんのでご注意ください。\n(注)更生医療・育成医療については、入院時食事療養費標準負担などは助成の対象外です。\n精神通院は入院に係る医療費の助成はありません。\n(注)育成医療の自己負担額は、各医療費助成制度(乳幼児医療費助成制度、義務教育就学児医療費助成制度、ひとり親家庭等医療費助成制度、心身障害者医療費助成制度)の助成対象となります。\n使い方\n\n(注)月額自己負担上限額のある方は、「自己負担上限額管理票」も窓口に提出してください。\n(注)東京都外の医療機関や都内の一部医療機関ではご利用になれません。その場合は「医療費支給申請書兼口座振替依頼書」で、直接東京都に請求することで助成が受けられます。\n(注)精神通院に係る自立支援医療受給者証の有効期限は、申請受理日から1年間です。\n各種変更\n住所・氏名・健康保険証・医療機関などを変更する場合は、必ず届け出てください。\n\n外部リンク",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度（精神通院医療）",
+    "shortName": "自立支援医療制度/精神通院医療"
+  },
+  "localGovernmentLink": {
+    "title": "自立支援医療制度",
+    "uri": "https://www.city.chofu.lg.jp/060050/p035010.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/21",
+    "updater": "調布市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請のお手続き\n次の1から4までをお持ちのうえ、窓口で申請してください。\nなお、助成対象によってお手続きの書類が変わってきますので、事前にお問い合わせください。\n\n自立支援医療診断書(精神通院)、医師の意見書(更生医療・育成医療)、見積明細書(更生医療)\nご本人および同一世帯の方の健康保険証の写し(社会保険は被保険者、国民健康保険は同一の保険者全員)\nご本人及び同一世帯の方の住民税課税(非課税)証明書\n申請時期によって必要な年度が違いますので、事前にお問い合わせください。\n提出を省略できる場合があります。\n更新の方は、現在お持ちの受給者証",
+  "procedurePeriod": {
+    "conditions": "有効期限満了の3か月前から更新のお手続きができます。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [
+    {
+      "title": "自立支援医療(育成医療) 東京都福祉局のホームページ",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/iku_iryou.html"
+    },
+    {
+      "title": "自立支援医療(精神通院) 東京都福祉局のホームページ",
+      "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/shougai/nichijo/tsuuin/seishintsuuin.html"
+    },
+    {
+      "title": "自立支援医療(更生医療) 東京都福祉局のホームページ",
+      "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/shougai/nichijo/s_iryou.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+  "support": {
+    "description": "その医療に必要な費用の90パーセントを保険者と公費で負担",
+    "materiallySupport": null,
+    "monetarySupport": "その医療に必要な費用の90パーセントを保険者と公費で負担"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "通院治療が必要な精神疾患のある方"
+  },
+  "updateDate": "2021/01/19",
+  "useConsiderationFlag": false,
+  "utilization": "「自立支援医療受給者証」を健康保険証と一緒に、受給者証に記載された医療機関・薬局の窓口に提出することで、医療費が助成されます。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "area": {
+    "areaCode": "132110;小平市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部 障がい者支援課サービス支援担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "2000020132110",
+    "psid": "psid3.0+2000020132110+1+UM824"
+  },
+  "belongings": "必要書類\n自立支援医療費（精神通院）支給認定申請書（障がい者支援課窓口にあります）\n所定様式の診断書（申請日から3か月以内に発行されたもの。有効期限内の更新申請の場合、診断書の提出は2年に1度です。）\n自立支援医療受給者証（精神通院）の原本（更新、再開申請の方）\n健康保険資格情報の確認書類（次のいずれか①健康保険証（有効期限内のもの）②資格確認書③マイナポータルの資格情報画面のスクリーンショットを印刷したもの　※国民健康保険組合、国民健康保険（小平市以外）、後期高齢者医療制度の方は同一保険に加入している世帯員全員分）。もしくは生活保護受給証明書\n市・都民税の課税状況が分かる書類\n印鑑\nマイナンバーが確認できるもの\n本人確認書類\n追加交付のための「理由書」（医師の指示により、複数の医療機関や薬局を利用の方、または訪問看護を利用する方のみ必要）\n注）市・都民税の課税状況が分かる書類について\n\n国民健康保険・国民健康保険組合、後期高齢者医療制度の方は、同じ保険に加入されている方全員分の課税状況の確認が必要です。社会保険、共済組合の方は、被保険者の課税状況の確認が必要です。\n\n該当年度の1月1日時点で住民票が小平市にあり、税の申告をしていれば、同意書に基づき税書類を省略することができます。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "小平市小川町2-1333　健康福祉事務センター1階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康福祉部 障がい者支援課サービス支援担当",
+    "contactPhone": "電話：042-346-9542",
+    "contactUrl": null,
+    "zipCode": "1878701"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "自立支援医療費制度（精神通院医療）のご案内\n印刷する\n\nツイートする;http://twitter.com/share?url=https%3A%2F%2Fwww.city.kodaira.tokyo.jp%2Fkurashi%2F003%2F003641.html&text=%E8%87%AA%E7%AB%8B%E6%94%AF%E6%8F%B4%E5%8C%BB%E7%99%82%E8%B2%BB%E5%88%B6%E5%BA%A6%EF%BC%88%E7%B2%BE%E7%A5%9E%E9%80%9A%E9%99%A2%E5%8C%BB%E7%99%82%EF%BC%89%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85%7c%E5%B0%8F%E5%B9%B3%E5%B8%82\nFacebookでシェアする;http://www.facebook.com/share.php?u=https%3A%2F%2Fwww.city.kodaira.tokyo.jp%2Fkurashi%2F003%2F003641.html\nLINEで送る;http://line.me/R/msg/text/?https%3A%2F%2Fwww.city.kodaira.tokyo.jp%2Fkurashi%2F003%2F003641.html\n東京都の審査により認定を受けた方には受給者証を交付します。\n\n注）世帯の所得や通院先により対象外となる場合があります。\n\n精神障害者保健福祉手帳を同時申請される方へ\n精神障害者保健福祉手帳と同時申請（手帳も診断書で同日申請）する場合は、医療機関に「手帳用診断書」をご依頼ください。\n\n詳しくは、精神障害者保健福祉手帳のご案内;https://www.city.kodaira.tokyo.jp/kurashi/003/003637.htmlをご覧ください。\n\n関連リンク",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度（精神通院医療）",
+    "shortName": "自立支援医療費制度（精神通院医療）"
+  },
+  "localGovernmentLink": {
+    "title": "自立支援医療費制度（精神通院医療）のご案内",
+    "uri": "https://www.city.kodaira.tokyo.jp/kurashi/003/003641.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/10",
+    "updater": "小平市"
+  },
+  "procedureCounter": "障がい者支援課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請方法\n 必要書類をそろえ、障がい者支援課へ\n\n注）東部出張所、西部出張所、動く市役所では手続きや書類のお渡しはできません。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [
+    {
+      "title": "精神障害者保健福祉手帳のご案内",
+      "uri": "https://www.city.kodaira.tokyo.jp/kurashi/003/003637.html"
+    },
+    {
+      "title": "自立支援医療費制度（精神通院医療）について（東京都福祉保健局）",
+      "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/shougai/nichijo/tsuuin/seishintsuuin.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "精神障害者等が自立した日常生活又は社会生活を営むことができるよう、精神障害の状態の軽減のために必要な医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+  "support": {
+    "description": "精神通院医療に係る診療費や薬代、デイケアや訪問看護の自己負担を、原則3割から1割に軽減する制度です。",
+    "materiallySupport": null,
+    "monetarySupport": "費用の自己負担を、原則3割から1割に軽減"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象者\n精神疾患を理由として、通院医療を継続的に必要とする方（てんかんを含む）"
+  },
+  "updateDate": "2022/03/23",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

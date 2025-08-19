@@ -1,0 +1,138 @@
+{
+  "area": {
+    "areaCode": "131067;台東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "浅草保健相談センター　母子健康包括支援担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131067",
+    "psid": "psid3.0+6000020131067+4+UM47"
+  },
+  "belongings": "母子健康手帳",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "浅草保健相談センター　母子健康包括支援担当",
+    "contactPhone": "03-3844-8177",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "妊娠後期面接とは\n台東区では、安心して出産・子育てをしていただくために、ご希望の方に妊娠後期面接を行っています。\n面接では、保健師等がお話をうかがい、産前産後の過ごし方や準備、産後の手続きやサービスなどを一緒に確認し、出産・子育ての不安を軽減していただけるよう支援します。\n出産、子育てに向けてご心配がある方は、ぜひご相談ください。\n\n対象の方\n面接日に、台東区に住民登録がある妊娠8か月以降の妊婦の方（ご本人）\n\n面接場所\n●浅草保健相談センター3階\n（台東区花川戸2丁目11番10号）\n\n●台東保健所2階\n（台東区東上野4丁目22番8号）\n＊対面での面接を原則としていますが、切迫流産・早産等による入院や里帰り中などの事情がある方はご相談ください。\n\n面接受付日時\n月～金曜日までの午前9時～午後4時30分\n（祝日・年末年始を除く）\n\n持ち物\n母子健康手帳\n\n予約\n電子申請フォームから会場・日時を選んで予約してください。\n＊当日の面接をご希望の方は、電話での予約をお願いしています。\n予約なく来所された場合は、お待ちいただく場合があります。\n予約はこちら;https://logoform.jp/form/sQhE/442359\n\n電話でも予約を受け付けています。各面接場所にご連絡ください。\n浅草保健相談センター：03-3844-81712\n台東保健所：03-3847-9497\n\n面接を希望しない方\nアンケートの回答のみご協力お願いいたします。\n対象の地域をご確認いただき、下記のアンケート回答フォームから回答をお願いします。\n【浅草】\n浅草、花川戸、雷門、西浅草、元浅草、寿、小島、三筋、駒形、蔵前、鳥越、浅草橋、柳橋、千束1・2丁目1～32番地・3・4丁目、東浅草、今戸、橋場、清川、日本堤1・2丁目1～35番地、東上野6丁目、松が谷1・2・3丁目1～9番地\n\n【台東】\n上野、東上野1～5丁目、上野公園、台東、秋葉原、池之端、上野桜木、谷中、千束2丁目33～36番地、竜泉、下谷、三ノ輪、日本堤2丁目36～39番地、根岸、松が谷3丁目10～23番地・4丁目、入谷、北上野\nアンケート回答（浅草）;https://logoform.jp/form/sQhE/495570\nアンケート回答（台東）;https://logoform.jp/form/sQhE/502343",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "予約はこちら",
+      "uri": "https://logoform.jp/form/sQhE/442359"
+    }
+  ],
+  "holiday": "祝日・年末年始",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "台東区花川戸2丁目11番10号,台東区東上野4丁目22番8号",
+    "implementationName": "浅草保健相談センター3階,台東保健所2階"
+  },
+  "institutionName": {
+    "canonicalName": "台東区の妊娠・出産に関する相談",
+    "shortName": "妊娠後期面接"
+  },
+  "localGovernmentLink": {
+    "title": "妊娠後期面接（妊娠8か月以降の方の相談支援を行います）",
+    "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/nenrei/ninshinki/soudan_shien/ninshinkouki.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "台東区"
+  },
+  "procedureCounter": "浅草保健相談センター　　　保健指導担当　電話番号：03-3844-8172\n台東保健所保健サービス課　保健指導担当　電話番号：03-3847-9497",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "持ち物\n母子健康手帳\n\n予約\n電子申請フォームから会場・日時を選んで予約してください。\n＊当日の面接をご希望の方は、電話での予約をお願いしています。\n予約なく来所された場合は、お待ちいただく場合があります。\n予約はこちら;https://logoform.jp/form/sQhE/442359\n電話でも予約を受け付けています。各面接場所にご連絡ください。\n浅草保健相談センター：03-3844-81712\n台東保健所：03-3847-9497",
+  "procedurePeriod": {
+    "conditions": "月～金曜日までの午前9時～午後4時30分\n（祝日・年末年始を除く）",
+    "fromHM": "09:00",
+    "fromYMD": null,
+    "toHM": "16:30",
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "アンケート回答（浅草）",
+      "uri": "https://logoform.jp/form/sQhE/495570"
+    },
+    {
+      "title": "アンケート回答（台東区）",
+      "uri": "https://logoform.jp/form/sQhE/502343"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "台東区では、安心して出産・子育てをしていただくために、ご希望の方に妊娠後期面接を行っています。",
+  "support": {
+    "description": "面接では、保健師等がお話をうかがい、産前産後の過ごし方や準備、産後の手続きやサービスなどを一緒に確認し、出産・子育ての不安を軽減していただけるよう支援します。",
+    "materiallySupport": "面接では、保健師等がお話をうかがい、産前産後の過ごし方や準備、産後の手続きやサービスなどを一緒に確認し、出産・子育ての不安を軽減していただけるよう支援します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "面接日に、台東区に住民登録がある妊娠8か月以降の妊婦の方（ご本人）"
+  },
+  "updateDate": "2024-04-03",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月～金曜日までの午前9時～午後4時30分",
+    "fromHM": "09:00",
+    "toHM": "16:30"
+  }
+}

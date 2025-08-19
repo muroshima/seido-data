@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132241;多摩市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども・若者政策課 幼児教育・保育担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132241",
+    "psid": "psid3.0+3000020132241+2+UM85"
+  },
+  "belongings": null,
+  "capacity": "1日最大2人\n※病状により1名に限定する場合あり",
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都多摩市関戸六丁目12番地1",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "聖蹟こどもTERRACE,子ども・若者政策課 幼児教育・保育担当",
+    "contactPhone": "042-400-5510,042-338-6850",
+    "contactUrl": null,
+    "zipCode": "2068666"
+  },
+  "cost": "3000",
+  "costConditions": "1日　3,000円\nその他、登録料や利用条件による諸費用については、施設にお問い合わせください。",
+  "description": "病児・病後児保育\n\nお子様が病気期間または病後・病気回復期にあって、集団保育を受けることが困難なときにご利用頂けます。\n\nいずれの施設も児童福祉法第34条の18の規定に基づき東京都に届け出て実施している事業です。\n\n利用には事前面接・登録・利用予約が必要です。詳しくは実施施設へ直接お問い合わせください。\n\n病児・病後児保育とは\n\nお子様が風邪等の病気にかかり集団生活が困難な期間において、保護者が仕事等により家庭で育児ができない場合に一時的にお子様をお預かりし、保護者の子育てを支援します。\n\n※対象年齢については、施設へお問い合わせください。\n\n聖蹟こどもTERRACE\n病児保育を実施している企業主導型保育所です。利用に際しての事前登録や注意事項等の詳細は施設へ直接お問い合わせください。\n聖蹟こどもTERRACE(病児保育)（外部リンク）;https://www.seiseki-kodomo-terrace.com/%E7%97%85%E5%85%90%E4%BF%9D%E8%82%B2/\n実施事業者　株式会社ウィズチャイルド\n施設概要\n|住所|多摩市関戸4-33-6|\n|電話番号|042-400-5510|\n\n利用日時\n月曜日～金曜日　8時30分～16時30分\n（土日祝、年末年始、看護師不在時を除く）\n\n※詳細は施設にお問い合わせください\n\n定員\n1日最大2人\n※病状により1名に限定する場合あり\n\n費用\n1日　3,000円\nその他、登録料や利用条件による諸費用については、施設にお問い合わせください。\n\n問い合わせ\n聖蹟こどもTERRACE\n\n電話：042-400-5510",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "土日祝、年末年始、看護師不在時",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "多摩市関戸4-33-6",
+    "implementationName": "聖蹟こどもTERRACE"
+  },
+  "institutionName": {
+    "canonicalName": "病児・病後児保育",
+    "shortName": "病児・病後児保育"
+  },
+  "localGovernmentLink": {
+    "title": "病児・病後児保育",
+    "uri": "https://www.city.tama.lg.jp/kosodate/1008019/1008030/1003562.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-05",
+    "updater": "多摩市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "利用者は直接希望の認証保育所へお申し込みください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第13項、第21条の9、第59条第11号",
+    "regulationName": "児童福祉法、子ども・子育て支援法"
+  },
+  "relatedLink": [
+    {
+      "title": "聖蹟こどもTERRACE(病児保育)（外部リンク）",
+      "uri": "https://www.seiseki-kodomo-terrace.com/%E7%97%85%E5%85%90%E4%BF%9D%E8%82%B2/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育所などに通所しているお子さんが病気や病気の回復期にあることから保育所での集団保育が困難で、かつ、保護者の就労などにより家庭で保育を行うことができない場合、病児・病後児保育を行っている施設で一時的に預かります。",
+  "support": {
+    "description": "お子様が風邪等の病気にかかり集団生活が困難な期間において、保護者が仕事等により家庭で育児ができない場合に一時的にお子様をお預かりし、保護者の子育てを支援します。",
+    "materiallySupport": "お子様が風邪等の病気にかかり集団生活が困難な期間において、保護者が仕事等により家庭で育児ができない場合に一時的にお子様をお預かりし、保護者の子育てを支援します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "※対象年齢については、施設へお問い合わせください。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "お子様が病気期間または病後・病気回復期にあって、集団保育を受けることが困難なとき\n※対象年齢については、施設へお問い合わせください。"
+  },
+  "updateDate": "2023-10-05",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "月曜日～金曜日　8時30分～16時30分\n（土日祝、年末年始、看護師不在時を除く）\n\n※詳細は施設にお問い合わせください",
+    "fromHM": "08:30",
+    "toHM": "16:30"
+  }
+}

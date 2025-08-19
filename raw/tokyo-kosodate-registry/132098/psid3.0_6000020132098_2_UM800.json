@@ -1,0 +1,126 @@
+{
+  "area": {
+    "areaCode": "132098;町田市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども生活部子ども総務課企画総務係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020132098",
+    "psid": "psid3.0+6000020132098+2+UM800"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども生活部子ども総務課企画総務係",
+    "contactPhone": "042-724-2876",
+    "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/6",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "移動版「赤ちゃん・ふらっと」として、乳幼児を連れた保護者が安心してイベント等に参加できるよう、「まちだ赤ちゃんテント」の貸出しを行っています。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "子どもセンターばあん・まあち（分離型テント）\n子どもセンターただON（一体型テント）"
+  },
+  "institutionName": {
+    "canonicalName": "授乳・おむつ替え施設（赤ちゃんの駅等）",
+    "shortName": "「まちだ赤ちゃんテント」の貸出し"
+  },
+  "localGovernmentLink": {
+    "title": "「まちだ赤ちゃんテント」の貸出し",
+    "uri": "https://kosodate-machida.tokyo.jp/mokuteki/8/5/10318.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "町田市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "事前に電話で各子どもセンターに予約状況をご確認ください。貸出し可能な場合は仮予約をします。\n\n町田市移動式授乳施設（まちだ赤ちゃんテント）貸出し事業について (PDFファイル: 111.7KB)\nhttps://kosodate-machida.tokyo.jp/material/files/group/1/tennto_youkou.pdf",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "移動版「赤ちゃん・ふらっと」として、乳幼児を連れた保護者が安心してイベント等に参加できるよう、「まちだ赤ちゃんテント」の貸出しを行っています。",
+  "support": {
+    "description": "「まちだ赤ちゃんテント」の貸出し\n\n授乳・おむつ替えスペース一体型テント\nhttps://kosodate-machida.tokyo.jp/material/images/group/5/akachanntennto3.png\n\n授乳・おむつ替えスペース分離型テント\nhttps://kosodate-machida.tokyo.jp/material/images/group/5/akachanntennto1.png\n\n組み立て時・収納時の大きさと重量（一体型テント） (PDFファイル: 480.2KB)\nhttps://kosodate-machida.tokyo.jp/material/files/group/5/tennto1.pdf\n\n組み立て時・収納時の大きさと重量（分離型テント） (PDFファイル: 405.0KB)\nhttps://kosodate-machida.tokyo.jp/material/files/group/5/tennto2.pdf",
+    "materiallySupport": "「まちだ赤ちゃんテント」の貸出し",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "088",
+      "089",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "次のすべての条件を満たすイベントを主催する方に貸出しを行います。\n1．市内で乳幼児を連れた保護者が参加できるイベント\n2．特定の政治、思想又は宗教の活動を目的としないイベント\n3．法令又は公序良俗に反しないイベント",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次のすべての条件を満たすイベントを主催する方に貸出しを行います。\n1．市内で乳幼児を連れた保護者が参加できるイベント\n2．特定の政治、思想又は宗教の活動を目的としないイベント\n3．法令又は公序良俗に反しないイベント"
+  },
+  "updateDate": "2023-03-23",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

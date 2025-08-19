@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131075;墨田区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども施設課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131075",
+    "psid": "psid3.0+6000020131075+1+UM93"
+  },
+  "belongings": null,
+  "capacity": "家庭的保育者1人つき3名（補助者がいる場合は5名まで）",
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども施設課 保育係",
+    "contactPhone": "03-5608-1248",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "保育料は、保育料徴収基準額表（短時間）に基づきます。\n時間外保育料は、認可保育園の延長料金体系とは異なり、30分300円、1時間600円です。\n利用した時間外保育の料金は、上記保育料とは別途にかかりますのでご注意ください。",
+  "description": "https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/azukeru/hoikuen/ninka_hoiku/hoikumama294.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "日曜日、国民の休日、年末年始（12月29日から1月3日まで）及び家庭的保育者の休業日",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "家庭的保育（保育ママ）一覧",
+    "shortName": "家庭的保育者（保育ママ）"
+  },
+  "localGovernmentLink": {
+    "title": "家庭的保育者（保育ママ）",
+    "uri": "https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/azukeru/hoikuen/ninka_hoiku/hoikumama294.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "墨田区"
+  },
+  "procedureCounter": "子ども施設課入園係（区役所4階）",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "お申し込み方法\n空き状況をご確認のうえ、子ども施設課入園係（区役所4階）までお申し込みください。\nお申し込み方法は認可保育園と同じです。\n※家庭的保育事業は2歳児クラスで保育が終了する保育施設です。2歳児卒室に伴う4月転所（3歳児クラス）を行う場合には調整指数が加算されます。詳しくは「保育施設利用申し込みのご案内」;https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/azukeru/hoikuen/nyuuen/riyou_annai/a.htmlの墨田区利用調整基準のページをご覧ください。\n\n墨田区認可保育所等園マップ\n墨田区認可保育所等園マップ・園ガイドについて;https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/azukeru/hoikuen/ninka_hoiku/ninkaguide.html\n墨田区認可保育所等園マップを掲載していますので、ご活用ください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第二章 家庭的保育事業",
+    "regulationName": "家庭的保育事業等の設備及び運営に関する基準"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "市区町村の認可事業として行われる家庭的保育（保育ママ）は、3歳未満の保育が必要なお子さんを、少人数（定員5人以下）で、墨田区が認定した家庭的保育者の自宅などで預かるサービスです。家庭的な雰囲気の中できめ細かな保育を実施します。",
+  "support": {
+    "description": "墨田区が認可した家庭的保育者（保育ママ）の自宅等でお子様をお預かり",
+    "materiallySupport": "墨田区が認可した家庭的保育者（保育ママ）の自宅等でお子様をお預かり",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "生後43日から3歳未満の健康なお子様で、認定区分は「3号認定」で保育の必要量は「短時間保育」の方が対象となります。\nなお、お子様の年齢は4月1日を基準とし、年度途中で3歳になってもその年度はお預かりできます。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生後43日から3歳未満の健康なお子様で、認定区分は「3号認定」で保育の必要量は「短時間保育」の方が対象となります。\nなお、お子様の年齢は4月1日を基準とし、年度途中で3歳になってもその年度はお預かりできます。"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "保育日\n月曜日から土曜日です。\nただし、日曜日、国民の休日、年末年始（12月29日から1月3日まで）及び家庭的保育者の休業日を除きます。\n※空き状況のページ;https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/azukeru/hoikuen/bosyuusuu/index.html（募集数一覧）にてご案内しています。\n\n保育時間\n8時30分から16時30分までと9時から5時までのどちらかの8時間を選択していただきます。\n選択した8時間以外は時間外保育となり、別途時間外保育料金がかかります。\n家庭的保育者によって時間外保育の利用可能な時間が違います。\n※空き状況のページ;https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/azukeru/hoikuen/bosyuusuu/index.html（募集数一覧）にてご案内しています。",
+    "fromHM": null,
+    "toHM": null
+  }
+}

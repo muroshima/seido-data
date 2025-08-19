@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132039;武蔵野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部 健康課 母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132039",
+    "psid": "psid3.0+8000020132039+1+UM18"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都武蔵野市吉祥寺北町4‐8‐10　武蔵野市立保健センター1階",
+    "contactComment": "ファクス番号：0422-51-9297",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康福祉部 健康課 母子保健係",
+    "contactPhone": "0422-51-0700",
+    "contactUrl": "https://www.city.musashino.lg.jp/cgi-crm/CRM030/CRM030_001/G00700500/1035954",
+    "zipCode": "1800001"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "母子保健　よくある質問\n東京都の助成事業があります。\n東京都の市町村（八王子市及び町田市を除く）に住所を有し、下記の対象疾病にかかっているかたで、認定基準を満たし、医療機関に入院して治療を受ける必要のあるかたに対し、東京都が助成を行っています。\n\n対象疾病\n\n妊娠高血圧症候群及びその関連疾患\n糖尿病\n貧血\n産科出血\n心疾患\n詳細については東京都のホームページをご覧ください。 \n\n妊娠高血圧症候群等の医療費助成(東京都福祉保健局)（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/n_ketsuatsu.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊娠高血圧症候群（妊娠中毒症）に関する助成",
+    "shortName": "妊娠中の病気に対する医療費助成"
+  },
+  "localGovernmentLink": {
+    "title": "母子保健　よくある質問",
+    "uri": "https://www.city.musashino.lg.jp/faq/shussan_kodomo_kyoiku/boshihoken/1032414.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "武蔵野市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "詳細については東京都のホームページをご覧ください。\n妊娠高血圧症候群等の医療費助成(東京都福祉保健局)（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/n_ketsuatsu.html",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "妊娠高血圧症候群等の医療費助成(東京都福祉保健局)（外部リンク）",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/n_ketsuatsu.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "東京都の市町村（八王子市及び町田市を除く）に住所を有し、対象疾病にかかっているかたで、認定基準を満たし、医療機関に入院して治療を受ける必要のあるかたに対し、東京都が助成を行っています。",
+  "support": {
+    "description": "詳細については東京都のホームページをご覧ください。\n妊娠高血圧症候群等の医療費助成(東京都福祉保健局)（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/n_ketsuatsu.html",
+    "materiallySupport": null,
+    "monetarySupport": "詳細については東京都のホームページをご覧ください。\n妊娠高血圧症候群等の医療費助成(東京都福祉保健局)（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/josei/n_ketsuatsu.html"
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "東京都の市町村（八王子市及び町田市を除く）に住所を有し、対象疾病にかかっている方で、認定基準を満たし、医療機関に入院して治療を受ける必要のあるかた"
+  },
+  "updateDate": "2023-09-08",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

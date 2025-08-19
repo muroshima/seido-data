@@ -1,0 +1,140 @@
+{
+  "area": {
+    "areaCode": "132063;府中市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部子ども家庭支援課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132063",
+    "psid": "psid3.0+8000020132063+2+UM119"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部子ども家庭支援課",
+    "contactPhone": null,
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "無料（ただし、スマートフォン等の通信にかかる費用は、利用者される方の負担となります。）",
+  "description": "オンライン子育て相談事業\n最終更新日：2023年4月13日\n府中市では、妊娠期から子育て期までの切れ目ない支援体制を充実させるため、従来の相談支援体制だけでなく、ウィズ/ポストコロナ時代でも安心して妊娠・出産・子育てを迎えることができるよう、ICTを活用した新しい母子保健の取り組みとして、スマートフォンから産婦人科医・助産師・小児科医に気軽に子育てに関する悩み等が相談できる事業を令和4年4月から株式会社Kids Publicに委託し開始しました。\n産婦人科医・助産師・小児科医に産後の生活、子どもの健康、子育ての悩みなどを相談できるだけでなく、医療記事の配信やオンラインLIVE配信等のサービスもありますので、ぜひご登録ください。\n　\n\nオンライン子育て相談事業のチラシはこちらからダウンロードできます。 （PDF：348KB）;https://www.city.fuchu.tokyo.jp/kosodate/shussan/sodan/onlineconsultation.files/fuchu_online_.pdf\n\n対象\n府中市に在住の妊婦、就学前の子どもがいる方\n\n利用方法\n利用するためには、下の二次元バーコードからLINEの友達追加をしていただくか、小児科オンラインのウェブサイトから会員登録をしていただく必要があります。また、パスワードが必要です。\nパスワードは、乳幼児健診や母子手帳の交付の際にお渡しするほか、子育て世代包括支援センターでもお配りします。\n\n小児科オンラインホームページ（外部サイト）;https://syounika.jp/\n\nhttps://www.city.fuchu.tokyo.jp/kosodate/shussan/sodan/onlineconsultation.images/link.bmp\n友達追加用二次元バーコード\n提供サービス\n登録すると利用できるサービスは以下のとおりです。\n\nいつでも相談　毎日24時間、質問を受付け24時間以内に回答を送付します。\n夜間相談　平日18時から22時（1枠10分の予約制）にメッセージチャットや動画通話で相談に対応します。\n医療記事配信　小児科医・産婦人科医・助産師が執筆した記事を配信します。\nオンラインLIVE配信　月に2回、授乳や卒乳、離乳食などに関する動画をLIVE配信します。\n費用\n無料（ただし、スマートフォン等の通信にかかる費用は、利用者される方の負担となります。）\n\nその他\n令和5年度の本事業は地域少子化対策重点推進交付金（令和4年度第2次補正）の交付を受け実施しています。\n計画書はこちらをご覧ください。\n\n事業実施計画書 （PDF：176KB）;https://www.city.fuchu.tokyo.jp/kosodate/shussan/sodan/onlineconsultation.files/R5keikakusyo.pdf",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "友達追加用二次元バーコード",
+      "uri": "https://www.city.fuchu.tokyo.jp/kosodate/shussan/sodan/onlineconsultation.images/link.bmp"
+    },
+    {
+      "title": "小児科オンラインホームページ（外部サイト）",
+      "uri": "https://syounika.jp/"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "府中市の子育てに関する相談",
+    "shortName": "オンライン子育て相談事業"
+  },
+  "localGovernmentLink": {
+    "title": "オンライン子育て相談事業",
+    "uri": "https://www.city.fuchu.tokyo.jp/kosodate/shussan/sodan/onlineconsultation.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-08",
+    "updater": "府中市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "夜間相談　1枠10分の予約制",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "事業実施計画書 （PDF：176KB）",
+      "uri": "https://www.city.fuchu.tokyo.jp/kosodate/shussan/sodan/onlineconsultation.files/R5keikakusyo.pdf"
+    },
+    {
+      "title": "オンライン子育て相談事業のチラシはこちらからダウンロードできます。 （PDF：348KB）",
+      "uri": "https://www.city.fuchu.tokyo.jp/kosodate/shussan/sodan/onlineconsultation.files/fuchu_online_.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "府中市では、スマートフォンから産婦人科医・助産師・小児科医に気軽に子育てに関する悩み等を相談できるオンライン子育て相談を行っています。\n産婦人科医・助産師・小児科医に産後の生活、子どもの健康、子育ての悩みなどを相談できるだけでなく、医療記事の配信やオンラインLIVE配信等のサービスもありますので、ぜひご登録ください。",
+  "support": {
+    "description": "スマートフォンから産婦人科医・助産師・小児科医に気軽に子育てに関する悩み等が相談できる事業\n\n登録すると利用できるサービスは以下のとおりです。\n\n1.いつでも相談　毎日24時間、質問を受付け24時間以内に回答を送付します。\n2.夜間相談　平日18時から22時（1枠10分の予約制）にメッセージチャットや動画通話で相談に対応します。\n3.医療記事配信　小児科医・産婦人科医・助産師が執筆した記事を配信します。\n4.オンラインLIVE配信　月に2回、授乳や卒乳、離乳食などに関する動画をLIVE配信します。",
+    "materiallySupport": "スマートフォンから産婦人科医・助産師・小児科医に気軽に子育てに関する悩み等が相談できる事業\n\n登録すると利用できるサービスは以下のとおりです。\n\n1.いつでも相談　毎日24時間、質問を受付け24時間以内に回答を送付します。\n2.夜間相談　平日18時から22時（1枠10分の予約制）にメッセージチャットや動画通話で相談に対応します。\n3.医療記事配信　小児科医・産婦人科医・助産師が執筆した記事を配信します。\n4.オンラインLIVE配信　月に2回、授乳や卒乳、離乳食などに関する動画をLIVE配信します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "府中市に在住の妊婦、就学前の子どもがいる方"
+  },
+  "updateDate": "2023-04-13",
+  "useConsiderationFlag": false,
+  "utilization": "利用するためには、下の二次元バーコードからLINEの友達追加をしていただくか、小児科オンラインのウェブサイトから会員登録をしていただく必要があります。また、パスワードが必要です。\nパスワードは、乳幼児健診や母子手帳の交付の際にお渡しするほか、子育て世代包括支援センターでもお配りします。\n\n小児科オンラインホームページ（外部サイト）;https://syounika.jp/\n\nhttps://www.city.fuchu.tokyo.jp/kosodate/shussan/sodan/onlineconsultation.images/link.bmp\n友達追加用二次元バーコード",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "1.いつでも相談　毎日24時間\n2.夜間相談　平日18時から22時（1枠10分の予約制）",
+    "fromHM": null,
+    "toHM": null
+  }
+}

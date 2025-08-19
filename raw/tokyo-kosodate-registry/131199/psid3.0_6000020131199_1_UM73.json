@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131199;板橋区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 保育サービス課 入園相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131199",
+    "psid": "psid3.0+6000020131199+1+UM73"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都板橋区板橋二丁目66番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "板橋区 教育委員会事務局 学務課 幼稚園係",
+    "contactPhone": "03-3579-2613",
+    "contactUrl": null,
+    "zipCode": "1738501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "認可保育施設\n子ども・子育て支援新制度に定められた保育士等の数や施設の基準を満たし、児童福祉法ならびに子ども・子育て関連３法に基づき設置された保育施設です。区内の認可保育施設には、認可保育園、地域型保育施設、認定こども園があります。\nこれらの施設は区が入所を決定し、保育料を決定します。ただし、一部の民間企業等が運営する施設\n（私立保育園や地域型保育施設等）では、保育料以外に諸経費（制服代・スイミング代・行事費用等）がかかる場合があります。\n\n区への入所申込み|認可保育園<br>0 〜 5 歳児対象|国が定めた設置基準を満たした施設です。<br>〇区立保育園  …  板橋区が設置及び運営する保育園です。<br>〇私立保育園 … 社会福祉法人や民間企業等が設置及び運営する保育園です。<br>〇公設民営保育園 … 板橋区が設置し社会福祉法人等が運営する保育園です。|<|<|\n|地域型保育施設<br>0 〜 2 歳児対象|小規模保育園|6 人以上 19 人以下の少人数の保育を民間企業等が行います。|類型に A 型と B 型と保育所型（事業所内のみ）があります。<br>〇A 型…配置基準職員の 100% が有資格の保育士で、保育料は認可保育園と同等となります。<br>〇B 型…配置基準職員の 75% 以上が有資格の保育士で、保育料は認可保育園の 8 割となります。<br>〇保育所型…20 人以上の施設で、設置基準等は認可保育園と同等です。|\n|^|事業所内保育園|民間事業所が従業員の児童の保育を行う施設ですが、地域の方が利用できる地域枠があります。|^|\n|^|家庭福祉員、ベビールーム|家庭福祉員の自宅やベビールーム等で、家庭的な環境のもと、保育を行います。<br>開所時間：8:30 〜 18:00 <br>保育日：家庭福祉員→月〜金曜日／ベビールーム→月〜土曜日<br>※保育者が年次休暇を取得する際は代替保育となる場合があります。代替の保育日や保育者については施設長との相談になります。|<|\n|^|居宅訪問型保育事業|障がいや疾病等により集団保育が困難と認められる児童を、保護者の自宅において１対１で保育を行います。|<|\n|認定 こども園<br>（保育枠）|幼稚園型|教育と保育を一体的に行う施設です。主に保育園機能を利用する「保育枠」と、主に幼稚園機能を利用する「幼稚園枠」に分かれ、「保育枠」は区へ申請を行います。「保育枠」と「幼稚園枠」で入所手順が異なりますが、児童は入所後、合同で教育・保育を受けます。|<|\n|^|地方裁量型|^|^|",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "認可保育所（保育園）の利用について",
+    "shortName": "認可保育施設"
+  },
+  "localGovernmentLink": {
+    "title": "1.板橋区の幼稚園・保育施設の紹介",
+    "uri": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/048/694/r6/1.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "板橋区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "区への入所申込み",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第24条",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育園とは、保護者が共に働いていたり病気などの理由で、昼間家庭において保育を受けられないお子さんを、保護者に代わって保育する児童福祉施設で、法的には「保育所」といいます。\n保育所（保育園）には、国が定めた設置基準をクリアし、都道府県知事に認可された保育所と、それ以外の保育所がありますが、ここでは認可された保育所についてご案内します。\n保育園では在園児を対象とした「延長保育」のほか、「一時預かり」や「病児保育」、「障害児保育」などを行っている園もあります。",
+  "support": {
+    "description": "保育園とは、保護者が共に働いていたり病気などの理由で、昼間家庭において保育を受けられないお子さんを、保護者に代わって保育する児童福祉施設で、法的には「保育所」といいます。\n保育所（保育園）には、国が定めた設置基準をクリアし、都道府県知事に認可された保育所と、それ以外の保育所がありますが、ここでは認可された保育所についてご案内します。\n\n保育園では在園児を対象とした「延長保育」のほか、「一時預かり」や「病児保育」、「障害児保育」などを行っている園もあります。",
+    "materiallySupport": "保育所（保育園）には、国が定めた設置基準をクリアし、都道府県知事に認可された保育所と、それ以外の保育所がありますが、ここでは認可された保育所についてご案内します。\n保育園では在園児を対象とした「延長保育」のほか、「一時預かり」や「病児保育」、「障害児保育」などを行っている園もあります。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

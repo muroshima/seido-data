@@ -1,0 +1,139 @@
+{
+  "area": {
+    "areaCode": "132292;西東京市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "幼児教育・保育課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132292",
+    "psid": "psid3.0+1000020132292+1+UM95"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "西東京市南町五丁目6番13号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "幼児教育・保育課",
+    "contactPhone": "042-460-9842",
+    "contactUrl": null,
+    "zipCode": "1888666"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "幼児教育・保育の無償化対象施設（幼稚園・預かり保育事業等）の一覧\n\n幼児教育・保育の無償化対象施設のうち「幼稚園」「預かり保育事業」「子育て援助活動支援事業」「病児保育事業」については次のとおりです。\n追加・修正等がある場合は随時情報を更新します。\n\n無償化対象施設の一覧（幼稚園・子育て援助活動支援事業・病児保育事業）（令和4年4月1日現在）（PDF：370KB）;https://www.city.nishitokyo.lg.jp/kosodate/yotien/musyoukashisetsu.files/R4_youtien_itiran.pdf\n無償化対象施設の一覧（幼稚園・預かり保育）（令和5年4月1日現在）（PDF：483KB）;https://www.city.nishitokyo.lg.jp/kosodate/yotien/musyoukashisetsu.files/R5_azukarihoiku200niti_kakunin.pdf\n\n※「認可外保育施設・一時預かり事業」についての無償化対象施設は下記リンクをご覧ください。\n\n幼児教育・保育の無償化対象施設（認可外保育施設・一時預かり事業）の一覧;https://www.city.nishitokyo.lg.jp/kosodate/hoikuen/mushouka/taisyoushisetu.html\n\n関連リンク\n各区市町村における無償化対象施設等について（各区市町村において確認した特定子ども・子育て支援施設等の公示情報（外部リンク）;http://www.seikatubunka.metro.tokyo.jp/shigaku/hogosha/0000001354.html\n\n（東京都ホームページ＞トップページ＞都政情報＞都政＞組織情報＞東京都の組織・各局のページ＞生活文化局＞私立学校＞保護者負担軽減＞幼児教育・保育の無償化について）",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "無償化対象施設の一覧（幼稚園・子育て援助活動支援事業・病児保育事業）（令和4年4月1日現在）（PDF：370KB）;https://www.city.nishitokyo.lg.jp/kosodate/yotien/musyoukashisetsu.files/R4_youtien_itiran.pdf\n無償化対象施設の一覧（幼稚園・預かり保育）（令和5年4月1日現在）（PDF：483KB）;https://www.city.nishitokyo.lg.jp/kosodate/yotien/musyoukashisetsu.files/R5_azukarihoiku200niti_kakunin.pdf\n\n※「認可外保育施設・一時預かり事業」についての無償化対象施設は下記リンクをご覧ください。\n\n幼児教育・保育の無償化対象施設（認可外保育施設・一時預かり事業）の一覧;https://www.city.nishitokyo.lg.jp/kosodate/hoikuen/mushouka/taisyoushisetu.html"
+  },
+  "institutionName": {
+    "canonicalName": "新制度の幼稚園・認定こども園（幼稚園枠）一覧",
+    "shortName": "幼児教育・保育の無償化対象施設（幼稚園・預かり保育事業等）の一覧"
+  },
+  "localGovernmentLink": {
+    "title": "幼児教育・保育の無償化対象施設（幼稚園・預かり保育事業等）の一覧",
+    "uri": "https://www.city.nishitokyo.lg.jp/kosodate/yotien/musyoukashisetsu.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-11",
+    "updater": "西東京市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "無償化対象施設の一覧（幼稚園・子育て援助活動支援事業・病児保育事業）（令和4年4月1日現在）（PDF：370KB）",
+      "uri": "https://www.city.nishitokyo.lg.jp/kosodate/yotien/musyoukashisetsu.files/R4_youtien_itiran.pdf"
+    },
+    {
+      "title": "各区市町村における無償化対象施設等について（各区市町村において確認した特定子ども・子育て支援施設等の公示情報（外部リンク）",
+      "uri": "http://www.seikatubunka.metro.tokyo.jp/shigaku/hogosha/0000001354.html"
+    },
+    {
+      "title": "幼児教育・保育の無償化対象施設（認可外保育施設・一時預かり事業）の一覧",
+      "uri": "https://www.city.nishitokyo.lg.jp/kosodate/hoikuen/mushouka/taisyoushisetu.html"
+    },
+    {
+      "title": "無償化対象施設の一覧（幼稚園・預かり保育）（令和5年4月1日現在）（PDF：483KB）",
+      "uri": "https://www.city.nishitokyo.lg.jp/kosodate/yotien/musyoukashisetsu.files/R5_azukarihoiku200niti_kakunin.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "幼稚園には公立の幼稚園と私立の幼稚園があります。\n私立幼稚園には、新制度による給付を受ける幼稚園と、新制度には移行せず、私学助成を受けて運営している幼稚園があります。\n以下は、西東京市内の公立幼稚園と、新制度による給付を受ける幼稚園、および、認定こども園の幼稚園枠の一覧です。",
+  "support": {
+    "description": "幼児教育・保育の無償化対象施設のうち「幼稚園」「預かり保育事業」「子育て援助活動支援事業」「病児保育事業」については次のとおりです。\n\n追加・修正等がある場合は随時情報を更新します。\n\n無償化対象施設の一覧（幼稚園・子育て援助活動支援事業・病児保育事業）（令和4年4月1日現在）（PDF：370KB）;https://www.city.nishitokyo.lg.jp/kosodate/yotien/musyoukashisetsu.files/R4_youtien_itiran.pdf\n\n無償化対象施設の一覧（幼稚園・預かり保育）（令和5年4月1日現在）（PDF：483KB）;https://www.city.nishitokyo.lg.jp/kosodate/yotien/musyoukashisetsu.files/R5_azukarihoiku200niti_kakunin.pdf",
+    "materiallySupport": "幼児教育・保育の無償化対象施設のうち「幼稚園」「預かり保育事業」「子育て援助活動支援事業」「病児保育事業」については次のとおりです。\n\n追加・修正等がある場合は随時情報を更新します。\n\n無償化対象施設の一覧（幼稚園・子育て援助活動支援事業・病児保育事業）（令和4年4月1日現在）（PDF：370KB）;https://www.city.nishitokyo.lg.jp/kosodate/yotien/musyoukashisetsu.files/R4_youtien_itiran.pdf\n\n無償化対象施設の一覧（幼稚園・預かり保育）（令和5年4月1日現在）（PDF：483KB）;https://www.city.nishitokyo.lg.jp/kosodate/yotien/musyoukashisetsu.files/R5_azukarihoiku200niti_kakunin.pdf",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004"
+    ],
+    "contentsCode": [
+      "081"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2023-09-29",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

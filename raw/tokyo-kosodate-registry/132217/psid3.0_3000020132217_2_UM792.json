@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132217;清瀬市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子育て支援課母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020132217",
+    "psid": "psid3.0+3000020132217+2+UM792"
+  },
+  "belongings": "母子健康手帳、親と子の歯ブラシ・コップ\n",
+  "capacity": "15分毎親子各1組から2組",
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都清瀬市中里5-842　しあわせ未来センター1階",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子育て支援課母子保健係",
+    "contactPhone": "042-497-2077",
+    "contactUrl": null,
+    "zipCode": "2048511"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "親子歯科健診\nページ番号1012029　 更新日 2024年4月24日印刷大きな文字で印刷\n親子で受けよう！歯科健診\nイラスト：猫の親子\n1歳6か月を過ぎると乳臼歯が生え、食べられるものも増えてきます。まだ自分では歯みがきができず、仕上げ磨きもまだまだ嫌がるのでむし歯が心配ですね。\nパパ、ママもなかなか歯科医院にいけない時期でもあります。\n親子で一緒に歯科定期健診を受けましょう。自分で磨けるようになる練習やフッ素塗布（無料・概ね3歳以降）も行ないます。\n\n対象\n市内在住の概ね1歳6か月から4歳の幼児と保護者\n\n親子歯みがき教室を受講した乳幼児と保護者\n\n日時\n月曜日または水曜日（月5～6回）、個別予約。\n午後：1時～3時15分　15分毎親子各1組から2組\n\n注：予約可能な日時はは下記申込みフォームにてご確認ください。\n\n場所\n清瀬市しあわせ未来センター\n\n申し込み\n申込みフォーム（下記リンクよりお申し込みください）\n申込みフォーム（外部リンク）;https://logoform.jp/form/QzsJ/428132",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "親子歯科健診",
+      "uri": "https://logoform.jp/form/QzsJ/428132"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "月曜日または水曜日（月5～6回）、個別予約。\n午後：1時～3時15分",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "東京都清瀬市中里5-842",
+    "implementationName": "しあわせ未来センター"
+  },
+  "institutionName": {
+    "canonicalName": "乳幼児の歯の健康診査",
+    "shortName": "親子歯科健診"
+  },
+  "localGovernmentLink": {
+    "title": "親子歯科健診",
+    "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kodomokenkoukanri/1012175/1012029.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "清瀬市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申込みフォームよりお申し込みください",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "「むし歯が心配」「歯並びが気になる」「フッ素や歯磨剤の使い方を知りたい」「子どもが自分で歯磨きできるようにしたい」という方へ\n親子で受けられる歯科定期健診事業です。",
+  "support": {
+    "description": "親子で一緒に歯科定期健診を受けましょう。",
+    "materiallySupport": "歯科定期健診",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "市内在住の概ね1歳6か月から4歳の幼児と保護者",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": 6
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 4,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "市内在住の概ね1歳6か月から4歳の幼児と保護者\n親子歯みがき教室を受講した乳幼児と保護者"
+  },
+  "updateDate": "2024-04-24",
+  "useConsiderationFlag": false,
+  "utilization": "申込みフォームよりお申し込みください",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康推進課管理・事業グループ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+1+UM8"
+  },
+  "belongings": "・母子健康手帳\n・妊産婦歯科健康診査受診票\n・健康保険証\n・歯ブラシ",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康推進課管理・事業グループ",
+    "contactPhone": "03-3987-4173",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "豊島区は妊産婦の口腔衛生の向上、安全な出産、乳幼児の健やかな発育のため、妊産婦歯科健康診査を実施しています。\n妊娠中は身体の変化から歯周病などお口の中の環境が悪化するといわれています。\nまた出産後も育児におわれ口腔ケアがおろそかになりがちです。歯周病などを予防するために歯科健診を受けましょう。\nぜひこの機会に受診し、歯と口の健康状態をお確かめください。\n対象者の方に「妊産婦歯科健康診査受診票」を郵送します。\n\n内容\n\n1回の妊娠につき1回\n口腔内診査(視診・触診)歯科保健指導(歯みがきアドバイス等)\n※X線による検査は行ないません。\n\n費用\n\n無料(自己負担はありません)\n※ただし、妊産婦歯科健康診査以外の診査や治療を希望した場合は自己負担が発生します。\n\n受診場所\n\n実施医療機関名簿に記載された区内歯科医療機関\n\n詳しくは豊島区のホームページをご覧ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "妊産婦の歯科健診",
+    "shortName": "妊産婦歯科健康診査"
+  },
+  "localGovernmentLink": {
+    "title": "妊産婦歯科健康診査",
+    "uri": "https://www.city.toshima.lg.jp/219/kosodate/ninshin/shussanmade/1503241448.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": "実施医療機関名簿に記載された区内歯科医療機関",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条（保健指導）・第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠中や出産後は女性ホルモンの分泌の変化や食事回数の増加などから虫歯や歯周病になりやすく、進行しやすい時期です。こうした時期のお口の中の健康を維持するために、歯科健診をおすすめしています。健診には健康保険が適用されませんが、経済的負担を軽減するため、健診にかかる費用【の一部】を助成する【妊産婦歯科健診受診票】をお渡ししています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "080"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "豊島区に住民登録のある妊婦の方、出産後または妊娠終了後1年に至るまでの方"
+  },
+  "updateDate": "2024-06-05",
+  "useConsiderationFlag": false,
+  "utilization": "豊島区で妊娠届を出された対象のかたに妊産婦歯科健康診査受診票を郵送します。\n転入等で受診票が届かないかたはお電話によりお問い合わせください。\n妊産婦健康診査受診票が届きましたら実施歯科医療機関に予約し、「豊島区妊産婦歯科健康診査」受診票を使用することを伝え、下記の持ち物を持って受診してください。\n\n持ち物\n・母子健康手帳\n・妊産婦歯科健康診査受診票\n・健康保険証\n・歯ブラシ",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

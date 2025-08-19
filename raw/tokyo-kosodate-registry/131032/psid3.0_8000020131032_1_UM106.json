@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131032;港区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "港区社会福祉協議会　ボランティア・地域活動支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131032",
+    "psid": "psid3.0+8000020131032+1+UM106"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "ファックス：03-6230-0285\n\n外国語対応が必要な人、通訳オペレーター、区の職員の3人で会話ができます。\n\n多言語対応三者通話サービス;https://www.multilingualinterpretercallservice.city.minato.tokyo.jp/kokusai",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "港区社会福祉協議会　ボランティア・地域活動支援係",
+    "contactPhone": "03-6230-0284",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "サポート料など\n1時間あたり800円。きょうだいの場合は、2人目から400円加算されます。",
+  "description": "育児サポート子むすび\n事業の目的\n子育ての手助けが必要な人（利用会員）と手助けができる人（協力会員）をむすび、住民相互のつながりを広げ、地域全体で子どもの成長を支えていくことを目的としています。\n\n対象\n対象となる子ども　0歳から小学校6年生までの児童\n利用会員　港区に在住・在勤する人で、育児サポートを必要としている人\n協力会員　18歳以上（高校生不可）で、育児サポートに協力できる人\n※令和2年度以降は、「港区子育て支援員研修」を受講した人\n両方会員　利用会員・協力会員いずれにも該当する人\n事業の詳細\nサービスの内容\n保育施設、学童クラブ、小学校等への送り迎え\n保護者が、病気や出産または家族等を介護するとき\n保育時間外、休園日の一時保育\n保護者が、学校行事へ参加するときなど\n保育する場所\n原則として、利用会員・協力会員の自宅で保育します。\n利用日・時間\n原則2時間を限度とします。通年（年末年始、土曜、日曜、祝日を含む）で利用が可能です。\n利用時間は、午前7時から午後8時までです。\nサポート料など\n1時間あたり800円。きょうだいの場合は、2人目から400円加算されます。\n手続きすること\n事前に会員登録が必要です。電話にてお問い合わせください。\nその他\n保険\n活動中の事故に備え、会員は「介護保険・社会福祉事業者総合保険」に加入します。会員の保険料負担はありません。\n\n事業委託先\nこの事業の運営は、港区社会福祉協議会へ委託し実施しています。\n\n下記までお問い合わせください。\n\nお問い合わせ\n\n港区社会福祉協議会　ボランティア・地域活動支援係\n電話：03-6230-0284\nファックス：03-6230-0285\n\n外国語対応が必要な人、通訳オペレーター、区の職員の3人で会話ができます。\n\n多言語対応三者通話サービス;https://www.multilingualinterpretercallservice.city.minato.tokyo.jp/kokusai",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "原則として、利用会員・協力会員の自宅で保育します。"
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関するサポート",
+    "shortName": "育児サポート子むすび"
+  },
+  "localGovernmentLink": {
+    "title": "育児サポート子むすび",
+    "uri": "https://www.city.minato.tokyo.jp/fukushikatsudou/kodomo/kodomo/shien/ikujisupport.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "港区"
+  },
+  "procedureCounter": "港区社会福祉協議会　ボランティア・地域活動支援係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第6条の3第6項",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "住民相互のつながりを広げ、地域全体で子どもの成長を支え、育児の支援が必要な人と育児の協力をする人を結び子育て支援を行います。",
+  "support": {
+    "description": "保育施設、学童クラブ、小学校等への送り迎え\n保護者が、病気や出産または家族等を介護するとき\n保育時間外、休園日の一時保育\n保護者が、学校行事へ参加するときなど",
+    "materiallySupport": "保育施設、学童クラブ、小学校等への送り迎え\n保護者が、病気や出産または家族等を介護するとき\n保育時間外、休園日の一時保育\n保護者が、学校行事へ参加するときなど",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "対象となる子ども　0歳から小学校6年生までの児童\n利用会員　港区に在住・在勤する人で、育児サポートを必要としている人\n協力会員　18歳以上（高校生不可）で、育児サポートに協力できる人\n※令和2年度以降は、「港区子育て支援員研修」を受講した人\n両方会員　利用会員・協力会員いずれにも該当する人",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象となる子ども　0歳から小学校6年生までの児童\n利用会員　港区に在住・在勤する人で、育児サポートを必要としている人\n協力会員　18歳以上（高校生不可）で、育児サポートに協力できる人\n※令和2年度以降は、「港区子育て支援員研修」を受講した人\n両方会員　利用会員・協力会員いずれにも該当する人"
+  },
+  "updateDate": "2024-03-25",
+  "useConsiderationFlag": false,
+  "utilization": "事前に会員登録が必要です。電話にてお問い合わせください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": "原則2時間を限度とします。通年（年末年始、土曜、日曜、祝日を含む）で利用が可能です。\n利用時間は、午前7時から午後8時までです。",
+    "fromHM": "07:00",
+    "toHM": "20:00"
+  }
+}

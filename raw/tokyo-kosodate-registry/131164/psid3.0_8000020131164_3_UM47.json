@@ -1,0 +1,143 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康推進課,長崎健康相談所",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+3+UM47"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康推進課,長崎健康相談所",
+    "contactPhone": "03-3987-4173",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "面接は、助産師または保健師の専門職員が担当します。ご相談もできますので是非お越しください。\n「ゆりかご面接」を終了されたかたには、「ゆりかご応援グッズ」をお渡しいたします。\n面接日時：平日午前9時から午後3時30分まで（午後12時から午後1時を除く）\n詳しくは、豊島区のホームページをご確認ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "12:00から13:00を除く",
+    "fromHM": "09:00",
+    "fromYMD": null,
+    "toHM": "15:30",
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "池袋保健所,長崎健康相談所"
+  },
+  "institutionName": {
+    "canonicalName": "豊島区の妊娠・出産に関する相談",
+    "shortName": "ゆりかご・としま事業（妊娠中のかた）"
+  },
+  "localGovernmentLink": {
+    "title": "ゆりかご・としま事業（妊娠中のかた）",
+    "uri": "https://www.city.toshima.lg.jp/219/kosodate/ninshin/yurikago/1507071003.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条（知識の普及）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "「ゆりかご面接」のご案内が届いたかた",
+      "uri": "https://www.city.toshima.lg.jp/219/kosodate/ninshin/yurikago/1507091627.html"
+    },
+    {
+      "title": "ゆりかご・としま事業（出産お祝い品）",
+      "uri": "https://www.city.toshima.lg.jp/258/kosodate/ninshin/1507141633.html"
+    },
+    {
+      "title": "ゆりかご・としま　資料集",
+      "uri": "https://www.city.toshima.lg.jp/566/2309011252.html"
+    },
+    {
+      "title": "ゆりかごオンライン面接",
+      "uri": "https://www.city.toshima.lg.jp/566/2307281733.html"
+    },
+    {
+      "title": "オンライン面接",
+      "uri": "https://www.city.toshima.lg.jp/566/2307281733.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "妊娠中のさまざまな不安を軽減し、安心して出産を迎えていただくために「ゆりかご面接（予約制）」を妊婦のかた全員に実施いたします。",
+  "support": {
+    "description": "「ゆりかご面接」を終了されたかたには、「ゆりかご応援グッズ」をお渡しいたします。",
+    "materiallySupport": "「ゆりかご面接」を終了されたかたには、「ゆりかご応援グッズ」をお渡しいたします。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "082"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "豊島区に住民登録のある妊婦のかた。"
+  },
+  "updateDate": "2023-09-20",
+  "useConsiderationFlag": false,
+  "utilization": "1.池袋保健所または長崎健康相談所に妊娠届を提出された妊婦のかたは、「ゆりかご面接」を実施し、“ゆりかご応援グッズ”をお渡しします。＊妊娠届出と同時にゆりかご面接をご希望されるかたは、16：00までに窓口にお越しください。16：00を過ぎる場合は、後日の日程で面接のご予約をしていただきます。\n2.妊婦ご本人以外が届出をした場合や、池袋保健所出張窓口、東部区民事務所、西部区民事務所で届出をされた場合には、「ゆりかご面接」のご案内を郵送しますので面接にお越しください。\n面接は予約制です。お電話でご予約ください。妊娠期間中の入院などで「ゆりかご面接」にお越しになれないかたは、担当課にご相談ください。\n3.切迫早産等で入院中の方、医師等から自宅安静が必要と言われている方、里帰り出産などでご来所が難しい方を対象にオンライン面接を行っております。ご希望される方は長崎健康相談所までお電話でご相談ください。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

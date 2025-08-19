@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "133647;神津島村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保健センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020133647",
+    "psid": "psid3.0+9000020133647+1+UM5037"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保健センター",
+    "contactPhone": "04992-8-0010",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "自立支援医療(育成医療)\n自立支援医療（育成医療）とは、制度の対象障がいの除去、軽減のために必要な医療費について医療保険の自己負担分を助成する制度です。\n■対象者 ①18 歳未満の児であること。\n②保護者が都内に住所を有すること。\n③現在身体に障がいを有している、\nまたは身体に疾患があり治療をせずに放置した場合、 将来一定の障がいを残すと認められること。\n④手術等の治療により、確実な治療効果が期待できること。\n※ただし 1～4 全てに該当する場合でも、所得の状況によっては制度の対象外になることがあります。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度",
+    "shortName": "自立支援医療(育成医療)"
+  },
+  "localGovernmentLink": {
+    "title": "病気になったときには",
+    "uri": "https://www.vill.kouzushima.tokyo.jp/images/2023/03/20210318-byouki.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-08-19",
+    "updater": "神津島村"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+  "support": {
+    "description": "制度の対象障がいの除去、軽減のために必要な医療費について医療保険の自己負担分を助成する制度です。",
+    "materiallySupport": null,
+    "monetarySupport": "制度の対象障がいの除去、軽減のために必要な医療費について医療保険の自己負担分を助成する制度です。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "18 歳未満の児であること。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "①18 歳未満の児であること。\n②保護者が都内に住所を有すること。\n③現在身体に障がいを有している、\nまたは身体に疾患があり治療をせずに放置した場合、 将来一定の障がいを残すと認められること。\n④手術等の治療により、確実な治療効果が期待できること。\n※ただし 1～4 全てに該当する場合でも、所得の状況によっては制度の対象外になることがあります。"
+  },
+  "updateDate": "2021-03-18",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

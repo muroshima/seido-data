@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "132012;八王子市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康医療部大横保健福祉センター（保健担当）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132012",
+    "psid": "psid3.0+1000020132012+1+UM10"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "八王子市大横町11-35",
+    "contactComment": "ファックス：042-627-5887",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康医療部大横保健福祉センター（保健担当）",
+    "contactPhone": "042-625-9200",
+    "contactUrl": "https://www.city.hachioji.tokyo.jp/inquiry/mailform450600.html",
+    "zipCode": "1920062"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "先天性代謝異常等検査(東京都実施)\n更新日：2021年03月24日\n「先天性代謝異常等検査のお知らせ」のご案内は「親と子の保健バック」の中に入っています。\n「先天性代謝異常検査申込書」は、出産する医療機関で配布、申し込みをしています。\n\n赤ちゃんの病気の早期発見、早期治療のための検査です。\n生後5日から7日に、赤ちゃんのかかとからごく少量の血液をとって検査します。\n\n東京都福祉保健局 先天性代謝異常検査について(外部リンク);https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/shussan/taisyaijou.html\n\n先天性代謝異常とは\n生まれつき、必要な酵素やホルモンが欠けているために起こる病気のことです。\nこの検査では19の疾患を検査します。早期に発見すれば予防できます。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "先天性代謝異常等検査",
+    "shortName": "先天性代謝異常等検査"
+  },
+  "localGovernmentLink": {
+    "title": "先天性代謝異常等検査(東京都実施)",
+    "uri": "https://kosodate.city.hachioji.tokyo.jp/scene/akachangaumaretara/akachannokenkokanri/987.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-20",
+    "updater": "八王子市"
+  },
+  "procedureCounter": "出産する医療機関",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "「先天性代謝異常検査申込書」は、出産する医療機関で配布、申し込みをしています。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第13条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [
+    {
+      "title": "東京都福祉保健局 先天性代謝異常検査について(外部リンク)",
+      "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/shussan/taisyaijou.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "東京都ではフェニルケトン尿症等の先天性代謝異常や先天性甲状腺機能低下症（クレチン症）などの内分泌疾患を早期に発見するために、先天性代謝異常等検査を行っています。\nこれらの疾患を放っておくと、生まれた時は健康に見えても、身体障害や知的障害が発生したり、時には生命の危険にさらされたりする場合もあります。しかし、疾患を早期に発見し、適切な治療を続けることで、障害などの発生を未然に防ぐことができます。",
+  "support": {
+    "description": "赤ちゃんの病気の早期発見、早期治療のための検査です。\n生後5日から7日に、赤ちゃんのかかとからごく少量の血液をとって検査します。",
+    "materiallySupport": "赤ちゃんの病気の早期発見、早期治療のための検査です。\n生後5日から7日に、赤ちゃんのかかとからごく少量の血液をとって検査します。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": "生後5日から7日に、赤ちゃんのかかとからごく少量の血液をとって検査します。",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "生後5日から7日に、赤ちゃん"
+  },
+  "updateDate": "2021-03-24",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

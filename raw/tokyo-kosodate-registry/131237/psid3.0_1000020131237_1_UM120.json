@@ -1,0 +1,122 @@
+{
+  "area": {
+    "areaCode": "131237;江戸川区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部保育課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020131237",
+    "psid": "psid3.0+1000020131237+1+UM120"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部保育課",
+    "contactPhone": null,
+    "contactUrl": "https://www.city.edogawa.tokyo.jp/e048/kuseijoho/gaiyo/soshiki/kodomo/hoiku.html",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "江戸川区立保育園では、ご家庭で子育て中のみなさんを応援しています。区内在住で1～5歳（就学前）のお子さんがいるご家庭のみなさん、区立保育園が行っている子育て支援事業にどうぞご参加ください。\n・区立保育園で行っている「保育園にあそびにきませんか」「親子deチャレンジ」「園庭開放」「プール開放」「育児相談」に参加すると、子育て安心パスポートにスタンプがたまります。たくさん遊んでスタンプがたまると、ちょっぴり素敵なプレゼントがあります。\n・「子育て安心パスポート」はお近くの区立保育園で発行しています。\n・子育て支援事業に、参加ご希望の方は、各区立保育園にお気軽にお問い合わせください。\n\n江戸川区立保育園の子育て支援\n■保育園にあそびにきませんか\n・親子でおもちゃ作り、身体を動かすふれあい遊び等を楽しみます。日本の季節の行事（七夕、お正月、おひな様等）や運動会ごっこ等も経験できます。\n・保育園ごとに、日程、内容が決まっています。（タイトルをクリックすると、日程一覧が見られます。）\n\n■親子deチャレンジ（保育体験）\n・親子で午前中の1～2時間、保育体験ができます。対象は満1歳からです。\n・お子さんと同じ年齢のクラスに入ります。同年齢のお友だちとおもちゃや園庭で遊びましょう。生活の様子(手洗い、排泄等)も経験できます。\n・事前予約が必要です。\n\n■園庭開放\n・親子で園庭で遊びましょう。砂場や三輪車等で遊べます。\n・月曜日から金曜日の開放になります。\n・行事の開催等により受け入れできない日があります。\n\n■プール開放\n・親子で水あそび、プールあそびを楽しみます。\n・お子さんの安全管理・体調管理は、保護者の方の責任で行ってくださるようお願いします。\n・実施日程、水深、プールの大きさなど各保育園で違います。また、猛暑の場合や気温が低い場合など、天候や気温で中止の場合もあります。\n\n■育児相談\n・子育てに関すること（食事、トイレトレーニング、子どもへの接し方等）のご相談にのります。お気軽にご相談ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "子育てに関するその他のこと",
+    "shortName": "子育て安心パスポート　～保育園は地域の子育て応援団～"
+  },
+  "localGovernmentLink": {
+    "title": "子育て安心パスポート　～保育園は地域の子育て応援団～",
+    "uri": "https://www.city.edogawa.tokyo.jp/e048/kosodate/kosodate/asobiba/passport.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-03-12",
+    "updater": "江戸川区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第9条",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "江戸川区立保育園では、ご家庭で子育て中のみなさんを応援しています。区内在住で1～5歳（就学前）のお子さんがいるご家庭のみなさん、区立保育園が行っている子育て支援事業にどうぞご参加ください。「子育て安心パスポート」はお近くの区立保育園で発行しています。子育て支援事業に、参加ご希望の方は、各区立保育園にお気軽にお問い合わせください。",
+  "support": {
+    "description": "区立保育園が行っている子育て支援事業",
+    "materiallySupport": "区立保育園が行っている子育て支援事業",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "区内在住で1～5歳（就学前）のお子さんがいるご家庭のみなさん",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 5,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "区内在住で1～5歳（就学前）のお子さんがいるご家庭のみなさん"
+  },
+  "updateDate": "2019-07-05",
+  "useConsiderationFlag": false,
+  "utilization": "「子育て安心パスポート」はお近くの区立保育園で発行しています。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

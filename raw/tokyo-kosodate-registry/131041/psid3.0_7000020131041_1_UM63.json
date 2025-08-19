@@ -1,0 +1,133 @@
+{
+  "area": {
+    "areaCode": "131041;新宿区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "福祉部 障害者福祉課 相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020131041",
+    "psid": "psid3.0+7000020131041+1+UM63"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "FAX:03-3209-3441",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "福祉部 障害者福祉課 相談係",
+    "contactPhone": "03-5273-4518",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "障害児福祉手当（国の制度）\n最終更新日：2024年4月1日\n内容\n月額15,690円 が国より支給されます。\n本人、配偶者及び扶養義務者の所得による制限があります。\n所得限度額については手当等所得制限表;http://www.city.shinjuku.lg.jp/fukushi/file06_02_00093.htmlをご確認ください。\n毎年8月中に、現況届（所得状況届）の提出が必要となります。\n対象\n20歳未満で身体又は精神に著しい重度の障害・これらと同等の疾病があるため、日常生活に常時介護が必要な在宅の方。\nただし、障害を理由とする公的年金等を受給している方、施設に入所中の方を除きます。\n※グループホーム等、対象外の施設に含まれないものがあります。\n申請方法\n次の(1)～(4)を持って障害者福祉課窓口へお越しください。\n(1)診断書 ※障害者福祉課窓口に備付けの様式です。\n(2)本人名義の口座情報が分かるもの（預金通帳など）\n(3)身体障害者手帳又は愛の手帳（お持ちの方のみ）\n(4)個人番号・本人確認ができるもの;https://www.city.shinjuku.lg.jp/content/000186609.pdf\n支給方法\n2月、5月、8月、11月に本人の預金口座に振込",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "障害児福祉手当",
+    "shortName": "障害児福祉手当"
+  },
+  "localGovernmentLink": {
+    "title": "障害児福祉手当（国の制度）",
+    "uri": "https://www.city.shinjuku.lg.jp/fukushi/file06_02_00095.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "新宿区"
+  },
+  "procedureCounter": "障害者福祉課",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "次の(1)～(4)を持って障害者福祉課窓口へお越しください。\n(1)診断書 ※障害者福祉課窓口に備付けの様式です。\n(2)本人名義の口座情報が分かるもの（預金通帳など）\n(3)身体障害者手帳又は愛の手帳（お持ちの方のみ）\n(4)個人番号・本人確認ができるもの;https://www.city.shinjuku.lg.jp/content/000186609.pdf",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第3章",
+    "regulationName": "特別児童扶養手当等の支給に関する法律"
+  },
+  "relatedLink": [
+    {
+      "title": "手当等所得制限表",
+      "uri": "http://www.city.shinjuku.lg.jp/fukushi/file06_02_00093.html"
+    },
+    {
+      "title": "個人番号・本人確認ができるもの",
+      "uri": "https://www.city.shinjuku.lg.jp/content/000186609.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "身体または精神に重度の障がいのある20歳未満の方で、日常生活において常時介護を必要とする方に対し、手当が支給されます。",
+  "support": {
+    "description": "月額15,690円 が国より支給されます。\n本人、配偶者及び扶養義務者の所得による制限があります。\n所得限度額については手当等所得制限表;http://www.city.shinjuku.lg.jp/fukushi/file06_02_00093.htmlをご確認ください。\n毎年8月中に、現況届（所得状況届）の提出が必要となります。",
+    "materiallySupport": null,
+    "monetarySupport": "月額15,690円 が国より支給されます。\n本人、配偶者及び扶養義務者の所得による制限があります。\n所得限度額については手当等所得制限表;http://www.city.shinjuku.lg.jp/fukushi/file06_02_00093.htmlをご確認ください。\n毎年8月中に、現況届（所得状況届）の提出が必要となります。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": "20歳未満",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 20,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "20歳未満で身体又は精神に著しい重度の障害・これらと同等の疾病があるため、日常生活に常時介護が必要な在宅の方。\nただし、障害を理由とする公的年金等を受給している方、施設に入所中の方を除きます。\n※グループホーム等、対象外の施設に含まれないものがあります。"
+  },
+  "updateDate": "2024-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

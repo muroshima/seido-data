@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131067;台東区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "台東保健所　保健予防課予防担当",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "6000020131067",
+    "psid": "psid3.0+6000020131067+21+UM54"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "台東保健所　保健予防課予防担当",
+    "contactPhone": "03-3847-9471",
+    "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080600",
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "23区内で定期予防接種を受ける場合\n　定期予防接種は、各区の協力医療機関であれば台東区の予防接種予診票を使って接種することができます。\n　接種する医療機関が、各区の協力医療機関かどうかわからない場合は、医療機関にお問い合わせください。\n\n23区外で定期予防接種を受ける場合\n\n事情により23区以外の市町村で接種を希望する場合、滞在先の市区町村長あてに台東区長が発行した「予防接種依頼書」が必要となります。\n　\n※予防接種依頼書とは・・・\n台東区長が予防接種の実施を他自治体に依頼するためのものです。\nこれにより、法定予防接種として接種を受けることができ、万が一重大な健康被害が発生した場合、予防接種法に基づく救済を受けることができます。\n\n予防接種依頼書を希望する場合は、まず滞在先の市区町村の予防接種担当部署へ下記の内容を確認してから、依頼書の発行申請を行ってください。\n\n手続きの流れ\n（1）滞在先自治体に以下のことを確認\n1.予防接種依頼書を自治体長宛に発行してよいか\n2.予防接種依頼書の送付先、接種方法、手続き等\n3.接種費用の有無\n\n※滞在先自治体が依頼書を受け付けない場合は、医療機関宛に発行します。\n　接種予定の医療機関に依頼書による接種ができるかお問い合わせください。\n\n（2）台東区に予防接種依頼書の発行を申請\n保健予防課窓口、電子申請または郵送で承ります。\n\n郵送の場合、母子健康手帳のお子さんの名前及び生年月日がわかるページ（出生届出済証のページ等）並びに予防接種の記録のページのコピーを申請書に添付してください。\n※予防接種依頼申請書は台東区ホームページよりダウンロードできます。\n※依頼書は申請書受付から発行するまでに1週間程度かかります。申請者が指定した送付先に郵送します。\n\n（3）滞在先にて接種実施\n予防接種の実施方法は市区町村（医療機関）によって異なります。確認をしてから予防接種を受けてください。\n※依頼書を医療機関宛に発行した場合、医療機関に予防接種費用をお支払いください。\n\n（4）予防接種助成金を申請（自費で接種した場合）\n予防接種にかかった費用の全部または一部を助成します。\n※予防接種助成金申請書は依頼書に同封します。\n\n手続きにあたっての注意点\n定期予防接種は住民登録地で接種することとなっています。依頼書による接種は、里帰り等の特別な事情がある場合に限ります。\n接種スケジュール等で、ご心配な方はお問い合わせください。\n\n申請先・お問い合わせ\n電子申請\n新規ウィンドウで開きます。\n予防接種依頼申請（外部サイト）;https://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?govCode=13106&procCode=11002586\n\n郵送または窓口\n〒110-0015\n台東区東上野4丁目22番8号\n台東保健所5階 保健予防課予防担当\n電話番号：03-3847-9471\n\nファイルダウンロード　新規ウインドウで開きます。予防接種依頼申請書（PDF：235KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/info/20131213115834532.files/iraisyo_20240701.pdf\n\nファイルダウンロード　新規ウインドウで開きます。【記入例】予防接種依頼申請書（PDF：696KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/info/20131213115834532.files/kinyurei_iraishinseisyo.pdf",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "予防接種依頼申請",
+      "uri": "https://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?govCode=13106&procCode=11002586"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "定期予防接種",
+    "shortName": "台東区外の区市町村で定期予防接種を受けるには（予防接種依頼書の発行手続き）"
+  },
+  "localGovernmentLink": {
+    "title": "台東区外の区市町村で定期予防接種を受けるには（予防接種依頼書の発行手続き）",
+    "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/info/20131213115834532.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "台東区"
+  },
+  "procedureCounter": "台東保健所5階1番窓口\n　保健予防課予防担当",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "保健予防課窓口、電子申請または郵送で承ります。\n\n郵送の場合、母子健康手帳のお子さんの名前及び生年月日がわかるページ（出生届出済証のページ等）並びに予防接種の記録のページのコピーを申請書に添付してください。\n\n※予防接種依頼申請書は台東区ホームページよりダウンロードできます。\n\n※依頼書は申請書受付から発行するまでに1週間程度かかります。申請者が指定した送付先に郵送します。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）",
+    "regulationName": "予防接種法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "事情により23区以外の市町村で接種を希望する場合、滞在先の市区町村長あてに台東区長が発行した「予防接種依頼書」が必要となります。予防接種依頼書を希望する場合は、まず滞在先の市区町村の予防接種担当部署へ下記の内容を確認してから、依頼書の発行申請を行ってください。",
+  "support": {
+    "description": "予防接種依頼書の交付",
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "事情により23区以外の市町村で定期接種を希望する場合"
+  },
+  "updateDate": "2024-07-10",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

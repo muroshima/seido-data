@@ -1,0 +1,152 @@
+{
+  "area": {
+    "areaCode": "132292;西東京市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020132292",
+    "psid": "psid3.0+1000020132292+5+UM106"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "西東京市中町一丁目5番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康課",
+    "contactPhone": "042-438-4021,042-438-4037",
+    "contactUrl": null,
+    "zipCode": "2028555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "西東京市子育て応援アプリ「いこいこ」\n\n西東京市で妊娠や出産、子育てをする方へ、市の子育て情報をいつでもどこでも手軽に確認ができるアプリです。\n\n「予防接種のスケジュールを立てるのが大変」「どんな子育て支援制度があるの？」「子どもと一緒にどこにお出かけしよう？」など、知りたい情報をすぐに探すことができます。\n妊娠期から役に立つ情報もたくさん掲載されています。\nぜひ、西東京市の子育て情報の案内板として、ご活用ください。\n\n西東京市子育て応援アプリ「いこいこ」には、こんな機能があります！\n予防接種スケジュールの自動作成\nお子様の生年月日を入力すると、自動でスケジュールを作成します。種類が多く、接種間隔の管理が複雑な予防接種のスケジュールを、簡単に管理することができます。\n接種日が近づくと、プッシュ通知でお知らせします。\n\n子育て支援施設や医療機関の検索\n市内の保育園や幼稚園等の子育て支援施設、医療機関を調べることができます。地図上で場所の確認をすることができます。\n\nお子様の成長記録をグラフで確認\nお子様の身長や体重、その日の写真を登録することができます。身長や体重を登録すると、日々の成長がグラフ化され、一目で確認ができます。\n\n市のイベントや子育て情報のお知らせ\n西東京市の子育て支援制度（手当や助成、相談など）、市内の施設ごとの子育て関連のイベントを確認できます。イベント内容により、プッシュ通知でのお知らせもあります。\n\n多言語表記が可能\nトップページの右上にある「言語の選択」を押していただくと、自動で翻訳されます。（英語、中国語、韓国語をはじめ14か国語に対応）\n\nマタニティメールの配信\n配信希望を設定すると、妊娠週数に応じたメルマガが届きます。妊娠中の体調のことや過ごし方、出産に向けての準備のこと、栄養士からのお話などの情報をお届けします。\n\nトップ画面イメージ;https://www.city.nishitokyo.lg.jp/kosodate/bosi/kosodateouen_appliikoiko.images/topgamen.jpg\n\nアプリのダウンロード方法\nパソコンでご覧の方\n下記QRコードからダウンロードすることができます。\n※無料でダウンロードできますが、通信費やパケット代はご自身での負担となります。\niPhoneをご利用の方（App Store）;https://www.city.nishitokyo.lg.jp/kosodate/bosi/kosodateouen_appliikoiko.images/QRcode-apple.png\nAndroid端末をご利用の方（Google Play）;https://www.city.nishitokyo.lg.jp/kosodate/bosi/kosodateouen_appliikoiko.images/QRcode-google.png\n\nスマートフォンでご覧の方\nApple Store用（外部リンク）;http://nishitokyo.city-hc.jp/l/U2FyP6\nGoogle Play用（外部リンク）;http://nishitokyo.city-hc.jp/l/XaZYlR\n\nウェブ版でご覧になりたい方\n西東京市子育て応援アプリ「いこいこ」（外部リンク）;https://nishitokyo.city-hc.jp/\nこちらからウェブ版をご覧になることができます。\n\n「いこいこ」アプリ使用状況についてのアンケート集計\nBCGにご来場された方に「いこいこ」アプリの使用状況をお尋ねしました。\n集計はこちら;https://www.city.nishitokyo.lg.jp/kenko_hukusi/kenkou_ouentoshi/sonotajigyo/ikoikoquestion.html",
+  "electronicSubmission": true,
+  "formLink": [
+    {
+      "title": "Apple Store用（外部リンク）",
+      "uri": "http://nishitokyo.city-hc.jp/l/U2FyP6"
+    },
+    {
+      "title": "Google Play用（外部リンク）",
+      "uri": "http://nishitokyo.city-hc.jp/l/XaZYlR"
+    },
+    {
+      "title": "西東京市子育て応援アプリ「いこいこ」（外部リンク）",
+      "uri": "https://nishitokyo.city-hc.jp/"
+    },
+    {
+      "title": "Android端末をご利用の方（Google Play）",
+      "uri": "https://www.city.nishitokyo.lg.jp/kosodate/bosi/kosodateouen_appliikoiko.images/QRcode-google.png"
+    },
+    {
+      "title": "iPhoneをご利用の方（App Store）",
+      "uri": "https://www.city.nishitokyo.lg.jp/kosodate/bosi/kosodateouen_appliikoiko.images/QRcode-apple.png"
+    }
+  ],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の子育てに関するサポート",
+    "shortName": "西東京市子育て応援アプリ「いこいこ」"
+  },
+  "localGovernmentLink": {
+    "title": "西東京市子育て応援アプリ「いこいこ」",
+    "uri": "https://www.city.nishitokyo.lg.jp/kosodate/bosi/kosodateouen_appliikoiko.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-10",
+    "updater": "西東京市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "トップ画面イメージ",
+      "uri": "https://www.city.nishitokyo.lg.jp/kosodate/bosi/kosodateouen_appliikoiko.images/topgamen.jpg"
+    },
+    {
+      "title": "西東京市子育て応援アプリ「いこいこ」使用状況アンケート集計",
+      "uri": "https://www.city.nishitokyo.lg.jp/kenko_hukusi/kenkou_ouentoshi/sonotajigyo/ikoikoquestion.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "西東京市で妊娠や出産、子育てをする方へ、市の子育て情報をいつでもどこでも手軽に確認ができるアプリです。",
+  "support": {
+    "description": "西東京市子育て応援アプリ「いこいこ」には、こんな機能があります！\n予防接種スケジュールの自動作成\nお子様の生年月日を入力すると、自動でスケジュールを作成します。種類が多く、接種間隔の管理が複雑な予防接種のスケジュールを、簡単に管理することができます。\n接種日が近づくと、プッシュ通知でお知らせします。\n\n子育て支援施設や医療機関の検索\n市内の保育園や幼稚園等の子育て支援施設、医療機関を調べることができます。地図上で場所の確認をすることができます。\n\nお子様の成長記録をグラフで確認\nお子様の身長や体重、その日の写真を登録することができます。身長や体重を登録すると、日々の成長がグラフ化され、一目で確認ができます。\n\n市のイベントや子育て情報のお知らせ\n西東京市の子育て支援制度（手当や助成、相談など）、市内の施設ごとの子育て関連のイベントを確認できます。イベント内容により、プッシュ通知でのお知らせもあります。\n\n多言語表記が可能\nトップページの右上にある「言語の選択」を押していただくと、自動で翻訳されます。（英語、中国語、韓国語をはじめ14か国語に対応）\n\nマタニティメールの配信\n配信希望を設定すると、妊娠週数に応じたメルマガが届きます。妊娠中の体調のことや過ごし方、出産に向けての準備のこと、栄養士からのお話などの情報をお届けします。",
+    "materiallySupport": "西東京市子育て応援アプリ「いこいこ」には、こんな機能があります！\n予防接種スケジュールの自動作成\nお子様の生年月日を入力すると、自動でスケジュールを作成します。種類が多く、接種間隔の管理が複雑な予防接種のスケジュールを、簡単に管理することができます。\n接種日が近づくと、プッシュ通知でお知らせします。\n\n子育て支援施設や医療機関の検索\n市内の保育園や幼稚園等の子育て支援施設、医療機関を調べることができます。地図上で場所の確認をすることができます。\n\nお子様の成長記録をグラフで確認\nお子様の身長や体重、その日の写真を登録することができます。身長や体重を登録すると、日々の成長がグラフ化され、一目で確認ができます。\n\n市のイベントや子育て情報のお知らせ\n西東京市の子育て支援制度（手当や助成、相談など）、市内の施設ごとの子育て関連のイベントを確認できます。イベント内容により、プッシュ通知でのお知らせもあります。\n\n多言語表記が可能\nトップページの右上にある「言語の選択」を押していただくと、自動で翻訳されます。（英語、中国語、韓国語をはじめ14か国語に対応）\n\nマタニティメールの配信\n配信希望を設定すると、妊娠週数に応じたメルマガが届きます。妊娠中の体調のことや過ごし方、出産に向けての準備のこと、栄養士からのお話などの情報をお届けします。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2024-03-12",
+  "useConsiderationFlag": false,
+  "utilization": "アプリのダウンロード方法\nパソコンでご覧の方\n下記QRコードからダウンロードすることができます。\n※無料でダウンロードできますが、通信費やパケット代はご自身での負担となります。\niPhoneをご利用の方（App Store）;https://www.city.nishitokyo.lg.jp/kosodate/bosi/kosodateouen_appliikoiko.images/QRcode-apple.png\nAndroid端末をご利用の方（Google Play）;https://www.city.nishitokyo.lg.jp/kosodate/bosi/kosodateouen_appliikoiko.images/QRcode-google.png\n\nスマートフォンでご覧の方\nApple Store用（外部リンク）;http://nishitokyo.city-hc.jp/l/U2FyP6\nGoogle Play用（外部リンク）;http://nishitokyo.city-hc.jp/l/XaZYlR\n\nウェブ版でご覧になりたい方\n西東京市子育て応援アプリ「いこいこ」（外部リンク）;https://nishitokyo.city-hc.jp/\nこちらからウェブ版をご覧になることができます。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

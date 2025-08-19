@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "131202;練馬区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部　健康推進課　母子保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "3000020131202",
+    "psid": "psid3.0+3000020131202+1+UM22"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都練馬区豊玉北6丁目12番1号",
+    "contactComment": "ファクス：03-5984-1211",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部　健康推進課　母子保健係",
+    "contactPhone": "03-5984-4621",
+    "contactUrl": "https://www.city.nerima.tokyo.jp/cgi-bin/formmail/formmail.cgi?d=060020010000",
+    "zipCode": "1768501"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "多胎児のいる世帯にタクシーなどで使用できる「こども商品券」を交付します\n現在のページ\nトップページ保健・福祉保健健やかな妊娠・出産のために多胎児のいる世帯にタクシーなどで使用できる「こども商品券」を交付します\nページ番号：964-189-600\n\n更新日：2022年7月14日\n\n多胎児がいる世帯にタクシーなどで使用できる「こども商品券」を交付します。\n\n対象\n練馬区民で3歳未満の多胎児を同一世帯で養育する保護者\n\n内容\n1世帯あたり24,000円相当（年間）\nタクシー移動に使用できる「こども商品券（24,000円分）」を送付します。\n\nご案内および申請書の送付について\n対象の方にご案内と申請用紙を送付します。お子様と共に保健師等との面談のうえ、申請用紙をご提出ください。\n来所されるときは、事前に保健相談所にご連絡をお願いします。\nご案内および申請書については、誕生月の翌月末頃に発送予定です。\n\n交付方法\n面談のうえ、申請用紙を提出後、概ね1か月程度で委託事業者から直接配送予定です。\n原則、再発送はできませんので、不在連絡票が投函された場合は、必ず、保管期間内に郵便局に連絡のうえ、お受け取りをお願いいたします。\n\n申請期限\n原則、次の誕生日の前日まで\n※案内が届きましたら早めにお申し込みください。\n\nご案内\n　ご案内（PDF：222KB）;https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/sukoyaka/tataijisetaiidouhiho.files/goannai04.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の妊娠・出産に関する金銭的支援",
+    "shortName": "こども商品券"
+  },
+  "localGovernmentLink": {
+    "title": "多胎児のいる世帯にタクシーなどで使用できる「こども商品券」を交付します",
+    "uri": "https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/sukoyaka/tataijisetaiidouhiho.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-19",
+    "updater": "練馬区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "面談のうえ、申請用紙を提出後、概ね1か月程度で委託事業者から直接配送予定です。\n原則、再発送はできませんので、不在連絡票が投函された場合は、必ず、保管期間内に郵便局に連絡のうえ、お受け取りをお願いいたします。\n",
+  "procedurePeriod": {
+    "conditions": "原則、次の誕生日の前日まで\n※案内が届きましたら早めにお申し込みください。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第8条",
+    "regulationName": "練馬区ママパパ応援事業実施要綱"
+  },
+  "relatedLink": [
+    {
+      "title": "ご案内（PDF：222KB）",
+      "uri": "https://www.city.nerima.tokyo.jp/hokenfukushi/hoken/sukoyaka/tataijisetaiidouhiho.files/goannai04.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "練馬区では、多胎児がいる世帯にタクシーなどで使用できる「こども商品券」を交付します。",
+  "support": {
+    "description": "1世帯あたり24,000円相当（年間）\nタクシー移動に使用できる「こども商品券（24,000円分）」を送付します。",
+    "materiallySupport": null,
+    "monetarySupport": "1世帯あたり24,000円相当（年間）\nタクシー移動に使用できる「こども商品券（24,000円分）」を送付します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": "3歳未満の多胎児",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 3,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "練馬区民で3歳未満の多胎児を同一世帯で養育する保護者"
+  },
+  "updateDate": "2022-07-14",
+  "useConsiderationFlag": false,
+  "utilization": "対象の方にご案内と申請用紙を送付します。お子様と共に保健師等との面談のうえ、申請用紙をご提出ください。\n来所されるときは、事前に保健相談所にご連絡をお願いします。\nご案内および申請書については、誕生月の翌月末頃に発送予定です。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

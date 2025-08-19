@@ -1,0 +1,150 @@
+---
+title: 幼児教育・保育の無償化
+lg_code: '131148'
+lg_name: 中野区
+support: 金銭
+url: https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/hoikuen/hoikuryohojyo/musyoka.html
+source: tokyo-kosodate-registry
+source_id: psid3.0_8000020131148_1_UM2368
+source_updated: '2024-05-07'
+license: CC BY
+attribution: 東京都「東京デジタル2030ビジョン（こどもDX）子育て支援制度レジストリ 0-6歳制度」（2025-08-20 時点）を加工して作成
+---
+
+# 幼児教育・保育の無償化
+
+## 概要
+
+幼児教育・保育の重要性や、子育てや教育にかかる費用負担の軽減を図る少子化対策の観点などから、3歳児クラス（年少）から5歳児クラス（年長）のお子さん、および住民税非課税世帯の0歳児クラスから2歳児クラスのお子さんを対象に、幼児教育・保育の無償化を実施しています。無償化の内容は、利用する施設・サービスごとに異なります。
+
+## 支援内容
+
+無償化の概要
+幼児教育負担の軽減による少子化対策として、令和元年10月1日よりお子さんの通う幼稚園、保育所、認定こども園などの3～5歳児クラスの子ども及び住民税非課税世帯の0～2歳児クラスの子どもを対象に利用料の無償化を実施します。
+また、無償化の実施方法は利用する施設・事業によって異なり、以下のいずれかによって実施されます。
+1.利用料の納付が不要となる
+2.利用料を各施設へ納付後、申請に基づいて対象となる金額を保護者へ扶助（給付）する（施設等利用給付）
+
+無償化対象者と対象範囲
+無償化の範囲や上限額は、以下の通り保育の必要性や利用する施設・事業の種別により異なります。
+無償化対象者と対象範囲
+|施設類型|保育の必要性|無償化の範囲及び上限額|<|
+|^|^|'0歳から2歳児（住民税非課税世帯）|3歳から5歳児|
+|:----|:----|:----|:----|
+|・認可保育所;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/hoikuen/hoikuryohojyo/musyoka.html#hoikuen<br>・地域型保育事業;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/hoikuen/hoikuryohojyo/musyoka.html#hoikuen<br>・認定こども園（保育利用）;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/hoikuen/hoikuryohojyo/musyoka.html#hoikuen|要|無償|無償|
+|・認定こども園（教育利用）<br>・幼稚園（新制度移行園）|不要|^|^|
+|幼稚園（新制度未移行園）;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/hoikuen/hoikuryohojyo/musyoka.html#youchiensigaku|不要|月額25,700円まで|月額25,700円まで|
+|幼稚園の預かり保育;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/hoikuen/hoikuryohojyo/musyoka.html#azukarihoiku|要|月額16,300円まで|月額11,300円まで|
+|・一時預かり事業;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/hoikuen/hoikuryohojyo/musyoka.html#ninnkagaiichijihoiku;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/hoikuen/hoikuryohojyo/musyoka.html#ninnkagaiichijihoiku<br>・病児保育事業<br>・ファミリーサポートセンター;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/hoikuen/hoikuryohojyo/musyoka.html#ninnkagaiichijihoiku|要|月額42,000円まで|月額37,000円まで|
+|・認証保育所;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/hoikuen/hoikuryohojyo/musyoka.html#ninnkagaiichijihoiku<br>・認可外保育施設;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/hoikuen/hoikuryohojyo/musyoka.html#ninnkagaiichijihoiku<br>・ベビーシッター;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/hoikuen/hoikuryohojyo/musyoka.html#ninnkagaiichijihoiku|要|^|^|
+|企業主導型保育事業;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/hoikuen/hoikuryohojyo/musyoka.html#kigyousyudougata|要|標準的な利用料を無償化|標準的な利用料を無償化|
+|障害児通所支援施設;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/hoikuen/hoikuryohojyo/musyoka.html#syougaijituusyo|不要|無償|無償|
+（注）幼稚園の類型については、新制度移行園は施設型給付園と、新制度未移行園は私学助成園とそれぞれ同義で使用しています。
+
+認可保育所・認定こども園（保育利用）・地域型保育事業
+実施概要
+・3～5歳児クラスの全ての子どもの利用料を無償化
+・0～2歳児クラスの子どもの利用料を住民税非課税世帯を対象として無償化
+・無償化の対象となる全ての世帯の子どもの食材料費（主食費及び副食費）の保護者に対する費用負担を免除
+なお、延長保育料については月額・日額ともに無償化の対象外です。
+
+幼稚園（新制度移行園）・認定こども園（教育的利用）
+実施概要
+・3～5歳児クラスの全ての子どもの利用料を無償化実施
+・満3歳児（3歳になった日から最初の3月31日までにある子ども）についても無償化実施
+・実費として徴収されている費用（通園送迎費、行事費など）は、無償化の対象外
+無償化の対象となる子どものうち、年収360万円未満相当の世帯の子ども全員と各世帯の第3子以降の子どもは、副食費（おかず、おやつなど）が免除
+（対象者は副食費相当分を除いた給食費を園に支払。申請は不要　）
+（注1）幼稚園（新制度移行園）とは、中野区内の幼稚園では、かみさぎ幼稚園、ひがしなかの幼稚園、上ノ原幼稚園、徳育幼稚園、ほぜんじ幼稚園が該当します。
+（注2）新制度移行園は施設型給付園と同義です。
+（注3）第3子以降の子どもとは、小学校3年生以下の兄姉が2人以上いる子どもを指します。
+
+幼稚園（新制度未移行園）　等
+実施概要
+・3～5歳児クラスの全ての子どもの利用料を月額25,700円を上限として扶助
+国立大学附属幼稚園・国立大学附属特別支援学校幼稚部については、以下のとおり国立大学等授業料その他の省令に定められた上限額によります。
+国立大学附属幼稚園　：月額8,700円
+国立大学附属特別支援学校幼稚部：月額400円
+・従来の入園料補助および保護者補助金は継続
+無償化の対象となる子どものうち、年収360万円未満相当の世帯の子ども全員と各世帯の第3子以降の子どもは、副食費（おかず、おやつなど）が免除
+（園に給食費を一旦支払った後、申請に基づき副食費相当分を指定の口座に振込予定。申請方法等は、別途通知予定）
+（注1）就園奨励費補助金は無償化開始に伴い終了し、施設等利用給付に移行します。
+（注2）幼稚園（新制度未移行園）とは、中野区内の幼稚園のうち、かみさぎ幼稚園、ひがしなかの幼稚園、上ノ原幼稚園、徳育幼稚園、ほぜんじ幼稚園を除いた施設が該当します。
+（注3）新制度未移行園は私学助成園と同義です。
+（注4）第3子以降の子どもとは、小学校3年生以下の兄姉が2人以上いる子どもを指します。
+
+補助金の申請方法
+補助金の交付を受けるためには、施設等利用給付認定を受ける必要があります。一度認定を受けている方も、他の自治体から転入した際は再度申請が必要です。
+手続きの詳細は、「幼稚園または認定こども園（教育利用）を利用される方;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/youchien/nyuuen/musyoka-yochien.html」のページをご覧ください。
+また、補助金の申請についての詳細は、「私立幼稚園等保護者向け補助金のご案内;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/youchien/hoikuryohojyo/shiritsu-hojyokin.html」のページをご覧ください。
+補助金の申請は年度ごとに期限を設けています。期限を過ぎると、補助の一部が受けられなくなりますので、ご注意ください。
+
+幼稚園の預かり保育
+実施概要
+保育の必要性があると認定を受けた場合には、3歳児クラスから月額11,300円を上限として預かり保育の利用料を扶助
+満3歳児のうち、保育の必要性があり、かつ住民税非課税世帯の園児は、満3歳になった日から次の3月末まで月額16,300円が上限となります。
+なお、預かり保育の利用1日あたりの上限額は450円です。以下の例のとおり、無償化の上限額は利用日数（回数）によって異なります。
+上限額と実費負担額例
+|利用料|利用日数|上限額|無償化の対象となる額|実費負担額|
+|:----|:----|:----|:----|:----|
+|4,000円|10日|4,500円|4,000円|0円|
+|9,500円|20日|9,000円|9,000円|500円|
+
+認可外保育施設等との併用について
+平日の開所時間が8時間未満または預かり保育の提供日数が年間200日未満の幼稚園に在園している場合、幼稚園の提供する預かり保育のほか、認可外保育施設等の利用についても補助の対象となります。
+中野区内の幼稚園で対象となる幼稚園及び併用先として利用可能な施設については「幼児教育・保育の無償化対象施設（公示）;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/hoikuen/hoikuryohojyo/musyokataisyo.html」にてご確認ください。
+中野区外の幼稚園で上記幼稚園の対象か否かについては、幼稚園が所在する自治体へお問い合わせください。
+
+補助金の申請方法
+補助金の交付を受けるためには、施設等利用給付認定を受ける必要があります。一度認定を受けている方も、他の自治体から転入した際は再度申請が必要です。
+手続きの詳細については、「幼稚園または認定こども園（教育利用）を利用される方;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/youchien/nyuuen/musyoka-yochien.html」のページをご覧ください。
+また、補助金の申請についての詳細は「私立幼稚園等保護者向け補助金のご案内;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/youchien/nyuuen/musyoka-yochien.html」のページをご覧ください。
+補助金の申請は年度ごとに期限を設けています。期限を過ぎると、補助の一部が受けられない場合がありますので、ご注意ください。
+
+認可外保育施設・一時保育事業等
+実施概要
+・3～5歳児クラスの子どもで、保育の必要性があり、保育所又は幼稚園、認定こども園を利用していない場合に、月額37,000円を上限として利用料を扶助
+・0～2歳児クラスの住民税非課税世帯の子どもで、保育の必要性があり、保育所又は幼稚園、認定こども園を利用していない場合に、月額42,000円を上限として利用料を扶助
+（注1）認可外保育施設とは、認証保育所、届出済認可外保育施設、ベビーシッターが該当します。また、東京都の指導監督基準を満たす施設が無償化の対象ですが、経過措置として5年間は指導監督基準を満たさない施設についても対象となります。中野区内の認可外保育施設の一覧はこちらのページ;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/hoikuen/goannnai/hoikushisetsuichiran.htmlをご覧ください。
+（注2）一時保育事業等とは、中野区では、一時預かり事業、病児・病後児保育事業、ファミリーサポート事業（送迎のみの利用は対象外）が該当します。
+
+補助金の申請方法について
+補助金の交付を受けるためには、「施設等利用給付認定の申請;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/ninkagai/musyoka-ninkagai.html」と「施設等利用費の請求;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/ninkagai/musyoka-tetsuduki.html」の両方の手続きが必要です。一度認定を受けている方も、他の自治体から転入した際は再度申請が必要です。
+また、認証保育所および認可外保育施設（一部条件あり）については上乗せ補助がある場合があります。詳細は「令和4年度認証保育所などの保護者補助金について;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/ninkagai/ninsyohoikujyo-hojyo.html」のページをご覧ください。
+補助金の申請は年度ごとに期限を設けています。期限を過ぎると、補助の一部が受けられなくなりますので、ご注意ください。
+
+企業主導型保育事業
+実施概要
+・保育の必要性のある3～5歳児クラス及び住民税非課税世帯の0～2歳児クラスの子どもの標準的な利用料を無償化
+各施設を従業員枠でご利用の方は区での手続きの必要はありませんが、地域枠でご利用の方は手続きが必要になります。詳しくはこちらのページ;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/hoikuen/hoikuryohojyo/musyoka.html#ninteishinseiをご覧ください。
+なお、標準的な利用料などの詳細については各施設へお問い合わせください。
+
+障害児通所支援施設
+実施概要
+・対象施設を利用する3～5歳児クラス及び住民税非課税世帯の0～2歳児クラスの子どもの利用料を無償化
+・他の施設や事業（保育所、幼稚園、認定こども園等）と上記施設を両方とも利用している場合は、どちらも無償化の対象
+無償化の対象となるにあたり、新たな手続きの必要はありません。
+
+幼児教育・保育の無償化フローチャート
+以下のフローチャートを参考にしていただき、申請の内容をご確認ください。
+無償化対象確認フローチャート（PDF形式：71KB）;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/hoikuen/hoikuryohojyo/musyoka.files/flowchart.pdf
+
+## 利用方法
+
+認定申請手続き
+幼児教育・保育の無償化の給付を受けるためには施設等利用給付認定が必要です。
+必要な手続きについては下記リンクを参照してください。
+・幼稚園または認定こども園（教育利用）を利用される方;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/youchien/nyuuen/musyoka-yochien.html
+・認定こども園（保育利用）及び認可保育所、地域型保育事業を利用される方;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/hoikuen/nyuuen/kyufushikyunintei.html
+・認可外保育施設、一時保育事業等を利用される方;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/ninkagai/musyoka-ninkagai.html
+・企業主導型保育事業を利用される方;https://www.city.tokyo-nakano.lg.jp/kosodate/kosodatesite_ohirune/mokuteki/hoikuen/ninkagai/musyoka.html
+（注）認可保育所、預かり保育を利用しない認定こども園及び施設型給付幼稚園の在園児の方は改めての手続きは必要ありません。
+
+## 根拠法令
+
+子ども・子育て支援法 第27条～第30条（第二章 第三節 第三款 施設型給付費及び地域型保育給付費等の支給）、第30条の2(子育てのための施設等利用給付）)
+
+## 問い合わせ
+
+保育園・幼稚園課　幼稚園・認可外保育係,保育園・幼稚園課　教育・保育支給認定係,子育て支援課　子育てサービス係,保育園・幼稚園課　幼稚園・認可外保育係,障害福祉課　子ども発達支援係
+03-3228-5681,03-3228-5793,03-3228-5612,03-3228-5681,03-3228-5613

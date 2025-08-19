@@ -1,0 +1,123 @@
+{
+  "area": {
+    "areaCode": "133051;日の出町",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "こども家庭センター　相談係（母子保健担当）",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "1000020133051",
+    "psid": "psid3.0+1000020133051+1+UM51"
+  },
+  "belongings": "母子手帳、受診票、バスタオル",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "こども家庭センター　相談係（母子保健担当）",
+    "contactPhone": "042-588-4310",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": "無料",
+  "description": "１歳６か月児健診¥n１歳６か月から１歳８か月のお子さんに郵送でご案内しています¥n受付時間：午後１：００～１：15¥n|検診日|対象者|\n|:----|:----|\n|４ 月 12 日（金）|R４. 8月生 ・ ９月生|\n|６ 月 14 日（金）|R４.10月生 ・ 11月生|\n|８ 月 ９ 日（金）|R４.12月生 ・ R５.1月生|\n|10 月 11 日（金）|R５. 2月生 ・ ３月生|\n|12 月 13 日（金）|R５. 4月生 ・ ５月生|\n|２ 月 14 日（金）|R５. 6月生 ・ ７月生|\n",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": "https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000000/136/kodomonokenshin2024.pdf",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": "こども家庭センター（保健センター内）"
+  },
+  "institutionName": {
+    "canonicalName": "1歳6か月児健康診査",
+    "shortName": "１歳６か月児健診"
+  },
+  "localGovernmentLink": {
+    "title": "令和６年度　　日の出町こどもの健診母子相談スケジュール",
+    "uri": "https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000000/136/kodomonokenshin2024.pdf"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-24",
+    "updater": "日の出町"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第12条（健康診査）",
+    "regulationName": "母子保健法"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "1歳6か月の頃は乳児期から幼児期に移行する大切な時期です。日の出町では1歳6か月児健康診査を実施しています。¥n小児科医による診察のほか、歯科健診も行います。",
+  "support": {
+    "description": "集団検診",
+    "materiallySupport": "集団検診",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": "１歳６か月から１歳８か月のお子さん",
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": 6
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": 1,
+      "targetAgeOfMonths": 8
+    },
+    "targetPersons": "１歳６か月から１歳８か月のお子さん"
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

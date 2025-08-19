@@ -1,0 +1,132 @@
+{
+  "area": {
+    "areaCode": "131164;豊島区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "保育支援担当課入園グループ",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020131164",
+    "psid": "psid3.0+8000020131164+1+UM73"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "保育支援担当課入園グループ",
+    "contactPhone": "03-3981-2140",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "令和6年度認可保育施設入園申請に関しては、以下リンクより「令和6年度豊島区認可保育施設入園・転園・延長保育利用のしおり」をご確認ください。\n\n手続きに必要な書類や選考基準等について記載されています。\n\n「令和6年度豊島区認可保育施設入園・転園・延長保育利用のしおり」は、下記場所にて配布しています。\n\n配布場所：区役所4階東9保育課窓口、各認可保育施設、東西子ども家庭支援センター、東西区民事務所、池袋保健所、児童相談所、長崎健康相談所（東京都認証保育所では、配布しておりませんのでご注意ください。）\n\n動画をご活用ください\n\n認可保育施設入園申込方法の概要や、必要書類の書き方について、動画を作成しております。\n\n以下よりご覧いただけます。お申込みの際は、ぜひご活用ください。\n\n動画集～認可保育園の申込みが初めての方へ～;https://www.city.toshima.lg.jp/260/1710130924.html",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "認可保育所（保育園）の利用について",
+    "shortName": "保育園入園・転園・延長保育利用のしおり\n"
+  },
+  "localGovernmentLink": {
+    "title": "保育園入園・転園・延長保育利用のしおり",
+    "uri": "https://www.city.toshima.lg.jp/260/kosodate/kosodate/hoikuen/nyuen/028389.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "豊島区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第24条",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "令和6年度豊島区認可保育施設入園・転園・延長保育利用のしおり（PDF：6",
+      "uri": "https://www.city.toshima.lg.jp/260/kosodate/kosodate/hoikuen/nyuen/documents/r6-nyuuennoshiori.pdf"
+    },
+    {
+      "title": "056KB）",
+      "uri": "https://www.city.toshima.lg.jp/260/kosodate/kosodate/hoikuen/nyuen/documents/r5_nyuuen_shiori.pdf"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "保育園とは、保護者が共に働いていたり病気などの理由で、昼間家庭において保育を受けられないお子さんを、保護者に代わって保育する児童福祉施設で、法的には「保育所」といいます。\n保育所（保育園）には、国が定めた設置基準をクリアし、都道府県知事に認可された保育所と、それ以外の保育所がありますが、ここでは認可された保育所についてご案内します。\n\n保育園では在園児を対象とした「延長保育」のほか、「一時預かり」や「病児保育」、「障害児保育」などを行っている園もあります。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "004"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2023-09-28",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

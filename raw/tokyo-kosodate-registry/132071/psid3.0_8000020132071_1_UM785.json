@@ -1,0 +1,124 @@
+{
+  "area": {
+    "areaCode": "132071;昭島市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭部 子ども家庭センター担当 子ども家庭支援係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132071",
+    "psid": "psid3.0+8000020132071+1+UM785"
+  },
+  "belongings": "母子手帳",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "昭島市つつじが丘3-3-15",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭部 子ども家庭センター担当 子ども家庭支援係（アキシマエンシス校舎棟１階）",
+    "contactPhone": "042-543-9046",
+    "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000068.html",
+    "zipCode": "1960012"
+  },
+  "cost": "600",
+  "costConditions": "1時間600円です（免除できる世帯もあります）。",
+  "description": "母親の産前産後または保護者の育児不安や体調不良で家事や育児をするのが難しい時などに、ヘルパーを派遣して援助を行う事業です。\n\n育児支援ヘルパー利用に関するお知らせ\n新型コロナウイルスの感染拡大防止のため、当面の間、利用するお子さん及び、同居しているご家族について風邪症候群（発熱、頭痛、咳、鼻水等）がある場合は全てご利用できません。\nご理解とご協力をお願いいたします。\n\nQ．どういう家庭が利用できるの？\nA．次のいずれかの項目に当てはまるご家庭です。\n母子手帳交付日から出産後4ヶ月以内（多胎出産は1年以内）の家庭\n出産後間もない時期（おおむね1年程度）の保護者が育児不安や体調不良で家事育児ができない家庭\nその他、支援が必要と思われる家庭\n\nQ．利用できる回数は？\nA．産前産後の利用の場合は、1日1回4時間以内で1人10回（ただし多胎児は15回）までです。育児不安や体調不良等の利用は、1日1回4時間以内です。\n\nQ．利用できるサービス内容は？\nA．\n簡単な育児・家事援助（掃除・洗濯・買い物・沐浴の補助・食事の支度）\n健診等の付き添い（市内）\n簡単な育児相談\n\nQ利用料金は？\nA．1時間600円です（免除できる世帯もあります）。\n\nQ利用できる時間帯は？\nA．午前8時から午後6時までの間です（1時間単位）。\n注：年末年始のご利用はできませんのでご了承ください。\n\nQ．利用方法は？\nA．子ども家庭支援センターに、相談のうえ申請してください。\n産前産後で利用されるかたは、申請の際に母子手帳をご提示ください。\n利用前に子ども家庭支援センター職員が訪問させていただき、日程調整します。\nサービス利用中は必ず申請者が在宅してください。\n申請者及びご家族がインフルエンザ等の伝染病にかかっている場合は、ご利用いただけません。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "年末年始のご利用はできませんのでご了承ください。",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "産前産後ヘルパーの派遣",
+    "shortName": "育児支援ヘルパー"
+  },
+  "localGovernmentLink": {
+    "title": "育児支援ヘルパー",
+    "uri": "https://www.city.akishima.lg.jp/s064/010/010/010/010/050/20140910153624.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-03",
+    "updater": "昭島市"
+  },
+  "procedureCounter": "子ども家庭支援センター",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "・子ども家庭支援センターに、相談のうえ申請してください。\n・産前産後で利用されるかたは、申請の際に母子手帳をご提示ください。\n・利用前に子ども家庭支援センター職員が訪問させていただき、日程調整します。\n・サービス利用中は必ず申請者が在宅してください。\n・申請者及びご家族がインフルエンザ等の伝染病にかかっている場合は、ご利用いただけません。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": null
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "産前産後の体調不良などにより、家事や育児が困難なご家庭に、日常的な掃除・洗濯・食事の支度などの家事や、もく浴・おむつ交換・きょうだいのお世話などの育児を手伝うホームヘルパーを派遣します。",
+  "support": {
+    "description": "母親の産前産後または保護者の育児不安や体調不良で家事や育児をするのが難しい時などに、ヘルパーを派遣して援助を行う事業です。\n\nQ．利用できる回数は？\nA.産前産後の利用の場合は、1日1回4時間以内で1人10回（ただし多胎児は15回）までです。育児不安や体調不良等の利用は、1日1回4時間以内です。\n\nQ．利用できるサービス内容は？\nA.簡単な育児・家事援助（掃除・洗濯・買い物・沐浴の補助・食事の支度）\n健診等の付き添い（市内）\n簡単な育児相談",
+    "materiallySupport": "母親の産前産後または保護者の育児不安や体調不良で家事や育児をするのが難しい時などに、ヘルパーを派遣して援助を行う事業です。\n\nQ．利用できる回数は？\nA.産前産後の利用の場合は、1日1回4時間以内で1人10回（ただし多胎児は15回）までです。育児不安や体調不良等の利用は、1日1回4時間以内です。\n\nQ．利用できるサービス内容は？\nA.簡単な育児・家事援助（掃除・洗濯・買い物・沐浴の補助・食事の支度）\n健診等の付き添い（市内）\n簡単な育児相談",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "次のいずれかの項目に当てはまるご家庭です。\n母子手帳交付日から出産後4ヶ月以内（多胎出産は1年以内）の家庭\n出産後間もない時期（おおむね1年程度）の保護者が育児不安や体調不良で家事育児ができない家庭\nその他、支援が必要と思われる家庭"
+  },
+  "updateDate": "2020-04-15",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "午前8時から午後6時までの間です（1時間単位）。\n1日1回4時間以内",
+    "fromHM": "08:00",
+    "toHM": "18:00"
+  }
+}

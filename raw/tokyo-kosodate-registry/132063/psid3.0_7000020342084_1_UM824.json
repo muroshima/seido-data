@@ -1,0 +1,125 @@
+{
+  "area": {
+    "areaCode": "132063;府中市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "担当課：福祉保健部障害者福祉課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020342084",
+    "psid": "psid3.0+7000020342084+1+UM824"
+  },
+  "belongings": "申請に必要なもの\n自立支援医療費（精神通院）支給認定申請書 ：障害者福祉課に用意\n自立支援医療診断書（精神通院）2部(東京都送付用、市控え用)：申請日から3か月以内に作成されたもの\n医療保険被保険者証の写し\n「世帯」の所得状況などが確認できる書類：区市町村民税課税・非課税証明書など\n区市町村民税課税・非課税証明書などの提出を省略できる場合があります。詳しくは、お問合せください。\n自立支援医療受給者証（更新時のみ）\n個人番号が確認できるもの：申請する本人の個人番号が確認できるマイナンバーカード、通知カード\n申請者の本人確認ができるもの：写真付きの証明書なら1点。写真なしの証明書なら2点。",
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": "syougai01@city.fuchu.tokyo.jp",
+    "contactEx": null,
+    "contactName": "福祉保健部障害者福祉課",
+    "contactPhone": "電話：042-335-4162",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "精神通院医療の概要\n精神疾患により、継続的に通院による精神療法や薬物療法の治療を受けている方の指定する病院などの\n「世帯（医療保険単位）」の所得や疾病などに応じて、自己負担上限月額が設定されます。また、住民税非課税世帯の方は自己負担額分を助成します。\n\n申請の方法\n申請窓口\n\n有効期間及び継続（更新）などの手続\n受給者証の有効期間は、新規・再開申請の場合、申請受付日から1年間（1年後の前月末まで）で、更新を希望する方は、継続（更新）申請の手続を行う必要があります。\n\n小児精神病医療費助成\n小児精神病医療費助成の概要\n小児精神病の患者の精神科病床における入院医療費を保険者と公費で負担する制度です。ただし、入院時の食事療養費の標準負担額は助成対象外です。\n\n対象となる方\n都内にお住まいの方で、医療保険各法により医療に関する給付を受け、精神疾患のため精神科病床にて入院治療を必要としている満18歳未満の方。18歳の誕生日の前々日までに申請された方が対象。ただし、すでに医療券の交付を受けている方で入院治療を継続して行う場合には、満20歳の誕生月の末日までの延長が可能。\n\n申請の方法\n申請窓口\n障害者福祉課援護係\n\n申請に必要なもの\n医療費助成申請書：障害者福祉課に用意\n診断書（小児精神病医療費助成申請用）：申請日から3か月以内に作成されたもの\n住民票：患者本人と申請者の続柄がわかる申請日から3月以内のもの\n医療保険被保険者証の写し\n医療券：更新（継続）申請の場合のみ\n利用方法\n認定された場合には、「医療券」が本人に交付されます。医療機関などの窓口で被保険者証などと一緒に医療券を提示することにより、窓口負担が軽減されます。\n\n助成期間（認定期間）\n医療券の助成期間（認定期間）は、診断書に記載された「治療見込期間」を元に診査会が決定します。助成期間は1年間が限度です。1年を越えて継続入院する場合は、更新申請が必要です。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自立支援医療制度（精神通院医療）",
+    "shortName": "自立支援医療（精神通院）"
+  },
+  "localGovernmentLink": {
+    "title": "精神障害者などの医療費の公費負担",
+    "uri": "https://www.city.fuchu.tokyo.jp/kenko/shogai/shogainoaru/seishin.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/27",
+    "updater": "府中市"
+  },
+  "procedureCounter": "障害者福祉課援護係",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": "継続（更新）の申請は、有効期間の満了日の3か月前から行うことができます。",
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第58条",
+    "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律"
+  },
+  "relatedLink": [],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "025",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象となる方\n精神疾患により、継続的に通院による精神療法や薬物療法の治療を受けている方"
+  },
+  "updateDate": "2024/11/05",
+  "useConsiderationFlag": false,
+  "utilization": "利用方法\n認定された場合には、「自立支援医療受給者証（精神通院）」が本人に交付されます。受給者証に記載された医療機関などの窓口で被保険者証などと一緒に受給者証を提示することにより、窓口負担が軽減されます。",
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

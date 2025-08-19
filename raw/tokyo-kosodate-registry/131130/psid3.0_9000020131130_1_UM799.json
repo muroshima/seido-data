@@ -1,0 +1,130 @@
+{
+  "area": {
+    "areaCode": "131130;渋谷区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "子ども家庭支援センター子ども家庭相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020131130",
+    "psid": "psid3.0+9000020131130+1+UM799"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "子ども家庭支援センター子ども家庭相談係",
+    "contactPhone": "電話\n\n03-3463-3748",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "渋谷区子育てネウボラは、「出会う、集う、語る、つながる。」「地域みんなで子どもを育てる。」をコンセプトとした子育て拠点施設です。不安なく少しでも喜びの多い子育てができるよう、妊娠期から18歳になるまでのすべての子どもとそのご家族をサポートします。家族で過ごせる「子育て支援フロア」、健診・保健相談を行う「健診・保険のフロア」、専門職による子育ての相談や発達の相談、教育の相談を行う「専門相談フロア」を一体化した、開放的で親しみのある、地域に開かれた場を提供しています。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": "休業日：土曜日、日曜日、祝・休日、年末年始（12月29日～1月3日）　※子育て支援センターのみ日曜日営業",
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": "渋谷区宇田川町5-6　渋谷区子育てネウボラ",
+    "implementationName": "渋谷区子育てネウボラ"
+  },
+  "institutionName": {
+    "canonicalName": "こども家庭センター",
+    "shortName": "渋谷区子育てネウボラ"
+  },
+  "localGovernmentLink": {
+    "title": "渋谷区子育てネウボラ",
+    "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/kosodate/kosodate-shisetsu/neuvola.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2025/02/20",
+    "updater": "渋谷区"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": "第10条の２",
+    "regulationName": "児童福祉法"
+  },
+  "relatedLink": [
+    {
+      "title": "渋谷区子育てネウボラ",
+      "uri": "https://shibuya-city-neuvola.tokyo/"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "渋谷区の【渋谷区子育てネウボラ】では、全ての妊産婦・子育て家庭に対する相談等への対応、サポートプランに基づく妊産婦の健康やこどもの養育に関する支援などを行っています。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "003"
+    ],
+    "contentsCode": [
+      "079",
+      "081"
+    ],
+    "targetCode": [
+      "086",
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": 18,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "対象：原則として、区内在住の妊娠中の方および18歳未満の子どもと保護者"
+  },
+  "updateDate": "2024/06/14",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": "09:00",
+    "toHM": "17:00"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "area": {
+    "areaCode": "132039;武蔵野市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部　保険年金課",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132039",
+    "psid": "psid3.0+8000020132039+1+UM20"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都武蔵野市緑町2-2-28",
+    "contactComment": "ファクス番号：0422-51-9301",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康福祉部　保険年金課",
+    "contactPhone": "0422-60-1834",
+    "contactUrl": "https://www.city.musashino.lg.jp/cgi-crm/CRM030/CRM030_001/G00400400/1004732",
+    "zipCode": "1808777"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "医療機関等へのお支払いが困難なかたには出産育児一時金の貸付制度があります。申請の際は医師の証明書等が必要となりますので、詳しくは国民健康保険窓口にお問い合わせください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "出産費貸付制度",
+    "shortName": "出産育児一時金の貸付制度"
+  },
+  "localGovernmentLink": {
+    "title": "出産育児一時金の申請・支給について",
+    "uri": "https://www.city.musashino.lg.jp/kurashi_tetsuzuki/kokuminkenkouhoken_kokuminnenkin/kokuminkenkohoken/kyufu_naiyo/1004732.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-17",
+    "updater": "武蔵野市"
+  },
+  "procedureCounter": "国民健康保険窓口",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "申請の際は医師の証明書等が必要となりますので、詳しくは国民健康保険窓口にお問い合わせください。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "武蔵野市国民健康保険出産費資金貸付規則"
+  },
+  "relatedLink": [
+    {
+      "title": "出産育児一時金支給申請書（差額申請、出産後の申請用）",
+      "uri": "https://www.city.musashino.lg.jp/shinseisho/kurashi_tetsuzuki/kokuminkenkohoken/1003782.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "医療機関等へのお支払いが困難なかたには出産育児一時金の貸付制度があります。",
+  "support": {
+    "description": "出産育児一時金の貸付",
+    "materiallySupport": null,
+    "monetarySupport": "出産育児一時金の貸付"
+  },
+  "tag": {
+    "categoryCode": [
+      "002"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "医療機関等へのお支払いが困難なかた"
+  },
+  "updateDate": "2023-04-11",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

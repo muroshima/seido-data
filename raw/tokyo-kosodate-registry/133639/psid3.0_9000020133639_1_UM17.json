@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "133639;新島村",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "さわやか健康センター",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "9000020133639",
+    "psid": "psid3.0+9000020133639+1+UM17"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都新島村本村3丁目12番8号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "新島村さわやか健康センター",
+    "contactPhone": "04992-5-1856",
+    "contactUrl": null,
+    "zipCode": "1000402"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "東京都不妊検査等助成事業について\nホーム > くらしの情報 > 健康・検診 > 医療給付 > 東京都不妊検査等助成事業について\n\n不妊検査等助成\n \n東京都福祉局;http://www.fukushi.metro.tokyo.lg.jp/kodomo//kosodate/josei/funinkensa/index.htmlのご案内をご覧ください。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の不妊・不育症に関する助成",
+    "shortName": "東京都不妊検査等助成事業"
+  },
+  "localGovernmentLink": {
+    "title": "東京都不妊検査等助成事業について",
+    "uri": "https://www.niijima.com/kurashi/kenkou/iryoukyuufu/2017-0714-0944-34.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-04",
+    "updater": "新島村"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": null,
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": " null",
+    "regulationName": null
+  },
+  "relatedLink": [
+    {
+      "title": "不妊検査等助成",
+      "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo//kosodate/josei/funinkensa/index.html "
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "東京都では、人工授精に係る保険適用外治療（※）の費用の一部について、独自に助成を行っています。\n※産科、婦人科、産婦人科、泌尿器科を標榜する医療機関において実施した、医師の診断に基づく治療に限ります。",
+  "support": {
+    "description": "東京都福祉局の;http://www.fukushi.metro.tokyo.lg.jp/kodomo//kosodate/josei/funinkensa/index.htmlご案内をご覧ください。",
+    "materiallySupport": "東京都福祉局の;http://www.fukushi.metro.tokyo.lg.jp/kodomo//kosodate/josei/funinkensa/index.htmlご案内をご覧ください。",
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "002",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "086"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": null,
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

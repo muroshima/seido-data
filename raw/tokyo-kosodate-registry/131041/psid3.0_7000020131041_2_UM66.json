@@ -1,0 +1,128 @@
+{
+  "area": {
+    "areaCode": "131041;新宿区",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康部 健康政策課 公害保健係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "7000020131041",
+    "psid": "psid3.0+7000020131041+2+UM66"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": null,
+    "contactComment": "FAX：03-5273-3876",
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康部 健康政策課 公害保健係",
+    "contactPhone": "03-5273-3048",
+    "contactUrl": null,
+    "zipCode": null
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "東京都の条例で定められた、大気汚染の影響を受けると推定される疾病（気管支ぜん息等）にかかった方に医療費を助成することで、健康障害の救済を図る制度です。",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "自治体独自の医療費助成制度",
+    "shortName": "大気汚染医療費助成制度（東京都）"
+  },
+  "localGovernmentLink": {
+    "title": "東京都大気汚染医療費助成制度",
+    "uri": "https://www.city.shinjuku.lg.jp/fukushi/file02_03_00020.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-02",
+    "updater": "新宿区"
+  },
+  "procedureCounter": "申請窓口\n〒160－0022\n東京都新宿区新宿5－18－21　新宿区役所第二分庁舎分館\n健康部健康政策課公害保健係\n電話番号：03－5273－3048（直通）\n申請書類は上記窓口での配布・受付となります。\n郵送でもお送りいたしますので、お問い合わせください。",
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "助成期間満了後も引き続き助成を希望するときは、下記の書類を助成期間満了日までに区の申請窓口に提出してください。\n　[1]認定申請書（申請日前1か月以内に作成されたもの）\n　[2]主治医診療報告書（更新前助成期間満了日前3か月以内に作成されたもの）\n　[3]健康保険証等の写し（高齢受給者証をお持ちの方は、その写しも必要です）\n　[4]健康・生活環境に関する質問票（提出は任意です）\n　※約2か月前までに、対象者あてに必要な書類を送付します。\n　※有効期間が18歳の誕生日の属する月の末日までのみどり色の医療券を既にお持ちの方は、更新することができません。\n　※生年月日が平成9年4月1日以前で有効期間内の医療券をお持ちの方は、更新が可能です。",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "大気汚染に係る健康障害者に対する医療費の助成に関する条例（東京都）"
+  },
+  "relatedLink": [
+    {
+      "title": "東京都のホームぺージ",
+      "uri": "http://www.fukushihoken.metro.tokyo.jp/kankyo/kankyo_eisei/taiki/iryouhi/index.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "大気汚染の影響を受けると推定される疾病（気管支ぜん息など）にかかった方に対し、一定の要件を満たす場合に、医療費の助成をしています。",
+  "support": {
+    "description": "医療券の有効期間内に、医療券に記載された疾病の治療にかかった医療費のうち、健康保険を適用した後の自己負担額について助成します（保険薬局での調剤、訪問看護を含む）。\n≪以下の費用については助成の対象となりません≫\n〇　医療券に記載されていない疾病の医療費\n〇　入院時の食事療養標準負担額又は入院時の生活療養標準負担額\n〇　健康保険が適用されない医療費\n（差額ベッド代、個室料、介護保険の対象となるサービスなど）\n〇　吸入器購入費用・レンタル料\n〇　「主治医診療報告書」の作成費用（文書作成料）及び検査費用\n〇　「医療費支給申請書兼口座振替依頼書」に証明を受けるときにかかる費用\n※なお、生年月日が平成9年4月1日以前の方については、上記助成対象額のうち、月額6千円を超える分が助成されます。（月額6千円までは自己負担していただきます。）\n医療券の交付\n「新宿区大気汚染障害者認定審査会」で審査し、新規又は更新の認定が決定した方に助成期間を記載した医療券を交付します。",
+    "materiallySupport": null,
+    "monetarySupport": "医療券の有効期間内に、医療券に記載された疾病の治療にかかった医療費のうち、健康保険を適用した後の自己負担額について助成します（保険薬局での調剤、訪問看護を含む）。\n≪以下の費用については助成の対象となりません≫\n〇　医療券に記載されていない疾病の医療費\n〇　入院時の食事療養標準負担額又は入院時の生活療養標準負担額\n〇　健康保険が適用されない医療費\n（差額ベッド代、個室料、介護保険の対象となるサービスなど）\n〇　吸入器購入費用・レンタル料\n〇　「主治医診療報告書」の作成費用（文書作成料）及び検査費用\n〇　「医療費支給申請書兼口座振替依頼書」に証明を受けるときにかかる費用\n※なお、生年月日が平成9年4月1日以前の方については、上記助成対象額のうち、月額6千円を超える分が助成されます。（月額6千円までは自己負担していただきます。）\n医療券の交付\n「新宿区大気汚染障害者認定審査会」で審査し、新規又は更新の認定が決定した方に助成期間を記載した医療券を交付します。"
+  },
+  "tag": {
+    "categoryCode": [
+      "003",
+      "027"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": "助成期間満了後も引き続き助成を希望される方"
+  },
+  "updateDate": "2023-04-01",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": "⑴生年月日が平成9年4月1日以前の方は、更新前助成期間満了日の翌日から2年間\n⑵18歳未満の方は、更新前助成期間満了日の翌日から2年間又は18歳誕生日の属する月の末日までのいずれかの短い方\n",
+    "fromHM": null,
+    "toHM": null
+  }
+}

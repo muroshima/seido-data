@@ -1,0 +1,137 @@
+{
+  "area": {
+    "areaCode": "132047;三鷹市",
+    "areaText": null
+  },
+  "basicInformation": {
+    "compartment": "健康福祉部障がい者支援課障がい者相談係",
+    "compartmentCode": null,
+    "institutionType": 1,
+    "organization": "8000020132047",
+    "psid": "psid3.0+8000020132047+4+UM78"
+  },
+  "belongings": null,
+  "capacity": null,
+  "class": 1,
+  "contact": {
+    "contactAddress": "東京都三鷹市野崎一丁目1番1号",
+    "contactComment": null,
+    "contactEmail": null,
+    "contactEx": null,
+    "contactName": "健康福祉部 障がい者支援課 障がい者相談係",
+    "contactPhone": "0422-29-9233",
+    "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/shien/index.html",
+    "zipCode": "1818555"
+  },
+  "cost": null,
+  "costConditions": null,
+  "description": "下記添付ファイルよりダウンロードできます。\n\nご活用ください。\n\n障害児通所支援;https://www.city.mitaka.lg.jp/c_service/093/093457.htmlの目次\n・児童通所支援の利用開始までの流れ;https://www.city.mitaka.lg.jp/c_service/093/093459.html\n・障害児通所支援を利用したときの費用;https://www.city.mitaka.lg.jp/c_service/093/093462.html\n・障がい児通所支援関係申請書類\n添付ファイル\n（1号）障害児通所給付費支給申請書（PDF 130KB）;https://www.city.mitaka.lg.jp/c_service/093/attached/attach_93465_1.pdf\n（6号）障害児通所給付費変更申請書（PDF 132KB）;https://www.city.mitaka.lg.jp/c_service/093/attached/attach_93465_2.pdf\n（17号）計画相談支援支給・障害児相談支援給付費支給申請書（PDF 57KB）;https://www.city.mitaka.lg.jp/c_service/093/attached/attach_93465_3.pdf\n（18号）計画相談支援・障害児相談支援依頼（変更）届出書（PDF 57KB）;https://www.city.mitaka.lg.jp/c_service/093/attached/attach_93465_4.pdf\nセルフプラン様式（4シート）（Excel 61KB）;https://www.city.mitaka.lg.jp/c_service/093/attached/attach_93465_5.xlsx\nセルフプラン記入例（PDF 262KB）;https://www.city.mitaka.lg.jp/c_service/093/attached/attach_93465_6.pdf",
+  "electronicSubmission": false,
+  "formLink": [],
+  "holiday": null,
+  "implementationPeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "implementationPlace": {
+    "implementationAddress": null,
+    "implementationName": null
+  },
+  "institutionName": {
+    "canonicalName": "障がい児保育",
+    "shortName": "障がい児通所支援関係申請書類"
+  },
+  "localGovernmentLink": {
+    "title": "障がい児通所支援関係申請書類",
+    "uri": "https://www.city.mitaka.lg.jp/c_service/093/093465.html"
+  },
+  "odInformation": {
+    "content": "新規登録",
+    "updateDate": "2024-07-12",
+    "updater": "三鷹市"
+  },
+  "procedureCounter": null,
+  "procedureDocumentsCode": {
+    "code": null,
+    "others": null
+  },
+  "procedureMethod": "下記添付ファイルよりダウンロードできます。\n\nご活用ください。\n添付ファイル\n（1号）障害児通所給付費支給申請書（PDF 130KB）;https://www.city.mitaka.lg.jp/c_service/093/attached/attach_93465_1.pdf\n（6号）障害児通所給付費変更申請書（PDF 132KB）;https://www.city.mitaka.lg.jp/c_service/093/attached/attach_93465_2.pdf\n（17号）計画相談支援支給・障害児相談支援給付費支給申請書（PDF 57KB）;https://www.city.mitaka.lg.jp/c_service/093/attached/attach_93465_3.pdf\n（18号）計画相談支援・障害児相談支援依頼（変更）届出書（PDF 57KB）;https://www.city.mitaka.lg.jp/c_service/093/attached/attach_93465_4.pdf\nセルフプラン様式（4シート）（Excel 61KB）;https://www.city.mitaka.lg.jp/c_service/093/attached/attach_93465_5.xlsx\nセルフプラン記入例（PDF 262KB）;https://www.city.mitaka.lg.jp/c_service/093/attached/attach_93465_6.pdf",
+  "procedurePeriod": {
+    "conditions": null,
+    "fromHM": null,
+    "fromYMD": null,
+    "toHM": null,
+    "toYMD": null
+  },
+  "procedurePersons": null,
+  "regulation": {
+    "regulationArticle": null,
+    "regulationName": "障害児保育事業実施要領"
+  },
+  "relatedLink": [
+    {
+      "title": "障害児通所支援",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/093/093457.html"
+    },
+    {
+      "title": "児童通所支援の利用開始までの流れ",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/093/093459.html"
+    },
+    {
+      "title": "障害児通所支援を利用したときの費用",
+      "uri": "https://www.city.mitaka.lg.jp/c_service/093/093462.html"
+    }
+  ],
+  "remarks": null,
+  "specificDate": null,
+  "summary": "集団保育が可能で心身に障がいがあるお子さんを、健常児と一緒に保育し相互の健全な育成を図ります。",
+  "support": {
+    "description": null,
+    "materiallySupport": null,
+    "monetarySupport": null
+  },
+  "tag": {
+    "categoryCode": [
+      "004",
+      "025"
+    ],
+    "contentsCode": [
+      "079"
+    ],
+    "targetCode": [
+      "087",
+      "090"
+    ]
+  },
+  "target": {
+    "conditions": null,
+    "greaterThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "greaterThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThan": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "lessThanOrEqualTo": {
+      "targetAge": null,
+      "targetAgeOfMonths": null
+    },
+    "targetPersons": null
+  },
+  "updateDate": "2022-02-15",
+  "useConsiderationFlag": false,
+  "utilization": null,
+  "utilizationTime": {
+    "condiutilizationConditionstions": null,
+    "fromHM": null,
+    "toHM": null
+  }
+}

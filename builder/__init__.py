@@ -1,0 +1,3 @@
+"""seido のビルダー。"""
+
+BUILDER_VERSION = "0.1.0"

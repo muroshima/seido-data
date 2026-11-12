@@ -1,0 +1,32 @@
+[project]
+name = "seido-builder"
+version = "0.1.0"
+description = "日本の支援制度を git の履歴として残すビルダー"
+requires-python = ">=3.12"
+license = "MIT"
+dependencies = [
+    "openpyxl>=3.1.5",
+    "pyyaml>=6.0.2",
+]
+
+[project.scripts]
+seido = "builder.cli:main"
+
+[dependency-groups]
+dev = [
+    "pytest>=8.3",
+    "ruff>=0.8",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["builder"]
+
+[tool.ruff]
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]

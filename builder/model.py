@@ -88,6 +88,9 @@ def render(record: Record, source: SourceInfo) -> str:
         "license": source.license,
         "attribution": source.attribution,
     }
+    if source.metadata_only:
+        # 本文を置かない代わりに、本文が変わったことを seido/ の差分に出す
+        front["content_sha256"] = record.raw.get("content_sha256")
     lines = ["---", yaml.safe_dump(front, allow_unicode=True, sort_keys=False).rstrip(), "---", ""]
     lines += [f"# {s.title}", ""]
     if source.metadata_only:

@@ -94,3 +94,7 @@ def test_metadata_only_source_writes_notice(tmp_path):
     write_units(tmp_path, META, {"131016": [r]})
     md = (tmp_path / "seido/13/131016/m/a.md").read_text(encoding="utf-8")
     assert "本文は掲載していません" in md
+    # 本文だけが変わっても seido/ に差分が出る
+    r.raw["content_sha256"] = "1" * 64
+    _, seido = write_units(tmp_path, META, {"131016": [r]})
+    assert seido.changed == ["seido/13/131016/m/a.md"]

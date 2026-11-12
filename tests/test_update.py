@@ -87,3 +87,20 @@ def test_daily_skips_stopped_and_not_ingesting():
     assert "tokyo-kosodate-registry" not in daily  # 取込中だが更新停止
     assert "tokyo-hojokin-search" not in daily  # 取込予定
     assert daily and all(s.startswith("tokyo-ods-support-") for s in daily)
+
+
+def test_stopped_source_commits_at_stopped_date(repo, monkeypatch):
+    """更新が止まった取得元は、ローダーの観測日ではなく止まった日でコミットする。"""
+    root, _ = repo
+    stopped = SimpleNamespace(
+        fetch=lambda row: Fetched(date(2026, 1, 1), {"131148": [rec("131148", "a")]})
+    )
+    monkeypatch.setattr(cli, "loader_for", {"tokyo-ods-support-131148": stopped}.get)
+    assert cli.main(["--root", str(root), "update", "tokyo-ods-support-131148", "--commit"]) == 0
+    log = subprocess.run(
+        ["git", "log", "-1", "--format=%ad", "--date=short"],
+        cwd=root,
+        capture_output=True,
+        text=True,
+    ).stdout.strip()
+    assert log == "2025-03-31"

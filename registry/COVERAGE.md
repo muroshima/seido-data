@@ -9,7 +9,7 @@
 
 | 区分 | 団体数 | ○ | ◐ | △ | − |
 |---|---:|---:|---:|---:|---:|
-| 国 | 26 | 0 | 0 | 26 | 0 |
+| 国 | 26 | 0 | 2 | 24 | 0 |
 | 都道府県 | 1 | 1 | 0 | 0 | 0 |
 | 市区町村 | 62 | 4 | 58 | 0 | 0 |
 
@@ -17,32 +17,32 @@
 
 | 団体 | 区分 | 状況 | 取得元 |
 |---|---|---|---|
-| 法務省 | 国 | △ | `jgrants`（事業者向け補助金・調査中） |
-| 中小企業庁 | 国 | △ | `jgrants`（事業者向け補助金・調査中） |
-| 環境省 | 国 | △ | `jgrants`（事業者向け補助金・調査中） |
-| 内閣府 | 国 | △ | `jgrants`（事業者向け補助金・調査中） |
-| 総務省 | 国 | △ | `jgrants`（事業者向け補助金・調査中） |
-| 特許庁 | 国 | △ | `jgrants`（事業者向け補助金・調査中） |
-| 国土交通省 | 国 | △ | `jgrants`（事業者向け補助金・調査中） |
-| 水産庁 | 国 | △ | `jgrants`（事業者向け補助金・調査中） |
-| 資源エネルギー庁 | 国 | △ | `jgrants`（事業者向け補助金・調査中） |
-| 復興庁 | 国 | △ | `jgrants`（事業者向け補助金・調査中） |
-| 林野庁 | 国 | △ | `jgrants`（事業者向け補助金・調査中） |
-| 経済産業省 | 国 | △ | `jgrants`（事業者向け補助金・調査中） |
-| 消費者庁 | 国 | △ | `jgrants`（事業者向け補助金・調査中） |
-| スポーツ庁 | 国 | △ | `jgrants`（事業者向け補助金・調査中） |
-| 農林水産省 | 国 | △ | `jgrants`（事業者向け補助金・調査中） |
-| 金融庁 | 国 | △ | `jgrants`（事業者向け補助金・調査中） |
-| 文化庁 | 国 | △ | `jgrants`（事業者向け補助金・調査中） |
-| 厚生労働省 | 国 | △ | `jgrants`（事業者向け補助金・調査中） |
-| こども家庭庁 | 国 | △ | `jgrants`（事業者向け補助金・調査中） |
-| 国税庁 | 国 | △ | `jgrants`（事業者向け補助金・調査中） |
-| 文部科学省 | 国 | △ | `jgrants`（事業者向け補助金・調査中） |
-| デジタル庁 | 国 | △ | `jgrants`（事業者向け補助金・調査中） |
-| 財務省 | 国 | △ | `jgrants`（事業者向け補助金・調査中） |
-| 外務省 | 国 | △ | `jgrants`（事業者向け補助金・調査中） |
-| 観光庁 | 国 | △ | `jgrants`（事業者向け補助金・調査中） |
-| 防衛省 | 国 | △ | `jgrants`（事業者向け補助金・調査中） |
+| 法務省 | 国 | △ | `jgrants`（事業者向け補助金・調査中）, `jnet21-snavi-support-rss`（事業者向け補助金・助成金・融資（国＋都道府県・市区町村）・要利用申請）, `jnet21-snavi-search`（事業者向け補助金・助成金・融資・要利用申請）, `gbiz-portal-search`（事業者向け行政手続・補助金・調査中）, `cao-bousai-kakusyuseido`（被災者向けの給付・貸付・減免・住宅支援（府省横断）・調査中）, `rssystem-review-csv`（全府省の予算事業（補助金事業を含む）・調査中）, `egov-dataportal-ckan`（府省のオープンデータ全般・対象外）, `govonline`（暮らしの広報記事・対象外） |
+| 中小企業庁 | 国 | △ | `jgrants`（事業者向け補助金・調査中）, `jnet21-snavi-support-rss`（事業者向け補助金・助成金・融資（国＋都道府県・市区町村）・要利用申請）, `jnet21-snavi-search`（事業者向け補助金・助成金・融資・要利用申請）, `mirasapo-subsidy`（中小企業向けの主要補助金・助成金・調査中）, `gbiz-portal-search`（事業者向け行政手続・補助金・調査中）, `chusho-hojyokin-kobo`（中小企業向け補助金の公募・調査中）, `chusho-g-book`（中小企業施策全般・調査中）, `cao-bousai-kakusyuseido`（被災者向けの給付・貸付・減免・住宅支援（府省横断）・調査中）, `rssystem-review-csv`（全府省の予算事業（補助金事業を含む）・調査中）, `egov-dataportal-ckan`（府省のオープンデータ全般・対象外）, `govonline`（暮らしの広報記事・対象外） |
+| 環境省 | 国 | ◐ | `jgrants`（事業者向け補助金・調査中）, `jnet21-snavi-support-rss`（事業者向け補助金・助成金・融資（国＋都道府県・市区町村）・要利用申請）, `jnet21-snavi-search`（事業者向け補助金・助成金・融資・要利用申請）, `gbiz-portal-search`（事業者向け行政手続・補助金・調査中）, `env-carbon-neutral-subsidy`（脱炭素分野の補助・委託事業（自治体・事業者・個人）・取込予定）, `cao-bousai-kakusyuseido`（被災者向けの給付・貸付・減免・住宅支援（府省横断）・調査中）, `rssystem-review-csv`（全府省の予算事業（補助金事業を含む）・調査中）, `egov-dataportal-ckan`（府省のオープンデータ全般・対象外）, `govonline`（暮らしの広報記事・対象外） |
+| 内閣府 | 国 | △ | `jgrants`（事業者向け補助金・調査中）, `jnet21-snavi-support-rss`（事業者向け補助金・助成金・融資（国＋都道府県・市区町村）・要利用申請）, `jnet21-snavi-search`（事業者向け補助金・助成金・融資・要利用申請）, `gbiz-portal-search`（事業者向け行政手続・補助金・調査中）, `cao-bousai-kakusyuseido`（被災者向けの給付・貸付・減免・住宅支援（府省横断）・調査中）, `rssystem-review-csv`（全府省の予算事業（補助金事業を含む）・調査中）, `egov-dataportal-ckan`（府省のオープンデータ全般・対象外）, `govonline`（暮らしの広報記事・対象外） |
+| 総務省 | 国 | △ | `jgrants`（事業者向け補助金・調査中）, `jnet21-snavi-support-rss`（事業者向け補助金・助成金・融資（国＋都道府県・市区町村）・要利用申請）, `jnet21-snavi-search`（事業者向け補助金・助成金・融資・要利用申請）, `gbiz-portal-search`（事業者向け行政手続・補助金・調査中）, `cao-bousai-kakusyuseido`（被災者向けの給付・貸付・減免・住宅支援（府省横断）・調査中）, `rssystem-review-csv`（全府省の予算事業（補助金事業を含む）・調査中）, `egov-dataportal-ckan`（府省のオープンデータ全般・対象外）, `govonline`（暮らしの広報記事・対象外） |
+| 特許庁 | 国 | △ | `jgrants`（事業者向け補助金・調査中）, `jnet21-snavi-support-rss`（事業者向け補助金・助成金・融資（国＋都道府県・市区町村）・要利用申請）, `jnet21-snavi-search`（事業者向け補助金・助成金・融資・要利用申請）, `gbiz-portal-search`（事業者向け行政手続・補助金・調査中）, `jpo-genmen`（特許料・審査請求料の減免（中小企業・個人など）・調査中）, `jpo-chusho-support`（中小企業向けの知財支援（減免・助成・相談）・調査中）, `cao-bousai-kakusyuseido`（被災者向けの給付・貸付・減免・住宅支援（府省横断）・調査中）, `rssystem-review-csv`（全府省の予算事業（補助金事業を含む）・調査中）, `egov-dataportal-ckan`（府省のオープンデータ全般・対象外）, `govonline`（暮らしの広報記事・対象外） |
+| 国土交通省 | 国 | △ | `jgrants`（事業者向け補助金・調査中）, `jnet21-snavi-support-rss`（事業者向け補助金・助成金・融資（国＋都道府県・市区町村）・要利用申請）, `jnet21-snavi-search`（事業者向け補助金・助成金・融資・要利用申請）, `gbiz-portal-search`（事業者向け行政手続・補助金・調査中）, `mlit-jutaku-shienjigyo`（住宅取得・リフォームの補助・税制・融資（個人・事業者）・調査中）, `cao-bousai-kakusyuseido`（被災者向けの給付・貸付・減免・住宅支援（府省横断）・調査中）, `rssystem-review-csv`（全府省の予算事業（補助金事業を含む）・調査中）, `egov-dataportal-ckan`（府省のオープンデータ全般・対象外）, `govonline`（暮らしの広報記事・対象外） |
+| 水産庁 | 国 | △ | `jgrants`（事業者向け補助金・調査中）, `jnet21-snavi-support-rss`（事業者向け補助金・助成金・融資（国＋都道府県・市区町村）・要利用申請）, `jnet21-snavi-search`（事業者向け補助金・助成金・融資・要利用申請）, `gbiz-portal-search`（事業者向け行政手続・補助金・調査中）, `jfa-hozyo-kobo`（水産分野の補助事業の公募・調査中）, `cao-bousai-kakusyuseido`（被災者向けの給付・貸付・減免・住宅支援（府省横断）・調査中）, `rssystem-review-csv`（全府省の予算事業（補助金事業を含む）・調査中）, `egov-dataportal-ckan`（府省のオープンデータ全般・対象外）, `govonline`（暮らしの広報記事・対象外） |
+| 資源エネルギー庁 | 国 | △ | `jgrants`（事業者向け補助金・調査中）, `jnet21-snavi-support-rss`（事業者向け補助金・助成金・融資（国＋都道府県・市区町村）・要利用申請）, `jnet21-snavi-search`（事業者向け補助金・助成金・融資・要利用申請）, `mirasapo-subsidy`（中小企業向けの主要補助金・助成金・調査中）, `gbiz-portal-search`（事業者向け行政手続・補助金・調査中）, `enecho-public-offer`（エネルギー分野の補助金・委託の公募・調査中）, `cao-bousai-kakusyuseido`（被災者向けの給付・貸付・減免・住宅支援（府省横断）・調査中）, `rssystem-review-csv`（全府省の予算事業（補助金事業を含む）・調査中）, `egov-dataportal-ckan`（府省のオープンデータ全般・対象外）, `govonline`（暮らしの広報記事・対象外） |
+| 復興庁 | 国 | △ | `jgrants`（事業者向け補助金・調査中）, `jnet21-snavi-support-rss`（事業者向け補助金・助成金・融資（国＋都道府県・市区町村）・要利用申請）, `jnet21-snavi-search`（事業者向け補助金・助成金・融資・要利用申請）, `gbiz-portal-search`（事業者向け行政手続・補助金・調査中）, `cao-bousai-kakusyuseido`（被災者向けの給付・貸付・減免・住宅支援（府省横断）・調査中）, `rssystem-review-csv`（全府省の予算事業（補助金事業を含む）・調査中）, `egov-dataportal-ckan`（府省のオープンデータ全般・対象外）, `govonline`（暮らしの広報記事・対象外） |
+| 林野庁 | 国 | △ | `jgrants`（事業者向け補助金・調査中）, `jnet21-snavi-support-rss`（事業者向け補助金・助成金・融資（国＋都道府県・市区町村）・要利用申請）, `jnet21-snavi-search`（事業者向け補助金・助成金・融資・要利用申請）, `gbiz-portal-search`（事業者向け行政手続・補助金・調査中）, `rinya-hojyo-kobo`（林業分野の補助事業の公募・調査中）, `rinya-hojojigyou`（林業関係の補助事業（予算ごと）・調査中）, `cao-bousai-kakusyuseido`（被災者向けの給付・貸付・減免・住宅支援（府省横断）・調査中）, `rssystem-review-csv`（全府省の予算事業（補助金事業を含む）・調査中）, `egov-dataportal-ckan`（府省のオープンデータ全般・対象外）, `govonline`（暮らしの広報記事・対象外） |
+| 経済産業省 | 国 | ◐ | `jgrants`（事業者向け補助金・調査中）, `jnet21-snavi-support-rss`（事業者向け補助金・助成金・融資（国＋都道府県・市区町村）・要利用申請）, `jnet21-snavi-search`（事業者向け補助金・助成金・融資・要利用申請）, `mirasapo-subsidy`（中小企業向けの主要補助金・助成金・調査中）, `gbiz-portal-search`（事業者向け行政手続・補助金・調査中）, `env-carbon-neutral-subsidy`（脱炭素分野の補助・委託事業（自治体・事業者・個人）・取込予定）, `chusho-g-book`（中小企業施策全般・調査中）, `meti-kobo`（補助金・委託などの公募・調査中）, `cao-bousai-kakusyuseido`（被災者向けの給付・貸付・減免・住宅支援（府省横断）・調査中）, `rssystem-review-csv`（全府省の予算事業（補助金事業を含む）・調査中）, `egov-dataportal-ckan`（府省のオープンデータ全般・対象外）, `govonline`（暮らしの広報記事・対象外） |
+| 消費者庁 | 国 | △ | `jgrants`（事業者向け補助金・調査中）, `jnet21-snavi-support-rss`（事業者向け補助金・助成金・融資（国＋都道府県・市区町村）・要利用申請）, `jnet21-snavi-search`（事業者向け補助金・助成金・融資・要利用申請）, `gbiz-portal-search`（事業者向け行政手続・補助金・調査中）, `cao-bousai-kakusyuseido`（被災者向けの給付・貸付・減免・住宅支援（府省横断）・調査中）, `rssystem-review-csv`（全府省の予算事業（補助金事業を含む）・調査中）, `egov-dataportal-ckan`（府省のオープンデータ全般・対象外）, `govonline`（暮らしの広報記事・対象外） |
+| スポーツ庁 | 国 | △ | `jgrants`（事業者向け補助金・調査中）, `jnet21-snavi-support-rss`（事業者向け補助金・助成金・融資（国＋都道府県・市区町村）・要利用申請）, `jnet21-snavi-search`（事業者向け補助金・助成金・融資・要利用申請）, `gbiz-portal-search`（事業者向け行政手続・補助金・調査中）, `sports-boshu`（スポーツ分野の公募・調査中）, `cao-bousai-kakusyuseido`（被災者向けの給付・貸付・減免・住宅支援（府省横断）・調査中）, `rssystem-review-csv`（全府省の予算事業（補助金事業を含む）・調査中）, `egov-dataportal-ckan`（府省のオープンデータ全般・対象外）, `govonline`（暮らしの広報記事・対象外） |
+| 農林水産省 | 国 | △ | `jgrants`（事業者向け補助金・調査中）, `jnet21-snavi-support-rss`（事業者向け補助金・助成金・融資（国＋都道府県・市区町村）・要利用申請）, `jnet21-snavi-search`（事業者向け補助金・助成金・融資・要利用申請）, `gbiz-portal-search`（事業者向け行政手続・補助金・調査中）, `maff-hozyo-kobo`（農業分野の補助事業の公募・調査中）, `maff-aid`（農林水産分野の補助事業・税制の入口・調査中）, `cao-bousai-kakusyuseido`（被災者向けの給付・貸付・減免・住宅支援（府省横断）・調査中）, `rssystem-review-csv`（全府省の予算事業（補助金事業を含む）・調査中）, `egov-dataportal-ckan`（府省のオープンデータ全般・対象外）, `govonline`（暮らしの広報記事・対象外） |
+| 金融庁 | 国 | △ | `jgrants`（事業者向け補助金・調査中）, `jnet21-snavi-support-rss`（事業者向け補助金・助成金・融資（国＋都道府県・市区町村）・要利用申請）, `jnet21-snavi-search`（事業者向け補助金・助成金・融資・要利用申請）, `gbiz-portal-search`（事業者向け行政手続・補助金・調査中）, `cao-bousai-kakusyuseido`（被災者向けの給付・貸付・減免・住宅支援（府省横断）・調査中）, `rssystem-review-csv`（全府省の予算事業（補助金事業を含む）・調査中）, `egov-dataportal-ckan`（府省のオープンデータ全般・対象外）, `govonline`（暮らしの広報記事・対象外） |
+| 文化庁 | 国 | △ | `jgrants`（事業者向け補助金・調査中）, `jnet21-snavi-support-rss`（事業者向け補助金・助成金・融資（国＋都道府県・市区町村）・要利用申請）, `jnet21-snavi-search`（事業者向け補助金・助成金・融資・要利用申請）, `gbiz-portal-search`（事業者向け行政手続・補助金・調査中）, `bunka-joseishien`（文化財分野の助成・支援・調査中）, `bunka-kobo`（文化芸術の補助金・委託の公募・調査中）, `cao-bousai-kakusyuseido`（被災者向けの給付・貸付・減免・住宅支援（府省横断）・調査中）, `rssystem-review-csv`（全府省の予算事業（補助金事業を含む）・調査中）, `egov-dataportal-ckan`（府省のオープンデータ全般・対象外）, `govonline`（暮らしの広報記事・対象外） |
+| 厚生労働省 | 国 | △ | `jgrants`（事業者向け補助金・調査中）, `jnet21-snavi-support-rss`（事業者向け補助金・助成金・融資（国＋都道府県・市区町村）・要利用申請）, `jnet21-snavi-search`（事業者向け補助金・助成金・融資・要利用申請）, `mirasapo-subsidy`（中小企業向けの主要補助金・助成金・調査中）, `gbiz-portal-search`（事業者向け行政手続・補助金・調査中）, `mhlw-joseikin-shoureikin`（事業主・事業主団体・労働者向けの助成金・給付金・調査中）, `mhlw-koyou-kyufukin`（事業主向けの雇用関係助成金・調査中）, `cao-bousai-kakusyuseido`（被災者向けの給付・貸付・減免・住宅支援（府省横断）・調査中）, `rssystem-review-csv`（全府省の予算事業（補助金事業を含む）・調査中）, `egov-dataportal-ckan`（府省のオープンデータ全般・対象外）, `govonline`（暮らしの広報記事・対象外） |
+| こども家庭庁 | 国 | △ | `jgrants`（事業者向け補助金・調査中）, `jnet21-snavi-support-rss`（事業者向け補助金・助成金・融資（国＋都道府県・市区町村）・要利用申請）, `jnet21-snavi-search`（事業者向け補助金・助成金・融資・要利用申請）, `gbiz-portal-search`（事業者向け行政手続・補助金・調査中）, `cao-bousai-kakusyuseido`（被災者向けの給付・貸付・減免・住宅支援（府省横断）・調査中）, `rssystem-review-csv`（全府省の予算事業（補助金事業を含む）・調査中）, `egov-dataportal-ckan`（府省のオープンデータ全般・対象外）, `govonline`（暮らしの広報記事・対象外） |
+| 国税庁 | 国 | △ | `jgrants`（事業者向け補助金・調査中）, `jnet21-snavi-support-rss`（事業者向け補助金・助成金・融資（国＋都道府県・市区町村）・要利用申請）, `jnet21-snavi-search`（事業者向け補助金・助成金・融資・要利用申請）, `gbiz-portal-search`（事業者向け行政手続・補助金・調査中）, `cao-bousai-kakusyuseido`（被災者向けの給付・貸付・減免・住宅支援（府省横断）・調査中）, `rssystem-review-csv`（全府省の予算事業（補助金事業を含む）・調査中）, `egov-dataportal-ckan`（府省のオープンデータ全般・対象外）, `govonline`（暮らしの広報記事・対象外） |
+| 文部科学省 | 国 | △ | `jgrants`（事業者向け補助金・調査中）, `jnet21-snavi-support-rss`（事業者向け補助金・助成金・融資（国＋都道府県・市区町村）・要利用申請）, `jnet21-snavi-search`（事業者向け補助金・助成金・融資・要利用申請）, `gbiz-portal-search`（事業者向け行政手続・補助金・調査中）, `mext-boshu`（文部科学分野の公募・調査中）, `cao-bousai-kakusyuseido`（被災者向けの給付・貸付・減免・住宅支援（府省横断）・調査中）, `rssystem-review-csv`（全府省の予算事業（補助金事業を含む）・調査中）, `egov-dataportal-ckan`（府省のオープンデータ全般・対象外）, `govonline`（暮らしの広報記事・対象外） |
+| デジタル庁 | 国 | △ | `jgrants`（事業者向け補助金・調査中）, `jnet21-snavi-support-rss`（事業者向け補助金・助成金・融資（国＋都道府県・市区町村）・要利用申請）, `jnet21-snavi-search`（事業者向け補助金・助成金・融資・要利用申請）, `gbiz-portal-search`（事業者向け行政手続・補助金・調査中）, `cao-bousai-kakusyuseido`（被災者向けの給付・貸付・減免・住宅支援（府省横断）・調査中）, `rssystem-review-csv`（全府省の予算事業（補助金事業を含む）・調査中）, `egov-dataportal-ckan`（府省のオープンデータ全般・対象外）, `govonline`（暮らしの広報記事・対象外） |
+| 財務省 | 国 | △ | `jgrants`（事業者向け補助金・調査中）, `jnet21-snavi-support-rss`（事業者向け補助金・助成金・融資（国＋都道府県・市区町村）・要利用申請）, `jnet21-snavi-search`（事業者向け補助金・助成金・融資・要利用申請）, `gbiz-portal-search`（事業者向け行政手続・補助金・調査中）, `cao-bousai-kakusyuseido`（被災者向けの給付・貸付・減免・住宅支援（府省横断）・調査中）, `rssystem-review-csv`（全府省の予算事業（補助金事業を含む）・調査中）, `egov-dataportal-ckan`（府省のオープンデータ全般・対象外）, `govonline`（暮らしの広報記事・対象外） |
+| 外務省 | 国 | △ | `jgrants`（事業者向け補助金・調査中）, `jnet21-snavi-support-rss`（事業者向け補助金・助成金・融資（国＋都道府県・市区町村）・要利用申請）, `jnet21-snavi-search`（事業者向け補助金・助成金・融資・要利用申請）, `gbiz-portal-search`（事業者向け行政手続・補助金・調査中）, `cao-bousai-kakusyuseido`（被災者向けの給付・貸付・減免・住宅支援（府省横断）・調査中）, `rssystem-review-csv`（全府省の予算事業（補助金事業を含む）・調査中）, `egov-dataportal-ckan`（府省のオープンデータ全般・対象外）, `govonline`（暮らしの広報記事・対象外） |
+| 観光庁 | 国 | △ | `jgrants`（事業者向け補助金・調査中）, `jnet21-snavi-support-rss`（事業者向け補助金・助成金・融資（国＋都道府県・市区町村）・要利用申請）, `jnet21-snavi-search`（事業者向け補助金・助成金・融資・要利用申請）, `gbiz-portal-search`（事業者向け行政手続・補助金・調査中）, `kankocho-kobo`（観光分野の補助事業などの公募・調査中）, `cao-bousai-kakusyuseido`（被災者向けの給付・貸付・減免・住宅支援（府省横断）・調査中）, `rssystem-review-csv`（全府省の予算事業（補助金事業を含む）・調査中）, `egov-dataportal-ckan`（府省のオープンデータ全般・対象外）, `govonline`（暮らしの広報記事・対象外） |
+| 防衛省 | 国 | △ | `jgrants`（事業者向け補助金・調査中）, `jnet21-snavi-support-rss`（事業者向け補助金・助成金・融資（国＋都道府県・市区町村）・要利用申請）, `jnet21-snavi-search`（事業者向け補助金・助成金・融資・要利用申請）, `gbiz-portal-search`（事業者向け行政手続・補助金・調査中）, `cao-bousai-kakusyuseido`（被災者向けの給付・貸付・減免・住宅支援（府省横断）・調査中）, `rssystem-review-csv`（全府省の予算事業（補助金事業を含む）・調査中）, `egov-dataportal-ckan`（府省のオープンデータ全般・対象外）, `govonline`（暮らしの広報記事・対象外） |
 | 東京都 | 都道府県 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中）, `tokyo-hojokin-search`（都の補助金・取込予定）, `tokyo-shien-navi`（全般・取込予定） |
 | 千代田区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
 | 中央区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |

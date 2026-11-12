@@ -91,6 +91,8 @@ def update(root: Path, source_ids: list[str], daily: bool, do_commit: bool) -> i
         info = source_info(row, entities)
         try:
             fetched: Fetched = loader_for(sid).fetch(row)
+            # 更新が止まった取得元は、止まった時点の内容としてコミットする
+            fetched.observed = stopped_at(row) or fetched.observed
             outside = {f"lg:{lg}" for lg in fetched.units} - registry.expand(
                 row["covers"], entities
             )

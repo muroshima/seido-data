@@ -36,10 +36,15 @@ def loaders():
     }
 
 
-def loader_for(source_id: str):
+def loader_for(row: dict[str, str]):
+    """取得元の行に合う取り込み。source_id で決まるものを先に見て、無ければ形式で決める。"""
     for pattern, module in loaders().items():
-        if fnmatch.fnmatchcase(source_id, pattern):
+        if fnmatch.fnmatchcase(row["source_id"], pattern):
             return module
+    if row["kind"] == "web" and row["format"] == "html":
+        from . import webindex
+
+        return webindex
     return None
 
 

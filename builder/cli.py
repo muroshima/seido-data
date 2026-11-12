@@ -76,7 +76,7 @@ def update(root: Path, source_ids: list[str], daily: bool, do_commit: bool) -> i
     by_id = {s["source_id"]: s for s in sources}
     if daily:
         source_ids = daily_sources(sources)
-    unknown = [i for i in source_ids if i not in by_id or not loader_for(i)]
+    unknown = [i for i in source_ids if i not in by_id or not loader_for(by_id[i])]
     if unknown or not source_ids:
         print(f"取り込めない取得元: {unknown or '指定なし'}", file=sys.stderr)
         return 1
@@ -90,7 +90,7 @@ def update(root: Path, source_ids: list[str], daily: bool, do_commit: bool) -> i
         row = by_id[sid]
         info = source_info(row, entities)
         try:
-            fetched: Fetched = loader_for(sid).fetch(row)
+            fetched: Fetched = loader_for(row).fetch(row)
             # 更新が止まった取得元は、止まった時点の内容としてコミットする
             fetched.observed = stopped_at(row) or fetched.observed
             outside = {f"lg:{lg}" for lg in fetched.units} - registry.expand(
@@ -122,7 +122,7 @@ def daily_sources(sources: list[dict[str, str]]) -> list[str]:
     return [
         s["source_id"]
         for s in sources
-        if s["status"] == "取込中" and not stopped_at(s) and loader_for(s["source_id"])
+        if s["status"] == "取込中" and not stopped_at(s) and loader_for(s)
     ]
 
 

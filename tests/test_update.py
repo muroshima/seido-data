@@ -45,7 +45,7 @@ def repo(tmp_path, monkeypatch):
         "tokyo-ods-support-132136": SimpleNamespace(fetch=fetch_ng),
         "tokyo-ods-support-131148": SimpleNamespace(fetch=fetch_outside),
     }
-    monkeypatch.setattr(cli, "loader_for", loaders.get)
+    monkeypatch.setattr(cli, "loader_for", lambda row: loaders.get(row["source_id"]))
     return tmp_path, run
 
 
@@ -86,10 +86,10 @@ def test_daily_skips_stopped_and_not_ingesting():
     daily = cli.daily_sources(sources)
     assert "tokyo-kosodate-registry" not in daily  # 取込中だが更新停止
     assert "tokyo-hojokin-search" not in daily  # 取込予定
-    assert "fussa-opendata-kyufu" in daily
-    assert daily and all(
-        s.startswith("tokyo-ods-support-") or s == "fussa-opendata-kyufu" for s in daily
-    )
+    assert "tokyo-ods-support-131148" not in daily  # 取込中だが更新停止
+    assert {"fussa-opendata-kyufu", "taito-teate-josei"} <= set(daily)
+    by_id = {s["source_id"]: s for s in sources}
+    assert all(by_id[i]["status"] == "取込中" and not cli.stopped_at(by_id[i]) for i in daily)
 
 
 def test_stopped_source_commits_at_stopped_date(repo, monkeypatch):
@@ -98,7 +98,9 @@ def test_stopped_source_commits_at_stopped_date(repo, monkeypatch):
     stopped = SimpleNamespace(
         fetch=lambda row: Fetched(date(2026, 1, 1), {"131148": [rec("131148", "a")]})
     )
-    monkeypatch.setattr(cli, "loader_for", {"tokyo-ods-support-131148": stopped}.get)
+    monkeypatch.setattr(
+        cli, "loader_for", lambda row: {"tokyo-ods-support-131148": stopped}.get(row["source_id"])
+    )
     assert cli.main(["--root", str(root), "update", "tokyo-ods-support-131148", "--commit"]) == 0
     log = subprocess.run(
         ["git", "log", "-1", "--format=%ad", "--date=short"],

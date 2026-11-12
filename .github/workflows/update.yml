@@ -21,7 +21,9 @@ concurrency:
 
 jobs:
   update:
-    runs-on: ubuntu-latest
+    # 自宅 PC の self-hosted runner（ラベル seido）。自治体のサイトには、GitHub のランナー
+    # （海外の IP）から接続できないものがあるため。schedule と workflow_dispatch でしか起動しない
+    runs-on: [self-hosted, seido]
     timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4

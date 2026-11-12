@@ -67,3 +67,30 @@ def test_duplicate_in_later_unit_writes_nothing(tmp_path):
     with pytest.raises(ValueError, match="重複"):
         write_units(tmp_path, INFO, units)
     assert not (tmp_path / "raw").exists() and not (tmp_path / "seido").exists()
+
+
+META = SourceInfo(
+    name="m", title="t", url="u", license="不明", attribution="a", publish="メタデータ"
+)
+
+
+def test_metadata_only_source_rejects_text(tmp_path):
+    """メタデータだけの取得元に本文が混ざったら、何も書かずに止める。"""
+    r = rec("131016", "a")  # seido に「概要」の本文がある
+    r.raw = {"url": "https://example.jp/", "title": "制度"}
+    with pytest.raises(ValueError, match="seido に本文"):
+        write_units(tmp_path, META, {"131016": [r]})
+    r.seido.sections = {}
+    r.raw["body"] = "本文"
+    with pytest.raises(ValueError, match="body"):
+        write_units(tmp_path, META, {"131016": [r]})
+    assert not (tmp_path / "raw").exists()
+
+
+def test_metadata_only_source_writes_notice(tmp_path):
+    r = rec("131016", "a")
+    r.raw = {"url": "https://example.jp/", "title": "制度", "content_sha256": "0" * 64}
+    r.seido.sections = {}
+    write_units(tmp_path, META, {"131016": [r]})
+    md = (tmp_path / "seido/13/131016/m/a.md").read_text(encoding="utf-8")
+    assert "本文は掲載していません" in md

@@ -25,6 +25,7 @@ SOURCE_FIELDS = [
     "format",
     "url",
     "license",
+    "publish",
     "update",
     "status",
     "checked",
@@ -39,6 +40,9 @@ USABLE = ("取込中", "取込予定")
 # scope は取得元が扱う制度の範囲。全般 = 分野を限定しない形式（網羅しているとは限らない）。
 # それ以外は分野・対象を書く（例: 子育て（0-6歳）、事業者向け補助金）
 SCOPE_ALL = "全般"
+# publish は公開する範囲。本文 = 取得元の文章を raw/ と seido/ に置く（利用規約が二次利用を
+# 認めるものだけ）。メタデータ = 制度名・URL・変わった日・本文のハッシュだけを置く
+PUBLISH = ("本文", "メタデータ")
 
 LG_CODE = re.compile(r"^\d{6}$")
 CORP = re.compile(r"^\d{13}$")
@@ -136,6 +140,10 @@ def validate(entities: list[dict[str, str]], sources: list[dict[str, str]]) -> l
         for pattern in patterns:
             if not expand(pattern, entities):
                 errors.append(f"{where}: covers の {pattern!r} に当たる団体が無い")
+        if s["publish"] not in PUBLISH:
+            errors.append(f"{where}: publish が {PUBLISH} のどれでもない")
+        elif s["publish"] == "本文" and s["license"].startswith("不明"):
+            errors.append(f"{where}: license が不明なのに publish が本文")
         if not s["scope"]:
             errors.append(f"{where}: scope が空（全般、または分野を書く）")
         if s["kind"] not in SOURCE_KINDS:

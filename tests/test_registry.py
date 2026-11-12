@@ -24,6 +24,7 @@ def src(sid="s", covers="lg:131016", status="取込予定", scope="全般", prov
         format="csv",
         url="https://example.jp/",
         license="CC BY",
+        publish="本文",
         update="随時",
         status=status,
         checked="2026-11-12",
@@ -127,3 +128,9 @@ def test_repository_registry_is_valid_and_coverage_is_fresh():
     expected = r.coverage(entities, sources)
     actual = (ROOT / "registry" / "COVERAGE.md").read_text(encoding="utf-8")
     assert actual == expected, "uv run seido registry coverage で作り直す"
+
+
+def test_publish_must_be_known_and_full_text_needs_license():
+    assert any("publish" in e for e in r.validate([TOKYO, CHIYODA], [{**src(), "publish": "全部"}]))
+    unknown = {**src(), "publish": "本文", "license": "不明"}
+    assert any("license が不明" in e for e in r.validate([TOKYO, CHIYODA], [unknown]))

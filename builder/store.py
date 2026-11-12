@@ -8,7 +8,7 @@ import json
 from dataclasses import dataclass, field
 from pathlib import Path
 
-from .model import Record, SourceInfo, render
+from .model import Record, SourceInfo, check_publishable, render
 
 
 @dataclass
@@ -40,6 +40,8 @@ def write_units(
     """
     planned = []
     for lg_code, records in sorted(units.items()):
+        for r in records:
+            check_publishable(r, source)
         ids = [r.record_id for r in records]
         dup = {i for i in ids if ids.count(i) > 1}
         if dup:

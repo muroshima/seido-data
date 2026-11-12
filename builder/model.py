@@ -44,6 +44,10 @@ class Record:
             raise ValueError("record_id が空")
 
 
+# publish が「メタデータ」の取得元で raw/ に置いてよいキー。本文は置かない
+META_RAW_KEYS = frozenset({"url", "title", "content_sha256", "content_length"})
+
+
 @dataclass
 class SourceInfo:
     name: str
@@ -51,6 +55,22 @@ class SourceInfo:
     url: str
     license: str
     attribution: str
+    publish: str = "本文"
+
+    @property
+    def metadata_only(self) -> bool:
+        return self.publish == "メタデータ"
+
+
+def check_publishable(record: Record, source: SourceInfo) -> None:
+    """メタデータだけの取得元から、本文が raw/ や seido/ に入らないようにする。"""
+    if not source.metadata_only:
+        return
+    extra = set(record.raw) - META_RAW_KEYS
+    if extra:
+        raise ValueError(f"{source.name}: メタデータだけの取得元の raw に {sorted(extra)} がある")
+    if record.seido is not None and any(record.seido.sections.values()):
+        raise ValueError(f"{source.name}: メタデータだけの取得元の seido に本文がある")
 
 
 def render(record: Record, source: SourceInfo) -> str:
@@ -70,6 +90,11 @@ def render(record: Record, source: SourceInfo) -> str:
     }
     lines = ["---", yaml.safe_dump(front, allow_unicode=True, sort_keys=False).rstrip(), "---", ""]
     lines += [f"# {s.title}", ""]
+    if source.metadata_only:
+        lines += [
+            "取得元の利用規約により、本文は掲載していません。`url` のページを見てください。",
+            "",
+        ]
     for heading, body in s.sections.items():
         body = normalize_text(body)
         if body:

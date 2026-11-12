@@ -52,6 +52,7 @@ def source_info(row: dict[str, str], entities: list[dict[str, str]]) -> SourceIn
         url=row["url"],
         license=row["license"],
         attribution=f"{provider}「{row['name']}」{as_of}を加工して作成",
+        publish=row["publish"],
     )
 
 

@@ -2,7 +2,7 @@
 
 import re
 from dataclasses import dataclass, field
-from datetime import date
+from datetime import date, timedelta
 from difflib import SequenceMatcher
 
 import yaml
@@ -152,4 +152,8 @@ def join(*parts: str | None, sep: str = "\n\n") -> str:
 def iso_date(value: str | date | None) -> str | None:
     if not value:
         return None
-    return str(value)[:10]
+    text = str(value).strip()
+    if re.fullmatch(r"\d{5}", text):
+        # Excel の日付シリアル値がそのまま入っていることがある（45292 = 2024-01-01）
+        return (date(1899, 12, 30) + timedelta(days=int(text))).isoformat()
+    return text[:10]

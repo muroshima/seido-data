@@ -109,3 +109,13 @@ def test_raw_keeps_original_whitespace(dataset):
     (r,) = ods.fetch(ROW).units["131016"]
     assert r.raw["タイトル（制度名）"] == "  児童手当 "
     assert r.seido.title == "児童手当"
+
+
+def test_excel_serial_date_is_converted():
+    """福生市の CSV は公開日が Excel の日付シリアル値（45750 = 2025-04-03）。"""
+    assert (
+        ods.to_seido({"タイトル（制度名）": "x", "公開日": "45750"}).source_updated == "2025-04-03"
+    )
+    assert ods.to_seido({"タイトル（制度名）": "x", "公開日": "2024-04-01"}).source_updated == (
+        "2024-04-01"
+    )

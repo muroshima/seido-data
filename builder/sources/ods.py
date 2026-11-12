@@ -1,7 +1,8 @@
 """自治体標準オープンデータセット「支援制度（給付金）情報」形式のファイル。
 
-対応表の 1 行が 1 自治体のデータセット（CKAN）に当たる。データセット内の CSV・XLSX のうち、
-ヘッダーがこの形式のものを全部読み、その自治体の制度一覧として置き換える。
+対応表の 1 行が 1 自治体のデータセットに当たる。url は CKAN のデータセットか、ファイルの
+掲載ページ（福生市など、自治体のサイトに直接置かれているもの）。データセット内の CSV・XLSX の
+うち、ヘッダーがこの形式のものを全部読み、その自治体の制度一覧として置き換える。
 """
 
 import csv
@@ -11,7 +12,7 @@ import re
 
 import openpyxl
 
-from .. import ckan, http
+from .. import ckan, http, webpage
 from ..model import Record, Seido, iso_date, join, safe_id
 from . import Fetched, today
 
@@ -31,7 +32,7 @@ def fetch(row: dict[str, str]) -> Fetched:
     records: list[Record] = []
     seen: dict[str, dict] = {}  # ID → raw（複数ファイルをまたいで一意にする）
     matched = 0
-    for res in ckan.resources(row["url"]):
+    for res in resources(row["url"]):
         fmt = (res.get("format") or "").upper()
         if fmt not in ("CSV", "XLSX"):
             continue
@@ -54,6 +55,13 @@ def fetch(row: dict[str, str]) -> Fetched:
         raise RuntimeError("この形式のファイルが 1 つも無い（形式が変わった可能性）")
     # 0 件でも置き換える（最後の制度が消えたことを削除として残す）
     return Fetched(observed=today(), units={lg_code: records})
+
+
+def resources(url: str) -> list[dict]:
+    """CKAN のデータセットならそのファイル、そうでなければ掲載ページの「支援制度」のリンク。"""
+    if "/dataset/" in url:
+        return ckan.resources(url)
+    return webpage.resources(url, "支援制度")
 
 
 def read_csv(body: bytes) -> tuple[list[str], list[dict[str, str]]]:

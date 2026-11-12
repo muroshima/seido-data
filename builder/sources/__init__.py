@@ -32,6 +32,7 @@ def loaders():
     return {
         "tokyo-kosodate-registry": tokyo_kosodate_registry,
         "tokyo-ods-support-*": ods,
+        "fussa-opendata-kyufu": ods,
     }
 
 

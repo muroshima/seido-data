@@ -86,7 +86,10 @@ def test_daily_skips_stopped_and_not_ingesting():
     daily = cli.daily_sources(sources)
     assert "tokyo-kosodate-registry" not in daily  # 取込中だが更新停止
     assert "tokyo-hojokin-search" not in daily  # 取込予定
-    assert daily and all(s.startswith("tokyo-ods-support-") for s in daily)
+    assert "fussa-opendata-kyufu" in daily
+    assert daily and all(
+        s.startswith("tokyo-ods-support-") or s == "fussa-opendata-kyufu" for s in daily
+    )
 
 
 def test_stopped_source_commits_at_stopped_date(repo, monkeypatch):

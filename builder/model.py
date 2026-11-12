@@ -25,6 +25,8 @@ class Seido:
     url: str | None
     source_updated: str | None
     sections: dict[str, str] = field(default_factory=dict)
+    # 事実だけの取得元で、sections をどの本文（のハッシュ）から取り出したか
+    facts_sha256: str | None = None
 
 
 @dataclass
@@ -120,6 +122,8 @@ def render(record: Record, source: SourceInfo) -> str:
     if source.facts_only:
         # 本文を置かない代わりに、本文が変わったことを seido/ の差分に出す
         front["content_sha256"] = record.raw.get("content_sha256")
+        # 本文が変わったのにまだ取り出し直していないと、content_sha256 と食い違う
+        front["facts_sha256"] = s.facts_sha256
     lines = ["---", yaml.safe_dump(front, allow_unicode=True, sort_keys=False).rstrip(), "---", ""]
     lines += [f"# {s.title}", ""]
     if source.facts_only:

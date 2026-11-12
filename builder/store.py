@@ -8,6 +8,8 @@ import json
 from dataclasses import dataclass, field
 from pathlib import Path
 
+import yaml
+
 from .model import Record, SourceInfo, check_publishable, render
 
 
@@ -28,6 +30,14 @@ def raw_dir(root: Path, source: str, lg_code: str) -> Path:
 
 def seido_dir(root: Path, source: str, lg_code: str) -> Path:
     return root / "seido" / lg_code[:2] / lg_code / source
+
+
+def read_front(path: Path) -> dict:
+    """render() が書いた Markdown の frontmatter。"""
+    text = path.read_text(encoding="utf-8")
+    if not text.startswith("---\n"):
+        return {}
+    return yaml.safe_load(text[4:].split("\n---\n", 1)[0]) or {}
 
 
 def read_sections(path: Path) -> dict[str, str]:

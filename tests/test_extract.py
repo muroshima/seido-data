@@ -136,3 +136,22 @@ def test_short_pages_are_not_sent_to_llm(tmp_path):
     r = record(text="日本政策金融公庫の教育ローンのページへ移動します。")
     assert extract.fill(tmp_path, "w", [r], session_of(FakeLLM())) == 0
     assert r.seido is None
+
+
+def test_changed_page_without_llm_keeps_stale_facts_until_next_extraction(tmp_path):
+    """本文が変わっても抽出なしの実行では項目を消さず、次の抽出で取り出し直す。"""
+    r = record()
+    extract.fill(tmp_path, "w", [r], session_of(FakeLLM(GOOD)))
+    write_units(tmp_path, INFO, {"131016": [r]})
+    old_sha = r.raw["content_sha256"]
+
+    changed_text = PAGE + "令和8年4月から所得制限をなくしました。"
+    crawl_only = record(text=changed_text)
+    assert extract.fill(tmp_path, "w", [crawl_only], None) == 0
+    assert crawl_only.seido.sections == r.seido.sections  # 消えない
+    assert crawl_only.seido.facts_sha256 == old_sha  # 古い本文から取り出したまま
+    write_units(tmp_path, INFO, {"131016": [crawl_only]})
+
+    later = record(text=changed_text)
+    assert extract.fill(tmp_path, "w", [later], session_of(FakeLLM(GOOD))) == 1
+    assert later.seido.facts_sha256 == later.raw["content_sha256"]

@@ -170,36 +170,33 @@ def wait_ready(url: str, timeout: float = 60) -> None:
 def fill(root: Path, source_name: str, records: list, llm_session=session) -> int:
     """事実だけの取得元のレコードに、制度の情報を埋める。LLM に回した件数を返す。
 
-    本文のハッシュが前回と同じなら前回の項目を使い、新しいページと変わったページだけ LLM に回す。
+    項目をどの本文から取り出したかを facts_sha256 に持つ。今の本文と同じなら前回の項目を使い、
+    新しいページ・本文が変わったページ・まだ取り出していないページだけを LLM に回す。
+    llm_session が None なら LLM は呼ばず、前回の項目と facts_sha256 をそのまま残す
+    （項目は古いままだが消えない。次に LLM を使うときに取り出し直す）。
     一覧ページからリンクされたページは制度の案内として扱う。本文がほとんど無いページだけは
     seido を None にする（raw/ にだけ残る）。
-    llm_session が None なら LLM は呼ばない（前回の項目の引き継ぎだけをする）。
     """
-    from .store import raw_dir, read_sections, seido_dir
+    from .store import read_front, read_sections, seido_dir
 
     todo = []
     for r in records:
         if r.seido is None:
             continue
-        raw_path = raw_dir(root, source_name, r.lg_code) / f"{r.record_id}.json"
-        md_path = seido_dir(root, source_name, r.lg_code) / f"{r.record_id}.md"
-        if raw_path.exists():
-            prev = json.loads(raw_path.read_text(encoding="utf-8"))
-            if prev.get("content_sha256") == r.raw["content_sha256"]:
-                if not md_path.exists():
-                    r.seido = None  # 前回、支援制度の案内でないと判定したページ
-                    continue
-                sections = read_sections(md_path)
-                if sections:
-                    r.seido.sections = sections
-                    continue
-                # 項目が 1 つも無いのは、巡回だけして抽出していないページ。LLM に回す
         if len(r.source_text or "") < MIN_INPUT_CHARS:
             r.seido = None  # 本文がほとんど無い。制度の案内として扱わない
             continue
+        md_path = seido_dir(root, source_name, r.lg_code) / f"{r.record_id}.md"
+        if md_path.exists():
+            r.seido.sections = read_sections(md_path)
+            r.seido.facts_sha256 = read_front(md_path).get("facts_sha256")
+        if r.seido.sections and r.seido.facts_sha256 == r.raw["content_sha256"]:
+            continue
         todo.append(r)
-    if todo and llm_session is not None:
-        with llm_session() as llm:
-            for r in todo:
-                r.seido.sections = extract(llm, r.raw["title"], r.source_text or "").sections
-    return len(todo) if llm_session is not None else 0
+    if not todo or llm_session is None:
+        return 0
+    with llm_session() as llm:
+        for r in todo:
+            r.seido.sections = extract(llm, r.raw["title"], r.source_text or "").sections
+            r.seido.facts_sha256 = r.raw["content_sha256"]
+    return len(todo)

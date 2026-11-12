@@ -105,6 +105,7 @@ def test_facts_are_written_with_notice_and_hash(tmp_path):
         (fact({"概要": "児童の養育"}), "事実の項目ではない"),
         (fact({"対象者": "x" * 201}), "200 文字"),
         (fact({"対象者": "子育て世帯"}, source_text=None), "照合できない"),
+        (fact({"対象者": "子育て世帯"}, source_text=" \n "), "照合できない"),
     ],
 )
 def test_facts_only_source_rejects_copies(tmp_path, record, match):

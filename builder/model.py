@@ -83,7 +83,7 @@ def check_publishable(record: Record, source: SourceInfo) -> None:
     unknown = set(sections) - set(FACT_SECTIONS)
     if unknown:
         raise ValueError(f"{where}: 事実の項目ではない節 {sorted(unknown)} がある")
-    if sections and record.source_text is None:
+    if sections and not (record.source_text or "").strip():
         raise ValueError(f"{where}: 原文が無いので、書き写しでないかを照合できない")
     for heading, value in sections.items():
         if len(value) > FACT_MAX_CHARS:

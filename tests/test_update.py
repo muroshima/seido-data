@@ -1,0 +1,83 @@
+"""seido update: 対応表の取得元を回し、書き出してコミットする流れ。"""
+
+import shutil
+import subprocess
+from datetime import date
+from pathlib import Path
+from types import SimpleNamespace
+
+import pytest
+
+from builder import cli, registry
+from builder.model import Record, Seido
+from builder.sources import Fetched
+
+ROOT = Path(__file__).resolve().parents[1]
+
+
+def rec(lg: str, rid: str) -> Record:
+    s = Seido(title=rid, support="金銭", url=None, source_updated=None, sections={"概要": rid})
+    return Record(lg_code=lg, lg_name="", record_id=rid, raw={"t": rid}, seido=s)
+
+
+@pytest.fixture
+def repo(tmp_path, monkeypatch):
+    """registry/ だけを持つ git リポジトリ。取得元は 2 つで、片方は失敗する。"""
+    shutil.copytree(ROOT / "registry", tmp_path / "registry")
+    run = lambda *a: subprocess.run(["git", *a], cwd=tmp_path, check=True, capture_output=True)  # noqa: E731
+    run("init", "-q")
+    run("config", "user.name", "t")
+    run("config", "user.email", "t@example.invalid")
+    run("add", "registry")
+    run("commit", "-qm", "init")
+
+    def fetch_ok(row):
+        return Fetched(date(2026, 1, 1), {"131016": [rec("131016", "a")]})
+
+    def fetch_ng(row):
+        raise OSError("timeout")
+
+    loaders = {
+        "tokyo-ods-support-132101": SimpleNamespace(fetch=fetch_ok),
+        "tokyo-ods-support-132136": SimpleNamespace(fetch=fetch_ng),
+    }
+    monkeypatch.setattr(cli, "loader_for", loaders.get)
+    return tmp_path, run
+
+
+def test_one_failure_does_not_stop_others(repo):
+    root, run = repo
+    ids = ["tokyo-ods-support-132101", "tokyo-ods-support-132136"]
+    assert cli.main(["--root", str(root), "update", *ids, "--commit"]) == 2
+    log = subprocess.run(
+        ["git", "log", "-1", "--format=%ad%n%B", "--date=iso"],
+        cwd=root,
+        capture_output=True,
+        text=True,
+    ).stdout
+    assert log.startswith("2026-01-01 00:00:00 +0900")
+    assert "Source: tokyo-ods-support-132101" in log
+    md = (root / "seido/13/131016/tokyo-ods-support-132101/a.md").read_text(encoding="utf-8")
+    assert "lg_name: 千代田区" in md  # 自治体名は対応表から入れる
+
+
+def test_refuses_dirty_index(repo):
+    root, run = repo
+    (root / "README.md").write_text("x")
+    run("add", "README.md")
+    assert cli.main(["--root", str(root), "update", "tokyo-ods-support-132101", "--commit"]) == 1
+    assert not (root / "seido").exists()
+
+
+def test_unknown_source_is_rejected(repo):
+    root, _ = repo
+    assert cli.main(["--root", str(root), "update", "no-such-source"]) == 1
+
+
+def test_daily_skips_stopped_and_not_ingesting():
+    """--daily は「取込中」かつ更新が止まっていない取得元だけを回す。"""
+    _, sources = registry.load(ROOT)
+    daily = cli.daily_sources(sources)
+    assert "tokyo-kosodate-registry" not in daily  # 取込中だが更新停止
+    assert "tokyo-hojokin-search" not in daily  # 取込予定
+    assert daily and all(s.startswith("tokyo-ods-support-") for s in daily)

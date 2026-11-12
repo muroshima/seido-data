@@ -1,11 +1,11 @@
 source_id,name,provider,covers,scope,kind,format,url,license,update,status,checked,note
 jgrants,jGrants 補助金一覧・詳細API,gov:8000012010038,*,事業者向け補助金,api,json,https://developers.digital.go.jp/documents/jgrants/api/,不明,随時,調査中,2026-11-12,事業者向けの補助金。国と自治体の両方を含む。利用条件・ライセンスの記載が見当たらない
 digital-kosodate-registry,子育て支援制度レジストリ（電子申請等API）,gov:8000012010038,lg:*,子育て（主に0-6歳）,api,json,https://www.digital.go.jp/policies/childrearing-support-registry,不明,随時,要利用申請,2026-11-12,利用対象はアプリ事業者。主に未就学児向けの制度
-tokyo-kosodate-registry,東京デジタル2030ビジョン（こどもDX）子育て支援制度レジストリ 0-6歳制度,lg:130001,lg:13*,子育て（0-6歳）,opendata,json,https://catalog.data.metro.tokyo.lg.jp/dataset/t000029d0000000034,CC BY,停止（2025-08-20 時点）,取込予定,2026-11-12,デジタル庁のレジストリへ移行して更新終了。履歴の起点として 1 度だけ取り込む
+tokyo-kosodate-registry,東京デジタル2030ビジョン（こどもDX）子育て支援制度レジストリ 0-6歳制度,lg:130001,lg:13*,子育て（0-6歳）,opendata,json,https://catalog.data.metro.tokyo.lg.jp/dataset/t000029d0000000034,CC BY,停止（2025-08-20 時点）,取込中,2026-11-13,デジタル庁のレジストリへ移行して更新終了。履歴の起点として 1 度だけ取り込む
 tokyo-kosodate-registry-7-18,東京デジタル2030ビジョン（こどもDX）子育て支援制度レジストリ 7-18歳制度,lg:130001,lg:13*,子育て（7-18歳）,opendata,xlsx,https://catalog.data.metro.tokyo.lg.jp/dataset/t000029d0000000034,CC BY,不明,調査中,2026-11-12,0-6歳制度と列の対応を未確認
 tokyo-hojokin-search,TOKYO補助金サーチ見える化ボード データ一覧,lg:130001,lg:130001,都の補助金,opendata,csv,https://catalog.data.metro.tokyo.lg.jp/dataset/t000004d1800000019,CC BY,年 1 回程度,取込予定,2026-11-12,都の補助金。年度ごとに別ファイル
 tokyo-shien-navi,都民・事業者向け支援情報サイト「Tokyo支援ナビ」掲載情報,lg:130001,lg:130001,全般,opendata,csv,https://catalog.data.metro.tokyo.lg.jp/dataset/t000001d1800000013,CC BY,停止（2024-05-15 時点）,取込予定,2026-11-12,以降のファイルが出ていない
-tokyo-ods-support-131148,支援制度（給付金）情報（自治体標準ODS）,lg:131148,lg:131148,全般,opendata,csv,https://catalog.data.metro.tokyo.lg.jp/dataset/t131148d0000000046,CC BY,更新しない（カタログ記載）,取込予定,2026-11-12,列名の記号が標準と違う（タイトル_制度名_）
-tokyo-ods-support-132055,支援制度（給付金）情報（自治体標準ODS）,lg:132055,lg:132055,全般,opendata,xlsx,https://catalog.data.metro.tokyo.lg.jp/dataset/t132055d0000000019,CC BY,随時,取込予定,2026-11-12,全国地方公共団体コードと ID の列が無い
-tokyo-ods-support-132101,支援制度（給付金）情報（自治体標準ODS）,lg:132101,lg:132101,全般,opendata,csv,https://catalog.data.metro.tokyo.lg.jp/dataset/t132101d0000000045,CC BY,年 2 回,取込予定,2026-11-12,
-tokyo-ods-support-132136,支援制度（給付金）情報（自治体標準ODS）,lg:132136,lg:132136,全般,opendata,csv,https://catalog.data.metro.tokyo.lg.jp/dataset/t132136d3100000020,CC BY,随時,取込予定,2026-11-12,全国地方公共団体コードと ID の列が無い
+tokyo-ods-support-131148,支援制度（給付金）情報（自治体標準ODS）,lg:131148,lg:131148,全般,opendata,csv,https://catalog.data.metro.tokyo.lg.jp/dataset/t131148d0000000046,CC BY,更新しない（カタログ記載）,取込中,2026-11-13,列名の記号が標準と違う（タイトル_制度名_）
+tokyo-ods-support-132055,支援制度（給付金）情報（自治体標準ODS）,lg:132055,lg:132055,全般,opendata,xlsx,https://catalog.data.metro.tokyo.lg.jp/dataset/t132055d0000000019,CC BY,随時,取込中,2026-11-13,全国地方公共団体コードと ID の列が無い
+tokyo-ods-support-132101,支援制度（給付金）情報（自治体標準ODS）,lg:132101,lg:132101,全般,opendata,csv,https://catalog.data.metro.tokyo.lg.jp/dataset/t132101d0000000045,CC BY,年 2 回,取込中,2026-11-13,
+tokyo-ods-support-132136,支援制度（給付金）情報（自治体標準ODS）,lg:132136,lg:132136,全般,opendata,csv,https://catalog.data.metro.tokyo.lg.jp/dataset/t132136d3100000020,CC BY,随時,取込中,2026-11-13,全国地方公共団体コードと ID の列が無い

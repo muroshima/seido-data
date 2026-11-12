@@ -43,66 +43,66 @@
 | 外務省 | 国 | △ | `jgrants`（事業者向け補助金・調査中） |
 | 観光庁 | 国 | △ | `jgrants`（事業者向け補助金・調査中） |
 | 防衛省 | 国 | △ | `jgrants`（事業者向け補助金・調査中） |
-| 東京都 | 都道府県 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中）, `tokyo-hojokin-search`（都の補助金・取込予定）, `tokyo-shien-navi`（全般・取込予定） |
-| 千代田区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 中央区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 港区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 新宿区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 文京区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 台東区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 墨田区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 江東区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 品川区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 目黒区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 大田区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 世田谷区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 渋谷区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 中野区 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中）, `tokyo-ods-support-131148`（全般・取込予定） |
-| 杉並区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 豊島区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 北区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 荒川区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 板橋区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 練馬区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 足立区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 葛飾区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 江戸川区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 八王子市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 立川市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 武蔵野市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 三鷹市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 青梅市 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中）, `tokyo-ods-support-132055`（全般・取込予定） |
-| 府中市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 昭島市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 調布市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 町田市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 小金井市 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中）, `tokyo-ods-support-132101`（全般・取込予定） |
-| 小平市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 日野市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 東村山市 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中）, `tokyo-ods-support-132136`（全般・取込予定） |
-| 国分寺市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 国立市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 福生市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 狛江市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 東大和市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 清瀬市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 東久留米市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 武蔵村山市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 多摩市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 稲城市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 羽村市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| あきる野市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 西東京市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 瑞穂町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 日の出町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 檜原村 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 奥多摩町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 大島町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 利島村 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 新島村 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 神津島村 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 三宅村 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 御蔵島村 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 八丈町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 青ヶ島村 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
-| 小笠原村 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込予定）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 東京都 | 都道府県 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中）, `tokyo-hojokin-search`（都の補助金・取込予定）, `tokyo-shien-navi`（全般・取込予定） |
+| 千代田区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 中央区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 港区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 新宿区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 文京区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 台東区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 墨田区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 江東区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 品川区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 目黒区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 大田区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 世田谷区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 渋谷区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 中野区 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中）, `tokyo-ods-support-131148`（全般・取込中） |
+| 杉並区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 豊島区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 北区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 荒川区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 板橋区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 練馬区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 足立区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 葛飾区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 江戸川区 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 八王子市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 立川市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 武蔵野市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 三鷹市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 青梅市 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中）, `tokyo-ods-support-132055`（全般・取込中） |
+| 府中市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 昭島市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 調布市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 町田市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 小金井市 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中）, `tokyo-ods-support-132101`（全般・取込中） |
+| 小平市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 日野市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 東村山市 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中）, `tokyo-ods-support-132136`（全般・取込中） |
+| 国分寺市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 国立市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 福生市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 狛江市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 東大和市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 清瀬市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 東久留米市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 武蔵村山市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 多摩市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 稲城市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 羽村市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| あきる野市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 西東京市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 瑞穂町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 日の出町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 檜原村 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 奥多摩町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 大島町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 利島村 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 新島村 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 神津島村 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 三宅村 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 御蔵島村 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 八丈町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 青ヶ島村 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |
+| 小笠原村 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中） |

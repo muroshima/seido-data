@@ -24,7 +24,7 @@ jobs:
     # 自宅 PC の self-hosted runner（ラベル seido）。自治体のサイトには、GitHub のランナー
     # （海外の IP）から接続できないものがあるため。schedule と workflow_dispatch でしか起動しない
     runs-on: [self-hosted, seido]
-    timeout-minutes: 120
+    timeout-minutes: 240
     steps:
       - uses: actions/checkout@v4
         with:
@@ -38,12 +38,14 @@ jobs:
       - name: 取り込み
         env:
           SOURCE_IDS: ${{ inputs.source_ids }}
+          # GPU は Kaggle のジョブと共有。空くまで最大 1 時間待つ
+          SEIDO_GPU_LOCK_WAIT: "3600"
         run: |
           if [ -n "$SOURCE_IDS" ]; then
             # shellcheck disable=SC2086 # 空白区切りを引数に分けたい
-            uv run seido update $SOURCE_IDS --commit
+            uv run seido update $SOURCE_IDS --commit --extract
           else
-            uv run seido update --daily --commit
+            uv run seido update --daily --commit --extract
           fi
       # 一部の取得元が失敗して exit 2 でも、取れた分のコミットは積む
       - if: ${{ !cancelled() }}

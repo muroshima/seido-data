@@ -12,7 +12,7 @@ import sys
 import traceback
 from pathlib import Path
 
-from . import BUILDER_VERSION, registry
+from . import BUILDER_VERSION, extract, registry
 from .model import SourceInfo
 from .sources import Fetched, loader_for, source_info, stopped_at
 from .store import Stats, write_units
@@ -35,10 +35,15 @@ def main(argv: list[str] | None = None) -> int:
         "--daily", action="store_true", help="取込中で、更新が止まっていない取得元を全部回す"
     )
     up.add_argument("--commit", action="store_true", help="変化があれば git commit する")
+    up.add_argument(
+        "--extract",
+        action="store_true",
+        help="事実だけの取得元で、新しいページと変わったページから LLM で制度の情報を取り出す",
+    )
     args = parser.parse_args(argv)
 
     if args.cmd == "update":
-        return update(args.root, args.source_ids, args.daily, args.commit)
+        return update(args.root, args.source_ids, args.daily, args.commit, args.extract)
     return registry_command(args)
 
 
@@ -67,7 +72,9 @@ def registry_command(args: argparse.Namespace) -> int:
     return 0
 
 
-def update(root: Path, source_ids: list[str], daily: bool, do_commit: bool) -> int:
+def update(
+    root: Path, source_ids: list[str], daily: bool, do_commit: bool, do_extract: bool = False
+) -> int:
     entities, sources = registry.load(root)
     errors = registry.validate(entities, sources)
     if errors:
@@ -101,6 +108,11 @@ def update(root: Path, source_ids: list[str], daily: bool, do_commit: bool) -> i
             for records in fetched.units.values():
                 for r in records:
                     r.lg_name = names.get(r.lg_code, r.lg_name)
+            if info.facts_only:
+                for records in fetched.units.values():
+                    n = extract.fill(root, sid, records, extract.session if do_extract else None)
+                    if n:
+                        print(f"{sid}: {n} ページから制度の情報を取り出した")
             raw_stats, seido_stats = write_units(root, info, fetched.units)
         except Exception:  # noqa: BLE001 1 つの取得元の失敗で、ほかを止めない
             print(

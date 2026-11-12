@@ -30,6 +30,24 @@ def seido_dir(root: Path, source: str, lg_code: str) -> Path:
     return root / "seido" / lg_code[:2] / lg_code / source
 
 
+def read_sections(path: Path) -> dict[str, str]:
+    """render() が書いた Markdown から、`## 見出し` ごとの本文を読み戻す。"""
+    sections: dict[str, str] = {}
+    heading = None
+    lines: list[str] = []
+    body = path.read_text(encoding="utf-8").split("\n---\n", 1)[-1]
+    for line in body.split("\n"):
+        if line.startswith("## "):
+            if heading:
+                sections[heading] = "\n".join(lines).strip()
+            heading, lines = line[3:].strip(), []
+        elif heading:
+            lines.append(line)
+    if heading:
+        sections[heading] = "\n".join(lines).strip()
+    return sections
+
+
 def write_units(
     root: Path, source: SourceInfo, units: dict[str, list[Record]]
 ) -> tuple[Stats, Stats]:

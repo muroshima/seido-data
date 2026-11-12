@@ -115,8 +115,10 @@ def validate(entities: list[dict[str, str]], sources: list[dict[str, str]]) -> l
         elif e["id"] != f"gov:{e['corporate_number']}":
             errors.append(f"{where}: 国の機関の id は gov:<法人番号>")
         corp = e["corporate_number"]
-        if corp and (not CORP.match(corp) or corporate_check_digit(corp[1:]) != corp[0]):
-            errors.append(f"{where}: corporate_number の検査数字が合わない")
+        if not CORP.match(corp) or corporate_check_digit(corp[1:]) != corp[0]:
+            errors.append(f"{where}: corporate_number が 13 桁でないか、検査数字が合わない")
+        elif e["lg_code"] and corp != lg_corporate_number(e["lg_code"]):
+            errors.append(f"{where}: corporate_number が lg_code から計算した値と違う")
         if e["website"] and not e["website"].startswith("https://"):
             errors.append(f"{where}: website は https://")
 
@@ -128,8 +130,12 @@ def validate(entities: list[dict[str, str]], sources: list[dict[str, str]]) -> l
             errors.append(f"{where}: source_id は英小文字・数字・ハイフン")
         if s["provider"] not in ids:
             errors.append(f"{where}: provider {s['provider']} が entities に無い")
-        if not expand(s["covers"], entities):
-            errors.append(f"{where}: covers {s['covers']!r} に当たる団体が無い")
+        patterns = [p.strip() for p in s["covers"].split(";") if p.strip()]
+        if not patterns:
+            errors.append(f"{where}: covers が空")
+        for pattern in patterns:
+            if not expand(pattern, entities):
+                errors.append(f"{where}: covers の {pattern!r} に当たる団体が無い")
         if not s["scope"]:
             errors.append(f"{where}: scope が空（全般、または分野を書く）")
         if s["kind"] not in SOURCE_KINDS:

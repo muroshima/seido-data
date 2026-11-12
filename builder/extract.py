@@ -11,6 +11,7 @@ import contextlib
 import fcntl
 import json
 import os
+import re
 import subprocess
 import time
 import urllib.request
@@ -25,11 +26,11 @@ OLLAMA_HOST = os.environ.get("SEIDO_OLLAMA_HOST", "127.0.0.1:11435")
 GPU_LOCK = os.environ.get("SEIDO_GPU_LOCK", "/tmp/kaggle-gpu.lock")
 GPU_LOCK_WAIT = int(os.environ.get("SEIDO_GPU_LOCK_WAIT", str(2 * 3600)))
 MAX_INPUT_CHARS = 8000
+# これより本文が短いページ（外部へのリンクを置いただけのページなど）は LLM に回さない。
+# 小さなモデルは、書かれていないことを一般論で埋めてしまう
+MIN_INPUT_CHARS = 200
 
 FIELDS = {
-    "is_program": "このページが、給付・助成・補助金・減免・貸付・現物支給など、"
-    "住民や事業者が受けられる支援制度の案内なら true。申請書の様式、お知らせ、"
-    "相談窓口の紹介、制度一覧の索引などは false",
     "対象者": "誰が対象か。年齢・所得・居住などの条件",
     "支援内容": "何がもらえるか・何が減るか。金額・割合・上限",
     "期間": "申請・受付の期間や締切。対象となる期間",
@@ -40,21 +41,18 @@ SYSTEM = (
     "あなたは自治体の支援制度のページから事実だけを取り出す係です。"
     "原文の文章をそのまま写さず、短い要点に言い換えてください。"
     f"各項目は {FACT_MAX_CHARS // 2} 字以内。"
-    "ページに書かれていないことは空文字にし、推測で補わない。"
+    "ページに書かれていないことは必ず空文字にし、推測で補わない。"
+    "「自治体に問い合わせる」「継続的」「各機関」のような、どの制度にも当てはまる一般論で埋めない。"
 )
 SCHEMA = {
     "type": "object",
-    "properties": {
-        k: {"type": "boolean" if k == "is_program" else "string", "description": v}
-        for k, v in FIELDS.items()
-    },
+    "properties": {k: {"type": "string", "description": v} for k, v in FIELDS.items()},
     "required": list(FIELDS),
 }
 
 
 @dataclass
 class Facts:
-    is_program: bool
     sections: dict[str, str]
 
 
@@ -100,9 +98,25 @@ def extract(llm, title: str, text: str) -> Facts:
     sections = {}
     for key in FACT_SECTIONS:
         value = str(answer.get(key) or "").strip()[:FACT_MAX_CHARS]
-        if value and longest_common_run(value, text) < VERBATIM_LIMIT:
+        if value and longest_common_run(value, text) < VERBATIM_LIMIT and grounded(value, text):
             sections[key] = value
-    return Facts(is_program=bool(answer.get("is_program")), sections=sections)
+    return Facts(sections=sections)
+
+
+TERM = re.compile(r"[一-龥々ァ-ヶー]{2,}|[0-9０-９][0-9０-９,，.]*")
+
+
+def grounded(value: str, text: str) -> bool:
+    """項目に含まれる語の半分以上が原文に出てくるか。
+
+    小さなモデルは、ページに書かれていない一般論（「継続的」「自治体に問い合わせる」など）で
+    項目を埋めることがある。原文に根拠の無い項目は捨てる。
+    """
+    terms = TERM.findall(value)
+    if not terms:
+        return False
+    found = sum(1 for t in terms if t.replace(",", "").replace("，", "") in text.replace(",", ""))
+    return found * 2 >= len(terms)
 
 
 def verbatim_fields(answer: dict, text: str) -> list[str]:
@@ -157,7 +171,8 @@ def fill(root: Path, source_name: str, records: list, llm_session=session) -> in
     """事実だけの取得元のレコードに、制度の情報を埋める。LLM に回した件数を返す。
 
     本文のハッシュが前回と同じなら前回の項目を使い、新しいページと変わったページだけ LLM に回す。
-    支援制度の案内でないページは seido を None にする（raw/ にだけ残る）。
+    一覧ページからリンクされたページは制度の案内として扱う。本文がほとんど無いページだけは
+    seido を None にする（raw/ にだけ残る）。
     llm_session が None なら LLM は呼ばない（前回の項目の引き継ぎだけをする）。
     """
     from .store import raw_dir, read_sections, seido_dir
@@ -179,13 +194,12 @@ def fill(root: Path, source_name: str, records: list, llm_session=session) -> in
                     r.seido.sections = sections
                     continue
                 # 項目が 1 つも無いのは、巡回だけして抽出していないページ。LLM に回す
+        if len(r.source_text or "") < MIN_INPUT_CHARS:
+            r.seido = None  # 本文がほとんど無い。制度の案内として扱わない
+            continue
         todo.append(r)
     if todo and llm_session is not None:
         with llm_session() as llm:
             for r in todo:
-                facts = extract(llm, r.raw["title"], r.source_text or "")
-                if facts.is_program:
-                    r.seido.sections = facts.sections
-                else:
-                    r.seido = None
+                r.seido.sections = extract(llm, r.raw["title"], r.source_text or "").sections
     return len(todo) if llm_session is not None else 0

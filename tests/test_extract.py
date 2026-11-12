@@ -11,11 +11,15 @@ PAGE = (
     "児童手当は、中学生までの子どもを育てている方に支給します。"
     "支給額は、3歳未満は月額15,000円、3歳以上は月額10,000円です。"
     "申請は区役所の子ども家庭課の窓口で受け付けています。"
+    "出生や転入の日の翌日から15日以内に申請してください。"
+    "申請が遅れると、遅れた月分の手当を受けられなくなりますのでご注意ください。"
+    "公務員の方は勤務先から支給されますので、勤務先にお問い合わせください。"
+    "所得の状況によっては支給額が変わることがあります。"
 )
+assert len(PAGE) >= 200
 GOOD = {
-    "is_program": True,
-    "対象者": "中学生までの子を育てる人",
-    "支援内容": "3歳未満は月1万5千円、3歳以上は月1万円",
+    "対象者": "中学生までの子どもを育てる人",
+    "支援内容": "3歳未満は月額15,000円、3歳以上は月額10,000円",
     "期間": "",
     "利用方法": "子ども家庭課の窓口で申請",
     "問い合わせ": "",
@@ -36,8 +40,15 @@ class FakeLLM:
 
 def test_extract_keeps_short_facts_only():
     facts = extract.extract(FakeLLM(GOOD), "児童手当", PAGE)
-    assert facts.is_program
-    assert facts.sections == {k: v for k, v in GOOD.items() if k != "is_program" and v}
+    assert facts.sections == {k: v for k, v in GOOD.items() if v}
+
+
+def test_ungrounded_fields_are_dropped():
+    """ページに無い一般論（「継続的」「自治体に問い合わせる」）で埋めた項目は捨てる。"""
+    answer = {**GOOD, "期間": "継続的", "問い合わせ": "自治体または市区町村に問い合わせる"}
+    facts = extract.extract(FakeLLM(answer), "児童手当", PAGE)
+    assert "期間" not in facts.sections and "問い合わせ" not in facts.sections
+    assert facts.sections["支援内容"] == GOOD["支援内容"]
 
 
 def test_copied_field_is_asked_again_and_dropped_if_still_copied():
@@ -80,16 +91,6 @@ def test_fill_calls_llm_only_for_new_or_changed_pages(tmp_path):
     assert extract.fill(tmp_path, "w", [changed], session_of(FakeLLM(GOOD))) == 1
 
 
-def test_fill_keeps_non_programs_out_of_seido(tmp_path):
-    r = record()
-    extract.fill(tmp_path, "w", [r], session_of(FakeLLM({**GOOD, "is_program": False})))
-    assert r.seido is None
-    write_units(tmp_path, INFO, {"131016": [r]})
-    again = record()
-    assert extract.fill(tmp_path, "w", [again], session_of(FakeLLM())) == 0
-    assert again.seido is None
-
-
 def test_fill_retries_pages_crawled_without_extraction(tmp_path):
     """巡回だけして項目が空のまま書いたページは、次に抽出するとき LLM に回す。"""
     r = record()
@@ -128,3 +129,10 @@ def test_session_times_out_when_gpu_is_busy(tmp_path, monkeypatch):
         with pytest.raises(TimeoutError, match="GPU"):
             with extract.session():
                 pass
+
+
+def test_short_pages_are_not_sent_to_llm(tmp_path):
+    """外部へのリンクを置いただけの短いページは LLM に回さず、seido/ に出さない。"""
+    r = record(text="日本政策金融公庫の教育ローンのページへ移動します。")
+    assert extract.fill(tmp_path, "w", [r], session_of(FakeLLM())) == 0
+    assert r.seido is None

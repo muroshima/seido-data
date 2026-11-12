@@ -32,14 +32,18 @@ def repo(tmp_path, monkeypatch):
     run("commit", "-qm", "init")
 
     def fetch_ok(row):
-        return Fetched(date(2026, 1, 1), {"131016": [rec("131016", "a")]})
+        return Fetched(date(2026, 1, 1), {"132101": [rec("132101", "a")]})
 
     def fetch_ng(row):
         raise OSError("timeout")
 
+    def fetch_outside(row):
+        return Fetched(date(2026, 1, 1), {"131016": [rec("131016", "z")]})  # covers は 131148
+
     loaders = {
         "tokyo-ods-support-132101": SimpleNamespace(fetch=fetch_ok),
         "tokyo-ods-support-132136": SimpleNamespace(fetch=fetch_ng),
+        "tokyo-ods-support-131148": SimpleNamespace(fetch=fetch_outside),
     }
     monkeypatch.setattr(cli, "loader_for", loaders.get)
     return tmp_path, run
@@ -47,7 +51,7 @@ def repo(tmp_path, monkeypatch):
 
 def test_one_failure_does_not_stop_others(repo):
     root, run = repo
-    ids = ["tokyo-ods-support-132101", "tokyo-ods-support-132136"]
+    ids = ["tokyo-ods-support-132136", "tokyo-ods-support-131148", "tokyo-ods-support-132101"]
     assert cli.main(["--root", str(root), "update", *ids, "--commit"]) == 2
     log = subprocess.run(
         ["git", "log", "-1", "--format=%ad%n%B", "--date=iso"],
@@ -57,8 +61,10 @@ def test_one_failure_does_not_stop_others(repo):
     ).stdout
     assert log.startswith("2026-01-01 00:00:00 +0900")
     assert "Source: tokyo-ods-support-132101" in log
-    md = (root / "seido/13/131016/tokyo-ods-support-132101/a.md").read_text(encoding="utf-8")
-    assert "lg_name: 千代田区" in md  # 自治体名は対応表から入れる
+    md = (root / "seido/13/132101/tokyo-ods-support-132101/a.md").read_text(encoding="utf-8")
+    assert "lg_name: 小金井市" in md  # 自治体名は対応表から入れる
+    # covers の範囲外を返した取得元は何も書かない
+    assert not (root / "seido/13/131016/tokyo-ods-support-131148").exists()
 
 
 def test_refuses_dirty_index(repo):

@@ -66,17 +66,18 @@ def read_csv(body: bytes) -> tuple[list[str], list[dict[str, str]]]:
     else:
         raise ValueError("文字コードを判定できない")
     reader = csv.DictReader(io.StringIO(text))
-    header = [h.strip() for h in reader.fieldnames or []]
-    rows = [{(k or "").strip(): (v or "").strip() for k, v in row.items()} for row in reader]
+    header = list(reader.fieldnames or [])
+    # raw/ に元の内容を残すため、ここでは空白を削らない（正規化は canonical_row でする）
+    rows = [{k or "": v or "" for k, v in row.items()} for row in reader]
     return header, rows
 
 
 def read_xlsx(body: bytes) -> tuple[list[str], list[dict[str, str]]]:
     ws = openpyxl.load_workbook(io.BytesIO(body), read_only=True, data_only=True).worksheets[0]
     it = ws.iter_rows(values_only=True)
-    header = [str(c or "").strip() for c in next(it, [])]
+    header = ["" if c is None else str(c) for c in next(it, [])]
     return header, [
-        {k: ("" if v is None else str(v).strip()) for k, v in zip(header, row, strict=False) if k}
+        {k: ("" if v is None else str(v)) for k, v in zip(header, row, strict=False) if k.strip()}
         for row in it
         if any(v not in (None, "") for v in row)
     ]
@@ -99,7 +100,8 @@ CANONICAL = {
 
 
 def canonical_row(raw: dict[str, str]) -> dict[str, str]:
-    return {CANONICAL.get(canon(k), k): v for k, v in raw.items()}
+    """列名を定義書の表記に揃え、値の前後の空白を削る（raw は変えない）。"""
+    return {CANONICAL.get(canon(k), k.strip()): v.strip() for k, v in raw.items()}
 
 
 def to_record(

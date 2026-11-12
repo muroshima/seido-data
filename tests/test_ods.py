@@ -101,3 +101,11 @@ def test_other_lg_code_in_rows_fails(dataset):
     dataset({"u1": "支援制度種別,タイトル（制度名）,全国地方公共団体コード\n1,a,131024\n"})
     with pytest.raises(ValueError, match="covers"):
         ods.fetch(ROW)
+
+
+def test_raw_keeps_original_whitespace(dataset):
+    """raw/ には元の値を残し、seido/ 用の値だけ空白を削る。"""
+    dataset({"u1": "支援制度種別,タイトル（制度名）,ID\n1,  児童手当 ,1\n"})
+    (r,) = ods.fetch(ROW).units["131016"]
+    assert r.raw["タイトル（制度名）"] == "  児童手当 "
+    assert r.seido.title == "児童手当"

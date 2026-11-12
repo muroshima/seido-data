@@ -33,8 +33,12 @@ def seido_dir(root: Path, source: str, lg_code: str) -> Path:
 def write_units(
     root: Path, source: SourceInfo, units: dict[str, list[Record]]
 ) -> tuple[Stats, Stats]:
-    """自治体ごとに raw/ と seido/ を置き換え、(raw の増減, seido の増減) を返す。"""
-    raw_stats, seido_stats = Stats(), Stats()
+    """自治体ごとに raw/ と seido/ を置き換え、(raw の増減, seido の増減) を返す。
+
+    重複の検査と書き出す内容の組み立てを全自治体分済ませてから書く。途中で失敗して
+    一部の自治体だけ書き換わった状態を作らないため。
+    """
+    planned = []
     for lg_code, records in sorted(units.items()):
         ids = [r.record_id for r in records]
         dup = {i for i in ids if ids.count(i) > 1}
@@ -48,6 +52,10 @@ def write_units(
         seido_files = {
             f"{r.record_id}.md": render(r, source) for r in records if r.seido is not None
         }
+        planned.append((lg_code, raw_files, seido_files))
+
+    raw_stats, seido_stats = Stats(), Stats()
+    for lg_code, raw_files, seido_files in planned:
         _sync(raw_dir(root, source.name, lg_code), raw_files, raw_stats, root)
         _sync(seido_dir(root, source.name, lg_code), seido_files, seido_stats, root)
     return raw_stats, seido_stats

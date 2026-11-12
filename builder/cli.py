@@ -88,17 +88,25 @@ def update(root: Path, source_ids: list[str], daily: bool, do_commit: bool) -> i
     failed = []
     for sid in source_ids:
         row = by_id[sid]
+        info = source_info(row, entities)
         try:
             fetched: Fetched = loader_for(sid).fetch(row)
+            outside = {f"lg:{lg}" for lg in fetched.units} - registry.expand(
+                row["covers"], entities
+            )
+            if outside:
+                raise ValueError(f"covers の範囲外の自治体: {sorted(outside)[:5]}")
+            for records in fetched.units.values():
+                for r in records:
+                    r.lg_name = names.get(r.lg_code, r.lg_name)
+            raw_stats, seido_stats = write_units(root, info, fetched.units)
         except Exception:  # noqa: BLE001 1 つの取得元の失敗で、ほかを止めない
-            print(f"{sid}: 取得失敗（何も書き換えない）\n{traceback.format_exc()}", file=sys.stderr)
+            print(
+                f"{sid}: 取り込み失敗（何も書き換えない）\n{traceback.format_exc()}",
+                file=sys.stderr,
+            )
             failed.append(sid)
             continue
-        for records in fetched.units.values():
-            for r in records:
-                r.lg_name = names.get(r.lg_code, r.lg_name)
-        info = source_info(row, entities)
-        raw_stats, seido_stats = write_units(root, info, fetched.units)
         summary = describe(seido_stats if not seido_stats.empty else raw_stats)
         print(f"{sid}: 自治体 {len(fetched.units)} / {summary or '変化なし'}")
         if do_commit and not (raw_stats.empty and seido_stats.empty):

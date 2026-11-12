@@ -59,3 +59,11 @@ def test_record_id_is_file_safe():
 def test_lg_code_must_be_6_digits():
     with pytest.raises(ValueError):
         rec("13101", "a")
+
+
+def test_duplicate_in_later_unit_writes_nothing(tmp_path):
+    """後ろの自治体で重複が見つかっても、前の自治体だけ書き換わった状態にしない。"""
+    units = {"131016": [rec("131016", "a")], "131024": [rec("131024", "x"), rec("131024", "x")]}
+    with pytest.raises(ValueError, match="重複"):
+        write_units(tmp_path, INFO, units)
+    assert not (tmp_path / "raw").exists() and not (tmp_path / "seido").exists()

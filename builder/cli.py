@@ -108,7 +108,9 @@ def update(
             for records in fetched.units.values():
                 for r in records:
                     r.lg_name = names.get(r.lg_code, r.lg_name)
-            if info.facts_only:
+            # 巡回で本文を取った取得元（Web の一覧ページ）は、publish にかかわらず事実を取り出す。
+            # 本文を持たない取り込み（標準形式の CSV など）は対象にしない
+            if any(r.source_text is not None for rs in fetched.units.values() for r in rs):
                 for records in fetched.units.values():
                     n = extract.fill(root, sid, records, extract.session if do_extract else None)
                     if n:

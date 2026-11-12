@@ -109,3 +109,31 @@ def test_stopped_source_commits_at_stopped_date(repo, monkeypatch):
         text=True,
     ).stdout.strip()
     assert log == "2025-03-31"
+
+
+def test_web_sources_are_extracted_regardless_of_publish(repo, monkeypatch):
+    """千代田区のように本文の利用が自由な取得元でも、巡回したなら事実を取り出す。"""
+    root, _ = repo
+    calls = []
+
+    def fill(root_, sid, records, llm_session):
+        calls.append(sid)
+        return 0
+
+    with_text = rec("131016", "a")
+    with_text.source_text = "本文"
+    monkeypatch.setattr(cli.extract, "fill", fill)
+    monkeypatch.setattr(
+        cli,
+        "loader_for",
+        lambda row: SimpleNamespace(
+            fetch=lambda r: (
+                Fetched(date(2026, 1, 1), {"131016": [with_text]})
+                if r["source_id"] == "chiyoda-teate-josei"
+                else Fetched(date(2026, 1, 1), {"132101": [rec("132101", "b")]})
+            )
+        ),
+    )
+    ids = ["chiyoda-teate-josei", "tokyo-ods-support-132101"]
+    assert cli.main(["--root", str(root), "update", *ids]) == 0
+    assert calls == ["chiyoda-teate-josei"]  # 本文を持たない CSV の取り込みは対象外

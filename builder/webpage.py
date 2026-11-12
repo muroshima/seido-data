@@ -43,13 +43,20 @@ class Page:
 
 
 class _Collector(HTMLParser):
-    """1 つの領域（scope）の中の文字とリンクを集める。scope は (タグ, id) の判定関数。"""
+    """1 つの領域（scope）の中の文字とリンクを集める。scope は (タグ, id) の判定関数。
 
-    def __init__(self, in_scope) -> None:
+    閉じタグが省略された HTML（`<li>` など）でも領域の終わりを取り違えないよう、開いている
+    タグをスタックで持ち、閉じタグが来たら対応する開きタグまでまとめて閉じる。
+    """
+
+    def __init__(self, in_scope, whole: bool = False) -> None:
         super().__init__(convert_charrefs=True)
         self.in_scope = in_scope
-        self.depth = 0  # scope の中なら 1 以上
-        self.skip = 0
+        self.whole = whole  # 文書全体を見る（領域を探さない）
+        self.active = whole
+        self.done = False
+        self.stack: list[str] = []
+        self.skip_at: int | None = None  # SKIP_TAGS の要素を開いたときのスタックの深さ
         self.text: list[str] = []
         self.links: list[tuple[str, str]] = []
         self.h1: list[str] = []
@@ -59,17 +66,18 @@ class _Collector(HTMLParser):
 
     def handle_starttag(self, tag, attrs):
         a = dict(attrs)
-        if self.depth == 0:
-            if self.in_scope(tag, a.get("id") or ""):
-                self.depth = 1
+        if not self.active:
+            if not self.done and self.in_scope(tag, a.get("id") or ""):
+                self.active, self.stack = True, [tag]
             return
         if tag in VOID_TAGS:
-            if tag == "br":
+            if tag == "br" and self.skip_at is None:
                 self.text.append("\n")
             return
-        self.depth += 1
-        if tag in SKIP_TAGS or self.skip:
-            self.skip += 1
+        self.stack.append(tag)
+        if self.skip_at is None and tag in SKIP_TAGS:
+            self.skip_at = len(self.stack)
+        if self.skip_at is not None:
             return
         if tag in BLOCK_TAGS:
             self.text.append("\n")
@@ -79,11 +87,21 @@ class _Collector(HTMLParser):
             self._in_h1 = True
 
     def handle_endtag(self, tag):
-        if self.depth == 0 or tag in VOID_TAGS:
+        if not self.active or tag in VOID_TAGS or tag not in self.stack:
             return
-        self.depth -= 1
-        if self.skip:
-            self.skip -= 1
+        while self.stack:
+            level = len(self.stack)
+            closed = self.stack.pop()
+            self._close(closed, level)
+            if closed == tag:
+                break
+        if not self.stack and not self.whole:
+            self.active, self.done = False, True  # 領域が閉じた。この先は拾わない
+
+    def _close(self, tag: str, level: int) -> None:
+        if self.skip_at is not None:
+            if level == self.skip_at:
+                self.skip_at = None
             return
         if tag == "a" and self._href is not None:
             self.links.append((self._href, squash("".join(self._anchor))))
@@ -94,7 +112,7 @@ class _Collector(HTMLParser):
             self.text.append("\n")
 
     def handle_data(self, data):
-        if self.depth == 0 or self.skip:
+        if not self.active or self.skip_at is not None:
             return
         self.text.append(data)
         if self._href is not None:
@@ -137,8 +155,7 @@ def fetch(url: str) -> Page:
 
 def links(html: str, base_url: str) -> list[tuple[str, str]]:
     """ページ全体のリンク（絶対 URL, リンク文）。"""
-    collector = _Collector(lambda tag, _id: tag == "html")
-    collector.depth = 1  # html タグが省略されていても全体を見る
+    collector = _Collector(lambda _tag, _id: False, whole=True)
     collector.feed(html)
     return [(urllib.parse.urljoin(base_url, href), text) for href, text in collector.links if href]
 

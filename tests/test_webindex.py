@@ -102,3 +102,32 @@ def test_record_id_is_stable_and_readable():
         f"{SITE}/kosodate/jidouteate.html"
     )
     assert a != webindex.record_id(f"{SITE}/other/jidouteate.html")
+
+
+def test_query_pages_get_distinct_ids():
+    a = webindex.record_id(f"{SITE}/detail.php?id=1")
+    b = webindex.record_id(f"{SITE}/detail.php?id=2")
+    assert a != b and a.startswith("detail-")
+
+
+def test_index_disallowed_by_robots_fails(site):
+    site({})
+    with pytest.raises(PermissionError):
+        webindex.fetch({**ROW, "url": f"{SITE}/secret/index.html"})
+
+
+def test_gone_sub_listing_is_skipped(site):
+    site(
+        {
+            ROW["url"]: page(
+                "一覧",
+                links=[
+                    (f"{SITE}/kosodate/teate/old/index.html", "消えた下位の一覧"),
+                    (f"{SITE}/kosodate/jidouteate.html", "児童手当"),
+                ],
+            ),
+            f"{SITE}/kosodate/teate/old/index.html": gone(f"{SITE}/kosodate/teate/old/index.html"),
+            f"{SITE}/kosodate/jidouteate.html": page("児童手当"),
+        }
+    )
+    assert [r.raw["title"] for r in webindex.fetch(ROW).units["131016"]] == ["児童手当"]

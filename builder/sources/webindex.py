@@ -34,6 +34,9 @@ def fetch(row: dict[str, str]) -> Fetched:
         raise ValueError(f"covers は 1 自治体（lg:<団体コード>）: {row['covers']!r}")
     lg_code = m.group(1)
     index_url = row["url"]
+    if not allowed(index_url):
+        # 一覧ページ自体が robots.txt で禁止されている。既存のレコードは残す
+        raise PermissionError(f"robots.txt で禁止されている: {index_url}")
     index = webpage.fetch(index_url)
 
     pages: dict[str, str] = {}  # 制度ページの URL → リンク文
@@ -42,7 +45,12 @@ def fetch(row: dict[str, str]) -> Fetched:
             # 下位の一覧は、一覧ページ自体がディレクトリの索引（index.html・/）のときだけ辿る。
             # 普通のページ（台東区の /benri/teate-josei.html など）の配下には無関係な一覧がある
             if url != index_url and is_listing(index_url) and under(url, index_url):
-                sub = webpage.fetch(url)
+                try:
+                    sub = webpage.fetch(url)
+                except urllib.error.HTTPError as e:
+                    if e.code in GONE:
+                        continue  # 下位の一覧へのリンク切れ
+                    raise
                 for u, t in candidates(url, sub.links):
                     if not is_listing(u):
                         pages.setdefault(u, t)
@@ -111,10 +119,12 @@ def under(url: str, index_url: str) -> bool:
 
 
 def record_id(url: str) -> str:
-    """URL のパスから作る、変わらない ID（読めるように末尾の名前を残す）。"""
-    path = urllib.parse.urlsplit(url).path
-    name = re.sub(r"\.html?$", "", path.rstrip("/").rsplit("/", 1)[-1]) or "index"
-    return f"{name[:40]}-{hashlib.sha1(path.encode()).hexdigest()[:8]}"
+    """URL のパスとクエリから作る、変わらない ID（読めるように末尾の名前を残す）。"""
+    parts = urllib.parse.urlsplit(url)
+    name = re.sub(r"\.\w+$", "", parts.path.rstrip("/").rsplit("/", 1)[-1]) or "index"
+    # ?id=1 と ?id=2 のように、クエリで制度を分けるサイトがある
+    key = parts.path + (f"?{parts.query}" if parts.query else "")
+    return f"{name[:40]}-{hashlib.sha1(key.encode()).hexdigest()[:8]}"
 
 
 def to_record(lg_code: str, url: str, title: str, text: str) -> Record:

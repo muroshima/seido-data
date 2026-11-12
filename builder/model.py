@@ -119,8 +119,8 @@ def render(record: Record, source: SourceInfo) -> str:
         "license": source.license,
         "attribution": source.attribution,
     }
-    if source.facts_only:
-        # 本文を置かない代わりに、本文が変わったことを seido/ の差分に出す
+    if "content_sha256" in record.raw:
+        # 巡回したページ（publish にかかわらず）。本文が変わったことを seido/ の差分に出す
         front["content_sha256"] = record.raw.get("content_sha256")
         # 本文が変わったのにまだ取り出し直していないと、content_sha256 と食い違う
         front["facts_sha256"] = s.facts_sha256

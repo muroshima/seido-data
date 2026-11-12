@@ -155,3 +155,14 @@ def test_changed_page_without_llm_keeps_stale_facts_until_next_extraction(tmp_pa
     later = record(text=changed_text)
     assert extract.fill(tmp_path, "w", [later], session_of(FakeLLM(GOOD))) == 1
     assert later.seido.facts_sha256 == later.raw["content_sha256"]
+
+
+def test_full_text_source_does_not_re_extract_unchanged_pages(tmp_path):
+    """publish=本文 の取得元（千代田区）でも、保存して読み戻したあと同じ本文なら LLM を呼ばない。"""
+    full = SourceInfo(name="w", title="t", url="u", license="CC BY", attribution="a")
+    r = record()
+    extract.fill(tmp_path, "w", [r], session_of(FakeLLM(GOOD)))
+    write_units(tmp_path, full, {"131016": [r]})
+    again = record()
+    assert extract.fill(tmp_path, "w", [again], session_of(FakeLLM())) == 0
+    assert again.seido.sections == r.seido.sections

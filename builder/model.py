@@ -3,6 +3,7 @@
 import re
 from dataclasses import dataclass, field
 from datetime import date
+from difflib import SequenceMatcher
 
 import yaml
 
@@ -35,6 +36,9 @@ class Record:
     record_id: str
     raw: dict
     seido: Seido | None
+    # 事実だけを持つ取得元で、取り出した項目が原文の書き写しでないかを照合するための原文。
+    # どこにも書き出さない
+    source_text: str | None = field(default=None, repr=False)
 
     def __post_init__(self) -> None:
         if not LG_CODE.match(self.lg_code):
@@ -44,8 +48,13 @@ class Record:
             raise ValueError("record_id が空")
 
 
-# publish が「メタデータ」の取得元で raw/ に置いてよいキー。本文は置かない
-META_RAW_KEYS = frozenset({"url", "title", "content_sha256", "content_length"})
+# publish が「事実」の取得元で raw/ に置いてよいキー。本文は置かない
+FACT_RAW_KEYS = frozenset({"url", "title", "content_sha256", "content_length"})
+# 事実として持つ項目。それぞれ短く、取得元の文章を書き写さない
+FACT_SECTIONS = ("対象者", "支援内容", "期間", "利用方法", "問い合わせ")
+FACT_MAX_CHARS = 200
+# 原文と同じ文字列がこの長さ以上続いたら、書き写しとみなす
+VERBATIM_LIMIT = 30
 
 
 @dataclass
@@ -58,19 +67,39 @@ class SourceInfo:
     publish: str = "本文"
 
     @property
-    def metadata_only(self) -> bool:
-        return self.publish == "メタデータ"
+    def facts_only(self) -> bool:
+        return self.publish == "事実"
 
 
 def check_publishable(record: Record, source: SourceInfo) -> None:
-    """メタデータだけの取得元から、本文が raw/ や seido/ に入らないようにする。"""
-    if not source.metadata_only:
+    """事実だけを持つ取得元から、本文や書き写しが raw/ や seido/ に入らないようにする。"""
+    if not source.facts_only:
         return
-    extra = set(record.raw) - META_RAW_KEYS
+    where = f"{source.name} {record.record_id}"
+    extra = set(record.raw) - FACT_RAW_KEYS
     if extra:
-        raise ValueError(f"{source.name}: メタデータだけの取得元の raw に {sorted(extra)} がある")
-    if record.seido is not None and any(record.seido.sections.values()):
-        raise ValueError(f"{source.name}: メタデータだけの取得元の seido に本文がある")
+        raise ValueError(f"{where}: 事実だけの取得元の raw に {sorted(extra)} がある")
+    sections = {k: v for k, v in (record.seido.sections if record.seido else {}).items() if v}
+    unknown = set(sections) - set(FACT_SECTIONS)
+    if unknown:
+        raise ValueError(f"{where}: 事実の項目ではない節 {sorted(unknown)} がある")
+    if sections and record.source_text is None:
+        raise ValueError(f"{where}: 原文が無いので、書き写しでないかを照合できない")
+    for heading, value in sections.items():
+        if len(value) > FACT_MAX_CHARS:
+            raise ValueError(f"{where}: 「{heading}」が {FACT_MAX_CHARS} 文字を超える")
+        run = longest_common_run(value, record.source_text or "")
+        if run >= VERBATIM_LIMIT:
+            raise ValueError(f"{where}: 「{heading}」が原文と {run} 文字続けて一致する")
+
+
+def longest_common_run(a: str, b: str) -> int:
+    """a と b に共通する、最も長い連続した文字列の長さ（空白の違いは無視する）。"""
+    a, b = re.sub(r"\s+", "", a), re.sub(r"\s+", "", b)
+    if not a or not b:
+        return 0
+    m = SequenceMatcher(None, a, b, autojunk=False).find_longest_match(0, len(a), 0, len(b))
+    return m.size
 
 
 def render(record: Record, source: SourceInfo) -> str:
@@ -88,14 +117,15 @@ def render(record: Record, source: SourceInfo) -> str:
         "license": source.license,
         "attribution": source.attribution,
     }
-    if source.metadata_only:
+    if source.facts_only:
         # 本文を置かない代わりに、本文が変わったことを seido/ の差分に出す
         front["content_sha256"] = record.raw.get("content_sha256")
     lines = ["---", yaml.safe_dump(front, allow_unicode=True, sort_keys=False).rstrip(), "---", ""]
     lines += [f"# {s.title}", ""]
-    if source.metadata_only:
+    if source.facts_only:
         lines += [
-            "取得元の利用規約により、本文は掲載していません。`url` のページを見てください。",
+            "取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。"
+            "正確な内容は `url` のページで確かめてください。",
             "",
         ]
     for heading, body in s.sections.items():

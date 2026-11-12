@@ -69,32 +69,52 @@ def test_duplicate_in_later_unit_writes_nothing(tmp_path):
     assert not (tmp_path / "raw").exists() and not (tmp_path / "seido").exists()
 
 
-META = SourceInfo(
-    name="m", title="t", url="u", license="不明", attribution="a", publish="メタデータ"
+FACT = SourceInfo(name="f", title="t", url="u", license="不明", attribution="a", publish="事実")
+PAGE = (
+    "児童手当は、中学生までの子どもを育てている方に支給します。"
+    "支給額は、3歳未満は月額15,000円、3歳以上は月額10,000円です。"
+    "申請は区役所の子ども家庭課の窓口で受け付けています。"
 )
 
 
-def test_metadata_only_source_rejects_text(tmp_path):
-    """メタデータだけの取得元に本文が混ざったら、何も書かずに止める。"""
-    r = rec("131016", "a")  # seido に「概要」の本文がある
-    r.raw = {"url": "https://example.jp/", "title": "制度"}
-    with pytest.raises(ValueError, match="seido に本文"):
-        write_units(tmp_path, META, {"131016": [r]})
-    r.seido.sections = {}
-    r.raw["body"] = "本文"
-    with pytest.raises(ValueError, match="body"):
-        write_units(tmp_path, META, {"131016": [r]})
+def fact(sections: dict, source_text: str | None = PAGE) -> Record:
+    s = Seido(title="児童手当", support=None, url=None, source_updated=None, sections=sections)
+    raw = {"url": "https://example.jp/", "title": "児童手当", "content_sha256": "0" * 64}
+    return Record("131016", "区", "a", raw, s, source_text=source_text)
+
+
+def test_facts_are_written_with_notice_and_hash(tmp_path):
+    r = fact({"対象者": "中学生までの子を育てる人", "支援内容": "3歳未満 月15,000円"})
+    write_units(tmp_path, FACT, {"131016": [r]})
+    md = (tmp_path / "seido/13/131016/f/a.md").read_text(encoding="utf-8")
+    assert "本文は掲載せず" in md and "## 支援内容" in md
+    assert not (tmp_path / "raw/f/131016/a.json").read_text(encoding="utf-8").count("支給")
+    # 本文だけが変わっても seido/ に差分が出る
+    r.raw["content_sha256"] = "1" * 64
+    _, seido = write_units(tmp_path, FACT, {"131016": [r]})
+    assert seido.changed == ["seido/13/131016/f/a.md"]
+
+
+@pytest.mark.parametrize(
+    "record, match",
+    [
+        (
+            fact({"支援内容": "支給額は、3歳未満は月額15,000円、3歳以上は月額10,000円です。"}),
+            "続けて一致",
+        ),
+        (fact({"概要": "児童の養育"}), "事実の項目ではない"),
+        (fact({"対象者": "x" * 201}), "200 文字"),
+        (fact({"対象者": "子育て世帯"}, source_text=None), "照合できない"),
+    ],
+)
+def test_facts_only_source_rejects_copies(tmp_path, record, match):
+    with pytest.raises(ValueError, match=match):
+        write_units(tmp_path, FACT, {"131016": [record]})
     assert not (tmp_path / "raw").exists()
 
 
-def test_metadata_only_source_writes_notice(tmp_path):
-    r = rec("131016", "a")
-    r.raw = {"url": "https://example.jp/", "title": "制度", "content_sha256": "0" * 64}
-    r.seido.sections = {}
-    write_units(tmp_path, META, {"131016": [r]})
-    md = (tmp_path / "seido/13/131016/m/a.md").read_text(encoding="utf-8")
-    assert "本文は掲載していません" in md
-    # 本文だけが変わっても seido/ に差分が出る
-    r.raw["content_sha256"] = "1" * 64
-    _, seido = write_units(tmp_path, META, {"131016": [r]})
-    assert seido.changed == ["seido/13/131016/m/a.md"]
+def test_facts_only_source_rejects_text_in_raw(tmp_path):
+    r = fact({})
+    r.raw["body"] = PAGE
+    with pytest.raises(ValueError, match="body"):
+        write_units(tmp_path, FACT, {"131016": [r]})

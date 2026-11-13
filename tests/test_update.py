@@ -147,7 +147,7 @@ def test_busy_gpu_writes_crawl_results_and_stops_waiting(repo, monkeypatch):
     def fill(root_, sid, records, llm_session):
         sessions.append((sid, llm_session))
         if llm_session is not None:
-            raise TimeoutError("GPU が 3600 秒空かなかった")
+            raise cli.extract.GPUBusy("GPU が 3600 秒空かなかった")
         return 0
 
     def web(lg):
@@ -174,3 +174,24 @@ def test_busy_gpu_writes_crawl_results_and_stops_waiting(repo, monkeypatch):
     ]
     assert (root / "seido/13/131016/chiyoda-teate-josei/a.md").exists()
     assert (root / "seido/13/131024/chuo-kosodate-teate/a.md").exists()
+
+
+def test_ollama_failure_is_not_treated_as_busy_gpu(repo, monkeypatch):
+    """GPU は取れたが Ollama が起動しないなどの失敗は、その取得元の失敗として扱う。"""
+    root, _ = repo
+
+    def fill(root_, sid, records, llm_session):
+        if llm_session is not None:
+            raise TimeoutError("Ollama が起動しない")
+        return 0
+
+    r = rec("131016", "a")
+    r.source_text = "本文"
+    monkeypatch.setattr(cli.extract, "fill", fill)
+    monkeypatch.setattr(
+        cli,
+        "loader_for",
+        lambda row: SimpleNamespace(fetch=lambda _: Fetched(date(2026, 1, 1), {"131016": [r]})),
+    )
+    assert cli.main(["--root", str(root), "update", "chiyoda-teate-josei", "--extract"]) == 2
+    assert not (root / "seido").exists()

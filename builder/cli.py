@@ -116,7 +116,7 @@ def update(
                     llm_session = extract.session if do_extract and not gpu_busy else None
                     try:
                         n = extract.fill(root, sid, records, llm_session)
-                    except TimeoutError as e:
+                    except extract.GPUBusy as e:
                         # GPU が空かない日は巡回の結果だけを書く。前回の項目は残り、
                         # 新しいページや本文が変わったページは次に GPU が空いたときに取り出す。
                         # この実行のほかの取得元でも、もう GPU を待たない

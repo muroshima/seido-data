@@ -137,7 +137,7 @@ def test_session_times_out_when_gpu_is_busy(tmp_path, monkeypatch):
     monkeypatch.setattr(extract, "GPU_LOCK_WAIT", 0)
     with open(lock, "a") as held:
         fcntl.flock(held, fcntl.LOCK_EX)
-        with pytest.raises(TimeoutError, match="GPU"):
+        with pytest.raises(extract.GPUBusy):
             with extract.session():
                 pass
 

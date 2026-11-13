@@ -51,6 +51,10 @@ SCHEMA = {
 }
 
 
+class GPUBusy(Exception):
+    """GPU のロックが待ち時間のうちに取れなかった。Ollama の起動失敗などとは分ける。"""
+
+
 @dataclass
 class Facts:
     sections: dict[str, str]
@@ -138,9 +142,7 @@ def session():
                 break
             except BlockingIOError:
                 if time.monotonic() > deadline:
-                    raise TimeoutError(
-                        f"GPU が {GPU_LOCK_WAIT} 秒空かなかった（{GPU_LOCK}）"
-                    ) from None
+                    raise GPUBusy(f"GPU が {GPU_LOCK_WAIT} 秒空かなかった（{GPU_LOCK}）") from None
                 time.sleep(30)
         server = subprocess.Popen(
             [OLLAMA_BIN, "serve"],

@@ -38,7 +38,7 @@ jobs:
       - name: 取り込み
         env:
           SOURCE_IDS: ${{ inputs.source_ids }}
-          # GPU は Kaggle のジョブと共有。空くまで最大 1 時間待つ
+          # GPU は Kaggle のジョブと共有。空くまで最大 1 時間待ち、空かなければ巡回の結果だけを書く
           SEIDO_GPU_LOCK_WAIT: "3600"
         run: |
           if [ -n "$SOURCE_IDS" ]; then

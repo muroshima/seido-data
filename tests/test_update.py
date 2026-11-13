@@ -137,3 +137,40 @@ def test_web_sources_are_extracted_regardless_of_publish(repo, monkeypatch):
     ids = ["chiyoda-teate-josei", "tokyo-ods-support-132101"]
     assert cli.main(["--root", str(root), "update", *ids]) == 0
     assert calls == ["chiyoda-teate-josei"]  # 本文を持たない CSV の取り込みは対象外
+
+
+def test_busy_gpu_writes_crawl_results_and_stops_waiting(repo, monkeypatch):
+    """GPU が空かない日は巡回の結果だけを書き、同じ実行のほかの取得元では GPU を待たない。"""
+    root, _ = repo
+    sessions = []
+
+    def fill(root_, sid, records, llm_session):
+        sessions.append((sid, llm_session))
+        if llm_session is not None:
+            raise TimeoutError("GPU が 3600 秒空かなかった")
+        return 0
+
+    def web(lg):
+        r = rec(lg, "a")
+        r.raw = {"url": "u", "title": "a", "content_sha256": "0", "content_length": 2}
+        r.seido.sections = {}
+        r.source_text = "本文"
+        return Fetched(date(2026, 1, 1), {lg: [r]})
+
+    monkeypatch.setattr(cli.extract, "fill", fill)
+    monkeypatch.setattr(
+        cli,
+        "loader_for",
+        lambda row: SimpleNamespace(
+            fetch=lambda r: web({"chiyoda-teate-josei": "131016"}.get(r["source_id"], "131024"))
+        ),
+    )
+    ids = ["chiyoda-teate-josei", "chuo-kosodate-teate"]
+    assert cli.main(["--root", str(root), "update", *ids, "--extract"]) == 0
+    assert [(sid, s is None) for sid, s in sessions] == [
+        ("chiyoda-teate-josei", False),  # GPU を待って空かなかった
+        ("chiyoda-teate-josei", True),  # 巡回の結果だけを書く
+        ("chuo-kosodate-teate", True),  # もう待たない
+    ]
+    assert (root / "seido/13/131016/chiyoda-teate-josei/a.md").exists()
+    assert (root / "seido/13/131024/chuo-kosodate-teate/a.md").exists()

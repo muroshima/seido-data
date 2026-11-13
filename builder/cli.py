@@ -93,6 +93,7 @@ def update(
 
     names = {e["id"].removeprefix("lg:"): e["name"] for e in entities if e["lg_code"]}
     failed = []
+    gpu_busy = False
     for sid in source_ids:
         row = by_id[sid]
         info = source_info(row, entities)
@@ -112,7 +113,16 @@ def update(
             # 本文を持たない取り込み（標準形式の CSV など）は対象にしない
             if any(r.source_text is not None for rs in fetched.units.values() for r in rs):
                 for records in fetched.units.values():
-                    n = extract.fill(root, sid, records, extract.session if do_extract else None)
+                    llm_session = extract.session if do_extract and not gpu_busy else None
+                    try:
+                        n = extract.fill(root, sid, records, llm_session)
+                    except TimeoutError as e:
+                        # GPU が空かない日は巡回の結果だけを書く。前回の項目は残り、
+                        # 新しいページや本文が変わったページは次に GPU が空いたときに取り出す。
+                        # この実行のほかの取得元でも、もう GPU を待たない
+                        print(f"{sid}: 抽出を見送り、巡回の結果だけを書く（{e}）", file=sys.stderr)
+                        gpu_busy = True
+                        n = extract.fill(root, sid, records, None)
                     if n:
                         print(f"{sid}: {n} ページから制度の情報を取り出した")
             raw_stats, seido_stats = write_units(root, info, fetched.units)

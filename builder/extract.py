@@ -190,7 +190,8 @@ def fill(root: Path, source_name: str, records: list, llm_session=session) -> in
         if md_path.exists():
             r.seido.sections = read_sections(md_path)
             r.seido.facts_sha256 = read_front(md_path).get("facts_sha256")
-        if r.seido.sections and r.seido.facts_sha256 == r.raw["content_sha256"]:
+        # 項目が 1 つも取れなかったページも、同じ本文なら取り出し直さない（毎回 GPU を待たない）
+        if r.seido.facts_sha256 == r.raw["content_sha256"]:
             continue
         todo.append(r)
     if not todo or llm_session is None:

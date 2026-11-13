@@ -101,6 +101,17 @@ def test_fill_retries_pages_crawled_without_extraction(tmp_path):
     assert again.seido.sections
 
 
+def test_fill_does_not_retry_pages_with_no_facts(tmp_path):
+    """LLM に回して項目が 1 つも取れなかったページは、本文が同じなら次は回さない。"""
+    r = record()
+    empty = dict.fromkeys(GOOD, "")
+    assert extract.fill(tmp_path, "w", [r], session_of(FakeLLM(empty))) == 1
+    assert r.seido.sections == {}
+    write_units(tmp_path, INFO, {"131016": [r]})
+    again = record()
+    assert extract.fill(tmp_path, "w", [again], session_of(FakeLLM())) == 0
+
+
 def test_fill_without_llm_keeps_previous_facts(tmp_path):
     r = record()
     extract.fill(tmp_path, "w", [r], session_of(FakeLLM(GOOD)))

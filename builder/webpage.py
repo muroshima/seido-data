@@ -5,6 +5,7 @@
 
 本文は `<main>` の中だけを使う。無ければ、よくある本文領域の id、それも無ければ `<body>` から
 header・nav・footer を除いた部分を使う。サイト共通のメニューやパンくずを本文に混ぜないため。
+選んだ領域に文字が無ければ（id が中身の無い目印の要素に付いているなど）、次の候補に移る。
 """
 
 import re
@@ -16,7 +17,16 @@ from . import http
 
 FILE_EXT = re.compile(r"\.(csv|xlsx)$", re.IGNORECASE)
 # 自治体サイトの CMS でよく使われる本文領域の id
-CONTENT_IDS = ("tmp_contents", "contents", "content", "main", "main_body", "mainContents")
+CONTENT_IDS = (
+    "tmp_contents",
+    "contents",
+    "content",
+    "main",
+    "main_body",
+    "mainContents",
+    "primary",  # 新宿区
+    "main_outline",  # あきる野市・日の出町・檜原村
+)
 SKIP_TAGS = {"script", "style", "noscript", "template", "nav", "header", "footer"}
 VOID_TAGS = {
     "area",
@@ -127,17 +137,19 @@ def squash(text: str) -> str:
 
 def parse(html: str, base_url: str) -> Page:
     """本文領域の見出し・文字・リンクを取り出す。"""
-    lowered = html.lower()
-    if "<main" in lowered:
-        collector = _Collector(lambda tag, _id: tag == "main")
-    else:
-        ids = [i for i in CONTENT_IDS if re.search(rf'id=["\']{i}["\']', html)]
-        if ids:
-            collector = _Collector(lambda _tag, id_, want=ids[0]: id_ == want)
-        else:
-            collector = _Collector(lambda tag, _id: tag == "body")
-    collector.feed(html)
-    lines = [squash(line) for line in "".join(collector.text).split("\n")]
+    scopes = []
+    if "<main" in html.lower():
+        scopes.append(lambda tag, _id: tag == "main")
+    for i in CONTENT_IDS:
+        if re.search(rf'id=["\']{i}["\']', html):
+            scopes.append(lambda _tag, id_, want=i: id_ == want)
+    scopes.append(lambda tag, _id: tag == "body")
+    for scope in scopes:
+        collector = _Collector(scope)
+        collector.feed(html)
+        lines = [squash(line) for line in "".join(collector.text).split("\n")]
+        if any(lines):
+            break
     return Page(
         title=squash("".join(collector.h1)),
         text="\n".join(line for line in lines if line),

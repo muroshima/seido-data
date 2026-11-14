@@ -38,3 +38,21 @@ def test_skip_tags_inside_main_are_ignored():
     html = "<main><nav><a href='/p.html'>パンくず</a></nav><p>本文</p><script>x=1</script></main>"
     page = webpage.parse(html, "https://www.city.example.lg.jp/")
     assert page.text == "本文" and page.links == []
+
+
+def test_content_id_excludes_site_menu_outside_it():
+    """<main> が無いサイト（新宿区）は、本文の id の中だけを読み、共通メニューを拾わない。"""
+    html = (
+        "<body><div id='gDef'><ul><li><a href='/kurashi/'>くらし</a></ul></div>"
+        "<div id='primary'><h1>手当</h1><a href='/a.html'>児童手当</a></div>"
+        "<div id='secondary'><a href='/gomi/'>ごみ・資源</a></div></body>"
+    )
+    page = webpage.parse(html, "https://www.city.example.lg.jp/")
+    assert page.links == [("https://www.city.example.lg.jp/a.html", "児童手当")]
+
+
+def test_empty_region_falls_back_to_next_candidate():
+    """id が中身の無い目印の要素に付いていたら、次の候補（最後は <body>）を読む。"""
+    html = "<body><a id='content'></a><div class='list'><a href='/a.html'>児童手当</a></div></body>"
+    page = webpage.parse(html, "https://www.city.example.lg.jp/")
+    assert page.links == [("https://www.city.example.lg.jp/a.html", "児童手当")]

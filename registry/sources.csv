@@ -257,14 +257,14 @@ hachijo-kosodate-josei,八丈町 助成・手当（妊娠・出産・子育て�
 hachijo-seikatsu-shien,八丈町 生活支援（助成・援助）,lg:134015,lg:134015,生活支援,web,html,https://www.town.hachijo.tokyo.jp/kenko-fukushi/k-seikatsu-shien/,不明,事実,随時,取込中,2026-11-13,通院交通費・アピアランスケアなど。同名の町政側分類 /chousei/c-seikatsu-shien/ もあり
 hachijo-josei-shien,八丈町 助成・支援（観光・文化）,lg:134015,lg:134015,事業者,web,html,https://www.town.hachijo.tokyo.jp/kanko-bunka/josei-shien/,不明,事実,随時,取込中,2026-11-13,団体集客事業など観光事業者向け
 hachijo-sitemap,八丈町 wp-sitemap.xml,lg:134015,lg:134015,全般,web,xml,https://www.town.hachijo.tokyo.jp/wp-sitemap.xml,不明,事実,随時,調査中,2026-11-13,robots.txtで宣言。WordPressのsitemapindex（7本・lastmodなし）。robotsは/wp-admin/のみDisallow
-toshima-mura-fukushi,福祉（保健・年金）,lg:133621,lg:133621,健康・福祉,web,html-page,https://www.toshimamura.org/life/pension/welfare.html,不明,事実,不明,取込予定,2026-11-17,一覧ページは無い。1ページに乳幼児医療助成・ひとり親医療助成・補聴器購入助成など約20制度
-toshima-mura-shussan,結婚・出産,lg:133621,lg:133621,子育て,web,html-page,https://www.toshimamura.org/life/marriage/birth.html,不明,事実,不明,取込予定,2026-11-17,一覧ページは無い。出産助成金と里帰り妊婦健診の助成
+toshima-mura-fukushi,福祉（保健・年金）,lg:133621,lg:133621,健康・福祉,web,html-page,https://www.toshimamura.org/life/pension/welfare.html,不明,事実,不明,取込中,2026-11-17,一覧ページは無い。1ページに乳幼児医療助成・ひとり親医療助成・補聴器購入助成など約20制度
+toshima-mura-shussan,結婚・出産,lg:133621,lg:133621,子育て,web,html-page,https://www.toshimamura.org/life/marriage/birth.html,不明,事実,不明,取込中,2026-11-17,一覧ページは無い。出産助成金と里帰り妊婦健診の助成
 kouzushima-sitemap,神津島村 wp-sitemap.xml,lg:133647,lg:133647,全般,web,xml,https://www.vill.kouzushima.tokyo.jp/wp-sitemap.xml,不明,事実,随時,調査中,2026-11-13,robots.txtで宣言。WordPressのsitemapindex（6本・lastmodなし）。支援制度の一覧ページは見つからず
-kouzushima-kodomo-iryohi,子ども医療費助成,lg:133647,lg:133647,子育て,web,html-page,https://vill.kouzushima.tokyo.jp/2011-0920/,不明,事実,不明,取込予定,2026-11-17,一覧ページは無く、制度ごとの投稿を個別に登録する
-kouzushima-namagomi-hojo,生ごみ処理機の購入補助,lg:133647,lg:133647,環境,web,html-page,https://vill.kouzushima.tokyo.jp/2025-0411/,不明,事実,不明,取込予定,2026-11-17,一覧ページは無く、制度ごとの投稿を個別に登録する
-kouzushima-shogakukin,奨学金貸付,lg:133647,lg:133647,子育て,web,html-page,https://vill.kouzushima.tokyo.jp/2012-0401-2/,不明,事実,不明,取込予定,2026-11-17,一覧ページは無く、制度ごとの投稿を個別に登録する
-kouzushima-teiju,空き家バンクと定住化対策の交付金,lg:133647,lg:133647,住まい,web,html-page,https://vill.kouzushima.tokyo.jp/2026-0611/,不明,事実,不明,取込予定,2026-11-17,一覧ページは無く、制度ごとの投稿を個別に登録する
-kouzushima-tokusanhin-hojo,地域特産品の開発補助,lg:133647,lg:133647,事業者,web,html-page,https://vill.kouzushima.tokyo.jp/2024-0214/,不明,事実,不明,取込予定,2026-11-17,一覧ページは無く、制度ごとの投稿を個別に登録する
+kouzushima-kodomo-iryohi,子ども医療費助成,lg:133647,lg:133647,子育て,web,html-page,https://vill.kouzushima.tokyo.jp/2011-0920/,不明,事実,不明,取込中,2026-11-17,一覧ページは無く、制度ごとの投稿を個別に登録する
+kouzushima-namagomi-hojo,生ごみ処理機の購入補助,lg:133647,lg:133647,環境,web,html-page,https://vill.kouzushima.tokyo.jp/2025-0411/,不明,事実,不明,取込中,2026-11-17,一覧ページは無く、制度ごとの投稿を個別に登録する
+kouzushima-shogakukin,奨学金貸付,lg:133647,lg:133647,子育て,web,html-page,https://vill.kouzushima.tokyo.jp/2012-0401-2/,不明,事実,不明,取込中,2026-11-17,一覧ページは無く、制度ごとの投稿を個別に登録する
+kouzushima-teiju,空き家バンクと定住化対策の交付金,lg:133647,lg:133647,住まい,web,html-page,https://vill.kouzushima.tokyo.jp/2026-0611/,不明,事実,不明,取込中,2026-11-17,一覧ページは無く、制度ごとの投稿を個別に登録する
+kouzushima-tokusanhin-hojo,地域特産品の開発補助,lg:133647,lg:133647,事業者,web,html-page,https://vill.kouzushima.tokyo.jp/2024-0214/,不明,事実,不明,取込中,2026-11-17,一覧ページは無く、制度ごとの投稿を個別に登録する
 ogasawara-sitemap,小笠原村 wp-sitemap.xml,lg:134210,lg:134210,全般,web,xml,https://www.vill.ogasawara.tokyo.jp/wp-sitemap.xml,私的使用・引用を除き無断複製・転用不可,事実,随時,調査中,2026-11-13,robots.txtで宣言されているが取得時403。支援制度の一覧ページは見つからず
 ogasawara-iryohi-josei,小笠原村 医療費助成,lg:134210,lg:134210,子育て,web,html,https://www.vill.ogasawara.tokyo.jp/sonmin/iryouhijosei/,私的使用・引用を除き無断複製・転用不可,事実,随時,対象外,2026-11-13,単一制度ページ（申請書PDF4点）で一覧ではない
 ogasawara-sonmin,村民課,lg:134210,lg:134210,全般,web,html,https://www.vill.ogasawara.tokyo.jp/sonmin/,私的使用・引用を除き無断複製・転用不可,事実,随時,取込中,2026-11-17,2026-11-17 の調査で約15件中、制度ページ約8件（医療費助成・児童手当・出産など。残りは転入・戸籍などの手続き）。制度ページは1ページに複数制度

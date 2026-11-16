@@ -47,6 +47,9 @@ jobs:
           else
             uv run seido update --daily --commit --extract
           fi
-      # 一部の取得元が失敗して exit 2 でも、取れた分のコミットは積む
+      # 一部の取得元が失敗して exit 2 でも、取れた分のコミットは積む。
+      # 実行中に main へ対応表やコードの変更が入っていたら、その上に載せ直してから push する
       - if: ${{ !cancelled() }}
-        run: git push origin HEAD:main
+        run: |
+          git pull --rebase origin main
+          git push origin HEAD:main

@@ -131,3 +131,23 @@ def test_gone_sub_listing_is_skipped(site):
         }
     )
     assert [r.raw["title"] for r in webindex.fetch(ROW).units["131016"]] == ["児童手当"]
+
+
+def test_sub_listing_without_program_links_is_a_program_page(site):
+    """/ で終わる制度ページ（八丈町の WordPress）は、リンクが無ければ制度ページとして扱う。"""
+    row = {**ROW, "url": f"{SITE}/kosodate/josei-teate/"}
+    site(
+        {
+            row["url"]: page(
+                "助成・手当",
+                links=[
+                    (f"{SITE}/kosodate/josei-teate/jidoteate/", "児童手当のご案内"),
+                    (f"{SITE}/kosodate/", "妊娠・出産・子育て"),  # 配下にない分類
+                ],
+            ),
+            f"{SITE}/kosodate/josei-teate/jidoteate/": page(
+                "児童手当のご案内", links=[(f"{SITE}/kosodate/", "妊娠・出産・子育て")]
+            ),
+        }
+    )
+    assert [r.raw["title"] for r in webindex.fetch(row).units["131016"]] == ["児童手当のご案内"]

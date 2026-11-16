@@ -3,7 +3,8 @@
 対応表の 1 行が 1 自治体の 1 つの一覧ページに当たる（kind=web, format=html）。
 
 - 一覧ページの本文領域から、同じサイトの HTML ページへのリンクを集める
-- 一覧ページが index.html や / で終わる索引なら、その配下の下位の一覧を 1 階層だけ辿る
+- 一覧ページが index.html や / で終わる索引なら、その配下の下位の一覧を 1 階層だけ辿る。
+  辿った先に制度ページへのリンクが無ければ、それ自体を制度ページとして扱う
 - 配下にない一覧ページへのリンク（サイトのカテゴリメニュー）は辿らない
 - 制度ページは本文のハッシュだけを raw/ に置き、本文は照合用に Record.source_text に持つ
 
@@ -51,9 +52,12 @@ def fetch(row: dict[str, str]) -> Fetched:
                     if e.code in GONE:
                         continue  # 下位の一覧へのリンク切れ
                     raise
-                for u, t in candidates(url, sub.links):
-                    if not is_listing(u):
-                        pages.setdefault(u, t)
+                found = [(u, t) for u, t in candidates(url, sub.links) if not is_listing(u)]
+                if not found:
+                    # 制度ページへのリンクが無い。/ で終わる URL の制度ページ（八丈町の WordPress）
+                    pages.setdefault(url, text)
+                for u, t in found:
+                    pages.setdefault(u, t)
         else:
             pages.setdefault(url, text)
     if len(pages) > MAX_PAGES:

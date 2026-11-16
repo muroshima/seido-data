@@ -9,8 +9,8 @@ source_id: kaigo-syuusyoku-setumeikai-9e9569b8
 source_updated: null
 license: オープンデータを除き無断使用・転載・二次利用不可
 attribution: 大田区「手当・年金（障がい者）」を加工して作成
-content_sha256: 6d49f97101649da08f5d14d0d1ab2da96ca99985e78b0bb68433f3e41947df07
-facts_sha256: 6d49f97101649da08f5d14d0d1ab2da96ca99985e78b0bb68433f3e41947df07
+content_sha256: bc6bbbebd9c73091315a0b5137fa8d2219cad140b0bb95ea48baa10eb4cd6df0
+facts_sha256: bc6bbbebd9c73091315a0b5137fa8d2219cad140b0bb95ea48baa10eb4cd6df0
 ---
 
 # 「第87回おおた介護のお仕事相談・面接会」の実施について

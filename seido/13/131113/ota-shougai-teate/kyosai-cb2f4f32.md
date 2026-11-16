@@ -9,8 +9,8 @@ source_id: kyosai-cb2f4f32
 source_updated: null
 license: オープンデータを除き無断使用・転載・二次利用不可
 attribution: 大田区「手当・年金（障がい者）」を加工して作成
-content_sha256: c3d32d1d1e048fcab1ebb5514b20e2182a7a7459c438a42fe5c2b526062905cd
-facts_sha256: c3d32d1d1e048fcab1ebb5514b20e2182a7a7459c438a42fe5c2b526062905cd
+content_sha256: f96310d1e1f5253b9fbf54f2af169f8871da9611d56291544e23bbefbbfe0aab
+facts_sha256: f96310d1e1f5253b9fbf54f2af169f8871da9611d56291544e23bbefbbfe0aab
 ---
 
 # 心身障害者扶養共済制度
@@ -31,8 +31,8 @@ facts_sha256: c3d32d1d1e048fcab1ebb5514b20e2182a7a7459c438a42fe5c2b526062905cd
 
 ## 利用方法
 
-冊子「新規加入の手引き」を参照
+加入者死亡または重度障がいの月から支給
 
 ## 問い合わせ
 
-障害福祉課 電話03-5744-1251
+障害福祉課 電話：03-5744-1251

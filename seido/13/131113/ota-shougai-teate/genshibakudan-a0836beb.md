@@ -9,8 +9,8 @@ source_id: genshibakudan-a0836beb
 source_updated: null
 license: オープンデータを除き無断使用・転載・二次利用不可
 attribution: 大田区「手当・年金（障がい者）」を加工して作成
-content_sha256: f0c5fea03ef1eaadad49bfeff5366ef1cb5d525a3ddb6d118cea24873401f2be
-facts_sha256: f0c5fea03ef1eaadad49bfeff5366ef1cb5d525a3ddb6d118cea24873401f2be
+content_sha256: 870500d5f0b8c90c11047927a70ffd43670ee0a37cd154c2407addc457f75ef3
+facts_sha256: 870500d5f0b8c90c11047927a70ffd43670ee0a37cd154c2407addc457f75ef3
 ---
 
 # 原子爆弾被爆者見舞金
@@ -19,7 +19,7 @@ facts_sha256: f0c5fea03ef1eaadad49bfeff5366ef1cb5d525a3ddb6d118cea24873401f2be
 
 ## 対象者
 
-被爆者健康手帳交付を受け、区内に居住する者
+被爆者健康手帳を交付されている方（区内居住）
 
 ## 支援内容
 
@@ -28,6 +28,10 @@ facts_sha256: f0c5fea03ef1eaadad49bfeff5366ef1cb5d525a3ddb6d118cea24873401f2be
 ## 期間
 
 毎年
+
+## 利用方法
+
+被爆者健康手帳、印鑑、通帳を提出
 
 ## 問い合わせ
 

@@ -79,3 +79,14 @@ def test_skip_classes_inside_region_are_ignored():
     page = webpage.parse(html, "https://www.city.example.lg.jp/")
     assert page.text == "児童手当の案内"
     assert page.links == []
+
+
+def test_skip_link_marker_with_content_id_is_not_the_region():
+    """本文の id が「ここから本文です」の目印（三鷹市）に付いていたら、本文の class を読む。"""
+    html = (
+        "<body><p id='contents' class='skip'>ここから本文です</p>"
+        "<div class='side'><a href='/x.html'>同じ分類</a></div>"
+        "<div class='main'><a href='/a.html'>児童手当</a></div></body>"
+    )
+    page = webpage.parse(html, "https://www.city.example.lg.jp/")
+    assert page.links == [("https://www.city.example.lg.jp/a.html", "児童手当")]

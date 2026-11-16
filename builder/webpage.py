@@ -35,9 +35,13 @@ CONTENT_IDS = (
 CONTENT_CLASSES = (
     "main_naka",  # 羽村市の一覧ページ
     "main_area",  # 小平市
+    "main",  # 三鷹市（id="contents" は本文への目印の <p class="skip">）
 )
-# 本文領域の中にあるパンくず・関連リンク・フッター（練馬区は本文と同じ要素の中に置く）
-SKIP_CLASSES = {"pankuzu", "lobgbox", "footbg"}
+# 本文領域の中にあるパンくず・関連リンク・フッター（練馬区は本文と同じ要素の中に置く）、
+# 同じ階層の分類メニュー（日の出町）
+SKIP_CLASSES = {"pankuzu", "lobgbox", "footbg", "page_right"}
+# 本文へ飛ぶための目印（「ここから本文です」）。本文の id が付いていても本文ではない
+SKIP_LINK_CLASS = "skip"
 SKIP_TAGS = {"script", "style", "noscript", "template", "nav", "header", "footer"}
 VOID_TAGS = {
     "area",
@@ -89,7 +93,11 @@ class _Collector(HTMLParser):
         a = dict(attrs)
         classes = set((a.get("class") or "").split())
         if not self.active:
-            if not self.done and self.in_scope(tag, a.get("id") or "", classes):
+            if (
+                not self.done
+                and SKIP_LINK_CLASS not in classes
+                and self.in_scope(tag, a.get("id") or "", classes)
+            ):
                 self.active, self.stack = True, [tag]
             return
         if tag in VOID_TAGS:

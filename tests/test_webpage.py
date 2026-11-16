@@ -56,3 +56,26 @@ def test_empty_region_falls_back_to_next_candidate():
     html = "<body><a id='content'></a><div class='list'><a href='/a.html'>児童手当</a></div></body>"
     page = webpage.parse(html, "https://www.city.example.lg.jp/")
     assert page.links == [("https://www.city.example.lg.jp/a.html", "児童手当")]
+
+
+def test_content_class_excludes_site_menu_outside_it():
+    """本文の id も <main> も無いサイト（羽村市）は、本文の class の中だけを読む。"""
+    html = (
+        "<body><div class='g_navi'><a href='/kurashi/'>くらし</a></div>"
+        "<div class='main_naka cat'><a href='/a.html'>児童手当</a></div>"
+        "<div class='foot'><a href='/gomi/'>ごみ</a></div></body>"
+    )
+    page = webpage.parse(html, "https://www.city.example.lg.jp/")
+    assert page.links == [("https://www.city.example.lg.jp/a.html", "児童手当")]
+
+
+def test_skip_classes_inside_region_are_ignored():
+    """本文と同じ要素の中にあるパンくず・関連リンク（練馬区）は読まない。"""
+    html = (
+        "<body><div id='wrap'><div class='pankuzu'><a href='/'>トップ</a></div>"
+        "<p>児童手当の案内</p><div class='lobgbox losubnavi'><a href='/x.html'>他の分類</a></div>"
+        "</div></body>"
+    )
+    page = webpage.parse(html, "https://www.city.example.lg.jp/")
+    assert page.text == "児童手当の案内"
+    assert page.links == []

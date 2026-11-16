@@ -3,8 +3,8 @@
 - 掲載ページのリンクから、日付入りの名前で置かれた CSV・XLSX を見つける（福生市など）
 - 支援制度の一覧ページから制度ページへのリンクを集め、制度ページの本文を取り出す
 
-本文は `<main>` の中だけを使う。無ければ、よくある本文領域の id、それも無ければ `<body>` から
-header・nav・footer を除いた部分を使う。サイト共通のメニューやパンくずを本文に混ぜないため。
+本文は `<main>` の中だけを使う。無ければ、よくある本文領域の id、次に class、それも無ければ
+`<body>` から header・nav・footer を除いた部分を使う。サイト共通のメニューやパンくずを本文に混ぜないため。
 選んだ領域に文字が無ければ（id が中身の無い目印の要素に付いているなど）、次の候補に移る。
 """
 
@@ -26,7 +26,17 @@ CONTENT_IDS = (
     "mainContents",
     "primary",  # 新宿区
     "main_outline",  # あきる野市・日の出町・檜原村
+    "mol_contents",  # 羽村市の制度ページ
+    "contentsWrap",  # 八丈町
+    "wrap",  # 練馬区（本文への目印 CONT は中身の無い要素）
 )
+# id が無く class でしか見分けられない本文領域
+CONTENT_CLASSES = (
+    "main_naka",  # 羽村市の一覧ページ
+    "main_area",  # 小平市
+)
+# 本文領域の中にあるパンくず・関連リンク・フッター（練馬区は本文と同じ要素の中に置く）
+SKIP_CLASSES = {"pankuzu", "lobgbox", "footbg"}
 SKIP_TAGS = {"script", "style", "noscript", "template", "nav", "header", "footer"}
 VOID_TAGS = {
     "area",
@@ -53,7 +63,7 @@ class Page:
 
 
 class _Collector(HTMLParser):
-    """1 つの領域（scope）の中の文字とリンクを集める。scope は (タグ, id) の判定関数。
+    """1 つの領域（scope）の中の文字とリンクを集める。scope は (タグ, id, class の集合) の判定関数。
 
     閉じタグが省略された HTML（`<li>` など）でも領域の終わりを取り違えないよう、開いている
     タグをスタックで持ち、閉じタグが来たら対応する開きタグまでまとめて閉じる。
@@ -76,8 +86,9 @@ class _Collector(HTMLParser):
 
     def handle_starttag(self, tag, attrs):
         a = dict(attrs)
+        classes = set((a.get("class") or "").split())
         if not self.active:
-            if not self.done and self.in_scope(tag, a.get("id") or ""):
+            if not self.done and self.in_scope(tag, a.get("id") or "", classes):
                 self.active, self.stack = True, [tag]
             return
         if tag in VOID_TAGS:
@@ -85,7 +96,7 @@ class _Collector(HTMLParser):
                 self.text.append("\n")
             return
         self.stack.append(tag)
-        if self.skip_at is None and tag in SKIP_TAGS:
+        if self.skip_at is None and (tag in SKIP_TAGS or classes & SKIP_CLASSES):
             self.skip_at = len(self.stack)
         if self.skip_at is not None:
             return
@@ -139,11 +150,14 @@ def parse(html: str, base_url: str) -> Page:
     """本文領域の見出し・文字・リンクを取り出す。"""
     scopes = []
     if "<main" in html.lower():
-        scopes.append(lambda tag, _id: tag == "main")
+        scopes.append(lambda tag, _id, _cls: tag == "main")
     for i in CONTENT_IDS:
         if re.search(rf'id=["\']{i}["\']', html):
-            scopes.append(lambda _tag, id_, want=i: id_ == want)
-    scopes.append(lambda tag, _id: tag == "body")
+            scopes.append(lambda _tag, id_, _cls, want=i: id_ == want)
+    for c in CONTENT_CLASSES:
+        if re.search(rf'class=["\'][^"\']*\b{c}\b', html):
+            scopes.append(lambda _tag, _id, cls, want=c: want in cls)
+    scopes.append(lambda tag, _id, _cls: tag == "body")
     for scope in scopes:
         collector = _Collector(scope)
         collector.feed(html)
@@ -167,7 +181,7 @@ def fetch(url: str) -> Page:
 
 def links(html: str, base_url: str) -> list[tuple[str, str]]:
     """ページ全体のリンク（絶対 URL, リンク文）。"""
-    collector = _Collector(lambda _tag, _id: False, whole=True)
+    collector = _Collector(lambda _tag, _id, _cls: False, whole=True)
     collector.feed(html)
     return [(urllib.parse.urljoin(base_url, href), text) for href, text in collector.links if href]
 

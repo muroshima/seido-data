@@ -42,7 +42,7 @@ def fetch(row: dict[str, str]) -> Fetched:
         raise PermissionError(f"robots.txt で禁止されている: {index_url}")
     index = webpage.fetch(index_url)
     if row["format"] == SINGLE_PAGE:
-        record = to_record(lg_code, index_url, index.title, index.text)
+        record = to_record(lg_code, index_url, index.title or row["name"], index.text)
         return Fetched(observed=today(), units={lg_code: [record]})
 
     pages: dict[str, str] = {}  # 制度ページの URL → リンク文

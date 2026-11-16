@@ -166,3 +166,9 @@ def test_single_page_source_is_one_program_page(site):
     records = webindex.fetch(row).units["131016"]
     assert [(r.raw["url"], r.raw["title"]) for r in records] == [(row["url"], "福祉")]
     assert records[0].source_text == "乳幼児医療助成と補聴器購入助成"
+
+
+def test_single_page_without_heading_uses_source_name(site):
+    row = {**ROW, "url": f"{SITE}/life/welfare.html", "format": "html-page", "name": "福祉"}
+    site({row["url"]: page("", "乳幼児医療助成")})
+    assert [r.raw["title"] for r in webindex.fetch(row).units["131016"]] == ["福祉"]

@@ -1,0 +1,34 @@
+---
+title: 【受付終了しました】物価高対応子育て応援手当
+lg_code: '131075'
+lg_name: 墨田区
+support: null
+url: https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/teate_jyosei_shien/kteate/kosodatekyuufukinn.html
+source: sumida-kosodate-teate
+source_id: kosodatekyuufukinn-a5e1fe68
+source_updated: null
+license: 著作権法上の行為を除き無断使用・転載禁止
+attribution: 墨田区「手当・助成・支援（子育て応援サイト）」を加工して作成
+content_sha256: 53cec764439aa3252215ac3b63ddad5e756e8fad3cfbec9e7e3c41c2f107791e
+facts_sha256: 53cec764439aa3252215ac3b63ddad5e756e8fad3cfbec9e7e3c41c2f107791e
+---
+
+# 【受付終了しました】物価高対応子育て応援手当
+
+取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+令和7年9月分児童手当受給者、令和7年9月1日～令和8年3月31日出生児童の保護者
+
+## 支援内容
+
+児童1人あたり2万円現金支給
+
+## 期間
+
+令和8年2月10日予定、各月10日順次
+
+## 問い合わせ
+
+子育て支援課（電話03-5608-6160）

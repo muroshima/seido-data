@@ -6,7 +6,7 @@ from builder import webpage
 from builder.sources import webindex
 
 SITE = "https://www.city.example.lg.jp"
-ROW = {"covers": "lg:131016", "url": f"{SITE}/kosodate/teate/index.html"}
+ROW = {"covers": "lg:131016", "format": "html", "url": f"{SITE}/kosodate/teate/index.html"}
 
 
 def page(title: str, text: str = "", links: list[tuple[str, str]] = ()) -> webpage.Page:
@@ -151,3 +151,18 @@ def test_sub_listing_without_program_links_is_a_program_page(site):
         }
     )
     assert [r.raw["title"] for r in webindex.fetch(row).units["131016"]] == ["児童手当のご案内"]
+
+
+def test_single_page_source_is_one_program_page(site):
+    """一覧の無い村は、制度ページそのものを 1 件として取り込み、リンクは辿らない。"""
+    row = {**ROW, "url": f"{SITE}/life/welfare.html", "format": "html-page"}
+    site(
+        {
+            row["url"]: page(
+                "福祉", "乳幼児医療助成と補聴器購入助成", [(f"{SITE}/life/other.html", "別ページ")]
+            )
+        }
+    )
+    records = webindex.fetch(row).units["131016"]
+    assert [(r.raw["url"], r.raw["title"]) for r in records] == [(row["url"], "福祉")]
+    assert records[0].source_text == "乳幼児医療助成と補聴器購入助成"

@@ -41,7 +41,7 @@ def loader_for(row: dict[str, str]):
     for pattern, module in loaders().items():
         if fnmatch.fnmatchcase(row["source_id"], pattern):
             return module
-    if row["kind"] == "web" and row["format"] == "html":
+    if row["kind"] == "web" and row["format"] in ("html", "html-page"):
         from . import webindex
 
         return webindex

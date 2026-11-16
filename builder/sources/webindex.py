@@ -1,6 +1,7 @@
 """自治体の支援制度の一覧ページを巡回し、制度ページごとに 1 件のレコードを作る。
 
 対応表の 1 行が 1 自治体の 1 つの一覧ページに当たる（kind=web, format=html）。
+一覧ページの無い小さな村などは、制度ページそのものを 1 行にする（format=html-page）。
 
 - 一覧ページの本文領域から、同じサイトの HTML ページへのリンクを集める
 - 一覧ページが index.html や / で終わる索引なら、その配下の下位の一覧を 1 階層だけ辿る。
@@ -27,6 +28,7 @@ NOT_HTML = re.compile(r"\.(pdf|docx?|xlsx?|csv|zip|jpe?g|png|gif|txt|pptx?)$", r
 NOT_PAGE = re.compile(r"/cgi-bin/|/cgi-\w+/|/search/|/form/", re.IGNORECASE)
 MAX_PAGES = 300
 GONE = (404, 410)
+SINGLE_PAGE = "html-page"  # 一覧ではなく制度ページそのもの。リンクは辿らない
 
 
 def fetch(row: dict[str, str]) -> Fetched:
@@ -39,6 +41,9 @@ def fetch(row: dict[str, str]) -> Fetched:
         # 一覧ページ自体が robots.txt で禁止されている。既存のレコードは残す
         raise PermissionError(f"robots.txt で禁止されている: {index_url}")
     index = webpage.fetch(index_url)
+    if row["format"] == SINGLE_PAGE:
+        record = to_record(lg_code, index_url, index.title, index.text)
+        return Fetched(observed=today(), units={lg_code: [record]})
 
     pages: dict[str, str] = {}  # 制度ページの URL → リンク文
     for url, text in candidates(index_url, index.links):

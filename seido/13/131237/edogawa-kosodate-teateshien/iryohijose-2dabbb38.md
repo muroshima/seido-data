@@ -9,8 +9,8 @@ source_id: iryohijose-2dabbb38
 source_updated: null
 license: 著作権法上の行為を除き無断転載・改変不可
 attribution: 江戸川区「児童手当・子ども医療費助成・ひとり親への支援」を加工して作成
-content_sha256: b84d89ec010a0cb2d16f3259731de3bbba964d4c9989394aca39ac52737f0bd7
-facts_sha256: b84d89ec010a0cb2d16f3259731de3bbba964d4c9989394aca39ac52737f0bd7
+content_sha256: fa29a5bbdccf99ff061b715d569bff28b1ad8f90986dec145d22ae56361f7eb2
+facts_sha256: fa29a5bbdccf99ff061b715d569bff28b1ad8f90986dec145d22ae56361f7eb2
 ---
 
 # ひとり親家庭等医療費助成
@@ -19,11 +19,11 @@ facts_sha256: b84d89ec010a0cb2d16f3259731de3bbba964d4c9989394aca39ac52737f0bd7
 
 ## 対象者
 
-ひとり親家庭（扶養義務者を含む）
+住民税非課税世帯（扶養義務者を含む）
 
 ## 支援内容
 
-医療費の自己負担額の一部または全部を助成
+入院・通院の自己負担なし
 
 ## 期間
 

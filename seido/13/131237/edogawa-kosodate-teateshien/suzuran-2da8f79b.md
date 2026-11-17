@@ -9,8 +9,8 @@ source_id: suzuran-2da8f79b
 source_updated: null
 license: 著作権法上の行為を除き無断転載・改変不可
 attribution: 江戸川区「児童手当・子ども医療費助成・ひとり親への支援」を加工して作成
-content_sha256: 8c0d37f3556327b1f90c7d24d68d9e0e4fbf14cda97c4d12bc5bf69fefe9ec95
-facts_sha256: 8c0d37f3556327b1f90c7d24d68d9e0e4fbf14cda97c4d12bc5bf69fefe9ec95
+content_sha256: 247e5763385ff1613973428795d968408f846f5706b54fc57fec7e1d7200454e
+facts_sha256: 247e5763385ff1613973428795d968408f846f5706b54fc57fec7e1d7200454e
 ---
 
 # ひとり親相談室すずらん
@@ -23,7 +23,7 @@ facts_sha256: 8c0d37f3556327b1f90c7d24d68d9e0e4fbf14cda97c4d12bc5bf69fefe9ec95
 
 ## 支援内容
 
-ひとり親家庭のための交流会、親支援講座、収穫体験、就労支援
+ひとり親家庭のための交流会、親子で取り組める自由研究、収穫体験、就労支援、相談窓口など
 
 ## 期間
 
@@ -31,8 +31,8 @@ facts_sha256: 8c0d37f3556327b1f90c7d24d68d9e0e4fbf14cda97c4d12bc5bf69fefe9ec95
 
 ## 利用方法
 
-申込フォームまたは電話でのお申し込み
+申し込みフォーム、電話での相談、チラシの確認
 
 ## 問い合わせ
 
-03-6638-8085
+電話：03-6638-8085

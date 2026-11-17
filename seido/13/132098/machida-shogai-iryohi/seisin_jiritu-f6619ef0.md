@@ -9,8 +9,8 @@ source_id: seisin_jiritu-f6619ef0
 source_updated: null
 license: 無断転載を禁止
 attribution: 町田市「障がい者の医療費助成」を加工して作成
-content_sha256: dec8e090d3b30289218b2b055189c4ab98ede745fa1624b7d9364dc0bd7fc3a5
-facts_sha256: dec8e090d3b30289218b2b055189c4ab98ede745fa1624b7d9364dc0bd7fc3a5
+content_sha256: 572a5b4cdfa14ea18c93b7e5ee1341721b166c5d714128cd11b2082c3a3f06fc
+facts_sha256: 572a5b4cdfa14ea18c93b7e5ee1341721b166c5d714128cd11b2082c3a3f06fc
 ---
 
 # 自立支援医療費制度（精神通院医療）
@@ -31,7 +31,7 @@ facts_sha256: dec8e090d3b30289218b2b055189c4ab98ede745fa1624b7d9364dc0bd7fc3a5
 
 ## 利用方法
 
-申請書・診断書・世帯証明書等を提出
+自立支援医療受給者証を取得
 
 ## 問い合わせ
 

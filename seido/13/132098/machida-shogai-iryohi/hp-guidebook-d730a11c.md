@@ -9,8 +9,8 @@ source_id: hp-guidebook-d730a11c
 source_updated: null
 license: 無断転載を禁止
 attribution: 町田市「障がい者の医療費助成」を加工して作成
-content_sha256: 010f9aa9307227ff5916b3bf1e629b9bfcaa5cec18ba441e72d0de27cfd2436e
-facts_sha256: 010f9aa9307227ff5916b3bf1e629b9bfcaa5cec18ba441e72d0de27cfd2436e
+content_sha256: 011c92f02d72cff9b36e70ae8f76813a3088b46a442ef4a05899a4a2b8a93321
+facts_sha256: 011c92f02d72cff9b36e70ae8f76813a3088b46a442ef4a05899a4a2b8a93321
 ---
 
 # 町田市障がい者サービスガイドブック2026
@@ -19,4 +19,12 @@ facts_sha256: 010f9aa9307227ff5916b3bf1e629b9bfcaa5cec18ba441e72d0de27cfd2436e
 
 ## 期間
 
-2026年5月発行
+2026年5月1日から
+
+## 利用方法
+
+PDFファイルで閲覧可能
+
+## 問い合わせ
+
+障がい福祉課窓口またはWEBから

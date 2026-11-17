@@ -9,8 +9,8 @@ source_id: 20211116-shougaiji-c1c9db2e
 source_updated: null
 license: 無断転載を禁止
 attribution: 町田市「障がい者の手当・年金」を加工して作成
-content_sha256: 0de4b16bc95a3c094ee1d566ebe573a657545267f9bb2ea83ea694c4413d1900
-facts_sha256: 0de4b16bc95a3c094ee1d566ebe573a657545267f9bb2ea83ea694c4413d1900
+content_sha256: b62b9f373c6087707967539aab903608c6bdba1c14b4799ecf4169176ee15ea0
+facts_sha256: b62b9f373c6087707967539aab903608c6bdba1c14b4799ecf4169176ee15ea0
 ---
 
 # 障害児福祉手当（国制度）
@@ -25,14 +25,10 @@ facts_sha256: 0de4b16bc95a3c094ee1d566ebe573a657545267f9bb2ea83ea694c4413d1900
 
 月額1万6560円
 
-## 期間
-
-審査結果の翌月から支給
-
 ## 利用方法
 
 障がい福祉課で申請、診断書提出が必要
 
 ## 問い合わせ
 
-障がい福祉課（電話042-724-2148）
+障がい福祉課（電話：042-724-2148）

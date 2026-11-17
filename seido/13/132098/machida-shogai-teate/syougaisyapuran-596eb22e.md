@@ -9,8 +9,8 @@ source_id: syougaisyapuran-596eb22e
 source_updated: null
 license: 無断転載を禁止
 attribution: 町田市「障がい者の手当・年金」を加工して作成
-content_sha256: 1baaebb2294c0d255964035c188c16561c693c767b00cdbcadebe19c63db8689
-facts_sha256: 1baaebb2294c0d255964035c188c16561c693c767b00cdbcadebe19c63db8689
+content_sha256: d9f85c9d05aae7cd560a520765abe264e761782d93700081ef8fa920b303c29c
+facts_sha256: d9f85c9d05aae7cd560a520765abe264e761782d93700081ef8fa920b303c29c
 ---
 
 # 「町田市障がい者プラン21－26」後期計画（2024～2026）【第6次町田市障がい者計画・町田市障がい福祉事業計画（第7期計画）】

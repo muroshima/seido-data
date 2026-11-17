@@ -9,8 +9,8 @@ source_id: hayamihyo-b0d7cd5b
 source_updated: null
 license: 無断転載禁止（転載は要連絡）
 attribution: 港区「障害者の手当・年金」を加工して作成
-content_sha256: 14f61278ae7313e6bdaafb7cb3a81e67f3817f750c8e09242e1347ed1646dd6b
-facts_sha256: 14f61278ae7313e6bdaafb7cb3a81e67f3817f750c8e09242e1347ed1646dd6b
+content_sha256: 479123aa10a9d33a1a01b551b706e71382d814e25fd3404c514987e7be5bd775
+facts_sha256: 479123aa10a9d33a1a01b551b706e71382d814e25fd3404c514987e7be5bd775
 ---
 
 # 障害等級別で申請可能な手当の早見表

@@ -9,8 +9,8 @@ source_id: hp-guidebook-d730a11c
 source_updated: null
 license: 無断転載を禁止
 attribution: 町田市「障がい者の手当・年金」を加工して作成
-content_sha256: 011c92f02d72cff9b36e70ae8f76813a3088b46a442ef4a05899a4a2b8a93321
-facts_sha256: 011c92f02d72cff9b36e70ae8f76813a3088b46a442ef4a05899a4a2b8a93321
+content_sha256: da37aa2d8ad9461496e14d3a487345fda0ac57124ec2a490d7bc16b743fa81bd
+facts_sha256: da37aa2d8ad9461496e14d3a487345fda0ac57124ec2a490d7bc16b743fa81bd
 ---
 
 # 町田市障がい者サービスガイドブック2026
@@ -27,4 +27,4 @@ PDFファイルで閲覧可能
 
 ## 問い合わせ
 
-障がい福祉課窓口またはWEBから
+障がい福祉課窓口またはWEB問い合わせ

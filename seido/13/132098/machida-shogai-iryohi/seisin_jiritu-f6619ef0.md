@@ -9,8 +9,8 @@ source_id: seisin_jiritu-f6619ef0
 source_updated: null
 license: 無断転載を禁止
 attribution: 町田市「障がい者の医療費助成」を加工して作成
-content_sha256: 572a5b4cdfa14ea18c93b7e5ee1341721b166c5d714128cd11b2082c3a3f06fc
-facts_sha256: 572a5b4cdfa14ea18c93b7e5ee1341721b166c5d714128cd11b2082c3a3f06fc
+content_sha256: ebad7dbb61b49276a9ce88a1a4ce9ca76988be15368a41b490bbc91269392159
+facts_sha256: ebad7dbb61b49276a9ce88a1a4ce9ca76988be15368a41b490bbc91269392159
 ---
 
 # 自立支援医療費制度（精神通院医療）
@@ -19,11 +19,11 @@ facts_sha256: 572a5b4cdfa14ea18c93b7e5ee1341721b166c5d714128cd11b2082c3a3f06fc
 
 ## 対象者
 
-精神疾患の通院治療を受ける者
+精神疾患の通院治療費を支援
 
 ## 支援内容
 
-医療費の自己負担を1割に、所得によりさらに軽減
+自己負担1割、所得によりさらに軽減
 
 ## 期間
 
@@ -31,7 +31,7 @@ facts_sha256: 572a5b4cdfa14ea18c93b7e5ee1341721b166c5d714128cd11b2082c3a3f06fc
 
 ## 利用方法
 
-自立支援医療受給者証を取得
+申請書・診断書・世帯証明書を提出
 
 ## 問い合わせ
 

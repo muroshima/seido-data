@@ -9,8 +9,8 @@ source_id: koseiiryo-5288d984
 source_updated: null
 license: 無断転載を禁止
 attribution: 町田市「障がい者の医療費助成」を加工して作成
-content_sha256: 7f4f5a965da4bc9a751d0f0c48d862936298feaf882441a837cd815f27ab3ba7
-facts_sha256: 7f4f5a965da4bc9a751d0f0c48d862936298feaf882441a837cd815f27ab3ba7
+content_sha256: db00edb08d3c5e1a3e0a0b28e5598ffc2aa488a284aa6fe23021ea37304a0658
+facts_sha256: db00edb08d3c5e1a3e0a0b28e5598ffc2aa488a284aa6fe23021ea37304a0658
 ---
 
 # 自立支援医療（更生医療）
@@ -19,16 +19,16 @@ facts_sha256: 7f4f5a965da4bc9a751d0f0c48d862936298feaf882441a837cd815f27ab3ba7
 
 ## 対象者
 
-18歳以上で身体障害者手帳を持つ者
+18歳以上で身体障害者手帳をお持ちの方。所得制限あり。
 
 ## 支援内容
 
-障がいを除去・軽減する手術等の治療費を1割負担
+障がいを除去・軽減する手術等の治療に医療費の1割負担。月額自己負担上限あり。
 
 ## 利用方法
 
-指定医療機関での治療
+指定医療機関での治療に限る。
 
 ## 問い合わせ
 
-障がい福祉課
+町田市役所 障がい福祉課 042-724-2148

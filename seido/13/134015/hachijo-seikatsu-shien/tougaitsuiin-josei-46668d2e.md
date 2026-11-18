@@ -3,14 +3,14 @@ title: 島外医療機関へ通院される方への交通費一部助成（令�
 lg_code: '134015'
 lg_name: 八丈町
 support: null
-url: https://www.town.hachijo.tokyo.jp/kenko-fukushi/k-seikatsu-shien/tougaitsuiin-josei7/
+url: https://www.town.hachijo.tokyo.jp/kenko-fukushi/k-seikatsu-shien/tougaitsuiin-josei/
 source: hachijo-seikatsu-shien
-source_id: tougaitsuiin-josei7-44632cbd
+source_id: tougaitsuiin-josei-46668d2e
 source_updated: null
 license: 不明
 attribution: 八丈町「八丈町 生活支援（助成・援助）」を加工して作成
-content_sha256: 1fb255ee917d8c8fa46ceb7b87cd0efb7105d1e29f598cd898110f19e56f8d7d
-facts_sha256: 1fb255ee917d8c8fa46ceb7b87cd0efb7105d1e29f598cd898110f19e56f8d7d
+content_sha256: 4530c52e907f8f5c6bd0835c2e2ae34a6b8e5df10cca029943cd9a250e48ea2d
+facts_sha256: 4530c52e907f8f5c6bd0835c2e2ae34a6b8e5df10cca029943cd9a250e48ea2d
 ---
 
 # 島外医療機関へ通院される方への交通費一部助成（令和8年度）
@@ -23,7 +23,7 @@ facts_sha256: 1fb255ee917d8c8fa46ceb7b87cd0efb7105d1e29f598cd898110f19e56f8d7d
 
 ## 支援内容
 
-八丈島～羽田・竹芝間往復交通費の半額。医師証明書文書料の半額。上限14,250円。
+八丈島～羽田・竹芝間往復交通費の半額。医師証明書文書料の半額。上限14,380円。
 
 ## 期間
 
@@ -31,7 +31,7 @@ facts_sha256: 1fb255ee917d8c8fa46ceb7b87cd0efb7105d1e29f598cd898110f19e56f8d7d
 
 ## 利用方法
 
-島内医師証明書を上京前取得。交通費領収書、搭乗確認書類を提出。福祉健康課で申請。
+島内医師証明書を上京前取得。交通費領収書と搭乗確認書を提出。福祉健康課で申請。
 
 ## 問い合わせ
 

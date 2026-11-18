@@ -9,8 +9,8 @@ source_id: bus_subsidy-603597d2
 source_updated: null
 license: 不明
 attribution: 八丈町「八丈町 助成・支援（観光・文化）」を加工して作成
-content_sha256: e8c966f2158817932ff34b4c2728b09cd22ee1b13aff5f96eb63a47138c96779
-facts_sha256: e8c966f2158817932ff34b4c2728b09cd22ee1b13aff5f96eb63a47138c96779
+content_sha256: a3fd16c9675385897eef165acfa7a2b17eabede8bf1c6effb19a95fe85edbd06
+facts_sha256: a3fd16c9675385897eef165acfa7a2b17eabede8bf1c6effb19a95fe85edbd06
 ---
 
 # 八丈町団体集客事業（貸切バス使用料30％補助）

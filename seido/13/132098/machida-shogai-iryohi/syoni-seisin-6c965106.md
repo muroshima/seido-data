@@ -9,8 +9,8 @@ source_id: syoni-seisin-6c965106
 source_updated: null
 license: 無断転載を禁止
 attribution: 町田市「障がい者の医療費助成」を加工して作成
-content_sha256: c06bcbe35083ad89e018eec7440aeb4247353f88495836020bffe0018064b902
-facts_sha256: c06bcbe35083ad89e018eec7440aeb4247353f88495836020bffe0018064b902
+content_sha256: 1feb9e032a7ab347d472f518c11dd8f2e901f8c487b0ce621c8d7eb0be429462
+facts_sha256: 1feb9e032a7ab347d472f518c11dd8f2e901f8c487b0ce621c8d7eb0be429462
 ---
 
 # 小児精神障害者入院医療費助成
@@ -31,7 +31,7 @@ facts_sha256: c06bcbe35083ad89e018eec7440aeb4247353f88495836020bffe0018064b902
 
 ## 利用方法
 
-障がい福祉課に確認後、申請書類を提出
+障がい福祉課に確認し、申請書類を提出
 
 ## 問い合わせ
 

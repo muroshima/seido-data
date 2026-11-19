@@ -9,8 +9,8 @@ source_id: syogaietc04-6d84703a
 source_updated: null
 license: 無断転載を禁止
 attribution: 町田市「障がい者の医療費助成」を加工して作成
-content_sha256: 125cf0d5fc16125cd181ea6f61620890ba94f7e1b73db5d82c75995a92183566
-facts_sha256: 125cf0d5fc16125cd181ea6f61620890ba94f7e1b73db5d82c75995a92183566
+content_sha256: 803dff3abf7b4691aecc768922f8239d32914ce0941472f604f09fa55c52f17d
+facts_sha256: 803dff3abf7b4691aecc768922f8239d32914ce0941472f604f09fa55c52f17d
 ---
 
 # 難病医療費助成

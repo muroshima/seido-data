@@ -9,8 +9,8 @@ source_id: BCkan-9be15f86
 source_updated: null
 license: 無断転載を禁止
 attribution: 町田市「障がい者の医療費助成」を加工して作成
-content_sha256: 45094255575b3447d23339f877d0f5263dc73147e62cb6d6cdbadc79c197d683
-facts_sha256: 45094255575b3447d23339f877d0f5263dc73147e62cb6d6cdbadc79c197d683
+content_sha256: 7da1316783d14b0d9a21487e1387bb05f8c0c5f7939b453d82510169e26c2e73
+facts_sha256: 7da1316783d14b0d9a21487e1387bb05f8c0c5f7939b453d82510169e26c2e73
 ---
 
 # B型・C型ウイルス肝炎医療費助成制度

@@ -117,3 +117,19 @@ def minimal_pdf(text: str) -> bytes:
 
 def test_pdf_text_reads_text_layer():
     assert webpage.pdf_text(minimal_pdf("Subsidy up to 300000 yen")) == "Subsidy up to 300000 yen"
+
+
+def test_heading_in_header_inside_main_is_the_title():
+    html = (
+        "<body><header><h1>サイト名</h1></header><main>"
+        "<header><h1>児童手当</h1></header><p>本文</p></main></body>"
+    )
+    page = webpage.parse(html, "https://example.jp/a.html")
+    assert (page.title, page.text) == ("児童手当", "本文")
+
+
+def test_heading_in_site_header_is_not_the_title_when_region_is_body():
+    page = webpage.parse(
+        "<body><header><h1>サイト名</h1></header><p>本文</p></body>", "https://example.jp/"
+    )
+    assert page.title == ""

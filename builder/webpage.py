@@ -88,6 +88,7 @@ class _Collector(HTMLParser):
         self.text: list[str] = []
         self.links: list[tuple[str, str]] = []
         self.h1: list[str] = []
+        self.header_h1: list[str] = []  # 領域の中の <header> にある h1（こまえ子育てねっと）
         self._href: str | None = None
         self._anchor: list[str] = []
         self._in_h1 = False
@@ -111,6 +112,8 @@ class _Collector(HTMLParser):
         if self.skip_at is None and (tag in SKIP_TAGS or classes & SKIP_CLASSES):
             self.skip_at = len(self.stack)
         if self.skip_at is not None:
+            if tag == "h1" and self.stack[self.skip_at - 1] == "header":
+                self._in_h1 = True
             return
         if tag in BLOCK_TAGS:
             self.text.append("\n")
@@ -135,6 +138,8 @@ class _Collector(HTMLParser):
         if self.skip_at is not None:
             if level == self.skip_at:
                 self.skip_at = None
+            if tag == "h1":
+                self._in_h1 = False
             return
         if tag == "a" and self._href is not None:
             self.links.append((self._href, squash("".join(self._anchor))))
@@ -145,6 +150,8 @@ class _Collector(HTMLParser):
             self.text.append("\n")
 
     def handle_data(self, data):
+        if self.active and self.skip_at is not None and self._in_h1:
+            self.header_h1.append(data)
         if not self.active or self.skip_at is not None:
             return
         self.text.append(data)
@@ -175,15 +182,20 @@ def parse(html: str, base_url: str) -> Page:
     for c in CONTENT_CLASSES:
         if re.search(rf'class=["\'][^"\']*\b{c}\b', html):
             scopes.append(lambda _tag, _id, cls, want=c: want in cls)
-    scopes.append(lambda tag, _id, _cls: tag == "body")
+    body = lambda tag, _id, _cls: tag == "body"  # noqa: E731
+    scopes.append(body)
     for scope in scopes:
         collector = _Collector(scope)
         collector.feed(html)
         lines = [squash(line) for line in "".join(collector.text).split("\n")]
         if any(lines):
             break
+    title = squash("".join(collector.h1))
+    if not title and scope is not body:
+        # body 全体のときの <header> はサイト共通の見出し（ロゴ）なので使わない
+        title = squash("".join(collector.header_h1))
     return Page(
-        title=squash("".join(collector.h1)),
+        title=title,
         text="\n".join(line for line in lines if line),
         links=[
             (urllib.parse.urldefrag(urllib.parse.urljoin(base_url, href))[0], text)

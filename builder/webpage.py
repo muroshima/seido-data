@@ -42,7 +42,15 @@ CONTENT_CLASSES = (
 )
 # 本文領域の中にあるパンくず・関連リンク・フッター（練馬区は本文と同じ要素の中に置く）、
 # 同じ階層の分類メニュー（日の出町）
-SKIP_CLASSES = {"pankuzu", "lobgbox", "footbg", "page_right"}
+SKIP_CLASSES = {
+    "pankuzu",
+    "lobgbox",
+    "footbg",
+    "page_right",
+    "boxKeywordSearch",  # 八王子市（id="content" の中の検索欄・パンくず）
+    "boxBreadcrumb",
+}
+SKIP_IDS = {"side"}  # 八王子市のサイドメニュー（分野の一覧）
 # 本文へ飛ぶための目印（「ここから本文です」）。本文の id が付いていても本文ではない
 SKIP_LINK_CLASS = "skip"
 SKIP_TAGS = {"script", "style", "noscript", "template", "nav", "header", "footer"}
@@ -109,7 +117,9 @@ class _Collector(HTMLParser):
                 self.text.append("\n")
             return
         self.stack.append(tag)
-        if self.skip_at is None and (tag in SKIP_TAGS or classes & SKIP_CLASSES):
+        if self.skip_at is None and (
+            tag in SKIP_TAGS or classes & SKIP_CLASSES or a.get("id") in SKIP_IDS
+        ):
             self.skip_at = len(self.stack)
         if self.skip_at is not None:
             if tag == "h1" and self.stack[self.skip_at - 1] == "header":

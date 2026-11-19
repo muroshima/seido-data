@@ -133,3 +133,13 @@ def test_heading_in_site_header_is_not_the_title_when_region_is_body():
         "<body><header><h1>サイト名</h1></header><p>本文</p></body>", "https://example.jp/"
     )
     assert page.title == ""
+
+
+def test_search_breadcrumb_and_side_menu_inside_region_are_ignored():
+    html = (
+        '<body><div id="content"><div class="boxKeywordSearch">検索</div>'
+        '<div class="boxBreadcrumb">トップ &gt; 手当</div><div id="main"><h1>特別障害者手当</h1>'
+        '<p>月額 30,450円</p></div><div id="side">障害のある方のためにの分類一覧</div></div></body>'
+    )
+    page = webpage.parse(html, "https://www.city.hachioji.tokyo.jp/a.html")
+    assert (page.title, page.text) == ("特別障害者手当", "特別障害者手当\n月額 30,450円")

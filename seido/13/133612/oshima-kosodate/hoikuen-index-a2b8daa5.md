@@ -9,8 +9,8 @@ source_id: hoikuen-index-a2b8daa5
 source_updated: null
 license: 私的使用・引用を除き無断複製・転用不可
 attribution: 大島町「大島町 保育・子育て・家庭」を加工して作成
-content_sha256: 2a4f6644753a99886f08bd3fdfa488442681d13084557f05af91437cb2b1203b
-facts_sha256: 2a4f6644753a99886f08bd3fdfa488442681d13084557f05af91437cb2b1203b
+content_sha256: 96cc48fd467ab93da4ce46fb6ebef2a9a553f0d5f2e19cf085c82fd79623f6c8
+facts_sha256: 96cc48fd467ab93da4ce46fb6ebef2a9a553f0d5f2e19cf085c82fd79623f6c8
 ---
 
 # 大島町の保育園
@@ -19,11 +19,11 @@ facts_sha256: 2a4f6644753a99886f08bd3fdfa488442681d13084557f05af91437cb2b1203b
 
 ## 支援内容
 
-健康で安全な保育
+保育
 
 ## 利用方法
 
-保育園入所
+入所申込
 
 ## 問い合わせ
 

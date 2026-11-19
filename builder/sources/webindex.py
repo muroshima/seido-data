@@ -2,6 +2,7 @@
 
 対応表の 1 行が 1 自治体の 1 つの一覧ページに当たる（kind=web, format=html）。
 一覧ページの無い小さな村などは、制度ページそのものを 1 行にする（format=html-page）。
+制度の説明が PDF にしか無いときは、その PDF を 1 行にする（format=pdf）。
 
 - 一覧ページの本文領域から、同じサイトの HTML ページへのリンクを集める
 - 一覧ページが index.html や / で終わる索引なら、その配下の下位の一覧を 1 階層だけ辿る。
@@ -29,6 +30,7 @@ NOT_PAGE = re.compile(r"/cgi-bin/|/cgi-\w+/|/search/|/form/", re.IGNORECASE)
 MAX_PAGES = 300
 GONE = (404, 410)
 SINGLE_PAGE = "html-page"  # 一覧ではなく制度ページそのもの。リンクは辿らない
+PDF = "pdf"  # 制度の説明の PDF そのもの。題名は対応表の名前
 
 
 def fetch(row: dict[str, str]) -> Fetched:
@@ -40,6 +42,9 @@ def fetch(row: dict[str, str]) -> Fetched:
     if not allowed(index_url):
         # 一覧ページ自体が robots.txt で禁止されている。既存のレコードは残す
         raise PermissionError(f"robots.txt で禁止されている: {index_url}")
+    if row["format"] == PDF:
+        record = to_record(lg_code, index_url, row["name"], webpage.pdf_text(http.get(index_url)))
+        return Fetched(observed=today(), units={lg_code: [record]})
     index = webpage.fetch(index_url)
     if row["format"] == SINGLE_PAGE:
         record = to_record(lg_code, index_url, index.title or row["name"], index.text)

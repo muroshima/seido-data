@@ -9,10 +9,13 @@
 選んだ領域に文字が無ければ（id が中身の無い目印の要素に付いているなど）、次の候補に移る。
 """
 
+import io
 import re
 import urllib.parse
 from dataclasses import dataclass, field
 from html.parser import HTMLParser
+
+from pypdf import PdfReader
 
 from . import http
 
@@ -153,6 +156,12 @@ class _Collector(HTMLParser):
 
 def squash(text: str) -> str:
     return re.sub(r"\s+", " ", text).strip()
+
+
+def pdf_text(data: bytes) -> str:
+    """PDF の文字。文字を持たない（画像だけの）PDF は空になる。"""
+    reader = PdfReader(io.BytesIO(data))
+    return squash(" ".join(p.extract_text() or "" for p in reader.pages))
 
 
 def parse(html: str, base_url: str) -> Page:

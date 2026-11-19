@@ -172,3 +172,13 @@ def test_single_page_without_heading_uses_source_name(site):
     row = {**ROW, "url": f"{SITE}/life/welfare.html", "format": "html-page", "name": "福祉"}
     site({row["url"]: page("", "乳幼児医療助成")})
     assert [r.raw["title"] for r in webindex.fetch(row).units["131016"]] == ["福祉"]
+
+
+def test_pdf_source_is_one_program_page_named_by_source(site, monkeypatch):
+    """制度の説明が PDF にしか無いときは、PDF の文字を本文として 1 件にする。"""
+    row = {**ROW, "url": f"{SITE}/data/hojo/gaiyou.pdf", "format": "pdf", "name": "起業支援"}
+    site({})
+    monkeypatch.setattr(webindex.webpage, "pdf_text", lambda data: "起業する方に上限300万円")
+    records = webindex.fetch(row).units["131016"]
+    assert [(r.raw["url"], r.raw["title"]) for r in records] == [(row["url"], "起業支援")]
+    assert records[0].source_text == "起業する方に上限300万円"

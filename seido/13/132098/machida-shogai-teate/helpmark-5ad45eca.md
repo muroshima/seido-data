@@ -9,8 +9,8 @@ source_id: helpmark-5ad45eca
 source_updated: null
 license: 無断転載を禁止
 attribution: 町田市「障がい者の手当・年金」を加工して作成
-content_sha256: 72132b29ac9e6d5661c3a289951f26cc5ae398527c04f9b4ad638c6f77b75145
-facts_sha256: 72132b29ac9e6d5661c3a289951f26cc5ae398527c04f9b4ad638c6f77b75145
+content_sha256: f3d7f963e3ebc027b09726607d84a23c8c2cb5641e92276c92c9df089e57bfd7
+facts_sha256: f3d7f963e3ebc027b09726607d84a23c8c2cb5641e92276c92c9df089e57bfd7
 ---
 
 # ヘルプマークのご案内
@@ -23,7 +23,7 @@ facts_sha256: 72132b29ac9e6d5661c3a289951f26cc5ae398527c04f9b4ad638c6f77b75145
 
 ## 支援内容
 
-日常生活や災害時、緊急時の支援を周囲に依頼するためのマーク
+日常生活や災害時、緊急時の支援を周囲に依頼
 
 ## 期間
 
@@ -31,7 +31,7 @@ facts_sha256: 72132b29ac9e6d5661c3a289951f26cc5ae398527c04f9b4ad638c6f77b75145
 
 ## 利用方法
 
-ストラップに着け、必要に応じてシールを貼る
+ヘルプマークをカバンなどに着け、必要に応じてシールを貼る
 
 ## 問い合わせ
 

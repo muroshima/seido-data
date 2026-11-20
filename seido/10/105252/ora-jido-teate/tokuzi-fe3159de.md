@@ -1,0 +1,18 @@
+---
+title: 特別児童扶養手当
+lg_code: '105252'
+lg_name: 邑楽町
+support: null
+url: https://www.town.ora.gunma.jp/s025/010/010/020/tokuzi.html
+source: ora-jido-teate
+source_id: tokuzi-fe3159de
+source_updated: null
+license: 許可なく転載を禁止
+attribution: 邑楽町「邑楽町 児童手当・助成」を加工して作成
+content_sha256: 06a504715f0bb48ea648fe4f7580ea6449e77e9c426965a6440abeddaaf27660
+facts_sha256: null
+---
+
+# 特別児童扶養手当
+
+取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。

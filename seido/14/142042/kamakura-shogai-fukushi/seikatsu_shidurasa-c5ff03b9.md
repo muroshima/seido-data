@@ -1,0 +1,18 @@
+---
+title: 令和8年生活のしづらさなどに関する調査（全国在宅障害児・者等実態調査）の実施について
+lg_code: '142042'
+lg_name: 鎌倉市
+support: null
+url: https://www.city.kamakura.kanagawa.jp/syougaijisha/seikatsu_shidurasa.html
+source: kamakura-shogai-fukushi
+source_id: seikatsu_shidurasa-c5ff03b9
+source_updated: null
+license: 私的使用・引用を除き無断転載不可（引用時は出所明示）
+attribution: 鎌倉市「鎌倉市 障害者福祉」を加工して作成
+content_sha256: bc97b433a3027295e31cfd25445eab001a7370e9bc8db6015ee331ee420ba377
+facts_sha256: null
+---
+
+# 令和8年生活のしづらさなどに関する調査（全国在宅障害児・者等実態調査）の実施について
+
+取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。

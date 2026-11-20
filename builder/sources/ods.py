@@ -57,8 +57,24 @@ def fetch(row: dict[str, str]) -> Fetched:
     return Fetched(observed=today(), units={lg_code: records})
 
 
+# 埼玉県オープンデータポータル（CKAN ではない）。データセットのページに、ファイルごとの
+# /resources/<番号> へのリンクと形式のラベルが並ぶ。ファイルは /resource_download/<番号>
+SAITAMA = "https://opendata.pref.saitama.lg.jp"
+SAITAMA_RESOURCE = re.compile(
+    r'href="https://opendata\.pref\.saitama\.lg\.jp/resources/(\d+)".*?<dt>(.*?)</dt>'
+    r'.*?u-bgc-(\w+)"',
+    re.S,
+)
+
+
 def resources(url: str) -> list[dict]:
     """CKAN のデータセットならそのファイル、そうでなければ掲載ページの「支援制度」のリンク。"""
+    if url.startswith(f"{SAITAMA}/datasets/"):
+        html = http.get(url).decode("utf-8", errors="replace")
+        return [
+            {"format": fmt.upper(), "url": f"{SAITAMA}/resource_download/{rid}", "name": name}
+            for rid, name, fmt in SAITAMA_RESOURCE.findall(html)
+        ]
     if "/dataset/" in url:
         return ckan.resources(url)
     return webpage.resources(url, "支援制度")

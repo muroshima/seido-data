@@ -119,3 +119,28 @@ def test_excel_serial_date_is_converted():
     assert ods.to_seido({"タイトル（制度名）": "x", "公開日": "2024-04-01"}).source_updated == (
         "2024-04-01"
     )
+
+
+def test_saitama_portal_dataset_lists_download_urls(monkeypatch):
+    """埼玉県オープンデータポータルのデータセットのページから、ファイルの取得先を作る。"""
+    html = """
+    <ul class="p-dataset-list"><li>
+      <a href="https://opendata.pref.saitama.lg.jp/resources/5203" class="is-resource">
+        <dl class="p-dataset-item"><dt>【和光市】支援制度（給付金）情報</dt><dd></dd>
+        <dd><span class="p-label u-bgc-xls">XLS</span></dd></dl></a></li>
+      <li><a href="https://opendata.pref.saitama.lg.jp/resources/5202" class="is-resource">
+        <dl class="p-dataset-item"><dt>【和光市】支援制度（給付金）情報</dt><dd></dd>
+        <dd><span class="p-label u-bgc-csv">CSV</span></dd></dl></a></li></ul>
+    """
+    monkeypatch.setattr(ods.http, "get", lambda url, params=None: html.encode())
+    found = ods.resources("https://opendata.pref.saitama.lg.jp/datasets/1402")
+    assert [(r["format"], r["url"]) for r in found] == [
+        ("XLS", "https://opendata.pref.saitama.lg.jp/resource_download/5203"),
+        ("CSV", "https://opendata.pref.saitama.lg.jp/resource_download/5202"),
+    ]
+
+
+def test_ods_shien_sources_use_ods_loader():
+    from builder.sources import loader_for
+
+    assert loader_for({"source_id": "wako-ods-shien", "kind": "opendata", "format": "csv"}) is ods

@@ -33,6 +33,7 @@ def loaders():
         "tokyo-kosodate-registry": tokyo_kosodate_registry,
         "tokyo-ods-support-*": ods,
         "fussa-opendata-kyufu": ods,
+        "*-ods-shien": ods,  # 関東から。自治体標準オープンデータセット「支援制度」
     }
 
 

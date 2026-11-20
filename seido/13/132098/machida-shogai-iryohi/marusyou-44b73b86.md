@@ -9,8 +9,8 @@ source_id: marusyou-44b73b86
 source_updated: null
 license: 無断転載を禁止
 attribution: 町田市「障がい者の医療費助成」を加工して作成
-content_sha256: 48fd78409572c713034debe24b6c680b6db59884185cf68cbf16b03c831e6f2c
-facts_sha256: 48fd78409572c713034debe24b6c680b6db59884185cf68cbf16b03c831e6f2c
+content_sha256: 6227aa0db4a5daddcc7cc901e67fbb9f5eafb582de70832775bead10d7a6cb3b
+facts_sha256: 6227aa0db4a5daddcc7cc901e67fbb9f5eafb582de70832775bead10d7a6cb3b
 ---
 
 # 心身障害者（児）医療費助成制度（マル障）
@@ -28,10 +28,6 @@ facts_sha256: 48fd78409572c713034debe24b6c680b6db59884185cf68cbf16b03c831e6f2c
 ## 期間
 
 毎年9月更新
-
-## 利用方法
-
-医療機関で受給者証提示
 
 ## 問い合わせ
 

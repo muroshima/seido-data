@@ -1,0 +1,18 @@
+---
+title: 生ごみ処理容器等補助金制度※令和8年度受付終了
+lg_code: '122076'
+lg_name: 松戸市
+support: null
+url: https://www.city.matsudo.chiba.jp/kurashi/gomi_shinyou/genryou/namagomisyori-hojo.html
+source: matsudo-josei-teate
+source_id: namagomisyori-hojo-9797d19b
+source_updated: null
+license: 無断の転用・引用・改変を禁止（私的使用・引用など著作権法上認められた場合を除く）
+attribution: 松戸市「松戸市 くらしの目的別 助成・手当」を加工して作成
+content_sha256: 2240667819cd795456c7da7dd93978ee3a4cd7a00fb81691ed8760dc38d57d9b
+facts_sha256: null
+---
+
+# 生ごみ処理容器等補助金制度※令和8年度受付終了
+
+取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。

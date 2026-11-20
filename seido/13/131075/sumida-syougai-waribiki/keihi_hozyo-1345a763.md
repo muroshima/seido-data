@@ -9,8 +9,8 @@ source_id: keihi_hozyo-1345a763
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「割引・減免（障害）」を加工して作成
-content_sha256: 67797468a091f652828a00d45306b9f2b78b84381c581f7c5ebd1d16b4b7926c
-facts_sha256: 67797468a091f652828a00d45306b9f2b78b84381c581f7c5ebd1d16b4b7926c
+content_sha256: 698f19dc686a0080e53a9116e3f9fd85e8719099b8f0c1e6ec573d0eac69a699
+facts_sha256: 698f19dc686a0080e53a9116e3f9fd85e8719099b8f0c1e6ec573d0eac69a699
 ---
 
 # 自動車運転教習費補助
@@ -32,7 +32,3 @@ facts_sha256: 67797468a091f652828a00d45306b9f2b78b84381c581f7c5ebd1d16b4b7926c
 ## 利用方法
 
 身体障害者手帳、印鑑、所得税証明書が必要
-
-## 問い合わせ
-
-墨田区障害者福祉課 障害者給付係

@@ -9,8 +9,8 @@ source_id: sonota-004d3c87
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「割引・減免（障害）」を加工して作成
-content_sha256: 12fac898ebdb34d381cfed90ebd43879e905fbc228f6d4b02db0fba8d005a8cd
-facts_sha256: 12fac898ebdb34d381cfed90ebd43879e905fbc228f6d4b02db0fba8d005a8cd
+content_sha256: 68821edd82e69fa5f479e08a6e171ba65c0844ecf552acf76b405341eb4cb9b2
+facts_sha256: 68821edd82e69fa5f479e08a6e171ba65c0844ecf552acf76b405341eb4cb9b2
 ---
 
 # その他交通機関の割引（飛行機・フェリー・タクシー）
@@ -19,4 +19,4 @@ facts_sha256: 12fac898ebdb34d381cfed90ebd43879e905fbc228f6d4b02db0fba8d005a8cd
 
 ## 問い合わせ
 
-各航空会社
+各航空会社、各フェリー会社、東京ハイヤー・タクシー協会

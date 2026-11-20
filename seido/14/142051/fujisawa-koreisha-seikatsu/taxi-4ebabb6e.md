@@ -1,0 +1,18 @@
+---
+title: 福祉タクシー利用券について
+lg_code: '142051'
+lg_name: 藤沢市
+support: null
+url: https://www.city.fujisawa.kanagawa.jp/kourei-s/kenko/fukushi/kore/sekatsu/taxi.html
+source: fujisawa-koreisha-seikatsu
+source_id: taxi-4ebabb6e
+source_updated: null
+license: 私的使用・引用を除き無断使用・複製・転載・改変を禁止
+attribution: 藤沢市「藤沢市 生活支援サービス（高齢者）」を加工して作成
+content_sha256: f654a7971305473aa282e223614ad8129ac08ecfb5df21c3e5e54f81448b5385
+facts_sha256: null
+---
+
+# 福祉タクシー利用券について
+
+取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。

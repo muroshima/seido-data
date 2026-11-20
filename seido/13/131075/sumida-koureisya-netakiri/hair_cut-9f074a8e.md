@@ -9,8 +9,8 @@ source_id: hair_cut-9f074a8e
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「ねたきり・認知症の方へのサービス（高齢者）」を加工して作成
-content_sha256: 6a72307188296e993799347693a2f0da793334f0e112c8e7e7158ef758cdc5bf
-facts_sha256: 6a72307188296e993799347693a2f0da793334f0e112c8e7e7158ef758cdc5bf
+content_sha256: 38016c4f6f1f0b0601369860a2d5dfa632f72b18007d9e8fc16f473ef648fd09
+facts_sha256: 38016c4f6f1f0b0601369860a2d5dfa632f72b18007d9e8fc16f473ef648fd09
 ---
 
 # 自宅で散髪ができます（理美容サービス）
@@ -27,7 +27,7 @@ facts_sha256: 6a72307188296e993799347693a2f0da793334f0e112c8e7e7158ef758cdc5bf
 
 ## 期間
 
-2か月に1回
+2か月ごと
 
 ## 利用方法
 

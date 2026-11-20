@@ -9,8 +9,8 @@ source_id: iroukin-f2d89f2e
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「ねたきり・認知症の方へのサービス（高齢者）」を加工して作成
-content_sha256: 348cea9d0b679a3f494f8c23580b13a2fda35df73b669dd18dfe460b5aac0904
-facts_sha256: 348cea9d0b679a3f494f8c23580b13a2fda35df73b669dd18dfe460b5aac0904
+content_sha256: 648ac43323787dfe9e2f10cd2342e988ea2d5c39c1ecb332ebcfcace4db73076
+facts_sha256: 648ac43323787dfe9e2f10cd2342e988ea2d5c39c1ecb332ebcfcace4db73076
 ---
 
 # 在宅で介護をしている方に慰労金を支給します

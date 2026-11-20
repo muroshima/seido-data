@@ -39,6 +39,7 @@ CONTENT_CLASSES = (
     "main_naka",  # 羽村市の一覧ページ
     "main_area",  # 小平市
     "main",  # 三鷹市（id="contents" は本文への目印の <p class="skip">）
+    "wrapper-contents",  # 足利市・下野市・鹿沼市など（栃木・群馬に多い CMS の本文の列）
 )
 # 本文領域の中にあるパンくず・関連リンク・フッター（練馬区は本文と同じ要素の中に置く）、
 # 同じ階層の分類メニュー（日の出町）
@@ -49,6 +50,8 @@ SKIP_CLASSES = {
     "page_right",
     "boxKeywordSearch",  # 八王子市（id="content" の中の検索欄・パンくず）
     "boxBreadcrumb",
+    "bread-rubbish",  # 足利市などの CMS のパンくず
+    "genre-contents-office",  # 同じ CMS の一覧の、記事ごとの担当課へのリンク
 }
 SKIP_IDS = {"side"}  # 八王子市のサイドメニュー（分野の一覧）
 # 読み飛ばす aside のうち、担当課の問い合わせ先だけは残す（町田市 contact・日の出町など kakuka）
@@ -213,11 +216,20 @@ def parse(html: str, base_url: str) -> Page:
         title=title,
         text="\n".join(line for line in lines if line),
         links=[
-            (urllib.parse.urldefrag(urllib.parse.urljoin(base_url, href))[0], text)
+            (url, text)
             for href, text in collector.links
             if href and not href.startswith(("mailto:", "tel:", "javascript:", "#"))
+            if (url := absolute(base_url, href))
         ],
     )
+
+
+def absolute(base_url: str, href: str) -> str | None:
+    """リンクの絶対 URL（# 以降を除く）。URL として壊れたリンク（横瀬町の `//tel：…`）は None。"""
+    try:
+        return urllib.parse.urldefrag(urllib.parse.urljoin(base_url, href))[0]
+    except ValueError:
+        return None
 
 
 def fetch(url: str) -> Page:

@@ -166,3 +166,13 @@ def test_contact_aside_is_kept():
     assert webpage.parse(html, "https://example.jp/a.html").text == (
         "手当\n月額\n障がい福祉課 電話：042-724-2148\n町民課保険年金係"
     )
+
+
+def test_broken_link_is_skipped():
+    """全角コロンの電話番号リンク（横瀬町）で URL の解析が止まらないこと。"""
+    html = (
+        '<main><a href="//tel：０４９４２５０１１０">電話</a><a href="/a.html">児童手当</a></main>'
+    )
+    assert webpage.parse(html, "https://www.town.example.jp/").links == [
+        ("https://www.town.example.jp/a.html", "児童手当")
+    ]

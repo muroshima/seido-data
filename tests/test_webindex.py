@@ -182,3 +182,12 @@ def test_pdf_source_is_one_program_page_named_by_source(site, monkeypatch):
     records = webindex.fetch(row).units["131016"]
     assert [(r.raw["url"], r.raw["title"]) for r in records] == [(row["url"], "起業支援")]
     assert records[0].source_text == "起業する方に上限300万円"
+
+
+def test_same_page_linked_with_http_and_https_is_one_record(site):
+    links = [
+        (f"{SITE}/kosodate/teate/a.html", "児童手当"),
+        (f"{SITE.replace('https', 'http')}/kosodate/teate/a.html", "児童手当"),
+    ]
+    site({ROW["url"]: page("手当", links=links), links[0][0]: page("児童手当")})
+    assert [r.raw["title"] for r in webindex.fetch(ROW).units["131016"]] == ["児童手当"]

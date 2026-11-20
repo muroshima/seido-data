@@ -74,7 +74,12 @@ def fetch(row: dict[str, str]) -> Fetched:
         raise RuntimeError(f"制度ページの候補が {len(pages)} 件と多すぎる（一覧の判定を見直す）")
 
     records = []
-    for url, link_text in sorted(pages.items()):
+    seen: set[str] = set()
+    # https を先に見る。同じページへの、http と https だけが違うリンク（南足柄市）は 1 件にする
+    for url, link_text in sorted(pages.items(), key=lambda p: (p[0].startswith("http:"), p[0])):
+        if (rid := record_id(url)) in seen:
+            continue
+        seen.add(rid)
         try:
             page = webpage.fetch(url)
         except urllib.error.HTTPError as e:

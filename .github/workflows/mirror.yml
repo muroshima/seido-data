@@ -1,0 +1,42 @@
+# main を公開用のリポジトリ（muroshima/seido-data）へそのまま送る。
+# このリポジトリは自宅 PC の self-hosted runner を使うので private のままにし、公開は送り先で行う。
+# 早送りでしか送らない（送り先の main を直接変えると止まる）。
+# update の push は GITHUB_TOKEN によるもので push イベントを起こさないので、workflow_run でも動かす
+name: mirror
+
+on:
+  push:
+    branches: [main]
+  workflow_run:
+    workflows: [update]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: mirror
+  cancel-in-progress: false
+
+jobs:
+  mirror:
+    if: github.repository == 'muroshima/seido'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: 公開用のリポジトリへ送る
+        env:
+          # 送り先だけに書き込める deploy key
+          DEPLOY_KEY: ${{ secrets.SEIDO_DATA_DEPLOY_KEY }}
+        run: |
+          install -m 700 -d ~/.ssh
+          printf '%s\n' "$DEPLOY_KEY" > ~/.ssh/seido_data
+          chmod 600 ~/.ssh/seido_data
+          # GitHub の公開ホスト鍵（gh api meta の ssh_keys）
+          echo "github.com ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOMqqnkVzrm0SdG6UOoqKLsabgH5C9okWi0dh2l9GKJl" > ~/.ssh/known_hosts
+          GIT_SSH_COMMAND="ssh -i ~/.ssh/seido_data -o IdentitiesOnly=yes" \
+            git push git@github.com:muroshima/seido-data.git HEAD:refs/heads/main

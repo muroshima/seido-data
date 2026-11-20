@@ -8,7 +8,7 @@ import time
 import urllib.parse
 import urllib.request
 
-USER_AGENT = "seido-builder/0.1 (+https://github.com/muroshima/seido)"
+USER_AGENT = "seido-builder/0.1 (+https://github.com/muroshima/seido-data)"
 MIN_INTERVAL = 1.0
 TIMEOUT = 120
 

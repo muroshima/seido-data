@@ -13,6 +13,7 @@ import os
 import subprocess
 import sys
 import traceback
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 from . import BUILDER_VERSION, extract, registry
@@ -20,6 +21,8 @@ from . import map as map_
 from .model import SourceInfo
 from .sources import Fetched, loader_for, source_info, stopped_at
 from .store import Stats, write_index, write_units
+
+FETCH_WORKERS = 8  # 同時に取りに行く取得元の数
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -122,11 +125,15 @@ def update(
     names = {e["id"].removeprefix("lg:"): e["name"] for e in entities if e["lg_code"]}
     failed = []
     gpu_busy = False
+    # 取得（巡回）だけを並列にする。同じホストへは http が 1 本ずつに絞る。
+    # 抽出（GPU）・書き出し・コミットは、取得元の順に 1 つずつ行う
+    pool = ThreadPoolExecutor(FETCH_WORKERS)
+    futures = {sid: pool.submit(loader_for(by_id[sid]).fetch, by_id[sid]) for sid in source_ids}
     for sid in source_ids:
         row = by_id[sid]
         info = source_info(row, entities)
         try:
-            fetched: Fetched = loader_for(row).fetch(row)
+            fetched: Fetched = futures[sid].result()
             # 更新が止まった取得元は、止まった時点の内容としてコミットする
             fetched.observed = stopped_at(row) or fetched.observed
             outside = {f"lg:{lg}" for lg in fetched.units} - registry.expand(
@@ -167,6 +174,7 @@ def update(
         print(f"{sid}: 自治体 {len(fetched.units)} / {summary or '変化なし'}")
         if do_commit and not (raw_stats.empty and seido_stats.empty):
             commit(root, info, fetched, summary)
+    pool.shutdown()
     # 取れた分はコミットしたうえで、失敗した取得元があればジョブを失敗させて気付けるようにする
     return 2 if failed else 0
 

@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "このデータを使ったら、次のとおり引用してください。制度ごとの出典（各ファイルの attribution）も表示してください。"
+title: "seido: 日本の支援制度の git 履歴"
+type: dataset
+authors:
+  - alias: muroshima
+repository-code: "https://github.com/muroshima/seido-data"
+url: "https://github.com/muroshima/seido-data"
+license: CC-BY-4.0
+keywords:
+  - 支援制度
+  - 補助金
+  - 給付金
+  - オープンデータ
+  - git scraping
+  - Japan
+  - public support programs
+abstract: >-
+  日本の自治体・国の支援制度（給付・助成・補助金・減免・貸付・現物支給）を毎日観測し、
+  1 つの取得元の 1 日の変化を 1 コミットとして残したデータ。
+date-released: "2026-11-21"

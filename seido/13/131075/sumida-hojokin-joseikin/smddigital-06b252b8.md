@@ -9,8 +9,8 @@ source_id: smddigital-06b252b8
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「補助金・助成金（産業・事業者）」を加工して作成
-content_sha256: 4b88fbc5a4e1dcd3ff30a0e91aa3b613e14cf46c960bb8805cb207a0dc2bafe4
-facts_sha256: 4b88fbc5a4e1dcd3ff30a0e91aa3b613e14cf46c960bb8805cb207a0dc2bafe4
+content_sha256: 919a8a59f76e46119f507ef2369a6fb2f326f645fb6e8804a566095d9ce8ccc4
+facts_sha256: 919a8a59f76e46119f507ef2369a6fb2f326f645fb6e8804a566095d9ce8ccc4
 ---
 
 # 中小企業のデジタル化を応援します！デジタル技術活用支援補助金

@@ -9,8 +9,8 @@ source_id: sinsin_syougaisya-ff315659
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「手当・年金・医療（障害）」を加工して作成
-content_sha256: 29b2139e8392cb4bef8fd4d4ad25e7264976f6089339988dae53323479663d1b
-facts_sha256: 29b2139e8392cb4bef8fd4d4ad25e7264976f6089339988dae53323479663d1b
+content_sha256: f0b2e4037a6d9e8a476a28cc307cbe42bb7c8a5380e3471c1468318a4f5d9c24
+facts_sha256: f0b2e4037a6d9e8a476a28cc307cbe42bb7c8a5380e3471c1468318a4f5d9c24
 ---
 
 # 心身障害者医療費助成制度（マル障・都の制度）
@@ -19,7 +19,7 @@ facts_sha256: 29b2139e8392cb4bef8fd4d4ad25e7264976f6089339988dae53323479663d1b
 
 ## 対象者
 
-墨田区内に住む方で、身体障害者手帳1級～2級、愛の手帳1度～2度、精神障害者保健福祉手帳1級のいずれかに該当する方。
+墨田区内に住む方で、身体障害者手帳1～2級、愛の手帳1～2度、精神障害者保健福祉手帳1級のいずれかに該当する方。
 
 ## 支援内容
 

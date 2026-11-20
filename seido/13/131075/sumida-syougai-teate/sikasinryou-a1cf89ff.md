@@ -9,8 +9,8 @@ source_id: sikasinryou-a1cf89ff
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「手当・年金・医療（障害）」を加工して作成
-content_sha256: ace307a7e9f634257ba71f2c57e6b1e99256faaefe75a4f887ba745118740016
-facts_sha256: ace307a7e9f634257ba71f2c57e6b1e99256faaefe75a4f887ba745118740016
+content_sha256: 4fb77c9a9f027a028c86cb45713b2d524c0c2cb69cc288c9501bdc2df883d8dc
+facts_sha256: 4fb77c9a9f027a028c86cb45713b2d524c0c2cb69cc288c9501bdc2df883d8dc
 ---
 
 # 心身障害者の歯科診療
@@ -23,7 +23,7 @@ facts_sha256: ace307a7e9f634257ba71f2c57e6b1e99256faaefe75a4f887ba745118740016
 
 ## 支援内容
 
-専門の歯科診療
+歯科診療
 
 ## 利用方法
 

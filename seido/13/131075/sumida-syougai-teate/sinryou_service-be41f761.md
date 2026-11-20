@@ -9,8 +9,8 @@ source_id: sinryou_service-be41f761
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「手当・年金・医療（障害）」を加工して作成
-content_sha256: 2fe3ba1b104acb87a4fa2f3f4d1c16bf5cf0ae3f5d15fc35736f551eeff71ac4
-facts_sha256: 2fe3ba1b104acb87a4fa2f3f4d1c16bf5cf0ae3f5d15fc35736f551eeff71ac4
+content_sha256: 133cff6817f45996e3f55dea631dc2e853f5e52d809a66e515c9efbed609f5bf
+facts_sha256: 133cff6817f45996e3f55dea631dc2e853f5e52d809a66e515c9efbed609f5bf
 ---
 
 # 心身障害者（児）の一般疾患の診療サービス

@@ -9,8 +9,8 @@ source_id: kuni-tokubetsu_teate-3e9ad4db
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「手当・年金・医療（障害）」を加工して作成
-content_sha256: 4442c718217c135b313e4a5ad0512116672f7b5f11bfa976b32145197912cb32
-facts_sha256: 4442c718217c135b313e4a5ad0512116672f7b5f11bfa976b32145197912cb32
+content_sha256: 74abeb70f5b0e49fe74ef1d20dbba9b721fd5a5126540e22b6856f9010bca262
+facts_sha256: 74abeb70f5b0e49fe74ef1d20dbba9b721fd5a5126540e22b6856f9010bca262
 ---
 
 # 特別障害者手当（国の制度）

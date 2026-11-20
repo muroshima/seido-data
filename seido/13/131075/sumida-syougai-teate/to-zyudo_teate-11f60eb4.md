@@ -9,8 +9,8 @@ source_id: to-zyudo_teate-11f60eb4
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「手当・年金・医療（障害）」を加工して作成
-content_sha256: 2eac1022251b73989753ba2da6faad725428b3c5ca6ed1dd67b5d38abb8ed2da
-facts_sha256: 2eac1022251b73989753ba2da6faad725428b3c5ca6ed1dd67b5d38abb8ed2da
+content_sha256: 79babe9fe5a1fd3e6da338cab9ef38d1b822bfcbda50fe85d40db75d63c6df15
+facts_sha256: 79babe9fe5a1fd3e6da338cab9ef38d1b822bfcbda50fe85d40db75d63c6df15
 ---
 
 # 重度心身障害者手当（都の制度）

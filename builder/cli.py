@@ -12,6 +12,7 @@ import json
 import os
 import subprocess
 import sys
+import time
 import traceback
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
@@ -125,6 +126,8 @@ def update(
     names = {e["id"].removeprefix("lg:"): e["name"] for e in entities if e["lg_code"]}
     failed = []
     gpu_busy = False
+    budget = extract.EXTRACT_BUDGET
+    deadline = time.monotonic() + budget if budget else None
     # 取得（巡回）だけを並列にする。同じホストへは http が 1 本ずつに絞る。
     # 抽出（GPU）・書き出し・コミットは、取得元の順に 1 つずつ行う
     pool = ThreadPoolExecutor(FETCH_WORKERS)
@@ -148,9 +151,10 @@ def update(
             # 本文を持たない取り込み（標準形式の CSV など）は対象にしない
             if any(r.source_text is not None for rs in fetched.units.values() for r in rs):
                 for records in fetched.units.values():
-                    llm_session = extract.session if do_extract and not gpu_busy else None
+                    over = deadline is not None and time.monotonic() > deadline
+                    llm_session = extract.session if do_extract and not (gpu_busy or over) else None
                     try:
-                        n = extract.fill(root, sid, records, llm_session)
+                        n = extract.fill(root, sid, records, llm_session, deadline)
                     except extract.GPUBusy as e:
                         # GPU が空かない日は巡回の結果だけを書く。前回の項目は残り、
                         # 新しいページや本文が変わったページは次に GPU が空いたときに取り出す。

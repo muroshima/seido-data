@@ -25,6 +25,9 @@ OLLAMA_BIN = os.environ.get("SEIDO_OLLAMA_BIN", str(Path.home() / ".local/ollama
 OLLAMA_HOST = os.environ.get("SEIDO_OLLAMA_HOST", "127.0.0.1:11435")
 GPU_LOCK = os.environ.get("SEIDO_GPU_LOCK", "/tmp/kaggle-gpu.lock")
 GPU_LOCK_WAIT = int(os.environ.get("SEIDO_GPU_LOCK_WAIT", str(2 * 3600)))
+# 実行を始めてから LLM で取り出してよい秒数。過ぎたら残りは次の実行に回す（ジョブの上限時間に
+# 収めるため）。空なら上限なし
+EXTRACT_BUDGET = int(os.environ.get("SEIDO_EXTRACT_BUDGET") or 0) or None
 MAX_INPUT_CHARS = 8000
 # これより本文が短いページ（外部へのリンクを置いただけのページなど）は LLM に回さない。
 # 小さなモデルは、書かれていないことを一般論で埋めてしまう
@@ -169,13 +172,16 @@ def wait_ready(url: str, timeout: float = 60) -> None:
     raise TimeoutError(f"Ollama が起動しない（{url}）")
 
 
-def fill(root: Path, source_name: str, records: list, llm_session=session) -> int:
+def fill(
+    root: Path, source_name: str, records: list, llm_session=session, deadline: float | None = None
+) -> int:
     """事実だけの取得元のレコードに、制度の情報を埋める。LLM に回した件数を返す。
 
     項目をどの本文から取り出したかを facts_sha256 に持つ。今の本文と同じなら前回の項目を使い、
     新しいページ・本文が変わったページ・まだ取り出していないページだけを LLM に回す。
     llm_session が None なら LLM は呼ばず、前回の項目と facts_sha256 をそのまま残す
     （項目は古いままだが消えない。次に LLM を使うときに取り出し直す）。
+    deadline（time.monotonic() の値）を過ぎたら、残りのページは同じく前回のまま残す。
     一覧ページからリンクされたページは制度の案内として扱う。本文がほとんど無いページだけは
     seido を None にする（raw/ にだけ残る）。
     """
@@ -198,8 +204,12 @@ def fill(root: Path, source_name: str, records: list, llm_session=session) -> in
         todo.append(r)
     if not todo or llm_session is None:
         return 0
+    done = 0
     with llm_session() as llm:
         for r in todo:
+            if deadline is not None and time.monotonic() > deadline:
+                break
             r.seido.sections = extract(llm, r.raw["title"], r.source_text or "").sections
             r.seido.facts_sha256 = r.raw["content_sha256"]
-    return len(todo)
+            done += 1
+    return done

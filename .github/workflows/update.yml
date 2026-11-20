@@ -42,6 +42,8 @@ jobs:
           SOURCE_IDS: ${{ inputs.source_ids }}
           # GPU は Kaggle のジョブと共有。空くまで最大 1 時間待ち、空かなければ巡回の結果だけを書く
           SEIDO_GPU_LOCK_WAIT: "3600"
+          # 抽出は始めてから 180 分まで。残りは次の実行に回し、240 分の上限内で push まで終える
+          SEIDO_EXTRACT_BUDGET: "10800"
         run: |
           if [ -n "$SOURCE_IDS" ]; then
             # shellcheck disable=SC2086 # 空白区切りを引数に分けたい

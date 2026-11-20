@@ -116,7 +116,7 @@ def test_web_sources_are_extracted_regardless_of_publish(repo, monkeypatch):
     root, _ = repo
     calls = []
 
-    def fill(root_, sid, records, llm_session):
+    def fill(root_, sid, records, llm_session, deadline=None):
         calls.append(sid)
         return 0
 
@@ -144,7 +144,7 @@ def test_busy_gpu_writes_crawl_results_and_stops_waiting(repo, monkeypatch):
     root, _ = repo
     sessions = []
 
-    def fill(root_, sid, records, llm_session):
+    def fill(root_, sid, records, llm_session, deadline=None):
         sessions.append((sid, llm_session))
         if llm_session is not None:
             raise cli.extract.GPUBusy("GPU が 3600 秒空かなかった")
@@ -180,7 +180,7 @@ def test_ollama_failure_is_not_treated_as_busy_gpu(repo, monkeypatch):
     """GPU は取れたが Ollama が起動しないなどの失敗は、その取得元の失敗として扱う。"""
     root, _ = repo
 
-    def fill(root_, sid, records, llm_session):
+    def fill(root_, sid, records, llm_session, deadline=None):
         if llm_session is not None:
             raise TimeoutError("Ollama が起動しない")
         return 0

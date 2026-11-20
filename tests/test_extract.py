@@ -1,4 +1,5 @@
 import contextlib
+import time
 
 import pytest
 
@@ -177,3 +178,13 @@ def test_full_text_source_does_not_re_extract_unchanged_pages(tmp_path):
     again = record()
     assert extract.fill(tmp_path, "w", [again], session_of(FakeLLM())) == 0
     assert again.seido.sections == r.seido.sections
+
+
+def test_fill_stops_at_deadline_and_leaves_rest_for_next_run(tmp_path):
+    """上限時間を過ぎたら残りのページは取り出さず、次の実行に回す。"""
+    llm = FakeLLM(GOOD)
+    r = record()
+    assert extract.fill(tmp_path, "w", [r], session_of(llm), time.monotonic() - 1) == 0
+    assert llm.calls == [] and r.seido.facts_sha256 is None
+    # 上限前なら取り出す
+    assert extract.fill(tmp_path, "w", [r], session_of(llm), time.monotonic() + 60) == 1

@@ -1,0 +1,18 @@
+---
+title: 税の控除・各種料金の減免
+lg_code: '142042'
+lg_name: 鎌倉市
+support: null
+url: https://www.city.kamakura.kanagawa.jp/koureisya/koujo_index.html
+source: kamakura-koreisha
+source_id: koujo_index-b33aa071
+source_updated: null
+license: 私的使用・引用を除き無断転載不可（引用時は出所明示）
+attribution: 鎌倉市「鎌倉市 高齢者福祉・介護保険」を加工して作成
+content_sha256: 2862c03c83bc52d06cf4dbce93d595f1d0cae62d26aa13bebb773711364d834d
+facts_sha256: null
+---
+
+# 税の控除・各種料金の減免
+
+取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。

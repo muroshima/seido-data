@@ -1,0 +1,18 @@
+---
+title: 第8期朝霞市高齢者福祉計画・介護保険事業計画を策定しました
+lg_code: '112275'
+lg_name: 朝霞市
+support: null
+url: https://www.city.asaka.lg.jp/soshiki/60/kourei-kaigo-pla8.html
+source: asaka-korei
+source_id: kourei-kaigo-pla8-6587816d
+source_updated: null
+license: 無断複製・転用を禁止（使用は事前相談）
+attribution: 朝霞市「朝霞市 高齢者」を加工して作成
+content_sha256: 97637c5385722c101d34db7a427faa4adb9007fe456cd3927afe1f1d89ea7b84
+facts_sha256: null
+---
+
+# 第8期朝霞市高齢者福祉計画・介護保険事業計画を策定しました
+
+取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。

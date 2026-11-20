@@ -143,3 +143,26 @@ def test_search_breadcrumb_and_side_menu_inside_region_are_ignored():
     )
     page = webpage.parse(html, "https://www.city.hachioji.tokyo.jp/a.html")
     assert (page.title, page.text) == ("特別障害者手当", "特別障害者手当\n月額 30,450円")
+
+
+def test_aside_inside_main_is_ignored():
+    """日替わりのおすすめ（aside）で本文が毎日変わって見えないようにする。"""
+    html = (
+        "<body><main><h1>特別児童扶養手当</h1><p>月額の手当</p>"
+        '<aside class="page-bottom__item">これにも注目 障害児福祉手当</aside></main></body>'
+    )
+    assert webpage.parse(html, "https://www.city.machida.tokyo.jp/a.html").text == (
+        "特別児童扶養手当\n月額の手当"
+    )
+
+
+def test_contact_aside_is_kept():
+    html = (
+        "<body><main><h1>手当</h1><p>月額</p>"
+        '<aside class="contact" id="contact"><p>障がい福祉課 電話：042-724-2148</p></aside>'
+        '<aside class="kiji_aside kakuka"><p>町民課保険年金係</p></aside>'
+        '<aside class="feedback-area">役に立ちましたか</aside></main></body>'
+    )
+    assert webpage.parse(html, "https://example.jp/a.html").text == (
+        "手当\n月額\n障がい福祉課 電話：042-724-2148\n町民課保険年金係"
+    )

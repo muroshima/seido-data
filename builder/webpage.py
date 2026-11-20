@@ -51,9 +51,12 @@ SKIP_CLASSES = {
     "boxBreadcrumb",
 }
 SKIP_IDS = {"side"}  # 八王子市のサイドメニュー（分野の一覧）
+# 読み飛ばす aside のうち、担当課の問い合わせ先だけは残す（町田市 contact・日の出町など kakuka）
+KEEP_ASIDE = {"contact", "kakuka"}
 # 本文へ飛ぶための目印（「ここから本文です」）。本文の id が付いていても本文ではない
 SKIP_LINK_CLASS = "skip"
-SKIP_TAGS = {"script", "style", "noscript", "template", "nav", "header", "footer"}
+# aside は本文の外の補足（町田市の日替わりの「これにも注目」と評価欄。毎日本文が変わって見えていた）
+SKIP_TAGS = {"script", "style", "noscript", "template", "nav", "header", "footer", "aside"}
 VOID_TAGS = {
     "area",
     "base",
@@ -118,7 +121,9 @@ class _Collector(HTMLParser):
             return
         self.stack.append(tag)
         if self.skip_at is None and (
-            tag in SKIP_TAGS or classes & SKIP_CLASSES or a.get("id") in SKIP_IDS
+            (tag in SKIP_TAGS and not (tag == "aside" and (classes | {a.get("id")}) & KEEP_ASIDE))
+            or classes & SKIP_CLASSES
+            or a.get("id") in SKIP_IDS
         ):
             self.skip_at = len(self.stack)
         if self.skip_at is not None:

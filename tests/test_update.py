@@ -195,3 +195,29 @@ def test_ollama_failure_is_not_treated_as_busy_gpu(repo, monkeypatch):
     )
     assert cli.main(["--root", str(root), "update", "chiyoda-teate-josei", "--extract"]) == 2
     assert not (root / "seido").exists()
+
+
+def test_index_is_committed_with_the_source(repo):
+    """制度の一覧（seido/index.csv）は、制度ファイルと同じコミットで更新する。"""
+    root, run = repo
+    assert cli.main(["--root", str(root), "update", "tokyo-ods-support-132101", "--commit"]) == 0
+    files = subprocess.run(
+        ["git", "show", "--name-only", "--format=", "HEAD"],
+        cwd=root,
+        capture_output=True,
+        text=True,
+    ).stdout.split()
+    assert "seido/index.csv" in files
+    lines = (root / "seido/index.csv").read_text(encoding="utf-8").splitlines()
+    assert lines[0].startswith("path,lg_code,lg_name,title,")
+    assert lines[1].startswith(
+        "seido/13/132101/tokyo-ods-support-132101/a.md,132101,小金井市,a,金銭,"
+    )
+
+
+def test_repository_index_is_fresh():
+    """コミットされている seido/index.csv が制度ファイルと一致すること。"""
+    from builder.store import index_csv
+
+    actual = (ROOT / "seido" / "index.csv").read_text(encoding="utf-8")
+    assert actual == index_csv(ROOT), "uv run seido index で作り直す"

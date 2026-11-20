@@ -4,6 +4,8 @@
 （失敗を「全件廃止」と取り違えないため）。
 """
 
+import csv
+import io
 import json
 from dataclasses import dataclass, field
 from pathlib import Path
@@ -38,6 +40,38 @@ def read_front(path: Path) -> dict:
     if not text.startswith("---\n"):
         return {}
     return yaml.safe_load(text[4:].split("\n---\n", 1)[0]) or {}
+
+
+INDEX_COLUMNS = (
+    "path",
+    "lg_code",
+    "lg_name",
+    "title",
+    "support",
+    "source",
+    "source_id",
+    "url",
+    "license",
+    "attribution",
+)
+
+
+def index_csv(root: Path) -> str:
+    """seido/index.csv の中身。制度 1 件 1 行で、frontmatter の主な項目を並べる。"""
+    out = io.StringIO()
+    writer = csv.writer(out, lineterminator="\n")
+    writer.writerow(INDEX_COLUMNS)
+    for path in sorted((root / "seido").glob("*/*/*/*.md")):
+        front = read_front(path)
+        writer.writerow(
+            [path.relative_to(root).as_posix()]
+            + ["" if front.get(c) is None else front[c] for c in INDEX_COLUMNS[1:]]
+        )
+    return out.getvalue()
+
+
+def write_index(root: Path) -> None:
+    (root / "seido" / "index.csv").write_text(index_csv(root), encoding="utf-8")
 
 
 def read_sections(path: Path) -> dict[str, str]:

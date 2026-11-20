@@ -1,8 +1,10 @@
 """seido registry <check|coverage|entities> / seido update <source_id ...|--daily> [--commit]
+/ seido index
 
 registry: 対応表（registry/）を検証し、カバー状況を書き出し、団体の一覧を生成する。
 update:   対応表の取得元から取り込み、raw/ と seido/ を置き換える。--commit を付けると、
           変化があった取得元ごとに 1 コミット作る。コミット日は「観測日 00:00 JST」。
+index:    seido/ の制度ファイルから一覧（seido/index.csv）を作り直す。update は自動で作り直す。
 """
 
 import argparse
@@ -15,7 +17,7 @@ from pathlib import Path
 from . import BUILDER_VERSION, extract, registry
 from .model import SourceInfo
 from .sources import Fetched, loader_for, source_info, stopped_at
-from .store import Stats, write_units
+from .store import Stats, write_index, write_units
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -40,8 +42,12 @@ def main(argv: list[str] | None = None) -> int:
         action="store_true",
         help="事実だけの取得元で、新しいページと変わったページから LLM で制度の情報を取り出す",
     )
+    sub.add_parser("index", help="seido/index.csv（制度の一覧）を作り直す")
     args = parser.parse_args(argv)
 
+    if args.cmd == "index":
+        write_index(args.root)
+        return 0
     if args.cmd == "update":
         return update(args.root, args.source_ids, args.daily, args.commit, args.extract)
     return registry_command(args)
@@ -133,6 +139,8 @@ def update(
             )
             failed.append(sid)
             continue
+        if not seido_stats.empty:
+            write_index(root)  # 一覧も同じコミットに入れる
         summary = describe(seido_stats if not seido_stats.empty else raw_stats)
         print(f"{sid}: 自治体 {len(fetched.units)} / {summary or '変化なし'}")
         if do_commit and not (raw_stats.empty and seido_stats.empty):

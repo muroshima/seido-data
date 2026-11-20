@@ -9,8 +9,8 @@ source_id: kosodate-5ba8d49b
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「手当・助成・支援（子育て応援サイト）」を加工して作成
-content_sha256: a2aaeb6f1fc708c2da394b5a6a8da996eecdef07b6ddd6a54d6673991f38dfa5
-facts_sha256: a2aaeb6f1fc708c2da394b5a6a8da996eecdef07b6ddd6a54d6673991f38dfa5
+content_sha256: 3530626f54ed06c4695338a643c54f83057b1e5843607918787d6f127d975659
+facts_sha256: 3530626f54ed06c4695338a643c54f83057b1e5843607918787d6f127d975659
 ---
 
 # 子育て通信

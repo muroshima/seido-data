@@ -9,8 +9,8 @@ source_id: school-76e89e70
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「手当・助成・支援（子育て応援サイト）」を加工して作成
-content_sha256: 403edf2e5b5d526079251b964ccfa9e4e617507cc3f5e3756cb656c1dda83243
-facts_sha256: 403edf2e5b5d526079251b964ccfa9e4e617507cc3f5e3756cb656c1dda83243
+content_sha256: 6de9d47a566d8455e13bf170974c1ce61495527b84b42004bc81a26a9e26211e
+facts_sha256: 6de9d47a566d8455e13bf170974c1ce61495527b84b42004bc81a26a9e26211e
 ---
 
 # 学校の費用

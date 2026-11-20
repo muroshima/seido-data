@@ -9,8 +9,8 @@ source_id: hitorioyairyou-833a5254
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「手当・助成・支援（子育て応援サイト）」を加工して作成
-content_sha256: a58b6436eaf7ded8f2ddbca35e1882e82d1539dfa7a07c3c0bf8ed65b3064477
-facts_sha256: a58b6436eaf7ded8f2ddbca35e1882e82d1539dfa7a07c3c0bf8ed65b3064477
+content_sha256: b78365d5625cc18afc5a6cc85cd297ac311d1b35a72b12d608311360eba04ba9
+facts_sha256: b78365d5625cc18afc5a6cc85cd297ac311d1b35a72b12d608311360eba04ba9
 ---
 
 # ひとり親家庭等医療費助成【マル親】
@@ -28,6 +28,10 @@ facts_sha256: a58b6436eaf7ded8f2ddbca35e1882e82d1539dfa7a07c3c0bf8ed65b3064477
 ## 期間
 
 18歳の誕生日を迎えたあとの3月末まで（障害者20歳未満）
+
+## 利用方法
+
+医療機関で医療証提示または現金給付申請
 
 ## 問い合わせ
 

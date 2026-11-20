@@ -9,8 +9,8 @@ source_id: kosodatetokyoPP-ea33553b
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「手当・助成・支援（子育て応援サイト）」を加工して作成
-content_sha256: 4ebb4bc64533916b484a4a9e0177ebe6e06b24394000ab963f939d4952c4e707
-facts_sha256: 4ebb4bc64533916b484a4a9e0177ebe6e06b24394000ab963f939d4952c4e707
+content_sha256: 1e3b141f9eed91da78defbc0543ddb7d31372ff90d7666948f1d869f2267696e
+facts_sha256: 1e3b141f9eed91da78defbc0543ddb7d31372ff90d7666948f1d869f2267696e
 ---
 
 # 子育て応援とうきょうパスポートについて
@@ -23,11 +23,15 @@ facts_sha256: 4ebb4bc64533916b484a4a9e0177ebe6e06b24394000ab963f939d4952c4e707
 
 ## 支援内容
 
-企業や店舗が提供するサービス
+協賛店での割引や粉ミルクのお湯提供
+
+## 期間
+
+平成30年2月からアプリ配信
 
 ## 利用方法
 
-協賛店でサービス利用
+協賛店でサービス利用希望を伝える
 
 ## 問い合わせ
 

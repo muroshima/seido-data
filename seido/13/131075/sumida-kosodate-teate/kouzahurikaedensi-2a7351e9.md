@@ -9,8 +9,8 @@ source_id: kouzahurikaedensi-2a7351e9
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「手当・助成・支援（子育て応援サイト）」を加工して作成
-content_sha256: a52e0323005c78f36a4d32006b45627ac5f603ad089a0092d765ac1f707f897d
-facts_sha256: a52e0323005c78f36a4d32006b45627ac5f603ad089a0092d765ac1f707f897d
+content_sha256: 8b8fe57a85b9928db3791d1905fbb4f63b81da75eddbf814bc0e4e5340ae29f9
+facts_sha256: 8b8fe57a85b9928db3791d1905fbb4f63b81da75eddbf814bc0e4e5340ae29f9
 ---
 
 # 口座振替依頼書のオンライン提出について
@@ -27,7 +27,7 @@ facts_sha256: a52e0323005c78f36a4d32006b45627ac5f603ad089a0092d765ac1f707f897d
 
 ## 利用方法
 
-外部サイトから口座情報を入力
+オンライン申請（外部サイト）
 
 ## 問い合わせ
 

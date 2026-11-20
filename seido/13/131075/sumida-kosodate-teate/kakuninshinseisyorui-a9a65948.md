@@ -9,8 +9,8 @@ source_id: kakuninshinseisyorui-a9a65948
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「手当・助成・支援（子育て応援サイト）」を加工して作成
-content_sha256: dd057217969358609a0f2dd46b5c6287fd10b376393693abe038eafb8fe79d6a
-facts_sha256: dd057217969358609a0f2dd46b5c6287fd10b376393693abe038eafb8fe79d6a
+content_sha256: 028f0e986c3ba1d51422234fa8bd86577551d42001e7d412655fbd070e574d64
+facts_sha256: 028f0e986c3ba1d51422234fa8bd86577551d42001e7d412655fbd070e574d64
 ---
 
 # 【事業者用】確認申請書類
@@ -27,7 +27,7 @@ facts_sha256: dd057217969358609a0f2dd46b5c6287fd10b376393693abe038eafb8fe79d6a
 
 ## 期間
 
-令和元年10月から令和6年9月末日まで
+令和元年10月から5年間（令和6年9月末まで）
 
 ## 利用方法
 

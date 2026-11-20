@@ -9,8 +9,8 @@ source_id: kosodate_hajimete-fb0c7faf
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「手当・助成・支援（子育て応援サイト）」を加工して作成
-content_sha256: 85216a96ae8f24a0e52fd353104af43cef26f911433cbbb8668e0db2a7c838d9
-facts_sha256: 85216a96ae8f24a0e52fd353104af43cef26f911433cbbb8668e0db2a7c838d9
+content_sha256: a85fee8c168a3a37fde61f4de7a8aea08b854e66de65837bdb1b59882724f2f3
+facts_sha256: a85fee8c168a3a37fde61f4de7a8aea08b854e66de65837bdb1b59882724f2f3
 ---
 
 # 初めて申請する方へ【最初にこちらの動画説明をご覧ください】
@@ -31,4 +31,4 @@ facts_sha256: 85216a96ae8f24a0e52fd353104af43cef26f911433cbbb8668e0db2a7c838d9
 
 ## 問い合わせ
 
-墨田区役所 子育て支援課
+墨田区役所 子ども・子育て支援部 子育て支援課

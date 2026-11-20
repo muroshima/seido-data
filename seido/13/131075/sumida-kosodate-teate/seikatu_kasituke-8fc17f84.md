@@ -9,8 +9,8 @@ source_id: seikatu_kasituke-8fc17f84
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「手当・助成・支援（子育て応援サイト）」を加工して作成
-content_sha256: d8bbf54917b55567548fdf81d09db75b4ce596d9eb8cd074dac823e8fddacb51
-facts_sha256: d8bbf54917b55567548fdf81d09db75b4ce596d9eb8cd074dac823e8fddacb51
+content_sha256: 6c3f4f47c26f5628d3e60b7f1b26a929b17af2a534f7e80403574ae39c5c6e8c
+facts_sha256: 6c3f4f47c26f5628d3e60b7f1b26a929b17af2a534f7e80403574ae39c5c6e8c
 ---
 
 # 生活資金の貸し付け
@@ -19,20 +19,16 @@ facts_sha256: d8bbf54917b55567548fdf81d09db75b4ce596d9eb8cd074dac823e8fddacb51
 
 ## 対象者
 
-都内6か月以上住み、20歳未満の子を扶養し、自立が見込まれ、返済計画があるひとり親家庭
+所得の低い世帯、障害者世帯、介護が必要な高齢者いる世帯
 
 ## 支援内容
 
-修学資金、就学支度資金、転宅資金、生活資金など無利子または有利子で貸付
-
-## 期間
-
-申請後通常1か月以上かかる
+生業、住宅補修、療養、修学など資金支援
 
 ## 利用方法
 
-事前相談が必要
+審査あり、交付まで時間がかかる
 
 ## 問い合わせ
 
-地域福祉課ひとり親・家庭相談担当
+社会福祉法人 墨田区社会福祉協議会

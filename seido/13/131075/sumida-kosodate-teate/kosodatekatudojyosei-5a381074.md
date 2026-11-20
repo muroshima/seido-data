@@ -9,8 +9,8 @@ source_id: kosodatekatudojyosei-5a381074
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「手当・助成・支援（子育て応援サイト）」を加工して作成
-content_sha256: bc607d7a0c373a214d95ef96293ff741ac1c7700d2dd947a598a6a4b33b96cad
-facts_sha256: bc607d7a0c373a214d95ef96293ff741ac1c7700d2dd947a598a6a4b33b96cad
+content_sha256: 2ba80c743deadff3caa2acf9d85114816a973c491ec5312ac4ba8beabf07f949
+facts_sha256: 2ba80c743deadff3caa2acf9d85114816a973c491ec5312ac4ba8beabf07f949
 ---
 
 # 令和8年度子育て支援活動助成事業の助成団体を決定しました
@@ -19,19 +19,15 @@ facts_sha256: bc607d7a0c373a214d95ef96293ff741ac1c7700d2dd947a598a6a4b33b96cad
 
 ## 対象者
 
-区内で18歳未満を対象とした子育て支援活動を行う非営利団体
+区内18歳未満を対象とした非営利団体
 
 ## 支援内容
 
-活動経費の助成
+子育て支援活動の経費
 
 ## 期間
 
 令和8年度
-
-## 利用方法
-
-申請書類を提出し、審査を経て助成
 
 ## 問い合わせ
 

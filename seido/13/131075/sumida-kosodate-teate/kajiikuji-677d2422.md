@@ -9,8 +9,8 @@ source_id: kajiikuji-677d2422
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「手当・助成・支援（子育て応援サイト）」を加工して作成
-content_sha256: 5e36178decef8b5d83509cfcb7400b4cee1df313f037e9b7e67603fc0d9e79be
-facts_sha256: 5e36178decef8b5d83509cfcb7400b4cee1df313f037e9b7e67603fc0d9e79be
+content_sha256: 60a00660f0077ca6fe79b14987b45a7acea4239176e994f4b2bcf7aede511318
+facts_sha256: 60a00660f0077ca6fe79b14987b45a7acea4239176e994f4b2bcf7aede511318
 ---
 
 # 家事・育児サポーター事業
@@ -19,7 +19,7 @@ facts_sha256: 5e36178decef8b5d83509cfcb7400b4cee1df313f037e9b7e67603fc0d9e79be
 
 ## 対象者
 
-墨田区に住所あり、妊娠中または0〜2歳のお子さんを育てる家庭
+墨田区に住所があり、妊娠中の方または0歳から2歳までのお子さんを育てる家庭
 
 ## 支援内容
 
@@ -27,11 +27,11 @@ facts_sha256: 5e36178decef8b5d83509cfcb7400b4cee1df313f037e9b7e67603fc0d9e79be
 
 ## 期間
 
-妊娠期〜3歳まで
+妊娠期～3歳まで
 
 ## 利用方法
 
-墨田区に登録し、利用券をサポーター事業者へ提示
+墨田区に登録し、利用券をサポーター派遣事業者へ提示
 
 ## 問い合わせ
 

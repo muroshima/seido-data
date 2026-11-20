@@ -1,0 +1,18 @@
+---
+title: 心身障害者扶養共済制度
+lg_code: '112151'
+lg_name: 狭山市
+support: null
+url: https://www.city.sayama.saitama.jp/fukushi/shogai/joseikyufu/shyougaishyateate/2020fuyoukyousai.html
+source: sayama-shogai-josei
+source_id: 2020fuyoukyousai-eb9805af
+source_updated: null
+license: 無断で複製・転用不可（CC表記のあるデータのみ二次利用可）
+attribution: 狭山市「狭山市 障害のある方への助成・給付制度」を加工して作成
+content_sha256: f83f8bc5e75a0ad26adabf2acee22b1c4fe3a8886dfbae5d09abd42ffdcd736d
+facts_sha256: null
+---
+
+# 心身障害者扶養共済制度
+
+取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。

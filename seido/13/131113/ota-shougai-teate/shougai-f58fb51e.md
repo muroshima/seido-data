@@ -9,8 +9,8 @@ source_id: shougai-f58fb51e
 source_updated: null
 license: オープンデータを除き無断使用・転載・二次利用不可
 attribution: 大田区「手当・年金（障がい者）」を加工して作成
-content_sha256: fb5f9065702ed7d1a4184074b1e8603e5ae577c17507643a93ba7b73ff51953c
-facts_sha256: fb5f9065702ed7d1a4184074b1e8603e5ae577c17507643a93ba7b73ff51953c
+content_sha256: ede49681fa66ac09e1bfe3b064ac0f08bdb62602848b206267aeea89abc0a362
+facts_sha256: ede49681fa66ac09e1bfe3b064ac0f08bdb62602848b206267aeea89abc0a362
 ---
 
 # 児童育成手当（障害手当）
@@ -19,7 +19,7 @@ facts_sha256: fb5f9065702ed7d1a4184074b1e8603e5ae577c17507643a93ba7b73ff51953c
 
 ## 対象者
 
-区内に住所あり、20歳未満の心身に障害のある児童を扶養し、所得が限度額未満の者
+区内に住所あり、20歳未満の心身に障害のある児童を扶養している方
 
 ## 支援内容
 
@@ -27,11 +27,11 @@ facts_sha256: fb5f9065702ed7d1a4184074b1e8603e5ae577c17507643a93ba7b73ff51953c
 
 ## 期間
 
-申請月の翌月から支給、3期に分けて振り込まれる
+申請月の翌月から支給
 
 ## 利用方法
 
-申請者本人が手続きを行う
+申請手続きが必要
 
 ## 問い合わせ
 

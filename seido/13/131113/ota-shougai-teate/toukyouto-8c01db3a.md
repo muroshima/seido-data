@@ -9,8 +9,8 @@ source_id: toukyouto-8c01db3a
 source_updated: null
 license: オープンデータを除き無断使用・転載・二次利用不可
 attribution: 大田区「手当・年金（障がい者）」を加工して作成
-content_sha256: 388cb7b37931def3398435b59b5ebc6dc0d6aaa7784f4f07495e197d6a6970e6
-facts_sha256: 388cb7b37931def3398435b59b5ebc6dc0d6aaa7784f4f07495e197d6a6970e6
+content_sha256: b6966846faf214b76ee331251faa14fc268783f99d674b4023baabb6dee99867
+facts_sha256: b6966846faf214b76ee331251faa14fc268783f99d674b4023baabb6dee99867
 ---
 
 # 東京都重度心身障害者手当（都制度）
@@ -27,12 +27,12 @@ facts_sha256: 388cb7b37931def3398435b59b5ebc6dc0d6aaa7784f4f07495e197d6a6970e6
 
 ## 期間
 
-申請日から毎月20日ごろ、銀行口座に振り込まれる。
+申請日から毎月20日ごろ、本人口座に振り込まれる。
 
 ## 利用方法
 
-本人口座に振り込まれる。
+都心身障害者福祉センターで障がい判定を行う。
 
 ## 問い合わせ
 
-東京都福祉局 障害福祉課 電話03-5744-1251。
+東京都福祉局 障害福祉課 電話03-5744-1251

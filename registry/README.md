@@ -51,5 +51,15 @@
 
 ```sh
 uv run seido registry check      # 検証（CI でも走る）
-uv run seido registry coverage   # COVERAGE.md を作り直す
+uv run seido registry coverage   # COVERAGE.md と coverage-map.svg を作り直す
 ```
+
+## 地図（coverage-map.svg）
+
+取込中の取得元がある市区町村を赤で塗った地図です。README の冒頭に出しています。境界は国土交通省「[国土数値情報（行政区域データ）](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-2024.html)」（2024 年 1 月 1 日時点、CC BY 4.0）を簡略化した `boundaries.json` から描きます。境界を作り直すときだけネットワークが要ります。
+
+```sh
+uv run seido registry boundaries --cache /tmp/n03   # 47 都道府県の zip（約 800 MB）を取って作り直す
+```
+
+関西など新しい地域に広げるときは、`builder/map.py` の `PANELS` に拡大図を足してから境界を作り直します。

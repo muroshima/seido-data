@@ -8,6 +8,7 @@ index:    seido/ の制度ファイルから一覧（seido/index.csv）を作り
 """
 
 import argparse
+import json
 import os
 import subprocess
 import sys
@@ -15,6 +16,7 @@ import traceback
 from pathlib import Path
 
 from . import BUILDER_VERSION, extract, registry
+from . import map as map_
 from .model import SourceInfo
 from .sources import Fetched, loader_for, source_info, stopped_at
 from .store import Stats, write_index, write_units
@@ -27,7 +29,11 @@ def main(argv: list[str] | None = None) -> int:
     reg = sub.add_parser("registry", help="対応表（registry/）を扱う")
     reg_sub = reg.add_subparsers(dest="action", required=True)
     reg_sub.add_parser("check", help="entities.csv と sources.csv を検証する")
-    reg_sub.add_parser("coverage", help="registry/COVERAGE.md を書き出す")
+    reg_sub.add_parser("coverage", help="registry/COVERAGE.md と coverage-map.svg を書き出す")
+    bnd = reg_sub.add_parser(
+        "boundaries", help="国土数値情報から地図の境界（registry/boundaries.json）を作り直す"
+    )
+    bnd.add_argument("--cache", type=Path, required=True, help="zip を置くディレクトリ")
     ent = reg_sub.add_parser("entities", help="総務省と Wikidata から entities.csv を更新する")
     ent.add_argument("--pref", action="append", default=[], help="都道府県コード 2 桁（複数可）")
     ent.add_argument("--gov", action="store_true", help="国の府省庁も入れる")
@@ -55,6 +61,13 @@ def main(argv: list[str] | None = None) -> int:
 
 def registry_command(args: argparse.Namespace) -> int:
     root: Path = args.root
+    if args.action == "boundaries":
+        data = map_.build_boundaries(args.cache)
+        (root / "registry" / "boundaries.json").write_text(
+            json.dumps(data, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8"
+        )
+        print({k: len(v) for k, v in data["layers"].items()})
+        return 0
     if args.action == "entities":
         path = root / "registry" / "entities.csv"
         existing = registry.read(path, registry.ENTITY_FIELDS) if path.exists() else []
@@ -74,8 +87,17 @@ def registry_command(args: argparse.Namespace) -> int:
         (root / "registry" / "COVERAGE.md").write_text(
             registry.coverage(entities, sources), encoding="utf-8"
         )
+        (root / "registry" / "coverage-map.svg").write_text(
+            coverage_map(root, entities, sources), encoding="utf-8"
+        )
     print(f"entities {len(entities)} 件 / sources {len(sources)} 件")
     return 0
+
+
+def coverage_map(root: Path, entities: list[dict], sources: list[dict]) -> str:
+    boundaries = json.loads((root / "registry" / "boundaries.json").read_text(encoding="utf-8"))
+    codes, names = map_.covered_names(entities, sources, registry.expand)
+    return map_.render(boundaries, codes, names)
 
 
 def update(

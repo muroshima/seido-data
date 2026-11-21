@@ -17,6 +17,8 @@ TIMEOUT = 120
 _last_request: dict[str, float] = {}
 _host_locks: dict[str, threading.Lock] = {}
 _guard = threading.Lock()
+# 時間切れで取り込みを打ち切るときに立てる。立っていたら次のリクエストを送らない
+STOP = threading.Event()
 
 
 def _lock(host: str) -> threading.Lock:
@@ -30,6 +32,8 @@ def get(url: str, params: dict[str, str] | None = None, retries: int = 3) -> byt
     host = urllib.parse.urlsplit(url).netloc
     with _lock(host):
         for attempt in range(retries):
+            if STOP.is_set():
+                raise TimeoutError("時間切れで取り込みを打ち切った")
             wait = _last_request.get(host, 0) + MIN_INTERVAL - time.monotonic()
             if wait > 0:
                 time.sleep(wait)

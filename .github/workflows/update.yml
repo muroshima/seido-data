@@ -44,6 +44,8 @@ jobs:
           SEIDO_GPU_LOCK_WAIT: "3600"
           # 抽出は始めてから 180 分まで。残りは次の実行に回し、240 分の上限内で push まで終える
           SEIDO_EXTRACT_BUDGET: "10800"
+          # 始めてから 210 分で、まだ取れていない取得元は次の実行に回す
+          SEIDO_RUN_BUDGET: "12600"
         run: |
           if [ -n "$SOURCE_IDS" ]; then
             # shellcheck disable=SC2086 # 空白区切りを引数に分けたい

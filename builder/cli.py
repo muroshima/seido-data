@@ -14,16 +14,20 @@ import subprocess
 import sys
 import time
 import traceback
+import urllib.parse
 from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import TimeoutError as FuturesTimeout
 from pathlib import Path
 
-from . import BUILDER_VERSION, extract, registry
+from . import BUILDER_VERSION, extract, http, registry
 from . import map as map_
 from .model import SourceInfo
 from .sources import Fetched, loader_for, source_info, stopped_at
 from .store import Stats, write_index, write_units
 
-FETCH_WORKERS = 8  # 同時に取りに行く取得元の数
+FETCH_WORKERS = 16  # 同時に取りに行く取得元の数
+# 実行を始めてからこの秒数を過ぎたら、まだ取れていない取得元は次の実行に回す（push まで終えるため）
+RUN_BUDGET = int(os.environ.get("SEIDO_RUN_BUDGET") or 0) or None
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -126,17 +130,30 @@ def update(
     names = {e["id"].removeprefix("lg:"): e["name"] for e in entities if e["lg_code"]}
     failed = []
     gpu_busy = False
+    started = time.monotonic()
     budget = extract.EXTRACT_BUDGET
-    deadline = time.monotonic() + budget if budget else None
+    deadline = started + budget if budget else None
     # 取得（巡回）だけを並列にする。同じホストへは http が 1 本ずつに絞る。
     # 抽出（GPU）・書き出し・コミットは、取得元の順に 1 つずつ行う
+    # 対応表は同じ団体の取得元が続けて並ぶので、そのまま投げると同時に動く取得元が同じホストを
+    # 待ち合う。ホストごとに 1 つずつ順に投げて、同時に動く取得元のホストを散らす
     pool = ThreadPoolExecutor(FETCH_WORKERS)
-    futures = {sid: pool.submit(loader_for(by_id[sid]).fetch, by_id[sid]) for sid in source_ids}
+    run_deadline = started + RUN_BUDGET if RUN_BUDGET else None
+    futures = {
+        sid: pool.submit(loader_for(by_id[sid]).fetch, by_id[sid])
+        for sid in by_host_round_robin(source_ids, by_id)
+    }
+    skipped = []
     for sid in source_ids:
         row = by_id[sid]
         info = source_info(row, entities)
         try:
-            fetched: Fetched = futures[sid].result()
+            wait = None if run_deadline is None else max(0.0, run_deadline - time.monotonic())
+            try:
+                fetched: Fetched = futures[sid].result(timeout=wait)
+            except FuturesTimeout:
+                skipped.append(sid)
+                continue
             # 更新が止まった取得元は、止まった時点の内容としてコミットする
             fetched.observed = stopped_at(row) or fetched.observed
             outside = {f"lg:{lg}" for lg in fetched.units} - registry.expand(
@@ -178,9 +195,29 @@ def update(
         print(f"{sid}: 自治体 {len(fetched.units)} / {summary or '変化なし'}")
         if do_commit and not (raw_stats.empty and seido_stats.empty):
             commit(root, info, fetched, summary)
-    pool.shutdown()
+    if skipped:
+        # 取りかけの取得元は http が次のリクエストで止める。まだ始まっていないものは取り消す
+        http.STOP.set()
+        print(
+            f"時間切れで次の実行に回した取得元: {len(skipped)} 件 {skipped[:10]}", file=sys.stderr
+        )
+    pool.shutdown(cancel_futures=True)
     # 取れた分はコミットしたうえで、失敗した取得元があればジョブを失敗させて気付けるようにする
     return 2 if failed else 0
+
+
+def by_host_round_robin(source_ids: list[str], by_id: dict) -> list[str]:
+    """取得元を、ホストごとに 1 つずつ順に並べ直す（同じホストの取得元が続かないように）。"""
+    queues: dict[str, list[str]] = {}
+    for sid in source_ids:
+        queues.setdefault(urllib.parse.urlsplit(by_id[sid]["url"]).netloc, []).append(sid)
+    order = []
+    while queues:
+        for host in list(queues):
+            order.append(queues[host].pop(0))
+            if not queues[host]:
+                del queues[host]
+    return order
 
 
 def daily_sources(sources: list[dict[str, str]]) -> list[str]:

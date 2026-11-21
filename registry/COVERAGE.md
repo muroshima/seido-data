@@ -10,8 +10,8 @@
 | 区分 | 団体数 | ○ | ◐ | △ | − |
 |---|---:|---:|---:|---:|---:|
 | 国 | 26 | 0 | 2 | 24 | 0 |
-| 都道府県 | 13 | 4 | 3 | 6 | 0 |
-| 市区町村 | 514 | 61 | 252 | 201 | 0 |
+| 都道府県 | 13 | 4 | 8 | 1 | 0 |
+| 市区町村 | 514 | 90 | 416 | 8 | 0 |
 
 ## 団体別
 
@@ -50,12 +50,12 @@
 | 千葉県 | 都道府県 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `chiba-pref-jigyosha-josei`（事業者・取込中）, `chiba-pref-shogai-shien`（障害・取込中） |
 | 東京都 | 都道府県 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tokyo-kosodate-registry`（子育て（0-6歳）・取込中）, `tokyo-kosodate-registry-7-18`（子育て（7-18歳）・調査中）, `tokyo-hojokin-search`（都の補助金・取込予定）, `tokyo-shien-navi`（全般・取込予定） |
 | 神奈川県 | 都道府県 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kanagawa-pref-kankyo-hojo`（環境・取込中）, `kanagawa-pref-jigyosha-hojo`（事業者・取込予定） |
-| 滋賀県 | 都道府県 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 京都府 | 都道府県 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 大阪府 | 都道府県 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 兵庫県 | 都道府県 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 奈良県 | 都道府県 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 和歌山県 | 都道府県 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
+| 滋賀県 | 都道府県 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `shiga-pref-jigyosha-hojo`（事業者・取込中）, `shiga-pref-hitorioya-shien`（子育て・取込中）, `shiga-pref-fukushi-iryo`（健康・福祉・取込中） |
+| 京都府 | 都道府県 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kyoto-pref-navi-hojo`（全般・要利用申請） |
+| 大阪府 | 都道府県 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `osaka-pref-kosodate-teate`（子育て・取込中）, `osaka-pref-hitorioya-shien`（子育て・取込中）, `osaka-pref-jigyosha-shienkin`（事業者・取込中） |
+| 兵庫県 | 都道府県 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `hyogo-pref-kenko-fukushi-hojo`（健康・福祉・取込中）, `hyogo-pref-kosodate-hojo`（子育て・取込中）, `hyogo-pref-jigyosha-hojo`（事業者・取込中）, `hyogo-pref-kurashi-kankyo-hojo`（環境・取込中） |
+| 奈良県 | 都道府県 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `nara-pref-kodomo-teate`（子育て・取込中）, `nara-pref-hitorioya-shien`（子育て・取込中）, `nara-pref-fukushi-iryo`（健康・福祉・取込中）, `nara-pref-shogai-josei`（障害・取込中）, `nara-pref-jigyosha-digital`（事業者・取込中） |
+| 和歌山県 | 都道府県 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `wakayama-pref-hitorioya`（子育て・取込中） |
 | 水戸市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `mito-kosodate-teate`（子育て・取込予定）, `mito-shogai-teate`（障害・取込中）, `mito-koreisha-fukushi`（高齢者・取込中） |
 | 日立市 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `hitachi-hojokin-kojin`（全般・取込中）, `hitachi-hojokin-jigyosha`（事業者・取込中）, `hitachi-kosodate-josei`（子育て・取込中） |
 | 土浦市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tsuchiura-kosodate-teate`（子育て・取込中）, `tsuchiura-shogai-josei`（障害・取込中）, `tsuchiura-koreisha-kyufu`（高齢者・取込中）, `tsuchiura-jigyosha-shien`（事業者・取込中） |
@@ -372,201 +372,201 @@
 | 湯河原町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `yugawara-kosodate-shien`（子育て・取込中）, `yugawara-hitorioya`（子育て・取込中） |
 | 愛川町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `aikawa-kosodate-teate`（子育て・取込中）, `aikawa-iryohi-josei`（健康・福祉・取込中）, `aikawa-shogai`（障害・取込中） |
 | 清川村 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kiyokawa-kosodate-teate`（子育て・取込中）, `kiyokawa-sumai-hojo`（住まい・取込中）, `kiyokawa-shogai`（障害・取込中） |
-| 大津市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 彦根市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 長浜市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 近江八幡市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 草津市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 守山市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 栗東市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 甲賀市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 野洲市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 湖南市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 高島市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 東近江市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 米原市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 日野町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 竜王町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 愛荘町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 豊郷町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 甲良町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 多賀町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 京都市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 福知山市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 舞鶴市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 綾部市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 宇治市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 宮津市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 亀岡市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 城陽市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 向日市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 長岡京市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 八幡市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 京田辺市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 京丹後市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 南丹市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 木津川市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 大山崎町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 久御山町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 井手町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 宇治田原町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 笠置町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 和束町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 精華町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 南山城村 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 京丹波町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 伊根町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 与謝野町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 大阪市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 堺市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 岸和田市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 豊中市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 池田市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 吹田市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 泉大津市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 高槻市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 貝塚市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 守口市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 枚方市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 茨木市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 八尾市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 泉佐野市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 富田林市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 寝屋川市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 河内長野市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 松原市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 大東市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 和泉市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 箕面市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 柏原市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 羽曳野市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 門真市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 摂津市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 高石市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 藤井寺市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 東大阪市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 泉南市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 四條畷市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 交野市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 大阪狭山市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 阪南市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 島本町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 豊能町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 能勢町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 忠岡町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 熊取町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 田尻町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 岬町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 太子町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 河南町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 千早赤阪村 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 神戸市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 姫路市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 尼崎市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 明石市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 西宮市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 洲本市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 芦屋市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 伊丹市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 相生市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 豊岡市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 加古川市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 赤穂市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 西脇市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 宝塚市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 三木市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 高砂市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 川西市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 小野市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 三田市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 加西市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 丹波篠山市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 養父市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 丹波市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 南あわじ市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 朝来市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 淡路市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 宍粟市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 加東市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| たつの市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 猪名川町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 多可町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 稲美町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 播磨町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 市川町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 福崎町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 神河町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 太子町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 上郡町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 佐用町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 香美町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 新温泉町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 奈良市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 大和高田市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 大和郡山市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 天理市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 橿原市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 桜井市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 五條市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 御所市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 生駒市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 香芝市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 葛城市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 宇陀市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 山添村 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 平群町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 三郷町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 斑鳩町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 安堵町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 川西町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 三宅町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 田原本町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 曽爾村 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 御杖村 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 高取町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 明日香村 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 上牧町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 王寺町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 広陵町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 河合町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 吉野町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 大淀町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 下市町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 黒滝村 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 天川村 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 野迫川村 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
+| 大津市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `otsu-kosodate-teate`（子育て・取込中）, `otsu-shogai-teate`（障害・取込中）, `otsu-jigyosha-hojo`（事業者・取込中）, `otsu-machi-hojo`（住まい・取込中） |
+| 彦根市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `hikone-kosodate-teate`（子育て・取込中）, `hikone-fukushi-teate`（健康・福祉・取込中）, `hikone-kurashi-teate`（住まい・取込中）, `hikone-jigyosha-shisaku`（事業者・取込中） |
+| 長浜市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `nagahama-kosodate-teate`（子育て・取込中）, `nagahama-shogai-teate`（障害・取込中）, `nagahama-korei-shien`（高齢者・取込中）, `nagahama-jigyosha-hojo`（事業者・取込中） |
+| 近江八幡市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `omihachiman-kosodate-support`（子育て・取込中）, `omihachiman-korei-service`（高齢者・取込中）, `omihachiman-jigyosha-shien`（事業者・取込中） |
+| 草津市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `shiga-kusatsu-kosodate-teate`（子育て・取込中）, `shiga-kusatsu-shogai-seido`（障害・取込中）, `shiga-kusatsu-korei-service`（高齢者・取込中）, `shiga-kusatsu-fukushi-iryo`（健康・福祉・取込中）, `shiga-kusatsu-jigyosha-hojo`（事業者・取込中） |
+| 守山市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `moriyama-kosodate-shien`（子育て・取込中）, `moriyama-korei-service`（高齢者・取込中）, `moriyama-jigyosha-hojo`（事業者・取込中） |
+| 栗東市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `ritto-kosodate-teate`（子育て・取込中）, `ritto-shogai-fukushi`（障害・取込中）, `ritto-jigyosha-shoko`（事業者・取込予定） |
+| 甲賀市 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `koka-hojokin-ichiran`（全般・取込予定） |
+| 野洲市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `yasu-kosodate-shien`（子育て・取込中）, `yasu-shogai-support`（障害・取込中）, `yasu-korei-support`（高齢者・取込中）, `yasu-jigyosha-shien`（事業者・取込中） |
+| 湖南市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `shiga-konan-kosodate-teate`（子育て・取込中）, `shiga-konan-shogai-josei`（障害・取込中）, `shiga-konan-fukushi-iryo`（健康・福祉・取込中）, `shiga-konan-korei-fukushi`（高齢者・取込中）, `shiga-konan-jigyosha-shien`（事業者・取込中） |
+| 高島市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `takashima-kosodate`（子育て・取込予定）, `takashima-shogai-service`（障害・取込中）, `takashima-korei-service`（高齢者・取込中）, `takashima-jigyosha-josei`（事業者・取込中） |
+| 東近江市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `higashiomi-hitorioya-shien`（子育て・取込中）, `higashiomi-shogai-fukushi`（障害・取込予定）, `higashiomi-korei-fukushi`（高齢者・取込中）, `higashiomi-jigyosha-hojo`（事業者・取込中） |
+| 米原市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `maibara-kosodate-teate`（子育て・取込中）, `maibara-shogai-okane`（障害・取込中）, `maibara-korei-service`（高齢者・取込中）, `maibara-jigyosha-shoko-hojo`（事業者・取込中） |
+| 日野町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `shiga-hino-kosodate-teate`（子育て・取込中）, `shiga-hino-korei-shien`（高齢者・取込中）, `shiga-hino-jigyosha-shien`（事業者・取込中） |
+| 竜王町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `ryuo-fukushi`（障害・取込中）, `ryuo-korei-kaigo`（高齢者・取込中）, `ryuo-sumai`（住まい・取込予定） |
+| 愛荘町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `aisho-kosodate`（子育て・取込中）, `aisho-korei-kaigo`（高齢者・取込中） |
+| 豊郷町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `toyosato-kosodate-shien`（子育て・取込中）, `toyosato-fukushi`（健康・福祉・取込中） |
+| 甲良町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kora-kosodate`（子育て・取込予定） |
+| 多賀町 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `taga-josei-hojokin`（全般・取込中）, `taga-fukushi-kaigo`（健康・福祉・取込予定） |
+| 京都市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kyoto-shi-kosodate-index`（子育て・取込中）, `kyoto-shi-shogai-shiori`（障害・取込中）, `kyoto-shi-sumai-hojo`（住まい・取込中） |
+| 福知山市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `fukuchiyama-kosodate-umaretara`（子育て・取込予定）, `fukuchiyama-shogai-fukushi`（障害・取込中）, `fukuchiyama-korei-fukushi`（高齢者・取込中）, `fukuchiyama-jigyosha-shien`（事業者・取込中） |
+| 舞鶴市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `maizuru-kosodate-teate`（子育て・取込中）, `maizuru-korei-shien`（高齢者・取込中）, `maizuru-jigyosha-shien`（事業者・取込中） |
+| 綾部市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `ayabe-kosodate-teate`（子育て・取込中）, `ayabe-shogai-fukushi`（障害・取込中）, `ayabe-korei-fukushi`（高齢者・取込中）, `ayabe-sumai-teiju`（住まい・取込中） |
+| 宇治市 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `uji-kosodate-teate-josei`（子育て・取込中）, `uji-kosodate-josei-shien`（子育て・取込中）, `uji-shogai-fukushi`（障害・取込予定）, `uji-josei-shien`（全般・取込中） |
+| 宮津市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `miyazu-kosodate-josei`（子育て・取込中）, `miyazu-kosodate-teate`（子育て・取込中）, `miyazu-shogai-fukushi`（障害・取込中）, `miyazu-jigyosha-shien`（事業者・取込中） |
+| 亀岡市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kameoka-korei-fukushi`（高齢者・取込中）, `kameoka-shogai-fukushi`（障害・取込予定）, `kameoka-jigyosha-shien`（事業者・取込中） |
+| 城陽市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `joyo-korei-fukushi`（高齢者・取込中）, `joyo-shogai-fukushi`（障害・取込中）, `joyo-jigyosha-hojo`（事業者・取込中） |
+| 向日市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `muko-korei-fukushi`（高齢者・取込中）, `muko-shogai-fukushi`（障害・取込予定）, `muko-kosodate-shien`（子育て・取込中）, `muko-jigyosha-shokogyo`（事業者・取込中） |
+| 長岡京市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `nagaokakyo-kosodate-teate`（子育て・取込中）, `nagaokakyo-iryohi-josei`（健康・福祉・取込中）, `nagaokakyo-korei-jigyo`（高齢者・取込予定）, `nagaokakyo-jigyosha-shokogyo`（事業者・取込予定） |
+| 八幡市 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `yawata-kosodate-teate`（子育て・取込中）, `yawata-shogai-shien`（障害・取込中）, `yawata-korei-chiiki-shien`（高齢者・取込中）, `yawata-kyufukin`（全般・取込中）, `yawata-fukushi-iryo`（健康・福祉・取込中） |
+| 京田辺市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kyotanabe-hojokin-kosodate`（子育て・取込中）, `kyotanabe-hojokin-shogai`（障害・取込中）, `kyotanabe-hojokin-korei`（高齢者・取込中）, `kyotanabe-hojokin-kurashi`（住まい・取込中）, `kyotanabe-hojokin-jigyosha`（事業者・取込中） |
+| 京丹後市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kyotango-kosodate-hojo`（子育て・取込中）, `kyotango-iryo-hojo`（健康・福祉・取込中）, `kyotango-shogai-fukushi`（障害・取込中）, `kyotango-korei-fukushi`（高齢者・取込中）, `kyotango-jigyosha-shogyo-hojo`（事業者・取込中） |
+| 南丹市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `nantan-jido-fukushi`（子育て・取込中）, `nantan-fukushi-iryo`（健康・福祉・取込中）, `nantan-shogai-fukushi`（障害・取込予定）, `nantan-korei-fukushi`（高齢者・取込中） |
+| 木津川市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kizugawa-kosodate-teate`（子育て・取込中）, `kizugawa-shogai-fukushi`（障害・取込中）, `kizugawa-korei-fukushi-jigyo`（高齢者・取込中） |
+| 大山崎町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `oyamazaki-kosodate`（子育て・取込中） |
+| 久御山町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kumiyama-jido-fukushi`（子育て・取込中）, `kumiyama-korei-fukushi`（高齢者・取込中）, `kumiyama-shogai-fukushi`（障害・取込中） |
+| 井手町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `ide-kosodate`（子育て・取込中）, `ide-ninshin-shussan`（子育て・取込予定） |
+| 宇治田原町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `ujitawara-kosodate-shien`（子育て・取込中）, `ujitawara-fukushi-kaigo`（健康・福祉・取込中） |
+| 笠置町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kasagi-fukushi-kosodate`（健康・福祉・取込中） |
+| 和束町 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `wazuka-hojokin`（全般・取込中） |
+| 精華町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `seika-kodomo-teate`（子育て・取込中）, `seika-iryohi-josei`（健康・福祉・取込中） |
+| 南山城村 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `minamiyamashiro-kosodate`（子育て・取込中） |
+| 京丹波町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kyotamba-korei-support`（高齢者・取込中）, `kyotamba-kosodate`（子育て・取込予定） |
+| 伊根町 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `ine-sapoto-josei`（全般・取込中） |
+| 与謝野町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `yosano-kosodate-josei-shien`（子育て・取込中）, `yosano-shogai-fukushi`（障害・取込予定）, `yosano-jigyosha-hojo`（事業者・取込中） |
+| 大阪市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `osaka-city-kosodate-kinsen`（子育て・取込中）, `osaka-city-hitorioya-kinsen`（子育て・取込中）, `osaka-city-shogai-teate`（障害・取込中）, `osaka-city-sumai-hojo`（住まい・取込中）, `osaka-city-jigyosha-shien`（事業者・取込中） |
+| 堺市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `sakai-hitorioya-shien`（子育て・取込中）, `sakai-koreisha-seikatsu`（高齢者・取込中）, `sakai-sumai-otoku`（住まい・取込中） |
+| 岸和田市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kishiwada-kosodate-teate`（子育て・取込中）, `kishiwada-koreisha`（高齢者・取込予定）, `kishiwada-shogai`（障害・取込中）, `kishiwada-jigyosha-shien`（事業者・取込中）, `kishiwada-sumai-hojo`（住まい・取込中） |
+| 豊中市 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `toyonaka-kosodate-teate`（子育て・取込中）, `toyonaka-shogai-teate`（障害・取込予定）, `toyonaka-koreisha-shien`（高齢者・取込中）, `toyonaka-jigyosha-hojo`（事業者・取込中）, `toyonaka-teate-josei`（全般・取込中） |
+| 池田市 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `ikeda-hojokin`（全般・取込中）, `ikeda-kosodate-teate`（子育て・取込中）, `ikeda-shogai-josei`（障害・取込中）, `ikeda-koreisha`（高齢者・取込中） |
+| 吹田市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `suita-kosodate-teate`（子育て・取込中）, `suita-koreisha-kyufu`（高齢者・取込中）, `suita-shogai-teate`（障害・取込中）, `suita-shogai-josei`（障害・取込中）, `suita-jigyosha-hojo`（事業者・取込中） |
+| 泉大津市 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `izumiotsu-shimin-hojo`（全般・取込中）, `izumiotsu-jigyosha-hojo`（事業者・取込中）, `izumiotsu-shogai`（障害・取込中） |
+| 高槻市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `takatsuki-kurashi-hojo`（住まい・取込中）, `takatsuki-fukushi-hojo`（障害・取込中）, `takatsuki-iryo-hojo`（健康・福祉・取込中）, `takatsuki-jigyosha-shoreikin`（事業者・取込中） |
+| 貝塚市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kaizuka-kosodate-jido`（子育て・取込中）, `kaizuka-hitorioya`（子育て・取込中）, `kaizuka-shogai-teate`（障害・取込中）, `kaizuka-koreisha-fukushi`（高齢者・取込中） |
+| 守口市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `moriguchi-kosodate-teate`（子育て・取込中）, `moriguchi-hitorioya`（子育て・取込中）, `moriguchi-shogai`（障害・取込中）, `moriguchi-koreisha-seikatsu`（高齢者・取込中）, `moriguchi-jigyosha-shien`（事業者・取込中） |
+| 枚方市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `hirakata-kosodate-teate`（子育て・取込中）, `hirakata-hitorioya`（子育て・取込中）, `hirakata-shogai`（障害・取込中）, `hirakata-jigyosha-shien`（事業者・取込中）, `hirakata-sumai-josei`（住まい・取込中） |
+| 茨木市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `ibarakishi-kosodate-hojo`（子育て・取込中）, `ibarakishi-fukushi-hojo`（健康・福祉・取込中）, `ibarakishi-kurashi-hojo`（住まい・取込中）, `ibarakishi-jigyosha-hojo`（事業者・取込中） |
+| 八尾市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `yao-kosodate-teate`（子育て・取込中）, `yao-shogai-teate`（障害・取込中）, `yao-jigyosha-hojo`（事業者・取込中） |
+| 泉佐野市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `izumisano-kosodate-teate`（子育て・取込中）, `izumisano-shogai`（障害・取込中）, `izumisano-koreisha`（高齢者・取込中） |
+| 富田林市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tondabayashi-kosodate-teate`（子育て・取込中）, `tondabayashi-hitorioya`（子育て・取込中）, `tondabayashi-iryo-josei`（健康・福祉・取込中）, `tondabayashi-shogai`（障害・取込中）, `tondabayashi-jigyosha`（事業者・取込中） |
+| 寝屋川市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `neyagawa-kosodate-teate`（子育て・取込予定）, `neyagawa-iryohi-josei`（健康・福祉・取込中）, `neyagawa-shogai-kyufu`（障害・取込中）, `neyagawa-koreisha-sonota`（高齢者・取込中） |
+| 河内長野市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kawachinagano-hitorioya`（子育て・取込中）, `kawachinagano-koreisha`（高齢者・取込中）, `kawachinagano-shogai`（障害・取込中）, `kawachinagano-sumai-hojo`（住まい・取込中）, `kawachinagano-jigyosha`（事業者・取込中） |
+| 松原市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `matsubara-jigyosha-hojo`（事業者・取込予定）, `matsubara-kosodate-josei`（子育て・取込中）, `matsubara-shogai`（障害・取込中）, `matsubara-koreisha`（高齢者・取込中） |
+| 大東市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `daito-kosodate-kyufu`（子育て・取込中）, `daito-shogai`（障害・取込中） |
+| 和泉市 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `izumi-teate-josei`（全般・取込中） |
+| 箕面市 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `minoh-ods-shien`（全般・取込中）, `minoh-josei-teate`（全般・取込中）, `minoh-kosodate-teate`（子育て・取込中） |
+| 柏原市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kashiwara-kosodate-teate`（子育て・取込中）, `kashiwara-shogai-fukushi`（障害・取込予定）, `kashiwara-korei-kaigo`（高齢者・取込予定） |
+| 羽曳野市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `habikino-kosodate-teate`（子育て・取込中）, `habikino-shogai-service`（障害・取込中） |
+| 門真市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kadoma-kosodate-teate`（子育て・取込中）, `kadoma-shogai-teate`（障害・取込中）, `kadoma-korei-service`（高齢者・取込中）, `kadoma-jigyosha-chusho`（事業者・取込中） |
+| 摂津市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `settsu-kosodate-teate`（子育て・取込中）, `settsu-shogai-seido`（障害・取込中）, `settsu-korei-josei`（高齢者・取込中）, `settsu-jigyosha-hojo`（事業者・取込中） |
+| 高石市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `takaishi-kosodate`（子育て・取込中）, `takaishi-korei-fukushi`（高齢者・取込中）, `takaishi-shogai-fukushi`（障害・取込中） |
+| 藤井寺市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `fujiidera-iryohi-josei`（健康・福祉・取込中）, `fujiidera-kosodate-shien`（子育て・取込中）, `fujiidera-shogai-fukushi`（障害・取込中）, `fujiidera-korei-fukushi`（高齢者・取込中） |
+| 東大阪市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `higashiosaka-kosodate-teate`（子育て・取込中）, `higashiosaka-shogai-teate`（障害・取込中）, `higashiosaka-korei-jiritsu`（高齢者・取込中）, `higashiosaka-jigyosha-hojo`（事業者・取込中） |
+| 泉南市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `sennan-kosodate-teate`（子育て・取込中）, `sennan-shogai-fukushi`（障害・取込中）, `sennan-korei-service`（高齢者・取込中）, `sennan-jigyosha-shien`（事業者・取込中） |
+| 四條畷市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `shijonawate-kosodate-teate`（子育て・取込中）, `shijonawate-shogai-teate`（障害・取込中）, `shijonawate-korei-shien`（高齢者・取込予定） |
+| 交野市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `katano-kosodate-josei`（子育て・取込中）, `katano-jigyosha-sangyo`（事業者・取込予定） |
+| 大阪狭山市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `osakasayama-kosodate-shien`（子育て・取込中）, `osakasayama-shogai-fukushi`（障害・取込中）, `osakasayama-korei-support`（高齢者・取込中）, `osakasayama-jigyosha-shien`（事業者・取込中） |
+| 阪南市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `hannan-kosodate-nyuyouji`（子育て・取込中）, `hannan-shogai-service`（障害・取込中）, `hannan-jigyosha-sogyo`（事業者・取込予定） |
+| 島本町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `shimamoto-kosodate-teate`（子育て・取込中）, `shimamoto-shogai`（障害・取込中）, `shimamoto-korei-service`（高齢者・取込中） |
+| 豊能町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `toyono-kosodate-jido`（子育て・取込中）, `toyono-shogai-fukushi`（障害・取込中）, `toyono-korei-fukushi`（高齢者・取込中） |
+| 能勢町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `nose-kosodate-teate`（子育て・取込中）, `nose-iryohi-josei`（健康・福祉・取込中）, `nose-shogai-fukushi`（障害・取込中） |
+| 忠岡町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tadaoka-kosodate-shien`（子育て・取込中）, `tadaoka-shogai-support`（障害・取込中）, `tadaoka-korei-support`（高齢者・取込中） |
+| 熊取町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kumatori-kosodate-josei`（子育て・取込中）, `kumatori-kenko-josei`（健康・福祉・取込中）, `kumatori-sumai-josei`（住まい・取込中）, `kumatori-jigyosha-hojo`（事業者・取込中）, `kumatori-shogai-support`（障害・取込中） |
+| 田尻町 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tajiri-teate-josei`（全般・取込中）, `tajiri-korei-fukushi`（高齢者・取込中） |
+| 岬町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `misaki-kosodate-josei`（子育て・取込中）, `misaki-shogai`（障害・取込中）, `misaki-teiju-hojo`（住まい・取込中） |
+| 太子町 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `taishi-osaka-teate-josei`（全般・取込中）, `taishi-osaka-shogai`（障害・取込中） |
+| 河南町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kanan-kosodate-teate`（子育て・取込中）, `kanan-korei-josei`（高齢者・取込中）, `kanan-shogai-josei`（障害・取込中） |
+| 千早赤阪村 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `chihayaakasaka-kosodate-teate`（子育て・取込中）, `chihayaakasaka-shogai`（障害・取込中） |
+| 神戸市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kobe-kosodate-teate-josei`（子育て・取込中）, `kobe-shogai-seido`（障害・取込中）, `kobe-koreisha-fukushi`（高齢者・取込中）, `kobe-jigyosha-shien`（事業者・取込中） |
+| 姫路市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `himeji-kosodate-teate`（子育て・取込中）, `himeji-hitorioya-shien`（子育て・取込中）, `himeji-shogaiji-teate`（障害・取込中）, `himeji-koreisha-zaitaku`（高齢者・取込中）, `himeji-jigyosha-shien`（事業者・取込中） |
+| 尼崎市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `amagasaki-kosodate-jidoteate`（子育て・取込中）, `amagasaki-hitorioya-shien`（子育て・取込中）, `amagasaki-iryohi-josei`（健康・福祉・取込中）, `amagasaki-shogai-teate`（障害・取込中）, `amagasaki-koreisha-keizai-shien`（高齢者・取込中）, `amagasaki-jigyosha-shien`（事業者・取込中） |
+| 明石市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `akashi-kosodate-teate-josei`（子育て・取込中）, `akashi-shogai-josei`（障害・取込中）, `akashi-jigyosha-shokogyo`（事業者・取込中） |
+| 西宮市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `nishinomiya-kosodate-teate`（子育て・取込中）, `nishinomiya-shogai-keizai`（障害・取込中）, `nishinomiya-koreisha`（高齢者・取込中）, `nishinomiya-jigyosha-sangyo`（事業者・取込中） |
+| 洲本市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `sumoto-kosodate-josei`（子育て・取込中）, `sumoto-fukushi-josei`（健康・福祉・取込中）, `sumoto-jigyosha-shien`（事業者・取込中） |
+| 芦屋市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `ashiya-iryohi-josei`（健康・福祉・取込中）, `ashiya-shogai-fukushi`（障害・取込中）, `ashiya-koreisha-fukushi`（高齢者・取込中） |
+| 伊丹市 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `itami-teate-josei`（全般・取込中） |
+| 相生市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `aioi-kosodate-11keys`（子育て・取込中）, `aioi-koreisha-kaigo`（高齢者・取込中） |
+| 豊岡市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `toyooka-kosodate-teate-josei`（子育て・取込中）, `toyooka-shogai-teate-josei`（障害・取込中）, `toyooka-koreisha-fukushi`（高齢者・取込中）, `toyooka-jigyosha-hojokin`（事業者・取込中） |
+| 加古川市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kakogawa-kosodate-teate-josei`（子育て・取込中）, `kakogawa-iryo-josei`（健康・福祉・取込中）, `kakogawa-koreisha-fukushi`（高齢者・取込中）, `kakogawa-jigyosha-shoko`（事業者・取込中） |
+| 赤穂市 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `ako-josei-ichiran`（全般・取込中） |
+| 西脇市 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `nishiwaki-teate-josei`（全般・取込中）, `nishiwaki-jigyosha-shoko`（事業者・取込中） |
+| 宝塚市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `takarazuka-kosodate-kyufu`（子育て・取込中）, `takarazuka-shogai-teate`（障害・取込中）, `takarazuka-koreisha-josei`（高齢者・取込中）, `takarazuka-jigyosha-shoko`（事業者・取込中） |
+| 三木市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `miki-kosodate-kyufu`（子育て・取込中）, `miki-kosodate-josei`（子育て・取込中）, `miki-iryohi-josei`（健康・福祉・取込中）, `miki-jigyosha-shien`（事業者・取込中）, `miki-koreisha-fukushi`（高齢者・取込予定） |
+| 高砂市 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `takasago-josei-hojo`（全般・取込中）, `takasago-teate`（子育て・取込中）, `takasago-shogai-josei`（障害・取込中）, `takasago-iryo-josei`（健康・福祉・取込中） |
+| 川西市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kawanishi-kosodate-life`（子育て・取込予定）, `kawanishi-shogai-teate`（障害・取込中）, `kawanishi-koreisha-life`（高齢者・取込中）, `kawanishi-jigyosha-hojo`（事業者・取込中） |
+| 小野市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `ono-hyogo-kosodate-teate`（子育て・取込中）, `ono-hyogo-shogai-support`（障害・取込中）, `ono-hyogo-koreisha-support`（高齢者・取込中） |
+| 三田市 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `sanda-hojo-josei`（全般・取込中）, `sanda-kosodate-teate`（子育て・取込中）, `sanda-shogai-seido`（障害・取込中）, `sanda-koreisha-support`（高齢者・取込中） |
+| 加西市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kasai-kosodate-teate-josei`（子育て・取込中）, `kasai-fukushi-iryo`（健康・福祉・取込中） |
+| 丹波篠山市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tambasasayama-kosodate-okane`（子育て・取込中）, `tambasasayama-kenko-hojo`（健康・福祉・取込中）, `tambasasayama-korei-josei`（高齢者・取込中）, `tambasasayama-shogai-seido`（障害・取込中） |
+| 養父市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `yabu-kosodate-teate`（子育て・取込中）, `yabu-shogai-fukushi`（障害・取込中）, `yabu-korei-fukushi`（高齢者・取込中）, `yabu-jigyosha-hojo`（事業者・取込中） |
+| 丹波市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tamba-kosodate-shien`（子育て・取込中）, `tamba-shogai-josei`（障害・取込中）, `tamba-korei-service`（高齢者・取込中）, `tamba-sumai-hojo`（住まい・取込中） |
+| 南あわじ市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `minamiawaji-kosodate-shien`（子育て・取込中）, `minamiawaji-shogai`（障害・取込中） |
+| 朝来市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `asago-kosodate-teate`（子育て・取込中）, `asago-shogai`（障害・取込中）, `asago-korei-josei`（高齢者・取込中）, `asago-jigyosha-josei`（事業者・取込中） |
+| 淡路市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `awaji-fukushi-josei`（子育て・取込中）, `awaji-shogai-fukushi`（障害・取込中）, `awaji-korei-fukushi`（高齢者・取込中） |
+| 宍粟市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `shiso-kosodate-josei-teate`（子育て・取込中）, `shiso-shogai`（障害・取込中）, `shiso-jigyosha-yushi`（事業者・取込中） |
+| 加東市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kato-kosodate-teate`（子育て・取込中）, `kato-shogai-fukushi`（障害・取込中）, `kato-jigyosha-sangyo`（事業者・取込中） |
+| たつの市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tatsuno-kosodate-teate`（子育て・取込中）, `tatsuno-shogai-seido`（障害・取込中）, `tatsuno-korei-support`（高齢者・取込中）, `tatsuno-jigyosha-sangyo`（事業者・取込中） |
+| 猪名川町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `inagawa-kosodate-teate`（子育て・取込中）, `inagawa-shogai-support`（障害・取込中）, `inagawa-korei-support`（高齢者・取込中）, `inagawa-jigyosha-sangyo`（事業者・取込中） |
+| 多可町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `taka-kosodate-shien`（子育て・取込予定）, `taka-shogai-fukushi`（障害・取込予定）, `taka-korei-fukushi`（高齢者・取込予定）, `taka-sumai-josei`（住まい・取込予定） |
+| 稲美町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `inami-kosodate-teate`（子育て・取込中）, `inami-shogai-fukushi`（障害・取込中）, `inami-korei-fukushi`（高齢者・取込中）, `inami-jigyosha-shien`（事業者・取込中） |
+| 播磨町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `harima-kosodate-teate`（子育て・取込中）, `harima-shogai-fukushi`（障害・取込中）, `harima-jigyosha-shokogyo`（事業者・取込中） |
+| 市川町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `hyogo-ichikawa-kosodate`（子育て・取込予定）, `hyogo-ichikawa-shogai`（障害・取込中） |
+| 福崎町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `fukusaki-kosodate-teate`（子育て・取込中）, `fukusaki-shogai`（障害・取込予定）, `fukusaki-korei`（高齢者・取込中） |
+| 神河町 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `hyogo-kamikawa-hojo-teate-josei`（全般・取込中） |
+| 太子町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `hyogo-taishi-kosodate-teate`（子育て・取込中）, `hyogo-taishi-shogai`（障害・取込中）, `hyogo-taishi-jigyosha-yushi`（事業者・取込中） |
+| 上郡町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kamigori-shogai-support`（障害・取込中）, `kamigori-korei-support`（高齢者・取込中）, `kamigori-jigyosha-sangyo`（事業者・取込予定） |
+| 佐用町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `sayo-ikuji-tetsuzuki`（子育て・取込予定）, `sayo-shogai-tetsuzuki`（障害・取込予定） |
+| 香美町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kami-kosodate-support`（子育て・取込予定）, `kami-shogai-fukushi`（障害・取込中）, `kami-korei-support`（高齢者・取込中）, `kami-jigyosha-sangyo`（事業者・取込中） |
+| 新温泉町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `shinonsen-jido-fukushi`（子育て・取込予定）, `shinonsen-shogai-fukushi`（障害・取込予定）, `shinonsen-korei-fukushi`（高齢者・取込予定） |
+| 奈良市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `nara-kosodate-teate`（子育て・取込中）, `nara-kosodate-hitorioya`（子育て・取込中）, `nara-shogai-teate`（障害・取込中）, `nara-iryohi-josei`（健康・福祉・取込中）, `nara-jigyosha-shien`（事業者・取込中）, `nara-sumai-taishin`（住まい・取込中） |
+| 大和高田市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `yamatotakada-kosodate-teate`（子育て・取込中）, `yamatotakada-iryohi-josei`（健康・福祉・取込中）, `yamatotakada-shogai-teate`（障害・取込中）, `yamatotakada-jigyosha-shien`（事業者・取込中） |
+| 大和郡山市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `yamatokoriyama-kosodate-josei`（子育て・取込中）, `yamatokoriyama-hitorioya-shien`（子育て・取込中）, `yamatokoriyama-korei-kaigo`（高齢者・取込中）, `yamatokoriyama-sumai-hojo`（住まい・取込中）, `yamatokoriyama-jigyosha-kigyo`（事業者・取込中） |
+| 天理市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tenri-kodomo-teate`（子育て・取込中）, `tenri-shogai-teate`（障害・取込中）, `tenri-korei-shien`（高齢者・取込中）, `tenri-jigyosha-sangyo`（事業者・取込中） |
+| 橿原市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kashihara-kosodate-teate`（子育て・取込中）, `kashihara-hitorioya`（子育て・取込中）, `kashihara-shogai-okane`（障害・取込中）, `kashihara-korei-okane`（高齢者・取込中）, `kashihara-jigyosha-shien`（事業者・取込中） |
+| 桜井市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `sakurai-josei-hojo`（健康・福祉・取込中）, `sakurai-kosodate-teate`（子育て・取込中）, `sakurai-korei-kyufu`（高齢者・取込中） |
+| 五條市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `gojo-kosodate-teate`（子育て・取込中）, `gojo-korei-fukushi`（高齢者・取込中）, `gojo-shogai-fukushi`（障害・取込予定）, `gojo-jigyosha-hojo`（事業者・取込予定） |
+| 御所市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `gose-kosodate-kyufu`（子育て・取込中）, `gose-korei-seikatsu`（高齢者・取込中）, `gose-shogai-fukushi`（障害・取込中）, `gose-jigyosha-sangyo`（事業者・取込中） |
+| 生駒市 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `ikoma-kosodate-kyufu`（子育て・取込中）, `ikoma-kosodate-iryohi`（子育て・取込中）, `ikoma-shogai-fukushi`（障害・取込中）, `ikoma-korei-seikatsu`（高齢者・取込中）, `ikoma-kojin-hojo`（全般・取込中）, `ikoma-jigyosha-hojo`（事業者・取込中） |
+| 香芝市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kashiba-kosodate-teate`（子育て・取込中）, `kashiba-shogai-fukushi`（障害・取込中）, `kashiba-korei-fukushi`（高齢者・取込中）, `kashiba-jigyosha-shien`（事業者・取込中）, `kashiba-sumai-jutaku`（住まい・取込予定） |
+| 葛城市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `katsuragi-kosodate`（子育て・取込中）, `katsuragi-shogai-teate`（障害・取込中）, `katsuragi-shogai-support`（障害・取込中）, `katsuragi-iryo-josei`（健康・福祉・取込中） |
+| 宇陀市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `uda-kosodate-shien`（子育て・取込予定）, `uda-shogai-fukushi`（障害・取込中）, `uda-korei-kaigo`（高齢者・取込中） |
+| 山添村 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `yamazoe-fukushi`（健康・福祉・取込予定） |
+| 平群町 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `heguri-hojo-josei`（全般・取込中） |
+| 三郷町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `sango-kosodate-jidofukushi`（子育て・取込中）, `sango-korei-fukushi`（高齢者・取込中）, `sango-sumai`（住まい・取込予定） |
+| 斑鳩町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `ikaruga-kosodate-shien`（子育て・取込中）, `ikaruga-shogai-fukushi`（障害・取込中）, `ikaruga-korei-fukushi`（高齢者・取込中） |
+| 安堵町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `ando-kosodate`（子育て・取込予定）, `ando-kaigo-fukushi`（健康・福祉・取込中） |
+| 川西町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kawanishi-nara-kosodate-kyufu`（子育て・取込予定）, `kawanishi-nara-shogai`（障害・取込中） |
+| 三宅町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `miyake-nara-ikuji`（子育て・取込中）, `miyake-nara-shogai`（障害・取込中） |
+| 田原本町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tawaramoto-kosodate-teate`（子育て・取込中）, `tawaramoto-iryohi-josei`（健康・福祉・取込中）, `tawaramoto-shogai-fukushi`（障害・取込中）, `tawaramoto-korei-fukushi`（高齢者・取込中） |
+| 曽爾村 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `soni-fukushi`（健康・福祉・取込予定）, `soni-sumai`（住まい・取込予定） |
+| 御杖村 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `mitsue-kenko-fukushi`（健康・福祉・取込予定）, `mitsue-jigyosha-sangyo`（事業者・取込予定） |
+| 高取町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `takatori-kosodate-teate`（子育て・取込中）, `takatori-shogai-fukushi`（障害・取込中） |
+| 明日香村 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `asuka-kosodate`（子育て・取込予定）, `asuka-kenko-fukushi`（健康・福祉・取込予定） |
+| 上牧町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kanmaki-kosodate-jidofukushi`（子育て・取込中）, `kanmaki-korei-kaigo`（高齢者・取込中） |
+| 王寺町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `oji-kosodate-teate`（子育て・取込中）, `oji-kosodate-iryohi`（子育て・取込中）, `oji-shogai-josei`（障害・取込中）, `oji-korei-jigyo`（高齢者・取込中）, `oji-jigyosha-hojo`（事業者・取込中） |
+| 広陵町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `koryo-kosodate-teate`（子育て・取込中）, `koryo-shogai-fukushi`（障害・取込中）, `koryo-jigyosha-shien`（事業者・取込中） |
+| 河合町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kawai-kosodate`（子育て・取込中）, `kawai-iryohi-josei`（健康・福祉・取込中） |
+| 吉野町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `yoshino-kosodate-keizai`（子育て・取込中）, `yoshino-fukushi-service`（健康・福祉・取込中）, `yoshino-jigyosha-keiei`（事業者・取込中） |
+| 大淀町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `oyodo-shogai-fukushi`（障害・取込中）, `oyodo-hitorioya`（子育て・取込中） |
+| 下市町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `shimoichi-fukushi-kaigo`（健康・福祉・取込中）, `shimoichi-kosodate`（子育て・取込中） |
+| 黒滝村 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kurotaki-hoken-fukushi`（健康・福祉・取込予定） |
+| 天川村 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tenkawa-teate`（健康・福祉・取込予定） |
+| 野迫川村 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `nosegawa-kurashi`（全般・取込中） |
 | 十津川村 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 下北山村 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 上北山村 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 川上村 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 東吉野村 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 和歌山市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 海南市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 橋本市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 有田市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 御坊市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 田辺市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 新宮市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 紀の川市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 岩出市 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 紀美野町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| かつらぎ町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 九度山町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 高野町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 湯浅町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 広川町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 有田川町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
+| 下北山村 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `shimokitayama-hojokin`（全般・取込中）, `shimokitayama-fukushi`（健康・福祉・取込中） |
+| 上北山村 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kamikitayama-kosodate-shien`（子育て・取込中） |
+| 川上村 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kawakami-hoken-fukushi`（健康・福祉・取込予定） |
+| 東吉野村 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `higashiyoshino-hojokin`（全般・取込予定） |
+| 和歌山市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `wakayama-city-kosodate-teate`（子育て・取込中）, `wakayama-city-shogai`（障害・取込中）, `wakayama-city-korei`（高齢者・取込中）, `wakayama-city-jigyosha-shien`（事業者・取込中） |
+| 海南市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kainan-kosodate-shien`（子育て・取込中）, `kainan-shogai-fukushi`（障害・取込中） |
+| 橋本市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `hashimoto-kosodate-jido`（子育て・取込中）, `hashimoto-shogai-fukushi`（障害・取込中）, `hashimoto-korei-fukushi`（高齢者・取込中）, `hashimoto-jigyosha-sangyo`（事業者・取込予定） |
+| 有田市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `arida-kosodate-teate`（子育て・取込中）, `arida-shogai`（障害・取込予定） |
+| 御坊市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `gobo-kosodate-teate`（子育て・取込中）, `gobo-shogai-fukushi`（障害・取込中） |
+| 田辺市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `tanabe-kosodate-seikatsu`（子育て・取込中）, `tanabe-shogai-teate`（障害・取込中）, `tanabe-jigyosha-hojo`（事業者・取込中） |
+| 新宮市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `shingu-kosodate`（子育て・取込中） |
+| 紀の川市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kinokawa-kosodate-teate`（子育て・取込中）, `kinokawa-shogai`（障害・取込中）, `kinokawa-jigyosha-shien`（事業者・取込中） |
+| 岩出市 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `iwade-shien-kosodate`（子育て・取込中）, `iwade-shien-fukushi`（健康・福祉・取込中） |
+| 紀美野町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kimino-kosodate-teate`（子育て・取込中）, `kimino-shogai-kyufu`（障害・取込中） |
+| かつらぎ町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `wakayama-katsuragi-fukushi`（健康・福祉・取込中） |
+| 九度山町 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kudoyama-kosodate`（子育て・取込中）, `kudoyama-kyufukin`（全般・取込中） |
+| 高野町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `koya-fukushi-tetsuzuki`（健康・福祉・取込中） |
+| 湯浅町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `yuasa-kosodate-josei`（子育て・取込中）, `yuasa-shogai`（障害・取込中）, `yuasa-iryohi-josei`（健康・福祉・取込中） |
+| 広川町 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `hirogawa-shien-seido`（全般・取込中） |
+| 有田川町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `aridagawa-kosodate`（子育て・取込中）, `aridagawa-iryohi-josei`（健康・福祉・取込中）, `aridagawa-shogai`（障害・取込中）, `aridagawa-korei-josei`（高齢者・取込中） |
 | 美浜町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
 | 日高町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
 | 由良町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 印南町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| みなべ町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 日高川町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 白浜町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 上富田町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| すさみ町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 那智勝浦町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 太地町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
+| 印南町 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `inami-josei-teate`（全般・取込中） |
+| みなべ町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `minabe-kosodate-josei`（子育て・取込中）, `minabe-shogai-teate`（障害・取込中） |
+| 日高川町 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `hidakagawa-hojo-jigyo`（全般・取込中）, `hidakagawa-kosodate-shien`（子育て・取込中） |
+| 白浜町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `shirahama-fukushi`（健康・福祉・取込中） |
+| 上富田町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kamitonda-kosodate`（子育て・取込予定） |
+| すさみ町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `susami-kosodate`（子育て・取込中）, `susami-shogai`（障害・取込中） |
+| 那智勝浦町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `nachikatsuura-fukushi`（健康・福祉・取込予定） |
+| 太地町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `taiji-kodomo-teate`（子育て・取込中） |
 | 古座川町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 北山村 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
-| 串本町 | 市区町村 | △ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請） |
+| 北山村 | 市区町村 | ○ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kitayama-jumin`（全般・取込中） |
+| 串本町 | 市区町村 | ◐ | `jgrants`（事業者向け補助金・調査中）, `digital-kosodate-registry`（子育て（主に0-6歳）・要利用申請）, `kushimoto-kodomo-fukushi`（子育て・取込中）, `kushimoto-fukushi-iryo`（健康・福祉・取込中）, `kushimoto-korei`（高齢者・取込中） |

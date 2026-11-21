@@ -9,8 +9,8 @@ source_id: kosodatesiennkayuuso-3f224bc7
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「手当・助成・支援（子育て応援サイト）」を加工して作成
-content_sha256: adb445b9fb92cb976ca52f8f8c9b2f569eab9a0873502ac261b6ef954ee3a8fe
-facts_sha256: adb445b9fb92cb976ca52f8f8c9b2f569eab9a0873502ac261b6ef954ee3a8fe
+content_sha256: 0e087961916f3086e8d2fbfb04f696144a3efcef1514f4bfab8427d2706675d6
+facts_sha256: 0e087961916f3086e8d2fbfb04f696144a3efcef1514f4bfab8427d2706675d6
 ---
 
 # 児童手当・子ども医療費助成の郵送申請（届出）
@@ -31,8 +31,8 @@ facts_sha256: adb445b9fb92cb976ca52f8f8c9b2f569eab9a0873502ac261b6ef954ee3a8fe
 
 ## 利用方法
 
-申請書類を提出する（郵送または電子申請）
+申請書類を提出する（郵送または電子申請）、窓口での申請、オンラインでの申請
 
 ## 問い合わせ
 
-墨田区子育て支援課（電話：03-5608-6160・1439）
+墨田区 子育て支援課 児童手当・医療助成係（電話：03-5608-6160 / 03-5608-1439）

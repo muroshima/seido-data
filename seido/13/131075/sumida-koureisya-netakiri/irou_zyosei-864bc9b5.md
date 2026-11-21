@@ -9,8 +9,8 @@ source_id: irou_zyosei-864bc9b5
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「ねたきり・認知症の方へのサービス（高齢者）」を加工して作成
-content_sha256: 05affa7fbf12f6edf59c3a95505a6db8432abf43c70e0cd7a1880bdfe4f5aebb
-facts_sha256: 05affa7fbf12f6edf59c3a95505a6db8432abf43c70e0cd7a1880bdfe4f5aebb
+content_sha256: c7327686193d039f377de98b4d7399cd2cf2c62c33902d0b8510d8fd773c5667
+facts_sha256: c7327686193d039f377de98b4d7399cd2cf2c62c33902d0b8510d8fd773c5667
 ---
 
 # 介助しているご家族に慰労助成を行っています

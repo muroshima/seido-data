@@ -9,8 +9,8 @@ source_id: keikasoti270401-90bba7db
 source_updated: null
 license: オープンデータを除き無断使用・転載・二次利用不可
 attribution: 大田区「手当・年金（障がい者）」を加工して作成
-content_sha256: 9f4464731123f59c6b71471ecf3fb541fad97a1e320986685367be362c581f24
-facts_sha256: 9f4464731123f59c6b71471ecf3fb541fad97a1e320986685367be362c581f24
+content_sha256: 9e4e10a33b77fa71beaf44bbaafb36e44ec024f638271c4093321c10b7b24128
+facts_sha256: 9e4e10a33b77fa71beaf44bbaafb36e44ec024f638271c4093321c10b7b24128
 ---
 
 # 経過措置の福祉手当（国制度）

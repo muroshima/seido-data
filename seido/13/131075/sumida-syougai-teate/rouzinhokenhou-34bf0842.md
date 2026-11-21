@@ -9,8 +9,8 @@ source_id: rouzinhokenhou-34bf0842
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「手当・年金・医療（障害）」を加工して作成
-content_sha256: 032fe88f7da3f548eb54922672e0e8cc7409df23779c4035766dd212d9556510
-facts_sha256: 032fe88f7da3f548eb54922672e0e8cc7409df23779c4035766dd212d9556510
+content_sha256: edab72da7121102ed00651c57f535f7e5fde3e54808195598e07401625ec3a61
+facts_sha256: edab72da7121102ed00651c57f535f7e5fde3e54808195598e07401625ec3a61
 ---
 
 # 後期高齢者医療制度

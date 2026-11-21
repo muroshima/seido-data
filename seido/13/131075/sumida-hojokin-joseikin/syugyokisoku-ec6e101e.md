@@ -9,8 +9,8 @@ source_id: syugyokisoku-ec6e101e
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「補助金・助成金（産業・事業者）」を加工して作成
-content_sha256: 22cf0bde6000fdd4c6cf44bb9301ba77295dfaa92e6b3c737fae279d8415e4a6
-facts_sha256: 22cf0bde6000fdd4c6cf44bb9301ba77295dfaa92e6b3c737fae279d8415e4a6
+content_sha256: 180bd9c8d1e56afe6135e07041602e54f484ff0d4ef8c62b189652700a88bd16
+facts_sha256: 180bd9c8d1e56afe6135e07041602e54f484ff0d4ef8c62b189652700a88bd16
 ---
 
 # 中小企業の就業規則整備を支援します！（墨田区就業規則整備補助金）

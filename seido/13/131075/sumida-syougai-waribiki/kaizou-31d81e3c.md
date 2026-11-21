@@ -9,8 +9,8 @@ source_id: kaizou-31d81e3c
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「割引・減免（障害）」を加工して作成
-content_sha256: a8b17042f45635a5bd5e4e53d274389c831a87364f87bfd20b476da23d5c152c
-facts_sha256: a8b17042f45635a5bd5e4e53d274389c831a87364f87bfd20b476da23d5c152c
+content_sha256: 280aa896f7d46127ca7d1ff3ed6f1d4f416290a04c4af447ab38d8f3a4696fa5
+facts_sha256: 280aa896f7d46127ca7d1ff3ed6f1d4f416290a04c4af447ab38d8f3a4696fa5
 ---
 
 # 自動車改造費の助成

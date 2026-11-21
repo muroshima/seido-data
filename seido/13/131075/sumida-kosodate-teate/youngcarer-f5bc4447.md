@@ -9,8 +9,8 @@ source_id: youngcarer-f5bc4447
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「手当・助成・支援（子育て応援サイト）」を加工して作成
-content_sha256: f60388fdc3fe9240b2d1b03a1e36f578154effb2ea1fd70f99d79e304a8cfcf4
-facts_sha256: f60388fdc3fe9240b2d1b03a1e36f578154effb2ea1fd70f99d79e304a8cfcf4
+content_sha256: 0a7789ae829c3c00ff9b097c6c9ee8d9afa745e28a6f67cbe985a77af80bab93
+facts_sha256: 0a7789ae829c3c00ff9b097c6c9ee8d9afa745e28a6f67cbe985a77af80bab93
 ---
 
 # ヤングケアラー相談窓口

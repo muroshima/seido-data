@@ -9,8 +9,8 @@ source_id: syoni-seisin-6c965106
 source_updated: null
 license: 無断転載を禁止
 attribution: 町田市「障がい者の医療費助成」を加工して作成
-content_sha256: 1feb9e032a7ab347d472f518c11dd8f2e901f8c487b0ce621c8d7eb0be429462
-facts_sha256: 1feb9e032a7ab347d472f518c11dd8f2e901f8c487b0ce621c8d7eb0be429462
+content_sha256: e64563f0bdd233a3780fe68e69c140e490cb0913578be1c118ed80f4d4f34083
+facts_sha256: e64563f0bdd233a3780fe68e69c140e490cb0913578be1c118ed80f4d4f34083
 ---
 
 # 小児精神障害者入院医療費助成
@@ -23,11 +23,11 @@ facts_sha256: 1feb9e032a7ab347d472f518c11dd8f2e901f8c487b0ce621c8d7eb0be429462
 
 ## 支援内容
 
-保険診療の自己負担分を助成
+保険診療の自己負担分を助成（食事療養標準負担額は自己負担）
 
 ## 期間
 
-入院時の食事療養標準負担額は自己負担
+申請日から3ヶ月以内に作成された書類が必要
 
 ## 利用方法
 
@@ -35,4 +35,4 @@ facts_sha256: 1feb9e032a7ab347d472f518c11dd8f2e901f8c487b0ce621c8d7eb0be429462
 
 ## 問い合わせ
 
-町田市役所 障がい福祉課 042-724-2145
+町田市役所 障がい福祉課（電話：042-724-2145）

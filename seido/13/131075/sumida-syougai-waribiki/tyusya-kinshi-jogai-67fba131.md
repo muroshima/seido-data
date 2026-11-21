@@ -9,8 +9,8 @@ source_id: tyusya-kinshi-jogai-67fba131
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「割引・減免（障害）」を加工して作成
-content_sha256: 825d8c129b2042293bf30f136bdd6db37df04ab57488d1311fa25e62eb775f3e
-facts_sha256: 825d8c129b2042293bf30f136bdd6db37df04ab57488d1311fa25e62eb775f3e
+content_sha256: 526ab433e09ec4016eb3d5c9f06dde62d531d6c61fcf74caf5b4bf3c64701b77
+facts_sha256: 526ab433e09ec4016eb3d5c9f06dde62d531d6c61fcf74caf5b4bf3c64701b77
 ---
 
 # 駐車禁止の対象除外

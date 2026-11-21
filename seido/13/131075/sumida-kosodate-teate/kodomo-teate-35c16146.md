@@ -9,8 +9,8 @@ source_id: kodomo-teate-35c16146
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「手当・助成・支援（子育て応援サイト）」を加工して作成
-content_sha256: ac779a7b083f5b0100b62a94370226b075500cceca5bd27f4709813ab97301d2
-facts_sha256: ac779a7b083f5b0100b62a94370226b075500cceca5bd27f4709813ab97301d2
+content_sha256: 1a1d1ae9c4141107975355a1c4c5b0f6e0d376f0eac926c5e09ea5daf86eaef6
+facts_sha256: 1a1d1ae9c4141107975355a1c4c5b0f6e0d376f0eac926c5e09ea5daf86eaef6
 ---
 
 # 児童手当
@@ -27,11 +27,11 @@ facts_sha256: ac779a7b083f5b0100b62a94370226b075500cceca5bd27f4709813ab97301d2
 
 ## 期間
 
-毎年6月に現況届を提出（令和4年度から原則不要）
+申請日から支給開始
 
 ## 利用方法
 
-窓口または郵送で申請（必要書類を確認）
+申請書を提出し、必要書類を添付
 
 ## 問い合わせ
 

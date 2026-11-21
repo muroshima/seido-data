@@ -9,8 +9,8 @@ source_id: shougaikyuuhukinn-b2aa1e9b
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「手当・年金・医療（障害）」を加工して作成
-content_sha256: 9bfaf420ed5267b6a4fb949852b40a5414b579da203e9a713a13e72e09eeaa25
-facts_sha256: 9bfaf420ed5267b6a4fb949852b40a5414b579da203e9a713a13e72e09eeaa25
+content_sha256: 2762ebd864ac61e2a9ad01cce19c30a6e40e7125f355854de84483252c497a1c
+facts_sha256: 2762ebd864ac61e2a9ad01cce19c30a6e40e7125f355854de84483252c497a1c
 ---
 
 # 特別障害給付金

@@ -9,8 +9,8 @@ source_id: kigyousyudou-tasi604-2a3a9df5
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「手当・助成・支援（子育て応援サイト）」を加工して作成
-content_sha256: 2469bae9ebac8bf470f52121421020f8da1809dbf7d35a9f3dce8c36ffd48cc0
-facts_sha256: 2469bae9ebac8bf470f52121421020f8da1809dbf7d35a9f3dce8c36ffd48cc0
+content_sha256: 945a68c4a3765f83dfaf1db219cb89cb2e77161eb29550ec2589b0d9f43e0e75
+facts_sha256: 945a68c4a3765f83dfaf1db219cb89cb2e77161eb29550ec2589b0d9f43e0e75
 ---
 
 # 【企業主導型保育施設】保育料負担軽減事業のご案内

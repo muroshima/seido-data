@@ -9,8 +9,8 @@ source_id: sentaku-7656ccf4
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「ねたきり・認知症の方へのサービス（高齢者）」を加工して作成
-content_sha256: 6b941d9a67e6ef5a992faa24d3ef41b1e9b70721337372ef273a32046b6a2afc
-facts_sha256: 6b941d9a67e6ef5a992faa24d3ef41b1e9b70721337372ef273a32046b6a2afc
+content_sha256: f582706eb30709d79e5c79587cc4bdaedccaaaf7b0dd93cea0ce750772e49396
+facts_sha256: f582706eb30709d79e5c79587cc4bdaedccaaaf7b0dd93cea0ce750772e49396
 ---
 
 # 寝具の洗濯や乾燥をします

@@ -9,8 +9,8 @@ source_id: tokubetsusyougaikyuuhukin-2c773201
 source_updated: null
 license: オープンデータを除き無断使用・転載・二次利用不可
 attribution: 大田区「手当・年金（障がい者）」を加工して作成
-content_sha256: 6c9f7bf3faddc9cb42adf1c7e60c386bf524c92af00f6d2774a750af938f1fb7
-facts_sha256: 6c9f7bf3faddc9cb42adf1c7e60c386bf524c92af00f6d2774a750af938f1fb7
+content_sha256: f50cbff6b9b16773da0c7d0a60f888c7abc06c162e8aaad353b304c63c65c1cf
+facts_sha256: f50cbff6b9b16773da0c7d0a60f888c7abc06c162e8aaad353b304c63c65c1cf
 ---
 
 # 特別障害給付金
@@ -19,7 +19,7 @@ facts_sha256: 6c9f7bf3faddc9cb42adf1c7e60c386bf524c92af00f6d2774a750af938f1fb7
 
 ## 対象者
 
-平成3年3月以前の学生または昭和61年3月以前の被用者等の配偶者で、任意加入せず障害基礎年金1級または2級相当の障害を持つ者
+平成3年3月以前の学生または昭和61年3月以前の被用者等の配偶者で、任意加入しておらず初診日があり、現在1級または2級相当の障害状態にある者
 
 ## 支援内容
 
@@ -31,8 +31,8 @@ facts_sha256: 6c9f7bf3faddc9cb42adf1c7e60c386bf524c92af00f6d2774a750af938f1fb7
 
 ## 利用方法
 
-大田区役所国民年金係で請求、必要な書類を準備し、65歳達する日の前日までに提出
+大田区役所国民年金係で請求、審査は日本年金機構が行う
 
 ## 問い合わせ
 
-大田区役所国保年金課国民年金係（電話：03-5744-1214）
+国保年金課国民年金係（電話：03-5744-1214）

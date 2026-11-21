@@ -9,8 +9,8 @@ source_id: fashion-1a3434c5
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「補助金・助成金（産業・事業者）」を加工して作成
-content_sha256: 09b04ccfc947ea5caab457de1f7d96e82818b3ffeeafb419790b1c6baaa62932
-facts_sha256: 09b04ccfc947ea5caab457de1f7d96e82818b3ffeeafb419790b1c6baaa62932
+content_sha256: b309b21d5be01206ddafa6cd018e7b8be4f7cd4734c2335a0676e98085179739
+facts_sha256: b309b21d5be01206ddafa6cd018e7b8be4f7cd4734c2335a0676e98085179739
 ---
 
 # ファッション産業人材育成支援事業

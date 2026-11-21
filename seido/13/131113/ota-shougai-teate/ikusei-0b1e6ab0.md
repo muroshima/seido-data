@@ -9,8 +9,8 @@ source_id: ikusei-0b1e6ab0
 source_updated: null
 license: オープンデータを除き無断使用・転載・二次利用不可
 attribution: 大田区「手当・年金（障がい者）」を加工して作成
-content_sha256: 4f6e3b50e9516c1fb57089a36915471e0c329393c3e7a64fc78be9bcbc35d3f6
-facts_sha256: 4f6e3b50e9516c1fb57089a36915471e0c329393c3e7a64fc78be9bcbc35d3f6
+content_sha256: e2705fd73834d2dd73af99db156e14cda361f4e74ad3a745bd0f0a3981fc991d
+facts_sha256: e2705fd73834d2dd73af99db156e14cda361f4e74ad3a745bd0f0a3981fc991d
 ---
 
 # 児童育成手当（育成手当）
@@ -31,8 +31,8 @@ facts_sha256: 4f6e3b50e9516c1fb57089a36915471e0c329393c3e7a64fc78be9bcbc35d3f6
 
 ## 利用方法
 
-申請者本人が手続きを行う
+申請者本人が手続き
 
 ## 問い合わせ
 
-子育ち支援課（電話：03-5744-1274）
+子育ち支援課（電話03-5744-1274）

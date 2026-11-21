@@ -9,8 +9,8 @@ source_id: sikasoudan-bfea5c92
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「手当・年金・医療（障害）」を加工して作成
-content_sha256: f3d8a6d5428be4ca9078f6abea3181d4780f371d2516bc8207013da32b499f7b
-facts_sha256: f3d8a6d5428be4ca9078f6abea3181d4780f371d2516bc8207013da32b499f7b
+content_sha256: 43f7adbf47bb139dbcff93db0d48b5e8b083f8005ebcab33601401cead80dd2f
+facts_sha256: 43f7adbf47bb139dbcff93db0d48b5e8b083f8005ebcab33601401cead80dd2f
 ---
 
 # 心身障害児（者）歯科相談

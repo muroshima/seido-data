@@ -9,8 +9,8 @@ source_id: R8sannkasyabosyuu-d91abb5c
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「手当・助成・支援（子育て応援サイト）」を加工して作成
-content_sha256: 841a27c6ce62b9457aa715341fc031c859d7f60a9058fa47652b22771df5110d
-facts_sha256: 841a27c6ce62b9457aa715341fc031c859d7f60a9058fa47652b22771df5110d
+content_sha256: e9e8888b552e7b6e0f7da67e1fcd161896af4efcbbb033225865014563e925e0
+facts_sha256: e9e8888b552e7b6e0f7da67e1fcd161896af4efcbbb033225865014563e925e0
 ---
 
 # 令和8年度乳幼児事業（すくすくクラブ・わんぱくクラブ）参加者募集
@@ -32,3 +32,7 @@ facts_sha256: 841a27c6ce62b9457aa715341fc031c859d7f60a9058fa47652b22771df5110d
 ## 利用方法
 
 専用フォームで4月13日から申し込み
+
+## 問い合わせ
+
+電話03-3619-1051（平日9時～17時）

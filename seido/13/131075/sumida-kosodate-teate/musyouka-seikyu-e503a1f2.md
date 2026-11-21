@@ -9,8 +9,8 @@ source_id: musyouka-seikyu-e503a1f2
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「手当・助成・支援（子育て応援サイト）」を加工して作成
-content_sha256: 58486b1f8ac866305232685fd335554e554c985c538dd3e8a5a4f8bbbe0919ac
-facts_sha256: 58486b1f8ac866305232685fd335554e554c985c538dd3e8a5a4f8bbbe0919ac
+content_sha256: 2bf809861e8d0f16b68ff1ad0f48c1efe1b63ac3843783359c5612f92de3cdfc
+facts_sha256: 2bf809861e8d0f16b68ff1ad0f48c1efe1b63ac3843783359c5612f92de3cdfc
 ---
 
 # 補助金の請求、受付期限、振込予定時期について（幼児教育・保育の無償化）

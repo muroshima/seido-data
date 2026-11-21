@@ -9,8 +9,8 @@ source_id: omutu-ef4a74f6
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「ねたきり・認知症の方へのサービス（高齢者）」を加工して作成
-content_sha256: 014e1b67f8ccad827715a684a63affda9a3db13e708c52442d51a03361743c9a
-facts_sha256: 014e1b67f8ccad827715a684a63affda9a3db13e708c52442d51a03361743c9a
+content_sha256: dbb931855142fee826f96a0ab82a42d9a5319e9fd512ed9a238c62a8ac2ad159
+facts_sha256: dbb931855142fee826f96a0ab82a42d9a5319e9fd512ed9a238c62a8ac2ad159
 ---
 
 # 紙おむつをお届けします

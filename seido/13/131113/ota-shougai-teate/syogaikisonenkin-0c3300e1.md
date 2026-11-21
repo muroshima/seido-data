@@ -9,8 +9,8 @@ source_id: syogaikisonenkin-0c3300e1
 source_updated: null
 license: オープンデータを除き無断使用・転載・二次利用不可
 attribution: 大田区「手当・年金（障がい者）」を加工して作成
-content_sha256: 494b44fe77bd77864e13b8f89d79e3554c844a4eff61f94abdfc95cbeefaf6d0
-facts_sha256: 494b44fe77bd77864e13b8f89d79e3554c844a4eff61f94abdfc95cbeefaf6d0
+content_sha256: 1af99a530459600c0012c686afb302766a97c8ba9b484c18ada7eb7c34f79a50
+facts_sha256: 1af99a530459600c0012c686afb302766a97c8ba9b484c18ada7eb7c34f79a50
 ---
 
 # 障害基礎年金（国民年金）
@@ -19,7 +19,7 @@ facts_sha256: 494b44fe77bd77864e13b8f89d79e3554c844a4eff61f94abdfc95cbeefaf6d0
 
 ## 対象者
 
-国民年金加入中に障害が生じた者
+国民年金加入中の病気やケガで障害が生じた者
 
 ## 支援内容
 
@@ -28,6 +28,10 @@ facts_sha256: 494b44fe77bd77864e13b8f89d79e3554c844a4eff61f94abdfc95cbeefaf6d0
 ## 期間
 
 初診日が65歳未満かつ納付要件を満たす者
+
+## 利用方法
+
+「障害状態確認届」を提出
 
 ## 問い合わせ
 

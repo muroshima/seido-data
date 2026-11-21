@@ -9,8 +9,8 @@ source_id: toei-ddcee65c
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「割引・減免（障害）」を加工して作成
-content_sha256: ea6255a67e3ecc2786d91e8ddf72fc307948dec436c1832f8b94a0c891db09c0
-facts_sha256: ea6255a67e3ecc2786d91e8ddf72fc307948dec436c1832f8b94a0c891db09c0
+content_sha256: 669b82510c3d415b70eaef3947e3b8af67ed55fcb2c80359d399daa560fdcfa7
+facts_sha256: 669b82510c3d415b70eaef3947e3b8af67ed55fcb2c80359d399daa560fdcfa7
 ---
 
 # 都営交通の無料パスと割引
@@ -19,11 +19,7 @@ facts_sha256: ea6255a67e3ecc2786d91e8ddf72fc307948dec436c1832f8b94a0c891db09c0
 
 ## 対象者
 
-身体障害者手帳、愛の手帳、戦傷病者手帳、被爆者健康手帳の持ち主
-
-## 利用方法
-
-手帳提示で利用
+身体障害者手帳、愛の手帳、戦傷病者手帳、被爆者健康手帳及び認定書または健康管理手当証書を持つ者
 
 ## 問い合わせ
 

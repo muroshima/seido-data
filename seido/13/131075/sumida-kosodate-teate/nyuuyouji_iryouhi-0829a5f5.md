@@ -9,8 +9,8 @@ source_id: nyuuyouji_iryouhi-0829a5f5
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「手当・助成・支援（子育て応援サイト）」を加工して作成
-content_sha256: d7dab7087e7187d593578ae177e39b875a9a9b041b6a364792c9773d5f6e3269
-facts_sha256: d7dab7087e7187d593578ae177e39b875a9a9b041b6a364792c9773d5f6e3269
+content_sha256: 1e1891bb1886b0b60996cfa2206b35e7c0bd4237cd1b4e9fa6e7a4fed4cb1e16
+facts_sha256: 1e1891bb1886b0b60996cfa2206b35e7c0bd4237cd1b4e9fa6e7a4fed4cb1e16
 ---
 
 # 子どもの医療費の助成【マル乳・マル子・マル青】
@@ -35,4 +35,4 @@ facts_sha256: d7dab7087e7187d593578ae177e39b875a9a9b041b6a364792c9773d5f6e3269
 
 ## 問い合わせ
 
-墨田区役所子ども・子育て支援部
+墨田区役所 子ども・子育て支援部

@@ -9,8 +9,8 @@ source_id: kyosai-cb2f4f32
 source_updated: null
 license: オープンデータを除き無断使用・転載・二次利用不可
 attribution: 大田区「手当・年金（障がい者）」を加工して作成
-content_sha256: f96310d1e1f5253b9fbf54f2af169f8871da9611d56291544e23bbefbbfe0aab
-facts_sha256: f96310d1e1f5253b9fbf54f2af169f8871da9611d56291544e23bbefbbfe0aab
+content_sha256: 34e27e64c676cdf9c702ce5c12ccfb9d45273f07806666b3c77276425cc176d6
+facts_sha256: 34e27e64c676cdf9c702ce5c12ccfb9d45273f07806666b3c77276425cc176d6
 ---
 
 # 心身障害者扶養共済制度
@@ -19,7 +19,7 @@ facts_sha256: f96310d1e1f5253b9fbf54f2af169f8871da9611d56291544e23bbefbbfe0aab
 
 ## 対象者
 
-障がい者の保護者で、東京都内在住、65歳未満、健康状態である者
+障がい者の保護者で、東京都内在住、65歳未満、健康状態であること
 
 ## 支援内容
 
@@ -31,7 +31,7 @@ facts_sha256: f96310d1e1f5253b9fbf54f2af169f8871da9611d56291544e23bbefbbfe0aab
 
 ## 利用方法
 
-加入者死亡または重度障がいの月から支給
+冊子「新規加入の手引き」を参照
 
 ## 問い合わせ
 

@@ -9,8 +9,8 @@ source_id: kuteate_seishinn2-75e38ba7
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「手当・年金・医療（障害）」を加工して作成
-content_sha256: ddf268a4deded1ffa1b03413073d51195408edeb1175b0dc32f2d0cb777c2ba6
-facts_sha256: ddf268a4deded1ffa1b03413073d51195408edeb1175b0dc32f2d0cb777c2ba6
+content_sha256: 5116c39af67ce393f88973e09b44c1bd3048505ee7fe9b13e40b8ee93cfbb930
+facts_sha256: 5116c39af67ce393f88973e09b44c1bd3048505ee7fe9b13e40b8ee93cfbb930
 ---
 
 # 心身障害者福祉手当（区の制度・精神障害要件）
@@ -19,7 +19,7 @@ facts_sha256: ddf268a4deded1ffa1b03413073d51195408edeb1175b0dc32f2d0cb777c2ba6
 
 ## 対象者
 
-墨田区に住所を有し、精神障害者保健福祉手帳1級を保有している方
+墨田区に住所を有し、精神障害者保健福祉手帳1級を所持している方
 
 ## 支援内容
 

@@ -9,8 +9,8 @@ source_id: jidoufuyou-3caeb2d8
 source_updated: null
 license: オープンデータを除き無断使用・転載・二次利用不可
 attribution: 大田区「手当・年金（障がい者）」を加工して作成
-content_sha256: 805b60f6a81652b72622cfcf63359b08cedaff1cab80f1fec2a568cfd95a971f
-facts_sha256: 805b60f6a81652b72622cfcf63359b08cedaff1cab80f1fec2a568cfd95a971f
+content_sha256: b67d495f852b2a61b365cb4482471f15cce5786a80a30d48f2704974829f2c7b
+facts_sha256: b67d495f852b2a61b365cb4482471f15cce5786a80a30d48f2704974829f2c7b
 ---
 
 # 児童扶養手当
@@ -19,16 +19,20 @@ facts_sha256: 805b60f6a81652b72622cfcf63359b08cedaff1cab80f1fec2a568cfd95a971f
 
 ## 対象者
 
-児童扶養手当の受給資格がある家庭
+児童扶養手当の受給者
+
+## 支援内容
+
+児童の養育にかかる経済的支援
 
 ## 期間
 
-令和8年4月から令和9年2月までの申請分
+令和8年4月分～
 
 ## 利用方法
 
-申請書類を提出し、審査を経て支給
+申請により支給
 
 ## 問い合わせ
 
-大田区子育ち支援課（電話：03-5744-1274 / FAX：03-5744-1525）
+大田区 子育ち支援課（電話：03-5744-1274 / FAX：03-5744-1525）

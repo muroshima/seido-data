@@ -9,8 +9,8 @@ source_id: kousei_iryouhi-cdade388
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「手当・年金・医療（障害）」を加工して作成
-content_sha256: 6986fd34f1d35e7be4cd5df28fbc6cd875977df27b036895fd8aabbfd0821a2b
-facts_sha256: 6986fd34f1d35e7be4cd5df28fbc6cd875977df27b036895fd8aabbfd0821a2b
+content_sha256: 9bdb0168f0693e89fe2d7a6358f7a8da62b0ad35ce1b11a77338482f9479f05a
+facts_sha256: 9bdb0168f0693e89fe2d7a6358f7a8da62b0ad35ce1b11a77338482f9479f05a
 ---
 
 # 自立支援医療（更生医療）の助成

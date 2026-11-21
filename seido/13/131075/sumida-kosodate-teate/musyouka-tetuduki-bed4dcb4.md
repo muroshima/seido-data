@@ -9,8 +9,8 @@ source_id: musyouka-tetuduki-bed4dcb4
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「手当・助成・支援（子育て応援サイト）」を加工して作成
-content_sha256: 3b771b10ec28e46616147df9fcc9e861fb53267ae3634bcf477b998bc8fd713c
-facts_sha256: 3b771b10ec28e46616147df9fcc9e861fb53267ae3634bcf477b998bc8fd713c
+content_sha256: e876ec6d937978234a0e8b20a5fa8fffabbdb4bcbf8ad6e44c453abebeebc600
+facts_sha256: e876ec6d937978234a0e8b20a5fa8fffabbdb4bcbf8ad6e44c453abebeebc600
 ---
 
 # 転入・転出時の幼児教育・保育の無償化の手続きについて
@@ -27,8 +27,8 @@ facts_sha256: 3b771b10ec28e46616147df9fcc9e861fb53267ae3634bcf477b998bc8fd713c
 
 ## 利用方法
 
-転入時：幼稚園報告・区への申請が必要
+手続きが必要
 
 ## 問い合わせ
 
-墨田区子ども施設課 保育給付担当
+墨田区子ども施設課

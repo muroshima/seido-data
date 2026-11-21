@@ -1,0 +1,18 @@
+---
+title: 育児支援
+lg_code: '122297'
+lg_name: 袖ケ浦市
+support: null
+url: https://www.city.sodegaura.lg.jp/life/13/112/index-2.html
+source: sodegaura-kosodate-shien
+source_id: index-2-c2cad55a
+source_updated: null
+license: 無断複製・転用を禁止（私的使用・引用を除く）
+attribution: 袖ケ浦市「袖ケ浦市 育児支援」を加工して作成
+content_sha256: 10607ad32bbe515a6236914ac5bad0cb3644c038a95947311c06a0748d95754c
+facts_sha256: null
+---
+
+# 育児支援
+
+取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。

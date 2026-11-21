@@ -9,8 +9,8 @@ source_id: shyougai_kisonenkin-9ee2648f
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「手当・年金・医療（障害）」を加工して作成
-content_sha256: 82f3ae164fc0b7e33f3a930433cc52be26e6ea43301b21c26a67651d04831b8c
-facts_sha256: 82f3ae164fc0b7e33f3a930433cc52be26e6ea43301b21c26a67651d04831b8c
+content_sha256: a80294b4d342e27b61fa830abc5be3d9e48559fa517d52b86432b5dcf4267c20
+facts_sha256: a80294b4d342e27b61fa830abc5be3d9e48559fa517d52b86432b5dcf4267c20
 ---
 
 # 障害基礎年金

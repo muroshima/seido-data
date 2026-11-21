@@ -1,0 +1,18 @@
+---
+title: ぜんそく等小児指定疾病医療費助成事業
+lg_code: '121002'
+lg_name: 千葉市
+support: null
+url: https://www.city.chiba.jp/hokenfukushi/kenkofukushi/shien/zensoku.html
+source: chiba-city-kosodate-josei
+source_id: zensoku-7dd28751
+source_updated: null
+license: 無断複製・転用を禁止（私的使用・引用を除く）
+attribution: 千葉市「千葉市 子育てへの助成」を加工して作成
+content_sha256: a63ca104b81dcf2ccfa7a1d3673d67bdff5142af8293e49c61e67f3347907da6
+facts_sha256: null
+---
+
+# ぜんそく等小児指定疾病医療費助成事業
+
+取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。

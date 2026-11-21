@@ -1,0 +1,18 @@
+---
+title: 障害福祉サービス・障害児通所サービスに関する様式について
+lg_code: '122297'
+lg_name: 袖ケ浦市
+support: null
+url: https://www.city.sodegaura.lg.jp/soshiki/shogaifukushi/service-youshiki.html
+source: sodegaura-shogai
+source_id: service-youshiki-7541ec5e
+source_updated: null
+license: 無断複製・転用を禁止（私的使用・引用を除く）
+attribution: 袖ケ浦市「袖ケ浦市 障害福祉」を加工して作成
+content_sha256: 3d5d0a074a4de7c37eecb45926542b598fa41a2c737b7b74a28743920d9973f2
+facts_sha256: null
+---
+
+# 障害福祉サービス・障害児通所サービスに関する様式について
+
+取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。

@@ -9,8 +9,8 @@ source_id: sonota_zidouteate-4e91db7c
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「手当・年金・医療（障害）」を加工して作成
-content_sha256: 98e3c4d9ea8a24d46a9274b34b8246e75dae07110529948770d0482fab9ffe9c
-facts_sha256: 98e3c4d9ea8a24d46a9274b34b8246e75dae07110529948770d0482fab9ffe9c
+content_sha256: 878f81723d7edf3c17d42728147846fc3ea8733d48cadc33d696ce6751bdb258
+facts_sha256: 878f81723d7edf3c17d42728147846fc3ea8733d48cadc33d696ce6751bdb258
 ---
 
 # 児童のための諸手当
@@ -23,7 +23,7 @@ facts_sha256: 98e3c4d9ea8a24d46a9274b34b8246e75dae07110529948770d0482fab9ffe9c
 
 ## 支援内容
 
-児童扶養手当・育成手当
+児童のための諸手当
 
 ## 問い合わせ
 

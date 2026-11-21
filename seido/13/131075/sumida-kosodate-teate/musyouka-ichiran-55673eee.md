@@ -9,8 +9,8 @@ source_id: musyouka-ichiran-55673eee
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「手当・助成・支援（子育て応援サイト）」を加工して作成
-content_sha256: 3cc5bdffdfed3332b4c80d15441ff2d63ce4c4f09305323b684a79a69650c7c6
-facts_sha256: 3cc5bdffdfed3332b4c80d15441ff2d63ce4c4f09305323b684a79a69650c7c6
+content_sha256: d94fc6728d24e6b16ffe9c8ec917ee346dc5360e3d91e885122dfdac26f54403
+facts_sha256: d94fc6728d24e6b16ffe9c8ec917ee346dc5360e3d91e885122dfdac26f54403
 ---
 
 # 幼児教育・保育の無償化対象施設・サービス一覧（特定子ども・子育て支援施設等）

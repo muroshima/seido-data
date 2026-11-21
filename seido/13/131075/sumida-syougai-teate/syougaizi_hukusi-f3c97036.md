@@ -9,8 +9,8 @@ source_id: syougaizi_hukusi-f3c97036
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「手当・年金・医療（障害）」を加工して作成
-content_sha256: 4bbf30b3e814227252b1a533281f30e040f5cba28e7502124cac85094a5e97ff
-facts_sha256: 4bbf30b3e814227252b1a533281f30e040f5cba28e7502124cac85094a5e97ff
+content_sha256: 3d7bc426e1a5c8f1c4034f310a156285de6b74c9f0da2a4605422b71b4063e23
+facts_sha256: 3d7bc426e1a5c8f1c4034f310a156285de6b74c9f0da2a4605422b71b4063e23
 ---
 
 # 障害児福祉手当（国の制度）

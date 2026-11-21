@@ -1,0 +1,18 @@
+---
+title: ひとり親家庭等日常生活支援事業
+lg_code: '142051'
+lg_name: 藤沢市
+support: null
+url: https://www.city.fujisawa.kanagawa.jp/kosodate/kenko/kosodate/hitorioya/sekatsushien.html
+source: fujisawa-hitorioya-shien
+source_id: sekatsushien-5daf980d
+source_updated: null
+license: 私的使用・引用を除き無断使用・複製・転載・改変を禁止
+attribution: 藤沢市「藤沢市 ひとり親家庭支援」を加工して作成
+content_sha256: 91aad942996d8f37d493acd49587e6a2cb6e29fc35bc194b48afe114e19683cf
+facts_sha256: null
+---
+
+# ひとり親家庭等日常生活支援事業
+
+取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。

@@ -9,8 +9,8 @@ source_id: kosodatedennsi-3294a5af
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「手当・助成・支援（子育て応援サイト）」を加工して作成
-content_sha256: ddfb04da07beb7318be86ace88c5ff1f0c8bf7df5a749ce7138c0568979489ad
-facts_sha256: ddfb04da07beb7318be86ace88c5ff1f0c8bf7df5a749ce7138c0568979489ad
+content_sha256: fedd715fdbc2b588737ac5557edb377323735835db8fbd931ad85c1eabfd62ed
+facts_sha256: fedd715fdbc2b588737ac5557edb377323735835db8fbd931ad85c1eabfd62ed
 ---
 
 # 児童手当・子どもの医療助成制度の手続きの電子申請について

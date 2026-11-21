@@ -9,8 +9,8 @@ source_id: monodukuripuromosyon-80294491
 source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「補助金・助成金（産業・事業者）」を加工して作成
-content_sha256: abffa032c735c9efba578cbe3018ede65b05cea42aae792532b8717a5746b22b
-facts_sha256: abffa032c735c9efba578cbe3018ede65b05cea42aae792532b8717a5746b22b
+content_sha256: 4a03ccb0907e1d1b30aa255700b706f4019bc53f9dcd7c91ebfd77dadb145bde
+facts_sha256: 4a03ccb0907e1d1b30aa255700b706f4019bc53f9dcd7c91ebfd77dadb145bde
 ---
 
 # ものづくりプロモーション推進補助金

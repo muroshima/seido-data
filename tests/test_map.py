@@ -13,7 +13,11 @@ def boundaries(*features):
         {"rings": [[139000, 35000, 139100, 35000, 139100, 35100, 139000, 35000]], **f}
         for f in features
     ]
-    return {"attribution": "出典", "scale": 1000, "layers": {"全国": layer, "関東": layer}}
+    return {
+        "attribution": "出典",
+        "scale": 1000,
+        "layers": {"全国": layer, "関東": layer, "関西": layer},
+    }
 
 
 def test_ward_of_designated_city_is_filled_when_city_is_covered():
@@ -22,7 +26,7 @@ def test_ward_of_designated_city_is_filled_when_city_is_covered():
         {"code": "14201", "name": "横須賀市"},
     )
     svg = m.render(data, codes=set(), names={("14", "横浜市")})
-    assert svg.count(f'fill="{m.COVERED}"') == 3  # 2 枚の地図の鶴見区と凡例
+    assert svg.count(f'fill="{m.COVERED}"') == 4  # 3 枚の地図の鶴見区と凡例
     assert "全国 2" in svg
 
 

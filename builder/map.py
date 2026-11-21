@@ -22,7 +22,9 @@ SCALE = 1000  # 座標は 0.001 度単位の整数で持つ
 JAPAN = ("全国", (122.5, 148.5), (24.0, 45.7), 0.01, 520)
 # 関東は伊豆諸島まで入れる（東京都の島しょ）
 KANTO = ("関東", (138.3, 141.0), (32.3, 37.2), 0.002, 250)
-PANELS = (JAPAN, KANTO)
+KANSAI = ("関西", (134.2, 136.5), (33.4, 35.8), 0.002, 230)
+PANELS = (JAPAN, KANTO, KANSAI)
+LABELS = {KANTO[0]: "関東（伊豆諸島まで）"}
 # 北方領土の 6 村（色丹村など）。地図には描くが、全国の市区町村の数には入れない
 NORTHERN_TERRITORIES = {"01695", "01696", "01697", "01698", "01699", "01700"}
 MIN_AREA = 2e-5  # これより小さい島（平方度、約 0.2 km²）は描かない
@@ -143,7 +145,7 @@ def covered_names(entities: list[dict], sources: list[dict], expand) -> tuple[se
 
 
 def render(boundaries: dict, codes: set, names: set) -> str:
-    """全国と関東の 2 枚を横に並べた SVG。取込中の市区町村を赤で塗る。"""
+    """全国と地方の拡大図を横に並べた SVG。取込中の市区町村を赤で塗る。"""
     scale = boundaries["scale"]
     gap, top = 16, 8
     panels, x, height = [], 0, 0
@@ -165,17 +167,17 @@ def render(boundaries: dict, codes: set, names: set) -> str:
                 for r in f["rings"]
             )
             paths.append(f'<path fill="{COVERED if hit else OTHER}" d="{d}"/>')
-        label = "関東（伊豆諸島まで）" if name == KANTO[0] else name
+        label = LABELS.get(name, name)
         extra = f'<text x="4" y="14" font-size="12" fill="{TEXT}">{label}</text>'
         if name == JAPAN[0]:
-            # 全国の図に、関東の拡大の範囲を枠で示す
-            _, klon, klat, *_ = KANTO
-            x0, x1 = ((v - lon[0]) * cos * k for v in klon)
-            y0, y1 = ((lat[1] - v) * k for v in klat[::-1])
-            extra += (
-                f'<rect x="{x0:.1f}" y="{y0:.1f}" width="{x1 - x0:.1f}" height="{y1 - y0:.1f}" '
-                f'fill="none" stroke="{TEXT}" stroke-width="0.8"/>'
-            )
+            # 全国の図に、拡大図の範囲を枠で示す
+            for _, zlon, zlat, *_ in PANELS[1:]:
+                x0, x1 = ((v - lon[0]) * cos * k for v in zlon)
+                y0, y1 = ((lat[1] - v) * k for v in zlat[::-1])
+                extra += (
+                    f'<rect x="{x0:.1f}" y="{y0:.1f}" width="{x1 - x0:.1f}" '
+                    f'height="{y1 - y0:.1f}" fill="none" stroke="{TEXT}" stroke-width="0.8"/>'
+                )
         else:
             extra += (
                 f'<rect x="0.5" y="0.5" width="{width - 1}" height="{h - 1}" '

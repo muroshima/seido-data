@@ -1,0 +1,18 @@
+---
+title: 特別児童扶養手当
+lg_code: '294012'
+lg_name: 高取町
+support: null
+url: https://www.town.takatori.nara.jp/contents_detail.php?co=cat&frmId=63&frmCd=5-13-3-0-0
+source: takatori-kosodate-teate
+source_id: contents_detail-84c587a5
+source_updated: null
+license: 不明
+attribution: 高取町「高取町 妊娠・出産・育児 手当・助成」を加工して作成
+content_sha256: 77db4143ce6aeedcda70f7bf353e9ac51c674508b029b2dc48cfe741cfb5d8b9
+facts_sha256: null
+---
+
+# 特別児童扶養手当
+
+取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。

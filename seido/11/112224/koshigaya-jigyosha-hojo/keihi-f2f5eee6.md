@@ -9,7 +9,7 @@ source_id: keihi-f2f5eee6
 source_updated: null
 license: 許可なく他メディアへの転載・引用はお断り
 attribution: 越谷市「越谷市 補助金のご案内（事業者）」を加工して作成
-content_sha256: 1dc2fc3bcfe42c33965256d3a1059a04c4984dc310d4393444be51e79e504ec6
+content_sha256: 23cd2c4d65ab8ada40130b9d1969fe45e5ea5f121949aca56efd48491950d5d6
 facts_sha256: null
 ---
 

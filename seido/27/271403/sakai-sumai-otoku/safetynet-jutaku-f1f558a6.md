@@ -1,18 +1,18 @@
 ---
-title: 宅地建物取引業者の皆様へ
+title: 住宅セーフティネット制度
 lg_code: '271403'
 lg_name: 堺市
 support: null
-url: https://www.city.sakai.lg.jp/kurashi/bosai/kangaeru/pamphlet/bosai/bosaimap23/71037520210427201523402.html
+url: https://www.city.sakai.lg.jp/kurashi/jutaku/jutaku/safetynet-jutaku.html
 source: sakai-sumai-otoku
-source_id: 71037520210427201523402-17e2f7af
+source_id: safetynet-jutaku-f1f558a6
 source_updated: null
 license: 無断複製・転用を禁止
 attribution: 堺市「堺市 住まいのお得情報」を加工して作成
-content_sha256: 78752a7ccacb0613cfe8a75f347b9783ba00a9239272d1ca26b3564654b961c2
+content_sha256: 053f4278443fcb89f8f223f5da4f9277b2b00404650e1f67259061bbd4dda06a
 facts_sha256: null
 ---
 
-# 宅地建物取引業者の皆様へ
+# 住宅セーフティネット制度
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。

@@ -9,7 +9,7 @@ source_id: jiritsushien-a67f5308
 source_updated: null
 license: 無断複製・転用を禁止
 attribution: 堺市「堺市 ひとり親家庭の方」を加工して作成
-content_sha256: aa5c47d4883599e4551e54fca4cf969241a213b795f75d3d858d044f90626d26
+content_sha256: b9912b63fd1d35f6e9a98949db0480ffe65f00a323d85f106d3c7739abc9e0da
 facts_sha256: null
 ---
 

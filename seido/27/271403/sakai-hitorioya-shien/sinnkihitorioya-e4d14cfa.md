@@ -9,7 +9,7 @@ source_id: sinnkihitorioya-e4d14cfa
 source_updated: null
 license: 無断複製・転用を禁止
 attribution: 堺市「堺市 ひとり親家庭の方」を加工して作成
-content_sha256: c7b799efcaaf4de1c0b9740bffd2786e47f53fc8f340c27f16d054b3c4aa5032
+content_sha256: 4340f7dbab152aaed3e31ef77e2ce58a7af076602168174e4db96220c9bacbcc
 facts_sha256: null
 ---
 

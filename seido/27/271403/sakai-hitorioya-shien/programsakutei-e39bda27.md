@@ -9,7 +9,7 @@ source_id: programsakutei-e39bda27
 source_updated: null
 license: 無断複製・転用を禁止
 attribution: 堺市「堺市 ひとり親家庭の方」を加工して作成
-content_sha256: ff0e7a1390c268cdea6faace27018cc470b55f3f5adc471eeef1eb430ce66433
+content_sha256: f2a99177d3a3d56fa0c2ed8ae0ce1b8b78794d19e5c245aca42bdc1f57b2c2cb
 facts_sha256: null
 ---
 

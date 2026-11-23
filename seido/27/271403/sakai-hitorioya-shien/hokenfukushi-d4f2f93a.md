@@ -9,7 +9,7 @@ source_id: hokenfukushi-d4f2f93a
 source_updated: null
 license: 無断複製・転用を禁止
 attribution: 堺市「堺市 ひとり親家庭の方」を加工して作成
-content_sha256: db2774922f001ed70c1989ed7848233c1985bf6cff619f6dc31ea356a794d9e4
+content_sha256: d6b35c2577f621580b6b67fcc835cc448ddfccc1f15418ec7b75a06a3c5df1b3
 facts_sha256: null
 ---
 

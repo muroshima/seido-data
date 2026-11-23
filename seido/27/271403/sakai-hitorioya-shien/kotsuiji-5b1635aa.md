@@ -9,7 +9,7 @@ source_id: kotsuiji-5b1635aa
 source_updated: null
 license: 無断複製・転用を禁止
 attribution: 堺市「堺市 ひとり親家庭の方」を加工して作成
-content_sha256: 1223eb2bb2affbfc09492042e7d3b3fe4e597f48698acb60664834eeb24246a2
+content_sha256: 0e87f6de1b8af2a547c24d40ea05fc0666444303a03ce3da795b20085ab1a17a
 facts_sha256: null
 ---
 

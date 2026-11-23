@@ -9,7 +9,7 @@ source_id: jidoufuyouteategifuto-a7eee9e7
 source_updated: null
 license: 無断複製・転用を禁止
 attribution: 堺市「堺市 ひとり親家庭の方」を加工して作成
-content_sha256: 9de15ed917eabb345db312a318f9e86b885e542cccf62c097cf5269b3fee2d89
+content_sha256: de17423b78cacb88b9171d3c9a4a5766b5fe241667a6d697b975e180317e5f75
 facts_sha256: null
 ---
 

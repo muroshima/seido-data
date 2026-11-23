@@ -10,9 +10,17 @@ source_updated: null
 license: 不明
 attribution: 嬬恋村「嬬恋村 健康・福祉」を加工して作成
 content_sha256: 154e60fc8f18ab3f04ff2a7a26f38c40aa285c75466dfcd6b49e978633647d07
-facts_sha256: null
+facts_sha256: 154e60fc8f18ab3f04ff2a7a26f38c40aa285c75466dfcd6b49e978633647d07
 ---
 
 # 難病対策（難病患者等のための福祉サービス）
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+難病患者等
+
+## 問い合わせ
+
+健康福祉課

@@ -10,7 +10,7 @@ source_updated: null
 license: 無断で複製・転用を禁止
 attribution: 高山村「高山村 福祉・介護一覧」を加工して作成
 content_sha256: 18903a101cc57d0c328d8ee966a58f17eacbf531332ed84846f8a6c5fc0f56f4
-facts_sha256: null
+facts_sha256: 18903a101cc57d0c328d8ee966a58f17eacbf531332ed84846f8a6c5fc0f56f4
 ---
 
 # 介護サービスの手続き（申請から利用まで）

@@ -10,9 +10,13 @@ source_updated: null
 license: 無断で複製・転用を禁止
 attribution: 高山村「高山村 福祉・介護一覧」を加工して作成
 content_sha256: e5442d51c57dd947290da302bf4b6a8f0bafa814d01445ad3520c87b637506c6
-facts_sha256: null
+facts_sha256: e5442d51c57dd947290da302bf4b6a8f0bafa814d01445ad3520c87b637506c6
 ---
 
 # 路線バス案内
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 問い合わせ
+
+高山村役場地域振興課 0279-63-2111

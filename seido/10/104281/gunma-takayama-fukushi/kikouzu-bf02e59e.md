@@ -10,9 +10,13 @@ source_updated: null
 license: 無断で複製・転用を禁止
 attribution: 高山村「高山村 福祉・介護一覧」を加工して作成
 content_sha256: 4abb5651a593bfc645d3b25e2d76aca9598ec27097bb1f63b3f98b608d0b61a7
-facts_sha256: null
+facts_sha256: 4abb5651a593bfc645d3b25e2d76aca9598ec27097bb1f63b3f98b608d0b61a7
 ---
 
 # 行政機構図
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 問い合わせ
+
+9b;3BlCO0h?66=2] 377-0792 / 72GO8)8c:J749b;3B< 0279-63-2111 / BeI=EEOC 0279-63-2768

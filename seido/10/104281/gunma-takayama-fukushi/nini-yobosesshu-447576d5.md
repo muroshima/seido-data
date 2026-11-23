@@ -10,9 +10,17 @@ source_updated: null
 license: 無断で複製・転用を禁止
 attribution: 高山村「高山村 福祉・介護一覧」を加工して作成
 content_sha256: 0e5dcf876793cfdcf3c6288cdd47c0e5ebacc02cac283d43929535c34d6aa888
-facts_sha256: null
+facts_sha256: 0e5dcf876793cfdcf3c6288cdd47c0e5ebacc02cac283d43929535c34d6aa888
 ---
 
 # 任意予防接種の助成
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 支援内容
+
+任意予防接種の費用補助
+
+## 問い合わせ
+
+保健福祉センター 電話：0279-63-1311

@@ -10,7 +10,7 @@ source_updated: null
 license: 無断で複製・転用を禁止
 attribution: 高山村「高山村 福祉・介護一覧」を加工して作成
 content_sha256: 1fae31cecf69941e86c6a8063c51a6499edce1834fd6c820882d12dda24f1aba
-facts_sha256: null
+facts_sha256: 1fae31cecf69941e86c6a8063c51a6499edce1834fd6c820882d12dda24f1aba
 ---
 
 # 

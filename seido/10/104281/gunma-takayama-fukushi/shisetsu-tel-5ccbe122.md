@@ -10,9 +10,25 @@ source_updated: null
 license: 無断で複製・転用を禁止
 attribution: 高山村「高山村 福祉・介護一覧」を加工して作成
 content_sha256: 6575894ac734cfdbe70e97c0ff5f4ec2cf51e7ddca15eda22eeae0016698ed9a
-facts_sha256: null
+facts_sha256: 6575894ac734cfdbe70e97c0ff5f4ec2cf51e7ddca15eda22eeae0016698ed9a
 ---
 
 # 施設電話帳
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+施設電話帳
+
+## 支援内容
+
+村内施設の電話番号を掲載
+
+## 利用方法
+
+電話で問い合わせ可能
+
+## 問い合わせ
+
+高山村役場地域振興課 0279-63-2111

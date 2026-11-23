@@ -10,9 +10,29 @@ source_updated: null
 license: 無断で複製・転用を禁止
 attribution: 高山村「高山村 福祉・介護一覧」を加工して作成
 content_sha256: 626cc7740c0a517378c8a3cbf1cd3fb416a38fb90f5a3e0a6dc05bd3edf63ef3
-facts_sha256: null
+facts_sha256: 626cc7740c0a517378c8a3cbf1cd3fb416a38fb90f5a3e0a6dc05bd3edf63ef3
 ---
 
 # 障害福祉サービスについて
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+障害のある方
+
+## 支援内容
+
+総合的な支援
+
+## 期間
+
+平成25年4月から
+
+## 利用方法
+
+市町村窓口
+
+## 問い合わせ
+
+市町村窓口

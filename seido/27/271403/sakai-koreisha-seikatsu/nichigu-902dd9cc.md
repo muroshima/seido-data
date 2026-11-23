@@ -9,7 +9,7 @@ source_id: nichigu-902dd9cc
 source_updated: null
 license: 無断複製・転用を禁止
 attribution: 堺市「堺市 高齢者生活支援」を加工して作成
-content_sha256: 12e51e48392392e16e16fbb18de6fbc16ef9e9cd6ffbabfb74e215ce4e7c775c
+content_sha256: 4ced4a027f6f1c35824e83f7afa0f332d8587bdd83679dbf97953c71ad9fab21
 facts_sha256: null
 ---
 

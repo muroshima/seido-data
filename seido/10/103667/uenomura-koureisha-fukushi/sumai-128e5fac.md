@@ -10,9 +10,21 @@ source_updated: null
 license: 不明
 attribution: 上野村「上野村 高齢者福祉」を加工して作成
 content_sha256: 2a3503bec61bed25eeaba7d75cfa33a7da698ec0c6ad4e2a4dbb8d3e6dcff5bc
-facts_sha256: null
+facts_sha256: 2a3503bec61bed25eeaba7d75cfa33a7da698ec0c6ad4e2a4dbb8d3e6dcff5bc
 ---
 
 # 住まい・引っ越し
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+住民
+
+## 支援内容
+
+戸籍・住民票の変更手続き
+
+## 利用方法
+
+市区町村役場で手続き

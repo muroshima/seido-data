@@ -10,9 +10,17 @@ source_updated: null
 license: 不明
 attribution: 上野村「上野村 高齢者福祉」を加工して作成
 content_sha256: b53067bb28cd4ad6dafdf290669d3d5cd5a5a3fef75d49c6aa7a8211ac6838b4
-facts_sha256: null
+facts_sha256: b53067bb28cd4ad6dafdf290669d3d5cd5a5a3fef75d49c6aa7a8211ac6838b4
 ---
 
 # 公共施設利用申込
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+村民
+
+## 問い合わせ
+
+教育委員会

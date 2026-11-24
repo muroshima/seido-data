@@ -10,7 +10,7 @@ source_updated: null
 license: 許可なく他メディアへの転載・引用はお断り
 attribution: 越谷市「越谷市 住まい」を加工して作成
 content_sha256: 161046bc6bb2315017eb42bfdea9f8d67bf1357094c0b7e65b89725b856d2769
-facts_sha256: null
+facts_sha256: 161046bc6bb2315017eb42bfdea9f8d67bf1357094c0b7e65b89725b856d2769
 ---
 
 # 越谷市営住宅再整備基本計画を策定しました

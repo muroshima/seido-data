@@ -10,9 +10,13 @@ source_updated: null
 license: 許可なく他メディアへの転載・引用はお断り
 attribution: 越谷市「越谷市 住まい」を加工して作成
 content_sha256: 4a243262d27f607ab665bebc712f30bc028c731593875a71318da0d0be9e3eeb
-facts_sha256: null
+facts_sha256: 4a243262d27f607ab665bebc712f30bc028c731593875a71318da0d0be9e3eeb
 ---
 
 # 土地の税負担の調整措置
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 支援内容
+
+税負担を調整

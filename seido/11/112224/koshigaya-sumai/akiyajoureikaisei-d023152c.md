@@ -10,7 +10,7 @@ source_updated: null
 license: 許可なく他メディアへの転載・引用はお断り
 attribution: 越谷市「越谷市 住まい」を加工して作成
 content_sha256: fb766867fbd88f842e7f330432f9af0163d5778857511818f6eb90974af92d83
-facts_sha256: null
+facts_sha256: fb766867fbd88f842e7f330432f9af0163d5778857511818f6eb90974af92d83
 ---
 
 # 越谷市空き家等の適正管理に関する条例の一部改正について

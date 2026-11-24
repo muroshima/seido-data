@@ -10,7 +10,7 @@ source_updated: null
 license: 許可なく他メディアへの転載・引用はお断り
 attribution: 越谷市「越谷市 住まい」を加工して作成
 content_sha256: 9a3c5a8bc6008aa9acc8e7446108087c7559bf3646e9df25caa9fde9e8671935
-facts_sha256: null
+facts_sha256: 9a3c5a8bc6008aa9acc8e7446108087c7559bf3646e9df25caa9fde9e8671935
 ---
 
 # 家屋の評価の仕組み

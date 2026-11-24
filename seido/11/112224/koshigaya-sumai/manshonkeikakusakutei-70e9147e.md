@@ -10,9 +10,13 @@ source_updated: null
 license: 許可なく他メディアへの転載・引用はお断り
 attribution: 越谷市「越谷市 住まい」を加工して作成
 content_sha256: 5d6544c3e5106a53a70274f0f34a08f6feef0bc3e67c5d142aeb44ffb6a38087
-facts_sha256: null
+facts_sha256: 5d6544c3e5106a53a70274f0f34a08f6feef0bc3e67c5d142aeb44ffb6a38087
 ---
 
 # 越谷市マンション管理適正化推進計画を策定しました
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 期間
+
+継続的

@@ -10,7 +10,7 @@ source_updated: null
 license: 許可なく他メディアへの転載・引用はお断り
 attribution: 越谷市「越谷市 住まい」を加工して作成
 content_sha256: ada8cab55d90f162e13206553440172f647b2d92c6a9ee75f0f0c97f006987ac
-facts_sha256: null
+facts_sha256: ada8cab55d90f162e13206553440172f647b2d92c6a9ee75f0f0c97f006987ac
 ---
 
 # 家屋と償却資産との区分

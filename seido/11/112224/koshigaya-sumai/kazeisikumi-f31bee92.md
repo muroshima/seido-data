@@ -10,7 +10,7 @@ source_updated: null
 license: 許可なく他メディアへの転載・引用はお断り
 attribution: 越谷市「越谷市 住まい」を加工して作成
 content_sha256: 48eb416d8604bec1c356b7dfe87c03f342bac46bdb6a47e8838a839dba0fbc9a
-facts_sha256: null
+facts_sha256: 48eb416d8604bec1c356b7dfe87c03f342bac46bdb6a47e8838a839dba0fbc9a
 ---
 
 # 固定資産税・都市計画税の課税の仕組み

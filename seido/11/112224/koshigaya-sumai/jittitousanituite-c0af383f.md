@@ -10,7 +10,7 @@ source_updated: null
 license: 許可なく他メディアへの転載・引用はお断り
 attribution: 越谷市「越谷市 住まい」を加工して作成
 content_sha256: 239b0c27c3681c4c5b8ce66ddfb9f83d07278341aab3de8b46707ede179ba27f
-facts_sha256: null
+facts_sha256: 239b0c27c3681c4c5b8ce66ddfb9f83d07278341aab3de8b46707ede179ba27f
 ---
 
 # 実地調査について

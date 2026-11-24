@@ -10,9 +10,21 @@ source_updated: null
 license: 許可なく他メディアへの転載・引用はお断り
 attribution: 越谷市「越谷市 住まい」を加工して作成
 content_sha256: b00757fcf6adf6d3144bfcf94e11de911cd3dad98a39423bcef746f2fe8e946b
-facts_sha256: null
+facts_sha256: b00757fcf6adf6d3144bfcf94e11de911cd3dad98a39423bcef746f2fe8e946b
 ---
 
 # 住宅に対する減額措置
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+新築住宅または耐震・省エネ・バリアフリー改修住宅
+
+## 支援内容
+
+固定資産税の減額
+
+## 期間
+
+新築後3〜5年、改修後1〜2年

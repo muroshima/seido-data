@@ -10,7 +10,7 @@ source_updated: null
 license: 許可なく他メディアへの転載・引用はお断り
 attribution: 越谷市「越谷市 住まい」を加工して作成
 content_sha256: ff15335ab852cb9cba3036b9fbead05721f7d440b6ec1651f834ab6f6c0783df
-facts_sha256: null
+facts_sha256: ff15335ab852cb9cba3036b9fbead05721f7d440b6ec1651f834ab6f6c0783df
 ---
 
 # 建築物のエネルギー消費性能の向上に関する法律に基づく認定について

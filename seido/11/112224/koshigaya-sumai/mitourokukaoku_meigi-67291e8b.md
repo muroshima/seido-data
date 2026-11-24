@@ -10,9 +10,17 @@ source_updated: null
 license: 許可なく他メディアへの転載・引用はお断り
 attribution: 越谷市「越谷市 住まい」を加工して作成
 content_sha256: ee5e7840cc12f8d31467c771e80de1de2b74d2daccc5f8f665f21942b8ce3a35
-facts_sha256: null
+facts_sha256: ee5e7840cc12f8d31467c771e80de1de2b74d2daccc5f8f665f21942b8ce3a35
 ---
 
 # 未登録（未登記）家屋の名義変更
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+未登記家屋の所有者
+
+## 問い合わせ
+
+資産税課

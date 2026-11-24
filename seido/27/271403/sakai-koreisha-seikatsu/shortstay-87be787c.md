@@ -9,7 +9,7 @@ source_id: shortstay-87be787c
 source_updated: null
 license: 無断複製・転用を禁止
 attribution: 堺市「堺市 高齢者生活支援」を加工して作成
-content_sha256: d8b8a8180a6ae88b23676c5ee93e82d23d87cae24f32fe669614da28e5535fac
+content_sha256: 747a74ee3392efa5526fd810ddd792493d7fdb92685bd6b18fa23d0fbc520ed6
 facts_sha256: null
 ---
 

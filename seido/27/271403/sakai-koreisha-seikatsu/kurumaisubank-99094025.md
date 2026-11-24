@@ -9,7 +9,7 @@ source_id: kurumaisubank-99094025
 source_updated: null
 license: 無断複製・転用を禁止
 attribution: 堺市「堺市 高齢者生活支援」を加工して作成
-content_sha256: ff426fa412be7ed91b053ffe2b4c88dcccad4e7270e191c27b22e75fff3a3da3
+content_sha256: b5c0c45ffcf75dee5828c3ab39b6d8bf77607b21d026161755b1daccc8462bb5
 facts_sha256: null
 ---
 

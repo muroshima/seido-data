@@ -9,7 +9,7 @@ source_id: kamiomutsu-ebee61ea
 source_updated: null
 license: 無断複製・転用を禁止
 attribution: 堺市「堺市 高齢者生活支援」を加工して作成
-content_sha256: d74a25385b81e18e943a62016383838a32e568d675957c4c1225985f20f41903
+content_sha256: 748390d16eeb8c7d16ed7b20027934863139f5e54f38b170fe9501480662882e
 facts_sha256: null
 ---
 

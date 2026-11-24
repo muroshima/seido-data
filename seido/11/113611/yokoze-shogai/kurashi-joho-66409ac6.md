@@ -10,7 +10,7 @@ source_updated: null
 license: 無断使用・複製・転載・改変を禁止
 attribution: 横瀬町「横瀬町 障がい者福祉」を加工して作成
 content_sha256: be45e20990325aab4196f0ec04e68ceac79d58f7025bf865c7e5f9f16a1b8d1c
-facts_sha256: null
+facts_sha256: be45e20990325aab4196f0ec04e68ceac79d58f7025bf865c7e5f9f16a1b8d1c
 ---
 
 # 暮らしに関する情報

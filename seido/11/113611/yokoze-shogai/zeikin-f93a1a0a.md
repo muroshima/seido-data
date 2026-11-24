@@ -10,7 +10,7 @@ source_updated: null
 license: 無断使用・複製・転載・改変を禁止
 attribution: 横瀬町「横瀬町 障がい者福祉」を加工して作成
 content_sha256: a02123d23703a1ceb78ca78e07cacce9f397491b5b52245903a5f6de3791d70c
-facts_sha256: null
+facts_sha256: a02123d23703a1ceb78ca78e07cacce9f397491b5b52245903a5f6de3791d70c
 ---
 
 # 税金

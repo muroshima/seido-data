@@ -10,7 +10,7 @@ source_updated: null
 license: 無断使用・複製・転載・改変を禁止
 attribution: 横瀬町「横瀬町 障がい者福祉」を加工して作成
 content_sha256: f00b3b374a50742703d42367c0fe66d93a94e4a48772ee598f08b38c2660d1e6
-facts_sha256: null
+facts_sha256: f00b3b374a50742703d42367c0fe66d93a94e4a48772ee598f08b38c2660d1e6
 ---
 
 # マイナンバー

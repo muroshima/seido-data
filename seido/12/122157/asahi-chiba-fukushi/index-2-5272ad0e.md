@@ -9,8 +9,8 @@ source_id: index-2-5272ad0e
 source_updated: null
 license: 無断複製・転用を禁止（私的使用・引用を除く）
 attribution: 旭市「旭市 健康・福祉 > 福祉」を加工して作成
-content_sha256: 766caf10b1fcbb5b07697d39db8fab02caedb3e2ea4ddab82bf263bc518e3e49
-facts_sha256: null
+content_sha256: 0a4c62fd2d254a99aa3f507bad2fba20bd9c815005c04fc2a40df2d91258fb74
+facts_sha256: 0a4c62fd2d254a99aa3f507bad2fba20bd9c815005c04fc2a40df2d91258fb74
 ---
 
 # 福祉

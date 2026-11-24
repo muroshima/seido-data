@@ -10,9 +10,21 @@ source_updated: null
 license: 無断使用・複製・転載・改変等を禁止
 attribution: 所沢市「所沢市 年金・手当（障害者福祉）」を加工して作成
 content_sha256: 18cfaae7304ecfe2ca868551bde6fb8f970fdb4f7db5e32c130ec898f3599558
-facts_sha256: null
+facts_sha256: 18cfaae7304ecfe2ca868551bde6fb8f970fdb4f7db5e32c130ec898f3599558
 ---
 
 # 特別障害者手当等手当額改定
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+障害者
+
+## 支援内容
+
+手当額の改定
+
+## 期間
+
+令和8年4月から

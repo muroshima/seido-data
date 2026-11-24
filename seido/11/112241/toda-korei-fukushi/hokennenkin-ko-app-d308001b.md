@@ -10,9 +10,21 @@ source_updated: null
 license: 無断転載を禁止
 attribution: 戸田市「戸田市 高齢者福祉サービス」を加工して作成
 content_sha256: 336e239726f0cd81882fc0e4a1ffa9041b100054a0029f5dab29e34fc1d6d9b9
-facts_sha256: null
+facts_sha256: 336e239726f0cd81882fc0e4a1ffa9041b100054a0029f5dab29e34fc1d6d9b9
 ---
 
 # 後期高齢者各種申請
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+後期高齢者
+
+## 利用方法
+
+郵送
+
+## 問い合わせ
+
+市役所

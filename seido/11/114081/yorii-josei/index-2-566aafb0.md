@@ -10,7 +10,7 @@ source_updated: null
 license: 無断使用・転載を禁止
 attribution: 寄居町「寄居町 助成・制度」を加工して作成
 content_sha256: a94aa1a644b216fcdc2e2deab12e6aa772f35c3d67dd4ed9be9ff8af69ea53c3
-facts_sha256: null
+facts_sha256: a94aa1a644b216fcdc2e2deab12e6aa772f35c3d67dd4ed9be9ff8af69ea53c3
 ---
 
 # 助成・制度

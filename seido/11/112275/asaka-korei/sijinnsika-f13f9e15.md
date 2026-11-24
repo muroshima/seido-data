@@ -9,8 +9,8 @@ source_id: sijinnsika-f13f9e15
 source_updated: null
 license: 無断複製・転用を禁止（使用は事前相談）
 attribution: 朝霞市「朝霞市 高齢者」を加工して作成
-content_sha256: a92f9521d1c55780410af25a220fae4ec0b8c1313485f87f854c63bdc64d52ff
-facts_sha256: a92f9521d1c55780410af25a220fae4ec0b8c1313485f87f854c63bdc64d52ff
+content_sha256: 9a48cda7886058ae06f39b6e76d07e7a9aa43bb4732a75ba9d1dd6cd36b22fba
+facts_sha256: 9a48cda7886058ae06f39b6e76d07e7a9aa43bb4732a75ba9d1dd6cd36b22fba
 ---
 
 # 大人の歯の健診【お申し込み受付中】

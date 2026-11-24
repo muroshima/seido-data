@@ -10,7 +10,7 @@ source_updated: null
 license: 無断の複製・転載・改変を禁止
 attribution: 東秩父村「東秩父村 福祉・子育て」を加工して作成
 content_sha256: df6bdbd05f25db26121a4f12f1953f0d899b4831a746cee611a844f9e42a9441
-facts_sha256: null
+facts_sha256: df6bdbd05f25db26121a4f12f1953f0d899b4831a746cee611a844f9e42a9441
 ---
 
 # 福祉・子育て

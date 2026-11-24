@@ -10,7 +10,7 @@ source_updated: null
 license: 市の許可なく無断使用・複製・転載・改変を禁止
 attribution: 坂戸市「坂戸市 助成・手当て」を加工して作成
 content_sha256: 9d48e3bb14d22d7a6e30b3811fb74e172a8b0b52b5f18ae51a539b10c22f2906
-facts_sha256: null
+facts_sha256: 9d48e3bb14d22d7a6e30b3811fb74e172a8b0b52b5f18ae51a539b10c22f2906
 ---
 
 # 助成・手当て

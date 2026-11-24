@@ -9,8 +9,8 @@ source_id: smarthouse2022-d6c98c81
 source_updated: null
 license: 無断使用・複製・転載・改変等を禁止
 attribution: 所沢市「所沢市 補助・給付・貸付（かんたんあれこれ検索）」を加工して作成
-content_sha256: d0727cab5ec6bee80f945cf692f3f6b920b5ae20f6baf7ec9378676ce61a0f8b
-facts_sha256: d0727cab5ec6bee80f945cf692f3f6b920b5ae20f6baf7ec9378676ce61a0f8b
+content_sha256: e04726010b6e80385500c263d0ce5a43fae0ebe29c2dbbe5d0f9bce416592102
+facts_sha256: e04726010b6e80385500c263d0ce5a43fae0ebe29c2dbbe5d0f9bce416592102
 ---
 
 # （まもなく終了）令和8年度【家庭用】エコリフォーム「所沢市スマートハウス化推進補助金」のご案内

@@ -75,13 +75,17 @@ def load_record(root: Path, source_id: str, path: Path) -> Record:
 def fill_source(
     root: Path, info: SourceInfo, fmt: str, paths: list[Path], llm, deadline: float
 ) -> tuple[int, int]:
-    """1 つの取得元の待ちページを取り出す。(取り出した数, 本文が変わっていて見送った数)。"""
+    """1 つの取得元の待ちページを取り出す。(取り出した数, 本文が変わったか取れずに見送った数)。"""
     done = changed = 0
     for path in paths:
         if time.monotonic() > deadline:
             break
         record = load_record(root, info.name, path)
-        text = page_text(record.raw["url"], fmt)
+        try:
+            text = page_text(record.raw["url"], fmt)
+        except Exception:  # noqa: BLE001 消えたページや一時的な失敗は、次の巡回で観測する
+            changed += 1
+            continue
         if hashlib.sha256(text.encode()).hexdigest() != record.raw["content_sha256"]:
             changed += 1
             continue
@@ -166,7 +170,9 @@ def run(
                 if done:
                     print(f"{sid}: {done} ページから制度の情報を取り出した")
                 if changed:
-                    print(f"{sid}: {changed} ページは本文が変わっていたので次の巡回に回す")
+                    print(
+                        f"{sid}: {changed} ページは本文が変わったか取れなかったので次の巡回に回す"
+                    )
             if do_commit and git(root, "status", "--porcelain", "--", "seido").strip():
                 commit(root, info)
             if client is None:

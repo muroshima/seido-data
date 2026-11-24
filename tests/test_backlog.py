@@ -114,3 +114,12 @@ def test_gives_gpu_back_between_chunks(repo, monkeypatch):
         assert llm() is not None
         assert llm() is None
     assert json.loads((repo / f"raw/{SID}/131016/a.json").read_text())["title"] == "児童手当"
+
+
+def test_unreachable_page_is_left_for_the_next_crawl(repo, llm, monkeypatch):
+    def gone(url, fmt):
+        raise OSError("404")
+
+    monkeypatch.setattr(backlog, "page_text", gone)
+    assert cli.main(["--root", str(repo), "fill", "--commit"]) == 0
+    assert read_front(repo / MD)["facts_sha256"] is None

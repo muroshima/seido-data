@@ -10,9 +10,25 @@ source_updated: null
 license: 無断使用・転載を禁止
 attribution: 吉岡町「吉岡町 子育て」を加工して作成
 content_sha256: 9f7c7986bffc7b518e73606709337fb13dbea8aea6a3c2bd77c2e439ef0e68ec
-facts_sha256: null
+facts_sha256: 9f7c7986bffc7b518e73606709337fb13dbea8aea6a3c2bd77c2e439ef0e68ec
 ---
 
 # 赤ちゃんの駅登録施設一覧
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+子育て家族
+
+## 期間
+
+施設の開設時間内
+
+## 利用方法
+
+施設の利用条件に従う
+
+## 問い合わせ
+
+施設に直接確認すること

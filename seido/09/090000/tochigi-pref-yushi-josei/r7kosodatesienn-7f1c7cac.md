@@ -9,8 +9,8 @@ source_id: r7kosodatesienn-7f1c7cac
 source_updated: null
 license: 無断転載を禁止（転載は事前に担当課へ報告し承認が必要）
 attribution: 栃木県「栃木県 融資・助成・補助」を加工して作成
-content_sha256: fcf7f65f297717562306a69562f7527780421a4deaba0b8f3c8934cf6d5a1b7f
-facts_sha256: fcf7f65f297717562306a69562f7527780421a4deaba0b8f3c8934cf6d5a1b7f
+content_sha256: 4d3079e8d68813fbc15e606a546ee49e3e794b9f4ee9dce1982fd9b05bfd0dae
+facts_sha256: 4d3079e8d68813fbc15e606a546ee49e3e794b9f4ee9dce1982fd9b05bfd0dae
 ---
 
 # 子育て世帯等住宅断熱化支援事業
@@ -23,15 +23,15 @@ facts_sha256: fcf7f65f297717562306a69562f7527780421a4deaba0b8f3c8934cf6d5a1b7f
 
 ## 支援内容
 
-住宅断熱化の費用補助
+住宅断熱化・新築住宅取得
 
 ## 期間
 
-令和8年5月18日から令和9年1月29日
+2026年5月18日～2027年1月29日
 
 ## 利用方法
 
-郵送で申請書類を提出
+郵送で申請書類提出
 
 ## 問い合わせ
 

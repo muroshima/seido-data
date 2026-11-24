@@ -9,8 +9,8 @@ source_id: r8tiikikoumutennzeh-85d8fd90
 source_updated: null
 license: 無断転載を禁止（転載は事前に担当課へ報告し承認が必要）
 attribution: 栃木県「栃木県 融資・助成・補助」を加工して作成
-content_sha256: 8ec4338fb5f8787c63e31f59617ba6272ae583c8b59a337e18f2fda52eef96b9
-facts_sha256: 8ec4338fb5f8787c63e31f59617ba6272ae583c8b59a337e18f2fda52eef96b9
+content_sha256: 6853d35dae263f79a4d08092a31e7c86891d0c44d44ef413305907878821cc15
+facts_sha256: 6853d35dae263f79a4d08092a31e7c86891d0c44d44ef413305907878821cc15
 ---
 
 # 地域工務店によるZEH普及促進事業
@@ -31,4 +31,4 @@ ZEH高断熱化等の材料・設備購入・工事経費
 
 ## 利用方法
 
-郵送または持参で提出
+郵送または持参で申請

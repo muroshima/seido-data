@@ -9,7 +9,7 @@ source_id: hitorioya-d5a0a3fa
 source_updated: null
 license: 無断複製・転用を禁止
 attribution: 堺市「堺市 ひとり親家庭の方」を加工して作成
-content_sha256: 59d746ae293cf04a78c9a96d46b37231dd0385428c4d10a7976676b3073cd451
+content_sha256: 230a588d3ea4cbdf8d3a10253b1ca8b7097d958600ad25b19e0be4f7d3c1ef6e
 facts_sha256: null
 ---
 

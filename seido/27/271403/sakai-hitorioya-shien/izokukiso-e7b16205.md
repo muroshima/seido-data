@@ -9,7 +9,7 @@ source_id: izokukiso-e7b16205
 source_updated: null
 license: 無断複製・転用を禁止
 attribution: 堺市「堺市 ひとり親家庭の方」を加工して作成
-content_sha256: dfcc8df0b9c1ff5741deccfaa7e7c2fc45b45484cece2db95dbb104b7f540807
+content_sha256: f70957aab3cb2eea00052acf406bbe62bf655a77f9854e50c0856de9927b3986
 facts_sha256: null
 ---
 

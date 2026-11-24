@@ -9,8 +9,8 @@ source_id: zeroyuushi-6d954da6
 source_updated: null
 license: 無断転載はご遠慮ください（オープンデータはCC BY 4.0）
 attribution: 府中市「府中市 中小企業・商店会への支援・助成金」を加工して作成
-content_sha256: b5e4c338e52c7260da2a9ee5a33af8b098db07b6d168001281f52399a7e1cd77
-facts_sha256: b5e4c338e52c7260da2a9ee5a33af8b098db07b6d168001281f52399a7e1cd77
+content_sha256: 310fe22b08b940ea028184b712263810651ebbd039a35fde7d577ceebcac0ad1
+facts_sha256: 310fe22b08b940ea028184b712263810651ebbd039a35fde7d577ceebcac0ad1
 ---
 
 # 【融資】緊急支援資金について
@@ -19,7 +19,7 @@ facts_sha256: b5e4c338e52c7260da2a9ee5a33af8b098db07b6d168001281f52399a7e1cd77
 
 ## 対象者
 
-市内中小企業者で、原材料価格やエネルギー価格の高騰により売上高・利益が3％以上減少している者
+市内中小企業者で、原材料価格やエネルギー価格の高騰により売上高・利益が前年同期比3％以上減少している者
 
 ## 支援内容
 

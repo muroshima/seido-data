@@ -10,9 +10,17 @@ source_updated: null
 license: 不明
 attribution: 三芳町「三芳町 障がい者」を加工して作成
 content_sha256: 5cae13012a3a580e0d865075b3eb3a53b909163dbbe3efa536439a08bdbaa418
-facts_sha256: null
+facts_sha256: 5cae13012a3a580e0d865075b3eb3a53b909163dbbe3efa536439a08bdbaa418
 ---
 
 # あいサポート運動
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 支援内容
+
+地域社会の共生
+
+## 問い合わせ
+
+福祉課/福祉支援担当

@@ -10,7 +10,7 @@ source_updated: null
 license: 無断使用・複製・転載・改変を禁止
 attribution: 横瀬町「横瀬町 手当・助成」を加工して作成
 content_sha256: 54f0702e6a945f7d418f2827bd4b2c2782872b407033c55c70d921f1b56f87d2
-facts_sha256: null
+facts_sha256: 54f0702e6a945f7d418f2827bd4b2c2782872b407033c55c70d921f1b56f87d2
 ---
 
 # 健康・医療・衛生

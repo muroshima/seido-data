@@ -90,3 +90,16 @@ Builder-Version: <取り込みのコードの版>
 - author と committer の日時は、どちらも観測日の 00:00 JST です。更新が止まった取得元は、止まった日にします。
 - 1 コミットは 1 つの取得元の 1 回の観測で、`raw/` と `seido/`（`seido/index.csv` を含む）だけを変えます。
 - コードや対応表の変更のコミットは、この書式を持ちません（trailer の `Source` が無い）。
+
+日次の巡回で GPU が空かず、制度の情報を取り出せなかったページは、あとで GPU の空いた時間に取り出し、別のコミットにします。前回の巡回のときと本文が同じページだけが対象で、`seido/` の項目と `facts_sha256` だけを変えます（`raw/` と `seido/index.csv` は変えません）。
+
+```
+<source_id>: 前回の巡回で取った本文から制度の情報を取り出す
+
+Source: <source_id>
+Source-Url: <取得元の入口の URL>
+Extracted: <取り出した日 YYYY-MM-DD>
+Builder-Version: <取り込みのコードの版>
+```
+
+- `Observed` を持たず、author と committer の日時は取り出した時刻です。観測のコミットだけを見たいときは `Observed` のあるコミットに絞ってください。

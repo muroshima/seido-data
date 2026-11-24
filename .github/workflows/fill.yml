@@ -1,0 +1,42 @@
+# 日次の巡回（update.yml）が GPU を待てずに見送った抽出を、1 日に何度か GPU の空きを見て進める。
+# 巡回はしない。前回の巡回のときと本文が同じページだけを取り直して LLM に回し、seido/ に積む。
+# GPU は Kaggle のジョブが優先。空いていなければ何もせずに終わり、使っている間も 10 分ごとに譲る
+name: fill
+
+on:
+  schedule:
+    - cron: "0 0,4,8,12,16 * * *" # 09:00・13:00・17:00・21:00・01:00 JST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fill
+  cancel-in-progress: false
+
+jobs:
+  fill:
+    if: github.repository == 'muroshima/seido'
+    # update と同じ自宅 PC の runner。runner は 1 台なので update と同時には動かない
+    runs-on: [self-hosted, seido]
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: astral-sh/setup-uv@v5
+      - run: uv sync --frozen
+      - name: git の作者
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: 取り出し
+        env:
+          # 抽出は始めてから 120 分まで。残りは次の実行に回す
+          SEIDO_EXTRACT_BUDGET: "7200"
+        run: uv run seido fill --commit
+      - if: ${{ !cancelled() }}
+        run: |
+          git pull --rebase origin main
+          git push origin HEAD:main

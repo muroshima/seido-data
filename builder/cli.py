@@ -1,10 +1,11 @@
 """seido registry <check|coverage|entities> / seido update <source_id ...|--daily> [--commit]
-/ seido index
+/ seido index / seido fill [--commit]
 
 registry: 対応表（registry/）を検証し、カバー状況を書き出し、団体の一覧を生成する。
 update:   対応表の取得元から取り込み、raw/ と seido/ を置き換える。--commit を付けると、
           変化があった取得元ごとに 1 コミット作る。コミット日は「観測日 00:00 JST」。
 index:    seido/ の制度ファイルから一覧（seido/index.csv）を作り直す。update は自動で作り直す。
+fill:     GPU が空いている間に、update が抽出を見送ったページだけを取り直して LLM に回す。
 """
 
 import argparse
@@ -19,7 +20,7 @@ from concurrent.futures import ThreadPoolExecutor
 from concurrent.futures import TimeoutError as FuturesTimeout
 from pathlib import Path
 
-from . import BUILDER_VERSION, extract, http, registry
+from . import BUILDER_VERSION, backlog, extract, http, registry
 from . import map as map_
 from .model import SourceInfo
 from .sources import Fetched, loader_for, source_info, stopped_at
@@ -57,6 +58,10 @@ def main(argv: list[str] | None = None) -> int:
         help="事実だけの取得元で、新しいページと変わったページから LLM で制度の情報を取り出す",
     )
     sub.add_parser("index", help="seido/index.csv（制度の一覧）を作り直す")
+    fl = sub.add_parser(
+        "fill", help="巡回はせず、制度の情報をまだ取り出していないページだけを LLM に回す"
+    )
+    fl.add_argument("--commit", action="store_true", help="取得元ごとに git commit する")
     args = parser.parse_args(argv)
 
     if args.cmd == "index":
@@ -64,6 +69,10 @@ def main(argv: list[str] | None = None) -> int:
         return 0
     if args.cmd == "update":
         return update(args.root, args.source_ids, args.daily, args.commit, args.extract)
+    if args.cmd == "fill":
+        entities, sources = registry.load(args.root)
+        budget = extract.EXTRACT_BUDGET or 3600
+        return backlog.run(args.root, sources, entities, budget, args.commit)
     return registry_command(args)
 
 

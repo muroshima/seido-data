@@ -1,14 +1,14 @@
 # main を公開用のリポジトリ（muroshima/seido-data）へそのまま送る。
 # このリポジトリは自宅 PC の self-hosted runner を使うので private のままにし、公開は送り先で行う。
 # 早送りでしか送らない（送り先の main を直接変えると止まる）。
-# update の push は GITHUB_TOKEN によるもので push イベントを起こさないので、workflow_run でも動かす
+# update と fill の push は GITHUB_TOKEN によるもので push イベントを起こさないので、workflow_run でも動かす
 name: mirror
 
 on:
   push:
     branches: [main]
   workflow_run:
-    workflows: [update]
+    workflows: [update, fill]
     types: [completed]
   workflow_dispatch:
 

@@ -99,6 +99,7 @@ Builder-Version: 0.1.0
 - trailer は `git log --format='%(trailers:key=Source,valueonly)'` で取り出せます。
 - `seido/index.csv` は、制度ファイルと同じコミットで更新します。どのコミットを取り出しても、一覧と制度ファイルが一致します。
 - 取得元から消えた制度は、そのコミットでファイルが削除されます。
+- 巡回の日に取り出せなかった制度の情報は、あとで別のコミット（trailer が `Observed` ではなく `Extracted`）で埋めます。書式は [docs/schema.md](docs/schema.md#コミット) にあります。
 - `main` は force-push しません。コミットの SHA は変わりません。
 
 ## 制限

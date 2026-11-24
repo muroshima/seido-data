@@ -10,9 +10,17 @@ source_updated: null
 license: 無断転載を禁止（引用は出典明示）
 attribution: 千代田町「千代田町 補助・助成」を加工して作成
 content_sha256: 9894143aec0c5e1d6b4c5dc2827af0cdb57783aeae567fad597acac26fcfd0d1
-facts_sha256: null
+facts_sha256: 9894143aec0c5e1d6b4c5dc2827af0cdb57783aeae567fad597acac26fcfd0d1
 ---
 
 # 高齢者等歩行補助用電動車等購入費補助金
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 支援内容
+
+電動車いす・電動三輪車・三輪自転車購入費の3分の1補助
+
+## 期間
+
+交付決定後1か月以内に購入

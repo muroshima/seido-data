@@ -10,9 +10,25 @@ source_updated: null
 license: 無断転載を禁止（引用は出典明示）
 attribution: 千代田町「千代田町 補助・助成」を加工して作成
 content_sha256: eecdbea4af8ab8acb1b5d7467d41a6afdd2e26fb48e8ebd9aa6fc8be0d8106cd
-facts_sha256: null
+facts_sha256: eecdbea4af8ab8acb1b5d7467d41a6afdd2e26fb48e8ebd9aa6fc8be0d8106cd
 ---
 
 # 成年後見制度利用支援事業
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+判断能力が十分でない方
+
+## 支援内容
+
+成年後見制度の利用支援
+
+## 利用方法
+
+保健福祉課への相談
+
+## 問い合わせ
+
+保健福祉課 地域包括支援センター係

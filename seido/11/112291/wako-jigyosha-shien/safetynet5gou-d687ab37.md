@@ -10,9 +10,17 @@ source_updated: null
 license: 無断転載を禁止（転載は許可が必要）
 attribution: 和光市「和光市 中小企業向け支援制度」を加工して作成
 content_sha256: 3a85a406009389567f4c1caabd0815ae6d9ab1ecadcccc1a5d8c9e0d26673cbb
-facts_sha256: null
+facts_sha256: 3a85a406009389567f4c1caabd0815ae6d9ab1ecadcccc1a5d8c9e0d26673cbb
 ---
 
 # セーフティネット保証5号
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+業績悪化している中小企業者
+
+## 支援内容
+
+中小企業者を支援

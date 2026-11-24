@@ -10,9 +10,13 @@ source_updated: null
 license: 権利者の許可なく複製・転用・販売等の二次利用を禁止
 attribution: 蓮田市「蓮田市 障がい者福祉」を加工して作成
 content_sha256: 1a7505d263bb9d9c19f5175acef607a965f64434f7fc133b3c0f79bec5cab6ed
-facts_sha256: null
+facts_sha256: 1a7505d263bb9d9c19f5175acef607a965f64434f7fc133b3c0f79bec5cab6ed
 ---
 
 # 障害者計画等策定委員会の結果（令和6年度第1回）
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 問い合わせ
+
+蓮田市役所

@@ -10,9 +10,13 @@ source_updated: null
 license: 権利者の許可なく複製・転用・販売等の二次利用を禁止
 attribution: 蓮田市「蓮田市 障がい者福祉」を加工して作成
 content_sha256: 28b45317f894680dbb7b3abe331e629b9ed93e48da35a6be6396a48c4ac0ee97
-facts_sha256: null
+facts_sha256: 28b45317f894680dbb7b3abe331e629b9ed93e48da35a6be6396a48c4ac0ee97
 ---
 
 # 障害者計画等策定委員会の結果（令和8年度第1回）
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 期間
+
+令和8年5月22日

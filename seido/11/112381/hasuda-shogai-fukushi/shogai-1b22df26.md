@@ -10,7 +10,7 @@ source_updated: null
 license: 権利者の許可なく複製・転用・販売等の二次利用を禁止
 attribution: 蓮田市「蓮田市 障がい者福祉」を加工して作成
 content_sha256: 7110b6dc6db1d926b00bee8a0ad52aae4923a656bf550b9bf4bb34a3b3d05987
-facts_sha256: null
+facts_sha256: 7110b6dc6db1d926b00bee8a0ad52aae4923a656bf550b9bf4bb34a3b3d05987
 ---
 
 # 障がいのあるかたへ

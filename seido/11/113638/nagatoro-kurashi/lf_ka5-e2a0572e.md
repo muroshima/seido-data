@@ -10,9 +10,13 @@ source_updated: null
 license: 不明
 attribution: 長瀞町「長瀞町 くらし・健康・福祉」を加工して作成
 content_sha256: 33cf787cf2fa3e6649c38dcc4e0b5fa3e8a259f25833c9bc055cf35e38e285aa
-facts_sha256: null
+facts_sha256: 33cf787cf2fa3e6649c38dcc4e0b5fa3e8a259f25833c9bc055cf35e38e285aa
 ---
 
 # 介護保険で利用できるサービス
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 支援内容
+
+居宅サービス・介護予防サービス・地域密着型サービス・施設サービス

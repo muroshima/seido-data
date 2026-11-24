@@ -10,9 +10,25 @@ source_updated: null
 license: 不明
 attribution: 長瀞町「長瀞町 くらし・健康・福祉」を加工して作成
 content_sha256: d1a4649aa9acba7fad57a14e262c6e40d94fc3ec71764cfda4eed7ea3cba0b91
-facts_sha256: null
+facts_sha256: d1a4649aa9acba7fad57a14e262c6e40d94fc3ec71764cfda4eed7ea3cba0b91
 ---
 
 # 虐待防止相談
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+児童・高齢者・障害者
+
+## 支援内容
+
+虐待の早期発見と安全確認
+
+## 利用方法
+
+役場等へ通報
+
+## 問い合わせ
+
+福祉介護課

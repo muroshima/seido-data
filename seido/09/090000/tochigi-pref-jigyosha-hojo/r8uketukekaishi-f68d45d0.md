@@ -9,8 +9,8 @@ source_id: r8uketukekaishi-f68d45d0
 source_updated: null
 license: 無断転載を禁止（転載は事前に担当課へ報告し承認が必要）
 attribution: 栃木県「栃木県 融資・助成・補助 > 商工業・企業立地」を加工して作成
-content_sha256: 8772dd351b9a8d221044f01cfe906fe0c12f758c71d64b600ded1aaf2ade7c4a
-facts_sha256: 8772dd351b9a8d221044f01cfe906fe0c12f758c71d64b600ded1aaf2ade7c4a
+content_sha256: 2d5f85ac62cd7c8492bdec4479fb6889170b0001663797a1c9c0d4b72edab170
+facts_sha256: 2d5f85ac62cd7c8492bdec4479fb6889170b0001663797a1c9c0d4b72edab170
 ---
 
 # 令和8(2026)年度栃木県事業承継支援補助金の公募について
@@ -19,11 +19,11 @@ facts_sha256: 8772dd351b9a8d221044f01cfe906fe0c12f758c71d64b600ded1aaf2ade7c4a
 
 ## 対象者
 
-栃木県内に本店を有する中小企業者（個人事業者は住所を栃木県内とする）
+栃木県内に本店を有する中小企業者（個人事業者も可）
 
 ## 支援内容
 
-事業承継に必要な専門家への業務委託経費の一部を補助
+事業承継に必要な専門家への業務委託経費の一部補助
 
 ## 期間
 
@@ -31,8 +31,4 @@ facts_sha256: 8772dd351b9a8d221044f01cfe906fe0c12f758c71d64b600ded1aaf2ade7c4a
 
 ## 利用方法
 
-郵送またはメールで申請
-
-## 問い合わせ
-
-栃木県商工会議所連合会事務局（TEL 028-637-3725）
+申請書類を郵送またはメールで提出

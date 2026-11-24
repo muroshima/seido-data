@@ -10,9 +10,21 @@ source_updated: null
 license: 無断使用・複製・転載・改変を禁止
 attribution: 八潮市「八潮市 手当等（子育て）」を加工して作成
 content_sha256: 5bba28baadc14eb79dd08444fd848f47d5dfc555deb4838a5795c17fcdb35ede
-facts_sha256: null
+facts_sha256: 5bba28baadc14eb79dd08444fd848f47d5dfc555deb4838a5795c17fcdb35ede
 ---
 
 # 誕生祝金支給制度
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 支援内容
+
+誕生祝金3万円
+
+## 利用方法
+
+1歳誕生日前日までに申請
+
+## 問い合わせ
+
+こども家庭部 こども政策課 児童給付係

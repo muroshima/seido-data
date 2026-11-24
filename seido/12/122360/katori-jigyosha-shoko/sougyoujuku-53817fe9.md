@@ -10,9 +10,17 @@ source_updated: null
 license: 私的使用・引用を除き無断で転用・引用不可
 attribution: 香取市「香取市 商工業の振興」を加工して作成
 content_sha256: baf71fc2e55db1ee18385e457bb2b1c08960a0fe08cc96b10bbaa1aca7b594d3
-facts_sha256: null
+facts_sha256: baf71fc2e55db1ee18385e457bb2b1c08960a0fe08cc96b10bbaa1aca7b594d3
 ---
 
 # 香取創業塾の無料開講
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 期間
+
+令和8年8月22日
+
+## 問い合わせ
+
+佐原商工会議所

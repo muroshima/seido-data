@@ -9,7 +9,7 @@ source_id: tennjikaijyosei-52dfffd4
 source_updated: null
 license: 私的使用・引用を除き無断複製・転用不可
 attribution: 横浜市「横浜市 経営支援（中小企業支援）」を加工して作成
-content_sha256: 2f16f18a6e31dd1ef1afa5eb9f0d2bd6c993ada1d8cdb939485cdd5abed3b45a
+content_sha256: 90faa7647bb9373250b4a1320c10de47b4bc4d74c8b976b65b532bee1dcbfebc
 facts_sha256: null
 ---
 

@@ -10,9 +10,17 @@ source_updated: null
 license: 無断転載を禁止
 attribution: 戸田市「戸田市 手当・助成（子育て・教育）」を加工して作成
 content_sha256: 98e17eab008e2c4b5ed00e4fb7ad3127a54a82941bd7b22c8a8512c7ff4e2598
-facts_sha256: null
+facts_sha256: 98e17eab008e2c4b5ed00e4fb7ad3127a54a82941bd7b22c8a8512c7ff4e2598
 ---
 
 # こどもの一時預かり
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+子育て中の保護者
+
+## 問い合わせ
+
+こども・若者政策課

@@ -10,9 +10,21 @@ source_updated: null
 license: 無断転載を禁止（転載は許可が必要）
 attribution: 新座市「新座市 住宅」を加工して作成
 content_sha256: a6adf98e292b95225db5cb5b53329105301cbc2fad9febbfdb1bde1b1fd461f6
-facts_sha256: null
+facts_sha256: a6adf98e292b95225db5cb5b53329105301cbc2fad9febbfdb1bde1b1fd461f6
 ---
 
 # セーフティネット住宅のご案内
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+高齢者、障がい者、子育て世帯等
+
+## 支援内容
+
+入居を拒まない賃貸住宅の情報提供
+
+## 利用方法
+
+専用Webサイトで検索

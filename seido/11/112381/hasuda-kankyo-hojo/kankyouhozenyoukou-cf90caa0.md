@@ -10,9 +10,17 @@ source_updated: null
 license: 権利者の許可なく複製・転用・販売等の二次利用を禁止
 attribution: 蓮田市「蓮田市 環境 補助・助成」を加工して作成
 content_sha256: 730ba30424b0daa7258fbde949b66cc431283f36ab6fd5cd77abca4edc594acd
-facts_sha256: null
+facts_sha256: 730ba30424b0daa7258fbde949b66cc431283f36ab6fd5cd77abca4edc594acd
 ---
 
 # 蓮田市環境保全事業支援補助金交付要綱の一部改正について
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 支援内容
+
+環境保全推進事業の名称及び内容を明確化
+
+## 期間
+
+令和6年4月1日から

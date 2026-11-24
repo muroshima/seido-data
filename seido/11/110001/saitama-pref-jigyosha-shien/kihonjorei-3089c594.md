@@ -10,9 +10,17 @@ source_updated: null
 license: 無断転載を禁止（転載は担当課の承認が必要）
 attribution: 埼玉県「埼玉県 中小企業支援」を加工して作成
 content_sha256: 293e7173fc6beab885dbf61ee37ed513e5d4318974a3bb66721e2f47ee7c2d0a
-facts_sha256: null
+facts_sha256: 293e7173fc6beab885dbf61ee37ed513e5d4318974a3bb66721e2f47ee7c2d0a
 ---
 
 # 埼玉県中小企業振興基本条例
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+中小企業者
+
+## 支援内容
+
+経営基盤強化

@@ -10,9 +10,17 @@ source_updated: null
 license: 私的使用・引用を除き無断で転用・引用不可
 attribution: 香取市「香取市 障害者福祉」を加工して作成
 content_sha256: 65ef24e970e3a98c2084660d050edc47b26a858eb9f19aee7841a5a63bc22fb4
-facts_sha256: null
+facts_sha256: 65ef24e970e3a98c2084660d050edc47b26a858eb9f19aee7841a5a63bc22fb4
 ---
 
 # 地域活動支援センター
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+障害者
+
+## 支援内容
+
+創作・生産活動、社会交流

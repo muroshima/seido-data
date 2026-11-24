@@ -10,9 +10,21 @@ source_updated: null
 license: 無断複製・転用を禁止（使用は事前相談）
 attribution: 朝霞市「朝霞市 子育て支援」を加工して作成
 content_sha256: 9b21998ae4bb7a72666b9020cf5ec3d12c51adeb977b9eddad300348bca76e1f
-facts_sha256: null
+facts_sha256: 9b21998ae4bb7a72666b9020cf5ec3d12c51adeb977b9eddad300348bca76e1f
 ---
 
 # こどもの車内放置は児童虐待です！！
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 支援内容
+
+車内放置は児童虐待
+
+## 利用方法
+
+通報
+
+## 問い合わせ
+
+児童相談所・警察

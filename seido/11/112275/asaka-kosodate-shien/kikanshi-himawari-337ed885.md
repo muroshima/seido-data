@@ -10,9 +10,21 @@ source_updated: null
 license: 無断複製・転用を禁止（使用は事前相談）
 attribution: 朝霞市「朝霞市 子育て支援」を加工して作成
 content_sha256: eee09ed5e6ab2e40cd164bdb2e9a7aacefd04a9e9740b5f35c34dfa0dab94ae7
-facts_sha256: null
+facts_sha256: eee09ed5e6ab2e40cd164bdb2e9a7aacefd04a9e9740b5f35c34dfa0dab94ae7
 ---
 
 # 機関紙「ひまわり」を発行しています
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+青少年
+
+## 利用方法
+
+PDFファイルで閲覧可能
+
+## 問い合わせ
+
+こども部こども未来課こども支援係

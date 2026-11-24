@@ -10,9 +10,13 @@ source_updated: null
 license: 無断複製・転用を禁止（使用は事前相談）
 attribution: 朝霞市「朝霞市 子育て支援」を加工して作成
 content_sha256: 3f10b8831440ee800157b0996bcb34dacd8b590d62e38c4584bc1a16c9006da8
-facts_sha256: null
+facts_sha256: 3f10b8831440ee800157b0996bcb34dacd8b590d62e38c4584bc1a16c9006da8
 ---
 
 # ひざおり児童館のご案内
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 問い合わせ
+
+048-458-6969

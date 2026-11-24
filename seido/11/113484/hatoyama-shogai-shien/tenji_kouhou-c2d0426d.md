@@ -10,9 +10,25 @@ source_updated: null
 license: 無断使用・転載を禁止
 attribution: 鳩山町「鳩山町 障害者支援」を加工して作成
 content_sha256: 4788f7bfcd0ed35239add7ba4d8228cf349c3b7e2c8c8b43b85a3ec4ce8d99be
-facts_sha256: null
+facts_sha256: 4788f7bfcd0ed35239add7ba4d8228cf349c3b7e2c8c8b43b85a3ec4ce8d99be
 ---
 
 # 点字広報紙等の発行・配布
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+視覚障がい者
+
+## 支援内容
+
+点字広報紙・声の広報紙を無償配布
+
+## 期間
+
+毎月
+
+## 利用方法
+
+希望に応じて配布

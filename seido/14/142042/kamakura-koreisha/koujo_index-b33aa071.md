@@ -9,7 +9,7 @@ source_id: koujo_index-b33aa071
 source_updated: null
 license: 私的使用・引用を除き無断転載不可（引用時は出所明示）
 attribution: 鎌倉市「鎌倉市 高齢者福祉・介護保険」を加工して作成
-content_sha256: 2862c03c83bc52d06cf4dbce93d595f1d0cae62d26aa13bebb773711364d834d
+content_sha256: 1c7da982cea7d8488419e3391b7c0249c09037d5d053edbd490d3d68ebf44036
 facts_sha256: null
 ---
 

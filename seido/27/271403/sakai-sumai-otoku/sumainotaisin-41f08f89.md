@@ -9,7 +9,7 @@ source_id: sumainotaisin-41f08f89
 source_updated: null
 license: 無断複製・転用を禁止
 attribution: 堺市「堺市 住まいのお得情報」を加工して作成
-content_sha256: 7ee908453741ab98df06498de502ec4b84c763cef2401c62e457e907a918346b
+content_sha256: 2fe08ea028d0439797c08be54a10470d3e9f32266fe40fb142cc021e5f4faefa
 facts_sha256: null
 ---
 

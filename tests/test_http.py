@@ -13,7 +13,7 @@ def test_same_host_is_serialized_and_other_hosts_run_in_parallel(monkeypatch):
     calls: list[tuple[str, float, float]] = []
 
     @contextmanager
-    def fake_urlopen(req, timeout):
+    def fake_urlopen(req, timeout, context=None):
         start = time.monotonic()
         time.sleep(0.05)
         calls.append((req.full_url.split("/")[2], start, time.monotonic()))
@@ -37,3 +37,22 @@ def test_same_host_is_serialized_and_other_hosts_run_in_parallel(monkeypatch):
         assert all(nxt[0] - prev[1] >= 0.19 for prev, nxt in zip(spans, spans[1:], strict=False))
     # 2 つのホストは並行して進むので、1 本ずつ順に送るより短い（6 本 × 0.25 秒 ≒ 1.5 秒）
     assert time.monotonic() - begin < 1.0
+
+
+def test_non_ascii_path_is_percent_encoded(monkeypatch):
+    """山添村: 日本語のパスはエンコードして送る。エンコード済みの % は二重にしない。"""
+    monkeypatch.setattr(http, "MIN_INTERVAL", 0)
+    sent = []
+
+    @contextmanager
+    def fake_urlopen(req, timeout, context=None):
+        sent.append(req.full_url)
+        yield type("R", (), {"read": lambda self: b"ok"})()
+
+    monkeypatch.setattr(http.urllib.request, "urlopen", fake_urlopen)
+    http.get("https://example.jp/life/手帳?q=a&b=%E6")
+    assert sent == ["https://example.jp/life/%E6%89%8B%E5%B8%B3?q=a&b=%E6"]
+
+
+def test_bundled_intermediates_are_loadable():
+    assert http._context().cert_store_stats()["x509"] >= 1

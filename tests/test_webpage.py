@@ -176,3 +176,27 @@ def test_broken_link_is_skipped():
     assert webpage.parse(html, "https://www.town.example.jp/").links == [
         ("https://www.town.example.jp/a.html", "児童手当")
     ]
+
+
+def test_decode_reads_shift_jis_page():
+    html = '<meta charset="Shift_JIS"><main><p>児童手当</p></main>'.encode("cp932")
+    assert "児童手当" in webpage.decode(html)
+
+
+def test_decode_falls_back_to_shift_jis_when_meta_says_utf8():
+    """佐用町: meta は UTF-8 だが、中身は Shift_JIS。"""
+    html = '<meta charset="utf-8"><main><p>子育て支援券</p></main>'.encode("cp932")
+    assert "子育て支援券" in webpage.decode(html)
+
+
+def test_decode_keeps_utf8():
+    html = '<meta charset="Shift_JIS"><p>手当</p>'.encode()
+    assert webpage.decode(html) == '<meta charset="Shift_JIS"><p>手当</p>'
+
+
+def test_bare_ampersand_in_query_is_not_an_entity():
+    """佐用町: `&section_id=` を `§ion_id=` と読まない。本文の `&` もそのまま。"""
+    html = '<main><a href="/r.jsp?a=1&section_id=2&region=3">育児</a><p>A&B=1</p></main>'
+    page = webpage.parse(html, "https://example.jp/")
+    assert page.links == [("https://example.jp/r.jsp?a=1&section_id=2&region=3", "育児")]
+    assert "A&B=1" in page.text

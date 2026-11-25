@@ -7,6 +7,9 @@
 `<body>` から header・nav・footer を除いた部分を使う。サイト共通のメニューやパンくずを本文に
 混ぜないため。
 選んだ領域に文字が無ければ（id が中身の無い目印の要素に付いているなど）、次の候補に移る。
+
+文字コードは UTF-8 として読めればそれを使い、読めなければ meta の charset、それも無ければ
+Shift_JIS（cp932）とみなす（古座川町・佐用町）。
 """
 
 import io
@@ -19,6 +22,10 @@ from pypdf import PdfReader
 
 from . import http
 
+META_CHARSET = re.compile(rb'<meta[^>]+charset=["\']?([\w-]+)', re.IGNORECASE)
+# href の `&section_id=` を、HTML の解釈で `§ion_id=` と読まないよう `&amp;` に直す（佐用町）。
+# `;` の無い名前付き文字参照を、HTML の仕様どおりに文字へ変えてしまうため
+BARE_AMP = re.compile(r"&(?=[A-Za-z][A-Za-z0-9_]*=)")
 FILE_EXT = re.compile(r"\.(csv|xlsx)$", re.IGNORECASE)
 # 自治体サイトの CMS でよく使われる本文領域の id
 CONTENT_IDS = (
@@ -189,8 +196,24 @@ def pdf_text(data: bytes) -> str:
     return squash(" ".join(p.extract_text() or "" for p in reader.pages))
 
 
+def decode(data: bytes) -> str:
+    try:
+        return data.decode("utf-8")
+    except UnicodeDecodeError:
+        pass
+    m = META_CHARSET.search(data[:4096])
+    charset = m.group(1).decode().lower() if m else ""
+    if charset.replace("-", "").replace("_", "") in ("", "utf8", "shiftjis", "sjis", "windows31j"):
+        charset = "cp932"  # meta が UTF-8 と言っていても、読めなかった（佐用町）
+    try:
+        return data.decode(charset, errors="replace")
+    except LookupError:
+        return data.decode("cp932", errors="replace")
+
+
 def parse(html: str, base_url: str) -> Page:
     """本文領域の見出し・文字・リンクを取り出す。"""
+    html = BARE_AMP.sub("&amp;", html)
     scopes = []
     if "<main" in html.lower():
         scopes.append(lambda tag, _id, _cls: tag == "main")
@@ -233,19 +256,19 @@ def absolute(base_url: str, href: str) -> str | None:
 
 
 def fetch(url: str) -> Page:
-    return parse(http.get(url).decode("utf-8", errors="replace"), url)
+    return parse(decode(http.get(url)), url)
 
 
 def links(html: str, base_url: str) -> list[tuple[str, str]]:
     """ページ全体のリンク（絶対 URL, リンク文）。"""
     collector = _Collector(lambda _tag, _id, _cls: False, whole=True)
-    collector.feed(html)
+    collector.feed(BARE_AMP.sub("&amp;", html))
     return [(urllib.parse.urljoin(base_url, href), text) for href, text in collector.links if href]
 
 
 def resources(page_url: str, link_text: str) -> list[dict]:
     """リンク文に link_text を含む CSV・XLSX（CKAN の resources と同じ形）。"""
-    html = http.get(page_url).decode("utf-8", errors="replace")
+    html = decode(http.get(page_url))
     found = []
     for url, text in links(html, page_url):
         m = FILE_EXT.search(urllib.parse.urlsplit(url).path)

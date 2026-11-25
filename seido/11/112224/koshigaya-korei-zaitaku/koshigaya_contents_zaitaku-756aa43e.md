@@ -9,7 +9,7 @@ source_id: koshigaya_contents_zaitaku-756aa43e
 source_updated: null
 license: 許可なく他メディアへの転載・引用はお断り
 attribution: 越谷市「越谷市 在宅福祉サービス（高齢者）」を加工して作成
-content_sha256: 27ccc1b2b0b1e5a071442dd850d4e3ce1c867b3b8d4663cfae1667ae64b39465
+content_sha256: ece4c0b61ff513b9b171461638d651758a213c6b03e3e68593ff3e3312821f4b
 facts_sha256: 27ccc1b2b0b1e5a071442dd850d4e3ce1c867b3b8d4663cfae1667ae64b39465
 ---
 

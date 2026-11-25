@@ -10,7 +10,7 @@ source_updated: null
 license: 私的使用・引用を除き無断使用・複製・転載・改変を禁止
 attribution: 鋸南町「鋸南町 福祉・介護」を加工して作成
 content_sha256: c77dec4138de00babe46adba7764734d26c64955f9089944d104acf462f9a5f5
-facts_sha256: null
+facts_sha256: c77dec4138de00babe46adba7764734d26c64955f9089944d104acf462f9a5f5
 ---
 
 # 福祉・介護

@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 産業
 lg_code: '104281'
 lg_name: 高山村
 support: null
@@ -9,10 +9,10 @@ source_id: sangyo-543e76bf
 source_updated: null
 license: 無断で複製・転用を禁止
 attribution: 高山村「高山村 福祉・介護一覧」を加工して作成
-content_sha256: 1fae31cecf69941e86c6a8063c51a6499edce1834fd6c820882d12dda24f1aba
+content_sha256: 2283195905b878a6034e14f90c587cdabc24b9f350d81c4d59dbcc46d4711dcd
 facts_sha256: 1fae31cecf69941e86c6a8063c51a6499edce1834fd6c820882d12dda24f1aba
 ---
 
-# 
+# 産業
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。

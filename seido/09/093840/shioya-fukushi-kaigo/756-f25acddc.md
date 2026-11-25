@@ -9,7 +9,7 @@ source_id: 756-f25acddc
 source_updated: null
 license: 著作権は原則として町に帰属（転載条件の明記なし）
 attribution: 塩谷町「塩谷町 福祉・介護」を加工して作成
-content_sha256: 3278b456acf824ffeef71719803ef580eb100960d9a86a1fe981b710b1c74a51
+content_sha256: aba85836b2b9d9fc16eb87127519d5881b27b9226c94a62fcb0c8bdb210744ec
 facts_sha256: 3278b456acf824ffeef71719803ef580eb100960d9a86a1fe981b710b1c74a51
 ---
 

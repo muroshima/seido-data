@@ -10,7 +10,7 @@ source_updated: null
 license: 私的使用・引用を除き無断で転用・引用不可
 attribution: 睦沢町「睦沢町 手当・助成」を加工して作成
 content_sha256: f1e550e02b81faa2c0bc24add46dc30ce3196d750070413edc7dbb15781fdfd4
-facts_sha256: null
+facts_sha256: f1e550e02b81faa2c0bc24add46dc30ce3196d750070413edc7dbb15781fdfd4
 ---
 
 # 福祉・介護

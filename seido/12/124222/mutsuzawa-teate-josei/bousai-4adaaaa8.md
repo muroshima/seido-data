@@ -10,7 +10,7 @@ source_updated: null
 license: 私的使用・引用を除き無断で転用・引用不可
 attribution: 睦沢町「睦沢町 手当・助成」を加工して作成
 content_sha256: 7aef589ce805901b5b69f820329c617461a76cc350ad1432158bcf93270cb060
-facts_sha256: null
+facts_sha256: 7aef589ce805901b5b69f820329c617461a76cc350ad1432158bcf93270cb060
 ---
 
 # 消防・防災・防犯・交通安全

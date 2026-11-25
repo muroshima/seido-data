@@ -10,7 +10,7 @@ source_updated: null
 license: 無断転載を禁止
 attribution: かすみがうら市「かすみがうら市 高齢者福祉」を加工して作成
 content_sha256: 52e5efede8ef225405c569c2844dc4691f170e86abc2658db6b233292d310064
-facts_sha256: null
+facts_sha256: 52e5efede8ef225405c569c2844dc4691f170e86abc2658db6b233292d310064
 ---
 
 # 介護長寿課

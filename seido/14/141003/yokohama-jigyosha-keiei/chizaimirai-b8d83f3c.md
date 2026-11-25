@@ -10,9 +10,21 @@ source_updated: null
 license: 私的使用・引用を除き無断複製・転用不可
 attribution: 横浜市「横浜市 経営支援（中小企業支援）」を加工して作成
 content_sha256: 9ed8051d5dbd1a1626854bbdb9262d498c5ee0510da5feca0b73bcfbcbea1996
-facts_sha256: null
+facts_sha256: 9ed8051d5dbd1a1626854bbdb9262d498c5ee0510da5feca0b73bcfbcbea1996
 ---
 
 # 横浜知財みらい企業支援事業
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+知的財産を活用して経営に取り組む企業
+
+## 期間
+
+継続的
+
+## 利用方法
+
+IDEC横浜で申請

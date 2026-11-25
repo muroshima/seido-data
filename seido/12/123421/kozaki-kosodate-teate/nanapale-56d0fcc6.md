@@ -1,5 +1,5 @@
 ---
-title: ''
+title: なないろパレット
 lg_code: '123421'
 lg_name: 神崎町
 support: null
@@ -13,7 +13,7 @@ content_sha256: 3d26e81837e38bd39a096cbb80731f7bc84d7107e1c863c5b6f3ec504dcaa005
 facts_sha256: 3d26e81837e38bd39a096cbb80731f7bc84d7107e1c863c5b6f3ec504dcaa005
 ---
 
-# 
+# なないろパレット
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
 

@@ -10,7 +10,7 @@ source_updated: null
 license: 私的使用・引用を除き無断転載不可
 attribution: 横須賀市「横須賀市 障害者福祉」を加工して作成
 content_sha256: a79716773991456b91b0fcff9d845827c0c27ece04d69a485979a11f1bb90e98
-facts_sha256: null
+facts_sha256: a79716773991456b91b0fcff9d845827c0c27ece04d69a485979a11f1bb90e98
 ---
 
 # 過去の障害福祉計画等

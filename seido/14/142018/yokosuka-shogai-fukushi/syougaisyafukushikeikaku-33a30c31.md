@@ -10,9 +10,21 @@ source_updated: null
 license: 私的使用・引用を除き無断転載不可
 attribution: 横須賀市「横須賀市 障害者福祉」を加工して作成
 content_sha256: a870f36bdf10e13594bd0bb20a28a39b3bab4d55194479d3e1d236e973bb53a1
-facts_sha256: null
+facts_sha256: a870f36bdf10e13594bd0bb20a28a39b3bab4d55194479d3e1d236e973bb53a1
 ---
 
 # 障害者計画
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+障害者
+
+## 支援内容
+
+障害福祉サービス等
+
+## 期間
+
+令和3年～令和8年

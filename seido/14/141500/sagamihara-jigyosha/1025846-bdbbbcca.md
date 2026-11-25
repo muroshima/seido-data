@@ -10,9 +10,21 @@ source_updated: null
 license: 私的使用・引用を除き無断複製・転用不可
 attribution: 相模原市「相模原市 事業者向け情報」を加工して作成
 content_sha256: b06ca1f4bbc11c47893bdb2569ace547ddf87f749f6e18e684a0da2ab6a6afb6
-facts_sha256: null
+facts_sha256: b06ca1f4bbc11c47893bdb2569ace547ddf87f749f6e18e684a0da2ab6a6afb6
 ---
 
 # 海外ビジネスマッチング事業
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+市内企業
+
+## 期間
+
+継続的
+
+## 問い合わせ
+
+産業支援・雇用対策課

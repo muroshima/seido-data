@@ -10,9 +10,25 @@ source_updated: null
 license: 著作権法上の例外を除き無断転用不可
 attribution: 茨城県「茨城県 助成・支援金」を加工して作成
 content_sha256: f3a607e91606a26d9dbc46ad21dc920a7c2c43c7182e77fab068bd95cf2bd4cb
-facts_sha256: null
+facts_sha256: f3a607e91606a26d9dbc46ad21dc920a7c2c43c7182e77fab068bd95cf2bd4cb
 ---
 
 # 肝炎治療費助成制度について
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+C型慢性肝炎・肝硬変患者
+
+## 支援内容
+
+治療費助成
+
+## 利用方法
+
+申請が必要
+
+## 問い合わせ
+
+保健所

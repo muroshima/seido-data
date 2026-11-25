@@ -9,7 +9,7 @@ source_id: section-d25f8bf7
 source_updated: null
 license: 私的使用・引用の範囲を除き無断転載・複製・翻訳不可
 attribution: 笠間市「笠間市 障害者福祉」を加工して作成
-content_sha256: 1f2eae4e2e9357cb32872e1dbdc8bc9ca4d85df0d6dd3f1d17da93962038c162
+content_sha256: 8bec27619cabe628d62fb392379e85a710870df22d0a5977c4daa3c04e96206f
 facts_sha256: null
 ---
 

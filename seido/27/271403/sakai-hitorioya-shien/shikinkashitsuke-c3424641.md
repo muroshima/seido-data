@@ -9,7 +9,7 @@ source_id: shikinkashitsuke-c3424641
 source_updated: null
 license: 無断複製・転用を禁止
 attribution: 堺市「堺市 ひとり親家庭の方」を加工して作成
-content_sha256: 5349d75bf466859a1ea78fa721291af16bcddc71f7a575cdef87a47c91da7477
+content_sha256: 0b8082c876d34a7daca782186d455235a24e9b8380c5b7c4714b8a000131252d
 facts_sha256: null
 ---
 

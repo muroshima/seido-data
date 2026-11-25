@@ -9,7 +9,7 @@ source_id: reseifuku-835348ba
 source_updated: null
 license: 無断複製・転用を禁止
 attribution: 堺市「堺市 ひとり親家庭の方」を加工して作成
-content_sha256: 22eec4c2e5fa493fba318bd2458c734a878fc2641e4668ef9e880858fa4bb630
+content_sha256: 76f234e4bcc814c7f7c300d68bc02dc36eebd07396a524a785698eb2cdfe0d3b
 facts_sha256: null
 ---
 

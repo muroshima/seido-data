@@ -10,9 +10,21 @@ source_updated: null
 license: 個人的・非営利の利用に限り複製可（それ以外の無断転載・改変禁止）
 attribution: 桜川市「桜川市 高齢者福祉」を加工して作成
 content_sha256: caeb6ee13f81458a50905c064bfe5c22b91cda4ab6cd91f9d454d4cbf8befe17
-facts_sha256: null
+facts_sha256: caeb6ee13f81458a50905c064bfe5c22b91cda4ab6cd91f9d454d4cbf8befe17
 ---
 
 # 桜川市認知症ケアパス
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+認知症の方やご家族
+
+## 支援内容
+
+認知症の状態に応じたサービス内容をまとめた情報
+
+## 問い合わせ
+
+高齢福祉課 高齢福祉グループ

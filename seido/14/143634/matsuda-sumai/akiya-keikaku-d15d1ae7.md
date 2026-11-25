@@ -10,9 +10,21 @@ source_updated: null
 license: 私的使用・引用を除き無断複製・転載不可
 attribution: 松田町「松田町 住宅」を加工して作成
 content_sha256: 25780e323bbcc0bc5455fdbf4ca569fefade54ea2fb3855e40f73eb8aba0aa95
-facts_sha256: null
+facts_sha256: 25780e323bbcc0bc5455fdbf4ca569fefade54ea2fb3855e40f73eb8aba0aa95
 ---
 
 # 松田町空家等対策計画
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 支援内容
+
+空家等の活用・管理・除却を推進
+
+## 期間
+
+令和5年12月改正に基づく
+
+## 問い合わせ
+
+定住少子化担当室 定住少子化対策係

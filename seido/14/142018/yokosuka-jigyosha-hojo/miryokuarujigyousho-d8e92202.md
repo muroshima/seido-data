@@ -10,9 +10,17 @@ source_updated: null
 license: 私的使用・引用を除き無断転載不可
 attribution: 横須賀市「横須賀市 経済・産業振興」を加工して作成
 content_sha256: 6d1514f6497c7e11a9ed4ae6d26d50af3affc7b9ad24fa88ded628b9e67d5588
-facts_sha256: null
+facts_sha256: 6d1514f6497c7e11a9ed4ae6d26d50af3affc7b9ad24fa88ded628b9e67d5588
 ---
 
 # 魅力ある事業所づくり補助金
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+市内に工場や製造拠点がある中小製造事業者
+
+## 支援内容
+
+従業員が働きやすい環境整備

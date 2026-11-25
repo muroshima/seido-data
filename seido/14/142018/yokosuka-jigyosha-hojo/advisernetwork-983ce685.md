@@ -10,9 +10,17 @@ source_updated: null
 license: 私的使用・引用を除き無断転載不可
 attribution: 横須賀市「横須賀市 経済・産業振興」を加工して作成
 content_sha256: 478274d94b04d9cbe9e257ef29cefc6d6cd41d31af26f4e7b9118bee937c777b
-facts_sha256: null
+facts_sha256: 478274d94b04d9cbe9e257ef29cefc6d6cd41d31af26f4e7b9118bee937c777b
 ---
 
 # 中小企業アドバイザーネットワーク
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+中小企業経営者・創業者
+
+## 支援内容
+
+経営相談

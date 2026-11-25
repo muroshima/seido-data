@@ -9,7 +9,7 @@ source_id: kaigikekkakaigonintei08-a2ecdfa0
 source_updated: null
 license: 無断複製・転用を禁止（使用は事前相談）
 attribution: 朝霞市「朝霞市 高齢者」を加工して作成
-content_sha256: fac1ce21a420140a8111d0ddc0f7cdec98c929a82bd81ae45adc8e4ee20aa640
+content_sha256: f44988c1c262fa8cd4764bd60fbc99806c5abd27eed082ddafca80ca8a48f2a3
 facts_sha256: fac1ce21a420140a8111d0ddc0f7cdec98c929a82bd81ae45adc8e4ee20aa640
 ---
 

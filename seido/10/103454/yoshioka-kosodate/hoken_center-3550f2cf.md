@@ -1,5 +1,5 @@
 ---
-title: 吉岡町保健センター(子育て世代包括支援センター)
+title: 吉岡町保健センター
 lg_code: '103454'
 lg_name: 吉岡町
 support: null
@@ -9,11 +9,11 @@ source_id: hoken_center-3550f2cf
 source_updated: null
 license: 無断使用・転載を禁止
 attribution: 吉岡町「吉岡町 子育て」を加工して作成
-content_sha256: 657a607d1e3dce52b85acdb81f9adb95cfd1865467e24cb669425e7533fd24d1
+content_sha256: 8036b74e9c596398bdb32060f4133c4f956c2b84559245d717054efe87a3ec4e
 facts_sha256: 657a607d1e3dce52b85acdb81f9adb95cfd1865467e24cb669425e7533fd24d1
 ---
 
-# 吉岡町保健センター(子育て世代包括支援センター)
+# 吉岡町保健センター
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
 

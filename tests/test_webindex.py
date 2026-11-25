@@ -191,3 +191,23 @@ def test_same_page_linked_with_http_and_https_is_one_record(site):
     ]
     site({ROW["url"]: page("手当", links=links), links[0][0]: page("児童手当")})
     assert [r.raw["title"] for r in webindex.fetch(ROW).units["131016"]] == ["児童手当"]
+
+
+def test_image_link_then_text_link_keeps_text(monkeypatch):
+    """東吉野村: 同じ URL に画像のリンク（文字なし）と文字のリンクが並ぶ。"""
+    monkeypatch.setattr(webindex, "allowed", lambda url: True)
+    links = [("https://example.jp/a.html", ""), ("https://example.jp/a.html", "給食費の半額助成")]
+    assert webindex.candidates("https://example.jp/list/", links) == [
+        ("https://example.jp/a.html", "給食費の半額助成")
+    ]
+
+
+def test_query_pages_format_takes_query_links_as_pages(site):
+    """新温泉町: /page/?mode=detail&page_id=… は / で終わっても制度ページ（format=html-query）。"""
+    index = f"{SITE}/p/list/C0603/"
+    detail = f"{SITE}/page/?mode=detail&page_id=1"
+    site({index: page("児童福祉", links=[(detail, "児童手当")]), detail: page("児童手当")})
+    row = {**ROW, "url": index}
+    assert webindex.fetch(row).units["131016"] == []  # html では一覧とみなして辿らない
+    records = webindex.fetch({**row, "format": "html-query"}).units["131016"]
+    assert [r.raw["title"] for r in records] == ["児童手当"]

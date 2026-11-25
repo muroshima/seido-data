@@ -200,3 +200,27 @@ def test_bare_ampersand_in_query_is_not_an_entity():
     page = webpage.parse(html, "https://example.jp/")
     assert page.links == [("https://example.jp/r.jsp?a=1&section_id=2&region=3", "育児")]
     assert "A&B=1" in page.text
+
+
+def test_title_class_is_the_title_when_no_h1():
+    """曽爾村: 本文に h1 が無く、題名は div.info__title にある。他の分類のメニューは除く。"""
+    html = """<body><nav>メニュー</nav><div class="main_section">
+      <div class="info__title">高齢者等福祉タクシー利用助成事業</div>
+      <ul class="side-menugroup__edge"><li><a href="/menu/9">道路・河川</a></li></ul>
+      <p>対象者 70 歳以上</p></div></body>"""
+    page = webpage.parse(html, "https://example.jp/info/1")
+    assert page.title == "高齢者等福祉タクシー利用助成事業"
+    assert "道路・河川" not in page.text
+
+
+def test_many_h1_in_region_use_document_title():
+    """佐用町: h1 を本文の小見出しに使うので、<title> の先頭の段を題名にする。"""
+    html = """<title>通院にかかる交通費の助成制度｜佐用町</title>
+      <main><h1>▶対象者</h1><p>町民</p><h1>▶助成対象</h1><p>交通費</p></main>"""
+    assert webpage.parse(html, "https://example.jp/").title == "通院にかかる交通費の助成制度"
+
+
+def test_document_title_drops_site_name():
+    html = "<title>浄化槽設置整備事業補助金 | 東吉野村</title><main><h1><img alt=''></h1></main>"
+    page = webpage.parse(html, "https://example.jp/")
+    assert (page.title, page.doc_title) == ("", "浄化槽設置整備事業補助金")

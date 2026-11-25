@@ -16,6 +16,7 @@ import io
 import re
 import urllib.parse
 from dataclasses import dataclass, field
+from html import unescape
 from html.parser import HTMLParser
 
 from pypdf import PdfReader
@@ -40,6 +41,10 @@ CONTENT_IDS = (
     "mol_contents",  # 羽村市の制度ページ
     "contentsWrap",  # 八丈町
     "wrap",  # 練馬区（本文への目印 CONT は中身の無い要素）
+    "ContentPane",  # 甲賀市
+    "detail-td-main",  # 新温泉町
+    "maincotents",  # 天川村（綴りはサイトのまま）
+    "Wrapp",  # 明日香村（id="Content_TXT" は問い合わせ先の箱だけ）
 )
 # id が無く class でしか見分けられない本文領域
 CONTENT_CLASSES = (
@@ -47,6 +52,8 @@ CONTENT_CLASSES = (
     "main_area",  # 小平市
     "main",  # 三鷹市（id="contents" は本文への目印の <p class="skip">）
     "wrapper-contents",  # 足利市・下野市・鹿沼市など（栃木・群馬に多い CMS の本文の列）
+    "main_section",  # 曽爾村・那智勝浦町・新宮市
+    "mainColumn",  # 川上村
 )
 # 本文領域の中にあるパンくず・関連リンク・フッター（練馬区は本文と同じ要素の中に置く）、
 # 同じ階層の分類メニュー（日の出町）
@@ -59,8 +66,24 @@ SKIP_CLASSES = {
     "boxBreadcrumb",
     "bread-rubbish",  # 足利市などの CMS のパンくず
     "genre-contents-office",  # 同じ CMS の一覧の、記事ごとの担当課へのリンク
+    "pagenavi",  # 佐用町のページ送り
+    "postprint",  # 天川村の印刷用ページへのリンク
+    "pph__container",  # 曽爾村などの CMS のパンくず
+    "side-menugroup__edge",  # 同じ CMS の、本文の中の他の分類のメニュー
+    "info__update",
+    "sns-share-buttons",
 }
-SKIP_IDS = {"side"}  # 八王子市のサイドメニュー（分野の一覧）
+SKIP_IDS = {
+    "side",  # 八王子市のサイドメニュー（分野の一覧）
+    "SIDE",  # 佐用町のランキング
+    "BREADNAV",  # 佐用町のパンくず
+    "pankz",  # 天川村のパンくず
+    "searchbox",  # 黒滝村
+    "panlist",
+    "breadCrumbs",  # 川上村
+}
+# 本文に h1 が無いサイトの、題名の要素（曽爾村・那智勝浦町）
+TITLE_CLASSES = {"info__title"}
 # 読み飛ばす aside のうち、担当課の問い合わせ先だけは残す（町田市 contact・日の出町など kakuka）
 KEEP_ASIDE = {"contact", "kakuka"}
 # 本文へ飛ぶための目印（「ここから本文です」）。本文の id が付いていても本文ではない
@@ -88,6 +111,9 @@ BLOCK_TAGS = {"p", "div", "li", "tr", "h1", "h2", "h3", "h4", "h5", "h6", "dt", 
 class Page:
     title: str = ""
     text: str = ""
+    # <title> の先頭の段（「浄化槽設置整備事業補助金｜東吉野村」の「浄化槽設置整備事業補助金」）。
+    # 本文に見出しもリンク文も無いとき（東吉野村の画像だけのリンク）の題名
+    doc_title: str = ""
     links: list[tuple[str, str]] = field(default_factory=list)  # (絶対 URL, リンク文)
 
 
@@ -110,6 +136,9 @@ class _Collector(HTMLParser):
         self.links: list[tuple[str, str]] = []
         self.h1: list[str] = []
         self.header_h1: list[str] = []  # 領域の中の <header> にある h1（こまえ子育てねっと）
+        self.h1_count = 0
+        self.class_title: list[str] = []  # TITLE_CLASSES の要素の文字
+        self._title_at: int | None = None
         self._href: str | None = None
         self._anchor: list[str] = []
         self._in_h1 = False
@@ -146,6 +175,9 @@ class _Collector(HTMLParser):
             self._href, self._anchor = a.get("href"), []
         if tag == "h1":
             self._in_h1 = True
+            self.h1_count += 1
+        if self._title_at is None and classes & TITLE_CLASSES:
+            self._title_at = len(self.stack)
 
     def handle_endtag(self, tag):
         if not self.active or tag in VOID_TAGS or tag not in self.stack:
@@ -171,6 +203,8 @@ class _Collector(HTMLParser):
             self._href = None
         if tag == "h1":
             self._in_h1 = False
+        if level == self._title_at:
+            self._title_at = None
         if tag in BLOCK_TAGS:
             self.text.append("\n")
 
@@ -184,6 +218,8 @@ class _Collector(HTMLParser):
             self._anchor.append(data)
         if self._in_h1:
             self.h1.append(data)
+        if self._title_at is not None:
+            self.class_title.append(data)
 
 
 def squash(text: str) -> str:
@@ -231,12 +267,20 @@ def parse(html: str, base_url: str) -> Page:
         lines = [squash(line) for line in "".join(collector.text).split("\n")]
         if any(lines):
             break
+    doc_title = document_title(html)
     title = squash("".join(collector.h1))
+    if collector.h1_count >= 2 and doc_title and scope is not body:
+        # h1 を本文の小見出しに使うサイト（佐用町の「▶対象者」）。並べると題名にならない。
+        # body 全体のときはサイト共通の h1 も混ざるので使わない（豊中市）
+        title = doc_title
     if not title and scope is not body:
         # body 全体のときの <header> はサイト共通の見出し（ロゴ）なので使わない
         title = squash("".join(collector.header_h1))
+    if not title:
+        title = squash("".join(collector.class_title))
     return Page(
         title=title,
+        doc_title=doc_title,
         text="\n".join(line for line in lines if line),
         links=[
             (url, text)
@@ -245,6 +289,14 @@ def parse(html: str, base_url: str) -> Page:
             if (url := absolute(base_url, href))
         ],
     )
+
+
+def document_title(html: str) -> str:
+    """<title> の先頭の段。「｜」「|」「 - 」の後ろはサイト名なので捨てる。"""
+    m = re.search(r"<title[^>]*>(.*?)</title>", html, re.IGNORECASE | re.DOTALL)
+    if not m:
+        return ""
+    return squash(re.split(r"[｜|]| - | – ", unescape(m.group(1)))[0])
 
 
 def absolute(base_url: str, href: str) -> str | None:

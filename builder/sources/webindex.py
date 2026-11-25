@@ -3,6 +3,10 @@
 対応表の 1 行が 1 自治体の 1 つの一覧ページに当たる（kind=web, format=html）。
 一覧ページの無い小さな村などは、制度ページそのものを 1 行にする（format=html-page）。
 制度の説明が PDF にしか無いときは、その PDF を 1 行にする（format=pdf）。
+制度ページの URL がクエリ付きで / で終わるサイトは format=html-query にする（新温泉町の
+/page/?mode=detail&page_id=…）。クエリ付きのリンクを一覧ではなく制度ページとして扱う。
+全体の規則にしないのは、ほかのサイトでは問い合わせフォーム（/contact/?section_id=…）なども
+制度ページとして拾ってしまうため
 
 - 一覧ページの本文領域から、同じサイトの HTML ページへのリンクを集める
 - 一覧ページが index.html や / で終わる索引なら、その配下の下位の一覧を 1 階層だけ辿る。
@@ -26,11 +30,12 @@ from . import Fetched, today
 
 LG = re.compile(r"^lg:(\d{6})$")
 NOT_HTML = re.compile(r"\.(pdf|docx?|xlsx?|csv|zip|jpe?g|png|gif|txt|pptx?)$", re.IGNORECASE)
-NOT_PAGE = re.compile(r"/cgi-bin/|/cgi-\w+/|/search/|/form/", re.IGNORECASE)
+NOT_PAGE = re.compile(r"/cgi-bin/|/cgi-\w+/|/search/|/form/|/rss", re.IGNORECASE)
 MAX_PAGES = 300
 GONE = (404, 410)
 SINGLE_PAGE = "html-page"  # 一覧ではなく制度ページそのもの。リンクは辿らない
 PDF = "pdf"  # 制度の説明の PDF そのもの。題名は対応表の名前
+QUERY_PAGES = "html-query"  # クエリ付きのリンクは / で終わっても制度ページ
 
 
 def fetch(row: dict[str, str]) -> Fetched:
@@ -50,9 +55,14 @@ def fetch(row: dict[str, str]) -> Fetched:
         record = to_record(lg_code, index_url, index.title or row["name"], index.text)
         return Fetched(observed=today(), units={lg_code: [record]})
 
+    def listing(url: str) -> bool:
+        return is_listing(url) and not (
+            row["format"] == QUERY_PAGES and urllib.parse.urlsplit(url).query
+        )
+
     pages: dict[str, str] = {}  # 制度ページの URL → リンク文
     for url, text in candidates(index_url, index.links):
-        if is_listing(url):
+        if listing(url):
             # 下位の一覧は、一覧ページ自体がディレクトリの索引（index.html・/）のときだけ辿る。
             # 普通のページ（台東区の /benri/teate-josei.html など）の配下には無関係な一覧がある
             if url != index_url and is_listing(index_url) and under(url, index_url):
@@ -62,7 +72,7 @@ def fetch(row: dict[str, str]) -> Fetched:
                     if e.code in GONE:
                         continue  # 下位の一覧へのリンク切れ
                     raise
-                found = [(u, t) for u, t in candidates(url, sub.links) if not is_listing(u)]
+                found = [(u, t) for u, t in candidates(url, sub.links) if not listing(u)]
                 if not found:
                     # 制度ページへのリンクが無い。/ で終わる URL の制度ページ（八丈町の WordPress）
                     pages.setdefault(url, text)
@@ -86,15 +96,23 @@ def fetch(row: dict[str, str]) -> Fetched:
             if e.code in GONE:
                 continue  # 一覧からのリンク切れ。制度ページは存在しない
             raise
-        records.append(to_record(lg_code, url, page.title or link_text, page.text))
+        records.append(
+            to_record(lg_code, url, page.title or link_text or page.doc_title, page.text)
+        )
     return Fetched(observed=today(), units={lg_code: records})
 
 
 def candidates(base_url: str, links: list[tuple[str, str]]) -> list[tuple[str, str]]:
-    """同じサイトの HTML ページへのリンク（重複と自分自身を除く）。"""
+    """同じサイトの HTML ページへのリンク（重複と自分自身を除く）。
+
+    同じ URL へのリンクが画像と文字の 2 つ並ぶとき（東吉野村）は、文字のあるほうのリンク文を使う。
+    """
     host = urllib.parse.urlsplit(base_url).netloc
     seen, found = {base_url}, []
     for url, text in links:
+        if url in seen and text:
+            found = [(u, t or text) if u == url else (u, t) for u, t in found]
+            continue
         parts = urllib.parse.urlsplit(url)
         if parts.scheme not in ("http", "https") or parts.netloc != host:
             continue

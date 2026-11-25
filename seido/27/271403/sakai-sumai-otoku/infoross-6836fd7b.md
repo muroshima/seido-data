@@ -9,7 +9,7 @@ source_id: infoross-6836fd7b
 source_updated: null
 license: 無断複製・転用を禁止
 attribution: 堺市「堺市 住まいのお得情報」を加工して作成
-content_sha256: f9ad1f9a8c248c3fa21ac90f8c470f8003107fa437cfef4512a405ac795d5bc4
+content_sha256: 78bcc97761a93a34a77d3ec7bff8b15faa95c5b0ae56c1bdbc30fc4cd81ccc22
 facts_sha256: null
 ---
 

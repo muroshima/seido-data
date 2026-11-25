@@ -10,9 +10,21 @@ source_updated: null
 license: 私的使用・引用を除き無断転載不可（引用時は出所明示）
 attribution: 鎌倉市「鎌倉市 障害者福祉」を加工して作成
 content_sha256: 76f44c48b9bb29f446ad4bde4fedbcf8a7bff9fcf689b3d9bda3dd08d1b80380
-facts_sha256: null
+facts_sha256: 76f44c48b9bb29f446ad4bde4fedbcf8a7bff9fcf689b3d9bda3dd08d1b80380
 ---
 
 # 公共交通機関の運賃割引
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+第1種・第2種障害者
+
+## 支援内容
+
+JR等で運賃5割引
+
+## 期間
+
+令和7年4月から

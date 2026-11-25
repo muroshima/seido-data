@@ -10,9 +10,21 @@ source_updated: null
 license: 私的使用・引用を除き無断使用・複製・転載・改変を禁止
 attribution: 大井町「大井町 児童福祉」を加工して作成
 content_sha256: 947ffb23f8e1aa75ec6ce48e387b7a3386ba5ddf9df71454cf9d9bd4c47ac249
-facts_sha256: null
+facts_sha256: 947ffb23f8e1aa75ec6ce48e387b7a3386ba5ddf9df71454cf9d9bd4c47ac249
 ---
 
 # 特別児童扶養手当
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+町内住所、障害を持つ20歳未満児童を育て、所得が一定額未満の方
+
+## 支援内容
+
+児童扶養手当
+
+## 利用方法
+
+申請が必要

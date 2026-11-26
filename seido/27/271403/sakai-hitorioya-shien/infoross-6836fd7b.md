@@ -9,7 +9,7 @@ source_id: infoross-6836fd7b
 source_updated: null
 license: 無断複製・転用を禁止
 attribution: 堺市「堺市 ひとり親家庭の方」を加工して作成
-content_sha256: 78bcc97761a93a34a77d3ec7bff8b15faa95c5b0ae56c1bdbc30fc4cd81ccc22
+content_sha256: 69a5c8cdbdc8dc293fbe67404678389bf0e0f524bd4eaa2cf52b3293f3d5fa5b
 facts_sha256: null
 ---
 

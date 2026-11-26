@@ -9,7 +9,7 @@ source_id: kurashi-1c45b4f3
 source_updated: null
 license: 無断使用・複製・転載・改変を禁止
 attribution: 横瀬町「横瀬町 障がい者福祉」を加工して作成
-content_sha256: 86f57892095fbeefd87e1f32dfad0b81d8d263b527cdc12e67de6d9cddb0b6a5
+content_sha256: 75a59a4e4702933c3caacb603379a3bace99df235dabde05e7aa754799c207cb
 facts_sha256: ca276280ac2bd7a5a923cfa91923900bae9367d9b6036276240446949aca251b
 ---
 

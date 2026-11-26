@@ -9,7 +9,7 @@ source_id: kinkyutsuho-814e84cb
 source_updated: null
 license: 無断複製・転用を禁止
 attribution: 堺市「堺市 高齢者生活支援」を加工して作成
-content_sha256: da3812d9f68e3d62111cfb44925e25fa6c499adce5fae10d9189e83e5177c3ef
+content_sha256: cb9e9bd45fe6eb076917b9986acf02d3f7bfc4da9a92621d6e8a02afd2f57050
 facts_sha256: null
 ---
 

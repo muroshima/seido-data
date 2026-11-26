@@ -9,7 +9,7 @@ source_id: shuukatsu-45968473
 source_updated: null
 license: 政府標準利用規約（第2.0版）準拠（CC BY 4.0互換）
 attribution: 神戸市「神戸市 高齢者福祉」を加工して作成
-content_sha256: d54e93f332cd853e3cf338e593f0db023ac6a9d248ff6ac94e91b6d40de02eca
+content_sha256: 4bde1e346495d904069f7239a4a0c4ae8d97a2bec29ec4e1bd59bfff65075be7
 facts_sha256: null
 ---
 

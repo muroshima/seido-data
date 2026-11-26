@@ -9,7 +9,7 @@ source_id: iryotekikeaji-48f659e0
 source_updated: null
 license: 無断使用・転載を禁止
 attribution: さいたま市「さいたま市 障害者の生活支援」を加工して作成
-content_sha256: be0e7764f25a89438d29de0ca077db37aaeef2ec80a9c4cc9bc3a58e69fedcc0
+content_sha256: f0152d35d7394d2cad8848f4e8c18e406c08af37b1eedd869acf498c72454807
 facts_sha256: be0e7764f25a89438d29de0ca077db37aaeef2ec80a9c4cc9bc3a58e69fedcc0
 ---
 

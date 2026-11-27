@@ -13,9 +13,14 @@ on:
         description: 取り込む source_id（空白区切り）。空なら日次と同じ（取込中で更新が止まっていないもの）
         required: false
         default: ""
+      allow_drop:
+        description: 制度ページが前回より大きく減っても書き込む source_id（空白区切り）
+        required: false
+        default: ""
 
 permissions:
   contents: write
+  issues: write # 取り込めなかった取得元を Issue で知らせる
   actions: read # 予備の定期実行が、その日の巡回が済んでいるかを見る
 
 concurrency:
@@ -66,18 +71,22 @@ jobs:
       - name: 取り込み
         env:
           SOURCE_IDS: ${{ inputs.source_ids }}
+          ALLOW_DROP: ${{ inputs.allow_drop }}
           # GPU は Kaggle のジョブと共有。空くまで最大 1 時間待ち、空かなければ巡回の結果だけを書く
           SEIDO_GPU_LOCK_WAIT: "3600"
           # 抽出は始めてから 180 分まで。残りは次の実行に回し、240 分の上限内で push まで終える
           SEIDO_EXTRACT_BUDGET: "10800"
           # 始めてから 210 分で、まだ取れていない取得元は次の実行に回す
           SEIDO_RUN_BUDGET: "12600"
+          SEIDO_FAILED_FILE: ${{ runner.temp }}/failed.tsv
         run: |
+          allow=()
+          for sid in $ALLOW_DROP; do allow+=(--allow-drop "$sid"); done
           if [ -n "$SOURCE_IDS" ]; then
             # shellcheck disable=SC2086 # 空白区切りを引数に分けたい
-            uv run seido update $SOURCE_IDS --commit --extract
+            uv run seido update $SOURCE_IDS --commit --extract "${allow[@]}"
           else
-            uv run seido update --daily --commit --extract
+            uv run seido update --daily --commit --extract "${allow[@]}"
           fi
       # 一部の取得元が失敗して exit 2 でも、取れた分のコミットは積む。
       # 実行中に main へ対応表やコードの変更が入っていたら、その上に載せ直してから push する
@@ -85,3 +94,10 @@ jobs:
         run: |
           git pull --rebase origin main
           git push origin HEAD:main
+      - name: 取り込めなかった取得元を Issue で知らせる
+        # 失敗が無ければ、seido update はファイルを書かず、スクリプトは何もしない
+        if: ${{ !cancelled() }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: uv run python scripts/report_failures.py "$RUNNER_TEMP/failed.tsv"

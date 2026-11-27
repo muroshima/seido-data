@@ -262,3 +262,35 @@ def test_sources_not_fetched_in_time_are_left_for_next_run(repo, monkeypatch):
         cli.http.STOP.clear()
     assert not (root / "seido/13/132136").exists()
     assert (root / "seido/13/132101/tokyo-ods-support-132101/a.md").exists()
+
+
+@pytest.mark.parametrize(
+    ("before", "after", "drop"),
+    [(0, 0, False), (1, 0, True), (3, 1, False), (6, 3, False), (6, 2, True), (49, 0, True)],
+)
+def test_sharp_drop(before, after, drop):
+    assert cli.sharp_drop(before, after) is drop
+
+
+def test_sharp_drop_stops_writing_and_is_reported(repo, monkeypatch, tmp_path_factory):
+    """作り替えたサイトが空の一覧を返しても、前回の制度をまとめて削除しない。"""
+    root, run = repo
+    sid = "tokyo-ods-support-132101"
+    many = Fetched(date(2026, 1, 1), {"132101": [rec("132101", c) for c in "abcdef"]})
+    empty = Fetched(date(2026, 1, 2), {"132101": []})
+    fetched = iter([many, empty, empty])
+    monkeypatch.setattr(
+        cli, "loader_for", lambda row: SimpleNamespace(fetch=lambda row: next(fetched))
+    )
+    failed_file = tmp_path_factory.mktemp("out") / "failed.tsv"
+    monkeypatch.setattr(cli, "FAILED_FILE", str(failed_file))
+    assert cli.main(["--root", str(root), "update", sid, "--commit"]) == 0
+    assert cli.main(["--root", str(root), "update", sid, "--commit"]) == 2
+    assert len(list((root / "seido/13/132101" / sid).glob("*.md"))) == 6
+    assert failed_file.read_text(encoding="utf-8").startswith(
+        f"{sid}\tSharpDrop: 制度ページが前回 6 件から 0 件"
+    )
+    # 意図した減少なら書き込める
+    args = ["--root", str(root), "update", sid, "--commit", "--allow-drop", sid]
+    assert cli.main(args) == 0
+    assert not list((root / "seido/13/132101" / sid).glob("*.md"))

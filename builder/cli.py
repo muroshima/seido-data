@@ -29,6 +29,20 @@ from .store import Stats, write_index, write_units
 FETCH_WORKERS = 16  # 同時に取りに行く取得元の数
 # 実行を始めてからこの秒数を過ぎたら、まだ取れていない取得元は次の実行に回す（push まで終えるため）
 RUN_BUDGET = int(os.environ.get("SEIDO_RUN_BUDGET") or 0) or None
+# 失敗した取得元と理由を書き出すファイル（ワークフローが Issue で知らせる）
+FAILED_FILE = os.environ.get("SEIDO_FAILED_FILE")
+
+
+class SharpDrop(Exception):
+    """前回より制度ページが大きく減った。サイトの作り替えで一覧が空になったときなど。"""
+
+
+def sharp_drop(before: int, after: int) -> bool:
+    """前回 before 件 → 今回 after 件を、書き込まずに止めるべき減り方とみなすか。
+
+    0 件になったとき、または 6 件以上あったものが半分未満になったとき。
+    """
+    return before > 0 and (after == 0 or (before >= 6 and after < before / 2))
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -57,6 +71,13 @@ def main(argv: list[str] | None = None) -> int:
         action="store_true",
         help="事実だけの取得元で、新しいページと変わったページから LLM で制度の情報を取り出す",
     )
+    up.add_argument(
+        "--allow-drop",
+        action="append",
+        default=[],
+        metavar="SOURCE_ID",
+        help="制度ページが前回より大きく減っても書き込む取得元（複数可）",
+    )
     sub.add_parser("index", help="seido/index.csv（制度の一覧）を作り直す")
     fl = sub.add_parser(
         "fill", help="巡回はせず、制度の情報をまだ取り出していないページだけを LLM に回す"
@@ -68,7 +89,14 @@ def main(argv: list[str] | None = None) -> int:
         write_index(args.root)
         return 0
     if args.cmd == "update":
-        return update(args.root, args.source_ids, args.daily, args.commit, args.extract)
+        return update(
+            args.root,
+            args.source_ids,
+            args.daily,
+            args.commit,
+            args.extract,
+            frozenset(args.allow_drop),
+        )
     if args.cmd == "fill":
         entities, sources = registry.load(args.root)
         budget = extract.EXTRACT_BUDGET or 3600
@@ -118,7 +146,12 @@ def coverage_map(root: Path, entities: list[dict], sources: list[dict]) -> str:
 
 
 def update(
-    root: Path, source_ids: list[str], daily: bool, do_commit: bool, do_extract: bool = False
+    root: Path,
+    source_ids: list[str],
+    daily: bool,
+    do_commit: bool,
+    do_extract: bool = False,
+    allow_drop: frozenset[str] = frozenset(),
 ) -> int:
     entities, sources = registry.load(root)
     errors = registry.validate(entities, sources)
@@ -170,6 +203,14 @@ def update(
             )
             if outside:
                 raise ValueError(f"covers の範囲外の自治体: {sorted(outside)[:5]}")
+            before = len(list((root / "raw" / sid).glob("*/*.json")))
+            after = sum(len(records) for records in fetched.units.values())
+            if sharp_drop(before, after) and sid not in allow_drop:
+                raise SharpDrop(
+                    f"制度ページが前回 {before} 件から {after} 件に減った。"
+                    "一覧の URL や作りが変わっていないか確かめる"
+                    f"（意図した減少なら --allow-drop {sid}）"
+                )
             for records in fetched.units.values():
                 for r in records:
                     r.lg_name = names.get(r.lg_code, r.lg_name)
@@ -191,12 +232,12 @@ def update(
                     if n:
                         print(f"{sid}: {n} ページから制度の情報を取り出した")
             raw_stats, seido_stats = write_units(root, info, fetched.units)
-        except Exception:  # noqa: BLE001 1 つの取得元の失敗で、ほかを止めない
+        except Exception as e:  # noqa: BLE001 1 つの取得元の失敗で、ほかを止めない
             print(
                 f"{sid}: 取り込み失敗（何も書き換えない）\n{traceback.format_exc()}",
                 file=sys.stderr,
             )
-            failed.append(sid)
+            failed.append((sid, f"{type(e).__name__}: {e}"))
             continue
         if not seido_stats.empty:
             write_index(root)  # 一覧も同じコミットに入れる
@@ -211,6 +252,10 @@ def update(
             f"時間切れで次の実行に回した取得元: {len(skipped)} 件 {skipped[:10]}", file=sys.stderr
         )
     pool.shutdown(cancel_futures=True)
+    if FAILED_FILE and failed:
+        with open(FAILED_FILE, "w", encoding="utf-8") as f:
+            for sid, reason in failed:
+                f.write(f"{sid}\t{' '.join(reason.split())[:300]}\n")
     # 取れた分はコミットしたうえで、失敗した取得元があればジョブを失敗させて気付けるようにする
     return 2 if failed else 0
 

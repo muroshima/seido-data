@@ -9,7 +9,7 @@ source_id: fureaishop-1efd793a
 source_updated: null
 license: 私的使用・引用を除き無断転載不可（引用時は出所明示）
 attribution: 鎌倉市「鎌倉市 障害者福祉」を加工して作成
-content_sha256: 4d321cfa614a1a3aa24946c909c54c3d7489e4fbda9b1ce955169edd09752d15
+content_sha256: f9af8f38280dc2791da0162455bb3ef4af0e900b2f7a13513748c825494fb9e9
 facts_sha256: 4d321cfa614a1a3aa24946c909c54c3d7489e4fbda9b1ce955169edd09752d15
 ---
 

@@ -10,9 +10,13 @@ source_updated: null
 license: 無断複製・転用を禁止
 attribution: 豊中市「豊中市 手当・助成等（分野横断）」を加工して作成
 content_sha256: fa5ce3ec721be7f79a37d4d0565a692327c76d9070b6b0f21e561fd467e337ab
-facts_sha256: null
+facts_sha256: fa5ce3ec721be7f79a37d4d0565a692327c76d9070b6b0f21e561fd467e337ab
 ---
 
 # 検索結果
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 問い合わせ
+
+豊中市総合コールセンター〔TEL〕06-6858-5050

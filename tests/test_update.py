@@ -235,7 +235,7 @@ def test_sources_are_submitted_round_robin_by_host():
 
 
 def test_sources_not_fetched_in_time_are_left_for_next_run(repo, monkeypatch):
-    """実行の上限時間を過ぎたら、取れていない取得元は書き換えずに次の実行に回す。"""
+    """実行の上限時間を過ぎたら、取れていない取得元も、取れた取得元も書き換えずに次の実行に回す。"""
     import threading
 
     root, run = repo
@@ -245,23 +245,29 @@ def test_sources_not_fetched_in_time_are_left_for_next_run(repo, monkeypatch):
         release.wait(5)
         return Fetched(date(2026, 1, 1), {"132136": [rec("132136", "s")]})
 
+    def quick(code):
+        return SimpleNamespace(
+            fetch=lambda row: Fetched(date(2026, 1, 1), {code: [rec(code, "a")]})
+        )
+
     loaders = {
+        "tokyo-ods-support-132101": quick("132101"),
         "tokyo-ods-support-132136": SimpleNamespace(fetch=slow),
-        "tokyo-ods-support-132101": SimpleNamespace(
-            fetch=lambda row: Fetched(date(2026, 1, 1), {"132101": [rec("132101", "a")]})
-        ),
+        "tokyo-ods-support-131148": quick("131148"),
     }
     monkeypatch.setattr(cli, "loader_for", lambda row: loaders.get(row["source_id"]))
     monkeypatch.setattr(cli, "RUN_BUDGET", 0.5)
     try:
-        ids = ["tokyo-ods-support-132136", "tokyo-ods-support-132101"]
+        ids = list(loaders)
         assert cli.main(["--root", str(root), "update", *ids, "--commit"]) == 0
         assert cli.http.STOP.is_set()
     finally:
         release.set()
         cli.http.STOP.clear()
-    assert not (root / "seido/13/132136").exists()
     assert (root / "seido/13/132101/tokyo-ods-support-132101/a.md").exists()
+    assert not (root / "seido/13/132136").exists()
+    # 上限より前に取れていても、順番が上限の後なら書かない
+    assert not (root / "seido/13/131148").exists()
 
 
 @pytest.mark.parametrize(

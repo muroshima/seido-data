@@ -35,7 +35,7 @@ from .store import Stats, write_index, write_units
 # 同時に取りに行く取得元の数。同じホストへの間隔は http が守るので、増やしても 1 つのサイトへの
 # 負荷は変わらない
 FETCH_WORKERS = int(os.environ.get("SEIDO_FETCH_WORKERS") or 16)
-# 実行を始めてからこの秒数を過ぎたら、まだ取れていない取得元は次の実行に回す（push まで終えるため）
+# 実行を始めてからこの秒数を過ぎたら、残りの取得元は取れていても次の実行に回す（push のため）
 RUN_BUDGET = int(os.environ.get("SEIDO_RUN_BUDGET") or 0) or None
 # 失敗した取得元と理由を書き出すファイル（ワークフローが Issue で知らせる）
 FAILED_FILE = os.environ.get("SEIDO_FAILED_FILE")
@@ -290,6 +290,10 @@ def update(
     for sid in source_ids:
         row = by_id[sid]
         info = source_info(row, entities)
+        if run_deadline is not None and time.monotonic() > run_deadline:
+            # 書き出しとコミットにも 1 件十数秒かかるので、取れている取得元も次の実行に回す
+            skipped.append(sid)
+            continue
         try:
             wait = None if run_deadline is None else max(0.0, run_deadline - time.monotonic())
             try:

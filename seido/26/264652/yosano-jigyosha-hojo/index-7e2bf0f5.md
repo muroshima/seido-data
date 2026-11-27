@@ -10,7 +10,7 @@ source_updated: null
 license: 無断使用・複製・転載・改変を禁止（私的使用・引用を除く）
 attribution: 与謝野町「与謝野町 支援・補助金（商業・工業）」を加工して作成
 content_sha256: 500cbce9089a269511ef71393f517679268e36f9a88addca5f88708cb07775e7
-facts_sha256: null
+facts_sha256: 500cbce9089a269511ef71393f517679268e36f9a88addca5f88708cb07775e7
 ---
 
 # 支援・補助金の記事一覧

@@ -10,9 +10,25 @@ source_updated: null
 license: 無断転載を禁止
 attribution: 大阪府「大阪府 ひとり親家庭等への支援」を加工して作成
 content_sha256: 593aa2ee0bf7bde417f350ee24fc10152bc126ee77e00d176d9defa1bdb58cdf
-facts_sha256: null
+facts_sha256: 593aa2ee0bf7bde417f350ee24fc10152bc126ee77e00d176d9defa1bdb58cdf
 ---
 
 # 母子・父子・寡婦福祉資金一覧
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+ひとり親家庭の親、寡婦等
+
+## 期間
+
+各資金に応じて異なります
+
+## 利用方法
+
+申請が必要
+
+## 問い合わせ
+
+自治体の福祉事務所

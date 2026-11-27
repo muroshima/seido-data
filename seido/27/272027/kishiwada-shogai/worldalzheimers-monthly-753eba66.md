@@ -10,9 +10,17 @@ source_updated: null
 license: 無断複製・転用を禁止
 attribution: 岸和田市「岸和田市 障害」を加工して作成
 content_sha256: f950e01760d22b05e5499d272f8064bb7a99fe45cad84d305b4cfc28bbfdd405
-facts_sha256: null
+facts_sha256: f950e01760d22b05e5499d272f8064bb7a99fe45cad84d305b4cfc28bbfdd405
 ---
 
 # 認知症月間
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 期間
+
+9月
+
+## 問い合わせ
+
+福祉部福祉政策課地域福祉推進担当（電話：072-423-9467）

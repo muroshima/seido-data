@@ -10,7 +10,7 @@ source_updated: null
 license: 無断使用・転載を禁止
 attribution: さいたま市「さいたま市 障害者の生活支援」を加工して作成
 content_sha256: f0152d35d7394d2cad8848f4e8c18e406c08af37b1eedd869acf498c72454807
-facts_sha256: be0e7764f25a89438d29de0ca077db37aaeef2ec80a9c4cc9bc3a58e69fedcc0
+facts_sha256: f0152d35d7394d2cad8848f4e8c18e406c08af37b1eedd869acf498c72454807
 ---
 
 # 医療的ケア児等への支援について
@@ -35,4 +35,4 @@ facts_sha256: be0e7764f25a89438d29de0ca077db37aaeef2ec80a9c4cc9bc3a58e69fedcc0
 
 ## 問い合わせ
 
-各区役所支援課、障害者生活支援センター、医療的ケア児等コーディネーター、各区保健センター、さいたま市医療的ケア児実態調査、埼玉県医療的ケア児等支援センター、医療的ケア児医療情報共有システム（MEIS）等
+各区役所支援課、障害者生活支援センター、医療的ケア児等コーディネーター、各区保健センターなど

@@ -1,4 +1,4 @@
-"""update.yml の予備の定期実行は、18 時間以内に別の巡回があれば何もしない。"""
+"""update.yml の予備の定期実行は、12 時間以内に別の巡回があれば何もしない。"""
 
 import importlib.util
 from datetime import UTC, datetime
@@ -36,3 +36,14 @@ def test_failed_run_counts():
     # 一部の取得元が失敗しても、取れた分はコミットしている。同じ日にもう一度は回さない
     runs = [run(2, "2026-11-27T18:23:00Z"), run(1, "2026-11-27T18:00:00Z", "failure")]
     assert [r["id"] for r in ran_recently.recent(runs, 2, NOW)] == [1]
+
+
+def test_only_runs_whose_update_job_ran_count():
+    """guard で見送った予備の定期実行は、巡回済みに数えない。"""
+    assert ran_recently.crawled(
+        [{"name": "guard", "conclusion": "success"}, {"name": "update", "conclusion": "success"}]
+    )
+    assert ran_recently.crawled([{"name": "update", "conclusion": None}])  # 実行中
+    assert not ran_recently.crawled(
+        [{"name": "guard", "conclusion": "success"}, {"name": "update", "conclusion": "skipped"}]
+    )

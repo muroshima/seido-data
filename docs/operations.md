@@ -17,10 +17,10 @@ self-hosted runner を使えるのは、`schedule` と `workflow_dispatch` で�
 
 GitHub の定期実行（`schedule`）は、数時間遅れたり飛ばされたりします。2026-11-26 と 11-27 の巡回は、03:00 の予定が 10 時過ぎに始まりました。そこで、runner とは別の端末から `scripts/kick.sh` で `workflow_dispatch` を起動します。
 
-- `kick.sh update`: 18 時間以内に巡回が始まっていなければ起動する
+- `kick.sh update`: 12 時間以内に巡回が始まっていなければ起動する
 - `kick.sh fill`: fill か update が待ち・実行中なら何もしない。GPU が空いているかは fill 自身が見る
 
-GitHub の定期実行は、起動されなかった日の予備として残しています。`update.yml` は、予備の実行が始まったときに 18 時間以内の巡回（取り消したものを除く）があれば何もしません（`scripts/ran_recently.py`）。
+GitHub の定期実行は、起動されなかった日の予備として残しています。`update.yml` は、予備の実行が始まったときに 12 時間以内の巡回（update ジョブが実際に動いたもの。予備の実行が見送った回や取り消した回は数えない）があれば何もしません（`scripts/ran_recently.py`）。12 時間は、予備の定期実行の遅れ（実測で 7 時間前後）より長く、1 日より十分短い長さです。
 
 macOS の launchd で起動する例です（`gh` が認証済みであること）。
 

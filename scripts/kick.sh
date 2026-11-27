@@ -1,7 +1,7 @@
 #!/bin/zsh
 # seido の巡回（update）と取り出し（fill）を決まった時刻に起動する。launchd や cron から呼ぶ。
 # GitHub の定期実行は数時間遅れたり飛ばされたりするため。runner は 1 台なので、積んでも後ろに並ぶ。
-#   kick.sh update  18 時間以内に巡回が始まっていなければ起動する
+#   kick.sh update  12 時間以内に巡回が始まっていなければ起動する
 #   kick.sh fill    fill か update が待ち・実行中なら何もしない。GPU が空いているかは fill 自身が見る
 # gh が認証済みであること
 set -u
@@ -9,10 +9,17 @@ REPO=${SEIDO_REPO:-muroshima/seido}
 echo "== $(date '+%F %T') $1"
 case $1 in
   update)
-    recent=$(gh run list -R $REPO -w update.yml -L 10 --json createdAt,conclusion \
-      --jq '[.[]|select(.conclusion!="cancelled")|select((.createdAt|fromdateiso8601) > now-18*3600)]|length')
+    # 12 時間以内に始まった実行のうち、update ジョブが実際に動いたもの（guard で見送った予備の
+    # 定期実行は数えない）
+    recent=0
+    for id in $(gh run list -R $REPO -w update.yml -L 10 --json databaseId,createdAt,conclusion \
+      --jq '.[]|select(.conclusion!="cancelled")|select((.createdAt|fromdateiso8601) > now-12*3600)|.databaseId'); do
+      ran=$(gh run view $id -R $REPO --json jobs \
+        --jq '[.jobs[]|select(.name=="update")|select(.conclusion!="skipped" and .conclusion!="cancelled")]|length')
+      (( recent += ran ))
+    done
     if (( recent > 0 )); then
-      echo "18 時間以内に巡回が始まっているので見送る"
+      echo "12 時間以内に巡回が始まっているので見送る"
       exit 0
     fi
     ;;

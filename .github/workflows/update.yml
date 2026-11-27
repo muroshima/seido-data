@@ -28,7 +28,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  # 予備の定期実行は、18 時間以内に別の巡回（kick.sh からの起動）があれば何もしない
+  # 予備の定期実行は、12 時間以内に別の巡回（kick.sh からの起動）があれば何もしない
   guard:
     # 公開用のリポジトリ（mirror.yml の送り先）には同じファイルがあるが、そこでは動かさない
     if: github.repository == 'muroshima/seido'
@@ -46,10 +46,8 @@ jobs:
         if: github.event_name == 'schedule'
         env:
           GH_TOKEN: ${{ github.token }}
-          API: ${{ github.api_url }}/repos/${{ github.repository }}/actions/workflows/update.yml/runs?per_page=20
           RUN_ID: ${{ github.run_id }}
-        run: |
-          curl -fsS -H "Authorization: Bearer $GH_TOKEN" "$API" | python3 scripts/ran_recently.py
+        run: python3 scripts/ran_recently.py
 
   update:
     needs: guard

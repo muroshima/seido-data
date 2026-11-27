@@ -10,7 +10,7 @@ source_updated: null
 license: 法律で認められた場合を除き無断転用・引用を禁止
 attribution: 西東京市「西東京市 手当・年金（障害者支援）」を加工して作成
 content_sha256: 6aff5957221666dfc84acc9e71f6ea2fa2ef026a33d03824ead09f1192ba0d83
-facts_sha256: e337ea19b326dd306435a55655573efb020ddebd145d924c55069c0423551294
+facts_sha256: 6aff5957221666dfc84acc9e71f6ea2fa2ef026a33d03824ead09f1192ba0d83
 ---
 
 # 特別障害者手当（国の制度）

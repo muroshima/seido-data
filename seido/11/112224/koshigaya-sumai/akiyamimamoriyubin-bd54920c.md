@@ -10,7 +10,7 @@ source_updated: null
 license: 許可なく他メディアへの転載・引用はお断り
 attribution: 越谷市「越谷市 住まい」を加工して作成
 content_sha256: c2b27988ece854a3a58165e4968bbc2d7c0814a0d38076156e4e1f74dad50016
-facts_sha256: cdb5b5276e4cfd3c03ec87134afcd3d9df0694e535c8e32cb840a3447f0ae538
+facts_sha256: c2b27988ece854a3a58165e4968bbc2d7c0814a0d38076156e4e1f74dad50016
 ---
 
 # 郵便局の「空き家みまもり」サービスについて

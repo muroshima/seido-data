@@ -10,7 +10,7 @@ source_updated: null
 license: 無断複製・転用を禁止（私的使用・引用を除く）
 attribution: 船橋市「船橋市 子育てに関する手当・助成」を加工して作成
 content_sha256: 8d1f2bc80d84189e1d2c285a5ebbda8a76c141c233ce35038ce7fa653fa664ff
-facts_sha256: 7dc6d4c49823fbc5dc2bee7c2e2e6aefb7a7be1819530beb402418e49072f0e8
+facts_sha256: 8d1f2bc80d84189e1d2c285a5ebbda8a76c141c233ce35038ce7fa653fa664ff
 ---
 
 # ひとり親家庭等への支援
@@ -23,8 +23,8 @@ facts_sha256: 7dc6d4c49823fbc5dc2bee7c2e2e6aefb7a7be1819530beb402418e49072f0e8
 
 ## 支援内容
 
-無料招待・講座・習得講習・祝金・ホームヘルプサービス
+児童扶養手当
 
 ## 期間
 
-令和8年度
+令和8年11月26日

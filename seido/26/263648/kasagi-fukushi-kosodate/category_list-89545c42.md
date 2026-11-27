@@ -10,7 +10,7 @@ source_updated: null
 license: 不明
 attribution: 笠置町「笠置町 福祉・健康・子育て」を加工して作成
 content_sha256: 2501f3c0a787f2f3b44a95d73ed8eef4ff2d916707b2e3957ffbfabb99de6ce8
-facts_sha256: null
+facts_sha256: 2501f3c0a787f2f3b44a95d73ed8eef4ff2d916707b2e3957ffbfabb99de6ce8
 ---
 
 # 消防・防災・防犯

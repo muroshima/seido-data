@@ -10,7 +10,7 @@ source_updated: null
 license: 不明
 attribution: 笠置町「笠置町 福祉・健康・子育て」を加工して作成
 content_sha256: 1d3b3633973b6d120fbaa3c51878ff60c469b342ec642c67dce6181cf3fa990d
-facts_sha256: null
+facts_sha256: 1d3b3633973b6d120fbaa3c51878ff60c469b342ec642c67dce6181cf3fa990d
 ---
 
 # ゴミ・リサイクル

@@ -10,7 +10,7 @@ source_updated: null
 license: 不明
 attribution: 笠置町「笠置町 福祉・健康・子育て」を加工して作成
 content_sha256: a0b75a1917a4c485822f03138c0e59a41b5ff36bd15ff1ae8ea0b68858111839
-facts_sha256: null
+facts_sha256: a0b75a1917a4c485822f03138c0e59a41b5ff36bd15ff1ae8ea0b68858111839
 ---
 
 # 交通

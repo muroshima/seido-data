@@ -10,7 +10,7 @@ source_updated: null
 license: 著作権法上の行為を除き無断転載・改変不可
 attribution: 江戸川区「児童手当・子ども医療費助成・ひとり親への支援」を加工して作成
 content_sha256: 0aa14ca28f869ad0efbf4029f59cbab0cb2cb03df98f23f8afdd11507eb65ac4
-facts_sha256: b392c7cddd11d75386493351dbbebe34d935ef4cc629ddf8d25f584db77ae394
+facts_sha256: 0aa14ca28f869ad0efbf4029f59cbab0cb2cb03df98f23f8afdd11507eb65ac4
 ---
 
 # バースデーサポート事業
@@ -23,7 +23,7 @@ facts_sha256: b392c7cddd11d75386493351dbbebe34d935ef4cc629ddf8d25f584db77ae394
 
 ## 支援内容
 
-ギフト配付
+ギフトの配付
 
 ## 期間
 
@@ -31,7 +31,7 @@ facts_sha256: b392c7cddd11d75386493351dbbebe34d935ef4cc629ddf8d25f584db77ae394
 
 ## 利用方法
 
-電子申請または郵送申請
+アンケート提出後、ギフトを配付
 
 ## 問い合わせ
 

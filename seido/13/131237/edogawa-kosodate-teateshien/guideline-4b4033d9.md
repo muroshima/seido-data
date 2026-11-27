@@ -10,7 +10,7 @@ source_updated: null
 license: 著作権法上の行為を除き無断転載・改変不可
 attribution: 江戸川区「児童手当・子ども医療費助成・ひとり親への支援」を加工して作成
 content_sha256: d028293bdfd199c9fb874810bc60cfb460be764cc1d0d39de7d3298fe171bec9
-facts_sha256: 0c346d37926261d6a5f743f13351fd458605abe78623a7f72998413104a5d2c9
+facts_sha256: d028293bdfd199c9fb874810bc60cfb460be764cc1d0d39de7d3298fe171bec9
 ---
 
 # 保育の質ガイドライン
@@ -27,7 +27,7 @@ facts_sha256: 0c346d37926261d6a5f743f13351fd458605abe78623a7f72998413104a5d2c9
 
 ## 利用方法
 
-話し合い・確認を経て実施
+話し合いを通じて実践
 
 ## 問い合わせ
 

@@ -10,7 +10,7 @@ source_updated: null
 license: 著作権法上の行為を除き無断転載・改変不可
 attribution: 江戸川区「児童手当・子ども医療費助成・ひとり親への支援」を加工して作成
 content_sha256: b99cd93171840d7dbf475bd2de5f1d0c23a0cd9968f114a4c73f01ca2bbdae72
-facts_sha256: f10843e7cff7a05f0b79dd22afbb2a8878460754a8c76fcb100cee330c8b6b22
+facts_sha256: b99cd93171840d7dbf475bd2de5f1d0c23a0cd9968f114a4c73f01ca2bbdae72
 ---
 
 # 子どもの救急
@@ -23,12 +23,12 @@ facts_sha256: f10843e7cff7a05f0b79dd22afbb2a8878460754a8c76fcb100cee330c8b6b22
 
 ## 期間
 
-休日・夜間
+24時間
 
 ## 利用方法
 
-医療機関や救急相談センターに連絡
+電話相談
 
 ## 問い合わせ
 
-健康推進課・子ども家庭支援センター
+健康推進課

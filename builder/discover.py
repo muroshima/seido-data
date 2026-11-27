@@ -141,7 +141,8 @@ def find(site: str) -> list[Candidate]:
                 and not NOT_LISTING_TEXT.search(text)
                 and not url.lower().endswith((".pdf", ".xlsx", ".docx", ".doc", ".xls"))
             ):
-                found.setdefault(url, text)
+                # 公式サイトは https で開けるので、同じサイトの http のリンクも https で持つ
+                found.setdefault(re.sub(r"^http://", "https://", url), text)
     return choose(found)
 
 

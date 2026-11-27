@@ -10,7 +10,7 @@ source_updated: null
 license: 著作権法上の行為を除き無断使用・転載禁止
 attribution: 墨田区「手当・助成・支援（子育て応援サイト）」を加工して作成
 content_sha256: 4096f1e043d0cee14be3c0d2713650b079fa5811566ffabc0c70eeee4d293653
-facts_sha256: 945a68c4a3765f83dfaf1db219cb89cb2e77161eb29550ec2589b0d9f43e0e75
+facts_sha256: 4096f1e043d0cee14be3c0d2713650b079fa5811566ffabc0c70eeee4d293653
 ---
 
 # 【企業主導型保育施設】保育料負担軽減事業のご案内
@@ -31,7 +31,7 @@ facts_sha256: 945a68c4a3765f83dfaf1db219cb89cb2e77161eb29550ec2589b0d9f43e0e75
 
 ## 利用方法
 
-施設から領収書を受領後、オンラインまたは紙面で申請
+施設から領収書を受領し、オンラインまたは紙面で申請
 
 ## 問い合わせ
 

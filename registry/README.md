@@ -78,7 +78,7 @@ uv run seido regress --compare /tmp/old.json /tmp/new.json
 
 ```sh
 uv run seido registry check      # 検証（CI でも走る）
-uv run seido registry coverage   # COVERAGE.md と coverage-map.svg を作り直す
+uv run seido registry coverage   # COVERAGE.md・coverage/<都道府県コード>.md・coverage-map.svg を作り直す
 ```
 
 ## 地図（coverage-map.svg）

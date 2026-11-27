@@ -23,4 +23,4 @@ uv run seido registry check
 uv run pytest
 ```
 
-対応表を変えたら `uv run seido registry coverage` で `registry/COVERAGE.md` を、制度ファイルを変えたら `uv run seido index` で `seido/index.csv` を作り直してください。CI がこの 2 つが最新かを確かめます。
+対応表を変えたら `uv run seido registry coverage` で `registry/COVERAGE.md` と `registry/coverage/` を、制度ファイルを変えたら `uv run seido index` で `seido/index.csv` を作り直してください。CI がこの 2 つが最新かを確かめます。

@@ -160,12 +160,43 @@ def validate(entities: list[dict[str, str]], sources: list[dict[str, str]]) -> l
     return errors
 
 
-def coverage(entities: list[dict[str, str]], sources: list[dict[str, str]]) -> str:
-    """団体ごとに、取込中・取込予定の取得元があるかを表にする。"""
+COVERAGE_HEADER = [
+    "`uv run seido registry coverage` で生成する。手で編集しない。",
+    "",
+    "- ○: 取込中・取込予定の取得元があり、制度全般を扱う",
+    "- ◐: 取込中・取込予定の取得元はあるが、分野が限られる（子育てだけ、など）",
+    "- △: 取得元は見つかっているが、調査中・要利用申請・対象外のみ",
+    "- −: 取得元が見つかっていない",
+]
+
+
+# 国の機関をこれ以上扱う取得元は、団体別の表に書かず、まとめて書く（府省をまたぐ取得元）
+WIDE = 10
+
+
+def pref_of(e: dict[str, str]) -> str | None:
+    """地方公共団体の都道府県コード 2 桁。国の機関は None。"""
+    return e["lg_code"][:2] if e["lg_code"] else None
+
+
+def coverage(entities: list[dict[str, str]], sources: list[dict[str, str]]) -> dict[str, str]:
+    """カバー状況のファイル（registry/ からの相対パス → 中身）。
+
+    COVERAGE.md に全国と都道府県ごとの集計、国の機関、広く扱う取得元を置き、都道府県ごとの
+    団体別の表は coverage/<都道府県コード>.md に分ける。広く扱う取得元（複数の都道府県、または
+    WIDE 以上の国の機関）は、団体別の表では書かない（多くの行に同じ取得元が並ぶため）。
+    """
+    by_id = {e["id"]: e for e in entities}
     by_entity: dict[str, list[dict[str, str]]] = {e["id"]: [] for e in entities}
+    wide: list[tuple[dict[str, str], set[str]]] = []
     for s in sources:
-        for i in expand(s["covers"], entities):
+        ids = expand(s["covers"], entities)
+        for i in ids:
             by_entity[i].append(s)
+        groups = {pref_of(by_id[i]) for i in ids}
+        if len(groups) > 1 or (groups == {None} and len(ids) >= WIDE):
+            wide.append((s, ids))
+    wide_ids = {s["source_id"] for s, _ in wide}
 
     def mark(e: dict[str, str]) -> str:
         usable = [s for s in by_entity[e["id"]] if s["status"] in USABLE]
@@ -175,31 +206,77 @@ def coverage(entities: list[dict[str, str]], sources: list[dict[str, str]]) -> s
             return "◐"
         return "△" if by_entity[e["id"]] else "−"
 
-    lines = [
-        "# カバー状況",
-        "",
-        "`uv run seido registry coverage` で生成する。手で編集しない。",
-        "",
-        "- ○: 取込中・取込予定の取得元があり、制度全般を扱う",
-        "- ◐: 取込中・取込予定の取得元はあるが、分野が限られる（子育てだけ、など）",
-        "- △: 取得元は見つかっているが、調査中・要利用申請・対象外のみ",
-        "- −: 取得元が見つかっていない",
-        "",
-        "| 区分 | 団体数 | ○ | ◐ | △ | − |",
-        "|---|---:|---:|---:|---:|---:|",
-    ]
+    def counts(group: list[dict[str, str]]) -> str:
+        c = Counter(mark(e) for e in group)
+        return f"{len(group)} | {c['○']} | {c['◐']} | {c['△']} | {c['−']}"
+
+    def table(group: list[dict[str, str]]) -> list[str]:
+        lines = ["| 団体 | 区分 | 状況 | 取得元 |", "|---|---|---|---|"]
+        for e in group:
+            names = ", ".join(
+                f"`{s['source_id']}`（{s['scope']}・{s['status']}）"
+                for s in by_entity[e["id"]]
+                if s["source_id"] not in wide_ids
+            )
+            lines.append(f"| {e['name']} | {e['kind']} | {mark(e)} | {names} |")
+        return lines
+
+    prefs: dict[str, list[dict[str, str]]] = {}
+    for e in entities:
+        if (p := pref_of(e)) is not None:
+            prefs.setdefault(p, []).append(e)
+    lines = ["# カバー状況", "", *COVERAGE_HEADER, "", "| 区分 | 団体数 | ○ | ◐ | △ | − |"]
+    lines.append("|---|---:|---:|---:|---:|---:|")
     for kind in ENTITY_KINDS:
         group = [e for e in entities if e["kind"] == kind]
         if group:
-            c = Counter(mark(e) for e in group)
-            lines.append(f"| {kind} | {len(group)} | {c['○']} | {c['◐']} | {c['△']} | {c['−']} |")
-    lines += ["", "## 団体別", "", "| 団体 | 区分 | 状況 | 取得元 |", "|---|---|---|---|"]
-    for e in entities:
-        names = ", ".join(
-            f"`{s['source_id']}`（{s['scope']}・{s['status']}）" for s in by_entity[e["id"]]
+            lines.append(f"| {kind} | {counts(group)} |")
+    lines += [
+        "",
+        "## 都道府県別",
+        "",
+        "都道府県と県内の市区町村を合わせた数。団体別の表は都道府県名のリンク先にある。",
+        "",
+        "| 都道府県 | 団体数 | ○ | ◐ | △ | − |",
+        "|---|---:|---:|---:|---:|---:|",
+    ]
+    files: dict[str, str] = {}
+    for p, group in sorted(prefs.items()):
+        name = next((e["name"] for e in group if e["kind"] == "都道府県"), p)
+        lines.append(f"| [{name}](coverage/{p}.md) | {counts(group)} |")
+        files[f"coverage/{p}.md"] = (
+            "\n".join(
+                [
+                    f"# カバー状況（{name}）",
+                    "",
+                    *COVERAGE_HEADER,
+                    "",
+                    "複数の都道府県や多くの団体を扱う取得元は、"
+                    "[COVERAGE.md](../COVERAGE.md#広く扱う取得元) にまとめて書く。",
+                    "",
+                    *table(group),
+                ]
+            )
+            + "\n"
         )
-        lines.append(f"| {e['name']} | {e['kind']} | {mark(e)} | {names} |")
-    return "\n".join(lines) + "\n"
+    gov = [e for e in entities if pref_of(e) is None]
+    if gov:
+        lines += ["", "## 国の機関", "", *table(gov)]
+    lines += [
+        "",
+        "## 広く扱う取得元",
+        "",
+        f"複数の都道府県、または {WIDE} 以上の国の機関を扱う取得元。団体別の表には書かない。",
+        "",
+        "| 取得元 | 範囲 | 状況 | 団体数 |",
+        "|---|---|---|---:|",
+    ]
+    for s, ids in wide:
+        lines.append(
+            f"| `{s['source_id']}` {s['name']} | {s['scope']} | {s['status']} | {len(ids)} |"
+        )
+    files["COVERAGE.md"] = "\n".join(lines) + "\n"
+    return files
 
 
 # --- entities.csv の生成 ----------------------------------------------------------------

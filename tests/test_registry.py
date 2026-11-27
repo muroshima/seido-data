@@ -89,19 +89,29 @@ def test_coverage_marks():
         src("kids", covers="lg:131024", scope="子育て"),
         src("todo", covers="lg:130001", status="調査中", provider="lg:130001"),
     ]
+    files = r.coverage(
+        [{**TOKYO, "name": "東京都"}, {**CHIYODA, "name": "千代田区"}, {**CHUO, "name": "中央区"}],
+        sources,
+    )
     rows = {
         line.split(" | ")[0].lstrip("| "): line.split(" | ")[2]
-        for line in r.coverage(
-            [
-                {**TOKYO, "name": "東京都"},
-                {**CHIYODA, "name": "千代田区"},
-                {**CHUO, "name": "中央区"},
-            ],
-            sources,
-        ).splitlines()
+        for line in files["coverage/13.md"].splitlines()
         if line.startswith("| ") and "区分" not in line and line.count("|") == 5
     }
     assert rows == {"東京都": "△", "千代田区": "○", "中央区": "◐"}
+    assert "| [東京都](coverage/13.md) | 3 | 1 | 1 | 1 | 0 |" in files["COVERAGE.md"]
+
+
+def test_coverage_writes_wide_sources_once():
+    """複数の都道府県を扱う取得元は、団体別の表に書かず COVERAGE.md にまとめる。"""
+    kanagawa = {**TOKYO, "id": "lg:140007", "lg_code": "140007", "name": "神奈川県"}
+    sources = [src("nation", covers="lg:*"), src("tokyo-wide", covers="lg:13*")]
+    files = r.coverage(
+        [{**TOKYO, "name": "東京都"}, {**CHIYODA, "name": "千代田区"}, kanagawa], sources
+    )
+    assert "`nation`" not in files["coverage/13.md"]
+    assert "`tokyo-wide`" in files["coverage/13.md"]  # 1 つの都道府県の中だけなら書く
+    assert "| `nation`" in files["COVERAGE.md"]
 
 
 def test_merge_keeps_manual_values_and_fills_blanks():
@@ -129,7 +139,10 @@ def test_repository_registry_is_valid_and_coverage_is_fresh():
     entities, sources = r.load(ROOT)
     assert r.validate(entities, sources) == []
     expected = r.coverage(entities, sources)
-    actual = (ROOT / "registry" / "COVERAGE.md").read_text(encoding="utf-8")
+    actual = {
+        str(p.relative_to(ROOT / "registry")): p.read_text(encoding="utf-8")
+        for p in [ROOT / "registry" / "COVERAGE.md", *(ROOT / "registry" / "coverage").glob("*.md")]
+    }
     assert actual == expected, "uv run seido registry coverage で作り直す"
 
 

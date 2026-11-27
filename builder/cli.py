@@ -157,9 +157,11 @@ def registry_command(args: argparse.Namespace) -> int:
     if errors:
         return 1
     if args.action == "coverage":
-        (root / "registry" / "COVERAGE.md").write_text(
-            registry.coverage(entities, sources), encoding="utf-8"
-        )
+        (root / "registry" / "coverage").mkdir(exist_ok=True)
+        for old in (root / "registry" / "coverage").glob("*.md"):
+            old.unlink()
+        for rel, text in registry.coverage(entities, sources).items():
+            (root / "registry" / rel).write_text(text, encoding="utf-8")
         (root / "registry" / "coverage-map.svg").write_text(
             coverage_map(root, entities, sources), encoding="utf-8"
         )

@@ -4,7 +4,9 @@ name: update
 
 on:
   schedule:
-    - cron: "0 18 * * *" # 03:00 JST
+    # 決まった時刻の起動は scripts/kick.sh（launchd など）が workflow_dispatch で行う。GitHub の
+    # 定期実行は数時間遅れたり飛ばされたりするので、ここは起動されなかった日の予備。毎時 0 分は混むのでずらす
+    - cron: "23 18 * * *" # 03:23 JST
   workflow_dispatch:
     inputs:
       source_ids:
@@ -14,15 +16,39 @@ on:
 
 permissions:
   contents: write
+  actions: read # 予備の定期実行が、その日の巡回が済んでいるかを見る
 
 concurrency:
   group: update
   cancel-in-progress: false
 
 jobs:
-  update:
+  # 予備の定期実行は、18 時間以内に別の巡回（kick.sh からの起動）があれば何もしない
+  guard:
     # 公開用のリポジトリ（mirror.yml の送り先）には同じファイルがあるが、そこでは動かさない
     if: github.repository == 'muroshima/seido'
+    runs-on: [self-hosted, seido]
+    timeout-minutes: 5
+    outputs:
+      skip: ${{ steps.check.outputs.skip }}
+    steps:
+      - uses: actions/checkout@v4
+        if: github.event_name == 'schedule'
+        with:
+          ref: main
+          sparse-checkout: scripts
+      - id: check
+        if: github.event_name == 'schedule'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          API: ${{ github.api_url }}/repos/${{ github.repository }}/actions/workflows/update.yml/runs?per_page=20
+          RUN_ID: ${{ github.run_id }}
+        run: |
+          curl -fsS -H "Authorization: Bearer $GH_TOKEN" "$API" | python3 scripts/ran_recently.py
+
+  update:
+    needs: guard
+    if: needs.guard.outputs.skip != 'true'
     # 自宅 PC の self-hosted runner（ラベル seido）。自治体のサイトには、GitHub のランナー
     # （海外の IP）から接続できないものがあるため。schedule と workflow_dispatch でしか起動しない
     runs-on: [self-hosted, seido]

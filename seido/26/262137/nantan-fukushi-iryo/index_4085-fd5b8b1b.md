@@ -10,9 +10,21 @@ source_updated: null
 license: 無断複製・転用禁止（私的使用・引用を除く）
 attribution: 南丹市「南丹市 医療費助成制度（福祉医療制度）」を加工して作成
 content_sha256: 688ce8024a2dde3d8a206ced16bdda3a5f736154fb67dcadf3bbd0244ea2743f
-facts_sha256: null
+facts_sha256: 688ce8024a2dde3d8a206ced16bdda3a5f736154fb67dcadf3bbd0244ea2743f
 ---
 
 # 受診証明書
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 支援内容
+
+医療機関で発行される証明用紙
+
+## 利用方法
+
+添付資料からダウンロード
+
+## 問い合わせ
+
+こども家庭課 TEL:0771-68-0028

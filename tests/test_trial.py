@@ -12,8 +12,15 @@ from builder import cli, http, trial
 from builder.sources import Fetched
 
 
-def row(sid, fmt="html", status="取込予定", note=""):
-    return {"source_id": sid, "format": fmt, "status": status, "checked": "", "note": note}
+def row(sid, fmt="html", status="取込予定", note="", provider="lg:1"):
+    return {
+        "source_id": sid,
+        "provider": provider,
+        "format": fmt,
+        "status": status,
+        "checked": "",
+        "note": note,
+    }
 
 
 @pytest.mark.parametrize(
@@ -50,6 +57,14 @@ def test_apply_adopts_and_replaces_previous_trial_note():
     assert out["a"]["note"] == "一覧 / 2026-11-27 の試行で2ページ・制度らしい題名100%"
     assert "new" not in out  # 対応表に無い行は、取り込めるものだけ足す
     assert out["bad"]["note"] == "2026-11-27 の試行で失敗（HTTPError: 404）"
+
+
+def test_apply_refuses_to_overwrite_another_provider():
+    registry_rows = [row("otsuki-d1", provider="lg:192066")]
+    tried = [row("otsuki-d1", provider="lg:394246")]
+    with pytest.raises(ValueError, match="otsuki-d1"):
+        trial.apply(registry_rows, tried, [trial.Result("otsuki-d1", ["児童手当"])], date.today())
+    assert registry_rows[0]["provider"] == "lg:192066"
 
 
 def test_trial_command_does_not_write(tmp_path, monkeypatch, capsys):

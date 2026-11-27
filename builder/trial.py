@@ -110,8 +110,16 @@ def apply(
 
     取り込めるものは取込中にし、取り込めないものは status を変えない。対応表に無い行は、
     取り込めるものだけ足す（seido discover の候補には、制度の一覧でないページも混じるため）。
+    対応表の行と source_id が同じで provider が違う候補があれば、何も反映せずに止める。
     """
     by_id = {r["source_id"]: r for r in registry_rows}
+    clash = [
+        row["source_id"]
+        for row in tried
+        if row["source_id"] in by_id and row["provider"] != by_id[row["source_id"]]["provider"]
+    ]
+    if clash:  # 古い対応表で作った候補の ID が、あとで足された別団体の行と重なった
+        raise ValueError(f"別の団体の行と source_id が重なる: {', '.join(clash)}")
     out = list(registry_rows)
     for row, res in zip(tried, results, strict=True):
         target = by_id.get(row["source_id"])

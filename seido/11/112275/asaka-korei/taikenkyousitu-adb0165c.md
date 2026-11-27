@@ -10,7 +10,7 @@ source_updated: null
 license: 無断複製・転用を禁止（使用は事前相談）
 attribution: 朝霞市「朝霞市 高齢者」を加工して作成
 content_sha256: 370b23292a1be860d9f5c399c7df4b8f20a908be19b3f61103ec259e1511f1ff
-facts_sha256: e6100b2de5a87430b4e46cf679faafc4b368b785bc5097fc917887d8e6a1ca7e
+facts_sha256: 370b23292a1be860d9f5c399c7df4b8f20a908be19b3f61103ec259e1511f1ff
 ---
 
 # 生涯学習体験教室 参加者募集！
@@ -23,11 +23,11 @@ facts_sha256: e6100b2de5a87430b4e46cf679faafc4b368b785bc5097fc917887d8e6a1ca7e
 
 ## 支援内容
 
-講師が提供する体験講座
+講師が自らの知識・技術を活かした体験講座
 
 ## 期間
 
-7～12月
+7～1月
 
 ## 利用方法
 

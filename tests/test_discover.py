@@ -84,3 +84,20 @@ def test_slug():
     assert discover.slug("https://www.town.sumita.iwate.jp/") == "sumita"
     assert discover.slug("https://www.odaitown.jp/") == "odaitown"
     assert discover.slug("https://betsukai.jp/") == "betsukai"
+
+
+def test_rows_for_skips_ids_already_taken():
+    entity = {
+        "id": "lg:012025",
+        "lg_code": "012025",
+        "name": "函館市",
+        "website": "https://www.city.hakodate.hokkaido.jp/",
+    }
+    taken = {"hakodate-x", "hakodate-01-d1"}
+    rows = discover.rows_for(
+        entity,
+        [discover.Candidate("https://www.city.hakodate.hokkaido.jp/a/", "手当")],
+        taken,
+        date(2026, 11, 28),
+    )
+    assert rows[0]["source_id"] == "hakodate-01-d2"

@@ -13,6 +13,7 @@ discover: 取得元の無い団体の公式サイトから、制度の一覧ペ�
 
 import argparse
 import csv
+import hashlib
 import json
 import os
 import subprocess
@@ -375,12 +376,10 @@ def by_host_round_robin(source_ids: list[str], by_id: dict) -> list[str]:
 
 
 def rotate(source_ids: list[str], today: date) -> list[str]:
-    """日ごとに先頭をずらす。時間切れで次の実行に回るのは並びの後ろの取得元なので、
-    同じ取得元が毎日回されずに残らないようにする。"""
-    if not source_ids:
-        return source_ids
-    k = today.toordinal() % len(source_ids)
-    return source_ids[k:] + source_ids[:k]
+    """日ごとに並びを入れ替える。時間切れで次の実行に回るのは並びの後ろの取得元なので、
+    同じ取得元が毎日回されずに残らないよう、日付と source_id のハッシュの順に並べる。"""
+    key = today.isoformat()
+    return sorted(source_ids, key=lambda sid: hashlib.sha1(f"{key}:{sid}".encode()).digest())
 
 
 def daily_sources(sources: list[dict[str, str]]) -> list[str]:

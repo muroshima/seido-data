@@ -20,7 +20,9 @@ def body(lines: list[str], run_url: str, today: str) -> str:
     rows = []
     for line in lines:
         sid, _, reason = line.partition("\t")
-        rows.append(f"| `{sid}` | {reason.replace('|', '｜')} |")
+        # 例外文の @ がメンションとして通知されないよう全角にする
+        reason = reason.replace("|", "｜").replace("@", "＠")
+        rows.append(f"| `{sid}` | {reason} |")
     return "\n".join(
         [
             f"{today} の巡回で、{len(rows)} 件の取得元を取り込めなかった"

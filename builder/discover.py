@@ -188,7 +188,11 @@ def rows_for(entity: dict, found: list[Candidate], taken: set[str], today: date)
     if any(t.startswith(f"{head}-") for t in taken):
         head = f"{head}-{entity['lg_code'][:2]}"  # 同じ名前の町（美浜町など）
     rows = []
-    for n, c in enumerate(found, 1):
+    n = 0
+    for c in found:
+        n += 1
+        while f"{head}-d{n}" in taken:  # 前の discover で足した行と重ねない
+            n += 1
         sid = f"{head}-d{n}"
         taken.add(sid)
         rows.append(

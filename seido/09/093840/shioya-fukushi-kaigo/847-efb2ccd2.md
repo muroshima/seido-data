@@ -10,7 +10,7 @@ source_updated: null
 license: 著作権は原則として町に帰属（転載条件の明記なし）
 attribution: 塩谷町「塩谷町 福祉・介護」を加工して作成
 content_sha256: d6b6dd9c73e82c907485f537bf81a0062d6cb20adee5392cd3ce899a85d858cf
-facts_sha256: 3b51b43d2b426981c0764e34a2fc33f3bf4497868a9f5194b4229120ba9b3c59
+facts_sha256: d6b6dd9c73e82c907485f537bf81a0062d6cb20adee5392cd3ce899a85d858cf
 ---
 
 # 障害者差別解消法が施行されました
@@ -27,8 +27,8 @@ facts_sha256: 3b51b43d2b426981c0764e34a2fc33f3bf4497868a9f5194b4229120ba9b3c59
 
 ## 利用方法
 
-法律に基づく対応
+内閣府ホームページで詳細確認
 
 ## 問い合わせ
 
-内閣府
+福祉課

@@ -9,7 +9,7 @@ source_id: nyuuyouji-0855f5a0
 source_updated: null
 license: 不明
 attribution: 新島村「医療給付」を加工して作成
-content_sha256: a2b8449dc953269322c27bb0c6c38f682836593ee808a2f82b41795be2964b8f
+content_sha256: 5a6b2cd8726db7d56d9028d048c257c26583cffe11f2999f507523c16c6f06dc
 facts_sha256: a2b8449dc953269322c27bb0c6c38f682836593ee808a2f82b41795be2964b8f
 ---
 

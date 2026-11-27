@@ -10,7 +10,7 @@ source_updated: null
 license: 無断使用・転載を禁止
 attribution: 吉岡町「吉岡町 子育て」を加工して作成
 content_sha256: f6fe9d273775357761a4d56a26f8a5855dbd586651379cdbaf19533e0f30e404
-facts_sha256: 7b53652e8c50a4565cdd75b552401775214e70fe03e5619ac136852b95ad9c4a
+facts_sha256: f6fe9d273775357761a4d56a26f8a5855dbd586651379cdbaf19533e0f30e404
 ---
 
 # 吉岡町児童館

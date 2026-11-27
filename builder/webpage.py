@@ -45,6 +45,7 @@ CONTENT_IDS = (
     "detail-td-main",  # 新温泉町
     "maincotents",  # 天川村（綴りはサイトのまま）
     "Wrapp",  # 明日香村（id="Content_TXT" は問い合わせ先の箱だけ）
+    "content-noside",  # 嬬恋村
 )
 # id が無く class でしか見分けられない本文領域
 CONTENT_CLASSES = (
@@ -81,6 +82,7 @@ SKIP_IDS = {
     "searchbox",  # 黒滝村
     "panlist",
     "breadCrumbs",  # 川上村
+    "crumb",  # 嬬恋村・片品村・三宅村
 }
 # 本文に h1 が無いサイトの、題名の要素（曽爾村・那智勝浦町）
 TITLE_CLASSES = {"info__title"}

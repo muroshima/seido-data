@@ -224,3 +224,18 @@ def test_document_title_drops_site_name():
     html = "<title>浄化槽設置整備事業補助金 | 東吉野村</title><main><h1><img alt=''></h1></main>"
     page = webpage.parse(html, "https://example.jp/")
     assert (page.title, page.doc_title) == ("", "浄化槽設置整備事業補助金")
+
+
+def test_tsumagoi_region_skips_menu_and_breadcrumb():
+    """嬬恋村は本文が id="content-noside"。その外のサイトのメニューと、中のパンくずを読まない。"""
+    html = (
+        '<body><div id="container"><ul><li><a href="/www/genre/1/index.html">くらしの情報</a>'
+        '</ul><div id="content-noside"><h1>補装具費の支給</h1><p id="crumb">'
+        '<a href="/www/index.html">トップ</a>&nbsp;&gt;補装具費の支給</p>'
+        '<div class="ContentsArea"><p>補装具の購入費を支給します。</p></div></div></div></body>'
+    )
+    page = webpage.parse(html, "https://www.vill.tsumagoi.gunma.jp/www/contents/1/index.html")
+    assert (page.title, page.text) == (
+        "補装具費の支給",
+        "補装具費の支給\n補装具の購入費を支給します。",
+    )

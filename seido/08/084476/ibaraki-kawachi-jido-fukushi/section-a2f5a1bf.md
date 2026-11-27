@@ -10,9 +10,17 @@ source_updated: null
 license: 無断転載・複製・翻訳を禁止（私的使用・引用を除く）
 attribution: 河内町「河内町 児童福祉」を加工して作成
 content_sha256: 0ba9449bcfb408f0f9c9a836055198328db9e6e1ebbf1f8844c7972dd034fe68
-facts_sha256: null
+facts_sha256: 0ba9449bcfb408f0f9c9a836055198328db9e6e1ebbf1f8844c7972dd034fe68
 ---
 
 # 教育委員会事務局
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+教育委員会事務局
+
+## 支援内容
+
+教育委員会の事務処理

@@ -6,6 +6,8 @@ update:   対応表の取得元から取り込み、raw/ と seido/ を置き換
           変化があった取得元ごとに 1 コミット作る。コミット日は「観測日 00:00 JST」。
 index:    seido/ の制度ファイルから一覧（seido/index.csv）を作り直す。update は自動で作り直す。
 fill:     GPU が空いている間に、update が抽出を見送ったページだけを取り直して LLM に回す。
+trial:    取得元の候補を書き込まずに試し取りし、採否を出す。--apply で対応表に反映する。
+regress:  取り込み方を変えたとき、新旧のコードで取得元ごとの結果を比べる。
 """
 
 import argparse
@@ -18,9 +20,10 @@ import traceback
 import urllib.parse
 from concurrent.futures import ThreadPoolExecutor
 from concurrent.futures import TimeoutError as FuturesTimeout
+from datetime import date
 from pathlib import Path
 
-from . import BUILDER_VERSION, backlog, extract, http, registry
+from . import BUILDER_VERSION, backlog, extract, http, registry, trial
 from . import map as map_
 from .model import SourceInfo
 from .sources import Fetched, loader_for, source_info, stopped_at
@@ -83,6 +86,25 @@ def main(argv: list[str] | None = None) -> int:
         "fill", help="巡回はせず、制度の情報をまだ取り出していないページだけを LLM に回す"
     )
     fl.add_argument("--commit", action="store_true", help="取得元ごとに git commit する")
+    tr = sub.add_parser("trial", help="取得元の候補を書き込まずに試し取りし、採否を出す")
+    tr.add_argument("source_ids", nargs="*", help="sources.csv の source_id")
+    tr.add_argument(
+        "--add", type=Path, help="対応表に無い候補の行（sources.csv と同じ列の CSV）。全行を試す"
+    )
+    tr.add_argument(
+        "--apply",
+        action="store_true",
+        help="結果を sources.csv に反映する（取り込めるものを取込中にし、checked と note を書く）",
+    )
+    rg = sub.add_parser(
+        "regress", help="取得元ごとの取り込み結果を JSON に書き出す／2 つの JSON を比べる"
+    )
+    rg.add_argument(
+        "source_ids", nargs="*", help="sources.csv の source_id（省略時は取込中の web）"
+    )
+    rg.add_argument("--cache", type=Path, help="取ったページを置くディレクトリ（新旧で共有する）")
+    rg.add_argument("--out", type=Path, help="書き出す JSON")
+    rg.add_argument("--compare", nargs=2, type=Path, metavar=("OLD", "NEW"), help="2 つを比べる")
     args = parser.parse_args(argv)
 
     if args.cmd == "index":
@@ -97,6 +119,10 @@ def main(argv: list[str] | None = None) -> int:
             args.extract,
             frozenset(args.allow_drop),
         )
+    if args.cmd == "trial":
+        return run_trial(args.root, args.source_ids, args.add, args.apply)
+    if args.cmd == "regress":
+        return run_regress(args)
     if args.cmd == "fill":
         entities, sources = registry.load(args.root)
         budget = extract.EXTRACT_BUDGET or 3600
@@ -136,6 +162,50 @@ def registry_command(args: argparse.Namespace) -> int:
             coverage_map(root, entities, sources), encoding="utf-8"
         )
     print(f"entities {len(entities)} 件 / sources {len(sources)} 件")
+    return 0
+
+
+def run_trial(root: Path, source_ids: list[str], add: Path | None, do_apply: bool) -> int:
+    path = root / "registry" / "sources.csv"
+    rows = trial.read_rows(path)
+    by_id = {r["source_id"]: r for r in rows}
+    unknown = [i for i in source_ids if i not in by_id]
+    if unknown:
+        print(f"対応表に無い取得元: {unknown}", file=sys.stderr)
+        return 1
+    tried = [by_id[i] for i in source_ids] + (trial.read_rows(add) if add else [])
+    if not tried:
+        print("試す取得元を source_id か --add で指定する", file=sys.stderr)
+        return 1
+    results = trial.trial(tried)
+    trial.report(tried, results)
+    if do_apply:
+        trial.write_rows(path, trial.apply(rows, tried, results, date.today()))
+        entities, sources = registry.load(root)
+        if errors := registry.validate(entities, sources):
+            print("\n".join(errors), file=sys.stderr)
+            return 1
+        print("sources.csv に反映した。`seido registry coverage` で COVERAGE.md を作り直す")
+    return 0
+
+
+def run_regress(args) -> int:
+    if args.compare:
+        old, new = (json.loads(p.read_text(encoding="utf-8")) for p in args.compare)
+        lines = trial.compare(old, new)
+        print("\n".join(lines))
+        print(f"違いのある取得元: {len(lines)} / {len(old.keys() | new.keys())}")
+        return 0
+    if not (args.cache and args.out):
+        print("--cache と --out を指定する（比べるときは --compare）", file=sys.stderr)
+        return 1
+    _, sources = registry.load(args.root)
+    if args.source_ids:
+        rows = [s for s in sources if s["source_id"] in set(args.source_ids)]
+    else:
+        rows = [s for s in sources if s["status"] == "取込中" and s["kind"] == "web"]
+    trial.regress([r for r in rows if loader_for(r)], args.cache, args.out)
+    print(f"{len(rows)} 取得元を {args.out} に書き出した")
     return 0
 
 

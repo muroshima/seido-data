@@ -47,6 +47,33 @@
 
 `status` は取り込めるかどうか、`publish` は何を公開するかを表します。たとえば転載を禁止している自治体の一覧ページは、`status` が `取込予定`、`publish` が `事実` です。
 
+## 取得元を足すとき
+
+候補の行を `sources.csv` と同じ列の CSV に書き、書き込まずに試し取りします。国内の IP から動かしてください（海外から繋がらない自治体のサイトがあります）。
+
+```sh
+uv run seido trial --add candidates.csv          # 候補を試す（対応表は変えない）
+uv run seido trial kumagaya-sumai-josei          # 対応表にある行を試し直す
+uv run seido trial --add candidates.csv --apply  # 結果を sources.csv に反映する
+```
+
+取得元ごとに、取れたページ数と題名、題名のうち制度らしいもの（「手当」「助成」「補助」などを含み、「会議」「お知らせ」などを含まない）の割合を出します。`OK` は 60% 以上、`CHECK` は 40% 以上 60% 未満で題名を見て確かめるもの、`NG` は 40% 未満か取れなかったものです。`--apply` は 40% 以上の行を `取込中` にし（`html-page` の行は取れれば `取込中`）、`checked` を今日に、`note` の末尾に試行の結果を書きます。対応表に無い行は足し、取り込めないものは `取込予定` のままにします。
+
+一覧ページに制度以外の案内が多いときは、主な制度のページを `html-page` の行で 1 件ずつ登録します。
+
+## 取り込み方を変えたとき
+
+本文領域や題名の見分け方を変えたら、新旧のコードで全取得元の結果を比べます。取ったページはディスクに置き、旧と新で同じバイト列を読みます。
+
+```sh
+git worktree add ../seido-old main
+(cd ../seido-old && uv run seido regress --cache /tmp/regcache --out /tmp/old.json)
+uv run seido regress --cache /tmp/regcache --out /tmp/new.json
+uv run seido regress --compare /tmp/old.json /tmp/new.json
+```
+
+取得元ごとに、ページの追加・削除と、題名・本文のハッシュが変わったページを出します。本文のハッシュが変わる取得元は CHANGELOG.md に書きます。
+
 ## 編集したら
 
 ```sh

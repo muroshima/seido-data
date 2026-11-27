@@ -9,7 +9,7 @@ source_id: hitorioya_iryouhijosei-d4ea0e60
 source_updated: null
 license: 不明
 attribution: 新島村「児童・ひとり親の福祉」を加工して作成
-content_sha256: 58fd7427bf970c4c7a859e5a2073b3c4282a5ccf2c987ba1f21e3708c074076e
+content_sha256: 48e3d5a7bcf92be3b844477050941230115d7c9a77ccbd8a38a9856b1b3e55cb
 facts_sha256: 58fd7427bf970c4c7a859e5a2073b3c4282a5ccf2c987ba1f21e3708c074076e
 ---
 

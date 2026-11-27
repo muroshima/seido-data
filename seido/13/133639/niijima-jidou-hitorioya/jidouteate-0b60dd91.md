@@ -9,7 +9,7 @@ source_id: jidouteate-0b60dd91
 source_updated: null
 license: 不明
 attribution: 新島村「児童・ひとり親の福祉」を加工して作成
-content_sha256: c73053aaa628a388dab3b210d9b2c6bd203d2187bff40c811d12982faf00c881
+content_sha256: 06b04fb31e48117b5dbf0420af05fbf526989f6f3585407b1363b282425e7f54
 facts_sha256: c73053aaa628a388dab3b210d9b2c6bd203d2187bff40c811d12982faf00c881
 ---
 

@@ -9,7 +9,7 @@ source_id: marunyu-789262c1
 source_updated: null
 license: 不明
 attribution: 新島村「児童・ひとり親の福祉」を加工して作成
-content_sha256: 630774c8212e546b83b735296252221c100e436d89accbb94c107d1829fd7ddc
+content_sha256: fe7222870a0aa9dcfd904ee57dbf19be0ccc563f67b57dfbea044e557b6b8f9a
 facts_sha256: 630774c8212e546b83b735296252221c100e436d89accbb94c107d1829fd7ddc
 ---
 

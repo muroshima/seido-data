@@ -9,7 +9,7 @@ source_id: jidouikusei_ikusei-8fb2b1ec
 source_updated: null
 license: 不明
 attribution: 新島村「児童・ひとり親の福祉」を加工して作成
-content_sha256: 57aff726e5240552b34a3d5b6856c2b44ffe19db3a82aa190c0fc75bf8f5f126
+content_sha256: ddbd48727f14a1e87bb1900c7b0d12e58daa5da6b0fb012baca63fdeccf1c5f1
 facts_sha256: 57aff726e5240552b34a3d5b6856c2b44ffe19db3a82aa190c0fc75bf8f5f126
 ---
 

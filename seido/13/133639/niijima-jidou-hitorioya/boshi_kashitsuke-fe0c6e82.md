@@ -9,7 +9,7 @@ source_id: boshi_kashitsuke-fe0c6e82
 source_updated: null
 license: 不明
 attribution: 新島村「児童・ひとり親の福祉」を加工して作成
-content_sha256: 14256875b68a6bf05b59a2580567085bbef6c7db66d684e2a94a5ea7819bd882
+content_sha256: 4f62e285fe40683fca0985ae71dedd3b8a452f5556b64f99f7c6427d392d28b5
 facts_sha256: 14256875b68a6bf05b59a2580567085bbef6c7db66d684e2a94a5ea7819bd882
 ---
 

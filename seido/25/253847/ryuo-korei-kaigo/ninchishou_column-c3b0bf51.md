@@ -10,9 +10,29 @@ source_updated: null
 license: 無断使用・転載・二次利用を禁止
 attribution: 竜王町「竜王町 高齢・介護」を加工して作成
 content_sha256: c7c72dfff90afb2831c5c137ac2ca3d0fc2b809d0cdd4be726f6c541ac0b999a
-facts_sha256: null
+facts_sha256: c7c72dfff90afb2831c5c137ac2ca3d0fc2b809d0cdd4be726f6c541ac0b999a
 ---
 
 # column vol.10竜王町チームオレンジUKAWAの活動
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+79〜85歳
+
+## 支援内容
+
+グラウンド・ゴルフ
+
+## 期間
+
+毎週火・金曜日
+
+## 利用方法
+
+鵜川天満宮
+
+## 問い合わせ
+
+竜王町役場 福祉課

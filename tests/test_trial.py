@@ -36,6 +36,7 @@ def test_verdict():
 
 def test_apply_adopts_and_replaces_previous_trial_note():
     registry_rows = [row("a", note="一覧 / 2026-11-21 の試行で5ページ・制度らしい題名20%")]
+    registry_rows.append(row("bad"))
     tried = [row("a"), row("new"), row("bad")]
     results = [
         trial.Result("a", ["児童手当", "医療費の助成"]),
@@ -47,9 +48,7 @@ def test_apply_adopts_and_replaces_previous_trial_note():
     }
     assert out["a"]["status"] == "取込中"
     assert out["a"]["note"] == "一覧 / 2026-11-27 の試行で2ページ・制度らしい題名100%"
-    assert (
-        out["new"]["status"] == "取込予定"
-    )  # 対応表に無い行は足すが、制度らしくなければ取り込まない
+    assert "new" not in out  # 対応表に無い行は、取り込めるものだけ足す
     assert out["bad"]["note"] == "2026-11-27 の試行で失敗（HTTPError: 404）"
 
 

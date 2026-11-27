@@ -106,17 +106,19 @@ def report(rows: list[dict], results: list[Result], out=None) -> None:
 def apply(
     registry_rows: list[dict], tried: list[dict], results: list[Result], today: date
 ) -> list[dict]:
-    """試行の結果を対応表の行に当てる。対応表に無い行は足す。
+    """試行の結果を対応表の行に当てる。
 
-    取り込めるものは取込中にし、取り込めないものは status を変えない（新しい行は取込予定）。
+    取り込めるものは取込中にし、取り込めないものは status を変えない。対応表に無い行は、
+    取り込めるものだけ足す（seido discover の候補には、制度の一覧でないページも混じるため）。
     """
     by_id = {r["source_id"]: r for r in registry_rows}
     out = list(registry_rows)
     for row, res in zip(tried, results, strict=True):
         target = by_id.get(row["source_id"])
         if target is None:
+            if not res.adopt(row["format"]):
+                continue
             target = dict(row)
-            target["status"] = "取込予定"
             out.append(target)
         else:
             target.update({k: v for k, v in row.items() if k not in ("status", "checked", "note")})

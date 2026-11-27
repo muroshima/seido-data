@@ -8,9 +8,11 @@ index:    seido/ の制度ファイルから一覧（seido/index.csv）を作り
 fill:     GPU が空いている間に、update が抽出を見送ったページだけを取り直して LLM に回す。
 trial:    取得元の候補を書き込まずに試し取りし、採否を出す。--apply で対応表に反映する。
 regress:  取り込み方を変えたとき、新旧のコードで取得元ごとの結果を比べる。
+discover: 取得元の無い団体の公式サイトから、制度の一覧ページの候補を探して CSV に書く。
 """
 
 import argparse
+import csv
 import json
 import os
 import subprocess
@@ -23,7 +25,7 @@ from concurrent.futures import TimeoutError as FuturesTimeout
 from datetime import date
 from pathlib import Path
 
-from . import BUILDER_VERSION, backlog, extract, http, registry, trial
+from . import BUILDER_VERSION, backlog, discover, extract, http, registry, trial
 from . import map as map_
 from .model import SourceInfo
 from .sources import Fetched, loader_for, source_info, stopped_at
@@ -107,6 +109,13 @@ def main(argv: list[str] | None = None) -> int:
     rg.add_argument("--cache", type=Path, help="取ったページを置くディレクトリ（新旧で共有する）")
     rg.add_argument("--out", type=Path, help="書き出す JSON")
     rg.add_argument("--compare", nargs=2, type=Path, metavar=("OLD", "NEW"), help="2 つを比べる")
+    dc = sub.add_parser(
+        "discover", help="取得元の無い団体の公式サイトから、制度の一覧ページの候補を探す"
+    )
+    dc.add_argument("--pref", action="append", required=True, help="都道府県コード 2 桁（複数可）")
+    dc.add_argument(
+        "--out", type=Path, required=True, help="候補の行を書く CSV（trial --add に渡す）"
+    )
     args = parser.parse_args(argv)
 
     if args.cmd == "index":
@@ -121,6 +130,8 @@ def main(argv: list[str] | None = None) -> int:
             args.extract,
             frozenset(args.allow_drop),
         )
+    if args.cmd == "discover":
+        return run_discover(args.root, args.pref, args.out)
     if args.cmd == "trial":
         return run_trial(args.root, args.source_ids, args.add, args.apply)
     if args.cmd == "regress":
@@ -190,6 +201,21 @@ def run_trial(root: Path, source_ids: list[str], add: Path | None, do_apply: boo
             print("\n".join(errors), file=sys.stderr)
             return 1
         print("sources.csv に反映した。`seido registry coverage` で COVERAGE.md を作り直す")
+    return 0
+
+
+def run_discover(root: Path, prefs: list[str], out: Path) -> int:
+    entities, sources = registry.load(root)
+    rows, missing = discover.discover(entities, sources, prefs, date.today())
+    with open(root / "registry" / "sources.csv", encoding="utf-8", newline="") as f:
+        fields = next(csv.reader(f))
+    with open(out, "w", encoding="utf-8", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=fields, lineterminator="\n")
+        w.writeheader()
+        w.writerows(rows)
+    print(f"候補 {len(rows)} 行を {out} に書いた（{len({r['covers'] for r in rows})} 団体）")
+    for e, reason in missing:
+        print(f"候補なし: {e['name']}（{e['website']}）{reason}")
     return 0
 
 

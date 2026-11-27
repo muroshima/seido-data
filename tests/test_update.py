@@ -294,3 +294,11 @@ def test_sharp_drop_stops_writing_and_is_reported(repo, monkeypatch, tmp_path_fa
     args = ["--root", str(root), "update", sid, "--commit", "--allow-drop", sid]
     assert cli.main(args) == 0
     assert not list((root / "seido/13/132101" / sid).glob("*.md"))
+
+
+def test_daily_order_rotates_by_day():
+    ids = ["a", "b", "c"]
+    days = [date(2026, 11, d) for d in (27, 28, 29)]
+    heads = [cli.rotate(ids, d)[0] for d in days]
+    assert sorted(heads) == ids  # 3 日で全部が先頭に来る
+    assert sorted(cli.rotate(ids, days[0])) == ids

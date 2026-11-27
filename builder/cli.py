@@ -260,7 +260,7 @@ def update(
         return 1
     by_id = {s["source_id"]: s for s in sources}
     if daily:
-        source_ids = daily_sources(sources)
+        source_ids = rotate(daily_sources(sources), date.today())
     unknown = [i for i in source_ids if i not in by_id or not loader_for(by_id[i])]
     if unknown or not source_ids:
         print(f"取り込めない取得元: {unknown or '指定なし'}", file=sys.stderr)
@@ -372,6 +372,15 @@ def by_host_round_robin(source_ids: list[str], by_id: dict) -> list[str]:
             if not queues[host]:
                 del queues[host]
     return order
+
+
+def rotate(source_ids: list[str], today: date) -> list[str]:
+    """日ごとに先頭をずらす。時間切れで次の実行に回るのは並びの後ろの取得元なので、
+    同じ取得元が毎日回されずに残らないようにする。"""
+    if not source_ids:
+        return source_ids
+    k = today.toordinal() % len(source_ids)
+    return source_ids[k:] + source_ids[:k]
 
 
 def daily_sources(sources: list[dict[str, str]]) -> list[str]:

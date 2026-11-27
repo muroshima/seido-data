@@ -29,7 +29,9 @@ from .model import SourceInfo
 from .sources import Fetched, loader_for, source_info, stopped_at
 from .store import Stats, write_index, write_units
 
-FETCH_WORKERS = 16  # 同時に取りに行く取得元の数
+# 同時に取りに行く取得元の数。同じホストへの間隔は http が守るので、増やしても 1 つのサイトへの
+# 負荷は変わらない
+FETCH_WORKERS = int(os.environ.get("SEIDO_FETCH_WORKERS") or 16)
 # 実行を始めてからこの秒数を過ぎたら、まだ取れていない取得元は次の実行に回す（push まで終えるため）
 RUN_BUDGET = int(os.environ.get("SEIDO_RUN_BUDGET") or 0) or None
 # 失敗した取得元と理由を書き出すファイル（ワークフローが Issue で知らせる）

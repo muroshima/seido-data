@@ -72,8 +72,11 @@ jobs:
         env:
           SOURCE_IDS: ${{ inputs.source_ids }}
           ALLOW_DROP: ${{ inputs.allow_drop }}
-          # GPU は Kaggle のジョブと共有。空くまで最大 1 時間待ち、空かなければ巡回の結果だけを書く
-          SEIDO_GPU_LOCK_WAIT: "3600"
+          # GPU は Kaggle のジョブと共有。空いていなければ待たずに巡回の結果だけを書き、
+          # 取り出しは fill.yml に回す（待つと、その間は書き込みもコミットも進まない）
+          SEIDO_GPU_LOCK_WAIT: "0"
+          # 取得元は自治体ごとにホストが違うので、多めに並べる（同じホストへは 1 本ずつ）
+          SEIDO_FETCH_WORKERS: "48"
           # 抽出は始めてから 180 分まで。残りは次の実行に回し、240 分の上限内で push まで終える
           SEIDO_EXTRACT_BUDGET: "10800"
           # 始めてから 210 分で、まだ取れていない取得元は次の実行に回す

@@ -10,7 +10,7 @@ source_updated: null
 license: 無断で複製・転用することを禁止
 attribution: 市貝町「市貝町 子育て」を加工して作成
 content_sha256: d03b8a2ecbfef06e4ae3eb99b0b87e782c3b68f00619d8b34a5a4d936622dcdb
-facts_sha256: 31c6553051451c7b7013b89f492fc6f6e2b1555cb2b822bc878b1cece0dd1fc0
+facts_sha256: d03b8a2ecbfef06e4ae3eb99b0b87e782c3b68f00619d8b34a5a4d936622dcdb
 ---
 
 # 保育園の紹介
@@ -19,16 +19,12 @@ facts_sha256: 31c6553051451c7b7013b89f492fc6f6e2b1555cb2b822bc878b1cece0dd1fc0
 
 ## 対象者
 
-0才～未就園児の家族
-
-## 支援内容
-
-無料で遊びに来ていただける
+0才～未就園児
 
 ## 利用方法
 
-子育て支援センターへ
+無料で利用可能
 
 ## 問い合わせ
 
-掲載内容に関するお問い合わせはこちら
+子育て支援センター

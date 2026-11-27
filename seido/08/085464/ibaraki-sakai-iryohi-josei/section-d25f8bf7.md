@@ -10,7 +10,7 @@ source_updated: null
 license: 許可なく使用・複製・転載を禁止（私的利用等を除く）
 attribution: 境町「境町 医療費助成」を加工して作成
 content_sha256: ef931f0aafbd7d7b09fb96f82490fbb56db86c197bf780f7e6635e30726b5345
-facts_sha256: null
+facts_sha256: ef931f0aafbd7d7b09fb96f82490fbb56db86c197bf780f7e6635e30726b5345
 ---
 
 # 保険年金課

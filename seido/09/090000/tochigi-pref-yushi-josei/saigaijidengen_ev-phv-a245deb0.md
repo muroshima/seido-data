@@ -10,7 +10,7 @@ source_updated: null
 license: 無断転載を禁止（転載は事前に担当課へ報告し承認が必要）
 attribution: 栃木県「栃木県 融資・助成・補助」を加工して作成
 content_sha256: e63e260b4b5ee9ce299b608ee633d68536f5ae77c562cc7278f30c0cd504f232
-facts_sha256: 3304e1fea77fa208913396d5a5a7bccab4a2c599a1a3b8e1661881a0deed6460
+facts_sha256: e63e260b4b5ee9ce299b608ee633d68536f5ae77c562cc7278f30c0cd504f232
 ---
 
 # 【事業者向けZEV(EV・FCV・PHV)導入補助金】災害時電源ZEV導入促進事業について

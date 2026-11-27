@@ -10,7 +10,7 @@ source_updated: null
 license: 無断複製・転用を禁止（使用は事前相談）
 attribution: 朝霞市「朝霞市 子育て支援」を加工して作成
 content_sha256: 1d39a3a22d6c3c6773bab6390b92c7320c01eafa2f64afb4a2f6ec3a0c24e318
-facts_sha256: 6881ba674900dbe8a6ff811bca5367bec1d984cc8a166466ba3e908394629599
+facts_sha256: 1d39a3a22d6c3c6773bab6390b92c7320c01eafa2f64afb4a2f6ec3a0c24e318
 ---
 
 # 子育て支援センター・子育て支援センターだより
@@ -23,11 +23,7 @@ facts_sha256: 6881ba674900dbe8a6ff811bca5367bec1d984cc8a166466ba3e908394629599
 
 ## 支援内容
 
-育児相談・交流・遊具・絵本提供
-
-## 利用方法
-
-事前問い合わせ必要
+育児相談・交流・遊具・絵本利用
 
 ## 問い合わせ
 

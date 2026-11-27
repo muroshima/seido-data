@@ -10,7 +10,7 @@ source_updated: null
 license: 無断転載・複製・翻訳を禁止（私的使用・引用を除く）
 attribution: 河内町「河内町 障害者福祉」を加工して作成
 content_sha256: cc842a1f6c18bb2cabc8dace1c55383e0e6e0c534586719b3d58e561c4f5e098
-facts_sha256: null
+facts_sha256: cc842a1f6c18bb2cabc8dace1c55383e0e6e0c534586719b3d58e561c4f5e098
 ---
 
 # 福祉課

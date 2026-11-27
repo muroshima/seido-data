@@ -10,7 +10,7 @@ source_updated: null
 license: 無断で複製・転用することを禁止
 attribution: 市貝町「市貝町 福祉・介護」を加工して作成
 content_sha256: ab3a73f6764d4d4d4ed96e60916c430231c302c6995640fa0cc2d0d1ba6efc69
-facts_sha256: bb42516b8c495823333450ba428012171eb18d8da56f48078c3c10cca4a41893
+facts_sha256: ab3a73f6764d4d4d4ed96e60916c430231c302c6995640fa0cc2d0d1ba6efc69
 ---
 
 # 住民向け講演会「聞こえの講演会」

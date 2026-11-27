@@ -10,7 +10,7 @@ source_updated: null
 license: 無断複製・転用を禁止（私的使用・引用を除く）
 attribution: 我孫子市「我孫子市 住まいに関わる助成・補助など」を加工して作成
 content_sha256: 23776ffd487e0c96be54efac6d6bb9e28d6c8fbbfb343000db2897ab1650afa9
-facts_sha256: 25459e4a25c5dff81cbdce205a9fd5696bc46e9a4dfc6216bf8923da3e83d2ee
+facts_sha256: 23776ffd487e0c96be54efac6d6bb9e28d6c8fbbfb343000db2897ab1650afa9
 ---
 
 # 我孫子市木造住宅耐震診断助成制度

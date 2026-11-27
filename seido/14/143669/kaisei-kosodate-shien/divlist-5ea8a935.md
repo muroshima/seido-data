@@ -10,9 +10,13 @@ source_updated: null
 license: 不明
 attribution: 開成町「開成町 いろいろな支援（こども）」を加工して作成
 content_sha256: 8f5965e0f96d3539b733cbe18a7294b6056c9c02df0862889ce8466f0250ea13
-facts_sha256: null
+facts_sha256: 8f5965e0f96d3539b733cbe18a7294b6056c9c02df0862889ce8466f0250ea13
 ---
 
 # 部署一覧
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+部署一覧

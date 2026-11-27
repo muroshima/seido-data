@@ -10,7 +10,7 @@ source_updated: null
 license: 無断複製・転用を禁止（私的使用・引用を除く）
 attribution: 千葉市「千葉市 経営・起業の支援」を加工して作成
 content_sha256: 68baed5315dbfdfbda595e463944aebb2d143e96fb31b80a567dd974db4f9726
-facts_sha256: 9b2d0c3dca33b437b06daf636df8303b8888785c5792c35416a537621cd1a35f
+facts_sha256: 68baed5315dbfdfbda595e463944aebb2d143e96fb31b80a567dd974db4f9726
 ---
 
 # トライアル発注認定商品の募集
@@ -23,7 +23,7 @@ facts_sha256: 9b2d0c3dca33b437b06daf636df8303b8888785c5792c35416a537621cd1a35f
 
 ## 支援内容
 
-認定を受けることでPRや導入の機会を得る
+認定を受けることで市内での導入・PR支援
 
 ## 期間
 
@@ -31,7 +31,7 @@ facts_sha256: 9b2d0c3dca33b437b06daf636df8303b8888785c5792c35416a537621cd1a35f
 
 ## 利用方法
 
-必要書類を提出し、審査を経て認定される
+必要書類を提出し、審査を経て認定
 
 ## 問い合わせ
 

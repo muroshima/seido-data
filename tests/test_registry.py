@@ -119,6 +119,9 @@ def test_merge_keeps_manual_values_and_fills_blanks():
 def test_pick_website_prefers_japanese_https():
     urls = ["https://www.mof.go.jp/english/", "http://www.mof.go.jp/"]
     assert r.pick_website(urls) == "https://www.mof.go.jp/"
+    # 英語版のサブドメイン（富士吉田市・平戸市・小笠原村）
+    urls = ["https://en.city.hirado.nagasaki.jp/", "https://www.city.hirado.nagasaki.jp/"]
+    assert r.pick_website(urls) == "https://www.city.hirado.nagasaki.jp/"
 
 
 def test_repository_registry_is_valid_and_coverage_is_fresh():
@@ -134,3 +137,11 @@ def test_publish_must_be_known_and_full_text_needs_license():
     assert any("publish" in e for e in r.validate([TOKYO, CHIYODA], [{**src(), "publish": "全部"}]))
     unknown = {**src(), "publish": "本文", "license": "不明"}
     assert any("license が不明" in e for e in r.validate([TOKYO, CHIYODA], [unknown]))
+
+
+def test_northern_territories_villages_are_excluded():
+    """団体コードはあるが行政を行っていない 6 村は、団体の対応表に入れない。"""
+    entities, _ = r.load(ROOT)
+    codes = {e["lg_code"] for e in entities}
+    assert not codes & r.NO_ADMINISTRATION
+    assert sum(e["kind"] == "市区町村" for e in entities) == 1741

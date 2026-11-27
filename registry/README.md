@@ -16,7 +16,7 @@
 
 `uv run seido registry entities --pref 13 --gov` で、総務省の[全国地方公共団体コード](https://www.soumu.go.jp/denshijiti/code.html)と Wikidata から作ります。既にある行は、手で直した値を残して空欄だけ埋めます。
 
-出典: 総務省「全国地方公共団体コード」を加工して作成。公式サイトと国の機関の法人番号は Wikidata（CC0）から取得。対象の都道府県を増やすときは `--pref` を足します。
+出典: 総務省「全国地方公共団体コード」を加工して作成。公式サイトと国の機関の法人番号は Wikidata（CC0）から取得。全国の 47 都道府県と 1,741 市区町村が入っています（2026-11-27）。団体コードはあるが行政を行っていない北方領土の 6 村は入れません。
 
 ## sources.csv（取得元）
 
@@ -66,7 +66,7 @@ uv run seido trial --add candidates.csv --apply  # 結果を sources.csv に反�
 本文領域や題名の見分け方を変えたら、新旧のコードで全取得元の結果を比べます。取ったページはディスクに置き、旧と新で同じバイト列を読みます。
 
 ```sh
-git worktree add ../seido-old main
+git worktree add --detach ../seido-old main
 (cd ../seido-old && uv run seido regress --cache /tmp/regcache --out /tmp/old.json)
 uv run seido regress --cache /tmp/regcache --out /tmp/new.json
 uv run seido regress --compare /tmp/old.json /tmp/new.json

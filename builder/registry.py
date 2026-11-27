@@ -237,6 +237,11 @@ GOV_AGENCIES: dict[str, str | None] = {
 }
 
 
+# 団体コードはあるが行政を行っていない北方領土の 6 村
+# （色丹村・泊村・留夜別村・留別村・紗那村・蘂取村）
+NO_ADMINISTRATION = {"016951", "016969", "016977", "016985", "016993", "017001"}
+
+
 def generate_entities(prefectures: list[str], with_gov: bool) -> list[dict[str, str]]:
     """総務省の団体コード一覧と Wikidata から entities の行を作る（ネットワークを使う）。"""
     rows: list[dict[str, str]] = []
@@ -290,7 +295,7 @@ def lg_entities(pref: str) -> list[dict[str, str]]:
     codes = [
         (str(r[0]), r[1], r[2])
         for r in wb.worksheets[0].iter_rows(min_row=2, values_only=True)
-        if r[0] and str(r[0]).startswith(pref)
+        if r[0] and str(r[0]).startswith(pref) and str(r[0]) not in NO_ADMINISTRATION
     ]
     sites: dict[str, list[str]] = {}
     for b in sparql(
@@ -317,7 +322,7 @@ def lg_entities(pref: str) -> list[dict[str, str]]:
 
 def pick_website(urls: list[str]) -> str:
     """英語版を除き、https の最短 URL を選ぶ。"""
-    ja = [u for u in urls if not re.search(r"english|/en(/|$)|/e/", u)] or urls
+    ja = [u for u in urls if not re.search(r"english|/en(/|$)|/e/|://en\.", u)] or urls
     ja = [u.replace("http://", "https://", 1) for u in ja]
     return min(ja, key=len) if ja else ""
 

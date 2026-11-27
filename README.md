@@ -23,18 +23,18 @@ English summary is [below](#english).
 
 ## 収録範囲
 
-2026-11-21 時点。
+2026-11-27 時点。
 
 | | |
 |---|---|
-| 制度 | 8,439 件（東京都と都内 62 区市町村） |
-| 取得元 | 131 件が取込中（[registry/sources.csv](registry/sources.csv)） |
+| 制度 | 33,364 件（関東 1 都 6 県・関西 2 府 4 県の 12 都府県と 492 市区町村） |
+| 取得元 | 1,512 件が取込中（[registry/sources.csv](registry/sources.csv)） |
 | 観測の開始 | 2026-11-13（東京都の子育て支援制度レジストリだけは、更新が止まった 2025-08-20 の 1 コミット） |
 | 国の府省庁 | まだ無い。脱炭素の補助事業などを調べている |
 
-8,439 件のうち 6,205 件は、東京都の「子育て支援制度レジストリ」（0〜6 歳、CC BY）です。このデータは 2025-08-20 で更新が止まっているので、履歴は増えません。毎日変化を追っているのは、残りの約 2,200 件（自治体の標準オープンデータと、区市町村のサイトの制度ページ）です。
+33,364 件のうち 6,205 件は、東京都の「子育て支援制度レジストリ」（0〜6 歳、CC BY）です。このデータは 2025-08-20 で更新が止まっているので、履歴は増えません。毎日変化を追っているのは、残りの約 27,000 件（自治体の標準オープンデータと、市区町村のサイトの制度ページ）です。
 
-どの団体がどの取得元で取れているかは [registry/COVERAGE.md](registry/COVERAGE.md) にあります。東京から始め、関東、関西の順に広げます。
+どの団体がどの取得元で取れているかは [registry/COVERAGE.md](registry/COVERAGE.md) にあります。東京から始め、関東、関西と広げてきました。団体の対応表には全国の 47 都道府県と 1,741 市区町村が入っていて、残りの地域（北海道・東北、中部、中国・四国、九州・沖縄）を順に取り込みます。
 
 ## 使い方
 
@@ -145,6 +145,6 @@ uv run pytest
 
 - `seido/index.csv`: one row per program (path, municipality code and name, title, monetary/in-kind, source, URL, license, attribution). See [docs/schema.md](docs/schema.md).
 - `seido/<pref>/<municipality>/<source>/<id>.md`: one program, YAML frontmatter plus sections in Japanese.
-- Coverage (2026-11-21): 8,439 programs in Tokyo and its 62 municipalities. History starts on 2026-11-13.
+- Coverage (2026-11-27): 33,364 programs in 12 prefectures of the Kanto and Kansai regions and 492 municipalities. History starts on 2026-11-13. The rest of Japan is being added region by region.
 - For sources that forbid redistribution, only short facts extracted by a local LLM are kept, not the original text.
 - Data: CC BY 4.0 (also credit the original source in `attribution`). Code: MIT. No warranty.

@@ -10,9 +10,21 @@ source_updated: null
 license: 無断使用・転載・二次利用を禁止
 attribution: 竜王町「竜王町 福祉（障がい福祉・母子父子・寡婦）」を加工して作成
 content_sha256: c7e60de8e9a39572c36dbce2b71a3e8b48fdfaa80bc6b6437def61d56fee122a
-facts_sha256: null
+facts_sha256: c7e60de8e9a39572c36dbce2b71a3e8b48fdfaa80bc6b6437def61d56fee122a
 ---
 
 # 相談内容場所受付時間相談日その他問い合わせ先
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+障がいのある本人やその家族
+
+## 期間
+
+毎月第4水曜日
+
+## 問い合わせ
+
+自立支援課 障がい福祉係

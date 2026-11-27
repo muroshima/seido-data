@@ -10,7 +10,7 @@ source_updated: null
 license: 無断で複製・転用を禁止
 attribution: 高山村「高山村 福祉・介護一覧」を加工して作成
 content_sha256: 641fb74f44c8f979d87285973e50b50fd7ff3df5cbe1684ea6bb37576d9d40a4
-facts_sha256: 37792b4e1e70b28f2d8ee7abed345c477fd4f7f30381714fbc05ea9737b6c1fa
+facts_sha256: 641fb74f44c8f979d87285973e50b50fd7ff3df5cbe1684ea6bb37576d9d40a4
 ---
 
 # 高山村の防災情報
@@ -19,4 +19,4 @@ facts_sha256: 37792b4e1e70b28f2d8ee7abed345c477fd4f7f30381714fbc05ea9737b6c1fa
 
 ## 問い合わせ
 
-高山村役場 防災課 TEL 0279-63-2111
+高山村役場総務課 電話：0279-63-2111

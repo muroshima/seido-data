@@ -10,9 +10,21 @@ source_updated: null
 license: 出所を明示すれば引用・転載・複製可（無断転載は不可）
 attribution: 芦屋市「芦屋市 高齢者福祉」を加工して作成
 content_sha256: a796dcd5d14cec4f7c684f6ffbadd51698ac8c8530016ebad30e7bd82ddef98e
-facts_sha256: null
+facts_sha256: a796dcd5d14cec4f7c684f6ffbadd51698ac8c8530016ebad30e7bd82ddef98e
 ---
 
 # 高齢者生きがい活動支援通所事業（生きがい対応型デイサービス）
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+自立している60歳以上
+
+## 支援内容
+
+健康体操・手芸・絵画などの生きがい活動
+
+## 期間
+
+入浴・食事・送迎なし

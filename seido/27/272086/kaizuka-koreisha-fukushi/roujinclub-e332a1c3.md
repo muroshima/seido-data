@@ -10,9 +10,21 @@ source_updated: null
 license: 著作権法上認められる範囲で出典明示により転載・複製可
 attribution: 貝塚市「貝塚市 高齢者の福祉サービスの種類」を加工して作成
 content_sha256: a6af4c787ae7ef1eddabdc7bc133e2bb9a070fed22d62e4ef0ce05f21ab9320e
-facts_sha256: null
+facts_sha256: a6af4c787ae7ef1eddabdc7bc133e2bb9a070fed22d62e4ef0ce05f21ab9320e
 ---
 
 # 老人クラブ
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+60歳以上の高齢者
+
+## 支援内容
+
+学習機会の提供
+
+## 利用方法
+
+地域の老人クラブ

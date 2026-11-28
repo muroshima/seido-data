@@ -10,7 +10,7 @@ source_updated: null
 license: 無断複製・転用を禁止
 attribution: 播磨町「播磨町 障がい者福祉」を加工して作成
 content_sha256: 01fc412491d830d64773adbb44d73425e5622603fb750403d445c52c1bf68d3a
-facts_sha256: null
+facts_sha256: 01fc412491d830d64773adbb44d73425e5622603fb750403d445c52c1bf68d3a
 ---
 
 # 障がい者福祉に関するお知らせ

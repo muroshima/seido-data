@@ -10,9 +10,17 @@ source_updated: null
 license: 無断複製・転用を禁止
 attribution: 播磨町「播磨町 障がい者福祉」を加工して作成
 content_sha256: d5f1c59f43d5d90b25b76f10f9f91a08e6c22db05391169e23e6bbe29ed80733
-facts_sha256: null
+facts_sha256: d5f1c59f43d5d90b25b76f10f9f91a08e6c22db05391169e23e6bbe29ed80733
 ---
 
 # 障がい福祉サービスの申請書
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 支援内容
+
+福祉サービス
+
+## 問い合わせ
+
+健康福祉課

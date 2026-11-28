@@ -10,9 +10,21 @@ source_updated: null
 license: 無断で複製・転用不可（私的使用・引用を除く）
 attribution: 兵庫県「兵庫県 補助・融資（くらし・環境）」を加工して作成
 content_sha256: 906e64d11c5bed26576ebe24072bdf4b939bcca1beabd4aaacf984a0747eb2d5
-facts_sha256: null
+facts_sha256: 906e64d11c5bed26576ebe24072bdf4b939bcca1beabd4aaacf984a0747eb2d5
 ---
 
 # 交通DX等労働生産性向上事業
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 支援内容
+
+DX化・利便性向上・キャッシュレス導入経費補助
+
+## 期間
+
+令和8年4月1日～令和9年2月28日
+
+## 問い合わせ
+
+土木部交通政策課地域交通班

@@ -10,9 +10,21 @@ source_updated: null
 license: 無断で複製・転用不可（私的使用・引用を除く）
 attribution: 西宮市「西宮市 高齢者（早引きインデックス）」を加工して作成
 content_sha256: c7e2e954b8e328a98c4fabbfcf283fdfc6e83f30dd699513be9edc25527a0bcd
-facts_sha256: null
+facts_sha256: c7e2e954b8e328a98c4fabbfcf283fdfc6e83f30dd699513be9edc25527a0bcd
 ---
 
 # 在宅医療・介護連携推進の取組み
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+高齢者
+
+## 支援内容
+
+在宅医療・介護連携
+
+## 問い合わせ
+
+福祉のまちづくり課

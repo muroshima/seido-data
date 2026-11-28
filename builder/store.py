@@ -56,17 +56,25 @@ INDEX_COLUMNS = (
 )
 
 
+# index.csv の行（パスを除く）。巡回は取得元を 1 つコミットするたびに一覧を作り直すので、
+# 前回から変わっていないファイル（更新時刻と大きさが同じ）は読み直さない
+_index_rows: dict[Path, tuple[tuple[int, int], list]] = {}
+
+
 def index_csv(root: Path) -> str:
     """seido/index.csv の中身。制度 1 件 1 行で、frontmatter の主な項目を並べる。"""
     out = io.StringIO()
     writer = csv.writer(out, lineterminator="\n")
     writer.writerow(INDEX_COLUMNS)
     for path in sorted((root / "seido").glob("*/*/*/*.md")):
-        front = read_front(path)
-        writer.writerow(
-            [path.relative_to(root).as_posix()]
-            + ["" if front.get(c) is None else front[c] for c in INDEX_COLUMNS[1:]]
-        )
+        st = path.stat()
+        key = (st.st_mtime_ns, st.st_size)
+        cached = _index_rows.get(path)
+        if cached is None or cached[0] != key:
+            front = read_front(path)
+            cached = (key, ["" if front.get(c) is None else front[c] for c in INDEX_COLUMNS[1:]])
+            _index_rows[path] = cached
+        writer.writerow([path.relative_to(root).as_posix(), *cached[1]])
     return out.getvalue()
 
 

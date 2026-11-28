@@ -1,5 +1,6 @@
 import pytest
 
+from builder import store
 from builder.model import Record, Seido, SourceInfo
 from builder.store import write_units
 
@@ -119,3 +120,19 @@ def test_facts_only_source_rejects_text_in_raw(tmp_path):
     r.raw["body"] = PAGE
     with pytest.raises(ValueError, match="body"):
         write_units(tmp_path, FACT, {"131016": [r]})
+
+
+def test_index_csv_rereads_only_changed_files(tmp_path, monkeypatch):
+    """一覧を作り直すとき、前回から変わっていないファイルは読み直さない。"""
+    d = tmp_path / "seido/13/132101/src"
+    d.mkdir(parents=True)
+    (d / "a.md").write_text("---\ntitle: 児童手当\n---\n", encoding="utf-8")
+    (d / "b.md").write_text("---\ntitle: 医療費\n---\n", encoding="utf-8")
+    read = []
+    real = store.read_front
+    monkeypatch.setattr(store, "read_front", lambda p: read.append(p.name) or real(p))
+    first = store.index_csv(tmp_path)
+    (d / "b.md").write_text("---\ntitle: 医療費の助成\n---\n", encoding="utf-8")
+    second = store.index_csv(tmp_path)
+    assert read == ["a.md", "b.md", "b.md"]
+    assert "医療費の助成" in second and "医療費の助成" not in first

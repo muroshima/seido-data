@@ -10,9 +10,17 @@ source_updated: null
 license: 許可なく複製・転用・販売・改変などの二次利用を禁止
 attribution: 川西市「川西市 高齢・介護（ライフシーン）」を加工して作成
 content_sha256: b7207bd70ccc9ffe690af5469c393f156edc0f091dbd20f4126a36f7af9e2ed6
-facts_sha256: null
+facts_sha256: b7207bd70ccc9ffe690af5469c393f156edc0f091dbd20f4126a36f7af9e2ed6
 ---
 
 # 施設サービス
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+要介護1から要介護5
+
+## 支援内容
+
+食事・入浴・排泄など日常生活介助

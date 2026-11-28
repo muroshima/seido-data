@@ -10,9 +10,25 @@ source_updated: null
 license: 不明
 attribution: 新温泉町「新温泉町 児童福祉」を加工して作成
 content_sha256: b2cf24f2c4495a47f1c03849aa1c317ec6a1e3f6b14068dbad8d86ce9e7ff048
-facts_sha256: null
+facts_sha256: b2cf24f2c4495a47f1c03849aa1c317ec6a1e3f6b14068dbad8d86ce9e7ff048
 ---
 
 # ひとり親家庭への支援
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+ひとり親家庭
+
+## 支援内容
+
+離婚後の子の養育支援
+
+## 期間
+
+令和８年４月１日施行
+
+## 問い合わせ
+
+福祉課｜新温泉町役場本庁舎

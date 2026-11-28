@@ -10,9 +10,17 @@ source_updated: null
 license: 無断で複製・転用不可（私的使用・引用を除く）
 attribution: 兵庫県「兵庫県 補助・融資（しごと・産業）」を加工して作成
 content_sha256: 8aba34a2ac74622e7b3a247ffa8ad284319b9988fdadfe647efe32caddd7306e
-facts_sha256: null
+facts_sha256: 8aba34a2ac74622e7b3a247ffa8ad284319b9988fdadfe647efe32caddd7306e
 ---
 
 # 令和4年度応用ステージ研究終了研究プロジェクト事後評価結果
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 支援内容
+
+研究開発支援
+
+## 期間
+
+R3-R4年度

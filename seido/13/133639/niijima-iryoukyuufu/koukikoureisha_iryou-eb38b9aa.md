@@ -10,7 +10,7 @@ source_updated: null
 license: 不明
 attribution: 新島村「医療給付」を加工して作成
 content_sha256: 918944802a22acd92bb8a7bc359eb3c8fb92a14b84cfbf18bfa6c265071b23f9
-facts_sha256: a7e03f3cc2131c8761142b8d2695e15751249f39c9dea223ea92378e2ea48e1a
+facts_sha256: 918944802a22acd92bb8a7bc359eb3c8fb92a14b84cfbf18bfa6c265071b23f9
 ---
 
 # 後期高齢者医療制度について
@@ -23,7 +23,7 @@ facts_sha256: a7e03f3cc2131c8761142b8d2695e15751249f39c9dea223ea92378e2ea48e1a
 
 ## 支援内容
 
-医療費の自己負担（1割〜3割）
+医療費の自己負担額（1割〜3割）
 
 ## 期間
 

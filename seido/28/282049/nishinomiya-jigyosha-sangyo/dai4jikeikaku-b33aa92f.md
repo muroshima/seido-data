@@ -10,9 +10,13 @@ source_updated: null
 license: 無断で複製・転用不可（私的使用・引用を除く）
 attribution: 西宮市「西宮市 産業振興（事業者向け）」を加工して作成
 content_sha256: 41aaa88fde999f174af527aeebdcfdeaf61889572d13e19f54276228f21ae8af
-facts_sha256: null
+facts_sha256: 41aaa88fde999f174af527aeebdcfdeaf61889572d13e19f54276228f21ae8af
 ---
 
 # 第4次西宮市産業振興計画を策定しました
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 問い合わせ
+
+商工課（電話：0798-35-3326）

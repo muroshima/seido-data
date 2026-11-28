@@ -10,7 +10,19 @@ source_updated: null
 license: 政府標準利用規約（第2.0版）準拠（CC BY 4.0互換）
 attribution: 神戸市「神戸市 障害者（児）が利用できる制度」を加工して作成
 content_sha256: 93effaa567b628e094fd23df6fe14e01e8094530e3ff0ea5fc01b0a898661662
-facts_sha256: null
+facts_sha256: 93effaa567b628e094fd23df6fe14e01e8094530e3ff0ea5fc01b0a898661662
 ---
 
 # 医療的ケア児等コーディネーターの配置
+
+## 対象者
+
+医療的ケアが必要な障害児等
+
+## 支援内容
+
+サービス紹介・日常生活・医療・教育・保育支援
+
+## 問い合わせ
+
+神戸市

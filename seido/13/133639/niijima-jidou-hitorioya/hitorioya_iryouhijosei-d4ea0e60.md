@@ -10,7 +10,7 @@ source_updated: null
 license: 不明
 attribution: 新島村「児童・ひとり親の福祉」を加工して作成
 content_sha256: 48e3d5a7bcf92be3b844477050941230115d7c9a77ccbd8a38a9856b1b3e55cb
-facts_sha256: 58fd7427bf970c4c7a859e5a2073b3c4282a5ccf2c987ba1f21e3708c074076e
+facts_sha256: 48e3d5a7bcf92be3b844477050941230115d7c9a77ccbd8a38a9856b1b3e55cb
 ---
 
 # ひとり親家庭等医療費助成（マル親）
@@ -20,10 +20,6 @@ facts_sha256: 58fd7427bf970c4c7a859e5a2073b3c4282a5ccf2c987ba1f21e3708c074076e
 ## 対象者
 
 ひとり親家庭、父母いない家庭、両親のいずれかに障害のある家庭の親と子
-
-## 支援内容
-
-保険診療の一部負担金を助成
 
 ## 問い合わせ
 

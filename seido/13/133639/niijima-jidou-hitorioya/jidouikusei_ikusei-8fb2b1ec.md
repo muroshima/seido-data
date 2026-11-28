@@ -10,7 +10,7 @@ source_updated: null
 license: 不明
 attribution: 新島村「児童・ひとり親の福祉」を加工して作成
 content_sha256: ddbd48727f14a1e87bb1900c7b0d12e58daa5da6b0fb012baca63fdeccf1c5f1
-facts_sha256: 57aff726e5240552b34a3d5b6856c2b44ffe19db3a82aa190c0fc75bf8f5f126
+facts_sha256: ddbd48727f14a1e87bb1900c7b0d12e58daa5da6b0fb012baca63fdeccf1c5f1
 ---
 
 # 児童育成手当（育成）
@@ -19,19 +19,15 @@ facts_sha256: 57aff726e5240552b34a3d5b6856c2b44ffe19db3a82aa190c0fc75bf8f5f126
 
 ## 対象者
 
-18歳未満児童を養育し、父母が離婚・未婚出産・死亡・遺棄・拘禁・重度障がいなど該当する方
+18歳未満児童を養育し、父母が離婚・死亡・障がい・遺棄・拘禁など該当する方
 
 ## 支援内容
 
 児童1人あたり月額13,500円
 
-## 期間
-
-児童が18歳に達するまで
-
 ## 利用方法
 
-民生課または各支所で必要書類を提出
+民生課または各支所で申請
 
 ## 問い合わせ
 

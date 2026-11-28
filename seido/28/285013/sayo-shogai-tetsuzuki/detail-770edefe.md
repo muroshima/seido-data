@@ -10,9 +10,13 @@ source_updated: null
 license: 無断使用・複製・転載・改変を禁止（私的使用・引用を除く）
 attribution: 佐用町「佐用町 障害の手続き・申請・業務一覧」を加工して作成
 content_sha256: 3aa115dbd1f2f487211ce1f3efd14cbcf9a6f993bd975d409741a6c22567462e
-facts_sha256: null
+facts_sha256: 3aa115dbd1f2f487211ce1f3efd14cbcf9a6f993bd975d409741a6c22567462e
 ---
 
 # 第2期佐用町地域福祉計画
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 問い合わせ
+
+健康福祉課 子育て・福祉室

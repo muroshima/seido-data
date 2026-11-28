@@ -4,7 +4,8 @@
 registry: 対応表（registry/）を検証し、カバー状況を書き出し、団体の一覧を生成する。
 update:   対応表の取得元から取り込み、raw/ と seido/ を置き換える。--commit を付けると、
           変化があった取得元ごとに 1 コミット作る。コミット日は「観測日 00:00 JST」。
-index:    seido/ の制度ファイルから一覧（seido/index.csv）を作り直す。update は自動で作り直す。
+index:    seido/ の制度ファイルから都道府県ごとの一覧（seido/<都道府県>/index.csv）を作り直す。
+          update は自動で作り直す。
 fill:     GPU が空いている間に、update が抽出を見送ったページだけを取り直して LLM に回す。
 trial:    取得元の候補を書き込まずに試し取りし、採否を出す。--apply で対応表に反映する。
 regress:  取り込み方を変えたとき、新旧のコードで取得元ごとの結果を比べる。
@@ -86,7 +87,7 @@ def main(argv: list[str] | None = None) -> int:
         metavar="SOURCE_ID",
         help="制度ページが前回より大きく減っても書き込む取得元（複数可）",
     )
-    sub.add_parser("index", help="seido/index.csv（制度の一覧）を作り直す")
+    sub.add_parser("index", help="seido/<都道府県>/index.csv（制度の一覧）を作り直す")
     fl = sub.add_parser(
         "fill", help="巡回はせず、制度の情報をまだ取り出していないページだけを LLM に回す"
     )

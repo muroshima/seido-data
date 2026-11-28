@@ -6,7 +6,8 @@ content_sha256 と食い違う facts_sha256（または空）を持って残る�
 
 - 取り直したページの本文が、前回の巡回のときと同じ（content_sha256 が一致する）ときだけ取り出す。
   変わっていたら触らない。本文の変化は次の巡回で観測として記録する
-- 書き換えるのは seido/ の Markdown の項目と facts_sha256 だけ。raw/ と一覧（index.csv）は変わらない
+- 書き換えるのは seido/ の Markdown の項目と facts_sha256 だけ。raw/ と一覧（index.csv）は
+  変わらない
 - GPU は Kaggle のジョブを優先する。ロックは CHUNK 秒ごとに手放し、その間に Kaggle のジョブが
   ロックを取っていたら、そこでやめる。初めから GPU が空いていなければ何もしない
 """

@@ -40,10 +40,10 @@ English summary is [below](#english).
 
 ### 一覧から探す
 
-[seido/index.csv](seido/index.csv) は制度 1 件 1 行の一覧です。列は [docs/schema.md](docs/schema.md#indexcsv) にあります。
+`seido/<都道府県コード2桁>/index.csv` は、その都道府県の制度 1 件 1 行の一覧です（例: 東京都は [seido/13/index.csv](seido/13/index.csv)）。列は [docs/schema.md](docs/schema.md#indexcsv) にあります。2026-11-28 までは全国で 1 つの `seido/index.csv` でした。
 
 ```sh
-curl -sL https://raw.githubusercontent.com/muroshima/seido-data/main/seido/index.csv -o index.csv
+curl -sL https://raw.githubusercontent.com/muroshima/seido-data/main/seido/13/index.csv -o index.csv
 ```
 
 ```python
@@ -66,14 +66,14 @@ git log --format='%ad %s' --date=short --grep='^Source: hachioji-shogai-teate$'
 git show "$(git rev-list -1 --before=2026-11-19T00:00:00+09:00 main)":seido/13/132098/machida-shogai-teate/20211116-tokuji-67bb17b1.md
 ```
 
-`seido/index.csv` は 2026-11-21 から置いています。それより前の時点の一覧は、その時点の `seido/` を読んで作ってください（`git checkout <コミット> && uv run seido index`）。
+一覧は 2026-11-21 から置いています（2026-11-28 までは `seido/index.csv`）。それより前の時点の一覧は、その時点の `seido/` を読んで作ってください（`git checkout <コミット> && uv run seido index`）。
 
 `--filter=blob:none` で clone すると、最初は履歴だけを取り、ファイルの中身は必要になったときに取ります。全部取ると約 30 MB です。
 
 ## ファイルの構成
 
 ```
-seido/index.csv                                        制度の一覧
+seido/<都道府県コード2桁>/index.csv                      その都道府県の制度の一覧
 seido/<都道府県コード2桁>/<団体コード6桁>/<source_id>/<ID>.md   制度 1 件
 raw/<source_id>/<団体コード6桁>/<ID>.json                     取得元のレコード
 registry/                                              団体と取得元の対応表
@@ -97,7 +97,7 @@ Builder-Version: 0.1.0
 
 - コミット日（author と committer）は観測日の 00:00 JST です。施行日ではありません。
 - trailer は `git log --format='%(trailers:key=Source,valueonly)'` で取り出せます。
-- `seido/index.csv` は、制度ファイルと同じコミットで更新します。どのコミットを取り出しても、一覧と制度ファイルが一致します。
+- 一覧（`seido/<都道府県>/index.csv`）は、制度ファイルと同じコミットで更新します。どのコミットを取り出しても、一覧と制度ファイルが一致します。
 - 取得元から消えた制度は、そのコミットでファイルが削除されます。
 - 制度の情報（対象者・支援内容など）は、巡回のあとに別のコミット（trailer が `Observed` ではなく `Extracted`）で埋めます。書式は [docs/schema.md](docs/schema.md#コミット) にあります。
 - `main` は force-push しません。コミットの SHA は変わりません。
@@ -119,7 +119,7 @@ Builder-Version: 0.1.0
 
 - 制度のデータ（`seido/`・`raw/`）の出典は、各ファイルの `attribution` にあります。再利用するときは、その出典も表示してください。
 - 本文を置いているのは、CC BY・公共データ利用規約（PDL 1.0）・千代田区ホームページ利用規約の取得元だけです。
-- このリポジトリが作ったデータ（`registry/`、`seido/` の構成、取り出した項目、`seido/index.csv`）: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
+- このリポジトリが作ったデータ（`registry/`、`seido/` の構成、取り出した項目、`seido/*/index.csv`）: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
 - コード（`builder/`・`tests/`）: [MIT](LICENSE)
 - 無保証です。このデータを使って生じた損害について、作者は責任を負いません。
 
@@ -143,7 +143,7 @@ uv run pytest
 
 **seido** records Japanese public support programs (benefits, subsidies, grants, fee reductions, loans, in-kind support) as git history. Each commit is the change observed in one source on one day, and the commit date is the observation date (00:00 JST).
 
-- `seido/index.csv`: one row per program (path, municipality code and name, title, monetary/in-kind, source, URL, license, attribution). See [docs/schema.md](docs/schema.md).
+- `seido/<prefecture code>/index.csv`: one row per program in that prefecture (path, municipality code and name, title, monetary/in-kind, source, URL, license, attribution). See [docs/schema.md](docs/schema.md).
 - `seido/<pref>/<municipality>/<source>/<id>.md`: one program, YAML frontmatter plus sections in Japanese.
 - Coverage (2026-11-28): 35,093 programs from 702 municipalities and 14 prefectural governments. Sources are registered for all 47 prefectures and 1,324 of 1,741 municipalities; programs for newly added regions appear as the daily crawl reaches them. History starts on 2026-11-13.
 - For sources that forbid redistribution, only short facts extracted by a local LLM are kept, not the original text.

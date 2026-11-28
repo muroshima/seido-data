@@ -198,7 +198,7 @@ def test_ollama_failure_is_not_treated_as_busy_gpu(repo, monkeypatch):
 
 
 def test_index_is_committed_with_the_source(repo):
-    """制度の一覧（seido/index.csv）は、制度ファイルと同じコミットで更新する。"""
+    """制度の一覧（seido/<都道府県>/index.csv）は、制度ファイルと同じコミットで更新する。"""
     root, run = repo
     assert cli.main(["--root", str(root), "update", "tokyo-ods-support-132101", "--commit"]) == 0
     files = subprocess.run(
@@ -207,8 +207,9 @@ def test_index_is_committed_with_the_source(repo):
         capture_output=True,
         text=True,
     ).stdout.split()
-    assert "seido/index.csv" in files
-    lines = (root / "seido/index.csv").read_text(encoding="utf-8").splitlines()
+    assert "seido/13/index.csv" in files
+    assert not (root / "seido/index.csv").exists()
+    lines = (root / "seido/13/index.csv").read_text(encoding="utf-8").splitlines()
     assert lines[0].startswith("path,lg_code,lg_name,title,")
     assert lines[1].startswith(
         "seido/13/132101/tokyo-ods-support-132101/a.md,132101,小金井市,a,金銭,"
@@ -216,11 +217,15 @@ def test_index_is_committed_with_the_source(repo):
 
 
 def test_repository_index_is_fresh():
-    """コミットされている seido/index.csv が制度ファイルと一致すること。"""
-    from builder.store import index_csv
+    """コミットされている seido/<都道府県>/index.csv が制度ファイルと一致すること。"""
+    from builder.store import index_csv, index_prefs
 
-    actual = (ROOT / "seido" / "index.csv").read_text(encoding="utf-8")
-    assert actual == index_csv(ROOT), "uv run seido index で作り直す"
+    prefs = index_prefs(ROOT)
+    assert sorted(p.parent.name for p in (ROOT / "seido").glob("*/index.csv")) == prefs
+    assert not (ROOT / "seido" / "index.csv").exists()
+    for pref in prefs:
+        actual = (ROOT / "seido" / pref / "index.csv").read_text(encoding="utf-8")
+        assert actual == index_csv(ROOT, pref), "uv run seido index で作り直す"
 
 
 def test_sources_are_submitted_round_robin_by_host():

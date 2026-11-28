@@ -131,8 +131,8 @@ def test_index_csv_rereads_only_changed_files(tmp_path, monkeypatch):
     read = []
     real = store.read_front
     monkeypatch.setattr(store, "read_front", lambda p: read.append(p.name) or real(p))
-    first = store.index_csv(tmp_path)
+    first = store.index_csv(tmp_path, "13")
     (d / "b.md").write_text("---\ntitle: 医療費の助成\n---\n", encoding="utf-8")
-    second = store.index_csv(tmp_path)
+    second = store.index_csv(tmp_path, "13")
     assert read == ["a.md", "b.md", "b.md"]
     assert "医療費の助成" in second and "医療費の助成" not in first

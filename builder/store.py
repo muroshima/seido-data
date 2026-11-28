@@ -61,12 +61,12 @@ INDEX_COLUMNS = (
 _index_rows: dict[Path, tuple[tuple[int, int], list]] = {}
 
 
-def index_csv(root: Path) -> str:
-    """seido/index.csv の中身。制度 1 件 1 行で、frontmatter の主な項目を並べる。"""
+def index_csv(root: Path, pref: str) -> str:
+    """seido/<pref>/index.csv の中身。制度 1 件 1 行で、frontmatter の主な項目を並べる。"""
     out = io.StringIO()
     writer = csv.writer(out, lineterminator="\n")
     writer.writerow(INDEX_COLUMNS)
-    for path in sorted((root / "seido").glob("*/*/*/*.md")):
+    for path in sorted((root / "seido" / pref).glob("*/*/*.md")):
         st = path.stat()
         key = (st.st_mtime_ns, st.st_size)
         cached = _index_rows.get(path)
@@ -78,8 +78,23 @@ def index_csv(root: Path) -> str:
     return out.getvalue()
 
 
+def index_prefs(root: Path) -> list[str]:
+    """制度ファイルのある都道府県のコード。"""
+    return sorted({p.parent.parent.parent.name for p in (root / "seido").glob("*/*/*/*.md")})
+
+
 def write_index(root: Path) -> None:
-    (root / "seido" / "index.csv").write_text(index_csv(root), encoding="utf-8")
+    """都道府県ごとの一覧を作り直す。制度ファイルが無くなった都道府県の一覧は消す。"""
+    prefs = index_prefs(root)
+    for old in (root / "seido").glob("*/index.csv"):
+        if old.parent.name not in prefs:
+            old.unlink()
+    (root / "seido" / "index.csv").unlink(missing_ok=True)  # 2026-11-28 までの全国の一覧
+    for pref in prefs:
+        path = root / "seido" / pref / "index.csv"
+        text = index_csv(root, pref)
+        if not path.exists() or path.read_text(encoding="utf-8") != text:
+            path.write_text(text, encoding="utf-8")
 
 
 def read_sections(path: Path) -> dict[str, str]:

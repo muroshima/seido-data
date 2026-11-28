@@ -10,9 +10,17 @@ source_updated: null
 license: 無断で複製・転用不可
 attribution: 明石市「明石市 商工業」を加工して作成
 content_sha256: 53aa3ffe01522a2ea6e6fe0daf97c42b57beb8250d23274c4e06e841d9928931
-facts_sha256: null
+facts_sha256: 53aa3ffe01522a2ea6e6fe0daf97c42b57beb8250d23274c4e06e841d9928931
 ---
 
 # 「明石市工場緑化等に関するガイドライン」について
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+工場等
+
+## 利用方法
+
+ダウンロード

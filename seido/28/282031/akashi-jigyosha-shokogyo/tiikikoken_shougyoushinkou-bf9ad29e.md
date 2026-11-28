@@ -10,9 +10,21 @@ source_updated: null
 license: 無断で複製・転用不可
 attribution: 明石市「明石市 商工業」を加工して作成
 content_sha256: 310822f43a757c25b4a073a4cd5a0eaa8cf233f15d57aa2fa929d1e90cacb756
-facts_sha256: null
+facts_sha256: 310822f43a757c25b4a073a4cd5a0eaa8cf233f15d57aa2fa929d1e90cacb756
 ---
 
 # 明石市の商業者による地域貢献事業の実施状況について
 
 取得元の利用規約により本文は掲載せず、制度の情報だけを取り出しています。正確な内容は `url` のページで確かめてください。
+
+## 対象者
+
+商業者
+
+## 期間
+
+2026年度
+
+## 利用方法
+
+提出書類による報告
